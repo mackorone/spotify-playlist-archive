@@ -31,6 +31,32 @@
     {
       "album": {
         "name": "Debussy/Ravel/Ysa\u00ffe: Violin Sonatas/Prokofiev: 5 M\u00e9lodies",
+        "url": "https://open.spotify.com/album/1qJ0rtjjes3quyqAuFtoD6"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "David Oistrakh",
+          "url": "https://open.spotify.com/artist/7o2OjTu0Ls0xiWl3RzjdVp"
+        },
+        {
+          "name": "Frida Bauer",
+          "url": "https://open.spotify.com/artist/0XMn54z5mcLJqYfDrsk3HW"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "5 M\u00e9lodies, Op. 35bis: 1. Andante",
+      "url": "https://open.spotify.com/track/5NlGfUTpUWMrAWeUvUDw7m"
+    },
+    {
+      "album": {
+        "name": "Debussy/Ravel/Ysa\u00ffe: Violin Sonatas/Prokofiev: 5 M\u00e9lodies",
         "url": "https://open.spotify.com/album/4mJINkMsFJSIivM7aYbxcn"
       },
       "artists": [
@@ -49,10 +75,44 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136000,
       "name": "5 M\u00e9lodies, Op.35bis: 1. Andante",
       "url": "https://open.spotify.com/track/1ilE2fBlGYlRSWpjFFip8k"
+    },
+    {
+      "album": {
+        "name": "Prokofiev, S.: Alexander Nevsky / Pushkiniana",
+        "url": "https://open.spotify.com/album/0RAEQOokpwbrndQEisUqUN"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Irina Gelahova",
+          "url": "https://open.spotify.com/artist/7BEaCOD8lkWVu0wRCFYU9Y"
+        },
+        {
+          "name": "Stanislavsky Chorus",
+          "url": "https://open.spotify.com/artist/6Rxsw6sferqwkHkpmQHyd3"
+        },
+        {
+          "name": "Russian State Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0DJZPK3nRWESIS0yexi6Qi"
+        },
+        {
+          "name": "Dmitry Yablonsky",
+          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164520,
+      "name": "Alexander Nevsky: II. Song about Alexander Nevsky",
+      "url": "https://open.spotify.com/track/0NkSzjTEQvubD9ZTCXZreS"
     },
     {
       "album": {
@@ -83,7 +143,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164520,
       "name": "Alexander Nevsky: II. Song about Alexander Nevsky",
       "url": "https://open.spotify.com/track/5mP4oXhlh9ixLA5Y9b19OY"
@@ -117,10 +177,78 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223920,
       "name": "Alexander Nevsky: VII. Alexander's Entry into Pskov",
       "url": "https://open.spotify.com/track/0zseXi4lQ0G8dLIN5AKOsM"
+    },
+    {
+      "album": {
+        "name": "Prokofiev, S.: Alexander Nevsky / Pushkiniana",
+        "url": "https://open.spotify.com/album/0RAEQOokpwbrndQEisUqUN"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Irina Gelahova",
+          "url": "https://open.spotify.com/artist/7BEaCOD8lkWVu0wRCFYU9Y"
+        },
+        {
+          "name": "Stanislavsky Chorus",
+          "url": "https://open.spotify.com/artist/6Rxsw6sferqwkHkpmQHyd3"
+        },
+        {
+          "name": "Russian State Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0DJZPK3nRWESIS0yexi6Qi"
+        },
+        {
+          "name": "Dmitry Yablonsky",
+          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223920,
+      "name": "Alexander Nevsky: VII. Alexander's Entry into Pskov",
+      "url": "https://open.spotify.com/track/3q4dTReXRAnvaNvEOYNCJ0"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Symphony-Concerto / Cello Concertino / Pushkin Waltzes",
+        "url": "https://open.spotify.com/album/7k2lZhfAUN3qhgu54AvMyQ"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Vladimir Blok",
+          "url": "https://open.spotify.com/artist/6VyykuSiAXOH1Yttzz1bH5"
+        },
+        {
+          "name": "Alexander Rudin",
+          "url": "https://open.spotify.com/artist/4EpHVPA3kl6dxqOMgCAvQU"
+        },
+        {
+          "name": "Ukraine National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0yqwhapWYzRkT5u7fcI5Ai"
+        },
+        {
+          "name": "Theodore Kuchar",
+          "url": "https://open.spotify.com/artist/7oFubvRIriTCF1yfzJm5RC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552560,
+      "name": "Cello Concertino in G Minor, Op. 132 (arr. V. Blok): I. Andante mosso",
+      "url": "https://open.spotify.com/track/3VgryH3xdhOL5b6h3PAEgh"
     },
     {
       "album": {
@@ -147,10 +275,36 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 552560,
       "name": "Cello Concertino in G Minor, Op. 132: I. Andante mosso (Arr. V. Blok for cello and orchestra)",
       "url": "https://open.spotify.com/track/3I6EDGgL6PG9koPunK6hap"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: String Quartets Nos. 1 and 2 / Cello Sonata",
+        "url": "https://open.spotify.com/album/1cnO1zkZWg7MukUNGGiJOD"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Michael Grebanier",
+          "url": "https://open.spotify.com/artist/3A2hkNzeO4L3bMhZ2uCOpD"
+        },
+        {
+          "name": "Janet Guggenheim",
+          "url": "https://open.spotify.com/artist/4fv0tWFLS6MZvhFcQbUajS"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 662800,
+      "name": "Cello Sonata in C Major, Op. 119: I. Andante grave",
+      "url": "https://open.spotify.com/track/4mUOiZEjbpb1sv0S0HnEyj"
     },
     {
       "album": {
@@ -173,7 +327,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 662800,
       "name": "Cello Sonata in C Major, Op. 119: I. Andante grave",
       "url": "https://open.spotify.com/track/7jK40txdztUX1URV5z3fMn"
@@ -207,6 +361,32 @@
     {
       "album": {
         "name": "Prokofiev: Cinderella Suites / Scythian Suite",
+        "url": "https://open.spotify.com/album/7idNLP5D3CCaAEgCfyVm8f"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Ukrainian State Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0Q1ZpNiiMqVSKWCF3VcoGH"
+        },
+        {
+          "name": "Theodore Kuchar",
+          "url": "https://open.spotify.com/artist/7oFubvRIriTCF1yfzJm5RC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "Cinderella-Suite Nr. 1, Op. 107: I. Introduction",
+      "url": "https://open.spotify.com/track/02XxZCWbIjpn2Qtds78a6i"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Cinderella Suites / Scythian Suite",
         "url": "https://open.spotify.com/album/4t8CFPtMWTmLtEzNfN0HxU"
       },
       "artists": [
@@ -225,7 +405,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177333,
       "name": "Cinderella-Suite Nr. 1, Op. 107: I. Introduction",
       "url": "https://open.spotify.com/track/325Nvx1qlEn3cEnrhAnn3N"
@@ -233,7 +413,7 @@
     {
       "album": {
         "name": "Prokofiev: Cinderella Suites / Scythian Suite",
-        "url": "https://open.spotify.com/album/4t8CFPtMWTmLtEzNfN0HxU"
+        "url": "https://open.spotify.com/album/7idNLP5D3CCaAEgCfyVm8f"
       },
       "artists": [
         {
@@ -249,12 +429,12 @@
           "url": "https://open.spotify.com/artist/7oFubvRIriTCF1yfzJm5RC"
         }
       ],
-      "date_added": "2021-01-29",
+      "date_added": "2022-07-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 319000,
       "name": "Cinderella-Suite Nr. 1, Op. 107: IV. Fairy Godmother and Fairy Winter",
-      "url": "https://open.spotify.com/track/48kIhkMurx7616PSLqomtc"
+      "url": "https://open.spotify.com/track/3sIFkR2uS8Rc8mObS8216y"
     },
     {
       "album": {
@@ -277,10 +457,80 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 319000,
+      "name": "Cinderella-Suite Nr. 1, Op. 107: IV. Fairy Godmother and Fairy Winter",
+      "url": "https://open.spotify.com/track/48kIhkMurx7616PSLqomtc"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Cinderella Suites / Scythian Suite",
+        "url": "https://open.spotify.com/album/7idNLP5D3CCaAEgCfyVm8f"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Ukrainian State Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0Q1ZpNiiMqVSKWCF3VcoGH"
+        },
+        {
+          "name": "Theodore Kuchar",
+          "url": "https://open.spotify.com/artist/7oFubvRIriTCF1yfzJm5RC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164400,
       "name": "Cinderella-Suite Nr. 1, Op. 107: VII. Cinderella's Waltz",
+      "url": "https://open.spotify.com/track/1qq2EH18tQjsnbu7LOnFYw"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Cinderella Suites / Scythian Suite",
+        "url": "https://open.spotify.com/album/4t8CFPtMWTmLtEzNfN0HxU"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Ukrainian State Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0Q1ZpNiiMqVSKWCF3VcoGH"
+        },
+        {
+          "name": "Theodore Kuchar",
+          "url": "https://open.spotify.com/artist/7oFubvRIriTCF1yfzJm5RC"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 164400,
+      "name": "Cinderella-Suite Nr. 1, Op. 107: VII. Cinderella's Waltz",
       "url": "https://open.spotify.com/track/2ymFV7Hh49qNrIER5gdVKN"
+    },
+    {
+      "album": {
+        "name": "The Instruments Of The Orchestra",
+        "url": "https://open.spotify.com/album/4ia7E5yMNPXJKOjnAgp6M6"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Siepmann",
+          "url": "https://open.spotify.com/artist/3ITUyK8dCUQZjxuaEfdms4"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46733,
+      "name": "Instruments Of The Orchestra: Prokofiev: Peter And The Wolf: Grandfather",
+      "url": "https://open.spotify.com/track/3x82HfARa8k6fC8i0Rz91N"
     },
     {
       "album": {
@@ -307,10 +557,40 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167493,
       "name": "Ivan the Terrible: 8a. Glorification",
       "url": "https://open.spotify.com/track/2selO2QLLvt34lb5yCFfRS"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Ivan the Terrible",
+        "url": "https://open.spotify.com/album/0TUDxydOAettGJpYh038xq"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Mariinsky Chorus",
+          "url": "https://open.spotify.com/artist/2esGRwnpJhd1gztq6qrbpO"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167493,
+      "name": "Ivan the Terrible: 8a. Glorification",
+      "url": "https://open.spotify.com/track/30BK32YxGaEjIywZYaQmp4"
     },
     {
       "album": {
@@ -341,6 +621,32 @@
     {
       "album": {
         "name": "Prokofiev: Alexander Nevsky; Scythian Suite; Lieutenant Kij\u00e9",
+        "url": "https://open.spotify.com/album/4mJyaYqgM43JAS2jNnLnH7"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Lieutenant Kij\u00e9, Symphonic Suite, Op. 60: IV. Tro\u00efka",
+      "url": "https://open.spotify.com/track/0vAuvor57Kozo21tSnfLGY"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Alexander Nevsky; Scythian Suite; Lieutenant Kij\u00e9",
         "url": "https://open.spotify.com/album/02VP1KrctG3zMJaZJCF85r"
       },
       "artists": [
@@ -359,7 +665,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164000,
       "name": "Lieutenant Kij\u00e9, Symphonic Suite, Op.60: 4. Tro\u00efka",
       "url": "https://open.spotify.com/track/6eOZE6oyuZxEsIFbI8zpDM"
@@ -407,10 +713,36 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 420000,
       "name": "On the Dnieper Suite, Op. 51bis: III. The Betrothal",
       "url": "https://open.spotify.com/track/1hMKi1tCas3eQr01DqRPxc"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Cinderella Suites / Scythian Suite",
+        "url": "https://open.spotify.com/album/7idNLP5D3CCaAEgCfyVm8f"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Ukrainian State Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0Q1ZpNiiMqVSKWCF3VcoGH"
+        },
+        {
+          "name": "Theodore Kuchar",
+          "url": "https://open.spotify.com/artist/7oFubvRIriTCF1yfzJm5RC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420000,
+      "name": "On the Dnieper Suite, Op. 51bis: III. The Betrothal",
+      "url": "https://open.spotify.com/track/3ZIf5ut1hX0XsLs5JGMY96"
     },
     {
       "album": {
@@ -489,10 +821,70 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 47200,
       "name": "Peter and the Wolf, Op. 67: Grandfather",
       "url": "https://open.spotify.com/track/4YVoywi2kkTWsRT8wN6Tvy"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Piano Concerto No. 2 in G minor, Op.16, Ravel: Piano Concerto in G major",
+        "url": "https://open.spotify.com/album/0fDQ95grFC5hOYKrcPSUWw"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "YUNDI",
+          "url": "https://open.spotify.com/artist/1T6BHJnhY5xIVvZKzV5f2u"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 662800,
+      "name": "Piano Concerto No. 2 in G minor, Op. 16: 4. Finale (Allegro tempestoso)",
+      "url": "https://open.spotify.com/track/46m1Ukc5okavdP4ZCA3cpa"
+    },
+    {
+      "album": {
+        "name": "Rachmaninov: Piano Concerto No.3 In D Minor, Op.30 / Prokofiev: Piano Concerto No.2 In G Minor, Op.16 (Live From Caracas / 2013)",
+        "url": "https://open.spotify.com/album/2J6Ynk1tSzkdKGU1vdDa3h"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 661800,
+      "name": "Piano Concerto No. 2 in G Minor, Op. 16: I. Andantino - Live",
+      "url": "https://open.spotify.com/track/25H2kfJLEnPEH5YHFeaa1d"
     },
     {
       "album": {
@@ -519,7 +911,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 661800,
       "name": "Piano Concerto No. 2 in G Minor, Op. 16: I. Andantino - Live",
       "url": "https://open.spotify.com/track/46MazE6sbjUtLO1qMEorga"
@@ -586,6 +978,66 @@
     },
     {
       "album": {
+        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
+        "url": "https://open.spotify.com/album/7yyF5wduZBFhlkCM5edNr9"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 564640,
+      "name": "Piano Concerto No. 3 in C, Op. 26: 1. Andante - Allegro",
+      "url": "https://open.spotify.com/track/1oWn3jO28LTRODX5XxAbGQ"
+    },
+    {
+      "album": {
+        "name": "A Season of Music: Prokofiev",
+        "url": "https://open.spotify.com/album/25oN23jVh0LRVpoSIB0isG"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564640,
+      "name": "Piano Concerto No. 3 in C, Op. 26: 1. Andante - Allegro",
+      "url": "https://open.spotify.com/track/2b9jjrVhyalVAu9jmlH5eG"
+    },
+    {
+      "album": {
         "name": "Prokofiev: Piano Concertos Nos. 2 & 4",
         "url": "https://open.spotify.com/album/736Sjl8KvjLmu59ZKz9Vqs"
       },
@@ -642,36 +1094,6 @@
     },
     {
       "album": {
-        "name": "Prokofiev: Piano Concerto No. 2 in G minor, Op.16, Ravel: Piano Concerto in G major",
-        "url": "https://open.spotify.com/album/0fDQ95grFC5hOYKrcPSUWw"
-      },
-      "artists": [
-        {
-          "name": "Sergei Prokofiev",
-          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
-        },
-        {
-          "name": "YUNDI",
-          "url": "https://open.spotify.com/artist/1T6BHJnhY5xIVvZKzV5f2u"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Seiji Ozawa",
-          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
-        }
-      ],
-      "date_added": "2021-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 662800,
-      "name": "Piano Concerto No.2 in G minor, Op.16: 4. Finale (Allegro tempestoso)",
-      "url": "https://open.spotify.com/track/46m1Ukc5okavdP4ZCA3cpa"
-    },
-    {
-      "album": {
         "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
         "url": "https://open.spotify.com/album/5hOFetItodSTqXX2uKz5Pa"
       },
@@ -695,10 +1117,32 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 564640,
       "name": "Piano Concerto No.3 in C, Op.26: 1. Andante - Allegro",
       "url": "https://open.spotify.com/track/3QqPgzOcv9titKufFR0gsQ"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Piano Sonatas Nos. 1, 3 and 4",
+        "url": "https://open.spotify.com/album/5vPwgsaT2VqPzfb0pdC2Al"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Bernd Glemser",
+          "url": "https://open.spotify.com/artist/0OCB739kEu37yjT5VBLPEW"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461160,
+      "name": "Piano Sonata No. 3 in A Minor, Op. 28",
+      "url": "https://open.spotify.com/track/5kxjwMzoXohv8LTotkGzOa"
     },
     {
       "album": {
@@ -717,7 +1161,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 461160,
       "name": "Piano Sonata No. 3 in A Minor, Op. 28",
       "url": "https://open.spotify.com/track/6bVKdau9KfbaNhK8zn9BzF"
@@ -746,6 +1190,28 @@
     },
     {
       "album": {
+        "name": "Prokofiev: Piano Sonatas Nos. 5, 6 and 9",
+        "url": "https://open.spotify.com/album/3sgxVrUYMOLVDyBSTX2ndP"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Bernd Glemser",
+          "url": "https://open.spotify.com/artist/0OCB739kEu37yjT5VBLPEW"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261640,
+      "name": "Piano Sonata No. 5 in C Major, Op. 38: II. Andantino",
+      "url": "https://open.spotify.com/track/0oO786lfrfP5juotmd62GW"
+    },
+    {
+      "album": {
         "name": "PROKOFIEV: Piano Sonatas Nos. 5, 6 and 9",
         "url": "https://open.spotify.com/album/7sPzjjpYCvjWJohzXowzqv"
       },
@@ -761,10 +1227,32 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261640,
       "name": "Piano Sonata No. 5 in C Major, Op. 38: II. Andantino",
       "url": "https://open.spotify.com/track/1VCM9TxRhQavyQXOtcw3yG"
+    },
+    {
+      "album": {
+        "name": "Prokofiev, S.: Piano Sonatas Nos. 2, 7 and 8",
+        "url": "https://open.spotify.com/album/6c6H6mD1E0iRT0XxOozcOO"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Bernd Glemser",
+          "url": "https://open.spotify.com/artist/0OCB739kEu37yjT5VBLPEW"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254600,
+      "name": "Piano Sonata No. 8 in B-Flat Major, Op. 84: II. Andante sognando",
+      "url": "https://open.spotify.com/track/6cKvpnvp7hpBWTMOv5qQfI"
     },
     {
       "album": {
@@ -783,10 +1271,32 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254600,
       "name": "Piano Sonata No. 8 in B-Flat Major, Op. 84: II. Andante sognando",
       "url": "https://open.spotify.com/track/73CGhBGmUJU32HmSTRpi6V"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Piano Sonatas Nos. 5, 6 and 9",
+        "url": "https://open.spotify.com/album/3sgxVrUYMOLVDyBSTX2ndP"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Bernd Glemser",
+          "url": "https://open.spotify.com/artist/0OCB739kEu37yjT5VBLPEW"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490760,
+      "name": "Piano Sonata No. 9 in C Major, Op. 103: III. Andante tranquillo",
+      "url": "https://open.spotify.com/track/36SR80SUzApCUCKr9PGPJS"
     },
     {
       "album": {
@@ -805,7 +1315,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 490760,
       "name": "Piano Sonata No. 9 in C Major, Op. 103: III. Andante tranquillo",
       "url": "https://open.spotify.com/track/68TyxpQpHMIGJV0kvGJnpX"
@@ -943,7 +1453,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 154466,
       "name": "Prokofiev: Romeo and Juliet, Op. 64, Act 1, Scene 1: The Fight",
       "url": "https://open.spotify.com/track/0ERKeNTkXbSGrxB0jGbJZ6"
@@ -1002,6 +1512,32 @@
     },
     {
       "album": {
+        "name": "Prokofiev: Cinderella - Ballet/Symphony No. 1",
+        "url": "https://open.spotify.com/album/243y0T5l6b8nWrbcSoLhRS"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249960,
+      "name": "Prokofiev: Symphony No. 1 in D Major, Op. 25 \"Classical\": II. Larghetto",
+      "url": "https://open.spotify.com/track/6LhU5uEFvWc3Nhfjo1gIgs"
+    },
+    {
+      "album": {
         "name": "Prokofiev: Symphonies 1 & 7, Lieutenant Kije",
         "url": "https://open.spotify.com/album/6E9nFhJO78Mo7rgTUzMOqW"
       },
@@ -1021,9 +1557,9 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250506,
-      "name": "Prokofiev: Symphony No. 1 in D Major, Op. 25, \"Classical\": II. Larghetto",
+      "name": "Prokofiev: Symphony No. 1 in D Major, Op. 25 \"Classical\": II. Larghetto",
       "url": "https://open.spotify.com/track/6iMgWbghIWXSBdA7O6FJK0"
     },
     {
@@ -1140,6 +1676,28 @@
     },
     {
       "album": {
+        "name": "Prokofiev: Romeo and Juliet, Op. 64 (Excerpts)",
+        "url": "https://open.spotify.com/album/6MdafMWKnrfVhPIinp5kpG"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77693,
+      "name": "Romeo and Juliet, Op. 64 (Excerpts): Act I, Scene 2, No. 19: The Balcony Scene",
+      "url": "https://open.spotify.com/track/5Twd5NmCAjuPImcbD0Weol"
+    },
+    {
+      "album": {
         "name": "Prokofiev: Romeo & Juliet - Highlights",
         "url": "https://open.spotify.com/album/4TPy1jWQxk2n9PhMwgtU9E"
       },
@@ -1155,7 +1713,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 77693,
       "name": "Romeo and Juliet, Op. 64 (Excerpts): The Balcony Scene",
       "url": "https://open.spotify.com/track/0FcEHMug135UWqWsP40k3v"
@@ -1189,6 +1747,32 @@
     {
       "album": {
         "name": "Prokofiev: Symphony No. 3, Op. 44 & Scythian Suite, Op. 20",
+        "url": "https://open.spotify.com/album/7vl829JmzNb1Ht3Hdp35vN"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Orquestra Sinf\u00f4nica Do Estado De S\u00e3o Paulo",
+          "url": "https://open.spotify.com/artist/3NhV0B71sAoZu1FGHG4bK4"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359986,
+      "name": "Scythian Suite, Op. 20 \"Ala i Lolli\": III. La nuit (Night)",
+      "url": "https://open.spotify.com/track/2s2nIhojkqze0UBTDUagvY"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Symphony No. 3, Op. 44 & Scythian Suite, Op. 20",
         "url": "https://open.spotify.com/album/2dfcuFHxZKrBEwNbJ4dH5B"
       },
       "artists": [
@@ -1207,10 +1791,36 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 359986,
       "name": "Scythian Suite, Op. 20 \"Ala i Lolli\": III. Night",
       "url": "https://open.spotify.com/track/726qiWRPi3ESEewzW3YdRd"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: The Symphonies, etc.",
+        "url": "https://open.spotify.com/album/5yWKNJTeOeOh86NJHCwhmO"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Walter Weller",
+          "url": "https://open.spotify.com/artist/2bpDCQfn40ougxvt0dz7dJ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159866,
+      "name": "Scythian Suite, Op. 20 - \"Ala and Lolly\": 2. The Evil God And Dance Of The Pagan Monsters",
+      "url": "https://open.spotify.com/track/4qdM4OmddiyTRFygcxeWg2"
     },
     {
       "album": {
@@ -1233,7 +1843,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159866,
       "name": "Scythian Suite, Op.20 - \"Ala and Lolly\": 2. The Evil God And Dance Of The Pagan Monsters",
       "url": "https://open.spotify.com/track/20hVyJfG3arZ4vsuqMKC1V"
@@ -1263,10 +1873,36 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 665133,
       "name": "Sinfonia concertante in E Minor, Op. 125: III. Andante con moto - Allegretto - Allegro marcato",
       "url": "https://open.spotify.com/track/6X3mjF0NzB58vTg2iOwfoK"
+    },
+    {
+      "album": {
+        "name": "Prokofiev",
+        "url": "https://open.spotify.com/album/6wkIRuQegA8rxOw1BA5Hu5"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Janine Jansen",
+          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
+        },
+        {
+          "name": "Itamar Golan",
+          "url": "https://open.spotify.com/artist/2idBst8P3vn2RRBc3UOcwu"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460506,
+      "name": "Sonata for Violin and Piano No.1 in F minor, Op.80: 3. Andante",
+      "url": "https://open.spotify.com/track/5upScZ85lrIoOumPdTrUdZ"
     },
     {
       "album": {
@@ -1289,7 +1925,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 460506,
       "name": "Sonata for Violin and Piano No.1 in F minor, Op.80: 3. Andante",
       "url": "https://open.spotify.com/track/7GjCHuoXaH7OxrORqY1aES"
@@ -1311,10 +1947,32 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 414866,
       "name": "String Quartet No. 1 in B Minor, Op. 50: I. Allegro",
       "url": "https://open.spotify.com/track/4CKPXdfXTu36fhZxtFOWPr"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: String Quartets Nos. 1 and 2 / Cello Sonata",
+        "url": "https://open.spotify.com/album/1cnO1zkZWg7MukUNGGiJOD"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Aurora String Quartet",
+          "url": "https://open.spotify.com/artist/6sTY89u6TSylhgwzSenSXT"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414866,
+      "name": "String Quartet No. 1 in B Minor, Op. 50: I. Allegro",
+      "url": "https://open.spotify.com/track/7c0aACjsUVpdTMecd0Glm7"
     },
     {
       "album": {
@@ -1362,32 +2020,6 @@
     },
     {
       "album": {
-        "name": "Prokofiev: Symphonies 1 & 5",
-        "url": "https://open.spotify.com/album/0UZAnoNdUcSMolHyOP0k5o"
-      },
-      "artists": [
-        {
-          "name": "Sergei Prokofiev",
-          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
-        },
-        {
-          "name": "Thomas S\u00f8nderg\u00e5rd",
-          "url": "https://open.spotify.com/artist/4CpD4KZtHoYBHSYdKuUMjH"
-        },
-        {
-          "name": "Royal Scottish National Orchestra",
-          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
-        }
-      ],
-      "date_added": "2021-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 533012,
-      "name": "Symphony No. 5 in B Flat Major, Op. 100: II. Allegro marcato",
-      "url": "https://open.spotify.com/track/1CMfAFYGRABKlYcu4jMQMP"
-    },
-    {
-      "album": {
         "name": "Prokofiev: Symphony No. 3 / Mosolov: Iron Foundry / Var\u00e8se: Arcana",
         "url": "https://open.spotify.com/album/7fA8KqNhbPnvRPP0HDVmQh"
       },
@@ -1409,8 +2041,60 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 424266,
-      "name": "Symphony No.3 in C minor, Op.44: 2. Andante",
+      "name": "Symphony No. 3 in C minor, Op. 44: 2. Andante",
       "url": "https://open.spotify.com/track/3brbTmkILtH8KsJiMOYI4M"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Symphonies 1 & 5",
+        "url": "https://open.spotify.com/album/0UZAnoNdUcSMolHyOP0k5o"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Thomas S\u00f8nderg\u00e5rd",
+          "url": "https://open.spotify.com/artist/4CpD4KZtHoYBHSYdKuUMjH"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 533012,
+      "name": "Symphony No. 5 in B Flat Major, Op. 100: II. Allegro marcato",
+      "url": "https://open.spotify.com/track/1CMfAFYGRABKlYcu4jMQMP"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Symphonies 1 & 5",
+        "url": "https://open.spotify.com/album/2x4HU2VwSgm4nzG89kFRaU"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Thomas S\u00f8nderg\u00e5rd",
+          "url": "https://open.spotify.com/artist/4CpD4KZtHoYBHSYdKuUMjH"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533012,
+      "name": "Symphony No. 5 in B Flat Major, Op. 100: II. Allegro marcato",
+      "url": "https://open.spotify.com/track/5X2QRG1pMUFStPjklkZlor"
     },
     {
       "album": {
@@ -1435,8 +2119,38 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 783000,
-      "name": "Symphony No.5 In B-Flat, Op.100: 1. Andante",
+      "name": "Symphony No. 5 In B-Flat, Op. 100: 1. Andante",
       "url": "https://open.spotify.com/track/4nYCZa7aaNqf43sbKpxwkg"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Symphony-Concerto / Cello Concertino / Pushkin Waltzes",
+        "url": "https://open.spotify.com/album/7k2lZhfAUN3qhgu54AvMyQ"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Alexander Rudin",
+          "url": "https://open.spotify.com/artist/4EpHVPA3kl6dxqOMgCAvQU"
+        },
+        {
+          "name": "Ukraine National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0yqwhapWYzRkT5u7fcI5Ai"
+        },
+        {
+          "name": "Theodore Kuchar",
+          "url": "https://open.spotify.com/artist/7oFubvRIriTCF1yfzJm5RC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 665133,
+      "name": "Symphony-Concerto in E Minor, Op. 125: III. Andante con moto - Allegretto - Allegro marcato",
+      "url": "https://open.spotify.com/track/5abdwRsrLoPz9VqI5wcNwC"
     },
     {
       "album": {
@@ -1470,6 +2184,66 @@
     },
     {
       "album": {
+        "name": "Amazing Composers: Prokofiev",
+        "url": "https://open.spotify.com/album/1LaB2SnW9c3QHNz4JqOpKC"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Nemanja Radulovi\u0107",
+          "url": "https://open.spotify.com/artist/1KicbGCOVNG7FkghcRVcQs"
+        },
+        {
+          "name": "Les Trilles Du Diable",
+          "url": "https://open.spotify.com/artist/2476qJka2jnT0aZIIzkV9O"
+        },
+        {
+          "name": "Laure Favre-Kahn",
+          "url": "https://open.spotify.com/artist/0SisGbXTlo7miIX1UAQBu7"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94733,
+      "name": "The Love For Three Oranges, Op. 33: March",
+      "url": "https://open.spotify.com/track/1fV9WlLiIdznc0ryWeR859"
+    },
+    {
+      "album": {
+        "name": "Journey East",
+        "url": "https://open.spotify.com/album/5CCNpSxVAepv08CSpcpj09"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Nemanja Radulovi\u0107",
+          "url": "https://open.spotify.com/artist/1KicbGCOVNG7FkghcRVcQs"
+        },
+        {
+          "name": "Les Trilles Du Diable",
+          "url": "https://open.spotify.com/artist/2476qJka2jnT0aZIIzkV9O"
+        },
+        {
+          "name": "Laure Favre-Kahn",
+          "url": "https://open.spotify.com/artist/0SisGbXTlo7miIX1UAQBu7"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 94733,
+      "name": "The Love For Three Oranges, Op. 33: March",
+      "url": "https://open.spotify.com/track/2iPYsOYOuhXcrLxu1poMsu"
+    },
+    {
+      "album": {
         "name": "Journey East",
         "url": "https://open.spotify.com/album/5kx3FdmVaN7OlrKSwIIs6G"
       },
@@ -1493,10 +2267,36 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 94733,
       "name": "The Love For Three Oranges, Op.33: March",
       "url": "https://open.spotify.com/track/0MYmMKNz53Hh6TwQcHa0gK"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Lietuenant Kij\u00e9 Suite",
+        "url": "https://open.spotify.com/album/0vTCj1TFWr20npurkk27EF"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244973,
+      "name": "The Stone Flower Symphonic Suite, Op. 118, Wedding Suite, Op. 126: III. Maidens' Dance",
+      "url": "https://open.spotify.com/track/3fB6viPJklgpcd8BFFFJwT"
     },
     {
       "album": {
@@ -1519,10 +2319,36 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253746,
       "name": "The Year 1941, Op. 90: II. In the Night",
       "url": "https://open.spotify.com/track/0Ryfk5AqioHyLk4se3qwBA"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: The Year 1941 - Symphony No. 5",
+        "url": "https://open.spotify.com/album/22WI3IKLD39ELxlrJ4oea1"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Orquestra Sinf\u00f4nica Do Estado De S\u00e3o Paulo",
+          "url": "https://open.spotify.com/artist/3NhV0B71sAoZu1FGHG4bK4"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253746,
+      "name": "The Year 1941, Op. 90: II. In the Night",
+      "url": "https://open.spotify.com/track/34VFz82wzEjIxM52pXmT6S"
     },
     {
       "album": {
@@ -1541,10 +2367,32 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 265826,
       "name": "Toccata in D Minor, Op. 11",
       "url": "https://open.spotify.com/track/0EQ2VrPTngffQz5yUAfww6"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Ten Small Pieces / Sarcasms / Visions Fugitives",
+        "url": "https://open.spotify.com/album/3g2HyhYDr7KHGutBndYajv"
+      },
+      "artists": [
+        {
+          "name": "Eteri Andjaparidze",
+          "url": "https://open.spotify.com/artist/4mm75daHEWglWMaBfNcATW"
+        },
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265826,
+      "name": "Toccata In D Minor, Op. 11: Allegro Marcato",
+      "url": "https://open.spotify.com/track/6dt9dcSVvXTvVQOWBoLWQt"
     },
     {
       "album": {
@@ -1613,6 +2461,32 @@
     {
       "album": {
         "name": "Prokofiev: Symphony No. 6, Op. 111 & Waltz Suite, Op. 110",
+        "url": "https://open.spotify.com/album/5qN1KUt1e6YGtbNN8Kn8RX"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Orquestra Sinf\u00f4nica Do Estado De S\u00e3o Paulo",
+          "url": "https://open.spotify.com/artist/3NhV0B71sAoZu1FGHG4bK4"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206560,
+      "name": "Waltz Suite, Op. 110: III. Mephisto Waltz (from Lermontov)",
+      "url": "https://open.spotify.com/track/2CDIOgjV5L5xdsIsYosA6p"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Symphony No. 6, Op. 111 & Waltz Suite, Op. 110",
         "url": "https://open.spotify.com/album/5OiHajL7zhDZLMkOxmFziO"
       },
       "artists": [
@@ -1631,7 +2505,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206560,
       "name": "Waltz Suite, Op. 110: III. Mephisto Waltz (From Lermontov)",
       "url": "https://open.spotify.com/track/5pcj8ZPk34gmuRP9Qbw8W9"
@@ -1657,7 +2531,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245000,
       "name": "Wedding Suite, Op. 126: III. Maiden's Dance",
       "url": "https://open.spotify.com/track/2P0lNnC6MeW4MFkdOOmrfZ"

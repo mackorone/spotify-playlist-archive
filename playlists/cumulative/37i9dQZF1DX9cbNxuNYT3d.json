@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Tempovision",
+        "url": "https://open.spotify.com/album/39WwIm6bjNLXKdlYQYU1q5"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne de Cr\u00e9cy",
+          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231133,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/3JIrefSf1HEDk4dccWWHQ3"
+    },
+    {
+      "album": {
         "name": "Am I Wrong Remixes 2012 - EP",
         "url": "https://open.spotify.com/album/2Qc9hgKNvfM6QEo0JCHy2d"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231912,
       "name": "Am I Wrong - Original Version",
       "url": "https://open.spotify.com/track/0pVS6ymfHWKupp1wYcsNaZ"
@@ -157,10 +175,32 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 296226,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/46LwAOzg3UYvxiXyyaFedz"
+    },
+    {
+      "album": {
+        "name": "Genetic World",
+        "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9popmusik",
+          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
+        },
+        {
+          "name": "Angela McCluskey",
+          "url": "https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282240,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP"
     },
     {
       "album": {
@@ -317,6 +357,24 @@
     {
       "album": {
         "name": "Flat Beat",
+        "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237266,
+      "name": "Flat Beat - Radio Edit",
+      "url": "https://open.spotify.com/track/0LjTqBwFKfblqnuuDCH2Sw"
+    },
+    {
+      "album": {
+        "name": "Flat Beat",
         "url": "https://open.spotify.com/album/26ac4Qu0zXl9S5qP4vV0Rk"
       },
       "artists": [
@@ -327,7 +385,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237266,
       "name": "Flat Beat - Radio Edit",
       "url": "https://open.spotify.com/track/5UJS6tW0EvYT1lsPOb07Jc"
@@ -353,6 +411,24 @@
     {
       "album": {
         "name": "The Rawkers (I <3 U SO Edition)",
+        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222407,
+      "name": "I <3 U SO",
+      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
+    },
+    {
+      "album": {
+        "name": "The Rawkers (I <3 U SO Edition)",
         "url": "https://open.spotify.com/album/3wnLAWP3OtHM8aKRdGcMSc"
       },
       "artists": [
@@ -363,7 +439,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222407,
       "name": "I <3 U SO",
       "url": "https://open.spotify.com/track/1mizZEavK16AN2Jo4mG93O"
@@ -399,10 +475,54 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254066,
       "name": "In Love With You",
       "url": "https://open.spotify.com/track/2MciXM60hrG1cz5DE7ZWzK"
+    },
+    {
+      "album": {
+        "name": "In Love With You",
+        "url": "https://open.spotify.com/album/6TmoonSmmOCN6XQXgaxL7d"
+      },
+      "artists": [
+        {
+          "name": "The Paradise",
+          "url": "https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Romuald",
+          "url": "https://open.spotify.com/artist/43MFF1y8czFwbjB8kf24oG"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254066,
+      "name": "In Love With You",
+      "url": "https://open.spotify.com/track/2M2urNXOgop2isPZ9Vv4f7"
+    },
+    {
+      "album": {
+        "name": "Strange Attitude (Special Edition)",
+        "url": "https://open.spotify.com/album/2ehhDqK506h8wm245nVCK6"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Diamond",
+          "url": "https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "In Your Arms (We Gonna Make It)",
+      "url": "https://open.spotify.com/track/1Y0WKHEvAmFP8AClB2jY0d"
     },
     {
       "album": {
@@ -417,7 +537,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261333,
       "name": "In Your Arms (We Gonna Make It)",
       "url": "https://open.spotify.com/track/3rZdigkSi1XFgyNCWJ0sVd"
@@ -439,10 +559,32 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 294720,
       "name": "Intro",
       "url": "https://open.spotify.com/track/3EXPdW0NGGkPlyDMcScfgu"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2OazLMNTr5Vf2YmetCJshL"
+      },
+      "artists": [
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294720,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/60hb5H9yL4P4SPz7lrTvUw"
     },
     {
       "album": {
@@ -483,6 +625,24 @@
     {
       "album": {
         "name": "Sexuality",
+        "url": "https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274466,
+      "name": "Look",
+      "url": "https://open.spotify.com/track/0GVQb2UqgxEUrXidPgklFj"
+    },
+    {
+      "album": {
+        "name": "Sexuality",
         "url": "https://open.spotify.com/album/3TvXsmeUpAC3TVaPFd4jr0"
       },
       "artists": [
@@ -493,7 +653,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274466,
       "name": "Look",
       "url": "https://open.spotify.com/track/6WieZpY4oFb5oZNZQacgxb"
@@ -515,10 +675,50 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295693,
       "name": "Lucky Star",
       "url": "https://open.spotify.com/track/5EMwg8P4A3Qj7BPtau1Mn0"
+    },
+    {
+      "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/7ECP8AzznFSErmzzik305h"
+      },
+      "artists": [
+        {
+          "name": "Superfunk",
+          "url": "https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295693,
+      "name": "Lucky Star (feat. Ron Carroll)",
+      "url": "https://open.spotify.com/track/3JhAETPmy2RZSLTZ6FmcHp"
+    },
+    {
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
       "album": {
@@ -533,7 +733,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243960,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/6GyFP1nfCDB8lbD2bG0Hq9"
@@ -649,10 +849,46 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273026,
       "name": "Pocket Piano",
       "url": "https://open.spotify.com/track/6XFzZqAuJKpbPvU2IFBvxK"
+    },
+    {
+      "album": {
+        "name": "Pocket Piano",
+        "url": "https://open.spotify.com/album/5dMTP9ZttPAmkLpgYR18Ax"
+      },
+      "artists": [
+        {
+          "name": "DJ Mehdi",
+          "url": "https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274626,
+      "name": "Pocket Piano",
+      "url": "https://open.spotify.com/track/4oyQ6vDzJMFYhmO9p5qrjE"
+    },
+    {
+      "album": {
+        "name": "Flashmob",
+        "url": "https://open.spotify.com/album/2RlP2H89edcTGhVcpGPINj"
+      },
+      "artists": [
+        {
+          "name": "Vitalic",
+          "url": "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Poison Lips",
+      "url": "https://open.spotify.com/track/1NJ1jm3uNRrF4JZHpaX1CD"
     },
     {
       "album": {
@@ -667,10 +903,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234240,
       "name": "Poison Lips",
       "url": "https://open.spotify.com/track/3zf7uD8ClQ2TXGMZlXISup"
+    },
+    {
+      "album": {
+        "name": "Prix Choc",
+        "url": "https://open.spotify.com/album/5QnMddkPs8ThZLpnTDoV9O"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne de Cr\u00e9cy",
+          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235906,
+      "name": "Prix Choc - Radio Edit - High Mix",
+      "url": "https://open.spotify.com/track/6GjZSAoI4Kmwv1UgbTrcSr"
     },
     {
       "album": {
@@ -685,7 +939,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235906,
       "name": "Prix Choc - Radio Edit - High Mix",
       "url": "https://open.spotify.com/track/6UEhwP9HXhRlltR8y9iH8D"
@@ -747,6 +1001,24 @@
     {
       "album": {
         "name": "Lucky Boy At Night",
+        "url": "https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall"
+      },
+      "artists": [
+        {
+          "name": "DJ Mehdi",
+          "url": "https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218626,
+      "name": "Signatune - Thomas Bangalter Edit",
+      "url": "https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9"
+    },
+    {
+      "album": {
+        "name": "Lucky Boy At Night",
         "url": "https://open.spotify.com/album/7vKadQtVqp973qUGS9yPvA"
       },
       "artists": [
@@ -757,7 +1029,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218626,
       "name": "Signatune - Thomas Bangalter Edit",
       "url": "https://open.spotify.com/track/16KsLLVY50usR4urQYmSQP"
@@ -783,10 +1055,36 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206346,
       "name": "Smile (feat. Alex Gopher & Asher Roth) - Vocal Mix",
       "url": "https://open.spotify.com/track/4SpXkrjuPnyErjE504cnFE"
+    },
+    {
+      "album": {
+        "name": "Smile (Vocal Mix)",
+        "url": "https://open.spotify.com/album/2O9bUYQmg5qFq3S92w3CNs"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne de Cr\u00e9cy",
+          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
+        },
+        {
+          "name": "Alex Gopher",
+          "url": "https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw"
+        },
+        {
+          "name": "Asher Roth",
+          "url": "https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207266,
+      "name": "Smile (Vocal Mix)",
+      "url": "https://open.spotify.com/track/7p72H4ZpKTjcMBRbdT6vYr"
     },
     {
       "album": {
@@ -830,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "The Man With the Red Face",
+        "url": "https://open.spotify.com/album/2z7OqIfgvL7xrOtYAj2Qzl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Garnier",
+          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550360,
+      "name": "The Man With the Red Face - Video Edit",
+      "url": "https://open.spotify.com/track/2TNAP0cq2IZkeSUx2Zbzrw"
+    },
+    {
+      "album": {
         "name": "Unreasonable Behaviour",
         "url": "https://open.spotify.com/album/2IBm4EZ2AUUCSYzFAgCNBL"
       },
@@ -841,7 +1157,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 551493,
       "name": "The Man With The Red Face - Video Edit",
       "url": "https://open.spotify.com/track/0y0LNqWSA4Pv2KawzSi4MW"

@@ -1,48 +1,76 @@
 {
   "description": "Get moving with these family-friendly dance hits!",
-  "num_followers": 769,
+  "num_followers": 826,
   "original_name": "Dance Challenge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE5NDQzNSwwMDAwMDAwMGU0Y2E2YTY1ZTIzNTY4YTk1MzZlNTc3OTIxNjc3MmNm",
+  "snapshot_id": "MTY0ODgyNjgwNiwwMDAwMDAwMDU2NDk1OThhZWYzNWVlNjMwNjRkZGQxYjlmYzFiMmVk",
   "tracks": [
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Whoopty Whoop",
-        "url": "https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT"
+        "name": "Pinkfong Animal Songs",
+        "url": "https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO"
       },
       "artists": [
         {
-          "name": "Koo Koo Kanga Roo",
-          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
         }
       ],
-      "duration_ms": 117136,
-      "name": "Get Yo Body Movin'",
-      "url": "https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC"
+      "duration_ms": 80927,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/5ygDXis42ncn6kYG14lEVG"
     },
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Kids Dance Party",
-        "url": "https://open.spotify.com/album/5ciGZZ391k8bagg6lMIkOV"
+        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
       },
       "artists": [
         {
-          "name": "Toddler Fun Learning",
-          "url": "https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q"
-        },
-        {
-          "name": "Gecko's Garage",
-          "url": "https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7"
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
         }
       ],
-      "duration_ms": 188067,
-      "name": "Musical Statues - Party Version",
-      "url": "https://open.spotify.com/track/22kJuKZbHez63HBaUfThig"
+      "duration_ms": 219493,
+      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Boot Scootin' Boogie",
+      "url": "https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Honeysuckle & Lightning Bugs",
+        "url": "https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "duration_ms": 200593,
+      "name": "The Git Up",
+      "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
     },
     {
       "added_at": "2022-04-01 15:26:46",
@@ -63,134 +91,6 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Chubby Checker Classics",
-        "url": "https://open.spotify.com/album/36tc0l1brbD9CCaUDrvqVi"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 148520,
-      "name": "Limbo Rock",
-      "url": "https://open.spotify.com/track/6FXjVsmKPW93LXRFYhfmmw"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Electric Slide: with friends...",
-        "url": "https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8"
-      },
-      "artists": [
-        {
-          "name": "Electric Slide Music Makers",
-          "url": "https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Electric Slide",
-      "url": "https://open.spotify.com/track/0VhsAybZAPC1O1oEpmOTvU"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Blippi's Birthday Party",
-        "url": "https://open.spotify.com/album/1WPDUEohi6ZRZuMKOH4lLa"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        }
-      ],
-      "duration_ms": 130588,
-      "name": "Dance, Dance, Freeze",
-      "url": "https://open.spotify.com/track/5oVTyy9JZ6RIXxiZ3nNaMm"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Macarena Kids",
-        "url": "https://open.spotify.com/album/3O4JZycOK2GcM079we6urz"
-      },
-      "artists": [
-        {
-          "name": "Macarena Party Kids",
-          "url": "https://open.spotify.com/artist/6TIUqmj115LWdwTqJVGx9d"
-        }
-      ],
-      "duration_ms": 253451,
-      "name": "Cotton Eyed Joe",
-      "url": "https://open.spotify.com/track/3G5XnbFJVy3phaq8H5iSMe"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Laurie Berkner's Movement Songs",
-        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
-      },
-      "artists": [
-        {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Let's Samba",
-      "url": "https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Do as I'm Doing",
-        "url": "https://open.spotify.com/album/169CIBnpB6WtwZWCDgyMgN"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 116956,
-      "name": "Do as I'm Doing",
-      "url": "https://open.spotify.com/track/7J6pdbrX4gG1AfIM4qCUcK"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Dance Silly",
-        "url": "https://open.spotify.com/album/4Kd1PKvFJR37T0PL7fTn84"
-      },
-      "artists": [
-        {
-          "name": "Diver City",
-          "url": "https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Dance Silly",
-      "url": "https://open.spotify.com/track/7jY4Uj5MaWxxhswF96X65F"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Silly Songs Sing-Along",
-        "url": "https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9"
-      },
-      "artists": [
-        {
-          "name": "Cocomelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 121472,
-      "name": "Let's Shake About!",
-      "url": "https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -207,18 +107,18 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Preschool Songs Volume 2",
-        "url": "https://open.spotify.com/album/2KJEDC7n10EJ9gXETFQbsJ"
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
       },
       "artists": [
         {
-          "name": "Michael & The Rockness Monsters",
-          "url": "https://open.spotify.com/artist/3LPxmAUuHX9k2jUlC9m38f"
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
         }
       ],
-      "duration_ms": 193802,
-      "name": "Robot Song",
-      "url": "https://open.spotify.com/track/6ADL4RJj0h56aOAS8CvPLP"
+      "duration_ms": 286666,
+      "name": "Y.M.C.A.",
+      "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
     },
     {
       "added_at": "2022-04-01 15:26:46",
@@ -235,86 +135,6 @@
       "duration_ms": 231360,
       "name": "Cupid Shuffle",
       "url": "https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Chickie Chickie Beat",
-        "url": "https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d"
-      },
-      "artists": [
-        {
-          "name": "Kidsongs",
-          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
-        }
-      ],
-      "duration_ms": 99914,
-      "name": "Chickie Chickie Beat",
-      "url": "https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Go Diego Go Live! The Great Jaguar Rescue",
-        "url": "https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg"
-      },
-      "artists": [
-        {
-          "name": "Go, Diego, Go!",
-          "url": "https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6"
-        }
-      ],
-      "duration_ms": 92920,
-      "name": "Conga!",
-      "url": "https://open.spotify.com/track/6I7ExzN23hGG4hJIKYVMKD"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Kids Birthday Party",
-        "url": "https://open.spotify.com/album/5qbA8ZAip6UvEK9rTqIlbT"
-      },
-      "artists": [
-        {
-          "name": "Cocomelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "Animal Dance and Freeze",
-      "url": "https://open.spotify.com/track/1KvIzAZTFPM4YSA6MYCky8"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Pancake Manor",
-        "url": "https://open.spotify.com/album/6y0xVay2XCLcDK3HW6VdYs"
-      },
-      "artists": [
-        {
-          "name": "Pancake Manor",
-          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
-        }
-      ],
-      "duration_ms": 95253,
-      "name": "Shake Break",
-      "url": "https://open.spotify.com/track/50jELX08A9U7fUFgC7cAWJ"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Macarena Christmas (Remasterizado)",
-        "url": "https://open.spotify.com/album/0szlmT0E1lm7ybTjwxhkOx"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "Macarena (Bayside Boys Remix) - Remasterizado",
-      "url": "https://open.spotify.com/track/1IDOgGgrZuXIFOluTTI2Fs"
     },
     {
       "added_at": "2022-04-01 15:26:46",
@@ -343,18 +163,50 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Dance! Sing! Move!",
-        "url": "https://open.spotify.com/album/691W7vodFTYvZXrlqYhiNP"
+        "name": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
+        "url": "https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY"
       },
       "artists": [
         {
-          "name": "Patty Shukla",
-          "url": "https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc"
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
         }
       ],
-      "duration_ms": 170614,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/4pM7P3snklLvAG2J3cWL6o"
+      "duration_ms": 155040,
+      "name": "The Twist",
+      "url": "https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Freeze Dance Songs for Learning",
+        "url": "https://open.spotify.com/album/3d2Swul1tNBo1PSXdwfOGU"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 128627,
+      "name": "Party Freeze Dance Song",
+      "url": "https://open.spotify.com/track/5n5IxMcG2oV8IOzklsW6Vd"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Cha Cha Slide",
+        "url": "https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL"
+      },
+      "artists": [
+        {
+          "name": "DJ Casper",
+          "url": "https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s"
+        }
+      ],
+      "duration_ms": 387493,
+      "name": "Cha Cha Slide - Original Live Platinum Band Mix",
+      "url": "https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K"
     },
     {
       "added_at": "2022-04-01 15:26:46",
@@ -375,40 +227,24 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
-        "url": "https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY"
+        "name": "Whoopty Whoop",
+        "url": "https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT"
       },
       "artists": [
         {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+          "name": "Koo Koo Kanga Roo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
         }
       ],
-      "duration_ms": 155040,
-      "name": "The Twist",
-      "url": "https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU"
+      "duration_ms": 117136,
+      "name": "Get Yo Body Movin'",
+      "url": "https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC"
     },
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Cha Cha Slide",
-        "url": "https://open.spotify.com/album/3Ogg26ibNmxL8uIVwZVqsJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Casper",
-          "url": "https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s"
-        }
-      ],
-      "duration_ms": 387493,
-      "name": "Cha Cha Slide - Original Live Platinum Band Mix",
-      "url": "https://open.spotify.com/track/3Xv5C02Wxlek0dmrYAM5A8"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Scrambled Eggs For All",
-        "url": "https://open.spotify.com/album/0GDRDnnvLcMVLtHshEpDkV"
+        "name": "Pancake Manor",
+        "url": "https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g"
       },
       "artists": [
         {
@@ -416,95 +252,31 @@
           "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
         }
       ],
-      "duration_ms": 151780,
-      "name": "Do Your Own Dance",
-      "url": "https://open.spotify.com/track/5OFRH7DX66YJxWMWxEZt4b"
+      "duration_ms": 95253,
+      "name": "Shake Break",
+      "url": "https://open.spotify.com/track/7w6RBPKhCaxZiyXb1ekdYy"
     },
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
+        "name": "Go Diego Go Live! The Great Jaguar Rescue",
+        "url": "https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg"
       },
       "artists": [
         {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+          "name": "Go, Diego, Go!",
+          "url": "https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6"
         }
       ],
-      "duration_ms": 286666,
-      "name": "Y.M.C.A.",
-      "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
+      "duration_ms": 92920,
+      "name": "Conga!",
+      "url": "https://open.spotify.com/track/6I7ExzN23hGG4hJIKYVMKD"
     },
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Electric Slide: with friends...",
-        "url": "https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8"
-      },
-      "artists": [
-        {
-          "name": "Electric Slide Music Makers",
-          "url": "https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe"
-        }
-      ],
-      "duration_ms": 128426,
-      "name": "Chicken Dance",
-      "url": "https://open.spotify.com/track/64WbwrNCZkNiS91TEDAp1L"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Silly Songs Sing-Along",
-        "url": "https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9"
-      },
-      "artists": [
-        {
-          "name": "Cocomelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 126930,
-      "name": "Bounce! Bounce!",
-      "url": "https://open.spotify.com/track/0rfMVNm8MAXyqBzW7YWV4t"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Kidz Bop 30",
-        "url": "https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 155266,
-      "name": "Watch Me (Whip / Nae Nae)",
-      "url": "https://open.spotify.com/track/2bQJ43ZimZo5FkVMhxXcv7"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Dance! Sing! Move!",
-        "url": "https://open.spotify.com/album/691W7vodFTYvZXrlqYhiNP"
+        "name": "Play With Me, Sing Along!",
+        "url": "https://open.spotify.com/album/0PGKxxYVEpD1jSlr3ipoPZ"
       },
       "artists": [
         {
@@ -512,25 +284,9 @@
           "url": "https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc"
         }
       ],
-      "duration_ms": 179297,
-      "name": "Hand Jive",
-      "url": "https://open.spotify.com/track/60GhTHlRCZuM1NOuHll3NY"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Honeysuckle & Lightning Bugs",
-        "url": "https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj"
-      },
-      "artists": [
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        }
-      ],
-      "duration_ms": 200593,
-      "name": "The Git Up",
-      "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
+      "duration_ms": 170614,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6T4sYADPiCpYQgddqmCyrl"
     },
     {
       "added_at": "2022-04-01 15:26:46",
@@ -551,6 +307,38 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
+        "name": "Silly Songs Sing-Along",
+        "url": "https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9"
+      },
+      "artists": [
+        {
+          "name": "Cocomelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 121472,
+      "name": "Let's Shake About!",
+      "url": "https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Chubby Checker Classics",
+        "url": "https://open.spotify.com/album/36tc0l1brbD9CCaUDrvqVi"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 148520,
+      "name": "Limbo Rock",
+      "url": "https://open.spotify.com/track/6FXjVsmKPW93LXRFYhfmmw"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
         "name": "Nursery Rhymes",
         "url": "https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr"
       },
@@ -567,34 +355,150 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+        "name": "Macarena Christmas (Remasterizado)",
+        "url": "https://open.spotify.com/album/0szlmT0E1lm7ybTjwxhkOx"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
         }
       ],
-      "duration_ms": 198226,
-      "name": "Boot Scootin' Boogie",
-      "url": "https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M"
+      "duration_ms": 227093,
+      "name": "Macarena (Bayside Boys Remix) - Remasterizado",
+      "url": "https://open.spotify.com/track/1IDOgGgrZuXIFOluTTI2Fs"
     },
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Pinkfong Animal Songs",
-        "url": "https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO"
+        "name": "Electric Slide: with friends...",
+        "url": "https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8"
       },
       "artists": [
         {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+          "name": "Electric Slide Music Makers",
+          "url": "https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe"
         }
       ],
-      "duration_ms": 80927,
-      "name": "Baby Shark",
-      "url": "https://open.spotify.com/track/5ygDXis42ncn6kYG14lEVG"
+      "duration_ms": 128426,
+      "name": "Chicken Dance",
+      "url": "https://open.spotify.com/track/64WbwrNCZkNiS91TEDAp1L"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Dance Silly",
+        "url": "https://open.spotify.com/album/4Kd1PKvFJR37T0PL7fTn84"
+      },
+      "artists": [
+        {
+          "name": "Diver City",
+          "url": "https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Dance Silly",
+      "url": "https://open.spotify.com/track/7jY4Uj5MaWxxhswF96X65F"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Kidz Bop 30",
+        "url": "https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 155266,
+      "name": "Watch Me (Whip / Nae Nae)",
+      "url": "https://open.spotify.com/track/2bQJ43ZimZo5FkVMhxXcv7"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Blippi's Birthday Party",
+        "url": "https://open.spotify.com/album/3Q8rbBIpOAWd4QlD2F33KO"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "duration_ms": 130588,
+      "name": "Dance, Dance, Freeze",
+      "url": "https://open.spotify.com/track/1DepfYD1ZxKedQyOnAPPwF"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Kids Birthday Party",
+        "url": "https://open.spotify.com/album/1qO9LlASyxxmYqxssdUJa2"
+      },
+      "artists": [
+        {
+          "name": "Cocomelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "Animal Dance and Freeze",
+      "url": "https://open.spotify.com/track/4HHMUL4cOZq21NJ6XjErfZ"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Macarena Kids",
+        "url": "https://open.spotify.com/album/3O4JZycOK2GcM079we6urz"
+      },
+      "artists": [
+        {
+          "name": "Macarena Party Kids",
+          "url": "https://open.spotify.com/artist/6TIUqmj115LWdwTqJVGx9d"
+        }
+      ],
+      "duration_ms": 253451,
+      "name": "Cotton Eyed Joe",
+      "url": "https://open.spotify.com/track/3G5XnbFJVy3phaq8H5iSMe"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Electric Slide: with friends...",
+        "url": "https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8"
+      },
+      "artists": [
+        {
+          "name": "Electric Slide Music Makers",
+          "url": "https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Electric Slide",
+      "url": "https://open.spotify.com/track/0VhsAybZAPC1O1oEpmOTvU"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Kids Dance Party",
+        "url": "https://open.spotify.com/album/7JiXOAemvmJARf7w9WvbsT"
+      },
+      "artists": [
+        {
+          "name": "Toddler Fun Learning",
+          "url": "https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q"
+        },
+        {
+          "name": "Gecko's Garage",
+          "url": "https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7"
+        }
+      ],
+      "duration_ms": 188067,
+      "name": "Musical Statues - Party Version",
+      "url": "https://open.spotify.com/track/7LC0vo7r0iDIuu61YwUXld"
     },
     {
       "added_at": "2022-04-01 15:26:46",
@@ -615,8 +519,8 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Freeze Dance Songs for Learning",
-        "url": "https://open.spotify.com/album/3d2Swul1tNBo1PSXdwfOGU"
+        "name": "Do as I'm Doing",
+        "url": "https://open.spotify.com/album/169CIBnpB6WtwZWCDgyMgN"
       },
       "artists": [
         {
@@ -624,9 +528,105 @@
           "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
         }
       ],
-      "duration_ms": 128627,
-      "name": "Party Freeze Dance Song",
-      "url": "https://open.spotify.com/track/5n5IxMcG2oV8IOzklsW6Vd"
+      "duration_ms": 116956,
+      "name": "Do as I'm Doing",
+      "url": "https://open.spotify.com/track/7J6pdbrX4gG1AfIM4qCUcK"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Silly Songs Sing-Along",
+        "url": "https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9"
+      },
+      "artists": [
+        {
+          "name": "Cocomelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 126930,
+      "name": "Bounce! Bounce!",
+      "url": "https://open.spotify.com/track/0rfMVNm8MAXyqBzW7YWV4t"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Scrambled Eggs For All",
+        "url": "https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "duration_ms": 151780,
+      "name": "Do Your Own Dance",
+      "url": "https://open.spotify.com/track/5DGIcwi5oNWxrzOnD4IRGE"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Jump, Wiggle and Hop",
+        "url": "https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ"
+      },
+      "artists": [
+        {
+          "name": "Patty Shukla",
+          "url": "https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc"
+        }
+      ],
+      "duration_ms": 179297,
+      "name": "Hand Jive",
+      "url": "https://open.spotify.com/track/7kslM5r0WXSOBpoZuFlKir"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Laurie Berkner's Movement Songs",
+        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Let's Samba",
+      "url": "https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Chickie Chickie Beat",
+        "url": "https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "duration_ms": 99914,
+      "name": "Chickie Chickie Beat",
+      "url": "https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Preschool Songs Volume 2",
+        "url": "https://open.spotify.com/album/2KJEDC7n10EJ9gXETFQbsJ"
+      },
+      "artists": [
+        {
+          "name": "Michael & The Rockness Monsters",
+          "url": "https://open.spotify.com/artist/3LPxmAUuHX9k2jUlC9m38f"
+        }
+      ],
+      "duration_ms": 193802,
+      "name": "Robot Song",
+      "url": "https://open.spotify.com/track/6ADL4RJj0h56aOAS8CvPLP"
     }
   ],
   "unique_name": "Dance Challenge",

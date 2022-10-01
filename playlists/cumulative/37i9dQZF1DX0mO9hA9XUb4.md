@@ -4,7 +4,7 @@
 
 > a musical love letter to fearless immigrant daughters\. to diaspora children showing up and taking names\. to the firsts, but not the lasts\. to queer & multilingual & proudly Asian American Pacific Islanders, Rina said it best, we out here!
 
-43 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/5aq1x76lhZ1mUQJyseE4R3)
+46 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/5aq1x76lhZ1mUQJyseE4R3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,16 +30,19 @@
 | [Kamali](https://open.spotify.com/track/6vwAUOhw6l1fSAbLjHZBo0) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 3:12 | 2022-05-02 |  |
 | [KARMA](https://open.spotify.com/track/4wK7cKpXBSTuXPmWKG1pTg) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [KARMA](https://open.spotify.com/album/6ooIqBUjoxd1MAzRfF4SGj) | 2:48 | 2022-05-02 |  |
 | [Kuthu Fire](https://open.spotify.com/track/2pqPH34BNK9eTi2TBVSExL) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Kuthu Fire](https://open.spotify.com/album/22N9hU678amR5NiwIIlnEy) | 3:25 | 2022-05-02 |  |
-| [Ladke](https://open.spotify.com/track/2eNTpPmJhxKbULrc0BtbRj) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Ladke](https://open.spotify.com/album/5JoeYlEhBE7R1LOQUG1Uqr) | 2:32 | 2022-05-02 |  |
+| [Ladke](https://open.spotify.com/track/17hbpd8PHheADKIJF6U7YK) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Ladke](https://open.spotify.com/album/4Uh9XqmhAOByEFxoM5zJ4q) | 2:32 | 2022-05-02 |  |
+| [Ladke](https://open.spotify.com/track/2eNTpPmJhxKbULrc0BtbRj) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Ladke](https://open.spotify.com/album/5JoeYlEhBE7R1LOQUG1Uqr) | 2:32 | 2022-05-02 | 2022-07-29 |
 | [Let Me Be Your Girl](https://open.spotify.com/track/7yg0qtS3Ny9ib9FFc9OuId) | [Rachael Yamagata](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) | [Tightrope Walker](https://open.spotify.com/album/1m8boVg3zd9sXFLlMYKMy4) | 4:48 | 2022-05-02 |  |
 | [Lost In Japan](https://open.spotify.com/track/2wEYhUrt3xrxWkHeAIYd6S) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Lost In Japan](https://open.spotify.com/album/1rJzWVqveYf67JtkrqBHQM) | 3:01 | 2022-05-02 |  |
 | [MAKE IT MINE](https://open.spotify.com/track/4WnxgTTFsaJ7Fhh4CQbevQ) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [MAKE IT MINE](https://open.spotify.com/album/1P02N6AY2tk7mKlU5tjANK) | 2:10 | 2022-05-02 |  |
-| [No Fire](https://open.spotify.com/track/7ng8M65zraeczfUW3r9DQM) | [Sofya Wang](https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx) | [No Fire](https://open.spotify.com/album/3U2gwkS3N72ELWDqVky9pQ) | 3:13 | 2022-05-02 |  |
+| [No Fire](https://open.spotify.com/track/1wv18B6Z3Sc82PTwsthRKq) | [Sofya Wang](https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx) | [No Fire](https://open.spotify.com/album/1RqgwCz5bFe7FAZSpeB1we) | 3:13 | 2022-05-02 |  |
+| [No Fire](https://open.spotify.com/track/7ng8M65zraeczfUW3r9DQM) | [Sofya Wang](https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx) | [No Fire](https://open.spotify.com/album/3U2gwkS3N72ELWDqVky9pQ) | 3:13 | 2022-05-02 | 2022-07-29 |
 | [Ol' Dude](https://open.spotify.com/track/4LYQZVXSnW7IZYmyaW32U5) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [Ol' Dude](https://open.spotify.com/album/6qZ81JK9kCmzJZR0lNTjHL) | 2:57 | 2022-05-02 |  |
 | [On My Way](https://open.spotify.com/track/38zEODrwgUnlWODI3AGW7S) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [On My Way](https://open.spotify.com/album/4c4aLA391P0WfAZOnaqhUR) | 2:41 | 2022-05-02 |  |
 | [peppermint](https://open.spotify.com/track/1B2trkDtiqvM0MBjFShWz9) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [goldilocks x](https://open.spotify.com/album/2nkqAzbvQUWZ0p88NxrJ7s) | 2:47 | 2022-05-02 |  |
 | [PSYCHO HOLE](https://open.spotify.com/track/3tpn9S7AZdy9MjmRX69xND) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [PSYCHO HOLE](https://open.spotify.com/album/3wuSvuTGQbfQrvTG4MTsir) | 3:45 | 2022-05-02 |  |
-| [RUNAWAY](https://open.spotify.com/track/3sVhlEsPFzrHD6b6kiOtDM) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [RUNAWAY](https://open.spotify.com/album/0UF11gV73DufP2QSgL7553) | 2:44 | 2022-05-02 |  |
+| [RUNAWAY](https://open.spotify.com/track/3sVhlEsPFzrHD6b6kiOtDM) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [RUNAWAY](https://open.spotify.com/album/0UF11gV73DufP2QSgL7553) | 2:44 | 2022-05-02 | 2022-07-29 |
+| [RUNAWAY](https://open.spotify.com/track/5XX6yZbIiKGhPmgDazBNhN) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [RUNAWAY](https://open.spotify.com/album/5Yl0liNZMlc6C1aAH6KXoh) | 2:44 | 2022-05-02 |  |
 | [See U Never](https://open.spotify.com/track/5nPdol1JZWJqG4OSHVzSCF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [See U Never](https://open.spotify.com/album/3ZqxhYWOhGEXYrYUkuflL0) | 3:41 | 2022-05-02 |  |
 | [Stoked](https://open.spotify.com/track/6nef0wHkelfKqNVHAtzJbR) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Stoked](https://open.spotify.com/album/1OU3G06GfW9lFtJ2Tneohy) | 3:09 | 2022-05-02 |  |
 | [Sugarcoat](https://open.spotify.com/track/02LXZvKAyndCmWGzrp0sBT) | [Malavika](https://open.spotify.com/artist/1TCfnoI5nqmdISEbaZSpFZ) | [Sugarcoat](https://open.spotify.com/album/1prY9LTdmMIeSyc0VCw8dF) | 2:26 | 2022-05-02 |  |

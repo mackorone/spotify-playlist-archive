@@ -4,7 +4,7 @@
 
 > Two legendary voices, one playlist.
 
-53 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/5HTD5HI9uMNwy5pRMkORQ3)
+54 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/5HTD5HI9uMNwy5pRMkORQ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Hum To Tere Aashiq Hain](https://open.spotify.com/track/6Za7U4ZbvHHVjyVWHGnKTF) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Farz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U2T4mFa61Nxr7f8Z6Bp3I) | 6:03 | 2021-10-08 |  |
 | [Hum Tum Yug Yug Se](https://open.spotify.com/track/3aQDARM7Hxex8qVe1VAzWX) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Milan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1AXStvax5tZhvxpbsYqcsZ) | 5:37 | 2021-10-08 |  |
 | [Humsafar Mere Humsafar](https://open.spotify.com/track/5q595Iv1dXciwXDdXZ7Hs6) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Purnima \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29PvqeWYDyvgm90WWJDXXs) | 4:06 | 2021-10-08 |  |
-| [Ichak Dana Beechak Dana](https://open.spotify.com/track/2h7i7SuotuXeAePz4vtDib) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Shree 420 \(The Bollywood Soundtrack\)](https://open.spotify.com/album/2qYNTXmExmsvkL7m2jvRl5) | 4:31 | 2021-10-08 |  |
+| [Ichak Dana Beechak Dana](https://open.spotify.com/track/2h7i7SuotuXeAePz4vtDib) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Shree 420 \(The Bollywood Soundtrack\)](https://open.spotify.com/album/2qYNTXmExmsvkL7m2jvRl5) | 4:31 | 2021-10-08 | 2022-07-29 |
+| [Ichak Dana Beechak Dana](https://open.spotify.com/track/4giSzPnADn5XopvD49sUal) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Shree 420 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/06IaiBtDfA82datti9r8da) | 4:33 | 2021-10-08 |  |
 | [Jane Na Nazar Pehchane Jigar](https://open.spotify.com/track/525xIL8Mvl6kzyCkwQyoed) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Aah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qtiYqBB9gB7zK1z6g6pwT) | 3:32 | 2021-10-08 |  |
 | [Je Hum Tum Chori Se](https://open.spotify.com/track/41B6pAgCuJ5422JFyJ0DpA) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Dharti Kahe Pukar Ke \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jy7XpVY64Z1gEqiiXgGit) | 5:26 | 2021-10-08 |  |
 | [Jhoom Le Jhoom Le](https://open.spotify.com/track/1DhRU5mdcMiRoojtH0OkZW) | [Laxmikant](https://open.spotify.com/artist/0eDAzZGzFQnWpt8HVwA3dV), [Subhash Ghai](https://open.spotify.com/artist/6Y1XXFYsCelh1i5PArcLeV) | [Meri Jung \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0j71NhJ8RsaMAAj6b6XEG6) | 5:37 | 2021-10-08 |  |

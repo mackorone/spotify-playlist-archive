@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 219625,
       "name": "2 Late 4 Love - Danny Howard Remix",
       "url": "https://open.spotify.com/track/6cCZK1uozaX1RUnUmfXloJ"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-08-04",
       "duration_ms": 458539,
       "name": "A Hero",
       "url": "https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 457986,
       "name": "Ajna",
       "url": "https://open.spotify.com/track/47LoiZrIMuYU7j7WSb0FPM"
@@ -196,6 +196,28 @@
     },
     {
       "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
+    },
+    {
+      "album": {
         "name": "Better Place (Super Flu Remix)",
         "url": "https://open.spotify.com/album/56hJYPMJvT1VmVmpzYb9ve"
       },
@@ -251,7 +273,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252037,
       "name": "Breathe Out",
       "url": "https://open.spotify.com/track/6gbXz7CfuQTGo6srGkrA5d"
@@ -287,7 +309,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 203994,
       "name": "Calling For You",
       "url": "https://open.spotify.com/track/1TeVwlRyDjhUeXAe9D6jgA"
@@ -505,7 +527,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273170,
       "name": "Eternal Summer",
       "url": "https://open.spotify.com/track/0MlfXAmNFfukGWTm4eQNU2"
@@ -523,10 +545,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 439437,
       "name": "Face The Sun",
       "url": "https://open.spotify.com/track/1NBGV6jaSjoCtdhwQlaj1n"
+    },
+    {
+      "album": {
+        "name": "Face The Sun",
+        "url": "https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B"
+      },
+      "artists": [
+        {
+          "name": "Yeadon",
+          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439437,
+      "name": "Face The Sun",
+      "url": "https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI"
     },
     {
       "album": {
@@ -559,7 +599,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216020,
       "name": "Fauna",
       "url": "https://open.spotify.com/track/3LQ23jIekEzoP1BG0BMOv2"
@@ -599,6 +639,28 @@
       "duration_ms": 248000,
       "name": "Floral Decor",
       "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
+    },
+    {
+      "album": {
+        "name": "Freedom Call",
+        "url": "https://open.spotify.com/album/3ePjxQHzc4yLtu7fuHOXTo"
+      },
+      "artists": [
+        {
+          "name": "Nick Warren",
+          "url": "https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN"
+        },
+        {
+          "name": "Black 8",
+          "url": "https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239789,
+      "name": "Freedom Call",
+      "url": "https://open.spotify.com/track/6CujcykyguhQMztfXWNlQz"
     },
     {
       "album": {
@@ -861,10 +923,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212009,
       "name": "Just To Hear You Say",
       "url": "https://open.spotify.com/track/1bqLz6dF5MhBZkZO5QSf4N"
+    },
+    {
+      "album": {
+        "name": "In Another Lifetime",
+        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213437,
+      "name": "Just To Hear You Say",
+      "url": "https://open.spotify.com/track/66F2eP3BZWCmQiycL0trAs"
     },
     {
       "album": {
@@ -883,7 +963,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 449149,
       "name": "L'ow\u00e8 L'ow\u00e8",
       "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
@@ -923,10 +1003,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216200,
       "name": "Lose Your Head - CamelPhat Remix",
       "url": "https://open.spotify.com/track/18XoiSzpBYBGBhDb52acQw"
+    },
+    {
+      "album": {
+        "name": "Lose Your Head (CamelPhat Remix)",
+        "url": "https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216200,
+      "name": "Lose Your Head - CamelPhat Remix",
+      "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
     },
     {
       "album": {
@@ -995,7 +1097,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 205628,
       "name": "Manaya",
       "url": "https://open.spotify.com/track/4acEjzjiCG8CFaQSw7BZ1J"
@@ -1017,7 +1119,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": "2022-10-01",
       "duration_ms": 240243,
       "name": "Masina",
       "url": "https://open.spotify.com/track/1iIfC5kyhIN0ny0X6NtjIY"
@@ -1075,7 +1177,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 398062,
       "name": "Nea Skioni",
       "url": "https://open.spotify.com/track/2CNG3J4eRJ4A7faeYcyB7K"
@@ -1148,6 +1250,28 @@
     },
     {
       "album": {
+        "name": "Osama",
+        "url": "https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409180,
+      "name": "Osama",
+      "url": "https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq"
+    },
+    {
+      "album": {
         "name": "Piece Of Art",
         "url": "https://open.spotify.com/album/2FxV796hbaU52R033iD7s5"
       },
@@ -1159,7 +1283,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 196751,
       "name": "Piece Of Art",
       "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
@@ -1295,7 +1419,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220437,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3pBKCrXi2C5T1hBZCHz3Bl"
@@ -1437,7 +1561,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 236350,
       "name": "Still Feel (Home Edit)",
       "url": "https://open.spotify.com/track/0mBdNrpS6UkxDusXE4actk"
@@ -1455,7 +1579,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 398139,
       "name": "Subjection",
       "url": "https://open.spotify.com/track/4AyAH1LveAELiQcNinLjWq"
@@ -1473,7 +1597,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-10",
       "duration_ms": 422288,
       "name": "Suitcase",
       "url": "https://open.spotify.com/track/6Y2u5I0oHgnF71oxPsrtqO"
@@ -1597,10 +1721,50 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188157,
       "name": "Unite",
       "url": "https://open.spotify.com/track/0gj0wF76HZQeWIWmzBUh2U"
+    },
+    {
+      "album": {
+        "name": "Unite",
+        "url": "https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd"
+      },
+      "artists": [
+        {
+          "name": "Yeadon",
+          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188157,
+      "name": "Unite",
+      "url": "https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H"
+    },
+    {
+      "album": {
+        "name": "Vaia (PVSHL Remix)",
+        "url": "https://open.spotify.com/album/5OjkZdKhWx7qa21SRTFMrS"
+      },
+      "artists": [
+        {
+          "name": "Troste",
+          "url": "https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz"
+        },
+        {
+          "name": "PVSHL",
+          "url": "https://open.spotify.com/artist/1DgG7X6SdsC8JD3No1A4HF"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276190,
+      "name": "Vaia - PVSHL Remix Edit",
+      "url": "https://open.spotify.com/track/408BmVj8nMa1kifXsaDfUv"
     },
     {
       "album": {
@@ -1619,7 +1783,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 276190,
       "name": "Vaia - PVSHL Remix Edit",
       "url": "https://open.spotify.com/track/5j3kkxIyGrDaHLaWPNb56g"
@@ -1742,6 +1906,24 @@
     },
     {
       "album": {
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253662,
+      "name": "Zeit & Raum",
+      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
+    },
+    {
+      "album": {
         "name": "Zeit & Raum",
         "url": "https://open.spotify.com/album/3O21jc5kjSsMxWzbpZoZul"
       },
@@ -1753,7 +1935,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253662,
       "name": "Zeit & Raum",
       "url": "https://open.spotify.com/track/6DlKrqaIuQijmu3TjXn0Ic"

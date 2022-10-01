@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 262651,
       "name": "Blues Keep Chasing Me",
       "url": "https://open.spotify.com/track/3GK95DlclAn2RFYY36IHoc"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 167330,
       "name": "Blues On The Bay",
       "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
@@ -109,10 +109,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 277733,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/5aEHeKYiIJYKh8LE6uE8Do"
+    },
+    {
+      "album": {
+        "name": "Arms of a Lover",
+        "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
     },
     {
       "album": {
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-27",
       "duration_ms": 419306,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
@@ -145,10 +163,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159373,
       "name": "By The Water",
       "url": "https://open.spotify.com/track/2OWa4hkdlpxPrb2ZvOwWCv"
+    },
+    {
+      "album": {
+        "name": "The Imperial Recordings",
+        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159373,
+      "name": "By the Water",
+      "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
     },
     {
       "album": {
@@ -203,10 +239,32 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275973,
       "name": "Drown in My Own Tears",
       "url": "https://open.spotify.com/track/1uklRsmAQifWbymFxx74IZ"
+    },
+    {
+      "album": {
+        "name": "Soul for the Heart",
+        "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
+      },
+      "artists": [
+        {
+          "name": "Joe Barr",
+          "url": "https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs"
+        },
+        {
+          "name": "Breezy Rodio",
+          "url": "https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-17",
+      "duration_ms": 275973,
+      "name": "Drown in My Own Tears",
+      "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
     },
     {
       "album": {
@@ -221,7 +279,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 179306,
       "name": "Friendless Blues",
       "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
@@ -275,7 +333,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185026,
       "name": "Hard Living Alone",
       "url": "https://open.spotify.com/track/0gUYU0eoW3fBqWiEvhxjvU"
@@ -311,7 +369,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-25",
       "duration_ms": 239906,
       "name": "Hold That Train",
       "url": "https://open.spotify.com/track/0QehipWjs9vfSzAg9tGSLB"
@@ -355,7 +413,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 156040,
       "name": "I Need Love So Bad",
       "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
@@ -445,10 +503,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256666,
       "name": "I've Lost My Baby",
       "url": "https://open.spotify.com/track/07R6piKyVzQlJzCk2Uhfk4"
+    },
+    {
+      "album": {
+        "name": "Iron Man",
+        "url": "https://open.spotify.com/album/2Rgu0YzalPajWN6d7MWE0P"
+      },
+      "artists": [
+        {
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 412920,
+      "name": "Icepick Through My Heart",
+      "url": "https://open.spotify.com/track/4dsTfxWKkUplwEZiJkVPYo"
     },
     {
       "album": {
@@ -463,7 +539,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-24",
       "duration_ms": 180666,
       "name": "If You Gotta Make a Fool of Somebody - 2008 Remaster",
       "url": "https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx"
@@ -553,7 +629,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 180384,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
@@ -647,10 +723,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213866,
       "name": "Long Distance",
       "url": "https://open.spotify.com/track/2yhLL9sVhNVQbD5lWFXlxd"
+    },
+    {
+      "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213866,
+      "name": "Long Distance",
+      "url": "https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp"
     },
     {
       "album": {
@@ -665,7 +759,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 288856,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6"
@@ -683,10 +777,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 302773,
       "name": "Love That Burns",
       "url": "https://open.spotify.com/track/5zdVcGENQQ5pXTXxFp9oCZ"
+    },
+    {
+      "album": {
+        "name": "Mr. Wonderful (Deluxe)",
+        "url": "https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304160,
+      "name": "Love That Burns",
+      "url": "https://open.spotify.com/track/39xwaEbjsgAEsh5yN4X90k"
     },
     {
       "album": {
@@ -701,7 +813,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 233706,
       "name": "Low Down Dirty Blues",
       "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
@@ -719,10 +831,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 205870,
       "name": "Mistreated so Bad",
       "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
+    },
+    {
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "My Dearest Darling",
+      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
     },
     {
       "album": {
@@ -755,10 +885,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255946,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/2Xs17QwV38nvp53aAfeJyX"
+    },
+    {
+      "album": {
+        "name": "Been Gone Too Long",
+        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Sundown",
+          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255946,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
     },
     {
       "album": {
@@ -777,6 +925,24 @@
       "duration_ms": 229200,
       "name": "Ooh Baby",
       "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
+    },
+    {
+      "album": {
+        "name": "Jackie Sings The Blues",
+        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124786,
+      "name": "Please Tell Me Why",
+      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
     },
     {
       "album": {
@@ -831,7 +997,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 329373,
       "name": "Sanctified, Holy And Hateful",
       "url": "https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa"
@@ -857,6 +1023,28 @@
     {
       "album": {
         "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249626,
+      "name": "Ships On The Ocean",
+      "url": "https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x"
+    },
+    {
+      "album": {
+        "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/3TBecWtWPePxMvoqNAEuDt"
       },
       "artists": [
@@ -867,7 +1055,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-24",
       "duration_ms": 247269,
       "name": "Ships on the Ocean",
       "url": "https://open.spotify.com/track/5qZkTvK2yktEtZ1BxJeGCr"
@@ -889,7 +1077,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 191129,
       "name": "Slow Burning Love",
       "url": "https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a"
@@ -907,10 +1095,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 135813,
       "name": "Someone Broke This Heart of Mine",
       "url": "https://open.spotify.com/track/1nAib0m89PRTuvauNATdOU"
+    },
+    {
+      "album": {
+        "name": "Driving Wheel",
+        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 134573,
+      "name": "Someone Broke This Heart Of Mine",
+      "url": "https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h"
     },
     {
       "album": {
@@ -925,7 +1131,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 213093,
       "name": "Souled Out On You",
       "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
@@ -943,7 +1149,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250760,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/48EXlenGFwcnZWdh6AqUW4"
@@ -1076,7 +1282,7 @@
     },
     {
       "album": {
-        "name": "Cold Snap",
+        "name": "Cold Snap (Remastered)",
         "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
       "artists": [
@@ -1088,8 +1294,8 @@
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 412666,
-      "name": "Too Many Dirty Dishes",
+      "duration_ms": 412893,
+      "name": "Too Many Dirty Dishes - Remastered",
       "url": "https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg"
     },
     {
@@ -1105,7 +1311,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223400,
       "name": "Trouble In Mind",
       "url": "https://open.spotify.com/track/4LGB1Oo4LYCH3pmdaE94ce"
@@ -1123,7 +1329,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 183226,
       "name": "Unfair Lovers",
       "url": "https://open.spotify.com/track/7urvDrLLJGxRCjHrvpfyW4"
@@ -1159,7 +1365,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-07-28",
       "duration_ms": 223477,
       "name": "What Am I Living For",
       "url": "https://open.spotify.com/track/0TgKinC3YFchPPeNE8M8nd"
@@ -1177,7 +1383,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 334000,
       "name": "What do You Feel?",
       "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"

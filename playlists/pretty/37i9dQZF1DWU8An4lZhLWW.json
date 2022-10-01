@@ -1,12 +1,12 @@
 {
   "description": "These songs from superhero movies and TV shows will take you up, up, and away!",
-  "num_followers": 1081,
+  "num_followers": 1099,
   "original_name": "Super Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMDQyMTA0MywwMDAwMDAwNTAwMDAwMTc5NDg5ZWUzYzUwMDAwMDE3MGM0YWJiYWQ3",
+  "snapshot_id": "MTYyMDQyMTA0MywwMDAwMDAwMGU4Mjc2OTVmZWI4ODFlMGQ0YWJmOGI2MjIyODYyNGMy",
   "tracks": [
     {
       "added_at": "2019-11-27 18:34:57",
@@ -27,40 +27,60 @@
     {
       "added_at": "2019-10-29 13:41:07",
       "album": {
-        "name": "The Music of DC Comics: Volume 2",
-        "url": "https://open.spotify.com/album/6KB7cgGXItbKDDLrOCdKAS"
+        "name": "The Music Of DC Comics: Vol. 2",
+        "url": "https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N"
       },
       "artists": [
+        {
+          "name": "Kristopher Carter",
+          "url": "https://open.spotify.com/artist/5ut4S6Y5pM2jR72TAmAl1V"
+        },
+        {
+          "name": "Lolita Ritmanis",
+          "url": "https://open.spotify.com/artist/6ENZXZKAJBmuvH7e9HMwkz"
+        },
+        {
+          "name": "Michael McCuistion",
+          "url": "https://open.spotify.com/artist/6qDihxsWaBi3F5YG8igQiJ"
+        },
         {
           "name": "John DiMaggio",
           "url": "https://open.spotify.com/artist/04jyrvfZFrbSjUlEXwsA53"
         }
       ],
       "duration_ms": 137946,
-      "name": "The Ballad of Batman (from Batman: The Brave and The Bold [2002])",
-      "url": "https://open.spotify.com/track/32KkHrVnaMIHezr8s2zuuN"
+      "name": "The Ballad of Batman (feat. John DiMaggio) - From Batman: The Brave and The Bold",
+      "url": "https://open.spotify.com/track/4W08FvkMp8Oxfr5OrMHmkz"
     },
     {
       "added_at": "2019-10-29 13:41:07",
       "album": {
-        "name": "The Music of DC Comics: Volume 2",
-        "url": "https://open.spotify.com/album/6KB7cgGXItbKDDLrOCdKAS"
+        "name": "The Music Of DC Comics: Vol. 2",
+        "url": "https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N"
       },
       "artists": [
         {
           "name": "The Sensational Guitars of Dan and Dale",
           "url": "https://open.spotify.com/artist/75lkcz4GkFoUfGT1bYic5Y"
+        },
+        {
+          "name": "Sun Ra",
+          "url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
+        },
+        {
+          "name": "The Blues Project",
+          "url": "https://open.spotify.com/artist/1lvclIZLUGZ52gMi7uDDkv"
         }
       ],
       "duration_ms": 116973,
-      "name": "Joker Is Wild (1966)",
-      "url": "https://open.spotify.com/track/1b4j6aYit6XXDfNPr881kn"
+      "name": "Joker Is Wild (feat. Sun Ra & The Blues Project)",
+      "url": "https://open.spotify.com/track/7LLGAqrhJfy2gh2DKVJfL0"
     },
     {
       "added_at": "2019-10-29 13:41:07",
       "album": {
-        "name": "The Music of DC Comics: Volume 2",
-        "url": "https://open.spotify.com/album/6KB7cgGXItbKDDLrOCdKAS"
+        "name": "The Music Of DC Comics: Vol. 2",
+        "url": "https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N"
       },
       "artists": [
         {
@@ -69,14 +89,14 @@
         }
       ],
       "duration_ms": 50280,
-      "name": "DC's Legends of Tomorrow Theme (2016)",
-      "url": "https://open.spotify.com/track/3okneu49IAzmFzwEFqVDlg"
+      "name": "DC's Legends of Tomorrow Theme",
+      "url": "https://open.spotify.com/track/0akKxKEcfviK7LAwzRlVy3"
     },
     {
       "added_at": "2019-10-29 13:41:07",
       "album": {
-        "name": "The Music of DC Comics: Volume 2",
-        "url": "https://open.spotify.com/album/6KB7cgGXItbKDDLrOCdKAS"
+        "name": "The Music Of DC Comics: Vol. 2",
+        "url": "https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N"
       },
       "artists": [
         {
@@ -85,8 +105,8 @@
         }
       ],
       "duration_ms": 93040,
-      "name": "The Flash TV Series Theme (1990)",
-      "url": "https://open.spotify.com/track/2YrJIx7c6aywjBxlhwRgPE"
+      "name": "The Flash TV Series Theme",
+      "url": "https://open.spotify.com/track/2zz2k1QGpz62V7sPxBsiBX"
     },
     {
       "added_at": "2019-10-29 13:41:07",
@@ -139,8 +159,8 @@
     {
       "added_at": "2019-10-29 13:41:07",
       "album": {
-        "name": "Justice League (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3aQNN5zuOmA20K0CNlI1O7"
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
       "artists": [
         {
@@ -152,9 +172,9 @@
           "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
         }
       ],
-      "duration_ms": 193106,
+      "duration_ms": 193714,
       "name": "Come Together",
-      "url": "https://open.spotify.com/track/1ZZVwq386lhCrTBzPF09Tu"
+      "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
     },
     {
       "added_at": "2019-10-29 13:41:07",
@@ -191,8 +211,8 @@
     {
       "added_at": "2019-10-29 13:41:07",
       "album": {
-        "name": "The Music of DC Comics: 75th AnniversaryCollection",
-        "url": "https://open.spotify.com/album/3tDHDh6PDYzCVX5dFogAvo"
+        "name": "The Music of DC Comics (75th Anniversary Collection)",
+        "url": "https://open.spotify.com/album/6g9VtJbdPo9o1UjfIAJ1kE"
       },
       "artists": [
         {
@@ -201,8 +221,8 @@
         }
       ],
       "duration_ms": 60293,
-      "name": "BATMAN BEYOND (MAIN TITLE)",
-      "url": "https://open.spotify.com/track/6w6eZVTEp3YGfjgJ1AyqlH"
+      "name": "Batman Beyond (Main Title)",
+      "url": "https://open.spotify.com/track/6VjQlKm1RgWB7ofR4xMe8R"
     },
     {
       "added_at": "2019-10-29 13:41:07",
@@ -223,8 +243,8 @@
     {
       "added_at": "2019-10-29 13:41:07",
       "album": {
-        "name": "Aquaman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6SSFokNpOOCKzrN6znsaCb"
+        "name": "Aquaman (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/0LbBu7ge5bkDeI17ozc174"
       },
       "artists": [
         {
@@ -234,7 +254,7 @@
       ],
       "duration_ms": 196234,
       "name": "Everything I Need - Film Version",
-      "url": "https://open.spotify.com/track/6QcERmfQKHKtRE4yW7f0cC"
+      "url": "https://open.spotify.com/track/5B6082J94hvTWxLjWBIm2g"
     },
     {
       "added_at": "2019-10-29 13:41:07",
@@ -311,8 +331,8 @@
     {
       "added_at": "2019-10-29 13:41:07",
       "album": {
-        "name": "The Incredibles Original Soundtrack",
-        "url": "https://open.spotify.com/album/3CFGTROkG8NTb9FcGED0Hd"
+        "name": "The Incredibles (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
       },
       "artists": [
         {
@@ -320,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 441320,
+      "duration_ms": 441453,
       "name": "The Incredits",
-      "url": "https://open.spotify.com/track/1fgWcdALLy8iIJw8zfxLMr"
+      "url": "https://open.spotify.com/track/3M7GXKcmP9WzW8zoOeTSTJ"
     },
     {
       "added_at": "2019-10-29 13:41:07",
@@ -360,7 +380,7 @@
       "added_at": "2019-10-29 13:41:07",
       "album": {
         "name": "Avengers: Age of Ultron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1UaUCko4qqWnT2gJKmaQLT"
+        "url": "https://open.spotify.com/album/0xJzVmrwTmCvzaXWzE7jbP"
       },
       "artists": [
         {
@@ -368,15 +388,15 @@
           "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
         }
       ],
-      "duration_ms": 127452,
+      "duration_ms": 127453,
       "name": "Heroes",
-      "url": "https://open.spotify.com/track/3h8DQEl5vgt5BRIlVXXycl"
+      "url": "https://open.spotify.com/track/2ZPYWMdJ8ro0KXsPYBE8YE"
     },
     {
       "added_at": "2019-10-29 13:41:07",
       "album": {
-        "name": "Batman: The Animated Series (Original Soundtrack from the Warner Bros. Television Series), Vol. 1",
-        "url": "https://open.spotify.com/album/4jRzlJKnTfKxGvg5vGiDBt"
+        "name": "Batman: The Animated Series, Vol. 1 (Original Soundtrack from the Warner Bros. Television Series)",
+        "url": "https://open.spotify.com/album/7MlfJk6Wh9Ig315YKUDE01"
       },
       "artists": [
         {
@@ -385,8 +405,8 @@
         }
       ],
       "duration_ms": 61786,
-      "name": "Batman - The Animated Series - Main Title",
-      "url": "https://open.spotify.com/track/78MThQLsm0DxEZ6ogSZ14v"
+      "name": "Batman: The Animated Series (Main Title)",
+      "url": "https://open.spotify.com/track/5l2FbSEaZJtQNv6Z2h1DnK"
     },
     {
       "added_at": "2019-10-29 13:41:07",
@@ -520,7 +540,7 @@
       "added_at": "2019-10-29 13:41:07",
       "album": {
         "name": "Iron Fist (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2vRIJhPgd8GCtauVfW29wh"
+        "url": "https://open.spotify.com/album/1j5GEpOvLbIKpeWm1BwJJ9"
       },
       "artists": [
         {
@@ -530,7 +550,7 @@
       ],
       "duration_ms": 75373,
       "name": "Iron Fist Main Titles",
-      "url": "https://open.spotify.com/track/5mJV8ifMJipo96ErGJrAED"
+      "url": "https://open.spotify.com/track/5fwwIBebYWFriw4iamcsyj"
     },
     {
       "added_at": "2019-10-29 13:41:07",
@@ -584,7 +604,7 @@
       "added_at": "2019-10-29 13:41:07",
       "album": {
         "name": "Thor: The Dark World (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6OeadLLasL6zqGPjPEic6x"
+        "url": "https://open.spotify.com/album/2dTEXpN7fg9cJPKCCyDJ1y"
       },
       "artists": [
         {
@@ -593,8 +613,8 @@
         }
       ],
       "duration_ms": 30733,
-      "name": "Marvel Studios Fanfare",
-      "url": "https://open.spotify.com/track/0GAIkIQFxTw4vr18anewE9"
+      "name": "Marvel Studios Fanfare - From \"Thor: The Dark World\"/Score",
+      "url": "https://open.spotify.com/track/0vPZjeaM0cfbxZJntcD4iy"
     },
     {
       "added_at": "2019-10-29 13:41:07",
@@ -664,7 +684,7 @@
       "added_at": "2019-10-29 13:41:07",
       "album": {
         "name": "Suicide Squad (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/0C8fz2LJQotVr0SZNta8H6"
+        "url": "https://open.spotify.com/album/54ELeWTUyq31j9N9rVo3BM"
       },
       "artists": [
         {
@@ -674,13 +694,13 @@
       ],
       "duration_ms": 293233,
       "name": "Task Force X",
-      "url": "https://open.spotify.com/track/57oOa3BFEEcyWTcqyBFtlI"
+      "url": "https://open.spotify.com/track/5cbLjpz9mPdlWzukPaxn6N"
     },
     {
       "added_at": "2019-10-29 13:41:07",
       "album": {
-        "name": "Batman v Superman: Dawn of Justice (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4PAHIwIasrswKSU5KDzROJ"
+        "name": "Batman v Superman: Dawn Of Justice (Original Motion Picture Soundtrack) [Deluxe]",
+        "url": "https://open.spotify.com/album/408Zd9N7K8Z07GIQeyGDh7"
       },
       "artists": [
         {
@@ -692,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
         }
       ],
-      "duration_ms": 227266,
+      "duration_ms": 227140,
       "name": "Beautiful Lie",
-      "url": "https://open.spotify.com/track/4G3DXzZf0J3EFWgY1jfFbJ"
+      "url": "https://open.spotify.com/track/5Pe1X7rPkBnXc94mTLXt5O"
     },
     {
       "added_at": "2019-10-29 13:41:07",
@@ -715,8 +735,8 @@
     {
       "added_at": "2019-10-29 13:41:07",
       "album": {
-        "name": "Flash Gordon (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/4r9kNse038AoF2KfbqPUOS"
+        "name": "Flash Gordon (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0JCLXuGXJ7lKKOD5mc1Ela"
       },
       "artists": [
         {
@@ -726,7 +746,7 @@
       ],
       "duration_ms": 168213,
       "name": "Flash - Single Version",
-      "url": "https://open.spotify.com/track/5aswWmjJLHBSYFknQjegfg"
+      "url": "https://open.spotify.com/track/6tYYT8zNxkadSCujCdR6Ur"
     },
     {
       "added_at": "2019-10-29 13:41:07",
@@ -767,8 +787,8 @@
     {
       "added_at": "2019-10-29 13:41:07",
       "album": {
-        "name": "Ant-Man (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/72mY2C05rfAbkHOax2gJYf"
+        "name": "Coffy",
+        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
       },
       "artists": [
         {
@@ -776,9 +796,9 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 134253,
+      "duration_ms": 138146,
       "name": "Escape - From The \"Coffy\" Soundtrack",
-      "url": "https://open.spotify.com/track/5bjSpMat60v3eoOjGkL4rg"
+      "url": "https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6"
     },
     {
       "added_at": "2019-10-29 13:41:07",
@@ -836,7 +856,7 @@
       "added_at": "2019-10-29 13:41:07",
       "album": {
         "name": "Invaders Must Die",
-        "url": "https://open.spotify.com/album/0NgCbFQaA3AayOPHYsvgyw"
+        "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
       },
       "artists": [
         {
@@ -846,13 +866,13 @@
       ],
       "duration_ms": 330106,
       "name": "Stand Up",
-      "url": "https://open.spotify.com/track/1vP5y0jIQxsv5HKhSMFRZk"
+      "url": "https://open.spotify.com/track/27eOkcTYHslq8tlzsMMwMu"
     },
     {
       "added_at": "2019-10-29 13:41:07",
       "album": {
-        "name": "The Music of DC Comics: Volume 2",
-        "url": "https://open.spotify.com/album/6KB7cgGXItbKDDLrOCdKAS"
+        "name": "The Music Of DC Comics: Vol. 2",
+        "url": "https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N"
       },
       "artists": [
         {
@@ -861,8 +881,8 @@
         }
       ],
       "duration_ms": 71573,
-      "name": "Supergirl Theme (2015)",
-      "url": "https://open.spotify.com/track/4OHZzKoB0Zt9jboLdt6yl1"
+      "name": "Supergirl Theme",
+      "url": "https://open.spotify.com/track/66B7UOtpZR4IXjYzycoYeS"
     },
     {
       "added_at": "2019-10-29 13:41:07",

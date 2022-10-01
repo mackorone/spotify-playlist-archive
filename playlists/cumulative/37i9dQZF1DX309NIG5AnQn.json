@@ -415,10 +415,32 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187000,
       "name": "Culpable",
       "url": "https://open.spotify.com/track/1F2MEdnUuZDV23rEFw6ZcM"
+    },
+    {
+      "album": {
+        "name": "ARDE",
+        "url": "https://open.spotify.com/album/3XlbISNBUWfa7dPO9rZoDm"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        },
+        {
+          "name": "Jazm\u00edn Esquivel",
+          "url": "https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/7gCYnJTLrgYgfO6qU7gHIt"
     },
     {
       "album": {
@@ -783,7 +805,7 @@
     {
       "album": {
         "name": "Unas Vacaciones Raras",
-        "url": "https://open.spotify.com/album/5QTe4ln96FBIbCgR0rSjdf"
+        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
       },
       "artists": [
         {
@@ -794,6 +816,24 @@
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 258651,
+      "name": "La Otra Ciudad",
+      "url": "https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y"
+    },
+    {
+      "album": {
+        "name": "Unas Vacaciones Raras",
+        "url": "https://open.spotify.com/album/5QTe4ln96FBIbCgR0rSjdf"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 258651,
       "name": "La Otra Ciudad",
       "url": "https://open.spotify.com/track/4fycTqg8GHP5434ND7kKvq"
@@ -1015,7 +1055,7 @@
     {
       "album": {
         "name": "Como Antes",
-        "url": "https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ"
+        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
       },
       "artists": [
         {
@@ -1026,6 +1066,24 @@
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 70327,
+      "name": "Nube",
+      "url": "https://open.spotify.com/track/0ptdCEFJjqE7hJJrUVz29z"
+    },
+    {
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 70327,
       "name": "Nube",
       "url": "https://open.spotify.com/track/6016U5kfHuP9AEktlYZfzr"
@@ -1051,7 +1109,43 @@
     {
       "album": {
         "name": "Superstar / Para Renacer",
+        "url": "https://open.spotify.com/album/1fXi7rF9qY5aabO0wtn78j"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 215587,
+      "name": "Para Renacer (Lado V)",
+      "url": "https://open.spotify.com/track/2ESsyrSEGGBscCSZL4HKfM"
+    },
+    {
+      "album": {
+        "name": "Superstar / Para Renacer",
         "url": "https://open.spotify.com/album/0xUtJQzRNWrQurHiYzXLF7"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215587,
+      "name": "Para Renacer (Lado V)",
+      "url": "https://open.spotify.com/track/4jZDcaRTAESl4TMgXu35sL"
+    },
+    {
+      "album": {
+        "name": "Superstar / Para Renacer",
+        "url": "https://open.spotify.com/album/0H0L15hX6vsMEJSKWfP0JU"
       },
       "artists": [
         {
@@ -1063,8 +1157,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215587,
-      "name": "Para Renacer (Lado V)",
-      "url": "https://open.spotify.com/track/4jZDcaRTAESl4TMgXu35sL"
+      "name": "Para Renacer - Lado V",
+      "url": "https://open.spotify.com/track/4W1ejw0Xun7o8eIjFm5dWg"
     },
     {
       "album": {
@@ -1333,10 +1427,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153710,
       "name": "Toxi",
       "url": "https://open.spotify.com/track/2zQFcTriw8DV1ZlajAUWpy"
+    },
+    {
+      "album": {
+        "name": "Savia Roja",
+        "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
+      },
+      "artists": [
+        {
+          "name": "Las Luces Primeras",
+          "url": "https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153710,
+      "name": "Toxi",
+      "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
     },
     {
       "album": {
@@ -1358,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "Melod\u00eda y Drama",
+        "url": "https://open.spotify.com/album/0EEqa3A9YiKuKAoBf57tuX"
+      },
+      "artists": [
+        {
+          "name": "Los Siberianos",
+          "url": "https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Tu Amigo para Siempre",
+      "url": "https://open.spotify.com/track/221qzVqwYW5R3LaVblul9d"
+    },
+    {
+      "album": {
         "name": "Tu Amigo para Siempre",
         "url": "https://open.spotify.com/album/4c9sXd1jiHln5Kw8NO1z28"
       },
@@ -1369,7 +1499,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211000,
       "name": "Tu Amigo para Siempre",
       "url": "https://open.spotify.com/track/3WPQSk5fuwv3G6JH2IhjJu"

@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Paola Jara y m\u00e1s mujeres, a todo volumen!",
+  "description": "\u00a1Mar\u00eda Cristina Plata y m\u00e1s mujeres, a todo volumen!",
   "name": "EQUAL Colombia",
   "published_playlist_ids": [
     "4BjclhMki5D8Bs9ZwTy9s8"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Tu Lado",
+        "url": "https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244308,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/2sxGambjEMewIexGbpP089"
+    },
     {
       "album": {
         "name": "A Tu Lado",
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244308,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/5EWino1os6FUYJ1q7KRDnN"
@@ -81,6 +99,24 @@
       "duration_ms": 237365,
       "name": "Amar As\u00ed",
       "url": "https://open.spotify.com/track/4e6eL4Iv54MzHC6Ce9lL5C"
+    },
+    {
+      "album": {
+        "name": "Amor de mi vida",
+        "url": "https://open.spotify.com/album/1PpckLJMITfyaGw4yrWCZu"
+      },
+      "artists": [
+        {
+          "name": "Fanny Lu",
+          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184218,
+      "name": "Amor de mi vida",
+      "url": "https://open.spotify.com/track/53TlwMMz8k4wrfmcXyALIq"
     },
     {
       "album": {
@@ -207,10 +243,32 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243680,
       "name": "Balada Borracha",
       "url": "https://open.spotify.com/track/0C0cSQCtSVKM450J6JB2iu"
+    },
+    {
+      "album": {
+        "name": "Almas Conectadas",
+        "url": "https://open.spotify.com/album/7m3BZf2quk9AuZsmq57LAt"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Nidia Gongora",
+          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243680,
+      "name": "Balada Borracha",
+      "url": "https://open.spotify.com/track/3jBNpVIScSy6HjcbFqqLWG"
     },
     {
       "album": {
@@ -229,6 +287,24 @@
       "duration_ms": 263253,
       "name": "Bogando",
       "url": "https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo"
+    },
+    {
+      "album": {
+        "name": "Brindar\u00e9",
+        "url": "https://open.spotify.com/album/1rgpRLLaLgQnMzglyDDdoT"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-04",
+      "duration_ms": 146128,
+      "name": "Brindar\u00e9",
+      "url": "https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T"
     },
     {
       "album": {
@@ -423,7 +499,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 168645,
       "name": "De 0 a 100",
       "url": "https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F"
@@ -665,7 +741,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 175610,
       "name": "Flow Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/3eA8t1I6hL24GnFKThKZU3"
@@ -755,7 +831,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 176968,
       "name": "Hasta Que Te Vi",
       "url": "https://open.spotify.com/track/1v8kXzzhbyCj00F0vAlQys"
@@ -925,7 +1001,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 220106,
       "name": "La Sombra (feat. Leonel Garc\u00eda)",
       "url": "https://open.spotify.com/track/1AMzClglf6ggXTomlMOMkk"
@@ -979,7 +1055,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 210000,
       "name": "Lo Cura",
       "url": "https://open.spotify.com/track/3ilKo71h84ybq78up74ho0"
@@ -1051,7 +1127,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 150424,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb"
@@ -1197,10 +1273,28 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 180165,
       "name": "Muri\u00f3 El Amor",
       "url": "https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI"
+    },
+    {
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180165,
+      "name": "Muri\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
     },
     {
       "album": {
@@ -1316,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
+      },
+      "artists": [
+        {
+          "name": "Mayra C\u00e1rdenas",
+          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245217,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
+    },
+    {
+      "album": {
         "name": "Niebla",
         "url": "https://open.spotify.com/album/2Tl3JRmsdLG1nOg5rOE47x"
       },
@@ -1331,6 +1443,24 @@
       "duration_ms": 166740,
       "name": "Niebla",
       "url": "https://open.spotify.com/track/44kB5zEuaAbUxdfruJ6xRL"
+    },
+    {
+      "album": {
+        "name": "No Dudo",
+        "url": "https://open.spotify.com/album/6CUbJ80uoznmK83or6sAnA"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200915,
+      "name": "No Dudo",
+      "url": "https://open.spotify.com/track/5GM9s07GhcM7f71kDnRc5l"
     },
     {
       "album": {
@@ -1352,6 +1482,24 @@
     },
     {
       "album": {
+        "name": "NO HAY LEY",
+        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "NO HAY LEY",
+      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
+    },
+    {
+      "album": {
         "name": "No Hay una Vida Que No Nos Duela",
         "url": "https://open.spotify.com/album/6In5wZ5nybOTglfJc5740c"
       },
@@ -1363,10 +1511,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 217052,
       "name": "No Hay una Vida Que No Nos Duela",
       "url": "https://open.spotify.com/track/1p0wuVjISHjF45zzjvVBJ5"
+    },
+    {
+      "album": {
+        "name": "No Se Me Ve Tan Mal (NSMVTM)",
+        "url": "https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165473,
+      "name": "No Se Me Ve Tan Mal (NSMVTM)",
+      "url": "https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5"
     },
     {
       "album": {
@@ -1507,6 +1673,10 @@
         {
           "name": "Vivir Quintana",
           "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
         }
       ],
       "date_added": "2022-01-05",
@@ -1573,6 +1743,24 @@
     {
       "album": {
         "name": "Ruise\u00f1ora",
+        "url": "https://open.spotify.com/album/18OF2pJ9dRBqNqXlhyWgoN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222300,
+      "name": "Ruise\u00f1ora",
+      "url": "https://open.spotify.com/track/2W2ejmZHnWMTBvAhfBW0sP"
+    },
+    {
+      "album": {
+        "name": "Ruise\u00f1ora",
         "url": "https://open.spotify.com/album/2TCFGGgfl6tV6TEonST3Jm"
       },
       "artists": [
@@ -1583,7 +1771,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223133,
       "name": "Ruise\u00f1ora",
       "url": "https://open.spotify.com/track/6vlRIofLfepIf7IPG2wZlD"
@@ -1779,10 +1967,46 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293973,
       "name": "Tot\u00f3 Remix: la Candela Viva / Adi\u00f3s Fulana / Mapal\u00e9 / Goza Plinio Sierra (Radio Edit)",
       "url": "https://open.spotify.com/track/1XBsBgbxKbdDeY6fN8QqjF"
+    },
+    {
+      "album": {
+        "name": "Gaitas y Tambores",
+        "url": "https://open.spotify.com/album/7pxMkfeW9yqXvKbvmd0Srx"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293973,
+      "name": "Tot\u00f3 Remix: la Candela Viva / Adi\u00f3s Fulana / Mapal\u00e9 / Goza Plinio Sierra - Radio Edit",
+      "url": "https://open.spotify.com/track/6UP4uC5iRIOmGb7ewISYIT"
+    },
+    {
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/4I7jRaamLwR0blv9qzGiW7"
+      },
+      "artists": [
+        {
+          "name": "Antombo",
+          "url": "https://open.spotify.com/artist/0Gw0yTDnb8VNDKg70YUnvM"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225935,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/5bQdprOeiheK9CqIYgUfPD"
     },
     {
       "album": {
@@ -1833,7 +2057,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225935,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/0hyKDphP6TYK39ULPxy3vw"

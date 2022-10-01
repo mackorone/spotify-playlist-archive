@@ -142,6 +142,28 @@
     },
     {
       "album": {
+        "name": "Holiday Wishes",
+        "url": "https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166146,
+      "name": "Baby It's Cold Outside (duet with Michael Bubl\u00e9)",
+      "url": "https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl"
+    },
+    {
+      "album": {
         "name": "Christmas Wishes",
         "url": "https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI"
       },
@@ -157,7 +179,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166146,
       "name": "Baby It's Cold Outside (duet with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8"
@@ -218,6 +240,24 @@
     },
     {
       "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+      },
+      "artists": [
+        {
+          "name": "The Disney Holiday Chorus",
+          "url": "https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93506,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/1JkD85e8leiLWPwW4b0qWa"
+    },
+    {
+      "album": {
         "name": "Disney Family Christmas Collection",
         "url": "https://open.spotify.com/album/3ZGHfGyCCFsDSx4zOIFYIX"
       },
@@ -229,7 +269,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 93506,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/6MIdJ2pvSLkkP2gv6DGzbQ"
@@ -281,10 +321,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195906,
       "name": "Christmas in New York",
       "url": "https://open.spotify.com/track/2nEiP6hKoutwknyFDgFwl8"
+    },
+    {
+      "album": {
+        "name": "Christmas in The City",
+        "url": "https://open.spotify.com/album/2Fj2qfm8s99jksE5aTuyaC"
+      },
+      "artists": [
+        {
+          "name": "Lea Michele",
+          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195906,
+      "name": "Christmas in New York",
+      "url": "https://open.spotify.com/track/6ojf8Uq0jgu9zJggnifDHg"
     },
     {
       "album": {
@@ -317,10 +375,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255800,
       "name": "Christmas Wrapping",
       "url": "https://open.spotify.com/track/25vlyDxSf8SsjPRr5CieWF"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Christmas!",
+        "url": "https://open.spotify.com/album/2wiCCX3B5AVPbE1pugk04N"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256466,
+      "name": "Christmas Wrapping",
+      "url": "https://open.spotify.com/track/02rYLVEqPgWIkp6yQ1DmtB"
     },
     {
       "album": {
@@ -335,10 +411,46 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 116266,
       "name": "December",
       "url": "https://open.spotify.com/track/2r3gfGANsuPbAwmLWGv0ET"
+    },
+    {
+      "album": {
+        "name": "Christmas & Chill",
+        "url": "https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116266,
+      "name": "December",
+      "url": "https://open.spotify.com/track/7zrhy9OhtcO7MdIvbbJiOa"
+    },
+    {
+      "album": {
+        "name": "The Greatest Bits: B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/1zgFMroSTd9f0lr2qRxgqH"
+      },
+      "artists": [
+        {
+          "name": "McFly",
+          "url": "https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93493,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/3gDdxePgl7W8EbLLgaqrxe"
     },
     {
       "album": {
@@ -353,7 +465,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 95226,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/1xpknUJU5WnCILL3UpiXQs"
@@ -448,6 +560,24 @@
     },
     {
       "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+      },
+      "artists": [
+        {
+          "name": "The Disney Holiday Chorus",
+          "url": "https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129360,
+      "name": "Frosty the Snowman",
+      "url": "https://open.spotify.com/track/5HtbV8EtYpz5VLEhbKuHSO"
+    },
+    {
+      "album": {
         "name": "Disney Family Christmas Collection",
         "url": "https://open.spotify.com/album/3ZGHfGyCCFsDSx4zOIFYIX"
       },
@@ -459,7 +589,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 129360,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/5gH7DnufZr1PylgkCqB9uH"
@@ -629,10 +759,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201754,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/4BOSE2easo41Q7nuvLm979"
+    },
+    {
+      "album": {
+        "name": "A Holly Dolly Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201754,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/59zlM1isufljV8wUPby0rq"
     },
     {
       "album": {
@@ -753,7 +901,7 @@
     {
       "album": {
         "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/4PSFPnCtOqJCpM4igcp7P9"
+        "url": "https://open.spotify.com/album/2kpdorrZmanV015tDKqZY1"
       },
       "artists": [
         {
@@ -766,7 +914,43 @@
       "date_removed": null,
       "duration_ms": 206160,
       "name": "I'll Be Home For Christmas - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4G0YpYB1Ullb5rgJeJoMcP"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/4PSFPnCtOqJCpM4igcp7P9"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206160,
+      "name": "I'll Be Home For Christmas - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6pbS3SMfbLLrcOMR9SDpsZ"
+    },
+    {
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149080,
+      "name": "It's Beginning to Look a Lot Like Christmas",
+      "url": "https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn"
     },
     {
       "album": {
@@ -781,7 +965,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149080,
       "name": "It's Beginning to Look a Lot Like Christmas",
       "url": "https://open.spotify.com/track/7GBuc4Sh26BLDLCsLWuCde"
@@ -817,10 +1001,46 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150373,
       "name": "It\u2019s the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5n9OArDe2XxJhGOtKKMZ7C"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Christmas!",
+        "url": "https://open.spotify.com/album/2wiCCX3B5AVPbE1pugk04N"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151400,
+      "name": "It\u2019s The Most Wonderful Time Of The Year",
+      "url": "https://open.spotify.com/track/02i04SaGvLTl8yQZCnuBnN"
+    },
+    {
+      "album": {
+        "name": "Meet The Vamps (Christmas Edition)",
+        "url": "https://open.spotify.com/album/2uFYxUG2I67ddvtgP8W7Gt"
+      },
+      "artists": [
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135206,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/5WcBc2jpgWemNJFz5K5s2B"
     },
     {
       "album": {
@@ -835,7 +1055,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135206,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7hPtrGqzMOO0KMevkaQnYR"
@@ -875,10 +1095,46 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181990,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/2tD3pZnBsE4wm4PmqVhJCL"
+    },
+    {
+      "album": {
+        "name": "Meet The Vamps (Christmas Edition)",
+        "url": "https://open.spotify.com/album/2uFYxUG2I67ddvtgP8W7Gt"
+      },
+      "artists": [
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181990,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/37dlx96QkvFn8gNvTFugYF"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140667,
+      "name": "Jingle Bells - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0MxRRwGZhC4eWNhbqcLkDI"
     },
     {
       "album": {
@@ -893,10 +1149,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 140667,
       "name": "Jingle Bells - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/2eifVaVxxzerYshms9gIf4"
+    },
+    {
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/2UOO3MgYXf829xN014WdNX"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212453,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani"
     },
     {
       "album": {
@@ -911,7 +1185,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212453,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/34kSAsvs36tXZ8DaiBphUG"
@@ -1027,10 +1301,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255878,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/0eiFwEYsRxsNzPBHLwAMaJ"
+    },
+    {
+      "album": {
+        "name": "PTXmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ZwH7KH8Zw0m76hYwANMos"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255878,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/7BvCDrlYwJ5D9RUqvvs3BT"
     },
     {
       "album": {
@@ -1103,10 +1395,32 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/1c8okwl6G1OUhgU2BJekIx"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
     },
     {
       "album": {
@@ -1121,10 +1435,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192533,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/1BTB6sWAbvXjdDzauL2Ndh"
+    },
+    {
+      "album": {
+        "name": "Snowed In",
+        "url": "https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193160,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/0YfqNEJAThiWwfsMbGlRPQ"
     },
     {
       "album": {
@@ -1175,10 +1507,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254720,
       "name": "My Only Wish (This Year)",
       "url": "https://open.spotify.com/track/1R7XAC26tgDaa7SRG4HaPo"
+    },
+    {
+      "album": {
+        "name": "My Only Wish (This Year)",
+        "url": "https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "My Only Wish (This Year)",
+      "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
     },
     {
       "album": {
@@ -1263,7 +1613,7 @@
     {
       "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2"
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
       "artists": [
         {
@@ -1274,6 +1624,24 @@
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192160,
+      "name": "Only Thing I Ever Get For Christmas",
+      "url": "https://open.spotify.com/track/4BY6dDtUBweniXJXnd13Ek"
+    },
+    {
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 192160,
       "name": "Only Thing I Ever Get For Christmas",
       "url": "https://open.spotify.com/track/6aVmwG7MnSN4tdDEZ6RDQp"
@@ -1323,7 +1691,7 @@
     {
       "album": {
         "name": "Olaf's Frozen Adventure (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3b3AsnYeNitsCctPjm7uGV"
+        "url": "https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa"
       },
       "artists": [
         {
@@ -1342,6 +1710,32 @@
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 118833,
+      "name": "Ring in the Season",
+      "url": "https://open.spotify.com/track/4UoYb2HJklHzXbVA5klJGt"
+    },
+    {
+      "album": {
+        "name": "Olaf's Frozen Adventure (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3b3AsnYeNitsCctPjm7uGV"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 118833,
       "name": "Ring in the Season",
       "url": "https://open.spotify.com/track/5kQ1YHITOrzelWO3UOUaGt"
@@ -1425,10 +1819,36 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173386,
       "name": "Rudolph the Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/2SABzNiF4F35PDuxE8gYK9"
+    },
+    {
+      "album": {
+        "name": "Disney's Merry Little Christmas",
+        "url": "https://open.spotify.com/album/1G9F59LYOnLc9RqWyFNYYz"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "Rudolph the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/4UUhE9j5sG3E5rxPK79e73"
     },
     {
       "album": {
@@ -1483,10 +1903,50 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170933,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/41XCLKG0xl01mGprBDtTNS"
+    },
+    {
+      "album": {
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Liz Gillies",
+          "url": "https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170933,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb"
+    },
+    {
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216746,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/1JJUsWVriEtXr8lHSQXTIy"
     },
     {
       "album": {
@@ -1501,10 +1961,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216746,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/489nZybL79w209ELXWJyVK"
+    },
+    {
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
       "album": {
@@ -1519,7 +1997,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T"
@@ -1649,10 +2127,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206373,
       "name": "Snow In California",
       "url": "https://open.spotify.com/track/6BqE2EzcqW6sNYf7SeGfuN"
+    },
+    {
+      "album": {
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Snow In California",
+      "url": "https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ"
     },
     {
       "album": {
@@ -1891,7 +2387,7 @@
     {
       "album": {
         "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
       },
       "artists": [
         {
@@ -1902,6 +2398,24 @@
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -1944,6 +2458,24 @@
     },
     {
       "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+      },
+      "artists": [
+        {
+          "name": "The Disney Holiday Chorus",
+          "url": "https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104186,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/14qzig8cvFMvUVeCxbaO38"
+    },
+    {
+      "album": {
         "name": "Disney Family Christmas Collection",
         "url": "https://open.spotify.com/album/3ZGHfGyCCFsDSx4zOIFYIX"
       },
@@ -1955,7 +2487,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 104186,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/5dprErk5AByFjoQa5BFNw6"

@@ -1,15 +1,15 @@
 {
   "description": "Discover the classical side of your favourite Disney soundtracks.",
-  "num_followers": 201317,
+  "num_followers": 217934,
   "original_name": "Disney Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg3NzM5NywwMDAwMDAxYjAwMDAwMTgyMDEzMTdlNjkwMDAwMDE3MzU3MjJhZDM3",
+  "snapshot_id": "MTY2MzM1MDY3NCwwMDAwMDAwMDIzYzM5ZjVkNjEzOTcwZjBhM2NhYjE3MGEwN2Y3ODE3",
   "tracks": [
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "A Whole New World (From \"Aladdin\")",
         "url": "https://open.spotify.com/album/3QKlFrb003pEc0I321wmSt"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7pJ4qUAXYKIObqrHpN09Ds"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "The Little Mermaid Special Edition",
         "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/09HBvmj0dUeQYHGbKJefR5"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Colors of the Wind (From \"Pocahontas\")",
         "url": "https://open.spotify.com/album/5ZWCfX6VPczkF2pqWX6cYc"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7x63W1DjKHdw02s6JyC0jt"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "Disney Goes Classical",
+        "url": "https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg"
+      },
+      "artists": [
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "Beauty and the Beast - From \"Beauty and the Beast\"",
+      "url": "https://open.spotify.com/track/13GQAPoUkyZTE8oJV3Uy2L"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Go The Distance (From \"Hercules\")",
         "url": "https://open.spotify.com/album/5F5ibk9DFIhMSxUJVJiVFj"
@@ -93,51 +109,7 @@
       "url": "https://open.spotify.com/track/0O3o5L6SHXCjYvE5KY72bl"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "The Lion King: Special Edition Original Soundtrack (English Version)",
-        "url": "https://open.spotify.com/album/6V642KcHwzOSyYGwH58kgO"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Lebo M.",
-          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/7Lnd4du5ZNl0K82p5QFi5H"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
-      },
-      "artists": [
-        {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        },
-        {
-          "name": "Frode Fjellheim",
-          "url": "https://open.spotify.com/artist/6dN5CHba8uE3KUZtgzDjGa"
-        },
-        {
-          "name": "Cantus",
-          "url": "https://open.spotify.com/artist/13tmEptE5NPMTxY29lVoEf"
-        }
-      ],
-      "duration_ms": 95986,
-      "name": "Vuelie - From \"Frozen\"/Score",
-      "url": "https://open.spotify.com/track/0qnj9ufJJM6Xk4xuoyvHZp"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Disney Goes Classical",
         "url": "https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg"
@@ -153,7 +125,7 @@
       "url": "https://open.spotify.com/track/12s9pwzuMlUuJjkkMOLXxx"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Disney Goes Classical",
         "url": "https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg"
@@ -173,23 +145,7 @@
       "url": "https://open.spotify.com/track/464ugbhLm0zZ2zCaRMwg6n"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Feed the Birds (From \"Mary Poppins\")",
-        "url": "https://open.spotify.com/album/4EuuQEBkpgL8bwsfUFCk2A"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 261308,
-      "name": "Feed the Birds - From \"Mary Poppins\"",
-      "url": "https://open.spotify.com/track/2vz6Zep5xyCIAZgIroYL1X"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Disney Goes Classical",
         "url": "https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg"
@@ -209,39 +165,31 @@
       "url": "https://open.spotify.com/track/0mQzAOKpgaG0h85AGjuFuA"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
-        "name": "Disney Goes Classical",
-        "url": "https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg"
+        "name": "Frozen (Original Score)",
+        "url": "https://open.spotify.com/album/7o2waKdsh4gVGgb0KgQlc0"
       },
       "artists": [
         {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "Beauty and the Beast - From \"Beauty and the Beast\"",
-      "url": "https://open.spotify.com/track/13GQAPoUkyZTE8oJV3Uy2L"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Maleficent (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA"
-      },
-      "artists": [
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
         {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+          "name": "Frode Fjellheim",
+          "url": "https://open.spotify.com/artist/6dN5CHba8uE3KUZtgzDjGa"
+        },
+        {
+          "name": "Cantus",
+          "url": "https://open.spotify.com/artist/13tmEptE5NPMTxY29lVoEf"
         }
       ],
-      "duration_ms": 149146,
-      "name": "Prince Phillip",
-      "url": "https://open.spotify.com/track/6pGHTRfuXLZjta0Kdc9wNG"
+      "duration_ms": 95986,
+      "name": "Vuelie - From \"Frozen\"/Score",
+      "url": "https://open.spotify.com/track/7tHKjzBYfMZvprnfyHcOK0"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Disney Goes Classical",
         "url": "https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg"
@@ -257,10 +205,10 @@
       "url": "https://open.spotify.com/track/6VChVf3NAbBtJzvSVEwqJ3"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
-        "name": "Pocahontas Original Soundtrack (English Version)",
-        "url": "https://open.spotify.com/album/4ddvFk8agFfRkkcVwR8sJH"
+        "name": "The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq"
       },
       "artists": [
         {
@@ -268,31 +216,67 @@
           "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
         }
       ],
-      "duration_ms": 87293,
-      "name": "Grandmother Willow",
-      "url": "https://open.spotify.com/track/5IIa9sbsg29OcGXRhdAph0"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "The Hunchback of Notre Dame Original Soundtrack (English Version)",
-        "url": "https://open.spotify.com/album/4oO2rv8QInfX4jVrCdLzlp"
-      },
-      "artists": [
-        {
-          "name": "Alan Menken",
-          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
-        }
-      ],
-      "duration_ms": 184133,
+      "duration_ms": 185160,
       "name": "The Bell Tower",
-      "url": "https://open.spotify.com/track/5xlq7bxuhPDUEI5GQFS4zQ"
+      "url": "https://open.spotify.com/track/1Dc6Mb9u2az5sQOvqfOqX7"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
-        "name": "Sleeping Beauty Original Soundtrack",
-        "url": "https://open.spotify.com/album/28b01MQRzw52YXukRWqoLx"
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Under the Stars - From \"The Lion King\"/Score",
+      "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "Maleficent (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 149146,
+      "name": "Prince Phillip",
+      "url": "https://open.spotify.com/track/6pGHTRfuXLZjta0Kdc9wNG"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "Disney Goes Classical",
+        "url": "https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg"
+      },
+      "artists": [
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 154760,
+      "name": "Reflection - From \"Mulan\"",
+      "url": "https://open.spotify.com/track/4HEAqYn6eFjnosmV5AKSZ2"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "La Bella Addormentata nel Bosco (Colonna Sonora Originale)",
+        "url": "https://open.spotify.com/album/40FEotL6tj8kRgtpHbtBuJ"
       },
       "artists": [
         {
@@ -300,28 +284,12 @@
           "url": "https://open.spotify.com/artist/5T60shnsXD8hlLRDsbvFoO"
         }
       ],
-      "duration_ms": 167183,
-      "name": "Magical House Cleaning / Blue or Pink",
-      "url": "https://open.spotify.com/track/2GjXiKa4X7OBTpHjzO5nzc"
+      "duration_ms": 167746,
+      "name": "Magical House Cleaning / Blue or Pink - From \"Sleeping Beauty\"/Score",
+      "url": "https://open.spotify.com/track/6Md96tT6iCTnFuiQGe7hHO"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Mulan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
-      },
-      "artists": [
-        {
-          "name": "Harry Gregson-Williams",
-          "url": "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
-        }
-      ],
-      "duration_ms": 114646,
-      "name": "Honor to Us All",
-      "url": "https://open.spotify.com/track/3F9HXdijdjghQ8rlnZ4fqR"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"
@@ -345,23 +313,7 @@
       "url": "https://open.spotify.com/track/42qmKRitmeSCKCW3PVPNcQ"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Disney Goes Classical",
-        "url": "https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg"
-      },
-      "artists": [
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 154760,
-      "name": "Reflection - From \"Mulan\"",
-      "url": "https://open.spotify.com/track/4HEAqYn6eFjnosmV5AKSZ2"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Disney Goes Classical",
         "url": "https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg"
@@ -377,7 +329,23 @@
       "url": "https://open.spotify.com/track/6x1pCJudgIS8Gak9ONrg82"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "Feed the Birds (From \"Mary Poppins\")",
+        "url": "https://open.spotify.com/album/4EuuQEBkpgL8bwsfUFCk2A"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 261308,
+      "name": "Feed the Birds - From \"Mary Poppins\"",
+      "url": "https://open.spotify.com/track/2vz6Zep5xyCIAZgIroYL1X"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "The Little Mermaid Special Edition",
         "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
@@ -401,139 +369,7 @@
       "url": "https://open.spotify.com/track/3ChNbqbiPteCoYtufO79qw"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Brother Bear Original Soundtrack",
-        "url": "https://open.spotify.com/album/4PWrcWvQjkvSxJQ3gZ4phP"
-      },
-      "artists": [
-        {
-          "name": "Bulgarian Women's Choir",
-          "url": "https://open.spotify.com/artist/6POdwLUtKqP6qQ9bRBx7NZ"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Transformation",
-      "url": "https://open.spotify.com/track/3twDjDttBE9tkFJclBlVp7"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "The Bare Necessities (From \"The Jungle Book\")",
-        "url": "https://open.spotify.com/album/2ObuQ2rZlx0uJbFMSp6f7M"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 160356,
-      "name": "The Bare Necessities - From \"The Jungle Book\"",
-      "url": "https://open.spotify.com/track/2mHszKdcP0V2DPrv3w1f8P"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Pocahontas Original Soundtrack (English Version)",
-        "url": "https://open.spotify.com/album/4ddvFk8agFfRkkcVwR8sJH"
-      },
-      "artists": [
-        {
-          "name": "Alan Menken",
-          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/2ooCD26N7uKXqhkc6iUvMW"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Tangled",
-        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
-      },
-      "artists": [
-        {
-          "name": "Alan Menken",
-          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "Waiting for the Lights - From \"Tangled\"/Score",
-      "url": "https://open.spotify.com/track/0OAnOHYJxsMtMTZ6vf14xh"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Beauty and the Beast (Special Edition) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/4TJsH7fxFFcK1xUSIyl8Db"
-      },
-      "artists": [
-        {
-          "name": "Alan Menken",
-          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 349960,
-      "name": "Transformation",
-      "url": "https://open.spotify.com/track/1nkgAW12p2f0rCC5GkmmHO"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "The Bare Necessities (From \"The Jungle Book\")",
-        "url": "https://open.spotify.com/album/5sRIFmDAhy6ngKjxrTaO6h"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 160356,
-      "name": "The Bare Necessities - From \"The Jungle Book\"",
-      "url": "https://open.spotify.com/track/4imtIfVskTzpoloHLaHplb"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Inside Out (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "Bundle of Joy",
-      "url": "https://open.spotify.com/track/3eTgg18rKBD30Hef1gv0wz"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Wall-E",
-        "url": "https://open.spotify.com/album/7IH5SRyEVemZWfhjYmWtT1"
-      },
-      "artists": [
-        {
-          "name": "Thomas Newman",
-          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
-        }
-      ],
-      "duration_ms": 143373,
-      "name": "Define Dancing",
-      "url": "https://open.spotify.com/track/4wZdal5NzPtwKcjLMt7vJj"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Mary Poppins Returns (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B"
@@ -549,7 +385,107 @@
       "url": "https://open.spotify.com/track/33vFouLVYOF5ErAoNtdHsI"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "Pocahontas",
+        "url": "https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "duration_ms": 287973,
+      "name": "Farewell - From \"Pocahontas\"/Score",
+      "url": "https://open.spotify.com/track/0O81GMQ8IBB1ZDjVHyNYQp"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 349960,
+      "name": "Transformation",
+      "url": "https://open.spotify.com/track/3CrxJkMU9wINmIM4Dl9CEP"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "Inside Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "Bundle of Joy",
+      "url": "https://open.spotify.com/track/3eTgg18rKBD30Hef1gv0wz"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "Pocahontas",
+        "url": "https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "duration_ms": 87520,
+      "name": "Grandmother Willow - From \"Pocahontas\"/Score",
+      "url": "https://open.spotify.com/track/0YlqJkfuox9LpJ5uW3NPM8"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "The Disney Book",
+        "url": "https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 160356,
+      "name": "The Bare Necessities - From \"The Jungle Book\"",
+      "url": "https://open.spotify.com/track/6aDmy1Tf35ee4rr6VTRbV1"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "Brother Bear",
+        "url": "https://open.spotify.com/album/0aJ2SqX6w8pJsaFaTiBUgJ"
+      },
+      "artists": [
+        {
+          "name": "Bulgarian Women's Choir",
+          "url": "https://open.spotify.com/artist/6POdwLUtKqP6qQ9bRBx7NZ"
+        }
+      ],
+      "duration_ms": 148933,
+      "name": "Transformation - From \"Brother Bear\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/3oEllCjRbaRJrZKtZVLsDJ"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"
@@ -565,7 +501,7 @@
       "url": "https://open.spotify.com/track/06c5mZyiTC81gCaQ05sCIG"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Mulan (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
@@ -585,7 +521,7 @@
       "url": "https://open.spotify.com/track/1b6Spq4MiEzShOBQLtEhWe"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -601,10 +537,10 @@
       "url": "https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
-        "name": "Beauty and the Beast (Special Edition) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/4TJsH7fxFFcK1xUSIyl8Db"
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
       },
       "artists": [
         {
@@ -618,10 +554,50 @@
       ],
       "duration_ms": 149480,
       "name": "Prologue: Beauty and the Beast",
-      "url": "https://open.spotify.com/track/3SUTburdrAafJMHbCHxl9q"
+      "url": "https://open.spotify.com/track/4xrravITYOGqfLkAg7re5K"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "The Disney Book",
+        "url": "https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "duration_ms": 249342,
+      "name": "Beauty and the Beast - From \"Beauty and the Beast\"",
+      "url": "https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "Mulan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
+      },
+      "artists": [
+        {
+          "name": "Harry Gregson-Williams",
+          "url": "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
+        }
+      ],
+      "duration_ms": 114646,
+      "name": "Honor to Us All",
+      "url": "https://open.spotify.com/track/3F9HXdijdjghQ8rlnZ4fqR"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Mulan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
@@ -637,10 +613,10 @@
       "url": "https://open.spotify.com/track/3y3B09QC2nOueLQkhn0gS2"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
-        "name": "Finding Nemo Original Soundtrack",
-        "url": "https://open.spotify.com/album/7BWvDrobl2vSTnbDN7wXQk"
+        "name": "WALL-E (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2LhcAFdMWcB49mHSxYrqJT"
       },
       "artists": [
         {
@@ -648,12 +624,12 @@
           "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
         }
       ],
-      "duration_ms": 76133,
-      "name": "Nemo Egg (Main Title)",
-      "url": "https://open.spotify.com/track/0VEf913GDXMlb196o6VOCV"
+      "duration_ms": 143373,
+      "name": "Define Dancing",
+      "url": "https://open.spotify.com/track/5zeaIcBVA0Ta8JVp1S5zDM"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Fantasia 2000",
         "url": "https://open.spotify.com/album/2whukRzuzg6VUBKkcEKfJp"
@@ -673,7 +649,23 @@
       "url": "https://open.spotify.com/track/1Jy8ux5jagFEKPSY42pLvB"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "We Don\u2019t Talk About Bruno (From \"Encanto\")",
+        "url": "https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 244311,
+      "name": "We Don\u2019t Talk About Bruno - From \"Encanto\"",
+      "url": "https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "The Jungle Book (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm"
@@ -689,7 +681,23 @@
       "url": "https://open.spotify.com/track/1T9cr9vATD3qqo4xY1Xr0H"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "Waiting for the Lights - From \"Tangled\"/Score",
+      "url": "https://open.spotify.com/track/0OAnOHYJxsMtMTZ6vf14xh"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
@@ -705,7 +713,27 @@
       "url": "https://open.spotify.com/track/5EY7WQEQgsMU9Fm9zD6uR3"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
+      "album": {
+        "name": "The Disney Book",
+        "url": "https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 288519,
+      "name": "Dos Oruguitas - From \"Encanto\" (Feat. Sebasti\u00e1n Yatra)",
+      "url": "https://open.spotify.com/track/1WP1kqcMfydoTyEIzVZlWG"
+    },
+    {
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"
@@ -729,7 +757,7 @@
       "url": "https://open.spotify.com/track/3QAVDFM3uoPvuWTjAuNGuR"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Can You Feel the Love Tonight (From \"The Lion King\")",
         "url": "https://open.spotify.com/album/7us3ZQanJYStL0Q58bY2bD"
@@ -749,10 +777,10 @@
       "url": "https://open.spotify.com/track/208SVXxGgwTCVMz7WUUZna"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+        "name": "Frozen (Original Score)",
+        "url": "https://open.spotify.com/album/7o2waKdsh4gVGgb0KgQlc0"
       },
       "artists": [
         {
@@ -762,10 +790,10 @@
       ],
       "duration_ms": 186200,
       "name": "Epilogue - From \"Frozen\"/Score",
-      "url": "https://open.spotify.com/track/0EUodO4zn5fiWhADyOxiC9"
+      "url": "https://open.spotify.com/track/3awivj0Q2xo4YNZeUaFUpB"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS"
@@ -781,7 +809,7 @@
       "url": "https://open.spotify.com/track/2GamicW8mLY9RxSLfPrN9L"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Enchanted",
         "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
@@ -797,23 +825,7 @@
       "url": "https://open.spotify.com/track/42TTHCYkSo0ER8RLmyV3Hu"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Monsters, Inc. (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz"
-      },
-      "artists": [
-        {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
-        }
-      ],
-      "duration_ms": 213386,
-      "name": "Boo's Going Home",
-      "url": "https://open.spotify.com/track/5H2HoE7EQjHaBbRK05Ezy8"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Ratatouille (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
@@ -829,7 +841,7 @@
       "url": "https://open.spotify.com/track/6p8lCOvTbSI4eijtyw6pW4"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "The Little Mermaid Special Edition",
         "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
@@ -849,26 +861,10 @@
       "url": "https://open.spotify.com/track/6Fk3FHkenVKzkppY122Jsr"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
-        "name": "Inside Out (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 469186,
-      "name": "Joy Turns to Sadness/A Growing Personality",
-      "url": "https://open.spotify.com/track/2AvRw4BD8jmmSqMERo2M2L"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+        "name": "Frozen (Original Score)",
+        "url": "https://open.spotify.com/album/7o2waKdsh4gVGgb0KgQlc0"
       },
       "artists": [
         {
@@ -878,10 +874,10 @@
       ],
       "duration_ms": 74880,
       "name": "Coronation Day - From \"Frozen\"/Score",
-      "url": "https://open.spotify.com/track/5aZR1xKXqOw72KQ8kW6rw1"
+      "url": "https://open.spotify.com/track/1nm4vrhyOvwJX5MJRlLAps"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Atlantis: The Lost Empire",
         "url": "https://open.spotify.com/album/5mkMnwIpLibABWXO8hKYXq"
@@ -897,10 +893,10 @@
       "url": "https://open.spotify.com/track/7ja0rsJBBCqZH4f3Ga9uGn"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
-        "name": "The Princess And The Frog",
-        "url": "https://open.spotify.com/album/1gq7uhfNW4QMeRr9msV68P"
+        "name": "K\u00fcss Den Frosch",
+        "url": "https://open.spotify.com/album/3IvPLkzlIrsUk54A05gKwD"
       },
       "artists": [
         {
@@ -908,12 +904,12 @@
           "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
         }
       ],
-      "duration_ms": 200053,
+      "duration_ms": 198000,
       "name": "This Is Gonna Be Good",
-      "url": "https://open.spotify.com/track/4aLwn0jWTr8TKhzypCToNF"
+      "url": "https://open.spotify.com/track/2z8kyR7LJc6F157UCv6zb9"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Walt Disney Records The Legacy Collection: The Aristocats",
         "url": "https://open.spotify.com/album/7IPWub5h9QABjRGJrRV1Cz"
@@ -929,7 +925,7 @@
       "url": "https://open.spotify.com/track/5akWgbYc0XlzLimAcY4dsM"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"
@@ -945,10 +941,10 @@
       "url": "https://open.spotify.com/track/0BNQdhKugKzoezQVkHB1TA"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
-        "name": "Finding Nemo Original Soundtrack",
-        "url": "https://open.spotify.com/album/7BWvDrobl2vSTnbDN7wXQk"
+        "name": "Finding Nemo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY"
       },
       "artists": [
         {
@@ -956,28 +952,32 @@
           "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
         }
       ],
-      "duration_ms": 79133,
+      "duration_ms": 79200,
       "name": "Finding Nemo",
-      "url": "https://open.spotify.com/track/2JpsSmsRTBeE2v4D55HVCT"
+      "url": "https://open.spotify.com/track/4MrXuZ2T6CMD0V5VURGBwx"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Hercules (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7z46fPkl9344yv05HT1Uoq"
+        "url": "https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J"
       },
       "artists": [
         {
           "name": "Alan Menken",
           "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 74493,
       "name": "Meg's Garden",
-      "url": "https://open.spotify.com/track/1OkdPo7U61GS697VFzmXTI"
+      "url": "https://open.spotify.com/track/3CZ6dewgB5uzSfIgj05xe8"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
@@ -993,10 +993,10 @@
       "url": "https://open.spotify.com/track/7G7mCFXQRHxNkbtsZPkNc9"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+        "name": "Frozen (Original Score)",
+        "url": "https://open.spotify.com/album/7o2waKdsh4gVGgb0KgQlc0"
       },
       "artists": [
         {
@@ -1006,74 +1006,30 @@
       ],
       "duration_ms": 85600,
       "name": "Heimr \u00c0rnadalr - From \"Frozen\"/Score",
-      "url": "https://open.spotify.com/track/0BVJL3uKlVSjTF6dclucdt"
+      "url": "https://open.spotify.com/track/38J7vmkCIvTtnP6Zd5bnuU"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Monsters, Inc. (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz"
-      },
-      "artists": [
-        {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
-        }
-      ],
-      "duration_ms": 126386,
-      "name": "Monsters, Inc.",
-      "url": "https://open.spotify.com/track/5e0O7MjhNHq9G67qDFM8nR"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Hercules (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7z46fPkl9344yv05HT1Uoq"
+        "url": "https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J"
       },
       "artists": [
         {
           "name": "Alan Menken",
           "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 67133,
       "name": "The Big Olive",
-      "url": "https://open.spotify.com/track/0tll8bK3dI5vXQSdIf1v8y"
+      "url": "https://open.spotify.com/track/7sdUj7OKzvHH9OsYRIXDXn"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "Coco (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Will He Shoemaker?",
-      "url": "https://open.spotify.com/track/57oVp2b8qARYTp8XbVkDaZ"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
-      "album": {
-        "name": "A Wrinkle in Time (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0YgJxL6c6nh0izOMRDKypq"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        }
-      ],
-      "duration_ms": 129440,
-      "name": "A Wrinkle in Time",
-      "url": "https://open.spotify.com/track/5DYImENykLtvddFYExR23e"
-    },
-    {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Finding Dory (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j"
@@ -1089,7 +1045,7 @@
       "url": "https://open.spotify.com/track/354K3xQPgALQEOiIYzAMat"
     },
     {
-      "added_at": "2022-07-07 20:28:11",
+      "added_at": "2022-09-16 17:51:13",
       "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"

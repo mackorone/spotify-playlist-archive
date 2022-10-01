@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6lrsZHHFL65pjpDcjv6sFi.md) - [plain]
 
 > Stockholm Music & Arts är en ny festival som i sommar, den 3 \- 5 augusti, arrangeras för första gången\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 32 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 37 likes - 32 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,0 +1,52 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TsZ1NGdk6T.md) - [plain](/playlists/plain/37i9dQZF1DX3TsZ1NGdk6T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3TsZ1NGdk6T)
+
+### [Above and Beyond](https://open.spotify.com/playlist/37i9dQZF1DX3TsZ1NGdk6T)
+
+> Good people, message and great music from the U.K\. to the world! Cover: Jonathan Ogden of Rivers & Robots
+
+[Spotify](https://open.spotify.com/user/spotify) - 4,439 likes - 40 songs - 2 hr 53 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Burn for You](https://open.spotify.com/track/2KBRvBMHFhOnFuv7H3EcGD) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4), [David Brymer](https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap) | [Discovery](https://open.spotify.com/album/2gxkIJ9gv86lsmmJMZy0a2) | 4:52 |
+| 2 | [GHOSTS](https://open.spotify.com/track/07Ql5lNTROkmTqXvrPKlXv) | [AUGUST](https://open.spotify.com/artist/3C7oXusOYjfxPDh4hTrNOx) | [GHOSTS](https://open.spotify.com/album/3FEf7QVuRacWpx8ag3YNnm) | 3:34 |
+| 3 | [New Life](https://open.spotify.com/track/0cXRVkaLOffS6EASlIMf1I) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Into Freedom](https://open.spotify.com/album/2AjawFGmuKrMnCejOof5Hy) | 3:42 |
+| 4 | [Cathedral \- Single Version](https://open.spotify.com/track/1f58yLGx0V9LO1SUCXRHTM) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Cathedral](https://open.spotify.com/album/4ei8RLoVH7O6nrdWXENMu9) | 4:29 |
+| 5 | [See](https://open.spotify.com/track/6OwFqopU0nJlOfOtVTxTCW) | [Joshua Fraser](https://open.spotify.com/artist/7KO07Ql1wQPxRzdz8pTzJU) | [Joshua Fraser](https://open.spotify.com/album/5yVgr26vTyoiDHOzHau32K) | 4:46 |
+| 6 | [Lost in Wonder](https://open.spotify.com/track/4XIHYtBd68k2PnZ6Xgk2Aq) | [Eikon](https://open.spotify.com/artist/2XszVb8hYcBZ63KGeJfQ4s), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Lost in Wonder](https://open.spotify.com/album/0QtZa0pDFbyJYyQG3gM2sf) | 5:27 |
+| 7 | [Nineveh](https://open.spotify.com/track/3mVjnicn0CrJMzydrOfiqA) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Son of My Father](https://open.spotify.com/album/4gCHt9tejb6XrEBgoEq3bE) | 5:58 |
+| 8 | [Concrete Heart](https://open.spotify.com/track/6yXGQpfe3tv5ifsMkHLyNV) | [Tina Boonstra](https://open.spotify.com/artist/2H6LfNrRiHP6J007Cgol35) | [Concrete Heart](https://open.spotify.com/album/45v7stO952U5IqCfspHyPf) | 3:39 |
+| 9 | [On & on](https://open.spotify.com/track/3FJBwU3olBn37hiu3UIR8p) | [Christ Church Manchester Music](https://open.spotify.com/artist/4Mnkb9kPN7X3jWy0oA6gx4), [Jake Woodward](https://open.spotify.com/artist/5nQgPJe124X8kMRA5U1vGb) | [Acoustic Worship, Pt\. 2](https://open.spotify.com/album/6FUIT7F8EIqzKRoS6EZfvI) | 5:23 |
+| 10 | [Cradle](https://open.spotify.com/track/6YWixadIV17c61jHGKGLYw) | [The Bright Expression](https://open.spotify.com/artist/5bWmvAR4w5M4e9zMYcQmdO) | [Cradle](https://open.spotify.com/album/0ujijdCIZZwyemQqQaJkIf) | 4:33 |
+| 11 | [Maker](https://open.spotify.com/track/20ATBiVrYits5kTEApuskj) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Maker](https://open.spotify.com/album/2JaSkQatgrvuL9hYjOCfD7) | 3:40 |
+| 12 | [Satisfy](https://open.spotify.com/track/2lE2Ek4S2vtsSSyRFNKEwX) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Satisfy](https://open.spotify.com/album/3ZtWCXJ9EovSq7PwArgzc1) | 3:26 |
+| 13 | [Something Better](https://open.spotify.com/track/0JYhzQZr1lypcxq0IJaCCJ) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Speed of Light](https://open.spotify.com/album/0YwZ7brDzjsjffi61lRG4W) | 4:03 |
+| 14 | [Time's Not Wasted](https://open.spotify.com/track/0XdzaCzzEpASkqj2NZmQ8L) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Time's Not Wasted](https://open.spotify.com/album/1Pghzlycv8NWOQf4gf5PFT) | 5:20 |
+| 15 | [Control](https://open.spotify.com/track/7qVe4ov5tPg2c8aWdmtli2) | [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Control](https://open.spotify.com/album/4hqrDfpDCRmGsZFS3fpCYa) | 3:29 |
+| 16 | [Dead Things To Life](https://open.spotify.com/track/1N6iHugrcCD36X7Jn5dcCK) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [Lament](https://open.spotify.com/album/6V52ayLRHPyg54r8WTIrQl) | 4:26 |
+| 17 | [T.R.U.S.T.](https://open.spotify.com/track/6GS1MrcDrgVB4WPJfwWQWi) | [Lydia Evangeline](https://open.spotify.com/artist/0QMNhrj5d6CkY4JJVL0eqU) | [T.R.U.S.T.](https://open.spotify.com/album/4KJ9LNpjP9rToTqcsJJfYq) | 2:59 |
+| 18 | [All Things New](https://open.spotify.com/track/1JihwqtzcGaSRnlk7PN1MI) | [Rich & Lydia Dicas](https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY) | [All Things New](https://open.spotify.com/album/0LlLqO4elrKOoyzxOtVUN1) | 5:42 |
+| 19 | [Lead Me](https://open.spotify.com/track/0niYGcuCezTyP0Gr5Twty0) | [Pyramid Park](https://open.spotify.com/artist/5sAyG51DjOUJqrh3oLZdhe) | [Vulnerability](https://open.spotify.com/album/5f3wdulmMPN4gJGjxFwRuK) | 3:15 |
+| 20 | [Mining](https://open.spotify.com/track/6LGjqbvrIdHIgUveY9i1X3) | [Hannah Barnett](https://open.spotify.com/artist/0RpwkQyleub2LrLGnXh9Tp) | [Mining](https://open.spotify.com/album/2AcNgjh2V4Oy6sas2KGgpM) | 3:19 |
+| 21 | [Take Over](https://open.spotify.com/track/7sqZS6xVoyO5t4GSnh7vJq) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Shopé](https://open.spotify.com/artist/539ZsoCQY3Y24f38ZuIBgp), [Jake James](https://open.spotify.com/artist/1fKfgvirL6NIQckM7HJ8HP) | [Take Over](https://open.spotify.com/album/1pENsyfO1lUBao7wqReG9V) | 4:04 |
+| 22 | [When You Come](https://open.spotify.com/track/5lCcaj4dWLTGqEEkT5peyt) | [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [The Difference](https://open.spotify.com/album/44LjyuIfhsMZ5kpOqgvE5R) | 5:09 |
+| 23 | [Dreams](https://open.spotify.com/track/1LbPuFrhTY3mwrIvOGGWRn) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Dreams](https://open.spotify.com/album/6d9lh8EoMSl1jmucqyoerC) | 4:48 |
+| 24 | [Through It All](https://open.spotify.com/track/5tAka5imviCbmtCbg5HPBV) | [King's Village](https://open.spotify.com/artist/5u6qWLDqTeq7QL44pRFIIW) | [Morning Has Broken](https://open.spotify.com/album/2GHtPvnGsgu2rov7zFcwUO) | 4:59 |
+| 25 | [Old Shoes](https://open.spotify.com/track/1Biv9RTNQpZGArBErSdTNH) | [Lydia Evangeline](https://open.spotify.com/artist/0QMNhrj5d6CkY4JJVL0eqU) | [Old Shoes](https://open.spotify.com/album/5azAxJkFQsKLSyl8AItfpt) | 3:00 |
+| 26 | [I Think I See You Now](https://open.spotify.com/track/748xOQEZe4t0lqAGA00ndw) | [Tina Boonstra](https://open.spotify.com/artist/2H6LfNrRiHP6J007Cgol35) | [I Think I See You Now](https://open.spotify.com/album/2U5GB23UA1vJnXG7ZTJn42) | 3:07 |
+| 27 | [Call Your Name](https://open.spotify.com/track/52IEeU0eEpuwvAFYmFSvwB) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Discovery](https://open.spotify.com/album/2gxkIJ9gv86lsmmJMZy0a2) | 4:01 |
+| 28 | [Nails](https://open.spotify.com/track/3p5SzeN2x9jR2wv3p1alNw) | [Hannah Barnett](https://open.spotify.com/artist/0RpwkQyleub2LrLGnXh9Tp) | [Nails](https://open.spotify.com/album/269qRXOdIecPmrgxZqsvsI) | 6:07 |
+| 29 | [Waterfall \(feat\. Lucy Grimble\)](https://open.spotify.com/track/6nnNPkofokKxTRDwL748CT) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Spring](https://open.spotify.com/album/0aT8MMYx6r4tN1W0ipTgOs) | 3:29 |
+| 30 | [From the Dust](https://open.spotify.com/track/6TrisNvik3yrtm9PJUQZjg) | [Benjamin Torrens](https://open.spotify.com/artist/44pylNYJsi2kZZNyxruroW) | [Starling Assemblies](https://open.spotify.com/album/1hUM5OOu9xOt5FDiKAdgx2) | 3:33 |
+| 31 | [HEAL](https://open.spotify.com/track/4sRxvauRWhetdUMga1kHqV) | [AUGUST](https://open.spotify.com/artist/3C7oXusOYjfxPDh4hTrNOx) | [HEAL](https://open.spotify.com/album/5HgXvHC3bkz0pi5bLCFYPc) | 3:15 |
+| 32 | [Fly](https://open.spotify.com/track/7i5vDZeaG0kKdZp449uFUz) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hello Maker](https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j) | 3:26 |
+| 33 | [Leap of Faith \- Live from Haarlem, Holland](https://open.spotify.com/track/0NB9JRx1mOpTP7qt4FxO6X) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Holly Roe](https://open.spotify.com/artist/0K1LfFBtl1nVq4nnzK0uEu) | [Love Song for a City \(Live\)](https://open.spotify.com/album/6YFDhLe3hFshvBnDyUWeDh) | 7:55 |
+| 34 | [Don't Be Long](https://open.spotify.com/track/2BDbpnM75CIOiHTvaVNIkr) | [Army of Bones](https://open.spotify.com/artist/1md7FOAzbCfuN20FNgpipS) | [Army of Bones](https://open.spotify.com/album/2r5nVGJTAByyxMLmxc3keL) | 5:47 |
+| 35 | [Bound](https://open.spotify.com/track/0rvhiH38OoFU2tHbImKjnz) | [K\. Gautier](https://open.spotify.com/artist/2kupt6LAQcK40T8wiVZl66) | [Bound](https://open.spotify.com/album/3UoTVPgtgTohKhOChgJga9) | 4:24 |
+| 36 | [Wide Place](https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [Wide Place](https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp) | 4:22 |
+| 37 | [SBU](https://open.spotify.com/track/0AC2bTFcas9IsGrbxLctST) | [AUGUST](https://open.spotify.com/artist/3C7oXusOYjfxPDh4hTrNOx) | [SBU](https://open.spotify.com/album/2w8KHM1qqdCaimkTgX3qYN) | 3:51 |
+| 38 | [Weightless](https://open.spotify.com/track/6TBDSrE9o2QzcBXUswrDm6) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [WWJD](https://open.spotify.com/album/1cRVHT6fWzQdEUSjlQkmma) | 3:31 |
+| 39 | [In Your Midst](https://open.spotify.com/track/4FCFvZbHADzbz0XZdsDsGN) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Miles & Years](https://open.spotify.com/album/7jtuyEUzLytmklXL5KRoYh) | 5:32 |
+| 40 | [The Hero](https://open.spotify.com/track/3gWNpobkxDr1wxhxLqRq8y) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [The Hero](https://open.spotify.com/album/6AhJNVQDkfw7sf8aVMnBqV) | 3:14 |
+
+Snapshot ID: `MTUzNjkyNDQzNCwwMDAwMDAwMGJhMGM1MGRmN2NhOWNkZGEwZWZlYmFkYzNmNTUyZDFj`

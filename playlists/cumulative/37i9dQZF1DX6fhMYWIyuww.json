@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 253653,
       "name": "All Right",
       "url": "https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": "2022-08-14",
       "duration_ms": 220786,
       "name": "Don't Turn Me Away",
       "url": "https://open.spotify.com/track/5jEuU57nvKw74sYR9Rcej5"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": "2022-07-24",
       "duration_ms": 262693,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221933,
       "name": "Everybody Needs Love",
       "url": "https://open.spotify.com/track/0rLemgaftUhE0iYxp6VQSm"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201346,
       "name": "Fresh Wind",
       "url": "https://open.spotify.com/track/36SrRVOxaL3YgE5t2VHh7k"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239933,
       "name": "How Can This Be Love",
       "url": "https://open.spotify.com/track/0I2h9T7HeYjP9yALFN8dJt"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 204666,
       "name": "If I Saw You Again",
       "url": "https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-24",
       "duration_ms": 202600,
       "name": "Let Out",
       "url": "https://open.spotify.com/track/3q4aF4bp248tWr7lAyoFHe"
@@ -728,6 +728,24 @@
     },
     {
       "album": {
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281293,
+      "name": "Love Is the Answer (Single Version)",
+      "url": "https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI"
+    },
+    {
+      "album": {
         "name": "Rhino Hi-Five: England Dan & John Ford Coley",
         "url": "https://open.spotify.com/album/40V7QExJNlpQZaxZf1JTF5"
       },
@@ -739,7 +757,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 281293,
       "name": "Love Is the Answer - Single Version",
       "url": "https://open.spotify.com/track/7xKGghZ59EGUT0Ft9BRVMr"
@@ -757,10 +775,28 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218346,
       "name": "Love the One You're With",
       "url": "https://open.spotify.com/track/5cKb2kQzChjhE5Rd1ExYNY"
+    },
+    {
+      "album": {
+        "name": "Givin' It Back",
+        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223520,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
     },
     {
       "album": {
@@ -793,10 +829,28 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250173,
       "name": "MARGARITA",
       "url": "https://open.spotify.com/track/63y6jcHLksixY9FKiitvrv"
+    },
+    {
+      "album": {
+        "name": "A HOLE IN THE WALL",
+        "url": "https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz"
+      },
+      "artists": [
+        {
+          "name": "Marc Jordan",
+          "url": "https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250173,
+      "name": "MARGARITA",
+      "url": "https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON"
     },
     {
       "album": {
@@ -811,7 +865,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191946,
       "name": "Marina Del Rey",
       "url": "https://open.spotify.com/track/23TcFJ0XSv7jugzpucHNW7"
@@ -847,7 +901,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 224677,
       "name": "Melanie",
       "url": "https://open.spotify.com/track/60rJnCfWEzBG27ROizelpE"
@@ -883,7 +937,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 253653,
       "name": "Moonlighting",
       "url": "https://open.spotify.com/track/6GOTL6XgV6eiDTBsKIhzc9"
@@ -977,7 +1031,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 221133,
       "name": "On the Beach",
       "url": "https://open.spotify.com/track/5QrNXvTQEuBb5iLoIAAuvk"
@@ -995,7 +1049,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 227066,
       "name": "One More Look At The Night",
       "url": "https://open.spotify.com/track/7vUbFCefkYWl4uSpMManF1"
@@ -1319,7 +1373,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 220853,
       "name": "Take Me to Your Heaven",
       "url": "https://open.spotify.com/track/2QQDZl9xzGOM3z0JevtVgZ"
@@ -1337,7 +1391,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 285906,
       "name": "The Lady Wants to Know",
       "url": "https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0"
@@ -1373,7 +1427,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-07-26",
       "duration_ms": 261200,
       "name": "The Sailor's Song",
       "url": "https://open.spotify.com/track/0N4DPoheO9PBfubvvsckvt"
@@ -1481,7 +1535,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 195040,
       "name": "Trail To Your Heart (Sailing Without A Sail)",
       "url": "https://open.spotify.com/track/3IP2UScjrHeDa1gEM1xTme"
@@ -1575,7 +1629,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 172240,
       "name": "We'll Never Have to Say Goodbye Again - Single Version",
       "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
@@ -1701,7 +1755,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 191093,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW"

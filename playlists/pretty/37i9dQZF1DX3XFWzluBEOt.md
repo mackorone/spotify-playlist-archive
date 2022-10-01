@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XFWzluBEOt.md) - [plain]
 
 > En el corazón de los fanáticos, canciones que navegaron bajo la superficie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,064 likes - 27 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,327 likes - 27 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XFWzluBEOt.md) - [plain]
 | 26 | [Coral](https://open.spotify.com/track/13fEiuZo5A4aiPNRds3OpM) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 3:42 |
 | 27 | [Languis \(Nueva Versión 1989\) \- Remasterizado 2007](https://open.spotify.com/track/1S8ifDYCyMDq7khb4b98MO) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Languis \(Remastered\)](https://open.spotify.com/album/0m1Jpz8kxFIewCTy2NdkVt) | 5:43 |
 
-Snapshot ID: `MTU4MjgwODcxMCwwMDAwMDAwMjAwMDAwMTcwODZjMDNlMWYwMDAwMDE3MDgyMjdmYzE4`
+Snapshot ID: `MTU4MjgwODcxMCwwMDAwMDAwMGM2NzBkNzA1ZmM1NjAwNzYzMTBhNWYwZDY4NWY4MDA2`

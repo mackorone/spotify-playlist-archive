@@ -9,7 +9,7 @@
     {
       "album": {
         "name": "CRAZY IN LOVE",
-        "url": "https://open.spotify.com/album/1YsrB8P1PfVxuY9HeD7lkN"
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
       },
       "artists": [
         {
@@ -20,6 +20,24 @@
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174440,
+      "name": "#Twenty",
+      "url": "https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/1YsrB8P1PfVxuY9HeD7lkN"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 174440,
       "name": "#Twenty",
       "url": "https://open.spotify.com/track/2eWQpIEAfotVXiIZPtvMqr"
@@ -81,7 +99,7 @@
     {
       "album": {
         "name": "NO LIMIT",
-        "url": "https://open.spotify.com/album/1tS3m75eaIrnhic359uVcY"
+        "url": "https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII"
       },
       "artists": [
         {
@@ -92,6 +110,24 @@
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/3nZmmlE1Fm6FLGDExRimAi"
+    },
+    {
+      "album": {
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/1tS3m75eaIrnhic359uVcY"
+      },
+      "artists": [
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 197960,
       "name": "Autobahn",
       "url": "https://open.spotify.com/track/6tXdZhb2h63rv7EcSo5qKY"
@@ -160,6 +196,28 @@
     },
     {
       "album": {
+        "name": "CLUBLIFE, VOL. 5: CHINA",
+        "url": "https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154146,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/4cs99TEADEOcGm5DRRFyOw"
+    },
+    {
+      "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/5oe0zIjAU9pD4vinHLR0Eq"
       },
@@ -175,7 +233,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154146,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/7Mq3vRtwjRdDTxpQXrS8k6"
@@ -409,7 +467,7 @@
     {
       "album": {
         "name": "Know No Better",
-        "url": "https://open.spotify.com/album/4ox0wVwssaVMH3Wp0KpQss"
+        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
       },
       "artists": [
         {
@@ -425,8 +483,48 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183124,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/4fbS7h0x7zwYD5XHVaEH4d"
+    },
+    {
+      "album": {
+        "name": "Know No Better",
+        "url": "https://open.spotify.com/album/4ox0wVwssaVMH3Wp0KpQss"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183124,
       "name": "Jump (feat. Busy Signal)",
       "url": "https://open.spotify.com/track/3TezRGYXNITwmpgi2oQI0h"
+    },
+    {
+      "album": {
+        "name": "NCT #127 Neo Zone - The 2nd Album",
+        "url": "https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "MAD DOG",
+      "url": "https://open.spotify.com/track/1x60WPvUlRvUZFMaMMDGQi"
     },
     {
       "album": {
@@ -441,7 +539,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183186,
       "name": "MAD DOG",
       "url": "https://open.spotify.com/track/7ARkzETM5vjxptipR501ue"

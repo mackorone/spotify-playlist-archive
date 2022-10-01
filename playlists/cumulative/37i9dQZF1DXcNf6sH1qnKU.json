@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/1f6GKy69ltGq9j7EfJJ1BL"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-28",
       "duration_ms": 318800,
       "name": "23",
       "url": "https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 284200,
       "name": "Aladdin's Story",
       "url": "https://open.spotify.com/track/7iJJBAXSeuu9ymCdiPPscE"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170333,
       "name": "Breathe in, Breathe Out",
       "url": "https://open.spotify.com/track/06fSbKiMP2Z7vzYG4WOBXB"
@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "Cherry-coloured Funk",
+      "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
+    },
+    {
+      "album": {
         "name": "Heaven Or Las Vegas (Remastered)",
         "url": "https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192466,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 361213,
       "name": "Crazy for You",
       "url": "https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o"
@@ -199,7 +217,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 272498,
       "name": "Dance AM",
       "url": "https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS"
@@ -217,10 +235,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 320328,
       "name": "Days",
       "url": "https://open.spotify.com/track/716OZGLBg3vkNfMTpfbYm6"
+    },
+    {
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N"
+      },
+      "artists": [
+        {
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459173,
+      "name": "Desire Lines",
+      "url": "https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj"
     },
     {
       "album": {
@@ -235,7 +271,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 459506,
       "name": "Desire Lines",
       "url": "https://open.spotify.com/track/63JP68VirmCXtWRoMTX8Xi"
@@ -261,7 +297,7 @@
     {
       "album": {
         "name": "7",
-        "url": "https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM"
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
       },
       "artists": [
         {
@@ -272,6 +308,24 @@
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 265373,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 265373,
       "name": "Dive",
       "url": "https://open.spotify.com/track/0v8UvAhruTvkA90MR7039n"
@@ -307,7 +361,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 288617,
       "name": "Echo's Answer",
       "url": "https://open.spotify.com/track/5bDGHpp82k7X6U2mRSae0E"
@@ -325,7 +379,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 269747,
       "name": "Everlastingly Yours",
       "url": "https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J"
@@ -379,10 +433,64 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209133,
       "name": "For Love",
       "url": "https://open.spotify.com/track/2Fq7EkgIuXr3mzoZXJyRSn"
+    },
+    {
+      "album": {
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw"
+      },
+      "artists": [
+        {
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209133,
+      "name": "For Love",
+      "url": "https://open.spotify.com/track/3KiKpbpJp9QKuTZb9ocfJi"
+    },
+    {
+      "album": {
+        "name": "Melody of Certain Damaged Lemons",
+        "url": "https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "For the Damaged Coda",
+      "url": "https://open.spotify.com/track/6lvJDlBrtabJWiBlMTGxKs"
+    },
+    {
+      "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298400,
+      "name": "Heaven or Las Vegas",
+      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok"
     },
     {
       "album": {
@@ -397,7 +505,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298400,
       "name": "Heaven Or Las Vegas",
       "url": "https://open.spotify.com/track/1bwXRScnt3k6vSyVqcKyNj"
@@ -451,10 +559,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 365533,
       "name": "In Particular",
       "url": "https://open.spotify.com/track/43YeRGBeVHrTssEOCLPg6H"
+    },
+    {
+      "album": {
+        "name": "Melody of Certain Damaged Lemons",
+        "url": "https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365533,
+      "name": "In Particular",
+      "url": "https://open.spotify.com/track/4rz3AwWL2wbJoye11pbULz"
     },
     {
       "album": {
@@ -505,7 +631,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-07-25",
       "duration_ms": 240736,
       "name": "Jennifer",
       "url": "https://open.spotify.com/track/6uFXA44CcLLWbNY5kYSOK6"
@@ -559,10 +685,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209093,
       "name": "Kangaroo (Remastered)",
       "url": "https://open.spotify.com/track/1HdIqEOl9MxoJNsz33VOvW"
+    },
+    {
+      "album": {
+        "name": "It'll End In Tears (Remastered)",
+        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
+      },
+      "artists": [
+        {
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209093,
+      "name": "Kangaroo - Remastered",
+      "url": "https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo"
     },
     {
       "album": {
@@ -595,10 +739,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244240,
       "name": "Kinky Love",
       "url": "https://open.spotify.com/track/3Uz3K1Ctq6MOIDqRddKHXo"
+    },
+    {
+      "album": {
+        "name": "Flesh Balloon",
+        "url": "https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx"
+      },
+      "artists": [
+        {
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244240,
+      "name": "Kinky Love",
+      "url": "https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM"
     },
     {
       "album": {
@@ -613,10 +775,46 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 301866,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/0Fc8hmAuH0rHYq2Ur9t07Y"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301866,
+      "name": "Lazuli",
+      "url": "https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY"
+    },
+    {
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
       "album": {
@@ -631,10 +829,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223573,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/1MwGbyzRmPXWABLIdW8tzG"
+    },
+    {
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
       "album": {
@@ -649,10 +865,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 218000,
       "name": "Lose My Breath - Remastered Version",
       "url": "https://open.spotify.com/track/5cbgkkdNVvwimsEEsdDTq1"
+    },
+    {
+      "album": {
+        "name": "The Waves",
+        "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
+      },
+      "artists": [
+        {
+          "name": "Tamaryn",
+          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220760,
+      "name": "Love Fade",
+      "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
     },
     {
       "album": {
@@ -667,10 +901,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220760,
       "name": "Love Fade",
       "url": "https://open.spotify.com/track/24ZsdPJj8uwhCxo4uanFpG"
+    },
+    {
+      "album": {
+        "name": "Thank Your Lucky Stars",
+        "url": "https://open.spotify.com/album/4WbFCzKALujxRNeoeLS5zO"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240770,
+      "name": "Majorette",
+      "url": "https://open.spotify.com/track/1xHrTucRP7hVViMekBfu7S"
     },
     {
       "album": {
@@ -685,7 +937,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240770,
       "name": "Majorette",
       "url": "https://open.spotify.com/track/73guNXAOFu7XB6Sby4ahCp"
@@ -775,7 +1027,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-29",
       "duration_ms": 354640,
       "name": "Nothing Natural",
       "url": "https://open.spotify.com/track/6zrL6etENCa2ZEwnPcxGkb"
@@ -793,7 +1045,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 255426,
       "name": "Off Your Face",
       "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
@@ -865,7 +1117,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-26",
       "duration_ms": 314706,
       "name": "Pearl",
       "url": "https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA"
@@ -883,7 +1135,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 290800,
       "name": "Pearl - Edit",
       "url": "https://open.spotify.com/track/0kCzcpTLcdi6ClEI2x28hb"
@@ -901,10 +1153,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201066,
       "name": "Pulling Our Weight",
       "url": "https://open.spotify.com/track/22tKhWXrNZ3XxlOIBXJlkm"
+    },
+    {
+      "album": {
+        "name": "Passive Aggressive",
+        "url": "https://open.spotify.com/album/6hPFLCX84m3LzdOJDQlkTZ"
+      },
+      "artists": [
+        {
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201066,
+      "name": "Pulling Our Weight",
+      "url": "https://open.spotify.com/track/6HhqiKpkJ37qa98TiuYla3"
     },
     {
       "album": {
@@ -937,10 +1207,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 384400,
       "name": "She Hangs Brightly",
       "url": "https://open.spotify.com/track/0PwKkV9wQCpbCxJmYEkcsd"
+    },
+    {
+      "album": {
+        "name": "Brickbat",
+        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
+      },
+      "artists": [
+        {
+          "name": "Piroshka",
+          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 318044,
+      "name": "She's Unreal",
+      "url": "https://open.spotify.com/track/7Bqj7aZeBOwtrgx6JXC7IG"
     },
     {
       "album": {
@@ -955,10 +1243,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 337600,
       "name": "Sight of You",
       "url": "https://open.spotify.com/track/2XMwak0QKaukNo502mcufY"
+    },
+    {
+      "album": {
+        "name": "The Comforts of Madness",
+        "url": "https://open.spotify.com/album/3YZJ5Uiyy1vCMubtZDG7a2"
+      },
+      "artists": [
+        {
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337600,
+      "name": "Sight of You",
+      "url": "https://open.spotify.com/track/7fectUUMiPjZijOJIJaN3S"
     },
     {
       "album": {
@@ -973,7 +1279,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 237226,
       "name": "Silently",
       "url": "https://open.spotify.com/track/5ETNQ6NioKCYvOmEXdRb2W"
@@ -998,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "It'll End In Tears (Remastered)",
+        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
+      },
+      "artists": [
+        {
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211093,
+      "name": "Song To The Siren - Remastered",
+      "url": "https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt"
+    },
+    {
+      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/35vTE3hx3AAXtM6okpJIIt"
       },
@@ -1009,7 +1333,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-24",
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/0hNhlwnzMLzZSlKGDCuHOo"
@@ -1027,10 +1351,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-27",
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/5d8CreUdJvZejvTUo1IHLw"
+    },
+    {
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "album": {
@@ -1063,10 +1405,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270918,
       "name": "Sugar for the Pill",
       "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
+    },
+    {
+      "album": {
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
     },
     {
       "album": {
@@ -1081,7 +1441,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 191360,
       "name": "Sunbathing",
       "url": "https://open.spotify.com/track/0Mx4zIk3PqzD8Fne4KSssM"
@@ -1099,7 +1459,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-07-28",
       "duration_ms": 249021,
       "name": "Sure",
       "url": "https://open.spotify.com/track/3zdTA309WHMFZo1l6IAiPu"
@@ -1117,10 +1477,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-07-27",
       "duration_ms": 293840,
       "name": "Swallow (EP Version)",
       "url": "https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS"
+    },
+    {
+      "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
+      },
+      "artists": [
+        {
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317093,
+      "name": "Sweetness and Light",
+      "url": "https://open.spotify.com/track/1Pr2b8WV0rFkSAjrnzUeDc"
     },
     {
       "album": {
@@ -1135,10 +1513,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 317093,
       "name": "Sweetness and Light",
       "url": "https://open.spotify.com/track/577LINEVunl9HDxC4vxuAx"
+    },
+    {
+      "album": {
+        "name": "Tal Uno",
+        "url": "https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267274,
+      "name": "Tal Uno",
+      "url": "https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S"
     },
     {
       "album": {
@@ -1171,7 +1567,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": "2022-07-26",
       "duration_ms": 185132,
       "name": "The Book Lovers",
       "url": "https://open.spotify.com/track/2lkX0DmHuMxfspxVTLMxdy"
@@ -1207,7 +1603,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 318670,
       "name": "The Spiral Arm (Edit)",
       "url": "https://open.spotify.com/track/2xC7k5bQpiveeTlUSscstA"
@@ -1225,7 +1621,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240373,
       "name": "The World Backwards",
       "url": "https://open.spotify.com/track/3KGOHUtSdDMUQ9v7V4DmW1"
@@ -1243,7 +1639,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 167000,
       "name": "Thoughtforms - 2nd Version",
       "url": "https://open.spotify.com/track/7ARIbfiiJA4nyuXyXsGxJL"
@@ -1261,7 +1657,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257173,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/6MC9eyZJiicT4tT2YOqf5d"
@@ -1301,7 +1697,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 252400,
       "name": "Transparent Radiation - Single Version",
       "url": "https://open.spotify.com/track/3doCN5B3fuqeJ06AY6Cbxx"
@@ -1337,7 +1733,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": "2022-07-22",
       "duration_ms": 231506,
       "name": "Watersong",
       "url": "https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY"
@@ -1395,6 +1791,24 @@
       "duration_ms": 216038,
       "name": "Yam Yam",
       "url": "https://open.spotify.com/track/7kyiHjkFdmHcYcIJtFAdaF"
+    },
+    {
+      "album": {
+        "name": "Blood (Remastered)",
+        "url": "https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9"
+      },
+      "artists": [
+        {
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194226,
+      "name": "You And Your Sister - Remastered",
+      "url": "https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcNf6sH1qnKU"

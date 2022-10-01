@@ -109,7 +109,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 190480,
       "name": "50 Hz Gamma",
       "url": "https://open.spotify.com/track/1MIz2SmiVMvdQ62N8su8H0"
@@ -657,6 +657,24 @@
       "duration_ms": 172631,
       "name": "Alpha Waves 136Hz - 143Hz",
       "url": "https://open.spotify.com/track/4ijiUV9s3zXUASLVoTq42I"
+    },
+    {
+      "album": {
+        "name": "Binaural Zones",
+        "url": "https://open.spotify.com/album/25HMKjzXf5IpFE1Zfw9Kba"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194816,
+      "name": "Alpha Zone 12 Hz",
+      "url": "https://open.spotify.com/track/5pvXmEJq200PuwgHxHJALZ"
     },
     {
       "album": {
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 212500,
       "name": "Binaural Alpha Sinus 98Hz - 108Hz",
       "url": "https://open.spotify.com/track/2i3i2pnpF9atvlv9WsZjGO"
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 142663,
       "name": "Binaural Beta Sinus 100 Hz - 114 Hz",
       "url": "https://open.spotify.com/track/4BXh6etJ4wKucRbT5oU6kG"
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 108483,
       "name": "Binaural Gamma Sinus - Fountain of youth",
       "url": "https://open.spotify.com/track/5AHgXRruc0s1h1avTEomFP"
@@ -2003,7 +2021,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 200258,
       "name": "Binaural Gamma Sinus 100 Hz Drone II",
       "url": "https://open.spotify.com/track/0HHD15EtlOlpYmrYInqXjR"
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 141920,
       "name": "Binaural Gamma Sinus 300 Hz - L 350 Hz - R",
       "url": "https://open.spotify.com/track/5toNvmY1QmLepVZ6aQz2FG"
@@ -2453,10 +2471,64 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 108483,
       "name": "Binaural Gamma Sinus Smooth",
       "url": "https://open.spotify.com/track/1Mb9AEykvFRq17KcIgtJ3v"
+    },
+    {
+      "album": {
+        "name": "Binaural Gamma Voyage (132 Hz-144 Hz)",
+        "url": "https://open.spotify.com/album/0xjzdHpgKNy5jusRVHV4oz"
+      },
+      "artists": [
+        {
+          "name": "Guglielmo Markoni",
+          "url": "https://open.spotify.com/artist/1Jfj6AuDorlEytpeJrB419"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164928,
+      "name": "Binaural Gamma Voyage (132 Hz-144 Hz)",
+      "url": "https://open.spotify.com/track/6KV5CVoCjuHX9FOJilDrcw"
+    },
+    {
+      "album": {
+        "name": "Assembly of Sines",
+        "url": "https://open.spotify.com/album/4BrlUJIq4Bb0ZoOQcvpIcy"
+      },
+      "artists": [
+        {
+          "name": "Assembly of Sines",
+          "url": "https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Binaural Sines 7hz Alpha - 58hz - 65hz",
+      "url": "https://open.spotify.com/track/2DbwsaYDvznsSkh4c5XgmI"
+    },
+    {
+      "album": {
+        "name": "Attractive Alpha",
+        "url": "https://open.spotify.com/album/0xOcPoHBjNrr6fhi31rw3z"
+      },
+      "artists": [
+        {
+          "name": "Restful SInus",
+          "url": "https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Binaural Vibe Alpha Sinus 64-74 Hz",
+      "url": "https://open.spotify.com/track/3QjHNYEzGUDfMOHqjnPJJA"
     },
     {
       "album": {
@@ -2802,6 +2874,24 @@
     },
     {
       "album": {
+        "name": "Attractive Alpha",
+        "url": "https://open.spotify.com/album/0xOcPoHBjNrr6fhi31rw3z"
+      },
+      "artists": [
+        {
+          "name": "Restful SInus",
+          "url": "https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160952,
+      "name": "Eventi Alpha SInus 88-94 Hz",
+      "url": "https://open.spotify.com/track/3fiD14RIJ0BA6IACMli2rW"
+    },
+    {
+      "album": {
         "name": "Access to the Subconcious",
         "url": "https://open.spotify.com/album/5Z4FDimtghanNx9Yzuu64m"
       },
@@ -2939,7 +3029,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 201168,
       "name": "Focus in the morning - Alpha Sinus 100Hz - 107Hz",
       "url": "https://open.spotify.com/track/1UD5b074en48msjATTQIx4"
@@ -3011,7 +3101,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 214510,
       "name": "Gamma 120 Hz - L 170 Hz - R",
       "url": "https://open.spotify.com/track/4AVTXON0uHQZFvtzrAEo4K"
@@ -3047,7 +3137,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 208298,
       "name": "Gamma 200 Hz - L 250 Hz - R",
       "url": "https://open.spotify.com/track/3TFbIkQPYihgiDl4CkFdBC"
@@ -3108,6 +3198,24 @@
     },
     {
       "album": {
+        "name": "Binaural Air",
+        "url": "https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145979,
+      "name": "Gamma Air 34 Hz",
+      "url": "https://open.spotify.com/track/4uZV7LGieE3kbuwFMUK3SO"
+    },
+    {
+      "album": {
         "name": "Binaural Relaxation",
         "url": "https://open.spotify.com/album/3ygaPFYfIt6myJzA36AV2c"
       },
@@ -3137,7 +3245,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 245000,
       "name": "Gamma Binaural (78.3Hz -157.0Hz)",
       "url": "https://open.spotify.com/track/2Ch4AA1LTMHrzUTwGbWgwQ"
@@ -3209,7 +3317,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 166000,
       "name": "Gamma Pads",
       "url": "https://open.spotify.com/track/20Hjp1jX3rboCc5mh9ZxXd"
@@ -3281,7 +3389,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 204335,
       "name": "Gamma Sinus 200 Hz - 250 Hz",
       "url": "https://open.spotify.com/track/6RDPZ8uFDTBHKANOHDVm1m"
@@ -3425,7 +3533,7 @@
       ],
       "date_added": "2020-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 209406,
       "name": "Gamma Ultimatum",
       "url": "https://open.spotify.com/track/2Rtv0REDArZp40lQjy4NgO"
@@ -3796,6 +3904,24 @@
     },
     {
       "album": {
+        "name": "Alfalfa Waves",
+        "url": "https://open.spotify.com/album/52NBxGjDDYRb3yVjpw2xgF"
+      },
+      "artists": [
+        {
+          "name": "Drone-Dax",
+          "url": "https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176825,
+      "name": "Miyus Alpha Waves 93-103 Hz",
+      "url": "https://open.spotify.com/track/6aWrkNQd64IWVfRZysKArA"
+    },
+    {
+      "album": {
         "name": "Deep Ocean",
         "url": "https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP"
       },
@@ -4117,6 +4243,24 @@
       "duration_ms": 208000,
       "name": "Sinus 90 Hz - L 120 Hz - R Drone",
       "url": "https://open.spotify.com/track/0v2mApJ0py4fN6dqzkBJ5t"
+    },
+    {
+      "album": {
+        "name": "Sleepy Mountains (Binaural Alpha 128Hz - 133Hz)",
+        "url": "https://open.spotify.com/album/5NkVmf5vBPzHfQJXgdg76M"
+      },
+      "artists": [
+        {
+          "name": "Flying Rivers",
+          "url": "https://open.spotify.com/artist/0dpYklrmz6pA7Yc3w48IPk"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156421,
+      "name": "Sleepy Mountains (Binaural Alpha 128Hz - 133Hz)",
+      "url": "https://open.spotify.com/track/5Wp0TFlJeChDBh4HY5z022"
     },
     {
       "album": {

@@ -63,7 +63,7 @@
     {
       "album": {
         "name": "Roh Alby",
-        "url": "https://open.spotify.com/album/49bjvVv25Lp7SGu1YOZg5x"
+        "url": "https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9"
       },
       "artists": [
         {
@@ -74,27 +74,27 @@
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 277147,
+      "duration_ms": 277026,
       "name": "Ahl El Malama",
-      "url": "https://open.spotify.com/track/2YdUrPVlTpYnulFE6p5Svq"
+      "url": "https://open.spotify.com/track/5ROxylabINxB4l9Y6vxaBt"
     },
     {
       "album": {
-        "name": "Sahra",
-        "url": "https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH"
+        "name": "Roh Alby",
+        "url": "https://open.spotify.com/album/49bjvVv25Lp7SGu1YOZg5x"
       },
       "artists": [
         {
-          "name": "Khaled",
-          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+          "name": "Mohamed Mohie",
+          "url": "https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4"
         }
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 259666,
-      "name": "Aicha - Version Mixte",
-      "url": "https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa"
+      "date_removed": "2022-07-29",
+      "duration_ms": 277147,
+      "name": "Ahl El Malama",
+      "url": "https://open.spotify.com/track/2YdUrPVlTpYnulFE6p5Svq"
     },
     {
       "album": {
@@ -109,10 +109,28 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191506,
       "name": "Al Yadi El Yadi",
       "url": "https://open.spotify.com/track/5pQdsTQ9AqO7azscRia6o4"
+    },
+    {
+      "album": {
+        "name": "Rege'et Wahdi",
+        "url": "https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx"
+      },
+      "artists": [
+        {
+          "name": "Wadih El Safi",
+          "url": "https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193375,
+      "name": "Al Yadi El Yadi",
+      "url": "https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe"
     },
     {
       "album": {
@@ -170,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Sahra",
+        "url": "https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259666,
+      "name": "A\u00efcha - Version Mixte",
+      "url": "https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa"
+    },
+    {
+      "album": {
         "name": "Sahrany",
         "url": "https://open.spotify.com/album/7lSz0EJJ5fAABoP7CVIPN5"
       },
@@ -189,7 +225,7 @@
     {
       "album": {
         "name": "Brand New Day",
-        "url": "https://open.spotify.com/album/2lKs5704qlvP9V9muKZwqY"
+        "url": "https://open.spotify.com/album/1r6NoADkFvVSpyFnJjcuLe"
       },
       "artists": [
         {
@@ -204,6 +240,28 @@
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 285893,
+      "name": "Desert Rose",
+      "url": "https://open.spotify.com/track/4WhyHQ2BXi2VU1iaFbF6jv"
+    },
+    {
+      "album": {
+        "name": "Brand New Day",
+        "url": "https://open.spotify.com/album/2lKs5704qlvP9V9muKZwqY"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Cheb Mami",
+          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 285960,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/3zYufmyv6HOuiHn1eMR6Ja"
@@ -273,7 +331,7 @@
     {
       "album": {
         "name": "Sahrany",
-        "url": "https://open.spotify.com/album/7lSz0EJJ5fAABoP7CVIPN5"
+        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
       },
       "artists": [
         {
@@ -284,9 +342,45 @@
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 225346,
+      "name": "El Ayam El Helwa",
+      "url": "https://open.spotify.com/track/2tVmbxRx2W0SN3OVXZfIGL"
+    },
+    {
+      "album": {
+        "name": "Sahrany",
+        "url": "https://open.spotify.com/album/7lSz0EJJ5fAABoP7CVIPN5"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 227082,
       "name": "El Ayam El Helwa",
       "url": "https://open.spotify.com/track/0SgNysKe6HDmTTI2WgI0oi"
+    },
+    {
+      "album": {
+        "name": "El Hob El Ha'ei'y",
+        "url": "https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Fouad",
+          "url": "https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344137,
+      "name": "El Hob El Ha'ei'y",
+      "url": "https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7"
     },
     {
       "album": {
@@ -301,7 +395,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 344137,
       "name": "El Hob El Hakiky",
       "url": "https://open.spotify.com/track/1M5rc5fRPuFPZsHEV08VLU"
@@ -344,6 +438,24 @@
     },
     {
       "album": {
+        "name": "Habiby Da",
+        "url": "https://open.spotify.com/album/4L55wqHzJVwxNDHSqapcEt"
+      },
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267106,
+      "name": "Habiby Da",
+      "url": "https://open.spotify.com/track/5N0w2n2B3OzvBZv4WjcVyA"
+    },
+    {
+      "album": {
         "name": "Habiby Dah",
         "url": "https://open.spotify.com/album/57HScw4eUediqybWkFEyTF"
       },
@@ -355,7 +467,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267168,
       "name": "Habiby Dah",
       "url": "https://open.spotify.com/track/42cnSk5u3sahzRWArTpetn"
@@ -445,10 +557,28 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 318933,
       "name": "Lail wa ra'ed wa reeh",
       "url": "https://open.spotify.com/track/3LYAlpFX0rhj6Qjk2XypDo"
+    },
+    {
+      "album": {
+        "name": "Shafouha Wsaroo Yegolou",
+        "url": "https://open.spotify.com/album/6EXBTvB64hbk2R6jtFiaVu"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315612,
+      "name": "Lail Wa Raed Wa Reeh",
+      "url": "https://open.spotify.com/track/0J49Oq7Y8O4CSbdZeEVSBT"
     },
     {
       "album": {
@@ -535,10 +665,28 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 321933,
       "name": "Maghrorah",
       "url": "https://open.spotify.com/track/0S7giBP11RxHzCAmT6Tmmi"
+    },
+    {
+      "album": {
+        "name": "Baad Al Santen",
+        "url": "https://open.spotify.com/album/6XuB4Rlnkf3V0bIlaLyCVd"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321933,
+      "name": "Maghrorah",
+      "url": "https://open.spotify.com/track/3GjTCj3ca0XlIVs6wGyWwD"
     },
     {
       "album": {
@@ -633,7 +781,7 @@
     {
       "album": {
         "name": "Nour El Chams",
-        "url": "https://open.spotify.com/album/0BFHsOCWhl6xlGpCFdrE2g"
+        "url": "https://open.spotify.com/album/6eugJv6YMD7lrYasmyOWOf"
       },
       "artists": [
         {
@@ -644,6 +792,24 @@
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 273106,
+      "name": "Nour El Chams",
+      "url": "https://open.spotify.com/track/6aza2wOUMcyM46Jx4aFHeH"
+    },
+    {
+      "album": {
+        "name": "Nour El Chams",
+        "url": "https://open.spotify.com/album/0BFHsOCWhl6xlGpCFdrE2g"
+      },
+      "artists": [
+        {
+          "name": "Pascale Machaalani",
+          "url": "https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 273133,
       "name": "Nour El Chams",
       "url": "https://open.spotify.com/track/6YbSbT4tYkeDZ2C73Y6cWA"
@@ -669,7 +835,7 @@
     {
       "album": {
         "name": "Sahrany",
-        "url": "https://open.spotify.com/album/6vyMe2Tnu0oTCFRYpH3NXj"
+        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
       },
       "artists": [
         {
@@ -680,6 +846,24 @@
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 259613,
+      "name": "Sahrany",
+      "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
+    },
+    {
+      "album": {
+        "name": "Sahrany",
+        "url": "https://open.spotify.com/album/6vyMe2Tnu0oTCFRYpH3NXj"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 259160,
       "name": "Sahrany - \u0633\u062d\u0631\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/7cTkY08BuO29qI43Z3teu4"
@@ -831,7 +1015,7 @@
     {
       "album": {
         "name": "Yally Mashy",
-        "url": "https://open.spotify.com/album/14nSahDkxSak6Boa5dZnVX"
+        "url": "https://open.spotify.com/album/3axL9aPebifeaGhmtmPbKM"
       },
       "artists": [
         {
@@ -842,6 +1026,24 @@
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 333557,
+      "name": "Ya Tara",
+      "url": "https://open.spotify.com/track/1qzVBmXs4OeL8nwl7bZIMf"
+    },
+    {
+      "album": {
+        "name": "Yally Mashy",
+        "url": "https://open.spotify.com/album/14nSahDkxSak6Boa5dZnVX"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2021-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 333557,
       "name": "Ya Tara",
       "url": "https://open.spotify.com/track/2mDZL9UPXkxuQujnuLPoZi"

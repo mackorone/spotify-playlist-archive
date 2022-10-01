@@ -10,6 +10,8 @@ Alternatively, follow these steps:
 1. [Click "Create pull request"](https://user-images.githubusercontent.com/3769813/171502378-27f94960-df34-4566-a769-844fc644de5b.png)
 1. [Click "Create pull request" again](https://user-images.githubusercontent.com/3769813/171502466-d9622f19-9acd-4bf1-b6aa-8858cd89bf56.png)
 
+If you don't know what a playlist ID is, you can use [this tool](https://spotifyplaylistarchive.com/get-playlist-id) to extract it from the playlist's URL.
+
 ## Development
 
 ### Setup

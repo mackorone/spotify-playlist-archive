@@ -299,10 +299,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230076,
       "name": "Brasil",
       "url": "https://open.spotify.com/track/1l4ef3sRHMVUzLzvt3FkWH"
+    },
+    {
+      "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230076,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
     },
     {
       "album": {
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 163783,
       "name": "cambiarte",
       "url": "https://open.spotify.com/track/4WnGtjG4gnE49sXLBJbiHN"
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 202609,
       "name": "Elefantes en el Mar",
       "url": "https://open.spotify.com/track/50jfKGLblHExtW01B3PvRU"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 183857,
       "name": "Jap\u00f3n",
       "url": "https://open.spotify.com/track/4iL3fpAqZwE6jhsYAc6AKb"
@@ -1775,7 +1793,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 227401,
       "name": "KLK",
       "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
@@ -1797,7 +1815,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227401,
       "name": "KLK",
       "url": "https://open.spotify.com/track/5An8NQkXTYa5gz8BIWeWk5"
@@ -1839,7 +1857,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 161266,
-      "name": "LA COMBI VERSACE (feat. Tokischa)",
+      "name": "LA COMBI VERSACE",
       "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
     },
     {
@@ -2040,6 +2058,28 @@
     },
     {
       "album": {
+        "name": "La Mala Introducci\u00f3n",
+        "url": "https://open.spotify.com/album/2rXmqm76mF6qneMLib4xiw"
+      },
+      "artists": [
+        {
+          "name": "Solomon Ray",
+          "url": "https://open.spotify.com/artist/6bSsC4nmXp8XTMbTO4CnkV"
+        },
+        {
+          "name": "MANCANDY",
+          "url": "https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Llama A Tu Novio",
+      "url": "https://open.spotify.com/track/29xiEKkbavb1wM1NTHxmq7"
+    },
+    {
+      "album": {
         "name": "Llama A Tu Novio",
         "url": "https://open.spotify.com/album/36UF0eitrU8K5YWwF7XN4G"
       },
@@ -2055,7 +2095,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220800,
       "name": "Llama A Tu Novio",
       "url": "https://open.spotify.com/track/6i99pGyOyu0275WtkrMpRp"
@@ -2091,7 +2131,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 222114,
       "name": "Lo Que Quieras T\u00fa",
       "url": "https://open.spotify.com/track/5skI8kaq5FByLW96MyUZqN"
@@ -2125,6 +2165,24 @@
     {
       "album": {
         "name": "Latinoamericana",
+        "url": "https://open.spotify.com/album/3YrHAuESsY9CHStWTb4FdF"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 217066,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/0HuL8ePyevFkt5bo5nRhsF"
+    },
+    {
+      "album": {
+        "name": "Latinoamericana",
         "url": "https://open.spotify.com/album/5WoCsLxw1b29y3rP6f5BzW"
       },
       "artists": [
@@ -2135,10 +2193,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217066,
       "name": "Locura",
       "url": "https://open.spotify.com/track/5dNK0AjCXuoWHD7qcxIgDz"
+    },
+    {
+      "album": {
+        "name": "Latinoamericana",
+        "url": "https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK"
     },
     {
       "album": {
@@ -2361,7 +2437,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 180400,
       "name": "Me, Myself",
       "url": "https://open.spotify.com/track/3GCPuPA5qv2kjLw0PAVgQH"
@@ -2379,10 +2455,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 140742,
       "name": "Mequetrefe",
       "url": "https://open.spotify.com/track/5KYv08Ue0nCUJCcrC1NtrN"
+    },
+    {
+      "album": {
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140742,
+      "name": "Mequetrefe",
+      "url": "https://open.spotify.com/track/6RJiY28t9jWpdy1JkUhNgK"
     },
     {
       "album": {
@@ -2499,10 +2593,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246613,
       "name": "Mujer Contra Mujer",
       "url": "https://open.spotify.com/track/0Fw5WP079fURiUD56fcvvC"
+    },
+    {
+      "album": {
+        "name": "Descanso Dominical (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247293,
+      "name": "Mujer contra mujer",
+      "url": "https://open.spotify.com/track/7hmzQ7lRZV8uUnuO77QCbQ"
     },
     {
       "album": {
@@ -2539,7 +2651,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 204998,
       "name": "Nada Es Seguro",
       "url": "https://open.spotify.com/track/2ZP6NbiA4bcMu2n4AuTQmM"
@@ -2855,7 +2967,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236798,
       "name": "Portada",
       "url": "https://open.spotify.com/track/4HhnJK86Ur1xylv0g3qr7n"
@@ -3251,7 +3363,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 192941,
       "name": "Shutup",
       "url": "https://open.spotify.com/track/4teYxzh9n4jVpwzL9EQlp2"
@@ -3411,10 +3523,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225706,
       "name": "Soy el Hit",
       "url": "https://open.spotify.com/track/0u4AHxdo5ugrUM74JEUKHQ"
+    },
+    {
+      "album": {
+        "name": "Vol. S\u00fabele",
+        "url": "https://open.spotify.com/album/0zwzY98dQ3cwJKSvnZ8iX6"
+      },
+      "artists": [
+        {
+          "name": "Maria Daniela Y Su Sonido Lasser",
+          "url": "https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225719,
+      "name": "Soy el Hit",
+      "url": "https://open.spotify.com/track/5eZcNtcQYhCk1drbSvzkrK"
     },
     {
       "album": {
@@ -3581,10 +3711,32 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184800,
       "name": "Terrible, Perriemos",
       "url": "https://open.spotify.com/track/4XnQxFkb3h4iUrD7IgoEFg"
+    },
+    {
+      "album": {
+        "name": "Terrible, Perriemos",
+        "url": "https://open.spotify.com/album/6NiXIxbRCPs9Fi0h2cgekr"
+      },
+      "artists": [
+        {
+          "name": "Sailorfag",
+          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
+        },
+        {
+          "name": "Aku P",
+          "url": "https://open.spotify.com/artist/73ObzeoTtpADlTm4Y9RfOG"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Terrible, Perriemos",
+      "url": "https://open.spotify.com/track/6xWVZt8WAJmirqlvGUczcq"
     },
     {
       "album": {

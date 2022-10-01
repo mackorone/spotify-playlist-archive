@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1fkasXpHNnNfgs3iByPoQc"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7EvAlx0lOLbZgCKH50wnUU"
+    },
+    {
+      "album": {
         "name": "Aankh Marey (From \"Simmba\")",
         "url": "https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN"
       },
@@ -151,6 +169,28 @@
     {
       "album": {
         "name": "Bang Bang (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OPaPfgLzRn30767pjwfY3"
+      },
+      "artists": [
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/7DonyrUlcVcrtk28mqvWNL"
+    },
+    {
+      "album": {
+        "name": "Bang Bang (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5zhx5FG1P3Rc9Ufbr9bIgF"
       },
       "artists": [
@@ -169,7 +209,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 320000,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/5R7HpWXej6SiCrd9YJsC5g"
@@ -506,6 +546,32 @@
     },
     {
       "album": {
+        "name": "Dance Ka Bhoot (From \"Brahmastra\")",
+        "url": "https://open.spotify.com/album/4vOdoBnuF9sXjpRsofpJAv"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245735,
+      "name": "Dance Ka Bhoot (From \"Brahmastra\")",
+      "url": "https://open.spotify.com/track/5OcGETO7eEKjKme4gm0r7y"
+    },
+    {
+      "album": {
         "name": "De Taali (From \"Bhool Bhulaiyaa 2\")",
         "url": "https://open.spotify.com/album/124jf3Uj8NOBismag9calO"
       },
@@ -541,6 +607,32 @@
     {
       "album": {
         "name": "Phata Poster Nikhla Hero (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ADyLRU2KWshFA02symTDr"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Shefali Alvares",
+          "url": "https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190558,
+      "name": "Dhating Naach",
+      "url": "https://open.spotify.com/track/1ZmaJl1kHdTxbzji59LD2c"
+    },
+    {
+      "album": {
+        "name": "Phata Poster Nikhla Hero (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1a2ipaPPgn0JPWb9Z0Ey36"
       },
       "artists": [
@@ -555,10 +647,52 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190361,
       "name": "Dhating Naach (From \"Phata Poster Nikhla Hero\")",
       "url": "https://open.spotify.com/track/5OkbwA2BTt9DXjfpUycLBs"
+    },
+    {
+      "album": {
+        "name": "Gangubai Kathiawadi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3kT50JTcaeVQMIh0NUNjyM"
+      },
+      "artists": [
+        {
+          "name": "Jahnvi Shrimankar",
+          "url": "https://open.spotify.com/artist/6HWLgNliaSzF438T7Hk755"
+        },
+        {
+          "name": "Shail Hada",
+          "url": "https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC"
+        },
+        {
+          "name": "Dipti",
+          "url": "https://open.spotify.com/artist/2qs6QhyW9EGLaD9d3XKGeR"
+        },
+        {
+          "name": "Pragati",
+          "url": "https://open.spotify.com/artist/28158US0Sov816JcVhUGVz"
+        },
+        {
+          "name": "Rucha",
+          "url": "https://open.spotify.com/artist/0ZOgFq0MwvVRl9V70yhz3f"
+        },
+        {
+          "name": "Arohi",
+          "url": "https://open.spotify.com/artist/04yw6jIldqUYBFzYkYILat"
+        },
+        {
+          "name": "Archana",
+          "url": "https://open.spotify.com/artist/6ZfDJaY1IBhPVkUIjErbnX"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179033,
+      "name": "Dholida",
+      "url": "https://open.spotify.com/track/4QKp78XQvd4Sr8Qj0vEXYv"
     },
     {
       "album": {
@@ -601,7 +735,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179033,
       "name": "Dholida",
       "url": "https://open.spotify.com/track/63FvgWtjAw9nUa8f5JXrh3"
@@ -727,10 +861,36 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 276959,
       "name": "First Class",
       "url": "https://open.spotify.com/track/7bFx4We3iNjxmIxXBxou1G"
+    },
+    {
+      "album": {
+        "name": "Kalank (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276959,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/7s0qlp1ibUxVXLsOM0YWia"
     },
     {
       "album": {
@@ -1007,24 +1167,6 @@
       "duration_ms": 287374,
       "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
       "url": "https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx"
-    },
-    {
-      "album": {
-        "name": "Bajirao Mastani (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1fkasXpHNnNfgs3iByPoQc"
-      },
-      "artists": [
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        }
-      ],
-      "date_added": "2021-12-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244047,
-      "name": "Malhari (From \"Bajirao Mastani\")",
-      "url": "https://open.spotify.com/track/7EvAlx0lOLbZgCKH50wnUU"
     },
     {
       "album": {
@@ -1375,10 +1517,36 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177694,
       "name": "Sakhiyan2.0",
       "url": "https://open.spotify.com/track/2hTn8oS49IQULxAWs7hEBz"
+    },
+    {
+      "album": {
+        "name": "Sakhiyan2.0 (From \"BellBottom\") - Single",
+        "url": "https://open.spotify.com/album/3T7z9uyd25hw8zLcxkS5Yc"
+      },
+      "artists": [
+        {
+          "name": "Maninder Buttar",
+          "url": "https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM"
+        },
+        {
+          "name": "Zara Khan",
+          "url": "https://open.spotify.com/artist/3YVD2aXecw8JQuWkGAuf7t"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177694,
+      "name": "Sakhiyan2.0 (From \"BellBottom\")",
+      "url": "https://open.spotify.com/track/1y5beX4vn7QPfg36r4jiWo"
     },
     {
       "album": {
@@ -1606,6 +1774,28 @@
     },
     {
       "album": {
+        "name": "Goodbye (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2rvENGQpGCFQf2gOUfGfjp"
+      },
+      "artists": [
+        {
+          "name": "Sharvi Yadav",
+          "url": "https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3"
+        },
+        {
+          "name": "Rupali Moghe",
+          "url": "https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211730,
+      "name": "The Hic Song",
+      "url": "https://open.spotify.com/track/1wDrMKmeL9MAL2s7FZCH20"
+    },
+    {
+      "album": {
         "name": "Student of the Year 2",
         "url": "https://open.spotify.com/album/0j5fpNFJPSBUdkPROtmvFM"
       },
@@ -1689,10 +1879,40 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253000,
       "name": "The Jawaani Song",
       "url": "https://open.spotify.com/track/5beP0jhGEjYjd485eBczvZ"
+    },
+    {
+      "album": {
+        "name": "Student of the Year 2",
+        "url": "https://open.spotify.com/album/0j5fpNFJPSBUdkPROtmvFM"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253160,
+      "name": "The Jawaani Song",
+      "url": "https://open.spotify.com/track/3IzQc4KEAFd8lIc90X7FZr"
     },
     {
       "album": {

@@ -27,7 +27,7 @@
     {
       "album": {
         "name": "Howl",
-        "url": "https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ"
+        "url": "https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT"
       },
       "artists": [
         {
@@ -38,6 +38,24 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 156813,
+      "name": "Ain't No Easy Way",
+      "url": "https://open.spotify.com/track/2fUUIfU0WurkHNLoUJwGnH"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
       "duration_ms": 156813,
       "name": "Ain't No Easy Way",
       "url": "https://open.spotify.com/track/57XbiF3mXSAXDntyEw57lW"
@@ -55,10 +73,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244110,
       "name": "An Honest Man",
       "url": "https://open.spotify.com/track/37C9PC2PjE2oURNjOyzof4"
+    },
+    {
+      "album": {
+        "name": "An Honest Man",
+        "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246177,
+      "name": "An Honest Man",
+      "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
     },
     {
       "album": {
@@ -109,10 +145,46 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189499,
       "name": "Bang Bang Bang",
       "url": "https://open.spotify.com/track/4pF0B8Fae3dQrsuWds2iQ9"
+    },
+    {
+      "album": {
+        "name": "Swagger, Steel & Spurs",
+        "url": "https://open.spotify.com/album/01zaNaojDp8OJJ1J60gm6R"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189499,
+      "name": "Bang Bang Bang",
+      "url": "https://open.spotify.com/track/5JNjURdjUrcEgUPq2SjkSC"
+    },
+    {
+      "album": {
+        "name": "The Northern South, Vol. 1",
+        "url": "https://open.spotify.com/album/0qvm65mwPYGTQL33VxDJ3X"
+      },
+      "artists": [
+        {
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225844,
+      "name": "Big Boss Man",
+      "url": "https://open.spotify.com/track/6YZm2uEonZWcnOO2Uo2Fyb"
     },
     {
       "album": {
@@ -127,7 +199,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225844,
       "name": "Big Boss Man",
       "url": "https://open.spotify.com/track/7b1PDaZvnxGParUPi9ViRJ"
@@ -207,7 +279,7 @@
     {
       "album": {
         "name": "Benjamin Booker",
-        "url": "https://open.spotify.com/album/0uDoyIuGkx8lrhsu6RBlBZ"
+        "url": "https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu"
       },
       "artists": [
         {
@@ -220,7 +292,43 @@
       "date_removed": null,
       "duration_ms": 230000,
       "name": "By The Evening",
+      "url": "https://open.spotify.com/track/0okuLdhmvvHTB2BhdSO5Mx"
+    },
+    {
+      "album": {
+        "name": "Benjamin Booker",
+        "url": "https://open.spotify.com/album/0uDoyIuGkx8lrhsu6RBlBZ"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230000,
+      "name": "By The Evening",
       "url": "https://open.spotify.com/track/54jlEZOJZA8TwEGnKLYFon"
+    },
+    {
+      "album": {
+        "name": "The Northern South, Vol. 1",
+        "url": "https://open.spotify.com/album/0qvm65mwPYGTQL33VxDJ3X"
+      },
+      "artists": [
+        {
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381290,
+      "name": "Come on in My Kitchen",
+      "url": "https://open.spotify.com/track/32ZZSXkJ5cLXHIA0mEFq4h"
     },
     {
       "album": {
@@ -235,7 +343,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 381290,
       "name": "Come on in My Kitchen",
       "url": "https://open.spotify.com/track/3DDmBaZNrxKbGApdrYXBAc"
@@ -271,10 +379,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235881,
       "name": "Crocodile Tears",
       "url": "https://open.spotify.com/track/0lcsIpA9Ff2DZufaMIQe4k"
+    },
+    {
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF"
+      },
+      "artists": [
+        {
+          "name": "little hurricane",
+          "url": "https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235881,
+      "name": "Crocodile Tears",
+      "url": "https://open.spotify.com/track/63nVPOyNp8vZNblAozzNcP"
     },
     {
       "album": {
@@ -289,10 +415,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 286328,
       "name": "Darkwater",
       "url": "https://open.spotify.com/track/1EXyAPbplzZKhFZx54smQW"
+    },
+    {
+      "album": {
+        "name": "Darkwater",
+        "url": "https://open.spotify.com/album/5LZVAYPoQPQDMsMEMXSRmj"
+      },
+      "artists": [
+        {
+          "name": "Sam Williams",
+          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286328,
+      "name": "Darkwater",
+      "url": "https://open.spotify.com/track/6ym2fufsRInM3WzIdIqsOw"
     },
     {
       "album": {
@@ -325,10 +469,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213040,
       "name": "Don't Need It",
       "url": "https://open.spotify.com/track/4DnK27URnJcCULRNDHvm2M"
+    },
+    {
+      "album": {
+        "name": "Field Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0LdlWYQ0uHsrG4YjwtOcnJ"
+      },
+      "artists": [
+        {
+          "name": "William Elliott Whitmore",
+          "url": "https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213040,
+      "name": "Don't Need It",
+      "url": "https://open.spotify.com/track/6NeQt64zijJZbNgFXwvw0I"
     },
     {
       "album": {
@@ -387,7 +549,7 @@
     {
       "album": {
         "name": "Tender Warriors Club",
-        "url": "https://open.spotify.com/album/6G895evPj3YPFAp7SZtEAg"
+        "url": "https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM"
       },
       "artists": [
         {
@@ -398,6 +560,24 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 407493,
+      "name": "Heaven Bent",
+      "url": "https://open.spotify.com/track/0bjTW3zBohWdYy2z1Sf5hJ"
+    },
+    {
+      "album": {
+        "name": "Tender Warriors Club",
+        "url": "https://open.spotify.com/album/6G895evPj3YPFAp7SZtEAg"
+      },
+      "artists": [
+        {
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 407493,
       "name": "Heaven Bent",
       "url": "https://open.spotify.com/track/3UnOgOZkTRvlmfUcTHzvc6"
@@ -487,10 +667,46 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 377000,
       "name": "I Can't Go on Without You",
       "url": "https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn"
+    },
+    {
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
+    },
+    {
+      "album": {
+        "name": "Benjamin Booker",
+        "url": "https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184626,
+      "name": "I Thought I Heard You Screaming",
+      "url": "https://open.spotify.com/track/0ND2xJt6ZG3L1eZTS0FrsK"
     },
     {
       "album": {
@@ -505,7 +721,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184626,
       "name": "I Thought I Heard You Screaming",
       "url": "https://open.spotify.com/track/257L4vqFRw2IG67CkHQ0ff"
@@ -559,10 +775,46 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 119266,
       "name": "Little Jose",
       "url": "https://open.spotify.com/track/1Yc25rbbGJZCtz8dtizMKY"
+    },
+    {
+      "album": {
+        "name": "A Hero's Lie (Spotify Exclusive Version)",
+        "url": "https://open.spotify.com/album/1aey7yOQZ0QUM5CI3FF1dT"
+      },
+      "artists": [
+        {
+          "name": "Grey Reverend",
+          "url": "https://open.spotify.com/artist/1EbvbxCONeiXZTVIS2Cw0e"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119266,
+      "name": "Little Jose",
+      "url": "https://open.spotify.com/track/4t8HYOqorDEhyVGHHxCmXw"
+    },
+    {
+      "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Little Lady Blues",
+      "url": "https://open.spotify.com/track/15Zws6dwefFYdx9yiqOlo3"
     },
     {
       "album": {
@@ -577,7 +829,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 312000,
       "name": "Little Lady Blues",
       "url": "https://open.spotify.com/track/1LfGP4l3u94cu57cR4khzq"
@@ -621,7 +873,7 @@
     {
       "album": {
         "name": "Shaken",
-        "url": "https://open.spotify.com/album/4WzdSt2xFoWboaIR9ceEkl"
+        "url": "https://open.spotify.com/album/4vxZh8neUimC0CcU5LtLQe"
       },
       "artists": [
         {
@@ -632,6 +884,24 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218626,
+      "name": "Missing At Sea",
+      "url": "https://open.spotify.com/track/0xgm9ojDGh01nTsreKg0oL"
+    },
+    {
+      "album": {
+        "name": "Shaken",
+        "url": "https://open.spotify.com/album/4WzdSt2xFoWboaIR9ceEkl"
+      },
+      "artists": [
+        {
+          "name": "Maggie Bjorklund",
+          "url": "https://open.spotify.com/artist/4uk9cWBqeiel7tO1w9MPe0"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 218626,
       "name": "Missing At Sea",
       "url": "https://open.spotify.com/track/5WKhPe4lSUYgHhhwFMnX4Y"
@@ -667,10 +937,46 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158464,
       "name": "Night Has Turned to Day",
       "url": "https://open.spotify.com/track/0jVfp8deBjwdoi2oEm5hgK"
+    },
+    {
+      "album": {
+        "name": "Fantastic Negrito Deluxe EP",
+        "url": "https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160453,
+      "name": "Night Has Turned to Day",
+      "url": "https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K"
+    },
+    {
+      "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87"
+      },
+      "artists": [
+        {
+          "name": "Caught A Ghost",
+          "url": "https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208213,
+      "name": "No Sugar In My Coffee",
+      "url": "https://open.spotify.com/track/2sgliG5TcHwAiWQn8ecT71"
     },
     {
       "album": {
@@ -685,7 +991,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208213,
       "name": "No Sugar In My Coffee",
       "url": "https://open.spotify.com/track/3eu6yCblDDyuqvDTkPZksu"
@@ -715,7 +1021,7 @@
     {
       "album": {
         "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW"
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
       "artists": [
         {
@@ -726,6 +1032,24 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/47dOtJjjwVkbKW244db2dE"
@@ -779,10 +1103,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 370573,
       "name": "Red Right Hand - 2011 - Remaster",
       "url": "https://open.spotify.com/track/1YrdxppVdO7a5S99gudh43"
+    },
+    {
+      "album": {
+        "name": "Let Love In (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370573,
+      "name": "Red Right Hand - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj"
     },
     {
       "album": {
@@ -805,7 +1147,43 @@
     {
       "album": {
         "name": "Exits",
+        "url": "https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw"
+      },
+      "artists": [
+        {
+          "name": "Steve Smyth",
+          "url": "https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 222533,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/24MehCp25qxUDWadb0XNRw"
+    },
+    {
+      "album": {
+        "name": "Exits",
         "url": "https://open.spotify.com/album/3vSNB85xVwlQHjh2AmME8s"
+      },
+      "artists": [
+        {
+          "name": "Steve Smyth",
+          "url": "https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222533,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/6RjnBLAqjop8cgSsPrUlCs"
+    },
+    {
+      "album": {
+        "name": "Exits",
+        "url": "https://open.spotify.com/album/71N8R4aZ6VDXWUP9jo8l08"
       },
       "artists": [
         {
@@ -818,7 +1196,25 @@
       "date_removed": null,
       "duration_ms": 222533,
       "name": "Shake It",
-      "url": "https://open.spotify.com/track/6RjnBLAqjop8cgSsPrUlCs"
+      "url": "https://open.spotify.com/track/6u9jFigKKYdCLJKeAc1LOb"
+    },
+    {
+      "album": {
+        "name": "Way Out I'll Wander",
+        "url": "https://open.spotify.com/album/1b6Q0enFSwYs4FiOrbgpEQ"
+      },
+      "artists": [
+        {
+          "name": "Hannah Read",
+          "url": "https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195626,
+      "name": "She Took a Gamble",
+      "url": "https://open.spotify.com/track/0LzMVEtDRKTQ2WlIVUXT8s"
     },
     {
       "album": {
@@ -833,7 +1229,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195626,
       "name": "She Took a Gamble",
       "url": "https://open.spotify.com/track/2b2oHgRMo5QYRLft2TRDFi"
@@ -851,10 +1247,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 435746,
       "name": "Singing Saw",
       "url": "https://open.spotify.com/track/0VVBiLcDZthpwsXXBCXPgu"
+    },
+    {
+      "album": {
+        "name": "Singing Saw",
+        "url": "https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435746,
+      "name": "Singing Saw",
+      "url": "https://open.spotify.com/track/2f2UMBkyUl8gnEdV0rju4N"
     },
     {
       "album": {
@@ -869,10 +1283,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192475,
       "name": "Sleeping on the Blacktop",
       "url": "https://open.spotify.com/track/3FYVkmrVYbEo17vXmb5x2A"
+    },
+    {
+      "album": {
+        "name": "Imaginary Appalachia",
+        "url": "https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "Sleeping on the Blacktop",
+      "url": "https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE"
     },
     {
       "album": {
@@ -887,10 +1319,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271946,
       "name": "Slow Coming",
       "url": "https://open.spotify.com/track/27B8NcE66RUKHP3cN46Fhx"
+    },
+    {
+      "album": {
+        "name": "Benjamin Booker",
+        "url": "https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271946,
+      "name": "Slow Coming",
+      "url": "https://open.spotify.com/track/6GFVx3gX6wY93AuWlQi2Zk"
     },
     {
       "album": {
@@ -913,7 +1363,7 @@
     {
       "album": {
         "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW"
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
       "artists": [
         {
@@ -924,6 +1374,24 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215858,
+      "name": "The Dirt",
+      "url": "https://open.spotify.com/track/19tDNU6hOt4wdXWgv1PUMf"
+    },
+    {
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 215858,
       "name": "The Dirt",
       "url": "https://open.spotify.com/track/5VB9VqBUzxR8lj49Scmly0"
@@ -966,6 +1434,24 @@
     },
     {
       "album": {
+        "name": "Thousand Mile Night",
+        "url": "https://open.spotify.com/album/4LkEoMZMHwVWLByjtt4wQf"
+      },
+      "artists": [
+        {
+          "name": "Jonah Tolchin",
+          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235173,
+      "name": "Thousand Mile Night",
+      "url": "https://open.spotify.com/track/4q4F2OEZJ2EQuRNBKytiDr"
+    },
+    {
+      "album": {
         "name": "Thousand Mile Night - Single",
         "url": "https://open.spotify.com/album/3ARIeQHdKOLeGnSqGi1g40"
       },
@@ -977,7 +1463,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235173,
       "name": "Thousand Mile Night",
       "url": "https://open.spotify.com/track/5yeM63cXgGvSN2VrcHbv6x"
@@ -1031,10 +1517,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 265506,
       "name": "Top Yourself",
       "url": "https://open.spotify.com/track/3ZTScjTJav3Yak0OqLTuAL"
+    },
+    {
+      "album": {
+        "name": "Consolers of the Lonely",
+        "url": "https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg"
+      },
+      "artists": [
+        {
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265506,
+      "name": "Top Yourself",
+      "url": "https://open.spotify.com/track/7w85ReRElKKmLNCbPaKPGN"
     },
     {
       "album": {
@@ -1085,10 +1589,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246253,
       "name": "Whispered Words (Pretty Lies)",
       "url": "https://open.spotify.com/track/4pPWNeApSiORRQucFZt85y"
+    },
+    {
+      "album": {
+        "name": "Keep It Hid",
+        "url": "https://open.spotify.com/album/2KQn93GMsH7IoOvQ0Hlqzx"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246253,
+      "name": "Whispered Words (Pretty Lies)",
+      "url": "https://open.spotify.com/track/6KPaX2zvWAOXYZjvhqdQZj"
     },
     {
       "album": {

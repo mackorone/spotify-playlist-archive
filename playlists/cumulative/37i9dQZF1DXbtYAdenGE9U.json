@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 171231,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb"
@@ -127,10 +127,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 214883,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/0pMUR7Uvp6vxlbG0qBFvgM"
+    },
+    {
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214883,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
     },
     {
       "album": {
@@ -181,10 +199,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 456480,
       "name": "Born Slippy (Nuxx)",
       "url": "https://open.spotify.com/track/1zsDbmrf4ZkjW5hsSsaDjO"
+    },
+    {
+      "album": {
+        "name": "1992 - 2012",
+        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456480,
+      "name": "Born Slippy (Nuxx)",
+      "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
     },
     {
       "album": {
@@ -269,7 +305,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-28",
       "duration_ms": 375960,
       "name": "Chase",
       "url": "https://open.spotify.com/track/30iBS6MTiMEOPjB3zk8nSc"
@@ -349,7 +385,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 480523,
       "name": "Coming On Strong - Extended Mix",
       "url": "https://open.spotify.com/track/6skndzzfHsQkitrXf4JdTM"
@@ -367,10 +403,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216453,
       "name": "Ecuador",
       "url": "https://open.spotify.com/track/5UuVC9noWHcsOX08ctdbDD"
+    },
+    {
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212133,
+      "name": "Ecuador - Original Radio Edit",
+      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
     },
     {
       "album": {
@@ -407,7 +461,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 194946,
       "name": "Escape - Radio Edit",
       "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
@@ -425,10 +479,46 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 417306,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/0wnBedwQDPcyXzitB8Yvkr"
+    },
+    {
+      "album": {
+        "name": "Hudson Street",
+        "url": "https://open.spotify.com/album/2Uxdu2VRsTj2AIUI38VNfD"
+      },
+      "artists": [
+        {
+          "name": "Agnelli & Nelson",
+          "url": "https://open.spotify.com/artist/25fXoLpROrtnNtQ1ifr8oN"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417306,
+      "name": "Everyday - Extended Mix",
+      "url": "https://open.spotify.com/track/4ApMz0VzAlMf7EAR1Nn3I5"
+    },
+    {
+      "album": {
+        "name": "Exploration of Space",
+        "url": "https://open.spotify.com/album/7LJlzaFq8LRFGGq2kijcHX"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216360,
+      "name": "Exploration of Space",
+      "url": "https://open.spotify.com/track/0P2sfcfRD0lWw4b8eXegmR"
     },
     {
       "album": {
@@ -443,7 +533,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-07-28",
       "duration_ms": 216360,
       "name": "Exploration of Space",
       "url": "https://open.spotify.com/track/4WfRqfzYSSopd07hKWnxwr"
@@ -479,7 +569,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171973,
       "name": "Fire Wire",
       "url": "https://open.spotify.com/track/15Fpa2wUSK48RBT2eqBka8"
@@ -501,10 +591,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 223237,
       "name": "Follow Me - Radio Edit",
       "url": "https://open.spotify.com/track/2Q3GYtZYSMZF02UiCzDZ7U"
+    },
+    {
+      "album": {
+        "name": "For An Angel",
+        "url": "https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233243,
+      "name": "For An Angel - PVD Angel In Heaven Radio Edit",
+      "url": "https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP"
     },
     {
       "album": {
@@ -519,10 +627,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231706,
       "name": "For An Angel - Radio Edit",
       "url": "https://open.spotify.com/track/1xWsg53VIHw0iTTDAGHJ4Q"
+    },
+    {
+      "album": {
+        "name": "Forever Faithless - The Greatest Hits",
+        "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208506,
+      "name": "God Is a DJ",
+      "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
     },
     {
       "album": {
@@ -537,7 +663,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212920,
       "name": "God Is a DJ - Radio Mix",
       "url": "https://open.spotify.com/track/4dFDiYvdK5aPfAa0D90gJ8"
@@ -555,7 +681,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 217146,
       "name": "Gouryella",
       "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4"
@@ -602,6 +728,28 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/7KHjkfgCVwog38yBI0NcmR"
+      },
+      "artists": [
+        {
+          "name": "DJ Sammy",
+          "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
+        },
+        {
+          "name": "Do",
+          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/72SpPFrMYCXLB3Fbw9tEgf"
+    },
+    {
+      "album": {
         "name": "Greatest - DJ Sammy",
         "url": "https://open.spotify.com/album/0AfxLyEBIIa3SuRsQl6nvL"
       },
@@ -635,7 +783,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 424200,
       "name": "Hypnotic (Binary Finary 2000 Remix)",
       "url": "https://open.spotify.com/track/1KHNbJJBG6fUV9vCFP9BcR"
@@ -683,7 +831,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 514373,
       "name": "Linking People",
       "url": "https://open.spotify.com/track/7GDHnh0uFnONkHDDnGkFN7"
@@ -713,7 +861,7 @@
     {
       "album": {
         "name": "Luvstruck",
-        "url": "https://open.spotify.com/album/2p8BWCaascvAdgbZ9p7FTR"
+        "url": "https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY"
       },
       "artists": [
         {
@@ -732,6 +880,32 @@
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 272560,
+      "name": "Luvstruck - Marco V & Benjamin Rmx",
+      "url": "https://open.spotify.com/track/2ar1AExas2azDSQbbeuhbL"
+    },
+    {
+      "album": {
+        "name": "Luvstruck",
+        "url": "https://open.spotify.com/album/2p8BWCaascvAdgbZ9p7FTR"
+      },
+      "artists": [
+        {
+          "name": "Southside Spinners",
+          "url": "https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb"
+        },
+        {
+          "name": "Marco V",
+          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
+        },
+        {
+          "name": "Benjamin Bates",
+          "url": "https://open.spotify.com/artist/2zk6outptAdZh4zvEjLk8W"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 273577,
       "name": "Luvstruck - Marco V & Benjamin Rmx",
       "url": "https://open.spotify.com/track/5lBfxQnalQqjDbOHe6voet"
@@ -753,7 +927,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 361133,
       "name": "Madagascar - Ferry Corsten Remix",
       "url": "https://open.spotify.com/track/0wiloryIyGu6IJay76redv"
@@ -873,7 +1047,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 233160,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ"
@@ -891,10 +1065,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181317,
       "name": "Played-A-Live (The Bongo Song) - Radio Edit",
       "url": "https://open.spotify.com/track/74xl1RaK13facqQT2fWKk4"
+    },
+    {
+      "album": {
+        "name": "Played-A-Live (The Bongo Song)",
+        "url": "https://open.spotify.com/album/1MxM3wvwaHMpSSCYovfgGN"
+      },
+      "artists": [
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Played-A-Live (The Bongo Song) - Radio Edit",
+      "url": "https://open.spotify.com/track/71cEGt2SrA5toSCCTVpLMU"
     },
     {
       "album": {
@@ -971,7 +1163,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 271568,
       "name": "Seven Days and One Week - Radio Edit",
       "url": "https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg"
@@ -997,7 +1189,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231306,
       "name": "Silence (feat. Sarah McLachlan) - Airscape Remix Edit",
       "url": "https://open.spotify.com/track/0mHFfekL0FU0I6P2PMfrG1"
@@ -1023,7 +1215,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235200,
       "name": "Silence (feat. Sarah McLachlan) - DJ Ti\u00ebsto's In Search of Sunrise Edit",
       "url": "https://open.spotify.com/track/3oVnbdWg48ZrmsUAQQUKbU"
@@ -1049,10 +1241,80 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 691500,
       "name": "Silence (feat. Sarah McLachlan) - DJ Ti\u00ebsto's In Search Of Sunrise Remix",
       "url": "https://open.spotify.com/track/3LAckjF5p8yWU2pCchhLeh"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/6smXgAugj1QBLAO0BXol5P"
+      },
+      "artists": [
+        {
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        },
+        {
+          "name": "Airscape",
+          "url": "https://open.spotify.com/artist/2tTZL2CE2Z190UPlHsjzym"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231306,
+      "name": "Silence - Airscape Remix Edit",
+      "url": "https://open.spotify.com/track/3HyU67HfMANQxFg34kHfco"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/2YrnYkO6WGGx5e0UfNbGps"
+      },
+      "artists": [
+        {
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Silence - DJ Ti\u00ebsto's In Search Of Sunrise Edit",
+      "url": "https://open.spotify.com/track/2jAjkmZIKwV5VOBiZ3qUUL"
+    },
+    {
+      "album": {
+        "name": "Magik Six (Live in Amsterdam)",
+        "url": "https://open.spotify.com/album/1zBJu5maXZeKtN2Sj571Rp"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 692513,
+      "name": "Silence - DJ Ti\u00ebsto's in Search of Sunrise Remix",
+      "url": "https://open.spotify.com/track/47st2meAZHGnG9UJU1YyVU"
     },
     {
       "album": {
@@ -1129,7 +1391,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 210640,
       "name": "Stonecold - Radio Edit",
       "url": "https://open.spotify.com/track/0DqhPqYIRfWAylYpBBtnNd"
@@ -1147,7 +1409,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-20",
       "duration_ms": 476920,
       "name": "Strange World - 2000 Remake",
       "url": "https://open.spotify.com/track/7iD2wBI87eTW6CNubpNe3c"
@@ -1169,7 +1431,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 326266,
       "name": "Sun & Moon - Original Mix",
       "url": "https://open.spotify.com/track/4rfhAoZjGwraqwX1w47uij"
@@ -1227,7 +1489,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 536866,
       "name": "The Legacy - Club Mix",
       "url": "https://open.spotify.com/track/2RpGTuM5XINRHqRiXMLOn5"
@@ -1249,7 +1511,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201306,
       "name": "The Silmarillia - 4 Strings Radio Edit",
       "url": "https://open.spotify.com/track/0MS2xQnpsUZtY2PuYYzuNj"
@@ -1308,6 +1570,24 @@
     },
     {
       "album": {
+        "name": "The New Daylight (Radio Versions)",
+        "url": "https://open.spotify.com/album/76AmfDmFp6G67x16si8mUR"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230146,
+      "name": "Till The Sky Falls Down",
+      "url": "https://open.spotify.com/track/1YddMZzakt7WEZ9y1xGQgR"
+    },
+    {
+      "album": {
         "name": "A State Of Trance Classics, Vol. 6 (Bonus Best Ever Edition)",
         "url": "https://open.spotify.com/album/6u5Q7kNzIlLo2lwkCwrhWg"
       },
@@ -1319,7 +1599,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 475271,
       "name": "Time Is The Healer - Armin van Buuren Remix",
       "url": "https://open.spotify.com/track/1AVoSeGyzqbS6qMOw4EFmO"
@@ -1381,6 +1661,24 @@
     {
       "album": {
         "name": "Skydivin'",
+        "url": "https://open.spotify.com/album/7tPfyt8vkfSvy15iXTA5FJ"
+      },
+      "artists": [
+        {
+          "name": "Styles & Breeze",
+          "url": "https://open.spotify.com/artist/3VmdvdqFAX1F9kwV54xGMT"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "You're Shining",
+      "url": "https://open.spotify.com/track/5zgoEnmbgkhwt7SRdwSGvk"
+    },
+    {
+      "album": {
+        "name": "Skydivin'",
         "url": "https://open.spotify.com/album/28jvpDCVwZ8AJ472ZNLrtq"
       },
       "artists": [
@@ -1391,7 +1689,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 202266,
       "name": "Your Shining",
       "url": "https://open.spotify.com/track/2JLAWfYGzKRfG0DJFnOZ8j"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 
 > Get in touch with nature with these songs about our environment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 710 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 | 4 | [Ocean Man](https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 2:06 |
 | 5 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 |
 | 6 | [Animal Families](https://open.spotify.com/track/5JLOoJsu28Z9HT3vh2u4ec) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong 50 Best Hits: Baby Shark and More](https://open.spotify.com/album/2GkjtrCWy2aAY9R0XG7Haq) | 1:17 |
-| 7 | [Where Do The Children Play?](https://open.spotify.com/track/0fGNZCxMxV2bCRndfbCl60) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered\)](https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ) | 3:52 |
+| 7 | [Where Do The Children Play?](https://open.spotify.com/track/7kTmndsuOxGut8Oy85Mn62) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:51 |
 | 8 | [There's a Hole in the Bottom of the Sea](https://open.spotify.com/track/3o0pKNC0dg21BYcPHUUFgb) | [Grover](https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn), [Oscar the Grouch](https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9), [The Sesame Street Cast](https://open.spotify.com/artist/5x7XfWbvbfarIFWWzMa4rM), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [F Is for Fun!](https://open.spotify.com/album/4eidzkVj7dlmhgam1t6Nq3) | 3:56 |
 | 9 | [Green Green Leaves](https://open.spotify.com/track/2WeO5sKxyDtjkLIZzp2Mjy) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Green Green Leaves](https://open.spotify.com/album/65sdwlaWZwkl5t5N2Af8QQ) | 1:52 |
 | 10 | [The 3 R's](https://open.spotify.com/track/6MvbWjCoGy0IBHi5xqWPJB) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sing\-A\-Longs & Lullabies For The Film Curious George](https://open.spotify.com/album/0kYv61g7n6ZPe2TVaIBeeJ) | 2:54 |
 | 11 | [Plant a Garden](https://open.spotify.com/track/6HfXSByXlK7TGTwOOi4b2l) | [Jenn Cleary](https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS) | [Plant a Garden](https://open.spotify.com/album/44A7cNMZjaX5kPJ27xtM1y) | 3:19 |
 | 12 | [Seed](https://open.spotify.com/track/2Zj78rZBB3AiGP3bSQx0ks) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc), [Loopy Tunes Preschool Music](https://open.spotify.com/artist/0nyv9lZZ2dBi8WzcRfyH6y) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 3:29 |
-| 13 | [Big Beautiful Planet](https://open.spotify.com/track/4dnkdfuWjmEOasfEarZsHc) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Evergreen, Everblue](https://open.spotify.com/album/1CUqfnHkJRc3VNP1jGbgAF) | 3:22 |
+| 13 | [Big Beautiful Planet](https://open.spotify.com/track/6a1yed5oiA1bsQ2HHT79pB) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Evergreen Everblue: 20th Anniversary](https://open.spotify.com/album/2317AwaLLcYHPB2Cd69okk) | 3:22 |
 | 14 | [Carnivores And Herbivores](https://open.spotify.com/track/5vQc0vGyK5Yr5OA5fksxD8) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora Rocks! Music From The Special & More!](https://open.spotify.com/album/5LQ9gKK7KfAZlvTZN5eFYE) | 2:12 |
 | 15 | [Oh, What a World 2.0 \- Earth Day Edition](https://open.spotify.com/track/2vTnFQO21943vBiaLhv4X5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Oh, What a World 2.0 \(Earth Day Edition\)](https://open.spotify.com/album/7HH4W9FudfYQlGllznVsdq) | 3:39 |
 | 16 | [Pick It Up](https://open.spotify.com/track/6lY2AdInMhdWlio2rS8yph) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 2:50 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 | 21 | [Rainbow Connection \- From "The Muppet Movie"/Soundtrack Version](https://open.spotify.com/track/4Fx3LVYQXplhz70cfoqbgq) | [Kermit](https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw) | [The Muppet Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oDldtN1DXlRFL0zNfc1ux) | 3:15 |
 | 22 | [Gone Green](https://open.spotify.com/track/5aEmRympagn12cBjq2PHhm) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Moonshine in the Trunk](https://open.spotify.com/album/5jz1XHH4z5CegCDlAe9ujP) | 3:16 |
 | 23 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 |
-| 24 | [Young People Marching \(for Greta Thunberg\)](https://open.spotify.com/track/5KRESXF2mEjsHgHREPPhrE) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Young People Marching \(for Greta Thunberg\)](https://open.spotify.com/album/0bLDE3xvvEhNvEcEkzXVMm) | 3:33 |
+| 24 | [Young People Marching \(for Greta Thunberg\)](https://open.spotify.com/track/0HE90iT148w68tOxtY34Tf) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Young People Marching \(for Greta Thunberg\)](https://open.spotify.com/album/09yZsFS90mCk0YFGIoRpbu) | 3:33 |
 | 25 | [Solar Power to the People](https://open.spotify.com/track/2HL7G4IgB6gK8tTTfnalvX) | [Lynn Ahrens](https://open.spotify.com/artist/7vd6sS3NY5iwoMuyOK4LPK), [Val Hawk](https://open.spotify.com/artist/28N6wTL1paVOULEStVkJUN), [Vicki Doney](https://open.spotify.com/artist/6WkAXr7Cg3BRK9X8c2fjWd), [Nancy Reed](https://open.spotify.com/artist/1N20S4FfWNJFEIhueWeAAs) | [Schoolhouse Rock! Earth](https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno) | 3:02 |
 | 26 | [White Bird](https://open.spotify.com/track/61qnl6ZTZDFKu2bNQ7Evla) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Drastic Fantastic](https://open.spotify.com/album/4XpXkww6Q6KLFOaFmZ6IxX) | 3:13 |
 | 27 | [Salt Water Spin](https://open.spotify.com/track/1hIbTLOhycYxqwfKfWGImp) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Blink of an Eye](https://open.spotify.com/album/6nbSPIkCiKpbIdirJF1Ry9) | 3:23 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 | 39 | [I Love Nature \- Original Demo](https://open.spotify.com/track/7BVmOq6ejw9IH0PSYtVGAl) | [The Lorax Singers](https://open.spotify.com/artist/7cxXeGqb1uIhoiSXQ6kejX) | [Dr\. Seuss' The Lorax \- Original Songs From The Motion Picture](https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5) | 2:43 |
 | 40 | [Rule of thumb](https://open.spotify.com/track/2J9DJJB8zL9MCHXaXHHuIB) | [Waste Free Wanda](https://open.spotify.com/artist/5O1m5LMiBDa7xvPLkzeO2o), [Anna van Riel](https://open.spotify.com/artist/4V7CkMSBBEDqjVnuLvSHQt) | [Waste Free Wanda \(Workin' On A Waste Free World\)](https://open.spotify.com/album/5D54cZoik8QKB2G8ZrYzmd) | 2:44 |
 
-Snapshot ID: `MTY1MDAwOTYwMCwwMDAwMDAwODAwMDAwMTgwMmMzYzcwNjEwMDAwMDE3ZDgwZmNmNjdl`
+Snapshot ID: `MTY1MDAwOTYwMCwwMDAwMDAwMDE4ZGUyY2NmY2U3NDRiMTJhNTI4NzI1NmUyMjk0MDIx`

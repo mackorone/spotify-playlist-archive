@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 184998,
       "name": "Agate",
       "url": "https://open.spotify.com/track/0jSw2WmuvpZaZzbJpEhdui"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 238917,
       "name": "Am Flussufer",
       "url": "https://open.spotify.com/track/4EDCWd1sxAhOgO17vKHA9k"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 187428,
       "name": "Candle",
       "url": "https://open.spotify.com/track/5nYu8VUjyA2sqsi0o48VQc"
@@ -678,6 +678,24 @@
     },
     {
       "album": {
+        "name": "Behind the Breastbone (Instrumentals)",
+        "url": "https://open.spotify.com/album/6LXLTqQpj8che1C9i2Haro"
+      },
+      "artists": [
+        {
+          "name": "Quiet Arrows",
+          "url": "https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202153,
+      "name": "Dust and Ashes - Guitar Instrumental",
+      "url": "https://open.spotify.com/track/1YSkQpcby9nfzBowrz00wC"
+    },
+    {
+      "album": {
         "name": "E perto do anoitecer",
         "url": "https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo"
       },
@@ -779,7 +797,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 208385,
       "name": "Evening Stroll",
       "url": "https://open.spotify.com/track/5MV9mc5YjwVuWoZZDc1cB1"
@@ -1013,10 +1031,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 125583,
       "name": "Gallowhill",
       "url": "https://open.spotify.com/track/6SxZOktPKFDclsZaXvTyRF"
+    },
+    {
+      "album": {
+        "name": "Across The Pond",
+        "url": "https://open.spotify.com/album/29nlogZZVuuaLvA9lwjgTj"
+      },
+      "artists": [
+        {
+          "name": "Olma",
+          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125583,
+      "name": "Gallowhill",
+      "url": "https://open.spotify.com/track/7vaRxV3zmbu9jlkZNfCpDi"
     },
     {
       "album": {
@@ -1111,6 +1147,24 @@
       "duration_ms": 225225,
       "name": "Guitarra De Aire",
       "url": "https://open.spotify.com/track/4CeuvQWrIQ6IGWLicEsZzv"
+    },
+    {
+      "album": {
+        "name": "Easy Escapes",
+        "url": "https://open.spotify.com/album/73E00oJBEjxA3lS0DniBvn"
+      },
+      "artists": [
+        {
+          "name": "American Legion",
+          "url": "https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173801,
+      "name": "Gulf Coast Priory",
+      "url": "https://open.spotify.com/track/00uqqC4iEhwjVSLOtewgk9"
     },
     {
       "album": {
@@ -1636,6 +1690,24 @@
     },
     {
       "album": {
+        "name": "Loch Lomond",
+        "url": "https://open.spotify.com/album/1uAK1L5V9sG1g3vzbXrTIb"
+      },
+      "artists": [
+        {
+          "name": "Philip Grass",
+          "url": "https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114163,
+      "name": "Loch Lomond",
+      "url": "https://open.spotify.com/track/2cAOjBEOihwcAZmrNHVd7v"
+    },
+    {
+      "album": {
         "name": "Long Ago",
         "url": "https://open.spotify.com/album/7d8B7P8xOr5CNN0w8IEJTE"
       },
@@ -1849,6 +1921,24 @@
       "duration_ms": 124333,
       "name": "Melrose",
       "url": "https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe"
+    },
+    {
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/1nVjd0D1TypRpB7Xjet07j"
+      },
+      "artists": [
+        {
+          "name": "oakwhisper",
+          "url": "https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143092,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/5nTHryNER0Teyaa4Y6XLa7"
     },
     {
       "album": {
@@ -2259,10 +2349,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181669,
       "name": "Readers",
       "url": "https://open.spotify.com/track/4iN6427kzmNUcQWOd3cCNb"
+    },
+    {
+      "album": {
+        "name": "Labyrinths",
+        "url": "https://open.spotify.com/album/2jzgwz3nkjprtt1epZDN43"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Delany",
+          "url": "https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181669,
+      "name": "Readers",
+      "url": "https://open.spotify.com/track/4tkACn8vZjisGUrhTzlmRX"
     },
     {
       "album": {
@@ -2695,6 +2803,24 @@
       "duration_ms": 193037,
       "name": "Sunrise Murmur",
       "url": "https://open.spotify.com/track/1kJApkWnDkH6wgjApxlIcK"
+    },
+    {
+      "album": {
+        "name": "Autumn Reflections",
+        "url": "https://open.spotify.com/album/53csRIoXMKqkp7f0lIIobP"
+      },
+      "artists": [
+        {
+          "name": "Daria Semikina",
+          "url": "https://open.spotify.com/artist/1DEdteKCepxFJObz41bCVO"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/49W3hbf3rudWSmQQePyMsW"
     },
     {
       "album": {

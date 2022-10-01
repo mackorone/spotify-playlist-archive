@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-30",
       "duration_ms": 102840,
       "name": "Caballo De Patas Blancas",
       "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-09-16",
       "duration_ms": 166586,
       "name": "El Becerro - En Vivo",
       "url": "https://open.spotify.com/track/5afvrWUik1xfcvUrItN7Xm"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 354240,
       "name": "El Coyotito Medley - En Vivo/Medley",
       "url": "https://open.spotify.com/track/0dmv8pv7JhxIJtaukiBeGJ"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 152506,
       "name": "Entre Ella Y T\u00fa",
       "url": "https://open.spotify.com/track/2HavagLtOTS95ZX8Fmyz6z"
@@ -437,10 +437,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 217413,
       "name": "Esta Vida - En Vivo",
       "url": "https://open.spotify.com/track/0KpDXM7rU7Mbjy7u2ZiAoE"
+    },
+    {
+      "album": {
+        "name": "Fibras Sensibles",
+        "url": "https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200720,
+      "name": "Fibras Sensibles",
+      "url": "https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo"
     },
     {
       "album": {
@@ -477,10 +495,32 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 157133,
       "name": "Hermosa Y Brillante",
       "url": "https://open.spotify.com/track/4vQrwbsmnpxBMtj19jSbNU"
+    },
+    {
+      "album": {
+        "name": "Corridos De Alto Calibre (Vol. II)",
+        "url": "https://open.spotify.com/album/7wqVdv2T7Z7b1vDyRSjcIk"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186280,
+      "name": "Joaqu\u00edn",
+      "url": "https://open.spotify.com/track/6iO3I852AXG3gZj5AdRxyX"
     },
     {
       "album": {
@@ -531,7 +571,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-08-20",
       "duration_ms": 163573,
       "name": "La Piola",
       "url": "https://open.spotify.com/track/7BavzVtmVuYtM3pV3xXvFR"
@@ -603,7 +643,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-09-09",
       "duration_ms": 173400,
       "name": "Los Ninis",
       "url": "https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve"
@@ -711,7 +751,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 191640,
       "name": "Por Si No Te Vuelvo A Ver",
       "url": "https://open.spotify.com/track/1ZHeQ45MzbjfN2mz1l375g"
@@ -733,6 +773,24 @@
       "duration_ms": 153640,
       "name": "Porque As\u00ed Ten\u00eda Que Ser",
       "url": "https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ"
+    },
+    {
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213520,
+      "name": "Porque Me Importas",
+      "url": "https://open.spotify.com/track/6078F7dFzJzLEKshvo9zgd"
     },
     {
       "album": {

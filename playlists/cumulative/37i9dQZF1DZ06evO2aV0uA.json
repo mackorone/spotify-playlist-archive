@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": "2022-08-04",
       "duration_ms": 262233,
       "name": "Delusion Pandemic",
       "url": "https://open.spotify.com/track/2bBXQIFi0U3LQaQp2I5F0M"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 308557,
       "name": "Erase This",
       "url": "https://open.spotify.com/track/4canbnkWyGwRYxMo9UHkfX"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 264686,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/44suwRrP7rmlugLUaC9qyZ"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": "2022-09-29",
       "duration_ms": 264693,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/5EP7CdqAOvhOs6LJWw69sA"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-11",
       "duration_ms": 223466,
       "name": "For Your Malice",
       "url": "https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY"
@@ -513,10 +513,46 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 235133,
       "name": "Grace",
       "url": "https://open.spotify.com/track/2F9tfxxFvnbijR10IvW6Rg"
+    },
+    {
+      "album": {
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236466,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq"
+    },
+    {
+      "album": {
+        "name": "Grayscale",
+        "url": "https://open.spotify.com/album/7rt9gDvHDt35KJ9QIQJkgr"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239940,
+      "name": "Grayscale",
+      "url": "https://open.spotify.com/track/3v2u6vEUgHiFdQA4PsIpoE"
     },
     {
       "album": {
@@ -567,7 +603,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-08-07",
       "duration_ms": 277026,
       "name": "In the Absence of the Sacred",
       "url": "https://open.spotify.com/track/4TLTg6pKR2dzRgac8eFaiS"
@@ -585,10 +621,46 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 324666,
       "name": "In Your Words",
       "url": "https://open.spotify.com/track/7lVrIjVb0ctSCo00X7cDOk"
+    },
+    {
+      "album": {
+        "name": "Resolution (Exclusive Edition)",
+        "url": "https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 290960,
+      "name": "Insurrection",
+      "url": "https://open.spotify.com/track/6MceLF6UAG3Hw2vzPo5LiL"
+    },
+    {
+      "album": {
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 395640,
+      "name": "King Me",
+      "url": "https://open.spotify.com/track/2YEOckiFPxRlCqr4yjFVSw"
     },
     {
       "album": {
@@ -647,6 +719,24 @@
     {
       "album": {
         "name": "Nevermore",
+        "url": "https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275924,
+      "name": "Nevermore",
+      "url": "https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw"
+    },
+    {
+      "album": {
+        "name": "Nevermore",
         "url": "https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc"
       },
       "artists": [
@@ -657,7 +747,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 275924,
       "name": "Nevermore",
       "url": "https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr"
@@ -718,6 +808,24 @@
     },
     {
       "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/7lFikUc9FbXgTrL2YGR1Zy"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227899,
+      "name": "Omens",
+      "url": "https://open.spotify.com/track/4hswIIoErwEhIwtuFxN40R"
+    },
+    {
+      "album": {
         "name": "Ashes of the Wake (15th Anniversary)",
         "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
       },
@@ -733,6 +841,24 @@
       "duration_ms": 285962,
       "name": "Omerta",
       "url": "https://open.spotify.com/track/4Vb5Y6RQztThqqqFre24wL"
+    },
+    {
+      "album": {
+        "name": "VII: Sturm und Drang",
+        "url": "https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388114,
+      "name": "Overlord",
+      "url": "https://open.spotify.com/track/4rHVLEpV38Ls3BsIvB7CGV"
     },
     {
       "album": {
@@ -765,7 +891,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-09-23",
       "duration_ms": 190533,
       "name": "Purified",
       "url": "https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4"
@@ -873,7 +999,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": "2022-09-19",
       "duration_ms": 226493,
       "name": "Set To Fail",
       "url": "https://open.spotify.com/track/0FgblIvvlYsXEAlEOPbaFJ"
@@ -909,7 +1035,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": "2022-09-01",
       "duration_ms": 146653,
       "name": "Straight For The Sun",
       "url": "https://open.spotify.com/track/7cqj8hfthKgGLy4cupPCGr"
@@ -945,7 +1071,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 337666,
       "name": "Terror and Hubris in the House of Frank Pollard",
       "url": "https://open.spotify.com/track/6d2tguWs6yv0EkVlu9PgNz"
@@ -1006,6 +1132,24 @@
     },
     {
       "album": {
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321546,
+      "name": "The Number Six",
+      "url": "https://open.spotify.com/track/6Mr2g708NoGLVChCjuA9yc"
+    },
+    {
+      "album": {
         "name": "Resolution (Exclusive Edition)",
         "url": "https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk"
       },
@@ -1017,7 +1161,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 321546,
       "name": "The Number Six",
       "url": "https://open.spotify.com/track/6RZrBh8AdD9dDvcre8OmMA"
@@ -1035,7 +1179,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 118106,
       "name": "The Passing",
       "url": "https://open.spotify.com/track/3IwA4T9dOzC15CGnUDDEWy"
@@ -1060,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229360,
+      "name": "To The End",
+      "url": "https://open.spotify.com/track/2q9JN8Rm3rANdCxUSJpNpZ"
+    },
+    {
+      "album": {
         "name": "Resolution (Exclusive Edition)",
         "url": "https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk"
       },
@@ -1071,7 +1233,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-09",
       "duration_ms": 229360,
       "name": "To The End",
       "url": "https://open.spotify.com/track/3o0nAblw2F6RMKoehHtPcJ"
@@ -1115,7 +1277,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 223413,
       "name": "Wake up Dead (feat. Dave Mustaine)",
       "url": "https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9"

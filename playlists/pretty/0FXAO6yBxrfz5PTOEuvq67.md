@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0FXAO6yBxrfz5PTOEuvq67.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 480 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 477 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/0FXAO6yBxrfz5PTOEuvq67.md) - [plain]
 | 29 | [I Can Dream About You](https://open.spotify.com/track/37nxLdGbmgEYQYrqe14xOp) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Streets Of Fire](https://open.spotify.com/album/1DU5fmQDMYfS6g1tntqKdK) | 4:09 |
 | 30 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 |
 | 31 | [Oh Sherrie](https://open.spotify.com/track/3wqoAzrr5htxSZ7KzxhLHg) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Greatest Hits + Five Unreleased](https://open.spotify.com/album/17PNvuwxQ9gmeYkoq9Vo93) | 3:48 |
-| 32 | [Stuck On You](https://open.spotify.com/track/3L9SXYL2XOl0JJ754YgBsS) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC) | 3:11 |
+| 32 | [Stuck On You](https://open.spotify.com/track/3L9SXYL2XOl0JJ754YgBsS) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down \(Deluxe Edition\)](https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC) | 3:11 |
 | 33 | [I Guess That's Why They Call It The Blues](https://open.spotify.com/track/4kwFh3RBxE5n9a6FwFw2tl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Greatest Hits 1970\-2002](https://open.spotify.com/album/6CPTYd8BQRbF6VzhnTWIfL) | 4:44 |
 | 34 | [She Bop](https://open.spotify.com/track/4mhIed8oGCswH4d5pxClnv) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/2aZG65CSBMeTKr0YNfsFMe) | 3:49 |
 | 35 | [Borderline](https://open.spotify.com/track/4FMNpPI7mkhdeFCCk6fZiE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:58 |

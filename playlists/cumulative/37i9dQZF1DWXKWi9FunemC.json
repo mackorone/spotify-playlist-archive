@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291223,
+      "name": "17",
+      "url": "https://open.spotify.com/track/2k8Gjr3A8hXpQVvKI8f8Pn"
+    },
+    {
+      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/712g9RyE2z6DFl5xNZlsQ1"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 291226,
       "name": "17",
       "url": "https://open.spotify.com/track/4K7DyLbgUiSPP0Q7EP0ZKa"
@@ -37,10 +55,46 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222880,
       "name": "Abba",
       "url": "https://open.spotify.com/track/1mrmL7n1CTrdAlXgHGhtRK"
+    },
+    {
+      "album": {
+        "name": "Love Secrets",
+        "url": "https://open.spotify.com/album/18j2N1p5fuk0yCFmfV0JmM"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222880,
+      "name": "Abba",
+      "url": "https://open.spotify.com/track/6VoL4G7Tt9XQXMK6B8BCfg"
+    },
+    {
+      "album": {
+        "name": "On the Shores",
+        "url": "https://open.spotify.com/album/3YUPMhS86C2T5jAVoOF1qQ"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244520,
+      "name": "Abba",
+      "url": "https://open.spotify.com/track/5x1nPSw6zxDcxAZNrCF1Id"
     },
     {
       "album": {
@@ -59,7 +113,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 244506,
       "name": "Abba",
       "url": "https://open.spotify.com/track/4LdNy84s0Q7xjaEWbU1JAs"
@@ -95,7 +149,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 235056,
       "name": "All for You",
       "url": "https://open.spotify.com/track/30OQNZvkK8BbSYnZcSrcdZ"
@@ -156,6 +210,24 @@
     },
     {
       "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
+      },
+      "artists": [
+        {
+          "name": "Jared Marc",
+          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246760,
+      "name": "Avalanche - Piano Version",
+      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
+    },
+    {
+      "album": {
         "name": "Avalanche (Piano Version)",
         "url": "https://open.spotify.com/album/6xmA1KDv1uCv8tccOoPqRK"
       },
@@ -167,7 +239,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246760,
       "name": "Avalanche - Piano Version",
       "url": "https://open.spotify.com/track/7gfCmyLiGPkufPJdTErWar"
@@ -243,10 +315,28 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 261886,
       "name": "Before You",
       "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
+    },
+    {
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O"
+      },
+      "artists": [
+        {
+          "name": "Rhett Walker",
+          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202943,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV"
     },
     {
       "album": {
@@ -261,7 +351,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216436,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR"
@@ -461,7 +551,7 @@
     {
       "album": {
         "name": "Eternal Gospel",
-        "url": "https://open.spotify.com/album/2WAwtUNSzV2pesSu8ImeQB"
+        "url": "https://open.spotify.com/album/6aQlH2u5lUVu4uJpRWYZiX"
       },
       "artists": [
         {
@@ -476,6 +566,28 @@
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 247533,
+      "name": "For The Joy Set Before Him",
+      "url": "https://open.spotify.com/track/5BtD8FDmGP1XOS7OkPceW1"
+    },
+    {
+      "album": {
+        "name": "Eternal Gospel",
+        "url": "https://open.spotify.com/album/2WAwtUNSzV2pesSu8ImeQB"
+      },
+      "artists": [
+        {
+          "name": "Latifah Makuyi",
+          "url": "https://open.spotify.com/artist/4UDfz6xyv6xFkaj2P0ILpz"
+        },
+        {
+          "name": "Pete YB",
+          "url": "https://open.spotify.com/artist/1rKqURNGRPah0QKnAefXyz"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 247533,
       "name": "For The Joy Set Before Him",
       "url": "https://open.spotify.com/track/5z77cuUf9NLQO6imnFhsE0"
@@ -529,10 +641,46 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-22",
       "duration_ms": 277853,
       "name": "Get Your Hopes Up",
       "url": "https://open.spotify.com/track/1axUIOWOLCGMJkGwTKgzda"
+    },
+    {
+      "album": {
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277853,
+      "name": "Get Your Hopes Up",
+      "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
+    },
+    {
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/4vuVg0LWXyaxdtBusihvr3"
+      },
+      "artists": [
+        {
+          "name": "Vocal Few",
+          "url": "https://open.spotify.com/artist/4XNEA2zwGthyCOdS9znQGd"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248671,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/08plw345uiLR5bQZNIsfMc"
     },
     {
       "album": {
@@ -547,7 +695,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248671,
       "name": "Go",
       "url": "https://open.spotify.com/track/57DwpDYNbI1QngVijfBKfP"
@@ -583,7 +731,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-27",
       "duration_ms": 353478,
       "name": "God of the Breakthrough (Live)",
       "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
@@ -601,10 +749,28 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 334340,
       "name": "Goodness",
       "url": "https://open.spotify.com/track/2l3jQnu4yQHwojxoEHlzcn"
+    },
+    {
+      "album": {
+        "name": "When It Comes to You",
+        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335299,
+      "name": "Goodness",
+      "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
     },
     {
       "album": {
@@ -681,7 +847,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 277083,
       "name": "Heavenly Things",
       "url": "https://open.spotify.com/track/5JGZWUlNDO7ArFLmvK7MGD"
@@ -721,7 +887,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 390497,
       "name": "Home (Acoustic)",
       "url": "https://open.spotify.com/track/67V4t2QI912xsWkXPDelPb"
@@ -743,10 +909,50 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-23",
       "duration_ms": 250750,
       "name": "Home (GCM Sinai Sessions) - Live",
       "url": "https://open.spotify.com/track/38hnWg98FJs2UyoS5ZZOuS"
+    },
+    {
+      "album": {
+        "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
+        "url": "https://open.spotify.com/album/4iwQhf1wykHLNxnTJ9aQfi"
+      },
+      "artists": [
+        {
+          "name": "WYLD",
+          "url": "https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250750,
+      "name": "Home (GCM Sinai Sessions) [feat. Jonathan Ogden]",
+      "url": "https://open.spotify.com/track/6LwwzwWaRfRkDjFAIUxtCS"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh"
+      },
+      "artists": [
+        {
+          "name": "London Gatch",
+          "url": "https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390497,
+      "name": "Home - Acoustic",
+      "url": "https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS"
     },
     {
       "album": {
@@ -794,6 +1000,28 @@
     },
     {
       "album": {
+        "name": "Love Secrets (B-Sides)",
+        "url": "https://open.spotify.com/album/1czXmSklT1QRyz24ZZes6e"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        },
+        {
+          "name": "Rebekah Autumn",
+          "url": "https://open.spotify.com/artist/20ed7TTssoM14jZNDm7dJJ"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213942,
+      "name": "I Know Just What You Need",
+      "url": "https://open.spotify.com/track/0CBxM0vs1cT1YIw0GNnpuO"
+    },
+    {
+      "album": {
         "name": "I Know Just What You Need",
         "url": "https://open.spotify.com/album/5Sn2cIEG2QQcTFAdrJ29BV"
       },
@@ -809,7 +1037,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213942,
       "name": "I Know Just What You Need",
       "url": "https://open.spotify.com/track/4yKLqYXt2tQaBw4qta5iMs"
@@ -827,7 +1055,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 387536,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
@@ -863,7 +1091,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-01",
       "duration_ms": 244746,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
@@ -943,7 +1171,7 @@
     {
       "album": {
         "name": "After All These Years: A Collection",
-        "url": "https://open.spotify.com/album/5sim5IzOccNv5fNyOEgx8c"
+        "url": "https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj"
       },
       "artists": [
         {
@@ -954,6 +1182,24 @@
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 279373,
+      "name": "Isn't It Love - 2014 Version",
+      "url": "https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx"
+    },
+    {
+      "album": {
+        "name": "After All These Years: A Collection",
+        "url": "https://open.spotify.com/album/5sim5IzOccNv5fNyOEgx8c"
+      },
+      "artists": [
+        {
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 279373,
       "name": "Isn't It Love - 2014 Version",
       "url": "https://open.spotify.com/track/0T8JLm87zh6w1eEDgbSGga"
@@ -1007,10 +1253,28 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207893,
       "name": "Just Give Me Jesus",
       "url": "https://open.spotify.com/track/2TkU9jzogblGW1Dv3G7SIo"
+    },
+    {
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209098,
+      "name": "Just Give Me Jesus",
+      "url": "https://open.spotify.com/track/16v6WFYCpJXa8XP13hI8Pd"
     },
     {
       "album": {
@@ -1025,7 +1289,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245166,
       "name": "King",
       "url": "https://open.spotify.com/track/6vBLdyTincxHDJLWBtfj38"
@@ -1073,7 +1337,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 291565,
       "name": "King Of Kings - Live",
       "url": "https://open.spotify.com/track/5fShaoGs6VDmBOE7YVbS39"
@@ -1113,10 +1377,28 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229617,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ"
+    },
+    {
+      "album": {
+        "name": "Life + Love",
+        "url": "https://open.spotify.com/album/76yW9XMMy9huSpK9EFkOeD"
+      },
+      "artists": [
+        {
+          "name": "1910 Worship",
+          "url": "https://open.spotify.com/artist/4IyWlfSJ9BabkBnmkROEEV"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 220500,
+      "name": "Life + Love",
+      "url": "https://open.spotify.com/track/0EheUfcQwsZgQPdQ80RzaG"
     },
     {
       "album": {
@@ -1131,10 +1413,28 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 220500,
       "name": "Life + Love",
       "url": "https://open.spotify.com/track/0eZRFLKgFUYCioeKA8dFPA"
+    },
+    {
+      "album": {
+        "name": "& Side A",
+        "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
+      },
+      "artists": [
+        {
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268970,
+      "name": "Light & Momentary",
+      "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
     },
     {
       "album": {
@@ -1149,7 +1449,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268970,
       "name": "Light & Momentary",
       "url": "https://open.spotify.com/track/1KN2FBM6S6DVhCh95WmR7e"
@@ -1167,7 +1467,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 319552,
       "name": "Like the Dawn",
       "url": "https://open.spotify.com/track/1RH9Nsu2iiShLD1enwFLaC"
@@ -1193,6 +1493,24 @@
     {
       "album": {
         "name": "A Dawn I Remember",
+        "url": "https://open.spotify.com/album/0Y1GWM8ScBqzrTYLoEgoVH"
+      },
+      "artists": [
+        {
+          "name": "Holly Arrowsmith",
+          "url": "https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254146,
+      "name": "Love Together",
+      "url": "https://open.spotify.com/track/3KdlHHWEN6aYvZKwjuAzUR"
+    },
+    {
+      "album": {
+        "name": "A Dawn I Remember",
         "url": "https://open.spotify.com/album/7jMUzNnJXrJwfQK1puksoE"
       },
       "artists": [
@@ -1203,7 +1521,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 254146,
       "name": "Love Together",
       "url": "https://open.spotify.com/track/5zfHzOElny9FesLftcnDoj"
@@ -1279,7 +1597,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 437188,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/6EDa0a42UOJHgcy4WIqwMY"
@@ -1304,6 +1622,24 @@
     },
     {
       "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232933,
+      "name": "Not Finished Yet",
+      "url": "https://open.spotify.com/track/48LaNGUAT0JmYdqSGAN6Bi"
+    },
+    {
+      "album": {
         "name": "Let The Ground Rest",
         "url": "https://open.spotify.com/album/0HqdkOBWLtdPRUxfdVxL9c"
       },
@@ -1315,7 +1651,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232933,
       "name": "Not Finished Yet",
       "url": "https://open.spotify.com/track/7zm8o8n8g0e1eVDWRGj0Ff"
@@ -1367,6 +1703,24 @@
     {
       "album": {
         "name": "Morning Sun, Rising Tide",
+        "url": "https://open.spotify.com/album/09EayNj4y8JWxvwBUElf7q"
+      },
+      "artists": [
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236466,
+      "name": "Oh What a Father",
+      "url": "https://open.spotify.com/track/1H8YQq1VQDwsFrw32npGEH"
+    },
+    {
+      "album": {
+        "name": "Morning Sun, Rising Tide",
         "url": "https://open.spotify.com/album/5ZFrFQRF1EHUDh49toRT16"
       },
       "artists": [
@@ -1377,7 +1731,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 236466,
       "name": "Oh What a Father",
       "url": "https://open.spotify.com/track/599w7fRMgsd0TBKfKsej0D"
@@ -1431,7 +1785,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 229266,
       "name": "One Good Try",
       "url": "https://open.spotify.com/track/6wdW7RIXNx64DH6HqDOgSf"
@@ -1637,7 +1991,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 243346,
       "name": "Resting Place (To the Cross)",
       "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
@@ -1680,6 +2034,24 @@
     },
     {
       "album": {
+        "name": "Albertine",
+        "url": "https://open.spotify.com/album/692STu3cT5sFQbvSO8qd2X"
+      },
+      "artists": [
+        {
+          "name": "Brooke Fraser",
+          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215400,
+      "name": "Shadowfeet",
+      "url": "https://open.spotify.com/track/4nvxOpUIhsI9XCSAOkFqpC"
+    },
+    {
+      "album": {
         "name": "Shiloh",
         "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
       },
@@ -1709,10 +2081,28 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227813,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/2lV9YvVyqSFGo7wnbWz69n"
+    },
+    {
+      "album": {
+        "name": "The Soul",
+        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227813,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ"
     },
     {
       "album": {
@@ -1825,7 +2215,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
@@ -1843,7 +2233,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
@@ -1883,10 +2273,32 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283786,
       "name": "The Secret Place (feat. Madison Cunningham) - Acoustic",
       "url": "https://open.spotify.com/track/2kLHSJ9B6sqDYggynPrNiA"
+    },
+    {
+      "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283785,
+      "name": "The Secret Place - Acoustic",
+      "url": "https://open.spotify.com/track/1ZwyRRW5zGjt9gGOwSO5YM"
     },
     {
       "album": {
@@ -2007,10 +2419,50 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 344206,
       "name": "We Rise",
       "url": "https://open.spotify.com/track/1XA0wKDdMwgbdb7Snxwlnc"
+    },
+    {
+      "album": {
+        "name": "We Rise We Bow",
+        "url": "https://open.spotify.com/album/6vQiAyokbSLC6BJUZlkKtr"
+      },
+      "artists": [
+        {
+          "name": "Cageless Birds",
+          "url": "https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344206,
+      "name": "We Rise",
+      "url": "https://open.spotify.com/track/32oefCfjl6LcXDzQD5eqMy"
+    },
+    {
+      "album": {
+        "name": "Well Done (Acoustic)",
+        "url": "https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278906,
+      "name": "Well Done - Acoustic",
+      "url": "https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI"
     },
     {
       "album": {
@@ -2025,7 +2477,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 278906,
       "name": "Well Done - Acoustic",
       "url": "https://open.spotify.com/track/4Ax0OUw3sH67c2ZwaUix0c"
@@ -2043,7 +2495,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 238478,
       "name": "When My Heart Became Aware",
       "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
@@ -2061,10 +2513,28 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 272625,
       "name": "Who Am I (New York Sessions)",
       "url": "https://open.spotify.com/track/0M9YO6FyjLrOVD4ecjHttP"
+    },
+    {
+      "album": {
+        "name": "New York Sessions",
+        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272625,
+      "name": "Who Am I - New York Sessions",
+      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
     },
     {
       "album": {
@@ -2079,7 +2549,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 296000,
       "name": "Who May Ascend",
       "url": "https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo"
@@ -2126,6 +2596,28 @@
     },
     {
       "album": {
+        "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
+        "url": "https://open.spotify.com/album/7lD371T7NrKgCnOHQq42gk"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211251,
+      "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
+      "url": "https://open.spotify.com/track/5Vmj0vCnP9Kf6PuxzERwic"
+    },
+    {
+      "album": {
         "name": "With Lifted Hands (feat. Martin Smith) [Acoustic]",
         "url": "https://open.spotify.com/album/2dQBR1cgnp3QwPRefwzTT4"
       },
@@ -2141,7 +2633,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211251,
       "name": "With Lifted Hands (feat. Martin Smith) - Acoustic",
       "url": "https://open.spotify.com/track/4YOy8xQckgK4b31Hnsi5nO"
@@ -2159,7 +2651,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 169500,
       "name": "With You",
       "url": "https://open.spotify.com/track/6oE6JvYUDR3aa9JAtFvN61"
@@ -2217,7 +2709,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205308,
       "name": "Wrote Us a Story - To the Sea Remix",
       "url": "https://open.spotify.com/track/4EWR9HYaJ3woD0dILCyFSk"
@@ -2242,6 +2734,28 @@
     },
     {
       "album": {
+        "name": "B Sides",
+        "url": "https://open.spotify.com/album/6nj4lFf0LIu3W4iRbr02Ko"
+      },
+      "artists": [
+        {
+          "name": "Brooke Fraser",
+          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
+        },
+        {
+          "name": "William Fitzsimmons",
+          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144840,
+      "name": "You Can Close Your Eyes",
+      "url": "https://open.spotify.com/track/1e5eUUQ3K7cnlOFoSG6iAk"
+    },
+    {
+      "album": {
         "name": "Flags (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bUqAg3JLM03QmQUJ91fGF"
       },
@@ -2253,7 +2767,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 142800,
       "name": "You Can Close Your Eyes (feat. William Fitzsimmons) [Bonus Track]",
       "url": "https://open.spotify.com/track/0mSZtpdHUYbrfe2f4HJPzO"
@@ -2271,7 +2785,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 337760,
       "name": "You Never Break a Promise",
       "url": "https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8"

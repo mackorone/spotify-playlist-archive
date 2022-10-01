@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-02",
       "duration_ms": 472920,
       "name": "Go On",
       "url": "https://open.spotify.com/track/6ExcXkqOxuYHeDdOGzmHfY"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": "2022-07-24",
       "duration_ms": 290533,
       "name": "Ilala",
       "url": "https://open.spotify.com/track/6mbcIiKVptYN6dD7MuTTJS"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 312000,
       "name": "In Tunes Wave - Original Mix",
       "url": "https://open.spotify.com/track/7HY0sGSdHdj8RTB1n42WVD"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": "2022-07-25",
       "duration_ms": 452666,
       "name": "Stimela (Coal Train) - Black Coffee Remix",
       "url": "https://open.spotify.com/track/5zc9sDB5u1KGA1CF8ej2gY"
@@ -1420,6 +1420,28 @@
     },
     {
       "album": {
+        "name": "Platinumb Heart Beating",
+        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 350000,
+      "name": "Uthando Lwam",
+      "url": "https://open.spotify.com/track/7lp3w0kR7m6o3mrKLSXGkI"
+    },
+    {
+      "album": {
         "name": "Africa Rising",
         "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
       },
@@ -1541,7 +1563,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 373640,
       "name": "You Turn Me On",
       "url": "https://open.spotify.com/track/1aqL3jlruipLsSZV9OvgTv"

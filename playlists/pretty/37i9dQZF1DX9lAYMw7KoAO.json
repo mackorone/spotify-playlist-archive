@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across the African continent. Worship in your mother tongue here!",
-  "num_followers": 53247,
+  "num_followers": 57899,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjM5NjQwMCwwMDAwMDAzNDAwMDAwMTgwYmE4MDFlODkwMDAwMDE3MGM0YmU5MTkx",
+  "snapshot_id": "MTY2MjcxNTg1NywwMDAwMDAwMGY2NGY5NjA4M2NmMmY4NjI4YmQ1YTdkOTFjMGIzOGFl",
   "tracks": [
     {
       "added_at": "2020-06-05 06:50:34",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW"
     },
     {
-      "added_at": "2018-10-01 23:13:33",
+      "added_at": "2022-09-01 23:00:00",
       "album": {
-        "name": "Joyous Celebration 14",
-        "url": "https://open.spotify.com/album/6xz2qMcKIOi8Rj6wWSaQPt"
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny"
       },
       "artists": [
         {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
         }
       ],
-      "duration_ms": 330640,
-      "name": "Big God",
-      "url": "https://open.spotify.com/track/44Mf6xg3FPKJWkHwjJue9F"
+      "duration_ms": 355250,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB"
     },
     {
       "added_at": "2020-08-27 21:59:00",
@@ -55,6 +55,30 @@
       "duration_ms": 340947,
       "name": "I Believe (Live)",
       "url": "https://open.spotify.com/track/6cJO5KcvPHzo50Q0EKS0Og"
+    },
+    {
+      "added_at": "2022-08-26 09:42:31",
+      "album": {
+        "name": "God Turned It Around",
+        "url": "https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        }
+      ],
+      "duration_ms": 619333,
+      "name": "God Turned It Around",
+      "url": "https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG"
     },
     {
       "added_at": "2022-01-20 23:00:00",
@@ -105,26 +129,66 @@
       "url": "https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU"
     },
     {
-      "added_at": "2020-10-09 07:55:50",
+      "added_at": "2021-01-22 00:00:00",
       "album": {
-        "name": "Udumo (Live at Pont De Val)",
-        "url": "https://open.spotify.com/album/6YSvp90Kw08mG6Wcaz162p"
+        "name": "We Raise A Sound",
+        "url": "https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU"
       },
       "artists": [
         {
-          "name": "Dr Tumi",
-          "url": "https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ"
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        },
+        {
+          "name": "121SELAH",
+          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
         }
       ],
-      "duration_ms": 406410,
-      "name": "Udumo - Live at Pont De Val",
-      "url": "https://open.spotify.com/track/1sZAiagVPE4eQwaw056YaM"
+      "duration_ms": 432185,
+      "name": "We Raise A Sound",
+      "url": "https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Unbroken",
+        "url": "https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH"
+      },
+      "artists": [
+        {
+          "name": "Waje",
+          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
+        }
+      ],
+      "duration_ms": 209437,
+      "name": "Na Me Be This",
+      "url": "https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO"
+    },
+    {
+      "added_at": "2022-09-09 09:30:57",
+      "album": {
+        "name": "Yhwh",
+        "url": "https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 583858,
+      "name": "Yhwh",
+      "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
     },
     {
       "added_at": "2020-04-13 11:22:57",
       "album": {
-        "name": "Fix My Eyes On You",
-        "url": "https://open.spotify.com/album/6A2omubxXwPF8fveDc1dNy"
+        "name": "Born of God",
+        "url": "https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf"
       },
       "artists": [
         {
@@ -136,9 +200,41 @@
           "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
         }
       ],
-      "duration_ms": 333541,
-      "name": "Fix My Eyes On You",
-      "url": "https://open.spotify.com/track/01681YDSzn0mtZJoXHzcuG"
+      "duration_ms": 332573,
+      "name": "Fix My Eyes on You",
+      "url": "https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 360486,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
+    },
+    {
+      "added_at": "2020-09-17 22:59:00",
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/5YPxw37RZOlbWsVR08fcQ7"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 265613,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/0q4SXFe7bOiKsxOKIoXLr4"
     },
     {
       "added_at": "2019-11-06 14:24:49",
@@ -155,6 +251,30 @@
       "duration_ms": 433773,
       "name": "Haleluyah Mdumiseni (Live)",
       "url": "https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl"
+    },
+    {
+      "added_at": "2020-05-15 08:28:24",
+      "album": {
+        "name": "Spirit of Praise, Vol. 5 (Live)",
+        "url": "https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Tshepiso",
+          "url": "https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I"
+        },
+        {
+          "name": "Thando",
+          "url": "https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn"
+        }
+      ],
+      "duration_ms": 406600,
+      "name": "Xa Ndiyekelelwa (Live)",
+      "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
     },
     {
       "added_at": "2019-11-06 14:24:49",
@@ -175,8 +295,8 @@
     {
       "added_at": "2020-11-20 00:49:54",
       "album": {
-        "name": "Child of Heaven (Remake)",
-        "url": "https://open.spotify.com/album/3LShjcDJqRzVTNWx1SSp03"
+        "name": "Child Of Heaven (Remake)",
+        "url": "https://open.spotify.com/album/3M733uXqxXk5zhofXoqxSy"
       },
       "artists": [
         {
@@ -189,8 +309,8 @@
         }
       ],
       "duration_ms": 270000,
-      "name": "Child of Heaven - Remake",
-      "url": "https://open.spotify.com/track/3lU0uXcq2uzpPSIplEuinm"
+      "name": "Child Of Heaven - Remake",
+      "url": "https://open.spotify.com/track/5bRLQ7hI4PWjsVEZsNhDyj"
     },
     {
       "added_at": "2020-10-09 07:55:50",
@@ -357,26 +477,6 @@
       "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Xorla (Savior)",
-        "url": "https://open.spotify.com/album/5ksHtx5tszK7XVxXjwAPzV"
-      },
-      "artists": [
-        {
-          "name": "Bethel Revival Choir",
-          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
-        },
-        {
-          "name": "Ps. Helen Yawson",
-          "url": "https://open.spotify.com/artist/6kTupYkSzsvfbbE75WuAlb"
-        }
-      ],
-      "duration_ms": 448804,
-      "name": "Xorla (Savior)",
-      "url": "https://open.spotify.com/track/5oeCjtT8jKUHnzRmRdPm5Q"
-    },
-    {
       "added_at": "2020-07-10 08:59:06",
       "album": {
         "name": "Yesu Mo",
@@ -412,7 +512,7 @@
       "added_at": "2020-11-05 22:59:00",
       "album": {
         "name": "Hunger - From Our Heart to Yours (Live)",
-        "url": "https://open.spotify.com/album/0IkLNW9rtROyC3ILp4APN7"
+        "url": "https://open.spotify.com/album/5mvzsp0rnXmZYDKqVa88ac"
       },
       "artists": [
         {
@@ -424,9 +524,9 @@
           "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
         }
       ],
-      "duration_ms": 442001,
+      "duration_ms": 441984,
       "name": "How to Love",
-      "url": "https://open.spotify.com/track/5NwKf24lljEnETSNBEXzzM"
+      "url": "https://open.spotify.com/track/1agXd44dQVaf4mCZGgyP3x"
     },
     {
       "added_at": "2018-10-01 23:13:33",
@@ -481,22 +581,6 @@
       "url": "https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK"
     },
     {
-      "added_at": "2018-10-01 23:13:33",
-      "album": {
-        "name": "Hymns: Songs of Worship",
-        "url": "https://open.spotify.com/album/1febHiKvpndkCYiyA4LwSn"
-      },
-      "artists": [
-        {
-          "name": "Florocka",
-          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
-        }
-      ],
-      "duration_ms": 264785,
-      "name": "Ma K'oja Mi Olugbala",
-      "url": "https://open.spotify.com/track/0H5CRzT7bk1Ib5f5Lw5xEU"
-    },
-    {
       "added_at": "2021-12-09 23:00:00",
       "album": {
         "name": "Yahweh: Song of Moses",
@@ -519,8 +603,8 @@
     {
       "added_at": "2018-10-01 23:13:33",
       "album": {
-        "name": "New Dawn",
-        "url": "https://open.spotify.com/album/1R4VaMYmRT58HE9GYg1jKe"
+        "name": "New Dawn (Live)",
+        "url": "https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge"
       },
       "artists": [
         {
@@ -529,8 +613,8 @@
         }
       ],
       "duration_ms": 246252,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/408SouH6qikkfmpyVN0Aqa"
+      "name": "Messiah - Live",
+      "url": "https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u"
     },
     {
       "added_at": "2020-05-15 08:28:24",
@@ -615,8 +699,8 @@
     {
       "added_at": "2021-11-26 05:06:33",
       "album": {
-        "name": "Obinigwe",
-        "url": "https://open.spotify.com/album/1ZcK96zMWufzdsMu1yMVmT"
+        "name": "To Yahweh's Delight",
+        "url": "https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva"
       },
       "artists": [
         {
@@ -624,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
         }
       ],
-      "duration_ms": 547578,
+      "duration_ms": 552855,
       "name": "Obinigwe",
-      "url": "https://open.spotify.com/track/2gfh7QNGVJIdnTA1GSVqnU"
+      "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
     },
     {
       "added_at": "2021-10-18 07:14:04",
@@ -647,8 +731,8 @@
     {
       "added_at": "2019-11-06 14:24:49",
       "album": {
-        "name": "Glory in His Presence",
-        "url": "https://open.spotify.com/album/7H1DYc7cB7U5jiqhOadKP7"
+        "name": "Glory in His Presence (Live)",
+        "url": "https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR"
       },
       "artists": [
         {
@@ -657,8 +741,8 @@
         }
       ],
       "duration_ms": 654333,
-      "name": "Bow Down and Worship",
-      "url": "https://open.spotify.com/track/4pWmkzHatAySpTylNXJOzb"
+      "name": "Bow Down and Worship - Live",
+      "url": "https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C"
     },
     {
       "added_at": "2019-11-06 14:24:49",
@@ -675,30 +759,6 @@
       "duration_ms": 458013,
       "name": "Jehovah Is Your Name (Live)",
       "url": "https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK"
-    },
-    {
-      "added_at": "2020-05-15 08:28:24",
-      "album": {
-        "name": "Collaborations, Vol. 1",
-        "url": "https://open.spotify.com/album/6FUPRNJO74x0fl6xphVQ3b"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Tshepiso",
-          "url": "https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I"
-        },
-        {
-          "name": "Thando",
-          "url": "https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn"
-        }
-      ],
-      "duration_ms": 406600,
-      "name": "Xa Ndiyekelelwa - Live",
-      "url": "https://open.spotify.com/track/5MDmBimlxmvhDshNiV5fCa"
     },
     {
       "added_at": "2021-04-19 08:02:07",
@@ -720,7 +780,7 @@
       "added_at": "2019-11-06 14:24:49",
       "album": {
         "name": "Love & Grace (Live At The Barnyard Theatre / Deluxe Version)",
-        "url": "https://open.spotify.com/album/6L2iyLuGeKjI9Z6dG90l8t"
+        "url": "https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv"
       },
       "artists": [
         {
@@ -730,7 +790,7 @@
       ],
       "duration_ms": 470600,
       "name": "Nothing Without You - Live At The Barnyard Theatre",
-      "url": "https://open.spotify.com/track/7IpYieOKe5WXhdjAJ5QnzC"
+      "url": "https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf"
     },
     {
       "added_at": "2021-03-25 22:00:00",
@@ -803,8 +863,8 @@
     {
       "added_at": "2019-11-06 14:24:49",
       "album": {
-        "name": "Spirit of Praise New Voices (Live)",
-        "url": "https://open.spotify.com/album/13ytrQ0CS9ipmq1UdlwhfD"
+        "name": "Spirit of Praise, Vol. 7 (Live)",
+        "url": "https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE"
       },
       "artists": [
         {
@@ -812,13 +872,13 @@
           "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
         },
         {
-          "name": "Mmatema Moremi",
-          "url": "https://open.spotify.com/artist/23L7MPBHP4Bnc1oQJQSCvE"
+          "name": "Mmatema",
+          "url": "https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG"
         }
       ],
-      "duration_ms": 278893,
+      "duration_ms": 278886,
       "name": "Make a Way - Live",
-      "url": "https://open.spotify.com/track/1DrlNnjjp7VBaJRfBOqqK3"
+      "url": "https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU"
     },
     {
       "added_at": "2020-11-12 21:59:00",
@@ -917,26 +977,6 @@
       "url": "https://open.spotify.com/track/0t32E01dieVWKQqHKr0P6W"
     },
     {
-      "added_at": "2021-01-22 00:00:00",
-      "album": {
-        "name": "We Raise a Sound",
-        "url": "https://open.spotify.com/album/0kS3yEDK9ECw0fhTi4WoeX"
-      },
-      "artists": [
-        {
-          "name": "Nosa",
-          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
-        },
-        {
-          "name": "121selah",
-          "url": "https://open.spotify.com/artist/52yIVRZsu5TlIgsraHzELa"
-        }
-      ],
-      "duration_ms": 432185,
-      "name": "We Raise a Sound",
-      "url": "https://open.spotify.com/track/5mj8UgV1q3weOrDfXdn1jk"
-    },
-    {
       "added_at": "2020-11-20 00:49:54",
       "album": {
         "name": "Jesus Is Enough",
@@ -967,22 +1007,6 @@
       "duration_ms": 339800,
       "name": "Won Rope O Pede",
       "url": "https://open.spotify.com/track/7g5GsaCdI7slVkypFtDZcP"
-    },
-    {
-      "added_at": "2020-09-17 22:59:00",
-      "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/5YPxw37RZOlbWsVR08fcQ7"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 265613,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/0q4SXFe7bOiKsxOKIoXLr4"
     },
     {
       "added_at": "2018-10-01 23:13:33",
@@ -1043,22 +1067,6 @@
       "duration_ms": 183529,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG"
-    },
-    {
-      "added_at": "2020-10-29 22:59:00",
-      "album": {
-        "name": "No Void",
-        "url": "https://open.spotify.com/album/4r6aQghIBY7PwUViivOTQT"
-      },
-      "artists": [
-        {
-          "name": "Onos",
-          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
-        }
-      ],
-      "duration_ms": 294916,
-      "name": "No Void",
-      "url": "https://open.spotify.com/track/5sqjOtOZB4MAvMO43ZeG1i"
     },
     {
       "added_at": "2021-03-25 22:00:00",
@@ -1203,8 +1211,8 @@
     {
       "added_at": "2018-10-01 23:13:33",
       "album": {
-        "name": "Mighty God Remix (feat. Soweto Gospel Choir)",
-        "url": "https://open.spotify.com/album/3opAdWW3lwePS6g9tjJrsz"
+        "name": "Mighty God (Remix)",
+        "url": "https://open.spotify.com/album/0FEwRFVRGygc77wGe6gUOX"
       },
       "artists": [
         {
@@ -1216,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
         }
       ],
-      "duration_ms": 320079,
-      "name": "Mighty God Remix (feat. Soweto Gospel Choir)",
-      "url": "https://open.spotify.com/track/4Oa1YzzDPEqGi0GaNOCU5k"
+      "duration_ms": 323711,
+      "name": "Mighty God - Remix",
+      "url": "https://open.spotify.com/track/3wJ7y9A3d6Nx8dgzWYvwMR"
     }
   ],
   "unique_name": "Redeemed",

@@ -4,7 +4,7 @@
 
 > For all the beautiful queens! Guest curated by Mary J\. Blige
 
-58 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/1tinTdr9pJiClutwPgTlAD)
+59 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/1tinTdr9pJiClutwPgTlAD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Girls, Girls, Girls](https://open.spotify.com/track/0hbSQvosqCvCFaiSRPEUYP) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint](https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH) | 4:35 | 2021-11-24 | 2022-02-12 |
 | [Good Morning Gorgeous](https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc) | 2:54 | 2022-02-11 |  |
 | [Honey](https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:59 | 2022-02-11 |  |
-| [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-02-11 |  |
+| [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-02-11 |  |
+| [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-02-11 | 2022-07-29 |
 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 | 2022-02-11 |  |
 | [I Wanna Be Down \(feat\. Queen Latifah, Yo\-Yo & MC Lyte\) \- Remix](https://open.spotify.com/track/3OZs6tgXsBmb3TWPn07YCF) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Yo Yo](https://open.spotify.com/artist/7ryn5ZubA9mvjd1EJsFLHY) | [The Best of Brandy](https://open.spotify.com/album/2W8fU1wJz9sGDmwMBcQBRX) | 4:16 | 2021-11-24 | 2022-02-12 |
 | [Ill Na Na](https://open.spotify.com/track/1ig3239FhKsYUnu86O1rXY) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:06 | 2021-11-24 | 2022-02-12 |

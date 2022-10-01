@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 131123,
       "name": "Autumn Arpeggio",
       "url": "https://open.spotify.com/track/2qbrCLrQYmF0MXsM14j0Xy"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 144166,
       "name": "Autumn Melancholia",
       "url": "https://open.spotify.com/track/4taVl4QvjzirByhD4Us9BY"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 137875,
       "name": "Behind the lines",
       "url": "https://open.spotify.com/track/7qDMgfVahRq3GfjRFmW4aI"
@@ -512,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Shining Path",
+        "url": "https://open.spotify.com/album/5gDgTrpRIVwJpRJHFo7O8u"
+      },
+      "artists": [
+        {
+          "name": "Victor Manu",
+          "url": "https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149079,
+      "name": "Delft",
+      "url": "https://open.spotify.com/track/0Wrotq5gGyWP5hgYZcrnF3"
+    },
+    {
+      "album": {
         "name": "Distant Shore",
         "url": "https://open.spotify.com/album/2Vw8NgD0EVnt0k6SDtdHCY"
       },
@@ -545,6 +563,24 @@
       "duration_ms": 140610,
       "name": "Doldrums",
       "url": "https://open.spotify.com/track/2OUZUGb2q6rDXtXfDYmTmG"
+    },
+    {
+      "album": {
+        "name": "Don't Throw It All Away",
+        "url": "https://open.spotify.com/album/7AWpethLnbaGcpBq1pLfTy"
+      },
+      "artists": [
+        {
+          "name": "Vincent Shaub",
+          "url": "https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106717,
+      "name": "Don't Throw It All Away",
+      "url": "https://open.spotify.com/track/0sk49euUoY8Va350j6kPKs"
     },
     {
       "album": {
@@ -649,10 +685,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 108000,
       "name": "El Vals de Bel\u00e9n",
       "url": "https://open.spotify.com/track/5RvzdnTKs5LhzMcQN9ek2y"
+    },
+    {
+      "album": {
+        "name": "Eminence",
+        "url": "https://open.spotify.com/album/2sm7AYwabkhNkYxx3BkaUV"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165166,
+      "name": "Eminence",
+      "url": "https://open.spotify.com/track/1vTdIN54rYOds3Cf1ymCE5"
     },
     {
       "album": {
@@ -1027,7 +1081,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 162881,
       "name": "Kebnekajse",
       "url": "https://open.spotify.com/track/1nSMfJWxhkrLIjYyMYiF13"
@@ -1178,6 +1232,24 @@
     },
     {
       "album": {
+        "name": "Lake Constance",
+        "url": "https://open.spotify.com/album/0Ux3osuVEO4LGxDxM2ddh9"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94664,
+      "name": "Lake Constance",
+      "url": "https://open.spotify.com/track/4IAIUOpxTzrrspahVpk88S"
+    },
+    {
+      "album": {
         "name": "Lakeside",
         "url": "https://open.spotify.com/album/5lkbhoHHJFAMEuFKAm74Ud"
       },
@@ -1279,7 +1351,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 138623,
       "name": "Livella",
       "url": "https://open.spotify.com/track/6io96IgObwN4Vj5EBiJAn1"
@@ -1405,7 +1477,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 195174,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/1sTFd9Uzlpn1ezszKvfA8U"
@@ -1448,6 +1520,24 @@
     },
     {
       "album": {
+        "name": "Gradual",
+        "url": "https://open.spotify.com/album/7dBooHM0Yp9xJTiDf81X7T"
+      },
+      "artists": [
+        {
+          "name": "Jaume Torrent",
+          "url": "https://open.spotify.com/artist/04QMH563wBsRiKHJCi0O24"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80822,
+      "name": "May",
+      "url": "https://open.spotify.com/track/0L8gLmibYY2SA7ZkH6B4dm"
+    },
+    {
+      "album": {
         "name": "Mayo",
         "url": "https://open.spotify.com/album/0XOMQ8PVzoWIUNcR6grxY7"
       },
@@ -1459,7 +1549,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 80779,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/5Q5Dt6MsjoVz5lqnV8H93e"
@@ -1477,10 +1567,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 124333,
       "name": "Melrose",
       "url": "https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe"
+    },
+    {
+      "album": {
+        "name": "Melrose",
+        "url": "https://open.spotify.com/album/4zoWw8eWOuWUUXaXoObfPa"
+      },
+      "artists": [
+        {
+          "name": "Olma",
+          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124333,
+      "name": "Melrose",
+      "url": "https://open.spotify.com/track/7o39DRcwrKMz17xUNc0BbN"
     },
     {
       "album": {
@@ -1517,6 +1625,24 @@
       "duration_ms": 163860,
       "name": "Midnight in Olivebridge",
       "url": "https://open.spotify.com/track/73CfMnErjqLOpi1hIDtU4v"
+    },
+    {
+      "album": {
+        "name": "Misteriosa",
+        "url": "https://open.spotify.com/album/6e7EoYmMdJ7Wo5ZVUu9N1e"
+      },
+      "artists": [
+        {
+          "name": "Tor Dahl",
+          "url": "https://open.spotify.com/artist/5GfnXcZhvTgsNpj5U1CkBU"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Misteriosa",
+      "url": "https://open.spotify.com/track/4m8RD2JvsaH13RwZd9EmGd"
     },
     {
       "album": {
@@ -1765,7 +1891,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 192026,
       "name": "Peacefulness",
       "url": "https://open.spotify.com/track/3MhO0hNpWc2FQBLWuUKxxD"
@@ -1913,6 +2039,24 @@
       "duration_ms": 166851,
       "name": "Seresta",
       "url": "https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg"
+    },
+    {
+      "album": {
+        "name": "Settignano",
+        "url": "https://open.spotify.com/album/4v7IruhzOzzXcqIewFc5Nh"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118384,
+      "name": "Settignano",
+      "url": "https://open.spotify.com/track/5b1OOTi5NXuFC06YZyuXK3"
     },
     {
       "album": {

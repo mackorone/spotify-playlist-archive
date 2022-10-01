@@ -223,10 +223,50 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170093,
       "name": "Come Through",
       "url": "https://open.spotify.com/track/3Brd4NDZNrdrPZtN7rVZZT"
+    },
+    {
+      "album": {
+        "name": "Before We Begin",
+        "url": "https://open.spotify.com/album/2spNE5MhZn92sIJvBszJ4B"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170093,
+      "name": "Come Through",
+      "url": "https://open.spotify.com/track/3p3zv2zj45B7MzSsy33VYf"
+    },
+    {
+      "album": {
+        "name": "Before We Begin",
+        "url": "https://open.spotify.com/album/2spNE5MhZn92sIJvBszJ4B"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176440,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/134RSOYlwz0HNRDsGWdeba"
     },
     {
       "album": {
@@ -245,7 +285,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176440,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/20Mw2qqWcGSCRFmKsa2nad"
@@ -263,10 +303,46 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203841,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/2qLsUi5mtND9ndpWuR0knG"
+    },
+    {
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/5fhNla7mPuyaDXPwZUhM3Q"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203841,
+      "name": "Don't Call Me",
+      "url": "https://open.spotify.com/track/30lMBHYhUC2uJULakGPtkf"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "Down For You",
+      "url": "https://open.spotify.com/track/2zXPhvSMFyvfo1L0aGxFGw"
     },
     {
       "album": {
@@ -281,7 +357,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186973,
       "name": "Down For You",
       "url": "https://open.spotify.com/track/5NcJGNuS275gu8yzagz3L1"
@@ -423,7 +499,7 @@
     {
       "album": {
         "name": "Honestly",
-        "url": "https://open.spotify.com/album/3VJ491AjnQygF0lcuiRD5D"
+        "url": "https://open.spotify.com/album/5fhNla7mPuyaDXPwZUhM3Q"
       },
       "artists": [
         {
@@ -436,7 +512,43 @@
       "date_removed": null,
       "duration_ms": 206848,
       "name": "Honestly",
+      "url": "https://open.spotify.com/track/4LsX7Mz7zhNOoydJfhedL4"
+    },
+    {
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/3VJ491AjnQygF0lcuiRD5D"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206848,
+      "name": "Honestly",
       "url": "https://open.spotify.com/track/7uW2sLxLjNgQJHa71LGVGr"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "How You Been",
+      "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
     },
     {
       "album": {
@@ -451,7 +563,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178666,
       "name": "How You Been",
       "url": "https://open.spotify.com/track/3tKplzefIgmzzjYvQPIORB"
@@ -469,10 +581,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162333,
       "name": "How'm I Doing",
       "url": "https://open.spotify.com/track/4Qg8CCTzWhNQvNOVxjQ6OJ"
+    },
+    {
+      "album": {
+        "name": "Before We Begin",
+        "url": "https://open.spotify.com/album/2spNE5MhZn92sIJvBszJ4B"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "How'm I Doing",
+      "url": "https://open.spotify.com/track/79NTzKXDK2tC245bUX4ZlV"
     },
     {
       "album": {
@@ -513,7 +643,7 @@
     {
       "album": {
         "name": "I Don't Miss You",
-        "url": "https://open.spotify.com/album/3VWdyUAxBEt5gY2sXJUzFT"
+        "url": "https://open.spotify.com/album/0MdZdkVzAdqv9QcBqnWmes"
       },
       "artists": [
         {
@@ -524,6 +654,24 @@
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172634,
+      "name": "I Don't Miss You",
+      "url": "https://open.spotify.com/track/0kq2SMYMcYk6dl2Z6k03yN"
+    },
+    {
+      "album": {
+        "name": "I Don't Miss You",
+        "url": "https://open.spotify.com/album/3VWdyUAxBEt5gY2sXJUzFT"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 172634,
       "name": "I Don't Miss You",
       "url": "https://open.spotify.com/track/42I5z4IRj90oQ5iyk6aqGc"
@@ -549,7 +697,7 @@
     {
       "album": {
         "name": "Idea of You",
-        "url": "https://open.spotify.com/album/1DALmYrnkpWNydgxCger3R"
+        "url": "https://open.spotify.com/album/2wKhjiowqNmKTq5oOJcvgW"
       },
       "artists": [
         {
@@ -564,6 +712,28 @@
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 222239,
+      "name": "Idea of You",
+      "url": "https://open.spotify.com/track/3qokU6oAQiynzPfQMfPbmR"
+    },
+    {
+      "album": {
+        "name": "Idea of You",
+        "url": "https://open.spotify.com/album/1DALmYrnkpWNydgxCger3R"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 222239,
       "name": "Idea of You",
       "url": "https://open.spotify.com/track/5SD3nF4GLH4UTtt0OGWatS"
@@ -625,10 +795,32 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173443,
       "name": "Like You",
       "url": "https://open.spotify.com/track/2BHCx2cYIA4pJiXdXCicWT"
+    },
+    {
+      "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/6eXbcBdkpjbvmQnP8OX64e"
+      },
+      "artists": [
+        {
+          "name": "AOBeats",
+          "url": "https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173443,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/7yERcsIjjI9EO6AJMG2Rw9"
     },
     {
       "album": {
@@ -643,10 +835,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183878,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/1SWza9L60qLwv7QYumlBTr"
+    },
+    {
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/5fhNla7mPuyaDXPwZUhM3Q"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183878,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/7MIdbo0RDBjAhtfuqBJ0o1"
     },
     {
       "album": {
@@ -679,10 +889,46 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203213,
       "name": "Love Die Young",
       "url": "https://open.spotify.com/track/0kFmBPYJhvgAqAIZU7RoEh"
+    },
+    {
+      "album": {
+        "name": "Before We Begin",
+        "url": "https://open.spotify.com/album/2spNE5MhZn92sIJvBszJ4B"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203213,
+      "name": "Love Die Young",
+      "url": "https://open.spotify.com/track/4DERyalxTlWCdlHkVi0TfO"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204573,
+      "name": "Love Die Young - Korean Version",
+      "url": "https://open.spotify.com/track/51e1jeSBOaHJYQJKpgGMeu"
     },
     {
       "album": {
@@ -697,7 +943,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204573,
       "name": "Love Die Young - Korean Version",
       "url": "https://open.spotify.com/track/5RlhS9GUSa2h1bbG3olENP"
@@ -741,7 +987,7 @@
     {
       "album": {
         "name": "Miss You",
-        "url": "https://open.spotify.com/album/01Ko1HQowbmrPM3awKqZsP"
+        "url": "https://open.spotify.com/album/0lgYNNs933Zs7aM4h7RPKh"
       },
       "artists": [
         {
@@ -752,6 +998,24 @@
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172634,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/0mKjDEz8ZaUWhGrkU0yNdC"
+    },
+    {
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/01Ko1HQowbmrPM3awKqZsP"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 172634,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2Q6vn3Pz85m9ttt9mOm5qZ"
@@ -781,7 +1045,7 @@
     {
       "album": {
         "name": "Before We Begin",
-        "url": "https://open.spotify.com/album/6kBsIjltkSNIc0FO4uiKXW"
+        "url": "https://open.spotify.com/album/2spNE5MhZn92sIJvBszJ4B"
       },
       "artists": [
         {
@@ -792,6 +1056,24 @@
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204853,
+      "name": "No Shame",
+      "url": "https://open.spotify.com/track/2X80Ip0T79wF65GqWkQWuV"
+    },
+    {
+      "album": {
+        "name": "Before We Begin",
+        "url": "https://open.spotify.com/album/6kBsIjltkSNIc0FO4uiKXW"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 204853,
       "name": "No Shame",
       "url": "https://open.spotify.com/track/5bcGXAURz9HN5jiksIIQ36"
@@ -827,10 +1109,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206840,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1cnGF3udnO8fscbBYY6k1X"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206840,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1x9CUUDTZpk8wpeGH9ZAzW"
     },
     {
       "album": {
@@ -849,10 +1149,50 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212478,
       "name": "Potion",
       "url": "https://open.spotify.com/track/02sD9kxKrCboVcOKzx3VyZ"
+    },
+    {
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/5fhNla7mPuyaDXPwZUhM3Q"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212478,
+      "name": "Potion",
+      "url": "https://open.spotify.com/track/1zeeMfyu9yL1ndxzL748PM"
+    },
+    {
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6wLkmUYF8riWVznDJQTsJ1"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153293,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/60sX1vz8ToXYuaAvW5sYMs"
     },
     {
       "album": {
@@ -867,10 +1207,32 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153293,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7JPzFzJLrzmINVguyqtMay"
+    },
+    {
+      "album": {
+        "name": "Before We Begin",
+        "url": "https://open.spotify.com/album/2spNE5MhZn92sIJvBszJ4B"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Steve James",
+          "url": "https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207558,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3IZ6fZCJZ7OFRiKHGkhUvp"
     },
     {
       "album": {
@@ -889,7 +1251,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207558,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/40VdCGBk4RxjIUw4EyfX5s"
@@ -932,6 +1294,24 @@
     },
     {
       "album": {
+        "name": "Encounter (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221947,
+      "name": "The Night",
+      "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
+    },
+    {
+      "album": {
         "name": "Encounter (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1KMG1vMVQfAtbREuyX3Xh5"
       },
@@ -943,7 +1323,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221947,
       "name": "The Night",
       "url": "https://open.spotify.com/track/09Ww8wyGMhg1MisDGxXm03"
@@ -961,10 +1341,50 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210116,
       "name": "This Is Not A Love Song",
       "url": "https://open.spotify.com/track/0Fkod9SKPSHKQM2UtSH02Y"
+    },
+    {
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/5fhNla7mPuyaDXPwZUhM3Q"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210116,
+      "name": "This Is Not A Love Song",
+      "url": "https://open.spotify.com/track/7bpudprZI6hfD1mTmsvlw2"
+    },
+    {
+      "album": {
+        "name": "With",
+        "url": "https://open.spotify.com/album/76Lw6VV53UnuVXqnq2rBqD"
+      },
+      "artists": [
+        {
+          "name": "KWON SOON IL",
+          "url": "https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "Tomorrow \ub0b4\uc77c (With Eric Nam)",
+      "url": "https://open.spotify.com/track/31vNTboUCMZ36bVU8odUPW"
     },
     {
       "album": {
@@ -983,10 +1403,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209453,
       "name": "Tomorrow \ub0b4\uc77c (With Eric Nam)",
       "url": "https://open.spotify.com/track/4vi7ldKNHFhntK6KJz9BLd"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152640,
+      "name": "Trouble With You",
+      "url": "https://open.spotify.com/track/2vPAcWqAAtp2hEkgR3tbFr"
     },
     {
       "album": {
@@ -1001,7 +1439,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152640,
       "name": "Trouble With You",
       "url": "https://open.spotify.com/track/5YwroucvUJyUB6QdLHCrF7"
@@ -1045,7 +1483,7 @@
     {
       "album": {
         "name": "Before We Begin",
-        "url": "https://open.spotify.com/album/6kBsIjltkSNIc0FO4uiKXW"
+        "url": "https://open.spotify.com/album/2spNE5MhZn92sIJvBszJ4B"
       },
       "artists": [
         {
@@ -1058,7 +1496,7 @@
       "date_removed": null,
       "duration_ms": 162466,
       "name": "Wonder",
-      "url": "https://open.spotify.com/track/0fhr4yUpLhgleQDOyK0RbD"
+      "url": "https://open.spotify.com/track/0787vxvgRFKjMj5blL4qS3"
     },
     {
       "album": {
@@ -1073,7 +1511,43 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 162466,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/0fhr4yUpLhgleQDOyK0RbD"
+    },
+    {
+      "album": {
+        "name": "Before We Begin",
+        "url": "https://open.spotify.com/album/2spNE5MhZn92sIJvBszJ4B"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 187200,
+      "name": "You're Sexy I'm Sexy",
+      "url": "https://open.spotify.com/track/3VrAQzhFpUX0RGRqcOATd0"
+    },
+    {
+      "album": {
+        "name": "Before We Begin",
+        "url": "https://open.spotify.com/album/6kBsIjltkSNIc0FO4uiKXW"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 187200,
       "name": "You're Sexy I'm Sexy",
       "url": "https://open.spotify.com/track/3fuFU8XFpSUKmcwnx78IpP"

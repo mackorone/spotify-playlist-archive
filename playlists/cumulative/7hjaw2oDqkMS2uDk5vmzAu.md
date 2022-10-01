@@ -4,10 +4,11 @@
 
 > Escape the world with the best, most relaxing Jazz.
 
-50 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/2lkF34ivWXj4FNUPybetur)
+50 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/2lkF34ivWXj4FNUPybetur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/0KkmIGbNiEGloUla4TK4hP) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4Mq1I0fl1MwhOCUtWoX1Wl) | 0:00 | 2014-07-16 |  |
 | [](https://open.spotify.com/track/16TbVkFPNUtNkwCSZIziXJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/16P67CKwAR45QleNvCINeX) | 0:00 | 2014-07-16 |  |
 | ['Round Midnight](https://open.spotify.com/track/6rIB9HudLdMSNEZaH8JxVm) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Plays Monk](https://open.spotify.com/album/3ar3gv14DQ9QnmF9n3D90G) | 6:13 | 2014-07-16 |  |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/63kalFnjm1Wy8OvKXO7hWG) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Ray Bryant Plays](https://open.spotify.com/album/4q8hkJRnSQaWiqW0b2Lw7G) | 3:26 | 2014-07-16 |  |
@@ -24,7 +25,6 @@
 | [Dedicated To You](https://open.spotify.com/track/6obGjgqunbD7yvor1iMZPc) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Priceless Jazz 30: Freddie Hubbard](https://open.spotify.com/album/1yyn1hMUouPJquxC4hjJCC) | 3:24 | 2014-07-16 |  |
 | [Do I Love You](https://open.spotify.com/track/29Zbj2JQKuUo1UDvBQIcHp) | [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb), [David Wong](https://open.spotify.com/artist/2uvK3qQRe94yfxfJ4qsCCr), [Montez Coleman](https://open.spotify.com/artist/4e0q9ui404rCzGkNXLhDDl) | [Triple Play](https://open.spotify.com/album/5mYG0eWbMtSsaxHwEGQBim) | 3:16 | 2014-07-16 |  |
 | [Don't Blame Me \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1yJSiHvpYi1eZTrwStGoYJ) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/0963505kg714S5rqZwKZ9I) | 4:54 | 2014-07-16 |  |
-| [Georgia On My Mind](https://open.spotify.com/track/0KkmIGbNiEGloUla4TK4hP) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Georgia On My Mind](https://open.spotify.com/album/4Mq1I0fl1MwhOCUtWoX1Wl) | 3:36 | 2014-07-16 |  |
 | [Groovin' High](https://open.spotify.com/track/3xK8Ec4RoHgFB9zDJkat8c) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Groovin' High](https://open.spotify.com/album/3Zvvgj16yTtmCVqndZUH7G) | 2:43 | 2014-07-16 |  |
 | [I Miss You So](https://open.spotify.com/track/5HrSt3w9604xJdMALbUcDl) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/0BY7XVm9kLLwDmQfXFL8G8) | 4:43 | 2014-07-16 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/51BfVxH0QfxTpFgZMMbhwK) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/7qsnx3thQiQabvDkHfqI1m) | 4:18 | 2014-07-16 |  |

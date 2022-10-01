@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Sz7KT9MhChZuAJDKEWiLF.md) - [plain]
 
 > Some soulful sets from Ye plus contributions to soul\. Please enjoy this curated set entitled &quot;Kanye To The&quot;\. \(1,2,3, rest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 670 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 671 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

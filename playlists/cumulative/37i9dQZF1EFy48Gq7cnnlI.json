@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Beach House",
+        "url": "https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150004,
+      "name": "Beach House",
+      "url": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
+    },
+    {
+      "album": {
         "name": "Blue Neighbourhood (Deluxe)",
         "url": "https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW"
       },
@@ -1315,7 +1333,7 @@
       },
       "artists": [
         {
-          "name": "Garrett Nash",
+          "name": "gnash",
           "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
         }
       ],
@@ -1401,6 +1419,24 @@
     {
       "album": {
         "name": "Madness",
+        "url": "https://open.spotify.com/album/2ploE2Xfb4u43TnK7OAos3"
+      },
+      "artists": [
+        {
+          "name": "Guy Sebastian",
+          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237680,
+      "name": "The Pause",
+      "url": "https://open.spotify.com/track/18YzQn4Tgib169dXJ6gZlC"
+    },
+    {
+      "album": {
+        "name": "Madness",
         "url": "https://open.spotify.com/album/69iAL8tBOgqwmmp88GHsFU"
       },
       "artists": [
@@ -1411,7 +1447,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 237680,
       "name": "The Pause",
       "url": "https://open.spotify.com/track/7GUTNwt2My352i6Ely8qYa"

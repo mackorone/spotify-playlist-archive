@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/7hjaw2oDqkMS2uDk5vmzAu.md) - [plain]
 
 > Escape the world with the best, most relaxing Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 87 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Autumn Leaves](https://open.spotify.com/track/1KGBpfScfuZVlgj5U4Tq31) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Either Way](https://open.spotify.com/album/4GdX9SFD6n0uynQPg2VOQY) | 4:44 |
 | 2 | [Blue in Green \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 5:37 |
 | 3 | [A Hundred Dreams from Now](https://open.spotify.com/track/63kalFnjm1Wy8OvKXO7hWG) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Ray Bryant Plays](https://open.spotify.com/album/4q8hkJRnSQaWiqW0b2Lw7G) | 3:26 |
-| 4 | [Georgia On My Mind](https://open.spotify.com/track/0KkmIGbNiEGloUla4TK4hP) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Georgia On My Mind](https://open.spotify.com/album/4Mq1I0fl1MwhOCUtWoX1Wl) | 3:36 |
+| 4 | [](https://open.spotify.com/track/0KkmIGbNiEGloUla4TK4hP) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4Mq1I0fl1MwhOCUtWoX1Wl) | 0:00 |
 | 5 | [Stardust](https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 6:25 |
 | 6 | [In A Sentimental Mood](https://open.spotify.com/track/51BfVxH0QfxTpFgZMMbhwK) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/7qsnx3thQiQabvDkHfqI1m) | 4:18 |
 | 7 | [Peace Piece](https://open.spotify.com/track/5xkTHtZiRaazoh87lpeNwY) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Late Night Tales \- Bonobo](https://open.spotify.com/album/0y3ai6LH83qeeeCbmpaIvf) | 6:42 |

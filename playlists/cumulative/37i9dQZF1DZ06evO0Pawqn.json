@@ -62,6 +62,28 @@
     },
     {
       "album": {
+        "name": "Arrepi\u00e9ntete",
+        "url": "https://open.spotify.com/album/2U45ybea0lPaBgJCvKSNEf"
+      },
+      "artists": [
+        {
+          "name": "Rojo Tabaco",
+          "url": "https://open.spotify.com/artist/5xoyjz868s9vDfGyJkVRRN"
+        },
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175752,
+      "name": "Arrepi\u00e9ntete",
+      "url": "https://open.spotify.com/track/0qe27hcrq0TrMt83uYpTIs"
+    },
+    {
+      "album": {
         "name": "De la Tierra al Cielo VII",
         "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
       },
@@ -109,7 +131,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 187820,
       "name": "Corazon de Vecindad",
       "url": "https://open.spotify.com/track/56tdpVNcEEwCTIvaZRlRk9"
@@ -185,7 +207,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": "2022-09-06",
       "duration_ms": 183506,
       "name": "De Corazon Ranchero",
       "url": "https://open.spotify.com/track/4nARb8o7ElcHDrAoeVj6K8"
@@ -315,7 +337,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 196075,
       "name": "El Libro de los Dioses",
       "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
@@ -524,6 +546,24 @@
     },
     {
       "album": {
+        "name": "Puras de Chente",
+        "url": "https://open.spotify.com/album/15oxGPBHjd49L9qROR1ck5"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 152515,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/0F8qATi5Bg56hcRW1nrOWh"
+    },
+    {
+      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
       },
@@ -553,7 +593,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 122984,
       "name": "La Huella de Mis Besos",
       "url": "https://open.spotify.com/track/0I6sTG0nOH92inb6TmXqgw"
@@ -571,7 +611,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 174445,
       "name": "Las Mismas Costumbres",
       "url": "https://open.spotify.com/track/5L6gQi0avt8xWO9fVd81SH"
@@ -751,7 +791,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-09-03",
       "duration_ms": 173061,
       "name": "No Te Vayas Deteniendo",
       "url": "https://open.spotify.com/track/3pCTV4RQP7HZhKBFiqHyzd"
@@ -877,7 +917,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-07-21",
       "duration_ms": 211017,
       "name": "Pedro Aviles",
       "url": "https://open.spotify.com/track/4EhH2po4Y3ljEBIGZit5Qv"
@@ -985,7 +1025,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-23",
       "duration_ms": 162429,
       "name": "Se Me Hizo Facil",
       "url": "https://open.spotify.com/track/2aLcE8XA2Szi6lbhfeVBXW"
@@ -1075,7 +1115,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 190563,
       "name": "Un Engano Mas",
       "url": "https://open.spotify.com/track/2RLWRcdjOcOP1eirhJMl6C"
@@ -1097,7 +1137,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": "2022-10-01",
       "duration_ms": 192587,
       "name": "Veinte m\u00e1s",
       "url": "https://open.spotify.com/track/1IJAF9Rdh2DGxDUQqhwMmv"

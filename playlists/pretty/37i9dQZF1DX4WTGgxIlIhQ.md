@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WTGgxIlIhQ.md) - [plain]
 
 > Sing along to these Vacation Bible School favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 951 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WTGgxIlIhQ.md) - [plain]
 | 8 | [A Good Work in Me](https://open.spotify.com/track/4tPwnU9vpXq0sdBzIPhPOo) | [Lifeway Kids Worship](https://open.spotify.com/artist/6FIaadxhvDeZI4RAd06Dnx) | [VBS 2020 \- Concrete & Cranes Music for Preschool](https://open.spotify.com/album/4VPHEdYTe45fiVYLahhKrG) | 1:58 |
 | 9 | [Concrete & Cranes \(Preschool Version\)](https://open.spotify.com/track/7zY5FB2zzOCfkIPbpZDNRp) | [Lifeway Kids Worship](https://open.spotify.com/artist/6FIaadxhvDeZI4RAd06Dnx) | [VBS 2020 \- Concrete & Cranes Music for Preschool](https://open.spotify.com/album/4VPHEdYTe45fiVYLahhKrG) | 2:29 |
 | 10 | [Yes to VBS!](https://open.spotify.com/track/0hAALoWmdF1CXJlhnveeRr) | [Lifeway Kids Worship](https://open.spotify.com/artist/6FIaadxhvDeZI4RAd06Dnx) | [Top 50 VBS Favorites](https://open.spotify.com/album/4wyrd1mPa0FWPMamEzox9V) | 1:52 |
-| 11 | [Thankful \(2008 Power Lab\)](https://open.spotify.com/track/675TauoqieTeZa84RcrjqF) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 2](https://open.spotify.com/album/60r0h1NtCCYTuwo3w4QPGd) | 2:09 |
+| 11 | [Thankful \(1 Thessalonians 5:18\)](https://open.spotify.com/track/2ZYzNXfjzCkSF5JXZ1FtSt) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 2](https://open.spotify.com/album/4NOTJI12t7ChdjTOGj5Xk4) | 2:09 |
 | 12 | [Shine on Me](https://open.spotify.com/track/4BRBmHtO07inUwhHdDf1rj) | [Lifeway Kids Worship](https://open.spotify.com/artist/6FIaadxhvDeZI4RAd06Dnx) | [Top 50 Kids Worship Songs](https://open.spotify.com/album/0lwbmIkQfmO0X6SdqqdVlf) | 3:04 |
 | 13 | [Pray About Everything](https://open.spotify.com/track/4Jkr7Mv2yQZETKEBPPUiKg) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Favorite VBS Songs for Families, Vol\. 6: Sing 'Em Again](https://open.spotify.com/album/20U438HAaAvBqTcv8inGIu) | 1:47 |
 | 14 | [I Will Trust in You](https://open.spotify.com/track/0y5SV1Th1A9LJaXuzZfRj3) | [Lifeway Kids Worship](https://open.spotify.com/artist/6FIaadxhvDeZI4RAd06Dnx) | [Top 50 Scripture Songs for Preschoolers](https://open.spotify.com/album/6fqWx569yY0rtdaTqjJWlD) | 4:05 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WTGgxIlIhQ.md) - [plain]
 | 50 | [Jesus Loves Me](https://open.spotify.com/track/29YSih94JCET2h8VCiWK4J) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats \(For Little Feets\)](https://open.spotify.com/album/3QfyerJxzTL9NXo79cXrOw) | 4:00 |
 | 51 | [How Far Love Goes](https://open.spotify.com/track/7KglTwKZVspJa1tDC84MFh) | [Lifeway Kids Worship](https://open.spotify.com/artist/6FIaadxhvDeZI4RAd06Dnx) | [Top 50 VBS Favorites](https://open.spotify.com/album/4wyrd1mPa0FWPMamEzox9V) | 2:33 |
 
-Snapshot ID: `MTYyNjEyMTk5OCwwMDAwMDAwNDAwMDAwMTdhOWM2YzkyOTUwMDAwMDE3YTU3ZmM0Y2I5`
+Snapshot ID: `MTYyNjEyMTk5OCwwMDAwMDAwMDJiZWU0NmQ0Mjc4OWU0M2YwMTIzMTc1YjAzNzVhZTRi`

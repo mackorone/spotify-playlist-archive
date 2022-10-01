@@ -52,7 +52,7 @@
     },
     {
       "album": {
-        "name": "Cocomelon Kids Hits, Vol. 1",
+        "name": "CoComelon Kids Hits, Vol. 1",
         "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
       },
       "artists": [
@@ -1095,14 +1095,56 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247807,
       "name": "We're All Fruit Salad!",
       "url": "https://open.spotify.com/track/0ylEvGmeO6kjbub8g9h2s1"
     },
     {
       "album": {
-        "name": "Nursery Rhymes by Cocomelon",
+        "name": "We're All Fruit Salad!",
+        "url": "https://open.spotify.com/album/0QOq6fjnJ2fRjk9Xc8XpLu"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        },
+        {
+          "name": "James Harkness",
+          "url": "https://open.spotify.com/artist/4EYbQ2JhYc3wuGRYMDIEKt"
+        },
+        {
+          "name": "Jawan Jackson",
+          "url": "https://open.spotify.com/artist/0ONtiRe8jev5ZryJ1jskR2"
+        },
+        {
+          "name": "Lou Diamond Phillips",
+          "url": "https://open.spotify.com/artist/4VzUgqK1LIfv3QtdxIqOHw"
+        },
+        {
+          "name": "Robert Rakete",
+          "url": "https://open.spotify.com/artist/7tGYHmPlBT59QDcpWAp6l0"
+        },
+        {
+          "name": "Taylor Symone",
+          "url": "https://open.spotify.com/artist/56pc6Yle76x3otXIMEBEeR"
+        },
+        {
+          "name": "Victor Valdes",
+          "url": "https://open.spotify.com/artist/2tdfuvyFbLTS4xqbjzBQ0F"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247807,
+      "name": "We're All Fruit Salad!",
+      "url": "https://open.spotify.com/track/33oKCaVt6xCwqCpLqK88iX"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
         "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
       },
       "artists": [

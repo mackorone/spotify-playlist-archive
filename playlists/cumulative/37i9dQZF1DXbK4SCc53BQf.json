@@ -35,7 +35,7 @@
     {
       "album": {
         "name": "Tercer Cielo",
-        "url": "https://open.spotify.com/album/07810vBHlKJsbSYUesp68P"
+        "url": "https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0"
       },
       "artists": [
         {
@@ -47,8 +47,44 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219271,
+      "name": "Agua viva",
+      "url": "https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm"
+    },
+    {
+      "album": {
+        "name": "Tercer Cielo",
+        "url": "https://open.spotify.com/album/07810vBHlKJsbSYUesp68P"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219271,
       "name": "Agua Viva",
       "url": "https://open.spotify.com/track/5SwdX9b2laNcqtfCM4U491"
+    },
+    {
+      "album": {
+        "name": "Al Taller Del Maestro",
+        "url": "https://open.spotify.com/album/7rHmQdyQkVqyt7w2HmRRM4"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312666,
+      "name": "Al Taller del Maestro",
+      "url": "https://open.spotify.com/track/54CynAndjIh7EPZgbtrTDs"
     },
     {
       "album": {
@@ -63,7 +99,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 312666,
       "name": "Al Taller del Maestro",
       "url": "https://open.spotify.com/track/7kJa3VuFpzlbzqHh0Jd54L"
@@ -85,10 +121,32 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207284,
       "name": "Ancla",
       "url": "https://open.spotify.com/track/5OkXPEznoByT1MPBlRkmpG"
+    },
+    {
+      "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62"
     },
     {
       "album": {
@@ -121,10 +179,28 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235666,
       "name": "Batugozo",
       "url": "https://open.spotify.com/track/0PfoClrD2Aa4pubTEmcaR6"
+    },
+    {
+      "album": {
+        "name": "Los Revolucionarios",
+        "url": "https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH"
+      },
+      "artists": [
+        {
+          "name": "Batuqueadora",
+          "url": "https://open.spotify.com/artist/47RBGFFiHJx1q4BageKWkw"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235681,
+      "name": "Batugozo",
+      "url": "https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko"
     },
     {
       "album": {
@@ -219,7 +295,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-24",
       "duration_ms": 206379,
       "name": "De Vuelta",
       "url": "https://open.spotify.com/track/58soAAGUis6dWUAir2CVY9"
@@ -263,6 +339,24 @@
     {
       "album": {
         "name": "Dios Te Bendiga",
+        "url": "https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw"
+      },
+      "artists": [
+        {
+          "name": "Willy Rodriguez",
+          "url": "https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232254,
+      "name": "Dios Te Bendiga",
+      "url": "https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus"
+    },
+    {
+      "album": {
+        "name": "Dios Te Bendiga",
         "url": "https://open.spotify.com/album/4Em7QdQKljK0UbChRwlAHk"
       },
       "artists": [
@@ -273,7 +367,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232207,
       "name": "Dios Te Bendiga",
       "url": "https://open.spotify.com/track/6waMZni4HkrCDSXmrAhI3N"
@@ -313,10 +407,32 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251333,
       "name": "Empezar de Nuevo",
       "url": "https://open.spotify.com/track/6VFytIFJB96QQWVIYUkjPW"
+    },
+    {
+      "album": {
+        "name": "Dise\u00f1o Original",
+        "url": "https://open.spotify.com/album/1lQCht7hoiAyzJb8wVPmR5"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251333,
+      "name": "Empezar De Nuevo",
+      "url": "https://open.spotify.com/track/6up8jeeEqbBeMMDTDESD3l"
     },
     {
       "album": {
@@ -393,7 +509,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 248857,
       "name": "Good Good Father (feat. Avion Blackman)",
       "url": "https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo"
@@ -411,7 +527,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 284378,
       "name": "Hay Un Lugar",
       "url": "https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup"
@@ -429,7 +545,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 349909,
       "name": "Hermoso Nombre",
       "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
@@ -447,7 +563,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216351,
       "name": "Hora de Cantar",
       "url": "https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT"
@@ -508,6 +624,24 @@
     },
     {
       "album": {
+        "name": "This Is My Time",
+        "url": "https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228089,
+      "name": "La Misma Mentira",
+      "url": "https://open.spotify.com/track/6wwRmRSc9OP9RdovSj7CZi"
+    },
+    {
+      "album": {
         "name": "Coleccion Cristiana",
         "url": "https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v"
       },
@@ -519,7 +653,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 195653,
       "name": "Las Avispas",
       "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
@@ -585,10 +719,28 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 199506,
       "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
       "url": "https://open.spotify.com/track/0IBSKqWL16eHHqXl6HoPWy"
+    },
+    {
+      "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214785,
+      "name": "No Puedo Ni Quiero",
+      "url": "https://open.spotify.com/track/5gxQHWnI9FhKlGwAMvE3b3"
     },
     {
       "album": {
@@ -603,7 +755,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214785,
       "name": "No Puedo Ni Quiero",
       "url": "https://open.spotify.com/track/73i5lJCjotIVTIQyjbks5Z"
@@ -621,7 +773,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 212080,
       "name": "No Te Cambiar\u00e9",
       "url": "https://open.spotify.com/track/3gsq024FJzXqC8HqykxMcM"
@@ -639,7 +791,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 190800,
       "name": "No Vaya a Ser",
       "url": "https://open.spotify.com/track/4cxZYv0KJvw6MNHjuz8tOk"
@@ -711,10 +863,50 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229955,
       "name": "Ritmo del Cielo",
       "url": "https://open.spotify.com/track/35OtIIqxDHdw3GGAfSbe9b"
+    },
+    {
+      "album": {
+        "name": "Conteo Regresivo",
+        "url": "https://open.spotify.com/album/4u5WBcNF0IolTEzYBjLKHg"
+      },
+      "artists": [
+        {
+          "name": "Michael Pratts",
+          "url": "https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229955,
+      "name": "Ritmo Del Cielo",
+      "url": "https://open.spotify.com/track/78A0tsRzfFHAdyLWd1S5cA"
+    },
+    {
+      "album": {
+        "name": "Derroche De Amor",
+        "url": "https://open.spotify.com/album/6jiDmi9u09NcvLlYUNpSkR"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251013,
+      "name": "Si Estoy Contigo",
+      "url": "https://open.spotify.com/track/2mIoPDYldAD7tctsGmmA45"
     },
     {
       "album": {
@@ -733,10 +925,28 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249012,
       "name": "Si Estoy Contigo (feat. Barak)",
       "url": "https://open.spotify.com/track/2BBG9wMbDrxmb4wEipFel1"
+    },
+    {
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/5obRq2pwQQHNOeG3Tp1Tv0"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190290,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/13zI0iUXyWpiHIPVte2cD2"
     },
     {
       "album": {
@@ -751,7 +961,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 190290,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/47NXoEc8bJd8OISRir1JLW"
@@ -849,7 +1059,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 203187,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE"
@@ -889,7 +1099,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207965,
       "name": "Te Entrego Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
@@ -907,10 +1117,28 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 282984,
       "name": "Tengo un Nuevo Amor (Salsa)",
       "url": "https://open.spotify.com/track/0J5rrCuSHRTNXRVAUZiekO"
+    },
+    {
+      "album": {
+        "name": "Al\u00e1bale Con Ritmo de Salsa",
+        "url": "https://open.spotify.com/album/4cmpSr90A0JzyVtngmxoMr"
+      },
+      "artists": [
+        {
+          "name": "David Y Abraham",
+          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282984,
+      "name": "Tengo un Nuevo Amor - Salsa",
+      "url": "https://open.spotify.com/track/6jtT0TU60r0ECBtRtNe335"
     },
     {
       "album": {
@@ -943,7 +1171,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-25",
       "duration_ms": 248944,
       "name": "Todo Se Lo Debo a \u00c9l (Version Salsa)",
       "url": "https://open.spotify.com/track/5GaiKqU00MTXvNTpoAPnyl"
@@ -961,7 +1189,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 283317,
       "name": "TRAPCHATA",
       "url": "https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm"
@@ -1067,7 +1295,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191549,
       "name": "Va Cae",
       "url": "https://open.spotify.com/track/7zyrVOD70rjN3QMVTcERBq"
@@ -1089,10 +1317,32 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 303576,
       "name": "Volar\u00e9",
       "url": "https://open.spotify.com/track/0fZAqx5OPbcTjjJi41TWqp"
+    },
+    {
+      "album": {
+        "name": "Volar\u00e9",
+        "url": "https://open.spotify.com/album/097s2XywdGjBl8I5NyiJBf"
+      },
+      "artists": [
+        {
+          "name": "T-Bone",
+          "url": "https://open.spotify.com/artist/6h2GxbU7emrTikSWxbMyxd"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303576,
+      "name": "Volar\u00e9",
+      "url": "https://open.spotify.com/track/5EQfr8ZOPOR6BQCEzfphG5"
     },
     {
       "album": {
@@ -1125,10 +1375,28 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262530,
       "name": "Vuelvo a nacer",
       "url": "https://open.spotify.com/track/0FHrVFgIMADfHQStePsMDC"
+    },
+    {
+      "album": {
+        "name": "Soy Sonero - Concierto en Vivo",
+        "url": "https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262533,
+      "name": "Vuelvo a Nacer",
+      "url": "https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma"
     },
     {
       "album": {
@@ -1150,6 +1418,24 @@
     },
     {
       "album": {
+        "name": "This Is My Time",
+        "url": "https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228089,
+      "name": "Yo Te Prometo",
+      "url": "https://open.spotify.com/track/2MHniwGrGDFCG43jLenfpI"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5HCC9IAXVCgxAY7vRnZdb0"
       },
@@ -1161,7 +1447,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 228101,
       "name": "Yo Te Prometo - Remix",
       "url": "https://open.spotify.com/track/3dO8ScvlHx9OnnICsFCFHN"

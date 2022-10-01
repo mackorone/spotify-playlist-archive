@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Top Sharqi hits right now. Cover: Rawan Bin Hussain.",
+  "description": "Top Sharqi hits right now. Cover: Wael Kfoury.",
   "name": "Top Sharqi Hits",
   "published_playlist_ids": [
     "3kBNibb2D8hX0xnC695807"
@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Elyanna 2",
+        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139288,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
+    },
+    {
+      "album": {
         "name": "\u0642\u0644\u0628\u064a \u0627\u0644\u0648",
         "url": "https://open.spotify.com/album/2jEyAidrKSxLYj8lsz0H4Y"
       },
@@ -171,7 +189,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 203987,
       "name": "Ana Lamma Bheb",
       "url": "https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ"
@@ -842,6 +860,42 @@
     },
     {
       "album": {
+        "name": "La Tsin El Sef",
+        "url": "https://open.spotify.com/album/1spUffO8GXhqfYE3uRupNn"
+      },
+      "artists": [
+        {
+          "name": "A5rass - \u0627\u0644\u0627\u062e\u0631\u0633",
+          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190605,
+      "name": "La Tsin El Sef",
+      "url": "https://open.spotify.com/track/6dXc6JE3ytJYdp1Xpt0GZQ"
+    },
+    {
+      "album": {
+        "name": "Lama Tkooni",
+        "url": "https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB"
+      },
+      "artists": [
+        {
+          "name": "siilawy",
+          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211071,
+      "name": "Lama Tkooni",
+      "url": "https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1"
+    },
+    {
+      "album": {
         "name": "Lesatni Janbi",
         "url": "https://open.spotify.com/album/01MxqvhWMbLvIi3OLtSNYj"
       },
@@ -1040,6 +1094,24 @@
     },
     {
       "album": {
+        "name": "Set El Kel",
+        "url": "https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198790,
+      "name": "Set El Kel",
+      "url": "https://open.spotify.com/track/5AkcsVLzhVBC22ZiXcPTu6"
+    },
+    {
+      "album": {
         "name": "Tan Tan (feat. Wessam Qutob)",
         "url": "https://open.spotify.com/album/4Q6iHkdb5JEhOIELDNKGBu"
       },
@@ -1174,6 +1246,42 @@
     },
     {
       "album": {
+        "name": "\u0623\u0646\u0627 \u0648\u0628\u0633",
+        "url": "https://open.spotify.com/album/2IVwPX6szdHO0UCBsMYGDQ"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248405,
+      "name": "\u0623\u0646\u0627 \u0648\u0628\u0633",
+      "url": "https://open.spotify.com/track/1mkqWVlcMGpjUw2dEcbwdo"
+    },
+    {
+      "album": {
+        "name": "\u0625\u0646\u062a\u064a \u0627\u0644\u0633\u0628\u0628",
+        "url": "https://open.spotify.com/album/6HTCKfpaBWe5aJfFMFSrno"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 217777,
+      "name": "\u0625\u0646\u062a\u064a \u0627\u0644\u0633\u0628\u0628",
+      "url": "https://open.spotify.com/track/1ruuItwvqs8isoAZAs0a68"
+    },
+    {
+      "album": {
         "name": "\u0625\u0646\u062a\u064a \u0627\u0644\u0633\u0628\u0628",
         "url": "https://open.spotify.com/album/6XM5tebpzVaTj6ZaqvWmYA"
       },
@@ -1229,6 +1337,24 @@
     {
       "album": {
         "name": "\u0628\u062d\u0627\u0631\u0628 \u0641\u064a\u0647\u0627",
+        "url": "https://open.spotify.com/album/0LLAkjCkZJFQInR2cQ9KFe"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 245925,
+      "name": "\u0628\u062d\u0627\u0631\u0628 \u0641\u064a\u0647\u0627",
+      "url": "https://open.spotify.com/track/0XDtC0f0gsLPPVvbFiu07q"
+    },
+    {
+      "album": {
+        "name": "\u0628\u062d\u0627\u0631\u0628 \u0641\u064a\u0647\u0627",
         "url": "https://open.spotify.com/album/4x1Bl2uSE5UPlfnQXwlo2U"
       },
       "artists": [
@@ -1265,6 +1391,24 @@
     {
       "album": {
         "name": "\u0639\u0634\u0627\u0646\u0643",
+        "url": "https://open.spotify.com/album/7IeH8T12RVRbIlppvS83x3"
+      },
+      "artists": [
+        {
+          "name": "siilawy",
+          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187501,
+      "name": "\u0639\u0634\u0627\u0646\u0643",
+      "url": "https://open.spotify.com/track/0cJ6V9clK0gZCwPHxgKB5D"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0634\u0627\u0646\u0643",
         "url": "https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk"
       },
       "artists": [
@@ -1275,7 +1419,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187508,
       "name": "\u0639\u0634\u0627\u0646\u0643",
       "url": "https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx"
@@ -1293,10 +1437,28 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176000,
       "name": "\u0642\u062f\u0627\u0645 \u0627\u0644\u0643\u0644",
       "url": "https://open.spotify.com/track/29nkUuQAqOUUQPkcA21g74"
+    },
+    {
+      "album": {
+        "name": "\u0642\u062f\u0627\u0645 \u0627\u0644\u0643\u0644",
+        "url": "https://open.spotify.com/album/2wJA7q1P2mraW3kA51V2Rn"
+      },
+      "artists": [
+        {
+          "name": "siilawy",
+          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184431,
+      "name": "\u0642\u062f\u0627\u0645 \u0627\u0644\u0643\u0644",
+      "url": "https://open.spotify.com/track/2KTUVGrszTvLJa6zgWLmyL"
     },
     {
       "album": {

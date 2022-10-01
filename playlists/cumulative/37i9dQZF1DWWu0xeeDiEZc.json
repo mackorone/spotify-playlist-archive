@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Aladdin Special Edition",
+        "url": "https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz"
+      },
+      "artists": [
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        },
+        {
+          "name": "Brad Kane",
+          "url": "https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 160800,
+      "name": "A Whole New World",
+      "url": "https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK"
+    },
+    {
+      "album": {
         "name": "Aladdin: Special Edition Soundtrack",
         "url": "https://open.spotify.com/album/1Eq5qk8DnHWGOZT2cAASP2"
       },
@@ -27,10 +53,36 @@
       ],
       "date_added": "2019-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160800,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/506nvAQgHmkGd13ipZuBwo"
+    },
+    {
+      "album": {
+        "name": "Walt Disney Records The Legacy Collection: Aladdin",
+        "url": "https://open.spotify.com/album/2k9FuG5GyW61y2a0j4R3vP"
+      },
+      "artists": [
+        {
+          "name": "Brad Kane",
+          "url": "https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep"
+        },
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160306,
+      "name": "A Whole New World - Remastered 2022",
+      "url": "https://open.spotify.com/track/0k7Shopj669EbywEjsqoqm"
     },
     {
       "album": {
@@ -49,10 +101,50 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 75028,
       "name": "ABC's",
       "url": "https://open.spotify.com/track/1HVy2hV1wg27NB6LCVBxPi"
+    },
+    {
+      "album": {
+        "name": "Blippi Tunes, Vol. 1",
+        "url": "https://open.spotify.com/album/4y8tx8PVyNSMZAjVn6OblN"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Nicky Notes",
+          "url": "https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75028,
+      "name": "ABC's",
+      "url": "https://open.spotify.com/track/1eSmVO3UxWPfle5XCFzzDf"
+    },
+    {
+      "album": {
+        "name": "We're All Fruit Salad!: The Wiggles' Greatest Hits",
+        "url": "https://open.spotify.com/album/6ExeBKmXwBqZRRlEDfZmMJ"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115618,
+      "name": "Apples and Bananas",
+      "url": "https://open.spotify.com/track/4SI0hC16YcC5fZaCEY0ue4"
     },
     {
       "album": {
@@ -67,7 +159,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 115618,
       "name": "Apples And Bananas",
       "url": "https://open.spotify.com/track/6DbFSjja7kE0lcAM4vNw8r"
@@ -169,10 +261,28 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 116751,
       "name": "BINGO",
       "url": "https://open.spotify.com/track/7l4EYTzxQM4Z3e4VYPRTwI"
+    },
+    {
+      "album": {
+        "name": "Learn Your ABCs! Letter Songs and Phonics for Children with LittleBabyBum",
+        "url": "https://open.spotify.com/album/1eE8Rnlz8CuBXJ5EwwbFXm"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116751,
+      "name": "Bingo - Sing with Me",
+      "url": "https://open.spotify.com/track/04hHP1xdT8asIym1MuIIq5"
     },
     {
       "album": {
@@ -213,10 +323,36 @@
       ],
       "date_added": "2019-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206506,
       "name": "Do You Want To Build A Snowman?",
       "url": "https://open.spotify.com/track/6Oiyl1qV9r2rbWsD6pCMLt"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Agatha Lee Monn",
+          "url": "https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp"
+        },
+        {
+          "name": "Katie Lopez",
+          "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
     },
     {
       "album": {
@@ -256,6 +392,24 @@
     },
     {
       "album": {
+        "name": "Yummy Yummy",
+        "url": "https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148040,
+      "name": "Fruit Salad",
+      "url": "https://open.spotify.com/track/05VFDrNnvtKHn9GwCQrsSZ"
+    },
+    {
+      "album": {
         "name": "We're All Fruit Salad!: The Wiggles' Greatest Hits",
         "url": "https://open.spotify.com/album/6tUysAmatHIVl8dOSnfBoO"
       },
@@ -267,7 +421,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 148066,
       "name": "Fruit Salad",
       "url": "https://open.spotify.com/track/7kDKvOxuIY4aiHdYgKP8gd"
@@ -285,10 +439,28 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 72266,
       "name": "Fr\u00e8re Jacques",
       "url": "https://open.spotify.com/track/0iHDnCbFMopN23ru3qqY9j"
+    },
+    {
+      "album": {
+        "name": "Favourite Things: Songs and Nursery Rhymes from Play School",
+        "url": "https://open.spotify.com/album/3iTEYok7snY0DL5XjQB8xs"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72266,
+      "name": "Fr\u00e8re Jacques",
+      "url": "https://open.spotify.com/track/5MMkLHLXPwJnBlxVLYpDvy"
     },
     {
       "album": {
@@ -333,10 +505,28 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 118751,
       "name": "Head, Shoulders, Knees and Toes",
       "url": "https://open.spotify.com/track/3xFOkAI6aNreOFejqwvv28"
+    },
+    {
+      "album": {
+        "name": "The Wiggles Nursery Rhymes",
+        "url": "https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118751,
+      "name": "Head, Shoulders, Knees and Toes",
+      "url": "https://open.spotify.com/track/7toZuecF36JJeBq1faE2Xt"
     },
     {
       "album": {
@@ -358,8 +548,8 @@
     },
     {
       "album": {
-        "name": "Nursery Rhymes",
-        "url": "https://open.spotify.com/album/7fsYuOn9XETjbWNNcOP6cG"
+        "name": "The Wiggles Nursery Rhymes",
+        "url": "https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6"
       },
       "artists": [
         {
@@ -367,12 +557,12 @@
           "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
         }
       ],
-      "date_added": "2021-03-30",
+      "date_added": "2022-07-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 77855,
       "name": "I'm a Little Teapot",
-      "url": "https://open.spotify.com/track/3wYY67cxg0p2CYKvUE3gMC"
+      "url": "https://open.spotify.com/track/1t6Gro7Tzeja1SBEiqmH2Q"
     },
     {
       "album": {
@@ -387,10 +577,64 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 77855,
+      "name": "I'm a Little Teapot",
+      "url": "https://open.spotify.com/track/3wYY67cxg0p2CYKvUE3gMC"
+    },
+    {
+      "album": {
+        "name": "The Wiggles Nursery Rhymes",
+        "url": "https://open.spotify.com/album/2Rw0nDYlmZctMw6dOhKCT6"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 92853,
       "name": "If You're Happy and You Know It",
+      "url": "https://open.spotify.com/track/4jbFdoR43axNgUz4SE3Vnd"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes",
+        "url": "https://open.spotify.com/album/7fsYuOn9XETjbWNNcOP6cG"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 92853,
+      "name": "If You're Happy and You Know It",
       "url": "https://open.spotify.com/track/62pjp2SjPEGn0frGFVCJoV"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "Cocomelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129761,
+      "name": "Itsy Bitsy Spider",
+      "url": "https://open.spotify.com/track/6cKlr2BOXBaqiuaHUY5Zwo"
     },
     {
       "album": {
@@ -405,7 +649,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 129762,
       "name": "Itsy Bitsy Spider",
       "url": "https://open.spotify.com/track/4l9Rzfhif755mKMZi0D7SN"
@@ -427,6 +671,44 @@
       "duration_ms": 96866,
       "name": "John Jingleheimer Schmidt - 2012 Version",
       "url": "https://open.spotify.com/track/3WjmjGKIerosWGLGsrFHKU"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Kenan Thompson",
+          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221480,
+      "name": "Just Sing",
+      "url": "https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs"
     },
     {
       "album": {
@@ -461,10 +743,32 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221480,
       "name": "Just Sing",
       "url": "https://open.spotify.com/track/4vUq9Q0kgdgy2YZr1ugqge"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163400,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/4HGIPyqDxSf863tPOwXiLJ"
     },
     {
       "album": {
@@ -483,7 +787,7 @@
       ],
       "date_added": "2019-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162200,
       "name": "Kiss the Girl - From \"The Little Mermaid\"/ Soundtrack Version",
       "url": "https://open.spotify.com/track/4F1fdteEm8Oe2GNUA7ON5S"
@@ -505,6 +809,24 @@
       "duration_ms": 223840,
       "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "album": {
+        "name": "Toddler Party",
+        "url": "https://open.spotify.com/album/3hbh5avYBFVOQ3y3gCHL21"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123475,
+      "name": "Looby Loo - Toddler Version",
+      "url": "https://open.spotify.com/track/17ae6ayN7KxVK78VXXRwAT"
     },
     {
       "album": {
@@ -545,6 +867,24 @@
     {
       "album": {
         "name": "Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum",
+        "url": "https://open.spotify.com/album/11C07gKgzFhkl1AArySEfL"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119808,
+      "name": "Old Macdonald",
+      "url": "https://open.spotify.com/track/47ffTXm408U9thU7xS7CVE"
+    },
+    {
+      "album": {
+        "name": "Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum",
         "url": "https://open.spotify.com/album/3WM68FwyD2PzaRrHUToEqZ"
       },
       "artists": [
@@ -555,7 +895,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 119808,
       "name": "Old MacDonald",
       "url": "https://open.spotify.com/track/5vaqWdV3UsR0tgmf82wRkW"
@@ -580,6 +920,24 @@
     },
     {
       "album": {
+        "name": "It's Play School",
+        "url": "https://open.spotify.com/album/3weOS7S2Vb8LMVRVbNYgBB"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42933,
+      "name": "Shake My Sillies Out",
+      "url": "https://open.spotify.com/track/01lr2Sr5lB3uSQbEAHeMGc"
+    },
+    {
+      "album": {
         "name": "Play School: 50 Best Songs",
         "url": "https://open.spotify.com/album/0JurDgXQP9DayhLcQTvCsJ"
       },
@@ -591,10 +949,28 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 45053,
       "name": "Shake My Sillies Out",
       "url": "https://open.spotify.com/track/2J57hWtC2Bg8jay51dbq9F"
+    },
+    {
+      "album": {
+        "name": "100 Nursery Rhymes",
+        "url": "https://open.spotify.com/album/24Q6AJIE4oPqnKch545T2f"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121016,
+      "name": "She'll Be Coming Round the Mountain",
+      "url": "https://open.spotify.com/track/1FRXzmHFOsstktMhUKfrOO"
     },
     {
       "album": {
@@ -609,7 +985,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 121016,
       "name": "She'll Be Coming Round the Mountain",
       "url": "https://open.spotify.com/track/2TScmZPWSAOXRkXMJ6y8qR"
@@ -779,10 +1155,28 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141305,
       "name": "Toot Toot, Chugga Chugga, Big Red Car",
       "url": "https://open.spotify.com/track/1hcFZAVft7q2IpRCCRNp5s"
+    },
+    {
+      "album": {
+        "name": "Toot Toot!",
+        "url": "https://open.spotify.com/album/70kB7EJXi753JvYI7pDUT8"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "Toot, Toot, Chugga Chugga, Big Red Car",
+      "url": "https://open.spotify.com/track/6TVn9YyY5vzwVCPBER4fO8"
     },
     {
       "album": {
@@ -819,10 +1213,46 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 130000,
       "name": "Wheels on the Bus (All Through the Town)",
       "url": "https://open.spotify.com/track/6SHCXhux6u4DxIiy77E2al"
+    },
+    {
+      "album": {
+        "name": "World Nursery Rhyme Week with Little Baby Bum",
+        "url": "https://open.spotify.com/album/3kQQC6EpBgZ8sSdMBKk0TW"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Wheels on the Bus (All Through the Town)",
+      "url": "https://open.spotify.com/track/7LydPBAO6s0froW5cOZdfa"
+    },
+    {
+      "album": {
+        "name": "Do You Like Broccoli Ice Cream? & More Kids Songs",
+        "url": "https://open.spotify.com/album/1VypRh8WKSwIjDCkHuiQah"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118430,
+      "name": "Who Took The Cookie?",
+      "url": "https://open.spotify.com/track/3PpuDg0ZVPviHuljT3R087"
     },
     {
       "album": {
@@ -837,7 +1267,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 118430,
       "name": "Who Took the Cookie?",
       "url": "https://open.spotify.com/track/54sVu0zGDVMTC1NSA84v1a"

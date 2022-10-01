@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTA9xrja5XU1.md) - [plain]
 
 > <a href="spotify:artist:41rVuRHYAiH7ltBTHVR9We">Slushii</a> drops a colorful mix full of rumbling bass and head banging tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,900 likes - 22 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,660 likes - 22 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTA9xrja5XU1.md) - [plain]
 | 21 | [All I Need \- Mixed](https://open.spotify.com/track/7unSiaNJeb0ERu9cMnqUGv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [All I Need \(Mixed\)](https://open.spotify.com/album/14ex7NWmYTZedA9VSEWi6c) | 2:38 |
 | 22 | [Sweet Illusion \- Mixed](https://open.spotify.com/track/2VHg152omQ65DyQigrxWwd) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Sweet Illusion \(Mixed\)](https://open.spotify.com/album/09RC6h4C1PiMCA6WSJz55O) | 2:59 |
 
-Snapshot ID: `MTY1MjQ1MzYyNCwwMDAwMDAwNjAwMDAwMTgwYmRlOTRhOWIwMDAwMDE3ZmQxOTk5N2E3`
+Snapshot ID: `MTY1MjQ1MzYyNCwwMDAwMDAwMDMyZGIxNzVkNWVlMGRiNzljNjhkNTFlNDUyZjg0Mjdi`

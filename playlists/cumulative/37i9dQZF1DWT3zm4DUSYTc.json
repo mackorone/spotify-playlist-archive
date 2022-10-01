@@ -552,6 +552,24 @@
     },
     {
       "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/6OdEUJfbi8EzUJ3i5HZ3bZ"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373124,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/1aCoMulG9sc93W4kn9i1yf"
+    },
+    {
+      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/3CUZFecDhE3yQ1gy5mo6Wn"
       },
@@ -563,7 +581,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 373124,
       "name": "Coast",
       "url": "https://open.spotify.com/track/5qvo43hXyTAY1YN0pWtPil"
@@ -1301,10 +1319,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216678,
       "name": "Hibernation",
       "url": "https://open.spotify.com/track/1mYTROYR85RaiaVEtQztis"
+    },
+    {
+      "album": {
+        "name": "Hibernation",
+        "url": "https://open.spotify.com/album/5dVDeiMsoSUGb0KJhXnpmi"
+      },
+      "artists": [
+        {
+          "name": "Hushed",
+          "url": "https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216678,
+      "name": "Hibernation",
+      "url": "https://open.spotify.com/track/7AcNOiZhA5jRxCp5c3wOyz"
     },
     {
       "album": {
@@ -1921,7 +1957,7 @@
     {
       "album": {
         "name": "Dream Helpers",
-        "url": "https://open.spotify.com/album/2Ia4VJbjtQYzwdLa2yD8nW"
+        "url": "https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx"
       },
       "artists": [
         {
@@ -1932,6 +1968,24 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 124864,
+      "name": "Moving Silence",
+      "url": "https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9"
+    },
+    {
+      "album": {
+        "name": "Dream Helpers",
+        "url": "https://open.spotify.com/album/2Ia4VJbjtQYzwdLa2yD8nW"
+      },
+      "artists": [
+        {
+          "name": "Spirits Of Our Dreams",
+          "url": "https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 125078,
       "name": "Moving Silence",
       "url": "https://open.spotify.com/track/08Mk6wrJu3giNbV2oy6Vv8"
@@ -2969,7 +3023,7 @@
     {
       "album": {
         "name": "Breath of Life",
-        "url": "https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg"
+        "url": "https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg"
       },
       "artists": [
         {
@@ -2980,6 +3034,24 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 152401,
+      "name": "Suffer Well",
+      "url": "https://open.spotify.com/track/31inlxQZ2PUHNM78dssqkF"
+    },
+    {
+      "album": {
+        "name": "Breath of Life",
+        "url": "https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 152401,
       "name": "Suffer Well",
       "url": "https://open.spotify.com/track/7sja76lX8ntiFjv7iDxX5d"

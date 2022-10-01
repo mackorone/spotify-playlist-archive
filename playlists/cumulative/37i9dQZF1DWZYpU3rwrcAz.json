@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Chopin: Piano Works",
+        "url": "https://open.spotify.com/album/5nO4aw811eh3KVZYk5sYBA"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Tam\u00e1s V\u00e1s\u00e1ry",
+          "url": "https://open.spotify.com/artist/4ylqqqUMfc5TdqwoLuq6he"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242533,
+      "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+      "url": "https://open.spotify.com/track/28CUaWYIWxoeMl4eDvWzD7"
+    },
+    {
+      "album": {
         "name": "Chopin: 24 \u00c9tudes, Op. 10 & Op. 25 [Expanded Edition]",
         "url": "https://open.spotify.com/album/1UJdNfDQPpxXJFY0P08sL1"
       },
@@ -23,10 +45,32 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231546,
       "name": "12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
       "url": "https://open.spotify.com/track/2SZVGupkjNHEqsCDXbzko2"
+    },
+    {
+      "album": {
+        "name": "Chopin: 24 \u00c9tudes, Op. 10 & Op. 25",
+        "url": "https://open.spotify.com/album/5kUpAX73fnNouo85H5D3MK"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232706,
+      "name": "12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+      "url": "https://open.spotify.com/track/4h1blqY5LzPH8fNcglNJPX"
     },
     {
       "album": {
@@ -45,7 +89,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238800,
       "name": "24 Preludes, Op. 28: No. 13 in F-Sharp Major. Lento",
       "url": "https://open.spotify.com/track/4tFuBmZ0ZA8aYXY4FVK3AN"
@@ -75,7 +119,7 @@
     {
       "album": {
         "name": "Chopin Recital 2",
-        "url": "https://open.spotify.com/album/1SgrW92t03BX4g4l11KaRZ"
+        "url": "https://open.spotify.com/album/5CbpsTOhs4TjtDbzUXUwqw"
       },
       "artists": [
         {
@@ -90,6 +134,28 @@
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 419000,
+      "name": "Ballade No. 2 en fa majeur, Op. 38",
+      "url": "https://open.spotify.com/track/2aKH74H4YPx8NSITKmrk9X"
+    },
+    {
+      "album": {
+        "name": "Chopin Recital 2",
+        "url": "https://open.spotify.com/album/1SgrW92t03BX4g4l11KaRZ"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Janina Fialkowska",
+          "url": "https://open.spotify.com/artist/651mTvdpGkaQRBZGCzkZ32"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 419000,
       "name": "Ballade No. 2 in F Major, Op. 38",
       "url": "https://open.spotify.com/track/6AECxptTdcCHiLjOEYmsYj"
@@ -111,10 +177,32 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 469613,
       "name": "Ballade No. 3 in A Flat Major, Op. 47",
       "url": "https://open.spotify.com/track/1BPsXqDKyApGZTDQy69zOk"
+    },
+    {
+      "album": {
+        "name": "Chopin - Winter Vibes",
+        "url": "https://open.spotify.com/album/7nGjRnha8kq63mnUGQx9sj"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469613,
+      "name": "Ballade No. 3 in A Flat Major, Op. 47",
+      "url": "https://open.spotify.com/track/6J1aj3bVh1cEgMniGSGRGZ"
     },
     {
       "album": {
@@ -140,6 +228,28 @@
     },
     {
       "album": {
+        "name": "DG 120 \u2013 Concertos 2 (1994-2016)",
+        "url": "https://open.spotify.com/album/7sFyK4p1XMNF5Ruq1gY0Wg"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 726600,
+      "name": "Ballade No. 4 in F Minor, Op. 52",
+      "url": "https://open.spotify.com/track/5mBbZk0Nft6z1ZtxK9YOqB"
+    },
+    {
+      "album": {
         "name": "Chopin: Piano Concerto No. 1; Ballades",
         "url": "https://open.spotify.com/album/3uBOmT0tnbFyLB8X6hW8UN"
       },
@@ -155,7 +265,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 726600,
       "name": "Ballade No. 4 in F Minor, Op. 52",
       "url": "https://open.spotify.com/track/60mXuNLcWyzYgEXI6hhLt8"
@@ -185,7 +295,7 @@
     {
       "album": {
         "name": "Chopin: Piano Concerto No.2; Ballade No.4; Berceuse; Polonaise H\u00e9ro\u00efque",
-        "url": "https://open.spotify.com/album/2Kd3p575a7bkpGVkvDnYrH"
+        "url": "https://open.spotify.com/album/0NhBxrihXlNzRCHpr748QR"
       },
       "artists": [
         {
@@ -200,6 +310,28 @@
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 248613,
+      "name": "Berceuse in D Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/05Bpq895B93tdf1sXStxbY"
+    },
+    {
+      "album": {
+        "name": "Chopin: Piano Concerto No.2; Ballade No.4; Berceuse; Polonaise H\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/2Kd3p575a7bkpGVkvDnYrH"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 248613,
       "name": "Berceuse in D Flat Major, Op. 57",
       "url": "https://open.spotify.com/track/69oUJ4qeLrbFHCloblMglx"
@@ -294,7 +426,7 @@
     },
     {
       "album": {
-        "name": "Chopin Nocturnes",
+        "name": "Chopin: Nocturnes",
         "url": "https://open.spotify.com/album/7kGObwwRrq6pgj9MwSu4Qx"
       },
       "artists": [
@@ -529,10 +661,32 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 339026,
       "name": "Deux Nocturnes, Op. 62: 2. Nocturne In E (Lento)",
       "url": "https://open.spotify.com/track/10uRxefFamrk6OGym4JLlS"
+    },
+    {
+      "album": {
+        "name": "Chopin: Pr\u00e9ludes",
+        "url": "https://open.spotify.com/album/7LA1cCKvKIPt4koVHjJzU6"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Rafa\u0142 Blechacz",
+          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339026,
+      "name": "Deux Nocturnes, Op. 62: 2. Nocturne In E (Lento)",
+      "url": "https://open.spotify.com/track/14PfaAkLKxAUs7GTwdN96v"
     },
     {
       "album": {
@@ -551,7 +705,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243884,
       "name": "Etude \"Tristesse\" in B major, Op.10,3",
       "url": "https://open.spotify.com/track/3nSDoy25fLyorJdiui7OwS"
@@ -625,7 +779,7 @@
     {
       "album": {
         "name": "Chopin: Complete Mazurkas",
-        "url": "https://open.spotify.com/album/687yf7THjQUVpIKMJhVGsb"
+        "url": "https://open.spotify.com/album/7eS9QiFiXd4DwLt0ZdrLEt"
       },
       "artists": [
         {
@@ -640,6 +794,28 @@
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 129813,
+      "name": "Mazurka No. 43 en sol mineur, Op. Posth. 67 No. 2, WN 64",
+      "url": "https://open.spotify.com/track/6zvD6nMGrX5OrPrSnFgUXg"
+    },
+    {
+      "album": {
+        "name": "Chopin: Complete Mazurkas",
+        "url": "https://open.spotify.com/album/687yf7THjQUVpIKMJhVGsb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Janina Fialkowska",
+          "url": "https://open.spotify.com/artist/651mTvdpGkaQRBZGCzkZ32"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 129813,
       "name": "Mazurka No. 43 in G Minor, Op. 67 No. 2",
       "url": "https://open.spotify.com/track/2kdzG37VTbJRtCSfgqtrLB"
@@ -756,6 +932,28 @@
     },
     {
       "album": {
+        "name": "Chopin: The Nocturnes",
+        "url": "https://open.spotify.com/album/1KPktR52hmJTJH8SdkiVmK"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Claudio Arrau",
+          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Nocturne No. 19 in E minor, Op. 72 No. 1",
+      "url": "https://open.spotify.com/track/66zOdwAIuFXNrB3kcnrkyr"
+    },
+    {
+      "album": {
         "name": "Benjamin Grosvenor: Chopin, Liszt, Ravel",
         "url": "https://open.spotify.com/album/5MyejkHGSoo5IfTum4VMiw"
       },
@@ -800,6 +998,28 @@
     },
     {
       "album": {
+        "name": "Chopin Gold",
+        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373173,
+      "name": "Nocturne No. 8 In D Flat, Op. 27 No. 2 - Live",
+      "url": "https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF"
+    },
+    {
+      "album": {
         "name": "Chopin Favourites",
         "url": "https://open.spotify.com/album/5JZN2y1ePhusziw1DpndlL"
       },
@@ -819,50 +1039,6 @@
       "duration_ms": 311400,
       "name": "Nocturne No. 9 in B Major, Op. 32 No. 1",
       "url": "https://open.spotify.com/track/5UpQqGyhYg70rRXgPuy28o"
-    },
-    {
-      "album": {
-        "name": "Chopin: The Nocturnes",
-        "url": "https://open.spotify.com/album/1KPktR52hmJTJH8SdkiVmK"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Claudio Arrau",
-          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
-        }
-      ],
-      "date_added": "2019-08-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252000,
-      "name": "Nocturne No.19 in E minor, Op.72 No.1",
-      "url": "https://open.spotify.com/track/66zOdwAIuFXNrB3kcnrkyr"
-    },
-    {
-      "album": {
-        "name": "Chopin Gold",
-        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "date_added": "2019-08-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 373173,
-      "name": "Nocturne No.8 In D Flat, Op.27 No.2 - Live",
-      "url": "https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF"
     },
     {
       "album": {
@@ -910,6 +1086,28 @@
     },
     {
       "album": {
+        "name": "Sviatoslav Richter - In Memoriam",
+        "url": "https://open.spotify.com/album/1AW2bzGrOJzUjwkcTys5fW"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Sviatoslav Richter",
+          "url": "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 735000,
+      "name": "Polonaise No. 7 in A flat, Op. 61 Polonaise-Fantaisie: Polonaise No. 7 in A flat, Op. 61 Polonaise-Fantaisie",
+      "url": "https://open.spotify.com/track/2jsnOginmflAutN6efs6H5"
+    },
+    {
+      "album": {
         "name": "Sviatoslav Richter Recital",
         "url": "https://open.spotify.com/album/1EblNPXYOlNnCQDk54ME4K"
       },
@@ -925,10 +1123,28 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 736000,
       "name": "Polonaise No.7 in A flat, Op.61 Polonaise-Fantaisie: Polonaise No.7 in A flat, Op.61 Polonaise-Fantaisie",
       "url": "https://open.spotify.com/track/39s9QVDt83ZezQiQ6yTyLH"
+    },
+    {
+      "album": {
+        "name": "Poetic Chopin: Ballades, Mazurkas, Nocturnes, and Preludes by Fr\u00e9d\u00e9ric Chopin",
+        "url": "https://open.spotify.com/album/5o59MPLT2lvhxrvC1RRlTp"
+      },
+      "artists": [
+        {
+          "name": "Joanna Brezezinska",
+          "url": "https://open.spotify.com/artist/6f86sjWCK79DvjVLvzS2n4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238800,
+      "name": "Prelude No. 13 in F sharp Major Op. 28: Lento",
+      "url": "https://open.spotify.com/track/0xUNKDf4ntoVGWS1dXCm4p"
     },
     {
       "album": {
@@ -993,7 +1209,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 132666,
-      "name": "Waltz No.19 in A minor, Op.posth.",
+      "name": "Waltz No. 19 in A minor, Op. posth.",
       "url": "https://open.spotify.com/track/71MpmxCJ1TW05c7Fvv1SfI"
     },
     {

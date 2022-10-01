@@ -2,7 +2,7 @@
 
 ### [Idris Elba's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWU9MwLOqWTux)
 
-> <a href ="spotify:artist:0Dc2rdPzleezxhvQhQbXuS">Idris Elba</a>'s tantalizing mix demonstrates the renowned actor's talents on the decks.
+> <a href="spotify:artist:0Dc2rdPzleezxhvQhQbXuS">Idris Elba</a>'s tantalizing mix demonstrates the renowned actor's talents on the decks.
 
 14 songs - 58 min 47 sec - [published](https://open.spotify.com/playlist/4Vt8y8ADxadMidWj8qdSA1)
 

@@ -340,6 +340,24 @@
     },
     {
       "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294426,
+      "name": "Checkin' Up On My Baby",
+      "url": "https://open.spotify.com/track/02b0vxOu1dFKNoUR58YVnk"
+    },
+    {
+      "album": {
         "name": "Martin Scorsese Presents The Blues: Taj Mahal",
         "url": "https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC"
       },
@@ -351,7 +369,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295400,
       "name": "Checkin' Up On My Baby",
       "url": "https://open.spotify.com/track/7nVzX42eKMcI2XZcO1YOPL"
@@ -412,6 +430,24 @@
     },
     {
       "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126226,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
+    },
+    {
+      "album": {
         "name": "BD Music & Toppi Present the Blues",
         "url": "https://open.spotify.com/album/1f3irUajLCbRpZhS4aZvae"
       },
@@ -423,7 +459,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 131946,
       "name": "Confessin' the Blues",
       "url": "https://open.spotify.com/track/1jITXDhtm0vwjyeY3bLVN3"
@@ -567,10 +603,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181002,
       "name": "Down Town",
       "url": "https://open.spotify.com/track/0uty39dFnwtbMGpdN4nxz0"
+    },
+    {
+      "album": {
+        "name": "R&B from the Marquee / At the Cavern (Remastered)",
+        "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
+      },
+      "artists": [
+        {
+          "name": "Alexis Korner's Blues Incorporated",
+          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180793,
+      "name": "Down Town",
+      "url": "https://open.spotify.com/track/6duAVSfai8qK7TKjl82Lv3"
     },
     {
       "album": {
@@ -639,10 +693,46 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178755,
       "name": "Feeli' Good",
       "url": "https://open.spotify.com/track/5JKfPYbO58hhkKFumwlKY3"
+    },
+    {
+      "album": {
+        "name": "Little Junior Parker: Mr. Blues",
+        "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-18",
+      "duration_ms": 179440,
+      "name": "Feelin' Good",
+      "url": "https://open.spotify.com/track/1xTbVbrfYWRzEMWUg5mz9Y"
+    },
+    {
+      "album": {
+        "name": "Feelin' Good / Fussin' and Fightin' Blues",
+        "url": "https://open.spotify.com/album/63y8cTGBcf6VU1GadMNHCN"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177560,
+      "name": "Feelin' Good",
+      "url": "https://open.spotify.com/track/2XoKgKRMzHLmnpfjQ3y0EQ"
     },
     {
       "album": {
@@ -773,10 +863,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155413,
       "name": "Good Time Charlie (Part 1)",
       "url": "https://open.spotify.com/track/6pVqOsnX2rLYMl1RBzmNBF"
+    },
+    {
+      "album": {
+        "name": "That's It! / Duke Recordings Vol. III",
+        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154693,
+      "name": "Good Time Charlie - Pt. 1 / Single Version",
+      "url": "https://open.spotify.com/track/5HSJ3BzoAWbE0qdRD0YvvQ"
     },
     {
       "album": {
@@ -834,6 +942,24 @@
     },
     {
       "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341800,
+      "name": "Hear My Train a Comin'",
+      "url": "https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz"
+    },
+    {
+      "album": {
         "name": "More Real Folk Blues",
         "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
       },
@@ -881,10 +1007,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164666,
       "name": "Hoochie Coochie Man",
       "url": "https://open.spotify.com/track/3NwAB2aVDJZ1q6ZwA5T8vt"
+    },
+    {
+      "album": {
+        "name": "The Graham Bond Organization - Wade in the Water \u2013 Classics, Origins & Oddities",
+        "url": "https://open.spotify.com/album/0qOXanjGd0Yc4MKfqboa9i"
+      },
+      "artists": [
+        {
+          "name": "The Graham Bond Organisation",
+          "url": "https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167693,
+      "name": "Hoochie Coochie Man (Version 2) - Remastered",
+      "url": "https://open.spotify.com/track/4DSp70TLaYQ0VD2h6F7cD9"
     },
     {
       "album": {
@@ -1058,6 +1202,24 @@
     },
     {
       "album": {
+        "name": "Blues Jam in Chicago, Vol. 1",
+        "url": "https://open.spotify.com/album/4vRzJ9uAlelRyezL47h1WJ"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226733,
+      "name": "I'm Worried",
+      "url": "https://open.spotify.com/track/1a2mDlmY6lTKTB7rmu6rVi"
+    },
+    {
+      "album": {
         "name": "Blues Jam In Chicago - Volume 1",
         "url": "https://open.spotify.com/album/3t81Ka8mPF6NUUj0MUL43H"
       },
@@ -1069,7 +1231,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226733,
       "name": "I'm Worried",
       "url": "https://open.spotify.com/track/7IuiCifsATBLv4PQHHsP5T"
@@ -1105,10 +1267,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157200,
       "name": "It's Ok with Me Baby",
       "url": "https://open.spotify.com/track/58nGbJZwNpqylln1h7qZTN"
+    },
+    {
+      "album": {
+        "name": "40 Blue Fingers Freshly Packed & Ready to Serve",
+        "url": "https://open.spotify.com/album/0KCRjNAQbHVTGACph3lXxV"
+      },
+      "artists": [
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159506,
+      "name": "It's Ok with Me Baby (Bonus Track)",
+      "url": "https://open.spotify.com/track/4xl4cbwWacZi4QDUWBA5CA"
     },
     {
       "album": {
@@ -1145,6 +1325,24 @@
       "duration_ms": 150693,
       "name": "Jelly Bread",
       "url": "https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z"
+    },
+    {
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144493,
+      "name": "Just Your Fool",
+      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
     },
     {
       "album": {
@@ -1206,6 +1404,24 @@
     },
     {
       "album": {
+        "name": "Let's Work Together",
+        "url": "https://open.spotify.com/album/35nn7TrslBi7Yf0ru9l6lq"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Harrison",
+          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335533,
+      "name": "Let's Work Together",
+      "url": "https://open.spotify.com/track/59XNlPnp7mkbCTupmPocbJ"
+    },
+    {
+      "album": {
         "name": "Talkin' Some Sense",
         "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
       },
@@ -1253,10 +1469,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181640,
       "name": "Lonesome Whistle Blues",
       "url": "https://open.spotify.com/track/6FlElscpn0N3PwA2RVFbG2"
+    },
+    {
+      "album": {
+        "name": "40 Blue Fingers Freshly Packed & Ready to Serve",
+        "url": "https://open.spotify.com/album/0KCRjNAQbHVTGACph3lXxV"
+      },
+      "artists": [
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184973,
+      "name": "Lonesome Whistle Blues",
+      "url": "https://open.spotify.com/track/0239B2zmduD88ZXOiBMOjj"
     },
     {
       "album": {
@@ -1398,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "Disraeli Gears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144840,
+      "name": "Outside Woman Blues",
+      "url": "https://open.spotify.com/track/3oaSvU9VBBmyfPA4lbibQM"
+    },
+    {
+      "album": {
         "name": "Disraeli Gears",
         "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
       },
@@ -1409,7 +1661,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144933,
       "name": "Outside Woman Blues",
       "url": "https://open.spotify.com/track/5BSN3UcARskPfzxA6YhJCM"
@@ -1463,10 +1715,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255893,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/05Edg9bSSBaE5g1nx1pnty"
+    },
+    {
+      "album": {
+        "name": "Twice Removed from Yesterday",
+        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255893,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/7jixAsWYi2j8kI8SCFO84j"
     },
     {
       "album": {
@@ -1481,10 +1751,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 314746,
       "name": "Rocky Mountain Way",
       "url": "https://open.spotify.com/track/79hKqXCyqIUXhdTFEs4ePo"
+    },
+    {
+      "album": {
+        "name": "The Smoker You Drink, The Player You Get",
+        "url": "https://open.spotify.com/album/6Sdkho6t0ure9XTzZXM2CK"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315400,
+      "name": "Rocky Mountain Way",
+      "url": "https://open.spotify.com/track/2XHjFJVXYlEzoDvN82h8s5"
     },
     {
       "album": {
@@ -1619,6 +1907,24 @@
     {
       "album": {
         "name": "The Biggest Thing Since Colossus",
+        "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182573,
+      "name": "Someday Baby",
+      "url": "https://open.spotify.com/track/3r5XcjIRcqm9tRMSmXfwD2"
+    },
+    {
+      "album": {
+        "name": "The Biggest Thing Since Colossus",
         "url": "https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX"
       },
       "artists": [
@@ -1633,7 +1939,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182573,
       "name": "Someday Baby",
       "url": "https://open.spotify.com/track/5vTyYoCaZ36Blzv92w2vtC"
@@ -1777,10 +2083,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266413,
       "name": "The Letter",
       "url": "https://open.spotify.com/track/4cCSqQBd2b6Uu0ErT4zXvd"
+    },
+    {
+      "album": {
+        "name": "40 Blue Fingers Freshly Packed & Ready to Serve",
+        "url": "https://open.spotify.com/album/0KCRjNAQbHVTGACph3lXxV"
+      },
+      "artists": [
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270306,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/6rYpL8O8zMiwLY4nOq8nqr"
     },
     {
       "album": {

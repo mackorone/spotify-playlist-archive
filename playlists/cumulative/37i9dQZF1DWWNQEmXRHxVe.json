@@ -138,7 +138,7 @@
     },
     {
       "album": {
-        "name": "Who's Next",
+        "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
       "artists": [
@@ -149,7 +149,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 300400,
       "name": "Baba O'Riley",
       "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 195840,
       "name": "Chantaje (feat. Maluma)",
       "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 211493,
       "name": "Gin N Juice (feat. Dat Nigga Daz)",
       "url": "https://open.spotify.com/track/7sPt2cfrg7DrVP52zfvS1i"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 405213,
       "name": "House Of Balloons / Glass Table Girls",
       "url": "https://open.spotify.com/track/50iiDJGpAPdr2VTrz999XA"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 452546,
       "name": "Let's Get It Started",
       "url": "https://open.spotify.com/track/50w5mfnGoJMFQwlf3yq98v"
@@ -1277,10 +1277,28 @@
       ],
       "date_added": "2018-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237200,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/0WfKDYeUAoLA3vdvLKKWMW"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2018-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
     },
     {
       "album": {
@@ -1617,7 +1635,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 352853,
       "name": "The Recipe - Bonus Track",
       "url": "https://open.spotify.com/track/1eRBW1HcyM1zPlxO26cScZ"

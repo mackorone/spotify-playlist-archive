@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 338040,
       "name": "Desecrate Through Reverence",
       "url": "https://open.spotify.com/track/2CtlenYH17sZ8Mzg9tgT1K"
@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "The Stage",
+        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221973,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
+    },
+    {
+      "album": {
         "name": "The Stage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
       },
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-28",
       "duration_ms": 221973,
       "name": "God Damn",
       "url": "https://open.spotify.com/track/5uZf5fcY88UMoJtCRbSDKg"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": "2022-09-15",
       "duration_ms": 285613,
       "name": "Until the End",
       "url": "https://open.spotify.com/track/5NJTJElk0ArSxQtYjA0rYR"

@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "Hydra (Special Edition)",
+        "url": "https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230067,
+      "name": "And We Run",
+      "url": "https://open.spotify.com/track/6MubsJeQrVa0k7lJSxcdaM"
+    },
+    {
+      "album": {
         "name": "Hydra",
         "url": "https://open.spotify.com/album/3bSKHI0yn1LzvlsoEel2vg"
       },
@@ -59,7 +81,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230067,
       "name": "And We Run (feat. Xzibit)",
       "url": "https://open.spotify.com/track/5zNS8n38dk5xTjdLG3NF6p"
@@ -102,8 +124,8 @@
     },
     {
       "album": {
-        "name": "Hydra",
-        "url": "https://open.spotify.com/album/3bSKHI0yn1LzvlsoEel2vg"
+        "name": "Hydra (Special Edition)",
+        "url": "https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76"
       },
       "artists": [
         {
@@ -115,8 +137,48 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 287776,
+      "name": "Covered by Roses",
+      "url": "https://open.spotify.com/track/35ViOD3ucFVAGwmvIvMSvP"
+    },
+    {
+      "album": {
+        "name": "Hydra",
+        "url": "https://open.spotify.com/album/3bSKHI0yn1LzvlsoEel2vg"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 287776,
       "name": "Covered By Roses",
       "url": "https://open.spotify.com/track/3o9tbbeSm0C4djutwC7uiZ"
+    },
+    {
+      "album": {
+        "name": "Hydra (Special Edition)",
+        "url": "https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Howard Jones",
+          "url": "https://open.spotify.com/artist/1yXPGJOuT5KUmg3EX5vMQ2"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293235,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0qUwTUH5EsLi3y2B4YJ2Wk"
     },
     {
       "album": {
@@ -135,10 +197,28 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293235,
       "name": "Dangerous (feat. Howard Jones)",
       "url": "https://open.spotify.com/track/0wI0JbIyF0ySxyVd1STxYy"
+    },
+    {
+      "album": {
+        "name": "Hydra (Special Edition)",
+        "url": "https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295422,
+      "name": "Edge of the World",
+      "url": "https://open.spotify.com/track/5578fHcYLNW0yIa9ohZC2a"
     },
     {
       "album": {
@@ -153,10 +233,46 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295422,
       "name": "Edge Of The World",
       "url": "https://open.spotify.com/track/5QKliWHwm99G2d8xTPehNZ"
+    },
+    {
+      "album": {
+        "name": "Don't Pray For Me",
+        "url": "https://open.spotify.com/album/4xVMkU8AP5ihwCv0ra9uaf"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211045,
+      "name": "Entertain You",
+      "url": "https://open.spotify.com/track/2TggWcaQqzZr6Lv80g1c61"
+    },
+    {
+      "album": {
+        "name": "Entertain You",
+        "url": "https://open.spotify.com/album/0kLPfU7TA882mqHNmrMVWB"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211045,
+      "name": "Entertain You",
+      "url": "https://open.spotify.com/track/2yiDAvEEqGrkKZpNYCJ5Wm"
     },
     {
       "album": {
@@ -171,7 +287,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211045,
       "name": "Entertain You",
       "url": "https://open.spotify.com/track/70HVKogWbgiA4XaXa2GowH"
@@ -445,10 +561,28 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 331251,
       "name": "Let Us Burn",
       "url": "https://open.spotify.com/track/3QpV87qyhz2BQXoZivojAy"
+    },
+    {
+      "album": {
+        "name": "Hydra (Special Edition)",
+        "url": "https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331251,
+      "name": "Let Us Burn",
+      "url": "https://open.spotify.com/track/7aMQRyIhfpXfUIMH8EDpGZ"
     },
     {
       "album": {
@@ -517,10 +651,28 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 331653,
       "name": "Mother Earth - Live",
       "url": "https://open.spotify.com/track/411gwJbENajh5pgaWwAU1d"
+    },
+    {
+      "album": {
+        "name": "Mother Earth Tour (Live)",
+        "url": "https://open.spotify.com/album/50svvltIAFATFHlduLRASx"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331653,
+      "name": "Mother Earth - Live",
+      "url": "https://open.spotify.com/track/6cTTlY28qzrMUCDZqgBADU"
     },
     {
       "album": {
@@ -596,6 +748,28 @@
     },
     {
       "album": {
+        "name": "Hydra (Special Edition)",
+        "url": "https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319688,
+      "name": "Paradise (What About Us?)",
+      "url": "https://open.spotify.com/track/1Txptxzzcc7PBD7NSsJQWs"
+    },
+    {
+      "album": {
         "name": "Hydra",
         "url": "https://open.spotify.com/album/3bSKHI0yn1LzvlsoEel2vg"
       },
@@ -611,7 +785,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 319688,
       "name": "Paradise (What About Us?) [feat. Tarja]",
       "url": "https://open.spotify.com/track/3ZieIEWbz8C68OqkoHzdOj"
@@ -651,10 +825,28 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 368026,
       "name": "Restless",
       "url": "https://open.spotify.com/track/3BwU2MOfODibVdFDjOW63r"
+    },
+    {
+      "album": {
+        "name": "Enter + The Dance",
+        "url": "https://open.spotify.com/album/0hbFubqseR3NFJLSRKNTnt"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369160,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/0gdeTC0zXAPJzbzveGQMdX"
     },
     {
       "album": {
@@ -745,10 +937,28 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 316843,
       "name": "Silver Moonlight",
       "url": "https://open.spotify.com/track/0ZcXhHlAE6onmjqZ6Cvs6P"
+    },
+    {
+      "album": {
+        "name": "Hydra (Special Edition)",
+        "url": "https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316843,
+      "name": "Silver Moonlight",
+      "url": "https://open.spotify.com/track/1Ssk9Jgfcdo5RRBQqIVjat"
     },
     {
       "album": {
@@ -853,10 +1063,28 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256466,
       "name": "The Purge",
       "url": "https://open.spotify.com/track/6pR3NxgHtficTizsYVRRmX"
+    },
+    {
+      "album": {
+        "name": "The Purge",
+        "url": "https://open.spotify.com/album/1rN72pQnsIJo2MqHfqDqYA"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256466,
+      "name": "The Purge",
+      "url": "https://open.spotify.com/track/72Cz4BgCt2RZQL3JQVwRwG"
     },
     {
       "album": {
@@ -922,6 +1150,28 @@
     },
     {
       "album": {
+        "name": "Hydra (Special Edition)",
+        "url": "https://open.spotify.com/album/6nnX6KBteT87aawt2wsw76"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Dave Pirner",
+          "url": "https://open.spotify.com/artist/0DGexM9UeEMijhLRbKetCN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243221,
+      "name": "Whole World Is Watching",
+      "url": "https://open.spotify.com/track/2TtwojclwhgtDSTnU0qpzm"
+    },
+    {
+      "album": {
         "name": "Hydra",
         "url": "https://open.spotify.com/album/3bSKHI0yn1LzvlsoEel2vg"
       },
@@ -937,7 +1187,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243221,
       "name": "Whole World Is Watching (feat. Dave Pirner)",
       "url": "https://open.spotify.com/track/79SEgAIM8UquEZvH6ZFG7e"

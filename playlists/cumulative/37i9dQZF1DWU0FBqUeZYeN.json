@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222813,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "album": {
         "name": "The Rolling Stones Singles Collection: The London Years (Remastered)",
         "url": "https://open.spotify.com/album/1YYEC5hLwDbQPtErSBD223"
       },
@@ -19,10 +37,46 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222840,
       "name": "(I Can't Get No) Satisfaction - Mono Version / Remastered 2002",
       "url": "https://open.spotify.com/track/57J2znxukXsXzS3XPuZ1TG"
+    },
+    {
+      "album": {
+        "name": "(I'm) Stranded",
+        "url": "https://open.spotify.com/album/70Blia4zXTBhuExWQjX2DA"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210546,
+      "name": "(I'm) Stranded",
+      "url": "https://open.spotify.com/track/38t6SxbsBRgTGtdSZTtusX"
+    },
+    {
+      "album": {
+        "name": "The Controllers",
+        "url": "https://open.spotify.com/album/1E5KS6RWT9SLKrNeYF66DQ"
+      },
+      "artists": [
+        {
+          "name": "The Controllers",
+          "url": "https://open.spotify.com/artist/4vdsZfLw82uxPQRhmlGDNf"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125400,
+      "name": "(The Original) Neutron Bomb",
+      "url": "https://open.spotify.com/track/3bnNk9uwg0DcgNBarEgqTj"
     },
     {
       "album": {
@@ -37,7 +91,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 125400,
       "name": "(The Original) Neutron Bomb",
       "url": "https://open.spotify.com/track/7vWZnOGMyilKXVgopNHxRP"
@@ -55,10 +109,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 401681,
       "name": "30 Seconds Over Tokyo",
       "url": "https://open.spotify.com/track/6TfLCx9HqVgzt0MrA47kzu"
+    },
+    {
+      "album": {
+        "name": "The Day the Earth Met the Rocket From the Tombs (Live)",
+        "url": "https://open.spotify.com/album/0yHWKkqgQezsX60L4k2vBi"
+      },
+      "artists": [
+        {
+          "name": "Rocket From The Tombs",
+          "url": "https://open.spotify.com/artist/5gjODPcOiAmqb2iPzt4cbo"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401681,
+      "name": "30 Seconds Over Tokyo - Live",
+      "url": "https://open.spotify.com/track/7eJ0hDCvcrmkN5VN533cm0"
     },
     {
       "album": {
@@ -91,10 +163,46 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135626,
       "name": "99th Floor",
       "url": "https://open.spotify.com/track/0BlgrTepmp7SvbMBSmYy6X"
+    },
+    {
+      "album": {
+        "name": "The Complete Collection",
+        "url": "https://open.spotify.com/album/0zOs4x77Wfg9ixVaNuJNRP"
+      },
+      "artists": [
+        {
+          "name": "The Moving Sidewalks",
+          "url": "https://open.spotify.com/artist/1mVnnp85GXJce62susfwac"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135626,
+      "name": "99th Floor Tantara Single",
+      "url": "https://open.spotify.com/track/2VGZ0a8BpYg8zJQ0niSNt0"
+    },
+    {
+      "album": {
+        "name": "I Hate CD's: Norton Records 45 RPM Singles Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/4woOPYWSr6QibGfXh084Ot"
+      },
+      "artists": [
+        {
+          "name": "Jerry McCain and His Upstarts",
+          "url": "https://open.spotify.com/artist/0HVuTBDV7k9ptOpLMnyuzq"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123400,
+      "name": "A Cutie Named Judy",
+      "url": "https://open.spotify.com/track/18ddITKObdJTZTje6LagQ1"
     },
     {
       "album": {
@@ -109,7 +217,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 123400,
       "name": "A Cutie Named Judy",
       "url": "https://open.spotify.com/track/4mdWwNjlhU5Z32WUBCFy8B"
@@ -127,10 +235,46 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153226,
       "name": "Action Woman",
       "url": "https://open.spotify.com/track/15zIQqm0iq5gi5nwkOEQPJ"
+    },
+    {
+      "album": {
+        "name": "Distortions",
+        "url": "https://open.spotify.com/album/0L7ktraAFQOxPHgK2zLbyf"
+      },
+      "artists": [
+        {
+          "name": "The Litter",
+          "url": "https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154480,
+      "name": "Action Woman",
+      "url": "https://open.spotify.com/track/1f2iytT4krAsbokqIv1JVO"
+    },
+    {
+      "album": {
+        "name": "Kinks (Deluxe)",
+        "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141506,
+      "name": "All Day and All of the Night",
+      "url": "https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm"
     },
     {
       "album": {
@@ -145,7 +289,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142226,
       "name": "All Day and All of the Night",
       "url": "https://open.spotify.com/track/3okPiJwW5nCLpug12sCL4p"
@@ -199,10 +343,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213400,
       "name": "Archangel Thunderbird",
       "url": "https://open.spotify.com/track/7fOpF1rmcD4wpenamuNdp5"
+    },
+    {
+      "album": {
+        "name": "Yeti",
+        "url": "https://open.spotify.com/album/4ip7L3AtG2pLgZLhAON3va"
+      },
+      "artists": [
+        {
+          "name": "Amon D\u00fc\u00fcl II",
+          "url": "https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213400,
+      "name": "Archangels Thunderbird",
+      "url": "https://open.spotify.com/track/0oshIsMu5i5E2wTBIj9NxF"
     },
     {
       "album": {
@@ -217,10 +379,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185786,
       "name": "At Home At Work At Play",
       "url": "https://open.spotify.com/track/73dZMcYjAYEYets1sLxFru"
+    },
+    {
+      "album": {
+        "name": "Propaganda",
+        "url": "https://open.spotify.com/album/1rlCSXl4oodSDQRUYDUgiP"
+      },
+      "artists": [
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "At Home At Work At Play",
+      "url": "https://open.spotify.com/track/7jpt4P7GjVGFFgI3bqLThp"
     },
     {
       "album": {
@@ -235,10 +415,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163000,
       "name": "Blank Generation",
       "url": "https://open.spotify.com/track/1UhYpKwdFiAefEXB6GJs60"
+    },
+    {
+      "album": {
+        "name": "Spurts: The Richard Hell Story (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF"
+      },
+      "artists": [
+        {
+          "name": "Richard Hell",
+          "url": "https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167840,
+      "name": "Blank Generation - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr"
     },
     {
       "album": {
@@ -253,10 +451,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133440,
       "name": "Blitzkrieg Bop - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/33iQW2OneB0oNh2NfrAzqW"
+    },
+    {
+      "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
     },
     {
       "album": {
@@ -307,14 +523,32 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 343800,
       "name": "Cherry Red - 1996 Remastered Version",
       "url": "https://open.spotify.com/track/2efJem1z78jWQnuV63ZijF"
     },
     {
       "album": {
-        "name": "Kinda Kinks",
+        "name": "Split",
+        "url": "https://open.spotify.com/album/3f6Y5i6HOeg5SpT5PUEm0e"
+      },
+      "artists": [
+        {
+          "name": "The Groundhogs",
+          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343506,
+      "name": "Cherry Red - 2003 Remastered Version",
+      "url": "https://open.spotify.com/track/7DwZDNVo6dlnpEh9UxyFGw"
+    },
+    {
+      "album": {
+        "name": "Kinda Kinks (Deluxe)",
         "url": "https://open.spotify.com/album/73anEcke1iGiFLxWhXnco8"
       },
       "artists": [
@@ -361,10 +595,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269866,
       "name": "Crash Street Kids",
       "url": "https://open.spotify.com/track/65lVNwkJ1cbfGbeLFhj7Os"
+    },
+    {
+      "album": {
+        "name": "The Hoople",
+        "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
+      },
+      "artists": [
+        {
+          "name": "Mott The Hoople",
+          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269866,
+      "name": "Crash Street Kids",
+      "url": "https://open.spotify.com/track/6Zyrh0uqZohncpzrqizRCn"
     },
     {
       "album": {
@@ -379,10 +631,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217200,
       "name": "Creature Feature",
       "url": "https://open.spotify.com/track/5Olq7KLWS7dNBDa43rgQmt"
+    },
+    {
+      "album": {
+        "name": "The Second Album + The First Rehearsal Tapes",
+        "url": "https://open.spotify.com/album/6X3IumYsTS91vfxDVxRd04"
+      },
+      "artists": [
+        {
+          "name": "Suicide",
+          "url": "https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Creature Feature",
+      "url": "https://open.spotify.com/track/7cDsnWV6zw2iUYFPXZe7Yo"
     },
     {
       "album": {
@@ -422,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Dirty Water (Expanded Edition)",
+        "url": "https://open.spotify.com/album/621zErvBJeovty6dAx4PDn"
+      },
+      "artists": [
+        {
+          "name": "The Standells",
+          "url": "https://open.spotify.com/artist/4BM6qze88exQPVILQpcYpj"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167253,
+      "name": "Dirty Water",
+      "url": "https://open.spotify.com/track/3NINDFPIYnyT26cWWRomOQ"
+    },
+    {
+      "album": {
         "name": "Fever Pitch (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Ztl5FTTZoyafzQihqAx7N"
       },
@@ -433,7 +721,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169160,
       "name": "Dirty Water",
       "url": "https://open.spotify.com/track/4z17FY23Bi8bt3n0TXA6SS"
@@ -495,7 +783,7 @@
     {
       "album": {
         "name": "Fifth Dimension",
-        "url": "https://open.spotify.com/album/1MpYGjBsBZm2wW8fvf10OO"
+        "url": "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb"
       },
       "artists": [
         {
@@ -506,6 +794,24 @@
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214640,
+      "name": "Eight Miles High",
+      "url": "https://open.spotify.com/track/2BGNomqCxEDcXyxf8bg27k"
+    },
+    {
+      "album": {
+        "name": "Fifth Dimension",
+        "url": "https://open.spotify.com/album/1MpYGjBsBZm2wW8fvf10OO"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 214640,
       "name": "Eight Miles High",
       "url": "https://open.spotify.com/track/5v3utF8InHZKd8JZJK5rCx"
@@ -523,10 +829,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163693,
       "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
       "url": "https://open.spotify.com/track/0bHm2wFL0m7qZIlhO7PQu5"
+    },
+    {
+      "album": {
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
+      },
+      "artists": [
+        {
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163693,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
     },
     {
       "album": {
@@ -549,7 +873,7 @@
     {
       "album": {
         "name": "Fear",
-        "url": "https://open.spotify.com/album/7svnpn58q7L0luZtfESIct"
+        "url": "https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC"
       },
       "artists": [
         {
@@ -560,6 +884,24 @@
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232840,
+      "name": "Fear Is A Man's Best Friend",
+      "url": "https://open.spotify.com/track/3v19aK0OgDXN1M1KAliHV3"
+    },
+    {
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/7svnpn58q7L0luZtfESIct"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 232840,
       "name": "Fear Is A Man's Best Friend",
       "url": "https://open.spotify.com/track/7MwS3c5ON45nPKSXhkHmiL"
@@ -613,10 +955,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 335760,
       "name": "Garbage",
       "url": "https://open.spotify.com/track/2F4xuLgJ5QNKrKqzDbFY6k"
+    },
+    {
+      "album": {
+        "name": "Ptooff!",
+        "url": "https://open.spotify.com/album/3PwEtrudVZSXxoGhpU4hLc"
+      },
+      "artists": [
+        {
+          "name": "The Deviants",
+          "url": "https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335760,
+      "name": "Garbage",
+      "url": "https://open.spotify.com/track/49BjmWGLBxcZaoEddAzv9U"
     },
     {
       "album": {
@@ -631,10 +991,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136880,
       "name": "Get Yourself Home",
       "url": "https://open.spotify.com/track/3wjJ0IA1UELQ2V5BzM6r2K"
+    },
+    {
+      "album": {
+        "name": "The Pretty Things (Remastered)",
+        "url": "https://open.spotify.com/album/2y4spnYViVnOtvdRLakH4q"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135026,
+      "name": "Get Yourself Home - Remastered",
+      "url": "https://open.spotify.com/track/1I6z0Y0PBQvDPJUmsV8Uk4"
     },
     {
       "album": {
@@ -671,10 +1049,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199453,
       "name": "God Save The Queen",
       "url": "https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1"
+    },
+    {
+      "album": {
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200080,
+      "name": "God Save the Queen",
+      "url": "https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195"
     },
     {
       "album": {
@@ -689,10 +1085,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 110123,
       "name": "Great Balls of Fire",
       "url": "https://open.spotify.com/track/1qSOwyNVDz8ISCrMdFQmUK"
+    },
+    {
+      "album": {
+        "name": "Jerry Lee's Greatest",
+        "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111535,
+      "name": "Great Balls Of Fire",
+      "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
     },
     {
       "album": {
@@ -714,8 +1128,8 @@
     },
     {
       "album": {
-        "name": "NEU! 75",
-        "url": "https://open.spotify.com/album/62YsjwC3eodgWmuQNCqjbs"
+        "name": "Neu! 75",
+        "url": "https://open.spotify.com/album/5WvkGu24ipDKjOFzlXsDIy"
       },
       "artists": [
         {
@@ -728,7 +1142,43 @@
       "date_removed": null,
       "duration_ms": 431760,
       "name": "Hero",
+      "url": "https://open.spotify.com/track/3MBImoJoOnqCyzW3L4WKfK"
+    },
+    {
+      "album": {
+        "name": "NEU! 75",
+        "url": "https://open.spotify.com/album/62YsjwC3eodgWmuQNCqjbs"
+      },
+      "artists": [
+        {
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 431760,
+      "name": "Hero",
       "url": "https://open.spotify.com/track/7o8wSWLWRykiHad3c6wTsH"
+    },
+    {
+      "album": {
+        "name": "Bo Diddley",
+        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130173,
+      "name": "Hey! Bo Diddley",
+      "url": "https://open.spotify.com/track/0Stq0NVgLIXyrAN5tLvyIt"
     },
     {
       "album": {
@@ -743,7 +1193,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 131120,
       "name": "Hey! Bo Diddley",
       "url": "https://open.spotify.com/track/5sJspQ16H1ro4SQJpJ7eVP"
@@ -779,10 +1229,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224866,
       "name": "Holiday In Cambodia",
       "url": "https://open.spotify.com/track/0uzyN8QWbPGpOQLAXh27El"
+    },
+    {
+      "album": {
+        "name": "Give Me Convenience or Give Me Death",
+        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb"
     },
     {
       "album": {
@@ -822,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "My Generation (50th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125320,
+      "name": "I Can't Explain - Mono Version",
+      "url": "https://open.spotify.com/track/4B3gkbr7aGC2sujjgivK0s"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/23W2qtQDqASXPMsBXYpTY0"
       },
@@ -833,7 +1319,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 125933,
       "name": "I Can't Explain - Original Mono Version",
       "url": "https://open.spotify.com/track/0xGTPWVlPZ1oNx2z0XZOXK"
@@ -869,10 +1355,28 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177146,
       "name": "I Had Too Much to Dream (Last Night)",
       "url": "https://open.spotify.com/track/7Fz4uqfZNhhtqItTVGibiZ"
+    },
+    {
+      "album": {
+        "name": "I Had Too Much To Dream (Last Night)",
+        "url": "https://open.spotify.com/album/1k3ldWSHD1BwUVHGiFMhyw"
+      },
+      "artists": [
+        {
+          "name": "The Electric Prunes",
+          "url": "https://open.spotify.com/artist/1kkpNi8Ii5MhBMxmUhN5g9"
+        }
+      ],
+      "date_added": "2019-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179173,
+      "name": "I Had Too Much to Dream (Last Night)",
+      "url": "https://open.spotify.com/track/5YgCmkSdGukXqK3fJlX4pQ"
     },
     {
       "album": {
@@ -930,6 +1434,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Spencer Davis Group",
+        "url": "https://open.spotify.com/album/6hWcuAd9vwJ0Dqbobj3ksb"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "date_added": "2019-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171826,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/1oXq63OUf43LDnNPVtfvX8"
+    },
+    {
+      "album": {
         "name": "Revolutions: The Very Best Of Steve Winwood (Deluxe)",
         "url": "https://open.spotify.com/album/15WGSWBIZeuuhHwL3jZRB1"
       },
@@ -941,10 +1463,28 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177000,
       "name": "I'm A Man - Remastered 2010",
       "url": "https://open.spotify.com/track/4tTDkb24puZu7XEAi352ea"
+    },
+    {
+      "album": {
+        "name": "Love It to Death",
+        "url": "https://open.spotify.com/album/6p7jHbG5Bd6z2JgfKx0um7"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180760,
+      "name": "I'm Eighteen",
+      "url": "https://open.spotify.com/track/3YU9X8ryOR20beT7wOlDIJ"
     },
     {
       "album": {
@@ -959,7 +1499,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178266,
       "name": "I'm Eighteen - 2004 Remaster",
       "url": "https://open.spotify.com/track/1iNzWnJ8wbRxaCJoQz7E2r"
@@ -977,10 +1517,28 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134906,
       "name": "I'm Five Years Ahead of My Time",
       "url": "https://open.spotify.com/track/1pS5b7vdEMS4fP1KLfgH1B"
+    },
+    {
+      "album": {
+        "name": "I'm Five Years Ahead of My Time",
+        "url": "https://open.spotify.com/album/4m178B3EPDzMyOrrJvFS7u"
+      },
+      "artists": [
+        {
+          "name": "The Third Bardo",
+          "url": "https://open.spotify.com/artist/6SdO3dLXggmHcby5EkO06o"
+        }
+      ],
+      "date_added": "2019-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136293,
+      "name": "I'm Five Years Ahead of My Time",
+      "url": "https://open.spotify.com/track/15g66KeELSbN00rFTweCj8"
     },
     {
       "album": {
@@ -995,10 +1553,32 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212826,
       "name": "I'm Stranded",
       "url": "https://open.spotify.com/track/6pXcyjABZyf6LKzL4wsj9k"
+    },
+    {
+      "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279520,
+      "name": "I'm Waiting For The Man",
+      "url": "https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb"
     },
     {
       "album": {
@@ -1017,7 +1597,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 279520,
       "name": "I'm Waiting For The Man - Album Version (Stereo)",
       "url": "https://open.spotify.com/track/2J9GLqNATExevUPvpLU1Sl"
@@ -1035,10 +1615,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 115466,
       "name": "It Always Happens That Way",
       "url": "https://open.spotify.com/track/4H0fPa3bp1ldqzGu8AlPjD"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/6wXrXe2x2ADL77uOTc74Ai"
+      },
+      "artists": [
+        {
+          "name": "The Shadows Of Knight",
+          "url": "https://open.spotify.com/artist/0NRN3tnDVDspHMCfyu2ZwT"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115466,
+      "name": "It Always Happens That Way",
+      "url": "https://open.spotify.com/track/4fCMCtKSyRR28liwEjyXjE"
     },
     {
       "album": {
@@ -1053,10 +1651,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 92506,
       "name": "Judy Is a Punk - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/6tPbPginayIN9JdF3r7hB1"
+    },
+    {
+      "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92480,
+      "name": "Judy Is a Punk - 2016 Remaster",
+      "url": "https://open.spotify.com/track/0vGCxnTwYZFtOAW3oz28kd"
     },
     {
       "album": {
@@ -1071,10 +1687,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222893,
       "name": "Keys to Your Heart",
       "url": "https://open.spotify.com/track/0cF4mPq0ySXYCH7m46jAEj"
+    },
+    {
+      "album": {
+        "name": "1976",
+        "url": "https://open.spotify.com/album/1w48oXvH0uzNyT0Hd41hHX"
+      },
+      "artists": [
+        {
+          "name": "The 101ers",
+          "url": "https://open.spotify.com/artist/75s7RfViwIXirjnRYkZWPe"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224026,
+      "name": "Keys to Your Heart",
+      "url": "https://open.spotify.com/track/3RPEwWIjRxT7KUGWqgFQYL"
     },
     {
       "album": {
@@ -1111,10 +1745,46 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165160,
       "name": "Let's Get Rid Of NY",
       "url": "https://open.spotify.com/track/3Ldz1pcrj30VCRoOXVC9re"
+    },
+    {
+      "album": {
+        "name": "Dangerhouse Volume 1",
+        "url": "https://open.spotify.com/album/0kXuX7WWmaEdzWEWJZe4Up"
+      },
+      "artists": [
+        {
+          "name": "The Randoms",
+          "url": "https://open.spotify.com/artist/6aLIWRGgvsrm94qX115y7A"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165160,
+      "name": "Let's Get Rid of NY",
+      "url": "https://open.spotify.com/track/4fARQCeCWUSTczkSqUVP9t"
+    },
+    {
+      "album": {
+        "name": "K-tel Classics",
+        "url": "https://open.spotify.com/album/69o0aD5JujCAdMRDHuJNLo"
+      },
+      "artists": [
+        {
+          "name": "Castaways",
+          "url": "https://open.spotify.com/artist/786h0FfIRozE9pD7pNxcGq"
+        }
+      ],
+      "date_added": "2019-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110493,
+      "name": "Liar, Liar",
+      "url": "https://open.spotify.com/track/25wihqbcZQksW4o8G35acQ"
     },
     {
       "album": {
@@ -1129,7 +1799,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 110493,
       "name": "Liar, Liar",
       "url": "https://open.spotify.com/track/3VOS2LMDQT1t7CjoiQWRqW"
@@ -1208,6 +1878,24 @@
     },
     {
       "album": {
+        "name": "Everyday is Saturday",
+        "url": "https://open.spotify.com/album/28y60a1qw2DwL2kMlUv3Fx"
+      },
+      "artists": [
+        {
+          "name": "The Dictators",
+          "url": "https://open.spotify.com/artist/2Ohpu0UE5PFDgfhUxEi0Fy"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251040,
+      "name": "Master Race Rock",
+      "url": "https://open.spotify.com/track/2DFY5Iti8OjcTo8xOkhMmQ"
+    },
+    {
+      "album": {
         "name": "Every Day Is Saturday",
         "url": "https://open.spotify.com/album/1j8Px7Mo5PJI2cOteLcMJj"
       },
@@ -1219,7 +1907,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251040,
       "name": "Master Race Rock",
       "url": "https://open.spotify.com/track/3vFk6NHuQUphZWGT898pEO"
@@ -1237,10 +1925,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197773,
       "name": "My Generation - Original Mono Version",
       "url": "https://open.spotify.com/track/40bvnVS14b2gF3ZfiTKPAf"
+    },
+    {
+      "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "My Generation - Stereo Version",
+      "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
     },
     {
       "album": {
@@ -1262,6 +1968,24 @@
     },
     {
       "album": {
+        "name": "For LP Fans Only",
+        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144946,
+      "name": "Mystery Train",
+      "url": "https://open.spotify.com/track/0GvhHQbWSnGltjl0je61dI"
+    },
+    {
+      "album": {
         "name": "Elvis Presley",
         "url": "https://open.spotify.com/album/3cBF8vmBET0RxM69opKoNN"
       },
@@ -1273,10 +1997,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151280,
       "name": "Mystery Train",
       "url": "https://open.spotify.com/track/0K2wyTHoDRFiXy8y2N4Xo6"
+    },
+    {
+      "album": {
+        "name": "Meet The Residents",
+        "url": "https://open.spotify.com/album/4qM5MEMdIXr7p7734QEeB0"
+      },
+      "artists": [
+        {
+          "name": "The Residents",
+          "url": "https://open.spotify.com/artist/0X7nkgtJrvXcn1W8lN9Mtm"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 587773,
+      "name": "N-ER-GEE (Crisis Blues)",
+      "url": "https://open.spotify.com/track/4p7nN4R9w5hxDwJGz2xkjX"
     },
     {
       "album": {
@@ -1291,7 +2033,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 587773,
       "name": "N-ER-GEE (Crisis Blues)",
       "url": "https://open.spotify.com/track/6M8T5kQb4vyVzncxF3HoHa"
@@ -1345,10 +2087,28 @@
       ],
       "date_added": "2020-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169706,
       "name": "Night of the Vampire",
       "url": "https://open.spotify.com/track/2NvTtRTLmXuiYZLskpXREv"
+    },
+    {
+      "album": {
+        "name": "100 Rockin\u2019 Instrumentals - \u201850s & \u201860s",
+        "url": "https://open.spotify.com/album/0pHJOnCMLl0u6ywvaar64L"
+      },
+      "artists": [
+        {
+          "name": "The Moontrekkers",
+          "url": "https://open.spotify.com/artist/68tbCkKG4XXBXCr1nuWX0Y"
+        }
+      ],
+      "date_added": "2020-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171373,
+      "name": "Night of the Vampire",
+      "url": "https://open.spotify.com/track/3cFAVjQU2q3vX3l0omsx5h"
     },
     {
       "album": {
@@ -1442,6 +2202,24 @@
     },
     {
       "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "Paint It, Black",
+      "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
+    },
+    {
+      "album": {
         "name": "GRRR! (Deluxe Version)",
         "url": "https://open.spotify.com/album/3LcLR5Mpdj6C5jiaReLvDt"
       },
@@ -1453,7 +2231,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203053,
       "name": "Paint It, Black",
       "url": "https://open.spotify.com/track/1Kvjmr2oqZjzhryoEKzqij"
@@ -1471,10 +2249,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167933,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/3L8WgDYS5TtwbyxOPSAiFf"
+    },
+    {
+      "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168405,
+      "name": "Paranoid - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
     },
     {
       "album": {
@@ -1532,6 +2328,24 @@
     },
     {
       "album": {
+        "name": "Psychotic Reaction",
+        "url": "https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA"
+      },
+      "artists": [
+        {
+          "name": "Count Five",
+          "url": "https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185523,
+      "name": "Psychotic Reaction",
+      "url": "https://open.spotify.com/track/5JcaA4A9ZoXthwEnxOxWvP"
+    },
+    {
+      "album": {
         "name": "Psychotic Reaction (Digitally Remastered)",
         "url": "https://open.spotify.com/album/7EEAkhDXM32FW4yCxY0L8v"
       },
@@ -1543,7 +2357,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188346,
       "name": "Psychotic Reaction",
       "url": "https://open.spotify.com/track/2SFV0zV02esGa8ZsqCy3u6"
@@ -1597,10 +2411,46 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269360,
       "name": "Rebel Rebel - 1999 Remaster",
       "url": "https://open.spotify.com/track/66lOpKgTyFjOrac4S1s94g"
+    },
+    {
+      "album": {
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
+    },
+    {
+      "album": {
+        "name": "Revenge / I'm in Need",
+        "url": "https://open.spotify.com/album/6Pedbdxv8nEaQfdM4IkYqk"
+      },
+      "artists": [
+        {
+          "name": "The Others",
+          "url": "https://open.spotify.com/artist/5zSQQxDwEPGOXIcjdbuhWz"
+        }
+      ],
+      "date_added": "2017-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120253,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/5M3RDLWElgOJY1DC5KBrdY"
     },
     {
       "album": {
@@ -1615,10 +2465,28 @@
       ],
       "date_added": "2017-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 120253,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/6bnV2qC1Gz56bTHg1kOzxw"
+    },
+    {
+      "album": {
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141400,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
     },
     {
       "album": {
@@ -1633,10 +2501,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142360,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/2YPkxN780ffjJFXGIPdROg"
+    },
+    {
+      "album": {
+        "name": "Jonathan Richman & The Modern Lovers (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58yLg31JUVwWoaiqD727YX"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Richman & The Modern Lovers",
+          "url": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284413,
+      "name": "Roadrunner (Once)",
+      "url": "https://open.spotify.com/track/48iefvWUrp8dYGciSt4oz5"
     },
     {
       "album": {
@@ -1651,7 +2537,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283026,
       "name": "Roadrunner (Once)",
       "url": "https://open.spotify.com/track/4m8Uj8yu78liS57VosLtr1"
@@ -1669,10 +2555,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146480,
       "name": "Rough Kids",
       "url": "https://open.spotify.com/track/5jRDGBWqxIQJ3jTE5kxwWO"
+    },
+    {
+      "album": {
+        "name": "Handsome (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/3UB63Gv6n5Aj5keynEbLCv"
+      },
+      "artists": [
+        {
+          "name": "Kilburn & The High Roads",
+          "url": "https://open.spotify.com/artist/3I97dteSoWkFBMy7C2TGSH"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146480,
+      "name": "Rough Kids",
+      "url": "https://open.spotify.com/track/6YFEfaiIMGFAJsJHbLSLUF"
     },
     {
       "album": {
@@ -1687,10 +2591,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144653,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/0pxThPQcINQ8bBGFGYMwAD"
+    },
+    {
+      "album": {
+        "name": "Rumble / The Swag",
+        "url": "https://open.spotify.com/album/70hzJHg6pWndTe9lm4SZVB"
+      },
+      "artists": [
+        {
+          "name": "Link Wray & The Wraymen",
+          "url": "https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147693,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/5W45ACJYATjWEwUDYM5TDi"
     },
     {
       "album": {
@@ -1709,10 +2631,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207306,
       "name": "Search And Destroy",
       "url": "https://open.spotify.com/track/14JJisJPl27K4OE2zeRqgX"
+    },
+    {
+      "album": {
+        "name": "Raw Power",
+        "url": "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
+      },
+      "artists": [
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208133,
+      "name": "Search and Destroy - Iggy Pop Mix",
+      "url": "https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi"
     },
     {
       "album": {
@@ -1781,10 +2721,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145960,
       "name": "Shapes Of Things",
       "url": "https://open.spotify.com/track/3xYMN0fbQkyJfofjsufO7b"
+    },
+    {
+      "album": {
+        "name": "Shapes of Things (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3meFfjNEebexMTZOqT0Dx5"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145960,
+      "name": "Shapes of Things - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4OjqrdD3QILzxkGwNoMk0c"
     },
     {
       "album": {
@@ -1835,10 +2793,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141840,
       "name": "She's About A Mover",
       "url": "https://open.spotify.com/track/5r1hcMaYg7ECRPu1DYhHSz"
+    },
+    {
+      "album": {
+        "name": "Walking the Streets",
+        "url": "https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV"
+      },
+      "artists": [
+        {
+          "name": "Sir Douglas Quintet",
+          "url": "https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "She's About a Mover",
+      "url": "https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx"
     },
     {
       "album": {
@@ -1871,10 +2847,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 277786,
       "name": "Silver Machine",
       "url": "https://open.spotify.com/track/2xTF1DGbD8uQzsjaTZgcRq"
+    },
+    {
+      "album": {
+        "name": "In Search of Space",
+        "url": "https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI"
+      },
+      "artists": [
+        {
+          "name": "Hawkwind",
+          "url": "https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279973,
+      "name": "Silver Machine - Live at the Roundhouse London; 1996 Remaster",
+      "url": "https://open.spotify.com/track/73HSIWZlSCfs4tqVkrGv7H"
     },
     {
       "album": {
@@ -1914,6 +2908,24 @@
     },
     {
       "album": {
+        "name": "Vol. 3",
+        "url": "https://open.spotify.com/album/0RdfMFaUK1XWnv2ELNvZoh"
+      },
+      "artists": [
+        {
+          "name": "The Easybeats",
+          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/1N7VlZoWl5EIa3XG2nK1tO"
+    },
+    {
+      "album": {
         "name": "The Definitive Anthology",
         "url": "https://open.spotify.com/album/047Y4MlAooCoP0gfPd5AuC"
       },
@@ -1925,7 +2937,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156160,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/31imY3UpHna3fB9fQ2PAgp"
@@ -1943,10 +2955,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134026,
       "name": "Sound System",
       "url": "https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22"
+    },
+    {
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "album": {
@@ -1969,7 +2999,7 @@
     {
       "album": {
         "name": "The End Of The Beginning - (The Best Of Eddie & The Hot Rods)",
-        "url": "https://open.spotify.com/album/5kwSz1PPyUBd7TYlEiEuat"
+        "url": "https://open.spotify.com/album/2J8onP9yFveWx7Mn7EwBfC"
       },
       "artists": [
         {
@@ -1980,6 +3010,24 @@
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 175933,
+      "name": "Teenage Depression",
+      "url": "https://open.spotify.com/track/0VV498qECyqHWwb23RDuhz"
+    },
+    {
+      "album": {
+        "name": "The End Of The Beginning - (The Best Of Eddie & The Hot Rods)",
+        "url": "https://open.spotify.com/album/5kwSz1PPyUBd7TYlEiEuat"
+      },
+      "artists": [
+        {
+          "name": "Eddie & The Hot Rods",
+          "url": "https://open.spotify.com/artist/70e4IgnWAQfPPxKnD9jXDr"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 175933,
       "name": "Teenage Depression",
       "url": "https://open.spotify.com/track/7dsMOzSf7y5Q04nhlAFCtG"
@@ -1997,10 +3045,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145066,
       "name": "Teenage Letter",
       "url": "https://open.spotify.com/track/1A17xi4lkhWnZIVXLx6xhk"
+    },
+    {
+      "album": {
+        "name": "Speedball + 11",
+        "url": "https://open.spotify.com/album/4At1afOBdgwIBjhfnt9fn6"
+      },
+      "artists": [
+        {
+          "name": "The Count Bishops",
+          "url": "https://open.spotify.com/artist/4rNzIp3XJoUx0AEERcrUfH"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145066,
+      "name": "Teenage Letter",
+      "url": "https://open.spotify.com/track/6lZFCqICE5xJvccuEBiH03"
     },
     {
       "album": {
@@ -2015,10 +3081,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 115560,
       "name": "The Girl Can't Dance",
       "url": "https://open.spotify.com/track/3upmYFn6LkTOrXc9w44V98"
+    },
+    {
+      "album": {
+        "name": "Friday Night Dance Party / The Girl Can't Dance",
+        "url": "https://open.spotify.com/album/0BDMnLW86ujxKJzMbEm2tf"
+      },
+      "artists": [
+        {
+          "name": "Bunker Hill",
+          "url": "https://open.spotify.com/artist/3nIGepMX8QBQDhmX14yOka"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115560,
+      "name": "The Girl Can't Dance",
+      "url": "https://open.spotify.com/track/4GaCV1wVlwKBWfauxPUKzw"
     },
     {
       "album": {
@@ -2033,10 +3117,46 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 303946,
       "name": "The Hot City Symphony, Pt. 1: Vambo",
       "url": "https://open.spotify.com/track/1SHENw0H7rT1Xc5kPqXvcC"
+    },
+    {
+      "album": {
+        "name": "The Impossible Dream (Remastered 2002)",
+        "url": "https://open.spotify.com/album/04nw8UHJN4CmQX06dtuwHc"
+      },
+      "artists": [
+        {
+          "name": "The Sensational Alex Harvey Band",
+          "url": "https://open.spotify.com/artist/7wug9iQ1abMCrKk87LlJce"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303946,
+      "name": "The Hot City Symphony, Pt. 1: Vambo",
+      "url": "https://open.spotify.com/track/4gj2I26rXVXPwecklLODp9"
+    },
+    {
+      "album": {
+        "name": "Back To The Country",
+        "url": "https://open.spotify.com/album/6UKOMdWgTgIgCRaKELLLuc"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "The Pill",
+      "url": "https://open.spotify.com/track/1MNglZC5cC2oOqFVzZg2Vg"
     },
     {
       "album": {
@@ -2051,10 +3171,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158946,
       "name": "The Pill",
       "url": "https://open.spotify.com/track/0eBCRXGMo7lsPcseRTxL5x"
+    },
+    {
+      "album": {
+        "name": "Johnny Burnette And The Rock 'N Roll Trio",
+        "url": "https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burnette & The Rock 'N' Roll Trio",
+          "url": "https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139453,
+      "name": "The Train Kept A Rollin'",
+      "url": "https://open.spotify.com/track/7s8spWIA65WP6vG18bXDP1"
     },
     {
       "album": {
@@ -2069,10 +3207,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 139080,
       "name": "The Train Kept A-Rollin`",
       "url": "https://open.spotify.com/track/4OQbh4qOenQK4gp4e65FZ0"
+    },
+    {
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188306,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
     },
     {
       "album": {
@@ -2087,7 +3243,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188306,
       "name": "Trash",
       "url": "https://open.spotify.com/track/2iZHbEXfRYmvZ3op4WgkTW"
@@ -2131,7 +3287,7 @@
     {
       "album": {
         "name": "Silver Apples",
-        "url": "https://open.spotify.com/album/5A97TajaqQcTwiuFw3mZKt"
+        "url": "https://open.spotify.com/album/56svbYsvhdgiUo1Mlriaya"
       },
       "artists": [
         {
@@ -2142,6 +3298,24 @@
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206426,
+      "name": "Velvet Cave",
+      "url": "https://open.spotify.com/track/1PFOqZRb36rowETx4faTeu"
+    },
+    {
+      "album": {
+        "name": "Silver Apples",
+        "url": "https://open.spotify.com/album/5A97TajaqQcTwiuFw3mZKt"
+      },
+      "artists": [
+        {
+          "name": "Silver Apples",
+          "url": "https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 206426,
       "name": "Velvet Cave",
       "url": "https://open.spotify.com/track/2VO948OpEuSy2qbEHdLtSw"
@@ -2177,10 +3351,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 608440,
       "name": "Waiting For The Streetcar",
       "url": "https://open.spotify.com/track/2cVnBwZdjraLEUSLYOAqA6"
+    },
+    {
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/6sSNM2yGp1jPKUEwhPldmm"
+      },
+      "artists": [
+        {
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 608440,
+      "name": "Waiting For The Streetcar",
+      "url": "https://open.spotify.com/track/6gmlEyFDUFti5HBHLdSJSt"
     },
     {
       "album": {
@@ -2213,10 +3405,46 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 116893,
       "name": "What'Cha Gonna Do About It",
       "url": "https://open.spotify.com/track/5UvKIFS3OCmwQ0WYiPUmQi"
+    },
+    {
+      "album": {
+        "name": "The Small Faces",
+        "url": "https://open.spotify.com/album/56tQ2ATbM60lD1YZ74mkEA"
+      },
+      "artists": [
+        {
+          "name": "Small Faces",
+          "url": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117266,
+      "name": "What'Cha Gonna Do About It",
+      "url": "https://open.spotify.com/track/7j28MOpTJKGFms9xGhxOVf"
+    },
+    {
+      "album": {
+        "name": "A Kaleidoscope Of Sounds: Psychedelic & Freakbeat Masterpieces",
+        "url": "https://open.spotify.com/album/6P6z0DqNsZkdZchfwVV2jJ"
+      },
+      "artists": [
+        {
+          "name": "The Eyes",
+          "url": "https://open.spotify.com/artist/1MsWhV0mqxO3UWojTQ6YNt"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152640,
+      "name": "When The Night Falls",
+      "url": "https://open.spotify.com/track/5dpFnBQEub59DfUnW95dYa"
     },
     {
       "album": {
@@ -2231,7 +3459,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156551,
       "name": "When the Night Falls",
       "url": "https://open.spotify.com/track/2sezHFJfyN51QjcG7gRecN"
@@ -2267,10 +3495,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165720,
       "name": "White Light/White Heat",
       "url": "https://open.spotify.com/track/3EN2eZgSBLW2f5YRLryKyK"
+    },
+    {
+      "album": {
+        "name": "White Light / White Heat",
+        "url": "https://open.spotify.com/album/0HHmJpwOXXRJu9HI9iQiEO"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167653,
+      "name": "White Light/White Heat",
+      "url": "https://open.spotify.com/track/0Evhu0dKCkIuEn88Pmb9mj"
     },
     {
       "album": {
@@ -2292,6 +3538,24 @@
     },
     {
       "album": {
+        "name": "From Nowhere",
+        "url": "https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2"
+      },
+      "artists": [
+        {
+          "name": "The Troggs",
+          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155333,
+      "name": "Wild Thing",
+      "url": "https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8"
+    },
+    {
+      "album": {
         "name": "60s Classics",
         "url": "https://open.spotify.com/album/3w6MFLPPc56ilMeY4zwoim"
       },
@@ -2303,7 +3567,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164573,
       "name": "Wild Thing (Re-Recorded)",
       "url": "https://open.spotify.com/track/695D3IeuIXeUHX2RUlnfQp"
@@ -2347,7 +3611,7 @@
     {
       "album": {
         "name": "Hot Cargo",
-        "url": "https://open.spotify.com/album/5RpVoSspITLRt2aotNxaae"
+        "url": "https://open.spotify.com/album/3EyzNZQOjGbU65Yo73fA3w"
       },
       "artists": [
         {
@@ -2358,6 +3622,24 @@
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172948,
+      "name": "You, I",
+      "url": "https://open.spotify.com/track/0POr3VPOV0nCahmv1TMx1D"
+    },
+    {
+      "album": {
+        "name": "Hot Cargo",
+        "url": "https://open.spotify.com/album/5RpVoSspITLRt2aotNxaae"
+      },
+      "artists": [
+        {
+          "name": "The Rugbys",
+          "url": "https://open.spotify.com/artist/59GyfaB3VI1MgsGxuX4MMf"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 176853,
       "name": "You, I",
       "url": "https://open.spotify.com/track/0ykxLvBK8dKITVgz8jlST6"

@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-26",
       "duration_ms": 192539,
       "name": "AF-1",
       "url": "https://open.spotify.com/track/3qYWRdz5jsoKVoQBLoqsad"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 200345,
       "name": "Approved",
       "url": "https://open.spotify.com/track/5hdBHCI7aWHeth2hS7jSSi"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 189833,
       "name": "Beibi",
       "url": "https://open.spotify.com/track/6aguaDgP2NVtL3w2DK2IdR"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 183200,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/0kHS60aDOHYi4Z6W1HvP0o"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182458,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/5F5d2SNc5MiJd0XZ4R6G4q"
@@ -1033,7 +1033,7 @@
           "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
         },
         {
-          "name": "Tego Calderon",
+          "name": "Tego Calder\u00f3n",
           "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 199071,
       "name": "Change",
       "url": "https://open.spotify.com/track/6pUudPr28BeTZJVZu3QUuh"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141320,
       "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
       "url": "https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 201615,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/0Xp2Hub20w8MRxNMXNthtP"
@@ -1793,10 +1793,28 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182435,
       "name": "El Mundo Es Tuyo",
       "url": "https://open.spotify.com/track/2XMLQxLX3FQZ7veKYIKumh"
+    },
+    {
+      "album": {
+        "name": "El Mundo Es Tuyo",
+        "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182435,
+      "name": "El Mundo Es Tuyo",
+      "url": "https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD"
     },
     {
       "album": {
@@ -2481,10 +2499,32 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159322,
       "name": "Get Money",
       "url": "https://open.spotify.com/track/1GHm53pGbnQF6sXQgota78"
+    },
+    {
+      "album": {
+        "name": "Get Money",
+        "url": "https://open.spotify.com/album/2k4cBntVyNcN7IQJf4Gy35"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159322,
+      "name": "Get Money",
+      "url": "https://open.spotify.com/track/7uPDRSd1sVwlmEy5T1cv2R"
     },
     {
       "album": {
@@ -2776,7 +2816,7 @@
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 151181,
+      "duration_ms": 148550,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7IGqGtE73ZXulcqHqjIT6s"
     },
@@ -3391,7 +3431,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 120876,
-      "name": "La Calle (feat. Tyan G)",
+      "name": "La Calle",
       "url": "https://open.spotify.com/track/4ZuNWxqAfhnb3xqPRTsMSr"
     },
     {
@@ -4473,7 +4513,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-25",
       "duration_ms": 194986,
       "name": "No Me Quieres",
       "url": "https://open.spotify.com/track/0HQkH8aRRdi4JgUsgzQaxb"
@@ -5039,7 +5079,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 262000,
       "name": "Problem\u00e1tico",
       "url": "https://open.spotify.com/track/3D3ek5Ts78bkWEopL6zIjv"
@@ -5061,7 +5101,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 262000,
       "name": "Problem\u00e1tico",
       "url": "https://open.spotify.com/track/6mDxG6lF6qQNxl0sv4UnZh"
@@ -6007,7 +6047,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 217952,
       "name": "Sprite",
       "url": "https://open.spotify.com/track/6ZJclxPNQ7ENAKLanZwQRu"
@@ -6165,7 +6205,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 133608,
       "name": "Te Puedes Ir",
       "url": "https://open.spotify.com/track/64qsBROctLmslDLwTZS6eA"
@@ -6585,7 +6625,7 @@
       },
       "artists": [
         {
-          "name": "Adan Cruz",
+          "name": "Ad\u00e1n Cruz",
           "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
         },
         {

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 165333,
       "name": "(So Glad I'm) Yours",
       "url": "https://open.spotify.com/track/717Mself5i3vyfmsLkIkbC"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-10-01",
       "duration_ms": 188866,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6eIdVrBE1hHBIIsH9sDFdO"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-09-22",
       "duration_ms": 155773,
       "name": "Check Yourself",
       "url": "https://open.spotify.com/track/3IARZce25CgZx1t4SRgtvj"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 167346,
       "name": "Good for Me Girl",
       "url": "https://open.spotify.com/track/6G35hmpi3ArSvW1RXud03x"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 116050,
       "name": "Harold Melvin's Blue Notes Band Introduction With MC - Live",
       "url": "https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 166133,
       "name": "I Didn't Know",
       "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
@@ -609,10 +609,28 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": "2022-09-02",
       "duration_ms": 165813,
       "name": "I'm Glad Your're My Girl",
       "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
+    },
+    {
+      "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 136986,
+      "name": "I've Got Love for You",
+      "url": "https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc"
     },
     {
       "album": {
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 224118,
       "name": "If You Don't Know Me By Now - Live",
       "url": "https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-08-14",
       "duration_ms": 162266,
       "name": "It Must Be Love",
       "url": "https://open.spotify.com/track/1zBKJIhcErReXXjAW1YWrY"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-09-28",
       "duration_ms": 165280,
       "name": "Jack Be Nimble",
       "url": "https://open.spotify.com/track/3a9YIblicd1hdUlal06Sy1"
@@ -725,10 +743,46 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 139726,
       "name": "Just to Be",
       "url": "https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG"
+    },
+    {
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 130946,
+      "name": "Let Me In Your Mind",
+      "url": "https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh"
+    },
+    {
+      "album": {
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-01",
+      "duration_ms": 198026,
+      "name": "Lonely Lonely",
+      "url": "https://open.spotify.com/track/0RgjRcULI5LVchDNASRzEK"
     },
     {
       "album": {
@@ -797,7 +851,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-08-12",
       "duration_ms": 193133,
       "name": "One In a Million",
       "url": "https://open.spotify.com/track/5d8L74OY8ckIWzDL30RtHV"
@@ -1123,7 +1177,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": "2022-08-25",
       "duration_ms": 197026,
       "name": "What's Easy for Two Is so Hard for One",
       "url": "https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC"

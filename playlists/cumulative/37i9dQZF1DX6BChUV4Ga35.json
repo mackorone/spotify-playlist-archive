@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Animal Playtime",
+        "url": "https://open.spotify.com/album/7qLeFNZVZHv8hRXyoxVtxL"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124586,
+      "name": "10 Sleepy Pandas",
+      "url": "https://open.spotify.com/track/4wQmNZWej3NHi8XeQvy4mL"
+    },
+    {
+      "album": {
         "name": "Animal Songs",
         "url": "https://open.spotify.com/album/36tbGzLkVELzT9bF5SUus0"
       },
@@ -37,10 +55,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186080,
       "name": "ABC Animals",
       "url": "https://open.spotify.com/track/3kjsci8HHMLnxb9tE4UYes"
+    },
+    {
+      "album": {
+        "name": "ABC Animals",
+        "url": "https://open.spotify.com/album/0dTmSifdnozjzJwjJoTeVL"
+      },
+      "artists": [
+        {
+          "name": "Regurgitator's Pogogo Show",
+          "url": "https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186080,
+      "name": "ABC Animals",
+      "url": "https://open.spotify.com/track/45qqH36Ghr1SvKbT7wxrBn"
     },
     {
       "album": {
@@ -99,6 +135,28 @@
     {
       "album": {
         "name": "YolanDa's Band Jam",
+        "url": "https://open.spotify.com/album/5ao41Lw4krw6XAn8KI0jbc"
+      },
+      "artists": [
+        {
+          "name": "YolanDa",
+          "url": "https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq"
+        },
+        {
+          "name": "YolanDa Brown",
+          "url": "https://open.spotify.com/artist/4VGGxAkrs07Y4vyCdiaxq0"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176297,
+      "name": "Animal Bop",
+      "url": "https://open.spotify.com/track/1Y7maeiqIvifJbs5iP0NB2"
+    },
+    {
+      "album": {
+        "name": "YolanDa's Band Jam",
         "url": "https://open.spotify.com/album/5DTWvBeKgg8EQyfe8HM81s"
       },
       "artists": [
@@ -113,7 +171,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176297,
       "name": "Animal Bop",
       "url": "https://open.spotify.com/track/2rtZtv0vrlhfXIeQ7JSgne"
@@ -131,10 +189,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171804,
       "name": "Animal Dance Song",
       "url": "https://open.spotify.com/track/3MHXbXqDZOrVLupLxny45E"
+    },
+    {
+      "album": {
+        "name": "CoComelon Essentials",
+        "url": "https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz"
+      },
+      "artists": [
+        {
+          "name": "Cocomelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171804,
+      "name": "Animal Dance Song",
+      "url": "https://open.spotify.com/track/4FwDRTQdk1FmiVTCLLeeKn"
     },
     {
       "album": {
@@ -149,10 +225,46 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152022,
       "name": "Animal Sounds Song",
       "url": "https://open.spotify.com/track/1GZLVOiMleNK19yYOHSWTE"
+    },
+    {
+      "album": {
+        "name": "Blippi Tunes, Vol. 3",
+        "url": "https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152022,
+      "name": "Animal Sounds Song",
+      "url": "https://open.spotify.com/track/1Y6yUVFfvlWmkt9D227NAL"
+    },
+    {
+      "album": {
+        "name": "Animal Playtime",
+        "url": "https://open.spotify.com/album/7qLeFNZVZHv8hRXyoxVtxL"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125280,
+      "name": "Animal Sounds Song",
+      "url": "https://open.spotify.com/track/017JgLqh1BQMvhOYG4kRtQ"
     },
     {
       "album": {
@@ -215,6 +327,28 @@
     {
       "album": {
         "name": "Anthony Ant",
+        "url": "https://open.spotify.com/album/4TzcnrXjUlOhx4dWz1BI3i"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        },
+        {
+          "name": "Jack Gatto",
+          "url": "https://open.spotify.com/artist/37aejcbXF9L2MvRiK9jHJC"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77227,
+      "name": "Anthony Ant",
+      "url": "https://open.spotify.com/track/2eV2lqEUYEX8qnbKS0Vm3F"
+    },
+    {
+      "album": {
+        "name": "Anthony Ant",
         "url": "https://open.spotify.com/album/3PDuRyRoHmztocgORbCUT9"
       },
       "artists": [
@@ -229,10 +363,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 77227,
       "name": "Anthony Ant",
       "url": "https://open.spotify.com/track/5ZGAcHR3u41Poz8htUrIYT"
+    },
+    {
+      "album": {
+        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 2 - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/4TTk8j1G3pcHwtw6YXTjRs"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100909,
+      "name": "Ants Go Marching",
+      "url": "https://open.spotify.com/track/2DuVZNALyo1SpBrOOUB1RR"
     },
     {
       "album": {
@@ -247,7 +399,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 100909,
       "name": "Ants Go Marching",
       "url": "https://open.spotify.com/track/6gZI9dXzOHhs0G6JPUrwU8"
@@ -579,10 +731,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 91836,
       "name": "Counting Ducks Song",
       "url": "https://open.spotify.com/track/2Ec32B6l4fpntU6ZpcPb6A"
+    },
+    {
+      "album": {
+        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 3 - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/2wHrjY2KwfaFSKpZgnvILo"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91836,
+      "name": "Counting Ducks Song",
+      "url": "https://open.spotify.com/track/2XGBwiSqhsW9q8pW4AidEg"
     },
     {
       "album": {
@@ -615,10 +785,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 78750,
       "name": "Dogs",
       "url": "https://open.spotify.com/track/2RsQZgQHJw9hyd9QUGRu6Z"
+    },
+    {
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/74vPkTi3lT9XeI5lmiKSkr"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78750,
+      "name": "Dogs",
+      "url": "https://open.spotify.com/track/52YD3sS5nlxobEQMFIqHTQ"
     },
     {
       "album": {
@@ -759,10 +947,32 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196097,
       "name": "Horses",
       "url": "https://open.spotify.com/track/4gRZnsj0jNmToYbAYNccM2"
+    },
+    {
+      "album": {
+        "name": "Blippi Tunes, Vol. 1",
+        "url": "https://open.spotify.com/album/4y8tx8PVyNSMZAjVn6OblN"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Nicky Notes",
+          "url": "https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196097,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/34Bu6OvstZDD2jUJ7M4N9C"
     },
     {
       "album": {
@@ -813,10 +1023,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 31906,
       "name": "I'm A Cow",
       "url": "https://open.spotify.com/track/1WeI7KjHAp0X1vOPsNPFYO"
+    },
+    {
+      "album": {
+        "name": "Here Comes the Big Red Car",
+        "url": "https://open.spotify.com/album/576st95zAvurKHUNm6GWNA"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31906,
+      "name": "I'm a Cow",
+      "url": "https://open.spotify.com/track/1qFTAz02KIOglffJJ0R3wW"
     },
     {
       "album": {
@@ -921,10 +1149,50 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 126505,
       "name": "Moles, Hounds, Bears, Bees and Hares",
       "url": "https://open.spotify.com/track/4NbOutBgrVh1rSHfTSYICQ"
+    },
+    {
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126505,
+      "name": "Moles, Hounds, Bears, Bees and Hares",
+      "url": "https://open.spotify.com/track/1OKkJX79kSL5RYB0A0c5zi"
+    },
+    {
+      "album": {
+        "name": "The Wiggles Duets",
+        "url": "https://open.spotify.com/album/3hf0SPHZbOE9SUNpsnnJOU"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/5ohs9d8kIe6Hq5exybThql"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142278,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/0sju4xli0oRgqD92eRbt0H"
     },
     {
       "album": {
@@ -943,7 +1211,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142278,
       "name": "Monkey Man",
       "url": "https://open.spotify.com/track/2TiFPDD2YaO6Okmqo1ZncT"
@@ -965,10 +1233,32 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154440,
       "name": "Monkey Man",
       "url": "https://open.spotify.com/track/0qgQNwPyBYHt2W2KxzdBNO"
+    },
+    {
+      "album": {
+        "name": "Go Bananas!",
+        "url": "https://open.spotify.com/album/4z8pBmwm3gZ4akMRLbgq2j"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/5ohs9d8kIe6Hq5exybThql"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155146,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/4eQNRvoGOGJR8o7m4lLcBz"
     },
     {
       "album": {
@@ -987,10 +1277,32 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 106142,
       "name": "Och Aye G'Nu And Kangaroo",
       "url": "https://open.spotify.com/track/75Kw6pYjna6mSsqc10VW5S"
+    },
+    {
+      "album": {
+        "name": "Och Aye the G'nu!",
+        "url": "https://open.spotify.com/album/4WpAEhGY73DmyQfKXz9Liw"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Barnes",
+          "url": "https://open.spotify.com/artist/3M0F6AYQHWDhCmhR9HFSuP"
+        },
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106142,
+      "name": "Och Aye G'nu and Kangaroo",
+      "url": "https://open.spotify.com/track/7HQIETls4DLjPePUrewFC8"
     },
     {
       "album": {
@@ -1077,10 +1389,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 44299,
       "name": "Panda",
       "url": "https://open.spotify.com/track/1jmJZ6zmmonqdjE0ts9kV6"
+    },
+    {
+      "album": {
+        "name": "The Secret Life Of Pets 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6v3cV4buefnvRAVq3WzAIE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Hart",
+          "url": "https://open.spotify.com/artist/3rHl3rSgCnHhOlVB87ZxyF"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44299,
+      "name": "Panda",
+      "url": "https://open.spotify.com/track/5U51BJU0ncHHsLw9raErsS"
     },
     {
       "album": {
@@ -1149,10 +1479,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 104716,
       "name": "Sleeping Bunnies",
       "url": "https://open.spotify.com/track/2pkSgoHquuHkk8wU37atKb"
+    },
+    {
+      "album": {
+        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 2 - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/4TTk8j1G3pcHwtw6YXTjRs"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104716,
+      "name": "Sleeping Bunnies",
+      "url": "https://open.spotify.com/track/3e553JEY58ETHPCHFuyp0x"
     },
     {
       "album": {
@@ -1322,6 +1670,24 @@
     },
     {
       "album": {
+        "name": "Carnival of the Animals",
+        "url": "https://open.spotify.com/album/4Y9Jp8cifOCilKlph1JVoc"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92333,
+      "name": "The Lion, King of the Jungle",
+      "url": "https://open.spotify.com/track/649v9vfqhP2jVL1QL0NVsA"
+    },
+    {
+      "album": {
         "name": "Carnival Of The Animals",
         "url": "https://open.spotify.com/album/14tIANf79XEg4L9y6ELote"
       },
@@ -1333,7 +1699,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 92333,
       "name": "The Lion, King Of The Jungle",
       "url": "https://open.spotify.com/track/6dgLHP9sceDeTET9g6StW5"
@@ -1376,6 +1742,24 @@
     },
     {
       "album": {
+        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 4 - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/3oB4zapMRPG6Poomj8mgbr"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97500,
+      "name": "This Little Piggy",
+      "url": "https://open.spotify.com/track/2jg0nkV5VvKEWdrn1GqmTv"
+    },
+    {
+      "album": {
         "name": "Animal Songs, Vol. 2",
         "url": "https://open.spotify.com/album/57EVetORlpx4SiKLTr6KoT"
       },
@@ -1387,7 +1771,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 97500,
       "name": "This Little Piggy",
       "url": "https://open.spotify.com/track/6eIAL4vyNV85bS2ibvcBd7"
@@ -1405,10 +1789,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 117391,
       "name": "What Is a Bird?",
       "url": "https://open.spotify.com/track/619VhpdmxCBHpolXyJbyCw"
+    },
+    {
+      "album": {
+        "name": "Pancake Manor",
+        "url": "https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117391,
+      "name": "What is a Bird?",
+      "url": "https://open.spotify.com/track/6zKoMXI1ApEnbiWyOA1Qy6"
     },
     {
       "album": {
@@ -1427,10 +1829,32 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 106602,
       "name": "When You're Living In The Zoo",
       "url": "https://open.spotify.com/track/3Pbl7P6xuV9lzZ7veNDTHj"
+    },
+    {
+      "album": {
+        "name": "Och Aye the G'nu!",
+        "url": "https://open.spotify.com/album/4WpAEhGY73DmyQfKXz9Liw"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Barnes",
+          "url": "https://open.spotify.com/artist/3M0F6AYQHWDhCmhR9HFSuP"
+        },
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106602,
+      "name": "When You're Living in the Zoo",
+      "url": "https://open.spotify.com/track/5ynCc46zFCrekNW4lbe0PI"
     },
     {
       "album": {

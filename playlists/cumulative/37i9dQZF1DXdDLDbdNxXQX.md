@@ -4,7 +4,7 @@
 
 > Sing along with Thomas & Friends!
 
-37 songs - 1 hr 20 min - [published](https://open.spotify.com/playlist/3NfkrSeKuT0ilSLUOnt1fc)
+40 songs - 1 hr 27 min - [published](https://open.spotify.com/playlist/3NfkrSeKuT0ilSLUOnt1fc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,10 +23,13 @@
 | [Gone Fishing](https://open.spotify.com/track/5zDn4p16W73jTR1EYJIFLF) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas' Songs & Roundhouse Rhythms](https://open.spotify.com/album/1SK0kSsuZqspVNCMIitM6v) | 3:00 | 2022-03-18 |  |
 | [He's a Really Useful Engine](https://open.spotify.com/track/5ZJsYPz4WYgDZMcjlaH5M4) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas' Songs & Roundhouse Rhythms](https://open.spotify.com/album/1SK0kSsuZqspVNCMIitM6v) | 2:55 | 2022-03-18 |  |
 | [Hear The Engines](https://open.spotify.com/track/0JnE9kx6QfrBsKn8WdGmyD) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas & Friends: All Star Tracks](https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD) | 2:06 | 2022-03-18 |  |
-| [Hey, Hey Thomas!](https://open.spotify.com/track/1m7SVr2EomcH8W0vr6nCCl) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Sodor Summertime](https://open.spotify.com/album/3rBTiYbS2ndRyEzQb7auLf) | 2:31 | 2022-03-18 |  |
-| [It's Gonna Be a Great Day](https://open.spotify.com/track/3U7hkvdCVrLm7PlWtGup6G) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Sodor Summertime](https://open.spotify.com/album/3rBTiYbS2ndRyEzQb7auLf) | 2:07 | 2022-03-18 |  |
+| [Hey, Hey Thomas!](https://open.spotify.com/track/1m7SVr2EomcH8W0vr6nCCl) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Sodor Summertime](https://open.spotify.com/album/3rBTiYbS2ndRyEzQb7auLf) | 2:31 | 2022-03-18 | 2022-07-29 |
+| [Hey, Hey Thomas!](https://open.spotify.com/track/3RHRBsLiElwxnAx6Uh5Lop) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Sodor Summertime](https://open.spotify.com/album/1VptAjM2WeFFk8wEWzH7Im) | 2:31 | 2022-03-18 |  |
+| [It's Gonna Be a Great Day](https://open.spotify.com/track/3U7hkvdCVrLm7PlWtGup6G) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Sodor Summertime](https://open.spotify.com/album/3rBTiYbS2ndRyEzQb7auLf) | 2:07 | 2022-03-18 | 2022-07-29 |
+| [It's Gonna Be a Great Day](https://open.spotify.com/track/6iTDhsIr48ZVUPQnJlqnOv) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Sodor Summertime](https://open.spotify.com/album/1VptAjM2WeFFk8wEWzH7Im) | 2:07 | 2022-03-18 |  |
 | [Misty Island Rescue](https://open.spotify.com/track/35zPrxceveAWka8GLr27xK) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas & Friends: All Star Tracks](https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD) | 2:06 | 2022-03-18 |  |
-| [On a Journey Today](https://open.spotify.com/track/1QdNooH6vJDFWCLkeUIvVj) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Sodor Summertime](https://open.spotify.com/album/3rBTiYbS2ndRyEzQb7auLf) | 2:07 | 2022-03-18 |  |
+| [On a Journey Today](https://open.spotify.com/track/1QdNooH6vJDFWCLkeUIvVj) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Sodor Summertime](https://open.spotify.com/album/3rBTiYbS2ndRyEzQb7auLf) | 2:07 | 2022-03-18 | 2022-07-29 |
+| [On a Journey Today](https://open.spotify.com/track/1wag3kiQfXNjLMlr5riAEj) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Sodor Summertime](https://open.spotify.com/album/1VptAjM2WeFFk8wEWzH7Im) | 2:07 | 2022-03-18 |  |
 | [Party Time](https://open.spotify.com/track/15cUkamTaPi6rYkniKtPDu) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Meet the Steam Team!](https://open.spotify.com/album/5voSY5POhmyE1anZ4LCrHd) | 3:13 | 2022-03-18 |  |
 | [Roll Along](https://open.spotify.com/track/7k4W3iasB3vqsVVX90O8Hy) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas & Friends: All Star Tracks](https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD) | 2:11 | 2022-03-18 |  |
 | [Roll Call](https://open.spotify.com/track/6qKr5DEHMhyD8HugUyD19C) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas & Friends: All Star Tracks](https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD) | 1:15 | 2022-03-18 |  |

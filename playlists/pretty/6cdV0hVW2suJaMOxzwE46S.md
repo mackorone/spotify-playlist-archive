@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6cdV0hVW2suJaMOxzwE46S.md) - [plain]
 
 > We've all been there\. This playlist can help\. Just don't let your boss catch you listening....
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,566 likes - 38 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,652 likes - 38 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/6cdV0hVW2suJaMOxzwE46S.md) - [plain]
 | 2 | [Soul Suckin' Jerk \- Reject](https://open.spotify.com/track/3nKKPl0jzp4zGRVaRqv0t5) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Loser](https://open.spotify.com/album/14Bh5QtBaH7FRZ1jK55X3z) | 6:10 |
 | 3 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
 | 4 | [Heaven Knows I'm Miserable Now \- 2008 Remaster](https://open.spotify.com/track/1ZYUi9KmsftgZdWbNBcJcr) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Sound of the Smiths \(Deluxe; 2008 Remaster\)](https://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55) | 3:36 |
-| 5 | [Found a Job \- Live](https://open.spotify.com/track/7rWq4710VbhYigwobjNwni) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 3:15 |
+| 5 | [Found a Job \- Live](https://open.spotify.com/track/7rWq4710VbhYigwobjNwni) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 3:15 |
 | 6 | [The Job That Ate My Brain](https://open.spotify.com/track/003z7jJLt6uHFL7MXNoiFG) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/7vy6ynhCUzdMDq8KGgCmfy) | 2:18 |
 | 7 | [Don't Talk to Me About Work](https://open.spotify.com/track/6ncpg6MiH37iyOXvMnqBLY) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Legendary Hearts](https://open.spotify.com/album/0G9jMzd8Dl8XBDXf2kQy6R) | 2:11 |
 | 8 | [This job is killing me](https://open.spotify.com/track/4ErCCvPVUCjrKCd0xyxPtK) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [A hundred miles off](https://open.spotify.com/album/3eav4741I0gBFUm5liQooI) | 3:28 |

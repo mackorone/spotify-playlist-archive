@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 364016,
       "name": "Akdeb Alik",
       "url": "https://open.spotify.com/track/1ZsMhxFNAJwPNDBbTNF0Hr"
@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Top Wadie Essafi (The Voice of Lebanon)",
+        "url": "https://open.spotify.com/album/3qTTXTSchXUVsTXBJDUpoo"
+      },
+      "artists": [
+        {
+          "name": "Wadie Essafi",
+          "url": "https://open.spotify.com/artist/1Y1kbL4LA0JzApNPox6TrH"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361186,
+      "name": "Allaylou ya Layla",
+      "url": "https://open.spotify.com/track/0ZEYwnrYjPetRRjK5KJsPo"
+    },
+    {
+      "album": {
         "name": "Noujoum aghani zamane",
         "url": "https://open.spotify.com/album/1qwsdN250QIB3s13ibi16U"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 363106,
       "name": "Allaylou ya Layla",
       "url": "https://open.spotify.com/track/6cfPLNdptZyDvDD6ugWCro"
@@ -127,10 +145,28 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213838,
       "name": "Ashka W Ghalbana",
       "url": "https://open.spotify.com/track/4h1vT91RaEVpHw5mps8kBA"
+    },
+    {
+      "album": {
+        "name": "Tarab Hits",
+        "url": "https://open.spotify.com/album/0OgTQ6y9BY3fZ4RaCsM6wJ"
+      },
+      "artists": [
+        {
+          "name": "Shaimaa ElShayeb",
+          "url": "https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213786,
+      "name": "Ashka We Ghalbana",
+      "url": "https://open.spotify.com/track/20hX2SNY7z2Eesit48jH1p"
     },
     {
       "album": {
@@ -153,7 +189,7 @@
     {
       "album": {
         "name": "Ya Sidi",
-        "url": "https://open.spotify.com/album/0p2oxZptRyHl9d8UE86JeK"
+        "url": "https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv"
       },
       "artists": [
         {
@@ -164,6 +200,24 @@
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 277080,
+      "name": "Baghdad Choby",
+      "url": "https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF"
+    },
+    {
+      "album": {
+        "name": "Ya Sidi",
+        "url": "https://open.spotify.com/album/0p2oxZptRyHl9d8UE86JeK"
+      },
+      "artists": [
+        {
+          "name": "Tarabband",
+          "url": "https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 277080,
       "name": "Baghdad Choby",
       "url": "https://open.spotify.com/track/3IVt662A0J2oiOJsg8VKx6"
@@ -206,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Ossit Helem",
+        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303765,
+      "name": "Debna Aa Ghiyabak (Live)",
+      "url": "https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG"
+    },
+    {
+      "album": {
         "name": "Osset Helem (Live)",
         "url": "https://open.spotify.com/album/4iHkEaRoDSkP7FImQUBFxW"
       },
@@ -217,7 +289,7 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 303765,
       "name": "Debna Aa Ghiyabak - Live",
       "url": "https://open.spotify.com/track/2RitpqrakB9vc8qvLgZnDH"
@@ -271,7 +343,7 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 545776,
       "name": "Enta Omri",
       "url": "https://open.spotify.com/track/6Q8gmAggkS9GFlVLbjIzsS"
@@ -307,10 +379,28 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201598,
       "name": "Hal El Garih",
       "url": "https://open.spotify.com/track/2PxhxoJgeJIgPerBhjLrzQ"
+    },
+    {
+      "album": {
+        "name": "Hal El Garih",
+        "url": "https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201598,
+      "name": "Hal El Garih",
+      "url": "https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6"
     },
     {
       "album": {
@@ -368,6 +458,24 @@
     },
     {
       "album": {
+        "name": "Ossit Helem",
+        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365226,
+      "name": "Kellon Aanik Sa'alouni (Live)",
+      "url": "https://open.spotify.com/track/27olcVaOORgWUjFNC3OOLd"
+    },
+    {
+      "album": {
         "name": "Osset Helem (Live)",
         "url": "https://open.spotify.com/album/4iHkEaRoDSkP7FImQUBFxW"
       },
@@ -379,7 +487,7 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 365226,
       "name": "Kellon Aannik Sa'alouni - Live",
       "url": "https://open.spotify.com/track/4ll3vZTlOKEYzpQ3OjBnza"
@@ -423,7 +531,7 @@
     {
       "album": {
         "name": "Ma Tehun",
-        "url": "https://open.spotify.com/album/0KgqHCprFfPZn4DKAA4zXr"
+        "url": "https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf"
       },
       "artists": [
         {
@@ -436,7 +544,43 @@
       "date_removed": null,
       "duration_ms": 297500,
       "name": "Ma Tehun",
+      "url": "https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL"
+    },
+    {
+      "album": {
+        "name": "Ma Tehun",
+        "url": "https://open.spotify.com/album/0KgqHCprFfPZn4DKAA4zXr"
+      },
+      "artists": [
+        {
+          "name": "Yara",
+          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 297500,
+      "name": "Ma Tehun",
       "url": "https://open.spotify.com/track/39ohufVtqCn9ySNSL0800B"
+    },
+    {
+      "album": {
+        "name": "Sahra",
+        "url": "https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234173,
+      "name": "Mali (Live)",
+      "url": "https://open.spotify.com/track/24BrV1miOAkvzwVBjRwrwp"
     },
     {
       "album": {
@@ -451,10 +595,28 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234173,
       "name": "Mali - Live",
       "url": "https://open.spotify.com/track/6jmz2f0MQGvQMbFoWejFtH"
+    },
+    {
+      "album": {
+        "name": "Maliket Gamal El Rouh",
+        "url": "https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227869,
+      "name": "Maliket Gamal El Rouh",
+      "url": "https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv"
     },
     {
       "album": {
@@ -473,7 +635,7 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227869,
       "name": "Maliket Gamal El Rouh",
       "url": "https://open.spotify.com/track/4q1dJXzkpdTe7WJStVmTS9"
@@ -549,10 +711,28 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 325485,
       "name": "Sallem Aaleha",
       "url": "https://open.spotify.com/track/0fV5cFZhetebJVSe4HCIiO"
+    },
+    {
+      "album": {
+        "name": "Ya Habibi Dawwabni L'hawa",
+        "url": "https://open.spotify.com/album/5rX52aUXojBQb3xSdwYTvH"
+      },
+      "artists": [
+        {
+          "name": "Melhem Barakat",
+          "url": "https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325440,
+      "name": "Sallem Alayha",
+      "url": "https://open.spotify.com/track/7wtPJEWAN0iFyR0yEaBxWX"
     },
     {
       "album": {
@@ -567,10 +747,28 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255047,
       "name": "Seket El Kalam",
       "url": "https://open.spotify.com/track/0EjtL0kIy4jfBfvjFwsGy7"
+    },
+    {
+      "album": {
+        "name": "Seket El Kalam",
+        "url": "https://open.spotify.com/album/7vENdfNGO5G9E713VdAUPw"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255047,
+      "name": "Seket El Kalam",
+      "url": "https://open.spotify.com/track/7AFuJ7RH19rEML28nWb7oF"
     },
     {
       "album": {
@@ -592,6 +790,24 @@
     },
     {
       "album": {
+        "name": "Sahra",
+        "url": "https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293093,
+      "name": "Tair ya hawa (Live)",
+      "url": "https://open.spotify.com/track/2szi0ZqkBtU4GyRuCz65Pz"
+    },
+    {
+      "album": {
         "name": "Sahra (Live Rare Concert Recording)",
         "url": "https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl"
       },
@@ -603,7 +819,7 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293093,
       "name": "Tair ya hawa - Live",
       "url": "https://open.spotify.com/track/2IRfMCKGYuZdymA6fEfRie"
@@ -664,6 +880,42 @@
     },
     {
       "album": {
+        "name": "Sahra Maa Shadya",
+        "url": "https://open.spotify.com/album/1CeCerIXXHVOkRFIKGOynN"
+      },
+      "artists": [
+        {
+          "name": "Shadia",
+          "url": "https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345927,
+      "name": "Ya Habebty Ya Masr",
+      "url": "https://open.spotify.com/track/66Ol2298fi5ca4KWcCVsOD"
+    },
+    {
+      "album": {
+        "name": "Sahra",
+        "url": "https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "date_added": "2020-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296799,
+      "name": "Ya habibi (Live)",
+      "url": "https://open.spotify.com/track/1INnlvFJuB1nCfKznHzILE"
+    },
+    {
+      "album": {
         "name": "Sahra (Live Rare Concert Recording)",
         "url": "https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl"
       },
@@ -675,7 +927,7 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 296800,
       "name": "Ya habibi - Live",
       "url": "https://open.spotify.com/track/7foZcrSugkCx062oIi4wVQ"
@@ -693,7 +945,7 @@
       ],
       "date_added": "2020-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 348640,
       "name": "Ya Habibti Ya Masr",
       "url": "https://open.spotify.com/track/5Qwrje2t7Nzl1XYbLyGdeE"

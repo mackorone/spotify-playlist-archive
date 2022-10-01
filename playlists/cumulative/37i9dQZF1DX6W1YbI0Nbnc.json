@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u4e00\u8d77\u611f\u53d7\u9999\u6e2f\u88fd\u9020\u7684\u5973\u8072\u529b\u91cf\uff01(cover: \u65b9\u7693\u739f)",
+  "description": "\u4e00\u8d77\u611f\u53d7\u9999\u6e2f\u88fd\u9020\u7684\u5973\u8072\u529b\u91cf\uff01(cover: Gin Lee)",
   "name": "EQUAL Hong Kong",
   "published_playlist_ids": [
     "3fyf9kJjwMb77gM8igxXJz"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "#BFF",
+        "url": "https://open.spotify.com/album/6sImQjecKXNjZlkljV5TKM"
+      },
+      "artists": [
+        {
+          "name": "Chantel \u59da\u712f\u83f2",
+          "url": "https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 248735,
+      "name": "#BFF",
+      "url": "https://open.spotify.com/track/5VrbILRmANTTIhWT3Pob06"
+    },
     {
       "album": {
         "name": "CHILI T",
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 293008,
       "name": "13\u6a13\u7684\u5927\u7b28\u8c61",
       "url": "https://open.spotify.com/track/1Cn2n7LpjpiElg6IyKB9id"
@@ -62,6 +80,24 @@
     },
     {
       "album": {
+        "name": "8SEC",
+        "url": "https://open.spotify.com/album/4Rej6saAxyu8MQD21E8QeN"
+      },
+      "artists": [
+        {
+          "name": "Lolly Talk",
+          "url": "https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217594,
+      "name": "8SEC",
+      "url": "https://open.spotify.com/track/5iUu6TerlD7QGVeJyXRd3r"
+    },
+    {
+      "album": {
         "name": "Joyce To The World",
         "url": "https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF"
       },
@@ -80,24 +116,6 @@
     },
     {
       "album": {
-        "name": "BBBB: Big Boobs Bubble Butt",
-        "url": "https://open.spotify.com/album/6A6LiVhR7vhRqJktCLMskX"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cheng",
-          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
-        }
-      ],
-      "date_added": "2022-04-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202391,
-      "name": "BBBB: Big Boobs Bubble Butt",
-      "url": "https://open.spotify.com/track/3vTqHdQVYMVMuwd5V9vi4W"
-    },
-    {
-      "album": {
         "name": "God in My Dreams",
         "url": "https://open.spotify.com/album/0nRE05u9tCYROuOaH1GOvh"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 240389,
       "name": "Before Bed",
       "url": "https://open.spotify.com/track/6PQLLy6iTTAAghxUrDBwly"
@@ -203,28 +221,10 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 240659,
       "name": "Don't Text Him (Just Kiss Him)",
       "url": "https://open.spotify.com/track/24XFrHZRTT96SiAojljvT8"
-    },
-    {
-      "album": {
-        "name": "Embrace Yourself",
-        "url": "https://open.spotify.com/album/2U6rtxyPmUCjqtRS1zfipL"
-      },
-      "artists": [
-        {
-          "name": "Panther Chan",
-          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
-        }
-      ],
-      "date_added": "2022-05-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 258566,
-      "name": "Embrace Yourself",
-      "url": "https://open.spotify.com/track/0cQT5SMEAKDUac4VmeDrdH"
     },
     {
       "album": {
@@ -261,24 +261,6 @@
       "duration_ms": 232623,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4sOKdzcg7KJlFKagX4rpSQ"
-    },
-    {
-      "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/0FBBORHoDYJy3lU46uaDMC"
-      },
-      "artists": [
-        {
-          "name": "Gigi Cheung",
-          "url": "https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t"
-        }
-      ],
-      "date_added": "2022-03-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228102,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/7ELzz1HpNUFXT8WNSZ1YSz"
     },
     {
       "album": {
@@ -329,7 +311,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 206690,
       "name": "Gotta Go!",
       "url": "https://open.spotify.com/track/3F16iie73VyKgN63z6YyZH"
@@ -354,24 +336,6 @@
     },
     {
       "album": {
-        "name": "HateLoveHateLoveYou (Theme Song Of The Movie \"Table For Six\")",
-        "url": "https://open.spotify.com/album/5RcB9sLZnn2RP9JTPQ29Lv"
-      },
-      "artists": [
-        {
-          "name": "Ivana Wong",
-          "url": "https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S"
-        }
-      ],
-      "date_added": "2022-03-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191492,
-      "name": "HateLoveHateLoveYou (Theme Song Of The Movie \"Table For Six\")",
-      "url": "https://open.spotify.com/track/1fa9QcGSL6hirANbdUVADq"
-    },
-    {
-      "album": {
         "name": "HW1",
         "url": "https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg"
       },
@@ -387,24 +351,6 @@
       "duration_ms": 259475,
       "name": "HW1",
       "url": "https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w"
-    },
-    {
-      "album": {
-        "name": "Honesty",
-        "url": "https://open.spotify.com/album/4ikmdAhDo4AOmHmugvz1sT"
-      },
-      "artists": [
-        {
-          "name": "Panther Chan",
-          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
-        }
-      ],
-      "date_added": "2021-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257670,
-      "name": "I Wanna Be With You",
-      "url": "https://open.spotify.com/track/7CkJnz49JGUY76W7zl3vad"
     },
     {
       "album": {
@@ -444,42 +390,6 @@
     },
     {
       "album": {
-        "name": "Impression",
-        "url": "https://open.spotify.com/album/4ynS04kn3rXnCvOJ9wFXmm"
-      },
-      "artists": [
-        {
-          "name": "Ivana Wong",
-          "url": "https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S"
-        }
-      ],
-      "date_added": "2022-03-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233785,
-      "name": "Impression",
-      "url": "https://open.spotify.com/track/3gfm2zOE9ZwsiKh36mPjpY"
-    },
-    {
-      "album": {
-        "name": "In The Wind",
-        "url": "https://open.spotify.com/album/20KC0BCuXFmg7XFjkdpAW9"
-      },
-      "artists": [
-        {
-          "name": "Janice Vidal",
-          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
-        }
-      ],
-      "date_added": "2022-05-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230012,
-      "name": "In The Wind",
-      "url": "https://open.spotify.com/track/5sEEhOScgED3KxkF9lzgEd"
-    },
-    {
-      "album": {
         "name": "It\u2019s OK To Be Sad",
         "url": "https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9"
       },
@@ -513,24 +423,6 @@
       "duration_ms": 170932,
       "name": "lately",
       "url": "https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr"
-    },
-    {
-      "album": {
-        "name": "404 Not Found",
-        "url": "https://open.spotify.com/album/4xl2rRkillqFASqckMIjLy"
-      },
-      "artists": [
-        {
-          "name": "Charmaine Fong",
-          "url": "https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N"
-        }
-      ],
-      "date_added": "2022-05-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228613,
-      "name": "Legend",
-      "url": "https://open.spotify.com/track/5uMkdWf1H6JEcpcdnPOSZM"
     },
     {
       "album": {
@@ -696,24 +588,6 @@
     },
     {
       "album": {
-        "name": "Moon Over The Platform",
-        "url": "https://open.spotify.com/album/67mH8OlNRPECTDfMfqLaOS"
-      },
-      "artists": [
-        {
-          "name": "Fiona Sit",
-          "url": "https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa"
-        }
-      ],
-      "date_added": "2022-03-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 256601,
-      "name": "Moon Over The Platform",
-      "url": "https://open.spotify.com/track/5GkhQFNnoERo2QUTElTo5m"
-    },
-    {
-      "album": {
         "name": "My Dear, Best Friend (\u96fb\u5f71\u300a\u559c\u6b61\u59b3\u662f\u59b3\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/1PRYfE5EGQ5g8Gf21wZoT2"
       },
@@ -729,24 +603,6 @@
       "duration_ms": 254817,
       "name": "My Dear, Best Friend (\u96fb\u5f71\u300a\u559c\u6b61\u59b3\u662f\u59b3\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/4s8bxtk4eKTilYs0IbfztA"
-    },
-    {
-      "album": {
-        "name": "My Doppelg\u00e4nger in Copenhagen",
-        "url": "https://open.spotify.com/album/3ObUQkjUZx5P1rz2mChrNq"
-      },
-      "artists": [
-        {
-          "name": "Fiona Sit",
-          "url": "https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa"
-        }
-      ],
-      "date_added": "2022-03-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220707,
-      "name": "My Doppelg\u00e4nger in Copenhagen",
-      "url": "https://open.spotify.com/track/51QyPUhUxWJ45JENrb2oDF"
     },
     {
       "album": {
@@ -786,6 +642,24 @@
     },
     {
       "album": {
+        "name": "OFF/ON",
+        "url": "https://open.spotify.com/album/2rbid0M6p0FaDplPh5ey6P"
+      },
+      "artists": [
+        {
+          "name": "COLLAR",
+          "url": "https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208419,
+      "name": "OFF/ON",
+      "url": "https://open.spotify.com/track/1k4epQqpbGkyIm3O6bRALu"
+    },
+    {
+      "album": {
         "name": "WHY AM I HERE",
         "url": "https://open.spotify.com/album/6DknG0hh3OZf7QTQCA8Ms2"
       },
@@ -801,28 +675,10 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 173021,
       "name": "on the right track",
       "url": "https://open.spotify.com/track/6usIo4k5JfrPvIhau9nN2p"
-    },
-    {
-      "album": {
-        "name": "One & Only One",
-        "url": "https://open.spotify.com/album/2p42OI546sS20ZabQhBCvu"
-      },
-      "artists": [
-        {
-          "name": "Mag Lam",
-          "url": "https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL"
-        }
-      ],
-      "date_added": "2022-01-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252677,
-      "name": "One & Only One",
-      "url": "https://open.spotify.com/track/0Z8hG73RgpWQPNVwUZ4PEE"
     },
     {
       "album": {
@@ -881,6 +737,28 @@
       "duration_ms": 222972,
       "name": "Run",
       "url": "https://open.spotify.com/track/2oe11FOeQP6iGOtAOZHSdy"
+    },
+    {
+      "album": {
+        "name": "See You In My Dreams",
+        "url": "https://open.spotify.com/album/17L0DfUqEwExKh5FCIJFCP"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u8466\u7487",
+          "url": "https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm"
+        },
+        {
+          "name": "\u9673\u5929\u7ffa (Eagle Chan)",
+          "url": "https://open.spotify.com/artist/7y1HEU7mmCwwtLo3d8pbrk"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214850,
+      "name": "See You In My Dreams",
+      "url": "https://open.spotify.com/track/5ALwgwji40DXsZzTzTyTOY"
     },
     {
       "album": {
@@ -957,7 +835,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 252000,
       "name": "Someday My Prince Will Come",
       "url": "https://open.spotify.com/track/1OWUZvmvabogBms3h8ryXF"
@@ -982,24 +860,6 @@
     },
     {
       "album": {
-        "name": "Sound of Silence",
-        "url": "https://open.spotify.com/album/3Ea5KE85aGPeeVjfUbR2Nw"
-      },
-      "artists": [
-        {
-          "name": "Jocelyn Chan",
-          "url": "https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd"
-        }
-      ],
-      "date_added": "2022-05-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 236516,
-      "name": "Sound of Silence",
-      "url": "https://open.spotify.com/track/0IfL02ejzOmSoqqWCJTS8b"
-    },
-    {
-      "album": {
         "name": "Sympathy",
         "url": "https://open.spotify.com/album/1M19JDKFDaQvAI4BTv3Gn5"
       },
@@ -1011,46 +871,28 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 260786,
       "name": "Sympathy",
       "url": "https://open.spotify.com/track/3C6aaaQ73DYqlQqUbZ8m8p"
     },
     {
       "album": {
-        "name": "Thank you, My Fears",
-        "url": "https://open.spotify.com/album/7u9uOH8bQYnMB2gVTncObw"
+        "name": "CHILI T",
+        "url": "https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO"
       },
       "artists": [
         {
-          "name": "Jocelyn Chan",
-          "url": "https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd"
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
         }
       ],
-      "date_added": "2022-05-03",
+      "date_added": "2022-08-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 214400,
-      "name": "Thank you, My Fears",
-      "url": "https://open.spotify.com/track/1fi8E9MBPWJ0stdvWeYmRf"
-    },
-    {
-      "album": {
-        "name": "Joyce To The World",
-        "url": "https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cheng",
-          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
-        }
-      ],
-      "date_added": "2022-03-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 221000,
-      "name": "The Hardest Path",
-      "url": "https://open.spotify.com/track/2VxhivipIOgAvnUw7KVha2"
+      "duration_ms": 163804,
+      "name": "Temporary",
+      "url": "https://open.spotify.com/track/4m8YKBc6vv2KDatDGmKGx0"
     },
     {
       "album": {
@@ -1076,21 +918,21 @@
     },
     {
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/74P05iBehlh9oJaiL2kgh2"
+        "name": "u owe me $$",
+        "url": "https://open.spotify.com/album/45ws2OGii3pGImgyhePhBC"
       },
       "artists": [
         {
-          "name": "Mag Lam",
-          "url": "https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL"
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
         }
       ],
-      "date_added": "2022-01-04",
+      "date_added": "2022-08-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 251323,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/3gEclAuA5BZASJXkqubeJP"
+      "duration_ms": 157394,
+      "name": "u owe me $$",
+      "url": "https://open.spotify.com/track/1suYIEpjPMDs8b8ouSWfV7"
     },
     {
       "album": {
@@ -1148,6 +990,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u500b\u50bb\u74dc\u4e00\u500b\u555e",
+        "url": "https://open.spotify.com/album/3yu6YCKuwt1CQRN4nYei1H"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u8466\u7487",
+          "url": "https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235819,
+      "name": "\u4e00\u500b\u50bb\u74dc\u4e00\u500b\u555e",
+      "url": "https://open.spotify.com/track/0VlWjFvXbxqOYruXnE675K"
+    },
+    {
+      "album": {
         "name": "Never Too Late, My Path, Mi Way",
         "url": "https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA"
       },
@@ -1184,6 +1044,24 @@
     },
     {
       "album": {
+        "name": "\u4e09\u5206\u751c",
+        "url": "https://open.spotify.com/album/68v7jR4cAvUiyzK7oL7HnI"
+      },
+      "artists": [
+        {
+          "name": "Lolly Talk",
+          "url": "https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233983,
+      "name": "\u4e09\u5206\u751c",
+      "url": "https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u6e05\u9192\u90fd\u5dff",
         "url": "https://open.spotify.com/album/3Qsv3c1H65NXYtE0PMPU7C"
       },
@@ -1199,10 +1077,28 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 250909,
       "name": "\u4e0d\u6e05\u9192\u90fd\u5dff",
       "url": "https://open.spotify.com/track/4x6mdk7XUKXPUI4Kgc0Egr"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u8a00\u81ea\u660e",
+        "url": "https://open.spotify.com/album/0FBBORHoDYJy3lU46uaDMC"
+      },
+      "artists": [
+        {
+          "name": "Gigi Cheung",
+          "url": "https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 228102,
+      "name": "\u4e0d\u8a00\u81ea\u660e",
+      "url": "https://open.spotify.com/track/7ELzz1HpNUFXT8WNSZ1YSz"
     },
     {
       "album": {
@@ -1221,6 +1117,24 @@
       "duration_ms": 272620,
       "name": "\u4e0d\u914d",
       "url": "https://open.spotify.com/track/3Yr3QMBI0vorYok2uC5W2O"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u8207\u4f60\u7121\u95dc",
+        "url": "https://open.spotify.com/album/2U6rtxyPmUCjqtRS1zfipL"
+      },
+      "artists": [
+        {
+          "name": "Panther Chan",
+          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258566,
+      "name": "\u4e16\u754c\u8207\u4f60\u7121\u95dc",
+      "url": "https://open.spotify.com/track/0cQT5SMEAKDUac4VmeDrdH"
     },
     {
       "album": {
@@ -1264,6 +1178,24 @@
     },
     {
       "album": {
+        "name": "\u4eba\u9593\u82f1\u9748",
+        "url": "https://open.spotify.com/album/1yzycSWu0g8BCJ63E5m9sj"
+      },
+      "artists": [
+        {
+          "name": "\u8449\u5de7\u7433",
+          "url": "https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250684,
+      "name": "\u4eba\u9593\u82f1\u9748",
+      "url": "https://open.spotify.com/track/7oNv5d0pYrSzIiYA5fRydi"
+    },
+    {
+      "album": {
         "name": "\u4ecd\u7136\u8a18\u5f97\u55f0\u4e00\u6b21",
         "url": "https://open.spotify.com/album/17SU5pAR4mnMBLYIaxmoWI"
       },
@@ -1297,7 +1229,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 216935,
       "name": "\u4f34\u6211\u5de6\u53f3 - \u5287\u96c6\u201c\u91d1\u5bb5\u5927\u5ec82\u201d\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/2XbaodHxkHDBCDQLFM3hzo"
@@ -1337,6 +1269,42 @@
       "duration_ms": 333986,
       "name": "\u4f60\u597d\u55ce",
       "url": "https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h"
+    },
+    {
+      "album": {
+        "name": "404 Not Found",
+        "url": "https://open.spotify.com/album/4xl2rRkillqFASqckMIjLy"
+      },
+      "artists": [
+        {
+          "name": "Charmaine Fong",
+          "url": "https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228613,
+      "name": "\u4f60\u662f\u4f60\u672c\u8eab\u7684\u50b3\u5947",
+      "url": "https://open.spotify.com/track/5uMkdWf1H6JEcpcdnPOSZM"
+    },
+    {
+      "album": {
+        "name": "\u4fee\u990a\u52d5\u7269",
+        "url": "https://open.spotify.com/album/74P05iBehlh9oJaiL2kgh2"
+      },
+      "artists": [
+        {
+          "name": "Mag Lam",
+          "url": "https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251323,
+      "name": "\u4fee\u990a\u52d5\u7269",
+      "url": "https://open.spotify.com/track/3gEclAuA5BZASJXkqubeJP"
     },
     {
       "album": {
@@ -1484,6 +1452,24 @@
     },
     {
       "album": {
+        "name": "\u51e1\u661f (\u5929\u661f\u9280\u884cairstar\u97f3\u6a02\u5287\u5834\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/5f1R2DOR0cLJlUmpO1gtjC"
+      },
+      "artists": [
+        {
+          "name": "Panther Chan",
+          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "\u51e1\u661f (\u5929\u661f\u9280\u884cairstar\u97f3\u6a02\u5287\u5834\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/7eZJLfMQ5mDtejHitRkzRf"
+    },
+    {
+      "album": {
         "name": "\u5206\u624b\u7684\u60c5\u66f8",
         "url": "https://open.spotify.com/album/42yEW5ERscrCNbRswPphzc"
       },
@@ -1502,6 +1488,78 @@
     },
     {
       "album": {
+        "name": "\u5230\u4e86\u90a3\u88cf\u5c31\u5c0d\u5427",
+        "url": "https://open.spotify.com/album/6AIYlSiFW4giKz0GWlLhxE"
+      },
+      "artists": [
+        {
+          "name": "Cloud \u96f2\u6d69\u5f71",
+          "url": "https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254138,
+      "name": "\u5230\u4e86\u90a3\u88cf\u5c31\u5c0d\u5427",
+      "url": "https://open.spotify.com/track/21ENVTzs1QqHLn8bNygoGD"
+    },
+    {
+      "album": {
+        "name": "\u5230\u6642\u898b (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1DnNwfhdTujJLKUSeGU4oY"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Cheung \u5f35\u8513\u838e",
+          "url": "https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147327,
+      "name": "\u5230\u6642\u898b (Acoustic Version)",
+      "url": "https://open.spotify.com/track/23I26HyXJO6i9PH8BJKpQL"
+    },
+    {
+      "album": {
+        "name": "\u524e\u90a3\u7684",
+        "url": "https://open.spotify.com/album/3IaNjSRQfoCKfU9Ozorkmf"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Cheung \u5f35\u8513\u838e",
+          "url": "https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u524e\u90a3\u7684",
+      "url": "https://open.spotify.com/track/5fWhLh6uQV0BPTHdL9oKSX"
+    },
+    {
+      "album": {
+        "name": "Time & Faith",
+        "url": "https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv"
+      },
+      "artists": [
+        {
+          "name": "Gin Lee",
+          "url": "https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "\u525b\u597d",
+      "url": "https://open.spotify.com/track/2glEQhYzV4hvVM5tTuKzI2"
+    },
+    {
+      "album": {
         "name": "\u52ff\u5ff5",
         "url": "https://open.spotify.com/album/09P4na1xZen1gwM63oVMGH"
       },
@@ -1517,6 +1575,42 @@
       "duration_ms": 206117,
       "name": "\u52ff\u5ff5",
       "url": "https://open.spotify.com/track/7jo1ash37IUB5NyviV7ajO"
+    },
+    {
+      "album": {
+        "name": "\u5370\u8c61",
+        "url": "https://open.spotify.com/album/4ynS04kn3rXnCvOJ9wFXmm"
+      },
+      "artists": [
+        {
+          "name": "Ivana Wong",
+          "url": "https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 233785,
+      "name": "\u5370\u8c61",
+      "url": "https://open.spotify.com/track/3gfm2zOE9ZwsiKh36mPjpY"
+    },
+    {
+      "album": {
+        "name": "\u539f\u4f86\u8ac7\u6200\u611b\u662f\u9019\u9ebc\u4e00\u56de\u4e8b",
+        "url": "https://open.spotify.com/album/41qU1Np9lsLmB0o1e4sQql"
+      },
+      "artists": [
+        {
+          "name": "Chantel \u59da\u712f\u83f2",
+          "url": "https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 209671,
+      "name": "\u539f\u4f86\u8ac7\u6200\u611b\u662f\u9019\u9ebc\u4e00\u56de\u4e8b",
+      "url": "https://open.spotify.com/track/6TJOXAyqTtq6Xvk1qHoleJ"
     },
     {
       "album": {
@@ -1574,6 +1668,42 @@
     },
     {
       "album": {
+        "name": "\u547c\u5438\u4e4b\u9593",
+        "url": "https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR"
+      },
+      "artists": [
+        {
+          "name": "Janice Vidal",
+          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253994,
+      "name": "\u547c\u5438\u4e4b\u9593",
+      "url": "https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi"
+    },
+    {
+      "album": {
+        "name": "\u54e5\u672c\u54c8\u6839\u7684\u53e6\u4e00\u500b\u6211",
+        "url": "https://open.spotify.com/album/3ObUQkjUZx5P1rz2mChrNq"
+      },
+      "artists": [
+        {
+          "name": "Fiona Sit",
+          "url": "https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 220707,
+      "name": "\u54e5\u672c\u54c8\u6839\u7684\u53e6\u4e00\u500b\u6211",
+      "url": "https://open.spotify.com/track/51QyPUhUxWJ45JENrb2oDF"
+    },
+    {
+      "album": {
         "name": "\u56de\u5230\u81ea\u5df1",
         "url": "https://open.spotify.com/album/6aYvUkvwZcH5grv9Sa8WAW"
       },
@@ -1603,7 +1733,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 261122,
       "name": "\u5718\u5713\u8aaa",
       "url": "https://open.spotify.com/track/1hSO2gFy57hFzDzQzDDiei"
@@ -1625,6 +1755,24 @@
       "duration_ms": 273840,
       "name": "\u57f7\u8ff7\u4e0d\u6094",
       "url": "https://open.spotify.com/track/2pKK1A009lhzhRPeTDderF"
+    },
+    {
+      "album": {
+        "name": "\u58f0\u4e4b\u9759",
+        "url": "https://open.spotify.com/album/3Ea5KE85aGPeeVjfUbR2Nw"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn Chan",
+          "url": "https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 236516,
+      "name": "\u58f0\u4e4b\u9759",
+      "url": "https://open.spotify.com/track/0IfL02ejzOmSoqqWCJTS8b"
     },
     {
       "album": {
@@ -1657,10 +1805,28 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 253668,
       "name": "\u591a\u559d\u6c34",
       "url": "https://open.spotify.com/track/1W7uQESfg4yq6dSJg4tvG3"
+    },
+    {
+      "album": {
+        "name": "\u591a\u8b1d\u6050\u61fc",
+        "url": "https://open.spotify.com/album/7u9uOH8bQYnMB2gVTncObw"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn Chan",
+          "url": "https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 214400,
+      "name": "\u591a\u8b1d\u6050\u61fc",
+      "url": "https://open.spotify.com/track/1fi8E9MBPWJ0stdvWeYmRf"
     },
     {
       "album": {
@@ -1729,7 +1895,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 228021,
       "name": "\u5929\u8352\u4e0d\u8001 - \u5287\u96c6 \"\u9435\u62f3\u82f1\u96c4\" \u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/72XwUBOc3Co9XCy1CVeNO0"
@@ -1880,6 +2046,24 @@
     },
     {
       "album": {
+        "name": "Petit Fours",
+        "url": "https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P"
+      },
+      "artists": [
+        {
+          "name": "Tang Siu Hau",
+          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217403,
+      "name": "\u6015\u9ed1",
+      "url": "https://open.spotify.com/track/4jO2OsxutgsDsedqUs2sYL"
+    },
+    {
+      "album": {
         "name": "\u60c5\u7dd2\u52d2\u7d22",
         "url": "https://open.spotify.com/album/44Wh5ITHmLVnLQvd4ykw99"
       },
@@ -1909,7 +2093,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 247461,
       "name": "\u611b\u7121\u9918\u5730",
       "url": "https://open.spotify.com/track/3MKYCagH9tgU49gA2n9RHt"
@@ -1931,6 +2115,24 @@
       "duration_ms": 235946,
       "name": "\u611b\u7684\u544a\u5225\u5f0f",
       "url": "https://open.spotify.com/track/164PEPkAZ0Z2MgZ8h5hiwu"
+    },
+    {
+      "album": {
+        "name": "\u61b6\u5e74",
+        "url": "https://open.spotify.com/album/1aukOJN5KfQmvudlbgVmby"
+      },
+      "artists": [
+        {
+          "name": "Kay Tse",
+          "url": "https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222946,
+      "name": "\u61b6\u5e74",
+      "url": "https://open.spotify.com/track/5uxCNlVVR6Y5knXfooC8Yr"
     },
     {
       "album": {
@@ -1967,6 +2169,24 @@
       "duration_ms": 206817,
       "name": "\u6211\u5fc3\u4e2d\u5c1a\u672a\u5d29\u58de\u7684\u90e8\u5206",
       "url": "https://open.spotify.com/track/6BymbyJEEn85vcJnr5aAkR"
+    },
+    {
+      "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/4ikmdAhDo4AOmHmugvz1sT"
+      },
+      "artists": [
+        {
+          "name": "Panther Chan",
+          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 257670,
+      "name": "\u6211\u60f3\u548c\u4f60\u597d\u597d\u7684",
+      "url": "https://open.spotify.com/track/7CkJnz49JGUY76W7zl3vad"
     },
     {
       "album": {
@@ -2021,6 +2241,24 @@
       "duration_ms": 249181,
       "name": "\u63a7\u5236\u72c2",
       "url": "https://open.spotify.com/track/76dLNd8p32g8VbQlYuZUNf"
+    },
+    {
+      "album": {
+        "name": "Petit Fours",
+        "url": "https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P"
+      },
+      "artists": [
+        {
+          "name": "Tang Siu Hau",
+          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217338,
+      "name": "\u64c7\u5584\u56fa\u57f7",
+      "url": "https://open.spotify.com/track/6eNVvM7s2vjWYBodtMpHsZ"
     },
     {
       "album": {
@@ -2186,6 +2424,60 @@
     },
     {
       "album": {
+        "name": "Joyce To The World",
+        "url": "https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cheng",
+          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "\u6700\u96e3\u884c\u7684\u8def",
+      "url": "https://open.spotify.com/track/2VxhivipIOgAvnUw7KVha2"
+    },
+    {
+      "album": {
+        "name": "\u6708\u53f0\u4e0a\u78b0\u9762",
+        "url": "https://open.spotify.com/album/67mH8OlNRPECTDfMfqLaOS"
+      },
+      "artists": [
+        {
+          "name": "Fiona Sit",
+          "url": "https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 256601,
+      "name": "\u6708\u53f0\u4e0a\u78b0\u9762",
+      "url": "https://open.spotify.com/track/5GkhQFNnoERo2QUTElTo5m"
+    },
+    {
+      "album": {
+        "name": "\u6709\u6548\u627f\u8afe",
+        "url": "https://open.spotify.com/album/61VT2iErazRvdepgOuM3B3"
+      },
+      "artists": [
+        {
+          "name": "\u99f1\u80e4\u9cf4",
+          "url": "https://open.spotify.com/artist/4x0AqvSUmkoazJYSz9q4wq"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258987,
+      "name": "\u6709\u6548\u627f\u8afe",
+      "url": "https://open.spotify.com/track/2sUGlTZO6Ptq0gDHZixhti"
+    },
+    {
+      "album": {
         "name": "a room for",
         "url": "https://open.spotify.com/album/2U4W2veJdG34JS67moeC7N"
       },
@@ -2227,16 +2519,34 @@
       },
       "artists": [
         {
-          "name": "\u9e97\u82f1@\u5c0f\u85af\u8304",
+          "name": "\u9e97\u82f1",
           "url": "https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS"
         }
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 226680,
       "name": "\u6771\u4eac\u4e00\u8f49",
       "url": "https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z"
+    },
+    {
+      "album": {
+        "name": "\u6771\u4eac\u5922\u904a (\u6771\u4eac\u4e00\u8f49 Japanese Version)",
+        "url": "https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c"
+      },
+      "artists": [
+        {
+          "name": "\u9e97\u82f1",
+          "url": "https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226702,
+      "name": "\u6771\u4eac\u5922\u904a (\u6771\u4eac\u4e00\u8f49 Japanese Version)",
+      "url": "https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33"
     },
     {
       "album": {
@@ -2255,6 +2565,42 @@
       "duration_ms": 235797,
       "name": "\u6a39",
       "url": "https://open.spotify.com/track/2QYGFCVQTALeyYGNvKHn9T"
+    },
+    {
+      "album": {
+        "name": "\u6a39\u6728\u771f\u7f8e",
+        "url": "https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU"
+      },
+      "artists": [
+        {
+          "name": "Serrini",
+          "url": "https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246840,
+      "name": "\u6a39\u6728\u771f\u7f8e",
+      "url": "https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP"
+    },
+    {
+      "album": {
+        "name": "\u6b78\u96f6",
+        "url": "https://open.spotify.com/album/4qqcdAk38QXTenIwAo4ezW"
+      },
+      "artists": [
+        {
+          "name": "\u99f1\u80e4\u9cf4",
+          "url": "https://open.spotify.com/artist/4x0AqvSUmkoazJYSz9q4wq"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257079,
+      "name": "\u6b78\u96f6",
+      "url": "https://open.spotify.com/track/7axP3vilxbXHd1cv6eRqp7"
     },
     {
       "album": {
@@ -2359,7 +2705,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 240537,
       "name": "\u6d78\u6d74",
       "url": "https://open.spotify.com/track/1UpICWgzC4wN2jC1IKYHfL"
@@ -2474,6 +2820,42 @@
     },
     {
       "album": {
+        "name": "\u7130",
+        "url": "https://open.spotify.com/album/6j6Q2Chk9OvMHOcsCtmiKt"
+      },
+      "artists": [
+        {
+          "name": "Gigi\u708e\u660e\u71b9",
+          "url": "https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235178,
+      "name": "\u7130",
+      "url": "https://open.spotify.com/track/4nKDougYpys5mubDgbO5rb"
+    },
+    {
+      "album": {
+        "name": "\u72e0\u611b\u72e0\u611b\u4f60 (\u96fb\u5f71\u300a\u98ef\u6232\u653b\u5fc3\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/5RcB9sLZnn2RP9JTPQ29Lv"
+      },
+      "artists": [
+        {
+          "name": "Ivana Wong",
+          "url": "https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 191492,
+      "name": "\u72e0\u611b\u72e0\u611b\u4f60 (\u96fb\u5f71\u300a\u98ef\u6232\u653b\u5fc3\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/1fa9QcGSL6hirANbdUVADq"
+    },
+    {
+      "album": {
         "name": "\u7406\u6027\u8207\u4efb\u6027\u4e4b\u9593",
         "url": "https://open.spotify.com/album/51jtxD1lp3MlhECZAtBBB9"
       },
@@ -2489,6 +2871,24 @@
       "duration_ms": 307873,
       "name": "\u7406\u6027\u8207\u4efb\u6027\u4e4b\u9593",
       "url": "https://open.spotify.com/track/2sQ1tPY9JSeBbmEefD8kir"
+    },
+    {
+      "album": {
+        "name": "\u7576\u4f60\u7761\u8457\u7684\u6642\u5019",
+        "url": "https://open.spotify.com/album/6dilfUvZmJlag4W2UGv424"
+      },
+      "artists": [
+        {
+          "name": "JUDE",
+          "url": "https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224954,
+      "name": "\u7576\u4f60\u7761\u8457\u7684\u6642\u5019",
+      "url": "https://open.spotify.com/track/5cq3lcOJi4CU14LmSJL8Lv"
     },
     {
       "album": {
@@ -2528,6 +2928,24 @@
     },
     {
       "album": {
+        "name": "\u771f\u8a71\u7684\u6e05\u9ad8",
+        "url": "https://open.spotify.com/album/54R99UaKuQwZCB4T0yV7FK"
+      },
+      "artists": [
+        {
+          "name": "Gigi\u708e\u660e\u71b9",
+          "url": "https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221357,
+      "name": "\u771f\u8a71\u7684\u6e05\u9ad8",
+      "url": "https://open.spotify.com/track/0wW3KdmRH7K4ruByXTi4Xv"
+    },
+    {
+      "album": {
         "name": "\u7761\u884c\u75c7",
         "url": "https://open.spotify.com/album/6QQTjaGL3KBBqLQcBRb6mV"
       },
@@ -2551,7 +2969,7 @@
       },
       "artists": [
         {
-          "name": "\u9e97\u82f1@\u5c0f\u85af\u8304",
+          "name": "\u9e97\u82f1",
           "url": "https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS"
         }
       ],
@@ -2629,7 +3047,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 225109,
       "name": "\u7d0d\u65af\u5361\u7dda",
       "url": "https://open.spotify.com/track/3wqMvfQ9QgIEyRHH41Y0Iq"
@@ -2726,6 +3144,24 @@
     },
     {
       "album": {
+        "name": "Time & Faith",
+        "url": "https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv"
+      },
+      "artists": [
+        {
+          "name": "Gin Lee",
+          "url": "https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "\u865b\u69ae",
+      "url": "https://open.spotify.com/track/5puEYsEdjTrlUmnjSNfR2u"
+    },
+    {
+      "album": {
         "name": "\u86fb\u8b8a",
         "url": "https://open.spotify.com/album/1fDPVnRJq129OLOjRWB8sj"
       },
@@ -2773,10 +3209,28 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 210693,
       "name": "\u8ab0\u7684\u9752\u6625\u4e0d\u8ff7\u60d8",
       "url": "https://open.spotify.com/track/211ln6kgHK4KyDY84PR4VE"
+    },
+    {
+      "album": {
+        "name": "\u8c50\u4e73\u80a5\u81c0",
+        "url": "https://open.spotify.com/album/6A6LiVhR7vhRqJktCLMskX"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cheng",
+          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "\u8c50\u4e73\u80a5\u81c0",
+      "url": "https://open.spotify.com/track/3vTqHdQVYMVMuwd5V9vi4W"
     },
     {
       "album": {
@@ -2888,6 +3342,24 @@
     },
     {
       "album": {
+        "name": "\u9435\u6a39",
+        "url": "https://open.spotify.com/album/2p42OI546sS20ZabQhBCvu"
+      },
+      "artists": [
+        {
+          "name": "Mag Lam",
+          "url": "https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252677,
+      "name": "\u9435\u6a39",
+      "url": "https://open.spotify.com/track/0Z8hG73RgpWQPNVwUZ4PEE"
+    },
+    {
+      "album": {
         "name": "\u96e2\u4e0d\u958b",
         "url": "https://open.spotify.com/album/5axFyXeQt3bZCaelmy2N94"
       },
@@ -2946,6 +3418,24 @@
     },
     {
       "album": {
+        "name": "\u96f6\u5206",
+        "url": "https://open.spotify.com/album/3zoLfk3WSy0E3PEWb8S7nn"
+      },
+      "artists": [
+        {
+          "name": "JUDE",
+          "url": "https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254337,
+      "name": "\u96f6\u5206",
+      "url": "https://open.spotify.com/track/1HsWdmLSDdDel2Dl6ctSO2"
+    },
+    {
+      "album": {
         "name": "\u975c\u591c\u6b4c",
         "url": "https://open.spotify.com/album/6GZ1SDblzNaLfcMerPxgRJ"
       },
@@ -2961,6 +3451,42 @@
       "duration_ms": 288200,
       "name": "\u975c\u591c\u6b4c",
       "url": "https://open.spotify.com/track/7uVPQnJIh2x4J3UOZSELYN"
+    },
+    {
+      "album": {
+        "name": "\u9858\u671b\u4e4b\u7ffc",
+        "url": "https://open.spotify.com/album/21OfoQE1oqFyCNaccSVAW8"
+      },
+      "artists": [
+        {
+          "name": "Cloud \u96f2\u6d69\u5f71",
+          "url": "https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224405,
+      "name": "\u9858\u671b\u4e4b\u7ffc",
+      "url": "https://open.spotify.com/track/21Kzm94SbTfBWfnAgcK02E"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u9761",
+        "url": "https://open.spotify.com/album/20KC0BCuXFmg7XFjkdpAW9"
+      },
+      "artists": [
+        {
+          "name": "Janice Vidal",
+          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 230012,
+      "name": "\u98a8\u9761",
+      "url": "https://open.spotify.com/track/5sEEhOScgED3KxkF9lzgEd"
     },
     {
       "album": {
@@ -2993,7 +3519,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 199500,
       "name": "\u9ede\u9ede",
       "url": "https://open.spotify.com/track/5O34UglxtH9cKJj729BxlS"

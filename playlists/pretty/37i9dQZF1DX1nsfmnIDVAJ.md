@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nsfmnIDVAJ.md) - [plain]
 
 > Where all Hamilton music coexists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,971 likes - 72 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,165 likes - 72 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nsfmnIDVAJ.md) - [plain]
 | 71 | [Who Tells Your Story \(feat\. Common & Ingrid Michaelson\)](https://open.spotify.com/track/2KxJv4AduPGxzI5NH2HUoC) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 4:13 |
 | 72 | [Dear Theodosia \- Reprise](https://open.spotify.com/track/0EPhiIcssW3jLKcGL8zYfl) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 3:39 |
 
-Snapshot ID: `MTY1ODE5Mzg1NCwwMDAwMDAwMDZiYjA3ODQyNTg5NTgzYTY5YTM5M2Q5NzRiNTc4Yzkz`
+Snapshot ID: `MTY2NDI3MDkzOCwwMDAwMDAwMDNjMTE5NGU2MTcwY2E4ODQ3MGY1ZTQ2MGRhMjAzYTNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4A01B3wh6uv7yOpzYdVLR3.md) - [plain]
 
 > Weekly Selects of the best music chosen by the TeamSupremeCrew themselves..\. Turn the Volume up to 100.
 
-[beatteamsupreme](https://open.spotify.com/user/beatteamsupreme) - 12,922 likes - 40 songs - 2 hr 28 min
+[beatteamsupreme](https://open.spotify.com/user/beatteamsupreme) - 12,855 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

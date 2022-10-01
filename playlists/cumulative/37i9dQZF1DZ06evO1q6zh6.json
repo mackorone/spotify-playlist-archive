@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 202600,
       "name": "Better by You, Better Than Me",
       "url": "https://open.spotify.com/track/0GpBFY4Mb7fZVyQgaWirNG"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 470960,
       "name": "Blood Red Skies",
       "url": "https://open.spotify.com/track/7g796noAmjjQOibxStn85a"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-30",
       "duration_ms": 230866,
       "name": "Bloodstone",
       "url": "https://open.spotify.com/track/0njgMX72ZFD9oZnhpFLsn8"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 234840,
       "name": "Deal with the Devil",
       "url": "https://open.spotify.com/track/6mVMUvitJxfshLxXew7SrI"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": "2022-09-26",
       "duration_ms": 274866,
       "name": "Desert Plains",
       "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-29",
       "duration_ms": 203533,
       "name": "Diamonds and Rust",
       "url": "https://open.spotify.com/track/2Z17Q91PB11tzkDh0QQtd6"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 263040,
       "name": "Evil Never Dies",
       "url": "https://open.spotify.com/track/1I4bh7GClCeUW4uORsZhTs"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-10-01",
       "duration_ms": 264360,
       "name": "Freewheel Burning",
       "url": "https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-09-10",
       "duration_ms": 358240,
       "name": "Heavy Metal",
       "url": "https://open.spotify.com/track/2iAtvBE3MIBtVV1fkrFdxH"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": "2022-08-23",
       "duration_ms": 383573,
       "name": "Hellrider",
       "url": "https://open.spotify.com/track/1lT80058ozaFMiXsvC8qYl"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 206333,
       "name": "Jawbreaker",
       "url": "https://open.spotify.com/track/3T1k6b4zMzA2bW8klvKCcX"
@@ -674,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287733,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/36IWziKKiPQ65IU4cBQ5l2"
+    },
+    {
+      "album": {
         "name": "British Steel",
         "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
       },
@@ -728,6 +746,24 @@
     },
     {
       "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 173973,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/1Fr7OlVZrc3mDvru8j2cFi"
+    },
+    {
+      "album": {
         "name": "Screaming For Vengeance (Expanded Edition)",
         "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },
@@ -739,7 +775,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 253760,
       "name": "Pain and Pleasure",
       "url": "https://open.spotify.com/track/7Mt5iLXqe3NEfEOvxoms4v"
@@ -883,7 +919,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 323266,
       "name": "Rising From Ruins",
       "url": "https://open.spotify.com/track/1f2qbSrsGznurodPtpfjV2"

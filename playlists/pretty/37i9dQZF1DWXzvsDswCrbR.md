@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzvsDswCrbR.md) - [plain]
 
 > The sound of bounce, curated by Big Freedia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,316 likes - 22 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,530 likes - 22 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzvsDswCrbR.md) - [plain]
 | 21 | [Do It Again](https://open.spotify.com/track/1PiuN63vMoORqfCsF4ob1Q) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Cheeky Blakk](https://open.spotify.com/artist/2fPRPvD5jBW4fKLCRX9wLu) | [Ya\-Ka\-May \(Deluxe Edition\)](https://open.spotify.com/album/7DgwPKmMoPrZylKAeQ50z6) | 2:31 |
 | 22 | [Pipe That \(feat\. Icona Pop & The Soul Rebels\)](https://open.spotify.com/track/2PZSDlMj55mheRfBELyAsy) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Louder](https://open.spotify.com/album/1LoYYEZkYPEXKzTiw7p37T) | 2:50 |
 
-Snapshot ID: `MTYxMzUxODc5MCwwMDAwMDAwNjAwMDAwMTc3YWQzNmRlN2IwMDAwMDE3N2FkMmU4ZWQ3`
+Snapshot ID: `MTYxMzUxODc5MCwwMDAwMDAwMDc3ZDljZTE0YjZmYTRiNjc5M2FmMmM1MzJhMWZhNDVl`

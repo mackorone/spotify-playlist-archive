@@ -149,10 +149,32 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 910480,
       "name": "Blues At Sunrise",
       "url": "https://open.spotify.com/track/38ZO982GYm6W97nI6xWZbF"
+    },
+    {
+      "album": {
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 910573,
+      "name": "Blues At Sunrise",
+      "url": "https://open.spotify.com/track/2iRvnj638AaNON730B5yIs"
     },
     {
       "album": {
@@ -337,10 +359,28 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195133,
       "name": "Cuttin' In",
       "url": "https://open.spotify.com/track/3zIFZYaOv5xqtszhnXxYkb"
+    },
+    {
+      "album": {
+        "name": "Vivid Sound",
+        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Guitar\" Watson",
+          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195693,
+      "name": "Cuttin' In",
+      "url": "https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX"
     },
     {
       "album": {
@@ -774,6 +814,24 @@
     },
     {
       "album": {
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431853,
+      "name": "Stone Crazy",
+      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
+    },
+    {
+      "album": {
         "name": "I Was Walkin' Through The Woods",
         "url": "https://open.spotify.com/album/3zAWUcaE9lzjf5qWcNqJlk"
       },
@@ -785,7 +843,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 434693,
       "name": "Stone Crazy",
       "url": "https://open.spotify.com/track/3FVpPBl3Jbd5TRLUFZamO9"

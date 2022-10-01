@@ -214,7 +214,7 @@
     },
     {
       "album": {
-        "name": "Road Trip (SD)",
+        "name": "Road Trip",
         "url": "https://open.spotify.com/album/4dswqusUs6cjDW8TFkg2xz"
       },
       "artists": [
@@ -293,7 +293,7 @@
     {
       "album": {
         "name": "In 27 Pieces: the Hilary Hahn Encores",
-        "url": "https://open.spotify.com/album/6nN0Ctjq2JO41exGhB0rhr"
+        "url": "https://open.spotify.com/album/7GiMQKT1Twq3MOVAGQekF7"
       },
       "artists": [
         {
@@ -312,6 +312,32 @@
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 301320,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/5Tyl58TBJ7FlzghUzw6j4C"
+    },
+    {
+      "album": {
+        "name": "In 27 Pieces: the Hilary Hahn Encores",
+        "url": "https://open.spotify.com/album/6nN0Ctjq2JO41exGhB0rhr"
+      },
+      "artists": [
+        {
+          "name": "David Del Tredici",
+          "url": "https://open.spotify.com/artist/2uSpHGRqp30nn4B7oRny5s"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        },
+        {
+          "name": "Cory Smythe",
+          "url": "https://open.spotify.com/artist/5UageRpKPwCqXQLs79kXO3"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 301320,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/6QiPZYpALWJKVv7ZUxkoC9"
@@ -341,7 +367,7 @@
     {
       "album": {
         "name": "Poulenc: Les biches Suite, Les animaux mod\u00e8les Suite & Sinfonietta",
-        "url": "https://open.spotify.com/album/5LIZdcAf3b1KvlgGZgE2LH"
+        "url": "https://open.spotify.com/album/6CrIu0ph8Xka97Feys5HV2"
       },
       "artists": [
         {
@@ -360,6 +386,32 @@
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199293,
+      "name": "Les biches Suite, FP 36b: I. Rondeau",
+      "url": "https://open.spotify.com/track/0e87MO1RHQvmt1Lj4PSnG1"
+    },
+    {
+      "album": {
+        "name": "Poulenc: Les biches Suite, Les animaux mod\u00e8les Suite & Sinfonietta",
+        "url": "https://open.spotify.com/album/5LIZdcAf3b1KvlgGZgE2LH"
+      },
+      "artists": [
+        {
+          "name": "Francis Poulenc",
+          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
+        },
+        {
+          "name": "RT\u00c9 National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1UKYHr4TXjVaLFkQ0Y0Frq"
+        },
+        {
+          "name": "Jean-Luc Tingaud",
+          "url": "https://open.spotify.com/artist/4vZrRCX39dj4hgGJMNVQzu"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 199293,
       "name": "Les biches Suite, FP 36b: I. Rondeau",
       "url": "https://open.spotify.com/track/51RF2u4HJ6p9Y5qiXrPmF8"
@@ -401,6 +453,48 @@
     {
       "album": {
         "name": "Bernstein, L.: Mass",
+        "url": "https://open.spotify.com/album/35Sq3RoJD9FHZL3ca0EPQn"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "Jubilant Sykes",
+          "url": "https://open.spotify.com/artist/73Bdg5wnkiWMtLKeK5mGIn"
+        },
+        {
+          "name": "Asher Edward Wulfman",
+          "url": "https://open.spotify.com/artist/2GDjxTEZzrSWdVvvwAW3RM"
+        },
+        {
+          "name": "Peabody Children's Chorus",
+          "url": "https://open.spotify.com/artist/6b5wMHPrdmis98LTBk9S52"
+        },
+        {
+          "name": "Morgan State University Choir",
+          "url": "https://open.spotify.com/artist/256hBSJmjdCUS3ZQLhlbjM"
+        },
+        {
+          "name": "Baltimore Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1w77QW6t2p7zrCEbgwk256"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250653,
+      "name": "Mass: Devotions before Mass: Hymn and Psalm, \"A Simple Song\" (Celebrant)",
+      "url": "https://open.spotify.com/track/5IVSzDEnjYFRYjz6q8aJVM"
+    },
+    {
+      "album": {
+        "name": "Bernstein, L.: Mass",
         "url": "https://open.spotify.com/album/6as1JDlB4jveAkgVB31VHe"
       },
       "artists": [
@@ -431,7 +525,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250653,
       "name": "Mass: No. 2, Hymn & Psalm. A Simple Song",
       "url": "https://open.spotify.com/track/1rUaMiCpzEA9jl4QKtKkCe"
@@ -564,6 +658,32 @@
     },
     {
       "album": {
+        "name": "Smyth: Orchestral Works",
+        "url": "https://open.spotify.com/album/1H1JR9BAkm4HvpKyYBBHU9"
+      },
+      "artists": [
+        {
+          "name": "Dame Ethel Smyth",
+          "url": "https://open.spotify.com/artist/0x6hX5r8QJdP9dAbKx3Ck9"
+        },
+        {
+          "name": "Odaline de la Martinez",
+          "url": "https://open.spotify.com/artist/1fQgbE1iYZ2CsTbxXS2TlA"
+        },
+        {
+          "name": "BBC Philharmonic",
+          "url": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369333,
+      "name": "Serenade in D Major: II. Scherzo. Allegro vivace",
+      "url": "https://open.spotify.com/track/5NxgXaEt0t2K7sYvVo7q1u"
+    },
+    {
+      "album": {
         "name": "Smyth: Serenade in D Major / Concerto for Violin, Horn and Orchestra",
         "url": "https://open.spotify.com/album/4UOW8vU6ZmGF44jo6GjLkl"
       },
@@ -583,7 +703,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 369360,
       "name": "Serenade in D Major: II. Scherzo. Allegro vivace - Allegro molto",
       "url": "https://open.spotify.com/track/1UtAlIatgUY1BNMRXT2pks"
@@ -647,7 +767,7 @@
     {
       "album": {
         "name": "Insomnia",
-        "url": "https://open.spotify.com/album/2Bfb20qiArxchXjZSIqomE"
+        "url": "https://open.spotify.com/album/4Gmppnt4Io0UDKxkSzlYRi"
       },
       "artists": [
         {
@@ -666,6 +786,32 @@
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Six Melodies - performed on Violin and Harp: No.1 Rubato",
+      "url": "https://open.spotify.com/track/1gODSHtDfuBYgLiJytxn5M"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/2Bfb20qiArxchXjZSIqomE"
+      },
+      "artists": [
+        {
+          "name": "John Cage",
+          "url": "https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Naoko Yoshino",
+          "url": "https://open.spotify.com/artist/1zfl6prcMarqvXpCksIK99"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 163000,
       "name": "Six Melodies - performed on Violin and Harp: No.1 Rubato",
       "url": "https://open.spotify.com/track/7gWo1huc6LkHfn8Mm4lLzY"
@@ -724,6 +870,28 @@
     },
     {
       "album": {
+        "name": "Tippet: String Quartets (Wigmore Hall Live)",
+        "url": "https://open.spotify.com/album/3VxwsumKcHoUxEkXMPIelm"
+      },
+      "artists": [
+        {
+          "name": "Michael Tippett",
+          "url": "https://open.spotify.com/artist/0hW5OU8cM6ANp2gTi5WR2P"
+        },
+        {
+          "name": "Heath Quartet",
+          "url": "https://open.spotify.com/artist/5MvZXG0LIbhA4XPss20Hvc"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413586,
+      "name": "String Quartet No. 1: II. Lento cantabile - Live",
+      "url": "https://open.spotify.com/track/34gNQrlrByAuYnLasplXXV"
+    },
+    {
+      "album": {
         "name": "Tippett String Quartets - Wigmore Hall Live",
         "url": "https://open.spotify.com/album/7ItuvbFMRjTOmlON3yDvNj"
       },
@@ -739,7 +907,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 413586,
       "name": "String Quartet No.1: II. Lento cantabile -",
       "url": "https://open.spotify.com/track/6EPQnkDhysbGktuPSE6rq6"
@@ -873,10 +1041,44 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 425520,
       "name": "Tabuh-tabuhan: I. Ostinatos",
       "url": "https://open.spotify.com/track/4Om2R9YGw2dLCLrTXVSuUM"
+    },
+    {
+      "album": {
+        "name": "Britten: Prince of the Pagodas Suite - McPhee: Tabuh-Tabuhan",
+        "url": "https://open.spotify.com/album/2hKGXzQe56ukTUxpPMkMjK"
+      },
+      "artists": [
+        {
+          "name": "Colin McPhee",
+          "url": "https://open.spotify.com/artist/33f9XCM5DAsntjTwbUNnvU"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "John Alley",
+          "url": "https://open.spotify.com/artist/3hRhfQSrL12SX2s3jtpEMZ"
+        },
+        {
+          "name": "Elizabeth Burley",
+          "url": "https://open.spotify.com/artist/2lCkdrLEAILjFMALTXrfVg"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425333,
+      "name": "Tabuh-Tabuhan: I. Ostinatos",
+      "url": "https://open.spotify.com/track/4b4BBXJZOhpXsgdKSqjith"
     },
     {
       "album": {
@@ -1010,6 +1212,32 @@
     },
     {
       "album": {
+        "name": "Smyth: Mass in D & Overture to The Wreckers",
+        "url": "https://open.spotify.com/album/40zgPrSfF6F56oeLcKd2uX"
+      },
+      "artists": [
+        {
+          "name": "Dame Ethel Smyth",
+          "url": "https://open.spotify.com/artist/0x6hX5r8QJdP9dAbKx3Ck9"
+        },
+        {
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561800,
+      "name": "The Wreckers: Overture",
+      "url": "https://open.spotify.com/track/2a27HZN5tdiDkQcHCymEcW"
+    },
+    {
+      "album": {
         "name": "Smyth: Mass in D Major & Overture to \"The Wreckers\"",
         "url": "https://open.spotify.com/album/0g11cYcXjkCurVlymY8Jup"
       },
@@ -1029,7 +1257,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 561800,
       "name": "The Wreckers: Overture",
       "url": "https://open.spotify.com/track/2ez1A77nceYg4sVaczyCak"
@@ -1073,10 +1301,36 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127880,
       "name": "The Young Person's Guide to the Orchestra, Op. 34: Theme",
       "url": "https://open.spotify.com/track/4SpAmUX7CJqov9TMnTF9kG"
+    },
+    {
+      "album": {
+        "name": "Britten: The Young Person's Guide To the Orchestra / Variations On A Theme of Frank Bridge",
+        "url": "https://open.spotify.com/album/4z8P5ZIlDsmht5CMzRyUtO"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Steuart Bedford",
+          "url": "https://open.spotify.com/artist/61DycqRRPm7wtEBB1vW8da"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127880,
+      "name": "The Young Person's Guide to the Orchestra: Variations and Fugue on a Theme of Henry Purcell, Op. 34: Theme",
+      "url": "https://open.spotify.com/track/6ou1DAWaq3J9A7lO6f82vs"
     },
     {
       "album": {
@@ -1253,7 +1507,7 @@
     {
       "album": {
         "name": "Warsaw Concerto - romantic piano classics from the silver screen",
-        "url": "https://open.spotify.com/album/7vtktD6LxUy6CHxKknKTCf"
+        "url": "https://open.spotify.com/album/6aXAOwRF0sBiDeQZwIo9zK"
       },
       "artists": [
         {
@@ -1276,6 +1530,36 @@
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 540066,
+      "name": "Warsaw Concerto",
+      "url": "https://open.spotify.com/track/1u8IzWRTBBznzdSs2SWJuS"
+    },
+    {
+      "album": {
+        "name": "Warsaw Concerto - romantic piano classics from the silver screen",
+        "url": "https://open.spotify.com/album/7vtktD6LxUy6CHxKknKTCf"
+      },
+      "artists": [
+        {
+          "name": "Richard Addinsell",
+          "url": "https://open.spotify.com/artist/06LiIUiAEMBc6yLMXn2aEV"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "Hugh Wolff",
+          "url": "https://open.spotify.com/artist/1sa3cLzMIDqNJgkNqHrhKt"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 540066,
       "name": "Warsaw Concerto",
       "url": "https://open.spotify.com/track/5pg9vSNAOFLtyZpUU42cBo"

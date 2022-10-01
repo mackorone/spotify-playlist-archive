@@ -8,6 +8,42 @@
   "tracks": [
     {
       "album": {
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 309533,
+      "name": "A sight to behold",
+      "url": "https://open.spotify.com/track/2fA5O6Fs60rtXxIfelVKcH"
+    },
+    {
+      "album": {
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 379800,
+      "name": "Adoration for none",
+      "url": "https://open.spotify.com/track/3l5h9gjuQDSC6CI0N6Fr0v"
+    },
+    {
+      "album": {
         "name": "Fortitude",
         "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
       },
@@ -163,7 +199,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-29",
       "duration_ms": 294616,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/537CmK97BafGLCgelxK0fS"
@@ -181,7 +217,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 101986,
       "name": "Drum Solo",
       "url": "https://open.spotify.com/track/4oYJDGfT4sLwJc8AvqkHCp"
@@ -221,6 +257,24 @@
       "duration_ms": 344746,
       "name": "Esoteric surgery",
       "url": "https://open.spotify.com/track/7bUcTW0mHg4Ec0kgdXemEG"
+    },
+    {
+      "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399320,
+      "name": "Explosia",
+      "url": "https://open.spotify.com/track/7f7AkrOCmi5X6Eovd3TiNq"
     },
     {
       "album": {
@@ -271,7 +325,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 531658,
       "name": "In the Forest",
       "url": "https://open.spotify.com/track/0lLydPiYHd4xH0YNSOuSu5"
@@ -307,7 +361,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 302293,
       "name": "Into The Storm",
       "url": "https://open.spotify.com/track/6TCxtJhcwImUhRzdPXRURA"
@@ -523,7 +577,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 263502,
       "name": "Satan Is a Lawyer",
       "url": "https://open.spotify.com/track/6hykEQW67sL7g4oj0XgFZh"
@@ -631,7 +685,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": "2022-09-23",
       "duration_ms": 274480,
       "name": "The Axe",
       "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
@@ -656,6 +710,24 @@
     },
     {
       "album": {
+        "name": "Fortitude",
+        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312751,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/41DA32rbYp3PoLCAJeup0J"
+    },
+    {
+      "album": {
         "name": "L'Enfant Sauvage (Special Edition)",
         "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
       },
@@ -667,7 +739,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 325573,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/6WwjzD7ZnIgzWHKyOvGqG1"
@@ -757,7 +829,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": "2022-09-29",
       "duration_ms": 239120,
       "name": "This Emptiness",
       "url": "https://open.spotify.com/track/5HTPySHVzKat76M1IbiNml"

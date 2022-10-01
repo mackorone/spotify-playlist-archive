@@ -153,7 +153,7 @@
     {
       "album": {
         "name": "DJ-Kicks",
-        "url": "https://open.spotify.com/album/4qkVPmVQZfS3bHamToqAjM"
+        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
       },
       "artists": [
         {
@@ -164,6 +164,24 @@
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 380786,
+      "name": "Black Baby (DJ-KiCKS)",
+      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
+    },
+    {
+      "album": {
+        "name": "DJ-Kicks",
+        "url": "https://open.spotify.com/album/4qkVPmVQZfS3bHamToqAjM"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 380786,
       "name": "Black Baby (DJ-KiCKS)",
       "url": "https://open.spotify.com/track/3xIG6Jdl7NHqyBc7YpXl6g"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 245493,
       "name": "Black Jesus",
       "url": "https://open.spotify.com/track/6JKFK3xmbsemZvLA40R7KH"
@@ -199,10 +217,28 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 313800,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/03WuFsWpkytZ6c5iidS8Im"
+    },
+    {
+      "album": {
+        "name": "Stateless",
+        "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
+      },
+      "artists": [
+        {
+          "name": "Stateless",
+          "url": "https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313800,
+      "name": "Bloodstream",
+      "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
     },
     {
       "album": {
@@ -225,7 +261,7 @@
     {
       "album": {
         "name": "Jazzanova EP",
-        "url": "https://open.spotify.com/album/440F9cBfNECAcIt9xQNiOg"
+        "url": "https://open.spotify.com/album/1gQEEHS7L5RBi5IQvZZs9f"
       },
       "artists": [
         {
@@ -238,7 +274,43 @@
       "date_removed": null,
       "duration_ms": 414693,
       "name": "Bohemian Sunset",
+      "url": "https://open.spotify.com/track/3YOQjNRshNSJcrHH4Ui5gL"
+    },
+    {
+      "album": {
+        "name": "Jazzanova EP",
+        "url": "https://open.spotify.com/album/440F9cBfNECAcIt9xQNiOg"
+      },
+      "artists": [
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 414693,
+      "name": "Bohemian Sunset",
       "url": "https://open.spotify.com/track/4ENVKgpKC1omoGwfAlJoL6"
+    },
+    {
+      "album": {
+        "name": "DJ-Kicks (DJ Cam)",
+        "url": "https://open.spotify.com/album/7z5ygZYu5y2MAo0qq2y0Kp"
+      },
+      "artists": [
+        {
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 467946,
+      "name": "Bronx Theme (DJ-Kicks)",
+      "url": "https://open.spotify.com/track/0S71jGqrEDoeaYu5JN1PML"
     },
     {
       "album": {
@@ -253,7 +325,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 467946,
       "name": "Bronx Theme (DJ-Kicks)",
       "url": "https://open.spotify.com/track/6Stxg3F3c16NOYPkKy74mT"
@@ -286,6 +358,28 @@
     },
     {
       "album": {
+        "name": "Trip Hop Classics",
+        "url": "https://open.spotify.com/album/0SatpsNu81KdWzit0pmCb3"
+      },
+      "artists": [
+        {
+          "name": "Bomb The Bass",
+          "url": "https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6"
+        },
+        {
+          "name": "Justin Warfield",
+          "url": "https://open.spotify.com/artist/7FsYhkJR8zX4NeEqifNqDA"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447213,
+      "name": "Bug Powder Dust - Kruder & Dorfmeister Session",
+      "url": "https://open.spotify.com/track/2LPJmgAK8YNvIIa8ue58rI"
+    },
+    {
+      "album": {
         "name": "Island Records Post Punk Box Set - Out Come The Freaks",
         "url": "https://open.spotify.com/album/0THgn0SNHFx0tqqYqQlt4R"
       },
@@ -301,7 +395,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 447213,
       "name": "Bug Powder Dust - Kruder & Dorfmeister Session",
       "url": "https://open.spotify.com/track/3ZidgUvrmVNhroQqjSpVYE"
@@ -391,7 +485,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 346306,
       "name": "Contemplating Jazz",
       "url": "https://open.spotify.com/track/2IJHB5hnXXXsjPHUnsZlvt"
@@ -485,7 +579,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 294060,
       "name": "Dig This Vibe",
       "url": "https://open.spotify.com/track/2xtVHxXsBNADpdNUr8Owpa"
@@ -521,7 +615,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 352000,
       "name": "Electric Lazyland",
       "url": "https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp"
@@ -575,7 +669,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 281500,
       "name": "Fictions",
       "url": "https://open.spotify.com/track/3zyuM9NvUgRNptc9uV14SW"
@@ -593,7 +687,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 322200,
       "name": "Five Days",
       "url": "https://open.spotify.com/track/2J0udoywJrh32Mcp3VSiU9"
@@ -611,7 +705,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 456240,
       "name": "Free Your Turntable And Your Scratch Will Follow",
       "url": "https://open.spotify.com/track/0HVYAM7HheGaM2pMHVfFcD"
@@ -647,7 +741,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 462240,
       "name": "Get Your Head Down",
       "url": "https://open.spotify.com/track/4SYVoeYf6tMll3e0UHKInU"
@@ -683,10 +777,28 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226960,
       "name": "Hell Is Round The Corner",
       "url": "https://open.spotify.com/track/04hr5vtWbtWaN0qehBfBCL"
+    },
+    {
+      "album": {
+        "name": "Maxinquaye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227066,
+      "name": "Hell Is Round The Corner",
+      "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
     },
     {
       "album": {
@@ -773,7 +885,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 338706,
       "name": "Johnson",
       "url": "https://open.spotify.com/track/522A3dgrvWe27tK3L3gbYF"
@@ -817,6 +929,24 @@
     {
       "album": {
         "name": "The Man From Mo\u2019 Wax (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3s4nn0k0RXhScSDaBXuvEq"
+      },
+      "artists": [
+        {
+          "name": "DJ Krush",
+          "url": "https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 289013,
+      "name": "Kemuri",
+      "url": "https://open.spotify.com/track/1cZ6ZDrVtkah2nqtVmfhQK"
+    },
+    {
+      "album": {
+        "name": "The Man From Mo\u2019 Wax (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/522WXUW4LHX4uc3TZhJCdZ"
       },
       "artists": [
@@ -827,7 +957,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 290013,
       "name": "Kemuri",
       "url": "https://open.spotify.com/track/2mxTWNaUEHwdedwdS9KYcW"
@@ -899,10 +1029,28 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 451400,
       "name": "Livin' Free (Soundtrack Mix)",
       "url": "https://open.spotify.com/track/7Bz6aEEf7l0z1aNPyUMxNL"
+    },
+    {
+      "album": {
+        "name": "Ninja Cuts - Flexistentialism",
+        "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
+      },
+      "artists": [
+        {
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285560,
+      "name": "London Mind State",
+      "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
     },
     {
       "album": {
@@ -917,7 +1065,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285560,
       "name": "London Mind State",
       "url": "https://open.spotify.com/track/3fTKgBq4hmYqulTK2cCTqz"
@@ -1015,7 +1163,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 211000,
       "name": "Misunderstood (feat. Donna Paul)",
       "url": "https://open.spotify.com/track/78kypI1IufTDhrcbhvtLeS"
@@ -1041,6 +1189,24 @@
     {
       "album": {
         "name": "Major Force West ('93 - '97)",
+        "url": "https://open.spotify.com/album/465mxu1pDJsSCXOziGO7ly"
+      },
+      "artists": [
+        {
+          "name": "Major Force West E.M.S. Orchestra",
+          "url": "https://open.spotify.com/artist/0pRKH6lK1VidZ76cfdGx9v"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 384960,
+      "name": "Mugen - In the Morning",
+      "url": "https://open.spotify.com/track/4ayKqsvMn7CTyUg2cZMzLc"
+    },
+    {
+      "album": {
+        "name": "Major Force West ('93 - '97)",
         "url": "https://open.spotify.com/album/1yA9wy8Tg3cNJPUh7IobIA"
       },
       "artists": [
@@ -1051,7 +1217,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 384960,
       "name": "Mugen - In the Morning",
       "url": "https://open.spotify.com/track/5ioG3sYeZ7ylvqjAp2nxX9"
@@ -1087,7 +1253,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 358213,
       "name": "No Competition",
       "url": "https://open.spotify.com/track/1sXmkVWZHCkj76FcHh3rIL"
@@ -1177,10 +1343,28 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269266,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/0EZwXw5ZG0RSnrpzYHLkX1"
+    },
+    {
+      "album": {
+        "name": "Maxinquaye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270093,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou"
     },
     {
       "album": {
@@ -1195,7 +1379,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 341984,
       "name": "Plasmic Head",
       "url": "https://open.spotify.com/track/7lqxSZ3J8ruav0r3J1di3t"
@@ -1297,7 +1481,7 @@
     {
       "album": {
         "name": "Sounds From The Thievery Hi-Fi",
-        "url": "https://open.spotify.com/album/3aQCZj9daJ9DAhUs7xirdN"
+        "url": "https://open.spotify.com/album/1kG4sGGeJC1JmB0qrrdcVK"
       },
       "artists": [
         {
@@ -1308,6 +1492,24 @@
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 384613,
+      "name": "Shaolin Satellite",
+      "url": "https://open.spotify.com/track/7zr6d9QDDmpo0w0N5LPBjs"
+    },
+    {
+      "album": {
+        "name": "Sounds From The Thievery Hi-Fi",
+        "url": "https://open.spotify.com/album/3aQCZj9daJ9DAhUs7xirdN"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 385826,
       "name": "Shaolin Satellite",
       "url": "https://open.spotify.com/track/35uzCegY2dxHFkeUJ4sBxq"
@@ -1369,6 +1571,24 @@
     {
       "album": {
         "name": "Jaku",
+        "url": "https://open.spotify.com/album/3CwU0SFLys2d9BKbzX42cH"
+      },
+      "artists": [
+        {
+          "name": "DJ Krush",
+          "url": "https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 299240,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/6gJn2GouSKBuU1z1ydwDS8"
+    },
+    {
+      "album": {
+        "name": "Jaku",
         "url": "https://open.spotify.com/album/3dmRqnSSeMcPOrFGAmy2sm"
       },
       "artists": [
@@ -1379,7 +1599,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 299240,
       "name": "Song 2",
       "url": "https://open.spotify.com/track/6yanRGdN1bj7aYsXnElK0h"
@@ -1451,7 +1671,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 337611,
       "name": "Striplight",
       "url": "https://open.spotify.com/track/0xjkjlSouvIL3gUWoFcDf4"
@@ -1469,10 +1689,28 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 364453,
       "name": "Suzuki",
       "url": "https://open.spotify.com/track/2mnDmEn04zSSXjy0DjiKPL"
+    },
+    {
+      "album": {
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364453,
+      "name": "Suzuki",
+      "url": "https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB"
     },
     {
       "album": {
@@ -1487,7 +1725,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 346160,
       "name": "Take Nine",
       "url": "https://open.spotify.com/track/1LY5nlaBgdMtz9FS3thZjp"
@@ -1513,7 +1751,7 @@
     {
       "album": {
         "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+        "url": "https://open.spotify.com/album/3YzjoOkkhWQ6l76aaUa7BP"
       },
       "artists": [
         {
@@ -1524,6 +1762,24 @@
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 278346,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/4G6ra5sanRGP2PWNw0FESC"
+    },
+    {
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 279933,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
@@ -1649,10 +1905,28 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 332759,
       "name": "Trigger Hippie",
       "url": "https://open.spotify.com/track/1GaYqv2NMMlVbG3ewJQ4A6"
+    },
+    {
+      "album": {
+        "name": "Who Can You Trust? / Beats & B-Sides",
+        "url": "https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr"
+      },
+      "artists": [
+        {
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332759,
+      "name": "Trigger Hippie",
+      "url": "https://open.spotify.com/track/4f3hGEjA7BnujnDYz7gHZ6"
     },
     {
       "album": {
@@ -1693,7 +1967,7 @@
     {
       "album": {
         "name": "The Antidote",
-        "url": "https://open.spotify.com/album/7IRyNMCaEPw7wHZLvCyMQL"
+        "url": "https://open.spotify.com/album/5WXggaUoLfWMBL4QfJ6R4I"
       },
       "artists": [
         {
@@ -1705,8 +1979,44 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 349560,
+      "name": "We Be the Crew",
+      "url": "https://open.spotify.com/track/44ZVjpEvhtAM74LE3ZskAX"
+    },
+    {
+      "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/7IRyNMCaEPw7wHZLvCyMQL"
+      },
+      "artists": [
+        {
+          "name": "The Wiseguys",
+          "url": "https://open.spotify.com/artist/7oBJEgh7PQKJuxXb1lUEKA"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 349560,
       "name": "We Be The Crew",
       "url": "https://open.spotify.com/track/7tLkfIKGpXYVU44YDDmhxG"
+    },
+    {
+      "album": {
+        "name": "Saint-Germain-des-Pr\u00e9s-Caf\u00e9 - Anthology",
+        "url": "https://open.spotify.com/album/4XNXOmOIQuAfhAW2W4Yoh8"
+      },
+      "artists": [
+        {
+          "name": "Tek 9",
+          "url": "https://open.spotify.com/artist/7kOnKv7CHaq24tNAa2moIZ"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 300480,
+      "name": "We're Gettin' Down",
+      "url": "https://open.spotify.com/track/5oE7TiHNbshLKr78XVNDdy"
     },
     {
       "album": {
@@ -1721,7 +2031,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 301160,
       "name": "We're Gettin' Down",
       "url": "https://open.spotify.com/track/3A0wBYV4TOTdyAWXnGFvjd"
@@ -1746,6 +2056,24 @@
     },
     {
       "album": {
+        "name": "The Man From Mo\u2019 Wax (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3s4nn0k0RXhScSDaBXuvEq"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 381226,
+      "name": "What Does Your Soul Look Like - Pt.1",
+      "url": "https://open.spotify.com/track/33gDgh1eLhTsrEeCSfuWWX"
+    },
+    {
+      "album": {
         "name": "Preemptive Strike",
         "url": "https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0"
       },
@@ -1757,7 +2085,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 381226,
       "name": "What Does Your Soul Look Like - Pt.1",
       "url": "https://open.spotify.com/track/7bObrzqPrAN9fAKCoH8s40"

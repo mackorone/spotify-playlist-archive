@@ -45,7 +45,7 @@
     {
       "album": {
         "name": "The Life Pursuit",
-        "url": "https://open.spotify.com/album/0pqlfn0pAYDb2zassbbD6G"
+        "url": "https://open.spotify.com/album/3G6qfauXGRxcWaCFZvGaLU"
       },
       "artists": [
         {
@@ -56,6 +56,24 @@
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 244400,
+      "name": "Another Sunny Day",
+      "url": "https://open.spotify.com/track/07ZSQZzH92n1uwEG0m8M4f"
+    },
+    {
+      "album": {
+        "name": "The Life Pursuit",
+        "url": "https://open.spotify.com/album/0pqlfn0pAYDb2zassbbD6G"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 244400,
       "name": "Another Sunny Day",
       "url": "https://open.spotify.com/track/1SxC3v3Mcm5VPxeXaF59NY"
@@ -73,10 +91,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197265,
       "name": "Arrieros somos",
       "url": "https://open.spotify.com/track/5oHIbFrgvcjWgVY99O8Cmo"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico, Vol. II",
+        "url": "https://open.spotify.com/album/1daoIj3pRxt6n5g9T4kCUU"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199653,
+      "name": "Arrieros Somos",
+      "url": "https://open.spotify.com/track/5tL00ynK5ogVNz66Np8yal"
     },
     {
       "album": {
@@ -129,10 +165,58 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188520,
       "name": "Bamboo Moon",
       "url": "https://open.spotify.com/track/7gpoXslo0qPx3VfBNGzNCy"
+    },
+    {
+      "album": {
+        "name": "Tokyo Nights",
+        "url": "https://open.spotify.com/album/2vPThJkZW1E75mLySTAwA0"
+      },
+      "artists": [
+        {
+          "name": "The Mutants",
+          "url": "https://open.spotify.com/artist/2oZHwy5acrhHeSAnTA4oxV"
+        },
+        {
+          "name": "Chris Constantinou",
+          "url": "https://open.spotify.com/artist/4T6KYrXYvk5Bu1u0XLWmj3"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188318,
+      "name": "Bamboo Moon",
+      "url": "https://open.spotify.com/track/1Yr7ew77WJ6fCOHP34g6h9"
+    },
+    {
+      "album": {
+        "name": "Bamboo Moon (As Featured in \"La Casa de Papel [Money Heist]\")",
+        "url": "https://open.spotify.com/album/69dpMF0HjieDjZHKKfr0n4"
+      },
+      "artists": [
+        {
+          "name": "The Mutants",
+          "url": "https://open.spotify.com/artist/2oZHwy5acrhHeSAnTA4oxV"
+        },
+        {
+          "name": "THE LET'S GO's",
+          "url": "https://open.spotify.com/artist/6taxB6tZsn4SxvlmPjfmXz"
+        },
+        {
+          "name": "Chris Constantinou",
+          "url": "https://open.spotify.com/artist/4T6KYrXYvk5Bu1u0XLWmj3"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 188318,
+      "name": "Bamboo Moon (As Featured in \"La Casa de Papel [Money Heist]\")",
+      "url": "https://open.spotify.com/track/53EMpxo2Vek9EnsXlgcIYG"
     },
     {
       "album": {
@@ -173,7 +257,7 @@
     {
       "album": {
         "name": "Bella ciao",
-        "url": "https://open.spotify.com/album/2ZcvvyXP4yqh3EdYodsHwl"
+        "url": "https://open.spotify.com/album/5ddDj8XH2GBfgDjEZpVD0p"
       },
       "artists": [
         {
@@ -184,6 +268,24 @@
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 129593,
+      "name": "Bella ciao",
+      "url": "https://open.spotify.com/track/0Hssk7StCZSPBwTaghTJsR"
+    },
+    {
+      "album": {
+        "name": "Bella ciao",
+        "url": "https://open.spotify.com/album/2ZcvvyXP4yqh3EdYodsHwl"
+      },
+      "artists": [
+        {
+          "name": "Najwa",
+          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 129593,
       "name": "Bella ciao",
       "url": "https://open.spotify.com/track/1l0i7201yGXdNFKZMJLs7M"
@@ -227,6 +329,28 @@
     {
       "album": {
         "name": "Electronic Blockbusters",
+        "url": "https://open.spotify.com/album/1oaM3AzQjkJxexuKEW8yGo"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel David Lipszyc",
+          "url": "https://open.spotify.com/artist/0xH5PprEyVDsTXU1tCN5ga"
+        },
+        {
+          "name": "S\u00e9bastien Lipszyc",
+          "url": "https://open.spotify.com/artist/4TKLeyMsrfRvCFclPyplao"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201056,
+      "name": "Black Hole Ceremony",
+      "url": "https://open.spotify.com/track/7AmR7EPk7PtCl0RIMkfYfD"
+    },
+    {
+      "album": {
+        "name": "Electronic Blockbusters",
         "url": "https://open.spotify.com/album/35jSyK4RTebQa0IRVjXMNn"
       },
       "artists": [
@@ -241,10 +365,28 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201053,
       "name": "Black Hole Ceremony",
       "url": "https://open.spotify.com/track/5C4sq8vyguLMW1RpbJlQih"
+    },
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/7mIAY7o0BiPwlT2S3gCQo3"
+      },
+      "artists": [
+        {
+          "name": "Ofi La Melodia",
+          "url": "https://open.spotify.com/artist/2tH1VzCRDKsXhm6MhuAhY5"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211224,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/06iBEeAvZXnByI9GWMb823"
     },
     {
       "album": {
@@ -259,7 +401,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211224,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/6sQU3wCAsVtsj3H6CtOTVa"
@@ -302,6 +444,24 @@
     },
     {
       "album": {
+        "name": "Can't take my eyes off you (Music from The Netflix Series \"La Casa de Papel\")",
+        "url": "https://open.spotify.com/album/2gprEJpgtJb5tDl6ntMpm1"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Krull",
+          "url": "https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209960,
+      "name": "Can't take my eyes off you - Music from The Netflix Series \"La Casa de Papel\"",
+      "url": "https://open.spotify.com/track/688zRXjBtLgc3qmPGmsQrv"
+    },
+    {
+      "album": {
         "name": "Can\u2019t Take My Eyes Off You (Music from The Netflix Series \"La Casa de Papel\")",
         "url": "https://open.spotify.com/album/4sB44uFnPr0eOCGNbnuYzf"
       },
@@ -313,7 +473,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209960,
       "name": "Can\u2019t Take My Eyes Off You - Music from The Netflix Series \"La Casa de Papel\"",
       "url": "https://open.spotify.com/track/04XIbwOCmaxjezWqaa2PnM"
@@ -331,10 +491,28 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239186,
       "name": "Centro Di Gravit\u00e0 Permanente - Remastered",
       "url": "https://open.spotify.com/track/5DlMR554Db6jiWPRWe95al"
+    },
+    {
+      "album": {
+        "name": "La Voce Del Padrone (Remastered)",
+        "url": "https://open.spotify.com/album/3vHxkAyC36Bi581ZUysCtZ"
+      },
+      "artists": [
+        {
+          "name": "Franco Battiato",
+          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239064,
+      "name": "Centro Di Gravit\u00e0 Permanente - Remastered 2021",
+      "url": "https://open.spotify.com/track/6OzeWNA1SQgZBw5caqAIKN"
     },
     {
       "album": {
@@ -533,10 +711,28 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190226,
       "name": "Harlem Shuffle",
       "url": "https://open.spotify.com/track/43pmIYPHMSKBLyMNoPLyRm"
+    },
+    {
+      "album": {
+        "name": "The Foundations",
+        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188026,
+      "name": "Harlem Shuffle - Alternate Take",
+      "url": "https://open.spotify.com/track/76t1Pd4pn3zwtWN8fD1zBy"
     },
     {
       "album": {
@@ -551,10 +747,28 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159844,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/41vUuxf0KFlUdTfyehVjoN"
+    },
+    {
+      "album": {
+        "name": "The Madcaps",
+        "url": "https://open.spotify.com/album/3SGYGOrFSMfZIoOraBufwg"
+      },
+      "artists": [
+        {
+          "name": "The Madcaps",
+          "url": "https://open.spotify.com/artist/3Vs1e8KVCqgQHUJcqxtgQu"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159844,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/53atpU3OjniShIbBgDJ84m"
     },
     {
       "album": {
@@ -733,6 +947,32 @@
     {
       "album": {
         "name": "Electronic Blockbusters",
+        "url": "https://open.spotify.com/album/1oaM3AzQjkJxexuKEW8yGo"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel David Lipszyc",
+          "url": "https://open.spotify.com/artist/0xH5PprEyVDsTXU1tCN5ga"
+        },
+        {
+          "name": "Klas Johan Wahl",
+          "url": "https://open.spotify.com/artist/74PUwAcMdO3wVdx10gmdB5"
+        },
+        {
+          "name": "S\u00e9bastien Lipszyc",
+          "url": "https://open.spotify.com/artist/4TKLeyMsrfRvCFclPyplao"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165162,
+      "name": "Magnetic Hurricane",
+      "url": "https://open.spotify.com/track/2H1VKoFzet2cWylWNvrJaw"
+    },
+    {
+      "album": {
+        "name": "Electronic Blockbusters",
         "url": "https://open.spotify.com/album/35jSyK4RTebQa0IRVjXMNn"
       },
       "artists": [
@@ -751,10 +991,28 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165160,
       "name": "Magnetic Hurricane",
       "url": "https://open.spotify.com/track/6y3uI07vKeKWNeH0pEdT8Y"
+    },
+    {
+      "album": {
+        "name": "Render Me Numb, Trivial Violence",
+        "url": "https://open.spotify.com/album/7yWIwU3osgvIKa3dJcgrmE"
+      },
+      "artists": [
+        {
+          "name": "Belako",
+          "url": "https://open.spotify.com/artist/7znL32O79uRRRhojT25gug"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180226,
+      "name": "Maskenfreiheit",
+      "url": "https://open.spotify.com/track/0EeTWwqWaHQbtENvvlYP60"
     },
     {
       "album": {
@@ -769,7 +1027,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180226,
       "name": "Maskenfreiheit",
       "url": "https://open.spotify.com/track/5kt1RIPNkxzCnNKRl80mjE"
@@ -943,10 +1201,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156586,
       "name": "Take Another Little Piece Of My Heart",
       "url": "https://open.spotify.com/track/0E4UBpsUOZ6Ic4SCxrXz1L"
+    },
+    {
+      "album": {
+        "name": "Dusty In London",
+        "url": "https://open.spotify.com/album/5g3vH5YFr5Om6x7P2xhML3"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158533,
+      "name": "Take Another Little Piece of My Heart",
+      "url": "https://open.spotify.com/track/43gYYzuAUfrsXxurrxVyE9"
     },
     {
       "album": {
@@ -1033,10 +1309,28 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242160,
       "name": "Ti amo",
       "url": "https://open.spotify.com/track/7b531MnsISnSjXFKOpAwlw"
+    },
+    {
+      "album": {
+        "name": "Ti amo",
+        "url": "https://open.spotify.com/album/0wX6lGqIoR0pE1vwJUVR29"
+      },
+      "artists": [
+        {
+          "name": "Umberto Tozzi",
+          "url": "https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245693,
+      "name": "Ti Amo",
+      "url": "https://open.spotify.com/track/6GKuVYC3oC8xjnNmDZyPF0"
     },
     {
       "album": {
@@ -1157,10 +1451,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269973,
       "name": "Way to Fall",
       "url": "https://open.spotify.com/track/20fUrFnUxqCJvTO40j6DbA"
+    },
+    {
+      "album": {
+        "name": "Love Is Here",
+        "url": "https://open.spotify.com/album/4PyGvXTMf0PmsWsDWohFZw"
+      },
+      "artists": [
+        {
+          "name": "Starsailor",
+          "url": "https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269973,
+      "name": "Way to Fall",
+      "url": "https://open.spotify.com/track/5CyKO0xcyDqexTfvQLwufF"
     },
     {
       "album": {
@@ -1182,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "Mint",
+        "url": "https://open.spotify.com/album/18KUlnsMtCS3W67CLyk0Fp"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223933,
+      "name": "Why So Serious",
+      "url": "https://open.spotify.com/track/6v48qTk0yzWneiNCS4T8co"
+    },
+    {
+      "album": {
         "name": "MINT",
         "url": "https://open.spotify.com/album/2FEGUDyvpMp7KlrVrBN0q7"
       },
@@ -1193,7 +1523,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227266,
       "name": "Why So Serious",
       "url": "https://open.spotify.com/track/3ouj5nHkyPXG1GV5fJmuiX"

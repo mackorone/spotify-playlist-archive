@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-26",
       "duration_ms": 234546,
       "name": "ACROSS",
       "url": "https://open.spotify.com/track/3eiSAx0hftzyT1cEC3e9Ff"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": "2022-10-01",
       "duration_ms": 251400,
       "name": "BRIGHT STREAM",
       "url": "https://open.spotify.com/track/5QfnHouzl7E6UaUhtDf99T"
@@ -73,10 +73,28 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 272640,
       "name": "Dancing in the velvet moon",
       "url": "https://open.spotify.com/track/28dDBhBG9O6MheKdPvbFp8"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 302013,
+      "name": "Destiny's Prelude",
+      "url": "https://open.spotify.com/track/0NVnQPyOowdP1euP7rslKx"
     },
     {
       "album": {
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 217915,
       "name": "DNA -Dance 'n' Amuse-",
       "url": "https://open.spotify.com/track/5N63S5oVtO9yECKuekiTGr"
@@ -152,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Exterminate",
+        "url": "https://open.spotify.com/album/5eyRVLUSNzYmLwoX2rKZ1e"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Exterminate",
+      "url": "https://open.spotify.com/track/335ebz0kyT8Y8uVQxFsKGM"
+    },
+    {
+      "album": {
         "name": "THE MUSEUM \u2162",
         "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
       },
@@ -163,7 +199,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 245093,
       "name": "Exterminate",
       "url": "https://open.spotify.com/track/22b3p38QWCoHEZI3PQ5RnK"
@@ -181,7 +217,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 254253,
       "name": "FEARLESS HERO",
       "url": "https://open.spotify.com/track/6aSOAkhrHgGv4hzDhnIm50"
@@ -199,7 +235,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-10-01",
       "duration_ms": 262403,
       "name": "FINAL COMMANDER",
       "url": "https://open.spotify.com/track/4BmDMzDL8rpgMcCTHQCJEr"
@@ -235,7 +271,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 225302,
       "name": "FIRE SCREAM",
       "url": "https://open.spotify.com/track/1q4RbhcSDoeyrR2uly6yQt"
@@ -253,7 +289,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 227934,
       "name": "FIRE SCREAM",
       "url": "https://open.spotify.com/track/10NBFtkgSdqzh7Xdcouzek"
@@ -307,7 +343,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": "2022-09-30",
       "duration_ms": 260106,
       "name": "Gimmick Game",
       "url": "https://open.spotify.com/track/0SuigwpDRKB1WZnAoE3AsC"
@@ -343,7 +379,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 232666,
       "name": "GLORIA",
       "url": "https://open.spotify.com/track/2LZGtWalfH0jc2cYGv3PF2"
@@ -368,6 +404,24 @@
     },
     {
       "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 230269,
+      "name": "Go Live!",
+      "url": "https://open.spotify.com/track/6fPmnIyjD5Gq9G4IVJ8ThE"
+    },
+    {
+      "album": {
         "name": "Go Live!",
         "url": "https://open.spotify.com/album/2ptmwRdo4fRDPOW1JbNHDv"
       },
@@ -379,10 +433,28 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 230280,
       "name": "Go Live!",
       "url": "https://open.spotify.com/track/7DtziIc0PbQqXEA2y0GpCR"
+    },
+    {
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 238328,
+      "name": "HOLY TALE",
+      "url": "https://open.spotify.com/track/2mM3EpaWr850L0hsZ5enND"
     },
     {
       "album": {
@@ -440,6 +512,42 @@
     },
     {
       "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 225750,
+      "name": "Link or Chains",
+      "url": "https://open.spotify.com/track/100h1Dh7OLkPvvojCBvspd"
+    },
+    {
+      "album": {
+        "name": "ULTIMATE DIAMOND",
+        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 251600,
+      "name": "MARIA&JOKER",
+      "url": "https://open.spotify.com/track/5hiyfMUO0OYNyhTEMfNaAN"
+    },
+    {
+      "album": {
         "name": "THE MUSEUM II",
         "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
       },
@@ -451,7 +559,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 255026,
       "name": "MASSIVE WONDERS",
       "url": "https://open.spotify.com/track/193WAoYb9MkQtsm25oOiAd"
@@ -487,7 +595,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 331686,
       "name": "METANOIA -Aufwachen Form-",
       "url": "https://open.spotify.com/track/6mgJiB30wD66AGCWoAZU7Q"
@@ -523,7 +631,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 260941,
       "name": "MY ENTERTAINMENT",
       "url": "https://open.spotify.com/track/4McoK7F5MGfam7ENQVaJle"
@@ -559,7 +667,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-08-08",
       "duration_ms": 260140,
       "name": "NEVER SURRENDER",
       "url": "https://open.spotify.com/track/477Xr2Es25pQuBe95lrt4t"
@@ -577,7 +685,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": "2022-09-30",
       "duration_ms": 273840,
       "name": "New Sensation",
       "url": "https://open.spotify.com/track/1sRruePW6hql3PLQKilkGt"
@@ -620,7 +728,7 @@
     },
     {
       "album": {
-        "name": "GEISHA BOY - ANIME SONG EXPERIENCE",
+        "name": "GEISHA BOY -ANIME SONG EXPERIENCE-",
         "url": "https://open.spotify.com/album/69ly56BCOHEVC3Q3UAlJzf"
       },
       "artists": [
@@ -671,10 +779,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-26",
       "duration_ms": 271679,
       "name": "Red Breeze",
       "url": "https://open.spotify.com/track/45x5FCsI4VvKoGyQXDnhPk"
+    },
+    {
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 272779,
+      "name": "Red Breeze",
+      "url": "https://open.spotify.com/track/0O8snDCXDEnK10SPvSvMS0"
     },
     {
       "album": {
@@ -707,7 +833,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-09-05",
       "duration_ms": 250266,
       "name": "SCARLET KNIGHT",
       "url": "https://open.spotify.com/track/7goJieTP7XVVLMLdb5OFHd"
@@ -761,7 +887,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 208520,
       "name": "STARTING NOW!",
       "url": "https://open.spotify.com/track/3hAyDY3024JUVmiIaBpcz0"
@@ -779,7 +905,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 271546,
       "name": "suddenly~\u5de1\u308a\u5408\u3048\u3066~",
       "url": "https://open.spotify.com/track/3Vmcy6TdOR1zYQeNDFzTcV"
@@ -930,6 +1056,24 @@
     },
     {
       "album": {
+        "name": "SUPERNAL LIBERTY",
+        "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 279293,
+      "name": "\u30a2\u30d1\u30c3\u30b7\u30e7\u30ca\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/6pyYwQs84SjOEKL1oh8piu"
+    },
+    {
+      "album": {
         "name": "CANNONBALL RUNNING",
         "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
       },
@@ -941,7 +1085,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 225334,
       "name": "\u30ab\u30eb\u30da\u30c7\u30a3\u30a8\u30e0",
       "url": "https://open.spotify.com/track/7LOC87d5QPMWfC0Kj2anPk"
@@ -959,7 +1103,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-26",
       "duration_ms": 239189,
       "name": "\u30b9\u30c8\u30e9\u30c8\u30b9\u30d5\u30a3\u30a2",
       "url": "https://open.spotify.com/track/5Xb7Xp3EyRr0RuRau3fFO3"
@@ -1017,6 +1161,24 @@
       "duration_ms": 299413,
       "name": "\u30d2\u30e1\u30e0\u30e9\u30b5\u30ad",
       "url": "https://open.spotify.com/track/5vWrf8YWJ0lsRqr6hH67yV"
+    },
+    {
+      "album": {
+        "name": "SMASHING ANTHEMS",
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-05",
+      "duration_ms": 237840,
+      "name": "\u30ec\u30a4\u30b8\u30fc\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/3xuoTY7rAvOXWlHgoAZNdv"
     },
     {
       "album": {
@@ -1128,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 303026,
+      "name": "\u7c8b\u604b",
+      "url": "https://open.spotify.com/track/4QnAK7vQVJ6IV7RHWuTD6Q"
+    },
+    {
+      "album": {
         "name": "THE MUSEUM II",
         "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
       },
@@ -1215,7 +1395,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 304840,
       "name": "\u8ff7\u5bae\u30d0\u30bf\u30d5\u30e9\u30a4-diverse-",
       "url": "https://open.spotify.com/track/1LYKl6K1sZ1u2f4uNZcxKz"

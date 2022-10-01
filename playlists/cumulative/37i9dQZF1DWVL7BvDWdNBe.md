@@ -4,7 +4,7 @@
 
 > Dance & jive to the biggest hits of Elvis Presley.
 
-35 songs - 1 hr 22 min - [published](https://open.spotify.com/playlist/2TQZzsNBQzRAmwWsHDz9nl)
+37 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/2TQZzsNBQzRAmwWsHDz9nl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [C'mon Everybody](https://open.spotify.com/track/2BcMIA1oRqG7tDbSEPBCtt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [C'mon Everybody](https://open.spotify.com/album/1qEWLQtbtSfa051tA3jJQ5) | 2:19 | 2022-04-26 |  |
 | [Dirty, Dirty Feeling](https://open.spotify.com/track/1R9uNg9F6WINW53YMwG3GP) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Is Back](https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1) | 1:33 | 2022-04-26 |  |
 | [Do the Clam](https://open.spotify.com/track/2DdtOIqWNDcrPEDAJv0VFe) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Girl Happy](https://open.spotify.com/album/4z27tEwwMNEILdVX1Sy40L) | 3:16 | 2022-04-26 |  |
-| [Good Rockin' Tonight](https://open.spotify.com/track/7cJNO7Q8CiF1H65WVnSIfg) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Bossa Nova Baby: The Ultimate Elvis Presley Party Album](https://open.spotify.com/album/5m21mnF0TmFzG9EevImho6) | 2:12 | 2022-04-26 |  |
+| [Good Rockin' Tonight](https://open.spotify.com/track/5yZQXR98v0kvhYQ7Adn8PK) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 2:11 | 2022-04-26 |  |
+| [Good Rockin' Tonight](https://open.spotify.com/track/7cJNO7Q8CiF1H65WVnSIfg) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Bossa Nova Baby: The Ultimate Elvis Presley Party Album](https://open.spotify.com/album/5m21mnF0TmFzG9EevImho6) | 2:12 | 2022-04-26 | 2022-07-29 |
 | [Guitar Man](https://open.spotify.com/track/7Lvjsltj3TcAJLaTVTWHwO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Bossa Nova Baby: The Ultimate Elvis Presley Party Album](https://open.spotify.com/album/4RaW2vsKwtP8AxXVAgZyZN) | 2:18 | 2022-04-26 |  |
 | [Guitar Man](https://open.spotify.com/track/7momNWKOObWP1nBE1BNirA) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Clambake](https://open.spotify.com/album/6rgQTKAl5UXrWhPUKuIGFN) | 2:19 | 2022-04-26 |  |
 | [Hard Headed Woman](https://open.spotify.com/track/32CVurlBxtEYQlDm3yzCLl) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [King Creole](https://open.spotify.com/album/7hdMmwpZmRf8efyh7G2pOl) | 1:53 | 2022-04-26 |  |
@@ -37,7 +38,8 @@
 | [Rubberneckin'](https://open.spotify.com/track/4cXnUi6qulwgj0fLSu0VYE) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Almost in Love](https://open.spotify.com/album/37RnDHLg68pu4owUWJYmMt) | 2:13 | 2022-04-26 |  |
 | [That's All Right](https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [For LP Fans Only](https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU) | 1:55 | 2022-04-26 |  |
 | [The Fool](https://open.spotify.com/track/67YCIYsiNG8iEd3AGCgR86) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Country](https://open.spotify.com/album/5nFIESxbIeBxoREzNMzzbN) | 2:33 | 2022-04-26 |  |
-| [Too Much Monkey Business](https://open.spotify.com/track/4g3pTaJtVbkXU0FuxpDbrb) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Bossa Nova Baby: The Ultimate Elvis Presley Party Album](https://open.spotify.com/album/5m21mnF0TmFzG9EevImho6) | 2:29 | 2022-04-26 |  |
+| [Too Much Monkey Business](https://open.spotify.com/track/4g3pTaJtVbkXU0FuxpDbrb) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Bossa Nova Baby: The Ultimate Elvis Presley Party Album](https://open.spotify.com/album/5m21mnF0TmFzG9EevImho6) | 2:29 | 2022-04-26 | 2022-07-29 |
+| [Too Much Monkey Business](https://open.spotify.com/track/7cHRosCDDl7qhHxkSpcTtH) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Sings Flaming Star](https://open.spotify.com/album/3xHHQWEtennMsfZ65t9Brv) | 2:30 | 2022-04-26 |  |
 | [Trouble / Guitar Man \- Live from the '68 Comeback Special](https://open.spotify.com/track/6fAOkcjttStpog7jfnVO1F) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Presley: The Searcher \(The Original Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/2ZxjVJSCfp2JYiN2Vrd7k6) | 3:26 | 2022-04-26 |  |
 | [Viva Las Vegas](https://open.spotify.com/track/5Q7ayTarb9Tpmkik5cVMug) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Gold Records, Vol\. 4](https://open.spotify.com/album/3ufobt4J5vaT3z7lgUub6a) | 2:24 | 2022-04-26 |  |
 | [Way Down](https://open.spotify.com/track/0JnEaldTC6IFyUGOqppFdG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Moody Blue](https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08) | 2:38 | 2022-04-26 |  |

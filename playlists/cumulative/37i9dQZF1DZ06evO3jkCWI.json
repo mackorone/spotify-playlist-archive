@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": "2022-09-26",
       "duration_ms": 197160,
       "name": "Alfredo Galeana",
       "url": "https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP"
@@ -95,6 +95,24 @@
       "duration_ms": 143733,
       "name": "Amor A La Ligera",
       "url": "https://open.spotify.com/track/33AAdwr1js1SESHflZAlTD"
+    },
+    {
+      "album": {
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 180533,
+      "name": "Animas Que No Amanezca",
+      "url": "https://open.spotify.com/track/3jtQaK6DFeiRhNbdwp86U0"
     },
     {
       "album": {
@@ -149,7 +167,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 203133,
       "name": "Chuy y Mauricio",
       "url": "https://open.spotify.com/track/36Ni5Z0OOmiDnOTIo4aJde"
@@ -203,7 +221,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-25",
       "duration_ms": 187466,
       "name": "Coraz\u00f3n De Oro",
       "url": "https://open.spotify.com/track/3hEDujdXlHpKEv8pW7SxBz"
@@ -311,7 +329,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": "2022-08-19",
       "duration_ms": 150973,
       "name": "El Amor De Nosotros",
       "url": "https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA"
@@ -347,7 +365,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-30",
       "duration_ms": 181386,
       "name": "El Preso de Nuevo Le\u00f3n",
       "url": "https://open.spotify.com/track/6wxe34W9Vy8PWwlkIy0Bf4"
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-09-22",
       "duration_ms": 164133,
       "name": "El Profugo De Tijuana",
       "url": "https://open.spotify.com/track/48tDkYg8Ih9b7YuPKyufEl"
@@ -417,8 +435,8 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         },
         {
-          "name": "Oscar Ivan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/53Vekk853sUKCQhPiVOU2y"
+          "name": "Oscar Iv\u00e1n Trev\u00edno",
+          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
         }
       ],
       "date_added": "2022-06-01",
@@ -459,7 +477,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 181720,
       "name": "Es Demasiado Tarde",
       "url": "https://open.spotify.com/track/70YMp6bVrVHMhgevfAbf63"
@@ -531,7 +549,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-15",
       "duration_ms": 189093,
       "name": "Gracias Porque Volviste",
       "url": "https://open.spotify.com/track/37nblWr0bJ6aIO548pKHqg"
@@ -556,6 +574,24 @@
     },
     {
       "album": {
+        "name": "Otra Era",
+        "url": "https://open.spotify.com/album/4EzWUl91tOLsFNgKrs8oe0"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 168304,
+      "name": "La Mejor de Mis Tragedias",
+      "url": "https://open.spotify.com/track/2VBLnpqcMppdvYeuDYXBth"
+    },
+    {
+      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
       },
@@ -567,10 +603,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-09-30",
       "duration_ms": 159533,
       "name": "La Novia De Mi Hermano",
       "url": "https://open.spotify.com/track/7vD3N2EHqv8GfQa8zi9u3J"
+    },
+    {
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 158893,
+      "name": "La Vieja Banca",
+      "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
     },
     {
       "album": {
@@ -661,7 +715,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-09-23",
       "duration_ms": 196306,
       "name": "Me Refiero A T\u00ed",
       "url": "https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc"
@@ -769,7 +823,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 225266,
       "name": "Mi Linda Esposa",
       "url": "https://open.spotify.com/track/3TSjvofuOdFlXtW2Mba0yV"
@@ -823,7 +877,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-10-01",
       "duration_ms": 166266,
       "name": "Nada Contigo",
       "url": "https://open.spotify.com/track/0BElkouvu7hJy1NB2RF1Va"
@@ -877,7 +931,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 174040,
       "name": "No Llorar\u00e9",
       "url": "https://open.spotify.com/track/6OYSCpemGHXqiip743GGAr"
@@ -992,6 +1046,42 @@
     },
     {
       "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164386,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/5HHtIw03mC3OPPRjFUQ2Hb"
+    },
+    {
+      "album": {
+        "name": "Castigame",
+        "url": "https://open.spotify.com/album/2mzZX6tPn2HSgwPDwBWxlM"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 165000,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/1FHVrQ4GmRxmWx7g1RzdJJ"
+    },
+    {
+      "album": {
         "name": "Exitos De Los Invasores De Nuevo Leon",
         "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
       },
@@ -1003,7 +1093,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 166106,
       "name": "Que No Se Apague La Lumbre",
       "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
@@ -1093,7 +1183,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-10-01",
       "duration_ms": 206933,
       "name": "Reproches Del Viento",
       "url": "https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO"
@@ -1147,7 +1237,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": "2022-07-26",
       "duration_ms": 140333,
       "name": "Te Sorprend\u00ed Llorando",
       "url": "https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY"

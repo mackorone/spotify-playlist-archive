@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJXfCVYbEo4.md) - [plain]
 
 > Las canciones que consagraron a Soda Stereo en Latinoamérica y más allá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,522 likes - 25 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,918 likes - 25 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJXfCVYbEo4.md) - [plain]
 | 24 | [Danza Rota \- Remasterizado 2007](https://open.spotify.com/track/6WB3ovHYXvhXfXQnAeE5qj) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:31 |
 | 25 | [Por Qué No Puedo Ser Del Jet Set? \- Remasterizado 2007](https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:20 |
 
-Snapshot ID: `MTU4MjgwODY4MSwwMDAwMDAwMjAwMDAwMTcwODZiZmNjOWEwMDAwMDE3MDgyMzI4Y2Vj`
+Snapshot ID: `MTU4MjgwODY4MSwwMDAwMDAwMGJiNTU3NDc1NmJiNWMzMjNkZmJmZjkyNzRhMTgxZTkx`

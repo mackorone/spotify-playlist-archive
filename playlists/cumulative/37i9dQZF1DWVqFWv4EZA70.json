@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-19",
   "description": "Beats que le suben el \u00e1nimo a tu d\u00eda.",
   "name": "Relax Brunch",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5VrVr3VNwavbhZLRyDryhs"
+  ],
   "tracks": [
     {
       "album": {
@@ -35,10 +37,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 351146,
       "name": "Atlantic Oscillations",
       "url": "https://open.spotify.com/track/0FzxpBbzXCiOjNvSW0Q1NY"
+    },
+    {
+      "album": {
+        "name": "Atlantic Oscillations",
+        "url": "https://open.spotify.com/album/7m3CyxNH2qJ5COtYLC7PPp"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351146,
+      "name": "Atlantic Oscillations",
+      "url": "https://open.spotify.com/track/4c0MBMraTqhHafXnATV1st"
     },
     {
       "album": {
@@ -177,7 +197,7 @@
     {
       "album": {
         "name": "Magnifique",
-        "url": "https://open.spotify.com/album/4Lp4NxL8v03Mxg3hbAgW1Z"
+        "url": "https://open.spotify.com/album/5bFeGIVw5pGnLamK7eVSef"
       },
       "artists": [
         {
@@ -188,6 +208,24 @@
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 255983,
+      "name": "Cream On Chrome",
+      "url": "https://open.spotify.com/track/0yzfkTH0QKIAYVeTex1NKJ"
+    },
+    {
+      "album": {
+        "name": "Magnifique",
+        "url": "https://open.spotify.com/album/4Lp4NxL8v03Mxg3hbAgW1Z"
+      },
+      "artists": [
+        {
+          "name": "Ratatat",
+          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 255983,
       "name": "Cream On Chrome",
       "url": "https://open.spotify.com/track/3s25iX3minD5jORW4KpANZ"
@@ -253,7 +291,7 @@
     {
       "album": {
         "name": "Destination",
-        "url": "https://open.spotify.com/album/3h18Tdtt5rtE5fH1wlnqoZ"
+        "url": "https://open.spotify.com/album/0tvnTrH77t7WwR59Ww6PP2"
       },
       "artists": [
         {
@@ -264,6 +302,24 @@
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 282061,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/3Yw5a8qoFLRI6syccll9av"
+    },
+    {
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/3h18Tdtt5rtE5fH1wlnqoZ"
+      },
+      "artists": [
+        {
+          "name": "Ruck P",
+          "url": "https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 282061,
       "name": "Destination",
       "url": "https://open.spotify.com/track/6D7iSWp1lC1SSCuYkqP4gL"
@@ -405,10 +461,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189125,
       "name": "Fonnegra",
       "url": "https://open.spotify.com/track/117u8f3wJbrzpAKvFPu1uV"
+    },
+    {
+      "album": {
+        "name": "Indiana Jones",
+        "url": "https://open.spotify.com/album/0Zzv3eEsc54Szwm8CrZjd6"
+      },
+      "artists": [
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189125,
+      "name": "Fonnegra",
+      "url": "https://open.spotify.com/track/1NlcTmZSe7Nbd1KClwmx51"
     },
     {
       "album": {
@@ -495,10 +569,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133464,
       "name": "Headspace",
       "url": "https://open.spotify.com/track/24BqtlnVXT1XpccuGPje36"
+    },
+    {
+      "album": {
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/1hEyaZG3Y4JqrJhWtZMEtz"
+      },
+      "artists": [
+        {
+          "name": "Epifania",
+          "url": "https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133464,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/6CkTv37VYslWD9igy0pVDG"
     },
     {
       "album": {
@@ -549,10 +641,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150946,
       "name": "Just Ain't Gonna Work Out (Instrumental)",
       "url": "https://open.spotify.com/track/6hnHCJOa5E6VaEaJsRTjfD"
+    },
+    {
+      "album": {
+        "name": "A Strange Arrangement Instrumentals",
+        "url": "https://open.spotify.com/album/0SCHTqgDoJLPPvPF6Kut6z"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150946,
+      "name": "Just Ain't Gonna Work Out (Instrumental)",
+      "url": "https://open.spotify.com/track/7MeO1sSTghy5NxaHollaBx"
     },
     {
       "album": {
@@ -567,10 +677,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252080,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/5jiJYFm6YBqRJ0sLbwmezm"
+    },
+    {
+      "album": {
+        "name": "Inner Fire",
+        "url": "https://open.spotify.com/album/2w28yTFohFkW0UnIGKqLdY"
+      },
+      "artists": [
+        {
+          "name": "The Souljazz Orchestra",
+          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252080,
+      "name": "Kingdom Come",
+      "url": "https://open.spotify.com/track/5uhJnZd0m9Xz3GafDeMJxK"
     },
     {
       "album": {
@@ -643,10 +771,46 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201672,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/1gkVziEAUzRL8KglfQZfGL"
+    },
+    {
+      "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0ZQYqKHB95vUfquyaFgJUW"
+      },
+      "artists": [
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202213,
+      "name": "Love Is Real",
+      "url": "https://open.spotify.com/track/2jc8OuPiEPg8T5DhsiRmfk"
+    },
+    {
+      "album": {
+        "name": "Chinoiseries pt 2",
+        "url": "https://open.spotify.com/album/74ZSI0MFZgtgBn3SL7JyZO"
+      },
+      "artists": [
+        {
+          "name": "Onra",
+          "url": "https://open.spotify.com/artist/2sAlo7Fey5cqBk5WJILSd8"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116758,
+      "name": "Ms. Ho",
+      "url": "https://open.spotify.com/track/6Ns2JyCa5xtANadq8gJ67u"
     },
     {
       "album": {
@@ -661,7 +825,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 116758,
       "name": "Ms. Ho",
       "url": "https://open.spotify.com/track/6vQHxIHj6mFAsHgP6F52tf"
@@ -748,6 +912,24 @@
     },
     {
       "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241173,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa"
+    },
+    {
+      "album": {
         "name": "Play & Play: The B Sides",
         "url": "https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B"
       },
@@ -759,7 +941,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241173,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/3cYgOAFB1HAUhC7b7U8viI"
@@ -1051,10 +1233,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-09",
       "duration_ms": 320213,
       "name": "Yeti, Set, Go",
       "url": "https://open.spotify.com/track/5YN3J3Fc6fVFEeOVWyvSk1"
+    },
+    {
+      "album": {
+        "name": "Man From The Future",
+        "url": "https://open.spotify.com/album/2eEieeGRF7ra1277V8buvn"
+      },
+      "artists": [
+        {
+          "name": "Polyrhythmics",
+          "url": "https://open.spotify.com/artist/43pamwJj22NKepRqNeS412"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320213,
+      "name": "Yeti, Set, Go",
+      "url": "https://open.spotify.com/track/6BaQQK0ICJFPECwhUDkCZC"
     },
     {
       "album": {
@@ -1087,10 +1287,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205981,
       "name": "You Make Me Smile (Instrumental)",
       "url": "https://open.spotify.com/track/3erovQ48Iy0iqZb9e9NrZu"
+    },
+    {
+      "album": {
+        "name": "You Make Me Smile",
+        "url": "https://open.spotify.com/album/24UTCXhd9ITgPpSuIkrrxM"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205981,
+      "name": "You Make Me Smile (Instrumental)",
+      "url": "https://open.spotify.com/track/71On3WSmjDOUD9Jct2bzYc"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Best Podcasts of the Month](https://open.spotify.com/playlist/37i9dQZF1DXdlkPQJ1PlTQ)
 
-> June's must\-hear episodes, hand\-picked by Spotify editors
+> July's must\-hear episodes, hand\-picked by Spotify Podcast Editorial
 
 0 song - 0 sec - [published](https://open.spotify.com/playlist/7w7aut3ZTA9lP1s1Ai9cfQ)
 

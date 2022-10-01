@@ -4,7 +4,7 @@
 
 > Disfruta toda la música de Rombai!
 
-46 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/3YVkTrZYIq6W40UKFuURZc)
+47 songs - 2 hr 9 min - [published](https://open.spotify.com/playlist/3YVkTrZYIq6W40UKFuURZc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Una Noche Contigo](https://open.spotify.com/track/1cY0VTaJcTznfFQ44tNGdU) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [De Fiesta \(Deluxe Version\)](https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2) | 2:40 | 2021-12-10 |  |
 | [Una y Otra Vez](https://open.spotify.com/track/3VSt7R9LHTomKGP1RhkvuT) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Una y Otra Vez](https://open.spotify.com/album/71mlOj56vndSW8GcB5Edfv) | 3:19 | 2021-12-10 |  |
 | [Voy a Tomar](https://open.spotify.com/track/6DwFzfCgrnsC79Q0k52OD6) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Lauro](https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ) | [Voy a Tomar](https://open.spotify.com/album/7vKNPKtCY2o0jevnTs9EMx) | 2:32 | 2021-12-10 |  |
+| [Ya Me Contaron](https://open.spotify.com/track/3iXBJFCgER31zBfwyfWnUx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Ya Me Contaron](https://open.spotify.com/album/0WrPTpiIgKioi7arRnTmJB) | 2:38 | 2022-09-15 |  |
 | [Yo Tambien](https://open.spotify.com/track/4tKTe9DxeL59oXydyBa3gA) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta \(Deluxe Version\)](https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2) | 2:40 | 2021-12-10 |  |
 | [Yo te propongo](https://open.spotify.com/track/0YFoSD5VhoVrRbrnFERpVM) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta](https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf) | 2:30 | 2021-12-10 |  |
 

@@ -52,6 +52,24 @@
     },
     {
       "album": {
+        "name": "Abfahrt (Radio Edit)",
+        "url": "https://open.spotify.com/album/1ozZMPqWVanyajJLvaUTrZ"
+      },
+      "artists": [
+        {
+          "name": "Shan",
+          "url": "https://open.spotify.com/artist/06tx6ueiCMiQl07jV0j1gb"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Abfahrt - Radio Edit",
+      "url": "https://open.spotify.com/track/2o2YrMMzyug4xyTHIPLBuL"
+    },
+    {
+      "album": {
         "name": "TB Resucitation",
         "url": "https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN"
       },
@@ -173,7 +191,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 379285,
       "name": "Amazonia - Balam Remix",
       "url": "https://open.spotify.com/track/53MqOZyvFVeJlMDyfBeW82"
@@ -537,7 +555,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 346594,
       "name": "Chorus Line",
       "url": "https://open.spotify.com/track/2oYUgjFxxk1UlWrbqBdtUd"
@@ -683,7 +701,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 368000,
       "name": "Cyberia",
       "url": "https://open.spotify.com/track/5H4IpxFywjtQpwtJYqCRL2"
@@ -719,7 +737,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 340012,
       "name": "Dancing On Your Grave - Black Light Smoke Edit",
       "url": "https://open.spotify.com/track/3Ouiope4MdnDPLEcg7LMGQ"
@@ -803,6 +821,28 @@
       "duration_ms": 384272,
       "name": "Differences - Johannes Albert Remix",
       "url": "https://open.spotify.com/track/5f1zSNxavL2s23D2BWbpvd"
+    },
+    {
+      "album": {
+        "name": "Don Dada",
+        "url": "https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "Proper Villains",
+          "url": "https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185434,
+      "name": "Don Dada",
+      "url": "https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5"
     },
     {
       "album": {
@@ -1024,6 +1064,32 @@
     },
     {
       "album": {
+        "name": "Eternal September",
+        "url": "https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        },
+        {
+          "name": "Anunaku",
+          "url": "https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ"
+        },
+        {
+          "name": "A+A",
+          "url": "https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333853,
+      "name": "Eternal September",
+      "url": "https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh"
+    },
+    {
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/3zYYSm3WvExO4AYAhTExnJ"
       },
@@ -1075,7 +1141,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 195866,
       "name": "Fear of Flying",
       "url": "https://open.spotify.com/track/4FfMTu8NY9v2zNw1JHNEKW"
@@ -1324,6 +1390,24 @@
     },
     {
       "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/3Mv51HbLs8xbup6f7q94uT"
+      },
+      "artists": [
+        {
+          "name": "Black Light Smoke",
+          "url": "https://open.spotify.com/artist/6tBzfm9cIQVj3JFJnF2QTm"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319868,
+      "name": "Girls Dance With Computer",
+      "url": "https://open.spotify.com/track/5Ck9ugJa1y6XK7jNqnUxgw"
+    },
+    {
+      "album": {
         "name": "Num\u00e9ro 03",
         "url": "https://open.spotify.com/album/2DSZSzrwLhU9leOoALJllO"
       },
@@ -1440,6 +1524,24 @@
     },
     {
       "album": {
+        "name": "In The Mood",
+        "url": "https://open.spotify.com/album/3ZYzZUCtlSHTMaRO5RjRXu"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278007,
+      "name": "Head2Toe",
+      "url": "https://open.spotify.com/track/4v6pQ662HfpVI3XjbTHh8H"
+    },
+    {
+      "album": {
         "name": "Heartcore",
         "url": "https://open.spotify.com/album/7qg7PkoVQz2DtBaY4F4tLz"
       },
@@ -1495,7 +1597,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 284656,
       "name": "Hiccups (Roman Fl\u00fcgel Elektro House Mix)",
       "url": "https://open.spotify.com/track/35B7ih8h4sSM0ZaasMUc81"
@@ -1727,10 +1829,32 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271746,
       "name": "La Hafla - Delmore Remix",
       "url": "https://open.spotify.com/track/0TH2wpQqX3pYv2ZqThHacv"
+    },
+    {
+      "album": {
+        "name": "Remixed",
+        "url": "https://open.spotify.com/album/47PKSAWJ4hdcgTF0qzkhx8"
+      },
+      "artists": [
+        {
+          "name": "Acid Arab",
+          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+        },
+        {
+          "name": "Delmore",
+          "url": "https://open.spotify.com/artist/6M5DieyYBHaKlkTPTqHqF9"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271746,
+      "name": "La Hafla - Delmore Remix",
+      "url": "https://open.spotify.com/track/23jomgVIMcvuq2w0WUcZVg"
     },
     {
       "album": {
@@ -1753,6 +1877,28 @@
       "duration_ms": 262372,
       "name": "Little Drummer Boy - Lauer Remix",
       "url": "https://open.spotify.com/track/5dBltnK1rVjyrKZLKN9CRy"
+    },
+    {
+      "album": {
+        "name": "Looking At Your Pager (Solomun Remix)",
+        "url": "https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268355,
+      "name": "Looking at Your Pager - Solomun Remix",
+      "url": "https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT"
     },
     {
       "album": {
@@ -1877,7 +2023,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 498893,
       "name": "Mas Profundo",
       "url": "https://open.spotify.com/track/2o09QAjkmeZolqCLDN9WBO"
@@ -2011,7 +2157,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 233000,
       "name": "Miriam",
       "url": "https://open.spotify.com/track/5XbSjX1vCyl4b03rkMuA4e"
@@ -2117,6 +2263,24 @@
       "duration_ms": 330666,
       "name": "Mortal Dance",
       "url": "https://open.spotify.com/track/2RUooO4tssU4KwF98Eoy44"
+    },
+    {
+      "album": {
+        "name": "Moving Around",
+        "url": "https://open.spotify.com/album/1w5GNb5jomzpcVqwoQKSKa"
+      },
+      "artists": [
+        {
+          "name": "Jordan Nocturne",
+          "url": "https://open.spotify.com/artist/2yXuTkmZAi1D8vXJrRA72W"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389466,
+      "name": "Moving Around",
+      "url": "https://open.spotify.com/track/4wvoNRtsUHWGQVwgzr2v6U"
     },
     {
       "album": {
@@ -2243,7 +2407,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 312360,
       "name": "Oseary Drakoulias",
       "url": "https://open.spotify.com/track/1z9TCgUU4CqBKH5YHGlGjh"
@@ -2269,6 +2433,24 @@
       "duration_ms": 429000,
       "name": "Parola - Rework",
       "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
+    },
+    {
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5"
+      },
+      "artists": [
+        {
+          "name": "Gat Decor",
+          "url": "https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262400,
+      "name": "Passion - Naked Edit",
+      "url": "https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu"
     },
     {
       "album": {
@@ -2393,10 +2575,32 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 484102,
       "name": "Ravers Association - Juan MacLean Remix",
       "url": "https://open.spotify.com/track/1BIfUaDakS2CL8QlKy6xhf"
+    },
+    {
+      "album": {
+        "name": "The Jolisa EP",
+        "url": "https://open.spotify.com/album/3xKFz1KiCxe7mYy7bnaynS"
+      },
+      "artists": [
+        {
+          "name": "Luca dell\u2019Orso",
+          "url": "https://open.spotify.com/artist/1xKCNR4tilKz0Dq4Gtxg6t"
+        },
+        {
+          "name": "Jolisa",
+          "url": "https://open.spotify.com/artist/7psktFmwXU67JWoT17nKQr"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330326,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/5emeE8nW2jUYdITn8sQlpb"
     },
     {
       "album": {
@@ -2668,6 +2872,24 @@
     },
     {
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/4zeBxtJGmssW8KCqtV74Sg"
+      },
+      "artists": [
+        {
+          "name": "Alen Skanner",
+          "url": "https://open.spotify.com/artist/34DjyfohleZ08Z2W0jB0yC"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401666,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/2HtTNkqYB8vvJEf6e4uUG0"
+    },
+    {
+      "album": {
         "name": "Swerve",
         "url": "https://open.spotify.com/album/3YS53BlC7sLJLh4cRC0GYV"
       },
@@ -2715,10 +2937,54 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283891,
       "name": "Tell Me Why - M&M Full Vocal",
       "url": "https://open.spotify.com/track/68cpQ6mpnMiE96PbUwJs7q"
+    },
+    {
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG"
+      },
+      "artists": [
+        {
+          "name": "Rachel Wallace",
+          "url": "https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287276,
+      "name": "Tell Me Why - M&M Full Vocal",
+      "url": "https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y"
+    },
+    {
+      "album": {
+        "name": "That Beat In My Heart",
+        "url": "https://open.spotify.com/album/42tOfy7Gz7oG0uoejsgmuw"
+      },
+      "artists": [
+        {
+          "name": "Infravision",
+          "url": "https://open.spotify.com/artist/3cUeIGkhrVqzKVBqFqwpvs"
+        },
+        {
+          "name": "Pablo Bozzi",
+          "url": "https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL"
+        },
+        {
+          "name": "Kendal",
+          "url": "https://open.spotify.com/artist/2NJZShOescj4yIvO1d4yiV"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416158,
+      "name": "That Beat In My Heart",
+      "url": "https://open.spotify.com/track/77JXhvfpvZWzXU9A8XeSva"
     },
     {
       "album": {
@@ -2755,6 +3021,24 @@
       "duration_ms": 420000,
       "name": "The Decadance",
       "url": "https://open.spotify.com/track/7gQkbnKEG3lrfjCSWtb4hk"
+    },
+    {
+      "album": {
+        "name": "Potion Activated",
+        "url": "https://open.spotify.com/album/6YJJXjPUR3KMjnRMEP0rse"
+      },
+      "artists": [
+        {
+          "name": "Maara",
+          "url": "https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304468,
+      "name": "The Forbidden Plum",
+      "url": "https://open.spotify.com/track/1iGhgNt5qzdEUCXJ6iQ8SQ"
     },
     {
       "album": {
@@ -2831,7 +3115,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 345000,
       "name": "The Visitor",
       "url": "https://open.spotify.com/track/1g8TgSY1iegEixs0s2Cjbe"
@@ -2853,7 +3137,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 473129,
       "name": "Three Eyes - Tjade Remix",
       "url": "https://open.spotify.com/track/52SfBugKis0R6ufKVDgZ23"

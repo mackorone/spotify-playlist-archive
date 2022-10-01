@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166640,
+      "name": "About A Girl",
+      "url": "https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr"
+    },
+    {
+      "album": {
         "name": "Bleach: Deluxe Edition",
         "url": "https://open.spotify.com/album/2Lfy46M23IUeiDATnra0Bl"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168160,
       "name": "About A Girl",
       "url": "https://open.spotify.com/track/0O4Yt3iHNIZGFE3uhFLu6I"
@@ -45,6 +63,24 @@
     {
       "album": {
         "name": "In Utero - 20th Anniversary Remaster",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
+    },
+    {
+      "album": {
+        "name": "In Utero - 20th Anniversary Remaster",
         "url": "https://open.spotify.com/album/4HACR8HgOYj1HH4vCZ3MVi"
       },
       "artists": [
@@ -55,7 +91,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233173,
       "name": "All Apologies",
       "url": "https://open.spotify.com/track/5sWMEcMemPH3Bc8hxeivIi"
@@ -81,6 +117,24 @@
     {
       "album": {
         "name": "Between The Eyes",
+        "url": "https://open.spotify.com/album/6dOcWwGFX4K7tSlfLHxx5z"
+      },
+      "artists": [
+        {
+          "name": "Love Battery",
+          "url": "https://open.spotify.com/artist/43wwctvUaVOoEHEijQ8NpF"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268466,
+      "name": "Between The Eyes",
+      "url": "https://open.spotify.com/track/3XTTk5s0RTsiie4fkPTcdU"
+    },
+    {
+      "album": {
+        "name": "Between The Eyes",
         "url": "https://open.spotify.com/album/72JJlSdJdqNydgLrz5W0uc"
       },
       "artists": [
@@ -91,10 +145,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268466,
       "name": "Between The Eyes",
       "url": "https://open.spotify.com/track/6qJw4fs0BB5pxYvb9RXuJk"
+    },
+    {
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318586,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
     },
     {
       "album": {
@@ -109,7 +181,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 318586,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/3ztCt91U2wGkDZuzbCwH6H"
@@ -181,10 +253,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218920,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5"
+    },
+    {
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
     },
     {
       "album": {
@@ -217,10 +307,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 332626,
       "name": "Creep",
       "url": "https://open.spotify.com/track/0elH6ukMGLyCHJavHutEza"
+    },
+    {
+      "album": {
+        "name": "Core (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334386,
+      "name": "Creep - 2017 Remaster",
+      "url": "https://open.spotify.com/track/6dmueYtoihUhlQZlImBCmm"
     },
     {
       "album": {
@@ -235,10 +343,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 381493,
       "name": "Crown Of Thorns",
       "url": "https://open.spotify.com/track/2dLBo6rg8B2OuhuCETN9Dd"
+    },
+    {
+      "album": {
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/29Z58CSd0WX6E03bRbhHAK"
+      },
+      "artists": [
+        {
+          "name": "Mother Love Bone",
+          "url": "https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382533,
+      "name": "Crown Of Thorns",
+      "url": "https://open.spotify.com/track/3UhOnJHr4XYGgFLoQE9JFt"
     },
     {
       "album": {
@@ -296,7 +422,7 @@
     },
     {
       "album": {
-        "name": "Dirt",
+        "name": "Dirt (2022 Remaster)",
         "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
       "artists": [
@@ -309,7 +435,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 338226,
-      "name": "Down In A Hole",
+      "name": "Down In A Hole (2022 Remaster)",
       "url": "https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA"
     },
     {
@@ -368,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283026,
+      "name": "Fell On Black Days",
+      "url": "https://open.spotify.com/track/1wlKw9NAWVWpx7OIAyg9EA"
+    },
+    {
+      "album": {
         "name": "Superunknown (20th Anniversary)",
         "url": "https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY"
       },
@@ -379,10 +523,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283026,
       "name": "Fell On Black Days",
       "url": "https://open.spotify.com/track/3vBA9cISon26MlnDWdKSSQ"
+    },
+    {
+      "album": {
+        "name": "Sixteen Stone (Remastered)",
+        "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266493,
+      "name": "Glycerine",
+      "url": "https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af"
     },
     {
       "album": {
@@ -397,10 +559,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266493,
       "name": "Glycerine - Remastered",
       "url": "https://open.spotify.com/track/2nzlgHTbUDzuRtTFoX3qfJ"
+    },
+    {
+      "album": {
+        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281160,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
     },
     {
       "album": {
@@ -415,7 +595,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281160,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/4OaV9UYQ3EfrBRPjoO6u7c"
@@ -451,10 +631,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246266,
       "name": "Hunger Strike - 25th Anniversary Mix",
       "url": "https://open.spotify.com/track/2EiA1EfoX6jFGVCGqkBiT6"
+    },
+    {
+      "album": {
+        "name": "Temple Of The Dog (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1mMy79IOzwQyoD6dg8568p"
+      },
+      "artists": [
+        {
+          "name": "Temple Of The Dog",
+          "url": "https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246266,
+      "name": "Hunger Strike - 25th Anniversary Mix",
+      "url": "https://open.spotify.com/track/3CtphwpjC0XjIVpLFvGiQR"
     },
     {
       "album": {
@@ -505,10 +703,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193613,
       "name": "Interstate Love Song",
       "url": "https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1"
+    },
+    {
+      "album": {
+        "name": "Purple (2019 Remaster)",
+        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "Interstate Love Song - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
     },
     {
       "album": {
@@ -577,10 +793,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163066,
       "name": "Losing Skin",
       "url": "https://open.spotify.com/track/2BabU2GZT5laWFWslSeUIo"
+    },
+    {
+      "album": {
+        "name": "Four",
+        "url": "https://open.spotify.com/album/6lVKbAVHamg1as6lEr7r1G"
+      },
+      "artists": [
+        {
+          "name": "Seaweed",
+          "url": "https://open.spotify.com/artist/4jzHHEC3qk1j4hnIWPUnsu"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163066,
+      "name": "Losing Skin",
+      "url": "https://open.spotify.com/track/36CTxkvfEPmhZ95y2le5F2"
     },
     {
       "album": {
@@ -685,10 +919,28 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 311000,
       "name": "Outshined",
       "url": "https://open.spotify.com/track/5RHMIAMbad22ckCLBKoAEb"
+    },
+    {
+      "album": {
+        "name": "Badmotorfinger (25th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "Outshined - Remastered",
+      "url": "https://open.spotify.com/track/4VwPsMcRt1HPVKIdcwY9Uj"
     },
     {
       "album": {
@@ -739,10 +991,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310346,
       "name": "Plush",
       "url": "https://open.spotify.com/track/3jJZVeExYzVYiV6Y9Fl3DX"
+    },
+    {
+      "album": {
+        "name": "Core (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313946,
+      "name": "Plush - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4"
     },
     {
       "album": {
@@ -818,7 +1088,7 @@
     },
     {
       "album": {
-        "name": "Dirt",
+        "name": "Dirt (2022 Remaster)",
         "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
       "artists": [
@@ -831,7 +1101,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 374333,
-      "name": "Rooster",
+      "name": "Rooster (2022 Remaster)",
       "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
     },
     {
@@ -847,10 +1117,28 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266200,
       "name": "Rusty Cage",
       "url": "https://open.spotify.com/track/2hQTu9qTfqXAh5PtSbEm18"
+    },
+    {
+      "album": {
+        "name": "Badmotorfinger (25th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "Rusty Cage - Remastered",
+      "url": "https://open.spotify.com/track/6hqIXyo6GxydAnoI8XeIrV"
     },
     {
       "album": {
@@ -865,10 +1153,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 384466,
       "name": "Say Hello 2 Heaven - 25th Anniversary Mix",
       "url": "https://open.spotify.com/track/43MISNkxKhfhjk2PD4VKeQ"
+    },
+    {
+      "album": {
+        "name": "Temple Of The Dog (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1mMy79IOzwQyoD6dg8568p"
+      },
+      "artists": [
+        {
+          "name": "Temple Of The Dog",
+          "url": "https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384466,
+      "name": "Say Hello 2 Heaven - 25th Anniversary Mix",
+      "url": "https://open.spotify.com/track/6gpai6xL08vD5mQ4fXTwxL"
     },
     {
       "album": {
@@ -901,10 +1207,28 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218293,
       "name": "Sex Type Thing",
       "url": "https://open.spotify.com/track/2nWjhmRImt6LScZIPQMBnM"
+    },
+    {
+      "album": {
+        "name": "Core (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217813,
+      "name": "Sex Type Thing - 2017 Remaster",
+      "url": "https://open.spotify.com/track/6skC0VsaOZE1kG4CwXI2Zj"
     },
     {
       "album": {
@@ -973,10 +1297,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/1f3yAtsJtY87CTmM8RLnxf"
+    },
+    {
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "album": {
@@ -999,6 +1341,24 @@
     {
       "album": {
         "name": "Superunknown (20th Anniversary)",
+        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246920,
+      "name": "Spoonman",
+      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
+    },
+    {
+      "album": {
+        "name": "Superunknown (20th Anniversary)",
         "url": "https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY"
       },
       "artists": [
@@ -1009,7 +1369,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246920,
       "name": "Spoonman",
       "url": "https://open.spotify.com/track/2tkyEHSkv0I3l4OkBe1FnO"
@@ -1027,10 +1387,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 340186,
       "name": "Start Choppin'",
       "url": "https://open.spotify.com/track/5vlvuYDeC10hTC82qT6In3"
+    },
+    {
+      "album": {
+        "name": "Where You Been",
+        "url": "https://open.spotify.com/album/5mJss6O9hjbeESfqoBX1xM"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Jr.",
+          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340186,
+      "name": "Start Choppin'",
+      "url": "https://open.spotify.com/track/7yThIhNzpgDBIGoL2y1y6u"
     },
     {
       "album": {
@@ -1052,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "Dry as a Bone/Rehab Doll",
+        "url": "https://open.spotify.com/album/1yfs3jV84tLJf7i3dSHEDU"
+      },
+      "artists": [
+        {
+          "name": "Green River",
+          "url": "https://open.spotify.com/artist/1XIIxzmo6BNRR4QkImSdsX"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Swallow My Pride",
+      "url": "https://open.spotify.com/track/1LvJ1PFobtIm5DwzRrK0jG"
+    },
+    {
+      "album": {
         "name": "Dry as a Bone / Rehab Doll",
         "url": "https://open.spotify.com/album/53fNxdiYiPEaFwNxIjuNR0"
       },
@@ -1063,7 +1459,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179800,
       "name": "Swallow My Pride",
       "url": "https://open.spotify.com/track/7HvRYprYqG9Plg5qjZ4yfH"
@@ -1106,6 +1502,24 @@
     },
     {
       "album": {
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/29Z58CSd0WX6E03bRbhHAK"
+      },
+      "artists": [
+        {
+          "name": "Mother Love Bone",
+          "url": "https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220706,
+      "name": "This Is Shangrila",
+      "url": "https://open.spotify.com/track/7lznzPjPyRFdcYaD9gN7a3"
+    },
+    {
+      "album": {
         "name": "Mother Love Bone",
         "url": "https://open.spotify.com/album/24UTTxVO1B0956xXWmtpab"
       },
@@ -1117,10 +1531,28 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221160,
       "name": "This Is Shangrila",
       "url": "https://open.spotify.com/track/5bgyaidikHcXFd0o3Pp7A1"
+    },
+    {
+      "album": {
+        "name": "Dry as a Bone/Rehab Doll",
+        "url": "https://open.spotify.com/album/1yfs3jV84tLJf7i3dSHEDU"
+      },
+      "artists": [
+        {
+          "name": "Green River",
+          "url": "https://open.spotify.com/artist/1XIIxzmo6BNRR4QkImSdsX"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/6bmlymaMLlpfcyWNjn4vRE"
     },
     {
       "album": {
@@ -1135,7 +1567,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203800,
       "name": "This Town",
       "url": "https://open.spotify.com/track/7d1aocOffWtCwlfK13VMdM"
@@ -1160,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "Superfuzz Bigmuff (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/318b6Is2MnqkuL079NnPko"
+      },
+      "artists": [
+        {
+          "name": "Mudhoney",
+          "url": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152706,
+      "name": "Touch Me I'm Sick",
+      "url": "https://open.spotify.com/track/2x5FYXo5rL4Phmn3UPdkK3"
+    },
+    {
+      "album": {
         "name": "Superfuzz Bigmuff",
         "url": "https://open.spotify.com/album/6YbDNY7VkyBqbO9rBmqVAN"
       },
@@ -1171,7 +1621,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152706,
       "name": "Touch Me I'm Sick",
       "url": "https://open.spotify.com/track/6wqCxCqYo91ITacXydBobx"
@@ -1207,14 +1657,32 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198762,
       "name": "Volcano Girls",
       "url": "https://open.spotify.com/track/6ifDwKH8OlIWPcXuWMyST2"
     },
     {
       "album": {
-        "name": "Dirt",
+        "name": "Eight Arms To Hold You",
+        "url": "https://open.spotify.com/album/5ZqOSlcQ0fA7MZOgvpOJT5"
+      },
+      "artists": [
+        {
+          "name": "Veruca Salt",
+          "url": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198933,
+      "name": "Volcano Girls",
+      "url": "https://open.spotify.com/track/3cMliO9emUSa4d1Ap2MbfW"
+    },
+    {
+      "album": {
+        "name": "Dirt (2022 Remaster)",
         "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
       "artists": [
@@ -1227,7 +1695,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 206773,
-      "name": "Would?",
+      "name": "Would? (2022 Remaster)",
       "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"
     },
     {

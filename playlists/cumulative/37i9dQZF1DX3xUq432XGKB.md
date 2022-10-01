@@ -4,17 +4,18 @@
 
 > The electro revival with Dawn Richard.
 
-37 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
+40 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Palé](https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [A Palé](https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx) | 2:23 | 2021-03-16 |  |
 | [Ache](https://open.spotify.com/track/0nNh57CedtpSjca7uhbrtg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EP1](https://open.spotify.com/album/44keDDETPLFK48WCykPKit) | 5:00 | 2021-03-16 |  |
-| [BITE ME](https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [BITE ME](https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG) | 3:26 | 2021-03-16 |  |
+| [BITE ME](https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun) | [Kilo Kish](https://open.spotify.com/artist/0Ib2a1F7sq1OTrYSoVIsIX) | [BITE ME](https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG) | 3:26 | 2021-03-16 |  |
 | [Body Pump \- UNIIQU3 Remix](https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Renaissance \(Remixes\)](https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ) | 3:56 | 2021-03-16 |  |
 | [Booty 3000](https://open.spotify.com/track/1ou1ijurTcoe8lSB23rZxP) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Free Form Mixtape](https://open.spotify.com/album/0uqRet3v7HR1RcPWAegQt6) | 2:09 | 2021-03-16 |  |
 | [Burn So Deep \(feat\. Dawn Richard\)](https://open.spotify.com/track/7oSrcgoO342j9xQ3wrOvJt) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Burn So Deep \(feat\. Dawn Richard\)](https://open.spotify.com/album/3JKNKGFJJX5tIX4sHIHLTZ) | 4:05 | 2021-03-16 |  |
-| [Bussifame](https://open.spotify.com/track/3Snsn7nR619p0Ze090QT7K) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Bussifame](https://open.spotify.com/album/5Yg9JXE24N3d58v3HuY1Vl) | 4:33 | 2021-03-16 |  |
+| [Bussifame](https://open.spotify.com/track/3Snsn7nR619p0Ze090QT7K) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Bussifame](https://open.spotify.com/album/5Yg9JXE24N3d58v3HuY1Vl) | 4:33 | 2021-03-16 | 2022-07-29 |
+| [Bussifame](https://open.spotify.com/track/3bQWyx3JDz53yP2uij16Jj) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Second Line](https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv) | 4:33 | 2021-03-16 |  |
 | [Crabs & Crows](https://open.spotify.com/track/3Lsv0zi3GXpCnJEFkYaXvE) | [KAJAMA](https://open.spotify.com/artist/3hGUpSPq9iYQvrFQyXBxZA) | [Polarity Prism](https://open.spotify.com/album/5y1Z3VRMN2ey6NfRDYm0F8) | 2:09 | 2021-03-16 |  |
 | [Cut 4 Me \(Prod\. Kingdom\)](https://open.spotify.com/track/4dvGUFtcu83UbyoQuRXNhp) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Cut 4 Me \(Deluxe\)](https://open.spotify.com/album/0TINzVFDomwU0tx3T78Kr3) | 3:53 | 2021-03-16 |  |
 | [Dance Dance Dance](https://open.spotify.com/track/1Nk5bZWXcvXoBrtPCrHme8) | [Dj Paulette](https://open.spotify.com/artist/2rr26njxwViHMQKgVVSmHF) | [Miami Edm Anthems 2015](https://open.spotify.com/album/042wA8AmldoPYZhbcyTR24) | 4:33 | 2021-03-16 |  |
@@ -31,13 +32,15 @@
 | [NEEDSUMBODY](https://open.spotify.com/track/5BXNZDjPaV7bpbxQJjmeMn) | [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [NEEDSUMBODY](https://open.spotify.com/album/4eu5lI3vWkSoFMOUVynb6Y) | 4:19 | 2021-03-16 |  |
 | [Not Above That](https://open.spotify.com/track/2I68J8QjcrQFyGAaTIufZM) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Not Above That \- Single](https://open.spotify.com/album/4TkDGYAVDOvtnXlG4U7JGN) | 4:46 | 2021-03-16 |  |
 | [People, I've been sad](https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ) | 4:20 | 2021-03-16 |  |
-| [Pilot \(a lude\)](https://open.spotify.com/track/3K3ArwcC7PvYpfX9IB2gWB) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Pilot \(a lude\)](https://open.spotify.com/album/4W2yQocSXIb85zQEu5dQy1) | 0:57 | 2021-03-16 |  |
+| [Pilot \(a lude\)](https://open.spotify.com/track/3K3ArwcC7PvYpfX9IB2gWB) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Pilot \(a lude\)](https://open.spotify.com/album/4W2yQocSXIb85zQEu5dQy1) | 0:57 | 2021-03-16 | 2022-07-29 |
+| [Pilot \(a lude\)](https://open.spotify.com/track/56aTDizKP5ZmkOtJ6jl6zH) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Second Line](https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv) | 0:57 | 2021-03-16 |  |
 | [River](https://open.spotify.com/track/6ybkewfx53Quy6rjo4IKDi) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Ibeyi](https://open.spotify.com/album/4VrxiS9RcvqQCdIfww3HKR) | 4:12 | 2021-03-16 |  |
 | [Secretly](https://open.spotify.com/track/0dw3ZgJ3h4ICWxGsoaz4dm) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Post Orgasmic Chill](https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq) | 4:45 | 2021-03-16 |  |
 | [Sing to the Moon](https://open.spotify.com/track/7FP5y5nA6F7eIjc3cPGQiz) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Sing to the Moon](https://open.spotify.com/album/6sWQlfb6ju6jG0z4oFPgVn) | 4:07 | 2021-03-16 |  |
 | [Six Flags](https://open.spotify.com/track/2XnJsNQOrQofJOt3wsXKUj) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Slim Dollars](https://open.spotify.com/artist/4b8IoHxpqGNYCbBbxi7v25) | [Six Flags](https://open.spotify.com/album/2YdZI6ONc4utGBn7JOUqMl) | 3:12 | 2021-03-16 |  |
 | [SLIME](https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SLIME](https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L) | 2:39 | 2021-03-16 |  |
-| [Spiders](https://open.spotify.com/track/3c7Fz5gSqqYMc81pv79AGT) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp4](https://open.spotify.com/album/5agYNY4IFgl4yQ3gIGLW65) | 2:31 | 2021-03-16 |  |
+| [Spiders](https://open.spotify.com/track/3HUNWEwROQxlC05gWtertM) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp4](https://open.spotify.com/album/5t0sp3W275c53WOqxgcmY5) | 2:31 | 2021-03-16 |  |
+| [Spiders](https://open.spotify.com/track/3c7Fz5gSqqYMc81pv79AGT) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp4](https://open.spotify.com/album/5agYNY4IFgl4yQ3gIGLW65) | 2:31 | 2021-03-16 | 2022-07-29 |
 | [U.](https://open.spotify.com/track/64NGjHW1w5Kl42xEKdqi6o) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [U.](https://open.spotify.com/album/2LNOZyp2FX1ARZXc5gf3hB) | 2:37 | 2021-03-16 |  |
 | [U.A.F.W.M.](https://open.spotify.com/track/7tyfn9k8LGkDFMkT4BeCyf) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [U.A.F.W.M.](https://open.spotify.com/album/6Q068g9ukV72Ffm88FMKYt) | 2:53 | 2021-03-16 |  |
 | [unearth me](https://open.spotify.com/track/0Uq8EBEXYFBGcPTKlTtRdT) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE) | 3:25 | 2021-03-16 |  |

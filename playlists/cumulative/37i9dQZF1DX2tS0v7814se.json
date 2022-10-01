@@ -128,6 +128,24 @@
     },
     {
       "album": {
+        "name": "Vuelve La Marimba Orquesta Lira de Chiapas",
+        "url": "https://open.spotify.com/album/4Pj926DUiao0viyG8mho42"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Lira de Chiapas",
+          "url": "https://open.spotify.com/artist/3n3cR7uemjtAhab5GjUEmX"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247853,
+      "name": "Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/1PiYkzT93TD8ht6x3QgodE"
+    },
+    {
+      "album": {
         "name": "Vuelve La",
         "url": "https://open.spotify.com/album/1hSkwVhHj4LQb36VGhu1Pk"
       },
@@ -139,7 +157,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247853,
       "name": "Amor De Mis Amores",
       "url": "https://open.spotify.com/track/7fiD21Moy91yMvbsVmphRz"
@@ -273,10 +291,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172187,
       "name": "Chacha Chachita",
       "url": "https://open.spotify.com/track/1JLc1beStCAOdlEKnw61LQ"
+    },
+    {
+      "album": {
+        "name": "Sal\u00f3n de Baile",
+        "url": "https://open.spotify.com/album/66AD6hxIX8LmB8eMCscbWA"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172187,
+      "name": "Chacha chachita",
+      "url": "https://open.spotify.com/track/7tWZCJW94n0Q9nzWPKPikB"
     },
     {
       "album": {
@@ -461,10 +497,46 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162446,
       "name": "Cumbia en Sax",
       "url": "https://open.spotify.com/track/15lVvlhv9DXaHykIQsZDXH"
+    },
+    {
+      "album": {
+        "name": "Cumbia en Sax",
+        "url": "https://open.spotify.com/album/6odoG3ksfKUBbe4Se8GFXA"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Perla De Chiapas",
+          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162446,
+      "name": "Cumbia En Sax",
+      "url": "https://open.spotify.com/track/36VxbHKjQtvcbcbjpxBYsV"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "Dandole Sabor al Caldo",
+      "url": "https://open.spotify.com/track/3Rsqt2Xp7uKDmEKddvQPu6"
     },
     {
       "album": {
@@ -479,10 +551,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192560,
       "name": "Dandole Sabor al Caldo",
       "url": "https://open.spotify.com/track/3oEIZgr8nQ7xe0sVB4S9kC"
+    },
+    {
+      "album": {
+        "name": "Luna de Plata",
+        "url": "https://open.spotify.com/album/5zsYxrTgEVPdO24SKoaMbv"
+      },
+      "artists": [
+        {
+          "name": "Marimba Sonora GC",
+          "url": "https://open.spotify.com/artist/1f1CzvHnAWZaOgYDP4qdSM"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241397,
+      "name": "El Baile de la Princesa",
+      "url": "https://open.spotify.com/track/2u090bKl5zlp9UN8K1g5Gs"
     },
     {
       "album": {
@@ -497,7 +587,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241397,
       "name": "El Baile de la Princesa",
       "url": "https://open.spotify.com/track/36AR3ghzqyfXjmaYEeiR8b"
@@ -548,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "El Gato Pachucon",
+      "url": "https://open.spotify.com/track/3BFWplkj1TVG0vgYpoPsfV"
+    },
+    {
+      "album": {
         "name": "Peerless 80 Aniversario - 24 Exitos Bailables",
         "url": "https://open.spotify.com/album/6dMRTitrzCM8wxOI058AfY"
       },
@@ -559,7 +667,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174253,
       "name": "El Gato Pachucon",
       "url": "https://open.spotify.com/track/57wZxoaookNejUwcczKvPF"
@@ -613,10 +721,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189492,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/1IKp6a5zX6cZ9MgqyxWpOg"
+    },
+    {
+      "album": {
+        "name": "La Insuperable",
+        "url": "https://open.spotify.com/album/20xGy8ClUAVJBDzYoAfuru"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Corona De Tapachula",
+          "url": "https://open.spotify.com/artist/5A49aknVU0AJMFRYMOvYYb"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189492,
+      "name": "El Noa Noa",
+      "url": "https://open.spotify.com/track/4LLsfocxtvO5ak9y7ffPKW"
     },
     {
       "album": {
@@ -703,10 +829,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 69652,
       "name": "El Vuelo del Abejorro",
       "url": "https://open.spotify.com/track/2l37qMOYkOL6MAiWZRM0VY"
+    },
+    {
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/2lfTr5gFbW8j6PzZUXa3nw"
+      },
+      "artists": [
+        {
+          "name": "Marimba Nandayapa",
+          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69773,
+      "name": "El Vuelo del Abejorro",
+      "url": "https://open.spotify.com/track/4MaT5mpCJ5DvipUR0uQAEw"
     },
     {
       "album": {
@@ -827,10 +971,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 538972,
       "name": "Huapango",
       "url": "https://open.spotify.com/track/1Kkw6rDktTQCZzgBrTufmE"
+    },
+    {
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/2lfTr5gFbW8j6PzZUXa3nw"
+      },
+      "artists": [
+        {
+          "name": "Marimba Nandayapa",
+          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539506,
+      "name": "Huapango",
+      "url": "https://open.spotify.com/track/65bgM1R5qZeiQwnUOFcSf9"
     },
     {
       "album": {
@@ -962,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "Marinbanda",
+        "url": "https://open.spotify.com/album/4JvzDBqoWI1CGVdtjHlYZG"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Corona De Chiapas",
+          "url": "https://open.spotify.com/artist/5nTY0W9QPvOABMJ8B6a3Cu"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225026,
+      "name": "La Marciana",
+      "url": "https://open.spotify.com/track/0S2AX13PKaNddTBUZi5Hif"
+    },
+    {
+      "album": {
         "name": "20 Tropicales Marimbas Las Mejores De Chipas",
         "url": "https://open.spotify.com/album/24zl1fHmTdcTL75op1f9wG"
       },
@@ -973,7 +1153,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224493,
       "name": "La Marciana",
       "url": "https://open.spotify.com/track/6CQcwAkL2EZVmXZQaSmVKz"
@@ -1068,6 +1248,24 @@
     },
     {
       "album": {
+        "name": "Lleg\u00f3 La Marimba",
+        "url": "https://open.spotify.com/album/1O47TD5M3rkH8rCyC56qbK"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133712,
+      "name": "La Tortuga Del Arenal",
+      "url": "https://open.spotify.com/track/5V8IZrjVa4ocSeEC9W7UWs"
+    },
+    {
+      "album": {
         "name": "Al Son De La Marimba",
         "url": "https://open.spotify.com/album/7Ly7joD1siRHbX8xCGPglV"
       },
@@ -1079,7 +1277,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133712,
       "name": "La Tortuga Del Arenal",
       "url": "https://open.spotify.com/track/6SyArHSVWX60EuaD7Feq4z"
@@ -1119,10 +1317,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192069,
       "name": "Lamento Borincano",
       "url": "https://open.spotify.com/track/5AGoOm9irt6qisnTatIRaf"
+    },
+    {
+      "album": {
+        "name": "Danzones Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/4cMoH0T5ErUfWa4DDwIqsG"
+      },
+      "artists": [
+        {
+          "name": "Marimba \u00c1guilas de Chiapas",
+          "url": "https://open.spotify.com/artist/2DJhojqYByMMfsQXTDGr0U"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192069,
+      "name": "Lamento Borincano",
+      "url": "https://open.spotify.com/track/6friGZJwG8rdCZMo7HGb0O"
     },
     {
       "album": {
@@ -1293,10 +1509,46 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160565,
       "name": "Mambo Veracruz",
       "url": "https://open.spotify.com/track/54drfrLN4Q1yDGtb7wqYe2"
+    },
+    {
+      "album": {
+        "name": "Gozando Con La Marimba Orquesta Perla De Chiapas",
+        "url": "https://open.spotify.com/album/3kmFDFP5dpAc11Wboz4neQ"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Perla De Chiapas",
+          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160565,
+      "name": "Mambo Veracruz",
+      "url": "https://open.spotify.com/track/6wPuBpmTL9MaxfQUdC8hCn"
+    },
+    {
+      "album": {
+        "name": "Musica Folklorica",
+        "url": "https://open.spotify.com/album/6nmZc3BHL7iCKbUec7YxrZ"
+      },
+      "artists": [
+        {
+          "name": "La Marimba Del Estado De Oaxaca",
+          "url": "https://open.spotify.com/artist/0Ck35azLqcQ0Bvbu9rNcOr"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Mananitas Oaxaquenas",
+      "url": "https://open.spotify.com/track/0BGbCGj64JXjK44dTHvhow"
     },
     {
       "album": {
@@ -1311,7 +1563,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169000,
       "name": "Mananitas Oaxaquenas",
       "url": "https://open.spotify.com/track/0SZwZCgUqiJCaXvaZwKetM"
@@ -1461,6 +1713,24 @@
     {
       "album": {
         "name": "Musica Folklorica",
+        "url": "https://open.spotify.com/album/6nmZc3BHL7iCKbUec7YxrZ"
+      },
+      "artists": [
+        {
+          "name": "La Marimba Del Estado De Oaxaca",
+          "url": "https://open.spotify.com/artist/0Ck35azLqcQ0Bvbu9rNcOr"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138386,
+      "name": "Mujer Oaxaquena",
+      "url": "https://open.spotify.com/track/495VYpkMSkaHxHI2LqG7Qy"
+    },
+    {
+      "album": {
+        "name": "Musica Folklorica",
         "url": "https://open.spotify.com/album/5aVlmZLt8Q9PJGT00riIyr"
       },
       "artists": [
@@ -1471,7 +1741,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 138386,
       "name": "Mujer Oaxaquena",
       "url": "https://open.spotify.com/track/01Nn2e2EznC1QWz0VYkGXG"
@@ -1550,6 +1820,24 @@
     },
     {
       "album": {
+        "name": "Danzones Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/4cMoH0T5ErUfWa4DDwIqsG"
+      },
+      "artists": [
+        {
+          "name": "Marimba \u00c1guilas de Chiapas",
+          "url": "https://open.spotify.com/artist/2DJhojqYByMMfsQXTDGr0U"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187628,
+      "name": "Nereidas",
+      "url": "https://open.spotify.com/track/5UGhFOtbHc7TKkskPrwS6n"
+    },
+    {
+      "album": {
         "name": "Marimba Aguilas De Chiapas-Danzones Clasicos",
         "url": "https://open.spotify.com/album/7EqD5aiiPBC09D1JKZO3f0"
       },
@@ -1561,7 +1849,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187628,
       "name": "Nereidas -",
       "url": "https://open.spotify.com/track/4Rm8tkoYkbXg4be52I20El"
@@ -1669,10 +1957,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151179,
       "name": "Que Chula Es Puebla",
       "url": "https://open.spotify.com/track/02dlKZUYW3J15TToUOMohv"
+    },
+    {
+      "album": {
+        "name": "No Me Platiques M\u00e1s",
+        "url": "https://open.spotify.com/album/4fZthxX55ATYvOF7cZQDe4"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151179,
+      "name": "Que Chula Es Puebla",
+      "url": "https://open.spotify.com/track/72wFUQWbD8nThZnUTrOQYP"
     },
     {
       "album": {
@@ -1730,6 +2036,24 @@
     },
     {
       "album": {
+        "name": "20 Exitos Con Marimba Vol.1",
+        "url": "https://open.spotify.com/album/42rrNP7c27cAXPyA09DJPO"
+      },
+      "artists": [
+        {
+          "name": "20 Super Exitos De",
+          "url": "https://open.spotify.com/artist/7bp4w5sBExrir8EIXFha0u"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136720,
+      "name": "Salon Mexico",
+      "url": "https://open.spotify.com/track/0jWzNJtTTalwqAjf3J42jb"
+    },
+    {
+      "album": {
         "name": "Coleccion De Oro Instrumental, Musica Rlajante Marimba",
         "url": "https://open.spotify.com/album/0YoDpUDCohGiY588XwiXwN"
       },
@@ -1741,7 +2065,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136720,
       "name": "Salon Me\u0301xico",
       "url": "https://open.spotify.com/track/05IXBPn68Yh3EAVXwzXi8j"
@@ -1759,10 +2083,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167624,
       "name": "Solamente una Vez",
       "url": "https://open.spotify.com/track/0PVJxs7cCzQo5BBeBMolJE"
+    },
+    {
+      "album": {
+        "name": "De Todos los Sabores",
+        "url": "https://open.spotify.com/album/1e0qH54Hm3HaqE53sxGyy2"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Corona De Tapachula",
+          "url": "https://open.spotify.com/artist/5A49aknVU0AJMFRYMOvYYb"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167624,
+      "name": "Solamente Una Vez",
+      "url": "https://open.spotify.com/track/2b1d1agxkzR8p2lUcKcYlg"
     },
     {
       "album": {
@@ -1777,10 +2119,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181446,
       "name": "Son Tus Perjumenes Mujer",
       "url": "https://open.spotify.com/track/0HPCtDhSxDHaU8Y5RnqRTG"
+    },
+    {
+      "album": {
+        "name": "Camar\u00f3n Pelao",
+        "url": "https://open.spotify.com/album/4HnYiXe7LL0uZCIyHrltZm"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Corona De Tapachula",
+          "url": "https://open.spotify.com/artist/5A49aknVU0AJMFRYMOvYYb"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181446,
+      "name": "Son Tus Perj\u00famenes Mujer",
+      "url": "https://open.spotify.com/track/5ugkh4WYcSGeaBEENv09WS"
     },
     {
       "album": {
@@ -1802,6 +2162,24 @@
     },
     {
       "album": {
+        "name": "20 Exitos Con Marimba Vol.1",
+        "url": "https://open.spotify.com/album/42rrNP7c27cAXPyA09DJPO"
+      },
+      "artists": [
+        {
+          "name": "20 Super Exitos De",
+          "url": "https://open.spotify.com/artist/7bp4w5sBExrir8EIXFha0u"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239853,
+      "name": "Telefono A Larga Distancia",
+      "url": "https://open.spotify.com/track/05PDDSUlRiO2zCx5sOM8gL"
+    },
+    {
+      "album": {
         "name": "Coleccion De Oro Instrumental, Musica Rlajante Marimba",
         "url": "https://open.spotify.com/album/0YoDpUDCohGiY588XwiXwN"
       },
@@ -1813,7 +2191,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239853,
       "name": "Tele\u0301fono A Larga Distancia",
       "url": "https://open.spotify.com/track/72qJDkryV2JZIGY5QPYSO9"

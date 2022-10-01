@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWzQ8keS6x.md) - [plain]
 
 > 🚂  É o trem do Poze com o melhor do Trap desse ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,534 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,177 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWzQ8keS6x.md) - [plain]
 | 49 | [Versão Chave Djokovic](https://open.spotify.com/track/61paf4AkhQQ0zCxQG8lNUs) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Versão Chave Djokovic](https://open.spotify.com/album/7xSqirsQ3NyCMQPyhdoiVl) | 2:54 |
 | 50 | [Ouro Rosé](https://open.spotify.com/track/6keP0AfCE5v4CTI1E5nrLv) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Real G](https://open.spotify.com/artist/4VBvroduJdLVzx7N0gKKO8), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Peunubeat](https://open.spotify.com/artist/17E8w3INI7HVddLkdDKYVA) | [Ouro Rosé](https://open.spotify.com/album/3hRlp9PlDxPTJd5c1X3lJL) | 4:50 |
 
-Snapshot ID: `MTY0NjI0MzkyNywwMDAwMDAwNDAwMDAwMTdmNGJjOGQ3MWMwMDAwMDE3ZDcxOTJmMjg5`
+Snapshot ID: `MTY1ODM1MjI1MiwwMDAwMDAwNTAwMDAwMTgyMWQ3ZjM3ZDcwMDAwMDE3ZDcxOTJmMjg5`

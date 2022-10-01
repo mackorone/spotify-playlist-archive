@@ -231,6 +231,24 @@
     {
       "album": {
         "name": "What Happens Next",
+        "url": "https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB"
+      },
+      "artists": [
+        {
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323613,
+      "name": "Devil And The Deep Blue Sea",
+      "url": "https://open.spotify.com/track/035lhtrIbsEQafgDXTQh20"
+    },
+    {
+      "album": {
+        "name": "What Happens Next",
         "url": "https://open.spotify.com/album/2wVJmrDg19gR4wtCRFDncv"
       },
       "artists": [
@@ -241,7 +259,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 323613,
       "name": "Devil And The Deep Blue Sea",
       "url": "https://open.spotify.com/track/4IujrVjoA1iAzq3NdhxZC7"
@@ -259,10 +277,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226660,
       "name": "Dust In My Hands",
       "url": "https://open.spotify.com/track/0QInCPj56gVSiThrLk39dE"
+    },
+    {
+      "album": {
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226660,
+      "name": "Dust In My Hands",
+      "url": "https://open.spotify.com/track/6HL4diteB2LimcckEn78Ir"
     },
     {
       "album": {
@@ -392,6 +428,36 @@
     },
     {
       "album": {
+        "name": "Hit 'Em Back",
+        "url": "https://open.spotify.com/album/1kN8MM4zOwjHKzFw6epZuX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        },
+        {
+          "name": "Robert Randolph",
+          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
+        },
+        {
+          "name": "Tony Coleman",
+          "url": "https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273981,
+      "name": "Hit 'Em Back",
+      "url": "https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd"
+    },
+    {
+      "album": {
         "name": "Hit 'Em Back (feat. Robert Randolph, Tony Coleman)",
         "url": "https://open.spotify.com/album/6v7PWbwEKiBFAPcijUpRVe"
       },
@@ -415,10 +481,32 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273981,
       "name": "Hit 'Em Back (feat. Robert Randolph, Tony Coleman)",
       "url": "https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti"
+    },
+    {
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259226,
+      "name": "I Want My Crown",
+      "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
     },
     {
       "album": {
@@ -437,7 +525,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 259226,
       "name": "I Want My Crown (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/2DqvcJ1mq1ioIVWmDGgWBn"
@@ -531,10 +619,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 401040,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/0P1KkEJ2Po1qsK5HfP39wo"
+    },
+    {
+      "album": {
+        "name": "Heavy Load Blues",
+        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401040,
+      "name": "Make It Rain",
+      "url": "https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5"
     },
     {
       "album": {
@@ -747,10 +853,50 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257094,
       "name": "Sunshine City",
       "url": "https://open.spotify.com/track/4PpF9xvXBP5kH7IOBPkwBf"
+    },
+    {
+      "album": {
+        "name": "Shining in the Half Light",
+        "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257094,
+      "name": "Sunshine City",
+      "url": "https://open.spotify.com/track/6gUbMFFKZtiEq4c9C4GfT4"
+    },
+    {
+      "album": {
+        "name": "Dear America",
+        "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        },
+        {
+          "name": "Billy Branch",
+          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248394,
+      "name": "Talkin' 'Bout A Train, Pt. 1",
+      "url": "https://open.spotify.com/track/2GecwobSZ25wgrgLsK3fKx"
     },
     {
       "album": {
@@ -769,7 +915,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248394,
       "name": "Talkin' 'Bout A Train, Pt. 1 (feat. Billy Branch)",
       "url": "https://open.spotify.com/track/6GwO465BBQuziWbL0t4D0u"

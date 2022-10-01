@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PzNMpCPMDMo1pOUjNhDUC.md) - [plain]
 
 > The perfect playlist for a great party\. Fun, happy, joyful..\. the kids will love it!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,279 likes - 44 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,237 likes - 44 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

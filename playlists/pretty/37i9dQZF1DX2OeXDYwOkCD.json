@@ -1,15 +1,15 @@
 {
   "description": "Si te gustan por separado, \u00bfc\u00f3mo no te van a gustar juntos?",
-  "num_followers": 36325,
+  "num_followers": 42910,
   "original_name": "Dos Iconos: Rosal\u00eda y C. Tangana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU1MDY0NSwwMDAwMDAwNTAwMDAwMTdmZDU0NjkwNDEwMDAwMDE3YmMwYWRjNmI0",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMGQ1Mzk3OGMxOGY2NjdiYzhlZDNlNTY2MWMyODgxYTQ1",
   "tracks": [
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -49,23 +49,27 @@
       "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "MALAMENTE (Cap.1: Augurio)",
-        "url": "https://open.spotify.com/album/2O7Zu2OPZzqehwh1wiO764"
+        "name": "El Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5"
       },
       "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 149450,
-      "name": "MALAMENTE - Cap.1: Augurio",
-      "url": "https://open.spotify.com/track/5zOAudPQIs5U8zP6LQGHmH"
+      "duration_ms": 234706,
+      "name": "El Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Mala Mujer",
         "url": "https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe"
@@ -81,27 +85,23 @@
       "url": "https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "LA FAMA (with The Weeknd)",
-        "url": "https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU"
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
       "artists": [
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 188102,
-      "name": "LA FAMA (with The Weeknd)",
-      "url": "https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK"
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Llorando en la Limo (feat. Alizzz)",
         "url": "https://open.spotify.com/album/7axhzfh8s79ObBSoyVfSIu"
@@ -121,7 +121,47 @@
       "url": "https://open.spotify.com/track/0Umt5FqtUbnP4iR1QejfzB"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "LA FAMA",
+      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 199994,
+      "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "PIENSO EN TU MIR\u00c1 (Cap.3: Celos)",
         "url": "https://open.spotify.com/album/6dOSikKvJSaL1F6i4SFmqY"
@@ -137,27 +177,7 @@
       "url": "https://open.spotify.com/track/0qKxqVcFCMmrjjvIgjjEE6"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
-      "album": {
-        "name": "Antes de Morirme (feat. Rosal\u00eda)",
-        "url": "https://open.spotify.com/album/6sJLYcfLIb9wNyLy1hdeyM"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 199994,
-      "name": "Antes de Morirme (feat. Rosal\u00eda)",
-      "url": "https://open.spotify.com/track/7aFBy1CBLGnZE1Iv6TvEZE"
-    },
-    {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o (La Sobremesa)",
         "url": "https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz"
@@ -168,27 +188,19 @@
           "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         },
         {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Daviles de Novelda",
-          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
-        },
-        {
-          "name": "Canelita",
-          "url": "https://open.spotify.com/artist/7g9K2QjuqVLUniCCCHyF7j"
+          "name": "Antonio Carmona",
+          "url": "https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo"
         }
       ],
-      "duration_ms": 188386,
-      "name": "La Culpa (feat. Canelita)",
-      "url": "https://open.spotify.com/track/0v2LBtK5Zk80VxIbVrD9ik"
+      "duration_ms": 242493,
+      "name": "Me Maten - Live at NPR's Tiny Desk",
+      "url": "https://open.spotify.com/track/2uFlBIfS4XKyOVPKiIrj5L"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "SAOKO",
-        "url": "https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
@@ -198,30 +210,26 @@
       ],
       "duration_ms": 137533,
       "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA"
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Yo x Ti, Tu x Mi",
-        "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
+        "name": "MALAMENTE (Cap.1: Augurio)",
+        "url": "https://open.spotify.com/album/2O7Zu2OPZzqehwh1wiO764"
       },
       "artists": [
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 201040,
-      "name": "Yo x Ti, Tu x Mi",
-      "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
+      "duration_ms": 149450,
+      "name": "MALAMENTE - Cap.1: Augurio",
+      "url": "https://open.spotify.com/track/5zOAudPQIs5U8zP6LQGHmH"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -249,10 +257,58 @@
       "url": "https://open.spotify.com/track/3SK45LddxlEkzI8OWO9Eyo"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "DI MI NOMBRE (Cap.8: \u00c9xtasis)",
-        "url": "https://open.spotify.com/album/5noDcJgru6dRUX2lYyzW25"
+        "name": "Yo x Ti, Tu x Mi",
+        "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Yo x Ti, Tu x Mi",
+      "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "El Madrile\u00f1o (La Sobremesa)",
+        "url": "https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Daviles de Novelda",
+          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
+        },
+        {
+          "name": "Canelita",
+          "url": "https://open.spotify.com/artist/7g9K2QjuqVLUniCCCHyF7j"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "La Culpa (feat. Canelita)",
+      "url": "https://open.spotify.com/track/0v2LBtK5Zk80VxIbVrD9ik"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
@@ -260,12 +316,12 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 162373,
-      "name": "DI MI NOMBRE - Cap.8: \u00c9xtasis",
-      "url": "https://open.spotify.com/track/56lQ8hCfzGmLtr14y9Wv6v"
+      "duration_ms": 193480,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "No Te Deb\u00ed Besar",
         "url": "https://open.spotify.com/album/1VIVJSQidZ6nddSJoEEYt7"
@@ -285,10 +341,10 @@
       "url": "https://open.spotify.com/track/1KdwnsWOvhM53vezy5ROuf"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
       "artists": [
         {
@@ -296,12 +352,12 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 193480,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+      "duration_ms": 162376,
+      "name": "DI MI NOMBRE - Cap.8: \u00c9xtasis",
+      "url": "https://open.spotify.com/track/2Sfl7odHUmG7qc8SbqUyzE"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -325,7 +381,7 @@
       "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
@@ -345,7 +401,7 @@
       "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -365,7 +421,7 @@
       "url": "https://open.spotify.com/track/4DoEHKWh8k6vYDleECQkJx"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
@@ -385,7 +441,7 @@
       "url": "https://open.spotify.com/track/3vgiIJW3iSQRRvgYiW86i9"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Bien Duro",
         "url": "https://open.spotify.com/album/4OVhZZxeeeMAXvz3zNtFXH"
@@ -401,7 +457,7 @@
       "url": "https://open.spotify.com/track/3joo84oco9CD4dBsKNWRRW"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Relaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
@@ -433,7 +489,7 @@
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -449,7 +505,7 @@
       "url": "https://open.spotify.com/track/6N4ioa3XSbvjmwdVEERl8F"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Aute Cuture",
         "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
@@ -465,7 +521,7 @@
       "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
@@ -485,7 +541,7 @@
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "TKN (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
@@ -505,7 +561,7 @@
       "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Un Veneno",
         "url": "https://open.spotify.com/album/15SMQSOyMa1BFYGH9rBmfH"
@@ -525,7 +581,7 @@
       "url": "https://open.spotify.com/track/42C5Bbb4dHwS5OFMvtGkG2"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Fucking Money Man",
         "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
@@ -541,7 +597,7 @@
       "url": "https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Yate",
         "url": "https://open.spotify.com/album/65BZfDQ8PCkHXtRYuaCbuI"
@@ -557,7 +613,7 @@
       "url": "https://open.spotify.com/track/0q7psxaixBQ8FkqyVpbfky"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Juro Que",
         "url": "https://open.spotify.com/album/3XV0gPorxF6TtGScGJChxG"
@@ -573,7 +629,7 @@
       "url": "https://open.spotify.com/track/3ZwQCZ2LuYwuQ6R1p1CJ3w"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Pa' Llamar Tu Atenci\u00f3n (feat. MC Bin Laden)",
         "url": "https://open.spotify.com/album/4cuwg5OdGMhnbvTdlNWkd9"
@@ -593,7 +649,7 @@
       "url": "https://open.spotify.com/track/2vEY3cNwXYxIG4fPAoN14q"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "A Pal\u00e9",
         "url": "https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx"
@@ -609,7 +665,7 @@
       "url": "https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -629,7 +685,7 @@
       "url": "https://open.spotify.com/track/6RUr6r5OexrMOYDtgu1QtS"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
@@ -653,7 +709,7 @@
       "url": "https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o (Live at NPR's Tiny Desk)",
         "url": "https://open.spotify.com/album/3hQIiRWmSllPrVnOEG1qVS"
@@ -673,7 +729,7 @@
       "url": "https://open.spotify.com/track/5py3FJrHEuR67BjR7wm8uj"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
@@ -689,7 +745,7 @@
       "url": "https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/3kXXP1DhtEO49WdHaxfXKO"
@@ -709,7 +765,7 @@
       "url": "https://open.spotify.com/track/64NRP5zPfcCZJw8Lc61Wgi"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Dolerme",
         "url": "https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo"
@@ -725,7 +781,7 @@
       "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Booty",
         "url": "https://open.spotify.com/album/61qzEZvLqn1PwAPt3lMcyo"
@@ -745,7 +801,7 @@
       "url": "https://open.spotify.com/track/4W3FJapn5CD6Fnrlfj4HFe"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Fucking Money Man",
         "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
@@ -761,7 +817,7 @@
       "url": "https://open.spotify.com/track/5m9l5wILQ9iiLd8csLeR5v"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -781,7 +837,7 @@
       "url": "https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
@@ -797,7 +853,7 @@
       "url": "https://open.spotify.com/track/0c7XKJjw6heRqQX7PzkUIj"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Avida Dollars",
         "url": "https://open.spotify.com/album/3xFCSN4oKeJE1lJ2c5KLZQ"
@@ -817,10 +873,10 @@
       "url": "https://open.spotify.com/track/5THnzdXOBNjVD4fipR3EAu"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Assume Form",
-        "url": "https://open.spotify.com/album/1LJE8ppunlaafUQzNJsxl2"
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
       "artists": [
         {
@@ -833,11 +889,11 @@
         }
       ],
       "duration_ms": 211200,
-      "name": "Barefoot In The Park",
-      "url": "https://open.spotify.com/track/1F7ZElvJAvWKQ7UaPXg9cF"
+      "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -857,7 +913,7 @@
       "url": "https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
@@ -873,10 +929,10 @@
       "url": "https://open.spotify.com/track/6HpgdL4zUpuyXCzvAhgR5a"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Persigui\u00e9ndonos",
-        "url": "https://open.spotify.com/album/211qi6fnRDLRf4UnWH4I73"
+        "url": "https://open.spotify.com/album/0qeOr7n69VrEz9RrKWhVn7"
       },
       "artists": [
         {
@@ -886,10 +942,10 @@
       ],
       "duration_ms": 174923,
       "name": "Persigui\u00e9ndonos",
-      "url": "https://open.spotify.com/track/4D1JoHyxlpEdZOui7w76zx"
+      "url": "https://open.spotify.com/track/2vmrBEPDMKBa2reyrUARZN"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "For The Throne (Music Inspired by the HBO Series Game of Thrones)",
         "url": "https://open.spotify.com/album/00xUnMv4KFgxTBvNMsUy3T"
@@ -909,7 +965,7 @@
       "url": "https://open.spotify.com/track/3GiPW9U9KASQZfHiv6ix0w"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Ontas?",
         "url": "https://open.spotify.com/album/4WzMQmA3NrcxtGAlalrugu"
@@ -925,7 +981,7 @@
       "url": "https://open.spotify.com/track/3Dj6xObwtNu6EvDKKsmuiE"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
@@ -941,7 +997,7 @@
       "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Picaflor",
         "url": "https://open.spotify.com/album/22S0XmneoalxpGMIaYtJNz"
@@ -961,7 +1017,7 @@
       "url": "https://open.spotify.com/track/3r5OlIxUKkh2ydNeYYh6tD"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
@@ -977,7 +1033,7 @@
       "url": "https://open.spotify.com/track/1QzfazYi9a86Bf0h71xbH1"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Guerrera",
         "url": "https://open.spotify.com/album/2qx3hMFjEnHK41oQ0kHqwW"
@@ -997,10 +1053,10 @@
       "url": "https://open.spotify.com/track/3Q6zROQvMXRtR9NYfDpNWL"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/3ZuV4xSFJnWDncgMICfFmX"
+        "url": "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew"
       },
       "artists": [
         {
@@ -1014,10 +1070,10 @@
       ],
       "duration_ms": 203464,
       "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/0jagsVVkxwxhmTIicnOaon"
+      "url": "https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "\u00cddolo",
         "url": "https://open.spotify.com/album/19lX6EAXyt4uROdcsgnoiX"
@@ -1033,7 +1089,7 @@
       "url": "https://open.spotify.com/track/0HkLxd8oNOo5BFQsIvtkvO"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Aunque Es De Noche",
         "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
@@ -1049,7 +1105,7 @@
       "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "De Pie",
         "url": "https://open.spotify.com/album/0QSMhVfxswtjgwzyJn9v3o"
@@ -1065,7 +1121,7 @@
       "url": "https://open.spotify.com/track/52Ixm0kDxqdvAyQuupMMQ9"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Nothing's Special",
         "url": "https://open.spotify.com/album/2xBvgd6MJXlo98bWrxQRKk"
@@ -1085,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2EsL4kfdrEZJTKRFhuMDbY"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Yelo",
         "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
@@ -1101,7 +1157,7 @@
       "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
@@ -1117,7 +1173,7 @@
       "url": "https://open.spotify.com/track/0RhO0RV0YKyF05kZ4uQOHW"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -1137,7 +1193,7 @@
       "url": "https://open.spotify.com/track/5SkiVFWCP3NPEgNk3PaL2I"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Blinding Lights (Remix)",
         "url": "https://open.spotify.com/album/7B70Z32Ha84aMT6TOnW410"
@@ -1157,7 +1213,7 @@
       "url": "https://open.spotify.com/track/7MXgrcOQAJ5VwSNUL0lDd3"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "NADA (with Lauren Jauregui & C. Tangana)",
         "url": "https://open.spotify.com/album/0MGEkWz4qKZOQn56W4FnGm"
@@ -1181,7 +1237,7 @@
       "url": "https://open.spotify.com/track/1CrwI6m6zrG8AvOyvzpTHO"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
@@ -1197,7 +1253,7 @@
       "url": "https://open.spotify.com/track/7c6ivZorDH6A98fBNFmCjX"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -1221,7 +1277,7 @@
       "url": "https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
@@ -1237,7 +1293,7 @@
       "url": "https://open.spotify.com/track/2iCuj1KMxtGU5rP2GY9VaP"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Como habla una mujer (feat. C. Tangana)",
         "url": "https://open.spotify.com/album/09sHAU8dDbAuIy3RfCM3wZ"
@@ -1257,7 +1313,7 @@
       "url": "https://open.spotify.com/track/1pJeLDLduCZS4hLuc1JByJ"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
@@ -1273,7 +1329,7 @@
       "url": "https://open.spotify.com/track/5IIXMynH8cxC8is6MaqdF7"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Viene y Va",
         "url": "https://open.spotify.com/album/1GMAjyXTrGyAgMhvykfLJJ"
@@ -1293,7 +1349,7 @@
       "url": "https://open.spotify.com/track/1UozIJsPRJVXDRG08AgUQP"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
@@ -1309,7 +1365,7 @@
       "url": "https://open.spotify.com/track/0CaiddWO1F3v4nTQGgfk9A"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -1329,7 +1385,7 @@
       "url": "https://open.spotify.com/track/4kD4ZzJ1rZIVfJ9qw85CVT"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
@@ -1345,7 +1401,7 @@
       "url": "https://open.spotify.com/track/5r3n7YYY1jtl8pqvZr1DAD"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Famouz",
         "url": "https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo"
@@ -1365,7 +1421,7 @@
       "url": "https://open.spotify.com/track/77eLBhhdkYwEOptOKfkXlh"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "KiCk i",
         "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
@@ -1385,7 +1441,7 @@
       "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "S\u00faper Sangre Joven",
         "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
@@ -1413,7 +1469,7 @@
       "url": "https://open.spotify.com/track/6HvD8JhIe9Mq6gyql32rYb"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
@@ -1429,7 +1485,7 @@
       "url": "https://open.spotify.com/track/5bu6hDqiYju5JPcBUxGTjC"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Mala Mujer (feat. Farruko & French Montana) [Remix]",
         "url": "https://open.spotify.com/album/6K6yEQC1fPySi8lwn5TRIW"
@@ -1453,7 +1509,7 @@
       "url": "https://open.spotify.com/track/1UnEj1Xn1um7EtICzThjUU"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
@@ -1469,7 +1525,7 @@
       "url": "https://open.spotify.com/track/1Yaw3jxKlBUXkfIo2FHG2M"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "No Te Pegas (feat. A.CHAL)",
         "url": "https://open.spotify.com/album/6VYYVINV9bedL411ht9I2u"
@@ -1489,7 +1545,7 @@
       "url": "https://open.spotify.com/track/0xEHRiHRnzED9ohgRwv7Wr"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
@@ -1505,7 +1561,7 @@
       "url": "https://open.spotify.com/track/0JRUe91TOCuUtwczlhbhsG"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "No Eres T\u00fa",
         "url": "https://open.spotify.com/album/5vi7SsbnspDHTMthxaVQh4"
@@ -1525,7 +1581,7 @@
       "url": "https://open.spotify.com/track/3vd1rLbxCxDTGbxazgW91I"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Realmente Volando (En Directo)",
         "url": "https://open.spotify.com/album/6ZEninUB9PobSF5FVMyFK9"
@@ -1545,7 +1601,7 @@
       "url": "https://open.spotify.com/track/1uAGwsFrgLgjBzp5F5bO3a"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Pop Ur Pussy",
         "url": "https://open.spotify.com/album/7qT6JO3ZJsaSMYzwQXCToE"
@@ -1561,7 +1617,7 @@
       "url": "https://open.spotify.com/track/2PCelPqndnrSq6h9aZW1Z0"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
@@ -1577,7 +1633,7 @@
       "url": "https://open.spotify.com/track/4qEG0SIXAnjnd8KFH4T9Eg"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Lo Hace Conmigo",
         "url": "https://open.spotify.com/album/7GrytPXBniwL3JrU9WdF9i"
@@ -1593,7 +1649,7 @@
       "url": "https://open.spotify.com/track/4aupCdUVub6vTeaOboNPuc"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
@@ -1609,7 +1665,7 @@
       "url": "https://open.spotify.com/track/623kdaD0Wi2L0L6GyZvXUP"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -1629,7 +1685,7 @@
       "url": "https://open.spotify.com/track/740uwCK09xVPNPr4hFpcWW"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
@@ -1645,7 +1701,7 @@
       "url": "https://open.spotify.com/track/5meAAp6VRNKT4cR3CvKkfU"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "\u00cddolo",
         "url": "https://open.spotify.com/album/19lX6EAXyt4uROdcsgnoiX"
@@ -1661,7 +1717,7 @@
       "url": "https://open.spotify.com/track/2oZYkDEyOhvEwuLHD3M7Sj"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
@@ -1677,7 +1733,7 @@
       "url": "https://open.spotify.com/track/0r6AxesiTSiCyJIIOpVYrv"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Traicionero (feat. Cromo X)",
         "url": "https://open.spotify.com/album/0RPdl5w1OV3hh5WXQh7NVY"
@@ -1697,7 +1753,7 @@
       "url": "https://open.spotify.com/track/4CrVQgYTd2D3uVEuOrQ3zP"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
@@ -1713,7 +1769,7 @@
       "url": "https://open.spotify.com/track/2gp9YVRrqL5N9MgjTwunux"
     },
     {
-      "added_at": "2022-03-29 10:44:05",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Bien:(",
         "url": "https://open.spotify.com/album/5deRnNJSQ1Fa61ea3U1S8x"

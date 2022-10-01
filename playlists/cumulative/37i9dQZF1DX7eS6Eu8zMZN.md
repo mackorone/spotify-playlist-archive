@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-50 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/2pqytRMSyM7wvLaDeCih1G)
+53 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/2pqytRMSyM7wvLaDeCih1G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aunque no sea conmigo \(feat\. Café Tacvba\)](https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 3:33 | 2021-05-13 |  |
 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 | 2021-05-13 |  |
 | [Celofán](https://open.spotify.com/track/1sNz5k4POwNzx9AZUdyjNK) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Romantisísmico](https://open.spotify.com/album/1x93LZe2PKKrgePH2GZjCP) | 3:15 | 2021-05-13 |  |
+| [Crimen](https://open.spotify.com/track/4rl7tALHULBjGV7V5gdtaS) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [Crimen](https://open.spotify.com/album/0z80h27AQ4HeBPrVpYTc2i) | 4:00 | 2022-08-13 |  |
 | [Cuando Pase El Temblor](https://open.spotify.com/track/1oEKw4f4pihhfAkl6pHAVt) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Cuando Pase El Temblor](https://open.spotify.com/album/3t8lnRw3jMofkqoEogBO3d) | 4:56 | 2021-05-13 |  |
 | [De Musica Ligera](https://open.spotify.com/track/4t4WLbLGtGF8SLat7erPRI) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [De Musica Ligera](https://open.spotify.com/album/2WBqtI7ilp1ldg2eBIpMLO) | 3:10 | 2021-05-13 |  |
 | [Dejate Caer \- Unplugged Version](https://open.spotify.com/track/12J5Y7Ep2WgK91vtop1HHX) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 3:29 | 2021-05-13 |  |
@@ -27,7 +28,8 @@
 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 | 2021-05-13 |  |
 | [Fotografía \- En Directo](https://open.spotify.com/track/4csQ5jSxzM9NOmqjHhUHBj) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Manual De Viaje A Un Lugar Lejano \(En Directo\)](https://open.spotify.com/album/2ulvRTw9dtLhbHO5msBG2t) | 5:00 | 2021-05-13 |  |
 | [Hasta La Raiz](https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Hasta La Raíz](https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT) | 2:44 | 2021-05-13 |  |
-| [Háblame \- Versión Acústica](https://open.spotify.com/track/1kHMWedCQgnOk8CKNlq3PQ) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Miedo Escénico](https://open.spotify.com/album/5xcCfpy6FkNrMEVTiOhuom) | 5:16 | 2021-05-13 |  |
+| [Háblame \- Versión Acústica](https://open.spotify.com/track/1kHMWedCQgnOk8CKNlq3PQ) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Miedo Escénico](https://open.spotify.com/album/5xcCfpy6FkNrMEVTiOhuom) | 5:16 | 2021-05-13 | 2022-07-29 |
+| [Háblame \- Versión Acústica](https://open.spotify.com/track/5N1OvG5Hu2XpKpMSNwyEh8) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Háblame](https://open.spotify.com/album/5zXa4mmHtwLtfeu3n3xyaK) | 5:16 | 2021-05-13 |  |
 | [Infinito](https://open.spotify.com/track/6vDU3LYv7ElyyDqghIbYNO) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Infinito](https://open.spotify.com/album/0lNsHCDXKw0g7uhypZLlm1) | 3:40 | 2021-05-13 |  |
 | [Jardin](https://open.spotify.com/track/59qjlwBAL2m3ggriczGJit) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Jardin](https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC) | 3:28 | 2021-05-13 |  |
 | [La Celula Que Explota](https://open.spotify.com/track/0RZ5fW0i0FfCHCpteE5eJG) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [La Celula Que Explota](https://open.spotify.com/album/0q9Zisx8hUfS1HalF2C38m) | 2:12 | 2021-05-13 |  |
@@ -37,7 +39,8 @@
 | [Lamento Boliviano](https://open.spotify.com/track/0mcUQ5mkevgbOpuLDAPTKF) | [Lea Aput](https://open.spotify.com/artist/2LchpIHNCd70zS78KogG0Z) | [Lamento Boliviano](https://open.spotify.com/album/4rYDSfBiuyX4OmHjMRyzLZ) | 3:52 | 2021-05-13 |  |
 | [Las Flores](https://open.spotify.com/track/5hdO9pJEp8Ht35PzrQjWqT) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Las Flores](https://open.spotify.com/album/22Nug9IPcwyq58yBJVBmhS) | 2:59 | 2021-05-13 |  |
 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/3ajpzObwM2gdcSsa5hPfIQ) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Llueve Sobre La Ciudad](https://open.spotify.com/album/64qcPXeQX1UGtvqdtsRgvG) | 2:51 | 2021-05-13 |  |
-| [Lo Noto \(with Miguel Bosé\)](https://open.spotify.com/track/5M6ynbvTfCI5Mx9uuRXQPs) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Lo Noto \(with Miguel Bosé\)](https://open.spotify.com/album/7FTJJ78m4tTXycEApfGT1o) | 4:14 | 2021-05-13 |  |
+| [Lo noto \(feat\. Hombres G\)](https://open.spotify.com/track/0HTXPniIdy9szOPpfafOET) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Papitwo \(Deluxe\)](https://open.spotify.com/album/6mgs9ywhBqW5QSCMyYPC3g) | 4:09 | 2021-05-13 |  |
+| [Lo Noto \(with Miguel Bosé\)](https://open.spotify.com/track/5M6ynbvTfCI5Mx9uuRXQPs) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Lo Noto \(with Miguel Bosé\)](https://open.spotify.com/album/7FTJJ78m4tTXycEApfGT1o) | 4:14 | 2021-05-13 | 2022-07-29 |
 | [Lobo Hombre En París](https://open.spotify.com/track/2TA3fiM7ZQc0HWo1ncG02e) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Lobo Hombre En París](https://open.spotify.com/album/2EVTpcVPnTzqM4tglyPiA5) | 3:05 | 2021-05-13 |  |
 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 | 2021-05-13 |  |
 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 | 2021-05-13 |  |

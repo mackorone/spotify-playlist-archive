@@ -145,7 +145,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149560,
       "name": "Cleopatra, La Reina Del Twist",
       "url": "https://open.spotify.com/track/6XxKFdLiQG5g4xPfnBV1H5"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 226946,
       "name": "Corazones Muertos",
       "url": "https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV"
@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Ritual De Los Pericos",
+        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "El Ritual De La Banana",
+      "url": "https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG"
+    },
+    {
+      "album": {
         "name": "El Ritual De La Banana / Los Pericos",
         "url": "https://open.spotify.com/album/6sN1L8SbguregFdB6slLWU"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220760,
       "name": "El Ritual De La Banana",
       "url": "https://open.spotify.com/track/4ddPLpcYicUAEXLFVnqp7m"
@@ -271,10 +289,28 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 432000,
       "name": "El Sue\u00f1o De La Gitana",
       "url": "https://open.spotify.com/track/0N19GlFqpOgdi6M72KBaaq"
+    },
+    {
+      "album": {
+        "name": "Rata Blanca",
+        "url": "https://open.spotify.com/album/19wA8bZa5CGUISYVPgM3kF"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432866,
+      "name": "El Sue\u00f1oDe La Gitana",
+      "url": "https://open.spotify.com/track/0jeONCVcTJdM3cT50MUSMm"
     },
     {
       "album": {
@@ -307,10 +343,28 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": "2022-07-28",
       "duration_ms": 172973,
       "name": "Empire State",
       "url": "https://open.spotify.com/track/6z6kzUXX7kw93lDf84ofIX"
+    },
+    {
+      "album": {
+        "name": "GIT, El Album",
+        "url": "https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN"
+      },
+      "artists": [
+        {
+          "name": "GIT",
+          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313840,
+      "name": "Es Por Amor",
+      "url": "https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox"
     },
     {
       "album": {
@@ -325,7 +379,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 314320,
       "name": "Es Por Amor",
       "url": "https://open.spotify.com/track/1DpthWlF7iOTKyYmCoiRTF"
@@ -343,10 +397,28 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213573,
       "name": "Estallando Desde el Oc\u00e9ano",
       "url": "https://open.spotify.com/track/5RbnGNeNihQW1OMSogPpZ4"
+    },
+    {
+      "album": {
+        "name": "Llegando Los Monos",
+        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214146,
+      "name": "Estallando Desde el Oc\u00e9ano",
+      "url": "https://open.spotify.com/track/7379uubtjZDDT6Phsj4nhj"
     },
     {
       "album": {
@@ -419,10 +491,28 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 304746,
       "name": "Himno De Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2kIhana7Cw57qXztsUb7NN"
+    },
+    {
+      "album": {
+        "name": "Los Abuelos De La Nada 1",
+        "url": "https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305773,
+      "name": "Himno De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0Y7Fr8AG39QyLQ3TAb8uoX"
     },
     {
       "album": {
@@ -437,7 +527,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 253533,
       "name": "Hu Na Na",
       "url": "https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69"
@@ -475,7 +565,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 269093,
-      "name": "Im\u00e1genes Paganas - Version Estudio",
+      "name": "Im\u00e1genes Paganas",
       "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
     },
     {
@@ -617,10 +707,28 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195573,
       "name": "Los Viejos Vinagres",
       "url": "https://open.spotify.com/track/1im6qBIKkKI74toy5Htaur"
+    },
+    {
+      "album": {
+        "name": "Llegando Los Monos",
+        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197266,
+      "name": "Los Viejos Vinagres",
+      "url": "https://open.spotify.com/track/587HW7legSOEetkhw2RoO2"
     },
     {
       "album": {
@@ -653,10 +761,28 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194226,
       "name": "Lunes Por La Madrugada",
       "url": "https://open.spotify.com/track/6VPIaZNNJFOY9U17geQz1o"
+    },
+    {
+      "album": {
+        "name": "Los Abuelos De La Nada 1",
+        "url": "https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "Lunes Por La Madrugada",
+      "url": "https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz"
     },
     {
       "album": {
@@ -671,10 +797,28 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281493,
       "name": "Mejor No Hablar de Ciertas Cosas",
       "url": "https://open.spotify.com/track/4FapqmBF1lcrZf98FHfr1O"
+    },
+    {
+      "album": {
+        "name": "Divididos Por La Felicidad",
+        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286813,
+      "name": "Mejor No Hablar de Ciertas Cosas",
+      "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
     },
     {
       "album": {
@@ -725,10 +869,28 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167066,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/6sBgH04G1edCBg7eC8rIdl"
+    },
+    {
+      "album": {
+        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168344,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/7JEnT0uFWcwZqNZWv7hC9N"
     },
     {
       "album": {
@@ -750,6 +912,24 @@
     },
     {
       "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/1SdOnqeKXxOKAU6rVbS0z5"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 208146,
+      "name": "Nada que perder",
+      "url": "https://open.spotify.com/track/67RABWmvqhxgRt2shdCOrr"
+    },
+    {
+      "album": {
         "name": "El Ritual De La Banana / Los Pericos",
         "url": "https://open.spotify.com/album/6sN1L8SbguregFdB6slLWU"
       },
@@ -761,7 +941,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211426,
       "name": "Nada que perder",
       "url": "https://open.spotify.com/track/6UlD0JgjMvVXGB4J61w6hW"
@@ -779,10 +959,46 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263200,
       "name": "No Me Dejan Salir",
       "url": "https://open.spotify.com/track/1D4tG72gv14PUOULq956MC"
+    },
+    {
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263200,
+      "name": "No Me Dejan Salir",
+      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
+    },
+    {
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206720,
+      "name": "Nos Siguen Pegando Abajo",
+      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
     },
     {
       "album": {
@@ -797,7 +1013,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208800,
       "name": "Nos Siguen Pegando Abajo",
       "url": "https://open.spotify.com/track/5yCLtExDoFHmzYPdLk7X2s"
@@ -815,10 +1031,28 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 140840,
       "name": "Pens\u00e9 Que Se Trataba De Cieguitos",
       "url": "https://open.spotify.com/track/4vTjD2aIaRySj7tVo70w4D"
+    },
+    {
+      "album": {
+        "name": "S.O.S. Sos Una Rica Banana - Serie Libre Acceso",
+        "url": "https://open.spotify.com/album/0qTnzXJEpAq4vE8EfQadWO"
+      },
+      "artists": [
+        {
+          "name": "Los Twist",
+          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-27",
+      "duration_ms": 142026,
+      "name": "Pens\u00e9 Que Se Trataba De Cieguitos",
+      "url": "https://open.spotify.com/track/4gj3E6oY45dzFsZpUA9Dnn"
     },
     {
       "album": {
@@ -905,7 +1139,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-08-19",
       "duration_ms": 255952,
       "name": "Recuerdo Esa Canci\u00f3n - Remastered 2017",
       "url": "https://open.spotify.com/track/55mh9gIYZ2OWd9mxLtt8hV"
@@ -923,10 +1157,28 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203520,
       "name": "Ricardo Ruben",
       "url": "https://open.spotify.com/track/0vLaSLUZKz7piNFTTtXRy8"
+    },
+    {
+      "album": {
+        "name": "Cataratas Musicales",
+        "url": "https://open.spotify.com/album/2f3g5aLQ7f02ZhMZniS7oq"
+      },
+      "artists": [
+        {
+          "name": "Los Twist",
+          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203866,
+      "name": "Ricardo Ruben",
+      "url": "https://open.spotify.com/track/5cVj2BJzyg29FstVdSDaGS"
     },
     {
       "album": {
@@ -941,10 +1193,28 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 192346,
       "name": "Sin Gamul\u00e1n",
       "url": "https://open.spotify.com/track/0XYQ2iZKwBWmO0cs86fx9j"
+    },
+    {
+      "album": {
+        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194954,
+      "name": "Sin Gamul\u00e1n",
+      "url": "https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc"
     },
     {
       "album": {
@@ -959,7 +1229,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-09-19",
       "duration_ms": 196977,
       "name": "Solo En Una Noche De Jazz",
       "url": "https://open.spotify.com/track/7nZvD8LeEV8S6LFvUPZjPW"
@@ -977,7 +1247,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 204800,
       "name": "S\u00f3lo Dame Un Poco",
       "url": "https://open.spotify.com/track/1Xfftlvik7GpI2mg9yn2jN"
@@ -995,7 +1265,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-17",
       "duration_ms": 275553,
       "name": "Varias Horas So\u00f1ando",
       "url": "https://open.spotify.com/track/3ZPt1cQUUdaplow6lqXirs"
@@ -1031,10 +1301,28 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 281093,
       "name": "Viajando Hacia el Este",
       "url": "https://open.spotify.com/track/30hedgQCyR9YG9VIuf970W"
+    },
+    {
+      "album": {
+        "name": "20 Caras Bonitas",
+        "url": "https://open.spotify.com/album/7jNFPw0fZoJVM4DoOfi8Lg"
+      },
+      "artists": [
+        {
+          "name": "Su\u00e9ter",
+          "url": "https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT"
+        }
+      ],
+      "date_added": "2020-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210179,
+      "name": "V\u00eda M\u00e9xico",
+      "url": "https://open.spotify.com/track/2F1vbTtyEC531VQhqh2LlK"
     },
     {
       "album": {
@@ -1049,7 +1337,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212120,
       "name": "V\u00eda M\u00e9xico",
       "url": "https://open.spotify.com/track/0fSeOXEDSRDlImjW2Cqkt5"

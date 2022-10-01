@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Soft piano versions of jazz classics to lull your baby to sleep.",
+  "description": "Soft piano lullaby versions of Jazz classics to lull your baby to sleep.",
   "name": "Lullaby Jazz",
   "published_playlist_ids": [
     "3lfP3rLqd7IKI2XgczwAsS"
@@ -23,6 +23,24 @@
       "duration_ms": 243516,
       "name": "A Flower Is A Lonesome Thing",
       "url": "https://open.spotify.com/track/6VvWYVzG8F16Q1lGrBE22Q"
+    },
+    {
+      "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/4h73tz90SvA4W9P2EydSOt"
+      },
+      "artists": [
+        {
+          "name": "Mrs Lawson",
+          "url": "https://open.spotify.com/artist/6GRdbp1aBLfEJCgNcdGKLM"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "A Good Day",
+      "url": "https://open.spotify.com/track/4CKFgo4cHetK6zsBywwBIx"
     },
     {
       "album": {
@@ -746,6 +764,24 @@
     },
     {
       "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/4h73tz90SvA4W9P2EydSOt"
+      },
+      "artists": [
+        {
+          "name": "Mrs Lawson",
+          "url": "https://open.spotify.com/artist/6GRdbp1aBLfEJCgNcdGKLM"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151935,
+      "name": "My Boy's Song",
+      "url": "https://open.spotify.com/track/4qOzwCfTCSwwxCo3UVBPRR"
+    },
+    {
+      "album": {
         "name": "My One and Only Love",
         "url": "https://open.spotify.com/album/10MOshcK6sWbLtlG9hQqMt"
       },
@@ -909,6 +945,24 @@
     {
       "album": {
         "name": "Wax Figures",
+        "url": "https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD"
+      },
+      "artists": [
+        {
+          "name": "Infinity Ripple",
+          "url": "https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 177528,
+      "name": "Sangfroid",
+      "url": "https://open.spotify.com/track/24qMIt9iEQPSvhcIhHI21K"
+    },
+    {
+      "album": {
+        "name": "Wax Figures",
         "url": "https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt"
       },
       "artists": [
@@ -919,7 +973,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177528,
       "name": "Sangfroid",
       "url": "https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z"
@@ -1301,6 +1355,24 @@
       "duration_ms": 178264,
       "name": "What a Difference a Day Makes",
       "url": "https://open.spotify.com/track/2leHkcbJyZho0oEWfCzt11"
+    },
+    {
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/5quM0S9KSStVWz27lzY2if"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Thorpe",
+          "url": "https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/5QbNsaI7NnYa5OzOdkmpWm"
     },
     {
       "album": {

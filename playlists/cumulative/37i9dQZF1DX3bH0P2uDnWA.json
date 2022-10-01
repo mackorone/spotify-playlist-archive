@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 164842,
       "name": "1925",
       "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 180200,
       "name": "1941 (feat. Virian)",
       "url": "https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 186144,
       "name": "A Timeless Tale",
       "url": "https://open.spotify.com/track/6un59YUiVc6N1Sos22rE4f"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240812,
       "name": "AKH Odessa",
       "url": "https://open.spotify.com/track/5Y6jWzTtil6LwMChWEE8Tu"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146190,
       "name": "Allegro Molto Vivace (Piano Concerto in E Minor No. 1) - Electro Swing Mix",
       "url": "https://open.spotify.com/track/3Go7DAxPF8VVxofLHlCckK"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": "2022-08-24",
       "duration_ms": 209346,
       "name": "Allez Viens (Via Con Me) [feat. Pierre Santini & Lada Redstar]",
       "url": "https://open.spotify.com/track/15gUb7QKP6PlbXxxTJm2T4"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 218796,
       "name": "Andrew's Break",
       "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 275751,
       "name": "April Showers",
       "url": "https://open.spotify.com/track/04KsMCb9PZE2S0AtUU8Jhb"
@@ -235,10 +235,28 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 114000,
       "name": "Ballade No. 1",
       "url": "https://open.spotify.com/track/6sdTcq277BK1HlIn4ODjAl"
+    },
+    {
+      "album": {
+        "name": "Bei Mir Bistu Shein",
+        "url": "https://open.spotify.com/album/5olnobFFDdSBKTkTocF4bB"
+      },
+      "artists": [
+        {
+          "name": "Masha Ray",
+          "url": "https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Bei Mir Bistu Shein - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/6w21L3eVgP07fWiYew9Tsd"
     },
     {
       "album": {
@@ -289,10 +307,28 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189956,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/2erfXuZOAQ8T6FjJPDFpBC"
+    },
+    {
+      "album": {
+        "name": "Black Betty - Single",
+        "url": "https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189956,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
     },
     {
       "album": {
@@ -307,7 +343,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 197506,
       "name": "Booty Swing",
       "url": "https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY"
@@ -351,10 +387,32 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 232431,
       "name": "Brass Devil",
       "url": "https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51"
+    },
+    {
+      "album": {
+        "name": "Butterfly (Remixes)",
+        "url": "https://open.spotify.com/album/0heEIQabpKLOmX5AX6HDAX"
+      },
+      "artists": [
+        {
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 350476,
+      "name": "Butterfly - Wolfgang Lohr Remix",
+      "url": "https://open.spotify.com/track/2vTznimGgaFXza6a2ArS10"
     },
     {
       "album": {
@@ -373,7 +431,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 350476,
       "name": "Butterfly - Wolfgang Lohr Remix",
       "url": "https://open.spotify.com/track/38y2r6F9E3VutUPgBlcnpc"
@@ -391,7 +449,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 203076,
       "name": "Button Up",
       "url": "https://open.spotify.com/track/0yFu8XNnKr0ium4NrmWCtB"
@@ -435,7 +493,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180754,
       "name": "Cheek to Cheek - Swing Hop Mix",
       "url": "https://open.spotify.com/track/3IJRPnVHSO7G20e2BGZbCN"
@@ -453,7 +511,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 164257,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
@@ -475,7 +533,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-27",
       "duration_ms": 240800,
       "name": "Cinnamon Girl",
       "url": "https://open.spotify.com/track/58x6LBD5b6Tu7IPsYL99oG"
@@ -497,7 +555,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 336178,
       "name": "Cinnamon Girl - Sun Dub Edit",
       "url": "https://open.spotify.com/track/5nT35ED3QmCiSzzMl78BaT"
@@ -585,7 +643,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 208695,
       "name": "Cookie Monster - Atom Smith Remix Radio Edit",
       "url": "https://open.spotify.com/track/1uE0kd0NxA9tnybOSI4rHJ"
@@ -603,7 +661,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157187,
       "name": "Crazy Cat",
       "url": "https://open.spotify.com/track/1WeIE004KxqkSqL9llndbV"
@@ -651,7 +709,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184077,
       "name": "Cream Soda",
       "url": "https://open.spotify.com/track/1HVrQh0RCA0H2cFb82Kje9"
@@ -669,7 +727,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-26",
       "duration_ms": 214117,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/3VerYSeA9fDRLDCpb9JzSW"
@@ -687,7 +745,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 247500,
       "name": "Day & Night",
       "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
@@ -709,7 +767,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 344000,
       "name": "Delight",
       "url": "https://open.spotify.com/track/36kaImsnzRzsU6L4cvWP6s"
@@ -734,6 +792,46 @@
     },
     {
       "album": {
+        "name": "Different (Glenn Gatsby Remix)",
+        "url": "https://open.spotify.com/album/4RLUDNllrSV4ayYibJfJiw"
+      },
+      "artists": [
+        {
+          "name": "Marina & The Kats",
+          "url": "https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg"
+        },
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Different - Glenn Gatsby Remix",
+      "url": "https://open.spotify.com/track/3ALptdYunDogaaogaVx6Mp"
+    },
+    {
+      "album": {
+        "name": "Dixie Biscuit \"The Shanghai Tapes\"",
+        "url": "https://open.spotify.com/album/0sWVVpEQ3hB7NVAXoZJ7Pd"
+      },
+      "artists": [
+        {
+          "name": "Tape Five",
+          "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 199679,
+      "name": "Dixie Biscuit - Radio Edit",
+      "url": "https://open.spotify.com/track/1ImjgOgKUZwZfpLRoYV4ED"
+    },
+    {
+      "album": {
         "name": "Dixie Biscuit \"The Shanghai Tapes\"",
         "url": "https://open.spotify.com/album/1K8SDSlPA3NlSCI4dyuDny"
       },
@@ -745,7 +843,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199679,
       "name": "Dixie Biscuit - Radio Edit",
       "url": "https://open.spotify.com/track/34aycmeaxuuxipebrdkLUP"
@@ -763,7 +861,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-07-29",
       "duration_ms": 182608,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
@@ -781,10 +879,28 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 215533,
       "name": "Doo uap, doo uap, doo uap - Radio edit",
       "url": "https://open.spotify.com/track/68j2rXimsXQYezvQn2Ot4c"
+    },
+    {
+      "album": {
+        "name": "It Flew By",
+        "url": "https://open.spotify.com/album/3PwKRBTI8qZfij6rcT7bP2"
+      },
+      "artists": [
+        {
+          "name": "The Electric Swing Circus",
+          "url": "https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190508,
+      "name": "Empires",
+      "url": "https://open.spotify.com/track/1WdbMVvjfOV8M0tkRVilKh"
     },
     {
       "album": {
@@ -799,10 +915,28 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190508,
       "name": "Empires",
       "url": "https://open.spotify.com/track/7BilkHwC8zy0Mv67wsGiUM"
+    },
+    {
+      "album": {
+        "name": "Merry-Go-Round-And-Round",
+        "url": "https://open.spotify.com/album/3yXw16nAl3qa0f4egmHdXd"
+      },
+      "artists": [
+        {
+          "name": "The Fly Guy Five",
+          "url": "https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120761,
+      "name": "Extra Fries",
+      "url": "https://open.spotify.com/track/556y7EL1trkqGtevzn8684"
     },
     {
       "album": {
@@ -821,7 +955,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228593,
       "name": "Fallen World",
       "url": "https://open.spotify.com/track/43JHup1dQxUg6csXXFXXqH"
@@ -887,7 +1021,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 454600,
       "name": "Get A Move On!",
       "url": "https://open.spotify.com/track/3AgEOAo3dvkjtsBmeTGRjg"
@@ -941,7 +1075,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 187689,
       "name": "Glam - Electro-swing Remix",
       "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
@@ -959,7 +1093,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 166171,
       "name": "Gogo",
       "url": "https://open.spotify.com/track/0ztNLT11ln4bOudVKfvcCh"
@@ -1079,7 +1213,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 216352,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/0HKfe28JBiCJChmtcYrgmO"
@@ -1097,7 +1231,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 260306,
       "name": "Hold the Night",
       "url": "https://open.spotify.com/track/55KhvVzqoaNEgaRTDmu6Zg"
@@ -1177,7 +1311,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-28",
       "duration_ms": 218630,
       "name": "It Ain't Right",
       "url": "https://open.spotify.com/track/0Et6FzUqC5JJbxwmACdTlt"
@@ -1239,7 +1373,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-27",
       "duration_ms": 230506,
       "name": "J'ai rendez vous avec mon \u00e2me (feat. Cl\u00e9mentine)",
       "url": "https://open.spotify.com/track/0b0zGvHMcVmMgy8ZIBVh5g"
@@ -1287,7 +1421,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 161684,
       "name": "Jive Me Crazy",
       "url": "https://open.spotify.com/track/7EvfxMXGMlElnEG4ABnLis"
@@ -1305,10 +1439,32 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 248000,
       "name": "Joe's Break",
       "url": "https://open.spotify.com/track/2peYxS4wKuwbOxcw8frdHb"
+    },
+    {
+      "album": {
+        "name": "Keep Cool and Carry On (Glenn Gatsby Remix)",
+        "url": "https://open.spotify.com/album/5hErFOZFuxAzVoS7dkUxVJ"
+      },
+      "artists": [
+        {
+          "name": "The Stargazers",
+          "url": "https://open.spotify.com/artist/0X8gimy9OVbGOQBZxazD4z"
+        },
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Keep Cool and Carry On - Glenn Gatsby Remix",
+      "url": "https://open.spotify.com/track/1rtZIsfbOp7nxrd2ifFYyO"
     },
     {
       "album": {
@@ -1357,7 +1513,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": "2022-08-03",
       "duration_ms": 147619,
       "name": "King of the Conga - Glenn Gatsby Remix",
       "url": "https://open.spotify.com/track/10eFj73vJ4gZRrUSdjqOkJ"
@@ -1437,7 +1593,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": "2022-07-23",
       "duration_ms": 222186,
       "name": "Let Yourself Go",
       "url": "https://open.spotify.com/track/7unnkEMBqth617Q8DyhsFd"
@@ -1473,10 +1629,40 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 188750,
       "name": "Light",
       "url": "https://open.spotify.com/track/6XMLzR52m0SAZfM8WxzQ0w"
+    },
+    {
+      "album": {
+        "name": "Light up the Night",
+        "url": "https://open.spotify.com/album/5GaoXt4qjX5tgjq8QbwbXf"
+      },
+      "artists": [
+        {
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
+        },
+        {
+          "name": "Robert Edwards",
+          "url": "https://open.spotify.com/artist/7zXWnYi4ciLWNWSxkuUb4d"
+        },
+        {
+          "name": "Andrew Griffiths",
+          "url": "https://open.spotify.com/artist/46lNBEk84eMi1hXP3lXPHZ"
+        },
+        {
+          "name": "Octavia Rose",
+          "url": "https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233879,
+      "name": "Light up the Night",
+      "url": "https://open.spotify.com/track/0XNJwK6IhwfqvsNEZ2Q6q8"
     },
     {
       "album": {
@@ -1503,7 +1689,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233879,
       "name": "Light up the Night",
       "url": "https://open.spotify.com/track/1fbZDbnXkNXN4wbzme7Kk0"
@@ -1539,10 +1725,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 178560,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6C2oVz4VVcK8LJTWKhEfFn"
+    },
+    {
+      "album": {
+        "name": "<|\u00ba_\u00ba|>",
+        "url": "https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229804,
+      "name": "Lone Digger",
+      "url": "https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu"
     },
     {
       "album": {
@@ -1557,7 +1761,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229804,
       "name": "Lone Digger",
       "url": "https://open.spotify.com/track/1Oaq4rq7EBVUiXGh7yxuYL"
@@ -1633,7 +1837,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 181817,
       "name": "Ma Che Bella Compagnia",
       "url": "https://open.spotify.com/track/7MyWJygAJSDHHCuUYQjLij"
@@ -1651,7 +1855,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 240140,
       "name": "Mad Swing",
       "url": "https://open.spotify.com/track/71GQcDwhFboLeiFccQM3x9"
@@ -1687,7 +1891,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": "2022-07-22",
       "duration_ms": 250766,
       "name": "Make Me Dizzy (Radio Edit)",
       "url": "https://open.spotify.com/track/0FilMYb2ATvOOmJPtEH0t3"
@@ -1705,7 +1909,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 203946,
       "name": "Mambo Rap",
       "url": "https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso"
@@ -1731,6 +1935,28 @@
       "duration_ms": 164582,
       "name": "Marcianito - Cristina Renzetti Vocal Version",
       "url": "https://open.spotify.com/track/0gcOlRU3P9yu3Jhqd3ZYUZ"
+    },
+    {
+      "album": {
+        "name": "The Nu Swing Experience",
+        "url": "https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw"
+      },
+      "artists": [
+        {
+          "name": "Dj Farrapo",
+          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
+        },
+        {
+          "name": "Cristina Renzetti",
+          "url": "https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164582,
+      "name": "Marcianito - Cristina Renzetti Vocal Version",
+      "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
     },
     {
       "album": {
@@ -1833,10 +2059,32 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224588,
       "name": "Mr Magpie - Jamie Berry Remix",
       "url": "https://open.spotify.com/track/1DxJG8xDWh8T83w6IR8YRx"
+    },
+    {
+      "album": {
+        "name": "The Electric Swing Circus - Remixed Vol. 1",
+        "url": "https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0"
+      },
+      "artists": [
+        {
+          "name": "The Electric Swing Circus",
+          "url": "https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY"
+        },
+        {
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224588,
+      "name": "Mr Magpie - Jamie Berry Remix",
+      "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
     },
     {
       "album": {
@@ -1855,7 +2103,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 206205,
       "name": "Music Has the Power - Radio Edit",
       "url": "https://open.spotify.com/track/5NwWGVjLvbxJZrJLhcRqm1"
@@ -1877,7 +2125,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 186000,
       "name": "My 20s Woman",
       "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
@@ -1895,7 +2143,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-26",
       "duration_ms": 283738,
       "name": "My Bad Alice",
       "url": "https://open.spotify.com/track/03ERbwKRWWdgPz60LOwrKy"
@@ -1917,7 +2165,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": "2022-08-27",
       "duration_ms": 191506,
       "name": "Never let you go",
       "url": "https://open.spotify.com/track/5IK9dSUSzioE9lilLi4AEi"
@@ -1979,7 +2227,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 211520,
       "name": "No Swinggity",
       "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
@@ -2048,6 +2296,28 @@
     },
     {
       "album": {
+        "name": "The Shocking Miss Emerald The Remixes",
+        "url": "https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx"
+      },
+      "artists": [
+        {
+          "name": "Caro Emerald",
+          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
+        },
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207531,
+      "name": "Pack Up The Louie - Caravan Palace Remix",
+      "url": "https://open.spotify.com/track/6D53OoZpbzuBwwgGrT8FOP"
+    },
+    {
+      "album": {
         "name": "Parla pi\u00f9 piano / In cerca di te",
         "url": "https://open.spotify.com/album/4xwyeSNYVMkK8o1V2JtBO3"
       },
@@ -2063,7 +2333,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 168387,
       "name": "Parla pi\u00f9 piano / In cerca di te - Electro Swing Mix",
       "url": "https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H"
@@ -2099,7 +2369,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 202497,
       "name": "Perfect (Electro Swing Remix)",
       "url": "https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq"
@@ -2117,7 +2387,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 192741,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/4lMME61VxiWD189Hs2oRTM"
@@ -2161,7 +2431,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225120,
       "name": "Pingu (Game Sessions)",
       "url": "https://open.spotify.com/track/0b0KLvIue75k7HzPb2n59G"
@@ -2201,10 +2471,32 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 199186,
       "name": "POP SONG",
       "url": "https://open.spotify.com/track/1rdr5D1dSqbEmLa97l36NZ"
+    },
+    {
+      "album": {
+        "name": "Posture (Wolfgang Lohr Remix)",
+        "url": "https://open.spotify.com/album/33cm8hJKxHtcFELOZB2eJy"
+      },
+      "artists": [
+        {
+          "name": "Lamuzgueule",
+          "url": "https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Posture - Wolfgang Lohr Remix",
+      "url": "https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv"
     },
     {
       "album": {
@@ -2241,7 +2533,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-08-30",
       "duration_ms": 167360,
       "name": "Re-Charleston (Radio Edit)",
       "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"
@@ -2362,6 +2654,28 @@
     },
     {
       "album": {
+        "name": "Sie Will (Electro Swing Version)",
+        "url": "https://open.spotify.com/album/12RZ8MMnyLsja8NUCIr6Nu"
+      },
+      "artists": [
+        {
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "78plus",
+          "url": "https://open.spotify.com/artist/2rpPv0F6zJgyrhJuKpJDIo"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 172826,
+      "name": "Sie Will",
+      "url": "https://open.spotify.com/track/24arxHaSUQgzHjEEVNdVGb"
+    },
+    {
+      "album": {
         "name": "Silent Movie",
         "url": "https://open.spotify.com/album/3ZDrWmzwxaEOTarv1X2Od9"
       },
@@ -2373,7 +2687,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197964,
       "name": "Silent Movie",
       "url": "https://open.spotify.com/track/2mIU73YWa7iBLOgGjJ4b41"
@@ -2399,6 +2713,28 @@
       "duration_ms": 211900,
       "name": "Sing It Back",
       "url": "https://open.spotify.com/track/7GOXkO5vEGyZWGgja0qXSb"
+    },
+    {
+      "album": {
+        "name": "Dance, Dance, Dance (Extra Steps)",
+        "url": "https://open.spotify.com/album/1uXmunFGuc2alC1IIL2MoS"
+      },
+      "artists": [
+        {
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+        },
+        {
+          "name": "Extra Medium",
+          "url": "https://open.spotify.com/artist/4kCp7egBIcDpMGdlnsPv4I"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "Sing Sing Sing - Extra Medium Remix",
+      "url": "https://open.spotify.com/track/0DFuVQeTeIPYWvs4EbRSGC"
     },
     {
       "album": {
@@ -2435,7 +2771,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-07-29",
       "duration_ms": 286500,
       "name": "Sleep Rider",
       "url": "https://open.spotify.com/track/0IkBsej5dNXm8NXwcenZYO"
@@ -2453,7 +2789,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 258500,
       "name": "Smoking Room",
       "url": "https://open.spotify.com/track/2AljeKmM4Moi21lYEzOHU8"
@@ -2493,7 +2829,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": "2022-09-06",
       "duration_ms": 176000,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR"
@@ -2559,7 +2895,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207914,
       "name": "St Louis Blues",
       "url": "https://open.spotify.com/track/33VUftZBMcYOqQgKyd2N00"
@@ -2595,7 +2931,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-25",
       "duration_ms": 199520,
       "name": "Stay (Electro Swing Remix)",
       "url": "https://open.spotify.com/track/6ZcdAII7aNBWqq7ZIjzoQe"
@@ -2613,7 +2949,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 272143,
       "name": "Stay Swing",
       "url": "https://open.spotify.com/track/2bBRrsQMO0yVhVX0mWG7G9"
@@ -2649,7 +2985,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 198453,
       "name": "Still Dancing",
       "url": "https://open.spotify.com/track/39R88egli2YgXq1omv1Io7"
@@ -2685,10 +3021,32 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158350,
       "name": "Summer Swing",
       "url": "https://open.spotify.com/track/2LpvMsXOLJpmiBWmrBpNYg"
+    },
+    {
+      "album": {
+        "name": "Doorsteps",
+        "url": "https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w"
+      },
+      "artists": [
+        {
+          "name": "Kormac",
+          "url": "https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn"
+        },
+        {
+          "name": "(feat. MC Little Tree)",
+          "url": "https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328441,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
     },
     {
       "album": {
@@ -2703,7 +3061,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 327837,
       "name": "Superhero - Original Mix",
       "url": "https://open.spotify.com/track/6kWxGDy6M6IBoUphdmYTSq"
@@ -2725,7 +3083,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 265627,
       "name": "Swag Bag",
       "url": "https://open.spotify.com/track/0u7gdux7Ft6P69Uyj0pa4a"
@@ -2755,7 +3113,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174702,
       "name": "Swing in Spring - Betty Booom Remix",
       "url": "https://open.spotify.com/track/6vO3EyfktDjOkCQPu9V4Ok"
@@ -2791,7 +3149,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 200559,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
@@ -2831,7 +3189,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 199963,
       "name": "Taking You with Me",
       "url": "https://open.spotify.com/track/7Hr6qjeI4F1f52j09STzyG"
@@ -2849,10 +3207,32 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 173284,
       "name": "The Cat Came Back - Bdd Remix Edit",
       "url": "https://open.spotify.com/track/6ptpOr9mCnqingjjObKd12"
+    },
+    {
+      "album": {
+        "name": "The Cat Came Back",
+        "url": "https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx"
+      },
+      "artists": [
+        {
+          "name": "Luca Lento",
+          "url": "https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh"
+        },
+        {
+          "name": "Bdd",
+          "url": "https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173296,
+      "name": "The Cat Came Back - Bdd Remix Edit",
+      "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
     },
     {
       "album": {
@@ -2903,7 +3283,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": "2022-07-29",
       "duration_ms": 226672,
       "name": "To the Bat Cave",
       "url": "https://open.spotify.com/track/5QQrPVZv6mlJ7rB3UEoZck"
@@ -2925,7 +3305,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 159750,
       "name": "Tommy on the Bone",
       "url": "https://open.spotify.com/track/3WeLZpJzE9HTD3piV9KfpD"
@@ -2961,10 +3341,32 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 260091,
       "name": "Topsy at the Top",
       "url": "https://open.spotify.com/track/4nJ2EMvjNqxBDrT0s6AK47"
+    },
+    {
+      "album": {
+        "name": "Trainwreck of Electro Swing (from \"A Hat In Time\")",
+        "url": "https://open.spotify.com/album/2DSGQ59YAs1Mm9EoIqNK2g"
+      },
+      "artists": [
+        {
+          "name": "Player2",
+          "url": "https://open.spotify.com/artist/7vho3tUevFOENFU0lL4Ufy"
+        },
+        {
+          "name": "A_A_RonHD",
+          "url": "https://open.spotify.com/artist/6gwyyI517ABMaZm75bpsOS"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233027,
+      "name": "Trainwreck of Electro Swing (from \"A Hat In Time\")",
+      "url": "https://open.spotify.com/track/6p8pkvMqOcS3UGVIPsSdhu"
     },
     {
       "album": {
@@ -2979,7 +3381,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 195463,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
@@ -3005,6 +3407,24 @@
       "duration_ms": 190413,
       "name": "Twenties",
       "url": "https://open.spotify.com/track/7FQyzz3MRRyIHB2xuPjQhL"
+    },
+    {
+      "album": {
+        "name": "Do You Want the Truth or Something Beautiful?",
+        "url": "https://open.spotify.com/album/7zzHLsTPVTgBLXHbZFve33"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/2pAkvdCFORWTiFJHVjojdC"
     },
     {
       "album": {
@@ -3041,7 +3461,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 176612,
       "name": "Upside Down (Radio Edit)",
       "url": "https://open.spotify.com/track/0qwvMH35Y5pm5U5xXqYauT"
@@ -3067,7 +3487,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-07-27",
       "duration_ms": 182419,
       "name": "Very Nice People",
       "url": "https://open.spotify.com/track/3vKqNw4TfDPY2UcWosAscs"
@@ -3089,7 +3509,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167961,
       "name": "Via con me - Electro Swing Mix",
       "url": "https://open.spotify.com/track/2vPrMJhuzvljgBbhTrIFSO"
@@ -3111,7 +3531,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178272,
       "name": "Wabababa - Balduin VIP Mix",
       "url": "https://open.spotify.com/track/6kC9DD2WxqKw3z4DB3H67a"
@@ -3129,7 +3549,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 207793,
       "name": "Wake Up Romeo",
       "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
@@ -3151,10 +3571,28 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182720,
       "name": "Wake Up Romeo - Pisk Remix",
       "url": "https://open.spotify.com/track/0gzUec1Q4dB6HjDMeoP5X6"
+    },
+    {
+      "album": {
+        "name": "Electro Swing Instrumentals",
+        "url": "https://open.spotify.com/album/4FZ9TDT5dlNP4enbhNYOAT"
+      },
+      "artists": [
+        {
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 150828,
+      "name": "Walk - Instrumental",
+      "url": "https://open.spotify.com/track/6sExpRKIy0WihY6eIQzhOU"
     },
     {
       "album": {
@@ -3173,7 +3611,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236160,
       "name": "We Are What We Are (feat. Billy Bros Orchestra) [Radio Edit]",
       "url": "https://open.spotify.com/track/00cWy7HXgoJlXWR718s70W"
@@ -3213,7 +3651,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 279200,
       "name": "What Lana Says",
       "url": "https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE"
@@ -3279,7 +3717,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 273987,
       "name": "Whoopsy Daisy (Club Mix)",
       "url": "https://open.spotify.com/track/6oomEes8hP95cWb8S898xF"
@@ -3304,6 +3742,24 @@
     },
     {
       "album": {
+        "name": "Why Don't You",
+        "url": "https://open.spotify.com/album/5zyTu6rWzl5sh8G5mD8A0P"
+      },
+      "artists": [
+        {
+          "name": "Gramophonedzie",
+          "url": "https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170273,
+      "name": "Why Don't You - Radio Edit",
+      "url": "https://open.spotify.com/track/24dr5sIVbMtzBhbXqBUH29"
+    },
+    {
+      "album": {
         "name": "Wochenend Und Sonnenschein (Electro Swing)",
         "url": "https://open.spotify.com/album/7nkCekFLGh5JbCB3VWHXcU"
       },
@@ -3319,7 +3775,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 182903,
       "name": "Wochenend Und Sonnenschein (Electro Swing)",
       "url": "https://open.spotify.com/track/6oFrnNtYCU1oswN3sz5cP4"

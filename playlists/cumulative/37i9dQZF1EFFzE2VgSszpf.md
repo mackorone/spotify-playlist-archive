@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Qo1l3s9YqHwoM1udvQbsr">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-39 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/1w0SMgXeEiZnBzt44KT9oN)
+41 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/1w0SMgXeEiZnBzt44KT9oN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Brother's Keeper \(feat\. Pusha T\)](https://open.spotify.com/track/7GvKDZP30uHX0p8y3Kn6BM) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 4:14 | 2022-05-25 |  |
 | [Childqueen](https://open.spotify.com/track/10PqYtlUj6haotBAENNqqz) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 3:11 | 2022-05-25 |  |
 | [Day by Day](https://open.spotify.com/track/7nnFdyYsVwFvUXB4heKZe4) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:44 | 2022-05-25 |  |
+| [Dear Gina](https://open.spotify.com/track/3GoL5HaRpCMpVrJhP1akfh) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Dear Gina](https://open.spotify.com/album/5eCcHgXBq66ckMzetu0VfJ) | 3:12 | 2022-08-11 |  |
 | [Delphine](https://open.spotify.com/track/2ZCKfrVy8qg6Y48KyKkN94) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 5:54 | 2022-05-25 |  |
 | [Fairweather Friend](https://open.spotify.com/track/3AI7nypBvF77O5kksonneA) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 4:01 | 2022-05-25 |  |
 | [For You](https://open.spotify.com/track/1FF6Bb7hgRQWDEmn9iWQix) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [For You](https://open.spotify.com/album/0KcVrNao4EAsglSr9EZOLz) | 2:39 | 2022-05-25 |  |
@@ -24,6 +25,7 @@
 | [Imposter](https://open.spotify.com/track/5d16l8ZefLS7LKgL8VUwZw) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen Outtakes](https://open.spotify.com/album/5DBp30tDVgskvi4q1ykiGp) | 3:51 | 2022-05-25 |  |
 | [In The Flames](https://open.spotify.com/track/4yOma8BbLk3wwkFgajopG9) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI) | [Stand Up And Speak](https://open.spotify.com/album/1yuarGUd1KbQPgd7jwsJox) | 4:14 | 2022-05-25 |  |
 | [Intro: Earth Birth](https://open.spotify.com/track/4mSKRxdLpMKMzcsYnqFKxg) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 1:28 | 2022-05-25 |  |
+| [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 | 2022-08-11 |  |
 | [Joy](https://open.spotify.com/track/5kK4NGiSPo3S2azAeStKF8) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:07 | 2022-05-25 |  |
 | [Love Theme \(feat\. Kadhja Bonet\)](https://open.spotify.com/track/42yyhfzkfJIjNHSy1deT0A) | [Nicolas Godin](https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Concrete and Glass \(Expanded Edition\)](https://open.spotify.com/album/38L5GcyigNKgG0sfu0sJ9u) | 5:26 | 2022-05-25 |  |
 | [Mother Maybe](https://open.spotify.com/track/02JjaSuokjv0LRHjSvsdls) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:15 | 2022-05-25 |  |

@@ -253,10 +253,28 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255500,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/3BUiTyv4rgWL1GfVoBPwNH"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255500,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/6HUD7q1WnnVbZ7W29y0V3c"
     },
     {
       "album": {
@@ -296,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Chromium",
+        "url": "https://open.spotify.com/album/1ZNEdw4CeZ0kFFBbGDRt1j"
+      },
+      "artists": [
+        {
+          "name": "M\u00edper G\u00fcel",
+          "url": "https://open.spotify.com/artist/6AHriuTXUDvLZWoEMa0SmN"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215941,
+      "name": "Chromium",
+      "url": "https://open.spotify.com/track/2xMdXQxvOJGozOU0Y6gKmw"
+    },
+    {
+      "album": {
         "name": "Chuva",
         "url": "https://open.spotify.com/album/4kJzbCXoNly7cLZuyFRVGW"
       },
@@ -307,7 +343,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 108024,
       "name": "Chuva",
       "url": "https://open.spotify.com/track/7knFmwt8bh2YmMNd4noQtd"
@@ -325,7 +361,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 126750,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/041EqVueOI4pszWGJfKerh"
@@ -523,7 +559,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 236500,
       "name": "Divinity",
       "url": "https://open.spotify.com/track/2IPARS6gREjiJ8DMO0zRte"
@@ -613,7 +649,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 260560,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/5pJiOBUlMmk3dv1kx2rqPu"
@@ -793,7 +829,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 136324,
       "name": "Forever Right Now",
       "url": "https://open.spotify.com/track/0RKSDqAbLoKCWBEn7a4UWR"
@@ -811,7 +847,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 188160,
       "name": "From The Horizon",
       "url": "https://open.spotify.com/track/4Wk9NDOcjHMSDcnKnVfLvb"
@@ -847,7 +883,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 214846,
       "name": "Hushed Premonition",
       "url": "https://open.spotify.com/track/5p3moUVU9JBeuj67GmZjSZ"
@@ -991,7 +1027,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 198000,
       "name": "Latitude",
       "url": "https://open.spotify.com/track/1BMuBZVM8iuYu5bhVMmaID"
@@ -1009,7 +1045,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 175654,
       "name": "Lilting Fields",
       "url": "https://open.spotify.com/track/6QayqmOU37gap6xzt1geL8"
@@ -1027,7 +1063,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 165685,
       "name": "Limitless",
       "url": "https://open.spotify.com/track/5QGNwI8U3o9mQg7RR3yOPj"
@@ -1049,6 +1085,24 @@
       "duration_ms": 174122,
       "name": "Lines",
       "url": "https://open.spotify.com/track/4ioMVSJSI6mBdqKUv0M1G3"
+    },
+    {
+      "album": {
+        "name": "Lovesong",
+        "url": "https://open.spotify.com/album/702GZkPC9uj5n0c37CwaBq"
+      },
+      "artists": [
+        {
+          "name": "Levi Jacob",
+          "url": "https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131424,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/1FVaEmntOX3Qf2Ng5wdMok"
     },
     {
       "album": {
@@ -1297,7 +1351,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 197250,
       "name": "Nihon",
       "url": "https://open.spotify.com/track/4twsOUZcA2G5ruaOuMmVNk"
@@ -1315,7 +1369,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 223914,
       "name": "Not Profound, Simply True",
       "url": "https://open.spotify.com/track/7rUocCJ8NZl62rSfQDZARM"
@@ -1513,7 +1567,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 206500,
       "name": "Purposes",
       "url": "https://open.spotify.com/track/6Ji4BNyWqNOilFD9AyD0o2"
@@ -1603,7 +1657,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 173798,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/07faNDmHpfee71OHyar3F4"
@@ -1736,6 +1790,24 @@
     },
     {
       "album": {
+        "name": "Serene",
+        "url": "https://open.spotify.com/album/278aTIaFGFBK5GbNtgzAlR"
+      },
+      "artists": [
+        {
+          "name": "Emma-Lo Larsson",
+          "url": "https://open.spotify.com/artist/5DoFMnoAqaEr0JNHLVfrWa"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215574,
+      "name": "Sleep Quiz",
+      "url": "https://open.spotify.com/track/4EzwRp1nDzCe7LeQI3cNmu"
+    },
+    {
+      "album": {
         "name": "Softly Spoken",
         "url": "https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw"
       },
@@ -1765,7 +1837,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 155030,
       "name": "Soledad natural",
       "url": "https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ"
@@ -1801,7 +1873,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 133627,
       "name": "Song for Marianne",
       "url": "https://open.spotify.com/track/2xlSPP16a3SSOLBPOvTDru"
@@ -1891,7 +1963,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 107500,
       "name": "Stuor Muorkke",
       "url": "https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6"
@@ -1981,7 +2053,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 212586,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2XT3IIDjd9ve1bHoavN1L6"
@@ -2079,7 +2151,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 251268,
       "name": "Terai-Duar",
       "url": "https://open.spotify.com/track/1rkonLSBTFJhP5bMGaRjUS"
@@ -2097,7 +2169,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 187260,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/0fLniMyx3JO0FBuW8AjvNz"
@@ -2151,7 +2223,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 146893,
       "name": "The Diary",
       "url": "https://open.spotify.com/track/6RtXHq34IEPCivS3BQU8Ij"
@@ -2245,7 +2317,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 218067,
       "name": "The Night Falls Deep",
       "url": "https://open.spotify.com/track/7iMpckuKV0NZV4Ta9bHrxM"
@@ -2281,7 +2353,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 181379,
       "name": "The Seeds I\u2019ve Sown",
       "url": "https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay"
@@ -2317,7 +2389,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 195752,
       "name": "Time Freezes",
       "url": "https://open.spotify.com/track/7A7WJn6zZ1RNoM6FWIffq1"
@@ -2407,10 +2479,28 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 303409,
       "name": "Two Soon",
       "url": "https://open.spotify.com/track/4pRiULkvghCp6XM3U5t2d8"
+    },
+    {
+      "album": {
+        "name": "One Go",
+        "url": "https://open.spotify.com/album/2SPnHtMaCIMyg6pkU68BkZ"
+      },
+      "artists": [
+        {
+          "name": "String Balloons",
+          "url": "https://open.spotify.com/artist/3jgPCm3fQkceAaF5F8mMdF"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303409,
+      "name": "Two Soon",
+      "url": "https://open.spotify.com/track/7D1WYWKWix6WOSnxbtI8sn"
     },
     {
       "album": {
@@ -2576,6 +2666,28 @@
     },
     {
       "album": {
+        "name": "We Contain Multitudes \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264052,
+      "name": "We Contain Multitudes \u2014 piano reworks",
+      "url": "https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr"
+    },
+    {
+      "album": {
         "name": "So Serene",
         "url": "https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6"
       },
@@ -2605,7 +2717,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 231723,
       "name": "White Waves",
       "url": "https://open.spotify.com/track/2IqOZtwGjYV9sko1NCzbKI"

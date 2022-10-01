@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-19",
-  "description": "Early pioneers that brought the underground to the foreground. Cover: Depeche Mode ",
+  "description": "Early pioneers that brought the underground to the foreground. Cover: Nico",
   "name": "Early Alternative",
   "published_playlist_ids": [
     "1biJVwGgudNJMTh4YCWUBg"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160093,
       "name": "(I Can't Get No) Satisfaction",
       "url": "https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 230986,
       "name": "Alison",
       "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190853,
       "name": "Androgynous",
       "url": "https://open.spotify.com/track/3fnL2JDgy4QD04araOl0eY"
@@ -145,10 +145,28 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 334466,
       "name": "Anemone",
       "url": "https://open.spotify.com/track/3aKYOA44zbBRWJ8FqzwAt9"
+    },
+    {
+      "album": {
+        "name": "Their Satanic Majesties' Second Request",
+        "url": "https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334466,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6"
     },
     {
       "album": {
@@ -171,6 +189,24 @@
     {
       "album": {
         "name": "I Can Hear The Heart Beating As One",
+        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318373,
+      "name": "Autumn Sweater",
+      "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
+    },
+    {
+      "album": {
+        "name": "I Can Hear The Heart Beating As One",
         "url": "https://open.spotify.com/album/3NFNNMIWnByvVPvCf7LsRU"
       },
       "artists": [
@@ -181,7 +217,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 318373,
       "name": "Autumn Sweater",
       "url": "https://open.spotify.com/track/4R7kumtHnf5SsKyPYrVO5r"
@@ -199,10 +235,28 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 202866,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF"
+    },
+    {
+      "album": {
+        "name": "The Bela Session",
+        "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576703,
+      "name": "Bela Lugosi's Dead (Official Version)",
+      "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
     },
     {
       "album": {
@@ -217,7 +271,7 @@
       ],
       "date_added": "2019-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 576703,
       "name": "Bela Lugosi's Dead (Official Version)",
       "url": "https://open.spotify.com/track/7q5n3kuNbHCWx6LZOY1Z0r"
@@ -235,7 +289,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239533,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f"
@@ -253,10 +307,28 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144946,
       "name": "Blister In The Sun",
       "url": "https://open.spotify.com/track/4PXH3g9qGgMqDlC52dJw07"
+    },
+    {
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
     },
     {
       "album": {
@@ -289,10 +361,28 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 445893,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/6gv02BqPCsOQz5QQ4jnNOY"
+    },
+    {
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449160,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
     },
     {
       "album": {
@@ -343,10 +433,28 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 212893,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
+    },
+    {
+      "album": {
+        "name": "Last Splash",
+        "url": "https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A"
+      },
+      "artists": [
+        {
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb"
     },
     {
       "album": {
@@ -361,7 +469,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU"
@@ -440,6 +548,24 @@
     },
     {
       "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "Cherry-coloured Funk",
+      "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
+    },
+    {
+      "album": {
         "name": "Heaven Or Las Vegas (Remastered)",
         "url": "https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E"
       },
@@ -451,7 +577,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192466,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd"
@@ -469,7 +595,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 179600,
       "name": "Christine",
       "url": "https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6"
@@ -523,7 +649,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270146,
       "name": "Cosmic Dancer",
       "url": "https://open.spotify.com/track/0Z2fQ0Avroujey7uTEmMTP"
@@ -577,7 +703,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206733,
       "name": "Damaged Goods - Remastered",
       "url": "https://open.spotify.com/track/2iQvYaOlUcuVgczMtRvAcV"
@@ -620,6 +746,24 @@
     },
     {
       "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184686,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/4l0HxP8wm5iWHqo9myvFsm"
+    },
+    {
+      "album": {
         "name": "Unknown Pleasures",
         "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
       },
@@ -631,10 +775,46 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209039,
       "name": "Disorder - 2007 Remaster",
       "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
+    },
+    {
+      "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
+    },
+    {
+      "album": {
+        "name": "Kissing To Be Clever",
+        "url": "https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262173,
+      "name": "Do You Really Want To Hurt Me",
+      "url": "https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7"
     },
     {
       "album": {
@@ -649,10 +829,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-16",
+      "date_removed": null,
       "duration_ms": 236920,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "album": {
+        "name": "Orchestral Manoeuvres In The Dark (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF"
+      },
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219066,
+      "name": "Electricity - Remastered 2003",
+      "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
     },
     {
       "album": {
@@ -692,6 +890,24 @@
     },
     {
       "album": {
+        "name": "Without a Sound",
+        "url": "https://open.spotify.com/album/0yxM1OyaFOZiJhi9eNThE4"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Jr.",
+          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259600,
+      "name": "Feel the Pain",
+      "url": "https://open.spotify.com/track/28c4nfBHdb3xviamRCEsIe"
+    },
+    {
+      "album": {
         "name": "Without A Sound",
         "url": "https://open.spotify.com/album/0u6BE2zLv1vBqe5hu92rse"
       },
@@ -703,10 +919,32 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257946,
       "name": "Feel The Pain - 2007 Remastered",
       "url": "https://open.spotify.com/track/3NLUIBHlfnMVk81BgxFr42"
+    },
+    {
+      "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/3PG7BAJG9WkmNOJOlc4uAo"
     },
     {
       "album": {
@@ -739,7 +977,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-04-09",
+      "date_removed": null,
       "duration_ms": 334360,
       "name": "Genius of Love",
       "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
@@ -757,7 +995,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 339053,
       "name": "Genius Of Love",
       "url": "https://open.spotify.com/track/6UGlSlhwl2MNhsrg5Wepq3"
@@ -775,10 +1013,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219306,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/2vEUFrRByOKob8yqOd6LuA"
+    },
+    {
+      "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "album": {
@@ -811,7 +1067,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 212853,
       "name": "Girls on Film - 2010 Remaster",
       "url": "https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5"
@@ -869,10 +1125,50 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 432680,
       "name": "Heroin",
       "url": "https://open.spotify.com/track/5wWvavjmqH3LpYKSgw9E92"
+    },
+    {
+      "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433573,
+      "name": "Heroin",
+      "url": "https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u"
+    },
+    {
+      "album": {
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210906,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/0p5eZCY0R7uNCZS1YDtIYI"
     },
     {
       "album": {
@@ -887,7 +1183,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211440,
       "name": "Hey",
       "url": "https://open.spotify.com/track/2Aqc48sn8He26hmTvQ2BMj"
@@ -905,7 +1201,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 224866,
       "name": "Holiday in Cambodia",
       "url": "https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb"
@@ -941,10 +1237,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": "2022-07-23",
       "duration_ms": 247360,
       "name": "I Love a Man In Uniform",
       "url": "https://open.spotify.com/track/2eRpEed9V1MLwBptO7Gt9w"
+    },
+    {
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "album": {
@@ -977,7 +1291,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 149786,
       "name": "I Wanna Be Sedated",
       "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
@@ -1031,7 +1345,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 215840,
       "name": "I Will Follow",
       "url": "https://open.spotify.com/track/40lKv5fLpzPHV1YQ7nrfMg"
@@ -1092,6 +1406,24 @@
     },
     {
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232400,
+      "name": "It's My Life - 1997 Remaster",
+      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
+    },
+    {
+      "album": {
         "name": "Suburban Lawns",
         "url": "https://open.spotify.com/album/73heWpQLwKGoedT3eM72Ra"
       },
@@ -1139,7 +1471,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183493,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/4E6YM4V7Kz6zpbiNsliwEl"
@@ -1157,7 +1489,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 225626,
       "name": "Just What I Needed",
       "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
@@ -1193,7 +1525,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243506,
       "name": "Lola",
       "url": "https://open.spotify.com/track/17GMg1ZyQJtm3HkXQFZ31f"
@@ -1229,7 +1561,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-07-23",
       "duration_ms": 144821,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/3hgBGx3ShG9uCiJ3kvh8wm"
@@ -1265,10 +1597,28 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248645,
       "name": "Love Is The Drug",
       "url": "https://open.spotify.com/track/34Rt8Ti2OAsA8s39rLgyML"
+    },
+    {
+      "album": {
+        "name": "Pelican West Plus",
+        "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
+      },
+      "artists": [
+        {
+          "name": "Haircut 100",
+          "url": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212573,
+      "name": "Love Plus One",
+      "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
     },
     {
       "album": {
@@ -1319,7 +1669,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 215400,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt"
@@ -1355,7 +1705,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 645000,
       "name": "Marquee Moon - 2003 Remaster",
       "url": "https://open.spotify.com/track/3MWdMCAIFPzcIUdiEi8Pao"
@@ -1380,6 +1730,24 @@
     },
     {
       "album": {
+        "name": "Vital Idol",
+        "url": "https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301800,
+      "name": "Mony Mony - Downtown Mix / 24-Bit Digitally Remastered 2001",
+      "url": "https://open.spotify.com/track/2LbkpJUH052AvFcNIgjHTO"
+    },
+    {
+      "album": {
         "name": "Screamadelica",
         "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
@@ -1391,7 +1759,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230533,
       "name": "Movin' on Up",
       "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
@@ -1409,10 +1777,28 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222160,
       "name": "Mrs. Robinson",
       "url": "https://open.spotify.com/track/3UNr9baVQg513GLBGyHSP4"
+    },
+    {
+      "album": {
+        "name": "It's A Shame About Ray (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji"
+      },
+      "artists": [
+        {
+          "name": "The Lemonheads",
+          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224480,
+      "name": "Mrs. Robinson - Remastered",
+      "url": "https://open.spotify.com/track/5EugXICXL06waHgP4iTI58"
     },
     {
       "album": {
@@ -1427,7 +1813,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 322906,
       "name": "Mystery Achievement - 2006 Remaster",
       "url": "https://open.spotify.com/track/2xTk109VtSva8rmQvb2Esn"
@@ -1445,7 +1831,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 353666,
       "name": "Never Say Never",
       "url": "https://open.spotify.com/track/02RkunUrCBLE5J6jY56QH3"
@@ -1589,7 +1975,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246799,
       "name": "Paris 1919",
       "url": "https://open.spotify.com/track/7sF2KOkDLXNDAiUXpWP8aR"
@@ -1607,7 +1993,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 130746,
       "name": "People Are Strange - New Stereo Mix",
       "url": "https://open.spotify.com/track/6chyadaFmcdgpfSDW31KVj"
@@ -1629,6 +2015,28 @@
       "duration_ms": 225000,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85"
+    },
+    {
+      "album": {
+        "name": "Personal Jesus",
+        "url": "https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Francois Kevorkian",
+          "url": "https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224906,
+      "name": "Personal Jesus - Original Single Version",
+      "url": "https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY"
     },
     {
       "album": {
@@ -1661,7 +2069,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-25",
       "duration_ms": 239960,
       "name": "Pretty in Pink",
       "url": "https://open.spotify.com/track/1Cl1J4Ai7NkuhLdaDHthTh"
@@ -1697,7 +2105,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-27",
       "duration_ms": 178733,
       "name": "Public Image - Remastered",
       "url": "https://open.spotify.com/track/3T5AtZHfROthygPMNipfZC"
@@ -1769,7 +2177,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 378360,
       "name": "Rise",
       "url": "https://open.spotify.com/track/6u91CCTziobh3twCDMBlEk"
@@ -1805,10 +2213,28 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285653,
       "name": "Rock & Roll",
       "url": "https://open.spotify.com/track/6zICqQ6f7w1sF0FYqQleUl"
+    },
+    {
+      "album": {
+        "name": "Loaded: Re-Loaded 45th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "Rock & Roll - Full Length Version; 2015 Remaster",
+      "url": "https://open.spotify.com/track/1o6DclZHw0HomxXEQR1ijX"
     },
     {
       "album": {
@@ -1877,7 +2303,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225760,
       "name": "Son Of A Gun",
       "url": "https://open.spotify.com/track/5xDQhEvVjbMoy6ViNQxNeG"
@@ -1895,7 +2321,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 419306,
       "name": "soon",
       "url": "https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ"
@@ -1913,7 +2339,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-08-23",
       "duration_ms": 227866,
       "name": "Space Age Love Song",
       "url": "https://open.spotify.com/track/0xzn2U71zNWLeJbE4Zat4C"
@@ -1931,7 +2357,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 340186,
       "name": "Start Choppin'",
       "url": "https://open.spotify.com/track/7yThIhNzpgDBIGoL2y1y6u"
@@ -1949,7 +2375,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 227413,
       "name": "Strangelove - Single Version",
       "url": "https://open.spotify.com/track/6MHOg9xiYC2gj8zcASaLUo"
@@ -1967,10 +2393,46 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245666,
       "name": "Sweet Jane",
       "url": "https://open.spotify.com/track/4Xne0YjYaY1MtP74svE08d"
+    },
+    {
+      "album": {
+        "name": "Loaded: Re-Loaded 45th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246306,
+      "name": "Sweet Jane - Full Length Version; 2015 Remaster",
+      "url": "https://open.spotify.com/track/3cw3Z7mS55gd3NUjh4k0bL"
+    },
+    {
+      "album": {
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153840,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/58E1XVmZTODC67YNjneuXM"
     },
     {
       "album": {
@@ -2003,7 +2465,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 240333,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/5r2z0FHOoFI06GZEVGDjzM"
@@ -2021,7 +2483,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233573,
       "name": "That's When I Reach For My Revolver",
       "url": "https://open.spotify.com/track/5QAQxxN163HxD1uU0BrMYM"
@@ -2039,7 +2501,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 311000,
       "name": "The Boy With The Perpetual Nervousness",
       "url": "https://open.spotify.com/track/2EYVK2tcz2AIOcs87BhwyR"
@@ -2083,6 +2545,24 @@
     {
       "album": {
         "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-15",
+      "duration_ms": 220093,
+      "name": "The Lovecats",
+      "url": "https://open.spotify.com/track/5GHwCpwEos0FzYe55slXEp"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/6NII6OnGzd07nDw5o7Secq"
       },
       "artists": [
@@ -2093,7 +2573,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220426,
       "name": "The Lovecats",
       "url": "https://open.spotify.com/track/2gOaGuy7ZlfVDSnTfPkxpH"
@@ -2136,6 +2616,24 @@
     },
     {
       "album": {
+        "name": "Chelsea Girl",
+        "url": "https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU"
+      },
+      "artists": [
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210653,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs"
+    },
+    {
+      "album": {
         "name": "#1 Record/Radio City",
         "url": "https://open.spotify.com/album/4lZSX0E1dcg1bi5T4BzWf0"
       },
@@ -2147,7 +2645,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-28",
       "duration_ms": 154480,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/14bdkfiD8UAYJalXKFwcwb"
@@ -2201,7 +2699,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 173320,
       "name": "Town Called Malice",
       "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
@@ -2237,7 +2735,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-23",
       "duration_ms": 217080,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/3mjGdtDbkZ2ftqunWrIA82"
@@ -2255,10 +2753,28 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214066,
       "name": "Vitamin C - 2004 Remastered Version",
       "url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
+    },
+    {
+      "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
     },
     {
       "album": {
@@ -2273,7 +2789,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/5FFowl1Ve4S5OehL6OywSg"
@@ -2291,10 +2807,28 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253960,
       "name": "Walk on the Wild Side",
       "url": "https://open.spotify.com/track/0EFEkt29P7Icr7dO4vN6yk"
+    },
+    {
+      "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254173,
+      "name": "Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
     },
     {
       "album": {
@@ -2327,7 +2861,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 153133,
       "name": "We Got The Beat",
       "url": "https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF"
@@ -2363,10 +2897,28 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231666,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/5BP0oaQ1VhuaznT77CBXQp"
+    },
+    {
+      "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "Where Is My Mind? - Remastered",
+      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
     },
     {
       "album": {

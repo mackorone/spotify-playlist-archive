@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 258613,
       "name": "ASAP (As Soon as Possible)",
       "url": "https://open.spotify.com/track/3fU5oXtdBs8QqpBvMQDWQl"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-09-30",
       "duration_ms": 256800,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/1w9yxpOLfpa5FKDgopj1p0"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": "2022-08-16",
       "duration_ms": 309000,
       "name": "Could You Be Mine?",
       "url": "https://open.spotify.com/track/592L5UVwLVl6kmxB8E2z7Y"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": "2022-09-12",
       "duration_ms": 210800,
       "name": "Free",
       "url": "https://open.spotify.com/track/7I8Rg4PIswk2ts08u9RJIG"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 301000,
       "name": "Is It True?",
       "url": "https://open.spotify.com/track/2P3rUI2tEIlBo5YXcGrOuf"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-25",
       "duration_ms": 325120,
       "name": "Let's Be Friends First (Then Lovers)",
       "url": "https://open.spotify.com/track/1PpbDO70FIyVwDhbbp5VJV"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-10",
       "duration_ms": 257426,
       "name": "Love Is Comin' at Cha",
       "url": "https://open.spotify.com/track/28cpC42Wz8BUDlRmDnYyd6"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": "2022-10-01",
       "duration_ms": 265506,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/74rQiIDK5mNhowNZ4UXiWT"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-26",
       "duration_ms": 188040,
       "name": "My Own Special Way",
       "url": "https://open.spotify.com/track/1tg9bmIvnUnxyFSI1f1q05"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 245600,
       "name": "Somewhere Alone Tonight",
       "url": "https://open.spotify.com/track/7p8yn1qom6ABw7zFTYvM6b"
@@ -1008,6 +1008,24 @@
     },
     {
       "album": {
+        "name": "The Jones Girls",
+        "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 323533,
+      "name": "We're a Melody",
+      "url": "https://open.spotify.com/track/58mUkmczSd5xLffvElZTF3"
+    },
+    {
+      "album": {
         "name": "On Target (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
       },
@@ -1073,7 +1091,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 297240,
       "name": "Where Is Your Love",
       "url": "https://open.spotify.com/track/3QIwoc5zELFOJGSiLrnE3r"
@@ -1217,7 +1235,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 255213,
       "name": "You're Breakin' My Heart",
       "url": "https://open.spotify.com/track/69Rl14x6RCcY855QRr6mDS"

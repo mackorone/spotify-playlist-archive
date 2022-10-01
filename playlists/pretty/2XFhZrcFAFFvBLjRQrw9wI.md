@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/2XFhZrcFAFFvBLjRQrw9wI.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 327 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 328 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hello Dolly \- Hello Dolly](https://open.spotify.com/track/1z9pixkgrx84rY9jPFSfY5) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Film Music \- Cine 1](https://open.spotify.com/album/1jiop77c0GCQ025EaKp7gO) | 2:34 |
 | 2 | [Oh, Pretty Woman](https://open.spotify.com/track/13E83DbMKsGAhVokHDMzTQ) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Soul of Rock and Roll](https://open.spotify.com/album/7ro8ufwWHlRbQnEg8TZqmk) | 3:02 |
-| 3 | [I Get Around \- Remastered](https://open.spotify.com/track/59uVL70mVMC70500N90m0c) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 2:14 |
+| 3 | [I Get Around \- Remastered 2001](https://open.spotify.com/track/59uVL70mVMC70500N90m0c) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 2:14 |
 | 4 | [Everybody Loves Somebody \- 2001 \- Remastered](https://open.spotify.com/track/69WokL6dqlAAUUEVczoSj9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq) | 2:45 |
 | 5 | [My Guy \- Single Version](https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The Definitive Collection](https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod) | 2:51 |
 | 6 | [We'll Sing In The Sunshine](https://open.spotify.com/track/1Dyj4ecLBwWFYvvFr6URzw) | [Gale Garnett](https://open.spotify.com/artist/5cJgEhhKGk7kiSA6O8Qzyc) | [Radio Hits Of the '60s](https://open.spotify.com/album/7utciXyZzFAXrLFl2PAoBA) | 2:55 |

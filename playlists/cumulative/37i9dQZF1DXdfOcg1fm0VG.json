@@ -37,10 +37,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192426,
       "name": "9999999",
       "url": "https://open.spotify.com/track/4vdsb4vl6VtGmUwFteOeWA"
+    },
+    {
+      "album": {
+        "name": "Portal 2: Songs to Test By (Collectors Edition)",
+        "url": "https://open.spotify.com/album/5l1BFWphq5XiWlpbYUjrhr"
+      },
+      "artists": [
+        {
+          "name": "Aperture Science Psychoacoustic Laboratories",
+          "url": "https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "9999999",
+      "url": "https://open.spotify.com/track/7t0AFyyVYgwXuPRjbhQGph"
     },
     {
       "album": {
@@ -107,10 +125,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 62000,
       "name": "Adventure Found Me",
       "url": "https://open.spotify.com/track/4JFqLr1cF9jWwVOCdQ69wd"
+    },
+    {
+      "album": {
+        "name": "Tomb Raider (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/44UET2RaWhgHXIwiZAF0EN"
+      },
+      "artists": [
+        {
+          "name": "Jason Graves",
+          "url": "https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62000,
+      "name": "Adventure Found Me",
+      "url": "https://open.spotify.com/track/6DGUzh0i57qQRHIjWL2W4m"
     },
     {
       "album": {
@@ -215,6 +251,10 @@
         {
           "name": "Brian Tyler",
           "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
         }
       ],
       "date_added": "2021-12-15",
@@ -267,6 +307,24 @@
       "duration_ms": 441463,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/2jd20t5nkaFrEbTPJNXDzi"
+    },
+    {
+      "album": {
+        "name": "Vampire: The Masquerade - Bloodhunt (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1n9ixNMkvMMHukntiOfIZf"
+      },
+      "artists": [
+        {
+          "name": "Atanas Valkov",
+          "url": "https://open.spotify.com/artist/4cAAN7SGwKPLlveflKR9z5"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Bloodhunt Main Theme",
+      "url": "https://open.spotify.com/track/1r4MUA5cT9eGCI9drPV74m"
     },
     {
       "album": {
@@ -332,13 +390,17 @@
     },
     {
       "album": {
-        "name": "Assassin\u2019s Creed: The Best of Jesper Kyd",
+        "name": "Assassin's Creed: The Best of Jesper Kyd",
         "url": "https://open.spotify.com/album/3wZlREjJIfZoXPskuiire7"
       },
       "artists": [
         {
           "name": "Jesper Kyd",
           "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
         }
       ],
       "date_added": "2021-12-15",
@@ -347,6 +409,42 @@
       "duration_ms": 333280,
       "name": "City of Rome",
       "url": "https://open.spotify.com/track/6ZXa4Ztf2itEtbTRNUDYAP"
+    },
+    {
+      "album": {
+        "name": "Far: Lone Sails",
+        "url": "https://open.spotify.com/album/0WqpTTuUTg5jwnHC3raWgU"
+      },
+      "artists": [
+        {
+          "name": "Joel Schoch",
+          "url": "https://open.spotify.com/artist/6jDyAH1lGJdLV9rfEFgeGH"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181382,
+      "name": "Colored Engine",
+      "url": "https://open.spotify.com/track/2U832A0zdb8OABhBmFjlWS"
+    },
+    {
+      "album": {
+        "name": "Music from Crash Bandicoot N. Sane Trilogy (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0seis2rI9tpi9u9I3Dnza2"
+      },
+      "artists": [
+        {
+          "name": "Vicarious Visions Audio",
+          "url": "https://open.spotify.com/artist/57McP1QXbAqhD2M1oQICzB"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48629,
+      "name": "Crash Bandicoot Main Theme",
+      "url": "https://open.spotify.com/track/6LtiYg9rZXcqeonqFnGrQx"
     },
     {
       "album": {
@@ -361,7 +459,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 48630,
       "name": "Crash Bandicoot Main Theme",
       "url": "https://open.spotify.com/track/73gyiXLAKUUtX8sAiE2gGV"
@@ -494,6 +592,24 @@
     },
     {
       "album": {
+        "name": "Elden Ring (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir"
+      },
+      "artists": [
+        {
+          "name": "Tsukasa Saitoh",
+          "url": "https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98382,
+      "name": "Elden Ring",
+      "url": "https://open.spotify.com/track/2iiJOgkKOCyb7ZPeqUNpud"
+    },
+    {
+      "album": {
         "name": "The Greatest Video Game Music",
         "url": "https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx"
       },
@@ -545,6 +661,10 @@
         {
           "name": "Jesper Kyd",
           "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
         }
       ],
       "date_added": "2021-12-15",
@@ -609,7 +729,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173920,
-      "name": "FFVII REMAKE: Let the Battles Begin! - A Merc's Job",
+      "name": "FFVII REMAKE: \u95d8\u3046\u8005\u9054 -\u306a\u3093\u3067\u3082\u5c4b\u306e\u4ed5\u4e8b- (Let the Battles Begin! - A Merc's Job)",
       "url": "https://open.spotify.com/track/43SHYfEdVPCIag9L3xtUVm"
     },
     {
@@ -643,10 +763,46 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218708,
       "name": "First Steps",
       "url": "https://open.spotify.com/track/03EyMyy76ZYLUh3lvGrNgE"
+    },
+    {
+      "album": {
+        "name": "Celeste (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1ZfETfec0U02KrKNI8w3Gf"
+      },
+      "artists": [
+        {
+          "name": "Lena Raine",
+          "url": "https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218708,
+      "name": "First Steps",
+      "url": "https://open.spotify.com/track/4MsC3bu5B8WQGHQjOoH2NG"
+    },
+    {
+      "album": {
+        "name": "Tales of Arise (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4It1n0UCx3YTbe0vmWeVdS"
+      },
+      "artists": [
+        {
+          "name": "Motoi Sakuraba",
+          "url": "https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231360,
+      "name": "Flame of Hope",
+      "url": "https://open.spotify.com/track/1by9jxofwB9YKUqOqqOzZM"
     },
     {
       "album": {
@@ -683,10 +839,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141993,
       "name": "Geralt Of Rivia",
       "url": "https://open.spotify.com/track/0Pfdg72l2kQsh4sQHMRSbv"
+    },
+    {
+      "album": {
+        "name": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn"
+      },
+      "artists": [
+        {
+          "name": "Marcin Przyby\u0142owicz",
+          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141993,
+      "name": "Geralt Of Rivia",
+      "url": "https://open.spotify.com/track/5tmhUzJuP7XwqCHglyqnt8"
     },
     {
       "album": {
@@ -748,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Elden Ring (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir"
+      },
+      "artists": [
+        {
+          "name": "Shoi Miyazawa",
+          "url": "https://open.spotify.com/artist/5RpBia18SUKXrsrHLYlrrd"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288144,
+      "name": "Godrick the Grafted",
+      "url": "https://open.spotify.com/track/6RhrqyCOyLiA3MzTu8ecmD"
+    },
+    {
+      "album": {
         "name": "Gris (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/2YMWspDGtbDgYULXvVQFM6"
       },
@@ -781,10 +973,32 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262160,
       "name": "Halo",
       "url": "https://open.spotify.com/track/0htrx26DcVDcyXErXyJsTo"
+    },
+    {
+      "album": {
+        "name": "Halo: Combat Evolved (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/78tWR5P0I53edR7PeXpDfF"
+      },
+      "artists": [
+        {
+          "name": "Martin O'Donnell",
+          "url": "https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib"
+        },
+        {
+          "name": "Michael Salvatori",
+          "url": "https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262160,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4xbrgqQF8bzy22K8JhtFM9"
     },
     {
       "album": {
@@ -1014,6 +1228,24 @@
     },
     {
       "album": {
+        "name": "Mass Effect 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2QfSNNISIlORduwQniMz91"
+      },
+      "artists": [
+        {
+          "name": "Clint Mansell",
+          "url": "https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123720,
+      "name": "Leaving Earth",
+      "url": "https://open.spotify.com/track/1ZUwoCWz8rJqzBTwtdscPN"
+    },
+    {
+      "album": {
         "name": "Mass Effect 3",
         "url": "https://open.spotify.com/album/4AqNrJQ3uSoonTUgvBQHMX"
       },
@@ -1025,7 +1257,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 123720,
       "name": "Leaving Earth",
       "url": "https://open.spotify.com/track/1LpFMCykhFSQPWzNgxcvFs"
@@ -1160,6 +1392,42 @@
     },
     {
       "album": {
+        "name": "METAL GEAR SOLID 4 GUNS OF THE PATRIOTS ORIGINAL SOUND TRACK",
+        "url": "https://open.spotify.com/album/1tBv8dV8YXy58L9io2eYbI"
+      },
+      "artists": [
+        {
+          "name": "Harry Gregson-Williams",
+          "url": "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259920,
+      "name": "Metal Gear Saga",
+      "url": "https://open.spotify.com/track/3gMRvptppSZGbhYBeIqxV3"
+    },
+    {
+      "album": {
+        "name": "Journey (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn"
+      },
+      "artists": [
+        {
+          "name": "Austin Wintory",
+          "url": "https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106960,
+      "name": "Nascence",
+      "url": "https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W"
+    },
+    {
+      "album": {
         "name": "Journey (Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/0ndOKj9ShVUgDc2UiR8b2M"
       },
@@ -1171,10 +1439,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 106960,
       "name": "Nascence",
       "url": "https://open.spotify.com/track/6zcP5A5Xv6bvCUpwXrswKa"
+    },
+    {
+      "album": {
+        "name": "Uncharted 2: Among Thieves (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ZHFLShyZ4XtrQNbPU5F5c"
+      },
+      "artists": [
+        {
+          "name": "Greg Edmonson",
+          "url": "https://open.spotify.com/artist/2O0YGVBPONB6lPJYxb0q3w"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105515,
+      "name": "Nate's Theme 2.0",
+      "url": "https://open.spotify.com/track/0tYeu9EIruakcoksqC6991"
     },
     {
       "album": {
@@ -1189,7 +1475,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 105515,
       "name": "Nate's Theme 2.0",
       "url": "https://open.spotify.com/track/2xJCwA0WygA4INcY2tMQ5g"
@@ -1211,6 +1497,24 @@
       "duration_ms": 173226,
       "name": "New York's Only Spider-Man",
       "url": "https://open.spotify.com/track/3sPz0HlbbJsiTL1jrrrxGT"
+    },
+    {
+      "album": {
+        "name": "Hades: Original Soundtrack",
+        "url": "https://open.spotify.com/album/5jTYZA6b4VoSRnR5TMldgb"
+      },
+      "artists": [
+        {
+          "name": "Darren Korb",
+          "url": "https://open.spotify.com/artist/0ZMWrgLff357yxLyEU77a1"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145048,
+      "name": "No Escape",
+      "url": "https://open.spotify.com/track/5uiqrM9NLgnoAkJeqJqdlt"
     },
     {
       "album": {
@@ -1518,6 +1822,24 @@
     },
     {
       "album": {
+        "name": "Cult of the Lamb (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6uFdRK2clKYng68ThOFDIE"
+      },
+      "artists": [
+        {
+          "name": "River Boy",
+          "url": "https://open.spotify.com/artist/0jyJkJaH4nFWPopjeIYRlA"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299076,
+      "name": "Start a Cult",
+      "url": "https://open.spotify.com/track/1ISexq6FLytZxcEqvn7LOk"
+    },
+    {
+      "album": {
         "name": "Sea of Solitude (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0f1WBVSfCzjFJHMUv8n5Ff"
       },
@@ -1664,6 +1986,24 @@
     },
     {
       "album": {
+        "name": "Elden Ring (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir"
+      },
+      "artists": [
+        {
+          "name": "Tsukasa Saitoh",
+          "url": "https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298444,
+      "name": "The Final Battle",
+      "url": "https://open.spotify.com/track/6mIuQuKlOK7l6HkQnHfvpQ"
+    },
+    {
+      "album": {
         "name": "Bloodborne Original Soundtrack",
         "url": "https://open.spotify.com/album/5nRwiGsiEtrFN847UULpzL"
       },
@@ -1790,6 +2130,24 @@
     },
     {
       "album": {
+        "name": "The Elder Scrolls V: Skyrim: Original Game Soundtrack",
+        "url": "https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Soule",
+          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244842,
+      "name": "The Streets of Whiterun",
+      "url": "https://open.spotify.com/track/18CctEeOpjEDIAvWM5S7RE"
+    },
+    {
+      "album": {
         "name": "Ghost of Tsushima (Music from the Video Game)",
         "url": "https://open.spotify.com/album/6N9upMTvxPR79tutqclKtq"
       },
@@ -1862,6 +2220,24 @@
     },
     {
       "album": {
+        "name": "Half-Life 2 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/17b1MAKoRoML4ecB59iEpR"
+      },
+      "artists": [
+        {
+          "name": "Valve",
+          "url": "https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43233,
+      "name": "Triage at Dawn",
+      "url": "https://open.spotify.com/track/3EAX272za8qK7lZziGwDDy"
+    },
+    {
+      "album": {
         "name": "Half-Life 2",
         "url": "https://open.spotify.com/album/2V0wi4SuioFjmpMu9u60bg"
       },
@@ -1873,7 +2249,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 43233,
       "name": "Triage at Dawn",
       "url": "https://open.spotify.com/track/7Iu08xvGoJhOWGxqRN4Hyh"
@@ -1891,10 +2267,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 288876,
       "name": "Under Construction",
       "url": "https://open.spotify.com/track/5RwEwvUrQz1K4JqdIoZxWZ"
+    },
+    {
+      "album": {
+        "name": "The Sims (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0sSQLHnZOm240uhrPmycuk"
+      },
+      "artists": [
+        {
+          "name": "Jerry Martin",
+          "url": "https://open.spotify.com/artist/7mJJmg0hu5eLrF8gNZ4YAZ"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288876,
+      "name": "Under Construction",
+      "url": "https://open.spotify.com/track/7hqCX9nPUOnFYk4q1XKq3e"
     },
     {
       "album": {
@@ -1923,6 +2317,10 @@
         {
           "name": "Austin Wintory",
           "url": "https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
         }
       ],
       "date_added": "2021-12-15",
@@ -1945,10 +2343,32 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 321093,
       "name": "Welcome Aboard The U.S.G. Ishimura",
       "url": "https://open.spotify.com/track/7dLtnUKOtrZ3CvQ3SMkpg8"
+    },
+    {
+      "album": {
+        "name": "Dead Space (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6hiqqJJ6Fo7hGU54CvM9MM"
+      },
+      "artists": [
+        {
+          "name": "Jason Graves",
+          "url": "https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ"
+        },
+        {
+          "name": "EA Games Soundtrack",
+          "url": "https://open.spotify.com/artist/1gsT5GesFZ2qkDkgPxMUA1"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320788,
+      "name": "Welcome Aboard The U.S.G. Ishimura",
+      "url": "https://open.spotify.com/track/0albZjbwvxiUOEltWXj1ao"
     },
     {
       "album": {
@@ -1971,10 +2391,36 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189137,
       "name": "Whatever Comes (feat. Julie Elven & Melissa R. Kaplan)",
       "url": "https://open.spotify.com/track/5DXfjB2KmTcbaTrzjI6DWr"
+    },
+    {
+      "album": {
+        "name": "Horizon Forbidden West (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wMkc2tl7Ypq3n2mSV60Fx"
+      },
+      "artists": [
+        {
+          "name": "Oleksa Lozowchuk",
+          "url": "https://open.spotify.com/artist/14F3jEeosuaJHvcu2el861"
+        },
+        {
+          "name": "Julie Elven",
+          "url": "https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv"
+        },
+        {
+          "name": "Melissa R. Kaplan",
+          "url": "https://open.spotify.com/artist/4DpSdMOP7JLMUGjNpri704"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189137,
+      "name": "Whatever Comes (feat. Julie Elven & Melissa R. Kaplan)",
+      "url": "https://open.spotify.com/track/6qV7yy8DwETobwsJgTLSCe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new releases from swinging bop to free jazz\. Cover: Ethan Iverson
 
-171 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/2myKIx6nL00hIJ3LYvxpsO)
+172 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/2myKIx6nL00hIJ3LYvxpsO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Keep Me From The Cold](https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Keep Me From The Cold](https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv) | 4:43 | 2021-12-23 | 2022-01-07 |
 | [Krystall Revisited](https://open.spotify.com/track/1htb20C2jXgSNW4Im5wjdN) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Krystall Revisited](https://open.spotify.com/album/6zrpriXok3a1t7kIERXjde) | 6:27 | 2021-12-23 | 2022-01-07 |
 | [La Jungla](https://open.spotify.com/track/1kp1XFIPUGUBBDtfN7L1NO) | [Julieta Eugenio](https://open.spotify.com/artist/3H7h1KgR3buzLFKHRSQN45), [Matt Dwonszyk](https://open.spotify.com/artist/1wJhh9c7iZqRd9SwVoCtAh), [Jonathan Barber](https://open.spotify.com/artist/3a6ffRV0HgmJGBshUJFCmr) | [La Jungla](https://open.spotify.com/album/6ILv7tQIYKuicDal4wnw8X) | 6:11 | 2022-02-10 |  |
-| [La Muralla \(Glass Walls\) Suite: Muropatía](https://open.spotify.com/track/5DOewBhu0sfNhtPveSMLn7) | [Danilo Perez](https://open.spotify.com/artist/6nPiCm3jwXHrOsMbTDoc4E), [The Global Messengers](https://open.spotify.com/artist/0iZRpFP4UsqMHjfE67CY88) | [La Muralla Suite: Muropatía](https://open.spotify.com/album/6ru3wOui5nfPxlCb7sljCb) | 4:32 | 2022-02-10 |  |
+| [La Muralla \(Glass Walls\) Suite: Muropatía](https://open.spotify.com/track/5DOewBhu0sfNhtPveSMLn7) | [Danilo Perez](https://open.spotify.com/artist/6nPiCm3jwXHrOsMbTDoc4E), [The Global Messengers](https://open.spotify.com/artist/0iZRpFP4UsqMHjfE67CY88) | [La Muralla Suite: Muropatía](https://open.spotify.com/album/6ru3wOui5nfPxlCb7sljCb) | 4:32 | 2022-02-10 | 2022-07-29 |
+| [La Muralla \(Glass Walls\) Suite: Muropatía](https://open.spotify.com/track/7AQFgfFzSLcs24jrchY2hM) | [Danilo Perez](https://open.spotify.com/artist/6nPiCm3jwXHrOsMbTDoc4E), [The Global Messengers](https://open.spotify.com/artist/0iZRpFP4UsqMHjfE67CY88) | [Crisálida](https://open.spotify.com/album/24IB6dgLyyR9RJ5Koxg6wu) | 4:32 | 2022-02-10 |  |
 | [La Raza Cósmica](https://open.spotify.com/track/2Mh71fECgzuJ9xmSC6MRww) | [Diego Rivera](https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa) | [Mestizo](https://open.spotify.com/album/58R43BHSwcoiRRG4kvsmYX) | 6:31 | 2022-02-10 |  |
 | [Law & Order \(Live\)](https://open.spotify.com/track/1KoH0Rgacukqd4uiH4Mr1i) | [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez) | [Law & Order \(Live\)](https://open.spotify.com/album/0jmfqb4yzKhkKFeL4FYcY3) | 14:11 | 2021-12-23 | 2022-01-07 |
 | [Leeward \- Live](https://open.spotify.com/track/2dJNiYyeZhY9kbJgQExAte) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Barry Stephenson](https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa), [Gabe Schnider](https://open.spotify.com/artist/6W0lSVddOFriyTIYsfG78Q), [Joe Saylor](https://open.spotify.com/artist/5d7kVKAUGgnDrgxA40vr3X), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Leeward \(Live\)](https://open.spotify.com/album/6W3efhsZYo8o4lfRSXk3fY) | 5:16 | 2022-01-27 |  |

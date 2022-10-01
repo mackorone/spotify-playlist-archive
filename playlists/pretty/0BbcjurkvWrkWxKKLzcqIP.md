@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0BbcjurkvWrkWxKKLzcqIP.md) - [plain]
 
 > Soundtrack a perfect crafternoon spent scrapbooking, knitting, or working on projects with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 571 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/0BbcjurkvWrkWxKKLzcqIP.md) - [plain]
 | 39 | [Girl On Fire](https://open.spotify.com/track/6qOEjO2IUD7PjtpsXawq0d) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/7sG2gH4SFp1GszxOkBZdZR) | 3:44 |
 | 40 | [They](https://open.spotify.com/track/53OAjBw9irOKWuo8yhoQIE) | [Jem](https://open.spotify.com/artist/4v4xuH9VypORYabMnhPLt1) | [Finally Woken](https://open.spotify.com/album/5Jq9bg317AJWWyxwnE1B7q) | 3:16 |
 | 41 | [Clocks](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:07 |
-| 42 | [Don't Stop Believin' \(Glee Cast Version\)](https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 1](https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj) | 3:52 |
+| 42 | [Don't Stop Believin' \(Glee Cast Version\) \- Cover of Journey](https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 1](https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj) | 3:52 |
 | 43 | [Milkshake](https://open.spotify.com/track/2qeWQQBJzzelDIBtCginUy) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Mean Girls \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VMeOsRr2wyELrgfz2rkHp) | 3:05 |
 | 44 | [Alright](https://open.spotify.com/track/0jNU3Khf2j07P7KV0p9hTD) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Clueless / Original Motion Picture Soundtrack](https://open.spotify.com/album/3OrviLrUARxsTuGdWdQTMh) | 3:01 |
 | 45 | [I Want You To Want Me \- Soundtrack](https://open.spotify.com/track/3oX3F14vpkCMJnFoF3DSEr) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [10 Things I Hate About You](https://open.spotify.com/album/2wQ7olOHDHVpgKmKajOxDf) | 3:25 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/0BbcjurkvWrkWxKKLzcqIP.md) - [plain]
 | 60 | [Nothing Left to Lose](https://open.spotify.com/track/5oRp0GTiNQ2OjCUssfCTsk) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Nothing Left To Lose](https://open.spotify.com/album/0kU569LpzJGvk2oNm49oRl) | 4:23 |
 | 61 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 |
 | 62 | [Somewhere Only We Know](https://open.spotify.com/track/6uNP8aOZphmhsYlOwRhNh1) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Somewhere Only We Know](https://open.spotify.com/album/4PD9RC7CU9xi7GIdzXoM9g) | 3:58 |
-| 63 | [Smile](https://open.spotify.com/track/4ZC8hXXqu2hPcDLw9QTdtQ) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Happy Hour](https://open.spotify.com/album/2MyLXLijtCj7VKGzBM7dyW) | 3:21 |
+| 63 | [Smile](https://open.spotify.com/track/4ZC8hXXqu2hPcDLw9QTdtQ) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Happy Hour](https://open.spotify.com/album/2MyLXLijtCj7VKGzBM7dyW) | 3:20 |
 | 64 | [Say Something](https://open.spotify.com/track/78TKtlSLWK8pZAKKW3MyQL) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Say Something](https://open.spotify.com/album/0cHs4eStEKsSiDNxzu9ut5) | 3:49 |
 | 65 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 |
 | 66 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |

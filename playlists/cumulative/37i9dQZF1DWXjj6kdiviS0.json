@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Queen's Platinum Jubilee Classical Music",
+        "url": "https://open.spotify.com/album/4agVxFg16QsfMcm6fUDWAG"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98306,
+      "name": "Abdelazer, Z.570: 2. Rondeau",
+      "url": "https://open.spotify.com/track/2mhirp0cXeMGugTeezPrGn"
+    },
+    {
+      "album": {
         "name": "The World of Purcell",
         "url": "https://open.spotify.com/album/4Ln6huVJUgNheXiwmJbTSJ"
       },
@@ -27,7 +53,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 100893,
       "name": "Abdelazer, Z.570: 2. Rondeau",
       "url": "https://open.spotify.com/track/7wyRAUSFCqE9mvRcdEIIPM"
@@ -99,6 +125,28 @@
     {
       "album": {
         "name": "Bach: The Well-Tempered Consort \u2013 I",
+        "url": "https://open.spotify.com/album/5z2Hm1b46gfkiuPyARwmNA"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Phantasm",
+          "url": "https://open.spotify.com/artist/11Bs9ajBLOhJZvoEgcreha"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191562,
+      "name": "An Wasserfl\u00fcssen Babylon, BWV 653b",
+      "url": "https://open.spotify.com/track/0dSFLKWUIieDp9sxFPPu4K"
+    },
+    {
+      "album": {
+        "name": "Bach: The Well-Tempered Consort \u2013 I",
         "url": "https://open.spotify.com/album/3TVnSNWJyJAqCwDYwrcw9V"
       },
       "artists": [
@@ -113,7 +161,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191562,
       "name": "An Wasserfl\u00fcssen Babylon, BWV 653b",
       "url": "https://open.spotify.com/track/7IA9tR3VtbnxQTuymADA8h"
@@ -198,6 +246,28 @@
     },
     {
       "album": {
+        "name": "Jacquet de la Guerre: Chamber Music",
+        "url": "https://open.spotify.com/album/0dgplHDUVPyDimnP6k8Kk2"
+      },
+      "artists": [
+        {
+          "name": "\u00c9lisabeth Jacquet de La Guerre",
+          "url": "https://open.spotify.com/artist/2mIU8f4NWYIEYkhE8gBkJq"
+        },
+        {
+          "name": "Musica Fiorita",
+          "url": "https://open.spotify.com/artist/5snw1wAyf91SXqRb7DiDX2"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83586,
+      "name": "Chamber Sonata No. 4 in G Minor: I. Grave",
+      "url": "https://open.spotify.com/track/79IEO4HeDBjJ0lZ3gCowrz"
+    },
+    {
+      "album": {
         "name": "All' Improvviso: Ciaccone, Bergamasche, & un po' di Follie...",
         "url": "https://open.spotify.com/album/4bt4Ytdca9kcGGysElYIba"
       },
@@ -217,10 +287,32 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232626,
       "name": "Ciaccona (I)",
       "url": "https://open.spotify.com/track/3QJrYXsAWshnTzzHzapRCz"
+    },
+    {
+      "album": {
+        "name": "All' Improvviso: Ciaccone, Bergamasche, & un po' di Follie...",
+        "url": "https://open.spotify.com/album/1djXV7bpisc7lSeZWK9Y8e"
+      },
+      "artists": [
+        {
+          "name": "L'Arpeggiata",
+          "url": "https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ"
+        },
+        {
+          "name": "Christina Pluhar",
+          "url": "https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232626,
+      "name": "Ciaccona (I)",
+      "url": "https://open.spotify.com/track/7jOnhe335cbTJyTiZoPkxg"
     },
     {
       "album": {
@@ -247,10 +339,40 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147600,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 3. Allegro",
       "url": "https://open.spotify.com/track/3Htqdp3sfxvPoNx7aDwflH"
+    },
+    {
+      "album": {
+        "name": "Discover Vivaldi",
+        "url": "https://open.spotify.com/album/3QesxsJgkB160MYmEuRvMk"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Tom Finucane",
+          "url": "https://open.spotify.com/artist/6HgoMAFsW8DLgv7RUaqzDy"
+        },
+        {
+          "name": "New London Consort",
+          "url": "https://open.spotify.com/artist/1aqZE6rtaBWlipoD3Cj8HB"
+        },
+        {
+          "name": "Philip Pickett",
+          "url": "https://open.spotify.com/artist/28exjH55NHlMdsQFf64Zrt"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152733,
+      "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 3. Allegro",
+      "url": "https://open.spotify.com/track/7H2DUUv8jWob66vA9yXMeh"
     },
     {
       "album": {
@@ -307,6 +429,40 @@
     {
       "album": {
         "name": "Telemann: Sinfonia Spirituosa; String Concertos",
+        "url": "https://open.spotify.com/album/2nJX3LIjdAbNIGR3qbQaBI"
+      },
+      "artists": [
+        {
+          "name": "Georg Philipp Telemann",
+          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
+        },
+        {
+          "name": "Reinhard Goebel",
+          "url": "https://open.spotify.com/artist/6aZcT9sJMlL0yUOrEWa74E"
+        },
+        {
+          "name": "Stephan Schardt",
+          "url": "https://open.spotify.com/artist/7enY64ktybr5iSiQE2Q54K"
+        },
+        {
+          "name": "Julia Huber-Warzecha",
+          "url": "https://open.spotify.com/artist/6DHycNv3bpUD48A1PjWcaG"
+        },
+        {
+          "name": "Mary Utiger",
+          "url": "https://open.spotify.com/artist/2IKneocNFe1WR3rTYXHF0r"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131560,
+      "name": "Concerto In G Major TWV 40:201, For 4 Violins Without Basso Continuo: 1. Largo e staccato",
+      "url": "https://open.spotify.com/track/0LWHku6CeveGybTW8tNdlb"
+    },
+    {
+      "album": {
+        "name": "Telemann: Sinfonia Spirituosa; String Concertos",
         "url": "https://open.spotify.com/album/2JzRib9oMTRgZPiqOqXPsP"
       },
       "artists": [
@@ -333,7 +489,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 131560,
       "name": "Concerto In G Major TWV 40:201, For 4 Violins Without Basso Continuo: 1. Largo e staccato",
       "url": "https://open.spotify.com/track/4MAXGAYV1VYA0YQKW3GcAS"
@@ -427,7 +583,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 435866,
       "name": "Erbarme dich (Matth\u00e4us-Passion), BWV 244",
       "url": "https://open.spotify.com/track/4xqiXPWirZSzj2KhElp2by"
@@ -601,10 +757,36 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147120,
       "name": "Lo frate 'nnamorato, Sinfonia in D Major: II. Andante",
       "url": "https://open.spotify.com/track/3KcwUloOtiJw20gG6Zo7Nt"
+    },
+    {
+      "album": {
+        "name": "Sinfonie Napolitane",
+        "url": "https://open.spotify.com/album/76c3khwtHNzubPiSN5RSkp"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Battista Pergolesi",
+          "url": "https://open.spotify.com/artist/08ewVs9B2qQZ2Gy3xfTFyo"
+        },
+        {
+          "name": "Orchestra da Camera di Napoli",
+          "url": "https://open.spotify.com/artist/3Xvs8dfAyr88DYUupSLITc"
+        },
+        {
+          "name": "Enzo Amato",
+          "url": "https://open.spotify.com/artist/4hqWKF9i5qQvlPA3UpuTIN"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147120,
+      "name": "Lo frate 'nnamorato: II. Andante",
+      "url": "https://open.spotify.com/track/6xhVf7SgpsCDV0im95XTe3"
     },
     {
       "album": {
@@ -656,6 +838,36 @@
     },
     {
       "album": {
+        "name": "Yo-Yo Ma Plays Bach",
+        "url": "https://open.spotify.com/album/2eM9vnf9lUImBz3cVWkZl1"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Ton Koopman",
+          "url": "https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM"
+        },
+        {
+          "name": "Amsterdam Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/2CMg8J0WjftvFR5zFbufVA"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440346,
+      "name": "Matth\u00e4us-Passion, BWV 244: Erbarme dich mein Gott",
+      "url": "https://open.spotify.com/track/4Q6g02eGms6bUNkTgkgyGK"
+    },
+    {
+      "album": {
         "name": "The Trio Sonata in 17th-Century Italy",
         "url": "https://open.spotify.com/album/4K2MH4I7cUjyQju7jGtUc8"
       },
@@ -700,6 +912,32 @@
     },
     {
       "album": {
+        "name": "Mozart: Eine Kleine Nachtmusik etc.",
+        "url": "https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301586,
+      "name": "Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon",
+      "url": "https://open.spotify.com/track/1Mse9NKBbEASi50CQ4aYhr"
+    },
+    {
+      "album": {
         "name": "Mozart: Academy in Concert",
         "url": "https://open.spotify.com/album/7GpLAOdLQp3wejURBwC144"
       },
@@ -719,7 +957,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 301586,
       "name": "Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon",
       "url": "https://open.spotify.com/track/7B4HbpZCSfLzKGapKzlUPD"
@@ -871,10 +1109,40 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 772906,
       "name": "Sonata D major",
       "url": "https://open.spotify.com/track/48QIVLW6MoDjMhAUzFnZci"
+    },
+    {
+      "album": {
+        "name": "Biber, Muffat: Der T\u00fcrken Anmarsch",
+        "url": "https://open.spotify.com/album/1uGXQrLucJdThOQaBZODB4"
+      },
+      "artists": [
+        {
+          "name": "Georg Muffat",
+          "url": "https://open.spotify.com/artist/2qOmGTOq3DzslJlvx77kMR"
+        },
+        {
+          "name": "John Holloway",
+          "url": "https://open.spotify.com/artist/6pOkgFusj8zIOfRZemKGah"
+        },
+        {
+          "name": "Aloysia Assenbaum-Holloway",
+          "url": "https://open.spotify.com/artist/3bcKG66EQaA6mwJ07JBkOL"
+        },
+        {
+          "name": "Lars Ulrik Mortensen",
+          "url": "https://open.spotify.com/artist/60V1cu478C4wll4ctBKkY5"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 772906,
+      "name": "Sonata D major",
+      "url": "https://open.spotify.com/track/7zN9zLRUCwKs19JcOQXvPh"
     },
     {
       "album": {
@@ -897,10 +1165,36 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 77933,
       "name": "Sonata III: V. Rondeau",
       "url": "https://open.spotify.com/track/2dhVYaegGwyXb03FOAK3ZN"
+    },
+    {
+      "album": {
+        "name": "Muffat: Armonico Tributo",
+        "url": "https://open.spotify.com/album/76YgLLiW6cIr0PDwppnGZr"
+      },
+      "artists": [
+        {
+          "name": "Georg Muffat",
+          "url": "https://open.spotify.com/artist/2qOmGTOq3DzslJlvx77kMR"
+        },
+        {
+          "name": "Lars Ulrik Mortensen",
+          "url": "https://open.spotify.com/artist/60V1cu478C4wll4ctBKkY5"
+        },
+        {
+          "name": "Concerto Copenhagen",
+          "url": "https://open.spotify.com/artist/3bAYWBSC170iRoa7KEJu5p"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77933,
+      "name": "Sonata III: V. Rondeau",
+      "url": "https://open.spotify.com/track/3sHoPmz13tcBdi6TTqMDI1"
     },
     {
       "album": {
@@ -952,6 +1246,32 @@
     },
     {
       "album": {
+        "name": "Telemann: Banquet Music in three Parts",
+        "url": "https://open.spotify.com/album/6d48XBWoeqga60rlrxbYwJ"
+      },
+      "artists": [
+        {
+          "name": "Georg Philipp Telemann",
+          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
+        },
+        {
+          "name": "Musica Antiqua K\u00f6ln",
+          "url": "https://open.spotify.com/artist/3KYehrHWNpYfNMpJe0kBML"
+        },
+        {
+          "name": "Reinhard Goebel",
+          "url": "https://open.spotify.com/artist/6aZcT9sJMlL0yUOrEWa74E"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498133,
+      "name": "Tafelmusik - Banquet Music In 3 Parts / Production 1 - 3. Concert In A Major, TWV 53:A2: 2. Allegro",
+      "url": "https://open.spotify.com/track/2WbVaaISgHmu7yrQo6M9nh"
+    },
+    {
+      "album": {
         "name": "Telemann: Tafelmusik",
         "url": "https://open.spotify.com/album/38q8lHxjzMMaH9UE2jLDif"
       },
@@ -971,7 +1291,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 498133,
       "name": "Tafelmusik - Banquet Music In 3 Parts / Production 1 - 3. Concert In A Major, TWV 53:A2: 2. Allegro",
       "url": "https://open.spotify.com/track/6oN60KFkZjs80sCHIxIDzC"
@@ -1026,6 +1346,74 @@
     },
     {
       "album": {
+        "name": "A Classical Compendium: Handel",
+        "url": "https://open.spotify.com/album/554jeF77QGo28ktkdIG1Oe"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Albrecht Mayer",
+          "url": "https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW"
+        },
+        {
+          "name": "Sinfonia Varsovia",
+          "url": "https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk"
+        },
+        {
+          "name": "Jakub Haufa",
+          "url": "https://open.spotify.com/artist/0D1ATNY4F1idBehqwqCoYH"
+        },
+        {
+          "name": "Monika Razynska",
+          "url": "https://open.spotify.com/artist/2uWiFtRGSmpMXFvaEEEd1z"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175173,
+      "name": "Trio Sonata for 2 Violins and Continuo in G Minor, HWV 393 \"Dresden\" No. 2: III. Largo (Arr. for Oboe, Violin, Harpsichord and Orchestra by Andreas Tarkmann)",
+      "url": "https://open.spotify.com/track/244wyQY55kuwTIFa1CGaLS"
+    },
+    {
+      "album": {
+        "name": "Handel - Atmosphere",
+        "url": "https://open.spotify.com/album/75QQS3TR62DZXNAXU1GkkA"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Albrecht Mayer",
+          "url": "https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW"
+        },
+        {
+          "name": "Sinfonia Varsovia",
+          "url": "https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk"
+        },
+        {
+          "name": "Jakub Haufa",
+          "url": "https://open.spotify.com/artist/0D1ATNY4F1idBehqwqCoYH"
+        },
+        {
+          "name": "Monika Razynska",
+          "url": "https://open.spotify.com/artist/2uWiFtRGSmpMXFvaEEEd1z"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 175173,
+      "name": "Trio Sonata for 2 Violins and Continuo in G Minor, HWV 393 \"Dresden\" No. 2: III. Largo (Arr. for Oboe, Violin, Harpsichord and Orchestra by Andreas Tarkmann)",
+      "url": "https://open.spotify.com/track/492xOpyuUiVZ74qhKc2e2w"
+    },
+    {
+      "album": {
         "name": "New Seasons - H\u00e4ndel f\u00fcr Oboe und Orchester",
         "url": "https://open.spotify.com/album/5J2GNmnNxDcPWpnP3E0lz4"
       },
@@ -1053,7 +1441,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181173,
       "name": "Trio Sonata for 2 Violins and Continuo in G Minor, HWV 393 \"Dresden\" No. 2: III. Largo (Arr. for Oboe, Violin, Harpsichord and Orchestra by Andreas Tarkmann)",
       "url": "https://open.spotify.com/track/6ajRRfc2LHpk9Ln8tKIrf5"
@@ -1149,6 +1537,36 @@
       "duration_ms": 214266,
       "name": "Violin Partita No. 3 in E Major, BWV 1006: I. Preludio",
       "url": "https://open.spotify.com/track/2sqhid2MBYJCZWPrLjsUbP"
+    },
+    {
+      "album": {
+        "name": "Elisabeth Jacquet de la Guerre: Sonates pour le violon et basse continue",
+        "url": "https://open.spotify.com/album/5Ds5PGykW6PTouHkCtmPEd"
+      },
+      "artists": [
+        {
+          "name": "\u00c9lisabeth Jacquet de La Guerre",
+          "url": "https://open.spotify.com/artist/2mIU8f4NWYIEYkhE8gBkJq"
+        },
+        {
+          "name": "Lina Tur Bonet",
+          "url": "https://open.spotify.com/artist/2H4efUcMIVJ9I2Wi1BkRgc"
+        },
+        {
+          "name": "Patxi Montero",
+          "url": "https://open.spotify.com/artist/3sx9JRqQPD2uvGsw1xK1XE"
+        },
+        {
+          "name": "Kenneth Weiss",
+          "url": "https://open.spotify.com/artist/1mwI41bT2TdzwBCBQ9klte"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96840,
+      "name": "Violin Sonata No. 2 in D Major: I. Presto",
+      "url": "https://open.spotify.com/track/7qpkLZL5ePxCfZMA3PuNjg"
     },
     {
       "album": {

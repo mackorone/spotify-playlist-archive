@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+    },
+    {
+      "album": {
         "name": "Woodland - EP",
         "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
@@ -217,10 +235,28 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269760,
       "name": "Close",
       "url": "https://open.spotify.com/track/5ZeL4p6miWKlFmrQWpW9NA"
+    },
+    {
+      "album": {
+        "name": "The Journey Tapes",
+        "url": "https://open.spotify.com/album/35siIaKfbD0efvUszaGCQO"
+      },
+      "artists": [
+        {
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269760,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/6k1SU9I0tvaaJ1IQLG30ZN"
     },
     {
       "album": {
@@ -373,10 +409,28 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229626,
       "name": "Featherstone",
       "url": "https://open.spotify.com/track/45p0MAVey0dnjZXo8kMUzh"
+    },
+    {
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229626,
+      "name": "Featherstone",
+      "url": "https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6"
     },
     {
       "album": {
@@ -453,7 +507,7 @@
     {
       "album": {
         "name": "The Journey Tapes",
-        "url": "https://open.spotify.com/album/6cqAOIfSShjNfMAberJHrT"
+        "url": "https://open.spotify.com/album/35siIaKfbD0efvUszaGCQO"
       },
       "artists": [
         {
@@ -464,6 +518,24 @@
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 282413,
+      "name": "Hundrede Tr\u00e6er",
+      "url": "https://open.spotify.com/track/0Muyu1v8caNO4wVMekGEfM"
+    },
+    {
+      "album": {
+        "name": "The Journey Tapes",
+        "url": "https://open.spotify.com/album/6cqAOIfSShjNfMAberJHrT"
+      },
+      "artists": [
+        {
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 282413,
       "name": "Hundrede Tr\u00e6er",
       "url": "https://open.spotify.com/track/71r1tEYcvCQfXiS3foiU0A"
@@ -861,7 +933,7 @@
     {
       "album": {
         "name": "The Journey Tapes",
-        "url": "https://open.spotify.com/album/6cqAOIfSShjNfMAberJHrT"
+        "url": "https://open.spotify.com/album/35siIaKfbD0efvUszaGCQO"
       },
       "artists": [
         {
@@ -872,6 +944,24 @@
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 273613,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1Lg5TvvQh73MU6jgkn42xj"
+    },
+    {
+      "album": {
+        "name": "The Journey Tapes",
+        "url": "https://open.spotify.com/album/6cqAOIfSShjNfMAberJHrT"
+      },
+      "artists": [
+        {
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 273613,
       "name": "Rain",
       "url": "https://open.spotify.com/track/6igQjfm2gbSv0MFKhESArY"
@@ -911,10 +1001,32 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224150,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/1XbAmmPvzJ5VoMxuEts4Jp"
+    },
+    {
+      "album": {
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/235nkIFwD3UldPBDCKhx3b"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Antwaun Stanley",
+          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224150,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3S196HxxjdC6eRSdRd33RV"
     },
     {
       "album": {
@@ -955,7 +1067,7 @@
     {
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH"
+        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
       },
       "artists": [
         {
@@ -968,7 +1080,43 @@
       "date_removed": null,
       "duration_ms": 190392,
       "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190392,
+      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI"
+    },
+    {
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231586,
+      "name": "Woodland",
+      "url": "https://open.spotify.com/track/2dm13KtTfScU9ObCzYzGyS"
     },
     {
       "album": {
@@ -983,7 +1131,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231586,
       "name": "Woodland",
       "url": "https://open.spotify.com/track/431qZaQAJuIolwBrlDa6Yg"

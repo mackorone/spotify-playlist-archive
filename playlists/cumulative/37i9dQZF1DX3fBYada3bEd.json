@@ -491,10 +491,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194853,
       "name": "I Know A Chicken",
       "url": "https://open.spotify.com/track/2OC9dapu1bUyi520cEI7Kb"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner's Animal Songs",
+        "url": "https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "I Know A Chicken",
+      "url": "https://open.spotify.com/track/3g1mTMwdLnJWsVBq2Od3h9"
     },
     {
       "album": {
@@ -934,7 +952,25 @@
     },
     {
       "album": {
-        "name": "Cocomelon Kids Hits, Vol. 5",
+        "name": "Counting with Animals",
+        "url": "https://open.spotify.com/album/0SrUMzeeXRctzQupylcVDo"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120261,
+      "name": "This Little Piggy - Stayed Home",
+      "url": "https://open.spotify.com/track/4nzjdxV6af7H9OwUvE36Kj"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 5",
         "url": "https://open.spotify.com/album/5mhJUvMa9NTf9USkLEpq0T"
       },
       "artists": [
@@ -1047,6 +1083,24 @@
     {
       "album": {
         "name": "Working on the Farm",
+        "url": "https://open.spotify.com/album/4PdFGvFiInP9D3ee5Ip7Yl"
+      },
+      "artists": [
+        {
+          "name": "The MikMaks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201173,
+      "name": "Working on the Farm",
+      "url": "https://open.spotify.com/track/4BfoIFogAKmdWLFkV6ZEoJ"
+    },
+    {
+      "album": {
+        "name": "Working on the Farm",
         "url": "https://open.spotify.com/album/5FuEOoSK6p139wV3fegYhZ"
       },
       "artists": [
@@ -1057,7 +1111,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 201176,
       "name": "Working on the Farm",
       "url": "https://open.spotify.com/track/06HgOwvBfxzUC0VVyNaOMO"

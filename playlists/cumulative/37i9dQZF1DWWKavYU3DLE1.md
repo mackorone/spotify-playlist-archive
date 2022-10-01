@@ -4,7 +4,7 @@
 
 > Hear all of MINO's biggest and best hits in one playlist.
 
-44 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/5aTBggNT0zxnDLXYFfyPCw)
+46 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/5aTBggNT0zxnDLXYFfyPCw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [BODY](https://open.spotify.com/track/03D2t5wn77cpCxH8p99ZvA) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [The MOBB](https://open.spotify.com/album/6LwgGVAkFEmopo6EROaBpd) | 3:19 | 2021-12-07 |  |
 | [Book store \(Feat\. BewhY\)](https://open.spotify.com/track/5nNXoQzBP94F79YZUIEwYZ) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 2:19 | 2021-12-07 |  |
 | [BOW\-WOW](https://open.spotify.com/track/1L7YNJ3inOkeTQueV47VFN) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [XX](https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34) | 3:12 | 2021-12-07 |  |
+| [CITY+++ \(feat\. Gaeko\)](https://open.spotify.com/track/1tLPWvrnepX6TK7RDPoWMa) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Seoul Vibe \(Original Soundtrack from The Netflix Film\)](https://open.spotify.com/album/6uZBJUJZY1gkxBGxfksbHs) | 2:57 | 2022-09-20 |  |
 | [Click / Han river view](https://open.spotify.com/track/7fXD9SvV3bmFqZS5s0GoSd) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:53 | 2021-12-07 |  |
 | [Daylight](https://open.spotify.com/track/7ESVZxudvtKFXz50jJAqtA) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:38 | 2021-12-07 |  |
 | [DRUNK TALK \(feat\. sogumm\)](https://open.spotify.com/track/6BE4q4cqxgCU3cipzgFAu9) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 4:14 | 2021-12-07 |  |
@@ -51,6 +52,7 @@
 | [Victim + Poppin' Bottles](https://open.spotify.com/track/0PFtFcvzTQ82YgEtjzsHGa) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me the Money 4 Episode 6](https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN) | 5:33 | 2021-12-07 |  |
 | [Wa \(Feat\. Zion.T\)](https://open.spotify.com/track/1Gj0xsP9nxrng7w7d1PQ3U) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:55 | 2021-12-07 |  |
 | [ㅇ2](https://open.spotify.com/track/4YEylY77eLVPJeEYWmSxKM) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [XX](https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34) | 2:45 | 2021-12-07 |  |
-| [걔 세 I'm Him](https://open.spotify.com/track/3e2blQpgdH9pIrrGFI6SZw) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S) | 2:52 | 2021-12-07 |  |
+| [걔 세 I'm Him](https://open.spotify.com/track/3e2blQpgdH9pIrrGFI6SZw) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S) | 2:52 | 2021-12-07 | 2022-07-29 |
+| [걔 세 I'm Him](https://open.spotify.com/track/7LvZFvfo7Vr5i84GZ44JGr) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A) | 2:52 | 2021-12-07 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

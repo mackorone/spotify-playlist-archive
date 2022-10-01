@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The trending country songs and viral hits you need to know. Cover: Mason Ramsey",
+  "description": "The trending country songs and viral hits you need to know. Cover: Hailey Whitters",
   "name": "Viral Country",
   "published_playlist_ids": [
     "5RPUuOuY7lpUPnjhceluUd"
@@ -59,6 +59,24 @@
       "duration_ms": 189780,
       "name": "5 Foot 9",
       "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+    },
+    {
+      "album": {
+        "name": "Ain't Missin' You",
+        "url": "https://open.spotify.com/album/79FH6zbP58c4ANd9udRiDc"
+      },
+      "artists": [
+        {
+          "name": "Dylan Schneider",
+          "url": "https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176371,
+      "name": "Ain't Missin' You",
+      "url": "https://open.spotify.com/track/3XCsnZP8tL6fAbYofj9O0M"
     },
     {
       "album": {
@@ -224,6 +242,42 @@
     },
     {
       "album": {
+        "name": "Bridesmaids",
+        "url": "https://open.spotify.com/album/0VdFcNM19RTRUlX59heg5A"
+      },
+      "artists": [
+        {
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170266,
+      "name": "Bridesmaids",
+      "url": "https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB"
+    },
+    {
+      "album": {
+        "name": "Born in July",
+        "url": "https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180628,
+      "name": "Call Your Sister",
+      "url": "https://open.spotify.com/track/4ZhULfF8Sto8LKYUgx1yU3"
+    },
+    {
+      "album": {
         "name": "Born in July",
         "url": "https://open.spotify.com/album/3FeBLXRG2x2SOz3hOoktdY"
       },
@@ -235,10 +289,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180628,
       "name": "Call Your Sister",
       "url": "https://open.spotify.com/track/6E7NIyFK1OYaG4fTyr8zX1"
+    },
+    {
+      "album": {
+        "name": "Carrying Your Love",
+        "url": "https://open.spotify.com/album/2oFeWNfRKYdtFYdgvDPxeP"
+      },
+      "artists": [
+        {
+          "name": "David Morris",
+          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155206,
+      "name": "Carrying Your Love",
+      "url": "https://open.spotify.com/track/7vbBHT7dLLeYr1aR5whaNc"
     },
     {
       "album": {
@@ -283,6 +355,24 @@
       "duration_ms": 203804,
       "name": "Colt 45 (Country Remix)",
       "url": "https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re"
+    },
+    {
+      "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225560,
+      "name": "Country Girl (Shake It For Me)",
+      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
     },
     {
       "album": {
@@ -448,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Dutton Ranch Freestyle",
+        "url": "https://open.spotify.com/album/7IWe39vVoSxisDY6jRmqmA"
+      },
+      "artists": [
+        {
+          "name": "David Morris",
+          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143787,
+      "name": "Dutton Ranch Freestyle",
+      "url": "https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR"
+    },
+    {
+      "album": {
         "name": "Speak Now",
         "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
       },
@@ -488,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
+    },
+    {
+      "album": {
         "name": "F-150",
         "url": "https://open.spotify.com/album/09m2n7rJs6daBxySqetJ9R"
       },
@@ -517,10 +643,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD"
+    },
+    {
+      "album": {
+        "name": "Country Stuff The Album",
+        "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161853,
+      "name": "Fancy Like",
+      "url": "https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF"
     },
     {
       "album": {
@@ -589,10 +733,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 169254,
       "name": "Gone Too Soon",
       "url": "https://open.spotify.com/track/07mnxqYqssab1EEBynCuQ4"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306773,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m"
     },
     {
       "album": {
@@ -740,6 +902,24 @@
     },
     {
       "album": {
+        "name": "Long Time Coming",
+        "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161733,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
+    },
+    {
+      "album": {
         "name": "Little Bit Of Life",
         "url": "https://open.spotify.com/album/1xG8gT4MixyJTNlvvXbU4F"
       },
@@ -866,6 +1046,42 @@
     },
     {
       "album": {
+        "name": "Welcome To The Block Party",
+        "url": "https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Like A Boy",
+      "url": "https://open.spotify.com/track/1ibBdYjfVVqFOA04Q0NnJ6"
+    },
+    {
+      "album": {
+        "name": "Liquor & Pills",
+        "url": "https://open.spotify.com/album/6pQ9QAPUXGlY8YrKEdgkhY"
+      },
+      "artists": [
+        {
+          "name": "Bryan Andrews",
+          "url": "https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255921,
+      "name": "Liquor & Pills",
+      "url": "https://open.spotify.com/track/1xTexcIY9YipgP8UiQbSOk"
+    },
+    {
+      "album": {
         "name": "Liquor & Pills",
         "url": "https://open.spotify.com/album/4Z9MHCJdlwqQSA970lXlPx"
       },
@@ -877,7 +1093,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255921,
       "name": "Liquor & Pills",
       "url": "https://open.spotify.com/track/3aFLplWuvf4IqbtE9KcgKf"
@@ -1057,10 +1273,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203381,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/0PjXFoTUNltAvf4IN0N3Xx"
+    },
+    {
+      "album": {
+        "name": "Backslider",
+        "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
+      },
+      "artists": [
+        {
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203381,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa"
     },
     {
       "album": {
@@ -1119,6 +1353,24 @@
     {
       "album": {
         "name": "Never Been in Love",
+        "url": "https://open.spotify.com/album/6cps0yIKzYYVyHTW0TsEvN"
+      },
+      "artists": [
+        {
+          "name": "Haley Mae Campbell",
+          "url": "https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179189,
+      "name": "Never Been in Love",
+      "url": "https://open.spotify.com/track/3gq98hzXfMGQ5VFIGJ1DoB"
+    },
+    {
+      "album": {
+        "name": "Never Been in Love",
         "url": "https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G"
       },
       "artists": [
@@ -1129,7 +1381,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179189,
       "name": "Never Been in Love",
       "url": "https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30"
@@ -1147,10 +1399,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194270,
       "name": "Never Comin' Home",
       "url": "https://open.spotify.com/track/2wHsq6qPFshjGPNiGjQv0D"
+    },
+    {
+      "album": {
+        "name": "Never Comin' Home",
+        "url": "https://open.spotify.com/album/4GhGSIS6nha0XoeSQHRyq8"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194270,
+      "name": "Never Comin' Home",
+      "url": "https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI"
     },
     {
       "album": {
@@ -1173,6 +1443,24 @@
     {
       "album": {
         "name": "Born in July",
+        "url": "https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Not Supposed To Know Each Other",
+      "url": "https://open.spotify.com/track/2K52TQ4HqTz2ZbCrhkFw0p"
+    },
+    {
+      "album": {
+        "name": "Born in July",
         "url": "https://open.spotify.com/album/3FeBLXRG2x2SOz3hOoktdY"
       },
       "artists": [
@@ -1183,7 +1471,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161632,
       "name": "Not Supposed To Know Each Other",
       "url": "https://open.spotify.com/track/5B5ToRmXjXYXdShfi8Yx0s"
@@ -1219,10 +1507,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155425,
       "name": "on God.",
       "url": "https://open.spotify.com/track/0Q11qvNGDVX0GInBQO9Fdy"
+    },
+    {
+      "album": {
+        "name": "Boots x Beats",
+        "url": "https://open.spotify.com/album/6yTa2jxGNCiQsdsLAu3888"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155425,
+      "name": "on God.",
+      "url": "https://open.spotify.com/track/3p0DyJNBe047f8y7DQOP3h"
     },
     {
       "album": {
@@ -1295,10 +1601,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186458,
       "name": "Ride the Lightning (717 Tapes)",
       "url": "https://open.spotify.com/track/6bVZ8tOT8S6wrXJl83zEHU"
+    },
+    {
+      "album": {
+        "name": "Ride the Lightning (717 Tapes)",
+        "url": "https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186458,
+      "name": "Ride the Lightning - 717 Tapes",
+      "url": "https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe"
     },
     {
       "album": {
@@ -1349,10 +1673,46 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175699,
       "name": "Salt, Lime & Tequila",
       "url": "https://open.spotify.com/track/4xpTjwZPnpB4FO8EJh0trf"
+    },
+    {
+      "album": {
+        "name": "Salt, Lime & Tequila",
+        "url": "https://open.spotify.com/album/4JOamYj3bZqdVc2CRBjIXN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Griffin",
+          "url": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 175699,
+      "name": "Salt, Lime & Tequila",
+      "url": "https://open.spotify.com/track/6HqellfyRqgbB6vqNXHPmh"
+    },
+    {
+      "album": {
+        "name": "Slow Down Sunrise",
+        "url": "https://open.spotify.com/album/4sU7v920pDs01u7d8f6sSg"
+      },
+      "artists": [
+        {
+          "name": "Ryan Griffin",
+          "url": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175906,
+      "name": "Salt, Lime & Tequila",
+      "url": "https://open.spotify.com/track/4BGvTMV2DIwIa4ixT37fnG"
     },
     {
       "album": {
@@ -1468,6 +1828,24 @@
     },
     {
       "album": {
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183733,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
+    },
+    {
+      "album": {
         "name": "Tell Your Mom",
         "url": "https://open.spotify.com/album/4ZaGuPG5ubzLHpB9nt28Df"
       },
@@ -1479,10 +1857,46 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182742,
       "name": "Tell Your Mom",
       "url": "https://open.spotify.com/track/6hZ7an4nKAiqBkgM5fSCAa"
+    },
+    {
+      "album": {
+        "name": "Tell Your Mom",
+        "url": "https://open.spotify.com/album/49hM7XdEYqFUlVdUGn40Fg"
+      },
+      "artists": [
+        {
+          "name": "Georgia Webster",
+          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182742,
+      "name": "Tell Your Mom",
+      "url": "https://open.spotify.com/track/6uxGwZV2t6c7Nq2oy1MHvU"
+    },
+    {
+      "album": {
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV"
     },
     {
       "album": {
@@ -1631,10 +2045,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 199741,
       "name": "Turn Up On the Weekend",
       "url": "https://open.spotify.com/track/2AEzMPR01sg1wsXurYrgDx"
+    },
+    {
+      "album": {
+        "name": "Stronger Than I Am",
+        "url": "https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176087,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3"
     },
     {
       "album": {
@@ -1649,7 +2081,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176087,
       "name": "Villain",
       "url": "https://open.spotify.com/track/1cHJK4H49CP0Qp3iz7hMi8"
@@ -1746,6 +2178,24 @@
     },
     {
       "album": {
+        "name": "INTERTWINED",
+        "url": "https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs"
+      },
+      "artists": [
+        {
+          "name": "CHASE WRIGHT",
+          "url": "https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 201773,
+      "name": "Wish You'd Miss Me",
+      "url": "https://open.spotify.com/track/01CDpoz4YozPMx7X6R7eYn"
+    },
+    {
+      "album": {
         "name": "Wish You'd Miss Me",
         "url": "https://open.spotify.com/album/7jMROrwdWbvVjmrOrk4rdv"
       },
@@ -1757,10 +2207,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201773,
       "name": "Wish You'd Miss Me",
       "url": "https://open.spotify.com/track/6bg3oASoWVKvtOSGnixIwh"
+    },
+    {
+      "album": {
+        "name": "INTERTWINED",
+        "url": "https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa"
+      },
+      "artists": [
+        {
+          "name": "CHASE WRIGHT",
+          "url": "https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 202566,
+      "name": "Wish You'd Miss Me",
+      "url": "https://open.spotify.com/track/2613r4NIlGRo18Ep9UWgab"
     },
     {
       "album": {
@@ -1783,6 +2251,24 @@
     {
       "album": {
         "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211893,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
+    },
+    {
+      "album": {
+        "name": "Your Man",
         "url": "https://open.spotify.com/album/5dwwsU4v2sFbnPn0UR835g"
       },
       "artists": [
@@ -1793,7 +2279,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211893,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/38puMH41SYytv1i38GWEM0"

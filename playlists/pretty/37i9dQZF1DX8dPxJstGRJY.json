@@ -1,18 +1,18 @@
 {
   "description": "Pop classics and show tunes, sung by legendary classical voices. Cover: Andrea Bocelli",
-  "num_followers": 122465,
+  "num_followers": 140067,
   "original_name": "Classical Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAxOTAwMDAwMTgxNmZkMzJmNDkwMDAwMDE3NWJkMGUxNDY3",
+  "snapshot_id": "MTY2NDUyMjc5NCwwMDAwMDAwMGNjYzZkZTQyYjM5NzhjMmRlNzdhMzcxNTAzNTM3NTk1",
   "tracks": [
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
-        "name": "These Are Special Times",
-        "url": "https://open.spotify.com/album/0LvrjOn7CrNSs0jVUvrgVy"
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
       },
       "artists": [
         {
@@ -26,10 +26,10 @@
       ],
       "duration_ms": 268933,
       "name": "The Prayer",
-      "url": "https://open.spotify.com/track/6PJRw5icjh5FnFd7jNUmbG"
+      "url": "https://open.spotify.com/track/6zlY4xmlgqvn4LxjzoS2mz"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Believe (Deluxe)",
         "url": "https://open.spotify.com/album/1YuRC8Fj5XdgpuoA7yBDnr"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1OWoYQ9tGoufbJGY0YOdAI"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Katherine Jenkins / From The Heart",
         "url": "https://open.spotify.com/album/3Zu1qssJCsIlgXtJQskbE5"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/41SH0UAo3nbzN4l0U38Wq3"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Romantic Serenade",
         "url": "https://open.spotify.com/album/4HPSlAA3McPFOUU41U5AfQ"
@@ -93,7 +93,27 @@
       "url": "https://open.spotify.com/track/66z75O6SUOQxZnS7Spbp95"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
+      "album": {
+        "name": "Romanza (Remastered)",
+        "url": "https://open.spotify.com/album/4myEOR9cjLVBiwQuBxL4av"
+      },
+      "artists": [
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "Time To Say Goodbye",
+      "url": "https://open.spotify.com/track/3VAICuY2ax2yCLT7EhNeZE"
+    },
+    {
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Act Two",
         "url": "https://open.spotify.com/album/1LF3HfqmS4DTn4cNabNKzJ"
@@ -109,7 +129,99 @@
       "url": "https://open.spotify.com/track/68CGs1SYzsXs7OMHKWpw0w"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
+      "album": {
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/0TvtvNcqu7717IQrq2cmfX"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        },
+        {
+          "name": "Virginia Bocelli",
+          "url": "https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "The Greatest Gift",
+      "url": "https://open.spotify.com/track/3odk8LP7YTi7SfhsnqMZns"
+    },
+    {
+      "added_at": "2022-09-21 10:36:11",
+      "album": {
+        "name": "Stages (Deluxe)",
+        "url": "https://open.spotify.com/album/7bpNb4BzAwWAVzKOlzJZDU"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
+      "url": "https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW"
+    },
+    {
+      "added_at": "2022-09-21 10:36:11",
+      "album": {
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/4Vmuk6V7WX9nTAFhLvs106"
+      },
+      "artists": [
+        {
+          "name": "Military Wives",
+          "url": "https://open.spotify.com/artist/41j6k61g4RW0WQa2s3TUr0"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/0TX4O1sHvHLxyQhpr0mkEU"
+    },
+    {
+      "added_at": "2022-09-21 10:36:11",
+      "album": {
+        "name": "Songbird (Orchestral Version)",
+        "url": "https://open.spotify.com/album/2wPyxNiLVSmsPcgqUizdY2"
+      },
+      "artists": [
+        {
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "Songbird - Orchestral Version",
+      "url": "https://open.spotify.com/track/6LutEnXy3mfA1pSglqssNO"
+    },
+    {
+      "added_at": "2022-09-21 10:36:11",
+      "album": {
+        "name": "Il Divo",
+        "url": "https://open.spotify.com/album/2wHQ8jRc9zKG5tyNzopmJt"
+      },
+      "artists": [
+        {
+          "name": "Il Divo",
+          "url": "https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl"
+        }
+      ],
+      "duration_ms": 280680,
+      "name": "Regresa a M\u00ed",
+      "url": "https://open.spotify.com/track/3p8szomcjl5ghqOKSH5vZf"
+    },
+    {
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Return To Love",
         "url": "https://open.spotify.com/album/2piXcsaXhEcRXaSXVfe4aw"
@@ -129,75 +241,7 @@
       "url": "https://open.spotify.com/track/09YXhYMYIHZBHVKGEQrSQF"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Stages",
-        "url": "https://open.spotify.com/album/0UPs87sXoeGPNiKnaWxFOZ"
-      },
-      "artists": [
-        {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
-      "url": "https://open.spotify.com/track/4Qw3ib035aTuz4QLaZsDxe"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "In My Dreams",
-        "url": "https://open.spotify.com/album/4Vmuk6V7WX9nTAFhLvs106"
-      },
-      "artists": [
-        {
-          "name": "Military Wives",
-          "url": "https://open.spotify.com/artist/41j6k61g4RW0WQa2s3TUr0"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/0TX4O1sHvHLxyQhpr0mkEU"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Songbird (Orchestral Version)",
-        "url": "https://open.spotify.com/album/2wPyxNiLVSmsPcgqUizdY2"
-      },
-      "artists": [
-        {
-          "name": "Christine McVie",
-          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "Songbird - Orchestral Version",
-      "url": "https://open.spotify.com/track/6LutEnXy3mfA1pSglqssNO"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Il Divo",
-        "url": "https://open.spotify.com/album/2wHQ8jRc9zKG5tyNzopmJt"
-      },
-      "artists": [
-        {
-          "name": "Il Divo",
-          "url": "https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl"
-        }
-      ],
-      "duration_ms": 280680,
-      "name": "Regresa a M\u00ed",
-      "url": "https://open.spotify.com/track/3p8szomcjl5ghqOKSH5vZf"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV"
@@ -217,10 +261,10 @@
       "url": "https://open.spotify.com/track/6Eu5Y7S6GXPVp1W7lnlVU7"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
-        "name": "10 Years - The Best Of",
-        "url": "https://open.spotify.com/album/2Mqky90OTsnQaKXNwxvbA2"
+        "name": "Grande amore (International Version)",
+        "url": "https://open.spotify.com/album/0Jy2GfTkOoIubV6oilvi2s"
       },
       "artists": [
         {
@@ -228,12 +272,12 @@
           "url": "https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t"
         }
       ],
-      "duration_ms": 224382,
+      "duration_ms": 224680,
       "name": "Grande amore",
-      "url": "https://open.spotify.com/track/2I9KO0T9SUEkpi2OlZkQJo"
+      "url": "https://open.spotify.com/track/4IzDqftkFXUR8G2vaTd3Rb"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Because You're Mine",
         "url": "https://open.spotify.com/album/58fpQPkrpLYmBjkf5vLvGB"
@@ -249,7 +293,7 @@
       "url": "https://open.spotify.com/track/1wgUTAbPQkblN0nykDueMI"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Love Is in the Air",
         "url": "https://open.spotify.com/album/1hSTHfTeLXqZbR3sKA5p4M"
@@ -265,7 +309,7 @@
       "url": "https://open.spotify.com/track/6pybRbc5DOKqBSpm4TFnBZ"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/5qCkKRgXcY4O67RsxdoYbc"
@@ -281,7 +325,7 @@
       "url": "https://open.spotify.com/track/3f9MVjyYYUr1EF1FOm7dSF"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "In the Eyes of a Child",
         "url": "https://open.spotify.com/album/7tBSzCp4dIFyCA51NE4sr7"
@@ -297,7 +341,7 @@
       "url": "https://open.spotify.com/track/6o9bPZq7uryo2bgq1lJaDm"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Enchant\u00e9e",
         "url": "https://open.spotify.com/album/6Au7erVWzChOurV7EFawHO"
@@ -321,7 +365,7 @@
       "url": "https://open.spotify.com/track/7JWkH4SIGCnaoLNy3Ya5fN"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "World I See",
         "url": "https://open.spotify.com/album/0CMAg8EvRIOtvSJKZEKFlQ"
@@ -337,7 +381,7 @@
       "url": "https://open.spotify.com/track/1nKTvd5PQrvh9OJ2UuSfMB"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Defined",
         "url": "https://open.spotify.com/album/2tTr8FUVIv2JnvODik4Tef"
@@ -361,7 +405,27 @@
       "url": "https://open.spotify.com/track/3SGrE5fV1ys8ZyAAHcTL9B"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
+      "album": {
+        "name": "Pinocchio (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 117693,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf"
+    },
+    {
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "All Angels",
         "url": "https://open.spotify.com/album/5sexUfmKMDnvVrvdwIf4jT"
@@ -377,7 +441,7 @@
       "url": "https://open.spotify.com/track/0QesxIlKPMUvRlsUeAdRat"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Bring Him Home",
         "url": "https://open.spotify.com/album/50c1kQsjZ7RWsIHvq1wxPl"
@@ -401,7 +465,7 @@
       "url": "https://open.spotify.com/track/6vb1E9HQ9V0vqxUaiGmgej"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Pictures of America",
         "url": "https://open.spotify.com/album/03kaAMCPTOpXnDIMTIY85l"
@@ -416,7 +480,7 @@
           "url": "https://open.spotify.com/artist/4jCfIA4UDHUWpc45H7A4ud"
         },
         {
-          "name": "The Paris Mozart Orchestra",
+          "name": "Paris Mozart Orchestra",
           "url": "https://open.spotify.com/artist/4yaVj1SnoAFuqdRNGMCcFW"
         },
         {
@@ -429,7 +493,7 @@
       "url": "https://open.spotify.com/track/60rwCozHI55tnHCZHI8bJ2"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Revelation",
         "url": "https://open.spotify.com/album/6IqEExqxT85wd6Tzybi1mb"
@@ -449,7 +513,35 @@
       "url": "https://open.spotify.com/track/63jBZRDHRrY7X1BklH4mJ1"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
+      "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/1JiT6gr6lHx4Tdsi232CeT"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Charlotte Church",
+          "url": "https://open.spotify.com/artist/3P9jdZehQvmAoTrWU1p5zt"
+        },
+        {
+          "name": "Sian Edwards",
+          "url": "https://open.spotify.com/artist/1AEBcVvK0365RWUgw1YfNr"
+        },
+        {
+          "name": "Ronn Huff",
+          "url": "https://open.spotify.com/artist/6K11od2ftoHDnZ2nbyEati"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Carrickfergus",
+      "url": "https://open.spotify.com/track/41UC0IpPTszBkTiy5GcFvq"
+    },
+    {
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "I Rest My Eyes",
         "url": "https://open.spotify.com/album/3D857PXK7oDv8GAHdRXx9h"
@@ -465,7 +557,7 @@
       "url": "https://open.spotify.com/track/1Sic4S5VMmHmFi8hWJsF2x"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Amore Musica",
         "url": "https://open.spotify.com/album/6EVHFDafgJHsXAKJMxYn6K"
@@ -481,7 +573,7 @@
       "url": "https://open.spotify.com/track/7CLOYF0QFHyQQRENkJDbR8"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "In Harmony",
         "url": "https://open.spotify.com/album/2QjdcIMXEny95djxh7lEN8"
@@ -509,7 +601,59 @@
       "url": "https://open.spotify.com/track/7r3YaTG6mKqouTw09iCNnZ"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
+      "album": {
+        "name": "A Man Without Love",
+        "url": "https://open.spotify.com/album/6VidERJoBxZm4sPQFkPQvX"
+      },
+      "artists": [
+        {
+          "name": "Michael Ball",
+          "url": "https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI"
+        },
+        {
+          "name": "Alfie Boe",
+          "url": "https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "A Man Without Love",
+      "url": "https://open.spotify.com/track/4SlFhuKLrdMxyjP2XXHfuQ"
+    },
+    {
+      "added_at": "2022-09-21 10:36:11",
+      "album": {
+        "name": "Schubert: Ave Maria, D. 839 (Arr. Garrett / van der Heijden for Voice, Violin and Orchestra)",
+        "url": "https://open.spotify.com/album/7C2bSB28pcWwq3ymkz6tj5"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "David Garrett",
+          "url": "https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Franck van der Heijden",
+          "url": "https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw"
+        },
+        {
+          "name": "Orchestra the Prezent",
+          "url": "https://open.spotify.com/artist/25y9UwLKC3bZJFNkHRdUzZ"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Ave Maria, D. 839 (Arr. Garrett / van der Heijden for Voice, Violin and Orchestra)",
+      "url": "https://open.spotify.com/track/6Djg0bJXADJyZzWR6WXtEZ"
+    },
+    {
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Believe (Deluxe)",
         "url": "https://open.spotify.com/album/1YuRC8Fj5XdgpuoA7yBDnr"
@@ -529,7 +673,7 @@
       "url": "https://open.spotify.com/track/1djDyrvcG5IvhgyNOQh5VH"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Viva La Vita",
         "url": "https://open.spotify.com/album/64E2O1kyI9QZWGuptzmRiJ"
@@ -545,7 +689,7 @@
       "url": "https://open.spotify.com/track/1jTI06Buy2Tpoy2ddBwbX3"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Ancora",
         "url": "https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI"
@@ -565,7 +709,7 @@
       "url": "https://open.spotify.com/track/2x3IkNv39smZqUBmOo7Ors"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/5iRyoCBGxBbuyq69F44uAI"
@@ -576,12 +720,8 @@
           "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
         },
         {
-          "name": "The Tabernacle Choir",
-          "url": "https://open.spotify.com/artist/7dU4BCisBfJxyS1JWmPdQD"
-        },
-        {
-          "name": "Orchestra at Temple Square",
-          "url": "https://open.spotify.com/artist/4kAIRZipPTtTbZBTudxcEA"
+          "name": "The Tabernacle Choir at Temple Square",
+          "url": "https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5"
         }
       ],
       "duration_ms": 308360,
@@ -589,7 +729,7 @@
       "url": "https://open.spotify.com/track/0fTIXF5GCFMAu44u3aRBTQ"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV"
@@ -609,7 +749,7 @@
       "url": "https://open.spotify.com/track/3qV6M1cI4McX7xSLzLQa3H"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Inspire",
         "url": "https://open.spotify.com/album/1Uh9wfpuVzpoVoAFrTV6x2"
@@ -629,7 +769,7 @@
       "url": "https://open.spotify.com/track/6ZcTsXUmJcCtVtgbxVIzPn"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Ancora",
         "url": "https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI"
@@ -645,7 +785,7 @@
       "url": "https://open.spotify.com/track/1fZDEjhNs6zyqKzMC7HjyZ"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Your Love (from \"Once Upon A Time In The West\")",
         "url": "https://open.spotify.com/album/5uxs5lrUUWiQcDtnXDtIIl"
@@ -665,7 +805,7 @@
       "url": "https://open.spotify.com/track/799SQZx5kNatDCrEOvReAM"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
@@ -685,7 +825,7 @@
       "url": "https://open.spotify.com/track/2nCK9KFGeRp87GnunVsMgW"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Dreams and Songs",
         "url": "https://open.spotify.com/album/6UpFGwTAEexVrJrR2icKHn"
@@ -717,7 +857,7 @@
       "url": "https://open.spotify.com/track/2EliUCT5ApsdtFo1CYblyq"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Bridges (Deluxe)",
         "url": "https://open.spotify.com/album/70406c1Pa2F3BQscpLiUME"
@@ -737,7 +877,7 @@
       "url": "https://open.spotify.com/track/28hIO3sitQKgRPbQ61x6bS"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "A New Journey",
         "url": "https://open.spotify.com/album/1og5dt9eliYqKQG8eBH9jf"
@@ -753,7 +893,7 @@
       "url": "https://open.spotify.com/track/2E3y6X63fbZCYJGELwRAWQ"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Pavarotti Forever",
         "url": "https://open.spotify.com/album/4uqcr1BXoigCnQ9POw0YYP"
@@ -781,7 +921,7 @@
       "url": "https://open.spotify.com/track/0tTbk9bpoFRDa19eVghS4d"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Back in Harmony",
         "url": "https://open.spotify.com/album/4W9JQsHKofQ6Cya0naM8jj"
@@ -809,32 +949,60 @@
       "url": "https://open.spotify.com/track/0qGEX3pbraLFW5sew7k9zV"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Essence",
-        "url": "https://open.spotify.com/album/4paZQWd1xdBnBAsVwROUIt"
+        "url": "https://open.spotify.com/album/0SYTw49dOIYEHG6iarQa7u"
       },
       "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
         {
           "name": "Giorgia Fumanti",
           "url": "https://open.spotify.com/artist/19Jsb6i9xKolWGXZznN93N"
+        },
+        {
+          "name": "Galante Media Orchestra",
+          "url": "https://open.spotify.com/artist/1ASeREkK4uVDkwcdPrCh4A"
+        },
+        {
+          "name": "Stefano Galante",
+          "url": "https://open.spotify.com/artist/2KSGgRdG0PkOeTwGtOYQuH"
         }
       ],
-      "duration_ms": 230760,
-      "name": "Air en sol",
-      "url": "https://open.spotify.com/track/6mP0PMfnTzvf4dSNU8W1ts"
+      "duration_ms": 228751,
+      "name": "Air sur la corde de Sol - Suite pour orchestre No 3, BWV 1068",
+      "url": "https://open.spotify.com/track/5ivf8uOExXktY0aMgwFodc"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
-        "name": "These Are The Special Times (Momenti Splendidi)",
-        "url": "https://open.spotify.com/album/2PG4FagRQNckeShV5upT71"
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
       },
       "artists": [
         {
-          "name": "Diane Warren",
-          "url": "https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        }
+      ],
+      "duration_ms": 282800,
+      "name": "I Hate You Then I Love You (Duet with Luciano Pavarotti)",
+      "url": "https://open.spotify.com/track/3GeU6SjrKEjCRpXCCFthaG"
+    },
+    {
+      "added_at": "2022-09-21 10:36:11",
+      "album": {
+        "name": "Christmasland Platinum Edition",
+        "url": "https://open.spotify.com/album/54ddeIAOPiE4uWBoosAQ2t"
+      },
+      "artists": [
         {
           "name": "Jonathan Antoine",
           "url": "https://open.spotify.com/artist/2oYXPOHsXljvSD7jDatP22"
@@ -846,10 +1014,10 @@
       ],
       "duration_ms": 248866,
       "name": "These Are Special Times",
-      "url": "https://open.spotify.com/track/7nmumY8ELmqBhXPCF9IBBc"
+      "url": "https://open.spotify.com/track/4iTH9LIWcRI1G6UaOgid9H"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Dream With Me",
         "url": "https://open.spotify.com/album/4DELT3MlaCsncDA5KODmKo"
@@ -865,7 +1033,7 @@
       "url": "https://open.spotify.com/track/7cA6XIZ5VD67qmIhwDTQeM"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Ancora",
         "url": "https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI"
@@ -881,7 +1049,7 @@
       "url": "https://open.spotify.com/track/1YO3Bwr2S9kTfdkCu56qUx"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Light for the World",
         "url": "https://open.spotify.com/album/5hBu1cttYYkclsdxeKzKRy"
@@ -905,7 +1073,7 @@
       "url": "https://open.spotify.com/track/6K1z9GdRDtg4wrclq649lZ"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
         "name": "Classical Barbra (Re-Mastered)",
         "url": "https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp"
@@ -929,10 +1097,10 @@
       "url": "https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-09-21 10:36:11",
       "album": {
-        "name": "Pure (Includes Bonus Tracks and Exclusive Track)",
-        "url": "https://open.spotify.com/album/4F4cYsACedydHGyvpZCXN5"
+        "name": "River Of Dreams - The Very Best of Hayley Westenra",
+        "url": "https://open.spotify.com/album/2mTBvr7If9pz5DplK6bE9r"
       },
       "artists": [
         {
@@ -940,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
         }
       ],
-      "duration_ms": 193493,
+      "duration_ms": 193333,
       "name": "Never Say Goodbye (Adapted from \"Pavane, M. 19\")",
-      "url": "https://open.spotify.com/track/6DFlIKgiThAgpfXJNqa7eB"
+      "url": "https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE"
     }
   ],
   "unique_name": "Classical Crossover",

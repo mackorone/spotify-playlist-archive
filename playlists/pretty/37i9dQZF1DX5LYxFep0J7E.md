@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2021\. Cover: Julius Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,984 likes - 62 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,580 likes - 62 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 22 | [Another Land](https://open.spotify.com/track/4hXCLt55j8I2NGm9nhhglr) | [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [Another Land](https://open.spotify.com/album/7m0f9210yYIhCKDTf9FwnS) | 9:18 |
 | 23 | [How Much A Dollar Cost \- Live](https://open.spotify.com/track/6bXpRiUtGoBG2T4R7nfVXq) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [R+R=Now Live](https://open.spotify.com/album/5tKVgcTumS8Nz7xSdeWnCv) | 4:07 |
 | 24 | [Leaving East of Java](https://open.spotify.com/track/50N7ZgiZOCeXGiniWA4tSg) | [Andrew Cyrille Quartet](https://open.spotify.com/artist/2F683zoqi4ipKWrVZzkGvF) | [The News](https://open.spotify.com/album/2wwKWaQ5qE6sLW50glILPu) | 8:49 |
-| 25 | [My Friend Of Misery](https://open.spotify.com/track/14A7YuFDIVykJBGXcipCpp) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [My Friend Of Misery](https://open.spotify.com/album/6f4xneECqUb0JELhNa3KzN) | 6:47 |
+| 25 | [My Friend of Misery](https://open.spotify.com/track/4VgstGQR0BW7wamAFNEz6A) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [My Friend of Misery](https://open.spotify.com/album/0v08kiSBOOoy59PZOIscFW) | 6:47 |
 | 26 | [As the Spirit Sings](https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Liberation Time](https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9) | 5:21 |
 | 27 | [ALL FOR ONE](https://open.spotify.com/track/0aHMW71tBrND7kjmln70Mp) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [ALL FOR ONE](https://open.spotify.com/album/2YTQSLs2UDe1IM4KEUHJyu) | 4:15 |
 | 28 | [Libra](https://open.spotify.com/track/1ntx4SY3tRDuEzid4sRFjA) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [The Magic of Now](https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y) | 5:54 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 30 | [Southbound](https://open.spotify.com/track/1UinzGUEzGBOyPd5H3YTI1) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Sunrise Reprise](https://open.spotify.com/album/5wreZiEotGjOjkul69Vy8t) | 8:17 |
 | 31 | [theme 001 \- Live](https://open.spotify.com/track/2CSkMyWoCv8OruGDkpPDex) | [Jaimie Branch](https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5) | [FLY or DIE LIVE](https://open.spotify.com/album/4TruxTUhVk3GeoxSd6S7LK) | 4:41 |
 | 32 | [Clarendon](https://open.spotify.com/track/10ehaQWy6pox3Z6eJTkDni) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Time to Play](https://open.spotify.com/album/58vJz276DffV14zTNZuoU5) | 3:50 |
-| 33 | [Morning Light](https://open.spotify.com/track/6mNsWIUeTuxOAlbVlNzam5) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Freedom Fables](https://open.spotify.com/album/7dGOyxCI4QXNFxHEpgD4jt) | 5:27 |
+| 33 | [Morning Light](https://open.spotify.com/track/39dsqpRTcjZQExrzeQAiJV) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Freedom Fables](https://open.spotify.com/album/3HDaoy8TYaaLfKPKSVcsOq) | 5:27 |
 | 34 | [Think of One](https://open.spotify.com/track/5SwV92BaLtH0j1CEW8nfFE) | [Yoko Miwa Trio](https://open.spotify.com/artist/4xfIFGU467tYdyF6thGbLP) | [Songs of Joy](https://open.spotify.com/album/67HHmtUndI5iedtQ2A3oeM) | 8:03 |
 | 35 | [It Starts When We Disappear](https://open.spotify.com/track/72S0MM0ugxsg23yfJHZnen) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Side\-Eye NYC \(V1.IV\)](https://open.spotify.com/album/5sNliKF0xxF8BdJuCUpFUW) | 13:47 |
 | 36 | [The American Negro](https://open.spotify.com/track/6RJBLojLrqu76CazS7iBmr) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [The American Negro](https://open.spotify.com/album/1b3K1rvUIaDmRP2AsLahXw) | 4:36 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 61 | [Dumb People](https://open.spotify.com/track/0bLLEb8lkYeyK7gqiilVy4) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Harry Pope](https://open.spotify.com/artist/6HEABwt9mukkCM55kzNhV0) | [Dumb People](https://open.spotify.com/album/1iEOCeBsOTXhzHALELmghm) | 2:56 |
 | 62 | [Nascentia Suite: All Up in It \(feat\. Jeremy Pelt & Clark Gayton\)](https://open.spotify.com/track/4HgeqSM6txLTsaneFrfDNU) | [Steve Slagle](https://open.spotify.com/artist/4VzhvQxwHNiqdCnUHZsprs), [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX), [Clark Gayton](https://open.spotify.com/artist/4pNVrj94ZiFangbDh50OlI) | [Nascentia Suite: All up in It \(feat\. Jeremy Pelt & Clark Gayton\)](https://open.spotify.com/album/7N21V8876vqUT8vmlD8SdL) | 8:14 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwNDAwMDAwMTdkNzY0MDg3MTcwMDAwMDE3ZDI1NWUyZjkz`
+Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDgxOGYzZWI1MmIwNjA3MmY2NGZjNzBiYjY3ZWZiNDI1`

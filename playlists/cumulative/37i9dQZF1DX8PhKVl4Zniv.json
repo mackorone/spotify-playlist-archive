@@ -599,6 +599,10 @@
         {
           "name": "The Fearless Flyers",
           "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
       "date_added": "2022-06-01",
@@ -689,6 +693,10 @@
         {
           "name": "The Fearless Flyers",
           "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL"
         }
       ],
       "date_added": "2022-06-01",
@@ -805,6 +813,10 @@
         {
           "name": "The Fearless Flyers",
           "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
       "date_added": "2022-06-01",
@@ -813,6 +825,24 @@
       "duration_ms": 96884,
       "name": "Patrol Acrobatique",
       "url": "https://open.spotify.com/track/37nNjtdPywMHpMZumunVP7"
+    },
+    {
+      "album": {
+        "name": "Empire Central",
+        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296540,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/5Oi47usa5zPxOQNukvKcZ6"
     },
     {
       "album": {
@@ -1102,24 +1132,6 @@
     },
     {
       "album": {
-        "name": "CASIOPEA",
-        "url": "https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb"
-      },
-      "artists": [
-        {
-          "name": "CASIOPEA",
-          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
-        }
-      ],
-      "date_added": "2022-06-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187200,
-      "name": "Time Limit",
-      "url": "https://open.spotify.com/track/0MaM0yE9EdQEJwDfs6EAZ9"
-    },
-    {
-      "album": {
         "name": "Master Plan",
         "url": "https://open.spotify.com/album/4vs7q8r35pyN3z4VIlSh1h"
       },
@@ -1135,6 +1147,28 @@
       "duration_ms": 239600,
       "name": "Tower Of Inspiration",
       "url": "https://open.spotify.com/track/32k2TAk4Ppij5xqCP3Udv2"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "The Origin Band",
+          "url": "https://open.spotify.com/artist/3SraEi0YIuNzqMRMEngmoG"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207101,
+      "name": "True Praise",
+      "url": "https://open.spotify.com/track/7Ct3wjPwP6vIXyeRufcZJz"
     },
     {
       "album": {
@@ -1183,6 +1217,36 @@
       "duration_ms": 353546,
       "name": "Voyager One (feat. Nate Smith & Bobby Sparks II)",
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
+    },
+    {
+      "album": {
+        "name": "Wait A Minute",
+        "url": "https://open.spotify.com/album/0bafe91fdkJPbIG8netbca"
+      },
+      "artists": [
+        {
+          "name": "Sputacular Musik",
+          "url": "https://open.spotify.com/artist/5X6pw8kNCiEnYrbOsEtL3V"
+        },
+        {
+          "name": "Ghost-Note",
+          "url": "https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV"
+        },
+        {
+          "name": "Nathan Myers",
+          "url": "https://open.spotify.com/artist/3SUDpDWciyH7J2YDDrQ56L"
+        },
+        {
+          "name": "Ash Soan",
+          "url": "https://open.spotify.com/artist/1h6ejHdCo3lZxdfBnmYQgD"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323386,
+      "name": "Wait A Minute",
+      "url": "https://open.spotify.com/track/6TqbMfB2VZZV7lYVvZ9Svz"
     },
     {
       "album": {
@@ -1253,6 +1317,24 @@
       "duration_ms": 372222,
       "name": "When the Cat's Away",
       "url": "https://open.spotify.com/track/6zc9aK2riFRA5jf0V7eAHe"
+    },
+    {
+      "album": {
+        "name": "CASIOPEA",
+        "url": "https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb"
+      },
+      "artists": [
+        {
+          "name": "CASIOPEA",
+          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "\u30bf\u30a4\u30e0\u30fb\u30ea\u30df\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/0MaM0yE9EdQEJwDfs6EAZ9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8PhKVl4Zniv"

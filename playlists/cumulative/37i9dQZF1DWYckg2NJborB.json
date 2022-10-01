@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Hail To the Thief",
+        "url": "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199360,
+      "name": "2 + 2 = 5",
+      "url": "https://open.spotify.com/track/4xkcGfpM9RwB4IiQ7yx2dB"
+    },
+    {
+      "album": {
         "name": "Hail to the Thief (Collector's Edition)",
         "url": "https://open.spotify.com/album/5GcgkRjhWDxrOTDk0TJQK8"
       },
@@ -55,10 +73,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 237400,
       "name": "42",
       "url": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
+    },
+    {
+      "album": {
+        "name": "And Don't The Kids Just Love It",
+        "url": "https://open.spotify.com/album/7n0jbzngXElnxdbQz2XibT"
+      },
+      "artists": [
+        {
+          "name": "Television Personalities",
+          "url": "https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131720,
+      "name": "A Picture Of Dorian Gray",
+      "url": "https://open.spotify.com/track/19YGRL40edzQmgxFILjVvB"
     },
     {
       "album": {
@@ -73,10 +109,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133333,
       "name": "A Picture Of Dorian Gray",
       "url": "https://open.spotify.com/track/7cIqQuICcPHoOqm9HD5lfY"
+    },
+    {
+      "album": {
+        "name": "Gimme Back My Bullets",
+        "url": "https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256533,
+      "name": "All I Can Do Is Write About It",
+      "url": "https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc"
     },
     {
       "album": {
@@ -109,10 +163,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 358520,
       "name": "Annabel Lee",
       "url": "https://open.spotify.com/track/4tXWVLyuoifdkM1ZQNwNVM"
+    },
+    {
+      "album": {
+        "name": "Street Spirit (Fade Out)",
+        "url": "https://open.spotify.com/album/23wLaTvnMb3pSb3uxnQE3E"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141680,
+      "name": "Banana Co",
+      "url": "https://open.spotify.com/track/0CiGamY7diH7yvzHsPtHtO"
     },
     {
       "album": {
@@ -127,7 +199,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141680,
       "name": "Banana Co.",
       "url": "https://open.spotify.com/track/0PNFruXOgV5Vsf3OjsiDYW"
@@ -145,7 +217,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240066,
       "name": "Bernice Bobs Her Hair",
       "url": "https://open.spotify.com/track/3gsvu1V2VXGxgHxtmhkjG6"
@@ -181,10 +253,46 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-07-22",
       "duration_ms": 389173,
       "name": "Black Blade",
       "url": "https://open.spotify.com/track/6z3Z0lMHUoyDxyY8UzvFta"
+    },
+    {
+      "album": {
+        "name": "Cultosaurus Erectus",
+        "url": "https://open.spotify.com/album/2w9ox8f1PSz30Ayanrm9C4"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399106,
+      "name": "Black Blade",
+      "url": "https://open.spotify.com/track/4Nyx3c0IPFITNo42yodlrh"
+    },
+    {
+      "album": {
+        "name": "Underachievers Please Try Harder",
+        "url": "https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313666,
+      "name": "Books Written For Girls",
+      "url": "https://open.spotify.com/track/1f9jTXNHEKHANrZoalrIlx"
     },
     {
       "album": {
@@ -199,7 +307,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 313666,
       "name": "Books Written for Girls",
       "url": "https://open.spotify.com/track/2XaSDiVqxy1nvjs4LgNgRq"
@@ -217,7 +325,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-28",
       "duration_ms": 300306,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6B7HkOXoB3c0MoXk7C9i07"
@@ -235,7 +343,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 284008,
       "name": "Calypso - Live",
       "url": "https://open.spotify.com/track/10kv6ITXZNukjUE1GxJu8N"
@@ -253,7 +361,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 283681,
       "name": "Dear Seamus Heaney",
       "url": "https://open.spotify.com/track/28qRYCVGXVsm5UfheQ2DRi"
@@ -271,7 +379,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": "2022-07-26",
       "duration_ms": 215533,
       "name": "Death Of The Author",
       "url": "https://open.spotify.com/track/4mcDWFiTDWIPJmXytF38UQ"
@@ -289,7 +397,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-07-29",
       "duration_ms": 217106,
       "name": "Denouncing November Blue (Uneasy Writer)",
       "url": "https://open.spotify.com/track/2CF9CtzCB2mEALrVH9lgxV"
@@ -307,7 +415,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 213973,
       "name": "Disturbance At The Heron House - Remastered",
       "url": "https://open.spotify.com/track/3kL3FV7NPNfzgVeiG753r6"
@@ -343,7 +451,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191080,
       "name": "Eveline",
       "url": "https://open.spotify.com/track/5rbB234M0EaapxiDqOUyby"
@@ -397,10 +505,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234450,
       "name": "Great American Novel",
       "url": "https://open.spotify.com/track/7cNOOVO42JhWr1RugzdhqA"
+    },
+    {
+      "album": {
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235936,
+      "name": "Great American Novel",
+      "url": "https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF"
     },
     {
       "album": {
@@ -415,7 +541,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-26",
       "duration_ms": 252026,
       "name": "Harold Bloom",
       "url": "https://open.spotify.com/track/0qQ2EKimGM7DHgrPEMCjK0"
@@ -433,10 +559,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 211626,
       "name": "Harper Lee",
       "url": "https://open.spotify.com/track/4MfmlkRKhlREunOHnasUhm"
+    },
+    {
+      "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf"
+      },
+      "artists": [
+        {
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211626,
+      "name": "Harper Lee",
+      "url": "https://open.spotify.com/track/5KWesyeHlejVprGxufFxtq"
     },
     {
       "album": {
@@ -451,7 +595,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 112386,
       "name": "Hate the Villanelle",
       "url": "https://open.spotify.com/track/3fPSVnmmq2nOWM4VOmiKww"
@@ -469,10 +613,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": "2022-07-26",
       "duration_ms": 320240,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/0as2FkOPwyZJnCqlDeUlmQ"
+    },
+    {
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/3Qn2GfbzCa3b0NZoaJotEA"
+      },
+      "artists": [
+        {
+          "name": "Poe",
+          "url": "https://open.spotify.com/artist/2Kl8iFAUJmtmyP1Sab1paD"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320240,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS"
     },
     {
       "album": {
@@ -505,7 +667,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255756,
       "name": "I'm Writing A Novel - Spotify Sessions Curated by Jim Eno",
       "url": "https://open.spotify.com/track/1QIOQ3XARduygQqRIif0f7"
@@ -541,7 +703,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 222773,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX"
@@ -559,7 +721,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263801,
       "name": "Jack Kerouac",
       "url": "https://open.spotify.com/track/5PNtTv39XP3MZsUwxzSv4S"
@@ -577,7 +739,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 169293,
       "name": "Jocasta",
       "url": "https://open.spotify.com/track/5R3JnfxKQYSH4Njj9ZtXqq"
@@ -653,7 +815,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-25",
       "duration_ms": 174453,
       "name": "Love and Destroy - Live",
       "url": "https://open.spotify.com/track/3ml0GdsJ9DvDESGbzXoAO3"
@@ -689,7 +851,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 346386,
       "name": "Milton At Midnight",
       "url": "https://open.spotify.com/track/40fH8V7f8zQht6dz2wYuLC"
@@ -707,7 +869,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 319293,
       "name": "Mr. Writer",
       "url": "https://open.spotify.com/track/1D6dE2mMlGz3WN1gjKQ76E"
@@ -725,10 +887,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222293,
       "name": "My Antonia",
       "url": "https://open.spotify.com/track/6yCwfs5qUdG8ySrLl2lgOh"
+    },
+    {
+      "album": {
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130586,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/0LkAjjrokJbccAfz5yftS1"
     },
     {
       "album": {
@@ -743,7 +923,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-28",
       "duration_ms": 130586,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/36IjkjX9jve0xUzzdI1Bvj"
@@ -761,10 +941,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231173,
       "name": "New Slang",
       "url": "https://open.spotify.com/track/5IXopLipnMznYNwLB9MzYi"
+    },
+    {
+      "album": {
+        "name": "Oh, Inverted World (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "New Slang - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
     },
     {
       "album": {
@@ -779,7 +977,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275080,
       "name": "No Poem",
       "url": "https://open.spotify.com/track/3FYKFB7FHN63hD3idN9kiO"
@@ -797,7 +995,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196226,
       "name": "Oh, Mr. Darcy",
       "url": "https://open.spotify.com/track/5TJRMmxQW1WbLh5ZUMfYe0"
@@ -822,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "Break It Yourself",
+        "url": "https://open.spotify.com/album/4t062fa39U8W9MBz1sdJjQ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 293860,
+      "name": "Orpheo Looks Back",
+      "url": "https://open.spotify.com/track/4JAMwBOzLF61hZVndX0oGQ"
+    },
+    {
+      "album": {
         "name": "Break It Yourself / Hands of Glory (Deluxe)",
         "url": "https://open.spotify.com/album/1TkDZ3ebL9ilggycoLazyl"
       },
@@ -833,10 +1049,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295413,
       "name": "Orpheo Looks Back",
       "url": "https://open.spotify.com/track/33NsXvwapmDA93cHM73G6L"
+    },
+    {
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195733,
+      "name": "Oxford Comma",
+      "url": "https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H"
     },
     {
       "album": {
@@ -851,7 +1085,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195733,
       "name": "Oxford Comma",
       "url": "https://open.spotify.com/track/2Ml0l8YWJLQhPrRDLpQaDM"
@@ -869,7 +1103,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-28",
       "duration_ms": 208828,
       "name": "Paperback Writer - Live At Citi Field, NYC, 2009",
       "url": "https://open.spotify.com/track/66JNz0BxRKrno33Jha7i7R"
@@ -894,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "Com Lag: 2+2=5",
+        "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238280,
+      "name": "Paperbag Writer",
+      "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
+    },
+    {
+      "album": {
         "name": "Sonic Nurse",
         "url": "https://open.spotify.com/album/360WG1hup7svzIcIqWQ4CE"
       },
@@ -905,10 +1157,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 392506,
       "name": "Pattern Recognition",
       "url": "https://open.spotify.com/track/5UaqCqloqMJN0tmHlnMpMy"
+    },
+    {
+      "album": {
+        "name": "Winter Wheat",
+        "url": "https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia"
+      },
+      "artists": [
+        {
+          "name": "John K. Samson",
+          "url": "https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203091,
+      "name": "Postdoc Blues",
+      "url": "https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT"
     },
     {
       "album": {
@@ -923,7 +1193,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 203091,
       "name": "Postdoc Blues",
       "url": "https://open.spotify.com/track/7EwsFukgOtMzcXjL6BZVJD"
@@ -959,7 +1229,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229226,
       "name": "Read, Eat, Sleep",
       "url": "https://open.spotify.com/track/1EUUhXljq9QUJONkKkYGlT"
@@ -977,10 +1247,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168960,
       "name": "Reading in Bed",
       "url": "https://open.spotify.com/track/2CX1ouDBKRTvkm8gNcT9IA"
+    },
+    {
+      "album": {
+        "name": "Knives Don't Have Your Back",
+        "url": "https://open.spotify.com/album/3ugZjO9GDXiiq4LRDDzcv8"
+      },
+      "artists": [
+        {
+          "name": "Emily Haines & The Soft Skeleton",
+          "url": "https://open.spotify.com/artist/1b2U0VT1Z4ACqOihBL1fgw"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Reading In Bed",
+      "url": "https://open.spotify.com/track/4H73CNDBQpE9gp3YTFfC7y"
     },
     {
       "album": {
@@ -995,10 +1283,46 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-26",
       "duration_ms": 240640,
       "name": "Rejoyce",
       "url": "https://open.spotify.com/track/2XClue0OiR8tBFuObNCvZ0"
+    },
+    {
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346693,
+      "name": "Resistance",
+      "url": "https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175666,
+      "name": "Richard Cory",
+      "url": "https://open.spotify.com/track/669jVNlVxPmrb2kN8YFq1u"
     },
     {
       "album": {
@@ -1049,7 +1373,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 242000,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/6BxZ0Pio6d1OOaFATHVj7J"
@@ -1110,6 +1434,24 @@
     },
     {
       "album": {
+        "name": "Opheliac (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7FDaA4N8rvotYVci2updNR"
+      },
+      "artists": [
+        {
+          "name": "Emilie Autumn",
+          "url": "https://open.spotify.com/artist/1K6L6Hw4HibspToNP1FeBC"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244373,
+      "name": "Shalott",
+      "url": "https://open.spotify.com/track/1mCm0Tb2pLTlJ26SxqrAFY"
+    },
+    {
+      "album": {
         "name": "Opheliac - The Deluxe Edition",
         "url": "https://open.spotify.com/album/2xjmTbsluAW5Y2WHqVwgqA"
       },
@@ -1121,7 +1463,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 244373,
       "name": "Shalott",
       "url": "https://open.spotify.com/track/3zqqk1rqSOX5P30blEoShn"
@@ -1139,7 +1481,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169706,
       "name": "Sirens of Titan",
       "url": "https://open.spotify.com/track/395ZYCrLELWM3MtMzGskaF"
@@ -1193,10 +1535,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188758,
       "name": "Sweet Ophelia",
       "url": "https://open.spotify.com/track/3hMVNsHKnApzCa6Lw6vlVj"
+    },
+    {
+      "album": {
+        "name": "Kicker",
+        "url": "https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189026,
+      "name": "Sweet Ophelia",
+      "url": "https://open.spotify.com/track/1jPZgfC9tWFNf7iBGdrTPV"
     },
     {
       "album": {
@@ -1211,7 +1571,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250106,
       "name": "Sylvia Plath",
       "url": "https://open.spotify.com/track/0Vof9g11F4cbctYIR5UXTk"
@@ -1237,7 +1597,7 @@
     {
       "album": {
         "name": "69 Love Songs",
-        "url": "https://open.spotify.com/album/2js3lkzAjWpD656NK7ZaJX"
+        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
       },
       "artists": [
         {
@@ -1248,6 +1608,24 @@
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 162413,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
+    },
+    {
+      "album": {
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/2js3lkzAjWpD656NK7ZaJX"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 162413,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/6UGpcXcENaUqQKPc6oqOe4"
@@ -1265,7 +1643,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 299386,
       "name": "The Fisher King Blues",
       "url": "https://open.spotify.com/track/1zQY0eYND0ZPSFxw3gGupB"
@@ -1283,10 +1661,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-27",
       "duration_ms": 244312,
       "name": "The Joy of D.H. Lawrence",
       "url": "https://open.spotify.com/track/32NuTwiZpdX9ZrC7TNvn3w"
+    },
+    {
+      "album": {
+        "name": "Kning Disk 2005-2012 Box Set",
+        "url": "https://open.spotify.com/album/7n0Ml88mIWDPvEBjDVlq8r"
+      },
+      "artists": [
+        {
+          "name": "Erik Enocksson",
+          "url": "https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244312,
+      "name": "The Joy of D.H. Lawrence",
+      "url": "https://open.spotify.com/track/77KyNPhCUXjkBaj5yQ9GY9"
     },
     {
       "album": {
@@ -1301,7 +1697,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269000,
       "name": "The Pearl",
       "url": "https://open.spotify.com/track/1zBCwvQhBJ8apOFRnR9xss"
@@ -1337,10 +1733,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236000,
       "name": "The Sensual World",
       "url": "https://open.spotify.com/track/6xOyeiTQ0tWaYo2wG1XtZc"
+    },
+    {
+      "album": {
+        "name": "The Sensual World (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237093,
+      "name": "The Sensual World - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6eVxdX2tQkNmHg7PP1sRbw"
     },
     {
       "album": {
@@ -1355,10 +1769,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-09-19",
       "duration_ms": 448013,
       "name": "The Tea Song",
       "url": "https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv"
+    },
+    {
+      "album": {
+        "name": "The End of History",
+        "url": "https://open.spotify.com/album/3lFILJkKAjwlUdSz4wwW4b"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "The Underwood Typewriter",
+      "url": "https://open.spotify.com/track/2pzlZI4C3f1MSMg047bPI6"
     },
     {
       "album": {
@@ -1373,10 +1805,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 181106,
       "name": "The Underwood Typewriter",
       "url": "https://open.spotify.com/track/4ccugwlZ3EWVmPgfsYjCSk"
+    },
+    {
+      "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257600,
+      "name": "The Wild Boys",
+      "url": "https://open.spotify.com/track/5qeLeyIWCPe1FpdJLQTUDW"
     },
     {
       "album": {
@@ -1391,10 +1841,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 251040,
       "name": "The Writer",
       "url": "https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0"
+    },
+    {
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276880,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
       "album": {
@@ -1409,10 +1877,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189106,
       "name": "Tonight I Feel Like Kafka",
       "url": "https://open.spotify.com/track/0un6V0wfo3eTYOfYeMF8cC"
+    },
+    {
+      "album": {
+        "name": "Transatlanticism (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475093,
+      "name": "Transatlanticism",
+      "url": "https://open.spotify.com/track/0DoACS30GwIY6qaFjCMMUz"
     },
     {
       "album": {
@@ -1427,7 +1913,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 475093,
       "name": "Transatlanticism",
       "url": "https://open.spotify.com/track/3PJikMV2xGNCooQttQrAw5"
@@ -1452,6 +1938,24 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193573,
+      "name": "Ulysses",
+      "url": "https://open.spotify.com/track/5sCjd47MEpd7vkvhYukANl"
+    },
+    {
+      "album": {
         "name": "Stars and Satellites",
         "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
       },
@@ -1463,7 +1967,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 158680,
       "name": "Walt Whitman",
       "url": "https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL"
@@ -1485,7 +1989,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": "2022-07-22",
       "duration_ms": 233600,
       "name": "Walt Whitman's Niece",
       "url": "https://open.spotify.com/track/5H3wCJbN88o19K3inKBaMZ"
@@ -1503,7 +2007,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-26",
       "duration_ms": 214626,
       "name": "When I Write My Master's Thesis",
       "url": "https://open.spotify.com/track/0liT69dkJVAZxG3O2Lpkik"
@@ -1521,10 +2025,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253106,
       "name": "White Blank Page",
       "url": "https://open.spotify.com/track/5icXpqn5f2lukunvG7uA70"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254160,
+      "name": "White Blank Page",
+      "url": "https://open.spotify.com/track/06YV4yr9sdJqSNj4HjZk2s"
     },
     {
       "album": {
@@ -1547,7 +2069,7 @@
     {
       "album": {
         "name": "Dear Catastrophe Waitress",
-        "url": "https://open.spotify.com/album/6svpGFHgqsoOGUWrE9e8QF"
+        "url": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
       },
       "artists": [
         {
@@ -1558,6 +2080,24 @@
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214373,
+      "name": "Wrapped Up In Books",
+      "url": "https://open.spotify.com/track/14TIka80BMTELhMHk1sIdH"
+    },
+    {
+      "album": {
+        "name": "Dear Catastrophe Waitress",
+        "url": "https://open.spotify.com/album/6svpGFHgqsoOGUWrE9e8QF"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 214373,
       "name": "Wrapped Up in Books",
       "url": "https://open.spotify.com/track/4SFyltDc851kN4OrzANLmy"

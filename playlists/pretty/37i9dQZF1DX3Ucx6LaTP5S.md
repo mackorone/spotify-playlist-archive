@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 
 > It's a good day to be a My Day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,239 likes - 68 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,042 likes - 68 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 | 41 | [Congratulations](https://open.spotify.com/track/5dhZMPumW81ipov9bpz6nu) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2GQCh43InxGIbT0h2GnXWs) | 3:49 |
 | 42 | [아픈 길 hurt road](https://open.spotify.com/track/3GqdYA40CzErF1Um7ZzK5P) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Remember Us : Youth Part 2](https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9) | 4:09 |
 | 43 | [Beautiful Feeling](https://open.spotify.com/track/5Sl8fL5jXQiH0uwgyTIX0B) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Remember Us : Youth Part 2](https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9) | 3:28 |
-| 44 | [Chocolate](https://open.spotify.com/track/0vt3kA21CNUpJq5RT24z9W) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Want More 19 Part.1](https://open.spotify.com/album/1DDc6qbKF8Utom7maoljP5) | 3:16 |
+| 44 | [Chocolate](https://open.spotify.com/track/2rbfCOgXMPoBLBrK2wLX5K) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [하지 말라면 더 하고 19 Part.1](https://open.spotify.com/album/4cxgsDqjK7r3JB0DIgJWaj) | 3:16 |
 | 45 | [How Can I Say](https://open.spotify.com/track/3lUTXq1JLSDQX4qBRHMBdU) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:21 |
 | 46 | [DANCE DANCE](https://open.spotify.com/track/30LuvfdiCtpw7Tki3PmkBb) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:43 |
 | 47 | [어쩌다 보니 Somehow](https://open.spotify.com/track/0uLgxIVjt4CaUyvM3jcmQJ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 3:22 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 | 67 | [WARNING!](https://open.spotify.com/track/6P3opmvaRieLo5vLKRPbjy) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 3:25 |
 | 68 | [OUCH](https://open.spotify.com/track/3YftGIMRfazVINtT3mcM3k) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:17 |
 
-Snapshot ID: `MTY0NDIyNzQwMywwMDAwMDAwYjAwMDAwMTdlZDM5NzFlZDcwMDAwMDE3OGU5NjVmNzgx`
+Snapshot ID: `MTY0NDIyNzQwMywwMDAwMDAwMDMzYTUxYjc3ODhlMTk3NTMyYWY5ZDhlOGE4NGMwNTYz`

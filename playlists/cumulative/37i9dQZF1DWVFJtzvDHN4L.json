@@ -9,6 +9,24 @@
     {
       "album": {
         "name": "The Theory of Everything (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165572,
+      "name": "A Game of Croquet",
+      "url": "https://open.spotify.com/track/21lsdnxagzViwbRqNY0tCK"
+    },
+    {
+      "album": {
+        "name": "The Theory of Everything (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2R2FZbfCSFBb1piR159xN0"
       },
       "artists": [
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165572,
       "name": "A Game of Croquet",
       "url": "https://open.spotify.com/track/2TGTivEqpW9RUkfukL7vvA"
@@ -225,10 +243,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 117673,
       "name": "Extremely Loud and Incredibly Close",
       "url": "https://open.spotify.com/track/3eoeShZGzmkzqnIpHZfHPn"
+    },
+    {
+      "album": {
+        "name": "Extremely Loud and Incredibly Close (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4WAWnX8Ryd0CfqnYnV6wzB"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117673,
+      "name": "Extremely Loud and Incredibly Close",
+      "url": "https://open.spotify.com/track/4FnK3GEuekjYXavXPIGlmQ"
     },
     {
       "album": {
@@ -239,6 +279,10 @@
         {
           "name": "Jesper Kyd",
           "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
         }
       ],
       "date_added": "2021-11-19",
@@ -247,6 +291,32 @@
       "duration_ms": 237900,
       "name": "Ezio's Family",
       "url": "https://open.spotify.com/track/05UMQXFCsa9oPnLgfJHVyF"
+    },
+    {
+      "album": {
+        "name": "Ammonite (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2BKrDhnU8yzYnNYbWoOHg0"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        },
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        },
+        {
+          "name": "Dustin O'Halloran & Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/6BHwRzCgENU0kmJt6yGy4x"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340138,
+      "name": "Fossils (From the \"Ammonite\" Soundtrack)",
+      "url": "https://open.spotify.com/track/2ZtQgrIztmjQwyewLyvDmm"
     },
     {
       "album": {
@@ -269,7 +339,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 340138,
       "name": "Fossils (From the \"Ammonite\" Soundtrack)",
       "url": "https://open.spotify.com/track/4zssgPwXowdwLZaJujelvV"
@@ -295,6 +365,24 @@
     {
       "album": {
         "name": "Harry Potter and the Deathly Hallows, Pt. 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6s9twOs9wMKOEluU5dkBE0"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103853,
+      "name": "Harry and Ginny",
+      "url": "https://open.spotify.com/track/25XuCuq4K715NKLOohw7ZM"
+    },
+    {
+      "album": {
+        "name": "Harry Potter and the Deathly Hallows, Pt. 1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5gI4aiUCMxTkrjEeXDbybG"
       },
       "artists": [
@@ -305,7 +393,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 103853,
       "name": "Harry and Ginny",
       "url": "https://open.spotify.com/track/2iX2KVy2X2QEhTqx4ebOeO"
@@ -503,10 +591,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157506,
       "name": "My Dear Anne",
       "url": "https://open.spotify.com/track/1eHYVUE0AAjGzTySOPMHQc"
+    },
+    {
+      "album": {
+        "name": "Three Billboards Outside Ebbing, Missouri (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/54be1eA06eNnJeGtwOAlF8"
+      },
+      "artists": [
+        {
+          "name": "Carter Burwell",
+          "url": "https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157506,
+      "name": "My Dear Anne",
+      "url": "https://open.spotify.com/track/3MC1tMZPpGOjHyVkI1kXq9"
     },
     {
       "album": {
@@ -521,10 +627,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 76133,
       "name": "Nemo Egg (Main Title)",
       "url": "https://open.spotify.com/track/0VEf913GDXMlb196o6VOCV"
+    },
+    {
+      "album": {
+        "name": "Finding Nemo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76133,
+      "name": "Nemo Egg (Main Title)",
+      "url": "https://open.spotify.com/track/7jSQaXLzpLHjSQTev2krvT"
     },
     {
       "album": {
@@ -557,10 +681,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 121000,
       "name": "No Ball Games (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/4HUsC4vT6Aqeql8FKLfnbJ"
+    },
+    {
+      "album": {
+        "name": "No Ball Games (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mAh7l6iuv2vGhJXeCQJFn"
+      },
+      "artists": [
+        {
+          "name": "Patrick Jonsson",
+          "url": "https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "No Ball Games (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/7ffWqewr8cBD1t7f87sAU3"
     },
     {
       "album": {
@@ -601,6 +743,24 @@
       "duration_ms": 299100,
       "name": "Peaceful Here Now",
       "url": "https://open.spotify.com/track/6Xso6xtnjOUD4SrdvF911i"
+    },
+    {
+      "album": {
+        "name": "Nope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0YD6YdZrQtTDjOFc9g3x8z"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160533,
+      "name": "Preparing The Trap",
+      "url": "https://open.spotify.com/track/729porTW6i1cZ53nrNJmpN"
     },
     {
       "album": {
@@ -730,6 +890,24 @@
     },
     {
       "album": {
+        "name": "The Leftovers: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/5GwkoBYQ4trQO34CZ6RQkg"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229403,
+      "name": "She Remembers",
+      "url": "https://open.spotify.com/track/3JggEa7I7tBPQhiOfexL6U"
+    },
+    {
+      "album": {
         "name": "The Leftovers (Music from the HBO\u00ae Series) Season 1",
         "url": "https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994"
       },
@@ -741,7 +919,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229403,
       "name": "She Remembers",
       "url": "https://open.spotify.com/track/4zj2TfCmxKJ92IwtNWOAaM"
@@ -799,10 +977,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232186,
       "name": "Thank You for Being My Friend",
       "url": "https://open.spotify.com/track/1exYML70PCk5Exyky12SnY"
+    },
+    {
+      "album": {
+        "name": "Doctor Who Series 12 - Revolution Of The Daleks (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4Fm0bCiGx5j5E7tntHv2J7"
+      },
+      "artists": [
+        {
+          "name": "Segun Akinola",
+          "url": "https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232186,
+      "name": "Thank You For Being My Friend",
+      "url": "https://open.spotify.com/track/23VgfPIZCZr9hhg0Z3l59o"
     },
     {
       "album": {
@@ -915,6 +1111,24 @@
     {
       "album": {
         "name": "Victoria & Abdul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3vOVohJVa82DGdzk3uVW8g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73572,
+      "name": "The Only Way is Down",
+      "url": "https://open.spotify.com/track/2NRClj4jFGy35kmAooFcTN"
+    },
+    {
+      "album": {
+        "name": "Victoria & Abdul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1uw4UD12sYODj80ppjpP8G"
       },
       "artists": [
@@ -925,7 +1139,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 73573,
       "name": "The Only Way Is Down",
       "url": "https://open.spotify.com/track/4vHg75DPSyMvXGfcF2RTNF"
@@ -951,6 +1165,24 @@
     {
       "album": {
         "name": "The Wife (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1avMQMR99mpGD37BK9p6OT"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn Pook",
+          "url": "https://open.spotify.com/artist/0gDsjq3Se2YgMBdiJ88j06"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238506,
+      "name": "The Wife",
+      "url": "https://open.spotify.com/track/57WYNt9Vm74UZij6QFj3j5"
+    },
+    {
+      "album": {
+        "name": "The Wife (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0RrX75zsLkwGfGsdDLGxtS"
       },
       "artists": [
@@ -961,7 +1193,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238506,
       "name": "The Wife",
       "url": "https://open.spotify.com/track/7fXEEvo3qSmMO7luYT5amw"
@@ -1030,6 +1262,24 @@
     },
     {
       "album": {
+        "name": "Puzzle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6TDQmJ2G8UoCyyKFsWKsq7"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169146,
+      "name": "Train in New York",
+      "url": "https://open.spotify.com/track/122EWbjLx9gYysvIscsZRe"
+    },
+    {
+      "album": {
         "name": "Train in New York",
         "url": "https://open.spotify.com/album/6zHTKFjUMy2OxCNmBqba2b"
       },
@@ -1041,7 +1291,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169146,
       "name": "Train in New York",
       "url": "https://open.spotify.com/track/6rwEYwsNCxW7CI2wrtRO06"

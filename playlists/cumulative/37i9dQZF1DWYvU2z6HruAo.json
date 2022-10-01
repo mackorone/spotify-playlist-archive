@@ -698,6 +698,28 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "Just the Way",
+      "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
+    },
+    {
+      "album": {
         "name": "Just the Way",
         "url": "https://open.spotify.com/album/3BwXeSOrCEZNWEPqxxh7yE"
       },
@@ -713,7 +735,7 @@
       ],
       "date_added": "2020-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193880,
       "name": "Just the Way",
       "url": "https://open.spotify.com/track/5PAvFGse5jjDH9ke8Mae7D"
@@ -756,6 +778,24 @@
     },
     {
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/49DERKtzOTKNT7T0O4l6m4"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176728,
+      "name": "Lonely If You Are",
+      "url": "https://open.spotify.com/track/1iyE0UwRtLUBf9OqLfFGSp"
+    },
+    {
+      "album": {
         "name": "The Album, Pt. I",
         "url": "https://open.spotify.com/album/4pQzhbwWk71i4OYLyqVSOo"
       },
@@ -767,7 +807,7 @@
       ],
       "date_added": "2020-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176728,
       "name": "Lonely If You Are",
       "url": "https://open.spotify.com/track/5TI10v8sy9VPp5YhVRVK1f"

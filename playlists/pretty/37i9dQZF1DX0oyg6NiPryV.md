@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oyg6NiPryV.md) - [plain]
 
 > Enjoy M.Net's dance battle show Street Woman Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿 우먼 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,428 likes - 23 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,253 likes - 23 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oyg6NiPryV.md) - [plain]
 | 22 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 |
 | 23 | [Better](https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:19 |
 
-Snapshot ID: `MTYzNzc0MTEzNywwMDAwMDAwMjAwMDAwMTdkNTBmYThmYjIwMDAwMDE3ZDE0MGJjMjQ5`
+Snapshot ID: `MTYzNzc0MTEzNywwMDAwMDAwMGE2NTk1MzM2ZGE5MDUxYTBhOGYxYWUxNmFmZjFmN2Yz`

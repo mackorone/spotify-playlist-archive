@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Viva Rosario",
+        "url": "https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB"
+      },
+      "artists": [
+        {
+          "name": "Willie Rosario",
+          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
+        }
+      ],
+      "date_added": "2019-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301010,
+      "name": "Anuncio Clasificado / D\u00e1melo",
+      "url": "https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u"
+    },
+    {
+      "album": {
         "name": "Viva Rosario!",
         "url": "https://open.spotify.com/album/2mQQtrwymV5FWe4J3krkds"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2019-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 300016,
       "name": "Anuncio Clasificado D\u00e1melo",
       "url": "https://open.spotify.com/track/0l8cFIENiNtgPThxSdyMiP"
@@ -181,10 +199,28 @@
       ],
       "date_added": "2019-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 317573,
       "name": "Caradura",
       "url": "https://open.spotify.com/track/1ngWLwko1GnliVV9kHj4CC"
+    },
+    {
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "date_added": "2019-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317586,
+      "name": "Caradura",
+      "url": "https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ"
     },
     {
       "album": {
@@ -296,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Llego La Salsa",
+        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "date_added": "2019-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
+    },
+    {
+      "album": {
         "name": "La Formula Original",
         "url": "https://open.spotify.com/album/2e7NbcGhCxwRthob6t21Zf"
       },
@@ -307,7 +361,7 @@
       ],
       "date_added": "2019-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 278909,
       "name": "Detalles",
       "url": "https://open.spotify.com/track/4SFp4XMwAOCpUK9Vs4UmiH"
@@ -383,10 +437,28 @@
       ],
       "date_added": "2019-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 351813,
       "name": "Esa Mujer",
       "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
+    },
+    {
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "date_added": "2019-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351813,
+      "name": "Esa Mujer - En Vivo",
+      "url": "https://open.spotify.com/track/5gnYYnQTU1GsYlSTQw9Lvm"
     },
     {
       "album": {
@@ -401,10 +473,28 @@
       ],
       "date_added": "2019-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 309386,
       "name": "Fantasia Herida",
       "url": "https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2"
+    },
+    {
+      "album": {
+        "name": "Salseando Con... Volume 2",
+        "url": "https://open.spotify.com/album/6c8atZjCJsPUNK7jVqsg85"
+      },
+      "artists": [
+        {
+          "name": "Salseando",
+          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
+        }
+      ],
+      "date_added": "2019-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309386,
+      "name": "Fantas\u00eda Herida",
+      "url": "https://open.spotify.com/track/7gXoJlCvkADgCISM3XFIu1"
     },
     {
       "album": {
@@ -473,10 +563,28 @@
       ],
       "date_added": "2019-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164440,
       "name": "Lobo Domesticado",
       "url": "https://open.spotify.com/track/3t7100p4lNnfq82ScOE3v3"
+    },
+    {
+      "album": {
+        "name": "20 \u00c9xitos Con Orquesta/Grupo",
+        "url": "https://open.spotify.com/album/28imweMDfB3oyByj6MySDQ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2019-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164440,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/7g4RwwhSrmX9iuNFE8wk2G"
     },
     {
       "album": {
@@ -552,6 +660,28 @@
     },
     {
       "album": {
+        "name": "Doble Energ\u00eda",
+        "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2019-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412106,
+      "name": "No Me Digan Que Es Muy Tarde",
+      "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
+    },
+    {
+      "album": {
         "name": "Doble Energia",
         "url": "https://open.spotify.com/album/4wymvQk503zjH5BmANgCKO"
       },
@@ -563,7 +693,7 @@
       ],
       "date_added": "2019-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 412106,
       "name": "No Me Digan Que Es Muy Tarde",
       "url": "https://open.spotify.com/track/6nU1XxKL8SfwDARIwkPRh1"
@@ -657,10 +787,46 @@
       ],
       "date_added": "2019-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 317066,
       "name": "Si Me Dejas Amarte",
       "url": "https://open.spotify.com/track/0UoTsS0knLmMyjz06QLtao"
+    },
+    {
+      "album": {
+        "name": "Aqui Estoy Yo",
+        "url": "https://open.spotify.com/album/0fPICPWeindghNQxlegLQB"
+      },
+      "artists": [
+        {
+          "name": "Roberto Lugo",
+          "url": "https://open.spotify.com/artist/07ORe1OIPJ0bjk4Fs9nQEK"
+        }
+      ],
+      "date_added": "2019-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322360,
+      "name": "Si Me Dejas Amarte",
+      "url": "https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8"
+    },
+    {
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "date_added": "2019-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326478,
+      "name": "Si Me Ves Llorar",
+      "url": "https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq"
     },
     {
       "album": {
@@ -675,7 +841,7 @@
       ],
       "date_added": "2019-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 328760,
       "name": "Si Me Ves Llorar",
       "url": "https://open.spotify.com/track/0vMywJjFDTF7fhUxTBD3a3"
@@ -830,6 +996,24 @@
     },
     {
       "album": {
+        "name": "Serie Sensacional: Marvin Santiago",
+        "url": "https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN"
+      },
+      "artists": [
+        {
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
+        }
+      ],
+      "date_added": "2019-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331333,
+      "name": "Vasos De Colores",
+      "url": "https://open.spotify.com/track/4Bg55jW2gCF4YOLYVErCOT"
+    },
+    {
+      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/0l7HcYYf1mSHxuhmlG2Kgc"
       },
@@ -841,7 +1025,7 @@
       ],
       "date_added": "2019-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 331346,
       "name": "Vasos De Colores",
       "url": "https://open.spotify.com/track/0vnVtuq2CsUkH8aa3101y7"
@@ -895,10 +1079,28 @@
       ],
       "date_added": "2019-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229600,
       "name": "Y Nos Amamos",
       "url": "https://open.spotify.com/track/0vAA0c6zf8pCWgmIj4Oggx"
+    },
+    {
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "date_added": "2019-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229746,
+      "name": "Y Nos Amamos",
+      "url": "https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo"
     },
     {
       "album": {

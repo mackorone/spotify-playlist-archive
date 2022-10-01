@@ -155,10 +155,28 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 291009,
       "name": "Beautiful Love",
       "url": "https://open.spotify.com/track/5Mp5XAiliIamV9G7lMJTg9"
+    },
+    {
+      "album": {
+        "name": "Naa Peru Surya Naa Illu India",
+        "url": "https://open.spotify.com/album/3S0ezMfLB53pIEfYwAdG9R"
+      },
+      "artists": [
+        {
+          "name": "Arman Malik, Chaitra Ambadipudi",
+          "url": "https://open.spotify.com/artist/5jAWO3OlEEL0NzxnLimfa9"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291009,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/33duhiod75ZNi3CtpYSI0f"
     },
     {
       "album": {
@@ -167,12 +185,8 @@
       },
       "artists": [
         {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Deepthi Parthasarathy",
-          "url": "https://open.spotify.com/artist/02p0Emo53CEFEVufEQtAUy"
+          "name": "Nakash Aziz, Deepthi Parthasarathy",
+          "url": "https://open.spotify.com/artist/1exG7F0y3D2Jtxd7UfUqlJ"
         }
       ],
       "date_added": "2021-10-21",
@@ -454,8 +468,8 @@
     },
     {
       "album": {
-        "name": "Maate Vinadhuga (From \"Taxiwaala\")",
-        "url": "https://open.spotify.com/album/1ZpNDIqJmmtcA7o894qYnZ"
+        "name": "Taxiwaala",
+        "url": "https://open.spotify.com/album/287bcBsBqqod9rNEsITpJN"
       },
       "artists": [
         {
@@ -467,8 +481,44 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 296220,
+      "name": "Maate Vinadhuga",
+      "url": "https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa"
+    },
+    {
+      "album": {
+        "name": "Maate Vinadhuga (From \"Taxiwaala\")",
+        "url": "https://open.spotify.com/album/1ZpNDIqJmmtcA7o894qYnZ"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 296220,
       "name": "Maate Vinadhuga - From \"Taxiwaala\"",
       "url": "https://open.spotify.com/track/3edo3q894PZFxsbDqqsm6r"
+    },
+    {
+      "album": {
+        "name": "Mahanati",
+        "url": "https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284146,
+      "name": "Mahanati",
+      "url": "https://open.spotify.com/track/1rid0wlGGXbRndkcRvH0LZ"
     },
     {
       "album": {
@@ -483,7 +533,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 284146,
       "name": "Mahanati",
       "url": "https://open.spotify.com/track/7H9cesJp8V0d871PFQfxnH"
@@ -559,10 +609,46 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221639,
       "name": "My World Is Flying",
       "url": "https://open.spotify.com/track/3yUvpMi4AsJCneE9YqFG1L"
+    },
+    {
+      "album": {
+        "name": "Hello Guru Prema Kosame",
+        "url": "https://open.spotify.com/album/4EQmej6fefEVp49gEDHFW6"
+      },
+      "artists": [
+        {
+          "name": "Alphons Joseph",
+          "url": "https://open.spotify.com/artist/7r6kmDCXWnmTa2Uu1F37qm"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221639,
+      "name": "My World Is Flying",
+      "url": "https://open.spotify.com/track/6kSuag0fk9FYsw7VVatqRN"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/50p6b5wYdaOhymzFOnju1f"
+      },
+      "artists": [
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218630,
+      "name": "Naalo Chilipi Kala (Theme Song)",
+      "url": "https://open.spotify.com/track/79l2r6sNwz2p2kCjK5eB8y"
     },
     {
       "album": {
@@ -577,7 +663,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221647,
       "name": "Naalo Chilipi Kala (Theme Song)",
       "url": "https://open.spotify.com/track/0v9u1rAlMAoFHFz6oCJ57U"
@@ -653,10 +739,32 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234883,
       "name": "Ninnila",
       "url": "https://open.spotify.com/track/5a7RaYvPiV2ThtSqpS2m4x"
+    },
+    {
+      "album": {
+        "name": "Tholi Prema",
+        "url": "https://open.spotify.com/album/2wRphkgnlcGKkJIjZpxNvb"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234883,
+      "name": "Ninnila",
+      "url": "https://open.spotify.com/track/2DDOQBKGmkv7bPoYF1bELz"
     },
     {
       "album": {
@@ -788,6 +896,42 @@
     },
     {
       "album": {
+        "name": "Rx 100 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4f0CxIPK16Hx5WWvWJMhXl"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235299,
+      "name": "Pillaa Raa",
+      "url": "https://open.spotify.com/track/6vhvtHO8e57meVNp8yKzdV"
+    },
+    {
+      "album": {
+        "name": "Top Singer'S Playlist",
+        "url": "https://open.spotify.com/album/10pn3qTksy0ii0qXogOm0s"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 237568,
+      "name": "Pillaa Raa",
+      "url": "https://open.spotify.com/track/3MXTLAouHSztOxoOSOnbb9"
+    },
+    {
+      "album": {
         "name": "RX 100 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3vzddHOuT5R28vKakxD0qJ"
       },
@@ -799,7 +943,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237580,
       "name": "Pillaa Raa",
       "url": "https://open.spotify.com/track/47hP2BJPCOMyYKT5WQ9evZ"
@@ -893,10 +1037,46 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194038,
       "name": "Reppalaninda",
       "url": "https://open.spotify.com/track/0wS0P4poLYspU4YpCA09Gx"
+    },
+    {
+      "album": {
+        "name": "Rx 100 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4f0CxIPK16Hx5WWvWJMhXl"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191808,
+      "name": "Reppalanindaa",
+      "url": "https://open.spotify.com/track/5fpsar83s2GDIZQBxbN3YT"
+    },
+    {
+      "album": {
+        "name": "Mahanati",
+        "url": "https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1"
+      },
+      "artists": [
+        {
+          "name": "Charulatha Mani",
+          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197589,
+      "name": "Sada Nannu",
+      "url": "https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v"
     },
     {
       "album": {
@@ -911,7 +1091,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197589,
       "name": "Sada Nannu",
       "url": "https://open.spotify.com/track/3sDHtKDxam9Gn1urRaxBrX"
@@ -969,10 +1149,32 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253595,
       "name": "Sirivennela",
       "url": "https://open.spotify.com/track/7L2D6W7e8mn0zf8cH78Ch4"
+    },
+    {
+      "album": {
+        "name": "Sirivennela (From \"Shyam Singha Roy\") - Single",
+        "url": "https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253595,
+      "name": "Sirivennela (From \"Shyam Singha Roy\")",
+      "url": "https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR"
     },
     {
       "album": {
@@ -1016,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Hushaaru",
+        "url": "https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173932,
+      "name": "Undiporaadhey",
+      "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
+    },
+    {
+      "album": {
         "name": "Musical Magic of Sid Sriram",
         "url": "https://open.spotify.com/album/7vXgMTFLWO84G84kGc8KxJ"
       },
@@ -1027,7 +1247,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173932,
       "name": "Undiporaadhey - From \"Hushaaru\"",
       "url": "https://open.spotify.com/track/4e4XPlM5s86iz9YXdUuIMg"
@@ -1045,10 +1265,28 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250402,
       "name": "Vachindamma",
       "url": "https://open.spotify.com/track/4XgpSQ4nGBBqu8iNNFCYLH"
+    },
+    {
+      "album": {
+        "name": "Expectional Music Of Gopi Sundar",
+        "url": "https://open.spotify.com/album/2YjU5LftLFtIiKDLa7cJ33"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250402,
+      "name": "Vachindamma",
+      "url": "https://open.spotify.com/track/7sQs1t47PqfKa1L7kOtLko"
     },
     {
       "album": {
@@ -1141,10 +1379,28 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199200,
       "name": "Yenti Yenti",
       "url": "https://open.spotify.com/track/4KOG5lRsY1Ja55bids06vB"
+    },
+    {
+      "album": {
+        "name": "Expectional Music Of Gopi Sundar",
+        "url": "https://open.spotify.com/album/2YjU5LftLFtIiKDLa7cJ33"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Yenti Yenti",
+      "url": "https://open.spotify.com/track/7tyNbBsDOWmyLV3bWAmqQt"
     },
     {
       "album": {

@@ -45,7 +45,7 @@
     {
       "album": {
         "name": "Little Steps Big Adventures",
-        "url": "https://open.spotify.com/album/0xiG2oOtHBERV0uaAEmXWx"
+        "url": "https://open.spotify.com/album/40hZGwdhnrfNcfE6HqWjte"
       },
       "artists": [
         {
@@ -56,6 +56,24 @@
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 115576,
+      "name": "Banana Smoothie",
+      "url": "https://open.spotify.com/track/1Al2jgJACkcRYqJ4hgtegt"
+    },
+    {
+      "album": {
+        "name": "Little Steps Big Adventures",
+        "url": "https://open.spotify.com/album/0xiG2oOtHBERV0uaAEmXWx"
+      },
+      "artists": [
+        {
+          "name": "Tiptoe Giants",
+          "url": "https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR"
+        }
+      ],
+      "date_added": "2021-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 115576,
       "name": "Banana Smoothie",
       "url": "https://open.spotify.com/track/5LlVAYaSDv0WXFr5OKgZQD"
@@ -427,10 +445,32 @@
       ],
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161133,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/4Iiq7AOeBXdRcjbrjUpIWb"
+    },
+    {
+      "album": {
+        "name": "Snakes Alive (It's Fleabite 5)",
+        "url": "https://open.spotify.com/album/4sOTyPW3UH85SwPM8jzk2w"
+      },
+      "artists": [
+        {
+          "name": "fleaBITE",
+          "url": "https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW"
+        },
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2021-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162248,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/391UWftWHqUopTUSkBm8zS"
     },
     {
       "album": {
@@ -525,7 +565,7 @@
     {
       "album": {
         "name": "Action Packed",
-        "url": "https://open.spotify.com/album/0X4VrPqOCHipLq95zbcJG0"
+        "url": "https://open.spotify.com/album/4jHqXFTP4MNYDlLDF8hvup"
       },
       "artists": [
         {
@@ -536,6 +576,24 @@
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 108120,
+      "name": "Snappy Snacks",
+      "url": "https://open.spotify.com/track/0Mh5zappoVaOF7vVG0yRq6"
+    },
+    {
+      "album": {
+        "name": "Action Packed",
+        "url": "https://open.spotify.com/album/0X4VrPqOCHipLq95zbcJG0"
+      },
+      "artists": [
+        {
+          "name": "Bobs & Lolo",
+          "url": "https://open.spotify.com/artist/23hMSJlSk68cUMqC9tzJv7"
+        }
+      ],
+      "date_added": "2021-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 108120,
       "name": "Snappy Snacks",
       "url": "https://open.spotify.com/track/3gOr8uAaAQXesKnbA0jjDl"

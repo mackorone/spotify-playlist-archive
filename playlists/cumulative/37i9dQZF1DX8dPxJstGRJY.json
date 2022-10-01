@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Man Without Love",
+        "url": "https://open.spotify.com/album/6VidERJoBxZm4sPQFkPQvX"
+      },
+      "artists": [
+        {
+          "name": "Michael Ball",
+          "url": "https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI"
+        },
+        {
+          "name": "Alfie Boe",
+          "url": "https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "A Man Without Love",
+      "url": "https://open.spotify.com/track/4SlFhuKLrdMxyjP2XXHfuQ"
+    },
+    {
+      "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/5qCkKRgXcY4O67RsxdoYbc"
       },
@@ -73,10 +95,62 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230760,
       "name": "Air en sol",
       "url": "https://open.spotify.com/track/6mP0PMfnTzvf4dSNU8W1ts"
+    },
+    {
+      "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/0SYTw49dOIYEHG6iarQa7u"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Giorgia Fumanti",
+          "url": "https://open.spotify.com/artist/19Jsb6i9xKolWGXZznN93N"
+        },
+        {
+          "name": "Galante Media Orchestra",
+          "url": "https://open.spotify.com/artist/1ASeREkK4uVDkwcdPrCh4A"
+        },
+        {
+          "name": "Stefano Galante",
+          "url": "https://open.spotify.com/artist/2KSGgRdG0PkOeTwGtOYQuH"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228751,
+      "name": "Air sur la corde de Sol - Suite pour orchestre No 3, BWV 1068",
+      "url": "https://open.spotify.com/track/5ivf8uOExXktY0aMgwFodc"
+    },
+    {
+      "album": {
+        "name": "Stages (Deluxe)",
+        "url": "https://open.spotify.com/album/7bpNb4BzAwWAVzKOlzJZDU"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239453,
+      "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
+      "url": "https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW"
     },
     {
       "album": {
@@ -95,7 +169,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239453,
       "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
       "url": "https://open.spotify.com/track/4Qw3ib035aTuz4QLaZsDxe"
@@ -139,6 +213,40 @@
       "duration_ms": 239706,
       "name": "Amore e Musica",
       "url": "https://open.spotify.com/track/7CLOYF0QFHyQQRENkJDbR8"
+    },
+    {
+      "album": {
+        "name": "Schubert: Ave Maria, D. 839 (Arr. Garrett / van der Heijden for Voice, Violin and Orchestra)",
+        "url": "https://open.spotify.com/album/7C2bSB28pcWwq3ymkz6tj5"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "David Garrett",
+          "url": "https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Franck van der Heijden",
+          "url": "https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw"
+        },
+        {
+          "name": "Orchestra the Prezent",
+          "url": "https://open.spotify.com/artist/25y9UwLKC3bZJFNkHRdUzZ"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249013,
+      "name": "Ave Maria, D. 839 (Arr. Garrett / van der Heijden for Voice, Violin and Orchestra)",
+      "url": "https://open.spotify.com/track/6Djg0bJXADJyZzWR6WXtEZ"
     },
     {
       "album": {
@@ -209,6 +317,36 @@
       "duration_ms": 220146,
       "name": "Bring Him Home - From \"Les Mis\u00e9rables\"",
       "url": "https://open.spotify.com/track/6vb1E9HQ9V0vqxUaiGmgej"
+    },
+    {
+      "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/1JiT6gr6lHx4Tdsi232CeT"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Charlotte Church",
+          "url": "https://open.spotify.com/artist/3P9jdZehQvmAoTrWU1p5zt"
+        },
+        {
+          "name": "Sian Edwards",
+          "url": "https://open.spotify.com/artist/1AEBcVvK0365RWUgw1YfNr"
+        },
+        {
+          "name": "Ronn Huff",
+          "url": "https://open.spotify.com/artist/6K11od2ftoHDnZ2nbyEati"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266773,
+      "name": "Carrickfergus",
+      "url": "https://open.spotify.com/track/41UC0IpPTszBkTiy5GcFvq"
     },
     {
       "album": {
@@ -297,10 +435,28 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224382,
       "name": "Grande amore",
       "url": "https://open.spotify.com/track/2I9KO0T9SUEkpi2OlZkQJo"
+    },
+    {
+      "album": {
+        "name": "Grande amore (International Version)",
+        "url": "https://open.spotify.com/album/0Jy2GfTkOoIubV6oilvi2s"
+      },
+      "artists": [
+        {
+          "name": "Il Volo",
+          "url": "https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "Grande amore",
+      "url": "https://open.spotify.com/track/4IzDqftkFXUR8G2vaTd3Rb"
     },
     {
       "album": {
@@ -399,6 +555,28 @@
       "duration_ms": 240293,
       "name": "I Believe in You (Je crois en toi)",
       "url": "https://open.spotify.com/track/2x3IkNv39smZqUBmOo7Ors"
+    },
+    {
+      "album": {
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282800,
+      "name": "I Hate You Then I Love You (Duet with Luciano Pavarotti)",
+      "url": "https://open.spotify.com/track/3GeU6SjrKEjCRpXCCFthaG"
     },
     {
       "album": {
@@ -520,6 +698,24 @@
     },
     {
       "album": {
+        "name": "River Of Dreams - The Very Best of Hayley Westenra",
+        "url": "https://open.spotify.com/album/2mTBvr7If9pz5DplK6bE9r"
+      },
+      "artists": [
+        {
+          "name": "Hayley Westenra",
+          "url": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Never Say Goodbye (Adapted from \"Pavane, M. 19\")",
+      "url": "https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE"
+    },
+    {
+      "album": {
         "name": "Pure (Includes Bonus Tracks and Exclusive Track)",
         "url": "https://open.spotify.com/album/4F4cYsACedydHGyvpZCXN5"
       },
@@ -531,7 +727,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193493,
       "name": "Never Say Goodbye (Adapted from \"Pavane, M. 19\")",
       "url": "https://open.spotify.com/track/6DFlIKgiThAgpfXJNqa7eB"
@@ -673,7 +869,7 @@
           "url": "https://open.spotify.com/artist/4jCfIA4UDHUWpc45H7A4ud"
         },
         {
-          "name": "The Paris Mozart Orchestra",
+          "name": "Paris Mozart Orchestra",
           "url": "https://open.spotify.com/artist/4yaVj1SnoAFuqdRNGMCcFW"
         },
         {
@@ -717,12 +913,8 @@
           "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
         },
         {
-          "name": "The Tabernacle Choir",
-          "url": "https://open.spotify.com/artist/7dU4BCisBfJxyS1JWmPdQD"
-        },
-        {
-          "name": "Orchestra at Temple Square",
-          "url": "https://open.spotify.com/artist/4kAIRZipPTtTbZBTudxcEA"
+          "name": "The Tabernacle Choir at Temple Square",
+          "url": "https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5"
         }
       ],
       "date_added": "2021-09-24",
@@ -840,6 +1032,32 @@
     },
     {
       "album": {
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/0TvtvNcqu7717IQrq2cmfX"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        },
+        {
+          "name": "Virginia Bocelli",
+          "url": "https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241840,
+      "name": "The Greatest Gift",
+      "url": "https://open.spotify.com/track/3odk8LP7YTi7SfhsnqMZns"
+    },
+    {
+      "album": {
         "name": "These Are Special Times",
         "url": "https://open.spotify.com/album/0LvrjOn7CrNSs0jVUvrgVy"
       },
@@ -855,10 +1073,32 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268933,
       "name": "The Prayer",
       "url": "https://open.spotify.com/track/6PJRw5icjh5FnFd7jNUmbG"
+    },
+    {
+      "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268933,
+      "name": "The Prayer",
+      "url": "https://open.spotify.com/track/6zlY4xmlgqvn4LxjzoS2mz"
     },
     {
       "album": {
@@ -899,10 +1139,54 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248866,
       "name": "These Are Special Times",
       "url": "https://open.spotify.com/track/7nmumY8ELmqBhXPCF9IBBc"
+    },
+    {
+      "album": {
+        "name": "Christmasland Platinum Edition",
+        "url": "https://open.spotify.com/album/54ddeIAOPiE4uWBoosAQ2t"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Antoine",
+          "url": "https://open.spotify.com/artist/2oYXPOHsXljvSD7jDatP22"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248866,
+      "name": "These Are Special Times",
+      "url": "https://open.spotify.com/track/4iTH9LIWcRI1G6UaOgid9H"
+    },
+    {
+      "album": {
+        "name": "Romanza (Remastered)",
+        "url": "https://open.spotify.com/album/4myEOR9cjLVBiwQuBxL4av"
+      },
+      "artists": [
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245626,
+      "name": "Time To Say Goodbye",
+      "url": "https://open.spotify.com/track/3VAICuY2ax2yCLT7EhNeZE"
     },
     {
       "album": {
@@ -1039,6 +1323,28 @@
       "duration_ms": 268200,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/6ZcTsXUmJcCtVtgbxVIzPn"
+    },
+    {
+      "album": {
+        "name": "Pinocchio (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117693,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf"
     },
     {
       "album": {

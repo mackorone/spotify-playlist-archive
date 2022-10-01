@@ -31,7 +31,7 @@
     {
       "album": {
         "name": "Mozart: Violin Concertos Nos. 1-5",
-        "url": "https://open.spotify.com/album/4lMNtVkqqVBRZgdb7gBmsl"
+        "url": "https://open.spotify.com/album/4MoBHLn1hpbGeuCBSjkWdC"
       },
       "artists": [
         {
@@ -54,6 +54,36 @@
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 462333,
+      "name": "Adagio in E Major, K. 261",
+      "url": "https://open.spotify.com/track/59BQznVRJUydDnXEvgtdbC"
+    },
+    {
+      "album": {
+        "name": "Mozart: Violin Concertos Nos. 1-5",
+        "url": "https://open.spotify.com/album/4lMNtVkqqVBRZgdb7gBmsl"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Benjamin Schmid",
+          "url": "https://open.spotify.com/artist/05jJGafjOt4l63sy3c1m8h"
+        },
+        {
+          "name": "Mozarteum Orchestra Salzburg",
+          "url": "https://open.spotify.com/artist/7m5yQHpGKbm9YHcUdrZElN"
+        },
+        {
+          "name": "Hans Graf",
+          "url": "https://open.spotify.com/artist/61QRbGcgOYOud7f4YGzofV"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 462333,
       "name": "Adagio in E Major, K. 261",
       "url": "https://open.spotify.com/track/5D8jilwsJ5DovqzHonxitk"
@@ -86,6 +116,32 @@
     },
     {
       "album": {
+        "name": "Holst: Orchestral Works",
+        "url": "https://open.spotify.com/album/2uf2rgEgNs4J8ULfI74h5w"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117466,
+      "name": "Brook Green Suite, H. 190: I. Prelude. Allegretto",
+      "url": "https://open.spotify.com/track/02GLQ8WAETYqUPjXzhJT9A"
+    },
+    {
+      "album": {
         "name": "Holst: St Paul's Suite - Brook Green Suite - Double Concerto - A Fugal Concerto",
         "url": "https://open.spotify.com/album/28HG2rWPNSzWIFQDOnM9bF"
       },
@@ -105,7 +161,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 117720,
       "name": "Brook Green Suite: I. Prelude. Allegretto",
       "url": "https://open.spotify.com/track/3F4QBgUByaL5QLvQMq6uGd"
@@ -131,10 +187,40 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190226,
       "name": "Cavalleria rusticana: Intermezzo",
       "url": "https://open.spotify.com/track/2Q1ckVqRwBxTq6aIOF1Nhj"
+    },
+    {
+      "album": {
+        "name": "Mascagni: Cavalleria Rusticana/Leoncavallo: Pagliacci",
+        "url": "https://open.spotify.com/album/0MkD4EFygmHlaZKjUBeOom"
+      },
+      "artists": [
+        {
+          "name": "Pietro Mascagni",
+          "url": "https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Gianandrea Gavazzeni",
+          "url": "https://open.spotify.com/artist/3dUXTzPxjC0mgZbxieKQLF"
+        },
+        {
+          "name": "Giuseppe Patan\u00e8",
+          "url": "https://open.spotify.com/artist/5ZJ9PMKBpN56YhrhFzAR5o"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190226,
+      "name": "Cavalleria rusticana: Intermezzo",
+      "url": "https://open.spotify.com/track/2ejVc73K8orfIk9W2uZKlg"
     },
     {
       "album": {
@@ -227,10 +313,58 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232626,
       "name": "Ciaccona (I)",
       "url": "https://open.spotify.com/track/3QJrYXsAWshnTzzHzapRCz"
+    },
+    {
+      "album": {
+        "name": "All' Improvviso: Ciaccone, Bergamasche, & un po' di Follie...",
+        "url": "https://open.spotify.com/album/1djXV7bpisc7lSeZWK9Y8e"
+      },
+      "artists": [
+        {
+          "name": "L'Arpeggiata",
+          "url": "https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ"
+        },
+        {
+          "name": "Christina Pluhar",
+          "url": "https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232626,
+      "name": "Ciaccona (I)",
+      "url": "https://open.spotify.com/track/7jOnhe335cbTJyTiZoPkxg"
+    },
+    {
+      "album": {
+        "name": "Beecham Conducts Mozart",
+        "url": "https://open.spotify.com/album/1j7HqcEynndAvWxTSfLG7u"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Sir Thomas Beecham",
+          "url": "https://open.spotify.com/artist/04kScQiBaLpLuCR1rh20Dd"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532944,
+      "name": "Clarinet Concerto in A Major, K. 622: 2. Adagio",
+      "url": "https://open.spotify.com/track/5xy3Uab6bTfP08D0rhBmfL"
     },
     {
       "album": {
@@ -347,7 +481,7 @@
     {
       "album": {
         "name": "Lang Lang - Live at Carnegie Hall",
-        "url": "https://open.spotify.com/album/2ntsWNmwWWvDvYNJUaYolu"
+        "url": "https://open.spotify.com/album/2cdlYtPJ7rhnbDBH5uj12t"
       },
       "artists": [
         {
@@ -362,6 +496,28 @@
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 102813,
+      "name": "Eight Memories in Watercolour, Op. 1: 6. Floating Clouds - Live",
+      "url": "https://open.spotify.com/track/2oxkzU9hSyW9N3cdKWUeyd"
+    },
+    {
+      "album": {
+        "name": "Lang Lang - Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/2ntsWNmwWWvDvYNJUaYolu"
+      },
+      "artists": [
+        {
+          "name": "Tan Dun",
+          "url": "https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 102813,
       "name": "Eight Memories In Watercolour, Op.1: 6. Floating Clouds - Live",
       "url": "https://open.spotify.com/track/0FH1fJBbFu1HJd52akksBj"
@@ -383,10 +539,32 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 321066,
       "name": "Goldberg Variations, BWV 988: Aria",
       "url": "https://open.spotify.com/track/39g1hThrRrmkbtcSey9bVD"
+    },
+    {
+      "album": {
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321066,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
     },
     {
       "album": {
@@ -409,10 +587,36 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 138840,
       "name": "Gottes Zeit ist die allerbeste Zeit, Sonatina az \"Actus tragicus\"-b\u00f3l, BWV 106",
       "url": "https://open.spotify.com/track/5t0nmGyqurAFZwm2IINjEC"
+    },
+    {
+      "album": {
+        "name": "Bach Eternal",
+        "url": "https://open.spotify.com/album/3D7QDPIZdKkCbpS1msH6Mw"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "M\u00e1rta Kurt\u00e1g",
+          "url": "https://open.spotify.com/artist/1S7UUjCyXGTB8L2TYVIhcX"
+        },
+        {
+          "name": "Gy\u00f6rgy Kurt\u00e1g",
+          "url": "https://open.spotify.com/artist/1ygboTdafDwlY7TUYEj37E"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138880,
+      "name": "Gottes Zeit ist die allerbeste Zeit, Sonatina az \"Actus tragicus\"-b\u00f3l, BWV 106",
+      "url": "https://open.spotify.com/track/4SvoO5lHeDUIVYDpPF5YAO"
     },
     {
       "album": {
@@ -495,7 +699,7 @@
     {
       "album": {
         "name": "Ravel: Orchestral Works, Vol. 2",
-        "url": "https://open.spotify.com/album/4KGCAHgoTqRjM7RaoUQDSD"
+        "url": "https://open.spotify.com/album/26uix8RvkE257KT3AYuiDO"
       },
       "artists": [
         {
@@ -514,6 +718,32 @@
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 265866,
+      "name": "Le tombeau de Couperin (version for orchestra): No. 3. Menuet",
+      "url": "https://open.spotify.com/track/5ATGY2d2oulmn7eZQ1EIUu"
+    },
+    {
+      "album": {
+        "name": "Ravel: Orchestral Works, Vol. 2",
+        "url": "https://open.spotify.com/album/4KGCAHgoTqRjM7RaoUQDSD"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 265866,
       "name": "Le tombeau de Couperin: 3. Menuet (version for orchestra)",
       "url": "https://open.spotify.com/track/2iILF0acS8qp3HfFAchDcS"
@@ -587,10 +817,36 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214853,
       "name": "Ma m\u00e8re l'oye, M. 62: Apoth\u00e9ose. Le jardin f\u00e9erique",
       "url": "https://open.spotify.com/track/32Icp7aedxQEHmvPPGrOFd"
+    },
+    {
+      "album": {
+        "name": "Ravel: L'enfant et les sortil\u00e8ges, M. 71 & Ma m\u00e8re l'oye, M. 62",
+        "url": "https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "Ma m\u00e8re l'oye, M. 62: Tableau VI: Le jardin feerique",
+      "url": "https://open.spotify.com/track/1PWSxDyn7QKSLxYOfAvp10"
     },
     {
       "album": {
@@ -617,7 +873,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 532040,
       "name": "Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio",
       "url": "https://open.spotify.com/track/63cA2QfqtWZa0GGPZnYc0K"
@@ -646,6 +902,36 @@
     },
     {
       "album": {
+        "name": "Herbert von Karajan - Adagio 2",
+        "url": "https://open.spotify.com/album/0DsmyLeY6xSF2r7pzs0Nwh"
+      },
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Karlheinz Zoeller",
+          "url": "https://open.spotify.com/artist/3hWZ5HYXvAJf8ZS9KkFYtn"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409000,
+      "name": "Orfeo Ed Euridice: Dance of the Blessed Spirits (Act II)",
+      "url": "https://open.spotify.com/track/6JoMhlsYqtzwBCVZaEdO6j"
+    },
+    {
+      "album": {
         "name": "Albinoni: Adagio in G minor / Pachelbel: Canon",
         "url": "https://open.spotify.com/album/1WuKnZDy27KDdLr96p0D8A"
       },
@@ -669,7 +955,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 410160,
       "name": "Orfeo Ed Euridice: Dance of the Blessed Spirits (Act II)",
       "url": "https://open.spotify.com/track/6GDuB7BvASYD9JePYvOEX1"
@@ -755,7 +1041,7 @@
     {
       "album": {
         "name": "Mozart: Concertos & Fantasia in C Minor, K. 396",
-        "url": "https://open.spotify.com/album/7tLESNHqZZs1J3RaMSEulL"
+        "url": "https://open.spotify.com/album/38TRmzNoXpISLGDyfTd6hO"
       },
       "artists": [
         {
@@ -778,6 +1064,36 @@
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 475240,
+      "name": "Piano Concerto No. 27 in B-Flat Major, K. 595: II. Larghetto",
+      "url": "https://open.spotify.com/track/0CtMKwDxvLbcu6Hv4hEy8W"
+    },
+    {
+      "album": {
+        "name": "Mozart: Concertos & Fantasia in C Minor, K. 396",
+        "url": "https://open.spotify.com/album/7tLESNHqZZs1J3RaMSEulL"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Sophie-Mayuko Vetter",
+          "url": "https://open.spotify.com/artist/0gSz3CvQe85aA0ULvkenpB"
+        },
+        {
+          "name": "Hamburger Symphoniker",
+          "url": "https://open.spotify.com/artist/1pDt3OVS7cdJ0u9fFuZIDn"
+        },
+        {
+          "name": "Peter Ruzicka",
+          "url": "https://open.spotify.com/artist/5TYm7elsrMR6jcqcxMcLJB"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 475240,
       "name": "Piano Concerto No. 27 in B-Flat Major, K. 595: II. Larghetto",
       "url": "https://open.spotify.com/track/5ofBe30Hn6KWM9CQsphb7z"
@@ -943,7 +1259,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239333,
       "name": "Schumann: Widmung, Op. 25 No. 1 (Arr. Liszt, S. 566a)",
       "url": "https://open.spotify.com/track/5U7T2widXE5MqoQ6dmi3O9"
@@ -998,6 +1314,28 @@
     },
     {
       "album": {
+        "name": "Mozart, W.A.: The Wind Concertos / Serenades / Divertimenti",
+        "url": "https://open.spotify.com/album/4fYVRN0xLtr6dJBk61ls5T"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Orpheus Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Serenade in B-Flat Major, K. 361 \"Gran Partita\": III. Adagio",
+      "url": "https://open.spotify.com/track/0XkcuWNLacWDwEDmvq4CCy"
+    },
+    {
+      "album": {
         "name": "Mozart: Serenade in B Flat - \"Gran Partita\"; Serenade in E Flat",
         "url": "https://open.spotify.com/album/57oAKQUoE6eyKfEuDpf5Ji"
       },
@@ -1013,10 +1351,32 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 330293,
       "name": "Serenade in B-Flat Major, K. 361 \"Gran Partita\": III. Adagio",
       "url": "https://open.spotify.com/track/5Zf5prtvv7KRQ1J6kNn4C6"
+    },
+    {
+      "album": {
+        "name": "Mozart: Wind Serenades",
+        "url": "https://open.spotify.com/album/3MrxE9Z5GQR498JsK7k8uB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "New York Philomusica Winds",
+          "url": "https://open.spotify.com/artist/5Qsj9XSbR0PjAUthkIijBF"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361000,
+      "name": "Serenade No. 11 in E-Flat Major, K. 375: III. Adagio",
+      "url": "https://open.spotify.com/track/3wc9LRfX1qWr5yRpXbvPKW"
     },
     {
       "album": {
@@ -1035,7 +1395,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 361000,
       "name": "Serenade No. 11 in E-Flat Major, K. 375: III. Adagio",
       "url": "https://open.spotify.com/track/3y2zgAXVwU5NfcyUVsvTxc"
@@ -1134,6 +1494,32 @@
     },
     {
       "album": {
+        "name": "Schubert: 8 Symphonies; Rosamunde; Grand Duo",
+        "url": "https://open.spotify.com/album/2G7OaFz0poHFHbqBAb6drn"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Chamber Orchestra of Europe",
+          "url": "https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572933,
+      "name": "Symphony No. 5 in B Flat Major, D. 485: II. Andante con moto",
+      "url": "https://open.spotify.com/track/3Ru6k46VJpuMUh7lukQLVG"
+    },
+    {
+      "album": {
         "name": "Schubert: Symphonies Nos.5 & 6 \"The Little\"",
         "url": "https://open.spotify.com/album/0hkg313TIK7KadbIs3H2FE"
       },
@@ -1153,7 +1539,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 572933,
       "name": "Symphony No. 5 in B Flat Major, D. 485: II. Andante con moto",
       "url": "https://open.spotify.com/track/65VJUSqyss1oS46GAPC8mb"
@@ -1391,6 +1777,28 @@
       "duration_ms": 228120,
       "name": "Wachet auf, ruft uns die Stimme, BWV 645",
       "url": "https://open.spotify.com/track/5X3KIjROGnuvjoFBBd7vnv"
+    },
+    {
+      "album": {
+        "name": "Work - Schumann",
+        "url": "https://open.spotify.com/album/5NJMInZ0UluhhyLiIpwnWT"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Martin James Bartlett",
+          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237960,
+      "name": "Widmung, Op. 25 No. 1",
+      "url": "https://open.spotify.com/track/2ml2xRwuFLv7NtDPzyssfL"
     },
     {
       "album": {

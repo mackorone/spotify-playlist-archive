@@ -58,6 +58,32 @@
     },
     {
       "album": {
+        "name": "Brahms: 21 Hungarian Dances",
+        "url": "https://open.spotify.com/album/4ItbBO7SVJLn7HU6BXrmKV"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2020-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "21 Hungarian Dances, WoO 1: No. 5 in G Minor: Allegro",
+      "url": "https://open.spotify.com/track/2oLjhx7w8Hyd3gry9cCXr7"
+    },
+    {
+      "album": {
         "name": "Schubert: Impromptus Opp.90 & 142",
         "url": "https://open.spotify.com/album/4NZXp2MtBeEcRfHva9PDL9"
       },
@@ -75,7 +101,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 497773,
-      "name": "4 Impromptus, Op.90, D.899: No.4 in A Flat Major: Allegretto",
+      "name": "4 Impromptus, Op. 90, D.899: No. 4 in A Flat Major: Allegretto",
       "url": "https://open.spotify.com/track/4acoaqSa5dno7qMFExRG2w"
     },
     {
@@ -514,32 +540,6 @@
     },
     {
       "album": {
-        "name": "Brahms: 21 Hungarian Dances",
-        "url": "https://open.spotify.com/album/4ItbBO7SVJLn7HU6BXrmKV"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "date_added": "2020-03-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138706,
-      "name": "Hungarian Dance No. 5 in G Minor (Orch. by Schmeling)",
-      "url": "https://open.spotify.com/track/2oLjhx7w8Hyd3gry9cCXr7"
-    },
-    {
-      "album": {
         "name": "Pavarotti (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/1rfBOY8Mm8WCgaIRouJgw6"
       },
@@ -811,7 +811,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 253422,
-      "name": "Peer Gynt Suite No.1, Op.46: 1. Morning Mood",
+      "name": "Peer Gynt Suite No. 1, Op. 46: 1. Morning Mood",
       "url": "https://open.spotify.com/track/6zqERksO1T2JZKI0Aogkvj"
     },
     {
@@ -837,7 +837,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 129280,
-      "name": "Peer Gynt Suite No.1, Op.46: 4. In The Hall Of The Mountain King",
+      "name": "Peer Gynt Suite No. 1, Op. 46: 4. In The Hall Of The Mountain King",
       "url": "https://open.spotify.com/track/5EoVSMIVYqF4gOsQ9jn3JR"
     },
     {

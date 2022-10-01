@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Steff",
+  "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
   "name": "Urbano Fresh",
   "published_playlist_ids": [
     "6RzVtYvMkpHUbB3BgVfauO"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 221120,
       "name": "A Escondidas",
       "url": "https://open.spotify.com/track/2BwHStCcFVQ8DxnncSdMoq"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 124038,
       "name": "Adicta",
       "url": "https://open.spotify.com/track/3hmuvslh6nU6lHi0QxIMsn"
@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "B-Day",
+        "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
+    },
+    {
+      "album": {
         "name": "Bailalo",
         "url": "https://open.spotify.com/album/4Z2n4N44wtzsVH7p9rLPzi"
       },
@@ -113,10 +131,32 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 176450,
       "name": "Bailalo",
       "url": "https://open.spotify.com/track/76goNKad1tCxAmEfH6PFPp"
+    },
+    {
+      "album": {
+        "name": "Bien Beb\u00e9",
+        "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163469,
+      "name": "Bien Beb\u00e9",
+      "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
     },
     {
       "album": {
@@ -208,6 +248,28 @@
     },
     {
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1HqFS49pmoR174vkddzArp"
+      },
+      "artists": [
+        {
+          "name": "Daniela BB",
+          "url": "https://open.spotify.com/artist/3alzYKmQgRGAbTCfGZqYDf"
+        },
+        {
+          "name": "DJ Tona",
+          "url": "https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 195493,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/7y5bcou13EfJefvPQCQIi3"
+    },
+    {
+      "album": {
         "name": "Dale Agachadita",
         "url": "https://open.spotify.com/album/2U9hw9oBgR7lcXofg1t87b"
       },
@@ -287,7 +349,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 171690,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
@@ -472,6 +534,28 @@
     },
     {
       "album": {
+        "name": "ICE BLUE",
+        "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
+      },
+      "artists": [
+        {
+          "name": "Opium G",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+        },
+        {
+          "name": "Birat Bitz",
+          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "GYAL",
+      "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
+    },
+    {
+      "album": {
         "name": "hembrismo",
         "url": "https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur"
       },
@@ -517,7 +601,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 222857,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/5OyNPdV8PMbOE967zAVtKG"
@@ -615,7 +699,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 198058,
       "name": "Ir por Ti",
       "url": "https://open.spotify.com/track/65S5ZhV3ATRA4iHrTIj6mz"
@@ -814,6 +898,32 @@
     },
     {
       "album": {
+        "name": "Loquera",
+        "url": "https://open.spotify.com/album/0VvhggXB5waDczdLjKG9ev"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        },
+        {
+          "name": "Yorkinson",
+          "url": "https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK"
+        },
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194805,
+      "name": "Loquera",
+      "url": "https://open.spotify.com/track/3vcnWgkMcA4FqhQKhJNeIC"
+    },
+    {
+      "album": {
         "name": "Los Tweets",
         "url": "https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX"
       },
@@ -975,6 +1085,66 @@
       "duration_ms": 135797,
       "name": "Maviri",
       "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
+    },
+    {
+      "album": {
+        "name": "Me Doli\u00f3",
+        "url": "https://open.spotify.com/album/7M7eZhVGWSYlSEYjgKYo46"
+      },
+      "artists": [
+        {
+          "name": "Alan Jacques",
+          "url": "https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Kid Gallo",
+          "url": "https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c"
+        },
+        {
+          "name": "Amador",
+          "url": "https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 163608,
+      "name": "Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/1ZJ6q7psMrp1BK3ntdBjNL"
+    },
+    {
+      "album": {
+        "name": "Me Doli\u00f3",
+        "url": "https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2"
+      },
+      "artists": [
+        {
+          "name": "Alan Jacques",
+          "url": "https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Kid Gallo",
+          "url": "https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c"
+        },
+        {
+          "name": "Amador",
+          "url": "https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163608,
+      "name": "Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN"
     },
     {
       "album": {
@@ -1165,7 +1335,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 161333,
       "name": "Nieve de Vainilla",
       "url": "https://open.spotify.com/track/6DNaON1fypnYBW9ud7za94"
@@ -1355,6 +1525,24 @@
       "duration_ms": 179117,
       "name": "Pa\u00b4 Mi",
       "url": "https://open.spotify.com/track/5zSC2yZUAh9n3JcQcPDjMP"
+    },
+    {
+      "album": {
+        "name": "Pereza",
+        "url": "https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "Pereza",
+      "url": "https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT"
     },
     {
       "album": {
@@ -1593,10 +1781,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 212093,
       "name": "Swipe Up",
       "url": "https://open.spotify.com/track/4ShtXgPGZ6Xj0xGoK8mvkD"
+    },
+    {
+      "album": {
+        "name": "Tas Clara",
+        "url": "https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230250,
+      "name": "Tas Clara",
+      "url": "https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2"
     },
     {
       "album": {
@@ -1645,6 +1855,24 @@
     {
       "album": {
         "name": "Tu Foto",
+        "url": "https://open.spotify.com/album/7rkNePNqJG53hXl4GzO320"
+      },
+      "artists": [
+        {
+          "name": "Daishan",
+          "url": "https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tu Foto",
+      "url": "https://open.spotify.com/track/2QUf55I8VHFfi5jOnRf1Mf"
+    },
+    {
+      "album": {
+        "name": "Tu Foto",
         "url": "https://open.spotify.com/album/0t5u5KgV1AEMpey8RcrNUJ"
       },
       "artists": [
@@ -1655,7 +1883,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180000,
       "name": "Tu Foto",
       "url": "https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD"
@@ -1691,7 +1919,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 198620,
       "name": "Ven",
       "url": "https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1"
@@ -1783,6 +2011,24 @@
       "duration_ms": 189152,
       "name": "Ya No Somos",
       "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+    },
+    {
+      "album": {
+        "name": "\u00daltima Cena",
+        "url": "https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6"
+      },
+      "artists": [
+        {
+          "name": "Bernal\u00fa",
+          "url": "https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165386,
+      "name": "\u00daltima Cena",
+      "url": "https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS"

@@ -315,7 +315,7 @@
     {
       "album": {
         "name": "Free At Last (Live)",
-        "url": "https://open.spotify.com/album/2tgpJm3SloLVqAjAEWYr7c"
+        "url": "https://open.spotify.com/album/7whdJR9MEFJixUeSmATRUD"
       },
       "artists": [
         {
@@ -328,7 +328,43 @@
       "date_removed": null,
       "duration_ms": 284134,
       "name": "Free At Last - Live",
+      "url": "https://open.spotify.com/track/5zmoHiyoqhSnoV9EGcYhYi"
+    },
+    {
+      "album": {
+        "name": "Free At Last (Live)",
+        "url": "https://open.spotify.com/album/2tgpJm3SloLVqAjAEWYr7c"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 284134,
+      "name": "Free At Last - Live",
       "url": "https://open.spotify.com/track/7uqQEvERrdjk5SmWVwZ3Jv"
+    },
+    {
+      "album": {
+        "name": "Skillet",
+        "url": "https://open.spotify.com/album/5PUVPlbwm347Jt0Vdcw3s5"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/050IFBYeEqDS4FavXJifoe"
     },
     {
       "album": {
@@ -343,7 +379,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242693,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/0YYLrRSnq6li2bs7nms8WO"
@@ -433,10 +469,28 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199493,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1jMdYE6b4sUolT8UnEOs8F"
+    },
+    {
+      "album": {
+        "name": "Mezzamorphis",
+        "url": "https://open.spotify.com/album/5GpaRJfeglVrlsClIlhPtn"
+      },
+      "artists": [
+        {
+          "name": "Delirious?",
+          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200272,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6z5hemlFOgSeqGgArca8sS"
     },
     {
       "album": {
@@ -476,6 +530,24 @@
     },
     {
       "album": {
+        "name": "Sonicflood",
+        "url": "https://open.spotify.com/album/6vULYuxP5cDOFdPADeBuUj"
+      },
+      "artists": [
+        {
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273093,
+      "name": "I Want to Know You",
+      "url": "https://open.spotify.com/track/3Vw3NlrSsQmE8W5Aqvf0vz"
+    },
+    {
+      "album": {
         "name": "SonicFlood",
         "url": "https://open.spotify.com/album/3XRRl4djOAvjc4CXvOXcJl"
       },
@@ -487,7 +559,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273093,
       "name": "I Want to Know You",
       "url": "https://open.spotify.com/track/5eZzdOGs6t1eVeRD6jbCDh"
@@ -523,10 +595,28 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184066,
       "name": "Into You",
       "url": "https://open.spotify.com/track/3kuvxRA8GLCg0q2MPBQlsd"
+    },
+    {
+      "album": {
+        "name": "Lay It Down",
+        "url": "https://open.spotify.com/album/5cxJJ5gekgM7WSbTtvO9H4"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Knapp",
+          "url": "https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184066,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys"
     },
     {
       "album": {
@@ -602,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Sonicpraise",
+        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
+      },
+      "artists": [
+        {
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381600,
+      "name": "Lord I Lift Your Name on High",
+      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
+    },
+    {
+      "album": {
         "name": "SonicPraise",
         "url": "https://open.spotify.com/album/2v1fOkMUrvzIeGPqAtAxN0"
       },
@@ -613,7 +721,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 381600,
       "name": "Lord I Lift Your Name On High",
       "url": "https://open.spotify.com/track/4YGyH585tBURMPnryf3OpV"
@@ -761,10 +869,32 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233173,
       "name": "Ooh Ahh (My Life Be Like) (feat. Toby Mac)",
       "url": "https://open.spotify.com/track/2cGJxXXIBrxMhk2fWUJTLs"
+    },
+    {
+      "album": {
+        "name": "The Art of Translation",
+        "url": "https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w"
+      },
+      "artists": [
+        {
+          "name": "Grits",
+          "url": "https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "Ooh Ahh (My Life Be Like) [feat. Tobymac]",
+      "url": "https://open.spotify.com/track/1KBN9lYx9QkfUJC3NSXlhQ"
     },
     {
       "album": {
@@ -815,10 +945,28 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216160,
       "name": "Prophet, Priest and King",
       "url": "https://open.spotify.com/track/2NgEHoXZTfjkdF7I6tSrnt"
+    },
+    {
+      "album": {
+        "name": "Smalltown Poets",
+        "url": "https://open.spotify.com/album/3VSgWtarqDC0SoLgLzoM8E"
+      },
+      "artists": [
+        {
+          "name": "Smalltown Poets",
+          "url": "https://open.spotify.com/artist/0mHos4yS8iAhpYPABHFdBc"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216360,
+      "name": "Prophet, Priest and King",
+      "url": "https://open.spotify.com/track/7rEDMH58B288SJZuKO0FuS"
     },
     {
       "album": {
@@ -899,7 +1047,7 @@
     {
       "album": {
         "name": "The Anatomy of the Tongue in Cheek",
-        "url": "https://open.spotify.com/album/4sb1t4vquXRUBjVYYsWlCM"
+        "url": "https://open.spotify.com/album/7pkfdwjlOmJfzARVbLXE60"
       },
       "artists": [
         {
@@ -910,6 +1058,24 @@
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Sadie Hawkins Dance",
+      "url": "https://open.spotify.com/track/37OI3jA1ts5U0nmuk2qBXR"
+    },
+    {
+      "album": {
+        "name": "The Anatomy of the Tongue in Cheek",
+        "url": "https://open.spotify.com/album/4sb1t4vquXRUBjVYYsWlCM"
+      },
+      "artists": [
+        {
+          "name": "Relient K",
+          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 177600,
       "name": "Sadie Hawkins Dance",
       "url": "https://open.spotify.com/track/5pZXriIfUJ5G0MiuoIkiww"
@@ -1169,7 +1335,7 @@
     {
       "album": {
         "name": "The Collection",
-        "url": "https://open.spotify.com/album/0uo9Z8fbOU1zdsEsqNsRYL"
+        "url": "https://open.spotify.com/album/6O9oaYFECfRRBV5z2g0fbV"
       },
       "artists": [
         {
@@ -1180,6 +1346,24 @@
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 203133,
+      "name": "Undo Me",
+      "url": "https://open.spotify.com/track/5EV1UhPaelVqKHXkaxglAY"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/0uo9Z8fbOU1zdsEsqNsRYL"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Knapp",
+          "url": "https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 203133,
       "name": "Undo Me",
       "url": "https://open.spotify.com/track/6XxaPcDid3vhKTSam6HTfz"

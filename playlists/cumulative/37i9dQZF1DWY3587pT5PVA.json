@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/3fRer69GOSeMY3yGEWHppA"
+      },
+      "artists": [
+        {
+          "name": "Eli Golden",
+          "url": "https://open.spotify.com/artist/1ie7pi4zH8zN7W1a3vu3wZ"
+        },
+        {
+          "name": "The Ensemble of Netflix's 13 the Musical",
+          "url": "https://open.spotify.com/artist/2QjLQUnfwBAa4XL14gfLFQ"
+        },
+        {
+          "name": "Jason Robert Brown",
+          "url": "https://open.spotify.com/artist/5ol7Hq695R9m2bT9T3FiQx"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187320,
+      "name": "13",
+      "url": "https://open.spotify.com/track/5Mu2G7387ww8uqZFAiBqPi"
+    },
+    {
+      "album": {
         "name": "The Prom (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/5016dF1FF2mrEtD38l4QiN"
       },
@@ -354,6 +380,32 @@
     },
     {
       "album": {
+        "name": "Opportunity",
+        "url": "https://open.spotify.com/album/7oZZIl1fP6cd1XSvxc3XSk"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Blackwell",
+          "url": "https://open.spotify.com/artist/7lfPz0qpJoyr4pk1Q10PAz"
+        },
+        {
+          "name": "JD McCrary",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        },
+        {
+          "name": "The Ensemble of Netflix's 13 the Musical",
+          "url": "https://open.spotify.com/artist/2QjLQUnfwBAa4XL14gfLFQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167640,
+      "name": "I've Been Waiting",
+      "url": "https://open.spotify.com/track/36Ifoa2hkOdFKUx6rGQ68Z"
+    },
+    {
+      "album": {
         "name": "The Prom (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/5016dF1FF2mrEtD38l4QiN"
       },
@@ -615,6 +667,40 @@
       "duration_ms": 152966,
       "name": "One More Song",
       "url": "https://open.spotify.com/track/29Zv8HZ4WPmUFLozdbOABa"
+    },
+    {
+      "album": {
+        "name": "Opportunity",
+        "url": "https://open.spotify.com/album/7oZZIl1fP6cd1XSvxc3XSk"
+      },
+      "artists": [
+        {
+          "name": "Frankie McNellis",
+          "url": "https://open.spotify.com/artist/2DCcmVOvHAhh7y4rCoPSl8"
+        },
+        {
+          "name": "Khiyla Aynne",
+          "url": "https://open.spotify.com/artist/1QWONsJPxoSfO14AK5QS1s"
+        },
+        {
+          "name": "Shechinah Mpumlwana",
+          "url": "https://open.spotify.com/artist/6JKPqDFQkOtruBG55QWBTp"
+        },
+        {
+          "name": "Kayleigh Cerezo",
+          "url": "https://open.spotify.com/artist/4iSMzogoKv7vTERaG1DVqs"
+        },
+        {
+          "name": "The Ensemble of Netflix's 13 the Musical",
+          "url": "https://open.spotify.com/artist/2QjLQUnfwBAa4XL14gfLFQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195360,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/1LZ6ZU4aJHcHENkv7b2iy5"
     },
     {
       "album": {

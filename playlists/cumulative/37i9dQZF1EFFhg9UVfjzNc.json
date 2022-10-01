@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Avivamento",
+        "url": "https://open.spotify.com/album/3fAEfPchJogYY4LappIgSa"
+      },
+      "artists": [
+        {
+          "name": "Adora\u00e7\u00e3o Central",
+          "url": "https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358696,
+      "name": "Avivamento",
+      "url": "https://open.spotify.com/track/3lOrDpePtgosqI3CuDHmKs"
+    },
+    {
+      "album": {
         "name": "Sobre Coisas Espirituais (Ao Vivo)",
         "url": "https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 422240,
       "name": "C\u00e9u",
       "url": "https://open.spotify.com/track/4dOLTIZCnjRnQegoRhr3O3"
@@ -145,10 +163,50 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 313652,
       "name": "Deus Emanuel",
       "url": "https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M"
+    },
+    {
+      "album": {
+        "name": "Deus Emanuel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1H23z2CJY83kUWzEGpG59r"
+      },
+      "artists": [
+        {
+          "name": "Adora\u00e7\u00e3o Central",
+          "url": "https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312570,
+      "name": "Deus Emanuel - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zGs1XkgJi8hGyghm4Xrlf"
+    },
+    {
+      "album": {
+        "name": "Deus Faz Al\u00e9m (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290080,
+      "name": "Deus Faz Al\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ"
     },
     {
       "album": {
@@ -163,7 +221,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 298000,
       "name": "Deus Faz Al\u00e9m - Playback",
       "url": "https://open.spotify.com/track/54KdjaTtv2MF091f6o4twN"
@@ -206,6 +264,68 @@
     },
     {
       "album": {
+        "name": "C\u00e9u na Terra",
+        "url": "https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Ferro",
+          "url": "https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478013,
+      "name": "Digno de Tudo",
+      "url": "https://open.spotify.com/track/2bCD6yYXqnSyUYHz0IjTR5"
+    },
+    {
+      "album": {
+        "name": "Ei, Voc\u00ea",
+        "url": "https://open.spotify.com/album/79V8dpsBPYR5I5XKt2mbOh"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Madaloni",
+          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
+        },
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274466,
+      "name": "Ei, Voc\u00ea",
+      "url": "https://open.spotify.com/track/2sLMN5XaiUDDEjIL7Gabxi"
+    },
+    {
+      "album": {
+        "name": "Eis-me Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304426,
+      "name": "Eis-me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS"
+    },
+    {
+      "album": {
         "name": "Eterno Presente (Ao Vivo)",
         "url": "https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf"
       },
@@ -225,6 +345,42 @@
       "duration_ms": 518880,
       "name": "Ele Vem - Ao Vivo",
       "url": "https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt"
+    },
+    {
+      "album": {
+        "name": "Entrega",
+        "url": "https://open.spotify.com/album/5RoCRCrhaE4r9DQzJusMGk"
+      },
+      "artists": [
+        {
+          "name": "Chris Duran",
+          "url": "https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373386,
+      "name": "Entrega",
+      "url": "https://open.spotify.com/track/36dN66P4nDS98xP3RY1akX"
+    },
+    {
+      "album": {
+        "name": "Escreve o Teu Nome em N\u00f3s (Playback)",
+        "url": "https://open.spotify.com/album/0nFQm0htymyQKuPVyIBsiy"
+      },
+      "artists": [
+        {
+          "name": "Adora\u00e7\u00e3o Central",
+          "url": "https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296851,
+      "name": "Escreve o Teu Nome em N\u00f3s - Playback",
+      "url": "https://open.spotify.com/track/7MliIRcoe1h52Eka49qjPW"
     },
     {
       "album": {
@@ -261,7 +417,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 507160,
       "name": "Esp\u00edrito Santo",
       "url": "https://open.spotify.com/track/1TyavxmEZzw4DnrV1yc4w4"
@@ -415,12 +571,52 @@
           "url": "https://open.spotify.com/artist/69rTWdhFy8ISfufMZI9qd1"
         }
       ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398546,
+      "name": "Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/7v6TBs2l91cNdiyZujXbUn"
+    },
+    {
+      "album": {
+        "name": "Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5GKD4VAYNOg8eQfelgHR4a"
+      },
+      "artists": [
+        {
+          "name": "Bianca Azevedo",
+          "url": "https://open.spotify.com/artist/69rTWdhFy8ISfufMZI9qd1"
+        }
+      ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 484840,
       "name": "Jesus - English Version",
       "url": "https://open.spotify.com/track/0bBHh0MuQgH5dCIy4FP2OC"
+    },
+    {
+      "album": {
+        "name": "Jesus, Amor Verdadeiro / Eu Te Exalto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3h8uWCmB0SeQll74zpwJeR"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        },
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298866,
+      "name": "Jesus, Amor Verdadeiro / Eu Te Exalto - Ao Vivo",
+      "url": "https://open.spotify.com/track/34mTfCVq0qcljBifF8bn8N"
     },
     {
       "album": {
@@ -435,7 +631,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 286875,
       "name": "Le\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/4g5QnO2fCIjOcjT4zHSXZ6"
@@ -594,6 +790,60 @@
     },
     {
       "album": {
+        "name": "Minha Can\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302693,
+      "name": "Minha Can\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp"
+    },
+    {
+      "album": {
+        "name": "Morena / Le\u00e3o Guerreiro",
+        "url": "https://open.spotify.com/album/5r8J5nc7NJFTU18StkYSPD"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513260,
+      "name": "Morena / Le\u00e3o Guerreiro",
+      "url": "https://open.spotify.com/track/6foaT9LzblJiVdHsL5doXl"
+    },
+    {
+      "album": {
+        "name": "C\u00e9u na Terra",
+        "url": "https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Ferro",
+          "url": "https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474880,
+      "name": "Nada Mais Satisfaz",
+      "url": "https://open.spotify.com/track/1IfciC02hjygbtsaAgCL2z"
+    },
+    {
+      "album": {
         "name": "C\u00e9u na Terra",
         "url": "https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK"
       },
@@ -670,6 +920,28 @@
     },
     {
       "album": {
+        "name": "O Nome De Jesus",
+        "url": "https://open.spotify.com/album/12FFt5SxPV8GXDvhGFOled"
+      },
+      "artists": [
+        {
+          "name": "Hananiel Eduardo",
+          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
+        },
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239813,
+      "name": "O Nome De Jesus",
+      "url": "https://open.spotify.com/track/1Nh1b72PjsmA6HNyOIQzhe"
+    },
+    {
+      "album": {
         "name": "O Nome de Jesus",
         "url": "https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw"
       },
@@ -735,7 +1007,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 291706,
       "name": "O Teu Amor Dura Pra Sempre",
       "url": "https://open.spotify.com/track/2nEvHXtOmvXtqJFgCeYb2o"
@@ -757,10 +1029,104 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 359413,
       "name": "Pai de Amor",
       "url": "https://open.spotify.com/track/2ikIpRpEDSIcKwURQsaKkT"
+    },
+    {
+      "album": {
+        "name": "Andr\u00e9 Aquino, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/3y39KwTuUMQ4Gmz3R59bW6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Aquino",
+          "url": "https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514070,
+      "name": "Pai de Amor - Live",
+      "url": "https://open.spotify.com/track/751TdDZzsr7Wrv4naigRLL"
+    },
+    {
+      "album": {
+        "name": "Poesia Ac\u00fastica #7: C\u00e9u Azul",
+        "url": "https://open.spotify.com/album/5IkIpMWgmSaXO0x9gzgelo"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Negra Li",
+          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+        },
+        {
+          "name": "Ducon",
+          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "Dk 47",
+          "url": "https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572038,
+      "name": "Poesia Ac\u00fastica #7: C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/2FGhB10Gon36GgFcOTMQEW"
+    },
+    {
+      "album": {
+        "name": "C\u00e9u na Terra",
+        "url": "https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Ferro",
+          "url": "https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318280,
+      "name": "Que o Incenso Suba",
+      "url": "https://open.spotify.com/track/1GhwTkRpAGNLxvMAHfH8KM"
     },
     {
       "album": {
@@ -783,7 +1149,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 775119,
       "name": "Que O Incenso Suba",
       "url": "https://open.spotify.com/track/6jJPimdOkKWRSukmtRsBwi"
@@ -805,6 +1171,64 @@
       "duration_ms": 294373,
       "name": "Que Se Abram Os Portais",
       "url": "https://open.spotify.com/track/5gZnueD5I3JuMbEhKpUJkM"
+    },
+    {
+      "album": {
+        "name": "Quero Voltar",
+        "url": "https://open.spotify.com/album/2rFKtCU44yhwgUmDxDqcGT"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346163,
+      "name": "Quero Voltar",
+      "url": "https://open.spotify.com/track/1xSjU3nI8pLdqjNQXzl7We"
+    },
+    {
+      "album": {
+        "name": "Quero Voltar Pra Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365080,
+      "name": "Quero Voltar Pra Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
+    },
+    {
+      "album": {
+        "name": "Simples Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/03q3oGwLsPD8pxwEAbcLNw"
+      },
+      "artists": [
+        {
+          "name": "Hananiel Eduardo",
+          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
+        },
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206736,
+      "name": "Simples Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3uAqfeX191qTIoB5N2vNWp"
     },
     {
       "album": {
@@ -925,6 +1349,32 @@
       "duration_ms": 371751,
       "name": "Volta ao Lar - Ao Vivo",
       "url": "https://open.spotify.com/track/7oJCne3faV7nU1IVMSszUx"
+    },
+    {
+      "album": {
+        "name": "Exaltado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1jsXrSsrVd690Wa42Y9wZy"
+      },
+      "artists": [
+        {
+          "name": "Brasa Church Music",
+          "url": "https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A"
+        },
+        {
+          "name": "Giselle Knevitz",
+          "url": "https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM"
+        },
+        {
+          "name": "Amauri Knevitz Jr",
+          "url": "https://open.spotify.com/artist/0F62U3eJ9UOEpoOqdiuzGd"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466714,
+      "name": "\u00c9s Bem-Vindo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4zIOxt1byvZsFFPKJP9z7R"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFFhg9UVfjzNc"

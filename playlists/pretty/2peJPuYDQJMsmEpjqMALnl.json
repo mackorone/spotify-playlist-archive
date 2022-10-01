@@ -1,12 +1,12 @@
 {
-  "description": "A classic playlist full of favorites of the 80s including Def Leppard, Bryan Adams and more! ",
-  "num_followers": 344977,
+  "description": "A classic playlist full of favorites of the 80s!",
+  "num_followers": 346968,
   "original_name": "80s Classic Hits",
   "owner": {
-    "name": "digster.fm",
+    "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "OTA1LDg0MGIwMGMyNWYzMGNlYTRhOTE2Y2U5OGUwYzE0MTc5MTZkNjUxNWE=",
+  "snapshot_id": "OTA3LDcwMGY3OTQ2N2EwMTk1Y2MxMWNlZTdmZjIyNWM2MWIxMTFmYTQwZWM=",
   "tracks": [
     {
       "added_at": "2022-05-18 21:19:27",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
     },
     {
+      "added_at": "2022-07-22 09:54:17",
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
+    },
+    {
       "added_at": "2022-05-18 21:19:27",
       "album": {
         "name": "The Very Best Of",
@@ -895,7 +911,7 @@
     {
       "added_at": "2022-05-18 21:19:27",
       "album": {
-        "name": "Escape",
+        "name": "Escape (Bonus Track Version)",
         "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
       "artists": [

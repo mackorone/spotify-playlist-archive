@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 
 > Soothing songs for family yoga time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,511 likes - 202 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,584 likes - 202 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 | 71 | [Breaking Waves](https://open.spotify.com/track/4qzh2QsP2jCyOzKzgoLa62) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [Breaking Waves](https://open.spotify.com/album/4QwP2eUmh0Jwwv0hhCtIRZ) | 2:34 |
 | 72 | [Aurora](https://open.spotify.com/track/6LTIZenP15l2VvkvPF2lFM) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Aurora](https://open.spotify.com/album/3eK38YOTl32ByPy2cgkmoy) | 3:05 |
 | 73 | [Minds Traversed](https://open.spotify.com/track/5OxLsoveEfCtK2M3CuqCd7) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Minds Traversed](https://open.spotify.com/album/0JjWwmu88zY7cXRFNmAr2v) | 4:10 |
-| 74 | [Threads](https://open.spotify.com/track/30VnmNoXmeNMlDR6MxLP5U) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 3:12 |
+| 74 | [Threads](https://open.spotify.com/track/5ASmAe7WcZaLVx6KcCqhW0) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 3:12 |
 | 75 | [Eternity](https://open.spotify.com/track/6vBdXO0iBXY9V2Dpyu8Adr) | [Echo River](https://open.spotify.com/artist/1ytRxYe87vfftgDbZ9kGw8) | [Eternity](https://open.spotify.com/album/2R3CufevCzarKNQORutdXd) | 4:05 |
 | 76 | [Shimmer](https://open.spotify.com/track/2R0jJNaZzXUklvrjpbRS66) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Shimmer](https://open.spotify.com/album/1lpl0tt6oAcoe6MZUlyGR7) | 3:00 |
 | 77 | [Hushed Premonition](https://open.spotify.com/track/5p3moUVU9JBeuj67GmZjSZ) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Hushed Premonition](https://open.spotify.com/album/0A7MgyzLmzMl52aDlGx3gJ) | 3:34 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 | 85 | [Breeze Warmth](https://open.spotify.com/track/1V8NGcSLCAGS3fSQr4uAuE) | [Mind Gardener](https://open.spotify.com/artist/3cYm4kOmJnp5qRslUjwjhP) | [Warmer Dreams](https://open.spotify.com/album/6xgJBum4aaBBHFiEUJliJX) | 3:23 |
 | 86 | [Nephology](https://open.spotify.com/track/2RXxXoJ6b42rQWpHrkIqRB) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Nephology](https://open.spotify.com/album/6TKRYgP9nOBCnfa2V8LKW8) | 2:25 |
 | 87 | [Pathways](https://open.spotify.com/track/67hrn4W0iAgUWwkVpmplTW) | [Chime Dolma](https://open.spotify.com/artist/0ndav6EeWFjk6gBztWytIo) | [Pathways](https://open.spotify.com/album/0Vs8OpWzBEXUQ3ImjwQKZ7) | 2:00 |
-| 88 | [\[Nowhere\]](https://open.spotify.com/track/1KR69UXMtGLsKvtwyBTny4) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/4ewVQNBZP2p3sekqciKE6r) | 2:08 |
+| 88 | [\[Nowhere\]](https://open.spotify.com/track/24JJbx6jhyzsEyobFgpNZu) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 2:08 |
 | 89 | [Nepenthe](https://open.spotify.com/track/0kKOC50fPTnqmrYvtJInsT) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Nepenthe](https://open.spotify.com/album/7ARp3k61xr4HZrXTQVboW7) | 2:31 |
 | 90 | [Teary](https://open.spotify.com/track/4LEdXdGFciWWUD8vPfDGR3) | [Ella Drake](https://open.spotify.com/artist/0O76d5oDfMqnPoxRN29bpx) | [Newborn](https://open.spotify.com/album/6hSiNwlyOFDSpS3Xl28zU8) | 3:37 |
 | 91 | [Hanami](https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:05 |
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 | 115 | [Jupiter Sunrise](https://open.spotify.com/track/1tQKUYjY3h950XByYm0ZAf) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:58 |
 | 116 | [Euphrosyne](https://open.spotify.com/track/7arWoSrPeW1uiCGbCu0Igm) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Euphrosyne](https://open.spotify.com/album/7BlXg4aB6bpzIsYP5wqrVT) | 2:39 |
 | 117 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 |
-| 118 | [Finistère](https://open.spotify.com/track/0Qp6bdPb0XxwGCW2TDzL9d) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Finistère](https://open.spotify.com/album/4lwNTmD62b3cssnfE0G1yr) | 2:21 |
+| 118 | [Finistère](https://open.spotify.com/track/14eatj3LOOiVomamOwczLf) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Finistère](https://open.spotify.com/album/39MfK6NqI34RT34rwvHn2I) | 2:21 |
 | 119 | [Nuit Paisible](https://open.spotify.com/track/3YdxtdF8xoDObT8184XS8V) | [Future Sky](https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL) | [Nuit Paisible](https://open.spotify.com/album/0v6cSM8pbDlOJZoLp9waiR) | 3:36 |
 | 120 | [Namtso](https://open.spotify.com/track/3vRfvwrt4QSdwiZc6Xf719) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Namtso](https://open.spotify.com/album/7c1EF53dqPdVTHmBR46KNr) | 3:42 |
 | 121 | [Ripples](https://open.spotify.com/track/5plHbWs9JiZmHLCPEuLnzz) | [Cloud Water Assembly](https://open.spotify.com/artist/4af8enmN5MdqxY3k5T6fa1) | [Ripples](https://open.spotify.com/album/0DoqsE8voJyzl60RdOrknQ) | 2:49 |
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 | 123 | [Dans i Vindi](https://open.spotify.com/track/57nmWRdN5zPzMAlkCLsuKA) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Fjarlagt Ljus](https://open.spotify.com/album/7kmXJFHI5btwoDpUN4JsiN) | 3:04 |
 | 124 | [In the Middle of Nature](https://open.spotify.com/track/7iFUBNeOtY3uOX8MLq2Vs8) | [Calm Music Zone](https://open.spotify.com/artist/31kWRTObxHRtRe5r4wrWZp) | [111 Tracks: Tranquil Water Songs with Nature Sounds: Healing Meditations, Music for Yoga, Reiki, Spa, Massage, New Age \- Serenity Instrumental Music](https://open.spotify.com/album/00QiJ4aHSYpH48ELep8quF) | 3:25 |
 | 125 | [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 3:15 |
-| 126 | [Cold Spring](https://open.spotify.com/track/1WwjE3IGXk54dNBRKZAXz3) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Volume One](https://open.spotify.com/album/3BBl14XBVh0vHf1bXF3vWi) | 2:04 |
+| 126 | [Cold Spring](https://open.spotify.com/track/5qzs925pSB9rD5v8tdu9CZ) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Volume One](https://open.spotify.com/album/4lnx4Xq7hxsOFltbRZ12fr) | 2:04 |
 | 127 | [Inner Destination](https://open.spotify.com/track/380cFd0oU93qGwnQRyJtnl) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Inner Destination](https://open.spotify.com/album/6m5laRGGdZqVzlx70ZSjXI) | 3:44 |
 | 128 | [Paranormal](https://open.spotify.com/track/3CPP2MBrbPXH9FOaSTTyuO) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Paranormal](https://open.spotify.com/album/0lUQkebaMN5Fa9O35WcMDu) | 4:30 |
 | 129 | [In Her Temple](https://open.spotify.com/track/6e6xf3BuRf9o7pz1koO4ku) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Visions of Sleep and Beyond](https://open.spotify.com/album/3kCPg1GdYtz8ZdD3NILoTr) | 4:31 |
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 | 173 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 |
 | 174 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 |
 | 175 | [Movements of Dimensions](https://open.spotify.com/track/7BQDfK8Emfh80YJuvoGrb4) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [The One We Got](https://open.spotify.com/album/1dAqoThlD7EKzg0Kg03NY3) | 2:40 |
-| 176 | [Soul Blanket](https://open.spotify.com/track/44McOkwrQvgCzDxd5NZV6a) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/1flvmX3ZrUV6I4XPXugSJ6) | 4:01 |
+| 176 | [Soul Blanket](https://open.spotify.com/track/7xgCM9MkPIJ0MWFJqGGKQD) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/0FQWkQhEOXL0IuICFw4XaE) | 4:01 |
 | 177 | [From Shores To Mountains](https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt) | [The 2 Inversions](https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ) | [From Shores To Mountains](https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO) | 2:25 |
 | 178 | [Lost in a Meadow](https://open.spotify.com/track/4CUCv76HiC0FJ7tcwXQTZv) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Floating](https://open.spotify.com/album/3ppEryBS6RaQDTrwmqB8n8) | 2:45 |
 | 179 | [Return to Nature](https://open.spotify.com/track/4F1nTd77jLSbEZDAYgNDXB) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Inner Spirit](https://open.spotify.com/album/0mV5nvQuTZt7HpQO6q9CXA) | 2:57 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 | 201 | [Chasing Love](https://open.spotify.com/track/5HCMc28iow2u67EgxHejfZ) | [Mondbery](https://open.spotify.com/artist/3Ao4LdOPmNHIsDq8Y5gTmh) | [Chasing Love](https://open.spotify.com/album/3r9LKZab8u1XmEJbxQjSjV) | 2:11 |
 | 202 | [Closed Captions](https://open.spotify.com/track/3K3mUDPEx0sbqBWDMPmaWM) | [Broken Legacy](https://open.spotify.com/artist/3hG7itMdTJT8vc0JYh771M) | [Closed Captions](https://open.spotify.com/album/7yxynO2PaBolNG90xpL0W6) | 2:54 |
 
-Snapshot ID: `MTYyNTE3NDM3OSwwMDAwMDAwNTAwMDAwMTdhNjNmMTBjNTEwMDAwMDE3OTdiZDczODVi`
+Snapshot ID: `MTYyNTE3NDM3OSwwMDAwMDAwMDc0MzQzNDI5ZTVmNTY2MGFhZDYzNjNhOTMxYTQzMTYz`

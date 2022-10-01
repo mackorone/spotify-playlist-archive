@@ -1,18 +1,34 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 219731,
+  "num_followers": 228602,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE5NDQzNCwwMDAwMDAwMDMxNTI0MzA2NDI5N2U1OWMzMjg1ZDQ5ODdhYTJhM2Zi",
+  "snapshot_id": "MTYxOTY4MTQ0OSwwMDAwMDAwMDRkOWJmYjNkMTk4NWUwZmE2ZjZlNTE0NzY1Y2JjYjUx",
   "tracks": [
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Experience: Expanded (Remastered)",
-        "url": "https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy"
+        "name": "Children (Dance Vault Mixes)",
+        "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
+      },
+      "artists": [
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r"
       },
       "artists": [
         {
@@ -20,31 +36,63 @@
           "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
         }
       ],
-      "duration_ms": 298533,
-      "name": "Out Of Space (Remastered)",
-      "url": "https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS"
+      "duration_ms": 302106,
+      "name": "Out of Space",
+      "url": "https://open.spotify.com/track/6cYJBIE9FC1QAoPw5EhdLA"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Techno Party",
-        "url": "https://open.spotify.com/album/2DSwIAQeu4bwSSgSplcFCW"
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
       },
       "artists": [
         {
-          "name": "The House Crew",
-          "url": "https://open.spotify.com/artist/4pApMs2qTlqTGwdHEJVeS4"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
         }
       ],
-      "duration_ms": 391106,
-      "name": "Keep The Fire Burning - Original 12-Inch Versions",
-      "url": "https://open.spotify.com/track/0nOqKydHOJHPGm3zd2SAej"
+      "duration_ms": 567106,
+      "name": "Halcyon and On and On",
+      "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "UTAH SAINTS",
-        "url": "https://open.spotify.com/album/5PuJ1ocyfvAmgVEazfKoqZ"
+        "name": "ESP: The 808 State Effect",
+        "url": "https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 351400,
+      "name": "Pacific State",
+      "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "The Complete Anthem Collection 1992 - 2007",
+        "url": "https://open.spotify.com/album/3Npjea52mXpWbrxaobH0rj"
+      },
+      "artists": [
+        {
+          "name": "Members Of Mayday",
+          "url": "https://open.spotify.com/artist/76QERaQEFTh2VKRUL7wz7m"
+        }
+      ],
+      "duration_ms": 239462,
+      "name": "Sonic Empire - Short Mix",
+      "url": "https://open.spotify.com/track/4qAu9FbxaULlca8tvHI8Tl"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Utah Saints",
+        "url": "https://open.spotify.com/album/75Nl51OzRYnIsJEYcY10Bz"
       },
       "artists": [
         {
@@ -54,103 +102,23 @@
       ],
       "duration_ms": 355880,
       "name": "Something Good",
-      "url": "https://open.spotify.com/track/1ufw4MHpNrimD5e6pna6JA"
+      "url": "https://open.spotify.com/track/22AvpWbOtNTiem8jKDk8QO"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Chime",
-        "url": "https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm"
+        "name": "Sweet Harmony",
+        "url": "https://open.spotify.com/album/2SyBDNNhCrhgxQDBCvNcZ3"
       },
       "artists": [
         {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+          "name": "Liquid",
+          "url": "https://open.spotify.com/artist/4wxJRtX2kEmKXtr0mMzHr9"
         }
       ],
-      "duration_ms": 194760,
-      "name": "Chime - Edit",
-      "url": "https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Conquers Your Love (Remastered)",
-        "url": "https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz"
-      },
-      "artists": [
-        {
-          "name": "Praga Khan",
-          "url": "https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Injected with a Poison",
-      "url": "https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Blueprint (The Best of)",
-        "url": "https://open.spotify.com/album/2WuGvmbLkF1HFHkVq33TuY"
-      },
-      "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        }
-      ],
-      "duration_ms": 350560,
-      "name": "Pacific State",
-      "url": "https://open.spotify.com/track/3t9dq1I2VKPmEcatwRkJ9P"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Not Over Yet (Remixes)",
-        "url": "https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw"
-      },
-      "artists": [
-        {
-          "name": "Grace",
-          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Not over Yet - Perfecto Edit",
-      "url": "https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Mentasm",
-        "url": "https://open.spotify.com/album/2lRKQ7GDg3iUvmAGmEIe0k"
-      },
-      "artists": [
-        {
-          "name": "Second Phase",
-          "url": "https://open.spotify.com/artist/63lbm57G8fAvPaHrhhVEvg"
-        }
-      ],
-      "duration_ms": 274893,
-      "name": "Mentasm",
-      "url": "https://open.spotify.com/track/4PkOr5eGNoTCDXxKHhNyMF"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "More Music for the Jilted Generation",
-        "url": "https://open.spotify.com/album/6wZgpIgQWZzq8qKJrU7ELd"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 377826,
-      "name": "No Good (Start the Dance) [Remastered]",
-      "url": "https://open.spotify.com/track/1qHKYuAeVf0XISmgwaacHf"
+      "duration_ms": 262026,
+      "name": "Sweet Harmony",
+      "url": "https://open.spotify.com/track/2P79o8njc5X9NbgiGbRwpx"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -171,88 +139,8 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Sweet Harmony",
-        "url": "https://open.spotify.com/album/3J4qnl8v2t2WtI3PwTBBzb"
-      },
-      "artists": [
-        {
-          "name": "Liquid",
-          "url": "https://open.spotify.com/artist/4wxJRtX2kEmKXtr0mMzHr9"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Sweet Harmony (Original Mix)",
-      "url": "https://open.spotify.com/track/2321L83MMqryXE2eHB6PQT"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "The Sound Of Belgium",
-        "url": "https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN"
-      },
-      "artists": [
-        {
-          "name": "Golden Girls",
-          "url": "https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2"
-        }
-      ],
-      "duration_ms": 348523,
-      "name": "Kinetic - Frank De Wulf Remix",
-      "url": "https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Ebeneezer Goode - EP",
-        "url": "https://open.spotify.com/album/15y6aeJMkWSFhCTjR1VgWV"
-      },
-      "artists": [
-        {
-          "name": "The Shamen",
-          "url": "https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3"
-        }
-      ],
-      "duration_ms": 234786,
-      "name": "Ebeneezer Goode - Beat Edit",
-      "url": "https://open.spotify.com/track/3cJiAK4ogUaUrx2E0lDvUt"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Inner City Life",
-        "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
-      },
-      "artists": [
-        {
-          "name": "Goldie",
-          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
-        }
-      ],
-      "duration_ms": 231973,
-      "name": "Inner City Life - Radio Edit",
-      "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Deliverance",
-        "url": "https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn"
-      },
-      "artists": [
-        {
-          "name": "Baby D",
-          "url": "https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc"
-        }
-      ],
-      "duration_ms": 470506,
-      "name": "Let Me Be Your Fantasy",
-      "url": "https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "On A Ragga Tip \u201897",
-        "url": "https://open.spotify.com/album/4gXHhO7gttlHkNKIaiRHyX"
+        "name": "On a Ragga Tip '97",
+        "url": "https://open.spotify.com/album/6HuS4ewokxN2PuHtyKsaPI"
       },
       "artists": [
         {
@@ -261,72 +149,8 @@
         }
       ],
       "duration_ms": 309426,
-      "name": "On A Ragga Tip \u201897 (original Mix)",
-      "url": "https://open.spotify.com/track/7LzePPG7eWPV5TBefnwwvP"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Masters Series - 90's House Party",
-        "url": "https://open.spotify.com/album/6QuICThYwco66fUhxNhmgY"
-      },
-      "artists": [
-        {
-          "name": "N Joi",
-          "url": "https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs"
-        }
-      ],
-      "duration_ms": 243973,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/3OmIL39latV0jEW8E68aoG"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Music for the Jilted Generation",
-        "url": "https://open.spotify.com/album/3HpFr2EeE38hr706Rxtmjy"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 387066,
-      "name": "Voodoo People",
-      "url": "https://open.spotify.com/track/03QUcrQ2EyMJv6q7KY3kS5"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "All Night Rave",
-        "url": "https://open.spotify.com/album/2dpR2JrtEh2DOs4bOVr2vU"
-      },
-      "artists": [
-        {
-          "name": "Urban Hype",
-          "url": "https://open.spotify.com/artist/3bc9afAmYFjpZAlUCdivKO"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "A Trip To Trumpton",
-      "url": "https://open.spotify.com/track/3pxGMD0kIX25alO1EVFvdG"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "TB Resucitation",
-        "url": "https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN"
-      },
-      "artists": [
-        {
-          "name": "Hardfloor",
-          "url": "https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk"
-        }
-      ],
-      "duration_ms": 542939,
-      "name": "Acperience 1",
-      "url": "https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W"
+      "name": "On a Ragga Tip '97 - Original Mix",
+      "url": "https://open.spotify.com/track/7gX6Y2jhsrVqu9qIrxpPof"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -351,18 +175,98 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "XL Recordings: The First Chapters",
-        "url": "https://open.spotify.com/album/0vLYDCPo6GFOLo4c9QiMDO"
+        "name": "Chime",
+        "url": "https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm"
       },
       "artists": [
         {
-          "name": "Kicks Like A Mule",
-          "url": "https://open.spotify.com/artist/0gNBzvupSJfTpX65rwgLzH"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
         }
       ],
-      "duration_ms": 364000,
-      "name": "The Bouncer - Housequake Mix",
-      "url": "https://open.spotify.com/track/6OlygUNPF9IhPo7Zhri6sU"
+      "duration_ms": 194760,
+      "name": "Chime - Edit",
+      "url": "https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Not Over Yet (Remixes)",
+        "url": "https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw"
+      },
+      "artists": [
+        {
+          "name": "Grace",
+          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Not over Yet - Perfecto Edit",
+      "url": "https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Mind Fruit",
+        "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
+      },
+      "artists": [
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "It's a Fine Day",
+      "url": "https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Move Your Body (Elevation) - EP",
+        "url": "https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink"
+      },
+      "artists": [
+        {
+          "name": "Xpansions",
+          "url": "https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Valley of the Shadows",
+        "url": "https://open.spotify.com/album/5fWVvxaSJgpESrUvNIk9PF"
+      },
+      "artists": [
+        {
+          "name": "Origin Unknown",
+          "url": "https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho"
+        }
+      ],
+      "duration_ms": 280973,
+      "name": "Valley of the Shadows",
+      "url": "https://open.spotify.com/track/6fzwardfFs6sVfNA5R1ypt"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Such A Good Feeling",
+        "url": "https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp"
+      },
+      "artists": [
+        {
+          "name": "Brothers In Rhythm",
+          "url": "https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Such A Good Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -399,50 +303,98 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Move Your Body (Elevation) - EP",
-        "url": "https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink"
+        "name": "Hard Normal Daddy",
+        "url": "https://open.spotify.com/album/1CPBXIsx6Km7ZvDmvM0gYS"
       },
       "artists": [
         {
-          "name": "Xpansions",
-          "url": "https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj"
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
         }
       ],
-      "duration_ms": 231840,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf"
+      "duration_ms": 397133,
+      "name": "Beep Street",
+      "url": "https://open.spotify.com/track/4ygcdmPyBFEaf25SEEsKrz"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Electro Glide In Blue",
-        "url": "https://open.spotify.com/album/5SBkxQjY7zgrKDrpz6vcV8"
+        "name": "Jungle Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z"
       },
       "artists": [
         {
-          "name": "Apollo 440",
-          "url": "https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7"
+          "name": "Tom & Jerry",
+          "url": "https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ"
         }
       ],
-      "duration_ms": 270400,
-      "name": "Ain't Talkin' 'Bout Dub",
-      "url": "https://open.spotify.com/track/0lk1zdGFPEv6U7omOAqhSs"
+      "duration_ms": 245173,
+      "name": "Maximum Style (Lover To Lover)",
+      "url": "https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Dub War",
-        "url": "https://open.spotify.com/album/5LBA3bnccnGPrfYdjWd5r4"
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/70T1jyWOTEWxuvLIQjg1km"
       },
       "artists": [
         {
-          "name": "Dance Conspiracy",
-          "url": "https://open.spotify.com/artist/1Nk5VWJj0BIUvH89rzG9U1"
+          "name": "Awesome 3",
+          "url": "https://open.spotify.com/artist/4qonlcYcLvt22gP54K6oeL"
         }
       ],
-      "duration_ms": 468613,
-      "name": "Dub War - Chapter One",
-      "url": "https://open.spotify.com/track/5sc9CDaEgyX1EDztFkS5p2"
+      "duration_ms": 311680,
+      "name": "Don't Go - Original Mix",
+      "url": "https://open.spotify.com/track/7DOgJIDxCOsPYHXQZIuseF"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Clear",
+      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Inner City Life",
+        "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "Inner City Life - Radio Edit",
+      "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/28lpBShPdRMmQxT2kEAKMq"
+      },
+      "artists": [
+        {
+          "name": "Joey Beltram",
+          "url": "https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0"
+        }
+      ],
+      "duration_ms": 350813,
+      "name": "Energy Flash",
+      "url": "https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -463,172 +415,28 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "DJs Take Control",
-        "url": "https://open.spotify.com/album/68bRNvaxeAyepyKaguHeBn"
+        "name": "Jungle Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z"
       },
       "artists": [
         {
-          "name": "SL2",
-          "url": "https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn"
-        }
-      ],
-      "duration_ms": 292466,
-      "name": "The Noise - The Remix",
-      "url": "https://open.spotify.com/track/5MDMgJLTMZkjZsuJbdOYAw"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Sweet Harmony",
-        "url": "https://open.spotify.com/album/3J4qnl8v2t2WtI3PwTBBzb"
-      },
-      "artists": [
-        {
-          "name": "Liquid",
-          "url": "https://open.spotify.com/artist/4wxJRtX2kEmKXtr0mMzHr9"
-        }
-      ],
-      "duration_ms": 286973,
-      "name": "Phog (Original Mix)",
-      "url": "https://open.spotify.com/track/6TW9QNuBnRiJjJnEqaAtZI"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "The Ha\u00e7ienda - Acid House Classics",
-        "url": "https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW"
-      },
-      "artists": [
-        {
-          "name": "Maurice",
-          "url": "https://open.spotify.com/artist/6ji89XTJxUyNUkRXnZuFSZ"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "This is Acid",
-      "url": "https://open.spotify.com/track/23HpSrqrULF8mF1WKdZRyl"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/3CJnogFqgp3U4l4hAAwDKR"
-      },
-      "artists": [
-        {
-          "name": "Hyper Go Go",
-          "url": "https://open.spotify.com/artist/0qmNfpBqNTC0gldJ4B48Ir"
-        }
-      ],
-      "duration_ms": 299693,
-      "name": "High - Original Mix",
-      "url": "https://open.spotify.com/track/7cczaN8rKLcNnE1pOz3COT"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Old Skool",
-        "url": "https://open.spotify.com/album/4uKTXO3kX3Tb1i2vtnPREm"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "M-Beat",
+          "url": "https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g"
         },
         {
-          "name": "Quadrophonia",
-          "url": "https://open.spotify.com/artist/5h9kVRnbuvrdgWJMOPkGna"
+          "name": "Nazlin",
+          "url": "https://open.spotify.com/artist/7EHyk9B3KdWJFIbMpte5GL"
         }
       ],
-      "duration_ms": 200126,
-      "name": "Quadrophonia",
-      "url": "https://open.spotify.com/track/3UWI95pROyfLZZz4YEwFP3"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Greatest: Altern 8",
-        "url": "https://open.spotify.com/album/76hA5i0UE8UfqMJJHiLBUe"
-      },
-      "artists": [
-        {
-          "name": "Altern 8",
-          "url": "https://open.spotify.com/artist/4rOv05Duzyn6YkBfQepDYC"
-        }
-      ],
-      "duration_ms": 321226,
-      "name": "E-Vapor-8",
-      "url": "https://open.spotify.com/track/4iAKdClYxItZVrTrwzkIvA"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Mind Fruit",
-        "url": "https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz"
-      },
-      "artists": [
-        {
-          "name": "Opus III",
-          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "It's a Fine Day",
-      "url": "https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "Good Times - London",
-        "url": "https://open.spotify.com/album/69ZPFHSfMnRWpZnC1xeGdk"
-      },
-      "artists": [
-        {
-          "name": "Origin Unknown",
-          "url": "https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho"
-        }
-      ],
-      "duration_ms": 270733,
-      "name": "Valley of the Shadows",
-      "url": "https://open.spotify.com/track/0FOUhsELYGYIXBE10lblg9"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "EX:EL",
-        "url": "https://open.spotify.com/album/0PbQC8LnwDcO02TiiAlpWc"
-      },
-      "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "C\u00fcbik (Original Mix)",
-      "url": "https://open.spotify.com/track/4wOqlDz4gK8tmIBHkOery6"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
-        "name": "The Stone Of The 5th Sun",
-        "url": "https://open.spotify.com/album/4iA3qCKxfySUWnOed7zUGz"
-      },
-      "artists": [
-        {
-          "name": "Force Mass Motion",
-          "url": "https://open.spotify.com/artist/3RKv86Dvl132jbxDVUmXNX"
-        }
-      ],
-      "duration_ms": 308600,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/12IgeOceRuMzBymb9zTAWr"
+      "duration_ms": 238760,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
         "name": "Digeridoo",
-        "url": "https://open.spotify.com/album/6MFWzY1ntqQa9PW4rHXgB5"
+        "url": "https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G"
       },
       "artists": [
         {
@@ -638,61 +446,61 @@
       ],
       "duration_ms": 431466,
       "name": "Digeridoo",
-      "url": "https://open.spotify.com/track/7bjcxlsSW1WzCnJyMgbq6V"
+      "url": "https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Beltram Vol 1",
-        "url": "https://open.spotify.com/album/3oPLFFhqRVKH3gagWpdKjk"
+        "name": "Electro Glide In Blue",
+        "url": "https://open.spotify.com/album/5SBkxQjY7zgrKDrpz6vcV8"
       },
       "artists": [
         {
-          "name": "Joey Beltram",
-          "url": "https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0"
+          "name": "Apollo 440",
+          "url": "https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7"
         }
       ],
-      "duration_ms": 350096,
-      "name": "Energy Flash",
-      "url": "https://open.spotify.com/track/6QBL3OaSCbTbI1N8Oy5twv"
+      "duration_ms": 270400,
+      "name": "Ain't Talkin' 'Bout Dub",
+      "url": "https://open.spotify.com/track/0lk1zdGFPEv6U7omOAqhSs"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Greatest: Altern 8",
-        "url": "https://open.spotify.com/album/76hA5i0UE8UfqMJJHiLBUe"
+        "name": "Conquers Your Love (Remastered)",
+        "url": "https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz"
       },
       "artists": [
         {
-          "name": "Altern 8",
-          "url": "https://open.spotify.com/artist/4rOv05Duzyn6YkBfQepDYC"
+          "name": "Praga Khan",
+          "url": "https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb"
         }
       ],
-      "duration_ms": 334293,
-      "name": "Activ-8 (Come with Me)",
-      "url": "https://open.spotify.com/track/4ZeT5M0UGhXzJa2IJ41Rjb"
+      "duration_ms": 303106,
+      "name": "Injected with a Poison",
+      "url": "https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Floorfillers 90s Club Classics / Compilation",
-        "url": "https://open.spotify.com/album/0eUaCTABoVin6xQcE1jS9R"
+        "name": "LFO",
+        "url": "https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n"
       },
       "artists": [
         {
-          "name": "K-Klass",
-          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
+          "name": "LFO",
+          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
         }
       ],
-      "duration_ms": 198733,
-      "name": "Rhythm Is A Mystery - Radio Edit",
-      "url": "https://open.spotify.com/track/366YPzDm8YVTAXgpe7EqJz"
+      "duration_ms": 319266,
+      "name": "LFO",
+      "url": "https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
         "name": "Experience",
-        "url": "https://open.spotify.com/album/3LYrQ4Pr2CMbQl3nWxXItR"
+        "url": "https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r"
       },
       "artists": [
         {
@@ -701,72 +509,88 @@
         }
       ],
       "duration_ms": 331266,
-      "name": "Your Love (Remix)",
-      "url": "https://open.spotify.com/track/4axNug8UrlC0ndpSNhe5iF"
+      "name": "Your Love - Remix",
+      "url": "https://open.spotify.com/track/6vsy0Bg3BeAyq7INPGEA2o"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
+        "name": "Deliverance",
+        "url": "https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn"
       },
       "artists": [
         {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+          "name": "Baby D",
+          "url": "https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc"
         }
       ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+      "duration_ms": 470506,
+      "name": "Let Me Be Your Fantasy",
+      "url": "https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "In Order to Dance",
-        "url": "https://open.spotify.com/album/1z1mTAGY4CI7FbzM5llGlg"
+        "name": "90s 100 Hits",
+        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
       "artists": [
         {
-          "name": "CJ Bolland",
-          "url": "https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng"
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk"
         }
       ],
-      "duration_ms": 385493,
-      "name": "Carmargue",
-      "url": "https://open.spotify.com/track/0QPIixOXVmZI1KeMhIzHxv"
+      "duration_ms": 189773,
+      "name": "Don't You Want Me - Edit",
+      "url": "https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Unit 1",
-        "url": "https://open.spotify.com/album/5w3AS9phJPcCVQMcvefeHt"
+        "name": "Reinforced Presents Callin For Reinforcements",
+        "url": "https://open.spotify.com/album/5w8cU8ixaBD5NjjNnFG7mA"
       },
       "artists": [
         {
-          "name": "Modular Expansion",
-          "url": "https://open.spotify.com/artist/7gzna5FLH7KeMHxbqImL7P"
+          "name": "Manix",
+          "url": "https://open.spotify.com/artist/3NxpC1snwKVakSDm2hLNsI"
         }
       ],
-      "duration_ms": 245106,
-      "name": "Cubes",
-      "url": "https://open.spotify.com/track/6SWyIMaXdpLkhiItiS40yw"
+      "duration_ms": 280853,
+      "name": "Feel Real Good",
+      "url": "https://open.spotify.com/track/0JaqIqqFzNkQFoCJTFrakV"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "We Are I.E.",
-        "url": "https://open.spotify.com/album/6WxzGPzFFbOh5KfbT7IvdC"
+        "name": "Far Out/Higher",
+        "url": "https://open.spotify.com/album/3OGpPRrKarUlNG4bF4sn6M"
       },
       "artists": [
         {
-          "name": "Lennie De Ice",
-          "url": "https://open.spotify.com/artist/5FlgrBF71OneBX2lLRe4Tj"
+          "name": "Sonz Of A Loop Da Loop Era",
+          "url": "https://open.spotify.com/artist/7BVU0VCeUMAa18zDX5mOyh"
         }
       ],
-      "duration_ms": 298004,
-      "name": "We Are I.E. - Original Extended Edit",
-      "url": "https://open.spotify.com/track/5updfQssZ3S5hmPSyPhHdV"
+      "duration_ms": 295720,
+      "name": "Far out",
+      "url": "https://open.spotify.com/track/72qHsDcLYFyPTqKAmQcm4h"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "TB Resucitation",
+        "url": "https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN"
+      },
+      "artists": [
+        {
+          "name": "Hardfloor",
+          "url": "https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk"
+        }
+      ],
+      "duration_ms": 542939,
+      "name": "Acperience 1",
+      "url": "https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -787,34 +611,214 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Children (Dance Vault Mixes)",
-        "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG"
       },
       "artists": [
         {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+          "name": "Rachel Wallace",
+          "url": "https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b"
         }
       ],
-      "duration_ms": 243266,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
+      "duration_ms": 287276,
+      "name": "Tell Me Why - M&M Full Vocal",
+      "url": "https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y"
     },
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Future Sound",
-        "url": "https://open.spotify.com/album/1OjCcRMq2aAG6VAgo8et8N"
+        "name": "This Style",
+        "url": "https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR"
       },
       "artists": [
         {
-          "name": "Phuture Assassins",
-          "url": "https://open.spotify.com/artist/5nq9cT7aNEbgXnbHBSmXL7"
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
         }
       ],
-      "duration_ms": 305082,
-      "name": "Future Sound",
-      "url": "https://open.spotify.com/track/4XGtrrre6mcmeciRhH2ClM"
+      "duration_ms": 334129,
+      "name": "This Style",
+      "url": "https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Klass of '92 - '95 (Lesson 3)",
+        "url": "https://open.spotify.com/album/5mH05vKa8zsJWULxSjaySm"
+      },
+      "artists": [
+        {
+          "name": "Nookie",
+          "url": "https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh"
+        }
+      ],
+      "duration_ms": 319666,
+      "name": "Only You (Original Mix) [2011 Remastered Version]",
+      "url": "https://open.spotify.com/track/2Sn0kVVniQtPXHy3yqRwNt"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Music for the Jilted Generation",
+        "url": "https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 387066,
+      "name": "Voodoo People",
+      "url": "https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "40 Miles",
+        "url": "https://open.spotify.com/album/0FGGbq9a4SLw27m9WZ5DHA"
+      },
+      "artists": [
+        {
+          "name": "Congress",
+          "url": "https://open.spotify.com/artist/34g0SuVnC8oefEeUlmYXBT"
+        }
+      ],
+      "duration_ms": 328829,
+      "name": "40 Miles",
+      "url": "https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Utd. State 90",
+        "url": "https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "C\u00fcbik",
+      "url": "https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "DJs Take Control",
+        "url": "https://open.spotify.com/album/57CmPHHFqK8aa3Yknb3hQW"
+      },
+      "artists": [
+        {
+          "name": "SL2",
+          "url": "https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn"
+        }
+      ],
+      "duration_ms": 305613,
+      "name": "DJs Take Control",
+      "url": "https://open.spotify.com/track/4BBQFns2zAlQHdIvEpVG2p"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Conspiracy to Dance",
+        "url": "https://open.spotify.com/album/5ZZWCQDEpQP09K6GyDziTd"
+      },
+      "artists": [
+        {
+          "name": "Urban Hype",
+          "url": "https://open.spotify.com/artist/3bc9afAmYFjpZAlUCdivKO"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "A Trip to Trumpton",
+      "url": "https://open.spotify.com/track/2XOZtfX5jRhHClanQCQKCB"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "It's a Jazz Thing / It's a Big up Thing (Remixes)",
+        "url": "https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db"
+      },
+      "artists": [
+        {
+          "name": "Roni Size",
+          "url": "https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr"
+        },
+        {
+          "name": "Utah Jazz",
+          "url": "https://open.spotify.com/artist/1qDIEHxFTJPRYmLO40RL5e"
+        }
+      ],
+      "duration_ms": 360012,
+      "name": "It's a Jazz Thing - Utah Jazz Remix",
+      "url": "https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "R.I.P / Ice Cream & Syrup",
+        "url": "https://open.spotify.com/album/5RX5DEe12BK2L8FCCPQv3W"
+      },
+      "artists": [
+        {
+          "name": "Remarc",
+          "url": "https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d"
+        }
+      ],
+      "duration_ms": 276263,
+      "name": "R.I.P.",
+      "url": "https://open.spotify.com/track/1SHNtEYq8rz1MnCpAQVHnP"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "The Sound Of Belgium",
+        "url": "https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN"
+      },
+      "artists": [
+        {
+          "name": "Golden Girls",
+          "url": "https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2"
+        }
+      ],
+      "duration_ms": 348523,
+      "name": "Kinetic - Frank De Wulf Remix",
+      "url": "https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "We Are I.E.",
+        "url": "https://open.spotify.com/album/0tZD3DurMqNzntpB60M5cH"
+      },
+      "artists": [
+        {
+          "name": "Lennie De Ice",
+          "url": "https://open.spotify.com/artist/5FlgrBF71OneBX2lLRe4Tj"
+        }
+      ],
+      "duration_ms": 298004,
+      "name": "We Are I.E. - Original Extended Edit",
+      "url": "https://open.spotify.com/track/7Li4jlU5MVqS5f3J2ooviA"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Masters Series - 90's House Party",
+        "url": "https://open.spotify.com/album/6QuICThYwco66fUhxNhmgY"
+      },
+      "artists": [
+        {
+          "name": "N Joi",
+          "url": "https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs"
+        }
+      ],
+      "duration_ms": 243973,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/3OmIL39latV0jEW8E68aoG"
     }
   ],
   "unique_name": "Rave Classics",

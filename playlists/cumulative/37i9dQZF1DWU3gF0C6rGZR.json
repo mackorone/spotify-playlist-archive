@@ -528,6 +528,24 @@
     },
     {
       "album": {
+        "name": "La Sonrisa de Krahe",
+        "url": "https://open.spotify.com/album/2BNUR1CxHqNFuPwTdia7PS"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208146,
+      "name": "Coplas Pat\u00e9ticas",
+      "url": "https://open.spotify.com/track/1m8H0tv9NvOW9Uck7DG1PV"
+    },
+    {
+      "album": {
         "name": "Coplas Pat\u00e9ticas",
         "url": "https://open.spotify.com/album/3MDbpYL0a1jqiY5FYzNuTL"
       },
@@ -539,7 +557,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208146,
       "name": "Coplas Pat\u00e9ticas",
       "url": "https://open.spotify.com/track/2eKndfo2kO68N1oqYrLAtt"
@@ -1391,10 +1409,28 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245493,
       "name": "Pongamos Que Hablo de Madrid",
       "url": "https://open.spotify.com/track/5Mk78wLlqsNuxIxDBkI9Ms"
+    },
+    {
+      "album": {
+        "name": "Mucho Sabina",
+        "url": "https://open.spotify.com/album/5pr2R3J9kR06c9RmRGlvqa"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245800,
+      "name": "Pongamos Que Hablo de Madrid",
+      "url": "https://open.spotify.com/track/4L3gOv26fhKuOZCOaZgQYj"
     },
     {
       "album": {
@@ -1738,6 +1774,24 @@
     },
     {
       "album": {
+        "name": "Vinagre Y Rosas",
+        "url": "https://open.spotify.com/album/2KhZpzpA0WTSIeJfPvHoD6"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2021-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251986,
+      "name": "Tiramisu de Limon",
+      "url": "https://open.spotify.com/track/0x8BlHc0tPoiY8zAzsD2Wa"
+    },
+    {
+      "album": {
         "name": "Tiramisu de Limon",
         "url": "https://open.spotify.com/album/33N9DXjW7WSxskbx4FMeRQ"
       },
@@ -1749,7 +1803,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251986,
       "name": "Tiramisu de Limon",
       "url": "https://open.spotify.com/track/2RWQo5F0iGGSluBZyaOyxc"

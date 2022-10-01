@@ -249,6 +249,24 @@
     {
       "album": {
         "name": "Saari Raat",
+        "url": "https://open.spotify.com/album/2TbC3ffg6NqCvYtbRZ3bVE"
+      },
+      "artists": [
+        {
+          "name": "Devika",
+          "url": "https://open.spotify.com/artist/6H3vcjNh7U6YKyuMuzSWAv"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379453,
+      "name": "Barkha Bahaar",
+      "url": "https://open.spotify.com/track/1TDL5PY1CO05RRmxepSF0v"
+    },
+    {
+      "album": {
+        "name": "Saari Raat",
         "url": "https://open.spotify.com/album/0EtApMEmLEz21D8Ia4L2Jo"
       },
       "artists": [
@@ -259,7 +277,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 379453,
       "name": "Barkha Bahar",
       "url": "https://open.spotify.com/track/4zMh0HDWkXubHj43dwjXuJ"
@@ -357,10 +375,32 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 384867,
       "name": "Bright Eyes",
       "url": "https://open.spotify.com/track/6YurAWZr1amWqDhkn3Yrc9"
+    },
+    {
+      "album": {
+        "name": "Love Letters P.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/0qYDzUGVm3cROeMQ5IrGIC"
+      },
+      "artists": [
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        },
+        {
+          "name": "Alev Lenz",
+          "url": "https://open.spotify.com/artist/5AbBmL35b74Ywd0sqILIdg"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384867,
+      "name": "Bright Eyes (feat. Alev Lenz)",
+      "url": "https://open.spotify.com/track/5MaDXZxQUKRqGC3JAQIGpr"
     },
     {
       "album": {
@@ -547,10 +587,32 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247155,
       "name": "Ghir Ghir Ke",
       "url": "https://open.spotify.com/track/1oJttLU7BjhXvk2AI9PB4R"
+    },
+    {
+      "album": {
+        "name": "Ghir Ghir Ke",
+        "url": "https://open.spotify.com/album/2R6i4AcVuKKaFr8iAecT4w"
+      },
+      "artists": [
+        {
+          "name": "Bhavya Pandit",
+          "url": "https://open.spotify.com/artist/1hYkTNl6h28hwB6IZJ3nfB"
+        },
+        {
+          "name": "Avijeet Satapathy",
+          "url": "https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247155,
+      "name": "Ghir Ghir Ke",
+      "url": "https://open.spotify.com/track/510UTDROfJ1pQQLrFZgo9Y"
     },
     {
       "album": {
@@ -851,10 +913,28 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260256,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/6aq4kwRTCpm3nMMDazY0kK"
+    },
+    {
+      "album": {
+        "name": "Sabar",
+        "url": "https://open.spotify.com/album/44gFbG7mWYc4u0lENFlQSY"
+      },
+      "artists": [
+        {
+          "name": "Shadow and Light",
+          "url": "https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260256,
+      "name": "Kahaani",
+      "url": "https://open.spotify.com/track/6z0iNZXZ7xEwjQf6SXDH8P"
     },
     {
       "album": {
@@ -1337,10 +1417,28 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 354520,
       "name": "Night",
       "url": "https://open.spotify.com/track/4N3vw766peEDGWJEnSC7cL"
+    },
+    {
+      "album": {
+        "name": "MIDIval PunditZ",
+        "url": "https://open.spotify.com/album/4rSbNYZdPsBDGBK7Qrat7X"
+      },
+      "artists": [
+        {
+          "name": "Midival Punditz",
+          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355853,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/5ucLyBlhHzKn2ZiAQwLOl7"
     },
     {
       "album": {
@@ -1399,10 +1497,64 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 240136,
       "name": "One Family (Live)",
       "url": "https://open.spotify.com/track/1jDSX9yXzRyvkZSlwsOBbg"
+    },
+    {
+      "album": {
+        "name": "Shiva - Ricky Kej Live in India",
+        "url": "https://open.spotify.com/album/2nLzw4gKPSvjuubgf4NyaG"
+      },
+      "artists": [
+        {
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240136,
+      "name": "One Family (Live)",
+      "url": "https://open.spotify.com/track/5H5BQEnXcHV349qCuwm5Gy"
+    },
+    {
+      "album": {
+        "name": "Ooch Apaar",
+        "url": "https://open.spotify.com/album/10QCudlJoZPHcoPBDTc1mA"
+      },
+      "artists": [
+        {
+          "name": "Deepa Nair Rasiya",
+          "url": "https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420991,
+      "name": "Ooch Apaar",
+      "url": "https://open.spotify.com/track/14jmLovqc2rOc2KDqwd8Yw"
+    },
+    {
+      "album": {
+        "name": "Ooch Apaar",
+        "url": "https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW"
+      },
+      "artists": [
+        {
+          "name": "Deepa Nair Rasiya",
+          "url": "https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-23",
+      "duration_ms": 420994,
+      "name": "Ooch Apaar",
+      "url": "https://open.spotify.com/track/0IAo2pRTsnIKeFqSBovtE6"
     },
     {
       "album": {
@@ -1417,7 +1569,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 420994,
       "name": "Ooch Apaar",
       "url": "https://open.spotify.com/track/2WoPxsPKf6nnPSY1Gk5i6O"
@@ -1515,10 +1667,28 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 781396,
       "name": "Raga Hamsdhwani",
       "url": "https://open.spotify.com/track/7jtMQFKfAq1C9qPHJzMgfz"
+    },
+    {
+      "album": {
+        "name": "Piano Moods of Indian Ragas",
+        "url": "https://open.spotify.com/album/0w5TiC3gMe2m69oUsMskrC"
+      },
+      "artists": [
+        {
+          "name": "Utsav Lal",
+          "url": "https://open.spotify.com/artist/4Pcg6hzSg5EesPpNIbyYKd"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 781493,
+      "name": "Raga Hamsdhwani",
+      "url": "https://open.spotify.com/track/1H7V3AzrqHvO5wnP4AcUw1"
     },
     {
       "album": {
@@ -1533,10 +1703,28 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 338840,
       "name": "Rasiya",
       "url": "https://open.spotify.com/track/3HFJPw9sU2Ks2290Rlt3tU"
+    },
+    {
+      "album": {
+        "name": "Grounded in Space",
+        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
+      },
+      "artists": [
+        {
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338840,
+      "name": "Rasiya",
+      "url": "https://open.spotify.com/track/4GdSydpo68O9XnTnnmSntO"
     },
     {
       "album": {
@@ -1631,7 +1819,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 275252,
       "name": "Saiyyan",
       "url": "https://open.spotify.com/track/4GSvSi4BA4Pddnjmmqmw49"
@@ -1675,10 +1863,28 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258962,
       "name": "Sakhi Vasant Aaya",
       "url": "https://open.spotify.com/track/4DSORlBFO3jKHgrDB2esk0"
+    },
+    {
+      "album": {
+        "name": "Sakhi Vasant Aaya - Single",
+        "url": "https://open.spotify.com/album/0mdDqBvNFnVhNLbWFtDFB1"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi Tripathi",
+          "url": "https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258962,
+      "name": "Sakhi Vasant Aaya",
+      "url": "https://open.spotify.com/track/4KMsPlI229IQ4z3dqcCbIV"
     },
     {
       "album": {
@@ -1853,10 +2059,32 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 432000,
       "name": "Tangerine Thumri (Orange Turban Mix)",
       "url": "https://open.spotify.com/track/6e0Nq5CfORhxfuuBRsUaQG"
+    },
+    {
+      "album": {
+        "name": "Shiva Moon",
+        "url": "https://open.spotify.com/album/1TtTFpcrxspPiuBsD7f1gT"
+      },
+      "artists": [
+        {
+          "name": "Prem Joshua",
+          "url": "https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1"
+        },
+        {
+          "name": "Maneesh de Moor",
+          "url": "https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432000,
+      "name": "Tangerine Thumri (Orange Turban Mix)",
+      "url": "https://open.spotify.com/track/1ZpDROkwHFYtpsRkBTG2Sr"
     },
     {
       "album": {
@@ -2003,10 +2231,28 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 350480,
       "name": "Traveller - Leafcutter John Remix",
       "url": "https://open.spotify.com/track/28I5uwR9g7Hg4Hq4Uwuuo2"
+    },
+    {
+      "album": {
+        "name": "OK (Expanded Edition)",
+        "url": "https://open.spotify.com/album/78TxUdER5QfLxTBpXu1UZm"
+      },
+      "artists": [
+        {
+          "name": "Talvin Singh",
+          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350480,
+      "name": "Traveller - Leafcutter John Remix",
+      "url": "https://open.spotify.com/track/68pnUjdZYEgYuHArZRxETk"
     },
     {
       "album": {

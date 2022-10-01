@@ -1,13 +1,249 @@
 {
-  "description": "The best in blues right now. Cover: Kirk Fletcher",
-  "num_followers": 38722,
+  "description": "The best in blues right now. Cover: Buddy Guy",
+  "num_followers": 40221,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MTkxMSwwMDAwMDA1NDAwMDAwMTgyMDIwZWY4MWYwMDAwMDE4MjAyMGVjZTA2",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGQzMTQxMzZhM2ZiODYwNmY4ZTE5NjU3ZjNlYWM2NzJj",
   "tracks": [
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Follow The Money (feat. James Taylor)",
+        "url": "https://open.spotify.com/album/7iC5jkTp3GqdFGjx2wBBYk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Follow The Money (feat. James Taylor)",
+      "url": "https://open.spotify.com/track/4ikAAkBStMneLsxfjcoG4E"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Things Happen That Way",
+        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Just No Getting Over You (Dream Cruise)",
+        "url": "https://open.spotify.com/album/5nAs2igKGjEshXErFX2CQe"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 280986,
+      "name": "Just No Getting Over You (Dream Cruise)",
+      "url": "https://open.spotify.com/track/0QCa6CGQJvYs5190mDePQP"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 169569,
+      "name": "Lover's Game",
+      "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Ready Now",
+        "url": "https://open.spotify.com/album/6kpBj0DkFrvabc4ffDjm3U"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Hall",
+          "url": "https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi"
+        }
+      ],
+      "duration_ms": 302053,
+      "name": "Risin' Up",
+      "url": "https://open.spotify.com/track/3SwzJIkMEbLjAK97hEaaLV"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Mortgage on My Soul",
+        "url": "https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa"
+      },
+      "artists": [
+        {
+          "name": "J.D. Simo",
+          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
+        }
+      ],
+      "duration_ms": 424626,
+      "name": "Mortgage on My Soul",
+      "url": "https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 208415,
+      "name": "Pink Turns To Red",
+      "url": "https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Ace Of Spades",
+        "url": "https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK"
+      },
+      "artists": [
+        {
+          "name": "Angela Strehli",
+          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
+        }
+      ],
+      "duration_ms": 156973,
+      "name": "Ace Of Spades",
+      "url": "https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "High Is Low",
+      "url": "https://open.spotify.com/track/3yrV9iFHJYULuE8jogoPec"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "I Let My Guitar Do The Talking",
+        "url": "https://open.spotify.com/album/1ldh55ODHFyehFYty8YEiq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "I Let My Guitar Do The Talking",
+      "url": "https://open.spotify.com/track/3Zg7MMTH1e5xARor2JDKki"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "End Of The Line [Feat. Aaron Neville]",
+        "url": "https://open.spotify.com/album/6Jej60SOD8fojT5s4HHsGS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        },
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/2IwhGWbdmfMZMZ9JE4GiDN"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "One Foot In The Groove",
+        "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
+      },
+      "artists": [
+        {
+          "name": "Boneshakers",
+          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
+        }
+      ],
+      "duration_ms": 265010,
+      "name": "Big Legged Man",
+      "url": "https://open.spotify.com/track/7JDEtVgmR53Yi9S0C1Vktj"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Bob Corritore & Friends: You Shocked Me",
+        "url": "https://open.spotify.com/album/18rXZSxt8oRqSMZChCNEPE"
+      },
+      "artists": [
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Oscar Wilson",
+          "url": "https://open.spotify.com/artist/3Dlel3io4wOjaKcj6YL7rV"
+        }
+      ],
+      "duration_ms": 197388,
+      "name": "Blue Blue Water",
+      "url": "https://open.spotify.com/track/6YqNOEJY1xQw1Zbgxa10Bu"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Two Steps From The Blues",
+        "url": "https://open.spotify.com/album/1BHB22TjTZOivmUqVXg9zV"
+      },
+      "artists": [
+        {
+          "name": "Angela Strehli",
+          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
+        }
+      ],
+      "duration_ms": 157853,
+      "name": "Two Steps From The Blues",
+      "url": "https://open.spotify.com/track/6ehBcXu26w7KT5ZMUHnEBj"
+    },
     {
       "added_at": "2022-07-15 04:02:00",
       "album": {
@@ -25,20 +261,40 @@
       "url": "https://open.spotify.com/track/2SSuZ7fCreC6czcTtu2wfu"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
+      "added_at": "2022-08-19 04:02:00",
       "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
       },
       "artists": [
         {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
         }
       ],
-      "duration_ms": 350520,
-      "name": "Waiting For The Dawn",
-      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
+      "duration_ms": 196939,
+      "name": "Dry Run",
+      "url": "https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Break on Free (Radio Edit)",
+        "url": "https://open.spotify.com/album/6JtVrM7vhAHScW65sijAie"
+      },
+      "artists": [
+        {
+          "name": "St. Paul Peterson",
+          "url": "https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva"
+        },
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 226767,
+      "name": "Break on Free (Radio Edit)",
+      "url": "https://open.spotify.com/track/3DSBR09kCm9YmwjZ2p2HSd"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -55,38 +311,6 @@
       "duration_ms": 190436,
       "name": "Virginia Soil",
       "url": "https://open.spotify.com/track/2BabLfYnJvdWrDvgzNVYqE"
-    },
-    {
-      "added_at": "2022-07-12 17:38:18",
-      "album": {
-        "name": "Easy On The Eyes",
-        "url": "https://open.spotify.com/album/3kd1vDgfeU3UsFtDvIUcts"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 211819,
-      "name": "Easy On The Eyes",
-      "url": "https://open.spotify.com/track/1NkI05k92FlfdiCL5BKol6"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Sleeping Dogs Best Left Alone",
-        "url": "https://open.spotify.com/album/3U9s5zYOPVSFuKpPo55iSN"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 239320,
-      "name": "Sleeping Dogs Best Left Alone",
-      "url": "https://open.spotify.com/track/29ZxWblASXbWazPYJyI8Nl"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -295,8 +519,8 @@
     {
       "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "I Wish I Knew How It Would Feel To Be Free",
-        "url": "https://open.spotify.com/album/2zIs5JH5olt903NfR0A1XK"
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/39JLsOUFJjzvKIIXEB8IsJ"
       },
       "artists": [
         {
@@ -310,7 +534,7 @@
       ],
       "duration_ms": 222706,
       "name": "I Wish I Knew How It Would Feel To Be Free",
-      "url": "https://open.spotify.com/track/6y1Yxs016r9gSsZhBKszjW"
+      "url": "https://open.spotify.com/track/6w23sxZepVSmRiTLDsP5ou"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -639,8 +863,8 @@
     {
       "added_at": "2021-12-10 05:01:00",
       "album": {
-        "name": "You Don't Know The Blues",
-        "url": "https://open.spotify.com/album/0aC5fduz5FiAQiuKrsQhjM"
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
       },
       "artists": [
         {
@@ -649,8 +873,8 @@
         }
       ],
       "duration_ms": 274066,
-      "name": "You Don't Know The Blues",
-      "url": "https://open.spotify.com/track/3uYWtoQd5lPBrE8OhBP2Wg"
+      "name": "You Don't Know the Blues",
+      "url": "https://open.spotify.com/track/4omYnAPibSJVlUrc0vg9dN"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -743,8 +967,8 @@
     {
       "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Bonnie",
-        "url": "https://open.spotify.com/album/6TpMAQZqwXrU5JbT7r57EF"
+        "name": "Arms of a Lover",
+        "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
       },
       "artists": [
         {
@@ -754,7 +978,7 @@
       ],
       "duration_ms": 277733,
       "name": "Bonnie",
-      "url": "https://open.spotify.com/track/5aEHeKYiIJYKh8LE6uE8Do"
+      "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -960,7 +1184,7 @@
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "Dear America",
-        "url": "https://open.spotify.com/album/0IwmHFrTRo5Em6d72VNbs3"
+        "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
       },
       "artists": [
         {
@@ -970,7 +1194,7 @@
       ],
       "duration_ms": 227114,
       "name": "Dear America",
-      "url": "https://open.spotify.com/track/6DYaFGcyQyX87He1OxZeOg"
+      "url": "https://open.spotify.com/track/167JkxvuUN2yW8uMZp2zwE"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1069,22 +1293,6 @@
       "url": "https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ"
     },
     {
-      "added_at": "2021-09-24 04:02:00",
-      "album": {
-        "name": "The Blues Album",
-        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 290560,
-      "name": "Three Time Loser",
-      "url": "https://open.spotify.com/track/04xqwHdJ1wWnk7AOZYTzuk"
-    },
-    {
       "added_at": "2021-11-05 04:00:00",
       "album": {
         "name": "Open Road",
@@ -1152,7 +1360,7 @@
       "added_at": "2021-08-06 04:01:00",
       "album": {
         "name": "Under Your Spell",
-        "url": "https://open.spotify.com/album/5k0hBiaEUAwqu54TauMa4T"
+        "url": "https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i"
       },
       "artists": [
         {
@@ -1166,7 +1374,7 @@
       ],
       "duration_ms": 173508,
       "name": "Under Your Spell",
-      "url": "https://open.spotify.com/track/1n4OzgYj9CwubUx7vhf1uD"
+      "url": "https://open.spotify.com/track/6cq0Q5NdeKfO6jjCrAnIov"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -1224,7 +1432,7 @@
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "What Happens Next",
-        "url": "https://open.spotify.com/album/2wVJmrDg19gR4wtCRFDncv"
+        "url": "https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB"
       },
       "artists": [
         {
@@ -1234,7 +1442,7 @@
       ],
       "duration_ms": 154840,
       "name": "Solid Ground",
-      "url": "https://open.spotify.com/track/4dtYmYgTH5I5uZxUuF5eon"
+      "url": "https://open.spotify.com/track/29kOOOgYW6OfqblR5Kawqt"
     },
     {
       "added_at": "2021-09-17 05:00:00",
@@ -1256,7 +1464,7 @@
       "added_at": "2021-06-25 04:02:00",
       "album": {
         "name": "I Be Trying",
-        "url": "https://open.spotify.com/album/3cBmAwjBX1csLooXbuwHhr"
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
       "artists": [
         {
@@ -1266,7 +1474,7 @@
       ],
       "duration_ms": 207320,
       "name": "Get Down",
-      "url": "https://open.spotify.com/track/3EHUAF57hi6zS7LS9QKzGJ"
+      "url": "https://open.spotify.com/track/7FnFu8xkQdB5HtX9sTg4eq"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -1299,22 +1507,6 @@
       "duration_ms": 227434,
       "name": "Poor Black Children",
       "url": "https://open.spotify.com/track/7zLqqKktW17B2S5CRlrBY7"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Sitting At Home Alone",
-        "url": "https://open.spotify.com/album/77MTWaEpZrh3vjitwDfsdC"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Sitting At Home Alone",
-      "url": "https://open.spotify.com/track/1rjhzTMKG8NdgkNKRFnFmi"
     },
     {
       "added_at": "2021-07-16 04:01:00",
@@ -1356,7 +1548,7 @@
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "Resurrection",
-        "url": "https://open.spotify.com/album/3hBNP1QpE7MWs5OIInJxAG"
+        "url": "https://open.spotify.com/album/7MNdKioZBeUYQnpFP9mZiV"
       },
       "artists": [
         {
@@ -1366,7 +1558,7 @@
       ],
       "duration_ms": 383360,
       "name": "When It Rains",
-      "url": "https://open.spotify.com/track/18CdYKjbXZQ1UYpkVUqlin"
+      "url": "https://open.spotify.com/track/32l9UbhARgLoQTimx3bWwU"
     },
     {
       "added_at": "2021-06-04 04:01:00",

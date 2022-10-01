@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2idQpnxeioGlOsW66uaQ3U.md) - [plain]
 
 > This eclectic, electric\-leaning collection is perfect for focusing on your flow and extending your flexibility.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128 likes - 23 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 127 likes - 23 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

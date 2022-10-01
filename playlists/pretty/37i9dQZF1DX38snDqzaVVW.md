@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Shafqat Amanat Ali with his favourite tracks this Ramadan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,065 likes - 29 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,325 likes - 29 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 4 | [Ishq Ramazan \- From "Ishq Ramazan"](https://open.spotify.com/track/7v9kVugVA3CQP9mFbnBJ2d) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Ishq Ramazan \(From "Ishq Ramazan"\)](https://open.spotify.com/album/2f1CWqFilSHfBmHaXcFGEF) | 4:21 |
 | 5 | [Khudi Ka Sirr\-E\-Niha](https://open.spotify.com/track/2q9M99cF21590ziA2sbsSq) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Adab E Khud Aa Gahi \(Allama Iqbal Special\)](https://open.spotify.com/album/6pYqkQjBtcoI9zwcg1OBaA) | 9:12 |
 | 6 | [Manqabat \(Ya Ali\)](https://open.spotify.com/track/0ZsNuSiKfbDHwOCT7HojSE) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Tabeer](https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD) | 2:53 |
-| 7 | [Kya Hai Ali Ye Nutqay](https://open.spotify.com/track/6tZLIlHn6oUFcnkxEoaslF) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Kya Hai Ali Ye Nutqay](https://open.spotify.com/album/2PGFhztL2n0H8vNnb8oOOe) | 4:23 |
+| 7 | [Kya Hai Ali Ye Nutqay Payamber Batayega](https://open.spotify.com/track/6ix7LFcayNvGcZtGXdJxMR) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Kya Hai Ali Ye Nutqay Payamber Batayega](https://open.spotify.com/album/2vNtjTSfZLmbvEo8Oh735q) | 4:23 |
 | 8 | [Nawaza Hai](https://open.spotify.com/track/3ufmF7hTQHvky89sVw5oN4) | [Salman Amjad Amanat Ali Khan](https://open.spotify.com/artist/4ALYs4SJTcFPzvlW2quWi0) | [Nawaza Hai](https://open.spotify.com/album/6IFyVP3I3Ul0rvCxBRa6m9) | 5:13 |
 | 9 | [Tajdar\-E\-Haram](https://open.spotify.com/track/5R6920vG1ZLfJRHdtjYLso) | [Sabri Brothers](https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI) | [Greatest Hits Of Sabri Brothers Vol \-1](https://open.spotify.com/album/7aSicRbA49R2zYwtsfCopg) | 13:02 |
 | 10 | [Bhar Do Jholi Meri](https://open.spotify.com/track/3TDdtOJHNegr41uz3eAKE7) | [Sabri Brothers](https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI) | [Best Of Sabri Brothers](https://open.spotify.com/album/6lsUBzPAKmw8m4gibjHEPN) | 19:53 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 28 | [Ya Nabi Salam Alayka](https://open.spotify.com/track/5HHjEUuf9lNhQWJ1pZeGgI) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(Turkish Version\)](https://open.spotify.com/album/1Wul1gjulHQkgnZ1aZMgne) | 4:56 |
 | 29 | [Hasbi Rabbi](https://open.spotify.com/track/1VQI2F0o229lNoyFC9d6eh) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [My Ummah](https://open.spotify.com/album/3mInNCcr0tAvc6eFSTSUcz) | 4:18 |
 
-Snapshot ID: `MTY1MDI1NDQwMCwwMDAwMDBkNzAwMDAwMTgwM2FkM2NhNjQwMDAwMDE4MDJjN2Q2NmJk`
+Snapshot ID: `MTY1MDI1NDQwMCwwMDAwMDAwMDY0YzAwNjRlZWM4YmQ5M2M5ODcyZDcyZWI3Y2Q0MGVh`

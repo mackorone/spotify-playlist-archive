@@ -31,8 +31,8 @@
       },
       "artists": [
         {
-          "name": "Benjamin Hastings",
-          "url": "https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
       "date_added": "2022-06-10",
@@ -228,6 +228,24 @@
     },
     {
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242733,
+      "name": "Drive (For Daddy Gene)",
+      "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
+    },
+    {
+      "album": {
         "name": "It's All About The Music",
         "url": "https://open.spotify.com/album/3CSzB71OGoQU5PRNyDWeGh"
       },
@@ -239,7 +257,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242826,
       "name": "Drive (For Daddy Gene)",
       "url": "https://open.spotify.com/track/32qiMwmCESGPYtjfnIkIqC"
@@ -275,10 +293,28 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225253,
       "name": "Even Though I'm Leaving",
       "url": "https://open.spotify.com/track/3sVLgsSTHRu483w6QciloO"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225253,
+      "name": "Even Though I'm Leaving",
+      "url": "https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi"
     },
     {
       "album": {
@@ -333,10 +369,32 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 228000,
       "name": "Father",
       "url": "https://open.spotify.com/track/2nCQq02bOLS65hfOZt8J4D"
+    },
+    {
+      "album": {
+        "name": "Father",
+        "url": "https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        },
+        {
+          "name": "Wild Sons",
+          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl"
     },
     {
       "album": {
@@ -575,10 +633,46 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212013,
       "name": "I Loved Her First",
       "url": "https://open.spotify.com/track/0fZq48okuWkpAgjsWogAJ4"
+    },
+    {
+      "album": {
+        "name": "I Loved Her First",
+        "url": "https://open.spotify.com/album/2TkVvC9ETHw7y6KlpdHr8f"
+      },
+      "artists": [
+        {
+          "name": "Heartland",
+          "url": "https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212880,
+      "name": "I Loved Her First",
+      "url": "https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ"
+    },
+    {
+      "album": {
+        "name": "I Still Believe in That",
+        "url": "https://open.spotify.com/album/0u3WForpl37yjNBo7gllCa"
+      },
+      "artists": [
+        {
+          "name": "Ash Bowers",
+          "url": "https://open.spotify.com/artist/2aJsgmclt9joQMsHMffCBr"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "I Still Believe in That",
+      "url": "https://open.spotify.com/track/4x80O7HhUzxec2hAgWdvQ8"
     },
     {
       "album": {
@@ -593,7 +687,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206400,
       "name": "I Still Believe in That",
       "url": "https://open.spotify.com/track/6lBfMfwQuQSQBxxsjvbynx"
@@ -726,6 +820,24 @@
     },
     {
       "album": {
+        "name": "McGRAW (The Ultimate Collection)",
+        "url": "https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218560,
+      "name": "My Little Girl",
+      "url": "https://open.spotify.com/track/3dNhdwu8RcaVdrDZ1cAtzx"
+    },
+    {
+      "album": {
         "name": "Greatest Hits, Vol. 2",
         "url": "https://open.spotify.com/album/5gXBn0p6m8neWwnitoZJdd"
       },
@@ -737,7 +849,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219986,
       "name": "My Little Girl (from My Friend Flicka)",
       "url": "https://open.spotify.com/track/7qosBEliJ2mNL87rMTfbT5"
@@ -755,10 +867,28 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234873,
       "name": "My Old Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/30x7X9Mjo0Spbb2POIc3E0"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234873,
+      "name": "My Old Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6hJ7gAxu3QqYBfvaTV3ZOQ"
     },
     {
       "album": {
@@ -943,10 +1073,46 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203386,
       "name": "The Beautiful Things We Miss",
       "url": "https://open.spotify.com/track/15JKU30tzA8Kq8kbEysqP8"
+    },
+    {
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203386,
+      "name": "The Beautiful Things We Miss",
+      "url": "https://open.spotify.com/track/5N72L6I3YRMCYhGE1dHu4g"
+    },
+    {
+      "album": {
+        "name": "Outrageous Grace",
+        "url": "https://open.spotify.com/album/0nWWj6yZHZyFi8iQbRb424"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258186,
+      "name": "The Father's Song",
+      "url": "https://open.spotify.com/track/1jHE6L9VDkMHD4pzx7Cq4z"
     },
     {
       "album": {
@@ -961,7 +1127,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260200,
       "name": "The Father's Song",
       "url": "https://open.spotify.com/track/4J4RUudVyiefFXJNiG5YkN"
@@ -1181,10 +1347,28 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224960,
       "name": "You're Gonna Miss This",
       "url": "https://open.spotify.com/track/68Q1r5zDnnYaHkh80yal4A"
+    },
+    {
+      "album": {
+        "name": "American Man: Greatest Hits Vol. II",
+        "url": "https://open.spotify.com/album/3Ayxk9tKhpAE9gffRUWfDi"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224960,
+      "name": "You're Gonna Miss This",
+      "url": "https://open.spotify.com/track/7Efs0OIW6zgQyH7ehKZYpN"
     },
     {
       "album": {

@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 115986,
       "name": "Cretin Hop - 2017 Remaster",
       "url": "https://open.spotify.com/track/2GMujhtXaUVaSNbcTSGQ8m"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 169560,
       "name": "Here Today, Gone Tomorrow - 2017 Remaster",
       "url": "https://open.spotify.com/track/1wH6pi7gVjcpWbPMBBymfy"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-30",
       "duration_ms": 247493,
       "name": "Howling at the Moon (Sha-La-La)",
       "url": "https://open.spotify.com/track/5bhA5IQMnMqCCAAdNwSlCM"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 199933,
       "name": "It's Gonna Be Alright",
       "url": "https://open.spotify.com/track/5tLT3L4SqoBQtiZkxxPwQK"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-08-31",
       "duration_ms": 214440,
       "name": "Life's a Gas",
       "url": "https://open.spotify.com/track/5YsuX6S5Qwx1D0mowihvTk"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": "2022-08-03",
       "duration_ms": 95973,
       "name": "Now I Wanna Sniff Some Glue - 2016 Remaster",
       "url": "https://open.spotify.com/track/1KWWXe7kMpVptnBsdiiyVb"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 161400,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/78j8gwBS0Lf36M1yqRG6kJ"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 154760,
       "name": "Psycho Therapy - 2002 Remaster",
       "url": "https://open.spotify.com/track/2ts97xvejbOEi0H5LAVCX8"
@@ -815,6 +815,24 @@
       "duration_ms": 202880,
       "name": "Questioningly - 2018 Remaster",
       "url": "https://open.spotify.com/track/75NgAgzuJ40YmzULzvtUiz"
+    },
+    {
+      "album": {
+        "name": "Twilight Zone (Live 1994)",
+        "url": "https://open.spotify.com/album/2bkCYTDYhSwldMMOVvcLSr"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77385,
+      "name": "R.A.M.O.N.E.S. - Live 1994",
+      "url": "https://open.spotify.com/track/03NxcAfdPgnUTNZDScYqnZ"
     },
     {
       "album": {
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": "2022-08-26",
       "duration_ms": 151866,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/2RJjvsFg22fZZa4l8tAfmr"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-25",
       "duration_ms": 179173,
       "name": "Strength to Endure",
       "url": "https://open.spotify.com/track/1iOqQucADvs4hFX6YpflHO"
@@ -1189,10 +1207,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": "2022-07-30",
       "duration_ms": 132666,
       "name": "Today Your Love, Tomorrow the World - 2016 Remaster",
       "url": "https://open.spotify.com/track/7BmrfUmiDAPHGZCuPCD1F7"
+    },
+    {
+      "album": {
+        "name": "Mondo Bizarro",
+        "url": "https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 160106,
+      "name": "Tomorrow She Goes Away",
+      "url": "https://open.spotify.com/track/18Fp3CwLWbtrDf8KKckDlf"
     },
     {
       "album": {

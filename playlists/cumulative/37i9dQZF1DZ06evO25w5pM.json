@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-22",
       "duration_ms": 689632,
       "name": "Along the High Ridges",
       "url": "https://open.spotify.com/track/64vIE1KwDyg4Ar9SosQR4w"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": "2022-08-19",
       "duration_ms": 450480,
       "name": "Dawn Mist - The Temple",
       "url": "https://open.spotify.com/track/6cnSLJOo5A4tcZ6TPZnCI2"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 297333,
       "name": "Deeper than the Sky",
       "url": "https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-10-01",
       "duration_ms": 327106,
       "name": "Felsen im Licht",
       "url": "https://open.spotify.com/track/114goyp7beFWnmtoOsYtJo"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 488840,
       "name": "Free Forever",
       "url": "https://open.spotify.com/track/7tu8BZz19o4D1zQhLsWSRE"
@@ -376,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Buddha Nature",
+        "url": "https://open.spotify.com/album/72PYgOokcFMyEXjzgkfkRu"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1660266,
+      "name": "Illumination",
+      "url": "https://open.spotify.com/track/0NTLQj0Futvbwwh0fr2jfW"
+    },
+    {
+      "album": {
         "name": "Reiki Hands of Light",
         "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
@@ -391,6 +409,24 @@
       "duration_ms": 581226,
       "name": "Illumination of the Heart",
       "url": "https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR"
+    },
+    {
+      "album": {
+        "name": "Tibet Nada Himalaya 2",
+        "url": "https://open.spotify.com/album/4iPs5HUdRml1LOnNw8aL73"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 545440,
+      "name": "Khumbe",
+      "url": "https://open.spotify.com/track/1LUL3P83KWBsfZFoypbJAH"
     },
     {
       "album": {
@@ -445,7 +481,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 514080,
       "name": "Koyasan",
       "url": "https://open.spotify.com/track/5lV4TxufL1Sq5zfC8Gz2CZ"
@@ -463,7 +499,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 611093,
       "name": "Language of Silence",
       "url": "https://open.spotify.com/track/4gsTHtp8pywndlUmPZIgOw"
@@ -481,7 +517,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 688613,
       "name": "Lavender Fields",
       "url": "https://open.spotify.com/track/1ENhgR4UmYRhit46FoJVes"
@@ -571,7 +607,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 503146,
       "name": "Mericoeur",
       "url": "https://open.spotify.com/track/2Yt7BGALGcWl1TEBtQEqBy"
@@ -845,7 +881,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 414106,
       "name": "Spirales",
       "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
@@ -863,7 +899,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 486893,
       "name": "Still Stones of Silence",
       "url": "https://open.spotify.com/track/7zUPTyOUvO41OBtA5BTwMr"
@@ -975,7 +1011,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 349306,
       "name": "Unknown Doors",
       "url": "https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5"
@@ -1022,6 +1058,24 @@
     },
     {
       "album": {
+        "name": "Mysterium",
+        "url": "https://open.spotify.com/album/10YHfrv4zqC7WjpeEF445V"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336266,
+      "name": "Vollmond im Herbst (Full Moon in Autumn)",
+      "url": "https://open.spotify.com/track/7I42dEHbS8rKpu19tkQQ2A"
+    },
+    {
+      "album": {
         "name": "Reiki Hands of Light",
         "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
@@ -1033,7 +1087,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 650560,
       "name": "Waves of Light",
       "url": "https://open.spotify.com/track/4DKQvhGkiY5UpG7aXF4IHb"
@@ -1055,6 +1109,28 @@
       "duration_ms": 493139,
       "name": "Wind in Bamboo",
       "url": "https://open.spotify.com/track/35GhFYRrUA5yepizpGgFxF"
+    },
+    {
+      "album": {
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 351240,
+      "name": "Wind in the Trees",
+      "url": "https://open.spotify.com/track/3PuW8IJzJpqURCSAGgEgLe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO25w5pM"

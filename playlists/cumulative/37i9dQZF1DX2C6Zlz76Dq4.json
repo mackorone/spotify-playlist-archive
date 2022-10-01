@@ -39,7 +39,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 133839,
-      "name": "A Holly Jolly Christmas - Single Version",
+      "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/4GVYLg1qHyToGonrFg9tgW"
     },
     {
@@ -73,10 +73,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227840,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/5WBDqBgGq7LKj38J0QUETf"
+    },
+    {
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/5bZnaRHqJtv7wwfR9LtCvM"
+      },
+      "artists": [
+        {
+          "name": "Vince Vance & The Valiants",
+          "url": "https://open.spotify.com/artist/6zclKpcV5UuKWn2eIRAT7n"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227840,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/7mrSbcJB3205ftbbSMTyYK"
     },
     {
       "album": {
@@ -311,10 +329,50 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197076,
       "name": "Christmas Is (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/0DmfHon0UEWlHdBHGaa0kB"
+    },
+    {
+      "album": {
+        "name": "A Holly Dolly Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197076,
+      "name": "Christmas Is (feat. Miley Cyrus)",
+      "url": "https://open.spotify.com/track/3nwsaOKSqV3Ofs72QWeuag"
+    },
+    {
+      "album": {
+        "name": "A Holly Dolly Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195145,
+      "name": "Christmas On The Square",
+      "url": "https://open.spotify.com/track/2UcH6zeg29WcFXjqwxn6Dt"
     },
     {
       "album": {
@@ -329,7 +387,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195145,
       "name": "Christmas On The Square",
       "url": "https://open.spotify.com/track/7rR0MQUh8guB8KFQYd9YsZ"
@@ -354,8 +412,8 @@
     },
     {
       "album": {
-        "name": "A Holly Dolly Christmas",
-        "url": "https://open.spotify.com/album/3XGx6BABeDvmtVA4k0wfCl"
+        "name": "A Holly Dolly Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV"
       },
       "artists": [
         {
@@ -368,7 +426,43 @@
       "date_removed": null,
       "duration_ms": 222958,
       "name": "Circle Of Love",
+      "url": "https://open.spotify.com/track/0osQt8fRVBIQNbJPwIwand"
+    },
+    {
+      "album": {
+        "name": "A Holly Dolly Christmas",
+        "url": "https://open.spotify.com/album/3XGx6BABeDvmtVA4k0wfCl"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222958,
+      "name": "Circle Of Love",
       "url": "https://open.spotify.com/track/55Tdm6P2r49k5e5hugOifn"
+    },
+    {
+      "album": {
+        "name": "Country Christmas",
+        "url": "https://open.spotify.com/album/1yk8In8WNPY2Sytyp8KKZZ"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126120,
+      "name": "Country Christmas",
+      "url": "https://open.spotify.com/track/4jBeYXnsJaNvsNmc7vhDkw"
     },
     {
       "album": {
@@ -383,7 +477,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 126120,
       "name": "Country Christmas",
       "url": "https://open.spotify.com/track/6iuafI2pfKB9IdkztpKvn1"
@@ -405,10 +499,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219169,
       "name": "Cuddle Up, Cozy Down Christmas",
       "url": "https://open.spotify.com/track/1deT8vP3lOVU3XFAKHsSc3"
+    },
+    {
+      "album": {
+        "name": "A Holly Dolly Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219169,
+      "name": "Cuddle Up, Cozy Down Christmas",
+      "url": "https://open.spotify.com/track/6SvzJUQd3FnuOJI1KWl9hq"
     },
     {
       "album": {
@@ -639,10 +755,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239706,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/7qHVgz1qCKPl7hNQRBS7sQ"
+    },
+    {
+      "album": {
+        "name": "Let There Be Peace On Earth",
+        "url": "https://open.spotify.com/album/6VYEg0G3aXwANUdI9knq1r"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242733,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1VlcOoddCauF3kbl5tljN3"
     },
     {
       "album": {
@@ -679,10 +813,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201754,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/4BOSE2easo41Q7nuvLm979"
+    },
+    {
+      "album": {
+        "name": "A Holly Dolly Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201754,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/59zlM1isufljV8wUPby0rq"
     },
     {
       "album": {
@@ -849,10 +1001,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164444,
       "name": "I Saw Mommy Kissing Santa Claus",
       "url": "https://open.spotify.com/track/0KSbdPRNQMYISPSCYxmpo3"
+    },
+    {
+      "album": {
+        "name": "A Holly Dolly Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164444,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/4nF0P6WaszHMhurQTjUmIp"
     },
     {
       "album": {
@@ -957,10 +1127,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178000,
       "name": "It's Christmas",
       "url": "https://open.spotify.com/track/12MYE3GKzluh6aVgQiLUH6"
+    },
+    {
+      "album": {
+        "name": "Christmas With Ronnie Milsap",
+        "url": "https://open.spotify.com/album/1YjVRUPO0QKOO6mNZbcQj8"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "It's Christmas",
+      "url": "https://open.spotify.com/track/0v83SA7DCwVYv7soRcltWl"
     },
     {
       "album": {
@@ -1235,6 +1423,24 @@
       "duration_ms": 246733,
       "name": "Loving Time of the Year",
       "url": "https://open.spotify.com/track/02beYtblIpAs75dq1h1R4F"
+    },
+    {
+      "album": {
+        "name": "Once Upon A Christmas",
+        "url": "https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "Medley: Winter Wonderland / Sleigh Ride",
+      "url": "https://open.spotify.com/track/183egccUAzP1fEFSy2TSZQ"
     },
     {
       "album": {
@@ -1530,6 +1736,24 @@
     },
     {
       "album": {
+        "name": "Rockin' Around The Christmas Tree/The Decca Christmas Recordings",
+        "url": "https://open.spotify.com/album/1gAceSZFd4irbzRRHLof8U"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2yxTGxTDbgcbMN0Ae102bn"
+    },
+    {
+      "album": {
         "name": "A Classic Christmas",
         "url": "https://open.spotify.com/album/72wZVzg03F0dPBRHdOUyYC"
       },
@@ -1545,24 +1769,6 @@
       "duration_ms": 144293,
       "name": "Rockin' Around the Christmas Tree",
       "url": "https://open.spotify.com/track/0hFsy8qcwuqK6Qt36IoUxr"
-    },
-    {
-      "album": {
-        "name": "Rockin' Around The Christmas Tree/The Decca Christmas Recordings",
-        "url": "https://open.spotify.com/album/1gAceSZFd4irbzRRHLof8U"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "date_added": "2021-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree - Single Version",
-      "url": "https://open.spotify.com/track/2yxTGxTDbgcbMN0Ae102bn"
     },
     {
       "album": {
@@ -1602,6 +1808,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas Wherever You Are",
+        "url": "https://open.spotify.com/album/7bVZzd18CRxQQQRqNU0zJh"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/5GIr3yuNOZs4o3NkdKEWNy"
+    },
+    {
+      "album": {
         "name": "A Holiday Collection",
         "url": "https://open.spotify.com/album/6bgijwbjw2OTyLCA9TqEaH"
       },
@@ -1613,7 +1837,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176800,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/6kiB8aOR5Ss41uoNnaHjkc"
@@ -1869,6 +2093,24 @@
       "duration_ms": 261866,
       "name": "Shimmy Down The Chimney (Fill Up My Stocking)",
       "url": "https://open.spotify.com/track/5OL7UVR4hAxpeWQ5M8eB2T"
+    },
+    {
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/1t1UAfuQfaENQlvMv393i5"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193145,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/32OH3VGKAqEOrFIqdkHCMe"
     },
     {
       "album": {
@@ -2413,10 +2655,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 143800,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/2BKR0iqadGUNjjOVd7XoE8"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas Strait To You",
+        "url": "https://open.spotify.com/album/5TNDl5mXm4qippqOM7q169"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143800,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/2sy7ExsPRAoI9xTGJu3Cvz"
     },
     {
       "album": {
@@ -2485,7 +2745,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221093,
       "name": "Winter Wonderland/Sleigh Ride",
       "url": "https://open.spotify.com/track/3tMbMCmlyb6WDkubqkNDmB"

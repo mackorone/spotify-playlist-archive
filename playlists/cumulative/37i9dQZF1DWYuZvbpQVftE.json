@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-07-11",
-  "description": "The cool sound of West coast jazz. Cover: Gerry Mulligan",
+  "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
   "name": "West Coast Jazz",
   "published_playlist_ids": [
     "5Wmp7nI2JePkFhexNsBnSf"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "California Suite",
+        "url": "https://open.spotify.com/album/3gmEiOR3WfO1vm89Gvmw0i"
+      },
+      "artists": [
+        {
+          "name": "Bud Shank",
+          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200253,
+      "name": "A Sinner Kissed an Angel",
+      "url": "https://open.spotify.com/track/1OsFo184zx2OuU9QqnE4X2"
+    },
     {
       "album": {
         "name": "Bud Shank and Bill Perkins",
@@ -23,7 +41,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200600,
       "name": "A Sinner Kissed an Angel",
       "url": "https://open.spotify.com/track/7snDsIyC2wKPrXv7oyI4t5"
@@ -102,6 +120,24 @@
     },
     {
       "album": {
+        "name": "The Essential Dave Brubeck",
+        "url": "https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410800,
+      "name": "Brandenburg Gate",
+      "url": "https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X"
+    },
+    {
+      "album": {
         "name": "Jazz Impressions Of Eurasia",
         "url": "https://open.spotify.com/album/6r0rjJgC6VTKGn6gQv9VMs"
       },
@@ -113,7 +149,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 411866,
       "name": "Brandenburg Gate",
       "url": "https://open.spotify.com/track/2hHMogPlvtE3i1TnUI5lmP"
@@ -236,7 +272,7 @@
     },
     {
       "album": {
-        "name": "Blues In Time",
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
         "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
       "artists": [
@@ -287,10 +323,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 416866,
       "name": "Gettin' Together [Original Take]",
       "url": "https://open.spotify.com/track/3rwDr45tmKkus6IyGgVdiE"
+    },
+    {
+      "album": {
+        "name": "Gettin' Together!",
+        "url": "https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416866,
+      "name": "Gettin' Together [Original Take]",
+      "url": "https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX"
     },
     {
       "album": {
@@ -345,7 +399,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 201213,
       "name": "Happiness Is a Thing Called Joe",
       "url": "https://open.spotify.com/track/0mOawytsrpaqfVMPkZopDA"
@@ -389,7 +443,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 359960,
       "name": "If You Are There",
       "url": "https://open.spotify.com/track/5rp6EjgoYKp2tLKMIbm7ww"
@@ -561,6 +615,24 @@
     {
       "album": {
         "name": "Afro-Cuban Influence",
+        "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
+      },
+      "artists": [
+        {
+          "name": "Shorty Rogers",
+          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257440,
+      "name": "Moon Over Cuba",
+      "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
+    },
+    {
+      "album": {
+        "name": "Afro-Cuban Influence",
         "url": "https://open.spotify.com/album/62Yenrvcp91jc43CDuroz6"
       },
       "artists": [
@@ -571,10 +643,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254626,
       "name": "Moon over Cuba",
       "url": "https://open.spotify.com/track/63sdXqoW9M8UoR9FqdZVcN"
+    },
+    {
+      "album": {
+        "name": "East Coast Jazz, Vol. 1 (Remastered 2013)",
+        "url": "https://open.spotify.com/album/3Y8mMZZSCCC5S41t0URMnZ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Scott",
+          "url": "https://open.spotify.com/artist/43B662mnCJQuYtIRACBHKD"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 227287,
+      "name": "Moon Tan",
+      "url": "https://open.spotify.com/track/3vJ8Cik37ahoPCs1WyJEfh"
     },
     {
       "album": {
@@ -589,7 +679,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229720,
       "name": "Moon Tan",
       "url": "https://open.spotify.com/track/2QQfzhoo5cCcoRMp2QbUEG"
@@ -618,6 +708,24 @@
     },
     {
       "album": {
+        "name": "The Les Brown All Stars",
+        "url": "https://open.spotify.com/album/6h086LNJI0xdpx2M264eUu"
+      },
+      "artists": [
+        {
+          "name": "The Les Brown All Stars",
+          "url": "https://open.spotify.com/artist/46cKrKgQd9gRgQFxsINd9v"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 311946,
+      "name": "Nap's Dream",
+      "url": "https://open.spotify.com/track/6ddIBDGs9jEu6uwtX195fu"
+    },
+    {
+      "album": {
         "name": "I Had the Craziest Dream (Remastered)",
         "url": "https://open.spotify.com/album/1CnSldoLRIMUGSuXSUxdPK"
       },
@@ -629,7 +737,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 313573,
       "name": "Nap's Dream (I Had the Craziest Dream) [Remastered]",
       "url": "https://open.spotify.com/track/5Ky8Al2TGETBozs8xJ6L25"
@@ -798,7 +906,7 @@
     },
     {
       "album": {
-        "name": "Blues In Time",
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
         "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
       "artists": [
@@ -947,7 +1055,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 159546,
       "name": "Tell Me Something Sweet",
       "url": "https://open.spotify.com/track/10PLzciynHEbKOlRiDGdOt"

@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Violin Lullabies",
+        "url": "https://open.spotify.com/album/1WV89BPDvlj7tJ2Jaofx9m"
+      },
+      "artists": [
+        {
+          "name": "Amy Beach",
+          "url": "https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB"
+        },
+        {
+          "name": "Rachel Barton Pine",
+          "url": "https://open.spotify.com/artist/4st8QHJeSvWO1D4OPUgFaf"
+        },
+        {
+          "name": "Matthew Hagle",
+          "url": "https://open.spotify.com/artist/1eqPXlE2sSBqKF50vw7YvE"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227426,
+      "name": "3 Compositions, Op. 40: No. 2, Berceuse",
+      "url": "https://open.spotify.com/track/2fDLC30XLnXwVtASMgsD1b"
+    },
+    {
+      "album": {
         "name": "Sibelius: Piano Music, Vol. 4",
         "url": "https://open.spotify.com/album/2Ba4pAgqmtEda6HGoGl7JZ"
       },
@@ -23,10 +49,32 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218293,
       "name": "5 Pieces, Op. 75, \"the Trees\": No. 5 Granen (the Spruce)",
       "url": "https://open.spotify.com/track/4fU1mpvaRbTqRXZN6JNlRj"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Piano Music, Vol. 4",
+        "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "H\u00e5vard Gimse",
+          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218293,
+      "name": "5 Pieces, Op. 75, \"The Trees\": No. 5 Granen (The Spruce)",
+      "url": "https://open.spotify.com/track/5gA69lYP3nCULBTdL3quJO"
     },
     {
       "album": {
@@ -111,7 +159,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227426,
       "name": "Berceuse (Lullaby), No. 2 from Three Compositions, Op. 40",
       "url": "https://open.spotify.com/track/6IjoiTqAOtMNOA2KOEm2b9"
@@ -136,6 +184,28 @@
     },
     {
       "album": {
+        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
+        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151480,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta"
+    },
+    {
+      "album": {
         "name": "Bach: Cello Suites Nos. 1, 5 & 6",
         "url": "https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg"
       },
@@ -151,7 +221,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152280,
       "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B"
@@ -303,6 +373,24 @@
     {
       "album": {
         "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161258,
+      "name": "Dreamland",
+      "url": "https://open.spotify.com/track/1lP5gmOcL7PxGodcw6rX04"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
         "url": "https://open.spotify.com/album/1JO4V5ag8I8N9vAgRAkgZA"
       },
       "artists": [
@@ -321,7 +409,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161253,
       "name": "Dreamland",
       "url": "https://open.spotify.com/track/2qJc1yHYxfdvfYfIq6HeMO"
@@ -365,10 +453,36 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 379400,
       "name": "Faur\u00e9: Pavane, Op. 50",
       "url": "https://open.spotify.com/track/6iRcn4yPiXhcEBEM7OUaNt"
+    },
+    {
+      "album": {
+        "name": "Mozart: Eine Kleine Nachtmusik etc.",
+        "url": "https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379400,
+      "name": "Faur\u00e9: Pavane, Op. 50",
+      "url": "https://open.spotify.com/track/7yYONuFhNa72Bf5WFx8hSW"
     },
     {
       "album": {
@@ -505,10 +619,28 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218132,
       "name": "Look Inside Yourself",
       "url": "https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU"
+    },
+    {
+      "album": {
+        "name": "L.I.Y.",
+        "url": "https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218133,
+      "name": "Look Inside Yourself",
+      "url": "https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK"
     },
     {
       "album": {
@@ -575,10 +707,66 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214853,
       "name": "Ma m\u00e8re l'oye, M. 62: Apoth\u00e9ose. Le jardin f\u00e9erique",
       "url": "https://open.spotify.com/track/32Icp7aedxQEHmvPPGrOFd"
+    },
+    {
+      "album": {
+        "name": "Ravel: L'enfant et les sortil\u00e8ges, M. 71 & Ma m\u00e8re l'oye, M. 62",
+        "url": "https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "Ma m\u00e8re l'oye, M. 62: Tableau VI: Le jardin feerique",
+      "url": "https://open.spotify.com/track/1PWSxDyn7QKSLxYOfAvp10"
+    },
+    {
+      "album": {
+        "name": "Szymanowski: Violin Concerto No.1",
+        "url": "https://open.spotify.com/album/3fxUOZ3z11RCitzsjevOws"
+      },
+      "artists": [
+        {
+          "name": "Jules Massenet",
+          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+        },
+        {
+          "name": "Nicola Benedetti",
+          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331933,
+      "name": "Meditation: M\u00e9ditation from Tha\u00efs",
+      "url": "https://open.spotify.com/track/0XfFRLi9G87t57kqZAzeef"
     },
     {
       "album": {
@@ -605,7 +793,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 337253,
       "name": "Meditation: M\u00e9ditation from Tha\u00efs",
       "url": "https://open.spotify.com/track/6Uk28Hs2MulezLxMrd1rBD"
@@ -660,6 +848,28 @@
     },
     {
       "album": {
+        "name": "Chopin: Nocturnes",
+        "url": "https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Maurizio Pollini",
+          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286986,
+      "name": "Nocturne No. 1 In B Flat Minor, Op. 9 No. 1",
+      "url": "https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV"
+    },
+    {
+      "album": {
         "name": "Benjamin Grosvenor: Chopin, Liszt, Ravel",
         "url": "https://open.spotify.com/album/5MyejkHGSoo5IfTum4VMiw"
       },
@@ -704,25 +914,29 @@
     },
     {
       "album": {
-        "name": "Chopin: Nocturnes",
-        "url": "https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv"
+        "name": "Grieg: Orchestral Music, Vol. 4: Peer Gynt Suites - Orchestral Songs",
+        "url": "https://open.spotify.com/album/0bY9XRCl9JwYFNbsdFk8Nj"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Maurizio Pollini",
-          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
+          "name": "Malm\u00f6 Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc"
+        },
+        {
+          "name": "Bjarte Engeset",
+          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
         }
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 286986,
-      "name": "Nocturne No.1 In B Flat Minor, Op.9 No.1",
-      "url": "https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV"
+      "duration_ms": 300160,
+      "name": "Peer Gynt Suite No. 2, Op. 55: IV. Solveigs sang (Solveig's Song)",
+      "url": "https://open.spotify.com/track/0KhEpbXbg6jNJZuCXoD7yN"
     },
     {
       "album": {
@@ -745,7 +959,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 300160,
       "name": "Peer Gynt Suite No. 2, Op. 55: IV. Solveigs sang (Solveig's Song)",
       "url": "https://open.spotify.com/track/1KM99JjxJzU26mwwcLpAPo"
@@ -771,10 +985,40 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227973,
       "name": "Petite suite, L. 65: No. 1, En bateau (Orch. H. Buser)",
       "url": "https://open.spotify.com/track/4zCxFnvD9HWIaDPImLSOq4"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 6",
+        "url": "https://open.spotify.com/album/2PSLGmdwrMnLIJuYxfYuQ0"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Henri B\u00fcsser",
+          "url": "https://open.spotify.com/artist/1fwyJSa1gMDMKqsn6BLGBp"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227973,
+      "name": "Petite suite: I. En bateau (arr. H. Busser for orchestra): I. En bateau",
+      "url": "https://open.spotify.com/track/3rL2blyeOBnUBq3yYA1KcE"
     },
     {
       "album": {
@@ -801,10 +1045,40 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 456400,
       "name": "Piano Concerto No. 12 in A Major, K. 414: II. Andante",
       "url": "https://open.spotify.com/track/24Y4um6M2d4huD6Lx4aHcv"
+    },
+    {
+      "album": {
+        "name": "Mozart: Piano Concertos Nos. 12, 14 and 21",
+        "url": "https://open.spotify.com/album/3P3cmLraYBptPjtnn97hWM"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        },
+        {
+          "name": "Concentus Hungaricus",
+          "url": "https://open.spotify.com/artist/2wAqLhZR0Lmf8YMaYPwciL"
+        },
+        {
+          "name": "Andr\u00e1s Ligeti",
+          "url": "https://open.spotify.com/artist/7HhN6bM72WvN2aBMYV111g"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456400,
+      "name": "Piano Concerto No. 12 in A Major, K. 414: II. Andante",
+      "url": "https://open.spotify.com/track/5c93FTvb9z2PGqWvQlNthN"
     },
     {
       "album": {
@@ -963,10 +1237,36 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 442133,
       "name": "Sinfonia No. 12 in G Minor, MWV N12, \"Fuga\": II. Andante",
       "url": "https://open.spotify.com/track/0LCaQybvZqPsW1Y1y7clD4"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: String Symphonies, Vol. 3",
+        "url": "https://open.spotify.com/album/3UHxfnAuxEainQD3nCimKC"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Northern Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3lisojeQ5S43CK54PmIxtv"
+        },
+        {
+          "name": "Nicholas Ward",
+          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442133,
+      "name": "Sinfonia No. 12 in G Minor, MWV N12, \"Fuga\": II. Andante",
+      "url": "https://open.spotify.com/track/3dE54QrkxG0womq7x9Qc0z"
     },
     {
       "album": {
@@ -985,6 +1285,32 @@
       "duration_ms": 185600,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/3IIboL1W5mfWjzPZenvCVe"
+    },
+    {
+      "album": {
+        "name": "Mozart: Music for 2 Pianos; Piano Duets",
+        "url": "https://open.spotify.com/album/0Y1Cjnw3el8DbYnpwFMANe"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ingrid Haebler",
+          "url": "https://open.spotify.com/artist/7GH65UbP1uRY9HtNvq4R9Y"
+        },
+        {
+          "name": "Ludwig Hoffmann",
+          "url": "https://open.spotify.com/artist/5pMdgZxvIoV1XsvkM0ISGN"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561000,
+      "name": "Sonata for 2 Pianos in D Major, K. 448/375a: II. Andante",
+      "url": "https://open.spotify.com/track/0ITHTQwJhFKtuymSVISwVp"
     },
     {
       "album": {
@@ -1007,7 +1333,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 561000,
       "name": "Sonata for 2 pianos in D, K.448: 2. Andante",
       "url": "https://open.spotify.com/track/48I99KUopQ2TOvU3uFL0rz"
@@ -1040,6 +1366,84 @@
     },
     {
       "album": {
+        "name": "Chopin: Classical BBQ",
+        "url": "https://open.spotify.com/album/1BGcJOfZBgSQeBonHiYJox"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alisa Weilerstein",
+          "url": "https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh"
+        },
+        {
+          "name": "Inon Barnatan",
+          "url": "https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 217320,
+      "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
+      "url": "https://open.spotify.com/track/0lWMRvbD4qlW9iszdR22W6"
+    },
+    {
+      "album": {
+        "name": "Emotions - Classical Music: Chopin",
+        "url": "https://open.spotify.com/album/13KNzSAozVNPH66Bt2YTXF"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alisa Weilerstein",
+          "url": "https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh"
+        },
+        {
+          "name": "Inon Barnatan",
+          "url": "https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
+      "url": "https://open.spotify.com/track/2QON3A3X6ek5vR5gCshd9I"
+    },
+    {
+      "album": {
+        "name": "Chopin - Music from the 1800s",
+        "url": "https://open.spotify.com/album/5VHeuyuGesCOyUeIykxP4q"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alisa Weilerstein",
+          "url": "https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh"
+        },
+        {
+          "name": "Inon Barnatan",
+          "url": "https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 217320,
+      "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
+      "url": "https://open.spotify.com/track/3WIifOYctFn4eagupeKP6a"
+    },
+    {
+      "album": {
         "name": "Rachmaninov & Chopin Cello Sonatas",
         "url": "https://open.spotify.com/album/5iZEISyMh7m2TOf1UVBJGq"
       },
@@ -1059,7 +1463,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217320,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
       "url": "https://open.spotify.com/track/5GvFoTt81kcLw6eEJlfCKT"
@@ -1103,10 +1507,54 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 395000,
       "name": "String Quartet No. 1 in D Major, Op. 11, TH 111: II. Andante cantabile",
       "url": "https://open.spotify.com/track/0bsfVvHZyPpLNFKW1RmZSW"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: String Quartets, Vol. 1",
+        "url": "https://open.spotify.com/album/5mAsoTf141wzQInlKzYWFH"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "New Haydn Quartet",
+          "url": "https://open.spotify.com/artist/7wp6BctZqShWMtTzA5Bati"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395000,
+      "name": "String Quartet No. 1 in D Major, Op. 11: II. Andante cantabile",
+      "url": "https://open.spotify.com/track/4eNSU0YbZE8RKRNDVNbyLm"
+    },
+    {
+      "album": {
+        "name": "Dvorak, A.: String Quartets, Vol. 6 (Vlach Quartet) - Nos. 5, 7",
+        "url": "https://open.spotify.com/album/06Sw3yH2kTQD2XOt2aMnev"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Vlach Quartet Prague",
+          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493906,
+      "name": "String Quartet No. 5 in F Minor, Op. 9, B. 37: II. Andante con moto quasi allegretto",
+      "url": "https://open.spotify.com/track/1qrodRAeiSJUf1NKF34XXs"
     },
     {
       "album": {
@@ -1125,7 +1573,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 493906,
       "name": "String Quartet No. 5 in F Minor, Op. 9, B. 37: II. Andante con moto quasi allegretto",
       "url": "https://open.spotify.com/track/5dqX3SxRRVVrz6FAXR95H7"

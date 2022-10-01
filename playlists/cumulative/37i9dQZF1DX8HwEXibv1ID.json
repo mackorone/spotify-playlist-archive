@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Whatever Julie Wants",
+        "url": "https://open.spotify.com/album/60LVWAuMJJeRfuPzQAiJ3k"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151213,
+      "name": "Always True To You (In My Fashion)",
+      "url": "https://open.spotify.com/track/1t5KCAy7riP1uPT4uCYdwN"
+    },
+    {
+      "album": {
         "name": "The Liberty Years",
         "url": "https://open.spotify.com/album/2sH9FC8gzWUaO5TV6gu1A6"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151466,
       "name": "Always True To You (In My Fashion)",
       "url": "https://open.spotify.com/track/0106Y0rjTFd3aYvPQ91GKO"
@@ -409,10 +427,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154000,
       "name": "Get Out Of Town (Med Andra Ord...)",
       "url": "https://open.spotify.com/track/1CDWZYK3qVTuzjq6kFuI6m"
+    },
+    {
+      "album": {
+        "name": "Don't Dream of Anybody but Me",
+        "url": "https://open.spotify.com/album/5g9BdZChSpUZ2X3vgGNaTa"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Get Out of Town - Med Andra Ord...",
+      "url": "https://open.spotify.com/track/7jDgC41FKERGLL0RQXc05K"
     },
     {
       "album": {
@@ -672,6 +708,44 @@
     },
     {
       "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/502uTcoHcwKPVIGREXz9pi"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Andrew De Jong Cleyndert",
+          "url": "https://open.spotify.com/artist/5G1ofevTZdgiPERUk64PLM"
+        },
+        {
+          "name": "Colin Oxley",
+          "url": "https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs"
+        },
+        {
+          "name": "David Newton",
+          "url": "https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy"
+        },
+        {
+          "name": "Jim Tomlinson",
+          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
+        },
+        {
+          "name": "Steve Brown",
+          "url": "https://open.spotify.com/artist/7DLSRkdZGUdCN98UT44PAd"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Its Delovely",
+      "url": "https://open.spotify.com/track/7iPqb64Shlib9ta9ouKyTC"
+    },
+    {
+      "album": {
         "name": "It's A Wonderful World",
         "url": "https://open.spotify.com/album/7A0VtrrFraHAEbggockFbb"
       },
@@ -703,10 +777,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205666,
       "name": "Its Delovely",
       "url": "https://open.spotify.com/track/4DilU52ZMTc5g3EVdzcTop"
+    },
+    {
+      "album": {
+        "name": "Just One Of Those Things",
+        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135080,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/07KWDsIcRU6r5Ej273QCY3"
     },
     {
       "album": {
@@ -721,7 +813,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135506,
       "name": "Just One Of Those Things",
       "url": "https://open.spotify.com/track/307sTSd6uNMwnCWJzybLy4"
@@ -908,6 +1000,28 @@
     },
     {
       "album": {
+        "name": "Silk Stockings (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        },
+        {
+          "name": "Carole Richards",
+          "url": "https://open.spotify.com/artist/05D7eSjISFRSkreseiUx5k"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163933,
+      "name": "Paris Loves Lovers",
+      "url": "https://open.spotify.com/track/5jDN0wdmd3AcunXBceqmDO"
+    },
+    {
+      "album": {
         "name": "Silk Stockings (1957 Film Original Score)",
         "url": "https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL"
       },
@@ -919,7 +1033,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163944,
       "name": "Paris Loves Lovers",
       "url": "https://open.spotify.com/track/2GLMlLdnJfoVEmQtO2VKH9"
@@ -1016,6 +1130,28 @@
     },
     {
       "album": {
+        "name": "Silk Stockings (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4mYSlsuLpaqRNT1b5hloIz"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        },
+        {
+          "name": "MGM Studio Chorus",
+          "url": "https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "The Ritz Roll and Rock",
+      "url": "https://open.spotify.com/track/6avQ8KrsVqggui50H5zLTb"
+    },
+    {
+      "album": {
         "name": "Silk Stockings (1957 Film Original Score)",
         "url": "https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL"
       },
@@ -1027,7 +1163,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215588,
       "name": "The Ritz Roll and Rock",
       "url": "https://open.spotify.com/track/1gu0OMIllqEM8ozrzyJ6Ty"
@@ -1049,10 +1185,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165986,
       "name": "Too Darn Hot",
       "url": "https://open.spotify.com/track/7k3m2CrQlUdSq4f9H8BxOp"
+    },
+    {
+      "album": {
+        "name": "Mel Torme: Swings Shubert Alley",
+        "url": "https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "The Marty Paich Orchestra",
+          "url": "https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168373,
+      "name": "Too Darn Hot",
+      "url": "https://open.spotify.com/track/6hY98FQBkn7yb0UjaneOOg"
     },
     {
       "album": {
@@ -1237,10 +1395,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127226,
       "name": "Who Want's To Be A Millionaire?",
       "url": "https://open.spotify.com/track/4oOkqjjXr4NzkrPJQsscc5"
+    },
+    {
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Celeste Holm",
+          "url": "https://open.spotify.com/artist/6hDtmqaHJfVhDj48VTtWeb"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127360,
+      "name": "Who Wants To Be A Millionaire",
+      "url": "https://open.spotify.com/track/6OMMZBlodSQh14cyBxSNZ3"
     },
     {
       "album": {
@@ -1280,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "Chet Baker & Strings",
+        "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "Why Shouldn't I?",
+      "url": "https://open.spotify.com/track/2RM6F4QDwmWWFKmV7WunEO"
+    },
+    {
+      "album": {
         "name": "My Funny Valentine: The Best Of Chet Baker",
         "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
       },
@@ -1291,7 +1489,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214666,
       "name": "Why Shouldn't I?",
       "url": "https://open.spotify.com/track/5TZUTN9vUjjxy4vDDxhlKm"
@@ -1403,10 +1601,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182466,
       "name": "You're the Top",
       "url": "https://open.spotify.com/track/6OmaPqehiNi2Q2cLq5uE9m"
+    },
+    {
+      "album": {
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182466,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/6pdbfNeGcAkMkkVClm532h"
     },
     {
       "album": {

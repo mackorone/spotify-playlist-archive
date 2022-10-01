@@ -1,18 +1,54 @@
 {
   "description": "\u00a1Y suena y suena... MS!",
-  "num_followers": 1200745,
+  "num_followers": 1221497,
   "original_name": "This Is Banda MS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzYwMTQ0NCwwMDAwMDA1MjAwMDAwMTgxMDI1M2EyYzQwMDAwMDE4MTAyNGJmMTQx",
+  "snapshot_id": "MTY2MDI4MDQwMCwwMDAwMDAwMDU2YzVkYTJkMjY3NjEyODdlNzQ3NzAxMTdkMjFhMmQ1",
   "tracks": [
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-12 05:00:00",
+      "album": {
+        "name": "Jalo",
+        "url": "https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 145277,
+      "name": "Jalo",
+      "url": "https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz"
+    },
+    {
+      "added_at": "2022-08-09 17:38:16",
+      "album": {
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1ktsCeaosI2GPvhk2igVO9"
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
       "artists": [
         {
@@ -22,13 +58,13 @@
       ],
       "duration_ms": 212280,
       "name": "A Lo Mejor",
-      "url": "https://open.spotify.com/track/15uGaaM2tqSiPUIOlaZThG"
+      "url": "https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
@@ -38,13 +74,13 @@
       ],
       "duration_ms": 176800,
       "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/25OzGW80CnAcWPL9tWUZ2D"
+      "url": "https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
@@ -54,13 +90,33 @@
       ],
       "duration_ms": 192973,
       "name": "Solo Con Verte",
-      "url": "https://open.spotify.com/track/5O8KgU7bOUJAl39ncNNNn7"
+      "url": "https://open.spotify.com/track/5z4O1H0vFY0Nh4ZMtfgapP"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
+      "album": {
+        "name": "Un Chingazo",
+        "url": "https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Un Chingazo",
+      "url": "https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh"
+    },
+    {
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1ktsCeaosI2GPvhk2igVO9"
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
       "artists": [
         {
@@ -69,14 +125,14 @@
         }
       ],
       "duration_ms": 190773,
-      "name": "H\u00e1blame de Ti",
-      "url": "https://open.spotify.com/track/4YCWsVdCoVQieev0hyeesj"
+      "name": "Ha\u0301blame De Ti",
+      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Mi Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6kJW6rPKdlwMl6taKSJn9Z"
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
       },
       "artists": [
         {
@@ -84,15 +140,15 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 211760,
+      "duration_ms": 209786,
       "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/4QX1qy6wFOoCuQlmxciEQV"
+      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1ktsCeaosI2GPvhk2igVO9"
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
       "artists": [
         {
@@ -101,14 +157,14 @@
         }
       ],
       "duration_ms": 223453,
-      "name": "No Me Pidas Perd\u00f3n",
-      "url": "https://open.spotify.com/track/0DTgMwVSKvd1jneI0QGMzL"
+      "name": "No Me Pidas Perdo\u0301n",
+      "url": "https://open.spotify.com/track/5GF1ljm1AWf6RQs9bQkZPR"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Pi\u00e9nsalo",
-        "url": "https://open.spotify.com/album/0XC4FrOkcwvdBFgKVk3wuI"
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
       },
       "artists": [
         {
@@ -116,12 +172,12 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 156121,
-      "name": "Pi\u00e9nsalo",
-      "url": "https://open.spotify.com/track/77WafDONtlrz9LgS8zPlCT"
+      "duration_ms": 155973,
+      "name": "Pi\u00e9nsalo - In\u00e9dita",
+      "url": "https://open.spotify.com/track/33i30iRaIfo7ABAaT5oqDy"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Amor Enfermo",
         "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
@@ -137,7 +193,7 @@
       "url": "https://open.spotify.com/track/0sfs8U4743dBlUKKxN7pye"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "La Mejor Versi\u00f3n De M\u00ed",
         "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
@@ -153,10 +209,10 @@
       "url": "https://open.spotify.com/track/4RNzKQEzmlvVHca4t6Txkj"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
@@ -166,13 +222,13 @@
       ],
       "duration_ms": 248120,
       "name": "Tengo Que Colgar",
-      "url": "https://open.spotify.com/track/7wIQuubY137iT5dC8HxNcQ"
+      "url": "https://open.spotify.com/track/2yGNkkwU2iT0doFxkxhcXH"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1ktsCeaosI2GPvhk2igVO9"
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
       "artists": [
         {
@@ -182,10 +238,10 @@
       ],
       "duration_ms": 224840,
       "name": "Por Este Amor",
-      "url": "https://open.spotify.com/track/0MjMiJSbGhQCHco65874pL"
+      "url": "https://open.spotify.com/track/0b8ONx6Vjfuq2u4G0uouuW"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "La Mejor Versi\u00f3n De M\u00ed",
         "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
@@ -201,7 +257,7 @@
       "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -217,10 +273,10 @@
       "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
@@ -230,10 +286,10 @@
       ],
       "duration_ms": 217133,
       "name": "Que Fuimos",
-      "url": "https://open.spotify.com/track/32gRgkMpVDluqlkNHZ1yZn"
+      "url": "https://open.spotify.com/track/56OTBUIn4xlmDhtPowlA2d"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Amor Enfermo",
         "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
@@ -249,10 +305,10 @@
       "url": "https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/0ENViT87wqrx5RiQKtLO8U"
+        "name": "En Preparaci\u00f3n",
+        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
       },
       "artists": [
         {
@@ -260,12 +316,12 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 168693,
+      "duration_ms": 168706,
       "name": "Incre\u00edble",
-      "url": "https://open.spotify.com/track/2vlIZuftr5G7S3VYYzxYww"
+      "url": "https://open.spotify.com/track/240IA16ruWe9xOjPy16lJy"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -281,10 +337,10 @@
       "url": "https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
@@ -293,11 +349,11 @@
         }
       ],
       "duration_ms": 225960,
-      "name": "A M\u00ed Me Est\u00e1 Doliendo",
-      "url": "https://open.spotify.com/track/5VZ7bLHUmR3lLvPvav0rNK"
+      "name": "A M\u00ed Me Esta Doliendo",
+      "url": "https://open.spotify.com/track/01dVdmSV7eaVgRzUAi6o13"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Ojos Cerrados",
         "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
@@ -317,10 +373,10 @@
       "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/0ENViT87wqrx5RiQKtLO8U"
+        "name": "En Preparaci\u00f3n",
+        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
       },
       "artists": [
         {
@@ -328,15 +384,15 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 163493,
+      "duration_ms": 162253,
       "name": "Sin Evidencia",
-      "url": "https://open.spotify.com/track/2W83CUz2xGFSm2Sfvj5P1q"
+      "url": "https://open.spotify.com/track/62w2zglpnJApdA3VqepzBZ"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1ktsCeaosI2GPvhk2igVO9"
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
       "artists": [
         {
@@ -346,10 +402,10 @@
       ],
       "duration_ms": 187880,
       "name": "Me Gusta Tu Vieja",
-      "url": "https://open.spotify.com/track/1gsnQp7YDID2sgAjheBT5e"
+      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -365,7 +421,7 @@
       "url": "https://open.spotify.com/track/38ofGhTF7TlGS4HkM6e2VS"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Hay Que Hacer Dinero",
         "url": "https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN"
@@ -385,26 +441,26 @@
       "url": "https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Mi Raz\u00f3n De Ser",
-        "url": "https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO"
+        "url": "https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
         }
       ],
       "duration_ms": 207946,
       "name": "P\u00eddeme Perd\u00f3n",
-      "url": "https://open.spotify.com/track/6wRAXwjKkw95QEZnpcXWdk"
+      "url": "https://open.spotify.com/track/0WcdEM7jdkl33XsQtm0RW9"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/0ENViT87wqrx5RiQKtLO8U"
+        "name": "En Preparaci\u00f3n",
+        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
       },
       "artists": [
         {
@@ -412,12 +468,12 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 200746,
+      "duration_ms": 201026,
       "name": "Te Equivocas",
-      "url": "https://open.spotify.com/track/4vpa8qqUPEHOg2KapXxwqb"
+      "url": "https://open.spotify.com/track/09T1GOcYbjJFxfYFmMqrbn"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -433,7 +489,7 @@
       "url": "https://open.spotify.com/track/5OUGSwa2eadrcAsMdUItmO"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Amor Enfermo",
         "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
@@ -449,7 +505,7 @@
       "url": "https://open.spotify.com/track/7y8euUGZzG1E58Nt6bOKNb"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
@@ -465,7 +521,7 @@
       "url": "https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Qu\u00e9 Maldici\u00f3n",
         "url": "https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ"
@@ -485,7 +541,7 @@
       "url": "https://open.spotify.com/track/2RxC2peY3FtrurYmbbmanr"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
@@ -501,10 +557,10 @@
       "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "20 Corridos Bien Perrones",
-        "url": "https://open.spotify.com/album/5SzJp8oUbif3wT3BixnJHT"
+        "name": "Amor Enfermo",
+        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
       },
       "artists": [
         {
@@ -512,15 +568,15 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 222399,
+      "duration_ms": 222373,
       "name": "La \u00daltima Sombra",
-      "url": "https://open.spotify.com/track/35Ln9FPCBaom3wb4LrUqUP"
+      "url": "https://open.spotify.com/track/5UlcSU0MIFY2AhXpIcN9of"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Es Tuyo Mi Amor - Single",
-        "url": "https://open.spotify.com/album/5khQ7lkhdQhJZH2IijmGij"
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
       },
       "artists": [
         {
@@ -528,15 +584,15 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 175000,
+      "duration_ms": 177000,
       "name": "Es Tuyo Mi Amor",
-      "url": "https://open.spotify.com/track/2eW9CRtyLNhjgyLFJNHhtD"
+      "url": "https://open.spotify.com/track/3Tshb8DCw7TEdnNMJc8Yuw"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "En Vivo - Guadalajara - Monterrey",
-        "url": "https://open.spotify.com/album/7KORT5GNhfJMeBzx5yrSWI"
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
       },
       "artists": [
         {
@@ -546,13 +602,13 @@
       ],
       "duration_ms": 231800,
       "name": "Se Va Muriendo Mi Alma - En Vivo",
-      "url": "https://open.spotify.com/track/7tI2l7YmIEsSaJflFhlf5r"
+      "url": "https://open.spotify.com/track/4VinpEidS9wmMuqmljyd21"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
@@ -562,13 +618,13 @@
       ],
       "duration_ms": 242426,
       "name": "De Haber Sabido",
-      "url": "https://open.spotify.com/track/7KvZ3df7tZ0rKoXMZ7ntTm"
+      "url": "https://open.spotify.com/track/3Odhzg269lNP45GDxXTY8Y"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
@@ -577,11 +633,11 @@
         }
       ],
       "duration_ms": 147733,
-      "name": "Porque al Conocerte",
-      "url": "https://open.spotify.com/track/0fOMZgmDTl60jHBgVkqg1a"
+      "name": "Por Que Al Conocerte",
+      "url": "https://open.spotify.com/track/4SfAYd9hmXBG1IrtoCbvhp"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "La Sinverg\u00fcenza",
         "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
@@ -601,10 +657,10 @@
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
@@ -614,10 +670,10 @@
       ],
       "duration_ms": 165853,
       "name": "Mala Experiencia",
-      "url": "https://open.spotify.com/track/2DoMFmHhWfCK97IlFygOpI"
+      "url": "https://open.spotify.com/track/5leINazMrsgEq4SYHXWTaC"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Altamente Probable",
         "url": "https://open.spotify.com/album/5YgaW4C5RzO939vG04yBdV"
@@ -633,7 +689,7 @@
       "url": "https://open.spotify.com/track/0RFxSN4HcsjQF80fkH1q78"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "\u00bfQui\u00e9n Pierde M\u00e1s?",
         "url": "https://open.spotify.com/album/43bj9QP3hwY68to13K9TYZ"
@@ -649,7 +705,7 @@
       "url": "https://open.spotify.com/track/0QINzFpxcbStmnHsf00khl"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -665,7 +721,7 @@
       "url": "https://open.spotify.com/track/5VbucfTj1hPH1Kpvs6uLqy"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "En Vivo CDMX",
         "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
@@ -681,23 +737,23 @@
       "url": "https://open.spotify.com/track/7FgLx7CNxdhLMbHXQFdarp"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Mi Raz\u00f3n De Ser",
-        "url": "https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO"
+        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
         }
       ],
-      "duration_ms": 210493,
+      "duration_ms": 209906,
       "name": "Mi Raz\u00f3n De Ser",
-      "url": "https://open.spotify.com/track/5JaMGjY9Ltvo9CFQfmUdYW"
+      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -713,7 +769,7 @@
       "url": "https://open.spotify.com/track/6XBcXHqRUxlUlVmyv4Scjm"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
@@ -729,7 +785,7 @@
       "url": "https://open.spotify.com/track/7Momt4XxZO0OSwpZry2Zi3"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Por Siempre Mi Amor (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/67bgveDWejGjBPpY09JcLV"
@@ -749,10 +805,10 @@
       "url": "https://open.spotify.com/track/0Xtln8sTYKPvc0hFxA3IXn"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "En Vivo - Guadalajara - Monterrey",
-        "url": "https://open.spotify.com/album/7KORT5GNhfJMeBzx5yrSWI"
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
       },
       "artists": [
         {
@@ -762,10 +818,10 @@
       ],
       "duration_ms": 136933,
       "name": "El 24 - En Vivo",
-      "url": "https://open.spotify.com/track/1yxOveaYgIqumsTfb36jxO"
+      "url": "https://open.spotify.com/track/2LHIzZVNDkxn23ElDUI7cM"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Tributo A Un Grande",
         "url": "https://open.spotify.com/album/4m4GMnfZhlCJWWyaQoKzdE"
@@ -781,10 +837,10 @@
       "url": "https://open.spotify.com/track/69zpGBwP0ETKEI3nsITJli"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
@@ -794,10 +850,10 @@
       ],
       "duration_ms": 150546,
       "name": "Que Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/72IbD3ksdURfqyHqnq1NvX"
+      "url": "https://open.spotify.com/track/1ZYQWPWnQvr11DLF3Vj102"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -813,10 +869,10 @@
       "url": "https://open.spotify.com/track/4kWSjThlxWBli7PzGQJ3EQ"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Recordando",
-        "url": "https://open.spotify.com/album/2cqCq27I1OaONHlIWf99ZH"
+        "name": "Cahuates, Pistaches",
+        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
       },
       "artists": [
         {
@@ -824,12 +880,12 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 178666,
-      "name": "Cahuates Pistaches",
-      "url": "https://open.spotify.com/track/7HC1VYrZCVTfD3ixs9M7tW"
+      "duration_ms": 177053,
+      "name": "Cahuates, Pistaches",
+      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Amigos \u00bfDe Qui\u00e9n?",
         "url": "https://open.spotify.com/album/3RNl5xBdlJA02tSLV3fSeL"
@@ -845,7 +901,7 @@
       "url": "https://open.spotify.com/track/472RYrDoNry11jkmJIWeat"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Gracias a Ti",
         "url": "https://open.spotify.com/album/6KLyjUQiHec4t9KtcQFeph"
@@ -861,7 +917,7 @@
       "url": "https://open.spotify.com/track/44PK0PRRKlF16JbXx6erQB"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -877,7 +933,7 @@
       "url": "https://open.spotify.com/track/6ze9VusaYl2wjZjDAik7dr"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "En Vivo CDMX",
         "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
@@ -893,7 +949,7 @@
       "url": "https://open.spotify.com/track/4Bi9dcIokRS8KP5dSSQfL5"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -909,7 +965,7 @@
       "url": "https://open.spotify.com/track/4qhD6IpAD9iNS2FefCCtjE"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -925,10 +981,10 @@
       "url": "https://open.spotify.com/track/6D8qailERyov9NzV2d5kwh"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "En Vivo - Guadalajara - Monterrey",
-        "url": "https://open.spotify.com/album/7KORT5GNhfJMeBzx5yrSWI"
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
       },
       "artists": [
         {
@@ -938,10 +994,10 @@
       ],
       "duration_ms": 215106,
       "name": "Amor Express - En Vivo",
-      "url": "https://open.spotify.com/track/68DF2Wut8oUQAQQLlkn50M"
+      "url": "https://open.spotify.com/track/5re4p4Vuou12spvIZsc91A"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Solo Con Verte (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/7cslEVuLWm9Jisjx6nuzkV"
@@ -957,7 +1013,7 @@
       "url": "https://open.spotify.com/track/0AmOTCiLE3SBFILfqf4e7d"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Qu\u00e9 Bueno Es Tenerte",
         "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
@@ -977,10 +1033,10 @@
       "url": "https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
@@ -990,10 +1046,10 @@
       ],
       "duration_ms": 210333,
       "name": "No Soy Como Piensas",
-      "url": "https://open.spotify.com/track/6zMePwSGxh7KIvwFhZOOT5"
+      "url": "https://open.spotify.com/track/3HWuHR6qCwwwpXU192XJcq"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
@@ -1009,7 +1065,7 @@
       "url": "https://open.spotify.com/track/1KXvZAHfm7U1dnz9FhQcTm"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -1025,7 +1081,7 @@
       "url": "https://open.spotify.com/track/3tDBo1xhNQvT8FcKUMZxZa"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "El Color de Tus Ojos",
         "url": "https://open.spotify.com/album/4BvJvj4xBfkxQ1WZiO9Xdd"
@@ -1045,9 +1101,9 @@
       "url": "https://open.spotify.com/track/1foxMPXhpLxGJxATRl5rYg"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Positivo (Versi\u00f3n Ac\u00fastica)",
+        "name": "Positivo",
         "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
       "artists": [
@@ -1061,10 +1117,10 @@
       "url": "https://open.spotify.com/track/2458lFmtMzoeH41bvLnuVf"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
@@ -1074,13 +1130,13 @@
       ],
       "duration_ms": 145853,
       "name": "Este Borracho",
-      "url": "https://open.spotify.com/track/0BNGiz0sIkVj1YzhWELMpd"
+      "url": "https://open.spotify.com/track/4VghreA0NSTAgYWOOzpCrm"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
@@ -1090,10 +1146,10 @@
       ],
       "duration_ms": 144933,
       "name": "Si Te Dejo de Querer",
-      "url": "https://open.spotify.com/track/71fKo0M50tJgVd8clwwKz8"
+      "url": "https://open.spotify.com/track/20N5T2Zun2FZQqrMMRzEQ5"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -1109,7 +1165,7 @@
       "url": "https://open.spotify.com/track/4UMEfSlU8YwRDHfXQWDYxc"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -1125,10 +1181,10 @@
       "url": "https://open.spotify.com/track/27rVDDLTVGtxzAH9aSdin4"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
@@ -1137,11 +1193,11 @@
         }
       ],
       "duration_ms": 222480,
-      "name": "No Ser\u00e1 la \u00daltima Vez",
-      "url": "https://open.spotify.com/track/0wA0fu3iQg2bEXpojfQkzt"
+      "name": "No Ser\u00e1 La Ultima Vez",
+      "url": "https://open.spotify.com/track/3G7YrtjZ1j8rH9K8NsWzuv"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "El Color de Tus Ojos (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU"
@@ -1157,9 +1213,9 @@
       "url": "https://open.spotify.com/track/5vqKT1wBUAxlFq57ymoOeJ"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Positivo (Versi\u00f3n Ac\u00fastica)",
+        "name": "Positivo",
         "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
       "artists": [
@@ -1177,7 +1233,7 @@
       "url": "https://open.spotify.com/track/6a7DmCqUQNLS9pHlsBCBo3"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "En Vivo CDMX",
         "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
@@ -1193,7 +1249,7 @@
       "url": "https://open.spotify.com/track/2JA2VnC5rbR1KxlJOQdShe"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "En Vivo CDMX",
         "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
@@ -1209,7 +1265,7 @@
       "url": "https://open.spotify.com/track/70ze28E0ye7nGsaj7yXvh7"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
@@ -1225,7 +1281,7 @@
       "url": "https://open.spotify.com/track/2PQcAZu2OweqjtlzuCbBoT"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "No Eleg\u00ed Conocerte (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/7tigZ2nxGbQCtazk4bqm8v"
@@ -1241,7 +1297,7 @@
       "url": "https://open.spotify.com/track/09via3SMh6p9TyjnuOvGdO"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Qu\u00e9 Fuimos (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/1qWCtbX9VL7AZGCZeJp15O"
@@ -1257,9 +1313,9 @@
       "url": "https://open.spotify.com/track/6lDRkJZe7pTlpAHqsBbnM6"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Positivo (Versi\u00f3n Ac\u00fastica)",
+        "name": "Positivo",
         "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
       "artists": [
@@ -1273,25 +1329,9 @@
       "url": "https://open.spotify.com/track/7c35IABO5BCymbBoxpCdRD"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Positivo (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Cerrando Ciclos - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/4Ms2XP93Pyq8axdnm4TOrB"
-    },
-    {
-      "added_at": "2022-05-26 21:44:04",
-      "album": {
-        "name": "Positivo (Versi\u00f3n Ac\u00fastica)",
+        "name": "Positivo",
         "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
       "artists": [
@@ -1309,7 +1349,7 @@
       "url": "https://open.spotify.com/track/54uLPB8SDBgBWszrDiohBX"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "La Amistad No Cuesta",
         "url": "https://open.spotify.com/album/0xtfcf7tNKDoeRLHKzIp0E"
@@ -1329,9 +1369,9 @@
       "url": "https://open.spotify.com/track/71K1ZMlNRkjdiqXLRNIeUB"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Positivo (Versi\u00f3n Ac\u00fastica)",
+        "name": "Positivo",
         "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
       "artists": [
@@ -1345,9 +1385,9 @@
       "url": "https://open.spotify.com/track/1nFi16f2WqO3V4v1RdInJz"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Positivo (Versi\u00f3n Ac\u00fastica)",
+        "name": "Positivo",
         "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
       "artists": [
@@ -1361,7 +1401,7 @@
       "url": "https://open.spotify.com/track/15t8EzzBBhAPvsLud9nrc8"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -1377,7 +1417,7 @@
       "url": "https://open.spotify.com/track/72CgVXtryN8G1i1KHxsmge"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
@@ -1393,7 +1433,7 @@
       "url": "https://open.spotify.com/track/5Xegk9DaIkv4Bt9nSbLrQR"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Tu Postura (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/740rycJJKT7XpcJIj5rNhS"
@@ -1409,7 +1449,7 @@
       "url": "https://open.spotify.com/track/3z2Q58llEa6gx6mlhHSpgx"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "En Vivo CDMX",
         "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
@@ -1425,7 +1465,7 @@
       "url": "https://open.spotify.com/track/24pGufgMQoZtrESlKSLPlf"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Mejor Me Alejo (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/56t2BF9MwPYYI6O5D6T5yY"
@@ -1441,10 +1481,10 @@
       "url": "https://open.spotify.com/track/1PBYIKAdgeteUZy4aX8k3S"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "En Vivo - Guadalajara - Monterrey",
-        "url": "https://open.spotify.com/album/7KORT5GNhfJMeBzx5yrSWI"
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
       },
       "artists": [
         {
@@ -1454,44 +1494,12 @@
       ],
       "duration_ms": 125240,
       "name": "Sigue - En Vivo",
-      "url": "https://open.spotify.com/track/2GzgEAg0x09IVWVsUA3Bkd"
+      "url": "https://open.spotify.com/track/2SsvjLYpiUIGLvAoMFYVyq"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Positivo (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Positivo - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1YcV3zr7FTJUcoUH3H5fWT"
-    },
-    {
-      "added_at": "2022-05-26 21:44:04",
-      "album": {
-        "name": "En Vivo CDMX",
-        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "El Color de Tus Ojos - En Vivo",
-      "url": "https://open.spotify.com/track/6cWGUGzeYFYIFOUyhBpS2C"
-    },
-    {
-      "added_at": "2022-05-26 21:44:04",
-      "album": {
-        "name": "Positivo (Versi\u00f3n Ac\u00fastica)",
+        "name": "Positivo",
         "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
       "artists": [
@@ -1505,9 +1513,9 @@
       "url": "https://open.spotify.com/track/1uKMD72TDLIXEjIWRRzA9P"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Positivo (Versi\u00f3n Ac\u00fastica)",
+        "name": "Positivo",
         "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
       "artists": [
@@ -1525,7 +1533,7 @@
       "url": "https://open.spotify.com/track/2hckuZwyc2HffYl8FRDQVJ"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Dos Mundos",
         "url": "https://open.spotify.com/album/0fK7EQycUMyl2lCiIaxltA"
@@ -1545,9 +1553,9 @@
       "url": "https://open.spotify.com/track/5bcwDKs6i2A4FQWRlPTvDA"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
-        "name": "Positivo (Versi\u00f3n Ac\u00fastica)",
+        "name": "Positivo",
         "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
       "artists": [
@@ -1561,23 +1569,7 @@
       "url": "https://open.spotify.com/track/6su1JLPMZ5ytCWIowfgrEG"
     },
     {
-      "added_at": "2022-05-26 21:44:04",
-      "album": {
-        "name": "Al Despertar (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/57s38NYjHuY9ARU6M9s7jX"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Al Despertar - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/4v3iVijH4Ms5xYRfjOdc5H"
-    },
-    {
-      "added_at": "2022-05-26 21:44:04",
+      "added_at": "2022-08-09 17:38:16",
       "album": {
         "name": "Positivo (Versi\u00f3n Banda)",
         "url": "https://open.spotify.com/album/2vnOjqiTU5nvrwey17bjIE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1omLAKnMAhhkMSe2IGisUZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 524 likes - 10 songs - 34 min 5 sec
+[Spotify](https://open.spotify.com/user/spotify) - 522 likes - 10 songs - 34 min 5 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/1omLAKnMAhhkMSe2IGisUZ.md) - [plain]
 | 6 | [Forever \- Remastered 2009](https://open.spotify.com/track/74D87XkpPozTefTJaGs1oH) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:42 |
 | 7 | [Disney Girls \(1957\) \- Remastered 2009](https://open.spotify.com/track/17qLiavc8woWHAPAGZD0Py) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 4:10 |
 | 8 | [Cuddle Up \- Remastered 2000](https://open.spotify.com/track/4ZueRj5bCgbhBWV5kXWZee) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Carl & The Passions \- So Tough \(Remastered\)](https://open.spotify.com/album/632t0m8ejm3Geu5rW1CELD) | 5:29 |
-| 9 | [Leaving This Town \- Remastered 2000](https://open.spotify.com/track/6AFHZftM2TZOBkBN7QzOAN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Holland \(2000 Remaster\)](https://open.spotify.com/album/56TmtkBepKW3eZKiRjEl0M) | 5:51 |
+| 9 | [Leaving This Town \- Remastered 2000](https://open.spotify.com/track/6AFHZftM2TZOBkBN7QzOAN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Holland \(Remastered 2000\)](https://open.spotify.com/album/56TmtkBepKW3eZKiRjEl0M) | 5:51 |
 | 10 | [River Song](https://open.spotify.com/track/70Ao5L10SKV701DcOH68Jo) | [Dennis Wilson](https://open.spotify.com/artist/5gl6pfPwJ1coivVUMZPiS9) | [Pacific Ocean Blue & Bambu \- 2 CD Deluxe Legacy Edition](https://open.spotify.com/album/08CyNpU6VJMtGmR7DYjNmQ) | 3:44 |
 
 Snapshot ID: `MTQsNzVkYTg3NTgwOWNkYmMwZjY0YjgxMDY0NDBkNzVmYWUwMzI5NjY3MQ==`

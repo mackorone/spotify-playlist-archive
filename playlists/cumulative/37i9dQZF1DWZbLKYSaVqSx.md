@@ -2,7 +2,7 @@
 
 ### [Coco & Breezy DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWZbLKYSaVqSx)
 
-> The twins <a href =“spotify:artist:0Adbm5kzcPUxFybf9fhjgG”>Coco & Breezy</a> showcase a high\-energy House Music set that will for sure get you dancing.
+> The twins <a href=“spotify:artist:0Adbm5kzcPUxFybf9fhjgG”>Coco & Breezy</a> showcase a high\-energy House Music set that will for sure get you dancing.
 
 25 songs - 57 min 49 sec - [published](https://open.spotify.com/playlist/1eoNaPtkVfWeeiyhvRwsPr)
 

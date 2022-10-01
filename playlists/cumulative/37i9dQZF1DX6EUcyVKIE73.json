@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Ab Mori Baat (Live)",
+        "url": "https://open.spotify.com/album/4iYc0qimMEangahJLGYaNB"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Bhuvanesh Komkali",
+          "url": "https://open.spotify.com/artist/5wqAPDVFT5PhC2RZiA53zB"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432000,
+      "name": "Ab Mori Baat - Live",
+      "url": "https://open.spotify.com/track/0GtOIkzvHqCXgbXoa4Lmq6"
+    },
+    {
+      "album": {
         "name": "Chandrakaush Khamaj 1967",
         "url": "https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7"
       },
@@ -296,6 +318,36 @@
     },
     {
       "album": {
+        "name": "Saath Saath",
+        "url": "https://open.spotify.com/album/1x1NLTjnFDodYTn31ida5k"
+      },
+      "artists": [
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        },
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        },
+        {
+          "name": "Ojas Adhiya",
+          "url": "https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ"
+        },
+        {
+          "name": "Satyajit Talwalkar",
+          "url": "https://open.spotify.com/artist/12i115642dNlreloDOzrtK"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1073000,
+      "name": "Pahadi",
+      "url": "https://open.spotify.com/track/65ctZ5wpladHzbFFHM64ag"
+    },
+    {
+      "album": {
         "name": "Surmayi",
         "url": "https://open.spotify.com/album/3cLkuIZQzvGn1aFUrohEpE"
       },
@@ -457,6 +509,28 @@
       "duration_ms": 1290800,
       "name": "Rag Misra Mand",
       "url": "https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw"
+    },
+    {
+      "album": {
+        "name": "Rag Miya Ki Todi & Rag Bilaskhani Todi",
+        "url": "https://open.spotify.com/album/0mWUzMcScanLQDYIEKGMIu"
+      },
+      "artists": [
+        {
+          "name": "Imrat Khan",
+          "url": "https://open.spotify.com/artist/6htMUYjAgIpH7DRgN2I3yg"
+        },
+        {
+          "name": "Shafaatullah Khan",
+          "url": "https://open.spotify.com/artist/1JrHhcIQYFXGvjITblw4Mp"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2294000,
+      "name": "Rag Miya Ki Todi",
+      "url": "https://open.spotify.com/track/1swbYA2tiIOZTRpqCfsQLv"
     },
     {
       "album": {
@@ -744,6 +818,42 @@
     },
     {
       "album": {
+        "name": "Live at Kufa Gallery, London, 1994",
+        "url": "https://open.spotify.com/album/4bAkrEpitKMVm7bZk8RRJo"
+      },
+      "artists": [
+        {
+          "name": "Veena Sahasrabuddhe",
+          "url": "https://open.spotify.com/artist/5u1S4wqSqEH05Aup3Z1SuO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "Raga Madhmad Sarang",
+      "url": "https://open.spotify.com/track/1cGxMjMc9GMR1RkB31Ogok"
+    },
+    {
+      "album": {
+        "name": "Live at Kufa Gallery, London, 1994",
+        "url": "https://open.spotify.com/album/4bAkrEpitKMVm7bZk8RRJo"
+      },
+      "artists": [
+        {
+          "name": "Veena Sahasrabuddhe",
+          "url": "https://open.spotify.com/artist/5u1S4wqSqEH05Aup3Z1SuO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1139493,
+      "name": "Raga Madhmad Sarang",
+      "url": "https://open.spotify.com/track/3WgE9t3PwHzoqYXJSPgKta"
+    },
+    {
+      "album": {
         "name": "Raga Madhmad Sarang & Bhajan (Live)",
         "url": "https://open.spotify.com/album/5QoRMuVHQLK5nNeFZJepjV"
       },
@@ -759,7 +869,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232906,
       "name": "Raga Madhmad Sarang (Khyal in madhya lay teental)",
       "url": "https://open.spotify.com/track/5SotfPyX4aQ9ofdbG5HwCK"
@@ -789,7 +899,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1139493,
       "name": "Raga Madhmad Sarang (Tarana in drut teental - ektal)",
       "url": "https://open.spotify.com/track/48R84g299s8mIfiQU4WkXV"
@@ -1033,7 +1143,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 2294000,
       "name": "R\u0101g M\u012by\u0101 k\u012b Tod\u012b",
       "url": "https://open.spotify.com/track/3fTFxU65ADeMwBgyVX97YI"
@@ -1155,6 +1265,36 @@
       "duration_ms": 1045427,
       "name": "Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva (8 beats)",
       "url": "https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x"
+    },
+    {
+      "album": {
+        "name": "Yaman Madhya Laya",
+        "url": "https://open.spotify.com/album/7LYdyUiJp5MeO0l2Krp0zl"
+      },
+      "artists": [
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        },
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        },
+        {
+          "name": "Satyajit Talwalkar",
+          "url": "https://open.spotify.com/artist/12i115642dNlreloDOzrtK"
+        },
+        {
+          "name": "Ojas Adhiya",
+          "url": "https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 987136,
+      "name": "Yaman Madhya Laya",
+      "url": "https://open.spotify.com/track/0L0aaQxlUcRR7Yq62X9tnG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6EUcyVKIE73"

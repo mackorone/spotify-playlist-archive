@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7s0efM9c1ZS427tw2B6wEF.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,080 likes - 25 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,049 likes - 25 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/7s0efM9c1ZS427tw2B6wEF.md) - [plain]
 | 17 | [Tonight Is the Night](https://open.spotify.com/track/0tr0D36L1RwPdUTFfyNq37) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [Tonight Is The Night](https://open.spotify.com/album/2Fp7ppPgW31exiGzUiKqFs) | 3:10 |
 | 18 | [Trumpets](https://open.spotify.com/track/6jizk5lOUnfpaZXYMdfeC6) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:37 |
 | 19 | [I Love This Life](https://open.spotify.com/track/3Xyuq9cVtA62TWFJsrhTsW) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [I Love This Life](https://open.spotify.com/album/7vG8OBZEL4OVPS3Z9sgrnf) | 3:51 |
-| 20 | [Let's Go \(feat\. Big D & Twista\)](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Big D](https://open.spotify.com/artist/3a2TTT8yA6ffsrAyNRUoGg), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Thug Matrimony: Married to the Streets](https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT) | 3:42 |
+| 20 | [Let's Go \(feat\. Big D & Twista\)](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Bigg D](https://open.spotify.com/artist/25BLFLt2ivDMxIlvao7lnU), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Thug Matrimony: Married to the Streets](https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT) | 3:42 |
 | 21 | [Leaving You](https://open.spotify.com/track/22qUyTlEvJf6DAlyQjMADe) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Leaving You](https://open.spotify.com/album/1QkRNSPk2pDxzILcU14yBG) | 3:32 |
 | 22 | [Bangarang \(feat\. Sirah\)](https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 3:35 |
 | 23 | [Crunk Muzik](https://open.spotify.com/track/6vP20WsY3tI70wv4cSBnk0) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Diplomatic Immunity II](https://open.spotify.com/album/6M0SBQrHnseezn3o2BYHSL) | 4:16 |

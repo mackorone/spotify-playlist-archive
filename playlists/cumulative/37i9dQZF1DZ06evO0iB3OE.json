@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 162240,
       "name": "Carinito de Mi Vida",
       "url": "https://open.spotify.com/track/7niNLsYJFkdh1VoZlWLlVH"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 182773,
       "name": "Compa Alfredito",
       "url": "https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO"
@@ -214,6 +214,24 @@
     },
     {
       "album": {
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/6dTkxjO4BZO5s8Jo3i4zYV"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174693,
+      "name": "De Manuel Torres Felix",
+      "url": "https://open.spotify.com/track/6gyBJAMBPrrqgeoistlrpv"
+    },
+    {
+      "album": {
         "name": "Dejame",
         "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
       },
@@ -247,7 +265,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 159880,
       "name": "Dos Amores",
       "url": "https://open.spotify.com/track/51dxwf0wAkeDYnPgQteiGF"
@@ -265,7 +283,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 197973,
       "name": "D\u00e9jame Vac\u00edo",
       "url": "https://open.spotify.com/track/0v0ErfXljJyjfIKYQLokHP"
@@ -301,7 +319,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 198293,
       "name": "D\u00e9jame Vac\u00edo",
       "url": "https://open.spotify.com/track/5A4ZBuH15Sm6Ys2EWnqXrV"
@@ -359,7 +377,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-09-23",
       "duration_ms": 234640,
       "name": "El Cajoncito",
       "url": "https://open.spotify.com/track/59qxYVS9JxSdbyx8W5fP43"
@@ -485,7 +503,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 169469,
       "name": "El de Arriva Me Bendice",
       "url": "https://open.spotify.com/track/65ARD3G7j5Q3eU3Jzd13Xn"
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 173506,
       "name": "El Ingeniero",
       "url": "https://open.spotify.com/track/1WBlUy4TmAtgPuxEYUlkqN"
@@ -601,7 +619,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": "2022-08-20",
       "duration_ms": 173638,
       "name": "El M.P.",
       "url": "https://open.spotify.com/track/2ZThthZbJ4QwHmenUQIJcG"
@@ -767,7 +785,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 142093,
       "name": "Gente del Macho",
       "url": "https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic"
@@ -836,6 +854,28 @@
     },
     {
       "album": {
+        "name": "La Cama de Piedra (En Vivo)",
+        "url": "https://open.spotify.com/album/6HA6a9Hwdh4eoOrpfP7vIf"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200377,
+      "name": "La Cama de Piedra (En Vivo)",
+      "url": "https://open.spotify.com/track/1ptgCreLni4KWGJxPSlrAK"
+    },
+    {
+      "album": {
         "name": "Los Mejores Corridos",
         "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
       },
@@ -847,7 +887,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 186586,
       "name": "La Captura Del Zar",
       "url": "https://open.spotify.com/track/4UzgvxcaLDMM6iujVVHb3m"
@@ -1003,7 +1043,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": "2022-09-07",
       "duration_ms": 193520,
       "name": "La Rubia del Mo\u00f1o Negro",
       "url": "https://open.spotify.com/track/1cwcDWVIwnjGQrQkLyto28"
@@ -1025,7 +1065,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 214533,
       "name": "La Vida Marca los Rumbos",
       "url": "https://open.spotify.com/track/2jRgDq88GVkM0wJH1ygASp"
@@ -1069,7 +1109,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-09-17",
       "duration_ms": 239381,
       "name": "Las Tempestades",
       "url": "https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P"
@@ -1127,7 +1167,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-10-01",
       "duration_ms": 172960,
       "name": "Los Juniors De Culiac\u00e1n",
       "url": "https://open.spotify.com/track/1clZn8cuLBj6OkKVXj7VIb"
@@ -1167,7 +1207,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-08-19",
       "duration_ms": 211213,
       "name": "Me Va A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/5q4107DEo8FfcZkvNtQLKR"
@@ -1229,7 +1269,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 149973,
       "name": "Por Que No Vienes",
       "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
@@ -1269,7 +1309,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 249556,
       "name": "Renunciaci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/5QeX0Wp11Fmu4jsJhAOGcR"
@@ -1287,7 +1327,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-30",
       "duration_ms": 162586,
       "name": "Se Equivoc\u00f3 El Pistolero",
       "url": "https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB"
@@ -1305,7 +1345,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-09-22",
       "duration_ms": 152383,
       "name": "Tiro de Gracia",
       "url": "https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H"

@@ -9,7 +9,7 @@
     {
       "album": {
         "name": "Malfunktionality Part One",
-        "url": "https://open.spotify.com/album/5gEOlPNZqkxTDafDyAqz2Z"
+        "url": "https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2"
       },
       "artists": [
         {
@@ -20,6 +20,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 258776,
+      "name": "A Blues Malfunktion",
+      "url": "https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw"
+    },
+    {
+      "album": {
+        "name": "Malfunktionality Part One",
+        "url": "https://open.spotify.com/album/5gEOlPNZqkxTDafDyAqz2Z"
+      },
+      "artists": [
+        {
+          "name": "Beat Fatigue",
+          "url": "https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 258776,
       "name": "A Blues Malfunktion - Original Mix",
       "url": "https://open.spotify.com/track/4jhcv2U1ixMKewjowApJYK"
@@ -99,7 +117,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 146468,
       "name": "Black Blood",
       "url": "https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm"
@@ -121,7 +139,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 738306,
       "name": "Can't Help Myself - E-Z Rollers Remix",
       "url": "https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m"
@@ -139,7 +157,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 221593,
       "name": "Chains",
       "url": "https://open.spotify.com/track/6krEKtL2aCEXIHTJY8QrKj"
@@ -175,7 +193,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 329733,
       "name": "Cold Wind Blows",
       "url": "https://open.spotify.com/track/5O61SnNgvNtA7NIJFQaDIi"
@@ -211,10 +229,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141333,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/1b8s2ikwLa1ZmJYAdOZAjR"
+    },
+    {
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/7pPTrDwqzewb4h6cqJjl3w"
+      },
+      "artists": [
+        {
+          "name": "Mason Murphy",
+          "url": "https://open.spotify.com/artist/0iGR1dPENdfzoZbpsFlYug"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/6i5tylayRLCg5LrgUFqg4Z"
     },
     {
       "album": {
@@ -301,7 +337,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207000,
       "name": "Fatboy",
       "url": "https://open.spotify.com/track/4AE3o0Zl933eTmA2FV0LPF"
@@ -319,7 +355,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 261800,
       "name": "Go On Home",
       "url": "https://open.spotify.com/track/4K9APmIfS2d1eojcx04aDp"
@@ -341,6 +377,24 @@
       "duration_ms": 252284,
       "name": "Good & Gone - Original Mix",
       "url": "https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj"
+    },
+    {
+      "album": {
+        "name": "Grave",
+        "url": "https://open.spotify.com/album/7mJKH7MLlY9AlGaIMUf8Bl"
+      },
+      "artists": [
+        {
+          "name": "Thomas Vent",
+          "url": "https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243370,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/1wBICiJNPP9gj6o5nEPHfT"
     },
     {
       "album": {
@@ -499,7 +553,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-10-01",
       "duration_ms": 319893,
       "name": "Idol (Should I Know)",
       "url": "https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC"
@@ -561,10 +615,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152843,
       "name": "John The Revelator",
       "url": "https://open.spotify.com/track/343lHi9sB146HH6sGmjsL1"
+    },
+    {
+      "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/1YnzjJJCICcYqynOL6GiCJ"
+      },
+      "artists": [
+        {
+          "name": "Dirtwire",
+          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237844,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/3I0CQt2MQx6jKygLKTdmde"
     },
     {
       "album": {
@@ -579,7 +651,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 361306,
       "name": "K.I.S.S. - Remix",
       "url": "https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ"
@@ -597,7 +669,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-07-21",
       "duration_ms": 198991,
       "name": "Keisha Complexion",
       "url": "https://open.spotify.com/track/0gm0OruZdJlu8jamJe5OCh"
@@ -637,7 +709,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 229110,
       "name": "Love Me - KR3TURE Remix",
       "url": "https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S"
@@ -673,7 +745,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 234520,
       "name": "Mr. E's Beautiful Blues - Remix",
       "url": "https://open.spotify.com/track/1cXPXMbHhNZHQYan1C8fzD"
@@ -691,10 +763,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 197013,
       "name": "Multiball",
       "url": "https://open.spotify.com/track/22MiGH2lQBET7dtLo5Iua8"
+    },
+    {
+      "album": {
+        "name": "Psychic",
+        "url": "https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289840,
+      "name": "Paper Trails",
+      "url": "https://open.spotify.com/track/1DK2JuYarBeNwcLNPw1Qyo"
     },
     {
       "album": {
@@ -709,7 +799,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 289840,
       "name": "Paper Trails",
       "url": "https://open.spotify.com/track/6rqONVHOT73QecUdJ5HVHy"
@@ -752,6 +842,24 @@
     },
     {
       "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ"
+      },
+      "artists": [
+        {
+          "name": "PARTY SHIRT",
+          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"
+    },
+    {
+      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3"
       },
@@ -785,7 +893,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 157426,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU"
@@ -963,6 +1071,24 @@
     {
       "album": {
         "name": "The Good Girl Blues",
+        "url": "https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G"
+      },
+      "artists": [
+        {
+          "name": "The Soul Of John Black",
+          "url": "https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 167973,
+      "name": "Swamp Thang",
+      "url": "https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj"
+    },
+    {
+      "album": {
+        "name": "The Good Girl Blues",
         "url": "https://open.spotify.com/album/19oQwLtdfzcxPDu7U686QG"
       },
       "artists": [
@@ -973,7 +1099,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167973,
       "name": "Swamp Thang",
       "url": "https://open.spotify.com/track/4ONemlKmTMmNpuFecLr4r6"
@@ -1053,7 +1179,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM"
@@ -1071,7 +1197,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 595680,
       "name": "The Killing Ground",
       "url": "https://open.spotify.com/track/4TO703ZoI5BBF9VwLoatq7"
@@ -1097,6 +1223,24 @@
       "duration_ms": 229655,
       "name": "This Is For Everyone - Original Mix",
       "url": "https://open.spotify.com/track/1uGvKTjvBCN1NYzS2DIjCr"
+    },
+    {
+      "album": {
+        "name": "Victim",
+        "url": "https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9"
+      },
+      "artists": [
+        {
+          "name": "Mblue",
+          "url": "https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD"
     },
     {
       "album": {
@@ -1129,7 +1273,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 175653,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"

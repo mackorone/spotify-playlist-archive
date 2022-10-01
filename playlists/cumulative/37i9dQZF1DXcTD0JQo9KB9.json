@@ -8,24 +8,6 @@
   "tracks": [
     {
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220938,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO"
-    },
-    {
-      "album": {
         "name": "All We Have Is Now",
         "url": "https://open.spotify.com/album/1aFRjm48xWffnCu3o0MY8t"
       },
@@ -59,24 +41,6 @@
       "duration_ms": 256656,
       "name": "AUNTIE",
       "url": "https://open.spotify.com/track/5a5oBAAjI6Z6AuZo2MEVB9"
-    },
-    {
-      "album": {
-        "name": "Petit Fours",
-        "url": "https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P"
-      },
-      "artists": [
-        {
-          "name": "Tang Siu Hau",
-          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
-        }
-      ],
-      "date_added": "2022-06-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 217338,
-      "name": "Choosing The Good",
-      "url": "https://open.spotify.com/track/6eNVvM7s2vjWYBodtMpHsZ"
     },
     {
       "album": {
@@ -116,79 +80,21 @@
     },
     {
       "album": {
-        "name": "Don't Be Afraid",
-        "url": "https://open.spotify.com/album/49hQQbjBPRkmcjg50v2Rh6"
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/2W3GtsUfFCI11TEFkwa5yW"
       },
       "artists": [
         {
-          "name": "Charmaine Fong",
-          "url": "https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N"
-        },
-        {
-          "name": "RubberBand",
-          "url": "https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc"
+          "name": "Leon Lai",
+          "url": "https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa"
         }
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 260640,
-      "name": "Don't Be Afraid",
-      "url": "https://open.spotify.com/track/7pPrEnjS17f16t9BWRCRv9"
-    },
-    {
-      "album": {
-        "name": "The Unknown Quantity",
-        "url": "https://open.spotify.com/album/7CkuTVTU8VfAVulHisPZDl"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5065\u5b89",
-          "url": "https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 268000,
-      "name": "faiology",
-      "url": "https://open.spotify.com/track/1zFfjpRxrHlv6IU3fiVepA"
-    },
-    {
-      "album": {
-        "name": "Joyce To The World",
-        "url": "https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cheng",
-          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 250000,
-      "name": "First Tear Last Salute",
-      "url": "https://open.spotify.com/track/7oVLiGq3yyLnGzlKvhgd3t"
-    },
-    {
-      "album": {
-        "name": "Anthropocene",
-        "url": "https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V"
-      },
-      "artists": [
-        {
-          "name": "C AllStar",
-          "url": "https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244735,
-      "name": "For those who stay, For those who had left",
-      "url": "https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG"
+      "duration_ms": 86158,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/3fvevSJBalzUd4AW1HcS4J"
     },
     {
       "album": {
@@ -203,46 +109,10 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 86158,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/5G46LoY6ABm0eGrCeppGEI"
-    },
-    {
-      "album": {
-        "name": "Grounded",
-        "url": "https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT"
-      },
-      "artists": [
-        {
-          "name": "Dear Jane",
-          "url": "https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237000,
-      "name": "Grounded",
-      "url": "https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23"
-    },
-    {
-      "album": {
-        "name": "How Are You",
-        "url": "https://open.spotify.com/album/1Ztu4bYqjnhm53sjM70cCI"
-      },
-      "artists": [
-        {
-          "name": "Charmaine Fong",
-          "url": "https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 333986,
-      "name": "How Are You",
-      "url": "https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h"
     },
     {
       "album": {
@@ -261,60 +131,6 @@
       "duration_ms": 259475,
       "name": "HW1",
       "url": "https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w"
-    },
-    {
-      "album": {
-        "name": "hyperromantic",
-        "url": "https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199547,
-      "name": "hyperromantic",
-      "url": "https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy"
-    },
-    {
-      "album": {
-        "name": "Honesty",
-        "url": "https://open.spotify.com/album/4ikmdAhDo4AOmHmugvz1sT"
-      },
-      "artists": [
-        {
-          "name": "Panther Chan",
-          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 258653,
-      "name": "In Good Hands",
-      "url": "https://open.spotify.com/track/5BYg9NfU9ynzhp3UBX49bY"
-    },
-    {
-      "album": {
-        "name": "Inno Per Gli Sconfitti",
-        "url": "https://open.spotify.com/album/1lmrJQ24t9TlpgJDCfkEo0"
-      },
-      "artists": [
-        {
-          "name": "Dear Jane",
-          "url": "https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 266000,
-      "name": "Inno Per Gli Sconfitti",
-      "url": "https://open.spotify.com/track/46v9FzDCZyGELTEsAnnXFf"
     },
     {
       "album": {
@@ -354,24 +170,6 @@
     },
     {
       "album": {
-        "name": "Lifesaver",
-        "url": "https://open.spotify.com/album/4ptavMe4OBCtw0v3PMACbL"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cheng",
-          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 259135,
-      "name": "Lifesaver",
-      "url": "https://open.spotify.com/track/2MgUrCOJ891yJTCez5hsaT"
-    },
-    {
-      "album": {
         "name": "Little People",
         "url": "https://open.spotify.com/album/268ylRyADnzi0BddwI0g03"
       },
@@ -387,24 +185,6 @@
       "duration_ms": 208476,
       "name": "Little People",
       "url": "https://open.spotify.com/track/0Nzl9k3vQTjRh9f5VtG135"
-    },
-    {
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/01rSZF79mCVntQ445seVtF"
-      },
-      "artists": [
-        {
-          "name": "Kaho Hung",
-          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234177,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/3i5pZUWXYvDaZfQO5UDjPa"
     },
     {
       "album": {
@@ -426,42 +206,6 @@
     },
     {
       "album": {
-        "name": "ngo5 dei6",
-        "url": "https://open.spotify.com/album/5N4PHGAQQlnzKvRrswAzoC"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cheng",
-          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
-        }
-      ],
-      "date_added": "2022-05-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206064,
-      "name": "ngo5 dei6",
-      "url": "https://open.spotify.com/track/5X2hXMrZGsPJdZ5T28RKiv"
-    },
-    {
-      "album": {
-        "name": "Awaken",
-        "url": "https://open.spotify.com/album/6OvcRanzVFg6qTmoydjzmn"
-      },
-      "artists": [
-        {
-          "name": "Jay Fung",
-          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 245664,
-      "name": "Not Too Far Away",
-      "url": "https://open.spotify.com/track/6BC8sFJBG0XIoFZLrlI1Rc"
-    },
-    {
-      "album": {
         "name": "On my way",
         "url": "https://open.spotify.com/album/2LBrOLQkQo3sisQP3v11ZT"
       },
@@ -480,28 +224,6 @@
     },
     {
       "album": {
-        "name": "Origin Of Time (Theme Song From Movie \"One Second Champion\")",
-        "url": "https://open.spotify.com/album/0ModZiFlJ4homzkNeuRATU"
-      },
-      "artists": [
-        {
-          "name": "Endy Chow",
-          "url": "https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE"
-        },
-        {
-          "name": "ToNick",
-          "url": "https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 327804,
-      "name": "Origin Of Time (Theme Song From Movie \"One Second Champion\")",
-      "url": "https://open.spotify.com/track/1ubjsQj2DEqPMqC5CCwMEw"
-    },
-    {
-      "album": {
         "name": "overthinking",
         "url": "https://open.spotify.com/album/0MrwbhIr37SlyUDMw3ly8m"
       },
@@ -517,60 +239,6 @@
       "duration_ms": 202449,
       "name": "overthinking",
       "url": "https://open.spotify.com/track/1jCbIFQyPDiJ1cW2LBSxUx"
-    },
-    {
-      "album": {
-        "name": "Arche",
-        "url": "https://open.spotify.com/album/4UjWCkscIVWISArC7rfvoi"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5065\u5b89",
-          "url": "https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 317000,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/0ICWLdBQR09jm2cQO9FPX0"
-    },
-    {
-      "album": {
-        "name": "LIFE / LINE",
-        "url": "https://open.spotify.com/album/5COhcdEYRQm7wFjsfB8NxA"
-      },
-      "artists": [
-        {
-          "name": "Jay Fung",
-          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 265800,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2q81As6nMolcizDA78SeFH"
-    },
-    {
-      "album": {
-        "name": "The Hardest Path",
-        "url": "https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cheng",
-          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
-        }
-      ],
-      "date_added": "2022-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 218917,
-      "name": "The Hardest Path",
-      "url": "https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n"
     },
     {
       "album": {
@@ -646,6 +314,24 @@
     },
     {
       "album": {
+        "name": "LIFE / LINE",
+        "url": "https://open.spotify.com/album/5COhcdEYRQm7wFjsfB8NxA"
+      },
+      "artists": [
+        {
+          "name": "Jay Fung",
+          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265800,
+      "name": "\u4e00\u6b65\u4e00\u6094\u904e",
+      "url": "https://open.spotify.com/track/2q81As6nMolcizDA78SeFH"
+    },
+    {
+      "album": {
         "name": "\u4e09\u500b\u5b57",
         "url": "https://open.spotify.com/album/4caS8RrS6eIRCPi5JTsFQG"
       },
@@ -679,6 +365,24 @@
       "duration_ms": 212190,
       "name": "\u4eba\u9593\u6709\u611b",
       "url": "https://open.spotify.com/track/1A82lER0hubY5nEQlV5glC"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u985e\u4e0d\u5b9c\u98db\u884c",
+        "url": "https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT"
+      },
+      "artists": [
+        {
+          "name": "Dear Jane",
+          "url": "https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "\u4eba\u985e\u4e0d\u5b9c\u98db\u884c",
+      "url": "https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23"
     },
     {
       "album": {
@@ -718,8 +422,62 @@
     },
     {
       "album": {
+        "name": "\u4f60\u597d\u55ce",
+        "url": "https://open.spotify.com/album/1Ztu4bYqjnhm53sjM70cCI"
+      },
+      "artists": [
+        {
+          "name": "Charmaine Fong",
+          "url": "https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333986,
+      "name": "\u4f60\u597d\u55ce",
+      "url": "https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h"
+    },
+    {
+      "album": {
+        "name": "Joyce To The World",
+        "url": "https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cheng",
+          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "\u5148\u54ed\u70ba\u656c",
+      "url": "https://open.spotify.com/track/7oVLiGq3yyLnGzlKvhgd3t"
+    },
+    {
+      "album": {
         "name": "\u5168\u8eab\u60f3\u65c5\u884c",
         "url": "https://open.spotify.com/album/2q7Mg6exMeZvsnHbKmx8PI"
+      },
+      "artists": [
+        {
+          "name": "Leon Lai",
+          "url": "https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 111089,
+      "name": "\u5168\u8eab\u60f3\u65c5\u884c",
+      "url": "https://open.spotify.com/track/0cUmsRJpFR28JpuGxUL5ru"
+    },
+    {
+      "album": {
+        "name": "\u5168\u8eab\u60f3\u65c5\u884c",
+        "url": "https://open.spotify.com/album/2Hs4lljiG9aHuO4Y79eHOp"
       },
       "artists": [
         {
@@ -732,7 +490,25 @@
       "date_removed": null,
       "duration_ms": 111089,
       "name": "\u5168\u8eab\u60f3\u65c5\u884c",
-      "url": "https://open.spotify.com/track/0cUmsRJpFR28JpuGxUL5ru"
+      "url": "https://open.spotify.com/track/3rQHCAUeQ0k5YOexEU4LN7"
+    },
+    {
+      "album": {
+        "name": "\u52c1\u6d6a\u6f2b \u8d85\u6eab\u99a8",
+        "url": "https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199547,
+      "name": "\u52c1\u6d6a\u6f2b \u8d85\u6eab\u99a8",
+      "url": "https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy"
     },
     {
       "album": {
@@ -787,6 +563,24 @@
       "duration_ms": 217627,
       "name": "\u534a\u5cf6",
       "url": "https://open.spotify.com/track/4j2YzIibDlqgmulngCCHoj"
+    },
+    {
+      "album": {
+        "name": "\u53ca\u6642\u884c\u6a02",
+        "url": "https://open.spotify.com/album/01rSZF79mCVntQ445seVtF"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234177,
+      "name": "\u53ca\u6642\u884c\u6a02",
+      "url": "https://open.spotify.com/track/3i5pZUWXYvDaZfQO5UDjPa"
     },
     {
       "album": {
@@ -916,6 +710,24 @@
     },
     {
       "album": {
+        "name": "\u672a\u77e5\u4e4b\u77e5",
+        "url": "https://open.spotify.com/album/7CkuTVTU8VfAVulHisPZDl"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5065\u5b89",
+          "url": "https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "\u5ee2\u5b78",
+      "url": "https://open.spotify.com/track/1zFfjpRxrHlv6IU3fiVepA"
+    },
+    {
+      "album": {
         "name": "\u5f97\u500b\u7b49",
         "url": "https://open.spotify.com/album/2k7cZ6tUVPxiiq5VSYqS5n"
       },
@@ -992,6 +804,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u5730",
+        "url": "https://open.spotify.com/album/5N4PHGAQQlnzKvRrswAzoC"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cheng",
+          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206064,
+      "name": "\u6211\u5730",
+      "url": "https://open.spotify.com/track/5X2hXMrZGsPJdZ5T28RKiv"
+    },
+    {
+      "album": {
         "name": "\u4e5d\u9053\u75d5\u8de1",
         "url": "https://open.spotify.com/album/6QFTcrYF9rFdZ6uyXTWVPu"
       },
@@ -1064,6 +894,60 @@
     },
     {
       "album": {
+        "name": "Petit Fours",
+        "url": "https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P"
+      },
+      "artists": [
+        {
+          "name": "Tang Siu Hau",
+          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217338,
+      "name": "\u64c7\u5584\u56fa\u57f7",
+      "url": "https://open.spotify.com/track/6eNVvM7s2vjWYBodtMpHsZ"
+    },
+    {
+      "album": {
+        "name": "\u6551\u547d\u6b4c",
+        "url": "https://open.spotify.com/album/4ptavMe4OBCtw0v3PMACbL"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cheng",
+          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 259135,
+      "name": "\u6551\u547d\u6b4c",
+      "url": "https://open.spotify.com/track/2MgUrCOJ891yJTCez5hsaT"
+    },
+    {
+      "album": {
+        "name": "\u6551\u547d\u6b4c",
+        "url": "https://open.spotify.com/album/0qRltMUwR0JwxKLH7xFC6E"
+      },
+      "artists": [
+        {
+          "name": "\u912d\u6b23\u5b9c",
+          "url": "https://open.spotify.com/artist/5IGAOhMJTKNeknCPZOs6Eb"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259135,
+      "name": "\u6551\u547d\u6b4c",
+      "url": "https://open.spotify.com/track/0FM5vfSFUm2w5an9tnzF4E"
+    },
+    {
+      "album": {
         "name": "\u65b0\u5e74\u5feb\u6a02",
         "url": "https://open.spotify.com/album/32elQ6WhPVOADzfHMnzode"
       },
@@ -1101,6 +985,64 @@
       "duration_ms": 225169,
       "name": "\u660e\u5e74\u898b - Duet Version",
       "url": "https://open.spotify.com/track/1SvgBClOuipapA4pPgToDW"
+    },
+    {
+      "album": {
+        "name": "\u6642\u5019\u4e0d\u65e9",
+        "url": "https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220938,
+      "name": "\u6642\u5019\u4e0d\u65e9",
+      "url": "https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO"
+    },
+    {
+      "album": {
+        "name": "\u6642\u9593\u7684\u521d\u8877 (\u96fb\u5f71\u300a\u4e00\u79d2\u62f3\u738b\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/0ModZiFlJ4homzkNeuRATU"
+      },
+      "artists": [
+        {
+          "name": "Endy Chow",
+          "url": "https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE"
+        },
+        {
+          "name": "ToNick",
+          "url": "https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327804,
+      "name": "\u6642\u9593\u7684\u521d\u8877 (\u96fb\u5f71\u300a\u4e00\u79d2\u62f3\u738b\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/1ubjsQj2DEqPMqC5CCwMEw"
+    },
+    {
+      "album": {
+        "name": "\u6700\u96e3\u884c\u7684\u8def",
+        "url": "https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cheng",
+          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218917,
+      "name": "\u6700\u96e3\u884c\u7684\u8def",
+      "url": "https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n"
     },
     {
       "album": {
@@ -1248,6 +1190,24 @@
     },
     {
       "album": {
+        "name": "\u4eba\u985e\u4e16",
+        "url": "https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V"
+      },
+      "artists": [
+        {
+          "name": "C AllStar",
+          "url": "https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244735,
+      "name": "\u7559\u4e0b\u4f86\u7684\u4eba",
+      "url": "https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG"
+    },
+    {
+      "album": {
         "name": "\u761f\u75ab\u5728\u611b\u8513\u5ef6\u6642",
         "url": "https://open.spotify.com/album/3JaU7N18bOxeHVLktXIX36"
       },
@@ -1267,7 +1227,7 @@
     {
       "album": {
         "name": "\u6dfa\u85cd\u8272\u7684\u865f\u89d2",
-        "url": "https://open.spotify.com/album/0HL8rl1mfJoh4vifTkRaqw"
+        "url": "https://open.spotify.com/album/61MuBBu3HpPKGngw0Sa3Ha"
       },
       "artists": [
         {
@@ -1280,7 +1240,43 @@
       "date_removed": null,
       "duration_ms": 218000,
       "name": "\u767d\u65e5\u5922\u4e00\u5834",
+      "url": "https://open.spotify.com/track/4yA1wA3ncst6Ihc2dxmZ49"
+    },
+    {
+      "album": {
+        "name": "\u6dfa\u85cd\u8272\u7684\u865f\u89d2",
+        "url": "https://open.spotify.com/album/0HL8rl1mfJoh4vifTkRaqw"
+      },
+      "artists": [
+        {
+          "name": "Triple G ",
+          "url": "https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218000,
+      "name": "\u767d\u65e5\u5922\u4e00\u5834",
       "url": "https://open.spotify.com/track/50xaTd95BzOEyWb74ugEw2"
+    },
+    {
+      "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/4ikmdAhDo4AOmHmugvz1sT"
+      },
+      "artists": [
+        {
+          "name": "Panther Chan",
+          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258653,
+      "name": "\u76f8\u4fe1\u4e00\u5207\u662f\u6700\u597d\u7684\u5b89\u6392",
+      "url": "https://open.spotify.com/track/5BYg9NfU9ynzhp3UBX49bY"
     },
     {
       "album": {
@@ -1389,6 +1385,46 @@
       "duration_ms": 280726,
       "name": "\u7c89\u788e\u7cd6\u679c\u5c4b (feat. Serrini)",
       "url": "https://open.spotify.com/track/0EwBRXPsODlGonGQ67mFAb"
+    },
+    {
+      "album": {
+        "name": "\u7d42\u65bc\u597d\u5929\u6c23",
+        "url": "https://open.spotify.com/album/49hQQbjBPRkmcjg50v2Rh6"
+      },
+      "artists": [
+        {
+          "name": "Charmaine Fong",
+          "url": "https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N"
+        },
+        {
+          "name": "RubberBand",
+          "url": "https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260640,
+      "name": "\u7d42\u65bc\u597d\u5929\u6c23",
+      "url": "https://open.spotify.com/track/7pPrEnjS17f16t9BWRCRv9"
+    },
+    {
+      "album": {
+        "name": "\u8056\u99ac\u529b\u8afe\u4e4b\u5fc3",
+        "url": "https://open.spotify.com/album/1lmrJQ24t9TlpgJDCfkEo0"
+      },
+      "artists": [
+        {
+          "name": "Dear Jane",
+          "url": "https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "\u8056\u99ac\u529b\u8afe\u4e4b\u5fc3",
+      "url": "https://open.spotify.com/track/46v9FzDCZyGELTEsAnnXFf"
     },
     {
       "album": {
@@ -1518,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/6OvcRanzVFg6qTmoydjzmn"
+      },
+      "artists": [
+        {
+          "name": "Jay Fung",
+          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245664,
+      "name": "\u9060\u5728\u773c\u524d",
+      "url": "https://open.spotify.com/track/6BC8sFJBG0XIoFZLrlI1Rc"
+    },
+    {
+      "album": {
         "name": "SABINA\u4e4b\u6dda",
         "url": "https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf"
       },
@@ -1533,6 +1587,24 @@
       "duration_ms": 147188,
       "name": "\u90a3\u9663\u6642\u4e0d\u77e5\u9053",
       "url": "https://open.spotify.com/track/5dHDpwbX3TnK42Fu7x6jaP"
+    },
+    {
+      "album": {
+        "name": "\u672c\u539f",
+        "url": "https://open.spotify.com/album/4UjWCkscIVWISArC7rfvoi"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5065\u5b89",
+          "url": "https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317000,
+      "name": "\u91cd\u751f",
+      "url": "https://open.spotify.com/track/0ICWLdBQR09jm2cQO9FPX0"
     },
     {
       "album": {

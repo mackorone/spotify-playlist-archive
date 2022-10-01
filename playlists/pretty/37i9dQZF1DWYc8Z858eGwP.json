@@ -1,15 +1,115 @@
 {
-  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG?si=5MiFdkxjQHWTe6OmF_zPqg\">Victony</a>",
-  "num_followers": 58221,
+  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=wayNsUeRQpG6I2LJ7ptwYg\">Ayra Starr </a>",
+  "num_followers": 61590,
   "original_name": "Radar Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYzMDAwMCwwMDAwMDA0YzAwMDAwMTgxYjZkN2JhNDcwMDAwMDE4MWI1NGVhOGE4",
+  "snapshot_id": "MTY2MzkxMjYxOCwwMDAwMDAwMGY0ZjU0N2MxNzYzM2RlNmQ2ZDcxNzM4NGUxZmZlNzZj",
   "tracks": [
     {
-      "added_at": "2022-06-30 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "added_at": "2022-09-15 14:00:00",
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2022-09-15 14:00:00",
+      "album": {
+        "name": "In My Mind - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "In My Mind - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
+    },
+    {
+      "added_at": "2022-09-23 05:56:58",
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Joha",
+      "url": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu"
+    },
+    {
+      "added_at": "2022-09-23 05:56:58",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 196712,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"
+    },
+    {
+      "added_at": "2022-09-23 05:56:58",
+      "album": {
+        "name": "Part2 (Dinner in Maui)",
+        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
+      },
+      "artists": [
+        {
+          "name": "Hermez",
+          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 193896,
+      "name": "Part2 (Dinner in Maui)",
+      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
+    },
+    {
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Many Man - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
@@ -25,10 +125,42 @@
       "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
-      "added_at": "2022-06-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
-        "name": "ASE - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E"
+        "name": "The Brother's Keeper",
+        "url": "https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "Pour Me a Drink",
+      "url": "https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P"
+    },
+    {
+      "added_at": "2022-09-15 14:00:00",
+      "album": {
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2022-09-15 14:00:00",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
       "artists": [
         {
@@ -36,12 +168,48 @@
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 164571,
-      "name": "ASE - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
+      "duration_ms": 187000,
+      "name": "Bloody Samaritan",
+      "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
+      "album": {
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 178225,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+    },
+    {
+      "added_at": "2022-09-15 14:00:00",
+      "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
+    },
+    {
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
         "url": "https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD"
@@ -69,7 +237,27 @@
       "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
+      "album": {
+        "name": "Pen & Paper",
+        "url": "https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Hook",
+          "url": "https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Pen & Paper",
+      "url": "https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6"
+    },
+    {
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Peace Be Unto You (PBUY)",
         "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
@@ -85,7 +273,23 @@
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "you",
+      "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
+    },
+    {
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Kwaku the Traveller",
         "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
@@ -101,59 +305,51 @@
       "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
-        "name": "Big Flexa",
-        "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
+        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
       },
       "artists": [
         {
-          "name": "Costa Titch",
-          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         },
         {
-          "name": "C\u2019Buda M",
-          "url": "https://open.spotify.com/artist/6Ldiygt0c72Fx38qejOcG3"
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
         },
         {
-          "name": "Alfa Kat",
-          "url": "https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Banaba Des",
-          "url": "https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn"
-        },
-        {
-          "name": "Sdida",
-          "url": "https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB"
-        },
-        {
-          "name": "Man T",
-          "url": "https://open.spotify.com/artist/5syvopnKgETMISE53XS578"
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
         }
       ],
-      "duration_ms": 327079,
-      "name": "Big Flexa",
-      "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
+      "duration_ms": 305941,
+      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
     },
     {
-      "added_at": "2021-10-08 05:11:13",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Bloody Samaritan",
-      "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "SOMETHING",
         "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
@@ -169,7 +365,27 @@
       "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
-      "added_at": "2022-05-20 05:24:17",
+      "added_at": "2022-09-15 14:00:00",
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 132912,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+    },
+    {
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "EAST MPAKA LONDON",
         "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
@@ -185,7 +401,7 @@
       "url": "https://open.spotify.com/track/11onBbRpOfADTEMP9C4CYB"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "kolomental",
         "url": "https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL"
@@ -201,7 +417,7 @@
       "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
     },
     {
-      "added_at": "2021-11-19 07:42:30",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Baby Riddim",
         "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
@@ -217,7 +433,7 @@
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Bambelela",
         "url": "https://open.spotify.com/album/14FNXaJ642dVgwg3zfqx2K"
@@ -245,75 +461,43 @@
       "url": "https://open.spotify.com/track/4X4NsxuVdB1ygIMbHuctBz"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/76lQfFP5A7OnL68NJ8k9QB"
+        "name": "Big Flexa",
+        "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
       },
       "artists": [
         {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
         },
         {
-          "name": "Twitch 4EVA",
-          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
+          "name": "C'buda M",
+          "url": "https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf"
         },
         {
-          "name": "Mr Hudson",
-          "url": "https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn"
+          "name": "Alfa Kat",
+          "url": "https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup"
+        },
+        {
+          "name": "Banaba Des",
+          "url": "https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn"
+        },
+        {
+          "name": "Sdida",
+          "url": "https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB"
+        },
+        {
+          "name": "Man T",
+          "url": "https://open.spotify.com/artist/5syvopnKgETMISE53XS578"
         }
       ],
-      "duration_ms": 265486,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/53xvLHBlltsQQG3X9MrGtH"
+      "duration_ms": 327079,
+      "name": "Big Flexa",
+      "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
-        }
-      ],
-      "duration_ms": 288849,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Ololade Asake",
         "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
@@ -329,7 +513,7 @@
       "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
@@ -345,7 +529,7 @@
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "The Burning Tree",
         "url": "https://open.spotify.com/album/0NnJ99VCcTCuKBB2PUpdp2"
@@ -361,7 +545,7 @@
       "url": "https://open.spotify.com/track/5niAmm5V1bj0wY4IVcwd3u"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
@@ -377,7 +561,7 @@
       "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Original Vibe Machine",
         "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
@@ -393,7 +577,7 @@
       "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "66",
         "url": "https://open.spotify.com/album/6pTx4o3Ww2KeWMUVtONaGd"
@@ -413,7 +597,7 @@
       "url": "https://open.spotify.com/track/1b4kqxvf4kFuB7ACj9Lvve"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Second Sermon (Remix)",
         "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
@@ -433,23 +617,7 @@
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
-    },
-    {
-      "added_at": "2022-05-20 05:24:17",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "EAST MPAKA LONDON",
         "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
@@ -473,23 +641,7 @@
       "url": "https://open.spotify.com/track/3Tkrl8e0p4WvXCq31ITeXw"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
-        "name": "Welcome To The Planet",
-        "url": "https://open.spotify.com/album/32LR9thKImAlV8bpla3CDy"
-      },
-      "artists": [
-        {
-          "name": "Roiii",
-          "url": "https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V"
-        }
-      ],
-      "duration_ms": 151653,
-      "name": "La Vida Loca",
-      "url": "https://open.spotify.com/track/5oO7dokarSvIXrWJJHe98g"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
@@ -509,7 +661,7 @@
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Tanzania",
         "url": "https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN"
@@ -537,10 +689,10 @@
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Finesse",
-        "url": "https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx"
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
       "artists": [
         {
@@ -552,12 +704,12 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 151764,
+      "duration_ms": 155293,
       "name": "Finesse",
-      "url": "https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc"
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "WITH YOU",
         "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
@@ -573,7 +725,7 @@
       "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Kilometer (Remix)",
         "url": "https://open.spotify.com/album/3AUbrJDzMndvuenVyyHX8k"
@@ -593,7 +745,7 @@
       "url": "https://open.spotify.com/track/3aDnVO9Omzz4EytKraWg9o"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
         "url": "https://open.spotify.com/album/437dkJZjTY2KPRtZAVleKs"
@@ -617,27 +769,7 @@
       "url": "https://open.spotify.com/track/0Ek5bneviajgSzZGonWfds"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Bebe",
-        "url": "https://open.spotify.com/album/1rFjsoBsPodLHBYQG8S8H6"
-      },
-      "artists": [
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 127769,
-      "name": "Bebe",
-      "url": "https://open.spotify.com/track/04qKXcYDIIWVLdCTZCdUQm"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Rocking",
         "url": "https://open.spotify.com/album/395ZQ2fcdW98tZkso2TViP"
@@ -653,7 +785,7 @@
       "url": "https://open.spotify.com/track/0z0hrjBtCLS8WnQXWtKOWP"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "The Second Wave",
         "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
@@ -669,7 +801,7 @@
       "url": "https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Gone Far",
         "url": "https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO"
@@ -685,7 +817,7 @@
       "url": "https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "4LUV",
         "url": "https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd"
@@ -701,7 +833,7 @@
       "url": "https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "A Side Of Me",
         "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
@@ -717,7 +849,7 @@
       "url": "https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Your Body (Cocaine)",
         "url": "https://open.spotify.com/album/6eMYMGVxrjNxQ6n8FEmn4G"
@@ -733,27 +865,7 @@
       "url": "https://open.spotify.com/track/0GXGxkfMYquJOWGfG5bC8N"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
-        "name": "B4Now",
-        "url": "https://open.spotify.com/album/0n3oKXQQknEwbBywUgiBzp"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 165451,
-      "name": "Ye x4",
-      "url": "https://open.spotify.com/track/1aihozUZ8c59StVa903eJz"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
@@ -769,7 +881,7 @@
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/5fvfkQ5pnNnLpEjPvAUpwH"
@@ -785,87 +897,7 @@
       "url": "https://open.spotify.com/track/7FdZxGH4zPNgE2JAcQcebg"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
-        "name": "ANXIETY+",
-        "url": "https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ"
-      },
-      "artists": [
-        {
-          "name": "Zoocci Coke Dope",
-          "url": "https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 332500,
-      "name": "LiFT ME UP",
-      "url": "https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 179347,
-      "name": "Owo Ni Koko",
-      "url": "https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH"
-    },
-    {
-      "added_at": "2021-05-03 11:42:01",
-      "album": {
-        "name": "Seed - EP",
-        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
-        "name": "Respond",
-        "url": "https://open.spotify.com/album/7McnmWbjiS1jfTZmMLa3n7"
-      },
-      "artists": [
-        {
-          "name": "Mi\u010di",
-          "url": "https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am"
-        },
-        {
-          "name": "Sun-El Musician",
-          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Respond",
-      "url": "https://open.spotify.com/track/6iSja01gi2IzB9UnhTcO0h"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
+      "added_at": "2022-09-15 14:00:00",
       "album": {
         "name": "Loyalty",
         "url": "https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL"
@@ -879,90 +911,6 @@
       "duration_ms": 167142,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
-        "name": "In Transit",
-        "url": "https://open.spotify.com/album/5mbF3xlYXQDSfMOmf6k5Ly"
-      },
-      "artists": [
-        {
-          "name": "Terri",
-          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
-        }
-      ],
-      "duration_ms": 176901,
-      "name": "For Here",
-      "url": "https://open.spotify.com/track/5yOzTV0lLUDjjrPFzimeLI"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
-        "name": "Twenties",
-        "url": "https://open.spotify.com/album/1ofj7jvoMEFCMts0v4ZjqI"
-      },
-      "artists": [
-        {
-          "name": "Suhn",
-          "url": "https://open.spotify.com/artist/21FjHoi27TUaIuUSYxdOwf"
-        }
-      ],
-      "duration_ms": 144404,
-      "name": "Twenties",
-      "url": "https://open.spotify.com/track/1li8msSlPGNuiMPUNqz0Ys"
-    },
-    {
-      "added_at": "2021-05-03 11:42:01",
-      "album": {
-        "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
-        "url": "https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "City Boy",
-          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
-        }
-      ],
-      "duration_ms": 180625,
-      "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
-      "url": "https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
-        "name": "Fashion Week",
-        "url": "https://open.spotify.com/album/3hnr7QZ2QdaVZgJ6WqARqc"
-      },
-      "artists": [
-        {
-          "name": "It's Different",
-          "url": "https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA"
-        },
-        {
-          "name": "Hugo Pooe",
-          "url": "https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ"
-        }
-      ],
-      "duration_ms": 152408,
-      "name": "Fashion Week",
-      "url": "https://open.spotify.com/track/0Deqz1Pwbek73HLmf51iH2"
     }
   ],
   "unique_name": "Radar Africa",

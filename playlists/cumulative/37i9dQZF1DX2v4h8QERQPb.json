@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Rimas argentinas. Foto: Trueno.",
+  "description": "Rimas argentinas. Foto: WOS.",
   "name": "Hip Hop Argento",
   "published_playlist_ids": [
     "4sv8KvOxUTe4tMwrdfTP89"
@@ -103,10 +103,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 229441,
       "name": "333",
       "url": "https://open.spotify.com/track/3zdIMwE2l96zC7Txbg9g5Q"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/36IBUMoqZrk1yx1p6OML8B"
+      },
+      "artists": [
+        {
+          "name": "Flaco Vazquez",
+          "url": "https://open.spotify.com/artist/4Ohr1XPB2qzNiiWRJlelPO"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229443,
+      "name": "333",
+      "url": "https://open.spotify.com/track/7uRjkDEmtb4CngdV8GoW4d"
     },
     {
       "album": {
@@ -121,10 +139,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 138342,
       "name": "90's",
       "url": "https://open.spotify.com/track/1I5TzzXzQjVVl9iFi3Jh50"
+    },
+    {
+      "album": {
+        "name": "90's",
+        "url": "https://open.spotify.com/album/6JGCt2W3OKRLXXtn6RcTN1"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138342,
+      "name": "90's",
+      "url": "https://open.spotify.com/track/2joekpIeB4D30yg6P12RF5"
     },
     {
       "album": {
@@ -301,6 +337,24 @@
     {
       "album": {
         "name": "Argentina",
+        "url": "https://open.spotify.com/album/3tMXC55DpLtihpPUmgwArA"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176307,
+      "name": "Argentina",
+      "url": "https://open.spotify.com/track/2BH1TsmzZWKmnWRkbMujA6"
+    },
+    {
+      "album": {
+        "name": "Argentina",
         "url": "https://open.spotify.com/album/5K3tUyAIPLbZTs8EHOzosw"
       },
       "artists": [
@@ -311,7 +365,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176307,
       "name": "Argentina",
       "url": "https://open.spotify.com/track/3vvl9RFAVG43JZhFXKA8G1"
@@ -340,6 +394,28 @@
     },
     {
       "album": {
+        "name": "Me Sueltan los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/1n9DVp6idZvlp6qGlat1Rp"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        },
+        {
+          "name": "Grey Music Family",
+          "url": "https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136707,
+      "name": "Asuntos del Barrio",
+      "url": "https://open.spotify.com/track/6MefVjzc01x9egWrzRqCGM"
+    },
+    {
+      "album": {
         "name": "Me Sueltan Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/3FU4rjLstPLwFS6ZxEWY0F"
       },
@@ -355,7 +431,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136707,
       "name": "Asuntos Del Barrio",
       "url": "https://open.spotify.com/track/784Wfl4a786mzPSIgPXWjj"
@@ -407,10 +483,58 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198260,
       "name": "BANDIDO",
       "url": "https://open.spotify.com/track/3BPHTXnhA3J171UnkbgWrw"
+    },
+    {
+      "album": {
+        "name": "BANDIDO",
+        "url": "https://open.spotify.com/album/7BGAwJQpGkpLD9AXSYFGSn"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "BANDIDO",
+      "url": "https://open.spotify.com/track/4ajS3CFOSAY9zdSZkrCWAK"
+    },
+    {
+      "album": {
+        "name": "Basura",
+        "url": "https://open.spotify.com/album/6kwxc1F1cA0zxjm3ETNi7p"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140130,
+      "name": "Basura",
+      "url": "https://open.spotify.com/track/09OoZ39K2iLBlEsuawWOPR"
     },
     {
       "album": {
@@ -433,7 +557,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 140130,
       "name": "Basura",
       "url": "https://open.spotify.com/track/0cYBYOIh4MBfqKTJLW7l7B"
@@ -659,7 +783,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146425,
       "name": "CRO - VIAIPI ft. FRANKY STYLE",
       "url": "https://open.spotify.com/track/08gHuPeFkw5nHo9xqUJHQe"
@@ -693,6 +817,28 @@
     {
       "album": {
         "name": "Cuando Entramos en Acci\u00f3n",
+        "url": "https://open.spotify.com/album/75ook1RNQe3jC7Xq03GjdX"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182527,
+      "name": "Cuando Entramos en Accion",
+      "url": "https://open.spotify.com/track/0vpD5g0XkGr2sVtEdiWv7S"
+    },
+    {
+      "album": {
+        "name": "Cuando Entramos en Acci\u00f3n",
         "url": "https://open.spotify.com/album/42n7d8yfCOFcXdlD8BFBkg"
       },
       "artists": [
@@ -707,7 +853,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182527,
       "name": "Cuando Entramos en Acci\u00f3n",
       "url": "https://open.spotify.com/track/1wNN9AHg48S1Ye1KNfgm2J"
@@ -805,10 +951,50 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223419,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/6DlyZxhPa617E2yAnC2rC6"
+    },
+    {
+      "album": {
+        "name": "Delirio",
+        "url": "https://open.spotify.com/album/5ZitIhgIzAQ6Q2YBywRx2U"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231272,
+      "name": "Delirio",
+      "url": "https://open.spotify.com/track/1wNvWt83hP0lnlIYxohlAU"
+    },
+    {
+      "album": {
+        "name": "Demonio",
+        "url": "https://open.spotify.com/album/7zWmthUc2FUoNalblzLd1S"
+      },
+      "artists": [
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        },
+        {
+          "name": "Grey Music Family",
+          "url": "https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133241,
+      "name": "Demonio",
+      "url": "https://open.spotify.com/track/7IDJdXLiEDKW3cG41vqZhE"
     },
     {
       "album": {
@@ -831,7 +1017,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133241,
       "name": "Demonio",
       "url": "https://open.spotify.com/track/34K2jtmYkGnicpR7fnOdxW"
@@ -969,10 +1155,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225627,
       "name": "Doble Ipa",
       "url": "https://open.spotify.com/track/012xMpaiBc98zrexgJ8HfH"
+    },
+    {
+      "album": {
+        "name": "Leal",
+        "url": "https://open.spotify.com/album/78mCf8tXP7zoxxUmiTDF1P"
+      },
+      "artists": [
+        {
+          "name": "Kamada",
+          "url": "https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225627,
+      "name": "Doble Ipa",
+      "url": "https://open.spotify.com/track/79R83OrWPJhzOhyjcfQAwN"
     },
     {
       "album": {
@@ -1027,10 +1231,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182435,
       "name": "El Mundo Es Tuyo",
       "url": "https://open.spotify.com/track/2XMLQxLX3FQZ7veKYIKumh"
+    },
+    {
+      "album": {
+        "name": "El Mundo Es Tuyo",
+        "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182435,
+      "name": "El Mundo Es Tuyo",
+      "url": "https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD"
     },
     {
       "album": {
@@ -1163,10 +1385,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189764,
       "name": "Fruto Rojo",
       "url": "https://open.spotify.com/track/40gTdgKJk6m1w3DKPSrtZ1"
+    },
+    {
+      "album": {
+        "name": "El Mundo Es Tuyo",
+        "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189764,
+      "name": "Fruto Rojo",
+      "url": "https://open.spotify.com/track/62UrQDHFgz4FXRtVzNAyp0"
     },
     {
       "album": {
@@ -1264,6 +1504,24 @@
     },
     {
       "album": {
+        "name": "El Mundo Es Tuyo",
+        "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204710,
+      "name": "Fuera de Juego",
+      "url": "https://open.spotify.com/track/58oovKbbktW6Ba8gzxepEp"
+    },
+    {
+      "album": {
         "name": "Fuera de Juego",
         "url": "https://open.spotify.com/album/6UQUGITMx7jIIx35pNctH3"
       },
@@ -1275,7 +1533,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204710,
       "name": "Fuera de Juego",
       "url": "https://open.spotify.com/track/6KKaU0HcDUAJ1kmgx1PDXa"
@@ -1481,6 +1739,24 @@
     {
       "album": {
         "name": "I'm Sexy",
+        "url": "https://open.spotify.com/album/1IawKxLc0kQANfv3T7Wgbs"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Gabanna",
+          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193448,
+      "name": "I'm Sexy",
+      "url": "https://open.spotify.com/track/6EehCI47rrOjaDHwrpTO7q"
+    },
+    {
+      "album": {
+        "name": "I'm Sexy",
         "url": "https://open.spotify.com/album/27kcEjGB3vMMNLVkjMjzKF"
       },
       "artists": [
@@ -1491,7 +1767,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193448,
       "name": "I'm Sexy",
       "url": "https://open.spotify.com/track/7a5JG6ll35Hz12TmDeMhsJ"
@@ -1705,6 +1981,40 @@
     {
       "album": {
         "name": "Atrevido",
+        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "TATOOL",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219201,
+      "name": "Mamichula - con Nicki Nicole",
+      "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
+    },
+    {
+      "album": {
+        "name": "Atrevido",
         "url": "https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB"
       },
       "artists": [
@@ -1731,7 +2041,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/4pXW6ZAHBz7ODXTRKklWrM"
@@ -1749,7 +2059,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 162168,
       "name": "MANIFIESTO FREESTYLE",
       "url": "https://open.spotify.com/track/3TaK5hftxlrp38Gt0wAPq4"
@@ -1787,10 +2097,48 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195692,
       "name": "MDB - LA FIESTA ES DE NOSOTROS",
       "url": "https://open.spotify.com/track/3bkCnmdg6gyFYYfOU7Agq2"
+    },
+    {
+      "album": {
+        "name": "La Fiesta Es de Nosotros",
+        "url": "https://open.spotify.com/album/1qGuVgopycXkOtejQyueW2"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Franky Style",
+          "url": "https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        },
+        {
+          "name": "Chulu",
+          "url": "https://open.spotify.com/artist/1VAc90Avnm4J5j2cYu5RVB"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Mdb - la Fiesta Es de Nosotros",
+      "url": "https://open.spotify.com/track/50WsYaCHkz2XlACA2CEg6o"
     },
     {
       "album": {
@@ -1838,6 +2186,76 @@
     },
     {
       "album": {
+        "name": "3000",
+        "url": "https://open.spotify.com/album/21ahQhM0f44r2sUnf7saMD"
+      },
+      "artists": [
+        {
+          "name": "MP El Juvenil",
+          "url": "https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202314,
+      "name": "Me Inspir\u00e9",
+      "url": "https://open.spotify.com/track/0H2sIpkNJRshjFZubiJ5lY"
+    },
+    {
+      "album": {
+        "name": "Me Persigue",
+        "url": "https://open.spotify.com/album/1kHi5vEAOoZrwV7TdptU7q"
+      },
+      "artists": [
+        {
+          "name": "Ronpe 99",
+          "url": "https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh"
+        },
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180001,
+      "name": "Me Persigue",
+      "url": "https://open.spotify.com/track/4Eaw8RLQsfYSMGPbuu0xZj"
+    },
+    {
+      "album": {
+        "name": "Me Sueltan los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/1n9DVp6idZvlp6qGlat1Rp"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204130,
+      "name": "Me Sueltan los Angeles",
+      "url": "https://open.spotify.com/track/3MtToQhywGW6Q98cYcHYN1"
+    },
+    {
+      "album": {
         "name": "Me Sueltan Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/71zv2vayOQx9OuuoTR9gPP"
       },
@@ -1861,7 +2279,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204130,
       "name": "Me Sueltan Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/3tM6ndsUT88wEO0tX0I8AR"
@@ -1955,10 +2373,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186253,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/2QMBPx3fIO2JYFzIRRSfhI"
+    },
+    {
+      "album": {
+        "name": "El Mundo Es Tuyo",
+        "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186253,
+      "name": "Nada Es para Siempre",
+      "url": "https://open.spotify.com/track/4C4wrB3c84AZZXLttZnjqd"
     },
     {
       "album": {
@@ -1973,10 +2409,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 235728,
       "name": "No Tiene Nombre",
       "url": "https://open.spotify.com/track/0cws4NHHYz3g1xGKEjkdJJ"
+    },
+    {
+      "album": {
+        "name": "Con La Bolsa Al Hombro",
+        "url": "https://open.spotify.com/album/1sUtG5iAA7L65zvM41bjGi"
+      },
+      "artists": [
+        {
+          "name": "Linyeras cru",
+          "url": "https://open.spotify.com/artist/38PVRkX8RixC7XuDRltJpN"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235745,
+      "name": "No Tiene Nombre",
+      "url": "https://open.spotify.com/track/3QtY890q1pVlPqMnXETBok"
     },
     {
       "album": {
@@ -2127,10 +2581,58 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152833,
       "name": "Perd\u00f3n Mam\u00e1",
       "url": "https://open.spotify.com/track/3V46IccwqEAOPKdZQTDVZM"
+    },
+    {
+      "album": {
+        "name": "Perd\u00f3n Mam\u00e1",
+        "url": "https://open.spotify.com/album/7qJ0BTRFXF9Sjh2XCqhA02"
+      },
+      "artists": [
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Dellalowla",
+          "url": "https://open.spotify.com/artist/2Sg5Om9W4VXXIBC0wzObrH"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152833,
+      "name": "Perd\u00f3n Mam\u00e1",
+      "url": "https://open.spotify.com/track/6Bo4B8mxqcy9MWwnbpCqTr"
+    },
+    {
+      "album": {
+        "name": "Pistola$",
+        "url": "https://open.spotify.com/album/0nhj2ZKVac57rljWC5yLnw"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "Pistola$",
+      "url": "https://open.spotify.com/track/7Lg9aoBA9kzGHwV572Xgdw"
     },
     {
       "album": {
@@ -2149,7 +2651,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184421,
       "name": "Pistola$",
       "url": "https://open.spotify.com/track/7nDj7K2tDAx18VCqkCrf56"
@@ -2171,10 +2673,50 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171023,
       "name": "POETA",
       "url": "https://open.spotify.com/track/4ozYm33zhT9DDrGR3y59SU"
+    },
+    {
+      "album": {
+        "name": "POETA",
+        "url": "https://open.spotify.com/album/3ffWWsRb6uUZqmH7VTARsm"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Grey Music Family",
+          "url": "https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171023,
+      "name": "POETA",
+      "url": "https://open.spotify.com/track/6T1ZiqhOYwePlT1YGPOm6j"
+    },
+    {
+      "album": {
+        "name": "PUAJ (sesi\u00f3n)",
+        "url": "https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156665,
+      "name": "PUAJ (sesi\u00f3n)",
+      "url": "https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8"
     },
     {
       "album": {
@@ -2517,10 +3059,54 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199376,
       "name": "SIEMPRE SALE EL SOL",
       "url": "https://open.spotify.com/track/1JvR9VeEE8c4Dd9bLXqpla"
+    },
+    {
+      "album": {
+        "name": "Siempre Sale el Sol",
+        "url": "https://open.spotify.com/album/01LAhITVeMdtPdVTGmXHmx"
+      },
+      "artists": [
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199376,
+      "name": "Siempre Sale el Sol",
+      "url": "https://open.spotify.com/track/44ckh9BBRSpZG038yOYx2S"
+    },
+    {
+      "album": {
+        "name": "Sig Sauer",
+        "url": "https://open.spotify.com/album/1nS1ZFWw5nNHo7j51XL7pB"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        },
+        {
+          "name": "Peke\u00f1o 77",
+          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192473,
+      "name": "Sig Sauer",
+      "url": "https://open.spotify.com/track/4TdIsBQX8u8M1IpZNV5YZ6"
     },
     {
       "album": {
@@ -2543,7 +3129,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192473,
       "name": "SIG SAUER",
       "url": "https://open.spotify.com/track/1uCikoRAzrF116zNtxBBpO"
@@ -2649,6 +3235,32 @@
     {
       "album": {
         "name": "Tardes Grises",
+        "url": "https://open.spotify.com/album/1U4x0z1gk3pho14X7PFwRB"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        },
+        {
+          "name": "Grey Music Family",
+          "url": "https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206934,
+      "name": "Tardes Grises",
+      "url": "https://open.spotify.com/track/1EmehmbURkCcxpHcxcXgDP"
+    },
+    {
+      "album": {
+        "name": "Tardes Grises",
         "url": "https://open.spotify.com/album/0dEifg2Ym7jFxYJazh7UGV"
       },
       "artists": [
@@ -2667,7 +3279,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206934,
       "name": "Tardes Grises",
       "url": "https://open.spotify.com/track/4MYHoW2ZCmdzvpdmdx6oXy"
@@ -2747,10 +3359,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 195931,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/3rgB1ONEntmwiQmdgYjTlL"
+    },
+    {
+      "album": {
+        "name": "Tiro de Gracia",
+        "url": "https://open.spotify.com/album/1FeSej0INTejbdQZYJT2am"
+      },
+      "artists": [
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        },
+        {
+          "name": "XXL Irione",
+          "url": "https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207493,
+      "name": "Tiro de Gracia",
+      "url": "https://open.spotify.com/track/01zR0xLjDBmzdg5rADeinp"
     },
     {
       "album": {
@@ -2791,6 +3425,28 @@
       "duration_ms": 146716,
       "name": "Ventr\u00edlocuo",
       "url": "https://open.spotify.com/track/32ZzE1I9dEjcZM6q4DPKAK"
+    },
+    {
+      "album": {
+        "name": "VIAIPI",
+        "url": "https://open.spotify.com/album/6rTohz8oiz7KMskyYQiv68"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Franky Style",
+          "url": "https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146425,
+      "name": "VIAIPI",
+      "url": "https://open.spotify.com/track/0CYagVsyiywAsIncn4J32M"
     },
     {
       "album": {

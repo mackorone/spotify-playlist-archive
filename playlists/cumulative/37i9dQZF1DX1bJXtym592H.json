@@ -373,8 +373,8 @@
       },
       "artists": [
         {
-          "name": "Chillhop Music",
-          "url": "https://open.spotify.com/artist/1KuJ3XnrXBVJ1q8uhyhu3O"
+          "name": "Zleept",
+          "url": "https://open.spotify.com/artist/503ArEUA5XIRmhJCk7fRdN"
         }
       ],
       "date_added": "2022-04-22",
@@ -1829,10 +1829,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179231,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/4cIsmISX8R4S6NDvmqXUDR"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/2voW7HF6fe8GnUZZRhAOT5"
+      },
+      "artists": [
+        {
+          "name": "Goostavo",
+          "url": "https://open.spotify.com/artist/4JIs62O43gVoQ4EfuXRRZn"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179231,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/5BclAg4Nv1wlFmQLfjGpya"
     },
     {
       "album": {
@@ -2193,6 +2211,24 @@
       "duration_ms": 164333,
       "name": "Westminster",
       "url": "https://open.spotify.com/track/4xJIJavUzBatJRvs8v48dF"
+    },
+    {
+      "album": {
+        "name": "why it can't be",
+        "url": "https://open.spotify.com/album/5BC8qtNQap7ekRV5LaV6jW"
+      },
+      "artists": [
+        {
+          "name": "Toby Tranter",
+          "url": "https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "why it can't be",
+      "url": "https://open.spotify.com/track/2OtHVCoDfgVML6XtAOyBaF"
     },
     {
       "album": {

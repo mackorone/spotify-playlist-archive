@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261720,
       "name": "A Mi Manera",
       "url": "https://open.spotify.com/track/4gKxEptjLjBU32F7po9wdN"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 208666,
       "name": "A Tu Vera",
       "url": "https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 182866,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/2rHhKu1hW8uqyr7LSrRn8E"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 233666,
       "name": "Blanco y Negro",
       "url": "https://open.spotify.com/track/2yc9sElleYDl3NXMZSgsRv"
@@ -217,10 +217,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180400,
       "name": "Coraz\u00f3n Contento",
       "url": "https://open.spotify.com/track/5r5hCjNjWdmQTHtHBZ7ghy"
+    },
+    {
+      "album": {
+        "name": "Las Canciones de las Pel\u00edculas Vol. 2 (Remasterizado 2022)",
+        "url": "https://open.spotify.com/album/2IloYHn18pQabdcCrZw0iR"
+      },
+      "artists": [
+        {
+          "name": "Marisol",
+          "url": "https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "Coraz\u00f3n Contento - Remasterizado",
+      "url": "https://open.spotify.com/track/5jk6aPg83cKYzT2QoIe3zq"
     },
     {
       "album": {
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 215493,
       "name": "Cuando Te Beso",
       "url": "https://open.spotify.com/track/5XqlTeL5oyxqSJsD6D7XVP"
@@ -311,7 +329,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 282893,
       "name": "Dejandonos La Piel (with Lolita)",
       "url": "https://open.spotify.com/track/7FjpkYUDZhR66hR1Us8PrW"
@@ -351,7 +369,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 228653,
       "name": "El Relicario",
       "url": "https://open.spotify.com/track/5tmITkfdgcnqsVIsC5pMLT"
@@ -369,7 +387,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 243386,
       "name": "El Talism\u00e1n",
       "url": "https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv"
@@ -546,6 +564,28 @@
     },
     {
       "album": {
+        "name": "La Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg"
+      },
+      "artists": [
+        {
+          "name": "Maria Dolores Pradera",
+          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
+        },
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192186,
+      "name": "La Flor de la Canela (with Joaqu\u00edn Sabina)",
+      "url": "https://open.spotify.com/track/3AvRiaZZqrMe3lznMui3BM"
+    },
+    {
+      "album": {
         "name": "Gracias A Vosotros",
         "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
       },
@@ -561,10 +601,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193000,
       "name": "La Flor de la Canela (with Joaqu\u00edn Sabina)",
       "url": "https://open.spotify.com/track/7uWPGOYJ5VD9ygh33Eemex"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1a de fuego (Standard version)",
+        "url": "https://open.spotify.com/album/0ISrJWxZE7Pt54vQTcIhbP"
+      },
+      "artists": [
+        {
+          "name": "Buika",
+          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219640,
+      "name": "La ni\u00f1a de fuego",
+      "url": "https://open.spotify.com/track/49cz5QoR3gQepQFTA6tjZu"
     },
     {
       "album": {
@@ -609,10 +667,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225613,
       "name": "La Violetera",
       "url": "https://open.spotify.com/track/63OP6ToFMyPZJ8TFC0fm24"
+    },
+    {
+      "album": {
+        "name": "La Violetera (Remastered)",
+        "url": "https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222125,
+      "name": "La Violetera - Remastered",
+      "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
     },
     {
       "album": {
@@ -631,7 +707,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229000,
       "name": "Lagrimas Negras (with Diego \"El Cigala\")",
       "url": "https://open.spotify.com/track/2pg2VDBleQisqlEEkdJM5q"
@@ -649,7 +725,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211746,
       "name": "Los Nardos",
       "url": "https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1"
@@ -721,7 +797,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 159066,
       "name": "Mi Querida Espa\u00f1a",
       "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
@@ -877,7 +953,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Que seas feliz",
       "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
@@ -931,10 +1007,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-27",
       "duration_ms": 240200,
       "name": "Sarandonga",
       "url": "https://open.spotify.com/track/2zNDRGoRkNEkMhO5fcGTMv"
+    },
+    {
+      "album": {
+        "name": "Grandes exitos",
+        "url": "https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP"
+      },
+      "artists": [
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240200,
+      "name": "Sarandonga",
+      "url": "https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53"
     },
     {
       "album": {
@@ -1007,7 +1101,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 279026,
       "name": "Se Nos Rompio el Amor (with Mal\u00fa)",
       "url": "https://open.spotify.com/track/2Wp7kX7Kj38MgIBe3p0MBE"
@@ -1025,7 +1119,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271693,
       "name": "Se nos rompi\u00f3 el amor",
       "url": "https://open.spotify.com/track/5V8MiatwmSYw80Teq4d3li"
@@ -1112,6 +1206,28 @@
     },
     {
       "album": {
+        "name": "Viva Carlos Cano (Remasterizado)",
+        "url": "https://open.spotify.com/album/4cGadXY3rcIvwxUGvsILly"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cano",
+          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
+        },
+        {
+          "name": "Estrella Morente",
+          "url": "https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233933,
+      "name": "Sin T\u00ed No Puedo Vivir",
+      "url": "https://open.spotify.com/track/2xDZ2IKvMUC1nYvc6oXKlZ"
+    },
+    {
+      "album": {
         "name": "Sin T\u00ed No Puedo Vivir",
         "url": "https://open.spotify.com/album/2Tx1eChHyxj0zC8ALRPFzl"
       },
@@ -1127,7 +1243,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233933,
       "name": "Sin T\u00ed No Puedo Vivir",
       "url": "https://open.spotify.com/track/5T36LSYng6duYxOi1U6WCI"
@@ -1163,7 +1279,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188200,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/1Q26vHr8z0X1MFfRPDwPDZ"
@@ -1199,7 +1315,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 184693,
       "name": "Te Quiero Te Quiero",
       "url": "https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH"
@@ -1235,7 +1351,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 253600,
       "name": "T\u00fa Me Camelas (Tangos)",
       "url": "https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi"
@@ -1257,7 +1373,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": "2022-07-21",
       "duration_ms": 203370,
       "name": "T\u00fa, Mi Sonrisa",
       "url": "https://open.spotify.com/track/5tXeC35WKsGB6Zh8fP9Iyi"
@@ -1329,7 +1445,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-29",
       "duration_ms": 215626,
       "name": "Y se amaron dos caballos",
       "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"

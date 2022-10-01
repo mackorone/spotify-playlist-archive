@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain]
 
 > Listen to all of the music from the Sing movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,385 likes - 67 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,764 likes - 67 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain]
 | 66 | [Out to Lunch \(End Titles\)](https://open.spotify.com/track/1XqKJRvvmU8xrNYkzMSITv) | [Joby Talbot](https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5) | [Sing \(Original Motion Picture Score\)](https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa) | 4:24 |
 | 67 | [Visiting Nana \(Eddie's Tune\)](https://open.spotify.com/track/2bgzgTD3qybYR2FPirkkH8) | [Joby Talbot](https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5) | [Sing \(Original Motion Picture Score\)](https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa) | 1:06 |
 
-Snapshot ID: `MTY0MTMxMzg3MiwwMDAwMDAwNDAwMDAwMTdlMjVlZTJiMzAwMDAwMDE3ZDcxZThlNzJl`
+Snapshot ID: `MTY0MTMxMzg3MiwwMDAwMDAwMGE4ZTliZDM1NzcxM2JhMDc1NzA5ZjZhZjA4YzMyZmY0`

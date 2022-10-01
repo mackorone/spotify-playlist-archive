@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "12 Golden Hits",
+        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286520,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
+    },
+    {
+      "album": {
         "name": "Acabando!",
         "url": "https://open.spotify.com/album/6xSWCwybltm1cIL74pE5xg"
       },
@@ -71,8 +89,8 @@
           "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         },
         {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+          "name": "Rubby Perez",
+          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
         }
       ],
       "date_added": "2021-10-19",
@@ -175,7 +193,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210991,
       "name": "Corazon en Soledad",
       "url": "https://open.spotify.com/track/0ZscIhjqSvyozOF1z3OyVu"
@@ -197,6 +215,24 @@
       "duration_ms": 247120,
       "name": "Coraz\u00f3n De Nadie",
       "url": "https://open.spotify.com/track/4PtTs7pmraBdfXCYs0qSvn"
+    },
+    {
+      "album": {
+        "name": "Mamwali, Vol. 2",
+        "url": "https://open.spotify.com/album/3dcYjalrQeUe4ed4FHxa6e"
+      },
+      "artists": [
+        {
+          "name": "Ala Jaza",
+          "url": "https://open.spotify.com/artist/3t3hIeMUcwqWaEVpEox5QW"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211017,
+      "name": "Coraz\u00f3n en Soledad",
+      "url": "https://open.spotify.com/track/0HID2RX44WWmKz1pEqtA4L"
     },
     {
       "album": {
@@ -227,8 +263,8 @@
           "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         },
         {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+          "name": "Rubby Perez",
+          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
         }
       ],
       "date_added": "2021-10-19",
@@ -453,7 +489,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 289332,
       "name": "La Asesina",
       "url": "https://open.spotify.com/track/5Id9qsENY9T2d71zXuzLD8"
@@ -489,7 +525,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247379,
       "name": "La Fotografia",
       "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
@@ -749,7 +785,7 @@
     {
       "album": {
         "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/2Ew3tAeAVj7VG1V4WibJft"
+        "url": "https://open.spotify.com/album/7vld1FYKOT0Rdo6bEfur8V"
       },
       "artists": [
         {
@@ -760,6 +796,24 @@
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224634,
+      "name": "Palabritas",
+      "url": "https://open.spotify.com/track/1OLipTUWDrz67unieZgkdD"
+    },
+    {
+      "album": {
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/2Ew3tAeAVj7VG1V4WibJft"
+      },
+      "artists": [
+        {
+          "name": "El Jeffrey",
+          "url": "https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 224634,
       "name": "Palabritas",
       "url": "https://open.spotify.com/track/5epiks9AVbw6MoHRv41bPW"
@@ -1102,6 +1156,24 @@
     },
     {
       "album": {
+        "name": "12 Golden Hits",
+        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "Una Fotografia",
+      "url": "https://open.spotify.com/track/77uhiyzPjrQy8jA10PLcIB"
+    },
+    {
+      "album": {
         "name": "Vete y Dile",
         "url": "https://open.spotify.com/album/6nudGjOlFRKCC2YFcaP2US"
       },
@@ -1113,10 +1185,28 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 291781,
       "name": "Vete y Dile",
       "url": "https://open.spotify.com/track/3XKNq4sd6UXmu1dKwIfhL5"
+    },
+    {
+      "album": {
+        "name": "Vete y Dile",
+        "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296586,
+      "name": "Vete y Dile",
+      "url": "https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbOKKEa4x1DK"

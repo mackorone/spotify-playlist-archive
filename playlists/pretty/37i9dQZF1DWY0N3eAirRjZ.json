@@ -1,18 +1,34 @@
 {
-  "description": "From slack-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music. Cover: <a href=\"spotify:artist:69NjH5MsRLr0CX0zSlGmN3\">Jake Shimabukuro</a>",
-  "num_followers": 66819,
+  "description": "From slack-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music. Cover: Keauhou",
+  "num_followers": 69418,
   "original_name": "All the Aloha: Native Hawaii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTQ2NDAwMCwwMDAwMDAwZDAwMDAwMTgwODJlY2QyYjEwMDAwMDE4MDc2ZDFjNzIy",
+  "snapshot_id": "MTY2MjEyOTg2MiwwMDAwMDAwMDczZjljMDllOWUzNmVkYTRiMTc0M2M3ZjBmM2FmM2E0",
   "tracks": [
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
-        "name": "Why Not",
-        "url": "https://open.spotify.com/album/5u6B01T3unVu8ZuHUxGiID"
+        "name": "I Le\u02bba",
+        "url": "https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb"
+      },
+      "artists": [
+        {
+          "name": "Keauhou",
+          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
+        }
+      ],
+      "duration_ms": 156432,
+      "name": "Heha Waipi\u02bbo",
+      "url": "https://open.spotify.com/track/1bbdAdeUtBuQagkXg6VFXh"
+    },
+    {
+      "added_at": "2022-09-02 14:44:22",
+      "album": {
+        "name": "Jake & Friends",
+        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
       "artists": [
         {
@@ -29,11 +45,11 @@
         }
       ],
       "duration_ms": 256466,
-      "name": "A Place In The Sun (feat. Jack Johnson with Paula Fuga)",
-      "url": "https://open.spotify.com/track/1g9zSBL1faQ12FBBuvVlZ5"
+      "name": "A Place In The Sun",
+      "url": "https://open.spotify.com/track/3dXFwE9yIXuotnjN7wsP2N"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Round n Round",
         "url": "https://open.spotify.com/album/4A8MJ9St5BebDStA4brBXZ"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Facing Future",
         "url": "https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/6DynsXxu5oaCgkt4lXutoM"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Gabby Pahinui Hawaiian Band, Vol. 1",
         "url": "https://open.spotify.com/album/2mAXdR3BgOOvQCmRKsLecw"
@@ -89,10 +105,10 @@
       "url": "https://open.spotify.com/track/1HOMw6a7ywU1AiFMIS7FcV"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
-        "name": "6 & 12 String Slack Key",
-        "url": "https://open.spotify.com/album/5v62N5kiseJw91NvmVt0S5"
+        "name": "6 & 12 String Slack Key Guitar",
+        "url": "https://open.spotify.com/album/5zuoYfUizX3LXBgKPSyXEk"
       },
       "artists": [
         {
@@ -100,12 +116,12 @@
           "url": "https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5"
         }
       ],
-      "duration_ms": 313133,
+      "duration_ms": 310973,
       "name": "Ipo Lei Manu",
-      "url": "https://open.spotify.com/track/5WyLpJPhodJDTTgtJEbq71"
+      "url": "https://open.spotify.com/track/3jFOru56OBjrH30UUBkGpT"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "E Walea",
         "url": "https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt"
@@ -121,10 +137,10 @@
       "url": "https://open.spotify.com/track/16AgooUpw2xG8OQqGepEJZ"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
-        "name": "Pua'ena",
-        "url": "https://open.spotify.com/album/6l3VoFEh7GUOELXRtaHMHk"
+        "name": "Pua'ena \"Glow Brightly\"",
+        "url": "https://open.spotify.com/album/2RVLxKj9LQNp8PqCAXlSi6"
       },
       "artists": [
         {
@@ -132,12 +148,12 @@
           "url": "https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y"
         }
       ],
-      "duration_ms": 269626,
+      "duration_ms": 269613,
       "name": "Wahine 'Ilikea",
-      "url": "https://open.spotify.com/track/1MtfC9i9HHG6DCXClvbwxw"
+      "url": "https://open.spotify.com/track/5W8F4fS064ny8IxyXvgUtp"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Proud as the Sun",
         "url": "https://open.spotify.com/album/3hpjWOp3vPo04z7iWtT4c3"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/30KQItegXK7Refn1PbNcmI"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "We Are the Children",
         "url": "https://open.spotify.com/album/5FLk6tZkmjTFiW07quOApM"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/6jt4XlR6GE96GPRUr2XdxX"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Songs of Aloha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/119mKxx5iYvDFOFJbSxO6K"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/6BmBm3K2FU9Gn0bfXEYc1R"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Hoala",
         "url": "https://open.spotify.com/album/6hSkHQVlc7e8Y1J70iDONh"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/2Y579kQwREtBRxOzelmCGJ"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Lava (From \"Lava\")",
         "url": "https://open.spotify.com/album/3ps9fwedIocKsm52J2zoX9"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/0wqeaDeaKq14IuQESPqBEJ"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Hana Hou! Vol. 1",
         "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "All Natural",
         "url": "https://open.spotify.com/album/3pwOfQqtWgH4duJxZm5pax"
@@ -301,10 +317,10 @@
       "url": "https://open.spotify.com/track/0yQLIH6DH7Hop9K1eHLzVL"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "For Love",
-        "url": "https://open.spotify.com/album/2Canm6l7zAge5MV9iJ8ngy"
+        "url": "https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8"
       },
       "artists": [
         {
@@ -314,13 +330,13 @@
       ],
       "duration_ms": 224986,
       "name": "Simple Love Song",
-      "url": "https://open.spotify.com/track/2bDmYeA5ovrMJQJ9AR1Mxj"
+      "url": "https://open.spotify.com/track/6fyj8DYAUlrjDcJBOVnYEB"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
-        "name": "Wa`ahila",
-        "url": "https://open.spotify.com/album/5Uw3em9fZbu9FYvGzIbbq3"
+        "name": "Wa'ahila",
+        "url": "https://open.spotify.com/album/2EIWZ57Tbsd1RLdFVKRoSw"
       },
       "artists": [
         {
@@ -328,12 +344,12 @@
           "url": "https://open.spotify.com/artist/6d2Ey5tgCEGpFd8fzoKhIR"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Popoki Slack Key - Instrumental",
-      "url": "https://open.spotify.com/track/63Fq2OlIJKdNK1kSl54iv5"
+      "duration_ms": 162960,
+      "name": "Popoki Slack Key",
+      "url": "https://open.spotify.com/track/6oipvFEyEy8DQS9dGKQ5wS"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "The Best of Sons of Hawaii - Vol. 1",
         "url": "https://open.spotify.com/album/3StaEONhQtqYpNNjsTiHBd"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/6FmZlee5EidftqgWdWsgpY"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Rabbit Island Music Festival",
         "url": "https://open.spotify.com/album/6lINMX2Lg6bcCmZKw69OXQ"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/4ZATv5J2rmfnj3mta0qBAe"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Hanaiali'i",
         "url": "https://open.spotify.com/album/5P41jVL17AKxQs1NT2apt0"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/4yTG9hIbRRZHQcjcij3suF"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "E Walea",
         "url": "https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "E O Mai",
         "url": "https://open.spotify.com/album/53GlD1PZG8AWOhpgCIIpCd"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/6kXkbhwZcz6d7h04WsYswt"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Keauhou",
         "url": "https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/2vj1gPvngTblmHXCvH3u2H"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Uluwehi Sings Na Mele Hula Aloha",
         "url": "https://open.spotify.com/album/6c8VrZiE7YDNRjpa7ciSGe"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/5op9hoVsdz26naItLYuwMb"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/3VHTt7zdSR0YtKIDGqdEQi"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/1t9s58TPhk7DsSTECtghSZ"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "The Uncle In Me Volume 1",
         "url": "https://open.spotify.com/album/4U9VLjuXnFynCYvlH5xqYM"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/3VnRQ8M9wksw8cTXTXoxOw"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Don McDiarmid, Jr. Presents: Hula Records' Hits!",
         "url": "https://open.spotify.com/album/5p86JG9vj4i2Ie35S3ZFPg"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/2rM6AcX6kgljFsVYSplNdW"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Hawaiian Island Breeze",
         "url": "https://open.spotify.com/album/2rOCJTDQKbDSxYWG930bMb"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/2XctnPVkwBKFcRWf0QGaGF"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Gabby",
         "url": "https://open.spotify.com/album/3L1Dl7Nd63jKDQ3eTWfzkQ"
@@ -533,10 +549,10 @@
       "url": "https://open.spotify.com/track/1PixVvyOPz9LWBJAVUnVfP"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "K\u012bk\u0101 Kila Meets K\u012b H\u014d'alu",
-        "url": "https://open.spotify.com/album/66dhjYbfLwwC4r87dSFYl6"
+        "url": "https://open.spotify.com/album/3lD6160vY7QdfYnjTh4tid"
       },
       "artists": [
         {
@@ -548,12 +564,12 @@
           "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
         }
       ],
-      "duration_ms": 282706,
-      "name": "Lei 'Awapuhi",
-      "url": "https://open.spotify.com/track/1dVyAJFUCAD5TjbWTKzpk0"
+      "duration_ms": 279640,
+      "name": "Lei 'Awapuhi - Yellow Ginger Lei",
+      "url": "https://open.spotify.com/track/7jVT5ATucVf0V2R5ztUnYJ"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Melelana",
         "url": "https://open.spotify.com/album/6CdeMbz0vKvrM1lgLJMj0S"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/503mB92m3gvzgiN4tXa3Ab"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Slack Key Huaka`i",
         "url": "https://open.spotify.com/album/7hKvLXhooRXdqytXRZ6Ib7"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/0ZAXFqWIT7Abz7RkXeMdFJ"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Hula! Big Island Style",
         "url": "https://open.spotify.com/album/51Npcu6wgTkBQpq3IMFRWw"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/3OvWegDoaNxfgyMya5OcI2"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Na Pua o Hawai'i",
         "url": "https://open.spotify.com/album/1KCDDKBw7SHsjAi8YqhtRq"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/4RvJa9TelSwFemuSziQyt2"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "HAPA",
         "url": "https://open.spotify.com/album/5WIrLJC5sC3AQvLzoMh1De"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/7xZZlNe5OhKQmrPvj5E6E6"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Alone In Iz World",
         "url": "https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "A Gallery",
         "url": "https://open.spotify.com/album/6BOkerDmpyiUNm8PaOc25k"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/1ID6ZAYyyWb8HUwrhenIZl"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Music for the Hawaiian Islands, Vol.2 (Kahelelani, Niihau)",
         "url": "https://open.spotify.com/album/4Mff6HYIsdgnedJYA5Bc5U"
@@ -681,23 +697,27 @@
       "url": "https://open.spotify.com/track/0HluOOcAWZWaEDzemP90Na"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
-        "name": "Ohana",
-        "url": "https://open.spotify.com/album/5pqQAWqUSg4By78q9Ngx9C"
+        "name": "'Ohana",
+        "url": "https://open.spotify.com/album/38FeFAx49WBtJtC9hVg776"
       },
       "artists": [
         {
           "name": "Dennis Kamakahi",
           "url": "https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y"
+        },
+        {
+          "name": "David Kamakahi",
+          "url": "https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK"
         }
       ],
-      "duration_ms": 259266,
-      "name": "'\u00dclili E - vocal duet with David Kamakahi",
-      "url": "https://open.spotify.com/track/3bk9omZQSOmqpEo19iz1Xp"
+      "duration_ms": 257800,
+      "name": "'\u016alili E",
+      "url": "https://open.spotify.com/track/3CyKFRT6jd0ADhxfDp7xif"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Robi Calling",
         "url": "https://open.spotify.com/album/0TFTUwSIwkNZigONKD5ovm"
@@ -713,7 +733,7 @@
       "url": "https://open.spotify.com/track/169se8C2wnc9nSEspeNsag"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Pure Gabby",
         "url": "https://open.spotify.com/album/2Ta9PRl0lN9Bz2SDttccd1"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/7qTlRtGYNd9emAr8eB6xLk"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Hawaiian Blossom",
         "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
@@ -745,7 +765,7 @@
       "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Elua",
         "url": "https://open.spotify.com/album/2E0mlWGm6bgO8AHGuVVYDf"
@@ -761,7 +781,7 @@
       "url": "https://open.spotify.com/track/4LcetXHTxpEbUsPRYmVO90"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Eia",
         "url": "https://open.spotify.com/album/3TVoC0p4iQP3aFSE4yaADG"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/0MmoH7CeEX43zEYfI2YHxd"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Na Lani 'Eha",
         "url": "https://open.spotify.com/album/0fTOKGeG9xw0YDwWiORmaT"
@@ -793,7 +813,7 @@
       "url": "https://open.spotify.com/track/6EJ580b3P2Xa1r5b9xuJLp"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "HAPA",
         "url": "https://open.spotify.com/album/5WIrLJC5sC3AQvLzoMh1De"
@@ -809,7 +829,7 @@
       "url": "https://open.spotify.com/track/2l0zhAFbn7mELo8sCXbXcT"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Young Hawaii Plays Old Hawaii",
         "url": "https://open.spotify.com/album/73EtyWy6eklV217lXyE89J"
@@ -837,7 +857,7 @@
       "url": "https://open.spotify.com/track/2BLgfaenzrOblHnbojP3KY"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Music & Highlights: Aloha to the World",
         "url": "https://open.spotify.com/album/22sgQvWRghWgFowVZLqBDm"
@@ -853,7 +873,7 @@
       "url": "https://open.spotify.com/track/563Zc7T3deOuITfis5zubv"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Gabby Pahinui Hawaiian Band, Vol. 2",
         "url": "https://open.spotify.com/album/6ZKOm6EM2prCwhhtSSxD05"
@@ -869,7 +889,7 @@
       "url": "https://open.spotify.com/track/3Zc3GJyUPUotDpXWfzt2kJ"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "The Best of Sons of Hawaii - Vol. 1",
         "url": "https://open.spotify.com/album/3StaEONhQtqYpNNjsTiHBd"
@@ -885,10 +905,10 @@
       "url": "https://open.spotify.com/track/54svKMHlutnBrUsEOHubNx"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
-        "name": "Hawaiian Slack Key Guitar Masters, Vol. 1",
-        "url": "https://open.spotify.com/album/53hJB0xPGms7KJxRZsWE0I"
+        "name": "Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56"
       },
       "artists": [
         {
@@ -896,12 +916,12 @@
           "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
         }
       ],
-      "duration_ms": 157493,
+      "duration_ms": 151920,
       "name": "Whee Ha Swing",
-      "url": "https://open.spotify.com/track/1ECsI8Z2IhCKpLZbsEe5iw"
+      "url": "https://open.spotify.com/track/6tZkisNMGuSuaH6WTylYPi"
     },
     {
-      "added_at": "2022-05-02 04:00:00",
+      "added_at": "2022-09-02 14:44:22",
       "album": {
         "name": "Honolulu City Lights",
         "url": "https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3"

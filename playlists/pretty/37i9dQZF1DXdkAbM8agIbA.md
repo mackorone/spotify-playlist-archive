@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAbM8agIbA.md) - [plain]
 
 > Take a journey through the heart of the blues \(with a couple of detours along the way\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 389 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

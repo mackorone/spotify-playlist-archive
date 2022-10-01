@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Munich Session",
+        "url": "https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Arkata (Munich Session)",
+      "url": "https://open.spotify.com/track/2Vtfuz6CZSpOZ6f40k7Ywk"
+    },
+    {
+      "album": {
         "name": "Arkata (Munich Session)",
         "url": "https://open.spotify.com/album/16s4ccY0RG8YM6rw1Sr6Hk"
       },
@@ -113,7 +131,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242000,
       "name": "Arkata (Munich Session)",
       "url": "https://open.spotify.com/track/5rnpFhTerQAtva8IuFHMnS"
@@ -264,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Volume Four",
+        "url": "https://open.spotify.com/album/3AucGtdVSGSlb1suEzCXpC"
+      },
+      "artists": [
+        {
+          "name": "The Masked Pianoman",
+          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120504,
+      "name": "Coziness",
+      "url": "https://open.spotify.com/track/4IGPH1ThB3YMjgC6oevUEW"
+    },
+    {
+      "album": {
         "name": "Coziness",
         "url": "https://open.spotify.com/album/63zI87IvwsuXDn4BpuSFqT"
       },
@@ -275,7 +311,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 120504,
       "name": "Coziness",
       "url": "https://open.spotify.com/track/7hGdGIg5Q7E1ojq7zWIbft"
@@ -887,10 +923,28 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218132,
       "name": "Look Inside Yourself",
       "url": "https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU"
+    },
+    {
+      "album": {
+        "name": "L.I.Y.",
+        "url": "https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218133,
+      "name": "Look Inside Yourself",
+      "url": "https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK"
     },
     {
       "album": {
@@ -1139,10 +1193,28 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142700,
       "name": "My Only One",
       "url": "https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR"
+    },
+    {
+      "album": {
+        "name": "In Itself",
+        "url": "https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142706,
+      "name": "My Only One",
+      "url": "https://open.spotify.com/track/6weHliQCgO8eaXFpONJJ7Z"
     },
     {
       "album": {
@@ -1445,10 +1517,28 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 137819,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891"
+    },
+    {
+      "album": {
+        "name": "In the Valley",
+        "url": "https://open.spotify.com/album/1pV5ZENPMTVvw349BPUflU"
+      },
+      "artists": [
+        {
+          "name": "Alavilla Mailla",
+          "url": "https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137819,
+      "name": "Scenery",
+      "url": "https://open.spotify.com/track/4P5jSwg9Zx6DxKb5u7TfmG"
     },
     {
       "album": {
@@ -1560,6 +1650,24 @@
     },
     {
       "album": {
+        "name": "Mursejler",
+        "url": "https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Snefri",
+      "url": "https://open.spotify.com/track/61WmSJkNz048nns7uCmn1E"
+    },
+    {
+      "album": {
         "name": "Snefri",
         "url": "https://open.spotify.com/album/25trn66ey7ahbAD2OMI7bN"
       },
@@ -1571,7 +1679,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223000,
       "name": "Snefri",
       "url": "https://open.spotify.com/track/6Ox51SkYx2CyHuWIHMfTUq"

@@ -4,7 +4,7 @@
 
 > SHINee's back!
 
-88 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/2JTNzgRpCpXidFyNqublRO)
+89 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/2JTNzgRpCpXidFyNqublRO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Hello \- Live](https://open.spotify.com/track/073MKiHnvmzA3dUFnhBboP) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SHINee World \(The 1st Asia Tour Album\)](https://open.spotify.com/album/54tsBVlzypjHHR4tRQYJSz) | 3:03 | 2021-12-29 |  |
 | [I Really Want You](https://open.spotify.com/track/2LUQEcfWrlpMjODQ7NsVWt) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:17 | 2021-12-29 |  |
 | [I Wanna Be](https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:13 | 2021-12-29 |  |
-| [I Want You](https://open.spotify.com/track/7A1oOQbQbWzd1fvCFvcuwD) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | ['The Story of Light' EP.2 \- The 6th Album](https://open.spotify.com/album/6QhNwMsz7mr2AsEtUO2JJY) | 3:04 | 2021-12-29 |  |
+| [I Want You](https://open.spotify.com/track/7A1oOQbQbWzd1fvCFvcuwD) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | ['The Story of Light' EP.2 \- The 6th Album](https://open.spotify.com/album/6QhNwMsz7mr2AsEtUO2JJY) | 3:04 | 2021-12-29 | 2022-07-29 |
+| [I Want You](https://open.spotify.com/track/7wNZPLzUKbttcNSyoqELuE) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The Story of Light' Epilogue \- The 6th Album](https://open.spotify.com/album/0myFUTLsIg4SKyAanKrM3f) | 3:04 | 2021-12-29 |  |
 | [I'm Home](https://open.spotify.com/track/0YxfpiPOdUgOyWDJETF5SR) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [I'm Home](https://open.spotify.com/album/5KGaHvby6RAB2otBySlwCC) | 3:24 | 2021-12-29 |  |
 | [IDEA \(理想\)](https://open.spotify.com/track/1IYN3VqZzehgwh5NqnavIQ) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:13 | 2021-12-29 |  |
 | [In My Room](https://open.spotify.com/track/5grWTrVzFb14rCVipTFGYC) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Replay \- The First Mini Album](https://open.spotify.com/album/2zarKiOQYtJ9PGWxYxUOk5) | 4:50 | 2021-12-29 |  |

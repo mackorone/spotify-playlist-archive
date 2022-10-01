@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5sk53m6HgZorO1RDUkaiIZ.md) - [plain]
 
 > All confirmed artists at the Bråvalla Festival 2017! June 28th \- July 1st, Norrköping, Sweden\. <a href="http://www.bravallafestival.se/">www.bravallafestival.se</a>
 
-[Bråvalla Festival](https://open.spotify.com/user/br%C3%A5valla.festival) - 8,234 likes - 159 songs - 10 hr 4 min
+[Bråvalla Festival](https://open.spotify.com/user/br%C3%A5valla.festival) - 8,219 likes - 159 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/5sk53m6HgZorO1RDUkaiIZ.md) - [plain]
 | 118 | [Säg nåt som får mig att stanna](https://open.spotify.com/track/5sWeVXwpdXhS88GbbQNxnI) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Säg nåt som får mig att stanna](https://open.spotify.com/album/2uiA1nD4fOObJY3k09g2OU) | 3:23 |
 | 119 | [Would You Still Be There](https://open.spotify.com/track/0m5PQFyWWwclSA0T813jnU) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force](https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f) | 3:12 |
 | 120 | [Pain](https://open.spotify.com/track/5QTATIkC6dH9c8IMmqoF4q) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Cold World](https://open.spotify.com/album/0nADKJFHqfEOzcb7Auwg60) | 3:43 |
-| 121 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\)](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 |
+| 121 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\) \[Radio Edit\]](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 |
 | 122 | [The Right Song](https://open.spotify.com/track/68vezH3cT6dVOABipmGZ9R) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [The Right Song](https://open.spotify.com/album/52ARQdcyTTerSifTwySoIq) | 3:25 |
 | 123 | [With You](https://open.spotify.com/track/3LG5h1QIvHZkChgmc2MVGq) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [With You](https://open.spotify.com/album/3bsi8rJZlbU1ko5XnXx2KP) | 3:06 |
 | 124 | [Not Alone](https://open.spotify.com/track/7tx0NDsCViutjOyd1c4A28) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Not Alone](https://open.spotify.com/album/4c8BPGJWw7q2i1wWagUWnz) | 3:35 |

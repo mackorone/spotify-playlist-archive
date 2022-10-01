@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 348680,
       "name": "Arise (You Are Good)",
       "url": "https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f"
@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Awesome (Remixes)",
+        "url": "https://open.spotify.com/album/32vZndDj0nQMdWrUESU0eF"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins & Fellowship Chicago",
+          "url": "https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348773,
+      "name": "Awesome",
+      "url": "https://open.spotify.com/track/6b1RS3RtYHYbZK1DQUjpvB"
+    },
+    {
+      "album": {
         "name": "Motown Gospel: 20 Years/20 Hits",
         "url": "https://open.spotify.com/album/368XwqLQDiFFC57FAKFKcG"
       },
@@ -113,7 +131,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 349155,
       "name": "Awesome",
       "url": "https://open.spotify.com/track/4kEEqdWcyJULCiYqB6jD9b"
@@ -138,8 +156,8 @@
     },
     {
       "album": {
-        "name": "Believe For It (Live)",
-        "url": "https://open.spotify.com/album/1GKmThD0SJDo5YliRPBNL0"
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
       "artists": [
         {
@@ -152,7 +170,55 @@
       "date_removed": null,
       "duration_ms": 502333,
       "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
+    },
+    {
+      "album": {
+        "name": "Believe For It (Live)",
+        "url": "https://open.spotify.com/album/1GKmThD0SJDo5YliRPBNL0"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/48xkeL7pEY4x2q2sz1vLMD"
+    },
+    {
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Nicole Binion",
+          "url": "https://open.spotify.com/artist/76cq2MDAYfh7dhiFr4Zt4e"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 603749,
+      "name": "Blood is Still the Blood (feat. Chandler Moore, Nicole Binion, Ryan Ofei)",
+      "url": "https://open.spotify.com/track/4W4F7oBnGoSBGXQYpnQDGc"
     },
     {
       "album": {
@@ -167,7 +233,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 277533,
       "name": "Blood Medley",
       "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
@@ -228,6 +294,46 @@
     },
     {
       "album": {
+        "name": "Revival Is In The Air (RIITA)",
+        "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Jo Deep",
+          "url": "https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
+    },
+    {
+      "album": {
+        "name": "Live in Concert",
+        "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
+      },
+      "artists": [
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573933,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
+    },
+    {
+      "album": {
         "name": "Live in Concert",
         "url": "https://open.spotify.com/album/5fEQIDDrcjsW2kbq5TfJFt"
       },
@@ -239,7 +345,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 573933,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/3ZsOrjblRWKQi3fiXLjZyF"
@@ -301,7 +407,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 272000,
       "name": "Calvary (Live)",
       "url": "https://open.spotify.com/track/0CTLhS0Nzh1no3BWWBc8oj"
@@ -337,7 +443,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 450840,
       "name": "Cherish The Cross",
       "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
@@ -549,7 +655,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 245301,
       "name": "Glorify Him",
       "url": "https://open.spotify.com/track/4jDdPGYvKht4WP69F1DPlF"
@@ -567,7 +673,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 311546,
       "name": "God Is Not Dead",
       "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
@@ -621,7 +727,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 230659,
       "name": "He Carried The Cross For Me",
       "url": "https://open.spotify.com/track/5v2ObK3yVL3XUEwxYIqlcr"
@@ -661,10 +767,32 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229753,
       "name": "He Got Up",
       "url": "https://open.spotify.com/track/1Ycueu5MMATUueY3aziiFj"
+    },
+    {
+      "album": {
+        "name": "He Got Up",
+        "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
+      },
+      "artists": [
+        {
+          "name": "Deacon D.A.S.",
+          "url": "https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA"
+        },
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229800,
+      "name": "He Got Up",
+      "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
     },
     {
       "album": {
@@ -709,7 +837,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271733,
       "name": "He Got Up On The Third Day",
       "url": "https://open.spotify.com/track/6xOTkbOkwa7MT86A5hwynY"
@@ -731,7 +859,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240770,
       "name": "He Is Risen",
       "url": "https://open.spotify.com/track/1B7h52soVpg5o6hCrK0B24"
@@ -771,7 +899,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 436960,
       "name": "He Lives - Live",
       "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
@@ -789,7 +917,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 356179,
       "name": "He Loves Me",
       "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
@@ -909,7 +1037,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 370826,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP"
@@ -1025,7 +1153,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 517799,
       "name": "Jesus Cares",
       "url": "https://open.spotify.com/track/77YjhohI2Pg75GfuImUs39"
@@ -1090,6 +1218,28 @@
     },
     {
       "album": {
+        "name": "Wanda Nero Butler & Yolanda Adams",
+        "url": "https://open.spotify.com/album/2Cl4KsxZsmtURyKzXBDSL4"
+      },
+      "artists": [
+        {
+          "name": "Wanda Nero Butler",
+          "url": "https://open.spotify.com/artist/45G4MMIPUIxPDWLDhuVzY9"
+        },
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220493,
+      "name": "Just As I Am",
+      "url": "https://open.spotify.com/track/6T9cKNsIuOE3p0mTVgZlIX"
+    },
+    {
+      "album": {
         "name": "Just As I Am / New Born Soul",
         "url": "https://open.spotify.com/album/7zhJzLi2QPKB71fwxGgRDe"
       },
@@ -1101,7 +1251,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 220493,
       "name": "Just as I Am",
       "url": "https://open.spotify.com/track/0a8ufeuHn7errdrQTYjXvx"
@@ -1216,6 +1366,24 @@
     },
     {
       "album": {
+        "name": "Triumphant",
+        "url": "https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369160,
+      "name": "Nobody Greater",
+      "url": "https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD"
+    },
+    {
+      "album": {
         "name": "Motown Gospel: 20 Years/20 Hits",
         "url": "https://open.spotify.com/album/368XwqLQDiFFC57FAKFKcG"
       },
@@ -1227,7 +1395,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 368721,
       "name": "Nobody Greater - Live",
       "url": "https://open.spotify.com/track/0oi8UK3HdRxsqmEz99X7zh"
@@ -1365,7 +1533,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 545000,
       "name": "Oh Holy Lamb",
       "url": "https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm"
@@ -1383,7 +1551,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 421946,
       "name": "Oh What Love",
       "url": "https://open.spotify.com/track/0B4E7Hgzh4IESmZPgSaiLw"
@@ -1539,7 +1707,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 272223,
       "name": "Release The Sound - Live",
       "url": "https://open.spotify.com/track/6C8WqvJZU7BTpvANaBOdgj"
@@ -1697,7 +1865,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 603749,
       "name": "The Blood Is Still The Blood",
       "url": "https://open.spotify.com/track/65Jdm8GrXA8JuNYSgw3YQb"
@@ -1869,7 +2037,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 328253,
       "name": "These Nails - Live",
       "url": "https://open.spotify.com/track/3kVIUABK3lKYuXOu6d4vjl"
@@ -2001,7 +2169,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 212533,
       "name": "Where You Go I Follow (feat. Pink Sweat$, Chandler Moore & Judah Smith)",
       "url": "https://open.spotify.com/track/4DrBQoFqYm3WTNyJEAkbU9"

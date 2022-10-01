@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "40 Degr\u00e9s",
+        "url": "https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq"
+      },
+      "artists": [
+        {
+          "name": "Admiral T",
+          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160182,
+      "name": "#DMTS",
+      "url": "https://open.spotify.com/track/5g1OQq1LdPiPaRUgFKFvW3"
+    },
+    {
+      "album": {
         "name": "Encore + pour de vrai",
         "url": "https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 229600,
       "name": "+ La vie",
       "url": "https://open.spotify.com/track/7cGLbzrQw1Rxo0ZX9hOXiO"
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185896,
       "name": "3 minutes 5 secondes",
       "url": "https://open.spotify.com/track/4TmF97A331kpuP0Lc3NEZp"
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 179530,
       "name": "Aisance",
       "url": "https://open.spotify.com/track/6C6BGrlP8I65MxXjFWmPeH"
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228904,
       "name": "Alpine",
       "url": "https://open.spotify.com/track/7kOGbqtywqQm0ILdCQ9XeA"
@@ -167,7 +185,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177413,
       "name": "Amy",
       "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
@@ -185,7 +203,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 146106,
       "name": "Am\u00e8ne-toi chez nous",
       "url": "https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG"
@@ -221,7 +239,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 186904,
       "name": "Aur\u00e9ole",
       "url": "https://open.spotify.com/track/2Tsl8BPilekrItPa2716qj"
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-25",
       "duration_ms": 181989,
       "name": "BBQ",
       "url": "https://open.spotify.com/track/6v9lOMNewPgFkwCH74dK62"
@@ -279,7 +297,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-08-12",
       "duration_ms": 223266,
       "name": "Bonsa\u00ef",
       "url": "https://open.spotify.com/track/6LzREVOgZqgUhHkfuj209f"
@@ -315,7 +333,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 123000,
       "name": "Br\u00fbler des condos",
       "url": "https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1"
@@ -337,7 +355,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 223437,
       "name": "Br\u00fbler les ponts",
       "url": "https://open.spotify.com/track/2bLCDHwZVyyKFEAB8uRRv3"
@@ -359,7 +377,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 233460,
       "name": "Caipirinha",
       "url": "https://open.spotify.com/track/3ntkJVSYJIPDKBJj2uYLRa"
@@ -395,7 +413,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-25",
       "duration_ms": 173040,
       "name": "Cendre et descendre",
       "url": "https://open.spotify.com/track/3Wsu2aeYFDvTec6O1AhFwM"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-27",
       "duration_ms": 258720,
       "name": "Chimiosynth\u00e8se",
       "url": "https://open.spotify.com/track/59wSCUhgWymza8OBJ8T7eq"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 165320,
       "name": "CHOCOLAT",
       "url": "https://open.spotify.com/track/3TcxLbehznRagEDEmCcMuY"
@@ -489,7 +507,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266301,
       "name": "Comme les autres",
       "url": "https://open.spotify.com/track/4VGzKGIisYS83nrLlgtnzG"
@@ -507,10 +525,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197622,
       "name": "Comment t'aimer",
       "url": "https://open.spotify.com/track/7IRpU0mxVISZtZQuBAwfVW"
+    },
+    {
+      "album": {
+        "name": "Le Fabuleux destin d'Am\u00e9lie Poulain (Bande originale du film)",
+        "url": "https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
+      "url": "https://open.spotify.com/track/14rZjW3RioG7WesZhYESso"
     },
     {
       "album": {
@@ -525,10 +561,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 240278,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/3qbVAlUEbCEP2Q4kYfDVvr"
+    },
+    {
+      "album": {
+        "name": "Concorde",
+        "url": "https://open.spotify.com/album/3BzcxXzgfZD3FAIx5c3s3U"
+      },
+      "artists": [
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241771,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/3orSSi6T6c7Uxitep6TdVw"
     },
     {
       "album": {
@@ -623,7 +677,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 215066,
       "name": "Dans l'bois",
       "url": "https://open.spotify.com/track/0LI89ikl3gcJpFepnrfr38"
@@ -648,8 +702,8 @@
     },
     {
       "album": {
-        "name": "OCTEMBRE",
-        "url": "https://open.spotify.com/album/0K0qvDRwlR3XcVDuJy4Jqx"
+        "name": "PICTURA DE IPSE : Musique directe",
+        "url": "https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu"
       },
       "artists": [
         {
@@ -662,7 +716,51 @@
       "date_removed": null,
       "duration_ms": 189712,
       "name": "DIMANCHE SOIR",
+      "url": "https://open.spotify.com/track/0DRFO9deu2BA5HWhvMb2uc"
+    },
+    {
+      "album": {
+        "name": "OCTEMBRE",
+        "url": "https://open.spotify.com/album/0K0qvDRwlR3XcVDuJy4Jqx"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189712,
+      "name": "DIMANCHE SOIR",
       "url": "https://open.spotify.com/track/5zNJA7dp0PRlghdKSEcYIp"
+    },
+    {
+      "album": {
+        "name": "Givmeall Hit Stars",
+        "url": "https://open.spotify.com/album/0MEMQh52RnTAOhY9flt4Ju"
+      },
+      "artists": [
+        {
+          "name": "SA\u00cfK",
+          "url": "https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I"
+        },
+        {
+          "name": "Pompis",
+          "url": "https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI"
+        },
+        {
+          "name": "Layanah",
+          "url": "https://open.spotify.com/artist/7DFSyHRCHorchjSaMe9M3M"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225833,
+      "name": "Encore et encore",
+      "url": "https://open.spotify.com/track/4fD6FWsUZCFaq9phZERRoF"
     },
     {
       "album": {
@@ -677,7 +775,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 211413,
       "name": "Entre ce que j'dis...",
       "url": "https://open.spotify.com/track/3NxTgCKrntVPsM0u5V4Crn"
@@ -749,7 +847,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-07-28",
       "duration_ms": 182400,
       "name": "Feu roulant",
       "url": "https://open.spotify.com/track/6j0fokyjEaCo1JAiB4NxEh"
@@ -785,7 +883,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": "2022-07-23",
       "duration_ms": 187573,
       "name": "Gel\u00e9 su'l feu",
       "url": "https://open.spotify.com/track/2oxwXUbPkkq2Jy47kmRHcb"
@@ -821,7 +919,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 160417,
       "name": "Go\u00fbt cerise",
       "url": "https://open.spotify.com/track/6De4pSjXtfFzde6rspWLcG"
@@ -839,7 +937,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133200,
       "name": "Gucci, Chanel",
       "url": "https://open.spotify.com/track/15HDG2RFHASg5citb8CGqN"
@@ -857,7 +955,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 153421,
       "name": "Holiday Inn",
       "url": "https://open.spotify.com/track/2gcq5nOTW4xhvShjcq3Dro"
@@ -911,7 +1009,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 201573,
       "name": "Il n'y a que toi",
       "url": "https://open.spotify.com/track/437SZweapEV4CPxYc6OHi2"
@@ -965,7 +1063,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 218895,
       "name": "Intouchables",
       "url": "https://open.spotify.com/track/3DR3jbcganLWVyEq9tLnrG"
@@ -1008,6 +1106,24 @@
     },
     {
       "album": {
+        "name": "La vie de luxe",
+        "url": "https://open.spotify.com/album/6ZIs5DXlfkO4QPkLmFrtFU"
+      },
+      "artists": [
+        {
+          "name": "Youv Dee",
+          "url": "https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198183,
+      "name": "J'R\u00eave",
+      "url": "https://open.spotify.com/track/1SdAKFXSjj5QSn5CdSn3eO"
+    },
+    {
+      "album": {
         "name": "Version Longue",
         "url": "https://open.spotify.com/album/1DYTSqYQ6US09znC3EeY50"
       },
@@ -1019,7 +1135,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 208693,
       "name": "Jaseur",
       "url": "https://open.spotify.com/track/33byIOFqSej8pSmLxomnPR"
@@ -1055,7 +1171,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-07-24",
       "duration_ms": 224444,
       "name": "Je me souviens de la terre",
       "url": "https://open.spotify.com/track/5mgdFBGshICZLuasJMTUpi"
@@ -1073,7 +1189,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 215560,
       "name": "Je n'irai pas ailleurs",
       "url": "https://open.spotify.com/track/2gLFwnKgi5aPIKCo6tYzPR"
@@ -1116,6 +1232,24 @@
     },
     {
       "album": {
+        "name": "Les Syli D'or de la Musique Du Monde 2019 (Live)",
+        "url": "https://open.spotify.com/album/4TOqBXAtZS9vHoFlQmzo90"
+      },
+      "artists": [
+        {
+          "name": "EMDE",
+          "url": "https://open.spotify.com/artist/42zgZGylPEuFLQq8L87kNj"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 357586,
+      "name": "Jeliya - Live",
+      "url": "https://open.spotify.com/track/2L7zA2mQ8ztt15vM6A1XwY"
+    },
+    {
+      "album": {
         "name": "COUCOU",
         "url": "https://open.spotify.com/album/6X6qIf2hf4Vc0ocCTnmCwe"
       },
@@ -1145,7 +1279,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 300249,
       "name": "Ka minuatituiaku",
       "url": "https://open.spotify.com/track/058D8oMxiBBxVQDckw9t88"
@@ -1163,7 +1297,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 275333,
       "name": "Ka Utapanashkutshet",
       "url": "https://open.spotify.com/track/1qlp7EzNcAUdU9FlIA4O4W"
@@ -1199,7 +1333,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 218440,
       "name": "L'habitude de mourir",
       "url": "https://open.spotify.com/track/6zwFWIMjUMpjzYPnUDgr15"
@@ -1217,7 +1351,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 167547,
       "name": "L'heure d'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/41sZuLIw7BHiCz9pFNRjBr"
@@ -1235,7 +1369,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 182116,
       "name": "La ballade de Jean Batailleur",
       "url": "https://open.spotify.com/track/0fhYVnOGxk7r6uJOP9GQEa"
@@ -1253,7 +1387,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 209043,
       "name": "La faute",
       "url": "https://open.spotify.com/track/4ryqKro3aiitMhfDTzkbws"
@@ -1289,7 +1423,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 248826,
       "name": "La jungle du capital",
       "url": "https://open.spotify.com/track/0uEMCE8qrTD3ivM3TVoQtu"
@@ -1307,7 +1441,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 204649,
       "name": "La lettre",
       "url": "https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W"
@@ -1343,7 +1477,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 175600,
       "name": "La Presse (Baby Girl)",
       "url": "https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA"
@@ -1365,7 +1499,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 143911,
       "name": "La richesse des pauvres",
       "url": "https://open.spotify.com/track/4jV3QKV40FmtcJikbBpfCf"
@@ -1401,7 +1535,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 210186,
       "name": "La rue m'appelle encore",
       "url": "https://open.spotify.com/track/1wQgoc9WHfsGVVscR0sJ53"
@@ -1459,7 +1593,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183157,
       "name": "Laisser Tomber (feat. Rymz)",
       "url": "https://open.spotify.com/track/58qbhlwbORrJyWSFcLrdM3"
@@ -1477,7 +1611,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234240,
       "name": "Le calme",
       "url": "https://open.spotify.com/track/4IGlqD7J3eNcwAPXlzItfG"
@@ -1495,7 +1629,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 207493,
       "name": "Le Dernier Jour du Disco",
       "url": "https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s"
@@ -1513,7 +1647,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 161972,
       "name": "Le monde est beau pis laid",
       "url": "https://open.spotify.com/track/0vQECTFhaZKGAmpZFqmhFy"
@@ -1531,7 +1665,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 284653,
       "name": "Le souhait de Carmen",
       "url": "https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7"
@@ -1549,7 +1683,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135652,
       "name": "Le temps au temps",
       "url": "https://open.spotify.com/track/02O2SLRlUGY2KdY6xmOYfs"
@@ -1571,7 +1705,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 203160,
       "name": "Le temps est bon",
       "url": "https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp"
@@ -1589,7 +1723,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 229560,
       "name": "Les amants de Pomp\u00e9i",
       "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
@@ -1625,7 +1759,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": "2022-07-27",
       "duration_ms": 181400,
       "name": "Les petits moineaux",
       "url": "https://open.spotify.com/track/0weHj0P17T5CSFC6BuZhxA"
@@ -1661,7 +1795,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 204112,
       "name": "LESBIENNE WOKE SUR L'AUTOTUNE",
       "url": "https://open.spotify.com/track/7hElxwN1zI3SLAOh6aX2uD"
@@ -1679,7 +1813,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-27",
       "duration_ms": 117636,
       "name": "Levinas",
       "url": "https://open.spotify.com/track/6Qtwkmr2qpve1v3vfIHozx"
@@ -1719,7 +1853,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-27",
       "duration_ms": 188005,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/5TbsQ0az5xY47FTHmVWtHJ"
@@ -1737,7 +1871,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 195720,
       "name": "MDCI",
       "url": "https://open.spotify.com/track/08ija7PAk2uLACV8B6iizr"
@@ -1777,10 +1911,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-28",
       "duration_ms": 230213,
       "name": "Moi non plus",
       "url": "https://open.spotify.com/track/1XLvZv0wum0j7uO59pzZhB"
+    },
+    {
+      "album": {
+        "name": "Mon coeur pour te garder (version bonus)",
+        "url": "https://open.spotify.com/album/34H51ANAsWXe9SrANF6BTY"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Veille",
+          "url": "https://open.spotify.com/artist/6l1fj74wjDW6adX1r3H29h"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Mon coeur pour te garder",
+      "url": "https://open.spotify.com/track/3lCtEAvtIuCOtb4wi9k4Jn"
     },
     {
       "album": {
@@ -1795,7 +1947,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": "2022-07-29",
       "duration_ms": 159375,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/2Y9DqcZ43ybo06qJoElOR5"
@@ -1831,7 +1983,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 250469,
       "name": "Moteskano - Les sentiers de nos anc\u00eatres",
       "url": "https://open.spotify.com/track/5mevy3xuFjvc6KsYwc6ajp"
@@ -1853,7 +2005,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195061,
       "name": "Moto",
       "url": "https://open.spotify.com/track/170BHJreuU78SzX7uXNXFy"
@@ -1871,7 +2023,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-26",
       "duration_ms": 175304,
       "name": "Mozart",
       "url": "https://open.spotify.com/track/45SCJksvCasAR13KwqIaMa"
@@ -1889,7 +2041,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 294545,
       "name": "Mwen Pare",
       "url": "https://open.spotify.com/track/17dbXxphEFaswso4XiWMNQ"
@@ -1907,7 +2059,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 131920,
       "name": "Nara",
       "url": "https://open.spotify.com/track/0scyQTSVzVYz9adJPVBnJa"
@@ -1933,6 +2085,24 @@
     {
       "album": {
         "name": "Encre rose",
+        "url": "https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204343,
+      "name": "Nouveau monde",
+      "url": "https://open.spotify.com/track/0OSJ5W0WTd6zfUn3fi2zFt"
+    },
+    {
+      "album": {
+        "name": "Encre rose",
         "url": "https://open.spotify.com/album/5ISpNfD59uJPss5CRqRl6o"
       },
       "artists": [
@@ -1943,7 +2113,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 204343,
       "name": "Nouveau monde",
       "url": "https://open.spotify.com/track/53w4qhPHp6g8xwEgRv75sh"
@@ -1961,7 +2131,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 291917,
       "name": "On part au soleil",
       "url": "https://open.spotify.com/track/5yikl00UMH0xOi20EZbseB"
@@ -1979,10 +2149,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 297133,
       "name": "Oublie pas",
       "url": "https://open.spotify.com/track/1mDbWDkzeT50OIsGPK5FY8"
+    },
+    {
+      "album": {
+        "name": "Saratoga",
+        "url": "https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s"
+      },
+      "artists": [
+        {
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297133,
+      "name": "Oublie pas",
+      "url": "https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO"
     },
     {
       "album": {
@@ -2015,7 +2203,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 158733,
       "name": "Pas de limite",
       "url": "https://open.spotify.com/track/2XoYRNX6SJEZaVvP0aZ3sb"
@@ -2034,7 +2222,7 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 180000,
+      "duration_ms": 178880,
       "name": "Pas le temps de jouer",
       "url": "https://open.spotify.com/track/6oomlC7rQX4LpTXwXHe3aq"
     },
@@ -2073,7 +2261,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 146866,
       "name": "Perdu",
       "url": "https://open.spotify.com/track/26pgQYYmQRxVkHL6FRNdoH"
@@ -2103,7 +2291,7 @@
     {
       "album": {
         "name": "Diorama",
-        "url": "https://open.spotify.com/album/5N1sDD5VHZpjs4ViydetqY"
+        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
       },
       "artists": [
         {
@@ -2114,6 +2302,24 @@
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202959,
+      "name": "Porcelaine",
+      "url": "https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF"
+    },
+    {
+      "album": {
+        "name": "Diorama",
+        "url": "https://open.spotify.com/album/5N1sDD5VHZpjs4ViydetqY"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 202959,
       "name": "Porcelaine",
       "url": "https://open.spotify.com/track/3qeQtEMW0HsxrN8qbvdr6b"
@@ -2131,7 +2337,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 214518,
       "name": "Pour endormir nos col\u00e8res en marchant",
       "url": "https://open.spotify.com/track/6iyfXELKxZtVh2RPohbhNr"
@@ -2167,7 +2373,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168506,
       "name": "Prends-moi comme la mort",
       "url": "https://open.spotify.com/track/0H1aqBmlqhULS4L5y3BaNq"
@@ -2185,7 +2391,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-27",
       "duration_ms": 178934,
       "name": "PROHIBITION",
       "url": "https://open.spotify.com/track/0RW5IgPSaevPbZzIYOHYo0"
@@ -2221,7 +2427,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 171546,
       "name": "Qui a mis le feu",
       "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
@@ -2243,7 +2449,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188179,
       "name": "Qui te conna\u00eet ?",
       "url": "https://open.spotify.com/track/4uOhyZoUFNIJaE6yQhjwpd"
@@ -2261,7 +2467,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193951,
       "name": "Ramenez-moi",
       "url": "https://open.spotify.com/track/1rC8OcM3G4Um7WFzRroU2J"
@@ -2297,7 +2503,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 153846,
       "name": "Roi",
       "url": "https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0"
@@ -2333,7 +2539,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 237500,
       "name": "Run",
       "url": "https://open.spotify.com/track/4Q5CtdUQiJXeAHZ5gIWtVY"
@@ -2351,7 +2557,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 168858,
       "name": "Samba",
       "url": "https://open.spotify.com/track/3AyeEQHxCOzJ22b2mQTUPK"
@@ -2387,7 +2593,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212137,
       "name": "Sempre Juntos",
       "url": "https://open.spotify.com/track/1km2OgCnbPQwlL7ya5VYEa"
@@ -2409,7 +2615,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-28",
       "duration_ms": 134362,
       "name": "Serpent",
       "url": "https://open.spotify.com/track/40C06jy0wfAdWM9TXTXMSh"
@@ -2427,7 +2633,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 212509,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/6SDKRFK3DYpXK15Ro6sMZd"
@@ -2452,6 +2658,42 @@
     },
     {
       "album": {
+        "name": "En fl\u00e8che",
+        "url": "https://open.spotify.com/album/2ywSgXs2EVLGQMQGy2ZRIi"
+      },
+      "artists": [
+        {
+          "name": "Diane Tell",
+          "url": "https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289013,
+      "name": "Si j'\u00e9tais un homme",
+      "url": "https://open.spotify.com/track/0qnN7RceovLP58nCY0fdME"
+    },
+    {
+      "album": {
+        "name": "Soleil '96",
+        "url": "https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225480,
+      "name": "Si je pleure",
+      "url": "https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU"
+    },
+    {
+      "album": {
         "name": "Soleil '96",
         "url": "https://open.spotify.com/album/6gybIPCRMEkBMEfOhnziWE"
       },
@@ -2463,7 +2705,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225480,
       "name": "Si je pleure",
       "url": "https://open.spotify.com/track/4KcBeLXAO66WKw40p06KBE"
@@ -2488,6 +2730,24 @@
     },
     {
       "album": {
+        "name": "Cinqui\u00e8me as",
+        "url": "https://open.spotify.com/album/66cBrPU0JGuYNV4fhoDA2C"
+      },
+      "artists": [
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294922,
+      "name": "Solaar pleure",
+      "url": "https://open.spotify.com/track/4IFd5gfOwvN8KEkRdJr0yn"
+    },
+    {
+      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/2RbXCIXpKTzIqZj4Sxfjsk"
       },
@@ -2499,7 +2759,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 152727,
       "name": "Solo",
       "url": "https://open.spotify.com/track/5cpDLg5bLr2vr0kOqGh0pY"
@@ -2535,7 +2795,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 220142,
       "name": "Sun",
       "url": "https://open.spotify.com/track/6IPQ7KeOdNfbiu72Xa7RuF"
@@ -2553,10 +2813,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 396142,
       "name": "Sur la pointe des pieds",
       "url": "https://open.spotify.com/track/1jK4orgoFQGbmYAYp7OMbq"
+    },
+    {
+      "album": {
+        "name": "All\u00f4 Fant\u00f4me",
+        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
+      },
+      "artists": [
+        {
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396142,
+      "name": "Sur la pointe des pieds",
+      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
     },
     {
       "album": {
@@ -2589,7 +2867,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 232046,
       "name": "Terre de nos a\u00efeux",
       "url": "https://open.spotify.com/track/41lSwH24Xl5Pc31P3OdYzX"
@@ -2632,6 +2910,24 @@
     },
     {
       "album": {
+        "name": "Etoile Noire",
+        "url": "https://open.spotify.com/album/656DP8kmQ5EDe6cPkhIkSb"
+      },
+      "artists": [
+        {
+          "name": "Luv Resval",
+          "url": "https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "Tout s'en va",
+      "url": "https://open.spotify.com/track/0cf1gWT1VpWrxxgjjIiH4V"
+    },
+    {
+      "album": {
         "name": "Tu ne mourras pas",
         "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
@@ -2668,6 +2964,28 @@
     },
     {
       "album": {
+        "name": "L'affaire Taktika",
+        "url": "https://open.spotify.com/album/3xtr9wolduBAfl6VGezqiC"
+      },
+      "artists": [
+        {
+          "name": "Taktika",
+          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
+        },
+        {
+          "name": "Manu Boivin",
+          "url": "https://open.spotify.com/artist/6z0K48dpXmhZCfh7AYuqFs"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233986,
+      "name": "Un \u00e9t\u00e9 chez nous",
+      "url": "https://open.spotify.com/track/6k9i6yRP8UIxKhHJviALZQ"
+    },
+    {
+      "album": {
         "name": "Un singe sur l'\u00e9paule",
         "url": "https://open.spotify.com/album/3lM7PLudF9NC9w1PB7qUUW"
       },
@@ -2679,7 +2997,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254926,
       "name": "Usage domestique",
       "url": "https://open.spotify.com/track/68aXgoS8GiTryD4S67fERN"
@@ -2697,7 +3015,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 168780,
       "name": "Vendeur de bi\u00e8re",
       "url": "https://open.spotify.com/track/0wa3tRQrqKlHeow3TmpUQp"
@@ -2715,7 +3033,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-28",
       "duration_ms": 244000,
       "name": "Vie en rose",
       "url": "https://open.spotify.com/track/3LAzaKCNXAbzOME6c3QBW1"
@@ -2773,7 +3091,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-27",
       "duration_ms": 227641,
       "name": "Volcan",
       "url": "https://open.spotify.com/track/4cV5tdQpPXFF8k60RPNM71"
@@ -2791,7 +3109,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 251228,
       "name": "Xoxo",
       "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
@@ -2809,7 +3127,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 158048,
       "name": "\u00c7a va",
       "url": "https://open.spotify.com/track/4S63FfSasK2qJBornHn2T2"
@@ -2839,13 +3157,13 @@
       },
       "artists": [
         {
-          "name": "Les fils du Diable",
+          "name": "Les Fils du Diable",
           "url": "https://open.spotify.com/artist/5lYZP9PT6P06rK5LU3tSJV"
         }
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209000,
       "name": "\u00c9tat d'urgence",
       "url": "https://open.spotify.com/track/2Pq98zKj1IKXIF0YpE99td"

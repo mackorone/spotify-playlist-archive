@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Rocky",
+        "url": "https://open.spotify.com/album/78L9TjZw5IN7bI31lmonhT"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513559,
+      "name": "Aa Dekhen Zara - Rocky / Soundtrack Version",
+      "url": "https://open.spotify.com/track/3Q3MZLhtL4CLCq93jjWNK8"
+    },
+    {
+      "album": {
         "name": "Rocky (OST)",
         "url": "https://open.spotify.com/album/04dWBlKMk8EMs1uVKfF0ZT"
       },
@@ -27,7 +53,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 513559,
       "name": "Aa Dekhen Zara - Rocky / Soundtrack Version",
       "url": "https://open.spotify.com/track/7s1Odw7sA12CNoHxC5W2lZ"
@@ -78,6 +104,28 @@
     },
     {
       "album": {
+        "name": "\u041f\u0435\u0441\u043d\u0438 \u0438\u0437 \u043a/\u0444 \u0414\u0438\u0441\u043a\u043e \u0414\u0438\u0432\u0430",
+        "url": "https://open.spotify.com/album/6mgRhaMMBZRmUVebgmWiM1"
+      },
+      "artists": [
+        {
+          "name": "Jolly Mukherjee",
+          "url": "https://open.spotify.com/artist/1k86nyDLibfGQYpps8NKO0"
+        },
+        {
+          "name": "Sridevi Kapoor",
+          "url": "https://open.spotify.com/artist/0OBz8mYBMe8tAG2drRn9ZV"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250226,
+      "name": "Aao Na",
+      "url": "https://open.spotify.com/track/1wJpkjQe0KDIAQfT3QKUjX"
+    },
+    {
+      "album": {
         "name": "Disco Deewane",
         "url": "https://open.spotify.com/album/5r0Od0pl5HlKmlEgnnYOkl"
       },
@@ -89,7 +137,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249103,
       "name": "Aao Na - Album - Disco Deewane",
       "url": "https://open.spotify.com/track/2AGXWUWXVW6DhJrYKh6URU"
@@ -114,6 +162,28 @@
     },
     {
       "album": {
+        "name": "Ultimate Love Duets Hits Vol.1",
+        "url": "https://open.spotify.com/album/7esFwr5RPQsR0yNUML1Ue7"
+      },
+      "artists": [
+        {
+          "name": "Nazia Hassan",
+          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
+        },
+        {
+          "name": "Feroz Khan",
+          "url": "https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 249130,
+      "name": "Aap Jaisa Koi - From \"Qurbani\"",
+      "url": "https://open.spotify.com/track/49xDZ8b0QuJXitxjFaJnXy"
+    },
+    {
+      "album": {
         "name": "Qurbani (OST)",
         "url": "https://open.spotify.com/album/3NTrWr7Sqf55L2uXNT12VU"
       },
@@ -125,10 +195,32 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249106,
       "name": "Aap Jaisa Koi - Qurbani / Soundtrack Version",
       "url": "https://open.spotify.com/track/3Ta33fxfiHNP4JaI2oHXQW"
+    },
+    {
+      "album": {
+        "name": "Qurbani",
+        "url": "https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs"
+      },
+      "artists": [
+        {
+          "name": "Nazia Hassan",
+          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
+        },
+        {
+          "name": "Feroz Khan",
+          "url": "https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249106,
+      "name": "Aap Jaisa Koi - Qurbani / Soundtrack Version",
+      "url": "https://open.spotify.com/track/0Zq2n84Eplok8MnRE8P5hE"
     },
     {
       "album": {
@@ -154,6 +246,28 @@
     },
     {
       "album": {
+        "name": "Disco Dancer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S"
+      },
+      "artists": [
+        {
+          "name": "Usha Uthup",
+          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
+        },
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331266,
+      "name": "Auva Auva Koi Yahan Nache",
+      "url": "https://open.spotify.com/track/4foMq4FFkVaoVu9oPJMc0z"
+    },
+    {
+      "album": {
         "name": "Rough Guide To Bollywood Disco",
         "url": "https://open.spotify.com/album/7lEKLv2Toaj2aFL4H7tWmF"
       },
@@ -169,7 +283,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 331386,
       "name": "Auva Auva Koi Yahan Nache",
       "url": "https://open.spotify.com/track/3ynaO9xfodpHFweRYeVlTE"
@@ -205,10 +319,28 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 318053,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/2WK5FIro1uGcvRG4gFCtnX"
+    },
+    {
+      "album": {
+        "name": "Star (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13"
+      },
+      "artists": [
+        {
+          "name": "Nazia Hassan",
+          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318053,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/4vBpEoRBnyjcLTqgKCppwo"
     },
     {
       "album": {
@@ -292,6 +424,24 @@
     },
     {
       "album": {
+        "name": "Wardat",
+        "url": "https://open.spotify.com/album/5o5yCKDGryoQCC3fjqFJTp"
+      },
+      "artists": [
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360973,
+      "name": "Dekha Hai Maine Tumhe - From 'Wardat' / Soundtrack Version",
+      "url": "https://open.spotify.com/track/0JukplN9Z6vZjSG6xMY8eX"
+    },
+    {
+      "album": {
         "name": "Wardat (OST)",
         "url": "https://open.spotify.com/album/3KZG6BqTLPCOqJLzjHjutU"
       },
@@ -303,10 +453,28 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 360973,
       "name": "Dekha Hai Maine Tumhe - From 'Wardat' / Soundtrack Version",
       "url": "https://open.spotify.com/track/53QcNVOSajpp5EIeBGjWSl"
+    },
+    {
+      "album": {
+        "name": "Star (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13"
+      },
+      "artists": [
+        {
+          "name": "Zoheb Hassan",
+          "url": "https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222906,
+      "name": "Dheere Dheere",
+      "url": "https://open.spotify.com/track/0tvMelrTnsSUjTzrhP0sya"
     },
     {
       "album": {
@@ -321,7 +489,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224142,
       "name": "Dheere Dheere",
       "url": "https://open.spotify.com/track/7HopmolYWzJRLsgk2sCczs"
@@ -339,10 +507,28 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 479000,
       "name": "Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah (Zamaane Ko Dikhana Hai) - Zamaane Ko Dikhana Hai / Soundtrack Version",
       "url": "https://open.spotify.com/track/0eUIFoZp2GtOLkd2MRZaBH"
+    },
+    {
+      "album": {
+        "name": "Zamaane Ko Dikhana Hai",
+        "url": "https://open.spotify.com/album/0ewP49TaCcfkO6mupldqPP"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480826,
+      "name": "Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah (Zamaane Ko Dikhana Hai) - Zamaane Ko Dikhana Hai / Soundtrack Version",
+      "url": "https://open.spotify.com/track/34kyAlWl29abvjFCLgdq4M"
     },
     {
       "album": {
@@ -444,6 +630,28 @@
     },
     {
       "album": {
+        "name": "Star (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13"
+      },
+      "artists": [
+        {
+          "name": "Nazia Hassan",
+          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
+        },
+        {
+          "name": "Zoheb Hassan",
+          "url": "https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291546,
+      "name": "Jaana",
+      "url": "https://open.spotify.com/track/0WqcILbK5MRChFWC8uAzby"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/26siYxrJglhhCtAsv1hoP0"
       },
@@ -459,7 +667,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 291546,
       "name": "Jaana",
       "url": "https://open.spotify.com/track/1a7zy1Iouc7jnGew6Up2Ai"
@@ -521,10 +729,32 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 381573,
       "name": "Jeena Bhi Kya Koi Jeena Hai",
       "url": "https://open.spotify.com/track/413gk8asnyV29u8I2H2r79"
+    },
+    {
+      "album": {
+        "name": "Kasam Paida Karnewale Ki (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY"
+      },
+      "artists": [
+        {
+          "name": "Salma Agha",
+          "url": "https://open.spotify.com/artist/7liaWSL1uPVjIrnYSFDB6V"
+        },
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381571,
+      "name": "Jeena Bhi Kya Koi Jeena Hai, Pt. 2",
+      "url": "https://open.spotify.com/track/2gosEN0UYMhs4euV0IdXVr"
     },
     {
       "album": {
@@ -601,10 +831,50 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 384235,
       "name": "Kasam Paida Karnewale",
       "url": "https://open.spotify.com/track/2tLBrpJMO18jFGGgbuzvUQ"
+    },
+    {
+      "album": {
+        "name": "Kasam Paida Karnewale Ki (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY"
+      },
+      "artists": [
+        {
+          "name": "Vijay Benedict",
+          "url": "https://open.spotify.com/artist/0LyiuqDYSPZCXAuEkPJ8jZ"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383764,
+      "name": "Kasam Paida Karnewale Ki",
+      "url": "https://open.spotify.com/track/42d2S44fFDJpjS1qG4Pvod"
+    },
+    {
+      "album": {
+        "name": "Qurbani",
+        "url": "https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs"
+      },
+      "artists": [
+        {
+          "name": "Kanchan",
+          "url": "https://open.spotify.com/artist/20LxVmOnMzPm716JTA7XKi"
+        },
+        {
+          "name": "Amit Kumar",
+          "url": "https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271600,
+      "name": "Laila O Laila - Qurbani / Soundtrack Version",
+      "url": "https://open.spotify.com/track/05oQXL5mtuktNigwBOGs6y"
     },
     {
       "album": {
@@ -619,7 +889,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271600,
       "name": "Laila O Laila - Qurbani / Suondtrack Version",
       "url": "https://open.spotify.com/track/1k21KAedv6hoz3pq0XPk6N"
@@ -681,10 +951,32 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 418750,
       "name": "Osa Osa - Meri Adalat / Soundtrack Version",
       "url": "https://open.spotify.com/track/0kURppPUWKox1y8FdTmiUe"
+    },
+    {
+      "album": {
+        "name": "Meri Adalat",
+        "url": "https://open.spotify.com/album/6lBnhdidEpordUsA3GooWS"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419866,
+      "name": "Osa Osa - Meri Adalat / Soundtrack Version",
+      "url": "https://open.spotify.com/track/794cBypJQISQCorrG7kQVX"
     },
     {
       "album": {
@@ -742,6 +1034,28 @@
     },
     {
       "album": {
+        "name": "Hum (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7l8A4AdQy1pjkRmW78IEMF"
+      },
+      "artists": [
+        {
+          "name": "Amit Kumar",
+          "url": "https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410866,
+      "name": "Sanam Mere Sanam",
+      "url": "https://open.spotify.com/track/5uha4XwzxCEl3SaLC9TOJT"
+    },
+    {
+      "album": {
         "name": "Rough Guide To Bollywood Disco",
         "url": "https://open.spotify.com/album/7lEKLv2Toaj2aFL4H7tWmF"
       },
@@ -757,7 +1071,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 411093,
       "name": "Sanam Mere Sanam",
       "url": "https://open.spotify.com/track/3xj8MOhWpPk5H0PaCeYzl2"
@@ -786,6 +1100,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u0435\u0441\u043d\u0438 \u0438\u0437 \u043a/\u0444 \u0414\u0438\u0441\u043a\u043e \u0414\u0438\u0432\u0430",
+        "url": "https://open.spotify.com/album/6mgRhaMMBZRmUVebgmWiM1"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212853,
+      "name": "Tere Kadmon Ko",
+      "url": "https://open.spotify.com/track/4FGfZbABfMTuHGE6kgjMhY"
+    },
+    {
+      "album": {
         "name": "Disco Deewane",
         "url": "https://open.spotify.com/album/5r0Od0pl5HlKmlEgnnYOkl"
       },
@@ -801,7 +1133,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212872,
       "name": "Tere Kadmon Ko",
       "url": "https://open.spotify.com/track/7aKauDwgpX7LRqLqfBZwHT"
@@ -849,10 +1181,28 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160773,
       "name": "Title Music (Qurbani) - Qurbani / Soundtrack Version",
       "url": "https://open.spotify.com/track/1VzTQ7WunSoZOmlckDZvoP"
+    },
+    {
+      "album": {
+        "name": "Qurbani",
+        "url": "https://open.spotify.com/album/5XUhA9v9BBihWJBwTq2ZKs"
+      },
+      "artists": [
+        {
+          "name": "Kalyanji-Anandji",
+          "url": "https://open.spotify.com/artist/7pWXlTjky0KXWgbdZi9ebq"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160773,
+      "name": "Title Music (Qurbani) - Qurbani / Soundtrack Version",
+      "url": "https://open.spotify.com/track/5ToLmYAuL24JMEUSqyKttT"
     },
     {
       "album": {
@@ -983,10 +1333,50 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 382133,
       "name": "Yaad Aa Raha Hai",
       "url": "https://open.spotify.com/track/6yFTQlxD9y9nVABZ2WxP16"
+    },
+    {
+      "album": {
+        "name": "Disco Dancer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S"
+      },
+      "artists": [
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382406,
+      "name": "Yaad Aa Raha Hai",
+      "url": "https://open.spotify.com/track/5IaTFrbQzBb5buXeaZMfL8"
+    },
+    {
+      "album": {
+        "name": "Saaheb (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CknHm912teQ2WUbCqNqqy"
+      },
+      "artists": [
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273551,
+      "name": "Yaar Bina Chain Kanha Ray",
+      "url": "https://open.spotify.com/track/5k38rm1bPeiKG6D12s4XoN"
     },
     {
       "album": {
@@ -1005,7 +1395,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273493,
       "name": "Yaar Bina Chain Kanha Ray - From 'Saaheb' / Soundtrack Version",
       "url": "https://open.spotify.com/track/1QAMsB1m8eWXWQbVsj9ZJE"

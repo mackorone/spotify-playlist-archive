@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 
 > The best new releases from swinging bop to free jazz\. Cover: Ethan Iverson
 
-[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 862 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 | 15 | [Wolf](https://open.spotify.com/track/1S4M6aVU6SHmvg9qrna2HI) | [Rotas](https://open.spotify.com/artist/0GbFAQbDzbsgNLDmGlYVfe), [Orfeas Wärdig Tsoukalas](https://open.spotify.com/artist/1dv9b0G8ps7KKquWLptcjy), [John Holmström](https://open.spotify.com/artist/3lF7E5CBAhZjLSGKMaqgxm), [Linus Klevebrant](https://open.spotify.com/artist/0vLdMq2sklWOL3enZRgKj2), [Fredrik Hamrå](https://open.spotify.com/artist/3Tpu17DvogfA77727AkpjB) | [Rotas](https://open.spotify.com/album/4bDN9WZ4UmG2LwYSvWXN3O) | 8:44 |
 | 16 | [La Raza Cósmica](https://open.spotify.com/track/2Mh71fECgzuJ9xmSC6MRww) | [Diego Rivera](https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa) | [Mestizo](https://open.spotify.com/album/58R43BHSwcoiRRG4kvsmYX) | 6:31 |
 | 17 | [Just a Word](https://open.spotify.com/track/0KUWzd4xWLHOfAWu7fvqfe) | [Alma Naidu](https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Alma](https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa) | 3:53 |
-| 18 | [La Muralla \(Glass Walls\) Suite: Muropatía](https://open.spotify.com/track/5DOewBhu0sfNhtPveSMLn7) | [Danilo Perez](https://open.spotify.com/artist/6nPiCm3jwXHrOsMbTDoc4E), [The Global Messengers](https://open.spotify.com/artist/0iZRpFP4UsqMHjfE67CY88) | [La Muralla Suite: Muropatía](https://open.spotify.com/album/6ru3wOui5nfPxlCb7sljCb) | 4:32 |
+| 18 | [La Muralla \(Glass Walls\) Suite: Muropatía](https://open.spotify.com/track/7AQFgfFzSLcs24jrchY2hM) | [Danilo Perez](https://open.spotify.com/artist/6nPiCm3jwXHrOsMbTDoc4E), [The Global Messengers](https://open.spotify.com/artist/0iZRpFP4UsqMHjfE67CY88) | [Crisálida](https://open.spotify.com/album/24IB6dgLyyR9RJ5Koxg6wu) | 4:32 |
 | 19 | [Sgr A\*](https://open.spotify.com/track/5v0y5dl1jFmnLLjLsbRVlE) | [Ilmiliekki Quartet](https://open.spotify.com/artist/5lyAsOhlvbGujJCVQoDC1B), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Tuomo Prättälä](https://open.spotify.com/artist/06xoCURLIPFP4LvhXi8aLx), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Ilmiliekki Quartet](https://open.spotify.com/album/6STx4DRg71CIIy5w8mEiMC) | 5:49 |
 | 20 | [Disquiet](https://open.spotify.com/track/2JYNFnF86VgDyrA229cXY0) | [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Disquiet](https://open.spotify.com/album/79ev99HB3fqFT8ehYG1n3M) | 5:46 |
 | 21 | [Truth In His Heart](https://open.spotify.com/track/1Q1UKcS6tkk3VNiNjlV1Vg) | [Yelena Eckemoff](https://open.spotify.com/artist/7vRtxQT9nKIPHA36iDrCul), [Ralph Alessi](https://open.spotify.com/artist/2yHcAgHAPUdUhVuiIWWcba), [Adam Rogers](https://open.spotify.com/artist/5P1SYAqQn1LGA7TBI10eRI), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Nasheet Waits](https://open.spotify.com/artist/3FJc4dVC0Kcy35Alvq8hPK) | [Truth In His Heart](https://open.spotify.com/album/7DTVY85C3CFUNob1Iry5y9) | 8:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 | 49 | [Third Wave](https://open.spotify.com/track/0xfFpztUzllbPuws63pB9Q) | [Fabio de Angelis](https://open.spotify.com/artist/0cbpT8SMALuvnuIHoCyklE), [Ares Tavolazzi](https://open.spotify.com/artist/4ewtGlwl7LgSeFmzMJd69C), [Luca De Toni](https://open.spotify.com/artist/52Zf3Wf3OoXH8vpCejt2XM), [Robert Bonisolo](https://open.spotify.com/artist/2orC1tCXt3offq1sc29PHJ) | [Third Wave](https://open.spotify.com/album/6w5LzNNVNvMfkT2H2sytlr) | 4:30 |
 | 50 | [Vintermørke](https://open.spotify.com/track/2i8mf4M58VG6bRaSp48lzK) | [Espen Berg Trio](https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Vintermørke](https://open.spotify.com/album/7wpWC9p8PjOIdtVCbZO5fF) | 7:18 |
 
-Snapshot ID: `MTY0NTE2NzExMSwwMDAwMDA3NjAwMDAwMTdmMGI5OWVjYzgwMDAwMDE3ZWRmMWQyMTAw`
+Snapshot ID: `MTY0NTE2NzExMSwwMDAwMDAwMDBiYzMzNzA4OWVmOGIxOGRkZjAyYWE3MTZmNjQ0MWY3`

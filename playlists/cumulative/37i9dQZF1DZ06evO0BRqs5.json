@@ -8,79 +8,7 @@
   "tracks": [
     {
       "album": {
-        "name": "Best - A",
-        "url": "https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 276346,
-      "name": "Accentier",
-      "url": "https://open.spotify.com/track/0mLK9TPqJ92eRPoJjrJIi9"
-    },
-    {
-      "album": {
-        "name": "Best - E",
-        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 291746,
-      "name": "Akatsuki",
-      "url": "https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi"
-    },
-    {
-      "album": {
-        "name": "D'azur",
-        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 360933,
-      "name": "Ao No Sekai",
-      "url": "https://open.spotify.com/track/7LWlnwNCg5OtJynBCSqxzG"
-    },
-    {
-      "album": {
-        "name": "ATOK",
-        "url": "https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 251404,
-      "name": "AtoK",
-      "url": "https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg"
-    },
-    {
-      "album": {
-        "name": "Blau",
+        "name": "BLAU",
         "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
       },
       "artists": [
@@ -93,30 +21,12 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 260693,
-      "name": "Aurora",
+      "name": "AURORA",
       "url": "https://open.spotify.com/track/1j8GsYtk19jz7rtGdKuFYM"
     },
     {
       "album": {
-        "name": "Blau",
-        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 289346,
-      "name": "Avalon Blue",
-      "url": "https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7"
-    },
-    {
-      "album": {
-        "name": "Ignite",
+        "name": "IGNITE",
         "url": "https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB"
       },
       "artists": [
@@ -134,7 +44,43 @@
     },
     {
       "album": {
-        "name": "Accentier",
+        "name": "HELLO HELLO HELLO",
+        "url": "https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 311960,
+      "name": "CaCO",
+      "url": "https://open.spotify.com/track/0E5vf3YTVdn7sbaNkdSJae"
+    },
+    {
+      "album": {
+        "name": "HELLO HELLO HELLO",
+        "url": "https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310626,
+      "name": "CaCO -Instrumental",
+      "url": "https://open.spotify.com/track/58H90Fan0uwDxquVbZ6yFK"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
         "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
       },
       "artists": [
@@ -152,43 +98,7 @@
     },
     {
       "album": {
-        "name": "Aube",
-        "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 272560,
-      "name": "Cobalt Sky",
-      "url": "https://open.spotify.com/track/3Z957DGjG79SQ4DLEHn8M0"
-    },
-    {
-      "album": {
-        "name": "D'azur",
-        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257733,
-      "name": "Cynthia No Hikari",
-      "url": "https://open.spotify.com/track/1mJgEIOFtgA4Ako3Xlyxo4"
-    },
-    {
-      "album": {
-        "name": "Iris",
+        "name": "\u30a2\u30a4\u30ea\u30b9",
         "url": "https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328"
       },
       "artists": [
@@ -206,7 +116,7 @@
     },
     {
       "album": {
-        "name": "Innocence",
+        "name": "INNOCENCE",
         "url": "https://open.spotify.com/album/44tCGweHm2ZAHeGYud3UKI"
       },
       "artists": [
@@ -217,28 +127,10 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 279080,
       "name": "dear brightness",
       "url": "https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV"
-    },
-    {
-      "album": {
-        "name": "Blau",
-        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 266786,
-      "name": "Faceless",
-      "url": "https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y"
     },
     {
       "album": {
@@ -253,7 +145,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": "2022-08-17",
       "duration_ms": 252533,
       "name": "FROATIN'",
       "url": "https://open.spotify.com/track/712XBKRZlVW0MqXyXPbUMl"
@@ -271,32 +163,14 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 314213,
       "name": "frozen eyez",
       "url": "https://open.spotify.com/track/5JmkXY4tdcONIdXI1NDNjY"
     },
     {
       "album": {
-        "name": "Tsubasa",
-        "url": "https://open.spotify.com/album/4Jgv6Mp7kD0phKwFs5UmzN"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 266400,
-      "name": "Fukaimori",
-      "url": "https://open.spotify.com/track/0FQCrJ6j5ZDZ7od1TkMchk"
-    },
-    {
-      "album": {
-        "name": "D'azur",
+        "name": "D'AZUR",
         "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
       },
       "artists": [
@@ -309,7 +183,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 278040,
-      "name": "Genesis",
+      "name": "GENESIS",
       "url": "https://open.spotify.com/track/5qXYkYpk5e5rS07lU3USCC"
     },
     {
@@ -332,8 +206,8 @@
     },
     {
       "album": {
-        "name": "Best - E",
-        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
+        "name": "HELLO HELLO HELLO",
+        "url": "https://open.spotify.com/album/5gAsDpWG0nCLBdJSVkGXs7"
       },
       "artists": [
         {
@@ -341,17 +215,17 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "date_added": "2022-06-09",
+      "date_added": "2022-07-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 263973,
-      "name": "Haru Spring",
-      "url": "https://open.spotify.com/track/6Qot77kbGLMMlNsDnEEyN0"
+      "duration_ms": 243730,
+      "name": "HELLO HELLO HELLO",
+      "url": "https://open.spotify.com/track/2CR2wXrrSqyAIegVOl8IzF"
     },
     {
       "album": {
-        "name": "RYUSEIYAKUSOKU",
-        "url": "https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG"
+        "name": "HELLO HELLO HELLO",
+        "url": "https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6"
       },
       "artists": [
         {
@@ -359,17 +233,17 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "date_added": "2022-06-09",
+      "date_added": "2022-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 232026,
-      "name": "Hitokakerano Yuki",
-      "url": "https://open.spotify.com/track/1x6DIYGxyHTYUFgmGEd4Ey"
+      "duration_ms": 245026,
+      "name": "HELLO HELLO HELLO -Instrumental",
+      "url": "https://open.spotify.com/track/5m1SZPzVF7awq0HbtaXP1d"
     },
     {
       "album": {
-        "name": "Tsuki O Ou Mayonaka",
-        "url": "https://open.spotify.com/album/54WirG6n1l8Vg0uF26R0yJ"
+        "name": "HELLO HELLO HELLO",
+        "url": "https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6"
       },
       "artists": [
         {
@@ -377,30 +251,12 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
-      "duration_ms": 279866,
-      "name": "Hitori To Hitori",
-      "url": "https://open.spotify.com/track/26YNGudhBMxEGkB8RluCHC"
-    },
-    {
-      "album": {
-        "name": "Hoshiga Furu Yume",
-        "url": "https://open.spotify.com/album/3eEkOmo0lmc3MfcfXoNxiJ"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
+      "date_added": "2022-08-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 250106,
-      "name": "Hoshiga Furu Yume",
-      "url": "https://open.spotify.com/track/1tsHgDDNkX2eUBvh8hTDhL"
+      "duration_ms": 91000,
+      "name": "HELLO HELLO HELLO -TV size ver",
+      "url": "https://open.spotify.com/track/4ZqNeWPINaNzPcQ7rZ10gd"
     },
     {
       "album": {
@@ -415,14 +271,32 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 274320,
       "name": "I will...",
       "url": "https://open.spotify.com/track/2BTIKSOhf3X8OA3LWbFW2U"
     },
     {
       "album": {
-        "name": "D'azur",
+        "name": "I will...",
+        "url": "https://open.spotify.com/album/5NiJNFnTIXAY1vbDLOaohA"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274320,
+      "name": "I will...",
+      "url": "https://open.spotify.com/track/4DGJQEY7NUtuKRL6IX20U6"
+    },
+    {
+      "album": {
+        "name": "D'AZUR",
         "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
       },
       "artists": [
@@ -435,12 +309,12 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 244173,
-      "name": "Ignite",
+      "name": "IGNITE",
       "url": "https://open.spotify.com/track/5ivhfpfnoHhD8rUI2t3aJG"
     },
     {
       "album": {
-        "name": "Blau",
+        "name": "BLAU",
         "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
       },
       "artists": [
@@ -453,30 +327,12 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 277320,
-      "name": "Innocence",
+      "name": "INNOCENCE",
       "url": "https://open.spotify.com/track/0N63llGavaESfPRIZkDkvL"
     },
     {
       "album": {
-        "name": "Fragment (Special Edition)",
-        "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 247426,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/3Bl9pbEgCoSnm50nG93bvL"
-    },
-    {
-      "album": {
-        "name": "Aube",
+        "name": "AUBE",
         "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
       },
       "artists": [
@@ -489,62 +345,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 280160,
-      "name": "Kasumi",
+      "name": "KASUMI",
       "url": "https://open.spotify.com/track/3v1Y19mw44JozuYjBu6LxT"
-    },
-    {
-      "album": {
-        "name": "Aube",
-        "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 270733,
-      "name": "Kinmiraikoukyoukyoku",
-      "url": "https://open.spotify.com/track/4hMcTL6kTCzIgmOxQJlqoz"
-    },
-    {
-      "album": {
-        "name": "Kodo",
-        "url": "https://open.spotify.com/album/3ScfmGFBtfyu9Gsj3yWDU3"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 243133,
-      "name": "Kodo",
-      "url": "https://open.spotify.com/track/6QDyiZyiQjRL02PIiJo2bq"
-    },
-    {
-      "album": {
-        "name": "Best - E",
-        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 380653,
-      "name": "Kuroiuta",
-      "url": "https://open.spotify.com/track/2BhzgvThTqaQpDBr1fmkM8"
     },
     {
       "album": {
@@ -566,42 +368,6 @@
     },
     {
       "album": {
-        "name": "Aoi Eir Special Live 2018 RE BLUE at Nippon Budokan",
-        "url": "https://open.spotify.com/album/2sc1aJl5nt2lDw4bLg4VJt"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 241600,
-      "name": "Lapis Lazuli - Live Re Blue",
-      "url": "https://open.spotify.com/track/6hqv2LYDrTLZD7CJyex547"
-    },
-    {
-      "album": {
-        "name": "D'azur",
-        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 238160,
-      "name": "Lapislazuli",
-      "url": "https://open.spotify.com/track/5gW0U6PfSZxs3ZqcQvIf6L"
-    },
-    {
-      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp"
       },
@@ -615,12 +381,12 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 334693,
-      "name": "Lapse from Virtue",
+      "name": "Lapse From Virtue",
       "url": "https://open.spotify.com/track/1J2A4InBPQcfXyf9mF5IG8"
     },
     {
       "album": {
-        "name": "Iris",
+        "name": "\u30a2\u30a4\u30ea\u30b9",
         "url": "https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328"
       },
       "artists": [
@@ -638,7 +404,7 @@
     },
     {
       "album": {
-        "name": "Blau",
+        "name": "BLAU",
         "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
       },
       "artists": [
@@ -651,7 +417,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 288173,
-      "name": "Memoria",
+      "name": "MEMORIA",
       "url": "https://open.spotify.com/track/6qpGlLv9MHaChP5hEx6Pni"
     },
     {
@@ -667,28 +433,10 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 329266,
       "name": "MEMORIA orchestra ver.",
       "url": "https://open.spotify.com/track/1YrXad2wkK4EvhHDQtvHFo"
-    },
-    {
-      "album": {
-        "name": "Aube",
-        "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 291093,
-      "name": "Nijino Oto",
-      "url": "https://open.spotify.com/track/0PQjMVtI9hNKKf7rOyV94S"
     },
     {
       "album": {
@@ -721,32 +469,14 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 274013,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/14lEsLLwniuLalb1G8Brpu"
     },
     {
       "album": {
-        "name": "Fragment (Special Edition)",
-        "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 259466,
-      "name": "Rasensekai",
-      "url": "https://open.spotify.com/track/1Cp6p7em95MNYmuJBI9MNn"
-    },
-    {
-      "album": {
-        "name": "Tsunagaru Omoi",
+        "name": "\u30c4\u30ca\u30ac\u30eb\u30aa\u30e2\u30a4",
         "url": "https://open.spotify.com/album/5hnBLFUkkZQhquwedJ2tFZ"
       },
       "artists": [
@@ -757,15 +487,15 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 217880,
       "name": "Raspberry Moon",
       "url": "https://open.spotify.com/track/1UksXs7fzQh4CcpaknzGXH"
     },
     {
       "album": {
-        "name": "Lapis Lazuli",
-        "url": "https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G"
+        "name": "HELLO HELLO HELLO",
+        "url": "https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6"
       },
       "artists": [
         {
@@ -773,12 +503,12 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "date_added": "2022-06-09",
+      "date_added": "2022-08-31",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 285026,
-      "name": "Rindou No Hana",
-      "url": "https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef"
+      "duration_ms": 267080,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/7p5NnU5fSHo52LaVEkFH6O"
     },
     {
       "album": {
@@ -800,79 +530,7 @@
     },
     {
       "album": {
-        "name": "Fragment (Special Edition)",
-        "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252426,
-      "name": "Ryusei",
-      "url": "https://open.spotify.com/track/08qU2grYIu0XldcJZ7jEOb"
-    },
-    {
-      "album": {
-        "name": "Aube",
-        "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 289026,
-      "name": "Sanbika",
-      "url": "https://open.spotify.com/track/5w8BuUpt4CORux5GjRAtXd"
-    },
-    {
-      "album": {
-        "name": "Blau",
-        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 265906,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/6JVhxrEMzT2mWSNHWMhwFZ"
-    },
-    {
-      "album": {
-        "name": "Best - A",
-        "url": "https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 243880,
-      "name": "Shoegazer",
-      "url": "https://open.spotify.com/track/11mJhOxt2hCooDFndTPK4C"
-    },
-    {
-      "album": {
-        "name": "Fragment (Special Edition)",
+        "name": "FRAGMENT (Special Edition)",
         "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
       },
       "artists": [
@@ -885,84 +543,12 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 282813,
-      "name": "Singularity",
+      "name": "SINGULARITY",
       "url": "https://open.spotify.com/track/0SD34sXHsm29Gm637omcuA"
     },
     {
       "album": {
-        "name": "Aube",
-        "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 264360,
-      "name": "sirius",
-      "url": "https://open.spotify.com/track/5OCVWpORIRjRU12dHocyDa"
-    },
-    {
-      "album": {
-        "name": "Best - E",
-        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204626,
-      "name": "Tsubasa",
-      "url": "https://open.spotify.com/track/5SkZRPhrXieDDT5LIWkiDB"
-    },
-    {
-      "album": {
-        "name": "Tsuki O Ou Mayonaka",
-        "url": "https://open.spotify.com/album/54WirG6n1l8Vg0uF26R0yJ"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 256680,
-      "name": "Tsuki O Ou Mayonaka",
-      "url": "https://open.spotify.com/track/44nPRe9D8i3BJiTcxYyfp3"
-    },
-    {
-      "album": {
-        "name": "D'azur",
-        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 265053,
-      "name": "Tsunagaruomoi",
-      "url": "https://open.spotify.com/track/3VFdCj1qd29ODOSDvGxhOQ"
-    },
-    {
-      "album": {
-        "name": "Fragment (Special Edition)",
+        "name": "FRAGMENT (Special Edition)",
         "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
       },
       "artists": [
@@ -975,30 +561,12 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 276253,
-      "name": "Unlimited",
+      "name": "UNLIMITED",
       "url": "https://open.spotify.com/track/0z6zShdYIiAJdT3I6FOl7q"
     },
     {
       "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 300960,
-      "name": "Utakata",
-      "url": "https://open.spotify.com/track/51zZOB0rwq7Hr304eY1pJd"
-    },
-    {
-      "album": {
-        "name": "Fragment (Special Edition)",
+        "name": "FRAGMENT (Special Edition)",
         "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
       },
       "artists": [
@@ -1010,13 +578,283 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 286306,
-      "name": "Yakusoku",
-      "url": "https://open.spotify.com/track/28YoNQJtIp77Nn3h8fl5Dv"
+      "duration_ms": 247426,
+      "name": "\u30a2\u30a4\u30ea\u30b9",
+      "url": "https://open.spotify.com/track/3Bl9pbEgCoSnm50nG93bvL"
     },
     {
       "album": {
-        "name": "Nijino Oto",
+        "name": "BEST -E-",
+        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 291746,
+      "name": "\u30a2\u30ab\u30c4\u30ad",
+      "url": "https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi"
+    },
+    {
+      "album": {
+        "name": "BEST -A-",
+        "url": "https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276346,
+      "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
+      "url": "https://open.spotify.com/track/0mLK9TPqJ92eRPoJjrJIi9"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30c8\u30c3\u30af",
+        "url": "https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 251404,
+      "name": "\u30a2\u30c8\u30c3\u30af",
+      "url": "https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg"
+    },
+    {
+      "album": {
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289346,
+      "name": "\u30a2\u30f4\u30a1\u30ed\u30f3\u30fb\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7"
+    },
+    {
+      "album": {
+        "name": "BEST -E-",
+        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380653,
+      "name": "\u30af\u30ed\u30a4\u30a6\u30bf",
+      "url": "https://open.spotify.com/track/2BhzgvThTqaQpDBr1fmkM8"
+    },
+    {
+      "album": {
+        "name": "AUBE",
+        "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272560,
+      "name": "\u30b3\u30d0\u30eb\u30c8\u30fb\u30b9\u30ab\u30a4",
+      "url": "https://open.spotify.com/track/3Z957DGjG79SQ4DLEHn8M0"
+    },
+    {
+      "album": {
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 265906,
+      "name": "\u30b5\u30c6\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6JVhxrEMzT2mWSNHWMhwFZ"
+    },
+    {
+      "album": {
+        "name": "AUBE",
+        "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289026,
+      "name": "\u30b5\u30f3\u30d3\u30ab",
+      "url": "https://open.spotify.com/track/5w8BuUpt4CORux5GjRAtXd"
+    },
+    {
+      "album": {
+        "name": "BEST -A-",
+        "url": "https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "\u30b7\u30e5\u30fc\u30b2\u30a4\u30b6\u30fc",
+      "url": "https://open.spotify.com/track/11mJhOxt2hCooDFndTPK4C"
+    },
+    {
+      "album": {
+        "name": "AUBE",
+        "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264360,
+      "name": "\u30b7\u30ea\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/5OCVWpORIRjRU12dHocyDa"
+    },
+    {
+      "album": {
+        "name": "D'AZUR",
+        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257733,
+      "name": "\u30b7\u30f3\u30b7\u30a2\u306e\u5149",
+      "url": "https://open.spotify.com/track/1mJgEIOFtgA4Ako3Xlyxo4"
+    },
+    {
+      "album": {
+        "name": "D'AZUR",
+        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265053,
+      "name": "\u30c4\u30ca\u30ac\u30eb\u30aa\u30e2\u30a4",
+      "url": "https://open.spotify.com/track/3VFdCj1qd29ODOSDvGxhOQ"
+    },
+    {
+      "album": {
+        "name": "\u6d41\u661f / \u7d04\u675f",
+        "url": "https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232026,
+      "name": "\u30d2\u30c8\u30ab\u30b1\u30e9\u306e\u52c7\u6c17",
+      "url": "https://open.spotify.com/track/1x6DIYGxyHTYUFgmGEd4Ey"
+    },
+    {
+      "album": {
+        "name": "\u6708\u3092\u8ffd\u3046\u771f\u591c\u4e2d",
+        "url": "https://open.spotify.com/album/54WirG6n1l8Vg0uF26R0yJ"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279866,
+      "name": "\u30d2\u30c8\u30ea\u30c8\u30d2\u30c8\u30ea",
+      "url": "https://open.spotify.com/track/26YNGudhBMxEGkB8RluCHC"
+    },
+    {
+      "album": {
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266786,
+      "name": "\u30d5\u30a7\u30a4\u30b9\u30ec\u30b9",
+      "url": "https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y"
+    },
+    {
+      "album": {
+        "name": "\u8679\u306e\u97f3",
         "url": "https://open.spotify.com/album/1yF6vfgTYetiqEG2DKqRX0"
       },
       "artists": [
@@ -1029,8 +867,188 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 302693,
-      "name": "Yumesekai",
+      "name": "\u30e6\u30e1\u30bb\u30ab\u30a4",
       "url": "https://open.spotify.com/track/7MM3JGBeBLIK3zV6spGXji"
+    },
+    {
+      "album": {
+        "name": "D'AZUR",
+        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238160,
+      "name": "\u30e9\u30d4\u30b9\u30e9\u30ba\u30ea",
+      "url": "https://open.spotify.com/track/5gW0U6PfSZxs3ZqcQvIf6L"
+    },
+    {
+      "album": {
+        "name": "\u85cd\u4e95\u30a8\u30a4\u30eb Special Live 2018 RE BLUE at \u65e5\u672c\u6b66\u9053\u9928",
+        "url": "https://open.spotify.com/album/2sc1aJl5nt2lDw4bLg4VJt"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 241600,
+      "name": "\u30e9\u30d4\u30b9\u30e9\u30ba\u30ea -RE BLUE LIVE ver.-",
+      "url": "https://open.spotify.com/track/6hqv2LYDrTLZD7CJyex547"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d4\u30b9\u30e9\u30ba\u30ea",
+        "url": "https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285026,
+      "name": "\u30ea\u30f3\u30c9\u30a6\u306e\u82b1",
+      "url": "https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef"
+    },
+    {
+      "album": {
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-01",
+      "duration_ms": 316386,
+      "name": "\u5922\u306e\u7d42\u308f\u308a",
+      "url": "https://open.spotify.com/track/0RUlI18GJNkrKgAPQ5lQbw"
+    },
+    {
+      "album": {
+        "name": "\u661f\u304c\u964d\u308b\u30e6\u30e1",
+        "url": "https://open.spotify.com/album/3eEkOmo0lmc3MfcfXoNxiJ"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250106,
+      "name": "\u661f\u304c\u964d\u308b\u30e6\u30e1",
+      "url": "https://open.spotify.com/track/1tsHgDDNkX2eUBvh8hTDhL"
+    },
+    {
+      "album": {
+        "name": "BEST -E-",
+        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263973,
+      "name": "\u6625\u301cspring\u301c",
+      "url": "https://open.spotify.com/track/6Qot77kbGLMMlNsDnEEyN0"
+    },
+    {
+      "album": {
+        "name": "\u6708\u3092\u8ffd\u3046\u771f\u591c\u4e2d",
+        "url": "https://open.spotify.com/album/54WirG6n1l8Vg0uF26R0yJ"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256680,
+      "name": "\u6708\u3092\u8ffd\u3046\u771f\u591c\u4e2d",
+      "url": "https://open.spotify.com/track/44nPRe9D8i3BJiTcxYyfp3"
+    },
+    {
+      "album": {
+        "name": "IGNITE",
+        "url": "https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300960,
+      "name": "\u6ce1\u6cab",
+      "url": "https://open.spotify.com/track/51zZOB0rwq7Hr304eY1pJd"
+    },
+    {
+      "album": {
+        "name": "FRAGMENT (Special Edition)",
+        "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252426,
+      "name": "\u6d41\u661f",
+      "url": "https://open.spotify.com/track/08qU2grYIu0XldcJZ7jEOb"
+    },
+    {
+      "album": {
+        "name": "\u7ffc",
+        "url": "https://open.spotify.com/album/4Jgv6Mp7kD0phKwFs5UmzN"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266400,
+      "name": "\u6df1\u3044\u68ee",
+      "url": "https://open.spotify.com/track/0FQCrJ6j5ZDZ7od1TkMchk"
     },
     {
       "album": {
@@ -1045,10 +1063,154 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-09-02",
       "duration_ms": 243360,
       "name": "\u7a7a\u8749\u30a2\u30eb\u30c6\u30a3\u30e1\u30c3\u30c8",
       "url": "https://open.spotify.com/track/0ps2PbZL9SO9VaHqPfrQ3x"
+    },
+    {
+      "album": {
+        "name": "FRAGMENT (Special Edition)",
+        "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286306,
+      "name": "\u7d04\u675f",
+      "url": "https://open.spotify.com/track/28YoNQJtIp77Nn3h8fl5Dv"
+    },
+    {
+      "album": {
+        "name": "BEST -E-",
+        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204626,
+      "name": "\u7ffc",
+      "url": "https://open.spotify.com/track/5SkZRPhrXieDDT5LIWkiDB"
+    },
+    {
+      "album": {
+        "name": "AUBE",
+        "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291093,
+      "name": "\u8679\u306e\u97f3",
+      "url": "https://open.spotify.com/track/0PQjMVtI9hNKKf7rOyV94S"
+    },
+    {
+      "album": {
+        "name": "FRAGMENT (Special Edition)",
+        "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 259466,
+      "name": "\u87ba\u65cb\u4e16\u754c",
+      "url": "https://open.spotify.com/track/1Cp6p7em95MNYmuJBI9MNn"
+    },
+    {
+      "album": {
+        "name": "AUBE",
+        "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270733,
+      "name": "\u8fd1\u672a\u6765\u4ea4\u97ff\u66f2",
+      "url": "https://open.spotify.com/track/4hMcTL6kTCzIgmOxQJlqoz"
+    },
+    {
+      "album": {
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-21",
+      "duration_ms": 311293,
+      "name": "\u9583\u5149\u524d\u591c",
+      "url": "https://open.spotify.com/track/7AQCebDj1ewxC6NUuW4Mbe"
+    },
+    {
+      "album": {
+        "name": "D'AZUR",
+        "url": "https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360933,
+      "name": "\u9752\u306e\u4e16\u754c",
+      "url": "https://open.spotify.com/track/7LWlnwNCg5OtJynBCSqxzG"
+    },
+    {
+      "album": {
+        "name": "\u9f13\u52d5",
+        "url": "https://open.spotify.com/album/3ScfmGFBtfyu9Gsj3yWDU3"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243133,
+      "name": "\u9f13\u52d5",
+      "url": "https://open.spotify.com/track/6QDyiZyiQjRL02PIiJo2bq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5"

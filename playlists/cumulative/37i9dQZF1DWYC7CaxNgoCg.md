@@ -4,7 +4,7 @@
 
 > Celebrating 60 years of Motown with the music that broke barriers and moved the soul.
 
-29 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/2oGTf2t1kNo7A4i8wuuWDS)
+32 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/2oGTf2t1kNo7A4i8wuuWDS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,17 +20,20 @@
 | [I'll Make Love To You](https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:56 | 2019-06-18 |  |
 | [It Takes Two](https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Take Two](https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK) | 2:57 | 2019-06-18 |  |
 | [Jumpin' Jack Flash](https://open.spotify.com/track/2bEBafnFsw7a0X8rjJxdBh) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Best Of Thelma Houston](https://open.spotify.com/album/1AV9ByfwIwhqTIEE1x8RaE) | 3:25 | 2019-06-18 |  |
-| [Little Things](https://open.spotify.com/track/5w0wdbvOSarNR3DBHRcURH) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Voyage To India](https://open.spotify.com/album/1i7DI6AtWXwll2cBb9hn9q) | 3:28 | 2019-06-18 |  |
+| [Little Things](https://open.spotify.com/track/5w0wdbvOSarNR3DBHRcURH) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Voyage To India](https://open.spotify.com/album/1i7DI6AtWXwll2cBb9hn9q) | 3:28 | 2019-06-18 | 2022-07-29 |
+| [Little Things \- Main Edit](https://open.spotify.com/track/03B8XA9Vpr4oexTnX24Pn9) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [The Little Things](https://open.spotify.com/album/0xzVyQw1IBs4KeHoO7fTLk) | 3:29 | 2019-06-18 |  |
 | [Long Song Away](https://open.spotify.com/track/7j7sgbpZrEUyXIjAegqOed) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Long Song Away](https://open.spotify.com/album/3Yluqlq1TaCXXTf52WskES) | 4:32 | 2019-06-18 |  |
 | [Love Calls](https://open.spotify.com/track/3HoyAX58MUIBFCNmhMliHy) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Kemistry](https://open.spotify.com/album/3ebsgIalEIKpGBVrNErCAd) | 5:13 | 2019-06-18 |  |
 | [Love Machine \- Pt\. 1](https://open.spotify.com/track/1b833AsiKCEhLLxmdQu9Hw) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [The 35th Anniversary Collection](https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y) | 3:01 | 2019-06-18 |  |
 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/0QMFMQF3HoSk5WvMyx8aMT) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [20th Century Masters: The Millennium Collection: Best Of Barrett Strong](https://open.spotify.com/album/6dTXSc78HM0ZsQptU0Nl2V) | 2:37 | 2019-06-18 |  |
 | [My Whole World Ended \(The Moment You Left Me\)](https://open.spotify.com/track/09VbZ87CD4kGyQ9QBrnziC) | [David Ruffin](https://open.spotify.com/artist/3FZn8Z2B7mfaSOU8NE62KR) | [My Whole World Ended](https://open.spotify.com/album/5JLfvQTfHpLcmDQhh5eIEk) | 3:32 | 2019-06-18 |  |
 | [Nightshift](https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Nightshift](https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP) | 5:06 | 2019-06-18 |  |
-| [Nowhere To Run \- Single Version / Mono](https://open.spotify.com/track/7yyGFGXkaZbdDKun1g4AXO) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [50th Anniversary \| The Singles Collection \| 1962\-1972](https://open.spotify.com/album/0zwMKAZ1rc28juVDDWVtI9) | 2:53 | 2019-06-18 |  |
+| [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 | 2019-06-18 |  |
+| [Nowhere To Run \- Single Version / Mono](https://open.spotify.com/track/7yyGFGXkaZbdDKun1g4AXO) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [50th Anniversary \| The Singles Collection \| 1962\-1972](https://open.spotify.com/album/0zwMKAZ1rc28juVDDWVtI9) | 2:53 | 2019-06-18 | 2022-07-29 |
 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 | 2019-06-18 |  |
 | [One Last Cry](https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Brian McKnight](https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG) | 4:55 | 2019-06-18 |  |
-| [Shotgun](https://open.spotify.com/track/6VzM9C7CXyn1BQdgTJVqDx) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/4aDsONCBMpZ6AAjZctYEYS) | 2:56 | 2019-06-18 |  |
+| [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 | 2019-06-18 |  |
+| [Shotgun](https://open.spotify.com/track/6VzM9C7CXyn1BQdgTJVqDx) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/4aDsONCBMpZ6AAjZctYEYS) | 2:56 | 2019-06-18 | 2022-07-29 |
 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 | 2019-06-18 |  |
 | [Something To Talk About](https://open.spotify.com/track/5Ctp29E4N078VPralCQJBb) | [JAMESDAVIS](https://open.spotify.com/artist/0OvzaC9mrjvTpbNQtqrze7) | [Something To Talk About](https://open.spotify.com/album/0Bb5wrXFtmpV3YRrLNwBI6) | 3:35 | 2019-06-18 |  |
 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 | 2019-06-18 |  |

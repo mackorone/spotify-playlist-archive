@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "Far From Forever",
+        "url": "https://open.spotify.com/album/5Jbc8jkGvLRaCLoHERLh1n"
+      },
+      "artists": [
+        {
+          "name": "Joe Samba",
+          "url": "https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196306,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/2GKBeYIdp4E6bgf08uxaMX"
+    },
+    {
+      "album": {
         "name": "Beef",
         "url": "https://open.spotify.com/album/6D0lClxp6tZUWzkSqcWrJ0"
       },
@@ -81,7 +99,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196306,
       "name": "Beef",
       "url": "https://open.spotify.com/track/3wIZTELQWUiKoREJXm2ZBn"
@@ -219,7 +237,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199600,
       "name": "Corona and Lime",
       "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
@@ -248,6 +266,24 @@
     },
     {
       "album": {
+        "name": "The House That Bradley Built (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0N5WXAYHV9oq1Xk2YJUYvg"
+      },
+      "artists": [
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-07",
+      "duration_ms": 204890,
+      "name": "DJs",
+      "url": "https://open.spotify.com/track/05u6c3jCVNewXt0rFUw7p4"
+    },
+    {
+      "album": {
         "name": "DJs",
         "url": "https://open.spotify.com/album/7xMJkHig1DBtwA6um5ltM1"
       },
@@ -259,7 +295,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204890,
       "name": "DJs",
       "url": "https://open.spotify.com/track/53jbCI3T7Enf0ts76ySNYn"
@@ -284,6 +320,24 @@
     },
     {
       "album": {
+        "name": "Down With You - Single",
+        "url": "https://open.spotify.com/album/6rDY8B4Q1F3ZBhb7mmfMdT"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210050,
+      "name": "Down With You",
+      "url": "https://open.spotify.com/track/47Axm1bTbEbOvkXpzOv5ZQ"
+    },
+    {
+      "album": {
         "name": "Down With You",
         "url": "https://open.spotify.com/album/6AlOEPBNtnf5aFlKZ9JR4b"
       },
@@ -295,7 +349,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210050,
       "name": "Down With You",
       "url": "https://open.spotify.com/track/5Iok4ErbMb8ozpzZkLe2VA"
@@ -313,10 +367,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172000,
       "name": "Duduke",
       "url": "https://open.spotify.com/track/2rcH25kgOyS0cQbtiMkhQw"
+    },
+    {
+      "album": {
+        "name": "Duduke",
+        "url": "https://open.spotify.com/album/5LfTq81m11TP8TqTGV2aHk"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172039,
+      "name": "Duduke",
+      "url": "https://open.spotify.com/track/1Dugqy9EGYV66nkp7yLiA4"
     },
     {
       "album": {
@@ -579,10 +651,32 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182857,
       "name": "Iko Iko",
       "url": "https://open.spotify.com/track/4qlBvxOwFy6og73eik75Ro"
+    },
+    {
+      "album": {
+        "name": "Iko Iko (My Bestie)",
+        "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
+      },
+      "artists": [
+        {
+          "name": "Justin Wellington",
+          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
+        },
+        {
+          "name": "Small Jam",
+          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Iko Iko (My Bestie)",
+      "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
     },
     {
       "album": {
@@ -597,10 +691,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 252680,
       "name": "In the Air",
       "url": "https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o"
+    },
+    {
+      "album": {
+        "name": "L.A.B III",
+        "url": "https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252680,
+      "name": "In the Air",
+      "url": "https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c"
     },
     {
       "album": {
@@ -728,6 +840,68 @@
     },
     {
       "album": {
+        "name": "Killing It Off",
+        "url": "https://open.spotify.com/album/1ctFVQRVfSdmXqni7wGgzr"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169994,
+      "name": "Killing It Off",
+      "url": "https://open.spotify.com/track/3y00AWgTQV4VOR130fHnpi"
+    },
+    {
+      "album": {
+        "name": "Born and Raised II (The Rebirth)",
+        "url": "https://open.spotify.com/album/2bT0tABmD8OSkWAXOBIdmK"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-27",
+      "duration_ms": 223050,
+      "name": "Lonely Days",
+      "url": "https://open.spotify.com/track/3iV6YZ2YC9m8BpifEHC3BZ"
+    },
+    {
+      "album": {
+        "name": "Born and Raised II: The Rebirth",
+        "url": "https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223050,
+      "name": "Lonely Days",
+      "url": "https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT"
+    },
+    {
+      "album": {
         "name": "Born and Raised II (The Rebirth)",
         "url": "https://open.spotify.com/album/4rVspDthKkUZ7OM5C0fD5j"
       },
@@ -743,7 +917,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222984,
       "name": "Lonely Days (feat. J Boogs)",
       "url": "https://open.spotify.com/track/4a6TfJDJdjuVCKJJWRSM4V"
@@ -761,10 +935,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213691,
       "name": "Love & Reggae",
       "url": "https://open.spotify.com/track/1XZVwke6skZtveoKAR1lCz"
+    },
+    {
+      "album": {
+        "name": "Hybrid",
+        "url": "https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213691,
+      "name": "Love & Reggae",
+      "url": "https://open.spotify.com/track/7nT9lGk3bf5rvnVbzPIE3N"
     },
     {
       "album": {
@@ -833,10 +1025,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 236120,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/0I0BvzTJDO8KR61k9rWVGP"
+    },
+    {
+      "album": {
+        "name": "L.A.B IV",
+        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236120,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/784sJR2S68F1joSvINXhe0"
     },
     {
       "album": {
@@ -858,6 +1068,28 @@
     },
     {
       "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/37yx9V8gn8cpLZRvTR8ft8"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow People",
+          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        },
+        {
+          "name": "Wayno",
+          "url": "https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
+      "duration_ms": 231787,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/1gBPX3aGaa58zr02vXp0tC"
+    },
+    {
+      "album": {
         "name": "My Guy",
         "url": "https://open.spotify.com/album/7vNkxEWGt4gA6eYnAmbUqv"
       },
@@ -873,10 +1105,32 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231787,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/3l1AjvzYObjfx0sSTHuMWJ"
+    },
+    {
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/78J8bZXTc1Wr7DXg6lyAeg"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow People",
+          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        },
+        {
+          "name": "Wayno",
+          "url": "https://open.spotify.com/artist/3HVur1nWxj1AGZoY5u04AW"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231787,
+      "name": "My Guy (with Wayno)",
+      "url": "https://open.spotify.com/track/5w9fFUqIzcp1tebYIkBfko"
     },
     {
       "album": {
@@ -1095,10 +1349,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 376666,
       "name": "Rhythm In My Soul",
       "url": "https://open.spotify.com/track/0gnncXckqtWNoyq77cz0mL"
+    },
+    {
+      "album": {
+        "name": "Into the Dread",
+        "url": "https://open.spotify.com/album/0XUxsYbbxTmkhzMAA9YeTe"
+      },
+      "artists": [
+        {
+          "name": "Unity Pacific",
+          "url": "https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376666,
+      "name": "Rhythm in My Soul",
+      "url": "https://open.spotify.com/track/1U9GsSNJ2gypyLCRbbvNa1"
     },
     {
       "album": {
@@ -1247,10 +1519,76 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208019,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/2s3tLDYxfvr7Uy9JWcbHNX"
+    },
+    {
+      "album": {
+        "name": "Beauty In The Silence",
+        "url": "https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/7K7qeICBpEwhkdJUcy6pMh"
+    },
+    {
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/6xM5fnDCzx1E8jGHMf2mQI"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow People",
+          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        },
+        {
+          "name": "Chad Chambers",
+          "url": "https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 204293,
+      "name": "Souljah Feeling",
+      "url": "https://open.spotify.com/track/1HnHBG9OMuv41CGtIucVh8"
+    },
+    {
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow People",
+          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        },
+        {
+          "name": "Chad Chambers",
+          "url": "https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "Souljah Feeling",
+      "url": "https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn"
     },
     {
       "album": {
@@ -1269,7 +1607,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204293,
       "name": "Souljah Feeling",
       "url": "https://open.spotify.com/track/4dja4sisHZNee32Co0udGl"
@@ -1345,10 +1683,46 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214866,
       "name": "Take It Away",
       "url": "https://open.spotify.com/track/28LwcC8Qjw6fzjTpUDEgXF"
+    },
+    {
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/6xM5fnDCzx1E8jGHMf2mQI"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow People",
+          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 214866,
+      "name": "Take It Away",
+      "url": "https://open.spotify.com/track/3hB5r7k7NmmCOQAWmorLYD"
+    },
+    {
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow People",
+          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "Take It Away",
+      "url": "https://open.spotify.com/track/5BghMRrK03bJDO3oUB96J9"
     },
     {
       "album": {

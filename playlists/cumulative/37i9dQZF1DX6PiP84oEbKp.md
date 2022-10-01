@@ -4,7 +4,7 @@
 
 > A pride playlist for the whole family.
 
-39 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/3KLEVcPpbMJmbRBCH8WJUJ)
+41 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/3KLEVcPpbMJmbRBCH8WJUJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Beautiful](https://open.spotify.com/track/40fvlRGSBSEYWTgCpRyVqf) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Keeps Gettin' Better: A Decade of Hits](https://open.spotify.com/album/2019iQx5MmA6byqYqdK7zS) | 4:01 | 2021-08-27 |  |
 | [Boomerang](https://open.spotify.com/track/79l5JbcB7MVcjmYlvgq9KQ) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Boomerang](https://open.spotify.com/album/4XjsEEC0egjD59vuN93ep5) | 3:27 | 2021-08-27 |  |
 | [Born This Way](https://open.spotify.com/track/6aDi4gOE2Cfc6ecynvP81R) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 4:20 | 2021-08-27 |  |
-| [Boy Or Girl Colour](https://open.spotify.com/track/2P65xZN3MzNxxMBoKJEIye) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Helpful Songs For Little People](https://open.spotify.com/album/3tiVuLLVWaSi6p9Z0uvAaP) | 3:03 | 2021-08-27 |  |
+| [Boy Or Girl Colour](https://open.spotify.com/track/2P65xZN3MzNxxMBoKJEIye) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Helpful Songs For Little People](https://open.spotify.com/album/3tiVuLLVWaSi6p9Z0uvAaP) | 3:03 | 2021-08-27 | 2022-07-29 |
+| [Boy or Girl Colour](https://open.spotify.com/track/4t0917UONxsUhyiQvjIeEE) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Helpful Songs for Little People](https://open.spotify.com/album/7jOW68jFVaqKI68MI0esza) | 3:03 | 2022-06-02 |  |
 | [Brave](https://open.spotify.com/track/6Uy6K3KdmUdAfelUp0SeXn) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:40 | 2021-08-27 |  |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 | 2021-08-27 |  |
 | [Dress Up and Dance](https://open.spotify.com/track/5hQsvs1r8HB3KddDDQaxxK) | [Chana Rothman](https://open.spotify.com/artist/5rhw2nhZysMtE7HUdoa0aR), [Ali Wadsworth](https://open.spotify.com/artist/4rynw6dg0dqNjziumo2xID), [Mighty Flipside ESQ.](https://open.spotify.com/artist/22aS2NiRp3lfel7ZSs0H9s) | [Rainbow Train](https://open.spotify.com/album/7zUf2MFerkp7fLElIbI9nk) | 2:48 | 2021-08-27 |  |
@@ -35,7 +36,8 @@
 | [Play It Loud](https://open.spotify.com/track/0PrCmeLBJHrXCvhV7HJbzu) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Really Loud Music](https://open.spotify.com/album/08WKH7AdhNWNER1Y4BGxjm) | 0:53 | 2021-08-27 |  |
 | [Rainbow Baby](https://open.spotify.com/track/58Fl2TnFkVvrOGT6Tf70TV) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [Rainbow Baby](https://open.spotify.com/album/59ezSZpBp2d6BJv9mjBdMo) | 3:41 | 2021-08-27 |  |
 | [Snowpeople](https://open.spotify.com/track/1qFWXT8iWQIuDOAUXoqZV4) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Winterland](https://open.spotify.com/album/4T6NbIjlMpe8Rpc5Lx8DKt) | 2:37 | 2021-08-27 |  |
-| [Some Girls Have Short Hair](https://open.spotify.com/track/1n9inNjAfarRPFsSw3ErCm) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6fAkgy3mHYCHSIuLqacj82) | 1:16 | 2021-08-27 |  |
+| [Some Girls Have Short Hair](https://open.spotify.com/track/0uaEO7D5FuGAOj8GeWGLFp) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6JCPj80o5nfJcHvn4wdvyw) | 1:16 | 2022-06-02 |  |
+| [Some Girls Have Short Hair](https://open.spotify.com/track/1n9inNjAfarRPFsSw3ErCm) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6fAkgy3mHYCHSIuLqacj82) | 1:16 | 2021-08-27 | 2022-07-29 |
 | [Something Entirely New \(feat\. Erica Luttrell & Charlyne Yi\)](https://open.spotify.com/track/0Mg0iwFNJX5GLkArZfIX9s) | [Steven Universe](https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA), [Charlyne Yi](https://open.spotify.com/artist/4g7sAbyq2q5Eou0inGABvw), [Erica Luttrell](https://open.spotify.com/artist/1HRq8YjrdR6yJfQu5DEGjD) | [Steven Universe, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5MAx9iJP58ErRpSUdrV1Uk) | 1:47 | 2021-08-27 |  |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2021-08-27 |  |
 | [Stronger Than You \(feat\. Estelle\)](https://open.spotify.com/track/4qmT806nB5E33pZSYYqWcU) | [Steven Universe](https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Steven Universe, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5MAx9iJP58ErRpSUdrV1Uk) | 2:52 | 2021-08-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3cC0Hnr7idCemR4JxOh2lI.md) - [plain]
 
 > Borlängeprofilen Ingemar Magnusson, som till vardags driver skivbutiken Folk å Rock, listar sina 200 favoritlåtar\. Hitta spellistor för alla tillfällen på <a href="spotify:app:tunigo">Tunigo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 200 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 72 likes - 200 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

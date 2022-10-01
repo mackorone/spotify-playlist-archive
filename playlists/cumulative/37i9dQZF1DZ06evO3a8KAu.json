@@ -222,6 +222,28 @@
     },
     {
       "album": {
+        "name": "Corona de Rosas",
+        "url": "https://open.spotify.com/album/4Q1qX0p6dMP8akFAvJQsw0"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159232,
+      "name": "Corona de Rosas",
+      "url": "https://open.spotify.com/track/6mdO5yKXfg93yFtbzrvDSw"
+    },
+    {
+      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -302,6 +324,36 @@
     },
     {
       "album": {
+        "name": "Gente del Este",
+        "url": "https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B"
+      },
+      "artists": [
+        {
+          "name": "Oscar Cortez",
+          "url": "https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Los Del Arroyo",
+          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186972,
+      "name": "DEL Rojo",
+      "url": "https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG"
+    },
+    {
+      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -367,7 +419,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 192484,
       "name": "El Amor Es Para Tontos",
       "url": "https://open.spotify.com/track/2EZvPbK6R8xItBIq2L8A9S"
@@ -407,7 +459,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 182811,
       "name": "El Del Tatuaje",
       "url": "https://open.spotify.com/track/59JiawgWoazJQDI9Bw6UHQ"
@@ -487,7 +539,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": "2022-09-30",
       "duration_ms": 224413,
       "name": "La Vida Del Dorian",
       "url": "https://open.spotify.com/track/0Ym47PchDzF9BpPZX5D7d8"
@@ -910,6 +962,24 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 180074,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/6nEclO2FXRaTHJWWb9fBr1"
+    },
+    {
+      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -939,7 +1009,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 231850,
       "name": "Todo Cambio (En Vivo)",
       "url": "https://open.spotify.com/track/3seNEk7YiBY7y4GBpcX8hA"
@@ -993,7 +1063,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 252750,
       "name": "Un D\u00eda a La Vez (En Vivo)",
       "url": "https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij"

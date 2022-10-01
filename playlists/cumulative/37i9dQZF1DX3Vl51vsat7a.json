@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: JOPLYN",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: LIE NING",
   "name": "RADAR GSA",
   "published_playlist_ids": [
     "7r16QFa0iXKPXTVCB31T4J"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 137542,
       "name": "...",
       "url": "https://open.spotify.com/track/2n1WH7I33C9Tm47unwnp8U"
@@ -37,10 +37,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160301,
       "name": "17 f\u00fcr immer",
       "url": "https://open.spotify.com/track/0UJUoXIawV7KpPu4dRKUUh"
+    },
+    {
+      "album": {
+        "name": "17 f\u00fcr immer",
+        "url": "https://open.spotify.com/album/4IdKZ2doupiUIY2R5GpD4d"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 160301,
+      "name": "17 f\u00fcr immer",
+      "url": "https://open.spotify.com/track/4NRJsPrgVbKwBCR7woZSHM"
     },
     {
       "album": {
@@ -95,6 +113,24 @@
       "duration_ms": 334433,
       "name": "A Declaration of Love",
       "url": "https://open.spotify.com/track/65bMFgIYR9rxMR9GeYraIh"
+    },
+    {
+      "album": {
+        "name": "A$AP & Rihanna",
+        "url": "https://open.spotify.com/album/7mwRWlmAOQEWnEOgV3NEt2"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112212,
+      "name": "A$AP & Rihanna",
+      "url": "https://open.spotify.com/track/1wT0IaBnco8m5XIViG7HfE"
     },
     {
       "album": {
@@ -163,7 +199,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 164820,
       "name": "an all diesen Tagen",
       "url": "https://open.spotify.com/track/129TLJVbwR9oS1pVn20FAb"
@@ -257,6 +293,24 @@
       "duration_ms": 358346,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/6VztmbKdEMOv2AtFGqHtXe"
+    },
+    {
+      "album": {
+        "name": "Body Mind Hell",
+        "url": "https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164071,
+      "name": "Body Mind Hell",
+      "url": "https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq"
     },
     {
       "album": {
@@ -404,6 +458,78 @@
     },
     {
       "album": {
+        "name": "coq au vin",
+        "url": "https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM"
+      },
+      "artists": [
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224033,
+      "name": "coq au vin",
+      "url": "https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b"
+    },
+    {
+      "album": {
+        "name": "Crushed by the Weight of the World",
+        "url": "https://open.spotify.com/album/1Axcj3Di7G4Qw0iYTJAhC0"
+      },
+      "artists": [
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Crushed",
+      "url": "https://open.spotify.com/track/713AJFIsjfdlwC6IvY9FeJ"
+    },
+    {
+      "album": {
+        "name": "Daddy's Boy",
+        "url": "https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM"
+      },
+      "artists": [
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Daddy's Boy",
+      "url": "https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb"
+    },
+    {
+      "album": {
+        "name": "Daddy\u2019s Eyes",
+        "url": "https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182969,
+      "name": "Daddy's Eyes",
+      "url": "https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu"
+    },
+    {
+      "album": {
         "name": "MANN MIT DER BRILLE",
         "url": "https://open.spotify.com/album/3TJXTSpg5o4vftq3BMBtab"
       },
@@ -474,6 +600,42 @@
     },
     {
       "album": {
+        "name": "Zorn & Liebe",
+        "url": "https://open.spotify.com/album/5seerIZ96Tknor62ygW3on"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-18",
+      "duration_ms": 154309,
+      "name": "Diese Nacht",
+      "url": "https://open.spotify.com/track/2wrB2jRPTd1wujQlWWnJ0r"
+    },
+    {
+      "album": {
+        "name": "Zorn & Liebe",
+        "url": "https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154309,
+      "name": "Diese Nacht",
+      "url": "https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp"
+    },
+    {
+      "album": {
         "name": "TEETH OUT",
         "url": "https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2"
       },
@@ -485,7 +647,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 147288,
       "name": "DON'T BLAME ME",
       "url": "https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg"
@@ -543,6 +705,24 @@
       "duration_ms": 159985,
       "name": "End of the Road",
       "url": "https://open.spotify.com/track/3BfRjAclEFihCqLguT8Ch7"
+    },
+    {
+      "album": {
+        "name": "FALLING",
+        "url": "https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318073,
+      "name": "FALLING",
+      "url": "https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a"
     },
     {
       "album": {
@@ -745,7 +925,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 197374,
       "name": "Haus am See",
       "url": "https://open.spotify.com/track/0ZmJHRMjUaDTjgUvg867Y5"
@@ -850,6 +1030,24 @@
     },
     {
       "album": {
+        "name": "I WANT TO BELIEVE",
+        "url": "https://open.spotify.com/album/1s9vPDAguhv8C237XokkMS"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 320200,
+      "name": "I WANT TO BELIEVE",
+      "url": "https://open.spotify.com/track/5FnDOZasaYRMDDuZQcds89"
+    },
+    {
+      "album": {
         "name": "I WON'T STAY",
         "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
       },
@@ -861,7 +1059,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
@@ -897,7 +1095,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 158466,
       "name": "I'M A LITTLE",
       "url": "https://open.spotify.com/track/36lARxuQqwXnvALPNeVjtK"
@@ -919,6 +1117,24 @@
       "duration_ms": 200752,
       "name": "I'm Boring",
       "url": "https://open.spotify.com/track/40Xc96R5OS3s0zacs6wPte"
+    },
+    {
+      "album": {
+        "name": "ich geh\u00f6r wieder mir",
+        "url": "https://open.spotify.com/album/6Et0Q8bXMXOSChFgXgvvv8"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177146,
+      "name": "ich geh\u00f6r wieder mir",
+      "url": "https://open.spotify.com/track/4PpGmzid7fvGFayn8icZRF"
     },
     {
       "album": {
@@ -991,10 +1207,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 134523,
       "name": "Incredibly Annoying",
       "url": "https://open.spotify.com/track/7iHetqDyri7aXIyl69QqHG"
+    },
+    {
+      "album": {
+        "name": "Pr\u00e9face",
+        "url": "https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv"
+      },
+      "artists": [
+        {
+          "name": "Moli",
+          "url": "https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0EN4byNEi2vJ0VKyn9pXRS"
     },
     {
       "album": {
@@ -1009,7 +1243,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 244666,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/3jEuAziXMAw8YVbfcvVLZR"
@@ -1057,6 +1291,24 @@
       "duration_ms": 180500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/4ALVnrzsiNjtRZs3hulmEZ"
+    },
+    {
+      "album": {
+        "name": "Keine Tr\u00e4nen",
+        "url": "https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131067,
+      "name": "Keine Tr\u00e4nen",
+      "url": "https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q"
     },
     {
       "album": {
@@ -1155,7 +1407,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 223500,
       "name": "Locker Room",
       "url": "https://open.spotify.com/track/3jjTNicCrPJFe0FyLWmSAR"
@@ -1289,7 +1541,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181195,
       "name": "Mom&Dad",
       "url": "https://open.spotify.com/track/7nk2rwASLMnPTGMTrW0tqa"
@@ -1343,7 +1595,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 148551,
       "name": "Neues Geld",
       "url": "https://open.spotify.com/track/0ohdHACL1eACasCxA1UXa8"
@@ -1401,7 +1653,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 160750,
       "name": "No Future? No Thanks!",
       "url": "https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A"
@@ -1423,6 +1675,24 @@
       "duration_ms": 193977,
       "name": "Nothing to Me",
       "url": "https://open.spotify.com/track/2pVZpUlgPZSSfTP9nFs6kn"
+    },
+    {
+      "album": {
+        "name": "offline",
+        "url": "https://open.spotify.com/album/5BJ5BHSUdfIs4dFzu15iKX"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201543,
+      "name": "offline",
+      "url": "https://open.spotify.com/track/4XaHwwjBXQ4yBKpR6P81jw"
     },
     {
       "album": {
@@ -1480,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "REMIND ME",
+        "url": "https://open.spotify.com/album/084HROOXCRrykD5zzuGXZ1"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 332104,
+      "name": "REMIND ME",
+      "url": "https://open.spotify.com/track/3sQwXoHktwhzOKT2rFBo9Z"
+    },
+    {
+      "album": {
         "name": "Rich Girl",
         "url": "https://open.spotify.com/album/5invgj6RjVaDwh3Odvaj3v"
       },
@@ -1495,7 +1783,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 244023,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/1BCBzCwhOZ3MEfOybVmoRs"
@@ -1705,7 +1993,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217541,
       "name": "Spring",
       "url": "https://open.spotify.com/track/0M8XGFqzmGHLsGDLRgd6fp"
@@ -1730,6 +2018,42 @@
     },
     {
       "album": {
+        "name": "Survival Mode (Intro)",
+        "url": "https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213028,
+      "name": "Survival Mode (Intro)",
+      "url": "https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M"
+    },
+    {
+      "album": {
+        "name": "S\u00fc\u00dfe Tr\u00e4ume",
+        "url": "https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160321,
+      "name": "S\u00fc\u00dfe Tr\u00e4ume",
+      "url": "https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk"
+    },
+    {
+      "album": {
         "name": "That\u2019s How It Goes (feat. 6LACK)",
         "url": "https://open.spotify.com/album/0tEzXJv87d2vm5SIvkSFPc"
       },
@@ -1745,7 +2069,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 162069,
       "name": "That\u2019s How It Goes (feat. 6LACK)",
       "url": "https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL"
@@ -1901,7 +2225,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 144000,
       "name": "Turning Me Up (Hadal Ahbek)",
       "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
@@ -1923,6 +2247,24 @@
       "duration_ms": 182224,
       "name": "Tut mir nicht leid",
       "url": "https://open.spotify.com/track/3Z0vdZfMKPRgPrVlpj18oQ"
+    },
+    {
+      "album": {
+        "name": "Unendlichkeit",
+        "url": "https://open.spotify.com/album/6I0qSXltDmckxauHYmJPNv"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180106,
+      "name": "Unendlichkeit",
+      "url": "https://open.spotify.com/track/4TaWCdfI6VyR1O8GVuyCf7"
     },
     {
       "album": {
@@ -1948,6 +2290,72 @@
     },
     {
       "album": {
+        "name": "Unsere Bank",
+        "url": "https://open.spotify.com/album/3Wfmjr6HuaCjt0jzSyaufv"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        },
+        {
+          "name": "Danger Dan",
+          "url": "https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 170772,
+      "name": "Unsere Bank",
+      "url": "https://open.spotify.com/track/3qUwFUpcYidCB9VbZaV0XX"
+    },
+    {
+      "album": {
+        "name": "Zorn & Liebe",
+        "url": "https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        },
+        {
+          "name": "Danger Dan",
+          "url": "https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170772,
+      "name": "Unsere Bank",
+      "url": "https://open.spotify.com/track/5IDcDES093PGqsDwfyf23F"
+    },
+    {
+      "album": {
+        "name": "Unsere Bank (feat. Danger Dan)",
+        "url": "https://open.spotify.com/album/3GHY2KycHJNt3mffQ0nIiR"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        },
+        {
+          "name": "Danger Dan",
+          "url": "https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 170772,
+      "name": "Unsere Bank (feat. Danger Dan)",
+      "url": "https://open.spotify.com/track/1Tb272NQuHyWVAlYZEcJDt"
+    },
+    {
+      "album": {
         "name": "She's A Star",
         "url": "https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6"
       },
@@ -1963,6 +2371,24 @@
       "duration_ms": 179758,
       "name": "Vitamins",
       "url": "https://open.spotify.com/track/5aLY8E1e60iaI4gVCCD7OK"
+    },
+    {
+      "album": {
+        "name": "VOICEMAIL",
+        "url": "https://open.spotify.com/album/0wg7TKWgd0ZdhSif29VuKu"
+      },
+      "artists": [
+        {
+          "name": "FAANGS",
+          "url": "https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250827,
+      "name": "VOICEMAIL",
+      "url": "https://open.spotify.com/track/25gIGyYd4Q9kHJ7Fvsa9RP"
     },
     {
       "album": {
@@ -2151,6 +2577,24 @@
       "duration_ms": 177818,
       "name": "Zimmer",
       "url": "https://open.spotify.com/track/4SN5MyYZbiYhNHEQC51gh3"
+    },
+    {
+      "album": {
+        "name": "Zwei Menschen",
+        "url": "https://open.spotify.com/album/5bAj7lNz2BQ3Z6MyZyWHNU"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 204367,
+      "name": "Zwei Menschen",
+      "url": "https://open.spotify.com/track/1XB2S5i8oJKiCq1ABLJeYz"
     },
     {
       "album": {

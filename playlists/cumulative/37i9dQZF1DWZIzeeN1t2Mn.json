@@ -67,7 +67,7 @@
     {
       "album": {
         "name": "Mercury & Lightning",
-        "url": "https://open.spotify.com/album/2X5598poSfDQ3B0YRytfgf"
+        "url": "https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P"
       },
       "artists": [
         {
@@ -82,6 +82,28 @@
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 221157,
+      "name": "Body in Motion",
+      "url": "https://open.spotify.com/track/11xpBwmHDLUb8luVNFfQex"
+    },
+    {
+      "album": {
+        "name": "Mercury & Lightning",
+        "url": "https://open.spotify.com/album/2X5598poSfDQ3B0YRytfgf"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        },
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 221157,
       "name": "Body In Motion",
       "url": "https://open.spotify.com/track/7srkcblVXjo60Clqk9lywq"
@@ -135,10 +157,28 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212279,
       "name": "Chill Pill (Experiment 2)",
       "url": "https://open.spotify.com/track/1HD1bASivIYv2EzAnQUem3"
+    },
+    {
+      "album": {
+        "name": "A Handshake To The Brain",
+        "url": "https://open.spotify.com/album/13nel2sv4uGInxb1qlds78"
+      },
+      "artists": [
+        {
+          "name": "Hawk House",
+          "url": "https://open.spotify.com/artist/0ot8XpQrZOe4nHZ6EMJHJ9"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212279,
+      "name": "Chill Pill (Experiment 2)",
+      "url": "https://open.spotify.com/track/5DmZvacVjbIbldPDYl3J26"
     },
     {
       "album": {
@@ -183,10 +223,32 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241063,
       "name": "Death In Reverse",
       "url": "https://open.spotify.com/track/6qm4yOWtcdDk9Or0cn1Lpz"
+    },
+    {
+      "album": {
+        "name": "The Mercury Sessions",
+        "url": "https://open.spotify.com/album/3DGN1gythJmDQUbRlbyKaf"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        },
+        {
+          "name": "Sarah McMillan",
+          "url": "https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241063,
+      "name": "Death in Reverse",
+      "url": "https://open.spotify.com/track/7nANgc1uUNOyVEiAWZqQM9"
     },
     {
       "album": {
@@ -201,10 +263,28 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222893,
       "name": "Elementary Trill",
       "url": "https://open.spotify.com/track/66sN7Ypi3oYVvNCWvrffuo"
+    },
+    {
+      "album": {
+        "name": "Soul Rebel",
+        "url": "https://open.spotify.com/album/0WcuWIFO0zSHXmeockAYR8"
+      },
+      "artists": [
+        {
+          "name": "John Givez",
+          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222955,
+      "name": "Elementary Trill",
+      "url": "https://open.spotify.com/track/2XheQ3uh5mpq1Jq5zifNQQ"
     },
     {
       "album": {
@@ -373,6 +453,36 @@
     {
       "album": {
         "name": "Good Religion",
+        "url": "https://open.spotify.com/album/736eXA6VlJZwirLsvOt8Wi"
+      },
+      "artists": [
+        {
+          "name": "Dream Junkies",
+          "url": "https://open.spotify.com/artist/4kdiOW48WHjXhcurtEoTHU"
+        },
+        {
+          "name": "Beleaf",
+          "url": "https://open.spotify.com/artist/7N204QRVuZ3LCoVkKRPf1T"
+        },
+        {
+          "name": "Ruslan",
+          "url": "https://open.spotify.com/artist/2GEXrCflKZ5S5ZHBM4LNcV"
+        },
+        {
+          "name": "John Givez",
+          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "I Got the Juice",
+      "url": "https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4"
+    },
+    {
+      "album": {
+        "name": "Good Religion",
         "url": "https://open.spotify.com/album/4t7F3QCNY0vDOqe9LyoPN8"
       },
       "artists": [
@@ -395,7 +505,7 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234226,
       "name": "I Got the Juice",
       "url": "https://open.spotify.com/track/6lS4DtFesKwsa7EsbQXVoI"
@@ -439,7 +549,7 @@
     {
       "album": {
         "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL"
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
       "artists": [
         {
@@ -450,6 +560,24 @@
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211496,
+      "name": "Love Yourz",
+      "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH"
+    },
+    {
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 211680,
       "name": "Love Yourz",
       "url": "https://open.spotify.com/track/4gkl7QbQvBd3TM9PhlWFkI"
@@ -511,7 +639,7 @@
     {
       "album": {
         "name": "Yesterday's Gone",
-        "url": "https://open.spotify.com/album/0tgsACxUMuBElueq2YRe1K"
+        "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
       },
       "artists": [
         {
@@ -526,6 +654,28 @@
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 257920,
+      "name": "NO CD",
+      "url": "https://open.spotify.com/track/5yH8Ce7MpMwJPDSRvgIZF6"
+    },
+    {
+      "album": {
+        "name": "Yesterday's Gone",
+        "url": "https://open.spotify.com/album/0tgsACxUMuBElueq2YRe1K"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "Rebel Kleff",
+          "url": "https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 257920,
       "name": "NO CD",
       "url": "https://open.spotify.com/track/7wxSkft3f6OG3Y3Vysd470"
@@ -577,7 +727,7 @@
     {
       "album": {
         "name": "Let the Trap Say Amen",
-        "url": "https://open.spotify.com/album/11fDBZXZPjeyzq1L1JloLa"
+        "url": "https://open.spotify.com/album/1oDkUnjCBAHsaQtr0J0s3t"
       },
       "artists": [
         {
@@ -592,6 +742,28 @@
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177011,
+      "name": "Only God Can Judge Me",
+      "url": "https://open.spotify.com/track/1C6L5Lir4LeWhkPo722Rs0"
+    },
+    {
+      "album": {
+        "name": "Let the Trap Say Amen",
+        "url": "https://open.spotify.com/album/11fDBZXZPjeyzq1L1JloLa"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 177011,
       "name": "Only God Can Judge Me",
       "url": "https://open.spotify.com/track/1UDD2pLOJxKWfN9PMg9wO3"
@@ -657,7 +829,7 @@
     {
       "album": {
         "name": "Excellent",
-        "url": "https://open.spotify.com/album/5Fxipt4BbFuEqQhOhv4wUX"
+        "url": "https://open.spotify.com/album/10pO5OwuUCPSl755Itk2YX"
       },
       "artists": [
         {
@@ -672,6 +844,28 @@
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208653,
+      "name": "Redefine Cutter",
+      "url": "https://open.spotify.com/track/21qYhTdYWqhMfxsqo43WR8"
+    },
+    {
+      "album": {
+        "name": "Excellent",
+        "url": "https://open.spotify.com/album/5Fxipt4BbFuEqQhOhv4wUX"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t"
+        },
+        {
+          "name": "Lee Green",
+          "url": "https://open.spotify.com/artist/3uEPcUqKdsFhjuzngfXIK1"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 208653,
       "name": "Redefine Cutter",
       "url": "https://open.spotify.com/track/7q8Nn4dqU6bemMxyllbCrh"
@@ -715,10 +909,28 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238560,
       "name": "River",
       "url": "https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c"
+    },
+    {
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "album": {
@@ -809,10 +1021,28 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214426,
       "name": "The Isle Of Arran",
       "url": "https://open.spotify.com/track/1H6495e3O4TEK8zJF6VaHF"
+    },
+    {
+      "album": {
+        "name": "Yesterday's Gone",
+        "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214426,
+      "name": "The Isle Of Arran",
+      "url": "https://open.spotify.com/track/2YQ1cc9xWnp5qI08rKt6wv"
     },
     {
       "album": {
@@ -827,10 +1057,28 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175626,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/4332KdCCSpK04ryOaijbc1"
+    },
+    {
+      "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/1xtDOqLuXQIPlrKrQYKeet"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175626,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/6ZofNkbrrcBZXdVylX1C6v"
     },
     {
       "album": {
@@ -871,10 +1119,28 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 320680,
       "name": "Ultralight Beam",
       "url": "https://open.spotify.com/track/0Wi7iEDGFY7I7NkYU6gS4n"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320680,
+      "name": "Ultralight Beam",
+      "url": "https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS"
     },
     {
       "album": {
@@ -933,10 +1199,28 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293792,
       "name": "We Don't Eat",
       "url": "https://open.spotify.com/track/2Fpf5a5fGDWSHNj1iIPc5W"
+    },
+    {
+      "album": {
+        "name": "Early in the Morning (Bonus Version)",
+        "url": "https://open.spotify.com/album/4Lluitxz8wV7jq5qljjG4I"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293800,
+      "name": "We Don't Eat",
+      "url": "https://open.spotify.com/track/1y3PhboJrxMNOpLxkMsTiM"
     },
     {
       "album": {
@@ -969,10 +1253,28 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232146,
       "name": "Within the Rose",
       "url": "https://open.spotify.com/track/2YVIbDK4GjSR9jaGLXMYM1"
+    },
+    {
+      "album": {
+        "name": "To the North",
+        "url": "https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3"
+      },
+      "artists": [
+        {
+          "name": "Matthew And The Atlas",
+          "url": "https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232146,
+      "name": "Within The Rose",
+      "url": "https://open.spotify.com/track/3RGPlHgxzIVMnrpdWR0EgM"
     },
     {
       "album": {
@@ -987,10 +1289,28 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 309840,
       "name": "Your Love Is Strong",
       "url": "https://open.spotify.com/track/4dKh33Yvn0nsE6p4kgVFHK"
+    },
+    {
+      "album": {
+        "name": "Limbs & Branches",
+        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309840,
+      "name": "Your Love Is Strong",
+      "url": "https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZIzeeN1t2Mn"

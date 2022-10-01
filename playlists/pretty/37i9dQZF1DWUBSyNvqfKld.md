@@ -1,0 +1,43 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain](/playlists/plain/37i9dQZF1DWUBSyNvqfKld) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUBSyNvqfKld)
+
+### [DEAS' track IDs](https://open.spotify.com/playlist/37i9dQZF1DWUBSyNvqfKld)
+
+> <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
+
+[Spotify](https://open.spotify.com/user/spotify) - 262 likes - 31 songs - 3 hr 2 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Symmetry](https://open.spotify.com/track/12BdcH3gvLgwMYLcHyyuAu) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/4UmXfzT2CXwBKuNfjwCgjV) | 5:12 |
+| 2 | [Prefix](https://open.spotify.com/track/60dyhittzt2ETdXgyVAAL6) | [Ben Klock](https://open.spotify.com/artist/1vJHfCreWAS46V8RZ67ojo), [Fadi Mohem](https://open.spotify.com/artist/054VxUoJAoxf48TlGoWf75) | [Prefix](https://open.spotify.com/album/5H2grQSbEIKAdhI3uMPWSe) | 5:39 |
+| 3 | [OB](https://open.spotify.com/track/3N00TsnIUbuG1vKjYWAoBj) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/4UmXfzT2CXwBKuNfjwCgjV) | 6:23 |
+| 4 | [Tactel](https://open.spotify.com/track/1ijccQa4BSY4clVZWfiUXR) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Technatural EP](https://open.spotify.com/album/3JF9xETVb7Gbr13VBxheSf) | 4:04 |
+| 5 | [User 7 \- Chris Liebing Remix](https://open.spotify.com/track/7rdjgiEEOhYiFZWOunZTlY) | [Truncate](https://open.spotify.com/artist/1JxLnEvBPdm9baryEFzE50), [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI) | [Intact EP](https://open.spotify.com/album/0O2PgceAoazJVZgY6ix37h) | 6:20 |
+| 6 | [In From The Night](https://open.spotify.com/track/5e5j8vDv9RVTqjbTjguhSx) | [Planetary Assault Systems](https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60) | [Archives](https://open.spotify.com/album/3gafLohBmJ3PfymXW7WKUh) | 5:45 |
+| 7 | [L'Ère du Fragment](https://open.spotify.com/track/1bIsEZSWFllP4lvqf1ndhg) | [Bidoben](https://open.spotify.com/artist/72XReloTce12UjVn1KP69V) | [Break a Fancy Vase](https://open.spotify.com/album/1GGwMxXSl9AjW3CcGEl425) | 5:36 |
+| 8 | [Dogma Day \- Original Mix](https://open.spotify.com/track/1tFxHgQEMcYgVKc5Tp05z6) | [Remco Beekwilder](https://open.spotify.com/artist/093To89xljIKjuy5VguaP4) | [Moortgat EP](https://open.spotify.com/album/197d3lHadEvxXy0IzPl4xi) | 6:07 |
+| 9 | [Tizer](https://open.spotify.com/track/44hPU2KLpI20JjPfokKneQ) | [Rene Wise](https://open.spotify.com/artist/2KJa509WSY45vlGHjLL3Q9) | [Tizer EP](https://open.spotify.com/album/4XVAqUKVWzTZhubGzmSKPx) | 5:59 |
+| 10 | [Reasons Beyond The Atmosphere \- Original Mix](https://open.spotify.com/track/2jSmDKRGbOOX9M408I6VrH) | [Sigvard](https://open.spotify.com/artist/6IrZoI6X8RzaqH4nMl8V3m) | [The Flowers Hundred LP](https://open.spotify.com/album/2p0Yfdq4XwJIDPkJUA43M7) | 5:36 |
+| 11 | [Moving North](https://open.spotify.com/track/0pk1nSxaQP0AlX0QFiEZWS) | [Augusto Taito](https://open.spotify.com/artist/4wXtq6Rkh0ERzXBP7jmxbf) | [Moving North](https://open.spotify.com/album/1vNUOBd9PcTkka0shIjgFa) | 6:27 |
+| 12 | [Beyond Redemption \- Original Mix](https://open.spotify.com/track/1fR8MqzYlAla5jOPYUZ7FL) | [Vågh](https://open.spotify.com/artist/4CCDoIlomaVNquOackuAtd) | [Insight EP](https://open.spotify.com/album/1gkPYaySVRbkVgQ3DZj3db) | 6:42 |
+| 13 | [Object Seven](https://open.spotify.com/track/2PC846am308pOFsrQVoUju) | [Inigo Kennedy](https://open.spotify.com/artist/4UiRPifoPfW3sozAElsHYe) | [Delta Chimera](https://open.spotify.com/album/6lratvYPuUOVsQXqQVIVVI) | 8:32 |
+| 14 | [Tir Na Nog \- Remastered 2022](https://open.spotify.com/track/67UBkmqW0KoHc2Ycs49Hdk) | [Steve Rachmad](https://open.spotify.com/artist/4BmzfIGmnyaxu1REssIgPp) | [Tir Na Nog / Divide And Conquer](https://open.spotify.com/album/6zQElFfzbiSWrM1dOUqAnC) | 6:41 |
+| 15 | [Abroad](https://open.spotify.com/track/69KUcRKeRNSM1kZIKbACqE) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [System Theory EP](https://open.spotify.com/album/7JycrMeQMBjDdplu8dAIgh) | 6:16 |
+| 16 | [Nightingale](https://open.spotify.com/track/4Z7nIOhDKL8qx1TX6WT7d9) | [Slone](https://open.spotify.com/artist/4RfPVkSGZn0IMFsvO12Gtx) | [Blessing](https://open.spotify.com/album/6W3HunfzUruvYgWr9dVKrg) | 5:23 |
+| 17 | [Turbulence](https://open.spotify.com/track/273hZiLcekoS5dDMHZn0uM) | [SHDW & Obscure Shape](https://open.spotify.com/artist/3pqHn0bHhBjL0duQ5xesFe) | [Poetic Justice](https://open.spotify.com/album/0vWYICw7Q6EXWMZkKEsAYT) | 4:32 |
+| 18 | [Intensity Fluctuations \- Setaoc Mass remix](https://open.spotify.com/track/3qoAOw79kOIWB9YG65gzzu) | [Ø \[Phase\]](https://open.spotify.com/artist/0mMCjSZUnt7dQBzZdCd2ez), [Setaoc Mass](https://open.spotify.com/artist/1VLqhTOnG3RulADitPNqLt) | [Intensity Fluctuations RMX](https://open.spotify.com/album/6P2nCtIt27ZhiclaWdg0QQ) | 6:05 |
+| 19 | [Naked \- Original Mix](https://open.spotify.com/track/7bVbG70ehUlqACkVbLzskX) | [Yan Cook](https://open.spotify.com/artist/7b85knFTqgPmQmbUt77rYy) | [XXX LP](https://open.spotify.com/album/1uhYyc9nr76KaTw7BYWIOw) | 5:34 |
+| 20 | [Phase Two](https://open.spotify.com/track/2oOTM8t4YHIHVHhMIVJb8Q) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/4UmXfzT2CXwBKuNfjwCgjV) | 6:34 |
+| 21 | [S.O.](https://open.spotify.com/track/63wfhom4NkOos2kMcTnrVX) | [Sterac](https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v) | [Light In The Darkness EP](https://open.spotify.com/album/0Sq8EOqgnRMl4Pja5WZVdC) | 6:40 |
+| 22 | [HF2](https://open.spotify.com/track/0Bzj52BquYOISLOz4ABHdp) | [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l) | [Mutated Battle Breaks Vol\. 3](https://open.spotify.com/album/7zUHstzZVptHn8TEAazQRj) | 3:11 |
+| 23 | [No Return](https://open.spotify.com/track/3kIbyJVCwfxH8GCqKXHiQ6) | [Kr!z](https://open.spotify.com/artist/4bVSJoHlXYbzdBrbgqbMxl) | [The Tunnel EP](https://open.spotify.com/album/45fmtpLe6Vv5GWzOiQBYDY) | 5:26 |
+| 24 | [Symptomatic \- Rødhåd Remix](https://open.spotify.com/track/13XLwlJVbkwrCIkoNXjoUp) | [Lewis Fautzi](https://open.spotify.com/artist/50bQnv15LNmaH27jodquYw), [Rødhåd](https://open.spotify.com/artist/2hjOQqLAZDVolzxNhnSK2h) | [Neurohumoral Transmission](https://open.spotify.com/album/60DETnK5fvLPtXxRwz6DEI) | 5:01 |
+| 25 | [Dream On \- Dave Clarke Remix](https://open.spotify.com/track/3okwFPtam8870RcteOp4sJ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Dave Clarke](https://open.spotify.com/artist/19fQzdHD7BofK7Ka0x036V) | [Exciter \| The 12" Singles](https://open.spotify.com/album/79c0vqXP9tsIv83gFYz4nm) | 5:15 |
+| 26 | [Torcido 2305](https://open.spotify.com/track/7zSJT7FFfBlBNBOIWWLgfw) | [Arjun Vagale](https://open.spotify.com/artist/5VL3jFaGca1I18S1a9N6cs) | [Exit Fragments](https://open.spotify.com/album/55ZARdCCFTXETRI4FBA14g) | 5:43 |
+| 27 | [Engine 1 \- Unsubscribe Remix](https://open.spotify.com/track/2qBtaWanqZiyFWnq4qLbeO) | [Black Asteroid](https://open.spotify.com/artist/4O955Sa65L8MfJa8hg8q0F), [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ), [Mr\. Jones](https://open.spotify.com/artist/5qSTSgxz3HaDOOSuFhNLIt) | [Engine 1 \(The Remixes\)](https://open.spotify.com/album/4oY4kcQ2vNOqjibD6FObfW) | 7:43 |
+| 28 | [Be Mad](https://open.spotify.com/track/5OHgprTdZ1ZFMbciajnMF6) | [Kashpitzky](https://open.spotify.com/artist/1Emez61BnxzKMb3ygXnN9E) | [Intermission](https://open.spotify.com/album/6PuWnRzSAnKsgmMTho2Chn) | 5:57 |
+| 29 | [FORMA NO PURA \- Original Mix](https://open.spotify.com/track/5s8gEhGOCA1fmon21wHYiZ) | [Oscar Mulero](https://open.spotify.com/artist/3jisZjR3TBVb9tIfTbRHTS) | [Aftermath](https://open.spotify.com/album/5dzUc3FyVN5tNpdSy0nEp6) | 5:09 |
+| 30 | [Tiempo](https://open.spotify.com/track/2EfqSseQX83icThfmXIgfW) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU) | [Transistor](https://open.spotify.com/album/7A3kGOjnV2KExE4fBFc6ne) | 5:00 |
+| 31 | [Contain \(In Key\)](https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy), [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Contain \(In Key\)](https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo) | 8:08 |
+
+Snapshot ID: `MTY1ODczODE2MCwwMDAwMDAwMDBhNzU1MTU0NjExOWM3ZTgyOTMxMjIzOGE1OGM4OTE5`

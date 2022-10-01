@@ -27,6 +27,28 @@
     {
       "album": {
         "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199786,
+      "name": "All My Favorite People (feat. Brothers Osborne)",
+      "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
+    },
+    {
+      "album": {
+        "name": "GIRL",
         "url": "https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5"
       },
       "artists": [
@@ -41,7 +63,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199786,
       "name": "All My Favorite People (feat. Brothers Osborne)",
       "url": "https://open.spotify.com/track/5eWxOg6tDkf5tJagNuVSbo"
@@ -322,6 +344,24 @@
     },
     {
       "album": {
+        "name": "Destiny Hotel",
+        "url": "https://open.spotify.com/album/5cA7YeIhSv4f82ACPN35uJ"
+      },
+      "artists": [
+        {
+          "name": "Cordovas",
+          "url": "https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177826,
+      "name": "High Feeling",
+      "url": "https://open.spotify.com/track/3ieuCF9ixhvNkT8noRbYYg"
+    },
+    {
+      "album": {
         "name": "High Feeling",
         "url": "https://open.spotify.com/album/5wLA13oULyZXO8MS56sCKg"
       },
@@ -333,7 +373,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177826,
       "name": "High Feeling",
       "url": "https://open.spotify.com/track/4LQDhX6UiJpTVxY0gdrBsW"
@@ -391,6 +431,24 @@
       "duration_ms": 377026,
       "name": "High, Drunk, and Heartbroke",
       "url": "https://open.spotify.com/track/4p9D4xmZekyDDQdj7E7t1W"
+    },
+    {
+      "album": {
+        "name": "Horses & Weed",
+        "url": "https://open.spotify.com/album/5rnzFUqTog7uCgBJxudv30"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237640,
+      "name": "Horses & Weed",
+      "url": "https://open.spotify.com/track/08sNpSbnzaPv0dpQvm8sgv"
     },
     {
       "album": {
@@ -487,8 +545,8 @@
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
         },
         {
           "name": "Ashland Craft",
@@ -606,6 +664,24 @@
     },
     {
       "album": {
+        "name": "Mary Wanna",
+        "url": "https://open.spotify.com/album/4qUwU9k2NjD5rzwpbUo6x0"
+      },
+      "artists": [
+        {
+          "name": "Jason Nix",
+          "url": "https://open.spotify.com/artist/168GW0NjbTxHxlDnY4B798"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176911,
+      "name": "Mary Wanna",
+      "url": "https://open.spotify.com/track/4WmvcM6v7pfQ4dauJDjya2"
+    },
+    {
+      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
@@ -635,10 +711,28 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159360,
       "name": "My Medicine",
       "url": "https://open.spotify.com/track/5BL4FPMaF1vmw65OV7yPnE"
+    },
+    {
+      "album": {
+        "name": "Ego Trippin'",
+        "url": "https://open.spotify.com/album/5EtVXHkqYV1ebAoYNDFmmY"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "My Medicine",
+      "url": "https://open.spotify.com/track/5jeXDGMNkY8G2bPsHLaNnm"
     },
     {
       "album": {
@@ -803,6 +897,24 @@
     {
       "album": {
         "name": "Carolina",
+        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191333,
+      "name": "Smoke A Little Smoke",
+      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
+    },
+    {
+      "album": {
+        "name": "Carolina",
         "url": "https://open.spotify.com/album/0QZc1pzqelwhdKftQQDdUw"
       },
       "artists": [
@@ -813,10 +925,46 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191333,
       "name": "Smoke A Little Smoke",
       "url": "https://open.spotify.com/track/2uZhNjlUQ9mnt0rS7hcAgF"
+    },
+    {
+      "album": {
+        "name": "Smoke It (Demo)",
+        "url": "https://open.spotify.com/album/3JLtWB0tw1aMnqO9zaMtaY"
+      },
+      "artists": [
+        {
+          "name": "Haley Mae Campbell",
+          "url": "https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183076,
+      "name": "Smoke It - Demo",
+      "url": "https://open.spotify.com/track/5nNvU45Ngzvm29gNChh7mq"
+    },
+    {
+      "album": {
+        "name": "Mr. Saturday Night",
+        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175554,
+      "name": "Smokin' A Doobie",
+      "url": "https://open.spotify.com/track/6tzknxnekWR1cs7aT165Ow"
     },
     {
       "album": {
@@ -995,6 +1143,24 @@
     {
       "album": {
         "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262773,
+      "name": "Toes",
+      "url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
+    },
+    {
+      "album": {
+        "name": "The Foundation",
         "url": "https://open.spotify.com/album/0Im5nUhAuNDSYVjfPh7RyS"
       },
       "artists": [
@@ -1005,7 +1171,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262773,
       "name": "Toes",
       "url": "https://open.spotify.com/track/5kjyiH6but1t2UDXq15aeS"

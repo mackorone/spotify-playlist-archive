@@ -161,7 +161,7 @@
     {
       "album": {
         "name": "Joy to the World (Live)",
-        "url": "https://open.spotify.com/album/0RPLntr2Ab59YHLTV1hVWG"
+        "url": "https://open.spotify.com/album/40Xmdjny3GIZaUFO5WmeJ8"
       },
       "artists": [
         {
@@ -172,6 +172,24 @@
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 347689,
+      "name": "Hark! the Herald Angels Sing (Live)",
+      "url": "https://open.spotify.com/track/5PSNbJ5aJa0o7UAygyWOg7"
+    },
+    {
+      "album": {
+        "name": "Joy to the World (Live)",
+        "url": "https://open.spotify.com/album/0RPLntr2Ab59YHLTV1hVWG"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "date_added": "2020-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 347689,
       "name": "Hark! the Herald Angels Sing - Live",
       "url": "https://open.spotify.com/track/6L7JfAxrwP6BCvqZtPCkLJ"
@@ -215,7 +233,7 @@
     {
       "album": {
         "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A"
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
       },
       "artists": [
         {
@@ -226,6 +244,24 @@
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/4NTab2bmkCKaCB4F2qvDdg"
+    },
+    {
+      "album": {
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2020-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 230013,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/6GjYRXGmP1CQrAb9ORvaFV"
@@ -431,10 +467,28 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 309386,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0"
+    },
+    {
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2020-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309386,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
     },
     {
       "album": {
@@ -456,6 +510,24 @@
     },
     {
       "album": {
+        "name": "20th Century Masters - The Best of Stevie Wonder: The Christmas Collection",
+        "url": "https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2020-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142560,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/2MpextDSUjiWKWBZIaqUpz"
+    },
+    {
+      "album": {
         "name": "Best Of/20th Century - Christmas",
         "url": "https://open.spotify.com/album/1KVi81lvCshX6TViDnh1Po"
       },
@@ -467,7 +539,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142560,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/6k3PK8WeL2ZyMzVpQJuhWv"

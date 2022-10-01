@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Sinatra 80th: All The Best",
+        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159226,
+      "name": "(How Little It Matters) How Little We Know",
+      "url": "https://open.spotify.com/track/7oaQGNtzgBEHBGyMMy5UGN"
+    },
+    {
+      "album": {
         "name": "My Songs",
         "url": "https://open.spotify.com/album/3GhjBNxqQUwgQHK69isMYx"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160835,
       "name": "(How Little It Matters) How Little We Know",
       "url": "https://open.spotify.com/track/6erZXV5rC1f95G8CB1BeSa"
@@ -45,7 +63,7 @@
     {
       "album": {
         "name": "Francis A. & Edward K.",
-        "url": "https://open.spotify.com/album/1uaKrYwlRj8AzTxqkk2u3H"
+        "url": "https://open.spotify.com/album/5GFkm37IrMR9a4rc6JABkw"
       },
       "artists": [
         {
@@ -60,6 +78,28 @@
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 299106,
+      "name": "All I Need Is The Girl",
+      "url": "https://open.spotify.com/track/0y7Nk5lVh2Qpxp2nlON7Ml"
+    },
+    {
+      "album": {
+        "name": "Francis A. & Edward K.",
+        "url": "https://open.spotify.com/album/1uaKrYwlRj8AzTxqkk2u3H"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 299106,
       "name": "All I Need Is The Girl",
       "url": "https://open.spotify.com/track/5rj323bRwKVymBaiScDazB"
@@ -135,10 +175,28 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206173,
       "name": "Angel Eyes - Live At The Sands Hotel And Casino/1966",
       "url": "https://open.spotify.com/track/0pp87GAn8qE3eUfm7cdCRf"
+    },
+    {
+      "album": {
+        "name": "Sinatra At The Sands",
+        "url": "https://open.spotify.com/album/2m0W0n7zBYmRNs1QAgoa6Z"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206173,
+      "name": "Angel Eyes - Live At The Sands Hotel And Casino/1966",
+      "url": "https://open.spotify.com/track/25lUUKmQZgYv9hHMO9ysr5"
     },
     {
       "album": {
@@ -161,7 +219,7 @@
     {
       "album": {
         "name": "She Shot Me Down",
-        "url": "https://open.spotify.com/album/1sqODvLUBT5XnZudfwnFtR"
+        "url": "https://open.spotify.com/album/2lXDbQM86qsRAkTeYhv2ZT"
       },
       "artists": [
         {
@@ -174,7 +232,47 @@
       "date_removed": null,
       "duration_ms": 205773,
       "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/2imEJFMzabMMNbgqkhJ11a"
+    },
+    {
+      "album": {
+        "name": "She Shot Me Down",
+        "url": "https://open.spotify.com/album/1sqODvLUBT5XnZudfwnFtR"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205773,
+      "name": "Bang Bang (My Baby Shot Me Down)",
       "url": "https://open.spotify.com/track/5VsEIRPFEk6Oww8NHgvStd"
+    },
+    {
+      "album": {
+        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
+        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163186,
+      "name": "Change Partners",
+      "url": "https://open.spotify.com/track/5LMDR9OJOVfRAB99Vr96zn"
     },
     {
       "album": {
@@ -193,7 +291,7 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160840,
       "name": "Change Partners",
       "url": "https://open.spotify.com/track/6RHu1h1VUhH2eHSes4AG24"
@@ -229,10 +327,28 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190346,
       "name": "Drinking Again",
       "url": "https://open.spotify.com/track/3vyKQ9OCX48TtW41Thoqlx"
+    },
+    {
+      "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190346,
+      "name": "Drinking Again",
+      "url": "https://open.spotify.com/track/6aLmYwLuSOA9WowYrwgfcK"
     },
     {
       "album": {
@@ -295,7 +411,7 @@
     {
       "album": {
         "name": "Sinatra And Swingin' Brass",
-        "url": "https://open.spotify.com/album/6bLuwLvr2FVGzqZZvi8CEN"
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
       "artists": [
         {
@@ -306,6 +422,24 @@
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
+    },
+    {
+      "album": {
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/6bLuwLvr2FVGzqZZvi8CEN"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 194093,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/7bzfyzaZjqai1wTEJsxTOF"
@@ -407,7 +541,7 @@
     {
       "album": {
         "name": "September Of My Years (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4R7TQJ3SZGpbTV8kSq6POA"
+        "url": "https://open.spotify.com/album/3DdN3GRJj8YS0V0fiyXtbt"
       },
       "artists": [
         {
@@ -420,7 +554,43 @@
       "date_removed": null,
       "duration_ms": 267240,
       "name": "It Was A Very Good Year",
+      "url": "https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y"
+    },
+    {
+      "album": {
+        "name": "September Of My Years (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4R7TQJ3SZGpbTV8kSq6POA"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267240,
+      "name": "It Was A Very Good Year",
       "url": "https://open.spotify.com/track/2MAMKyVDaei008snxzXzT8"
+    },
+    {
+      "album": {
+        "name": "Concepts",
+        "url": "https://open.spotify.com/album/0XCMp3IS7fWPwKo372vhjr"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256839,
+      "name": "It's A Lonesome Old Town - Remastered",
+      "url": "https://open.spotify.com/track/2sRFg7qcMwGPVEmBREeIja"
     },
     {
       "album": {
@@ -435,7 +605,7 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256839,
       "name": "It's A Lonesome Old Town - Remastered",
       "url": "https://open.spotify.com/track/3sa51kHJqK5SOVWqKlMxcz"
@@ -519,7 +689,7 @@
     {
       "album": {
         "name": "My Kind Of Broadway",
-        "url": "https://open.spotify.com/album/7MJ6rkVywaHJsugKkhcLnv"
+        "url": "https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh"
       },
       "artists": [
         {
@@ -530,6 +700,24 @@
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 314133,
+      "name": "Luck Be A Lady",
+      "url": "https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7"
+    },
+    {
+      "album": {
+        "name": "My Kind Of Broadway",
+        "url": "https://open.spotify.com/album/7MJ6rkVywaHJsugKkhcLnv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 314133,
       "name": "Luck Be A Lady",
       "url": "https://open.spotify.com/track/3MIEsuQuZQeLSfD2EnM2BS"
@@ -565,10 +753,46 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188066,
       "name": "My Kind Of Town",
       "url": "https://open.spotify.com/track/2eOBQx9Yi6LQST0yHJiFyJ"
+    },
+    {
+      "album": {
+        "name": "Sinatra \u201965",
+        "url": "https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188066,
+      "name": "My Kind Of Town",
+      "url": "https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy"
+    },
+    {
+      "album": {
+        "name": "My Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276800,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
     },
     {
       "album": {
@@ -583,7 +807,7 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 276800,
       "name": "My Way",
       "url": "https://open.spotify.com/track/76Zi40dd2HoTn3sehttJhY"
@@ -655,10 +879,46 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 264306,
       "name": "Ol' Man River",
       "url": "https://open.spotify.com/track/4myyFa9YrZzbqLNzfXDiAU"
+    },
+    {
+      "album": {
+        "name": "Ultimate Sinatra: The Centennial Collection",
+        "url": "https://open.spotify.com/album/22KCcelRH1AeHz7S7x5XhY"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264906,
+      "name": "Ol' Man River",
+      "url": "https://open.spotify.com/track/6XppiJ3Z1trI3uDVUh7Mu7"
+    },
+    {
+      "album": {
+        "name": "Sinatra Sings His Greatest Hits",
+        "url": "https://open.spotify.com/album/57vPH8jXw3PF0zD6zeaNOD"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186173,
+      "name": "Put Your Dreams Away (For Another Day)",
+      "url": "https://open.spotify.com/track/6kD1SNGPkfX9LwaGd1FG92"
     },
     {
       "album": {
@@ -673,7 +933,7 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186333,
       "name": "Put Your Dreams Away (For Another Day)",
       "url": "https://open.spotify.com/track/1Hf41bz4arxF8qMyekRMu2"
@@ -749,10 +1009,32 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
+    },
+    {
+      "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
     },
     {
       "album": {
@@ -767,10 +1049,28 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157866,
       "name": "Strangers In The Night",
       "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
+    },
+    {
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
     },
     {
       "album": {
@@ -785,10 +1085,50 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187040,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/1krJjodZxgpjs6luOlB9uO"
+    },
+    {
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm"
+    },
+    {
+      "album": {
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173226,
+      "name": "The Best Is Yet To Come",
+      "url": "https://open.spotify.com/track/3HXdy2r9RzawSwqQCwkjnP"
     },
     {
       "album": {
@@ -807,7 +1147,7 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174800,
       "name": "The Best Is Yet To Come",
       "url": "https://open.spotify.com/track/4xoZG3UuPDFEN8djm8mlwo"
@@ -861,10 +1201,46 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206066,
       "name": "Theme From New York, New York",
       "url": "https://open.spotify.com/track/2uXn30sSSGCcCRvyuf5F3E"
+    },
+    {
+      "album": {
+        "name": "Trilogy: Past, Present & Future",
+        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
+    },
+    {
+      "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225426,
+      "name": "Three Coins In The Fountain",
+      "url": "https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS"
     },
     {
       "album": {
@@ -879,7 +1255,7 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225426,
       "name": "Three Coins In The Fountain",
       "url": "https://open.spotify.com/track/5rg9sDw8EIKyy9fZOqdgx1"
@@ -995,7 +1371,7 @@
     {
       "album": {
         "name": "Sinatra's Sinatra",
-        "url": "https://open.spotify.com/album/1yvhOL2IIgwSpbU8fZDLGg"
+        "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
       },
       "artists": [
         {
@@ -1006,6 +1382,24 @@
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174466,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/0QbRfr3pJtHGxhIpIMYmbN"
+    },
+    {
+      "album": {
+        "name": "Sinatra's Sinatra",
+        "url": "https://open.spotify.com/album/1yvhOL2IIgwSpbU8fZDLGg"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 174466,
       "name": "Young At Heart",
       "url": "https://open.spotify.com/track/1wBgJ90w5KTjNUyoJiSjea"

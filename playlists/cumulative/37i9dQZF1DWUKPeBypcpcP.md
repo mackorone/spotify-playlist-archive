@@ -4,7 +4,7 @@
 
 > Where nature and white noise meet.
 
-135 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/3PEHXXxoI35nN8diF5gcHS)
+136 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/3PEHXXxoI35nN8diF5gcHS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Countryside Birds](https://open.spotify.com/track/5hDsmltGgBULdoDZybh5VI) | [Memorable](https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV) | [Therapy Birds](https://open.spotify.com/album/2sENQCcr3TVwPG5JFiU7Ai) | 2:34 | 2021-12-08 |  |
 | [Crisp Precipitation](https://open.spotify.com/track/62RI1GNvl6ZICvlttCIdYg) | [Convective Clouds](https://open.spotify.com/artist/1dhWDBwgf0Y6iKgyrKQMUL) | [Cloudburst](https://open.spotify.com/album/2Mg89tpP7lv2MvAQKEghtl) | 2:19 | 2022-01-06 |  |
 | [Dans La Pluie](https://open.spotify.com/track/37Rprogt5b76oUXqGiTZ1b) | [Embrasser La Pluie](https://open.spotify.com/artist/2lHoCBVRrYgUnAmfinOLIM) | [Dans La Pluie](https://open.spotify.com/album/3W7AE7mWmVesrtg8KuJea5) | 2:11 | 2021-12-22 |  |
-| [Dark Forest](https://open.spotify.com/track/2NMA93HoL1DkxNLbnyOOqA) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 2:30 | 2021-12-08 |  |
+| [Dark Forest](https://open.spotify.com/track/1n1qvg30KAOuNxfgR8jhSZ) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Natural Sound Makers](https://open.spotify.com/album/6tZho0aym2p3qnh7JOYVih) | 2:30 | 2022-08-30 |  |
+| [Dark Forest](https://open.spotify.com/track/2NMA93HoL1DkxNLbnyOOqA) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 2:30 | 2021-12-08 | 2022-08-31 |
 | [Deep Forest Soft Rain Birds Chirp Away](https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH) | [Nature Noise](https://open.spotify.com/artist/6DRwKWnvWIApUcEUqbyM5Z) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 4:00 | 2021-12-08 | 2022-07-05 |
 | [Distant Waves Pt\. 1](https://open.spotify.com/track/1a02pxK7AH63PZhGMUCUCh) | [Brainwave Samples](https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7) | [Oceanic Breeze](https://open.spotify.com/album/57LHRRqc9ItBhuwmRFEMqp) | 2:52 | 2021-12-08 |  |
 | [Distant Waves Pt\. 2](https://open.spotify.com/track/6gj55yZkNA0UA9XDO4PXof) | [Brainwave Samples](https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7) | [Oceanic Breeze](https://open.spotify.com/album/57LHRRqc9ItBhuwmRFEMqp) | 2:48 | 2021-12-08 |  |

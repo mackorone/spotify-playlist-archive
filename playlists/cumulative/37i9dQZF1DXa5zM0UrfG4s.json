@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Hagle",
+  "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Ringnes-Ronny",
   "name": "Livet p\u00e5 B\u00f8gda!",
   "published_playlist_ids": [
     "3zMqShr44pcg3CK0Psc64W"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 137933,
       "name": "(\u00e6 e ikke) SJALU",
       "url": "https://open.spotify.com/track/3hmwE4yviUq9py4ZHRK0Wm"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "18 \u00c5R (Vennepunktet)",
       "url": "https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 201920,
       "name": "Aldri tilbake",
       "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 177536,
       "name": "Alt det der",
       "url": "https://open.spotify.com/track/7qQmbSx16gAj5j8eR1Pn6d"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 133813,
       "name": "Bad Booty",
       "url": "https://open.spotify.com/track/2NXDdSSrR8rZVL7IgTgJEF"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-08-01",
       "duration_ms": 149926,
       "name": "Baksetefylla",
       "url": "https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161267,
       "name": "Bara vara med dig",
       "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
@@ -353,10 +353,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196080,
       "name": "Bare for i kveld",
       "url": "https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl"
+    },
+    {
+      "album": {
+        "name": "Stavangerkameratene",
+        "url": "https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210093,
+      "name": "Bare s\u00e5 du vett det",
+      "url": "https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds"
     },
     {
       "album": {
@@ -371,7 +389,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211800,
       "name": "Bare s\u00e5 du vett det",
       "url": "https://open.spotify.com/track/0MPznfQfw2r2XWJlhPoyWN"
@@ -389,7 +407,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 229433,
       "name": "Berre i natt",
       "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
@@ -447,7 +465,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": "2022-07-29",
       "duration_ms": 130645,
       "name": "Bli Med Meg Hjem",
       "url": "https://open.spotify.com/track/57bTCtZZib1OkelyBl10a1"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 125555,
       "name": "Block Party",
       "url": "https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi"
@@ -491,7 +509,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 161311,
       "name": "Blod & T\u00e5rer",
       "url": "https://open.spotify.com/track/2cwxcpFpwwxW3DZf7PUjv9"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": "2022-07-29",
       "duration_ms": 206922,
       "name": "Bomtur",
       "url": "https://open.spotify.com/track/1xa2Wf8y1I6EjT4QjyZCNa"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 166929,
       "name": "Bygda",
       "url": "https://open.spotify.com/track/5lx7a4TppA4OLmJhcNd6hz"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 160604,
       "name": "B\u00f8gdegutt",
       "url": "https://open.spotify.com/track/71HOGcm7rG4ytLgaeorFuc"
@@ -650,6 +668,24 @@
     },
     {
       "album": {
+        "name": "City Boy",
+        "url": "https://open.spotify.com/album/2I6TGlH8cMneYC4m8zwA47"
+      },
+      "artists": [
+        {
+          "name": "Hjulspinn",
+          "url": "https://open.spotify.com/artist/5A1Dp2synjftKRsqAV8Jgr"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 125026,
+      "name": "City Boy",
+      "url": "https://open.spotify.com/track/0MzftibVXzOHofvzw6sqQ3"
+    },
+    {
+      "album": {
         "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
         "url": "https://open.spotify.com/album/2pDbtRGzSNxwqt4PFGB9bm"
       },
@@ -661,7 +697,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 130000,
       "name": "Clubber Oppi France (Kaotisk Eleganse 2023)",
       "url": "https://open.spotify.com/track/2bO1TODqaomL2OduuDKSGZ"
@@ -709,7 +745,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185373,
       "name": "Den fineste Chevy'n",
       "url": "https://open.spotify.com/track/2562pO8HEcemUF2LfOMfti"
@@ -811,7 +847,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "Det regnar och regnar",
       "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
@@ -869,7 +905,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-28",
       "duration_ms": 186236,
       "name": "Digger deg",
       "url": "https://open.spotify.com/track/4nt7SCb3Nkp60GcLHfPn5Y"
@@ -909,7 +945,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": "2022-07-23",
       "duration_ms": 174400,
       "name": "Distriktet",
       "url": "https://open.spotify.com/track/0tSNao38KTHqH4mNXywCEA"
@@ -931,7 +967,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-28",
       "duration_ms": 141680,
       "name": "DREKKA MERA (feat. Kevin Boine)",
       "url": "https://open.spotify.com/track/21gWDhpO2CsqjuqUnnL31j"
@@ -971,7 +1007,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 167991,
       "name": "Du f\u00e5r aldri se meg naken igjen",
       "url": "https://open.spotify.com/track/4GABBQMuh1RMA2VPe1Uzud"
@@ -1055,7 +1091,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": "2022-07-24",
       "duration_ms": 206293,
       "name": "Eg e her og du e der",
       "url": "https://open.spotify.com/track/3skb0z0Xg5GJJJx9qlPpm7"
@@ -1073,7 +1109,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-23",
       "duration_ms": 236386,
       "name": "Ei runde til",
       "url": "https://open.spotify.com/track/660vI3gYDKGe8p3hEfNvwT"
@@ -1095,7 +1131,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242906,
       "name": "Ei tid - Akustisk versjon",
       "url": "https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK"
@@ -1149,7 +1185,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 188483,
       "name": "En liten plass",
       "url": "https://open.spotify.com/track/2vuqZNKtukufFAxw7ur0vv"
@@ -1175,6 +1211,32 @@
       "duration_ms": 185884,
       "name": "En Siste Gang",
       "url": "https://open.spotify.com/track/6lIrtEQ8OF4uvnhObQI24b"
+    },
+    {
+      "album": {
+        "name": "Helt Sykt VOL2",
+        "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
+      },
+      "artists": [
+        {
+          "name": "Staysman & Lazz",
+          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185884,
+      "name": "En Siste Gang",
+      "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
     },
     {
       "album": {
@@ -1211,7 +1273,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-08-25",
       "duration_ms": 129453,
       "name": "Er Det Du Eller Meg Som Er Mest Fucked Up?",
       "url": "https://open.spotify.com/track/11By0UO1ssT4kJ4eXhwRVb"
@@ -1229,7 +1291,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 131835,
       "name": "Er det lov \u00e5 leva",
       "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
@@ -1251,7 +1313,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": "2022-07-29",
       "duration_ms": 187909,
       "name": "Et Sted P\u00e5 Montebello",
       "url": "https://open.spotify.com/track/1CLFHU0oSSepQGeVPnaVHq"
@@ -1298,6 +1360,28 @@
     },
     {
       "album": {
+        "name": "Evig vandring",
+        "url": "https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Nordfjeld",
+          "url": "https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO"
+        },
+        {
+          "name": "Christiania",
+          "url": "https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170135,
+      "name": "Evig vandring",
+      "url": "https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr"
+    },
+    {
+      "album": {
         "name": "Evig Vandring",
         "url": "https://open.spotify.com/album/0nGtfoQ6FXtdjWQ6xudk7a"
       },
@@ -1313,10 +1397,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-29",
       "duration_ms": 170135,
       "name": "Evig Vandring",
       "url": "https://open.spotify.com/track/7IeBamArdqkA6YnqBaMHFj"
+    },
+    {
+      "album": {
+        "name": "F*CKED UP!",
+        "url": "https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167760,
+      "name": "F*CKED UP!",
+      "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
     },
     {
       "album": {
@@ -1331,7 +1433,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 192965,
       "name": "Felleskj\u00f8pet-dress",
       "url": "https://open.spotify.com/track/1yHGoNVtlz20xq2ny8QpxP"
@@ -1367,10 +1469,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-23",
       "duration_ms": 151304,
       "name": "Flaska",
       "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
+    },
+    {
+      "album": {
+        "name": "FRATERNITY",
+        "url": "https://open.spotify.com/album/6MG2YTCUxJnihyrrFOoA5I"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 126450,
+      "name": "FRATERNITY",
+      "url": "https://open.spotify.com/track/7wcbaD93iX2uIcP1X9oDKq"
     },
     {
       "album": {
@@ -1393,7 +1513,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 168398,
       "name": "FREDAG",
       "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
@@ -1411,7 +1531,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 133457,
       "name": "Fredag - Digg \u00e5 v\u00e6re norsk",
       "url": "https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB"
@@ -1447,7 +1567,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-24",
       "duration_ms": 153051,
       "name": "Fylla",
       "url": "https://open.spotify.com/track/4Z3bunErRzsxqLpSjDJHVB"
@@ -1480,6 +1600,28 @@
     },
     {
       "album": {
+        "name": "Fylleangst",
+        "url": "https://open.spotify.com/album/5qBlO7VFJFPzDet3AZ1Q74"
+      },
+      "artists": [
+        {
+          "name": "Oskar Westerlin",
+          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
+        },
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 118125,
+      "name": "Fylleangst",
+      "url": "https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9"
+    },
+    {
+      "album": {
         "name": "F\u00f8dt til \u00e5 ragge",
         "url": "https://open.spotify.com/album/3hHG7LGyNe2lgEsKhbFk9m"
       },
@@ -1509,7 +1651,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208615,
       "name": "Gamle helter",
       "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
@@ -1527,7 +1669,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 181648,
       "name": "Gamlehjem",
       "url": "https://open.spotify.com/track/2RXKklb8MwRhH1nWE3YAha"
@@ -1567,7 +1709,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 160002,
       "name": "Ga\u030ardsgutt",
       "url": "https://open.spotify.com/track/4PZt3HFcJnC4QZQhBgEiQC"
@@ -1592,6 +1734,24 @@
     },
     {
       "album": {
+        "name": "Ungkar med dobbelseng",
+        "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
+      },
+      "artists": [
+        {
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190466,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
+    },
+    {
+      "album": {
         "name": "Ungkar Med Dobbelseng",
         "url": "https://open.spotify.com/album/1s98zJHIwTJg5nBkkEeBRo"
       },
@@ -1603,7 +1763,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 190466,
       "name": "Granada",
       "url": "https://open.spotify.com/track/7mBxJDprUn3C1uRWBe3DJa"
@@ -1625,10 +1785,58 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 158866,
       "name": "GUTTA (feat. Plumbo)",
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
+    },
+    {
+      "album": {
+        "name": "Ha Mer",
+        "url": "https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to"
+      },
+      "artists": [
+        {
+          "name": "Oskar Westerlin",
+          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
+        },
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        },
+        {
+          "name": "ZL-Project",
+          "url": "https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Ha Mer",
+      "url": "https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8"
+    },
+    {
+      "album": {
+        "name": "HAALAND",
+        "url": "https://open.spotify.com/album/6oBrrSkRLcvyVWe9ZwIvMl"
+      },
+      "artists": [
+        {
+          "name": "Kevin Lauren",
+          "url": "https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1"
+        },
+        {
+          "name": "BEK & Moberg",
+          "url": "https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104270,
+      "name": "HAALAND",
+      "url": "https://open.spotify.com/track/0LOCSZsi6mwN14aWHi8VCI"
     },
     {
       "album": {
@@ -1643,7 +1851,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 236387,
       "name": "Hardanger",
       "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
@@ -1759,7 +1967,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-08-04",
       "duration_ms": 129375,
       "name": "Hej sk\u00e5l!",
       "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
@@ -1842,6 +2050,60 @@
     },
     {
       "album": {
+        "name": "Geasseijat",
+        "url": "https://open.spotify.com/album/3shwdZY9LBfiRuAHpt3TNT"
+      },
+      "artists": [
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263226,
+      "name": "Hjerteknuser",
+      "url": "https://open.spotify.com/track/6D2Hxj0e7gZojlFBV1fKBx"
+    },
+    {
+      "album": {
+        "name": "Hjertel\u00f8s",
+        "url": "https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137942,
+      "name": "Hjertel\u00f8s",
+      "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
+    },
+    {
+      "album": {
+        "name": "Hot Girls (dricker hotshots)",
+        "url": "https://open.spotify.com/album/6z5uLVB0RW6M8Yj5KLEA7H"
+      },
+      "artists": [
+        {
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96437,
+      "name": "Hot Girls (dricker hotshots)",
+      "url": "https://open.spotify.com/track/2TLVUAQzq9FnzSxFYGOF7Y"
+    },
+    {
+      "album": {
         "name": "Hva skjedde n\u00e5?",
         "url": "https://open.spotify.com/album/0s43Es79OPnqCYLj27eFUv"
       },
@@ -1853,7 +2115,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 233154,
       "name": "Hva skjedde n\u00e5?",
       "url": "https://open.spotify.com/track/3MU7bSZdfMWg44OhS0SOej"
@@ -1937,7 +2199,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 163217,
       "name": "Hyttetur",
       "url": "https://open.spotify.com/track/61uGtEPHDTwYDVwI7kMMFY"
@@ -1985,7 +2247,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179760,
       "name": "H\u00e5per du er lykkelig n\u00e5",
       "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
@@ -2003,7 +2265,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-26",
       "duration_ms": 179500,
       "name": "H\u00e5per du er lykkelig n\u00e5",
       "url": "https://open.spotify.com/track/75iyWZ7FM8t5dm1nAvFo4d"
@@ -2021,7 +2283,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-28",
       "duration_ms": 145666,
       "name": "H\u00e6ljetur",
       "url": "https://open.spotify.com/track/4Yr9mAAOu4BtQ1tGf0WjOS"
@@ -2087,7 +2349,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 164905,
       "name": "Ja vi elsker (Typisk Norsk 2019)",
       "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
@@ -2113,7 +2375,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 146560,
       "name": "Jag Gillar Dig",
       "url": "https://open.spotify.com/track/5pl2W8X6SDrxE55gRBTFmj"
@@ -2135,7 +2397,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 136056,
       "name": "Jag vet du vill ha mig",
       "url": "https://open.spotify.com/track/3H5qQY8UGBb4KGmSIiCz2r"
@@ -2219,6 +2481,28 @@
       "duration_ms": 152822,
       "name": "Jeg fortjener en \u00f8l",
       "url": "https://open.spotify.com/track/12MOqhpW8IsWO5xiCqjJdU"
+    },
+    {
+      "album": {
+        "name": "Jeg f\u00e5r aldri nok",
+        "url": "https://open.spotify.com/album/3XILoFwlPMTHIHGEze0d88"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Heux",
+          "url": "https://open.spotify.com/artist/7IuE8jJQzeifyrcFYdrIWt"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140933,
+      "name": "Jeg f\u00e5r aldri nok",
+      "url": "https://open.spotify.com/track/3vh9UBBCeVokVAlq5ybhKr"
     },
     {
       "album": {
@@ -2309,7 +2593,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 148520,
       "name": "Kjerring i fra by\u2019n",
       "url": "https://open.spotify.com/track/6Wcu2LamzXhBOgDUn47g9u"
@@ -2331,7 +2615,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 120312,
       "name": "Kj\u00e6re Alkohol feat. Roc Boyz (Hall of Fame)",
       "url": "https://open.spotify.com/track/35Wj4BI93AUX20ZIXsKJHy"
@@ -2349,7 +2633,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-25",
       "duration_ms": 237773,
       "name": "Kj\u00e6re Kristine",
       "url": "https://open.spotify.com/track/6CYfuolGiwqQqrcQzP62iP"
@@ -2447,7 +2731,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 132480,
       "name": "Kursiv",
       "url": "https://open.spotify.com/track/0YyED0H9S499O2c8U7ydtV"
@@ -2465,7 +2749,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 186453,
       "name": "K\u00e6m Tok Ho Me S\u00e6",
       "url": "https://open.spotify.com/track/5GPa945q93slwVFDuNgtMs"
@@ -2483,7 +2767,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 196308,
       "name": "La dagen vare evig",
       "url": "https://open.spotify.com/track/1NKmAhNvaG6ulJigH0OGmM"
@@ -2541,10 +2825,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": "2022-07-24",
       "duration_ms": 139672,
       "name": "LEVE LAVISH (Ace Of Spades)",
       "url": "https://open.spotify.com/track/0xj1IHKOaoLv39QhPZnprR"
+    },
+    {
+      "album": {
+        "name": "Levva Livet!",
+        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
+      },
+      "artists": [
+        {
+          "name": "\u00c5ge Aleksandersen",
+          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274053,
+      "name": "Levva Livet",
+      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
     },
     {
       "album": {
@@ -2691,7 +2993,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 127058,
       "name": "Mcdonalds",
       "url": "https://open.spotify.com/track/4um6ufqR4iLTP11FnrrXfJ"
@@ -2731,7 +3033,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 131785,
       "name": "Medbrakt",
       "url": "https://open.spotify.com/track/0anBi4abqUhf7qvGrk5ALE"
@@ -2775,7 +3077,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-23",
       "duration_ms": 120812,
       "name": "MILLION",
       "url": "https://open.spotify.com/track/1BN63Kxnw30peKSp5xLVNl"
@@ -2841,7 +3143,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 172272,
       "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
       "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
@@ -3003,7 +3305,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-29",
       "duration_ms": 144586,
       "name": "Oslo - Takk, jeg er ferdig",
       "url": "https://open.spotify.com/track/1KRshP62zz9fFXfRzqHOD8"
@@ -3025,7 +3327,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 154951,
       "name": "Partyjoik",
       "url": "https://open.spotify.com/track/74mJCN9Yr4aTxRM7AbS4FI"
@@ -3061,10 +3363,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 154433,
       "name": "Polisen",
       "url": "https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb"
+    },
+    {
+      "album": {
+        "name": "PRIMADONNA",
+        "url": "https://open.spotify.com/album/7iZHtwqroxPl38CB1LRxpv"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135938,
+      "name": "PRIMADONNA",
+      "url": "https://open.spotify.com/track/47aGU91Mqqjt1ZJ9NgQXqY"
     },
     {
       "album": {
@@ -3079,7 +3399,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 196746,
       "name": "P\u00e5 frifot",
       "url": "https://open.spotify.com/track/0uRNd6KKAjyTgkVIzOeOLx"
@@ -3097,7 +3417,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208031,
       "name": "P\u00e5'n igjen",
       "url": "https://open.spotify.com/track/5Msl0GQxuRnzPPYyGXT2Fa"
@@ -3149,6 +3469,32 @@
       "duration_ms": 150594,
       "name": "Ragga runt",
       "url": "https://open.spotify.com/track/0ZikbghBZwvTuWANNZ3tSO"
+    },
+    {
+      "album": {
+        "name": "RAGGA V\u00c4RLDEN RUNT",
+        "url": "https://open.spotify.com/album/7q8TSeI9J4fxBNP7CoWJKZ"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Lurifaks",
+          "url": "https://open.spotify.com/artist/7KV5PbIYtOc7F3bzH0v8dK"
+        },
+        {
+          "name": "Hugge",
+          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 150142,
+      "name": "RAGGA V\u00c4RLDEN RUNT",
+      "url": "https://open.spotify.com/track/6PTD6A0ttYfoAoOHkzu1Ba"
     },
     {
       "album": {
@@ -3206,6 +3552,24 @@
     },
     {
       "album": {
+        "name": "Raggen m\u00e5ste g\u00e5",
+        "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131571,
+      "name": "Raggen m\u00e5ste g\u00e5",
+      "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
+    },
+    {
+      "album": {
         "name": "Rett Ut Av Rehab",
         "url": "https://open.spotify.com/album/0EsF8pGhd04FZFwbYW1ilI"
       },
@@ -3257,10 +3621,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 169786,
       "name": "Ronny & Ragge",
       "url": "https://open.spotify.com/track/0u64RPrwUD8k2R8tdy8wwI"
+    },
+    {
+      "album": {
+        "name": "Ruller Norge Rundt",
+        "url": "https://open.spotify.com/album/6lnw4ZdNLMZaciC3wiHQso"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        },
+        {
+          "name": "Mr Melk",
+          "url": "https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143144,
+      "name": "Ruller Norge Rundt",
+      "url": "https://open.spotify.com/track/2L0Rir3jfe18FLKtRfWc5j"
     },
     {
       "album": {
@@ -3297,7 +3683,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235720,
       "name": "Rundt neste sving",
       "url": "https://open.spotify.com/track/1a13lJDJfoIwl1sfjVWy4j"
@@ -3351,7 +3737,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 180680,
       "name": "Shotski",
       "url": "https://open.spotify.com/track/0RndJ3YX7oQTm1UXLQMrRR"
@@ -3445,7 +3831,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 154280,
       "name": "Sj\u00f8mann Per",
       "url": "https://open.spotify.com/track/5TkkyRI7euRu4S0BUSuCw6"
@@ -3499,7 +3885,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 151846,
       "name": "SKIPET",
       "url": "https://open.spotify.com/track/2PIEzb11ggvjMpLLSQWjIp"
@@ -3517,7 +3903,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-07-23",
       "duration_ms": 159170,
       "name": "Skjenkestopp",
       "url": "https://open.spotify.com/track/2GiiOh2U8EQwWkORJd8FNI"
@@ -3553,7 +3939,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-24",
       "duration_ms": 154400,
       "name": "Sofa fra IKEA",
       "url": "https://open.spotify.com/track/02YrJmoMxJEzpede9KDnu6"
@@ -3593,7 +3979,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 205588,
       "name": "Sova n\u00e4r vi d\u00f6r",
       "url": "https://open.spotify.com/track/6Z0Hi1lWsMHFUbIYqzt4Zl"
@@ -3669,7 +4055,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 138947,
       "name": "Sv\u00e6re Pupper",
       "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
@@ -3705,10 +4091,36 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-25",
       "duration_ms": 160786,
       "name": "Syvers l\u00f8rdagsdans",
       "url": "https://open.spotify.com/track/5NSFWJvhxEzDj0bNqVcovK"
+    },
+    {
+      "album": {
+        "name": "S\u00c4NK DIESELPRISET",
+        "url": "https://open.spotify.com/album/7KcTYUN4oW03vIxq9OZbDj"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "Femedia",
+          "url": "https://open.spotify.com/artist/2oKbavAM3HBJQAPxY867tB"
+        },
+        {
+          "name": "Bang\u00e5rden",
+          "url": "https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 141375,
+      "name": "S\u00c4NK DIESELPRISET",
+      "url": "https://open.spotify.com/track/1NF8op28TqKOUPAb5NEpLC"
     },
     {
       "album": {
@@ -3723,7 +4135,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-07-21",
       "duration_ms": 259972,
       "name": "S\u00c5 MANGE MIL, S\u00c5 MANGE \u00c5R",
       "url": "https://open.spotify.com/track/63rM17msKFHUTOYdaAIzO1"
@@ -3759,7 +4171,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 278457,
       "name": "S\u00e5nn So Det Va F\u00f8r",
       "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
@@ -3811,7 +4223,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 161104,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/4dbHMUMM1Xh33GPwXXd4OA"
@@ -3855,7 +4267,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 133714,
       "name": "TANTE",
       "url": "https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k"
@@ -3873,7 +4285,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 199266,
       "name": "Tempo Corvette",
       "url": "https://open.spotify.com/track/3ucFRyoQVvYhq0M0DSPdc5"
@@ -3891,7 +4303,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 189287,
       "name": "The Drum",
       "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
@@ -3967,7 +4379,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-26",
       "duration_ms": 140711,
       "name": "Ung full och dum",
       "url": "https://open.spotify.com/track/6kh3aDbjz2VzP0hPYXw9Ty"
@@ -4003,7 +4415,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 150461,
       "name": "Uppe Hela Natten",
       "url": "https://open.spotify.com/track/6t1VM2Scy6n5911yELH3KT"
@@ -4079,7 +4491,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-08-26",
       "duration_ms": 165000,
       "name": "VI SKA BLI FULLA",
       "url": "https://open.spotify.com/track/37EyJVC84SzAVpSf3h4792"
@@ -4097,7 +4509,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-27",
       "duration_ms": 152093,
       "name": "Vi Svinger Oss I Dansen",
       "url": "https://open.spotify.com/track/1oje28LUjxKx6dyLN45m5i"
@@ -4167,7 +4579,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": "2022-07-25",
       "duration_ms": 193074,
       "name": "Vill ha dig",
       "url": "https://open.spotify.com/track/3tuVDdCxxgoU94NyqzTeTC"
@@ -4215,7 +4627,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 146268,
       "name": "V\u00c4RMLAND",
       "url": "https://open.spotify.com/track/2t6YJRoJu1xKIq45Nk7EX6"
@@ -4233,7 +4645,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 151933,
       "name": "Wellerman",
       "url": "https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71"
@@ -4305,7 +4717,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-07-26",
       "duration_ms": 136243,
       "name": "\u00c6rmen i k\u00e6rmen",
       "url": "https://open.spotify.com/track/6KYDEP132TspYEaEvobbuQ"

@@ -1,12 +1,12 @@
 {
   "description": "Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.",
-  "num_followers": 1013916,
+  "num_followers": 1030087,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTgyNDEyMywwMDAwMDAzYjAwMDAwMTgxODZjZjA3MDQwMDAwMDE2ZDE1MjdjYmE2",
+  "snapshot_id": "MTY2Mzc1MjA3NSwwMDAwMDAwMDJlYTFkZDljMzJkNjM1ZDI2YTg3MTEzZmJjNGRkYWQ5",
   "tracks": [
     {
       "added_at": "2018-01-19 12:22:56",
@@ -32,7 +32,7 @@
       "added_at": "2018-01-19 12:22:56",
       "album": {
         "name": "That's Life",
-        "url": "https://open.spotify.com/album/7JzUaMFasZyjbnLobEHhb7"
+        "url": "https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY"
       },
       "artists": [
         {
@@ -42,33 +42,13 @@
       ],
       "duration_ms": 187040,
       "name": "That's Life",
-      "url": "https://open.spotify.com/track/1krJjodZxgpjs6luOlB9uO"
-    },
-    {
-      "added_at": "2018-01-19 12:22:56",
-      "album": {
-        "name": "The World We Knew",
-        "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162493,
-      "name": "Somethin' Stupid",
-      "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
+      "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm"
     },
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
         "name": "Trilogy: Past, Present & Future",
-        "url": "https://open.spotify.com/album/7gChBuHze71yZc6aOTXQpV"
+        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
       },
       "artists": [
         {
@@ -78,7 +58,55 @@
       ],
       "duration_ms": 206066,
       "name": "Theme From New York, New York",
-      "url": "https://open.spotify.com/track/2uXn30sSSGCcCRvyuf5F3E"
+      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
+    },
+    {
+      "added_at": "2018-01-19 12:22:56",
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "I've Got You Under My Skin - Remastered 1998",
+      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
+    },
+    {
+      "added_at": "2018-01-19 12:22:56",
+      "album": {
+        "name": "My Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
+    },
+    {
+      "added_at": "2018-01-19 12:22:56",
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
     },
     {
       "added_at": "2018-01-19 12:22:56",
@@ -99,18 +127,22 @@
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
       },
       "artists": [
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
         }
       ],
-      "duration_ms": 223760,
-      "name": "I've Got You Under My Skin - Remastered 1998",
-      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
     },
     {
       "added_at": "2021-03-29 13:21:08",
@@ -129,22 +161,6 @@
       "url": "https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo"
     },
     {
-      "added_at": "2018-01-19 12:22:56",
-      "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
-    },
-    {
       "added_at": "2022-05-13 15:36:25",
       "album": {
         "name": "Goodbye (She Quietly Says) / Watertown [2022 Mix]",
@@ -159,22 +175,6 @@
       "duration_ms": 192320,
       "name": "Goodbye (She Quietly Says) - 2022 Mix",
       "url": "https://open.spotify.com/track/2RZDNXFAMWrbdS62KTAggO"
-    },
-    {
-      "added_at": "2018-01-19 12:22:56",
-      "album": {
-        "name": "My Way (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/23li6udW3NL6nhHDyJiR7d"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/76Zi40dd2HoTn3sehttJhY"
     },
     {
       "added_at": "2018-01-19 12:22:56",
@@ -196,7 +196,7 @@
       "added_at": "2018-01-19 12:22:56",
       "album": {
         "name": "My Kind Of Broadway",
-        "url": "https://open.spotify.com/album/7MJ6rkVywaHJsugKkhcLnv"
+        "url": "https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh"
       },
       "artists": [
         {
@@ -206,7 +206,7 @@
       ],
       "duration_ms": 314133,
       "name": "Luck Be A Lady",
-      "url": "https://open.spotify.com/track/3MIEsuQuZQeLSfD2EnM2BS"
+      "url": "https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7"
     },
     {
       "added_at": "2018-01-19 12:22:56",
@@ -260,7 +260,7 @@
       "added_at": "2018-01-19 12:22:56",
       "album": {
         "name": "September Of My Years (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4R7TQJ3SZGpbTV8kSq6POA"
+        "url": "https://open.spotify.com/album/3DdN3GRJj8YS0V0fiyXtbt"
       },
       "artists": [
         {
@@ -270,7 +270,7 @@
       ],
       "duration_ms": 267240,
       "name": "It Was A Very Good Year",
-      "url": "https://open.spotify.com/track/2MAMKyVDaei008snxzXzT8"
+      "url": "https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y"
     },
     {
       "added_at": "2018-01-19 12:22:56",
@@ -395,8 +395,8 @@
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
-        "name": "The Columbia Years (1943-1952): The Complete Recordings",
-        "url": "https://open.spotify.com/album/7IB2vtJdc9zz7g9A3Ddqnk"
+        "name": "Sinatra Sings His Greatest Hits",
+        "url": "https://open.spotify.com/album/57vPH8jXw3PF0zD6zeaNOD"
       },
       "artists": [
         {
@@ -404,15 +404,15 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 186333,
+      "duration_ms": 186173,
       "name": "Put Your Dreams Away (For Another Day)",
-      "url": "https://open.spotify.com/track/1Hf41bz4arxF8qMyekRMu2"
+      "url": "https://open.spotify.com/track/6kD1SNGPkfX9LwaGd1FG92"
     },
     {
       "added_at": "2021-10-25 09:00:49",
       "album": {
-        "name": "My Songs",
-        "url": "https://open.spotify.com/album/3GhjBNxqQUwgQHK69isMYx"
+        "name": "Sinatra 80th: All The Best",
+        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 160835,
+      "duration_ms": 159226,
       "name": "(How Little It Matters) How Little We Know",
-      "url": "https://open.spotify.com/track/6erZXV5rC1f95G8CB1BeSa"
+      "url": "https://open.spotify.com/track/7oaQGNtzgBEHBGyMMy5UGN"
     },
     {
       "added_at": "2018-01-19 12:22:56",
@@ -539,8 +539,8 @@
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
-        "name": "Frank Sinatra Sings For Only The Lonely (Remastered)",
-        "url": "https://open.spotify.com/album/3Pwg6fBaMoPmgfNNVJ5y8O"
+        "name": "Concepts",
+        "url": "https://open.spotify.com/album/0XCMp3IS7fWPwKo372vhjr"
       },
       "artists": [
         {
@@ -550,7 +550,7 @@
       ],
       "duration_ms": 256839,
       "name": "It's A Lonesome Old Town - Remastered",
-      "url": "https://open.spotify.com/track/3sa51kHJqK5SOVWqKlMxcz"
+      "url": "https://open.spotify.com/track/2sRFg7qcMwGPVEmBREeIja"
     },
     {
       "added_at": "2018-01-19 12:22:56",
@@ -652,7 +652,7 @@
       "added_at": "2018-01-19 12:22:56",
       "album": {
         "name": "Sinatra And Swingin' Brass",
-        "url": "https://open.spotify.com/album/6bLuwLvr2FVGzqZZvi8CEN"
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
       "artists": [
         {
@@ -662,13 +662,13 @@
       ],
       "duration_ms": 194093,
       "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/7bzfyzaZjqai1wTEJsxTOF"
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
     },
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
-        "name": "The Concert Sinatra",
-        "url": "https://open.spotify.com/album/0wwOisWeSkvTIPiyPcU9Fr"
+        "name": "Ultimate Sinatra: The Centennial Collection",
+        "url": "https://open.spotify.com/album/22KCcelRH1AeHz7S7x5XhY"
       },
       "artists": [
         {
@@ -676,15 +676,15 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 264306,
+      "duration_ms": 264906,
       "name": "Ol' Man River",
-      "url": "https://open.spotify.com/track/4myyFa9YrZzbqLNzfXDiAU"
+      "url": "https://open.spotify.com/track/6XppiJ3Z1trI3uDVUh7Mu7"
     },
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
         "name": "Sinatra's Sinatra",
-        "url": "https://open.spotify.com/album/1yvhOL2IIgwSpbU8fZDLGg"
+        "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
       },
       "artists": [
         {
@@ -694,13 +694,13 @@
       ],
       "duration_ms": 174466,
       "name": "Young At Heart",
-      "url": "https://open.spotify.com/track/1wBgJ90w5KTjNUyoJiSjea"
+      "url": "https://open.spotify.com/track/0QbRfr3pJtHGxhIpIMYmbN"
     },
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
         "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/1BA6ebXEZ79g2TQ1o6dklD"
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
       "artists": [
         {
@@ -710,13 +710,13 @@
       ],
       "duration_ms": 225426,
       "name": "Three Coins In The Fountain",
-      "url": "https://open.spotify.com/track/5rg9sDw8EIKyy9fZOqdgx1"
+      "url": "https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS"
     },
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
         "name": "Sinatra \u201965",
-        "url": "https://open.spotify.com/album/4ioZdFZJWnQ43UOItd1oLA"
+        "url": "https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA"
       },
       "artists": [
         {
@@ -726,13 +726,13 @@
       ],
       "duration_ms": 188066,
       "name": "My Kind Of Town",
-      "url": "https://open.spotify.com/track/2eOBQx9Yi6LQST0yHJiFyJ"
+      "url": "https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy"
     },
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
-        "name": "It Might As Well Be Swing",
-        "url": "https://open.spotify.com/album/1fxXDTummZJyUWozKIqUcM"
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
       },
       "artists": [
         {
@@ -744,15 +744,15 @@
           "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 174800,
+      "duration_ms": 173226,
       "name": "The Best Is Yet To Come",
-      "url": "https://open.spotify.com/track/4xoZG3UuPDFEN8djm8mlwo"
+      "url": "https://open.spotify.com/track/3HXdy2r9RzawSwqQCwkjnP"
     },
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
         "name": "Sinatra At The Sands",
-        "url": "https://open.spotify.com/album/36nWm961vB4aKdEJVdtPTa"
+        "url": "https://open.spotify.com/album/2m0W0n7zBYmRNs1QAgoa6Z"
       },
       "artists": [
         {
@@ -762,7 +762,7 @@
       ],
       "duration_ms": 206173,
       "name": "Angel Eyes - Live At The Sands Hotel And Casino/1966",
-      "url": "https://open.spotify.com/track/0pp87GAn8qE3eUfm7cdCRf"
+      "url": "https://open.spotify.com/track/25lUUKmQZgYv9hHMO9ysr5"
     },
     {
       "added_at": "2022-05-13 15:36:25",
@@ -800,7 +800,7 @@
       "added_at": "2018-01-19 12:22:56",
       "album": {
         "name": "Francis A. & Edward K.",
-        "url": "https://open.spotify.com/album/1uaKrYwlRj8AzTxqkk2u3H"
+        "url": "https://open.spotify.com/album/5GFkm37IrMR9a4rc6JABkw"
       },
       "artists": [
         {
@@ -814,13 +814,13 @@
       ],
       "duration_ms": 299106,
       "name": "All I Need Is The Girl",
-      "url": "https://open.spotify.com/track/5rj323bRwKVymBaiScDazB"
+      "url": "https://open.spotify.com/track/0y7Nk5lVh2Qpxp2nlON7Ml"
     },
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
         "name": "The World We Knew",
-        "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
+        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
       },
       "artists": [
         {
@@ -830,33 +830,33 @@
       ],
       "duration_ms": 190346,
       "name": "Drinking Again",
-      "url": "https://open.spotify.com/track/3vyKQ9OCX48TtW41Thoqlx"
+      "url": "https://open.spotify.com/track/6aLmYwLuSOA9WowYrwgfcK"
     },
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
-        "name": "Francis Albert Sinatra & Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/1DcmsgvmP94BH8XShg74N0"
+        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
+        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 160840,
+      "duration_ms": 163186,
       "name": "Change Partners",
-      "url": "https://open.spotify.com/track/6RHu1h1VUhH2eHSes4AG24"
+      "url": "https://open.spotify.com/track/5LMDR9OJOVfRAB99Vr96zn"
     },
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
         "name": "She Shot Me Down",
-        "url": "https://open.spotify.com/album/1sqODvLUBT5XnZudfwnFtR"
+        "url": "https://open.spotify.com/album/2lXDbQM86qsRAkTeYhv2ZT"
       },
       "artists": [
         {
@@ -866,7 +866,7 @@
       ],
       "duration_ms": 205773,
       "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/5VsEIRPFEk6Oww8NHgvStd"
+      "url": "https://open.spotify.com/track/2imEJFMzabMMNbgqkhJ11a"
     },
     {
       "added_at": "2021-11-30 08:16:42",

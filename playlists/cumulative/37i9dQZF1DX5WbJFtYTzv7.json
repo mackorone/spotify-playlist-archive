@@ -60,6 +60,24 @@
     },
     {
       "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/1w9JFLfJEGPibnydqQlPAO"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193637,
+      "name": "Ace Hood Flow",
+      "url": "https://open.spotify.com/track/2YAoax0ADUsZO9L4CE35ia"
+    },
+    {
+      "album": {
         "name": "Invisible Tears",
         "url": "https://open.spotify.com/album/3ugBCALPbZICY0EVpINgFs"
       },
@@ -131,7 +149,7 @@
     {
       "album": {
         "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/5o73xFE2NFXIDNsasghkLj"
+        "url": "https://open.spotify.com/album/1VAkmI2ADbl8e85MOtaMcg"
       },
       "artists": [
         {
@@ -142,6 +160,24 @@
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 171933,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/2Mx5P3F1d0y1GA3ysNfdm6"
+    },
+    {
+      "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/5o73xFE2NFXIDNsasghkLj"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 171933,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/5ppGfVvd9wKGu1nF0nLyBc"
@@ -189,10 +225,40 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232615,
       "name": "Can You Hear Me? (ayayaya) (feat. Skepta, JME & Ms D)",
       "url": "https://open.spotify.com/track/6i8w8Zdud22ehgJrrzqIVi"
+    },
+    {
+      "album": {
+        "name": "Noughties Hits",
+        "url": "https://open.spotify.com/album/38d7EZ8T6z6DHZhaBtymB1"
+      },
+      "artists": [
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "MSD",
+          "url": "https://open.spotify.com/artist/6SoJMemX8iYocIPrGioXYv"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Can You Hear Me? (Ayayaya) (feat. Skepta, Jme & Ms D)",
+      "url": "https://open.spotify.com/track/0zmMSFU9c46I2mmw34a4XF"
     },
     {
       "album": {
@@ -215,10 +281,32 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220734,
       "name": "Coming Soon",
       "url": "https://open.spotify.com/track/2Sq5o76vCkVue1DyWV3R5f"
+    },
+    {
+      "album": {
+        "name": "Coming Soon",
+        "url": "https://open.spotify.com/album/5SRuNtAVE7SZ0GgUHvbIQC"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Makonnen & Ceon",
+          "url": "https://open.spotify.com/artist/0r7BTt9apQmeFMiFM10CYn"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220734,
+      "name": "Coming Soon",
+      "url": "https://open.spotify.com/track/7F52tArntesgjZT9t8rp6L"
     },
     {
       "album": {
@@ -255,10 +343,28 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229680,
       "name": "Doin' It Again",
       "url": "https://open.spotify.com/track/3HfuA3A2vddN5EEqO4QaOg"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0AyaZjU2ofiBtPlJXk0Epv"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229680,
+      "name": "Doin' It Again",
+      "url": "https://open.spotify.com/track/3PdX0E7WTju71Y9Jpinvw4"
     },
     {
       "album": {
@@ -277,10 +383,32 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208306,
       "name": "Don't Get Rude",
       "url": "https://open.spotify.com/track/40sGu8woIEXEX0C0xQaNnn"
+    },
+    {
+      "album": {
+        "name": "History:",
+        "url": "https://open.spotify.com/album/74tH17Nt4hF80FKeLUlEoE"
+      },
+      "artists": [
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208306,
+      "name": "Don't Get Rude",
+      "url": "https://open.spotify.com/track/5zjGgLjnUT8vnpR8wsjwL5"
     },
     {
       "album": {
@@ -319,7 +447,7 @@
           "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
@@ -381,10 +509,44 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238409,
       "name": "German Whip - Remix",
       "url": "https://open.spotify.com/track/0ClItatXcTLudG3eykEZjK"
+    },
+    {
+      "album": {
+        "name": "German Whip (Remixes)",
+        "url": "https://open.spotify.com/album/3om8exXyCxPkwyseZshAVB"
+      },
+      "artists": [
+        {
+          "name": "Meridian Dan",
+          "url": "https://open.spotify.com/artist/5UhqlN0em1N4hDjegJD1Lg"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Professor Green",
+          "url": "https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw"
+        },
+        {
+          "name": "Bossman Birdie",
+          "url": "https://open.spotify.com/artist/13sqxAHntdRq2aWVbuYmSg"
+        },
+        {
+          "name": "Rizzle Kicks",
+          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238409,
+      "name": "German Whip - Remix",
+      "url": "https://open.spotify.com/track/49E4TCkNk47ZL7TvTj4j2Q"
     },
     {
       "album": {
@@ -401,7 +563,7 @@
           "url": "https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
@@ -433,7 +595,7 @@
     {
       "album": {
         "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5SRPTU4NoyRreqvijYeWss"
+        "url": "https://open.spotify.com/album/0AyaZjU2ofiBtPlJXk0Epv"
       },
       "artists": [
         {
@@ -444,6 +606,24 @@
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178146,
+      "name": "Greatest Hits",
+      "url": "https://open.spotify.com/track/3TYy52tHk6EsnLXoCqslkM"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5SRPTU4NoyRreqvijYeWss"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 178146,
       "name": "Greatest Hits",
       "url": "https://open.spotify.com/track/7pPUPCJOR7ovpS73oPud3L"
@@ -519,10 +699,28 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170306,
       "name": "I Spy",
       "url": "https://open.spotify.com/track/2ttbwjSx3ILkLSLbhgzuIv"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0AyaZjU2ofiBtPlJXk0Epv"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170306,
+      "name": "I Spy",
+      "url": "https://open.spotify.com/track/46h7yzNgZQNuyn5BwBHQeS"
     },
     {
       "album": {
@@ -541,10 +739,50 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223411,
       "name": "It Ain't Safe",
       "url": "https://open.spotify.com/track/0lmtKyI9HyhgnpyI0jWgEU"
+    },
+    {
+      "album": {
+        "name": "Konnichiwa",
+        "url": "https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Young Lord",
+          "url": "https://open.spotify.com/artist/7G9Go5hPwIt35X3imxJrVn"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223411,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/26DdCbuwHRX1BgWeHQIn1C"
+    },
+    {
+      "album": {
+        "name": "Konnichiwa",
+        "url": "https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196465,
+      "name": "Konnichiwa",
+      "url": "https://open.spotify.com/track/0Yo9iPwWq7sLuFgoglnTb4"
     },
     {
       "album": {
@@ -559,10 +797,36 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196465,
       "name": "Konnichiwa",
       "url": "https://open.spotify.com/track/3ipZsbrdpNTYvN9QkcXB4j"
+    },
+    {
+      "album": {
+        "name": "Konnichiwa",
+        "url": "https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "A$AP NAST",
+          "url": "https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279592,
+      "name": "Ladies Hit Squad",
+      "url": "https://open.spotify.com/track/5DddJVNEGBfUxy9Dtr45gI"
     },
     {
       "album": {
@@ -585,7 +849,7 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 279592,
       "name": "Ladies Hit Squad",
       "url": "https://open.spotify.com/track/3tvirIJWdwDQmUyKt4jYpG"
@@ -607,10 +871,32 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 259026,
       "name": "Look Out",
       "url": "https://open.spotify.com/track/04JCtV5XghldTXUE8ReB16"
+    },
+    {
+      "album": {
+        "name": "Microphone Champion",
+        "url": "https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259026,
+      "name": "Look Out",
+      "url": "https://open.spotify.com/track/4eBxXC8Gknerc35BsQ424w"
     },
     {
       "album": {
@@ -640,6 +926,28 @@
     },
     {
       "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/3IohPToAbg1vSgsX6BnIg6"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166173,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/29UcBXrnY3sOsj7Rk9i8NC"
+    },
+    {
+      "album": {
         "name": "Lush (feat. Jay Sean)",
         "url": "https://open.spotify.com/album/6QwotVe71xiB9U1ITVUs5h"
       },
@@ -655,10 +963,32 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168173,
       "name": "Lush",
       "url": "https://open.spotify.com/track/3DzcVFQ9rKeLRDyKal3ztj"
+    },
+    {
+      "album": {
+        "name": "Konnichiwa",
+        "url": "https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156492,
+      "name": "Lyrics",
+      "url": "https://open.spotify.com/track/5kzHkRmphRbt6ZwEmgd7RQ"
     },
     {
       "album": {
@@ -677,7 +1007,7 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156492,
       "name": "Lyrics",
       "url": "https://open.spotify.com/track/5m862WssDq7xBWWG6RBxzY"
@@ -703,7 +1033,7 @@
     {
       "album": {
         "name": "Konnichiwa",
-        "url": "https://open.spotify.com/album/2yegc4SUhhXxUXUavLHUqL"
+        "url": "https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk"
       },
       "artists": [
         {
@@ -714,6 +1044,24 @@
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214258,
+      "name": "Man",
+      "url": "https://open.spotify.com/track/13w7sJT2Xu6AN4gGj4wGv3"
+    },
+    {
+      "album": {
+        "name": "Konnichiwa",
+        "url": "https://open.spotify.com/album/2yegc4SUhhXxUXUavLHUqL"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 214258,
       "name": "Man",
       "url": "https://open.spotify.com/track/4lrD5zPJTGMsYzmYlwFtik"
@@ -779,7 +1127,7 @@
     {
       "album": {
         "name": "Konnichiwa",
-        "url": "https://open.spotify.com/album/2yegc4SUhhXxUXUavLHUqL"
+        "url": "https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk"
       },
       "artists": [
         {
@@ -794,6 +1142,28 @@
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198449,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/1BHquBolJN628btHI6X0vq"
+    },
+    {
+      "album": {
+        "name": "Konnichiwa",
+        "url": "https://open.spotify.com/album/2yegc4SUhhXxUXUavLHUqL"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 200178,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/4oG9UZ8uvn8t340MVj2AW5"
@@ -815,10 +1185,32 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262133,
       "name": "On My Life",
       "url": "https://open.spotify.com/track/5nr9MkHTdo1LreIBwoHULD"
+    },
+    {
+      "album": {
+        "name": "7 Days",
+        "url": "https://open.spotify.com/album/4CrhYYa3pfj0zztQrUY4EC"
+      },
+      "artists": [
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262133,
+      "name": "On My Life",
+      "url": "https://open.spotify.com/track/7Jfm0tMFrZaTzVaDg5kcQI"
     },
     {
       "album": {
@@ -833,10 +1225,50 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171733,
       "name": "Over the Top",
       "url": "https://open.spotify.com/track/5clS2B4sEGg23c931kirrN"
+    },
+    {
+      "album": {
+        "name": "Microphone Champion",
+        "url": "https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171733,
+      "name": "Over the Top",
+      "url": "https://open.spotify.com/track/5o54tiWbHESJ5RHBIbRnvi"
+    },
+    {
+      "album": {
+        "name": "Overseas",
+        "url": "https://open.spotify.com/album/5BFSJY7MZsHhMfJuJ5kg8e"
+      },
+      "artists": [
+        {
+          "name": "Smoke Dawg",
+          "url": "https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185413,
+      "name": "Overseas",
+      "url": "https://open.spotify.com/track/5cVdrtWoXNFT2Lm8vAnEzX"
     },
     {
       "album": {
@@ -855,7 +1287,7 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185443,
       "name": "Overseas",
       "url": "https://open.spotify.com/track/52h1Xy4cxVXbkItXEVJ3sT"
@@ -1000,8 +1432,44 @@
     },
     {
       "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/1w9JFLfJEGPibnydqQlPAO"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154760,
+      "name": "Same Shit Different Day",
+      "url": "https://open.spotify.com/track/4Snl7mdnpfrnWaw07wJB79"
+    },
+    {
+      "album": {
         "name": "Konnichiwa",
         "url": "https://open.spotify.com/album/2yegc4SUhhXxUXUavLHUqL"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188938,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/1CireMJYXN8Rw4u1HG5GFZ"
+    },
+    {
+      "album": {
+        "name": "Konnichiwa",
+        "url": "https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk"
       },
       "artists": [
         {
@@ -1014,7 +1482,7 @@
       "date_removed": null,
       "duration_ms": 188938,
       "name": "Shutdown",
-      "url": "https://open.spotify.com/track/1CireMJYXN8Rw4u1HG5GFZ"
+      "url": "https://open.spotify.com/track/44GokgCa37BTZP2NU2zkoJ"
     },
     {
       "album": {
@@ -1085,7 +1553,7 @@
     {
       "album": {
         "name": "Sunglasses at Night",
-        "url": "https://open.spotify.com/album/1ehC52jre582Xmt4vcXVG7"
+        "url": "https://open.spotify.com/album/2wnlIWUAKPifsJChIR6II2"
       },
       "artists": [
         {
@@ -1098,7 +1566,63 @@
       "date_removed": null,
       "duration_ms": 141920,
       "name": "Sunglasses at Night - Radio Edit",
+      "url": "https://open.spotify.com/track/1emn8uOfuaO6a8jXhUJnkj"
+    },
+    {
+      "album": {
+        "name": "Sunglasses at Night",
+        "url": "https://open.spotify.com/album/1ehC52jre582Xmt4vcXVG7"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141920,
+      "name": "Sunglasses at Night - Radio Edit",
       "url": "https://open.spotify.com/track/6dP4w6JCBpR65UpjsnHx5n"
+    },
+    {
+      "album": {
+        "name": "Lord of the Mics VI",
+        "url": "https://open.spotify.com/album/1xmniMJm9TRlc0614PXUnX"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Tempa T",
+          "url": "https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq"
+        },
+        {
+          "name": "President T",
+          "url": "https://open.spotify.com/artist/1jVgvfKynkRWY4SymwtOBS"
+        },
+        {
+          "name": "Sox",
+          "url": "https://open.spotify.com/artist/4H2eRjo026SeirLhTBpuZi"
+        },
+        {
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209426,
+      "name": "That's Not Me",
+      "url": "https://open.spotify.com/track/0cuvQQT0HME0Q9LiqUMgcK"
     },
     {
       "album": {
@@ -1117,10 +1641,32 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185967,
       "name": "That's Not Me",
       "url": "https://open.spotify.com/track/3loNCAyjqpgB9DvKhLMKi9"
+    },
+    {
+      "album": {
+        "name": "Konnichiwa",
+        "url": "https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185967,
+      "name": "That's Not Me",
+      "url": "https://open.spotify.com/track/3tTDOodJcr6vKF2DASlwMZ"
     },
     {
       "album": {
@@ -1155,7 +1701,7 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208920,
       "name": "That's Not Me - Remix",
       "url": "https://open.spotify.com/track/0kOx8xSNt75Kzdzb41TpyG"
@@ -1199,10 +1745,54 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215920,
       "name": "Too Many Man",
       "url": "https://open.spotify.com/track/4YDMc6xbvT661ATdnpLyei"
+    },
+    {
+      "album": {
+        "name": "Microphone Champion",
+        "url": "https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "BBK",
+          "url": "https://open.spotify.com/artist/24H5fZrUsczeOXjMQufShz"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215920,
+      "name": "Too Many Man",
+      "url": "https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ"
+    },
+    {
+      "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/1w9JFLfJEGPibnydqQlPAO"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185858,
+      "name": "Tour Bus Massacre",
+      "url": "https://open.spotify.com/track/7tk3A7ykNdNPRhJHzaZZnJ"
     },
     {
       "album": {
@@ -1217,7 +1807,7 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154760,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/1AK5vjcvKE6ZZJIfx3aQcv"
@@ -1235,7 +1825,7 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193637,
       "name": "Track 5",
       "url": "https://open.spotify.com/track/7clvkdDmtKRos6EuQjuVat"
@@ -1253,10 +1843,32 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185858,
       "name": "Track 6",
       "url": "https://open.spotify.com/track/14VRf44GWrJYfkjoX12nnW"
+    },
+    {
+      "album": {
+        "name": "El Clasico",
+        "url": "https://open.spotify.com/album/4C3jf89EnhxLDGcUG8V05H"
+      },
+      "artists": [
+        {
+          "name": "Fekky",
+          "url": "https://open.spotify.com/artist/0lVH4ReyYkoPMxFDzCQSgO"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218507,
+      "name": "Way Too Much",
+      "url": "https://open.spotify.com/track/5QTi5RGn46YFOx4v5s2IEX"
     },
     {
       "album": {
@@ -1275,7 +1887,7 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219437,
       "name": "Way Too Much",
       "url": "https://open.spotify.com/track/68CZATs01QarUWmENSjIqo"

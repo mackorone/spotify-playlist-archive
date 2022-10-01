@@ -1,13 +1,29 @@
 {
   "description": "\u00a1Y as\u00ed suena... Juli\u00f3n \u00c1lvarez Y Su Norte\u00f1o Banda!",
-  "num_followers": 276997,
+  "num_followers": 366748,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez Y Su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkzNDAxOSwwMDAwMDAwOTAwMDAwMTgxOGQ1YmU4MzYwMDAwMDE4MTgyNTc2Nzk3",
+  "snapshot_id": "MTY2MDg4NTIwMCwwMDAwMDAwMDM3NGY4ZmY3MWNhNGMzNjk3YmQxYzRhNzc0NDFiNDcx",
   "tracks": [
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
+    },
     {
       "added_at": "2022-06-20 18:24:04",
       "album": {

@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Pr\u00e4stens lilla kr\u00e5ka",
+        "url": "https://open.spotify.com/album/1dnxxDSjSURbR8TlgaOx7E"
+      },
+      "artists": [
+        {
+          "name": "Lilian Bokestig",
+          "url": "https://open.spotify.com/artist/4gGXmFMnH9pQxFUPxjUu4e"
+        }
+      ],
+      "date_added": "2019-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51826,
+      "name": "Pr\u00e4stens lilla kr\u00e5ka",
+      "url": "https://open.spotify.com/track/6FDARjuebXcy08AMLLftRk"
+    },
+    {
+      "album": {
         "name": "Barnplaneten - Tuta och k\u00f6r: Barnmusik med fart",
         "url": "https://open.spotify.com/album/1cZFgIIPIdbUL7xGi9aOjV"
       },
@@ -329,7 +347,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 51826,
       "name": "Pr\u00e4stens lilla kr\u00e5ka",
       "url": "https://open.spotify.com/track/6LpaK9bPNf6YR3aKvTnQB7"
@@ -401,10 +419,28 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 82906,
       "name": "Sm\u00e5 grodorna",
       "url": "https://open.spotify.com/track/4Hy7ldDPMMQNbhhdnVk7EJ"
+    },
+    {
+      "album": {
+        "name": "Sm\u00e5 grodorna",
+        "url": "https://open.spotify.com/album/4EuCKwPUyNchi0gIrDef83"
+      },
+      "artists": [
+        {
+          "name": "L\u00e4rk M\u00e5rten",
+          "url": "https://open.spotify.com/artist/0WelSiYwiTNzCcK4rOyfWk"
+        }
+      ],
+      "date_added": "2019-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82906,
+      "name": "Sm\u00e5 grodorna",
+      "url": "https://open.spotify.com/track/7FqTiv9gX26hiCjoRyBTdd"
     },
     {
       "album": {

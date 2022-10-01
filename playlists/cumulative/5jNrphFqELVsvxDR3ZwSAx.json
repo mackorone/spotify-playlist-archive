@@ -920,6 +920,24 @@
     },
     {
       "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
+    },
+    {
+      "album": {
         "name": "Idlewild South (Remastered)",
         "url": "https://open.spotify.com/album/3AIFhrBogAMWI1tylthUFP"
       },
@@ -1059,7 +1077,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215106,
-      "name": "One Way Or Another - Remastered",
+      "name": "One Way Or Another - Remastered/2001",
       "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
     },
     {

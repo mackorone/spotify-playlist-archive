@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "This Is Home",
+        "url": "https://open.spotify.com/album/5oPVf7ao47R9xnp2XcDSfa"
+      },
+      "artists": [
+        {
+          "name": "Shirley Michaels",
+          "url": "https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210062,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/49mGPurzHvCPjiLTTEsc7G"
+    },
+    {
+      "album": {
         "name": "Wonderwall",
         "url": "https://open.spotify.com/album/7ohyq2hWw1wwEqMPyoSgUG"
       },
@@ -494,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Tiny Uke Orchestra",
+        "url": "https://open.spotify.com/album/5bCq8lFqofxI9qbBhQqUam"
+      },
+      "artists": [
+        {
+          "name": "Tiny Uke Orchestra",
+          "url": "https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/1LBi1Zjam0zpKVCCbZtPqu"
+    },
+    {
+      "album": {
         "name": "Tiny Uke Orchestra plays The Beatles",
         "url": "https://open.spotify.com/album/1wyGOzD94QfrjDS6E5c4JU"
       },
@@ -505,10 +541,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146000,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/7wv9b0S0n3Y6Jk2iguxhdM"
+    },
+    {
+      "album": {
+        "name": "Pumped Up Kicks",
+        "url": "https://open.spotify.com/album/6WKc0Y5OfMShB2Wywfaqpu"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200102,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/0uRq3UbO7llLNzcPkLdIqt"
     },
     {
       "album": {
@@ -553,6 +607,24 @@
     {
       "album": {
         "name": "Knowing Me, Knowing You",
+        "url": "https://open.spotify.com/album/2hG3WDbIHtUvXPWYyKRftN"
+      },
+      "artists": [
+        {
+          "name": "Tiny Uke Orchestra",
+          "url": "https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231781,
+      "name": "Knowing Me, Knowing You",
+      "url": "https://open.spotify.com/track/0i540Oa6722htaipZglBZm"
+    },
+    {
+      "album": {
+        "name": "Knowing Me, Knowing You",
         "url": "https://open.spotify.com/album/4pLawZ6HgMm79iceCSxt1c"
       },
       "artists": [
@@ -563,7 +635,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231781,
       "name": "Knowing Me, Knowing You",
       "url": "https://open.spotify.com/track/4o8hBDNI3ZFfLay1HM5931"
@@ -624,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Lullabies for Little Ones on Ukulele",
+        "url": "https://open.spotify.com/album/2lhNZafYdVBhPpjbVzlJj3"
+      },
+      "artists": [
+        {
+          "name": "Matt Carlson",
+          "url": "https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232750,
+      "name": "Let It Go (Instrumental Version)",
+      "url": "https://open.spotify.com/track/5ignUBEPkskuxQ41eANUZi"
+    },
+    {
+      "album": {
         "name": "Popular Disney Favorites on Ukulele",
         "url": "https://open.spotify.com/album/0FQDjL8QbeMZ7GsnEmEcRK"
       },
@@ -639,7 +729,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232750,
       "name": "Let It Go (Instrumental Version)",
       "url": "https://open.spotify.com/track/4HYmwCqOEFg25G6xmiv86U"
@@ -700,6 +790,24 @@
     },
     {
       "album": {
+        "name": "Shape of You",
+        "url": "https://open.spotify.com/album/5ddlKDkaTG9bHBK60YO4al"
+      },
+      "artists": [
+        {
+          "name": "Ren Anderson",
+          "url": "https://open.spotify.com/artist/1GFIqy0jybt5CDJawIbHS8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278016,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/5OFd5vy1z9MlPkevJZszFI"
+    },
+    {
+      "album": {
         "name": "Ukelele Girl",
         "url": "https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R"
       },
@@ -737,6 +845,24 @@
     {
       "album": {
         "name": "No Scrubs",
+        "url": "https://open.spotify.com/album/6XUnXZJGv1ePL0v63MdLWn"
+      },
+      "artists": [
+        {
+          "name": "Tiny Uke Orchestra",
+          "url": "https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152319,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/1uUYqoYiP5S9l6lggYtqx2"
+    },
+    {
+      "album": {
+        "name": "No Scrubs",
         "url": "https://open.spotify.com/album/6g3ZskouYIWEw5LSj2V4fX"
       },
       "artists": [
@@ -747,7 +873,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152319,
       "name": "No Scrubs",
       "url": "https://open.spotify.com/track/5hpi4f9OgqHhFEs0kabVjl"
@@ -826,6 +952,24 @@
     },
     {
       "album": {
+        "name": "Pumped Up Kicks",
+        "url": "https://open.spotify.com/album/6WKc0Y5OfMShB2Wywfaqpu"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202788,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/58b0omCJozdH06nY5riZfI"
+    },
+    {
+      "album": {
         "name": "Uke Songs to Fall in Love",
         "url": "https://open.spotify.com/album/0uU1jAQCgqDhJdLVYSzJVD"
       },
@@ -898,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "Hawaiian Ukulele Hits",
+        "url": "https://open.spotify.com/album/1dKU3TRpFCRwcDAheqiyPe"
+      },
+      "artists": [
+        {
+          "name": "The Shady Ukulele Band",
+          "url": "https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196937,
+      "name": "Soak Up the Sun",
+      "url": "https://open.spotify.com/track/03hVrrbV52cKFbg1stXgmS"
+    },
+    {
+      "album": {
         "name": "Ukulele Surf Style (Acoustic Style Covers)",
         "url": "https://open.spotify.com/album/73ReNL7RJuuQppRERCQqOd"
       },
@@ -909,7 +1071,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196937,
       "name": "Soak up the Sun",
       "url": "https://open.spotify.com/track/1BT8IDlFYmMel8FidLu0oK"
@@ -934,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "Tiny Uke Orchestra",
+        "url": "https://open.spotify.com/album/5bCq8lFqofxI9qbBhQqUam"
+      },
+      "artists": [
+        {
+          "name": "Tiny Uke Orchestra",
+          "url": "https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168465,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/21ANW6JqDX85o3AXlhoVhj"
+    },
+    {
+      "album": {
         "name": "Tiny Uke Orchestra plays The Beatles",
         "url": "https://open.spotify.com/album/1wyGOzD94QfrjDS6E5c4JU"
       },
@@ -945,7 +1125,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168465,
       "name": "Something",
       "url": "https://open.spotify.com/track/57st2cqWQh6NQdZMdz7Jrp"
@@ -1205,6 +1385,24 @@
       "duration_ms": 275849,
       "name": "Thinking out Loud - Ukulele Version",
       "url": "https://open.spotify.com/track/5vGoHkL7i3BFor4BzkmgUf"
+    },
+    {
+      "album": {
+        "name": "This Is Home",
+        "url": "https://open.spotify.com/album/5oPVf7ao47R9xnp2XcDSfa"
+      },
+      "artists": [
+        {
+          "name": "Shirley Michaels",
+          "url": "https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227417,
+      "name": "This Is Home",
+      "url": "https://open.spotify.com/track/3IMXuDKy3jPJoPmV8yWJY9"
     },
     {
       "album": {

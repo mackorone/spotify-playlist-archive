@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5v2J2noHVxPWgSrOw6lZsp.md) - [plain]
 
 > Salt in the air..\. Sand in my hair..\. Rooftop sunsets..\. Celebrate a perfect summer day with hours of coastal acoustic, live versions, and chill hits\. \| Image: <a href="spotify:artist:24Bq9F6DJfzTaqgmoxT5vm">Corey Harper</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,419 likes - 157 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,404 likes - 157 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/5v2J2noHVxPWgSrOw6lZsp.md) - [plain]
 | 34 | [Stereo](https://open.spotify.com/track/4aOojIQ4cDgZncsXfRC0Jp) | [The Jepettos](https://open.spotify.com/artist/35o58Gfmj3W9t641sufYep), [New Portals](https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1) | [VCR & Chill](https://open.spotify.com/album/5LGNNdeoLf9x21LI6OyPLy) | 3:06 |
 | 35 | [How Many Times](https://open.spotify.com/track/4KI5cdn58QtiqXovqU3B53) | [Rod Ladgrove](https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H) | [How Many Times](https://open.spotify.com/album/7fV0N8X3lHnKNxqphjPVjn) | 2:39 |
 | 36 | [Summer Vibe](https://open.spotify.com/track/34pZbxevWGRKeBSKHmLLxI) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [R.E.V.O.](https://open.spotify.com/album/3iOQHIPyl2ztUjvIPBz4L2) | 3:06 |
-| 37 | [California \- Tchad Blake Mix](https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr) | [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [The Guest](https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD) | 3:13 |
+| 37 | [California \- Tchad Blake Mix](https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr) | [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [The Guest \(Expanded Edition\)](https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD) | 3:13 |
 | 38 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 39 | [Shake It Off](https://open.spotify.com/track/0GnGS3Hqq7eg2sjMPwHl1F) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Shake It Off](https://open.spotify.com/album/2nneTnyufZn9RbfYfQoC0u) | 3:09 |
 | 40 | [Only Love](https://open.spotify.com/track/3MdYFBIzPf7lSJnI8wi3Ka) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom \(Deluxe Version\)](https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH) | 4:09 |

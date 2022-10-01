@@ -1,44 +1,44 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 3551,
+  "num_followers": 4518,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE5MzY3MiwwMDAwMDAwMGU1NzEwZTJhNjE3ZWQxYmNlMzExN2MzYzEwMTk3NzA3",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDY0YmE5NjRmZWJmZDU5YmUxMTEyODQ5ZmUxYzdhNTQz",
   "tracks": [
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Delta Disco",
-        "url": "https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8"
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/1YnzjJJCICcYqynOL6GiCJ"
       },
       "artists": [
         {
-          "name": "Mississippi Big Beat",
-          "url": "https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH"
+          "name": "Dirtwire",
+          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
         }
       ],
-      "duration_ms": 255840,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX"
+      "duration_ms": 237844,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/3I0CQt2MQx6jKygLKTdmde"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Prehistoric Rhythm",
-        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
+        "name": "Grave",
+        "url": "https://open.spotify.com/album/7mJKH7MLlY9AlGaIMUf8Bl"
       },
       "artists": [
         {
-          "name": "MY BABY",
-          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
+          "name": "Thomas Vent",
+          "url": "https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd"
         }
       ],
-      "duration_ms": 398110,
-      "name": "Electrified",
-      "url": "https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp"
+      "duration_ms": 243370,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/1wBICiJNPP9gj6o5nEPHfT"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -63,6 +63,70 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Tourist (Remastered)",
+        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
+      },
+      "artists": [
+        {
+          "name": "St Germain",
+          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+        }
+      ],
+      "duration_ms": 380497,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/1msXkHv84LKikJGKcfdGBu"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Victim",
+        "url": "https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9"
+      },
+      "artists": [
+        {
+          "name": "Mblue",
+          "url": "https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Psychic",
+        "url": "https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 289840,
+      "name": "Paper Trails",
+      "url": "https://open.spotify.com/track/1DK2JuYarBeNwcLNPw1Qyo"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4KSljblpjITY4IsjkKSqK4"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Come on In",
         "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
       },
@@ -75,6 +139,54 @@
       "duration_ms": 298000,
       "name": "It's Bad You Know",
       "url": "https://open.spotify.com/track/1AcvqJhm4CXOFJ7INbR5rR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52"
+      },
+      "artists": [
+        {
+          "name": "Beats Antique",
+          "url": "https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Beauty Beats",
+      "url": "https://open.spotify.com/track/0Jk5J9HrDmCEKV7xYmaB6m"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
+      },
+      "artists": [
+        {
+          "name": "Scarecrow",
+          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/5gSHmVV30dqKESS4nYGpXg"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "By Any Beats Necessary",
+        "url": "https://open.spotify.com/album/1uLnDDuuVBe4IF83db23Ab"
+      },
+      "artists": [
+        {
+          "name": "Wax Tailor",
+          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
+        }
+      ],
+      "duration_ms": 159554,
+      "name": "I Had a Woman",
+      "url": "https://open.spotify.com/track/0Kjik5WcvlKs4zeA6X5Lb6"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -95,150 +207,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Precious Time",
-        "url": "https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8"
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
       },
       "artists": [
         {
-          "name": "Euphoria",
-          "url": "https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ"
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
         }
       ],
-      "duration_ms": 319253,
-      "name": "Back Against The Wall",
-      "url": "https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Deja Booze",
-        "url": "https://open.spotify.com/album/7Lt0wInlc4Axf66ch2WyD2"
-      },
-      "artists": [
-        {
-          "name": "Charlie Beale",
-          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "Tale of A.G. Smith",
-      "url": "https://open.spotify.com/track/5aurQvInAVl4pdWzCXvlWM"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Prehistoric Rhythm",
-        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
-      },
-      "artists": [
-        {
-          "name": "MY BABY",
-          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
-        }
-      ],
-      "duration_ms": 224510,
-      "name": "Sunroof Diesel Blues",
-      "url": "https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Psychic",
-        "url": "https://open.spotify.com/album/7jqNrm1l4wSxNYSjgK7tmF"
-      },
-      "artists": [
-        {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
-        }
-      ],
-      "duration_ms": 289840,
-      "name": "Paper Trails",
-      "url": "https://open.spotify.com/track/6rqONVHOT73QecUdJ5HVHy"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3"
-      },
-      "artists": [
-        {
-          "name": "Little Axe",
-          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
-        }
-      ],
-      "duration_ms": 321375,
-      "name": "Ride On",
-      "url": "https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Music for Cop Shows",
-        "url": "https://open.spotify.com/album/5BXskRJFE9uS1C0K1hZtqE"
-      },
-      "artists": [
-        {
-          "name": "Son Of Dave",
-          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "Daddy Was a Wolfman",
-      "url": "https://open.spotify.com/track/7i10VbOnkG09EuZuOkz3gO"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Funk from the Trunk",
-        "url": "https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl"
-      },
-      "artists": [
-        {
-          "name": "Basement Freaks",
-          "url": "https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "A Blues Thang",
-      "url": "https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "A Bothered Mind",
-        "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 209640,
-      "name": "Shake 'Em on Down",
-      "url": "https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "This Is For Everyone",
-        "url": "https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7"
-      },
-      "artists": [
-        {
-          "name": "Jamie Berry",
-          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
-        },
-        {
-          "name": "Paul Naylor",
-          "url": "https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5"
-        }
-      ],
-      "duration_ms": 255616,
-      "name": "Stand Together - Original Mix",
-      "url": "https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4"
+      "duration_ms": 175653,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -259,102 +239,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Well",
-        "url": "https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ"
+        "name": "This Is For Everyone",
+        "url": "https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7"
       },
       "artists": [
         {
-          "name": "Scarecrow",
-          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Code Name Loppsi - My Lowd demo",
-      "url": "https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Dirty Blues",
-        "url": "https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb"
-      },
-      "artists": [
-        {
-          "name": "Riff Kitten",
-          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
-        }
-      ],
-      "duration_ms": 166574,
-      "name": "Dirty Blues",
-      "url": "https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "You Had It Coming",
-        "url": "https://open.spotify.com/album/2VKdeHabc3wTmiQBd8yGft"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Roy's Toy",
-      "url": "https://open.spotify.com/track/1kwHwsKwvZJugHc9rqBeaC"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Why Not?",
-        "url": "https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY"
-      },
-      "artists": [
-        {
-          "name": "Akolo",
-          "url": "https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "Why Not?",
-      "url": "https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "I'm Back With Trouble",
-        "url": "https://open.spotify.com/album/5YufvnETZxSN5wb3Q9sEqn"
-      },
-      "artists": [
-        {
-          "name": "Thomas Vent",
-          "url": "https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "I'm Back With Trouble",
-      "url": "https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Moonshine Crossroads",
-        "url": "https://open.spotify.com/album/3XRHSUCqQBeIncHpIecSQG"
-      },
-      "artists": [
-        {
-          "name": "Fab Samperi",
-          "url": "https://open.spotify.com/artist/2ZX9eBv3ycTNpZrWMRtWte"
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
         },
         {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+          "name": "Paul Naylor",
+          "url": "https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5"
         }
       ],
-      "duration_ms": 161252,
-      "name": "That's Alright",
-      "url": "https://open.spotify.com/track/1jRIILpPBwSVssnrXGV5hS"
+      "duration_ms": 229655,
+      "name": "This Is For Everyone - Original Mix",
+      "url": "https://open.spotify.com/track/1uGvKTjvBCN1NYzS2DIjCr"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -379,18 +279,134 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hard Grind",
-        "url": "https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY"
+        "name": "Funk from the Trunk",
+        "url": "https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl"
       },
       "artists": [
         {
-          "name": "Little Axe",
-          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
+          "name": "Basement Freaks",
+          "url": "https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ"
         }
       ],
-      "duration_ms": 243973,
-      "name": "Midnight Dream",
-      "url": "https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul"
+      "duration_ms": 203456,
+      "name": "A Blues Thang",
+      "url": "https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Malfunktionality Part One",
+        "url": "https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2"
+      },
+      "artists": [
+        {
+          "name": "Beat Fatigue",
+          "url": "https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ"
+        }
+      ],
+      "duration_ms": 258776,
+      "name": "A Blues Malfunktion",
+      "url": "https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Moonshine Crossroads",
+        "url": "https://open.spotify.com/album/3XRHSUCqQBeIncHpIecSQG"
+      },
+      "artists": [
+        {
+          "name": "Fab Samperi",
+          "url": "https://open.spotify.com/artist/2ZX9eBv3ycTNpZrWMRtWte"
+        },
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "duration_ms": 161252,
+      "name": "That's Alright",
+      "url": "https://open.spotify.com/track/1jRIILpPBwSVssnrXGV5hS"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Well",
+        "url": "https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ"
+      },
+      "artists": [
+        {
+          "name": "Scarecrow",
+          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Code Name Loppsi - My Lowd demo",
+      "url": "https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "I'm Back With Trouble",
+        "url": "https://open.spotify.com/album/5YufvnETZxSN5wb3Q9sEqn"
+      },
+      "artists": [
+        {
+          "name": "Thomas Vent",
+          "url": "https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "I'm Back With Trouble",
+      "url": "https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Deja Booze",
+        "url": "https://open.spotify.com/album/7Lt0wInlc4Axf66ch2WyD2"
+      },
+      "artists": [
+        {
+          "name": "Charlie Beale",
+          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
+        }
+      ],
+      "duration_ms": 217125,
+      "name": "Tale of A.G. Smith",
+      "url": "https://open.spotify.com/track/5aurQvInAVl4pdWzCXvlWM"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 268226,
+      "name": "Shuck Dub",
+      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -408,95 +424,87 @@
           "url": "https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5"
         }
       ],
-      "duration_ms": 229655,
-      "name": "This Is For Everyone - Original Mix",
-      "url": "https://open.spotify.com/track/1uGvKTjvBCN1NYzS2DIjCr"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Hymn For Warriors (Theme From Wolfgang Wee Uncut)",
-        "url": "https://open.spotify.com/album/78Xa03zYJRJK307rN8MuHZ"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Wee",
-          "url": "https://open.spotify.com/artist/1xHOAt9wZzZkPqGEPxUSVV"
-        }
-      ],
-      "duration_ms": 238743,
-      "name": "Hymn For Warriors (Theme From Wolfgang Wee Uncut)",
-      "url": "https://open.spotify.com/track/6A7nVlQbJwyrPx0w4OrE0t"
+      "duration_ms": 255616,
+      "name": "Stand Together - Original Mix",
+      "url": "https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "By Any Beats Necessary",
-        "url": "https://open.spotify.com/album/1uLnDDuuVBe4IF83db23Ab"
+        "name": "Prehistoric Rhythm",
+        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
       },
       "artists": [
         {
-          "name": "Wax Tailor",
-          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
+          "name": "MY BABY",
+          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
         }
       ],
-      "duration_ms": 159554,
-      "name": "I Had a Woman",
-      "url": "https://open.spotify.com/track/0Kjik5WcvlKs4zeA6X5Lb6"
+      "duration_ms": 398110,
+      "name": "Electrified",
+      "url": "https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp"
+    },
+    {
+      "added_at": "2021-07-02 04:01:00",
+      "album": {
+        "name": "Black Blood",
+        "url": "https://open.spotify.com/album/1455tyjIuvboNbV6mAYSiZ"
+      },
+      "artists": [
+        {
+          "name": "R3YAN",
+          "url": "https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel"
+        },
+        {
+          "name": "Lukasoprom",
+          "url": "https://open.spotify.com/artist/3d8NwLM2U7JYt2H97W5ls1"
+        },
+        {
+          "name": "Like Lions",
+          "url": "https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo"
+        }
+      ],
+      "duration_ms": 146468,
+      "name": "Black Blood",
+      "url": "https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Malfunktionality Part One",
-        "url": "https://open.spotify.com/album/5gEOlPNZqkxTDafDyAqz2Z"
+        "name": "You Had It Coming",
+        "url": "https://open.spotify.com/album/2VKdeHabc3wTmiQBd8yGft"
       },
       "artists": [
         {
-          "name": "Beat Fatigue",
-          "url": "https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ"
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 258776,
-      "name": "A Blues Malfunktion - Original Mix",
-      "url": "https://open.spotify.com/track/4jhcv2U1ixMKewjowApJYK"
+      "duration_ms": 215040,
+      "name": "Roy's Toy",
+      "url": "https://open.spotify.com/track/1kwHwsKwvZJugHc9rqBeaC"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Tourist (Remastered)",
-        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
+        "name": "Heavy On My Heart",
+        "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
       },
       "artists": [
         {
-          "name": "St Germain",
-          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+          "name": "Caiti Baker",
+          "url": "https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P"
         }
       ],
-      "duration_ms": 380497,
-      "name": "Sure Thing",
-      "url": "https://open.spotify.com/track/1msXkHv84LKikJGKcfdGBu"
+      "duration_ms": 210430,
+      "name": "Heavy On My Heart",
+      "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Come on Jump Right In",
-        "url": "https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy"
-      },
-      "artists": [
-        {
-          "name": "Akolo",
-          "url": "https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Come on Jump Right In",
-      "url": "https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+        "name": "A Bothered Mind",
+        "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
       },
       "artists": [
         {
@@ -504,25 +512,9 @@
           "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Please Don't Stay",
-      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Left Behind",
-        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
-      },
-      "artists": [
-        {
-          "name": "Scarecrow",
-          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Left Behind",
-      "url": "https://open.spotify.com/track/5gSHmVV30dqKESS4nYGpXg"
+      "duration_ms": 209640,
+      "name": "Shake 'Em on Down",
+      "url": "https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -547,134 +539,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "A Different Beat",
-        "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
+        "name": "Prehistoric Rhythm",
+        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
       },
       "artists": [
         {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        },
-        {
-          "name": "E-Z Rollers",
-          "url": "https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl"
+          "name": "MY BABY",
+          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
         }
       ],
-      "duration_ms": 738306,
-      "name": "Can't Help Myself - E-Z Rollers Remix",
-      "url": "https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3"
-      },
-      "artists": [
-        {
-          "name": "Little Axe",
-          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
-        }
-      ],
-      "duration_ms": 221593,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/6krEKtL2aCEXIHTJY8QrKj"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
-        "url": "https://open.spotify.com/album/1Umb8lHSJUIXnF0bx9DlH2"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Mr. E's Beautiful Blues - Remix",
-      "url": "https://open.spotify.com/track/1cXPXMbHhNZHQYan1C8fzD"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Subhuman",
-        "url": "https://open.spotify.com/album/3TplwghFmTTDSfDMQ1gFzG"
-      },
-      "artists": [
-        {
-          "name": "Recoil",
-          "url": "https://open.spotify.com/artist/2FsVA4kCeWeuzhll2D8HtT"
-        }
-      ],
-      "duration_ms": 595680,
-      "name": "The Killing Ground",
-      "url": "https://open.spotify.com/track/4TO703ZoI5BBF9VwLoatq7"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Good Girl Blues",
-        "url": "https://open.spotify.com/album/19oQwLtdfzcxPDu7U686QG"
-      },
-      "artists": [
-        {
-          "name": "The Soul Of John Black",
-          "url": "https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "Swamp Thang",
-      "url": "https://open.spotify.com/track/4ONemlKmTMmNpuFecLr4r6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52"
-      },
-      "artists": [
-        {
-          "name": "Beats Antique",
-          "url": "https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Beauty Beats",
-      "url": "https://open.spotify.com/track/0Jk5J9HrDmCEKV7xYmaB6m"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Citizens of Boomtown (Deluxe)",
-        "url": "https://open.spotify.com/album/5twg48xOlAZwZsoPUxbyGm"
-      },
-      "artists": [
-        {
-          "name": "The Boomtown Rats",
-          "url": "https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9"
-        }
-      ],
-      "duration_ms": 361306,
-      "name": "K.I.S.S. - Remix",
-      "url": "https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 268226,
-      "name": "Shuck Dub",
-      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
+      "duration_ms": 224510,
+      "name": "Sunroof Diesel Blues",
+      "url": "https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -695,34 +571,134 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "A Different Beat",
-        "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
+        "name": "Dog 'n' Bone",
+        "url": "https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa"
       },
       "artists": [
         {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Leaf Dog",
+          "url": "https://open.spotify.com/artist/3m634B61sWwR5xhu3lCyK6"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Fatboy",
-      "url": "https://open.spotify.com/track/4AE3o0Zl933eTmA2FV0LPF"
+      "duration_ms": 157426,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Who Else!",
-        "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
+        "name": "Return",
+        "url": "https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+          "name": "Little Axe",
+          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
         }
       ],
-      "duration_ms": 295640,
-      "name": "Psycho Sam",
-      "url": "https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo"
+      "duration_ms": 321375,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Dirty Blues",
+        "url": "https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb"
+      },
+      "artists": [
+        {
+          "name": "Riff Kitten",
+          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
+        }
+      ],
+      "duration_ms": 166574,
+      "name": "Dirty Blues",
+      "url": "https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Music for Cop Shows",
+        "url": "https://open.spotify.com/album/5BXskRJFE9uS1C0K1hZtqE"
+      },
+      "artists": [
+        {
+          "name": "Son Of Dave",
+          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "Daddy Was a Wolfman",
+      "url": "https://open.spotify.com/track/7i10VbOnkG09EuZuOkz3gO"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Precious Time",
+        "url": "https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8"
+      },
+      "artists": [
+        {
+          "name": "Euphoria",
+          "url": "https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ"
+        }
+      ],
+      "duration_ms": 319253,
+      "name": "Back Against The Wall",
+      "url": "https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Delta Disco",
+        "url": "https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Big Beat",
+          "url": "https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH"
+        }
+      ],
+      "duration_ms": 255840,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Please Don't Stay",
+      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Why Not?",
+        "url": "https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY"
+      },
+      "artists": [
+        {
+          "name": "Akolo",
+          "url": "https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "Why Not?",
+      "url": "https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -743,18 +719,50 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i"
+        "name": "Hard Grind",
+        "url": "https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY"
       },
       "artists": [
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+          "name": "Little Axe",
+          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
         }
       ],
-      "duration_ms": 213933,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/4KSljblpjITY4IsjkKSqK4"
+      "duration_ms": 243973,
+      "name": "Midnight Dream",
+      "url": "https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Who Else!",
+        "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 295640,
+      "name": "Psycho Sam",
+      "url": "https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/7pPTrDwqzewb4h6cqJjl3w"
+      },
+      "artists": [
+        {
+          "name": "Mason Murphy",
+          "url": "https://open.spotify.com/artist/0iGR1dPENdfzoZbpsFlYug"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/6i5tylayRLCg5LrgUFqg4Z"
     },
     {
       "added_at": "2022-03-01 20:08:23",
@@ -775,70 +783,70 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "A Different Beat",
-        "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
+        "name": "Come on Jump Right In",
+        "url": "https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy"
       },
       "artists": [
         {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+          "name": "Akolo",
+          "url": "https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J"
         }
       ],
-      "duration_ms": 261800,
-      "name": "Go On Home",
-      "url": "https://open.spotify.com/track/4K9APmIfS2d1eojcx04aDp"
+      "duration_ms": 210461,
+      "name": "Come on Jump Right In",
+      "url": "https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-08-13 04:01:00",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/2pEc6me1RhA8XQgy5nFg8x"
+        "name": "High Vibe Remixes, Vol. 1",
+        "url": "https://open.spotify.com/album/3NlmTWejiSpfgnxD7CiVzt"
       },
       "artists": [
         {
-          "name": "Mason Murphy",
-          "url": "https://open.spotify.com/artist/0iGR1dPENdfzoZbpsFlYug"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/1b8s2ikwLa1ZmJYAdOZAjR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Heavy On My Heart",
-        "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
-      },
-      "artists": [
-        {
-          "name": "Caiti Baker",
-          "url": "https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P"
-        }
-      ],
-      "duration_ms": 210430,
-      "name": "Heavy On My Heart",
-      "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "John The Revelator",
-        "url": "https://open.spotify.com/album/1RiftRxnvWj7gPhOW6gzb3"
-      },
-      "artists": [
-        {
-          "name": "Mortal Prophets",
-          "url": "https://open.spotify.com/artist/3Y2UzZ6Uelgt7zmIuWlZ6R"
+          "name": "DJ Taz Rashid",
+          "url": "https://open.spotify.com/artist/2XvQyfssNbXYWcOkKaWYlx"
         },
         {
-          "name": "Gary Lucas",
-          "url": "https://open.spotify.com/artist/7pfGmIs49lIUBtoqAtyUEH"
+          "name": "KR3TURE",
+          "url": "https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu"
         }
       ],
-      "duration_ms": 152843,
-      "name": "John The Revelator",
-      "url": "https://open.spotify.com/track/343lHi9sB146HH6sGmjsL1"
+      "duration_ms": 229110,
+      "name": "Love Me - KR3TURE Remix",
+      "url": "https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Hymn For Warriors (Theme From Wolfgang Wee Uncut)",
+        "url": "https://open.spotify.com/album/78Xa03zYJRJK307rN8MuHZ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Wee",
+          "url": "https://open.spotify.com/artist/1xHOAt9wZzZkPqGEPxUSVV"
+        }
+      ],
+      "duration_ms": 238743,
+      "name": "Hymn For Warriors (Theme From Wolfgang Wee Uncut)",
+      "url": "https://open.spotify.com/track/6A7nVlQbJwyrPx0w4OrE0t"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ"
+      },
+      "artists": [
+        {
+          "name": "PARTY SHIRT",
+          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"
     }
   ],
   "unique_name": "Bluestronica",

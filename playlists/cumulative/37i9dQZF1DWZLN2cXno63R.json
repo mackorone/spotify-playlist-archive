@@ -19,10 +19,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190573,
       "name": "A Buena Vista",
       "url": "https://open.spotify.com/track/0GnXNyQJXAuPLxYk0UdUwo"
+    },
+    {
+      "album": {
+        "name": "A Buena Vista: Barrio De La Habana",
+        "url": "https://open.spotify.com/album/5hSWRDgVuz5mVirkTXPcfO"
+      },
+      "artists": [
+        {
+          "name": "Soneros De Verdad",
+          "url": "https://open.spotify.com/artist/12eNUx8BvR5qmpFssq8Vkt"
+        },
+        {
+          "name": "Luis Frank",
+          "url": "https://open.spotify.com/artist/3NOoOH3WZuJRNe5cvmW7ic"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193693,
+      "name": "A Buena Vista",
+      "url": "https://open.spotify.com/track/6K4iVISawI285iTxyvBIEB"
     },
     {
       "album": {
@@ -115,10 +137,40 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249000,
       "name": "Asi no papacito",
       "url": "https://open.spotify.com/track/3brGj2o5cB1fR5eu4u713p"
+    },
+    {
+      "album": {
+        "name": "Sergio Alvarez: Cuba, Cuba! - The Most Popular Songs",
+        "url": "https://open.spotify.com/album/6LucKJfqdrd4Mzh4BjXVbN"
+      },
+      "artists": [
+        {
+          "name": "Mario Manzanares",
+          "url": "https://open.spotify.com/artist/3r7BC9mw1EwyzOp6lU1ZXt"
+        },
+        {
+          "name": "Sergio Alvarez",
+          "url": "https://open.spotify.com/artist/6n8BdKdBM7ckmMhz1Wr1N9"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        },
+        {
+          "name": "Miguel Castro",
+          "url": "https://open.spotify.com/artist/4811WtF0znWG09E9YG8mXF"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Asi no papacito",
+      "url": "https://open.spotify.com/track/2SUV3G5dUOiQTKoa9g22ET"
     },
     {
       "album": {
@@ -151,10 +203,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185679,
       "name": "Buscando Novia",
       "url": "https://open.spotify.com/track/3w4UpQPBGHraRDZGcWjZoR"
+    },
+    {
+      "album": {
+        "name": "Amores Y Cuba",
+        "url": "https://open.spotify.com/album/4pnA4EsaeljYDo5nFXoG6q"
+      },
+      "artists": [
+        {
+          "name": "Labori",
+          "url": "https://open.spotify.com/artist/4HGPHi3uv1cyTjvjpg3g58"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188013,
+      "name": "Buscando Novia (Amigo Miguel)",
+      "url": "https://open.spotify.com/track/74v1Csjva4kXsZhUdBZhxE"
     },
     {
       "album": {
@@ -169,10 +239,58 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155133,
       "name": "Cantinero de Cuba",
       "url": "https://open.spotify.com/track/0SgjwYY7K4rtOvjdQKqbOn"
+    },
+    {
+      "album": {
+        "name": "World Dance: Cuba",
+        "url": "https://open.spotify.com/album/7bUTs0Sq3rDoCy2UZ9bZtP"
+      },
+      "artists": [
+        {
+          "name": "Jorge Anibal Mendoza",
+          "url": "https://open.spotify.com/artist/56YAAzaH2jKV3F2vlBODKt"
+        },
+        {
+          "name": "Teresa Gonz\u00e1les Feldmann",
+          "url": "https://open.spotify.com/artist/3FTIC0VPS6p22gX0Mh7Wc4"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152141,
+      "name": "Cantinero de Cuba",
+      "url": "https://open.spotify.com/track/1OKyhZBysmOXaJa60MPLkM"
+    },
+    {
+      "album": {
+        "name": "El Run Run De Los Soneros",
+        "url": "https://open.spotify.com/album/1l9PVgfDz2bL3XeNcdiSvo"
+      },
+      "artists": [
+        {
+          "name": "Soneros De Verdad",
+          "url": "https://open.spotify.com/artist/12eNUx8BvR5qmpFssq8Vkt"
+        },
+        {
+          "name": "P\u00edo Leiva",
+          "url": "https://open.spotify.com/artist/7vf3cusT4A12yB9wu0714H"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223546,
+      "name": "Carinoso Si Mentiroso No",
+      "url": "https://open.spotify.com/track/15tmfmsBPf6sdDyVUrqGMW"
     },
     {
       "album": {
@@ -194,6 +312,24 @@
     },
     {
       "album": {
+        "name": "Con Un Poco De Ayuda",
+        "url": "https://open.spotify.com/album/2uZom9MDeqLCQA3AOm1vcJ"
+      },
+      "artists": [
+        {
+          "name": "The Sons Of Buena Vista",
+          "url": "https://open.spotify.com/artist/5v7FgnzkIKDUOIXwEloKf1"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257040,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/3fN0SB5OWTLCzgEuqfaK2s"
+    },
+    {
+      "album": {
         "name": "Legends of Cuba",
         "url": "https://open.spotify.com/album/2IhAVuungiNKo5sJ0F8iIS"
       },
@@ -205,7 +341,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255400,
       "name": "Chan Chan",
       "url": "https://open.spotify.com/track/4VebImNsdNAIOnmGynCvsI"
@@ -241,10 +377,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174400,
       "name": "De Cuba Traigo",
       "url": "https://open.spotify.com/track/44DHqBp0NhYfb9ek1KNIj5"
+    },
+    {
+      "album": {
+        "name": "Saludo Compay",
+        "url": "https://open.spotify.com/album/6Gd3EGgnukbh5pDxlLnf6m"
+      },
+      "artists": [
+        {
+          "name": "Ecos De Siboney",
+          "url": "https://open.spotify.com/artist/6qmBkBPceisKHwr9upY4VF"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "De Cuba Traigo",
+      "url": "https://open.spotify.com/track/2hhUEXxTSFpJaQSd9utoey"
     },
     {
       "album": {
@@ -285,10 +439,36 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187841,
       "name": "Dulce Amor",
       "url": "https://open.spotify.com/track/0awIxxS1Je0d6jDzcXrTnh"
+    },
+    {
+      "album": {
+        "name": "World Dance: Cuba",
+        "url": "https://open.spotify.com/album/7bUTs0Sq3rDoCy2UZ9bZtP"
+      },
+      "artists": [
+        {
+          "name": "Jorge Anibal Mendoza",
+          "url": "https://open.spotify.com/artist/56YAAzaH2jKV3F2vlBODKt"
+        },
+        {
+          "name": "Teresa Gonz\u00e1les Feldmann",
+          "url": "https://open.spotify.com/artist/3FTIC0VPS6p22gX0Mh7Wc4"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187842,
+      "name": "Dulce amor",
+      "url": "https://open.spotify.com/track/53o2MJgllsz2TkumCRCtTI"
     },
     {
       "album": {
@@ -310,6 +490,28 @@
     },
     {
       "album": {
+        "name": "Esta Es Mi Rumba",
+        "url": "https://open.spotify.com/album/08goQFOlOClDPtGQZl7d2o"
+      },
+      "artists": [
+        {
+          "name": "P\u00edo Leiva",
+          "url": "https://open.spotify.com/artist/7vf3cusT4A12yB9wu0714H"
+        },
+        {
+          "name": "Septeto Nacional Ignacio Pi\u00f1eiro",
+          "url": "https://open.spotify.com/artist/67yMeHb5yvyDRabVSMZu8Z"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254920,
+      "name": "El Gallo De Moron",
+      "url": "https://open.spotify.com/track/4u9ncLvMpp4mEyoE9ZC3Gh"
+    },
+    {
+      "album": {
         "name": "Best of Buena Vista, Vol. 2",
         "url": "https://open.spotify.com/album/4HFvzoHzObNjG6NQjXXnST"
       },
@@ -321,7 +523,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252000,
       "name": "El gallo de mor\u00f3n",
       "url": "https://open.spotify.com/track/3iwtsEbsxyqWSWlL1tCMwj"
@@ -382,6 +584,32 @@
     },
     {
       "album": {
+        "name": "World Dance: Cuba",
+        "url": "https://open.spotify.com/album/7bUTs0Sq3rDoCy2UZ9bZtP"
+      },
+      "artists": [
+        {
+          "name": "Jorge Anibal Mendoza",
+          "url": "https://open.spotify.com/artist/56YAAzaH2jKV3F2vlBODKt"
+        },
+        {
+          "name": "Teresa Gonz\u00e1les Feldmann",
+          "url": "https://open.spotify.com/artist/3FTIC0VPS6p22gX0Mh7Wc4"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222625,
+      "name": "El manisero",
+      "url": "https://open.spotify.com/track/5Us6WiDjBOTyabRsOeKafH"
+    },
+    {
+      "album": {
         "name": "Tumbao Pal Bailador",
         "url": "https://open.spotify.com/album/5iNUuJE3uttpA3kjiO2Mcs"
       },
@@ -400,6 +628,24 @@
     },
     {
       "album": {
+        "name": "Buena Vista Social Club Presents Manuel 'Guajiro' Mirabal",
+        "url": "https://open.spotify.com/album/66sFJspZ4Fjg9Gh0g3ovdy"
+      },
+      "artists": [
+        {
+          "name": "Manuel Guajiro Mirabal",
+          "url": "https://open.spotify.com/artist/0STnzOo1kc5Ll215NgLiGm"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286680,
+      "name": "El rinc\u00f3n caliente",
+      "url": "https://open.spotify.com/track/3t1XXF8kQQBNsDw3iYRQps"
+    },
+    {
+      "album": {
         "name": "World Circuit Presents",
         "url": "https://open.spotify.com/album/0nVtjDDIIt6rXSPERIDqhZ"
       },
@@ -411,7 +657,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 287040,
       "name": "El Rinc\u00f3n Caliente",
       "url": "https://open.spotify.com/track/2x8wcdTOB0m0OFjU9VZApr"
@@ -429,10 +675,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236773,
       "name": "El traguito",
       "url": "https://open.spotify.com/track/4wcM9LcoiWj6e0n6czOJq9"
+    },
+    {
+      "album": {
+        "name": "The Most Popular Songs from Cuba",
+        "url": "https://open.spotify.com/album/4C3zYZy8KynpglX602ev5l"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cimarron De Cuba",
+          "url": "https://open.spotify.com/artist/43Nf9Fu11OoPHkbZFfGMCE"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236773,
+      "name": "El traguito",
+      "url": "https://open.spotify.com/track/4JZl2QBkPqALZhq9gR9NXJ"
     },
     {
       "album": {
@@ -447,10 +711,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253400,
       "name": "El tumbaito",
       "url": "https://open.spotify.com/track/1HXLolKAYBdt2Lw10eJ3kk"
+    },
+    {
+      "album": {
+        "name": "The Most Popular Songs from Cuba",
+        "url": "https://open.spotify.com/album/4C3zYZy8KynpglX602ev5l"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cimarron De Cuba",
+          "url": "https://open.spotify.com/artist/43Nf9Fu11OoPHkbZFfGMCE"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253400,
+      "name": "El tumbaito",
+      "url": "https://open.spotify.com/track/226kPFir9zcjkZ1iAT6zGY"
     },
     {
       "album": {
@@ -472,6 +754,32 @@
     },
     {
       "album": {
+        "name": "World Dance: Cuba",
+        "url": "https://open.spotify.com/album/7bUTs0Sq3rDoCy2UZ9bZtP"
+      },
+      "artists": [
+        {
+          "name": "Jorge Anibal Mendoza",
+          "url": "https://open.spotify.com/artist/56YAAzaH2jKV3F2vlBODKt"
+        },
+        {
+          "name": "Teresa Gonz\u00e1les Feldmann",
+          "url": "https://open.spotify.com/artist/3FTIC0VPS6p22gX0Mh7Wc4"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142750,
+      "name": "Frenesi",
+      "url": "https://open.spotify.com/track/1UsJleTXq8n0EwpUjL3BgH"
+    },
+    {
+      "album": {
         "name": "Most Famous Cuban Classics",
         "url": "https://open.spotify.com/album/5lgHDmhwmRsMniTmDfTM97"
       },
@@ -483,7 +791,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145746,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/6T6SiLzecNOKVIUFtqYfOe"
@@ -544,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Afro Cuban Socail Club Presents: La Casa HAVANA (Greatest Hits of Havana)",
+        "url": "https://open.spotify.com/album/02o5QUV9CDq9SSznds3wsd"
+      },
+      "artists": [
+        {
+          "name": "Afro Cuban Social Club, Deboson",
+          "url": "https://open.spotify.com/artist/0xBtAQM3wgSuF7gcyWIUee"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217679,
+      "name": "Harina de Maiz Criolla",
+      "url": "https://open.spotify.com/track/1uLbMNVdQmWwhKEi1LykdW"
+    },
+    {
+      "album": {
         "name": "Afro Cuban Socail Club Presents: La Casa HAVANA",
         "url": "https://open.spotify.com/album/6VUeNSVvKiJb2JfrwDWH2T"
       },
@@ -555,10 +881,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217679,
       "name": "Harina de Maiz Criolla",
       "url": "https://open.spotify.com/track/6IBZ7i6MU2p4uyTfQRlejU"
+    },
+    {
+      "album": {
+        "name": "Cuba: The Ultimate Salsa Collection",
+        "url": "https://open.spotify.com/album/5eu5gIZatGsL1r8EaG29ft"
+      },
+      "artists": [
+        {
+          "name": "Mayito Rivera",
+          "url": "https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Inv\u00e9ntate una Historia",
+      "url": "https://open.spotify.com/track/3DJWikRRG88jBbhGjWGE9d"
     },
     {
       "album": {
@@ -573,7 +917,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190000,
       "name": "Inv\u00e9ntate una Historia",
       "url": "https://open.spotify.com/track/6B06pPEzKZGReUgk52pYDh"
@@ -609,10 +953,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225000,
       "name": "La m\u00e1s bella cancion",
       "url": "https://open.spotify.com/track/0m334Vp2NQjdMCPa5ktSvs"
+    },
+    {
+      "album": {
+        "name": "A Buena Vista: Barrio De La Habana",
+        "url": "https://open.spotify.com/album/5hSWRDgVuz5mVirkTXPcfO"
+      },
+      "artists": [
+        {
+          "name": "Soneros De Verdad",
+          "url": "https://open.spotify.com/artist/12eNUx8BvR5qmpFssq8Vkt"
+        },
+        {
+          "name": "Rudy Calzado",
+          "url": "https://open.spotify.com/artist/55SpWdkjLvDiH67u0gct8k"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "La M\u00e1s Bella Canci\u00f3n",
+      "url": "https://open.spotify.com/track/26zLf1Ln0BnI6WEaYzGW49"
     },
     {
       "album": {
@@ -643,10 +1009,40 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150000,
       "name": "Los aretes",
       "url": "https://open.spotify.com/track/6iQrT4MfM7ecHE2Abg2nH4"
+    },
+    {
+      "album": {
+        "name": "Sergio Alvarez: Cuba, Cuba! - The Most Popular Songs",
+        "url": "https://open.spotify.com/album/6LucKJfqdrd4Mzh4BjXVbN"
+      },
+      "artists": [
+        {
+          "name": "Mario Manzanares",
+          "url": "https://open.spotify.com/artist/3r7BC9mw1EwyzOp6lU1ZXt"
+        },
+        {
+          "name": "Sergio Alvarez",
+          "url": "https://open.spotify.com/artist/6n8BdKdBM7ckmMhz1Wr1N9"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        },
+        {
+          "name": "Miguel Castro",
+          "url": "https://open.spotify.com/artist/4811WtF0znWG09E9YG8mXF"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Los aretes",
+      "url": "https://open.spotify.com/track/6GEQM9yoFzdQtALGcILSca"
     },
     {
       "album": {
@@ -695,10 +1091,40 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266000,
       "name": "Madrigal",
       "url": "https://open.spotify.com/track/69bEe7bZrIKEIgBT4bueCW"
+    },
+    {
+      "album": {
+        "name": "Sergio Alvarez: Cuba, Cuba! - The Most Popular Songs",
+        "url": "https://open.spotify.com/album/6LucKJfqdrd4Mzh4BjXVbN"
+      },
+      "artists": [
+        {
+          "name": "Mario Manzanares",
+          "url": "https://open.spotify.com/artist/3r7BC9mw1EwyzOp6lU1ZXt"
+        },
+        {
+          "name": "Sergio Alvarez",
+          "url": "https://open.spotify.com/artist/6n8BdKdBM7ckmMhz1Wr1N9"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        },
+        {
+          "name": "Miguel Castro",
+          "url": "https://open.spotify.com/artist/4811WtF0znWG09E9YG8mXF"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Madrigal",
+      "url": "https://open.spotify.com/track/6SD9N1XoqbK2YgydPVTJad"
     },
     {
       "album": {
@@ -731,7 +1157,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222625,
       "name": "Man\u00edsero",
       "url": "https://open.spotify.com/track/1PpjXuZjD9YcrTyWfTv0RZ"
@@ -883,10 +1309,64 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 416028,
       "name": "Pan con Timba",
       "url": "https://open.spotify.com/track/4Epw5PN8lebFqJ6dZRrl5n"
+    },
+    {
+      "album": {
+        "name": "Bebo Rides Again",
+        "url": "https://open.spotify.com/album/0k4NZSAhdnjrsoJOB0gwLN"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Diego Urcola",
+          "url": "https://open.spotify.com/artist/3yscB4e5TBjZUHd2uKdgER"
+        },
+        {
+          "name": "Gabriel Machado",
+          "url": "https://open.spotify.com/artist/2J7goEbBXDL1HRAiRNRPmf"
+        },
+        {
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
+        },
+        {
+          "name": "Joe Santiago",
+          "url": "https://open.spotify.com/artist/4cOMDu6QjKkq3zR9CdoBDZ"
+        },
+        {
+          "name": "Gerardo Rosales",
+          "url": "https://open.spotify.com/artist/6zctyrh9ul3yET0oxqTjSQ"
+        },
+        {
+          "name": "Amadito Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D"
+        },
+        {
+          "name": "Carlos Emilio Morales",
+          "url": "https://open.spotify.com/artist/5OFgM1ftxwoTMZYJeyPvO3"
+        },
+        {
+          "name": "Juan Pablo Torres",
+          "url": "https://open.spotify.com/artist/4q2WyV1AFlurLshyRM3azI"
+        },
+        {
+          "name": "Carlos Valdes",
+          "url": "https://open.spotify.com/artist/4Ya1zqEk4JbCoyZBgUMNKI"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420066,
+      "name": "Pan Con Timba",
+      "url": "https://open.spotify.com/track/0nIfkTlMH5qf678L8Wt6fL"
     },
     {
       "album": {
@@ -901,10 +1381,46 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168240,
       "name": "Patuleco",
       "url": "https://open.spotify.com/track/4md41dtwxkVA57ILpKfOEn"
+    },
+    {
+      "album": {
+        "name": "Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962-72",
+        "url": "https://open.spotify.com/album/2f2jyRaOT92BCf49yjyRbz"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Sonora Curro",
+          "url": "https://open.spotify.com/artist/1s3glHhVbcSfPu5EjyrVrN"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168240,
+      "name": "Patuleco",
+      "url": "https://open.spotify.com/track/5YUSA1PVNYDiSz2XuD53RQ"
+    },
+    {
+      "album": {
+        "name": "Famous Tangos",
+        "url": "https://open.spotify.com/album/2gBy9Gnnzm04KjetvCQHYM"
+      },
+      "artists": [
+        {
+          "name": "Buenos Aires Tango Trio",
+          "url": "https://open.spotify.com/artist/1d9y4HTvix06VscldAQANr"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "Pedacito de cielo",
+      "url": "https://open.spotify.com/track/1C86PVpk5idxXMZguaAIaF"
     },
     {
       "album": {
@@ -919,10 +1435,46 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 304000,
       "name": "Que Manera de Quererte",
       "url": "https://open.spotify.com/track/4XxJuOP5dLqcdDpj5lxa2v"
+    },
+    {
+      "album": {
+        "name": "The Most Popular Songs from Cuba",
+        "url": "https://open.spotify.com/album/4C3zYZy8KynpglX602ev5l"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cimarron De Cuba",
+          "url": "https://open.spotify.com/artist/43Nf9Fu11OoPHkbZFfGMCE"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Que manera de quererte",
+      "url": "https://open.spotify.com/track/6ZUoOdl1enEmiLtTdWcM4w"
+    },
+    {
+      "album": {
+        "name": "Cuba: The Ultimate Salsa Collection",
+        "url": "https://open.spotify.com/album/5eu5gIZatGsL1r8EaG29ft"
+      },
+      "artists": [
+        {
+          "name": "Tiburon Morales",
+          "url": "https://open.spotify.com/artist/671ge0J7hfPRMiZZgcR7jF"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252020,
+      "name": "Reuni\u00f3n de Cantores",
+      "url": "https://open.spotify.com/track/2TK5hjVlLojMLsXHKLnHkd"
     },
     {
       "album": {
@@ -937,7 +1489,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252020,
       "name": "Reuni\u00f3n de Cantores",
       "url": "https://open.spotify.com/track/6DntkLOPN5gNXoBwS16teo"
@@ -980,6 +1532,24 @@
     },
     {
       "album": {
+        "name": "Rolando Sanchez and Salsa Hawaii Band: Salsa",
+        "url": "https://open.spotify.com/album/7j4OCjSYPV9rHEOkfcGYML"
+      },
+      "artists": [
+        {
+          "name": "Rolando Sanchez and Salsa Hawaii",
+          "url": "https://open.spotify.com/artist/1JsffFPaZPlmCrFDswWCfl"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "Sigue regando",
+      "url": "https://open.spotify.com/track/1BMKOWQEZvzVq7o6Brxq92"
+    },
+    {
+      "album": {
         "name": "Discover Salsa with ARC Music",
         "url": "https://open.spotify.com/album/4H95ZhksQCTZV84DryxnIJ"
       },
@@ -991,7 +1561,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180600,
       "name": "Sigue Regando",
       "url": "https://open.spotify.com/track/5GMsYbYsq6KbOe7w47LEaB"
@@ -1016,6 +1586,24 @@
     },
     {
       "album": {
+        "name": "America Absolute Salsa",
+        "url": "https://open.spotify.com/album/6gfkMoWrsx9D268pgPZTYY"
+      },
+      "artists": [
+        {
+          "name": "Mandingo y su Son",
+          "url": "https://open.spotify.com/artist/1R3vGhYouZZwn7sOkozvbR"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262600,
+      "name": "Swing a la moderna",
+      "url": "https://open.spotify.com/track/0wBS6OzGSsMnHBuRzDLnqG"
+    },
+    {
+      "album": {
         "name": "Discover Salsa with ARC Music",
         "url": "https://open.spotify.com/album/4H95ZhksQCTZV84DryxnIJ"
       },
@@ -1027,7 +1615,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262600,
       "name": "Swing a la Moderna",
       "url": "https://open.spotify.com/track/1xKmaEYBOvhJlrD2KShl4p"
@@ -1052,8 +1640,8 @@
     },
     {
       "album": {
-        "name": "Te Pica",
-        "url": "https://open.spotify.com/album/5mlskgVP6XKQgpg7RvTggS"
+        "name": "Introducing",
+        "url": "https://open.spotify.com/album/5A6lNz7J5eGdzii5nr1x2e"
       },
       "artists": [
         {
@@ -1070,7 +1658,47 @@
       "date_removed": null,
       "duration_ms": 349636,
       "name": "Te Pica",
+      "url": "https://open.spotify.com/track/1xX3RmxFrlAVLib0LDSjHI"
+    },
+    {
+      "album": {
+        "name": "Te Pica",
+        "url": "https://open.spotify.com/album/5mlskgVP6XKQgpg7RvTggS"
+      },
+      "artists": [
+        {
+          "name": "Yeziel Lazo",
+          "url": "https://open.spotify.com/artist/7mXN2Ase2jcFkWL5WmhtqA"
+        },
+        {
+          "name": "Lazos D'Cuba",
+          "url": "https://open.spotify.com/artist/0d7Jg4xQDigWQu7gYQyh0Q"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 349636,
+      "name": "Te Pica",
       "url": "https://open.spotify.com/track/4wkBh0FTFI6IlI2Duxxvhw"
+    },
+    {
+      "album": {
+        "name": "Cuba: The Ultimate Salsa Collection",
+        "url": "https://open.spotify.com/album/5eu5gIZatGsL1r8EaG29ft"
+      },
+      "artists": [
+        {
+          "name": "Roberto Santamaria",
+          "url": "https://open.spotify.com/artist/1AtHEOeoytbnFMzsuUT2BL"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353200,
+      "name": "Uchi Beng Guau Guau",
+      "url": "https://open.spotify.com/track/2br7aDq2ZMOQSqe550ZuQc"
     },
     {
       "album": {
@@ -1085,10 +1713,40 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 353200,
       "name": "Uchi Beng Guau Guau",
       "url": "https://open.spotify.com/track/5N01p9yAwFtVU2JDnKOm9u"
+    },
+    {
+      "album": {
+        "name": "Sergio Alvarez: Cuba, Cuba! - The Most Popular Songs",
+        "url": "https://open.spotify.com/album/6LucKJfqdrd4Mzh4BjXVbN"
+      },
+      "artists": [
+        {
+          "name": "Mario Manzanares",
+          "url": "https://open.spotify.com/artist/3r7BC9mw1EwyzOp6lU1ZXt"
+        },
+        {
+          "name": "Sergio Alvarez",
+          "url": "https://open.spotify.com/artist/6n8BdKdBM7ckmMhz1Wr1N9"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        },
+        {
+          "name": "Miguel Castro",
+          "url": "https://open.spotify.com/artist/4811WtF0znWG09E9YG8mXF"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "Vuelve guajiro",
+      "url": "https://open.spotify.com/track/2GMV6rmBO0rR9jY6ZVEOEm"
     },
     {
       "album": {
@@ -1115,7 +1773,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 301000,
       "name": "Vuelve guajiro",
       "url": "https://open.spotify.com/track/2u1Wpr28YR7kYIeDJZe1l9"
@@ -1133,10 +1791,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 421100,
       "name": "When Day Breaks",
       "url": "https://open.spotify.com/track/3wQNOUHSE2UKXFHZFB4PpP"
+    },
+    {
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/5UXBDwpZL995Wc1bAxqFIg"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Torres",
+          "url": "https://open.spotify.com/artist/4q2WyV1AFlurLshyRM3azI"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423626,
+      "name": "When Day Breaks",
+      "url": "https://open.spotify.com/track/5XKkYopmDFm0AObYifkpTD"
     },
     {
       "album": {
@@ -1151,10 +1827,40 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181800,
       "name": "Y muevete (Arr. R. Crespo)",
       "url": "https://open.spotify.com/track/2yy3dwG9hBSJZXSEzrHIKC"
+    },
+    {
+      "album": {
+        "name": "Sergio Alvarez: Cuba, Cuba! - The Most Popular Songs",
+        "url": "https://open.spotify.com/album/6LucKJfqdrd4Mzh4BjXVbN"
+      },
+      "artists": [
+        {
+          "name": "Mario Manzanares",
+          "url": "https://open.spotify.com/artist/3r7BC9mw1EwyzOp6lU1ZXt"
+        },
+        {
+          "name": "Sergio Alvarez",
+          "url": "https://open.spotify.com/artist/6n8BdKdBM7ckmMhz1Wr1N9"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        },
+        {
+          "name": "Miguel Castro",
+          "url": "https://open.spotify.com/artist/4811WtF0znWG09E9YG8mXF"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Ya pararan",
+      "url": "https://open.spotify.com/track/0PeEB0KTtlFkwAgtvZpZ0m"
     },
     {
       "album": {
@@ -1181,7 +1887,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215000,
       "name": "Ya pararan",
       "url": "https://open.spotify.com/track/2emQCIa5y2B6DOCQ5paDs0"
@@ -1203,7 +1909,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220200,
       "name": "Yo no soy mentiroso",
       "url": "https://open.spotify.com/track/5TENdpEfV6S04puEA9eCQ6"
@@ -1221,10 +1927,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195219,
       "name": "Zun Zun Paloma",
       "url": "https://open.spotify.com/track/2Lq2vGcXKKSLL4yw5lL8Ps"
+    },
+    {
+      "album": {
+        "name": "Hotel Asturias",
+        "url": "https://open.spotify.com/album/61prW69rxU0bTRWQ9Uju2C"
+      },
+      "artists": [
+        {
+          "name": "Vieja Trova Santiaguera",
+          "url": "https://open.spotify.com/artist/2t7ndReOwR0bTqTaDxYa9G"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195219,
+      "name": "Zun Zun Paloma",
+      "url": "https://open.spotify.com/track/4bLWcSxLbBfxRCXGyuwJvR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZLN2cXno63R"

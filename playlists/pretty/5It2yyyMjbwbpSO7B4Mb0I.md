@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5It2yyyMjbwbpSO7B4Mb0I.md) - [plain]
 
 > El playlist con la música más caliente del mundo latino!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 458 likes - 66 songs - 3 hr 40 min
+[Digster](https://open.spotify.com/user/digster.fm) - 478 likes - 66 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/5It2yyyMjbwbpSO7B4Mb0I.md) - [plain]
 | 9 | [Tequila Sunrise](https://open.spotify.com/track/1sD32hk8V2vR4ME7M0rPT5) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Tequila Sunrise](https://open.spotify.com/album/3l8AkEiLKIulRlcFwY4frk) | 3:54 |
 | 10 | [Mambo A Los Haters](https://open.spotify.com/track/72Bea7DST6MdueMoUYZL80) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Mambo A Los Haters](https://open.spotify.com/album/1dlel11MJRz6HPFw8wBbdp) | 3:19 |
 | 11 | [Buyaka](https://open.spotify.com/track/2rWqS3ftIPB9SrgZKwpGiX) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Buyaka](https://open.spotify.com/album/0SzAVkftk26b6X3mEUqQ7D) | 2:33 |
-| 12 | [Todo Bien](https://open.spotify.com/track/4Yh1LSAj3nsbaTsEIttCSO) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Skinny Man](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Trapical](https://open.spotify.com/artist/1akovilveREPmx1E535jJU) | [Todo Bien](https://open.spotify.com/album/3CIiCfQe0ABxiZAq6dF0wH) | 3:37 |
+| 12 | [Todo Bien](https://open.spotify.com/track/4Yh1LSAj3nsbaTsEIttCSO) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Trapical](https://open.spotify.com/artist/1akovilveREPmx1E535jJU) | [Todo Bien](https://open.spotify.com/album/3CIiCfQe0ABxiZAq6dF0wH) | 3:37 |
 | 13 | [Dónde Nos Vamos A Ver](https://open.spotify.com/track/1zQyjFtJ1H7RcKLfVULRIr) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7) | [Cariño Mío](https://open.spotify.com/album/1ji75N7d6k9Btn72mVLWyj) | 2:56 |
 | 14 | [Runaway](https://open.spotify.com/track/7BuSE9uTIw931wtZYzvZcQ) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Runaway](https://open.spotify.com/album/0PijZTpKNGUvL12y7w4tZF) | 3:20 |
 | 15 | [Abriré La Puerta](https://open.spotify.com/track/0DjnlLskmEjm5mbgo24WwD) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Abriré La Puerta](https://open.spotify.com/album/22FrAgFSCs4c7JCCYczB4n) | 3:36 |

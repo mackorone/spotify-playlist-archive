@@ -1,12 +1,12 @@
 {
   "description": "A deep and concise look at the music that made Country Music what is is today.  Covers eras \n1930's - 1990.",
-  "num_followers": 72686,
+  "num_followers": 78040,
   "original_name": "History of Country Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2NjQ3NiwwMDAwMDAwODAwMDAwMTgwOWFlYTIxNjYwMDAwMDE3NTI3OGIwNGZl",
+  "snapshot_id": "MTY1MTg2NjQ3NiwwMDAwMDAwMGQ5ZjcwZDU0ODIxM2IzNWQzMTkxMzRhMjM4MDg0Y2Jm",
   "tracks": [
     {
       "added_at": "2022-05-06 19:47:56",
@@ -31,8 +31,8 @@
     {
       "added_at": "2022-05-06 19:47:56",
       "album": {
-        "name": "Essential Jimmie Rodgers",
-        "url": "https://open.spotify.com/album/2b63DXyYt94LH9iKBvlMCO"
+        "name": "RCA Country Legends",
+        "url": "https://open.spotify.com/album/6TXhBKNTITmOTWCbHaQKIG"
       },
       "artists": [
         {
@@ -40,15 +40,15 @@
           "url": "https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN"
         }
       ],
-      "duration_ms": 204186,
+      "duration_ms": 203800,
       "name": "Blue Yodel (T for Texas)",
-      "url": "https://open.spotify.com/track/7xTEHj4Qn4Z4qeOKTphV4R"
+      "url": "https://open.spotify.com/track/2pzpApfqE2LaXW5StD1FUA"
     },
     {
       "added_at": "2022-05-06 19:47:56",
       "album": {
         "name": "Mountain Ballads and Old-Time Songs",
-        "url": "https://open.spotify.com/album/7iMSYXcwED1lOMEoNnLzi1"
+        "url": "https://open.spotify.com/album/2B5KwIYnFejB10SYYikVFI"
       },
       "artists": [
         {
@@ -58,7 +58,7 @@
       ],
       "duration_ms": 205880,
       "name": "Barbara Allen",
-      "url": "https://open.spotify.com/track/4Ip5zk0Ggg9c7t9K9MjVQC"
+      "url": "https://open.spotify.com/track/7IKviaNxgzeaTe5L4xABaS"
     },
     {
       "added_at": "2022-05-06 19:47:56",
@@ -215,8 +215,8 @@
     {
       "added_at": "2022-05-06 19:47:56",
       "album": {
-        "name": "Mountain Dew",
-        "url": "https://open.spotify.com/album/4jFlvRqA5hb6KnQxH3Wap3"
+        "name": "Complete King Recordings 1943-1956 - Volume 2 Of Four (Original King Recordings)",
+        "url": "https://open.spotify.com/album/1TXPDEHNJspu6tL4xL0osA"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD"
         }
       ],
-      "duration_ms": 165186,
-      "name": "Mountain Dew",
-      "url": "https://open.spotify.com/track/5d6ghHY3rguKu4NR68rvtH"
+      "duration_ms": 165106,
+      "name": "Mountain Dew - Original King Recordings",
+      "url": "https://open.spotify.com/track/4Ygk7VMmn6izMPf0TSBayF"
     },
     {
       "added_at": "2022-05-06 19:47:56",
@@ -283,8 +283,8 @@
     {
       "added_at": "2022-05-06 19:47:56",
       "album": {
-        "name": "The King of Country",
-        "url": "https://open.spotify.com/album/5IL280VXMuFzpMiIIdSESH"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0wRceJqjya1BV4iV1dmHwF"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
         }
       ],
-      "duration_ms": 160173,
-      "name": "Great Speckled Bird",
-      "url": "https://open.spotify.com/track/73GgHC9lkVsEyVW9gp1X0E"
+      "duration_ms": 163400,
+      "name": "The Great Speckled Bird",
+      "url": "https://open.spotify.com/track/0SyItgjx7nI4uOb3a3Esh7"
     },
     {
       "added_at": "2022-05-06 19:47:56",
@@ -445,7 +445,7 @@
         }
       ],
       "duration_ms": 148933,
-      "name": "It Wasn't God Who Made Honky Tonk Angels - Single Version",
+      "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
       "url": "https://open.spotify.com/track/5WVIefy07taIktufdiA90m"
     },
     {
@@ -723,18 +723,22 @@
     {
       "added_at": "2022-05-06 19:47:56",
       "album": {
-        "name": "Lovesick Blues (August 1947-December 1948)",
-        "url": "https://open.spotify.com/album/6vskY4scqdIcqqJCBV6fUp"
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
       },
       "artists": [
         {
           "name": "Hank Williams",
           "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
         }
       ],
-      "duration_ms": 165680,
+      "duration_ms": 166200,
       "name": "Honky Tonkin'",
-      "url": "https://open.spotify.com/track/060t6chRq0DIRuZfcporgB"
+      "url": "https://open.spotify.com/track/20aorkzugOSwPcXGZf9eCv"
     },
     {
       "added_at": "2022-05-06 19:47:56",
@@ -983,8 +987,8 @@
     {
       "added_at": "2022-05-06 19:47:56",
       "album": {
-        "name": "Harper Valley P.T.A.",
-        "url": "https://open.spotify.com/album/6bG7IjqrUcg8S1QIAjxJs3"
+        "name": "Harper Valley P.T.A. (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/1Us8ogvoRbdISewY69UE43"
       },
       "artists": [
         {
@@ -992,9 +996,9 @@
           "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
         }
       ],
-      "duration_ms": 194515,
-      "name": "Harper Valley P.T.A.",
-      "url": "https://open.spotify.com/track/6dKkejSuZPJcVQvQ26nott"
+      "duration_ms": 195000,
+      "name": "Harper Valley P.T.A. - Remastered 2022",
+      "url": "https://open.spotify.com/track/63EQVLdtGL6rZf8mPKW7QY"
     },
     {
       "added_at": "2022-05-06 19:47:56",
@@ -1596,7 +1600,7 @@
       "added_at": "2022-05-06 19:47:56",
       "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
+        "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
       },
       "artists": [
         {
@@ -1606,27 +1610,23 @@
       ],
       "duration_ms": 167426,
       "name": "Honky Tonk Man",
-      "url": "https://open.spotify.com/track/3Hbm5luuxJheCKJheYAVbZ"
+      "url": "https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH"
     },
     {
       "added_at": "2022-05-06 19:47:56",
       "album": {
-        "name": "Rhino Hi-Five: Dwight Yoakam",
-        "url": "https://open.spotify.com/album/1riOmyzZwqxByj20hBMD3J"
+        "name": "Buenas Noches From a Lonely Room",
+        "url": "https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx"
       },
       "artists": [
         {
           "name": "Dwight Yoakam",
           "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        },
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 169560,
-      "name": "Streets of Bakersfield (with Buck Owens) - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3pYZlqrcvbWnw2FWnZtUrI"
+      "duration_ms": 168213,
+      "name": "Streets of Bakersfield",
+      "url": "https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f"
     },
     {
       "added_at": "2022-05-06 19:47:56",

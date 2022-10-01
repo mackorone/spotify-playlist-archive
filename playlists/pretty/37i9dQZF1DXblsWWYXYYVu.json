@@ -1,13 +1,181 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 64940,
+  "num_followers": 68545,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI1MjkyMCwwMDAwMDA1MDAwMDAwMTgxZGJmOGJiNTYwMDAwMDE2ZDE1MTg0ZTc2",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDlmYWJlMDJkZDc4NGI1MjExMGI4ZDE5ZjQ3Zjc0NjYy",
   "tracks": [
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Love Is Letting Go (feat. Diane Keaton)",
+        "url": "https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        },
+        {
+          "name": "Diane Keaton",
+          "url": "https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7"
+        }
+      ],
+      "duration_ms": 154865,
+      "name": "Love Is Letting Go (feat. Diane Keaton)",
+      "url": "https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ"
+    },
+    {
+      "added_at": "2022-08-10 17:22:16",
+      "album": {
+        "name": "Life Ain't Always Pretty",
+        "url": "https://open.spotify.com/album/1gclZGnEWXEl84IK0xRwb0"
+      },
+      "artists": [
+        {
+          "name": "Brett Sheroky",
+          "url": "https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Life Ain't Always Pretty",
+      "url": "https://open.spotify.com/track/1BNvU8Mn5aHnq0SxBIUoV4"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "You and Me On The Rock (In The Canyon Haze)",
+        "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "You and Me On The Rock (In The Canyon Haze)",
+      "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "I Built a Fire",
+        "url": "https://open.spotify.com/album/2xHXt469EhlfjfWd15ZJTe"
+      },
+      "artists": [
+        {
+          "name": "Michael Waite",
+          "url": "https://open.spotify.com/artist/1zsZIdjHBdFZbc3o6cDg0n"
+        }
+      ],
+      "duration_ms": 234921,
+      "name": "I Built a Fire",
+      "url": "https://open.spotify.com/track/5plnYnHtDhx07GQ7Y6U9x1"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Quitting (The Way I Wrote It)",
+        "url": "https://open.spotify.com/album/3QFX3aPTIkkjZkEK2V4boI"
+      },
+      "artists": [
+        {
+          "name": "Ian McConnell",
+          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
+        }
+      ],
+      "duration_ms": 152543,
+      "name": "Quitting (The Way I Wrote It)",
+      "url": "https://open.spotify.com/track/5MFD8psq13YEL9HdqTBGeJ"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Only Child",
+      "url": "https://open.spotify.com/track/2h5ojbptFkRmt4f6PIFmSf"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Hang On To Me",
+        "url": "https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL"
+      },
+      "artists": [
+        {
+          "name": "Natalie Taylor",
+          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+        },
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Hang On To Me",
+      "url": "https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Trust in the Blue",
+        "url": "https://open.spotify.com/album/77dYW0aAyRB2Nevl1SLgk8"
+      },
+      "artists": [
+        {
+          "name": "Ram Dass",
+          "url": "https://open.spotify.com/artist/0qXTvVI7Tgb1eA1fTgdxGk"
+        }
+      ],
+      "duration_ms": 200539,
+      "name": "Trust in the Blue",
+      "url": "https://open.spotify.com/track/0fzpLt2rI73GWQSiMfHs7w"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Hey Violet",
+        "url": "https://open.spotify.com/album/3g8a0S9HAFSyz62YeIqpHu"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 173723,
+      "name": "Hey Violet",
+      "url": "https://open.spotify.com/track/3wtJr6QAJaMjH2IqBzQ4XY"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Love Letter From The Sea to The Shore",
+        "url": "https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "Love Letter From The Sea to The Shore",
+      "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
+    },
     {
       "added_at": "2022-07-08 04:02:00",
       "album": {
@@ -16,7 +184,7 @@
       },
       "artists": [
         {
-          "name": "Garrett Nash",
+          "name": "gnash",
           "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
         }
       ],
@@ -180,7 +348,7 @@
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Far Side of the World",
-        "url": "https://open.spotify.com/album/4QgzaZ3hmSQlfc6vHo3LK3"
+        "url": "https://open.spotify.com/album/5dpUh5bWCdCrsQCovr25vh"
       },
       "artists": [
         {
@@ -194,7 +362,7 @@
       ],
       "duration_ms": 176727,
       "name": "Far Side of the World",
-      "url": "https://open.spotify.com/track/0nnLkKVp5uL2o1mCSPD45x"
+      "url": "https://open.spotify.com/track/5JAnepWYVyWqJBQlJuZhfD"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -248,7 +416,7 @@
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Texas Blue",
-        "url": "https://open.spotify.com/album/3AwtSFoY4bVeoKHHZlnerA"
+        "url": "https://open.spotify.com/album/1PJmolhLIF5L2krvACKHO6"
       },
       "artists": [
         {
@@ -258,7 +426,7 @@
       ],
       "duration_ms": 176169,
       "name": "Loretta",
-      "url": "https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ"
+      "url": "https://open.spotify.com/track/3yOxX5lkU785X327fhMWdk"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -344,7 +512,7 @@
       "added_at": "2021-11-19 15:02:19",
       "album": {
         "name": "Breathe",
-        "url": "https://open.spotify.com/album/2ONf4BzMSosulZR05NxdTz"
+        "url": "https://open.spotify.com/album/4xWtA8LqGtCavhLcd6dSqt"
       },
       "artists": [
         {
@@ -354,7 +522,7 @@
       ],
       "duration_ms": 137983,
       "name": "Breathe",
-      "url": "https://open.spotify.com/track/16SKS0Na572RmGeajx7ker"
+      "url": "https://open.spotify.com/track/0x1TV5GIh3Bb1uOHGM8CPV"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -704,7 +872,7 @@
       "added_at": "2021-04-19 17:11:28",
       "album": {
         "name": "Sides",
-        "url": "https://open.spotify.com/album/7JCQA4uw0BpFSlvO1PYgRE"
+        "url": "https://open.spotify.com/album/5ZvsZpIUyeslcbkaICxJP5"
       },
       "artists": [
         {
@@ -714,7 +882,7 @@
       ],
       "duration_ms": 182186,
       "name": "Stupid Heart",
-      "url": "https://open.spotify.com/track/49LO8TA171dpEzwGZlBO91"
+      "url": "https://open.spotify.com/track/6flMnPKgGGP9YDM6CmlLBc"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -736,7 +904,7 @@
       "added_at": "2021-04-19 17:11:28",
       "album": {
         "name": "Front Porch",
-        "url": "https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5"
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
       "artists": [
         {
@@ -746,7 +914,7 @@
       ],
       "duration_ms": 235586,
       "name": "The Trouble with Wanting",
-      "url": "https://open.spotify.com/track/3UCFF2DMI2rbjusEuXHr5O"
+      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -847,8 +1015,8 @@
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "Sit Here And Love Me",
-        "url": "https://open.spotify.com/album/1uxkoe2SMjfBabPr6MWSJP"
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
       },
       "artists": [
         {
@@ -858,7 +1026,7 @@
       ],
       "duration_ms": 205080,
       "name": "Sit Here And Love Me",
-      "url": "https://open.spotify.com/track/3HNmRvdUy8Ms0iefdvM0nk"
+      "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -975,8 +1143,8 @@
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "Jealous Of Birds",
-        "url": "https://open.spotify.com/album/1wvJvb2k412nebCXAsNuMW"
+        "name": "Jealous of Birds",
+        "url": "https://open.spotify.com/album/3b1uVZTRJF71DRH1qhEEUG"
       },
       "artists": [
         {
@@ -985,14 +1153,14 @@
         }
       ],
       "duration_ms": 192080,
-      "name": "Jealous Of Birds",
-      "url": "https://open.spotify.com/track/6nuoNN62XI74sF1MehARgZ"
+      "name": "Jealous of Birds",
+      "url": "https://open.spotify.com/track/5A6k7MKg3gUMwT1Z9TCRKb"
     },
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "Who You Thought I Was",
-        "url": "https://open.spotify.com/album/0u304dS5xSEUfnoGfn28DJ"
+        "name": "Your Life Is a Record",
+        "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
       },
       "artists": [
         {
@@ -1002,13 +1170,13 @@
       ],
       "duration_ms": 189173,
       "name": "Who You Thought I Was",
-      "url": "https://open.spotify.com/track/133KAxvet0NOf3QNfdtJ7v"
+      "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
     },
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "make believe",
-        "url": "https://open.spotify.com/album/4v5FIKvi2HgnjJxmsBzJl4"
+        "name": "can't say we didn't try",
+        "url": "https://open.spotify.com/album/7nucvlUXMw1LYrgb5YFwtF"
       },
       "artists": [
         {
@@ -1018,7 +1186,7 @@
       ],
       "duration_ms": 151363,
       "name": "make believe",
-      "url": "https://open.spotify.com/track/6btp8C9tzrkVPFzwIhOByv"
+      "url": "https://open.spotify.com/track/7xPMgzG0gtBPBmaEDVhblh"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -1039,8 +1207,8 @@
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "Stand Like an Oak",
-        "url": "https://open.spotify.com/album/3hMbzAsZb8Wl78Ob7aGhGO"
+        "name": "Stand Like An Oak",
+        "url": "https://open.spotify.com/album/2HcVT6N62n55L2TAMDgqid"
       },
       "artists": [
         {
@@ -1049,8 +1217,8 @@
         }
       ],
       "duration_ms": 181988,
-      "name": "Stand Like an Oak",
-      "url": "https://open.spotify.com/track/6VXHUPu7zooSbuu8ZyKu9M"
+      "name": "Stand Like An Oak",
+      "url": "https://open.spotify.com/track/7m7D0k9Whqisn2eDyVrPNO"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -1088,7 +1256,7 @@
       "added_at": "2021-04-19 17:11:28",
       "album": {
         "name": "Old Dominion",
-        "url": "https://open.spotify.com/album/55uC8u8BqPgA4LGWALnOK3"
+        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
       },
       "artists": [
         {
@@ -1096,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 186520,
+      "duration_ms": 186240,
       "name": "One Man Band",
-      "url": "https://open.spotify.com/track/3ksmU0DaEUMEVzx5V6cc3z"
+      "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -1119,8 +1287,8 @@
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "More Hearts Than Mine",
-        "url": "https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5"
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
       },
       "artists": [
         {
@@ -1128,15 +1296,15 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 214160,
+      "duration_ms": 214786,
       "name": "More Hearts Than Mine",
-      "url": "https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz"
+      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
     },
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
         "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/2IcmfT1b5m1wWrJI1ZVAUa"
+        "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
       },
       "artists": [
         {
@@ -1146,13 +1314,13 @@
       ],
       "duration_ms": 227222,
       "name": "My Old Man",
-      "url": "https://open.spotify.com/track/6OzujJBXwYPxJ7KeqflLtr"
+      "url": "https://open.spotify.com/track/0jyYstiiibkN6xlS7INejg"
     },
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
         "name": "Both Ways",
-        "url": "https://open.spotify.com/album/0P5Gw1os7s0rzcDWwrE7hx"
+        "url": "https://open.spotify.com/album/1lCMPLXpxu11jKDngB9w8L"
       },
       "artists": [
         {
@@ -1162,7 +1330,7 @@
       ],
       "duration_ms": 257741,
       "name": "Next Year",
-      "url": "https://open.spotify.com/track/5DPwUwH9MouCDdHw5tw3LA"
+      "url": "https://open.spotify.com/track/5nnIvP82ykJuI60Bov5n3f"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -1263,22 +1431,6 @@
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "The Essence of Me",
-        "url": "https://open.spotify.com/album/3ld5yn7a5fLuaDDWpSp8ZG"
-      },
-      "artists": [
-        {
-          "name": "Raquel Cole",
-          "url": "https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF"
-        }
-      ],
-      "duration_ms": 199066,
-      "name": "Find the One",
-      "url": "https://open.spotify.com/track/4wQXTdCIapsqFASz3FfYE3"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/0HohoNniglpDithTFEnqaW"
       },
@@ -1296,7 +1448,7 @@
       "added_at": "2021-04-19 17:11:28",
       "album": {
         "name": "These Walls",
-        "url": "https://open.spotify.com/album/1IgdpQxKTlJur7hcQoR4Pu"
+        "url": "https://open.spotify.com/album/5YsYLuzSXAmzuwLaDpEmp8"
       },
       "artists": [
         {
@@ -1306,7 +1458,7 @@
       ],
       "duration_ms": 193821,
       "name": "These Walls",
-      "url": "https://open.spotify.com/track/4Q1LDkmAOY2bs4U9A4jCOT"
+      "url": "https://open.spotify.com/track/4STGoSPoTjY7ia71t3XdOS"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -1376,7 +1528,7 @@
       "added_at": "2021-04-19 17:11:28",
       "album": {
         "name": "Leaving Thomas",
-        "url": "https://open.spotify.com/album/0Nc0yM6xYEelLRf0l4gR6B"
+        "url": "https://open.spotify.com/album/21po9l566bWUa58JM9aJKf"
       },
       "artists": [
         {
@@ -1385,8 +1537,8 @@
         }
       ],
       "duration_ms": 227676,
-      "name": "Heart In Me",
-      "url": "https://open.spotify.com/track/7yiV9vNPteAL9Y4U8810vh"
+      "name": "Heart in Me",
+      "url": "https://open.spotify.com/track/3dd8oxITNLTLaRybjDTA4s"
     },
     {
       "added_at": "2021-04-19 17:11:28",
@@ -1455,22 +1607,6 @@
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "Walk Through Fire",
-        "url": "https://open.spotify.com/album/1ZNrtxvfN5AqL3KYmlGiQ6"
-      },
-      "artists": [
-        {
-          "name": "Colton Venner",
-          "url": "https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "You Can't Do Enough",
-      "url": "https://open.spotify.com/track/759pX6ms3foc1dxBzPfT1U"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
         "name": "Wrong Side of Goodbye (Reimagined)",
         "url": "https://open.spotify.com/album/7lbcv8zWEcRjWd6XJs2ueK"
       },
@@ -1487,22 +1623,6 @@
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "There You Are",
-        "url": "https://open.spotify.com/album/2XATcnL3lJFJPqGFj7Dmhl"
-      },
-      "artists": [
-        {
-          "name": "Brandon Jenner",
-          "url": "https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x"
-        }
-      ],
-      "duration_ms": 185190,
-      "name": "There You Are",
-      "url": "https://open.spotify.com/track/6PD7iSh23einHGUSxySwfR"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
         "name": "Run on Ahead",
         "url": "https://open.spotify.com/album/2drOB2NKBpXv5PU00Rhhc8"
       },
@@ -1515,118 +1635,6 @@
       "duration_ms": 281927,
       "name": "Run on Ahead",
       "url": "https://open.spotify.com/track/6HQSHdS5IPOU3jme7TlsHs"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "A Few Days",
-        "url": "https://open.spotify.com/album/71uN4BV7Vb8c1CanxlHVGV"
-      },
-      "artists": [
-        {
-          "name": "Summer Overstreet",
-          "url": "https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz"
-        }
-      ],
-      "duration_ms": 187671,
-      "name": "A Few Days",
-      "url": "https://open.spotify.com/track/7JFj0OKnXDafgLc7LNPl9w"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "For Who You Are",
-        "url": "https://open.spotify.com/album/5LX8mDeAJsTDLjI3DrT8NE"
-      },
-      "artists": [
-        {
-          "name": "Eric Lee",
-          "url": "https://open.spotify.com/artist/4YctQpJB8K4FYJwM03A6e5"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "For Who You Are",
-      "url": "https://open.spotify.com/track/66FzvLilvqQYeqGlJmNSnF"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "I Remember Everything",
-        "url": "https://open.spotify.com/album/4tpKYRzS2AZIB0N7s0Woms"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "I Remember Everything",
-      "url": "https://open.spotify.com/track/1eZAhlXyK6XMIQbrfgiGd5"
-    },
-    {
-      "added_at": "2021-08-27 04:01:00",
-      "album": {
-        "name": "Til the River Takes Us Home",
-        "url": "https://open.spotify.com/album/3fDaftBNXBv1wNCGUmi7Ms"
-      },
-      "artists": [
-        {
-          "name": "Sam Teskey",
-          "url": "https://open.spotify.com/artist/5tXk98OKpmBXhjUkBsQxfZ"
-        }
-      ],
-      "duration_ms": 261013,
-      "name": "Til the River Takes Us Home",
-      "url": "https://open.spotify.com/track/3EiIk1CUYBxFhDo2c38Elp"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Tell Yourself",
-        "url": "https://open.spotify.com/album/1vmA539j5gJu68QEVTUcaM"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 172990,
-      "name": "Tell Yourself",
-      "url": "https://open.spotify.com/track/547AL64WHNaxc300apZx0V"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 161706,
-      "name": "judas",
-      "url": "https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "The Wire",
-        "url": "https://open.spotify.com/album/5uGY2LlTNOED1mwx8alln1"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 186049,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/2htzEakktoAB6bxDtA6iQi"
     }
   ],
   "unique_name": "Take it Slow",

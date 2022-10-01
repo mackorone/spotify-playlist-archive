@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnT3D0off4y.md) - [plain]
 
 > The official Ozark playlist with all the music from Season 4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,973 likes - 34 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,853 likes - 34 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnT3D0off4y.md) - [plain]
 | 29 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 |
 | 30 | [Namuh](https://open.spotify.com/track/2OhgVksO3lHX46gyrMTq6I) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [On the Mountain](https://open.spotify.com/album/7DwNg5AkuHEk4Of10oxrkZ) | 7:50 |
 | 31 | [My Evil Mind](https://open.spotify.com/track/4NrwCLspkSaUx4u5YyyXs2) | [Jack Cook](https://open.spotify.com/artist/2ALZKc8QSXDQG8ZY5MioZ6) | [My Evil Mind](https://open.spotify.com/album/0luvhfkVkUQIJN0tQsfvui) | 2:13 |
-| 32 | [You Bore Me](https://open.spotify.com/track/6jQy0arv30xWHWm2hjz7hy) | [Husky Loops](https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9) | [You Bore Me](https://open.spotify.com/album/1DgVLoZUwtIQfL1XKmD5oV) | 2:30 |
+| 32 | [You Bore Me](https://open.spotify.com/track/3SaRmjj9eYqgHJ0mLcx7QR) | [Husky Loops](https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9) | [You Bore Me](https://open.spotify.com/album/6VtXZnqbvUQGkVMf00WtLC) | 2:30 |
 | 33 | [Here In Spirit](https://open.spotify.com/track/5GE8FTL15kS123apRK7vD4) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL) | 4:16 |
 | 34 | [I Feel Sanctified](https://open.spotify.com/track/2WXv5t8wG3V3zCxGrYJtuL) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Machine Gun](https://open.spotify.com/album/4OghKaRV54hQKGhkpD5cLC) | 3:44 |
 
-Snapshot ID: `MTY1MTIwNDkyMCwwMDAwMDAwMzAwMDAwMTgwNzM3YjkzMjYwMDAwMDE4MDFmMDlkYzll`
+Snapshot ID: `MTY1MTIwNDkyMCwwMDAwMDAwMDY4ZTUxMjRiNGE0NDJlNTA4YjczNGUxNzU2MjgyNmI3`

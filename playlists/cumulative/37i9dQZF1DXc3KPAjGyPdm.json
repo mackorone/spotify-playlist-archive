@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Collection of Pop Classics",
+        "url": "https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ"
+      },
+      "artists": [
+        {
+          "name": "Reagan Youth",
+          "url": "https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb"
+        }
+      ],
+      "date_added": "2017-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82106,
+      "name": "(You're A) Go Nowhere",
+      "url": "https://open.spotify.com/track/4e86fqSFhqRQk3Z9hm7XHt"
+    },
+    {
+      "album": {
         "name": "Higher And Higher",
         "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
       },
@@ -229,10 +247,28 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212549,
       "name": "All Your Reasons Why",
       "url": "https://open.spotify.com/track/3A5CIQdQHExhSPHnYaQKvx"
+    },
+    {
+      "album": {
+        "name": "Foreign Fields: 1982 - 1984",
+        "url": "https://open.spotify.com/album/37TrDI6hFUbEvQpcho9Afk"
+      },
+      "artists": [
+        {
+          "name": "Smart Remarks",
+          "url": "https://open.spotify.com/artist/0CJrc1epNvgZnDdW46XFi7"
+        }
+      ],
+      "date_added": "2019-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212549,
+      "name": "All Your Reasons Why",
+      "url": "https://open.spotify.com/track/6UewIOzbYSn1hkWGjWqAwt"
     },
     {
       "album": {
@@ -525,10 +561,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201750,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/04xLqOwtmMjz74y9bM677s"
+    },
+    {
+      "album": {
+        "name": "The Warmth Of The Sun",
+        "url": "https://open.spotify.com/album/2dZC8JN4oGdw4BrRzmvS4m"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "California Dreamin' - 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/4MHzXgBy7hexDe2Bto11hP"
     },
     {
       "album": {
@@ -586,6 +640,28 @@
     },
     {
       "album": {
+        "name": "Diner Jukebox",
+        "url": "https://open.spotify.com/album/2Wb6hbl4BRoPC2iqfEq8je"
+      },
+      "artists": [
+        {
+          "name": "Andrea Litkei",
+          "url": "https://open.spotify.com/artist/67WiEEjHCFYaxyAbs7OXp8"
+        },
+        {
+          "name": "Ervin Litkei",
+          "url": "https://open.spotify.com/artist/5UjzFfveBtER1Oivoaa9X8"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148140,
+      "name": "Chica Mejicanita",
+      "url": "https://open.spotify.com/track/3e32W5lpa5cQRyHTq07PrJ"
+    },
+    {
+      "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
       },
@@ -597,7 +673,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147918,
       "name": "Chica Mejicanita",
       "url": "https://open.spotify.com/track/0AGn0rftzma9ZB0qSuhSbB"
@@ -730,6 +806,24 @@
     },
     {
       "album": {
+        "name": "Smashes Thrashes & Hits",
+        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228560,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
+    },
+    {
+      "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
       },
@@ -741,7 +835,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215950,
       "name": "Detroit Rock City - Single Version",
       "url": "https://open.spotify.com/track/5CEPvqyRi6eTpR1njYlG3O"
@@ -820,6 +914,24 @@
     },
     {
       "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196840,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
+    },
+    {
+      "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
       },
@@ -835,7 +947,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186583,
       "name": "Dream a Little Dream of Me",
       "url": "https://open.spotify.com/track/1LqHJtbJ7TLxer59vF25Hc"
@@ -907,10 +1019,28 @@
       ],
       "date_added": "2017-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295413,
       "name": "Elegia",
       "url": "https://open.spotify.com/track/3MXfueQqoiF93unHCQZos2"
+    },
+    {
+      "album": {
+        "name": "Low-Life",
+        "url": "https://open.spotify.com/album/6ls958BLJbeFT3OqAYTvQB"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "date_added": "2017-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296080,
+      "name": "Elegia - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2Xs7CP4Gw8wJ8qX8fkrCAB"
     },
     {
       "album": {
@@ -1213,7 +1343,7 @@
       ],
       "date_added": "2017-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 82106,
       "name": "Go Nowhere",
       "url": "https://open.spotify.com/track/28CzlFHHxBf68YfOPqm8O2"
@@ -1256,6 +1386,24 @@
     },
     {
       "album": {
+        "name": "The Classic Tangerine Dream Collection",
+        "url": "https://open.spotify.com/album/3ph7W7yg0CMMGFt1fz1kZC"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "date_added": "2017-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1167933,
+      "name": "Green Desert",
+      "url": "https://open.spotify.com/track/64GBZ6L30zEVpueOwAnMT8"
+    },
+    {
+      "album": {
         "name": "Green Desert",
         "url": "https://open.spotify.com/album/5pZctP7eWAO9ydYehBMi5G"
       },
@@ -1267,7 +1415,7 @@
       ],
       "date_added": "2017-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1169400,
       "name": "Green Desert",
       "url": "https://open.spotify.com/track/4gyVqc6qrbg9hcPrltI4SX"
@@ -1465,10 +1613,46 @@
       ],
       "date_added": "2017-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1250160,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/1HME3FfC58ubkL0cI7SWNJ"
+    },
+    {
+      "album": {
+        "name": "Poland",
+        "url": "https://open.spotify.com/album/1URQFHP1ft9ctbqqRwiuXP"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "date_added": "2017-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1250160,
+      "name": "Horizon - Live",
+      "url": "https://open.spotify.com/track/38PWU1hacLAxfLuKmJ8yvs"
+    },
+    {
+      "album": {
+        "name": "Feels Like The First Time",
+        "url": "https://open.spotify.com/album/2PkF7dq9jpgTbSN4y3AHdN"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "date_added": "2019-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186585,
+      "name": "Hot Blooded",
+      "url": "https://open.spotify.com/track/6gCP660eV7ei22kPcAlmPk"
     },
     {
       "album": {
@@ -1483,7 +1667,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188586,
       "name": "Hot Blooded",
       "url": "https://open.spotify.com/track/1mGeOLc6quenMZHF1ZDVvP"
@@ -1519,10 +1703,28 @@
       ],
       "date_added": "2017-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228666,
       "name": "I Melt with You (7\" Mix)",
       "url": "https://open.spotify.com/track/0Cc1TGI0VBQDltJJ4a4dmj"
+    },
+    {
+      "album": {
+        "name": "After the Snow",
+        "url": "https://open.spotify.com/album/4vRPqgP624nl5Nupi3AxzZ"
+      },
+      "artists": [
+        {
+          "name": "Modern English",
+          "url": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
+        }
+      ],
+      "date_added": "2017-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230066,
+      "name": "I Melt with You (7\" Mix)",
+      "url": "https://open.spotify.com/track/24y09nBEJNRP46uA0FRQQ2"
     },
     {
       "album": {
@@ -1555,10 +1757,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183589,
       "name": "I Was A Teenage Werewolf",
       "url": "https://open.spotify.com/track/43StRaT5CenByVyJWFdGp3"
+    },
+    {
+      "album": {
+        "name": "Songs The Lord Taught Us",
+        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183866,
+      "name": "I Was A Teenage Werewolf - Remastered",
+      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
     },
     {
       "album": {
@@ -1573,10 +1793,28 @@
       ],
       "date_added": "2017-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 148821,
       "name": "I'm Taking off (Shield Your Eyes)",
       "url": "https://open.spotify.com/track/1Nw16im3KSKlWZpIwuXZAv"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/5M7gYsDTO88S929gVn4vHl"
+      },
+      "artists": [
+        {
+          "name": "Space Knife",
+          "url": "https://open.spotify.com/artist/3XdNLIFjXuqP4qUrls2WrL"
+        }
+      ],
+      "date_added": "2017-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148821,
+      "name": "I'm Taking off (Shield Your Eyes)",
+      "url": "https://open.spotify.com/track/4IGHL63JpwPV0PuK6V59EE"
     },
     {
       "album": {
@@ -1791,10 +2029,48 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171520,
       "name": "La Traviata / Act 1: \"Libiamo ne' lieti calici\" (Brindisi)",
       "url": "https://open.spotify.com/track/06xXOoiTp2xi8iUh3wKj2Y"
+    },
+    {
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/2SlDrNnAloO1uL0cUOf8bg"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "The London Opera Chorus",
+          "url": "https://open.spotify.com/artist/3RIfkcDRrJkrLteTN46oHJ"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2019-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167026,
+      "name": "La traviata / Act 1: Libiamo ne'lieti calici",
+      "url": "https://open.spotify.com/track/2zGVfygrdGVKCZ54sxCaQH"
     },
     {
       "album": {
@@ -1831,6 +2107,24 @@
       "duration_ms": 122466,
       "name": "Legless",
       "url": "https://open.spotify.com/track/2sD2NNgnmxfKeyjNsgavMu"
+    },
+    {
+      "album": {
+        "name": "Les Choeurs de l'Arm\u00e9e Rouge chantent No\u00ebl",
+        "url": "https://open.spotify.com/album/40ZnZWsnlbIqENne58xtF0"
+      },
+      "artists": [
+        {
+          "name": "The Red Army Choir",
+          "url": "https://open.spotify.com/artist/4yNluGAiPbYXLwlA9KspbG"
+        }
+      ],
+      "date_added": "2019-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310216,
+      "name": "Les rossignols de Russie",
+      "url": "https://open.spotify.com/track/5EygvzWTZpb7aBkNZoY4Fh"
     },
     {
       "album": {
@@ -2098,6 +2392,24 @@
     },
     {
       "album": {
+        "name": "Object of My Desire",
+        "url": "https://open.spotify.com/album/61WSKA1WUdkzMthO4GCT2T"
+      },
+      "artists": [
+        {
+          "name": "Starpoint",
+          "url": "https://open.spotify.com/artist/6W9OZQ862LR0HM76QQJJY3"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237124,
+      "name": "Object of My Desire (Edit) - Remix",
+      "url": "https://open.spotify.com/track/2ckOfwlzzvY2rY7OrIdGHl"
+    },
+    {
+      "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
       },
@@ -2109,7 +2421,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234110,
       "name": "Object Of My Desire - Single Version",
       "url": "https://open.spotify.com/track/7EeACxTQ2CxM8bLu7canMw"
@@ -2163,10 +2475,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202844,
       "name": "Pass the Dutchie",
       "url": "https://open.spotify.com/track/0Z5J7G9K6yeNUBiTJZ033b"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
     },
     {
       "album": {
@@ -2235,10 +2565,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207839,
       "name": "Play With Me",
       "url": "https://open.spotify.com/track/17bWfTHFHFombOWCWjuz9J"
+    },
+    {
+      "album": {
+        "name": "Extreme",
+        "url": "https://open.spotify.com/album/0iWVmKKPVhtOkaMFZcfaiw"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211440,
+      "name": "Play With Me",
+      "url": "https://open.spotify.com/track/6hpPAOftKbe1YghyTtJuCq"
     },
     {
       "album": {
@@ -2325,10 +2673,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258874,
       "name": "Psycho Killer",
       "url": "https://open.spotify.com/track/5uG1n1fvJVJEJuHwHgW1yQ"
+    },
+    {
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "album": {
@@ -2433,10 +2799,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226097,
       "name": "Rock Me Amadeus - The Gold Mix",
       "url": "https://open.spotify.com/track/0CxCB2wrEiTOrjES0GmSdP"
+    },
+    {
+      "album": {
+        "name": "Rock Me Amadeus EP",
+        "url": "https://open.spotify.com/album/6XpXzJTOP95a7GGgeOxY5m"
+      },
+      "artists": [
+        {
+          "name": "Falco",
+          "url": "https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227645,
+      "name": "Rock Me Amadeus - The Gold Mix",
+      "url": "https://open.spotify.com/track/1oCjUrtxUKNITywo5iztdt"
     },
     {
       "album": {
@@ -2471,7 +2855,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 254346,
-      "name": "Rock You Like a Hurricane",
+      "name": "Rock You Like a Hurricane - 2011",
       "url": "https://open.spotify.com/track/1QLyDdhB9gmxbGv0K1kFyT"
     },
     {
@@ -2505,10 +2889,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 300062,
       "name": "Running Up That Hill (A Deal with God)",
       "url": "https://open.spotify.com/track/6VfKhnmbqCj14zcjZNjZTk"
+    },
+    {
+      "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     },
     {
       "album": {
@@ -2929,10 +3331,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229312,
       "name": "Tarzan Boy",
       "url": "https://open.spotify.com/track/2FIzb9lZDUo2PWX4U4TSWZ"
+    },
+    {
+      "album": {
+        "name": "Tarzan Boy: The World Of Baltimora",
+        "url": "https://open.spotify.com/album/3z0bIoLOQwn7CYOz0vUePj"
+      },
+      "artists": [
+        {
+          "name": "Baltimora",
+          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230026,
+      "name": "Tarzan Boy",
+      "url": "https://open.spotify.com/track/6FwMGM0Dtmf0vz6BdIc8uP"
     },
     {
       "album": {
@@ -3055,7 +3475,7 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 314017,
       "name": "The Russian Nightingales",
       "url": "https://open.spotify.com/track/354x27KIdoyF7oo06LjHwA"
@@ -3277,10 +3697,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 140145,
       "name": "Travelin' Man",
       "url": "https://open.spotify.com/track/0ud4DLDefQPNjvVEydOJhJ"
+    },
+    {
+      "album": {
+        "name": "Rick Is 21",
+        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Travelin' Man - Remastered",
+      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
     },
     {
       "album": {
@@ -3581,10 +4019,28 @@
       ],
       "date_added": "2017-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158640,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/2FZzcWnzSyUvFbu7xNLepv"
+    },
+    {
+      "album": {
+        "name": "Freedom of Choice",
+        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "date_added": "2017-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161133,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
     },
     {
       "album": {
@@ -3643,7 +4099,7 @@
     {
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
-        "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
+        "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
       },
       "artists": [
         {
@@ -3654,6 +4110,24 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 133986,
+      "name": "Wipe Out",
+      "url": "https://open.spotify.com/track/1TLB7MJEEO7cwxiBmBUQbf"
+    },
+    {
+      "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
+        "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
+      },
+      "artists": [
+        {
+          "name": "The Surfaris",
+          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 134023,
       "name": "Wipe Out",
       "url": "https://open.spotify.com/track/5yTGv2Mu2O2APZAjMjTRXr"
@@ -3689,10 +4163,28 @@
       ],
       "date_added": "2019-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183066,
       "name": "You Don't Mess Around With Jim",
       "url": "https://open.spotify.com/track/0Z97JEXHiXXHpc4blFKQc6"
+    },
+    {
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "date_added": "2019-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184640,
+      "name": "You Don't Mess Around with Jim",
+      "url": "https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis"
     },
     {
       "album": {
@@ -3707,10 +4199,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194729,
       "name": "You Spin Me Round (Like a Record)",
       "url": "https://open.spotify.com/track/30RE5j3UpEhYUBMTOAhjXv"
+    },
+    {
+      "album": {
+        "name": "Evolution: The Hits",
+        "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "You Spin Me Round (Like a Record)",
+      "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
     },
     {
       "album": {

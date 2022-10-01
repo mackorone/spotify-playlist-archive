@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Kirk Fletcher",
+  "description": "The best in blues right now. Cover: Buddy Guy",
   "name": "Got Blues",
   "published_playlist_ids": [
     "6WXBnoSHTaV1fXgP91Rwcb"
@@ -59,6 +59,24 @@
       "duration_ms": 175143,
       "name": "99 Pounds",
       "url": "https://open.spotify.com/track/4WstfPz3tDUFjpU3vp8VDN"
+    },
+    {
+      "album": {
+        "name": "Ace Of Spades",
+        "url": "https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK"
+      },
+      "artists": [
+        {
+          "name": "Angela Strehli",
+          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156973,
+      "name": "Ace Of Spades",
+      "url": "https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH"
     },
     {
       "album": {
@@ -286,6 +304,24 @@
     },
     {
       "album": {
+        "name": "One Foot In The Groove",
+        "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
+      },
+      "artists": [
+        {
+          "name": "Boneshakers",
+          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265010,
+      "name": "Big Legged Man",
+      "url": "https://open.spotify.com/track/7JDEtVgmR53Yi9S0C1Vktj"
+    },
+    {
+      "album": {
         "name": "Heavy Load Blues",
         "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
       },
@@ -340,6 +376,28 @@
     },
     {
       "album": {
+        "name": "Bob Corritore & Friends: You Shocked Me",
+        "url": "https://open.spotify.com/album/18rXZSxt8oRqSMZChCNEPE"
+      },
+      "artists": [
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Oscar Wilson",
+          "url": "https://open.spotify.com/artist/3Dlel3io4wOjaKcj6YL7rV"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197388,
+      "name": "Blue Blue Water",
+      "url": "https://open.spotify.com/track/6YqNOEJY1xQw1Zbgxa10Bu"
+    },
+    {
+      "album": {
         "name": "Blackbirds",
         "url": "https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf"
       },
@@ -391,10 +449,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 277733,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/5aEHeKYiIJYKh8LE6uE8Do"
+    },
+    {
+      "album": {
+        "name": "Arms of a Lover",
+        "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
     },
     {
       "album": {
@@ -413,6 +489,28 @@
       "duration_ms": 208970,
       "name": "Book of My Blues",
       "url": "https://open.spotify.com/track/5K2s01sTtbulyPO92xh0O7"
+    },
+    {
+      "album": {
+        "name": "Break on Free (Radio Edit)",
+        "url": "https://open.spotify.com/album/6JtVrM7vhAHScW65sijAie"
+      },
+      "artists": [
+        {
+          "name": "St. Paul Peterson",
+          "url": "https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva"
+        },
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226767,
+      "name": "Break on Free (Radio Edit)",
+      "url": "https://open.spotify.com/track/3DSBR09kCm9YmwjZ2p2HSd"
     },
     {
       "album": {
@@ -533,7 +631,7 @@
     {
       "album": {
         "name": "Dear America",
-        "url": "https://open.spotify.com/album/0IwmHFrTRo5Em6d72VNbs3"
+        "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
       },
       "artists": [
         {
@@ -544,6 +642,24 @@
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 227114,
+      "name": "Dear America",
+      "url": "https://open.spotify.com/track/167JkxvuUN2yW8uMZp2zwE"
+    },
+    {
+      "album": {
+        "name": "Dear America",
+        "url": "https://open.spotify.com/album/0IwmHFrTRo5Em6d72VNbs3"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 227114,
       "name": "Dear America",
       "url": "https://open.spotify.com/track/6DYaFGcyQyX87He1OxZeOg"
@@ -684,6 +800,42 @@
     },
     {
       "album": {
+        "name": "Dry Run",
+        "url": "https://open.spotify.com/album/5612RXP6x13O9iP94Sx0YH"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 196939,
+      "name": "Dry Run",
+      "url": "https://open.spotify.com/track/419eddgUScgFJRyqwUV8mZ"
+    },
+    {
+      "album": {
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196939,
+      "name": "Dry Run",
+      "url": "https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE"
+    },
+    {
+      "album": {
         "name": "Easy On The Eyes",
         "url": "https://open.spotify.com/album/3kd1vDgfeU3UsFtDvIUcts"
       },
@@ -695,10 +847,50 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 211819,
       "name": "Easy On The Eyes",
       "url": "https://open.spotify.com/track/1NkI05k92FlfdiCL5BKol6"
+    },
+    {
+      "album": {
+        "name": "End Of The Line [Feat. Aaron Neville]",
+        "url": "https://open.spotify.com/album/6Jej60SOD8fojT5s4HHsGS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        },
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252533,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/2IwhGWbdmfMZMZ9JE4GiDN"
+    },
+    {
+      "album": {
+        "name": "Everything You Got",
+        "url": "https://open.spotify.com/album/5LD4eZGB8oCNCQ4eztNQvl"
+      },
+      "artists": [
+        {
+          "name": "Steve Hill",
+          "url": "https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 202413,
+      "name": "Everything You Got",
+      "url": "https://open.spotify.com/track/2qnPC8AZ3vfCjF7hHBWi93"
     },
     {
       "album": {
@@ -775,6 +967,28 @@
       "duration_ms": 358000,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/34bh0YiU4EwtgtGnEoLjko"
+    },
+    {
+      "album": {
+        "name": "Follow The Money (feat. James Taylor)",
+        "url": "https://open.spotify.com/album/7iC5jkTp3GqdFGjx2wBBYk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Follow The Money (feat. James Taylor)",
+      "url": "https://open.spotify.com/track/4ikAAkBStMneLsxfjcoG4E"
     },
     {
       "album": {
@@ -879,10 +1093,28 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207320,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/3EHUAF57hi6zS7LS9QKzGJ"
+    },
+    {
+      "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207320,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/7FnFu8xkQdB5HtX9sTg4eq"
     },
     {
       "album": {
@@ -976,6 +1208,28 @@
     },
     {
       "album": {
+        "name": "Gunsmoke Blues (feat. Jason Isbell)",
+        "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 188973,
+      "name": "Gunsmoke Blues (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
+    },
+    {
+      "album": {
         "name": "Hangover Blues",
         "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
       },
@@ -1066,6 +1320,24 @@
     },
     {
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259306,
+      "name": "High Is Low",
+      "url": "https://open.spotify.com/track/3yrV9iFHJYULuE8jogoPec"
+    },
+    {
+      "album": {
         "name": "Highest Bidder",
         "url": "https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb"
       },
@@ -1147,6 +1419,24 @@
       "duration_ms": 236038,
       "name": "Holding on with One Hand",
       "url": "https://open.spotify.com/track/6Zi5U36NiSzt0xp5OoXPzu"
+    },
+    {
+      "album": {
+        "name": "Things Happen That Way",
+        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
     },
     {
       "album": {
@@ -1266,6 +1556,24 @@
     },
     {
       "album": {
+        "name": "I Let My Guitar Do The Talking",
+        "url": "https://open.spotify.com/album/1ldh55ODHFyehFYty8YEiq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266826,
+      "name": "I Let My Guitar Do The Talking",
+      "url": "https://open.spotify.com/track/3Zg7MMTH1e5xARor2JDKki"
+    },
+    {
+      "album": {
         "name": "I Like Games",
         "url": "https://open.spotify.com/album/55RkPA2FJj70bBnKFPHjfu"
       },
@@ -1368,6 +1676,28 @@
     },
     {
       "album": {
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/39JLsOUFJjzvKIIXEB8IsJ"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        },
+        {
+          "name": "Levon Helm",
+          "url": "https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222706,
+      "name": "I Wish I Knew How It Would Feel To Be Free",
+      "url": "https://open.spotify.com/track/6w23sxZepVSmRiTLDsP5ou"
+    },
+    {
+      "album": {
         "name": "I Wish I Knew How It Would Feel To Be Free",
         "url": "https://open.spotify.com/album/2zIs5JH5olt903NfR0A1XK"
       },
@@ -1383,7 +1713,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222706,
       "name": "I Wish I Knew How It Would Feel To Be Free",
       "url": "https://open.spotify.com/track/6y1Yxs016r9gSsZhBKszjW"
@@ -1608,6 +1938,24 @@
     },
     {
       "album": {
+        "name": "Just No Getting Over You (Dream Cruise)",
+        "url": "https://open.spotify.com/album/5nAs2igKGjEshXErFX2CQe"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280986,
+      "name": "Just No Getting Over You (Dream Cruise)",
+      "url": "https://open.spotify.com/track/0QCa6CGQJvYs5190mDePQP"
+    },
+    {
+      "album": {
         "name": "Keep The Faith",
         "url": "https://open.spotify.com/album/6pSAFmBfO36ji39xuYu10r"
       },
@@ -1782,6 +2130,24 @@
     },
     {
       "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169569,
+      "name": "Lover's Game",
+      "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
+    },
+    {
+      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -1927,6 +2293,24 @@
       "duration_ms": 227609,
       "name": "Miss Information",
       "url": "https://open.spotify.com/track/53u2pCR5M1BsZM3CiWyAfw"
+    },
+    {
+      "album": {
+        "name": "Mortgage on My Soul",
+        "url": "https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa"
+      },
+      "artists": [
+        {
+          "name": "J.D. Simo",
+          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424626,
+      "name": "Mortgage on My Soul",
+      "url": "https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd"
     },
     {
       "album": {
@@ -2290,6 +2674,24 @@
     },
     {
       "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208415,
+      "name": "Pink Turns To Red",
+      "url": "https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3"
+    },
+    {
+      "album": {
         "name": "Poor Black Children",
         "url": "https://open.spotify.com/album/05tULZEoDObegbsFSLgXAw"
       },
@@ -2474,6 +2876,24 @@
     },
     {
       "album": {
+        "name": "Ready Now",
+        "url": "https://open.spotify.com/album/6kpBj0DkFrvabc4ffDjm3U"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Hall",
+          "url": "https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302053,
+      "name": "Risin' Up",
+      "url": "https://open.spotify.com/track/3SwzJIkMEbLjAK97hEaaLV"
+    },
+    {
+      "album": {
         "name": "Root City",
         "url": "https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob"
       },
@@ -2633,10 +3053,28 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275853,
       "name": "Sitting At Home Alone",
       "url": "https://open.spotify.com/track/1rjhzTMKG8NdgkNKRFnFmi"
+    },
+    {
+      "album": {
+        "name": "Try It...You Might Like It: GA-20 Does Hound Dog Taylor",
+        "url": "https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 275853,
+      "name": "Sitting At Home Alone",
+      "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
     },
     {
       "album": {
@@ -2669,7 +3107,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 239320,
       "name": "Sleeping Dogs Best Left Alone",
       "url": "https://open.spotify.com/track/29ZxWblASXbWazPYJyI8Nl"
@@ -2721,7 +3159,7 @@
     {
       "album": {
         "name": "What Happens Next",
-        "url": "https://open.spotify.com/album/2wVJmrDg19gR4wtCRFDncv"
+        "url": "https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB"
       },
       "artists": [
         {
@@ -2732,6 +3170,24 @@
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 154840,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/29kOOOgYW6OfqblR5Kawqt"
+    },
+    {
+      "album": {
+        "name": "What Happens Next",
+        "url": "https://open.spotify.com/album/2wVJmrDg19gR4wtCRFDncv"
+      },
+      "artists": [
+        {
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 154840,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/4dtYmYgTH5I5uZxUuF5eon"
@@ -3295,7 +3751,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 290560,
       "name": "Three Time Loser",
       "url": "https://open.spotify.com/track/04xqwHdJ1wWnk7AOZYTzuk"
@@ -3454,8 +3910,48 @@
     },
     {
       "album": {
+        "name": "Two Steps From The Blues",
+        "url": "https://open.spotify.com/album/1BHB22TjTZOivmUqVXg9zV"
+      },
+      "artists": [
+        {
+          "name": "Angela Strehli",
+          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157853,
+      "name": "Two Steps From The Blues",
+      "url": "https://open.spotify.com/track/6ehBcXu26w7KT5ZMUHnEBj"
+    },
+    {
+      "album": {
         "name": "Under Your Spell",
         "url": "https://open.spotify.com/album/5k0hBiaEUAwqu54TauMa4T"
+      },
+      "artists": [
+        {
+          "name": "Tito Jackson",
+          "url": "https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173508,
+      "name": "Under Your Spell",
+      "url": "https://open.spotify.com/track/1n4OzgYj9CwubUx7vhf1uD"
+    },
+    {
+      "album": {
+        "name": "Under Your Spell",
+        "url": "https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i"
       },
       "artists": [
         {
@@ -3472,7 +3968,7 @@
       "date_removed": null,
       "duration_ms": 173508,
       "name": "Under Your Spell",
-      "url": "https://open.spotify.com/track/1n4OzgYj9CwubUx7vhf1uD"
+      "url": "https://open.spotify.com/track/6cq0Q5NdeKfO6jjCrAnIov"
     },
     {
       "album": {
@@ -3523,7 +4019,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 350520,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
@@ -3585,6 +4081,28 @@
       "duration_ms": 215946,
       "name": "We Get By",
       "url": "https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn"
+    },
+    {
+      "album": {
+        "name": "We Go Back (feat. Mavis Staples)",
+        "url": "https://open.spotify.com/album/00mf4w80NkJ3G01W3LK7ex"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 279840,
+      "name": "We Go Back (feat. Mavis Staples)",
+      "url": "https://open.spotify.com/track/3BPogMgZeF4e3l71x2ax4w"
     },
     {
       "album": {
@@ -3679,10 +4197,28 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 383360,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/18CdYKjbXZQ1UYpkVUqlin"
+    },
+    {
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/7MNdKioZBeUYQnpFP9mZiV"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383360,
+      "name": "When It Rains",
+      "url": "https://open.spotify.com/track/32l9UbhARgLoQTimx3bWwU"
     },
     {
       "album": {
@@ -3773,10 +4309,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274066,
       "name": "You Don't Know The Blues",
       "url": "https://open.spotify.com/track/3uYWtoQd5lPBrE8OhBP2Wg"
+    },
+    {
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274066,
+      "name": "You Don't Know the Blues",
+      "url": "https://open.spotify.com/track/4omYnAPibSJVlUrc0vg9dN"
     },
     {
       "album": {

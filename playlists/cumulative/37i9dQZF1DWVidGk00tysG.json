@@ -9,7 +9,7 @@
     {
       "album": {
         "name": "Chopin: \u00c9tudes",
-        "url": "https://open.spotify.com/album/3OUQNvIRDG3ioZP3FgiIuz"
+        "url": "https://open.spotify.com/album/1eXQ6JbICpv9STKnfdDKqN"
       },
       "artists": [
         {
@@ -24,6 +24,50 @@
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 124626,
+      "name": "12 Etudes, Op. 10: No. 1 in C Major \"Waterfall\"",
+      "url": "https://open.spotify.com/track/6Uctr2eBhLmAmm1PuBxcbo"
+    },
+    {
+      "album": {
+        "name": "Chopin: \u00c9tudes",
+        "url": "https://open.spotify.com/album/1eXQ6JbICpv9STKnfdDKqN"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90386,
+      "name": "12 Etudes, Op. 10: No. 2 in A Minor",
+      "url": "https://open.spotify.com/track/3EEfOzF1ia1ioqw2oIczpP"
+    },
+    {
+      "album": {
+        "name": "Chopin: \u00c9tudes",
+        "url": "https://open.spotify.com/album/3OUQNvIRDG3ioZP3FgiIuz"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 124626,
       "name": "12 Etudes, Op.10: No. 1 in C Major \"Waterfall\"",
       "url": "https://open.spotify.com/track/741PxAwkQFMmrqOxgOfzN4"
@@ -45,7 +89,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 90386,
       "name": "12 Etudes, Op.10: No. 2 in A Minor",
       "url": "https://open.spotify.com/track/3rXYoFjHSkikmuJKmLJK7r"
@@ -89,10 +133,54 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 131120,
       "name": "12 \u00c9tudes, Op. 10: No. 4 in C-Sharp Minor",
       "url": "https://open.spotify.com/track/0M3o2f1cTTBdOyx7SSR6fi"
+    },
+    {
+      "album": {
+        "name": "Chopin: \u00c9tudes",
+        "url": "https://open.spotify.com/album/1eXQ6JbICpv9STKnfdDKqN"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131120,
+      "name": "12 \u00c9tudes, Op. 10: No. 4 in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/42oVt243Ixw2bohhSMmdpL"
+    },
+    {
+      "album": {
+        "name": "Chopin: \u00c9tudes",
+        "url": "https://open.spotify.com/album/1eXQ6JbICpv9STKnfdDKqN"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "12 \u00c9tudes, Op. 10: No. 6 in E-Flat Minor",
+      "url": "https://open.spotify.com/track/1agUvChcIwZPgdopLc4fD6"
     },
     {
       "album": {
@@ -111,7 +199,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196920,
       "name": "12 \u00c9tudes, Op. 10: No. 6 in E-Flat Minor",
       "url": "https://open.spotify.com/track/6KDbcbrpyyyDrVlpnff49w"
@@ -225,10 +313,36 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160386,
       "name": "19 Polish Songs, Op. 74: No. 8, Sliczny chlopiec",
       "url": "https://open.spotify.com/track/5lEOJ0qNOafAp1ZUNuBqxd"
+    },
+    {
+      "album": {
+        "name": "Chopin: Songs",
+        "url": "https://open.spotify.com/album/3joJJI4yYF8RMriKAcAnUG"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Olga Pasichnyk",
+          "url": "https://open.spotify.com/artist/5RHCTR2Ux0jqeeiJqOjBbg"
+        },
+        {
+          "name": "Natalya Pasichnyk",
+          "url": "https://open.spotify.com/artist/3uFuyfsnCsn9sAJ7VcZv8v"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160386,
+      "name": "19 Polish Songs, Op. 74: No. 8. Sliczny chlopiec",
+      "url": "https://open.spotify.com/track/7wK8i2ASHx8ZIXwLhSMne2"
     },
     {
       "album": {
@@ -247,7 +361,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 41160,
       "name": "24 Preludes, Op. 28: No. 1 in C Major",
       "url": "https://open.spotify.com/track/6UlYfU3dCqFXKCOIcfTrb9"
@@ -269,7 +383,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 43093,
       "name": "24 Preludes, Op. 28: No. 7 in A Major",
       "url": "https://open.spotify.com/track/7nOhPlpTPrMkvcuMBBcJPm"
@@ -291,10 +405,76 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 88466,
       "name": "24 Preludes, Op. 28: No. 9 in E Major",
       "url": "https://open.spotify.com/track/6rjemuZ8zBQIz36tbqrPd7"
+    },
+    {
+      "album": {
+        "name": "Chopin: Preludes",
+        "url": "https://open.spotify.com/album/0MmVW48OnJ7IRXiH5VicBg"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41160,
+      "name": "24 Preludes, Op. 28: Prelude No. 1 in C Major, Op. 28, No. 1",
+      "url": "https://open.spotify.com/track/6Pz4ZJ0zxXZbhgjKvwnTU3"
+    },
+    {
+      "album": {
+        "name": "Chopin: Preludes",
+        "url": "https://open.spotify.com/album/0MmVW48OnJ7IRXiH5VicBg"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43093,
+      "name": "24 Preludes, Op. 28: Prelude No. 7 in A Major, Op. 28, No. 7",
+      "url": "https://open.spotify.com/track/2Xl4dbOYrRniOffrW0qvm0"
+    },
+    {
+      "album": {
+        "name": "Chopin: Preludes",
+        "url": "https://open.spotify.com/album/0MmVW48OnJ7IRXiH5VicBg"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88466,
+      "name": "24 Preludes, Op. 28: Prelude No. 9 in E Major, Op. 28, No. 9",
+      "url": "https://open.spotify.com/track/5Wv6QdmP6YAx3VIqOB227V"
     },
     {
       "album": {
@@ -321,7 +501,7 @@
     {
       "album": {
         "name": "Chopin: 24 Pr\u00e9ludes; Nocturnes; Mazurkas; Scherzo",
-        "url": "https://open.spotify.com/album/38isoaeAY2A5W3aWVVxlPd"
+        "url": "https://open.spotify.com/album/0j7gM92jyXnNBoTdt4ayl9"
       },
       "artists": [
         {
@@ -338,7 +518,51 @@
       "date_removed": null,
       "duration_ms": 144666,
       "name": "24 Pr\u00e9ludes, Op. 28: 24. In D Minor - 2011 Recording",
+      "url": "https://open.spotify.com/track/0QcqxLcOWaIH4m58oRNT0z"
+    },
+    {
+      "album": {
+        "name": "Chopin: 24 Pr\u00e9ludes; Nocturnes; Mazurkas; Scherzo",
+        "url": "https://open.spotify.com/album/38isoaeAY2A5W3aWVVxlPd"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Maurizio Pollini",
+          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144666,
+      "name": "24 Pr\u00e9ludes, Op. 28: 24. In D Minor - 2011 Recording",
       "url": "https://open.spotify.com/track/4b9V3YphJiIjqYmifs05PV"
+    },
+    {
+      "album": {
+        "name": "Chopin: Ballades / Fantaisie in F Minor / Galop Marquis",
+        "url": "https://open.spotify.com/album/4ZGEJHVD4xSQpE2UauGYmL"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "3 Nouvelles etudes, Op. posth.: II. Etude No. 26 in A-Flat Major",
+      "url": "https://open.spotify.com/track/3S9qdWjfdG7HYbJtiWRRHe"
     },
     {
       "album": {
@@ -357,7 +581,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151000,
       "name": "3 Nouvelles \u00e9tudes, B. 130: II. Etude No. 26 in A-Flat Major (Live)",
       "url": "https://open.spotify.com/track/0SzeTxpsFn5TaHHEkkLQqz"
@@ -408,6 +632,28 @@
     },
     {
       "album": {
+        "name": "Chopin: Ballades / Berceuse Op. 57 / Fantasie Op. 49",
+        "url": "https://open.spotify.com/album/5us87BphrE84ew5F5jIQxa"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452333,
+      "name": "Ballade No. 2 in F Major, Op. 38",
+      "url": "https://open.spotify.com/track/6NcG7IDh8qC3zb1Mcr9fBS"
+    },
+    {
+      "album": {
         "name": "Chopin: Ballades / Fantaisie in F Minor / Galop Marquis",
         "url": "https://open.spotify.com/album/0V8IRW6lfn9EhOASF17Rwx"
       },
@@ -423,7 +669,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 461000,
       "name": "Ballade No. 2 in F Major, Op. 38",
       "url": "https://open.spotify.com/track/4FJJKMXwKerjg6YOZlSvIA"
@@ -445,10 +691,32 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 469613,
       "name": "Ballade No. 3 in A Flat Major, Op. 47",
       "url": "https://open.spotify.com/track/1BPsXqDKyApGZTDQy69zOk"
+    },
+    {
+      "album": {
+        "name": "Chopin - Winter Vibes",
+        "url": "https://open.spotify.com/album/7nGjRnha8kq63mnUGQx9sj"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469613,
+      "name": "Ballade No. 3 in A Flat Major, Op. 47",
+      "url": "https://open.spotify.com/track/6J1aj3bVh1cEgMniGSGRGZ"
     },
     {
       "album": {
@@ -496,6 +764,28 @@
     },
     {
       "album": {
+        "name": "Chopin: Ballades / Berceuse Op. 57 / Fantasie Op. 49",
+        "url": "https://open.spotify.com/album/5us87BphrE84ew5F5jIQxa"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68426,
+      "name": "Cantabile in B-Flat Major",
+      "url": "https://open.spotify.com/track/16OWr7l8ifV69Hb1FL6UZL"
+    },
+    {
+      "album": {
         "name": "Chopin: Ballades / Fantaisie in F Minor / Galop Marquis",
         "url": "https://open.spotify.com/album/0V8IRW6lfn9EhOASF17Rwx"
       },
@@ -511,7 +801,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 69426,
       "name": "Cantabile in B-Flat Major",
       "url": "https://open.spotify.com/track/18wnVI2y5Loy6Pr6ilqQ8r"
@@ -533,10 +823,32 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153733,
       "name": "Chopin: 12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
       "url": "https://open.spotify.com/track/5QS4Ww7pFtigfFqoSQJrP6"
+    },
+    {
+      "album": {
+        "name": "Nikolai Lugansky Plays Chopin",
+        "url": "https://open.spotify.com/album/4zYD04K8nalGNoJp8yFB0j"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nikolai Lugansky",
+          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153733,
+      "name": "Chopin: 12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
+      "url": "https://open.spotify.com/track/5eveZq0tpQo5iEAiuqyEQw"
     },
     {
       "album": {
@@ -695,7 +1007,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 868346,
       "name": "Chopin: Fantasy on Polish Airs, Op. 13",
       "url": "https://open.spotify.com/track/00wHoETjCPnZzYxlgUzUTQ"
@@ -724,7 +1036,7 @@
     },
     {
       "album": {
-        "name": "Chopin Nocturnes",
+        "name": "Chopin: Nocturnes",
         "url": "https://open.spotify.com/album/7kGObwwRrq6pgj9MwSu4Qx"
       },
       "artists": [
@@ -981,10 +1293,32 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 126000,
       "name": "Contredanse in G-Flat Major",
       "url": "https://open.spotify.com/track/7vOznp0NX9PTlW9D0BYv0L"
+    },
+    {
+      "album": {
+        "name": "Chopin: Waltzes (Complete)",
+        "url": "https://open.spotify.com/album/2T3nLB2fOmHzoN8nDKbHWl"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119213,
+      "name": "Contredanse in G-Flat Major, BI 17 (1827)",
+      "url": "https://open.spotify.com/track/0zqp77b4vRHHIwWcs096Rx"
     },
     {
       "album": {
@@ -1003,10 +1337,124 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 336093,
       "name": "Fantaisie-Impromptu In C-Sharp Minor, Op. 66",
       "url": "https://open.spotify.com/track/0Y9BzZGT2FuLVPrHoq1g2G"
+    },
+    {
+      "album": {
+        "name": "Chopin For The Brain",
+        "url": "https://open.spotify.com/album/4P9b9qml5eZOxgkbUckn4E"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 336093,
+      "name": "Fantaisie-Impromptu In C-Sharp Minor, Op. 66",
+      "url": "https://open.spotify.com/track/4oowGH3baaetOYlEVUglhU"
+    },
+    {
+      "album": {
+        "name": "! Classical Music for the Background: Chopin",
+        "url": "https://open.spotify.com/album/1U0v9RpNcBo5QvrG97IuFV"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 336093,
+      "name": "Fantaisie-Impromptu In C-Sharp Minor, Op. 66",
+      "url": "https://open.spotify.com/track/5xL8ih4hTNvSuh8O6esDTu"
+    },
+    {
+      "album": {
+        "name": "Chopin: Music for Concentration",
+        "url": "https://open.spotify.com/album/6x4mkl6b5i8PDDYgVfU1oT"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 336093,
+      "name": "Fantaisie-Impromptu In C-Sharp Minor, Op. 66",
+      "url": "https://open.spotify.com/track/741pOgPLlDP0KjB02k1Cxb"
+    },
+    {
+      "album": {
+        "name": "A Classical Dawn: Chopin",
+        "url": "https://open.spotify.com/album/4Ouklb2EeWeNks67IVqGQb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336093,
+      "name": "Fantaisie-Impromptu In C-Sharp Minor, Op. 66",
+      "url": "https://open.spotify.com/track/7qaiBIj12OG3QVgjLeYarr"
+    },
+    {
+      "album": {
+        "name": "Chopin: Piano Concertos etc",
+        "url": "https://open.spotify.com/album/5wytXYxCQidUtaXTzpAgqe"
+      },
+      "artists": [
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Garrick Ohlsson",
+          "url": "https://open.spotify.com/artist/6OZmjtuzO1FCcPQ6kdPF5x"
+        },
+        {
+          "name": "Jerzy Maksymiuk",
+          "url": "https://open.spotify.com/artist/2EGK18Dwe9ylcNRgGr56mX"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 860520,
+      "name": "Fantasia on Polish National Airs Op. 13",
+      "url": "https://open.spotify.com/track/4XCmNP6ZrjKxCg5Hmj2cml"
     },
     {
       "album": {
@@ -1047,10 +1495,32 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 306773,
       "name": "Impromptu No. 3 in G-Flat Major, Op. 51",
       "url": "https://open.spotify.com/track/29ZAGoKOX6a4oeB0iFl14z"
+    },
+    {
+      "album": {
+        "name": "Chopin: Scherzi; Impromptus",
+        "url": "https://open.spotify.com/album/0o9TuMN2120G5fPBnl1QT3"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "YUNDI",
+          "url": "https://open.spotify.com/artist/1T6BHJnhY5xIVvZKzV5f2u"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308693,
+      "name": "Impromptu No. 3 in G-Flat Major, Op. 51",
+      "url": "https://open.spotify.com/track/1EFZ8ibrXlKnyU6WP1LL9q"
     },
     {
       "album": {
@@ -1073,6 +1543,50 @@
       "duration_ms": 294373,
       "name": "Mazurka in A Minor, Op. 17 No. 4",
       "url": "https://open.spotify.com/track/6xpxh32vZI09GIVUc9j801"
+    },
+    {
+      "album": {
+        "name": "Chopin: Mazurkas, Vol. 1",
+        "url": "https://open.spotify.com/album/4kN7aLWISt6TVQcsv5s4gx"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186640,
+      "name": "Mazurka No. 14 in G Minor, Op. 24, No. 1",
+      "url": "https://open.spotify.com/track/0LZh6bNs6HtMmvCL9cpEWM"
+    },
+    {
+      "album": {
+        "name": "Chopin: Mazurkas, Vol. 1",
+        "url": "https://open.spotify.com/album/4kN7aLWISt6TVQcsv5s4gx"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154293,
+      "name": "Mazurka No. 16 in A-Flat Major, Op. 24, No. 3",
+      "url": "https://open.spotify.com/track/5oncCymvZwEs7rWz53fVeF"
     },
     {
       "album": {
@@ -1113,7 +1627,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186693,
       "name": "Mazurkas, Op. 24: Mazurka No. 14 in G Minor, Op. 24, No. 1",
       "url": "https://open.spotify.com/track/6PPs4hQ4zbqpAixLYkvz92"
@@ -1135,7 +1649,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154266,
       "name": "Mazurkas, Op. 24: Mazurka No. 16 in A-Flat Major, Op. 24, No. 3",
       "url": "https://open.spotify.com/track/6mBWS5L6J61xrQZnPpxaNk"
@@ -1183,6 +1697,28 @@
       "duration_ms": 344666,
       "name": "Nocturne in G Major, Op. 37, No. 2",
       "url": "https://open.spotify.com/track/17A3zj6XllYLQJZvRdehFd"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes",
+        "url": "https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Maurizio Pollini",
+          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286986,
+      "name": "Nocturne No. 1 In B Flat Minor, Op. 9 No. 1",
+      "url": "https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV"
     },
     {
       "album": {
@@ -1252,28 +1788,6 @@
     },
     {
       "album": {
-        "name": "Chopin: Nocturnes",
-        "url": "https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Maurizio Pollini",
-          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 286986,
-      "name": "Nocturne No.1 In B Flat Minor, Op.9 No.1",
-      "url": "https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV"
-    },
-    {
-      "album": {
         "name": "Chopin: Piano Concerto No. 1; Ballades",
         "url": "https://open.spotify.com/album/3uBOmT0tnbFyLB8X6hW8UN"
       },
@@ -1297,7 +1811,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1231333,
       "name": "Piano Concerto No. 1 in E Minor, Op. 11: 1. Allegro maestoso",
       "url": "https://open.spotify.com/track/5v46eIiHWK8RiQMOpIuykM"
@@ -1327,7 +1841,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 634933,
       "name": "Piano Concerto No. 1 in E Minor, Op. 11: 2. Romance (Larghetto)",
       "url": "https://open.spotify.com/track/2OxziEQaUt5MRXppGYXGpu"
@@ -1357,15 +1871,105 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 614213,
       "name": "Piano Concerto No. 1 in E Minor, Op. 11: 3. Rondo (Vivace)",
       "url": "https://open.spotify.com/track/3LP3moXNVftAVAWEORJZ3a"
     },
     {
       "album": {
+        "name": "DG 120 \u2013 Concertos 2 (1994-2016)",
+        "url": "https://open.spotify.com/album/7sFyK4p1XMNF5Ruq1gY0Wg"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1231333,
+      "name": "Piano Concerto No. 1 in E Minor, Op. 11: I. Allegro maestoso",
+      "url": "https://open.spotify.com/track/2YeDJ6GBFAO8iW0m7SoMFi"
+    },
+    {
+      "album": {
+        "name": "Chopin For The Brain",
+        "url": "https://open.spotify.com/album/4P9b9qml5eZOxgkbUckn4E"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 634933,
+      "name": "Piano Concerto No. 1 in E Minor, Op. 11: II. Romance (Larghetto)",
+      "url": "https://open.spotify.com/track/2Tii3ZAtFI1OuUXqk3CY1l"
+    },
+    {
+      "album": {
+        "name": "DG 120 \u2013 Concertos 2 (1994-2016)",
+        "url": "https://open.spotify.com/album/7sFyK4p1XMNF5Ruq1gY0Wg"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 614213,
+      "name": "Piano Concerto No. 1 in E Minor, Op. 11: III. Rondo (Vivace)",
+      "url": "https://open.spotify.com/track/4NFtAZNMvH3Qiv9d0YMKC2"
+    },
+    {
+      "album": {
         "name": "Chopin: Piano Concerto No. 2 - Variations on La ci darem - Andante spianato and Grande polonaise brillante",
-        "url": "https://open.spotify.com/album/69Ce8PM5A9OBSG5kBeZiHS"
+        "url": "https://open.spotify.com/album/4wJI6GbiR951BmUdbrVkFE"
       },
       "artists": [
         {
@@ -1389,13 +1993,43 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 841200,
+      "name": "Piano Concerto No. 2 in F minor, Op. 21: I. Maestoso",
+      "url": "https://open.spotify.com/track/6RxMj0c9bbALLbT6QOOqzO"
+    },
+    {
+      "album": {
+        "name": "Chopin: Piano Concerto No. 2 - Variations on La ci darem - Andante spianato and Grande polonaise brillante",
+        "url": "https://open.spotify.com/album/69Ce8PM5A9OBSG5kBeZiHS"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Eldar Nebolsin",
+          "url": "https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX"
+        },
+        {
+          "name": "Warsaw Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 841200,
       "name": "Piano Concerto No. 2 in F Minor, Op. 21: I. Maestoso",
       "url": "https://open.spotify.com/track/7aCl64PutenusyKQm4mIev"
     },
     {
       "album": {
         "name": "Chopin: Piano Concerto No. 2 - Variations on La ci darem - Andante spianato and Grande polonaise brillante",
-        "url": "https://open.spotify.com/album/69Ce8PM5A9OBSG5kBeZiHS"
+        "url": "https://open.spotify.com/album/4wJI6GbiR951BmUdbrVkFE"
       },
       "artists": [
         {
@@ -1419,8 +2053,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 487146,
-      "name": "Piano Concerto No. 2 in F Minor, Op. 21: II. Larghetto",
-      "url": "https://open.spotify.com/track/2iDzyPAKRXipSV5nqacm4W"
+      "name": "Piano Concerto No. 2 in F minor, Op. 21: II. Larghetto",
+      "url": "https://open.spotify.com/track/1XWZXXac1UvCVRd8eO3O1R"
     },
     {
       "album": {
@@ -1447,7 +2081,67 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 487146,
+      "name": "Piano Concerto No. 2 in F Minor, Op. 21: II. Larghetto",
+      "url": "https://open.spotify.com/track/2iDzyPAKRXipSV5nqacm4W"
+    },
+    {
+      "album": {
+        "name": "Chopin: Piano Concerto No. 2 - Variations on La ci darem - Andante spianato and Grande polonaise brillante",
+        "url": "https://open.spotify.com/album/4wJI6GbiR951BmUdbrVkFE"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Eldar Nebolsin",
+          "url": "https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX"
+        },
+        {
+          "name": "Warsaw Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 515840,
+      "name": "Piano Concerto No. 2 in F minor, Op. 21: III. Allegretto vivace",
+      "url": "https://open.spotify.com/track/2kcCOdVpLqhGmUN0r2tKBz"
+    },
+    {
+      "album": {
+        "name": "Chopin: Piano Concerto No. 2 - Variations on La ci darem - Andante spianato and Grande polonaise brillante",
+        "url": "https://open.spotify.com/album/69Ce8PM5A9OBSG5kBeZiHS"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Eldar Nebolsin",
+          "url": "https://open.spotify.com/artist/45ts2AJTWlzJ9JrQlCGxpX"
+        },
+        {
+          "name": "Warsaw Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 515840,
       "name": "Piano Concerto No. 2 in F Minor, Op. 21: III. Allegretto vivace",
       "url": "https://open.spotify.com/track/4saS9RJWpMNYRKWXj0AwaU"
@@ -1535,10 +2229,32 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 306053,
       "name": "Polonaise No. 3 in A Major, Op. 40, No. 1 'Military'",
       "url": "https://open.spotify.com/track/0gC1ltoVLrVfP8wcBlqaVH"
+    },
+    {
+      "album": {
+        "name": "Chopin: Polonaises",
+        "url": "https://open.spotify.com/album/6VKtoTP1F2NzGjNH1ASS68"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Rafa\u0142 Blechacz",
+          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306053,
+      "name": "Polonaise No. 3 in A Major, Op. 40, No. 1 'Military'",
+      "url": "https://open.spotify.com/track/4GIxB5XC9OeeQoIab7rM5S"
     },
     {
       "album": {
@@ -1705,10 +2421,32 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 645333,
       "name": "Scherzo No. 1 in B Minor, Op. 20",
       "url": "https://open.spotify.com/track/0uk4R0EZdk1MolyGi1YOH9"
+    },
+    {
+      "album": {
+        "name": "Chopin: Scherzi and Impromptus (Complete)",
+        "url": "https://open.spotify.com/album/2YaWSfSqtkByAzqPzRbAr9"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 645333,
+      "name": "Scherzo No. 1 in B Minor, Op. 20",
+      "url": "https://open.spotify.com/track/2U2QBnB0n1yPVooIRGihir"
     },
     {
       "album": {
@@ -1727,15 +2465,63 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 634173,
       "name": "Scherzo No. 4 in E Major, Op. 54",
       "url": "https://open.spotify.com/track/2qofLUQ13jdSfaOUeysowS"
     },
     {
       "album": {
+        "name": "Chopin: Scherzi; Impromptus",
+        "url": "https://open.spotify.com/album/0o9TuMN2120G5fPBnl1QT3"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "YUNDI",
+          "url": "https://open.spotify.com/artist/1T6BHJnhY5xIVvZKzV5f2u"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 634173,
+      "name": "Scherzo No. 4 in E Major, Op. 54",
+      "url": "https://open.spotify.com/track/6sjKKyPwt6dnpnxuM9mtlT"
+    },
+    {
+      "album": {
         "name": "Rachmaninov & Chopin Cello Sonatas",
         "url": "https://open.spotify.com/album/5iZEISyMh7m2TOf1UVBJGq"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alisa Weilerstein",
+          "url": "https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh"
+        },
+        {
+          "name": "Inon Barnatan",
+          "url": "https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 628840,
+      "name": "Sonata In G Minor For Cello & Piano, Op. 65: 1. Allegro moderato",
+      "url": "https://open.spotify.com/track/21csbl512BPunqsZ6FktCh"
+    },
+    {
+      "album": {
+        "name": "Rachmaninov & Chopin Cello Sonatas",
+        "url": "https://open.spotify.com/album/4StqdIskv8g0yRQnfaNqhg"
       },
       "artists": [
         {
@@ -1756,7 +2542,85 @@
       "date_removed": null,
       "duration_ms": 628840,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 1. Allegro moderato",
-      "url": "https://open.spotify.com/track/21csbl512BPunqsZ6FktCh"
+      "url": "https://open.spotify.com/track/2Ba0v3LngJAXJCThCfDVCi"
+    },
+    {
+      "album": {
+        "name": "Chopin: Classical BBQ",
+        "url": "https://open.spotify.com/album/1BGcJOfZBgSQeBonHiYJox"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alisa Weilerstein",
+          "url": "https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh"
+        },
+        {
+          "name": "Inon Barnatan",
+          "url": "https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 217320,
+      "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
+      "url": "https://open.spotify.com/track/0lWMRvbD4qlW9iszdR22W6"
+    },
+    {
+      "album": {
+        "name": "Emotions - Classical Music: Chopin",
+        "url": "https://open.spotify.com/album/13KNzSAozVNPH66Bt2YTXF"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alisa Weilerstein",
+          "url": "https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh"
+        },
+        {
+          "name": "Inon Barnatan",
+          "url": "https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
+      "url": "https://open.spotify.com/track/2QON3A3X6ek5vR5gCshd9I"
+    },
+    {
+      "album": {
+        "name": "Chopin - Music from the 1800s",
+        "url": "https://open.spotify.com/album/5VHeuyuGesCOyUeIykxP4q"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alisa Weilerstein",
+          "url": "https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh"
+        },
+        {
+          "name": "Inon Barnatan",
+          "url": "https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 217320,
+      "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
+      "url": "https://open.spotify.com/track/3WIifOYctFn4eagupeKP6a"
     },
     {
       "album": {
@@ -1779,7 +2643,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217320,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
       "url": "https://open.spotify.com/track/5GvFoTt81kcLw6eEJlfCKT"
@@ -1787,7 +2651,7 @@
     {
       "album": {
         "name": "Rachmaninov & Chopin Cello Sonatas",
-        "url": "https://open.spotify.com/album/5iZEISyMh7m2TOf1UVBJGq"
+        "url": "https://open.spotify.com/album/4StqdIskv8g0yRQnfaNqhg"
       },
       "artists": [
         {
@@ -1808,7 +2672,55 @@
       "date_removed": null,
       "duration_ms": 361160,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 4. Finale (Allegro)",
+      "url": "https://open.spotify.com/track/2JPNPykSt6c5g2PbYdpfQF"
+    },
+    {
+      "album": {
+        "name": "Rachmaninov & Chopin Cello Sonatas",
+        "url": "https://open.spotify.com/album/5iZEISyMh7m2TOf1UVBJGq"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alisa Weilerstein",
+          "url": "https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh"
+        },
+        {
+          "name": "Inon Barnatan",
+          "url": "https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 361160,
+      "name": "Sonata In G Minor For Cello & Piano, Op. 65: 4. Finale (Allegro)",
       "url": "https://open.spotify.com/track/7J90bcRGPqtK5TOopUyuIi"
+    },
+    {
+      "album": {
+        "name": "Chopin: Waltzes (Complete)",
+        "url": "https://open.spotify.com/album/2T3nLB2fOmHzoN8nDKbHWl"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "Tarantelle, Op. 43",
+      "url": "https://open.spotify.com/track/49p2bQxoUynn6BFSzv11r7"
     },
     {
       "album": {
@@ -1827,10 +2739,32 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182266,
       "name": "Tarantelle, Op. 43",
       "url": "https://open.spotify.com/track/76M1GHmM1OP9b440gVipPX"
+    },
+    {
+      "album": {
+        "name": "Chopin: Rondos and Variations",
+        "url": "https://open.spotify.com/album/0g6AaD3H8ZiPw7S4hVRsIM"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586733,
+      "name": "Variations brillantes",
+      "url": "https://open.spotify.com/track/5E0u613IN0MPi1JNPwf4gR"
     },
     {
       "album": {
@@ -1849,7 +2783,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 595000,
       "name": "Variations brillantes, Op. 12",
       "url": "https://open.spotify.com/track/5zJAsjM3CapmzBbkpgZLUT"
@@ -1878,72 +2812,6 @@
     },
     {
       "album": {
-        "name": "Chopin: Waltzes Nos. 1-19 - Ecossaises, Op. 72 - Tarantelle, Op. 43",
-        "url": "https://open.spotify.com/album/5zNQIyP4WetHlXx9PLh1Id"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178000,
-      "name": "Waltz No. 13 in D-Flat Major, Op. 70, No. 3",
-      "url": "https://open.spotify.com/track/2BuOI4GjqpBqfzHYS2kIlP"
-    },
-    {
-      "album": {
-        "name": "Chopin: Waltzes",
-        "url": "https://open.spotify.com/album/30LUjTR1mNP5EVL28IpIp2"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 114400,
-      "name": "Waltz No. 6 in D-Flat Major, Op. 64, No. 1 \"Minute\"",
-      "url": "https://open.spotify.com/track/4Gjn2xoEw001ZaYKz76s7T"
-    },
-    {
-      "album": {
-        "name": "Chopin: Waltzes",
-        "url": "https://open.spotify.com/album/30LUjTR1mNP5EVL28IpIp2"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220160,
-      "name": "Waltz No. 7 in C-Sharp Minor, Op. 64 No. 2",
-      "url": "https://open.spotify.com/track/7HDqxZ13HhwtwCEGAlz3Gz"
-    },
-    {
-      "album": {
         "name": "Chopin: Waltzes; 4 Scherzos; 26 Preludes",
         "url": "https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB"
       },
@@ -1961,13 +2829,79 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 290773,
-      "name": "Waltz No.1 in E Flat, Op.18 -\"Grande valse brillante\"",
+      "name": "Waltz No. 1 in E Flat, Op. 18 -\"Grande valse brillante\"",
       "url": "https://open.spotify.com/track/1vWAWChbVffjnpl6PPzUA4"
     },
     {
       "album": {
-        "name": "Chopin: 19 Waltzes",
-        "url": "https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg"
+        "name": "Chopin: Waltzes (Complete)",
+        "url": "https://open.spotify.com/album/2T3nLB2fOmHzoN8nDKbHWl"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238906,
+      "name": "Waltz No. 10 in B Minor, Op. 69, No. 2",
+      "url": "https://open.spotify.com/track/7lAOLNDVHWwvBohU5frfG7"
+    },
+    {
+      "album": {
+        "name": "Chopin: Waltzes (Complete)",
+        "url": "https://open.spotify.com/album/2T3nLB2fOmHzoN8nDKbHWl"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172840,
+      "name": "Waltz No. 13 in D-Flat Major, Op. 70, No. 3",
+      "url": "https://open.spotify.com/track/5R3ibGmqjzbPnCrZZIEpvm"
+    },
+    {
+      "album": {
+        "name": "Chopin: Waltzes Nos. 1-19 - Ecossaises, Op. 72 - Tarantelle, Op. 43",
+        "url": "https://open.spotify.com/album/5zNQIyP4WetHlXx9PLh1Id"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178000,
+      "name": "Waltz No. 13 in D-Flat Major, Op. 70, No. 3",
+      "url": "https://open.spotify.com/track/2BuOI4GjqpBqfzHYS2kIlP"
+    },
+    {
+      "album": {
+        "name": "Chopin: Piano Music/Piano Concertos",
+        "url": "https://open.spotify.com/album/4HsGBOGrhdYy0uHIoXaCQA"
       },
       "artists": [
         {
@@ -1982,9 +2916,9 @@
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 149000,
-      "name": "Waltz No.19 in A minor, Op.posth.",
-      "url": "https://open.spotify.com/track/795hdWK6qXc9SDwGwoBHfU"
+      "duration_ms": 152000,
+      "name": "Waltz No. 19 in A minor, Op. posth.",
+      "url": "https://open.spotify.com/track/2I7WcgmlZSKkWhC0zEAmQn"
     },
     {
       "album": {
@@ -2005,8 +2939,118 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 144853,
-      "name": "Waltz No.19 in A Minor, Op.Posth.",
+      "name": "Waltz No. 19 in A Minor, Op. Posth.",
       "url": "https://open.spotify.com/track/3FXEbuw9tloZKMwsDmNDcd"
+    },
+    {
+      "album": {
+        "name": "Chopin: Waltzes",
+        "url": "https://open.spotify.com/album/0h8hAxMUrF5wN2vHXzYW5k"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Claudio Arrau",
+          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276866,
+      "name": "Waltz No. 5 in A Flat, Op. 42 - \"Grande valse\"",
+      "url": "https://open.spotify.com/track/6wFKGWow2nmXDjir2Uvagd"
+    },
+    {
+      "album": {
+        "name": "Chopin: Waltzes",
+        "url": "https://open.spotify.com/album/0TN8xiZVdavNba1o2inEuu"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114400,
+      "name": "Waltz No. 6 in D-Flat Major, Op. 64, No. 1 \"Minute\"",
+      "url": "https://open.spotify.com/track/1liokBkvylDfpKhQPWxXjO"
+    },
+    {
+      "album": {
+        "name": "Chopin: Waltzes",
+        "url": "https://open.spotify.com/album/30LUjTR1mNP5EVL28IpIp2"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 114400,
+      "name": "Waltz No. 6 in D-Flat Major, Op. 64, No. 1 \"Minute\"",
+      "url": "https://open.spotify.com/track/4Gjn2xoEw001ZaYKz76s7T"
+    },
+    {
+      "album": {
+        "name": "Chopin: Waltzes",
+        "url": "https://open.spotify.com/album/0TN8xiZVdavNba1o2inEuu"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220160,
+      "name": "Waltz No. 7 in C-Sharp Minor, Op. 64 No. 2",
+      "url": "https://open.spotify.com/track/3rayh3oRGidLDWkShRSA8i"
+    },
+    {
+      "album": {
+        "name": "Chopin: Waltzes",
+        "url": "https://open.spotify.com/album/30LUjTR1mNP5EVL28IpIp2"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220160,
+      "name": "Waltz No. 7 in C-Sharp Minor, Op. 64 No. 2",
+      "url": "https://open.spotify.com/track/7HDqxZ13HhwtwCEGAlz3Gz"
     },
     {
       "album": {
@@ -2025,7 +3069,29 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
+      "duration_ms": 149000,
+      "name": "Waltz No.19 in A minor, Op.posth.",
+      "url": "https://open.spotify.com/track/795hdWK6qXc9SDwGwoBHfU"
+    },
+    {
+      "album": {
+        "name": "Chopin: 19 Waltzes",
+        "url": "https://open.spotify.com/album/6mAtYHlbXHsH3PfwRTzZdg"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Claudio Arrau",
+          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 273000,
       "name": "Waltz No.5 in A Flat, Op.42 - \"Grande valse\"",
       "url": "https://open.spotify.com/track/1OcRiWp6PG6KpKv1yQGYCj"
@@ -2047,7 +3113,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244000,
       "name": "Waltzes, Op. 69: No. 2 in B Minor",
       "url": "https://open.spotify.com/track/2VeL9mexNVTippORBuAHY3"

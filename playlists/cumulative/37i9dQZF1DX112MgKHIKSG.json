@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 293023,
       "name": "Baby Alexander",
       "url": "https://open.spotify.com/track/2Mmd5rXdRdSIHPhPsLW4B9"
@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Families",
+        "url": "https://open.spotify.com/album/23kISPLUiyxM3TGIzx7ehV"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296851,
+      "name": "Families",
+      "url": "https://open.spotify.com/track/5WNNUyLMCuu7msTVtRVpyk"
+    },
+    {
+      "album": {
         "name": "Funny Music",
         "url": "https://open.spotify.com/album/2pvsYjh6BWOjllE8FuEcsH"
       },
@@ -134,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Goldie the Fish",
+        "url": "https://open.spotify.com/album/2ywnxffXgxjphXx7iXwJaL"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305260,
+      "name": "Goldie the Fish",
+      "url": "https://open.spotify.com/track/11cSlsmHGtGELKOznBTyQk"
+    },
+    {
+      "album": {
         "name": "Grandpa Pig's Greenhouse",
         "url": "https://open.spotify.com/album/0INJJ0vLQXZpUclqlbSUgB"
       },
@@ -149,6 +185,24 @@
       "duration_ms": 292860,
       "name": "Grandpa Pig's Greenhouse",
       "url": "https://open.spotify.com/track/5dtUmR3YwpQ8OK4pKri9Zg"
+    },
+    {
+      "album": {
+        "name": "Grandpa Pig's Train to the Rescue",
+        "url": "https://open.spotify.com/album/4pFmnBH9HhbCCuTn2MZfk8"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290736,
+      "name": "Grandpa Pig's Train to the Rescue",
+      "url": "https://open.spotify.com/track/7M8T9iv6w49bOxpchiSVCR"
     },
     {
       "album": {
@@ -188,6 +242,24 @@
     },
     {
       "album": {
+        "name": "In the Future",
+        "url": "https://open.spotify.com/album/5FkRKUHzmODVgv3WhTwrBx"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264342,
+      "name": "In the Future",
+      "url": "https://open.spotify.com/track/2vBceP1h2dyvpzZeGH9NNU"
+    },
+    {
+      "album": {
         "name": "Mandy Mouse",
         "url": "https://open.spotify.com/album/5WYoSMuqhb4P5IhLoxQN9Z"
       },
@@ -199,7 +271,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 285865,
       "name": "Mandy Mouse",
       "url": "https://open.spotify.com/track/3plR4Br6f2QpxnPaQokXzH"
@@ -386,6 +458,42 @@
     },
     {
       "album": {
+        "name": "Recorders",
+        "url": "https://open.spotify.com/album/3aw208Oo8dvCwrkdXPc9S3"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274107,
+      "name": "Recorders",
+      "url": "https://open.spotify.com/track/3O58vORF789QBFOxbBrmiT"
+    },
+    {
+      "album": {
+        "name": "Sea Treasure",
+        "url": "https://open.spotify.com/album/7EEJGwwnVXmNXvp5vgLNoi"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289520,
+      "name": "Sea Treasure",
+      "url": "https://open.spotify.com/track/3RbNHTQgPshnCxpta49bqp"
+    },
+    {
+      "album": {
         "name": "Sea, Sun and Snow",
         "url": "https://open.spotify.com/album/6cSUdAlg7z3NGroFa1wnYy"
       },
@@ -433,10 +541,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 280288,
       "name": "Talent Day",
       "url": "https://open.spotify.com/track/2LLlH12XHOZjv9gFA9ibax"
+    },
+    {
+      "album": {
+        "name": "The Aquarium",
+        "url": "https://open.spotify.com/album/1jMwGVtAL1z213xcIKZxIH"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292197,
+      "name": "The Aquarium",
+      "url": "https://open.spotify.com/track/4vlO8Ul9BRrFe9Tm35prMS"
     },
     {
       "album": {
@@ -509,6 +635,24 @@
       "duration_ms": 272606,
       "name": "The Secret Club",
       "url": "https://open.spotify.com/track/3JXfwrh1eukIff5S2q4Wtn"
+    },
+    {
+      "album": {
+        "name": "When I Grow Up",
+        "url": "https://open.spotify.com/album/7K6voj7FOEOBfPlk5PGX0A"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260972,
+      "name": "When I Grow Up",
+      "url": "https://open.spotify.com/track/7o3EmAAZuhyCv4LwRtnNcB"
     },
     {
       "album": {

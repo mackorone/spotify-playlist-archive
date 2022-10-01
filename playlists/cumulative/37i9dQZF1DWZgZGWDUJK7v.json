@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "Meet the popular animation & webtoon OSTs now! (Cover: Discovery of Love(\uc5f0\uc560\uc758 \ubc1c\uacac) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc560\ub2c8\uba54\uc774\uc158 & \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the popular webtoon OSTs now! (Cover: Good Doctor(\uad7f\ub2e5\ud130)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "published_playlist_ids": [
     "377FgqWa97oJx7N6DPIrtB"
@@ -19,10 +19,28 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216426,
       "name": "1second 1minute 1hour (Something Between Us X 2am)",
       "url": "https://open.spotify.com/track/3EbrxxZPM9DF1AtpTRWIxJ"
+    },
+    {
+      "album": {
+        "name": "1second 1minute 1hour (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/0kvfmlPE9ZmDt5gazP1jsG"
+      },
+      "artists": [
+        {
+          "name": "2am",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "1second 1minute 1hour (Something Between Us X 2am)",
+      "url": "https://open.spotify.com/track/3zOfZsJpefV3GP8YVvEpxf"
     },
     {
       "album": {
@@ -229,10 +247,28 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240284,
       "name": "Cry Baby",
       "url": "https://open.spotify.com/track/7vBX6cVsCPFSx2C58hpZ4f"
+    },
+    {
+      "album": {
+        "name": "Editorial",
+        "url": "https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu"
+      },
+      "artists": [
+        {
+          "name": "Official HIGE DANdism",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241680,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK"
     },
     {
       "album": {
@@ -251,6 +287,24 @@
       "duration_ms": 228720,
       "name": "Dear. My Fool (WEBTOON 'Discovery of Love' X Lee Seok Hoon)",
       "url": "https://open.spotify.com/track/2nWmHvBuS5ukeu3ozEy9WC"
+    },
+    {
+      "album": {
+        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
+        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212493,
+      "name": "Dive into you",
+      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
     },
     {
       "album": {
@@ -326,6 +380,24 @@
     },
     {
       "album": {
+        "name": "Feel Empty (WEBTOON 'Discovery of Love' X OuiOui)",
+        "url": "https://open.spotify.com/album/66yLRKVouimpFdrbQupUdL"
+      },
+      "artists": [
+        {
+          "name": "OuiOui",
+          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202920,
+      "name": "Feel Empty (WEBTOON 'Discovery of Love' X OuiOui)",
+      "url": "https://open.spotify.com/track/0tEJych2LdCffCFYVn5vU0"
+    },
+    {
+      "album": {
         "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
         "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
       },
@@ -341,6 +413,60 @@
       "duration_ms": 207773,
       "name": "First Love Story",
       "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184066,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
+    },
+    {
+      "album": {
+        "name": "Webtoon The Red Sleeve (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2FxNxbv5XY55H700JbvoK3"
+      },
+      "artists": [
+        {
+          "name": "Rumble Fish",
+          "url": "https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233647,
+      "name": "Good bye my love",
+      "url": "https://open.spotify.com/track/4sTXT0ArcrA5FHRjQLm6qc"
+    },
+    {
+      "album": {
+        "name": "It Was All a Mistake OST Part 1",
+        "url": "https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q"
+      },
+      "artists": [
+        {
+          "name": "RYEOWOOK",
+          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224266,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt"
     },
     {
       "album": {
@@ -492,6 +618,42 @@
     },
     {
       "album": {
+        "name": "In this world (Webtoon'Plainwalker of Stigmatization' X KIMJAEJOONG) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5efMyrzwotQXz5qxucXZQA"
+      },
+      "artists": [
+        {
+          "name": "J-JUN",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237173,
+      "name": "In this world",
+      "url": "https://open.spotify.com/track/2vXa3jnw1puqq9mRw4Nuit"
+    },
+    {
+      "album": {
+        "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS"
+      },
+      "artists": [
+        {
+          "name": "KIHYUN",
+          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204013,
+      "name": "IS THIS LOVE",
+      "url": "https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht"
+    },
+    {
+      "album": {
         "name": "JAMSOO (Original Soundtrack from the Webtoon Fight For My Way)",
         "url": "https://open.spotify.com/album/7DaBWuXwdIRQtlzI5aKbsi"
       },
@@ -536,6 +698,28 @@
     },
     {
       "album": {
+        "name": "Webtoon 'Return of the Blossoming Blade' Part. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3YQ7TbgFOVsiWt3nneBhFm"
+      },
+      "artists": [
+        {
+          "name": "Gwangil Jo",
+          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
+        },
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207013,
+      "name": "Last Sword Dance (Feat. Koonta)",
+      "url": "https://open.spotify.com/track/5lRbrmGzrBFqDRNS95yY9l"
+    },
+    {
+      "album": {
         "name": "The stairway of Time OST Part 2. Last trip",
         "url": "https://open.spotify.com/album/52xTAL9ScEQC9OzO2tCdLm"
       },
@@ -555,6 +739,24 @@
     {
       "album": {
         "name": "Tomb Raider King (Original Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/1ABAgDrnDMD9MzWVBOuLJA"
+      },
+      "artists": [
+        {
+          "name": "SEO EUNKWANG",
+          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241973,
+      "name": "Leaving you (From \"Tomb Raider King\")",
+      "url": "https://open.spotify.com/track/15SkcMXeM3kBDqC0ckm7Bq"
+    },
+    {
+      "album": {
+        "name": "Tomb Raider King (Original Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/2HKIoDcbh22DS3R1xxEe88"
       },
       "artists": [
@@ -565,7 +767,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241973,
       "name": "Leaving you (From \"Tomb Raider King\")",
       "url": "https://open.spotify.com/track/6BnQTBEWTioAJ8wVUQXthB"
@@ -810,6 +1012,24 @@
     },
     {
       "album": {
+        "name": "Propose Song (WEBTOON 'Discovery of Love' X LEE RAON)",
+        "url": "https://open.spotify.com/album/2SxtplELKtfdrzQesuUTRR"
+      },
+      "artists": [
+        {
+          "name": "Leeraon",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217813,
+      "name": "Propose Song (WEBTOON 'Discovery of Love' X LEE RAON)",
+      "url": "https://open.spotify.com/track/73whlfYeKmtBeOOuNFLeqT"
+    },
+    {
+      "album": {
         "name": "Sad Ending [From \"Anonymous, I Know You!\" (Original Soundtrack) Pt. 5]",
         "url": "https://open.spotify.com/album/15WI2IO8kqv9cChrbc65A2"
       },
@@ -909,8 +1129,8 @@
           "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
         },
         {
-          "name": "An Da Eun",
-          "url": "https://open.spotify.com/artist/7AsMZq4eVOzIfqaaAWfnJ3"
+          "name": "An da eun",
+          "url": "https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9"
         }
       ],
       "date_added": "2022-05-09",
@@ -927,7 +1147,7 @@
       },
       "artists": [
         {
-          "name": "AN DA EUN",
+          "name": "An da eun",
           "url": "https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9"
         }
       ],
@@ -1106,6 +1326,24 @@
     },
     {
       "album": {
+        "name": "The invention of romance (WEBTOON 'Discovery of Love' X BIG Naughty)",
+        "url": "https://open.spotify.com/album/3aoVOedTKPTcLJBa7F5ofg"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179853,
+      "name": "The invention of romance (WEBTOON 'Discovery of Love' X BIG Naughty)",
+      "url": "https://open.spotify.com/track/3VwwxnQlYfAIIIWwgvdAWR"
+    },
+    {
+      "album": {
         "name": "The Moment My Heart (She is My Type\u2661 X KYUHYUN)",
         "url": "https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J"
       },
@@ -1211,6 +1449,24 @@
       "duration_ms": 238066,
       "name": "What I want",
       "url": "https://open.spotify.com/track/2ScUp6vBAjf54kK6nxSHdo"
+    },
+    {
+      "album": {
+        "name": "When We Were Young (Good Doctor X XIA)",
+        "url": "https://open.spotify.com/album/5PF1OECcTJ7s3XhEHr1lNd"
+      },
+      "artists": [
+        {
+          "name": "XIA",
+          "url": "https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198040,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7EbqPyHFpXmcTTewbsX9hz"
     },
     {
       "album": {

@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": "2022-10-01",
       "duration_ms": 703946,
       "name": "Arica",
       "url": "https://open.spotify.com/track/5YWt5swsMPRm99XRCSY8U0"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-09-15",
       "duration_ms": 815613,
       "name": "Ascencion",
       "url": "https://open.spotify.com/track/4byb8gZffMTaIZD4xl0PfQ"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-29",
       "duration_ms": 696007,
       "name": "Cannabis",
       "url": "https://open.spotify.com/track/5G6iNArq3GslJKMnrdp9eH"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 759120,
       "name": "Delay",
       "url": "https://open.spotify.com/track/6OftP5FpB3hY91MHEixb7o"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-08-28",
       "duration_ms": 189800,
       "name": "Derveshum Carnivalis",
       "url": "https://open.spotify.com/track/7GimwMUtRDNZ90VEI5yDnq"
@@ -327,6 +327,24 @@
       "duration_ms": 912506,
       "name": "Desert of Ice - Instrumental",
       "url": "https://open.spotify.com/track/2N1cxjxCFGJ7BQu6S5k7Cq"
+    },
+    {
+      "album": {
+        "name": "In C / Djemb\u00e9",
+        "url": "https://open.spotify.com/album/0IiGykTV2eaJ8DVVDQHlhw"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 880666,
+      "name": "Djemb\u00e9",
+      "url": "https://open.spotify.com/track/75vCy3l4JCFXS2RX2wbGM3"
     },
     {
       "album": {
@@ -439,7 +457,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 267093,
       "name": "Folk Song",
       "url": "https://open.spotify.com/track/1pHfqvY7jHDbGFyGSdD9Eu"
@@ -569,7 +587,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 400306,
       "name": "In The Summer",
       "url": "https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi"
@@ -587,7 +605,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-09-25",
       "duration_ms": 448026,
       "name": "Innocencia - Se Aparace La Muerte Inocentmente Por La Tarde",
       "url": "https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-30",
       "duration_ms": 365306,
       "name": "La Muerte en Medias Caladas Negras",
       "url": "https://open.spotify.com/track/5JA6S6rXT6GkSu64nSeqtg"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-30",
       "duration_ms": 352973,
       "name": "Lazy Afternoon Among the Crocodiles",
       "url": "https://open.spotify.com/track/11OopoutzfE1yieQAe5KX3"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": "2022-09-03",
       "duration_ms": 658880,
       "name": "Lion's Throne",
       "url": "https://open.spotify.com/track/7j5vLn78PSJaXritwcDgXN"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 102076,
       "name": "Long Bus Ride",
       "url": "https://open.spotify.com/track/2u3qI1WiuzNfu7pgbCvo6L"
@@ -776,6 +794,42 @@
     },
     {
       "album": {
+        "name": "Music for the Gift",
+        "url": "https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 862906,
+      "name": "Mescalin Mix",
+      "url": "https://open.spotify.com/track/7mTROQlWx85ApkDS2J04UJ"
+    },
+    {
+      "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 69306,
+      "name": "Mosque",
+      "url": "https://open.spotify.com/track/1iIprmzheT5eLyeoIpTziF"
+    },
+    {
+      "album": {
         "name": "Late Night Tales: Four Tet",
         "url": "https://open.spotify.com/album/1LlsBkjNOqksaOFL053zS3"
       },
@@ -805,10 +859,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 344840,
       "name": "Music for the Gift: Part 1",
       "url": "https://open.spotify.com/track/01IsLx4pZcpD9nuRgFeQLg"
+    },
+    {
+      "album": {
+        "name": "Music for the Gift",
+        "url": "https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-05",
+      "duration_ms": 275600,
+      "name": "Music for the Gift: Part 3",
+      "url": "https://open.spotify.com/track/3DFFbgbyx5Oxrl53w53nDT"
     },
     {
       "album": {
@@ -899,7 +971,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 574081,
       "name": "Part II - Live 1974",
       "url": "https://open.spotify.com/track/56f4vwvweMjYP1AKRxtKy7"
@@ -917,7 +989,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-07-24",
       "duration_ms": 458436,
       "name": "Part III - Live 1974",
       "url": "https://open.spotify.com/track/6PJDAsoCcmsvQqI6YsTGis"
@@ -1014,6 +1086,24 @@
     },
     {
       "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 364960,
+      "name": "Remember This",
+      "url": "https://open.spotify.com/track/21rumctdL8MYeZKpv3T2gz"
+    },
+    {
+      "album": {
         "name": "Archangels",
         "url": "https://open.spotify.com/album/75fGDmfK5XoJU8uWEBI7DT"
       },
@@ -1037,7 +1127,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-09-29",
       "duration_ms": 352858,
       "name": "Remember This O mind, I. Remember This",
       "url": "https://open.spotify.com/track/3xB1DRb2PEUHD9U7gsOVs4"
@@ -1089,7 +1179,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 171589,
       "name": "See Them Out There",
       "url": "https://open.spotify.com/track/4vpwnM4ZGsqogffpvr3APP"
@@ -1143,7 +1233,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 196066,
       "name": "Slow Melody In Bhairavi",
       "url": "https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp"
@@ -1209,6 +1299,24 @@
       "duration_ms": 289346,
       "name": "St. Francis and the Birds",
       "url": "https://open.spotify.com/track/2w12QnKw0mWjxxwRuyGef2"
+    },
+    {
+      "album": {
+        "name": "Destination - Summer Fling Riddim",
+        "url": "https://open.spotify.com/album/3rURS7kdzBgkD5EFBrujHD"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150213,
+      "name": "Summer Fling",
+      "url": "https://open.spotify.com/track/3aJIumuPZqaew8jF6Fy3vu"
     },
     {
       "album": {
@@ -1325,7 +1433,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-08-31",
       "duration_ms": 1000000,
       "name": "The Harp of New Albion: III. Riding the Westerleys",
       "url": "https://open.spotify.com/track/5Wk6E15Rgb1MDIeLneuwK4"
@@ -1383,7 +1491,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": "2022-08-16",
       "duration_ms": 174893,
       "name": "The Protege",
       "url": "https://open.spotify.com/track/0yM0Trf4Vm4D3YoCHp8Br5"
@@ -1427,7 +1535,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-08",
       "duration_ms": 510912,
       "name": "The War on the Poor",
       "url": "https://open.spotify.com/track/0QzXHnMXyxyMei1sYboG6E"
@@ -1481,7 +1589,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 1230506,
       "name": "You're Nogood",
       "url": "https://open.spotify.com/track/5hViDivhqQcDso9cFahbnw"

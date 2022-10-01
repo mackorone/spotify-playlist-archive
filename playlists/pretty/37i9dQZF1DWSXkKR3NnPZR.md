@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXkKR3NnPZR.md) - [plain]
 
 > Los grandes éxitos de Luis Miguel y Alejandro Fernández en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,791 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,220 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXkKR3NnPZR.md) - [plain]
 | 49 | [Te propongo esta noche](https://open.spotify.com/track/3rZySdtQD7kNmpVb8gYQv4) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Amarte Es Un Placer](https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n) | 6:11 |
 | 50 | [1+1=2 Enamorados](https://open.spotify.com/track/2vHF81RO8GVarx2ykRhOsu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Celebridades\- Luis Miguel](https://open.spotify.com/album/1cpQHKtfCtrxMz7zUlX7of) | 3:25 |
 
-Snapshot ID: `MTY0NjY4NzYyMSwwMDAwMDAwNDAwMDAwMTdmNjYzYjEzNjQwMDAwMDE3NTBlMzUyYjgw`
+Snapshot ID: `MTY0NjY4NzYyMSwwMDAwMDAwMDUzYTg2N2U4YzM5ZDYzOGE2MjE3YjJmOTdlMmU4YzE5`

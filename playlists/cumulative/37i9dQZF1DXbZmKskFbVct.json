@@ -405,6 +405,24 @@
     {
       "album": {
         "name": "Let's Fall Asleep Together",
+        "url": "https://open.spotify.com/album/4MDMFBvoD63cpWzPhYOWPW"
+      },
+      "artists": [
+        {
+          "name": "ASMR Cherry Crush",
+          "url": "https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "It's Just You and Me",
+      "url": "https://open.spotify.com/track/1E15ykxdCHlUENEsqIOe7K"
+    },
+    {
+      "album": {
+        "name": "Let's Fall Asleep Together",
         "url": "https://open.spotify.com/album/5CRBoC6jLGPsxOpkcxKVRz"
       },
       "artists": [
@@ -415,7 +433,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218000,
       "name": "It's Just You and Me",
       "url": "https://open.spotify.com/track/7AmkjYnKthAdWlsisckn75"

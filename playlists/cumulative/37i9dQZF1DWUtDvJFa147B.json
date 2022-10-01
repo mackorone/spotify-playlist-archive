@@ -17,16 +17,60 @@
           "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
         },
         {
-          "name": "Lee Sunkyu",
-          "url": "https://open.spotify.com/artist/2alpm0J0RkICnGpdP6Wc5Z"
+          "name": "Lee Sun Kyu",
+          "url": "https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X"
         }
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 290581,
-      "name": "#1 Live Version",
+      "name": "#1 - Live Version",
       "url": "https://open.spotify.com/track/6XqxiYn5MFteNGLogEBqX4"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode4",
+        "url": "https://open.spotify.com/album/30CH8CgMWks5ffAL2MPYmD"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313435,
+      "name": "(Bonus Track) Do not go away from me - Slane Castle ver",
+      "url": "https://open.spotify.com/track/1bVHEY6sSHFMBn9KttkW2h"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode3",
+        "url": "https://open.spotify.com/album/4duoPL3tgy6npUfKdlmWNj"
+      },
+      "artists": [
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204447,
+      "name": "A flying butterfly - The 1st busking in Galway ver",
+      "url": "https://open.spotify.com/track/2JPZJAkpRNmYxH7tCs6HIF"
     },
     {
       "album": {
@@ -45,7 +89,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204447,
       "name": "A flying butterfly - \uace8\uc6e8\uc774 \uccab \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/2Gru0nALpislMtHOadE5Dr"
@@ -74,8 +118,30 @@
     },
     {
       "album": {
+        "name": "Begin Again Open MIC EPISODE. 1",
+        "url": "https://open.spotify.com/album/5mVUtVj69kNS66WyKP8bQc"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        },
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 181565,
+      "name": "A GLOOMY CLOCK",
+      "url": "https://open.spotify.com/track/21LFLebucRKEWWg5ALKipR"
+    },
+    {
+      "album": {
         "name": "Begin Again-Episode7",
-        "url": "https://open.spotify.com/album/5XRee08QMpkdcfR7dYV5HQ"
+        "url": "https://open.spotify.com/album/0sa7N7IJBUAorbdfJXfcaD"
       },
       "artists": [
         {
@@ -95,6 +161,32 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222991,
+      "name": "Across The Universe - Liverpool Cavern Club ver",
+      "url": "https://open.spotify.com/track/4D5ujJrqVjSXM4gXNrXmr6"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode7",
+        "url": "https://open.spotify.com/album/5XRee08QMpkdcfR7dYV5HQ"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222991,
       "name": "Across The Universe - \ub9ac\ubc84\ud480 \uce90\ubc88 \ud074\ub7fd Ver.",
       "url": "https://open.spotify.com/track/3OT2IT6Vc27sOW6i9jvR5J"
     },
@@ -111,10 +203,46 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226966,
       "name": "Back In Time (From The Original TV Show \"Begin Again Korea\") - Live",
       "url": "https://open.spotify.com/track/1vHtX0Ue9REaRdA92IDYuG"
+    },
+    {
+      "album": {
+        "name": "Begin Again Korea Episode. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/28kabK2tMZmOJh2JHmCAls"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226966,
+      "name": "Back In Time - Live",
+      "url": "https://open.spotify.com/track/1FBaXKrCE2JdfJDSLzPeII"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 13 - Cactus",
+        "url": "https://open.spotify.com/album/4z2IY10IJaWJ0PomxExtdA"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 199022,
+      "name": "Begin Again Open MIC EPISODE. 13 - Cactus",
+      "url": "https://open.spotify.com/track/5UJpki15XyR29c8DpqjENo"
     },
     {
       "album": {
@@ -133,6 +261,24 @@
       "duration_ms": 199022,
       "name": "Begin Again Open MIC EPISODE. 13 - Cactus",
       "url": "https://open.spotify.com/track/7HyFV9XyVMu8ZbbOMvMPgO"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 7 - Imagine",
+        "url": "https://open.spotify.com/album/0jVzYr034WERB4Nr6dgpBq"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 227575,
+      "name": "Begin Again Open MIC EPISODE. 7 - Imagine",
+      "url": "https://open.spotify.com/track/3Re9t7JJTAA8I5uJuNpuBl"
     },
     {
       "album": {
@@ -209,10 +355,54 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216169,
       "name": "Blue In You - \uc0e4\ubaa8\ub2c8 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/2tW0abaew9Urf9I7KDhKp2"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode12",
+        "url": "https://open.spotify.com/album/2zkYpqyvKKM9PXkTuFsh8L"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216169,
+      "name": "Blue In You \u2013 Chamonix Busking ver",
+      "url": "https://open.spotify.com/track/1pum9ai9Ag0v1wI5KiBpWk"
+    },
+    {
+      "album": {
+        "name": "CAN'T STOP THE FEELING! (From The Original TV Show \"Begin Again Korea\" Ep. 3) (Live)",
+        "url": "https://open.spotify.com/album/3pCSxkKjwhGr0IlA8ZYuQP"
+      },
+      "artists": [
+        {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177858,
+      "name": "CAN'T STOP THE FEELING! (From The Original TV Show \"Begin Again Korea\" Ep. 3) (Live)",
+      "url": "https://open.spotify.com/track/52ZttM0uUj7uQ6zpcm98Hr"
     },
     {
       "album": {
@@ -227,7 +417,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177858,
       "name": "CAN'T STOP THE FEELING! (From The Original TV Show \"Begin Again Korea\") Ep.3 - Live",
       "url": "https://open.spotify.com/track/08sGd6oEm1Ux3JcQombI81"
@@ -249,10 +439,32 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243320,
       "name": "Come To Me - \ubabd\ud2b8\ub8b0 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/16r2kKpt0FboRb5ptigyZE"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode9",
+        "url": "https://open.spotify.com/album/4JNMlZtfpGATbtthBSsQx6"
+      },
+      "artists": [
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243320,
+      "name": "Come To Me \u2013 Montreux Busking ver",
+      "url": "https://open.spotify.com/track/4H9y7PazzqW9uEI6d0G4Vi"
     },
     {
       "album": {
@@ -279,7 +491,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271651,
       "name": "Come Together - \ub9ac\ubc84\ud480 \uce90\ubc88 \ud074\ub7fd Ver.",
       "url": "https://open.spotify.com/track/1tL81dfvhneoFsj28tCoZk"
@@ -335,7 +547,7 @@
     {
       "album": {
         "name": "Begin Again-Episode9",
-        "url": "https://open.spotify.com/album/5iGejEKJVt7OehR55pkmBL"
+        "url": "https://open.spotify.com/album/3nhvZYn5RmMuh4fFZaM862"
       },
       "artists": [
         {
@@ -359,8 +571,56 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204061,
+      "name": "Date - Montreux Busking ver",
+      "url": "https://open.spotify.com/track/73oyzVamwhrxaUcVQIdxXy"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode9",
+        "url": "https://open.spotify.com/album/5iGejEKJVt7OehR55pkmBL"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        },
+        {
+          "name": "RO HONG CHUL",
+          "url": "https://open.spotify.com/artist/0zcTx4R5R60a41u2jDVQbP"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204061,
       "name": "Date - \ubabd\ud2b8\ub8b0 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/2QgrbUhdElhL95YVpayw1Q"
+    },
+    {
+      "album": {
+        "name": "Roy Kim Live in Begin Again 2",
+        "url": "https://open.spotify.com/album/13ShXsAsKW7cW5yPz65Man"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196942,
+      "name": "Daughters",
+      "url": "https://open.spotify.com/track/0ehbcLHjHjjvVdygQYB9f2"
     },
     {
       "album": {
@@ -375,7 +635,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196942,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/22rqhXsdqVJ4QK9cWgy23q"
@@ -404,8 +664,8 @@
     },
     {
       "album": {
-        "name": "Deep in the Night (From The Original TV Show \"Begin Again Korea\") Ep.9 [Live]",
-        "url": "https://open.spotify.com/album/0DWghhbd36z6VukUvgiKZd"
+        "name": "Deep in the Night (From The Original TV Show \"Begin Again Korea\" Ep. 9) (Live)",
+        "url": "https://open.spotify.com/album/5EobH7Nd3Kj7JInBh4u3le"
       },
       "artists": [
         {
@@ -417,8 +677,48 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 225788,
+      "name": "Deep in the Night (From The Original TV Show \"Begin Again Korea\" Ep. 9) (Live)",
+      "url": "https://open.spotify.com/track/2v22MmM9jKdFYskV4dYw2U"
+    },
+    {
+      "album": {
+        "name": "Deep in the Night (From The Original TV Show \"Begin Again Korea\") Ep.9 [Live]",
+        "url": "https://open.spotify.com/album/0DWghhbd36z6VukUvgiKZd"
+      },
+      "artists": [
+        {
+          "name": "Hareem",
+          "url": "https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225788,
       "name": "Deep in the Night (From The Original TV Show \"Begin Again Korea\") Ep.9 - Live",
       "url": "https://open.spotify.com/track/2JGGU7ExqDCdYrw2hpdSwq"
+    },
+    {
+      "album": {
+        "name": "Departure (From The Original TV Show \"Begin Again Korea\" Ep. 1) (Live)",
+        "url": "https://open.spotify.com/album/3zIzMWWXelWouGwx3KYtVX"
+      },
+      "artists": [
+        {
+          "name": "Hareem",
+          "url": "https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232192,
+      "name": "Departure (From The Original TV Show \"Begin Again Korea\" Ep. 1) (Live)",
+      "url": "https://open.spotify.com/track/44P1L1j9IsyG4vnw1lh60U"
     },
     {
       "album": {
@@ -437,7 +737,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234087,
       "name": "Departure (From The Original TV Show \"Begin Again Korea\") Ep.1",
       "url": "https://open.spotify.com/track/0hYXGdMdPi2R3RCmH9ATJ1"
@@ -459,7 +759,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 313435,
       "name": "Do not go away from me [Bonus Track] - \uc2ac\ub798\uc778 \uce90\uc2ac Ver.",
       "url": "https://open.spotify.com/track/5e4DRkL7vBixrwLzcjj1kj"
@@ -485,10 +785,36 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275846,
       "name": "Don't Look Back In Anger - \ub9e8\uccb4\uc2a4\ud130 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/1dFiGJSePab6YiTEj9aKWg"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode8",
+        "url": "https://open.spotify.com/album/5Yl1eOTjtEKht90y8axctm"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275846,
+      "name": "Don't Look Back In Anger \u2013 Manchester Busking ver",
+      "url": "https://open.spotify.com/track/3H8CvdpoXgIAexa87upkUc"
     },
     {
       "album": {
@@ -507,10 +833,50 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248014,
       "name": "Dreaming Girl Two - \uc0e4\ubaa8\ub2c8 \ubc84\uc2a4\ud0b9 \uac1c\uc0ac Ver.",
       "url": "https://open.spotify.com/track/2f21FvzNqEiPsOvZANqqw2"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode12",
+        "url": "https://open.spotify.com/album/5eWfAwyHVx7TpQ12HTFzwh"
+      },
+      "artists": [
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248014,
+      "name": "Dreaming Girl Two \u2013 Chamonix Busking ver",
+      "url": "https://open.spotify.com/track/3O3aQ9FgkGXkD1ZzpErmnN"
+    },
+    {
+      "album": {
+        "name": "Begin Again Korea, Episode. 10 (Original Television Soundtrack) (Live)",
+        "url": "https://open.spotify.com/album/1GrNKv6qqmXfbBTdILPwwf"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292405,
+      "name": "End of a day (From The Original TV Show \"Begin Again Korea\") (Live)",
+      "url": "https://open.spotify.com/track/0Nicbvl7GW0TWXn9V47oty"
     },
     {
       "album": {
@@ -525,10 +891,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 292405,
       "name": "End of a day (From The Original TV Show \"Begin Again Korea\") - Live",
       "url": "https://open.spotify.com/track/4s9G0ApVwrNfuGgDZYfKqp"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 2",
+        "url": "https://open.spotify.com/album/6yAt97hTz9SQkXVOnRbBLk"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 144220,
+      "name": "Every day, Every Moment",
+      "url": "https://open.spotify.com/track/65xHPhkQrgrTlImaREYgCT"
     },
     {
       "album": {
@@ -568,6 +952,24 @@
     },
     {
       "album": {
+        "name": "Begin Again Open MIC EPISODE. 3",
+        "url": "https://open.spotify.com/album/4nmdP3aa9hj4xtYJOHFyQJ"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 166337,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/59KuSt5il6FAd3SR0EzQMV"
+    },
+    {
+      "album": {
         "name": "Faded (From The Original TV Show \"Begin Again Korea\") Ep.10-1 [Live]",
         "url": "https://open.spotify.com/album/6dfW6DIy04XbMQpZ1u6P0I"
       },
@@ -579,10 +981,54 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222243,
       "name": "Faded (From The Original TV Show \"Begin Again Korea\") Ep.10-1 - Live",
       "url": "https://open.spotify.com/track/4e41lsJTZUUDGnR20r7FVK"
+    },
+    {
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/5xui1nB24aB7y3WSIj8BVD"
+      },
+      "artists": [
+        {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222243,
+      "name": "Faded - From The Original TV Show \"Begin Again Korea\" Ep. 10-1",
+      "url": "https://open.spotify.com/track/11oikclbTl7wqW3XOiBOFv"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode2",
+        "url": "https://open.spotify.com/album/0Itx5hcQyVZ777J0KqrdAN"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222095,
+      "name": "Falling Slowly (Slane Castle ver.)",
+      "url": "https://open.spotify.com/track/0U4vGALzgVICrSDYvhX1T3"
     },
     {
       "album": {
@@ -605,10 +1051,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222095,
       "name": "Falling Slowly - \uc2ac\ub798\uc778 \uce90\uc2ac Ver.",
       "url": "https://open.spotify.com/track/6Ucli7vafNzIK0eyYNBO8t"
+    },
+    {
+      "album": {
+        "name": "Roy Kim Live in Begin Again 2",
+        "url": "https://open.spotify.com/album/13ShXsAsKW7cW5yPz65Man"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285674,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/4GlRKUlJvP9ReXFiVMLcWH"
     },
     {
       "album": {
@@ -623,7 +1087,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285674,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/5UUxlZKtBp31G9A0HzXydZ"
@@ -645,10 +1109,32 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192192,
       "name": "Flower Rain - \uc0e4\ubaa8\ub2c8 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/3WWmgkeRlerq4J8IY50dDq"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode12",
+        "url": "https://open.spotify.com/album/5eWfAwyHVx7TpQ12HTFzwh"
+      },
+      "artists": [
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192192,
+      "name": "Flower Rain \u2013 Chamonix Busking ver",
+      "url": "https://open.spotify.com/track/3Eh5xxAuhZaQjoOlsedz9f"
     },
     {
       "album": {
@@ -661,15 +1147,15 @@
           "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
         },
         {
-          "name": "Lee Sunkyu",
-          "url": "https://open.spotify.com/artist/2alpm0J0RkICnGpdP6Wc5Z"
+          "name": "Lee Sun Kyu",
+          "url": "https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X"
         }
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187096,
-      "name": "Fly me to the moon Live Version",
+      "name": "Fly me to the moon - Live Version",
       "url": "https://open.spotify.com/track/22JQFdJdySjnfwLf32a54Z"
     },
     {
@@ -685,10 +1171,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 280709,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3UsCdnYXrLNqoGhAiBf39M"
+    },
+    {
+      "album": {
+        "name": "Roy Kim Live in Begin Again 2",
+        "url": "https://open.spotify.com/album/13ShXsAsKW7cW5yPz65Man"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280709,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4piEiX8VdQAyI9GgyfJQaP"
     },
     {
       "album": {
@@ -703,10 +1207,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214000,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/1DcaCp6lcd4RehHc3X7wEj"
+    },
+    {
+      "album": {
+        "name": "Roy Kim Live in Begin Again 2",
+        "url": "https://open.spotify.com/album/13ShXsAsKW7cW5yPz65Man"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3kuK4SuBzcr0R4rmUfBiKE"
     },
     {
       "album": {
@@ -729,10 +1251,36 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170476,
       "name": "He's Pirate (From The Original TV Show \"Begin Again Korea\") - Live",
       "url": "https://open.spotify.com/track/2fo6U3JS5UFn3l9ldQuirO"
+    },
+    {
+      "album": {
+        "name": "Begin Again Korea, Episode.7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2otHALaMD90LSrFm5Vndun"
+      },
+      "artists": [
+        {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        },
+        {
+          "name": "Nau Lee",
+          "url": "https://open.spotify.com/artist/7ne56vWwgNKT2euH6aDPz7"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170476,
+      "name": "He's Pirate - Live",
+      "url": "https://open.spotify.com/track/3fhKyeNBkvovRDursQlS9K"
     },
     {
       "album": {
@@ -751,6 +1299,42 @@
       "duration_ms": 197233,
       "name": "High",
       "url": "https://open.spotify.com/track/72HaoOPuciui7VTqz00iqU"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 8",
+        "url": "https://open.spotify.com/album/4jHsnuryI0qW9yvN4tQ0ov"
+      },
+      "artists": [
+        {
+          "name": "Yang Dail",
+          "url": "https://open.spotify.com/artist/6L5ynvSx8rCUdvRfju77Hy"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 197233,
+      "name": "High",
+      "url": "https://open.spotify.com/track/79b7M2nVCbafbcwZvzmqEv"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 10",
+        "url": "https://open.spotify.com/album/5umiFQgWe954olmYX0zeBY"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 190304,
+      "name": "I AM A HAPPY MAN",
+      "url": "https://open.spotify.com/track/1ktw1hCONi56VKbz8w3Uiv"
     },
     {
       "album": {
@@ -795,10 +1379,58 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237093,
       "name": "I bless you - \uc0e4\ubaa8\ub2c8 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/03UaYV9sRul8nn5b6F3Fde"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode12",
+        "url": "https://open.spotify.com/album/6H41cjcgNBY9xBvoF2Ffpb"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        },
+        {
+          "name": "RO HONG CHUL",
+          "url": "https://open.spotify.com/artist/0zcTx4R5R60a41u2jDVQbP"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237093,
+      "name": "I bless you \u2013 Chamonix Busking ver",
+      "url": "https://open.spotify.com/track/5ujO0nDWSnIEYZrH5YLghc"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Miss a Thing (From The Original TV Show \"Begin Again Korea\" Ep. 5) (Live)",
+        "url": "https://open.spotify.com/album/2KrlMJVopqEi9K1SFZZhXj"
+      },
+      "artists": [
+        {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170540,
+      "name": "I Don't Want to Miss a Thing (From The Original TV Show \"Begin Again Korea\" Ep. 5) (Live)",
+      "url": "https://open.spotify.com/track/2af2uN8gSG8Fi2nWmF02bs"
     },
     {
       "album": {
@@ -813,10 +1445,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170540,
       "name": "I Don't Want to Miss a Thing (From The Original TV Show \"Begin Again Korea\") Ep.5 - Live",
       "url": "https://open.spotify.com/track/74SyHmxYa9UZTmoirA1KfJ"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 10",
+        "url": "https://open.spotify.com/album/5umiFQgWe954olmYX0zeBY"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 265969,
+      "name": "I Knew I Love",
+      "url": "https://open.spotify.com/track/1i8Q7IpzthlK6tL1oSXXNd"
     },
     {
       "album": {
@@ -853,10 +1503,32 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220119,
       "name": "I Remember - \ubabd\ud2b8\ub8b0 \uc7ac\uc988 \ud398\uc2a4\ud2f0\ubc8c Ver.",
       "url": "https://open.spotify.com/track/1j3HXZ4b9Nwoc2Vgtv8u3A"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode11",
+        "url": "https://open.spotify.com/album/2XHsNUlA3RtnfHnuspNB3i"
+      },
+      "artists": [
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220119,
+      "name": "I Remember \u2013 Montreux Jazz Festival ver",
+      "url": "https://open.spotify.com/track/7fiH2ZoNFeDI950zSHes3Z"
     },
     {
       "album": {
@@ -925,10 +1597,46 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 264431,
       "name": "I'll Be There (From The Original TV Show \"Begin Again Korea\") - Live",
       "url": "https://open.spotify.com/track/6KOA9wwdnOfc7cXuhHEngt"
+    },
+    {
+      "album": {
+        "name": "Begin Again Korea, Episode.7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2otHALaMD90LSrFm5Vndun"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264431,
+      "name": "I'll Be There - Live",
+      "url": "https://open.spotify.com/track/0I4zvKzqY3l6z6hRbhzA5F"
+    },
+    {
+      "album": {
+        "name": "idontwannabeyouanymore",
+        "url": "https://open.spotify.com/album/5mD4qSj79uaYFPxNg0szuK"
+      },
+      "artists": [
+        {
+          "name": "Soyou",
+          "url": "https://open.spotify.com/artist/7Eu1Td5FeUk2mNfcpCOfch"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 205225,
+      "name": "idontwannabeyouanymore",
+      "url": "https://open.spotify.com/track/1USWcHizr6dLnl2MUq7kUa"
     },
     {
       "album": {
@@ -965,10 +1673,58 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198017,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/4HZ6YCDuFapuudcmp1IScD"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3NaDUkOgBqIjZiRsVRRBbP"
+      },
+      "artists": [
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        },
+        {
+          "name": "Lim Kim",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198017,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6Zp6FBGVX8ImV87avj0CNx"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode8",
+        "url": "https://open.spotify.com/album/5Yl1eOTjtEKht90y8axctm"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223003,
+      "name": "Imagine - Manchester Busking ver",
+      "url": "https://open.spotify.com/track/1O3boY1QMeYR5EEcT8DJHd"
     },
     {
       "album": {
@@ -991,7 +1747,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223003,
       "name": "Imagine - \ub9e8\uccb4\uc2a4\ud130 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/12cJk7oxB93ROH3Ef34Z6Z"
@@ -1013,10 +1769,32 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 284279,
       "name": "In Front Of The Autumn Post Office - \uc0e4\ubaa8\ub2c8 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/7f9q1NvND0emgaCVmTCAdw"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode12",
+        "url": "https://open.spotify.com/album/5eWfAwyHVx7TpQ12HTFzwh"
+      },
+      "artists": [
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284279,
+      "name": "In Front Of The Autumn Post Office \u2013 Chamonix Busking ver",
+      "url": "https://open.spotify.com/track/33hWdbayWz9hmNKnqhr7EN"
     },
     {
       "album": {
@@ -1035,6 +1813,24 @@
       "duration_ms": 209235,
       "name": "IN THE NAME OF LOVE",
       "url": "https://open.spotify.com/track/65jb3iJLY1RjqKi4Gc2rkM"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 20",
+        "url": "https://open.spotify.com/album/0QZ7tk415suB3yFH6PMMAu"
+      },
+      "artists": [
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 209235,
+      "name": "IN THE NAME OF LOVE",
+      "url": "https://open.spotify.com/track/6oZXpU5Ws5wHLMC0DqBya3"
     },
     {
       "album": {
@@ -1182,6 +1978,24 @@
     },
     {
       "album": {
+        "name": "Begin Again Open MIC EPISODE. 20",
+        "url": "https://open.spotify.com/album/0QZ7tk415suB3yFH6PMMAu"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209588,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/6ks6zfvE3sUD2UTxSqxBbG"
+    },
+    {
+      "album": {
         "name": "Begin Again-Episode4",
         "url": "https://open.spotify.com/album/3LCMlksDFH46YPgUtkqhqN"
       },
@@ -1235,7 +2049,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 404910,
       "name": "Knockin' On Heaven's Door - \uace8\uc6e8\uc774 \ub9c8\uc9c0\ub9c9 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/0FzOyxJUeiKaRLwtviwV2C"
@@ -1286,6 +2100,28 @@
     },
     {
       "album": {
+        "name": "Begin Again Open MIC EPISODE. 14",
+        "url": "https://open.spotify.com/album/40VWECb5Qnc8X52f1qjU5L"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        },
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 192730,
+      "name": "Little By Little",
+      "url": "https://open.spotify.com/track/2DQCkj37xbdVDtlQyLrTsA"
+    },
+    {
+      "album": {
         "name": "Begin Again Open MIC EPISODE. 9",
         "url": "https://open.spotify.com/album/6LE1Wgr8ilqPGSqoH3wBJQ"
       },
@@ -1308,6 +2144,46 @@
     },
     {
       "album": {
+        "name": "Begin Again Open MIC EPISODE. 9",
+        "url": "https://open.spotify.com/album/0vOQsfnfoexyr5FeyWZ7Pw"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 240389,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/6lGaGmtQYIGbcvefZH8j1e"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode9",
+        "url": "https://open.spotify.com/album/2Q1sIZdwzi1bwoqyutD5O5"
+      },
+      "artists": [
+        {
+          "name": "Begin Us",
+          "url": "https://open.spotify.com/artist/1ZZc50W2V5k5cNq9G5CLhf"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209544,
+      "name": "Love Of My Life - Montreux Busking ver",
+      "url": "https://open.spotify.com/track/5kYbR79nqhAMc0LUCxkPxY"
+    },
+    {
+      "album": {
         "name": "Begin Again-Episode9",
         "url": "https://open.spotify.com/album/5iGejEKJVt7OehR55pkmBL"
       },
@@ -1323,10 +2199,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209544,
       "name": "Love Of My Life - \ubabd\ud2b8\ub8b0 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/29SAFOdqjlcE9lqjtGeIVb"
+    },
+    {
+      "album": {
+        "name": "Roy Kim Live in Begin Again 2",
+        "url": "https://open.spotify.com/album/13ShXsAsKW7cW5yPz65Man"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224807,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/3Zp0jyT5y005vmud2dui5c"
     },
     {
       "album": {
@@ -1341,7 +2235,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224807,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/4HnRhn7ds5YcN8S05Vxq0y"
@@ -1407,10 +2301,54 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269884,
       "name": "My Heart Will Go On (From The Original TV Show \"Begin Again Korea\") - Live",
       "url": "https://open.spotify.com/track/2QFAOgAZvzM6r41swlp28d"
+    },
+    {
+      "album": {
+        "name": "Begin Again Korea, Episode.7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2otHALaMD90LSrFm5Vndun"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        },
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269884,
+      "name": "My Heart Will Go On - Live",
+      "url": "https://open.spotify.com/track/21dSHjDRpt6FOwROYY6wKe"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode6",
+        "url": "https://open.spotify.com/album/3YRsbd5CXx9HCSeA32T4U8"
+      },
+      "artists": [
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268714,
+      "name": "My Soul - Liverpool Busking ver",
+      "url": "https://open.spotify.com/track/31z4Yli0Rcbw6Bw6IU1ckk"
     },
     {
       "album": {
@@ -1429,7 +2367,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268714,
       "name": "My Soul - \ub9ac\ubc84\ud480 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/6sSi72nss3zLuKEHwJMKLh"
@@ -1503,10 +2441,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213216,
       "name": "Only if",
       "url": "https://open.spotify.com/track/1RIYFSubxDnlLuK3LeilyC"
+    },
+    {
+      "album": {
+        "name": "Roy Kim Live in Begin Again 2",
+        "url": "https://open.spotify.com/album/13ShXsAsKW7cW5yPz65Man"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213216,
+      "name": "Only if",
+      "url": "https://open.spotify.com/track/7KVvWpxTtceik6upT8c20h"
     },
     {
       "album": {
@@ -1528,6 +2484,24 @@
     },
     {
       "album": {
+        "name": "Begin Again Open MIC EPISODE. 8",
+        "url": "https://open.spotify.com/album/4jHsnuryI0qW9yvN4tQ0ov"
+      },
+      "artists": [
+        {
+          "name": "Yang Dail",
+          "url": "https://open.spotify.com/artist/6L5ynvSx8rCUdvRfju77Hy"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 199319,
+      "name": "Paris in the rain",
+      "url": "https://open.spotify.com/track/65rrUMwY9LwklCGciAeP3h"
+    },
+    {
+      "album": {
         "name": "Begin Again Open MIC EPISODE. 5",
         "url": "https://open.spotify.com/album/0tm09v2xgVsAG540MrqKUP"
       },
@@ -1546,6 +2520,42 @@
     },
     {
       "album": {
+        "name": "Begin Again Open MIC EPISODE. 5",
+        "url": "https://open.spotify.com/album/1FLYj9FfyyAvkaksqKfKGm"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Hyun",
+          "url": "https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 293622,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7MLpB5tKhWd7PshuptFIVe"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 4",
+        "url": "https://open.spotify.com/album/397kPpcpnFpv3wWYH6cXSV"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180858,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/0Cckd0x8Lwq4wrhAbifZaS"
+    },
+    {
+      "album": {
         "name": "Begin Again Open MIC EPISODE. 4",
         "url": "https://open.spotify.com/album/461O54oxgMHLUpQ6XYKoSr"
       },
@@ -1557,7 +2567,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180858,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/28pJrrJBeuw4WQuH6bAYkx"
@@ -1609,10 +2619,46 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242606,
       "name": "Please (From The Original TV Show \"Begin Again Korea\") - Live",
       "url": "https://open.spotify.com/track/1Q3bixzSuWRBMAgEUN3Ehc"
+    },
+    {
+      "album": {
+        "name": "Begin Again Korea Episode. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/28kabK2tMZmOJh2JHmCAls"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242606,
+      "name": "Please - Live",
+      "url": "https://open.spotify.com/track/1bUIR0NNnL0xnAWYa5pLP4"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 6",
+        "url": "https://open.spotify.com/album/5aiiutRSm559l4QilIDL9Y"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248821,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/1xPqGMDTbFFMsshFvcmZB2"
     },
     {
       "album": {
@@ -1627,7 +2673,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248821,
       "name": "Pray",
       "url": "https://open.spotify.com/track/2fUIDxtWZYmmvrh7nLdm3z"
@@ -1679,16 +2725,38 @@
           "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
         },
         {
-          "name": "Lee Sunkyu",
-          "url": "https://open.spotify.com/artist/2alpm0J0RkICnGpdP6Wc5Z"
+          "name": "Lee Sun Kyu",
+          "url": "https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X"
         }
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 255629,
-      "name": "River Live Version",
+      "name": "River - Live Version",
       "url": "https://open.spotify.com/track/1ob2Y6tCloQ1FwBvUyv7VB"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 20",
+        "url": "https://open.spotify.com/album/0QZ7tk415suB3yFH6PMMAu"
+      },
+      "artists": [
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        },
+        {
+          "name": "Lim Kim",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230668,
+      "name": "Say something",
+      "url": "https://open.spotify.com/track/0zOFUfjhRSMqIe2yb6YQ9j"
     },
     {
       "album": {
@@ -1707,7 +2775,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230668,
       "name": "Say something",
       "url": "https://open.spotify.com/track/162vlRyHVRWaE0JIIIVCgW"
@@ -1745,16 +2813,38 @@
           "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
         },
         {
-          "name": "Lee Sunkyu",
-          "url": "https://open.spotify.com/artist/2alpm0J0RkICnGpdP6Wc5Z"
+          "name": "Lee Sun Kyu",
+          "url": "https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X"
         }
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219991,
-      "name": "Shining Live Version",
+      "name": "Shining - Live Version",
       "url": "https://open.spotify.com/track/3I49nj7cvt4Fp9bBDEulNi"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 9",
+        "url": "https://open.spotify.com/album/0vOQsfnfoexyr5FeyWZ7Pw"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 259571,
+      "name": "Stalker",
+      "url": "https://open.spotify.com/track/07YemJuF03wF9u3R3ReQfD"
     },
     {
       "album": {
@@ -1791,10 +2881,46 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266186,
       "name": "Stay Alive (Music from Begin Again-Episode10) - \ubabd\ud2b8\ub8b0 \uc7ac\uc988\ud398\uc2a4\ud2f0\ubc8c \uac70\ub9ac Ver.",
       "url": "https://open.spotify.com/track/2UBOAaTVHuS3q36cF7BDO9"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode10",
+        "url": "https://open.spotify.com/album/7e4aQpx0o36AZXQWONLfP0"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266186,
+      "name": "Stay Alive \u2013 Montreux Jazz Festival Street ver",
+      "url": "https://open.spotify.com/track/0S89X5We8jk7nqY1y6hNBl"
+    },
+    {
+      "album": {
+        "name": "Roy Kim Live in Begin Again 2",
+        "url": "https://open.spotify.com/album/13ShXsAsKW7cW5yPz65Man"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175148,
+      "name": "Stay with Me",
+      "url": "https://open.spotify.com/track/24CdJND1Q4WIkQBXrZyWCG"
     },
     {
       "album": {
@@ -1809,7 +2935,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175148,
       "name": "Stay with Me",
       "url": "https://open.spotify.com/track/5KI4W93UARGnqsupVWv4tL"
@@ -1853,10 +2979,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255852,
       "name": "The Days",
       "url": "https://open.spotify.com/track/2fikgnHd5HRdK5wZ0JJVXB"
+    },
+    {
+      "album": {
+        "name": "Roy Kim Live in Begin Again 2",
+        "url": "https://open.spotify.com/album/13ShXsAsKW7cW5yPz65Man"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255852,
+      "name": "The Days",
+      "url": "https://open.spotify.com/track/34fY3CHtxMfZtkpC7R77Xm"
     },
     {
       "album": {
@@ -1882,6 +3026,46 @@
     },
     {
       "album": {
+        "name": "Begin Again Open MIC EPISODE. 6",
+        "url": "https://open.spotify.com/album/5aiiutRSm559l4QilIDL9Y"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        },
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 229725,
+      "name": "The fool",
+      "url": "https://open.spotify.com/track/72D1kSoFW51vYrJ2KCSQAd"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 2",
+        "url": "https://open.spotify.com/album/6yAt97hTz9SQkXVOnRbBLk"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Hyun",
+          "url": "https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 250218,
+      "name": "THE ONLY THING I CAN\u2019T DO",
+      "url": "https://open.spotify.com/track/2lFAwoEXnsPs05dy5nCDs9"
+    },
+    {
+      "album": {
         "name": "Begin Again Open MIC EPISODE. 2",
         "url": "https://open.spotify.com/album/0dKCCP6FNi0AZvmtxW6P4z"
       },
@@ -1901,7 +3085,7 @@
     {
       "album": {
         "name": "Begin Again-Episode6",
-        "url": "https://open.spotify.com/album/0tyx1Gg6wW0R1TqumFSjjL"
+        "url": "https://open.spotify.com/album/3YRsbd5CXx9HCSeA32T4U8"
       },
       "artists": [
         {
@@ -1916,6 +3100,28 @@
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 277209,
+      "name": "The Scientist - Liverpool Busking ver",
+      "url": "https://open.spotify.com/track/6kQW8knPKpEv4FmCWMY59G"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode6",
+        "url": "https://open.spotify.com/album/0tyx1Gg6wW0R1TqumFSjjL"
+      },
+      "artists": [
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 277209,
       "name": "The Scientist - \ub9ac\ubc84\ud480 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/5AOOsNZ9NHODaVBJYjawS9"
@@ -1991,7 +3197,7 @@
     {
       "album": {
         "name": "Begin Again-Episode4",
-        "url": "https://open.spotify.com/album/6h6K1l0XsEplLaafll6jI4"
+        "url": "https://open.spotify.com/album/4bFOR8BJtLxrqCUwFHMh82"
       },
       "artists": [
         {
@@ -2006,6 +3212,28 @@
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209916,
+      "name": "To Find You - The last busking in Galway ver",
+      "url": "https://open.spotify.com/track/4Hk2NeZaPpeeIItQXQgLOT"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode4",
+        "url": "https://open.spotify.com/album/6h6K1l0XsEplLaafll6jI4"
+      },
+      "artists": [
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 209916,
       "name": "To Find You - \uace8\uc6e8\uc774 \ub9c8\uc9c0\ub9c9 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/3rNp9OQ4Hf9D4GpqUcxEf3"
@@ -2027,10 +3255,32 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285693,
       "name": "To live in this land - \ubabd\ud2b8\ub8b0 \uc7ac\uc988 \ud398\uc2a4\ud2f0\ubc8c Ver.",
       "url": "https://open.spotify.com/track/0QOd4JihlZ39VQbRadRxu8"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode11",
+        "url": "https://open.spotify.com/album/2XHsNUlA3RtnfHnuspNB3i"
+      },
+      "artists": [
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285693,
+      "name": "To live in this land \u2013 Montreux Jazz Festival ver",
+      "url": "https://open.spotify.com/track/20y1xRn8ZwbNF5V1OwECNv"
     },
     {
       "album": {
@@ -2052,6 +3302,46 @@
     },
     {
       "album": {
+        "name": "To You Who Do Not Love Me",
+        "url": "https://open.spotify.com/album/0aps3nRyJ0jCAmgaohGp59"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 306641,
+      "name": "To You Who Do Not Love Me",
+      "url": "https://open.spotify.com/track/7B5ivh7qYHy8UG1PoB4BZb"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode6",
+        "url": "https://open.spotify.com/album/6lPOjoAapijyXDgEOGsPz3"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263395,
+      "name": "To you who do not love me - Liverpool Busking ver",
+      "url": "https://open.spotify.com/track/1O1eEsyosKwYJ9NlZGKVUt"
+    },
+    {
+      "album": {
         "name": "Begin Again-Episode6",
         "url": "https://open.spotify.com/album/0tyx1Gg6wW0R1TqumFSjjL"
       },
@@ -2067,7 +3357,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263395,
       "name": "To you who do not love me - \ub9ac\ubc84\ud480 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/3cw40i2XMrpGMrXgkOXwYp"
@@ -2097,10 +3387,40 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239240,
       "name": "Today Is - \ubabd\ud2b8\ub8b0 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/4cvGcMBe4rt9v1RNZRSYd3"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode9",
+        "url": "https://open.spotify.com/album/3nhvZYn5RmMuh4fFZaM862"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        },
+        {
+          "name": "RO HONG CHUL",
+          "url": "https://open.spotify.com/artist/0zcTx4R5R60a41u2jDVQbP"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239240,
+      "name": "Today is \u2013 Montreux Busking ver",
+      "url": "https://open.spotify.com/track/4jN3Z7JAF7ugq4f9QDixOj"
     },
     {
       "album": {
@@ -2123,10 +3443,36 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232265,
       "name": "Track 3 - \uc0e4\ubaa8\ub2c8 \ubc84\uc2a4\ud0b9 Ver.",
       "url": "https://open.spotify.com/track/0mrs2KdqRHYKailT7CiEfK"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode12",
+        "url": "https://open.spotify.com/album/2zkYpqyvKKM9PXkTuFsh8L"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232265,
+      "name": "Track 3 \u2013 Chamonix Busking ver",
+      "url": "https://open.spotify.com/track/3B8wDYz5RDmoCA7mAwt2lT"
     },
     {
       "album": {
@@ -2141,10 +3487,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 284177,
       "name": "Uphill Road",
       "url": "https://open.spotify.com/track/3iLVaA0fG5j1u5jAZSVLFX"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 14",
+        "url": "https://open.spotify.com/album/40VWECb5Qnc8X52f1qjU5L"
+      },
+      "artists": [
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284177,
+      "name": "Uphill Road",
+      "url": "https://open.spotify.com/track/6LwFn26HWRMBKJjAT0w9O5"
     },
     {
       "album": {
@@ -2163,6 +3527,24 @@
       "duration_ms": 191682,
       "name": "Wake me up",
       "url": "https://open.spotify.com/track/27eW5OD7uyDp5T08uS8xOJ"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 5",
+        "url": "https://open.spotify.com/album/1FLYj9FfyyAvkaksqKfKGm"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 191682,
+      "name": "Wake me up",
+      "url": "https://open.spotify.com/track/4bCnAFtXzJJEUVb4oG0nii"
     },
     {
       "album": {
@@ -2202,6 +3584,24 @@
     },
     {
       "album": {
+        "name": "Begin Again Open MIC EPISODE. 3",
+        "url": "https://open.spotify.com/album/4nmdP3aa9hj4xtYJOHFyQJ"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Hyun",
+          "url": "https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 244389,
+      "name": "WIND SONG",
+      "url": "https://open.spotify.com/track/2sVBOGbqg61aj3AShOVWvC"
+    },
+    {
+      "album": {
         "name": "Begin Again Korea Episode.7 (Original Television Soundtrack) [Live]",
         "url": "https://open.spotify.com/album/6N0KkVjeroUOYfDGztD5OP"
       },
@@ -2213,10 +3613,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256699,
       "name": "Wind Song (From The Original TV Show \"Begin Again Korea\") - Live",
       "url": "https://open.spotify.com/track/2RtQ8ihZth7JXDqF01oySJ"
+    },
+    {
+      "album": {
+        "name": "Begin Again Korea, Episode.7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2otHALaMD90LSrFm5Vndun"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256699,
+      "name": "Wind Song - Live",
+      "url": "https://open.spotify.com/track/4n5YsDjqVQ8RMITXKghDQ9"
     },
     {
       "album": {
@@ -2238,6 +3656,46 @@
     },
     {
       "album": {
+        "name": "Begin Again Open MIC EPISODE. 4",
+        "url": "https://open.spotify.com/album/397kPpcpnFpv3wWYH6cXSV"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 216152,
+      "name": "Wish you were gay",
+      "url": "https://open.spotify.com/track/4RISCCSmQvmZnP8wvbqtT1"
+    },
+    {
+      "album": {
+        "name": "Begin Again-Episode2",
+        "url": "https://open.spotify.com/album/5YB4OwNjeuCl9aPJCrtLBH"
+      },
+      "artists": [
+        {
+          "name": "You Hee Yeol",
+          "url": "https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240695,
+      "name": "With Or Without You (Slane Castle ver.)",
+      "url": "https://open.spotify.com/track/1kStlmF3X5pt1juCoSm0Xe"
+    },
+    {
+      "album": {
         "name": "Begin Again-Episode2",
         "url": "https://open.spotify.com/album/6BpOs8nWfoL6wsImdL99AW"
       },
@@ -2253,7 +3711,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240695,
       "name": "With Or Without You - \uc2ac\ub798\uc778 \uce90\uc2ac Ver.",
       "url": "https://open.spotify.com/track/6ADzU29PGlvIBCR09bNowN"
@@ -2271,10 +3729,46 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267025,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/2cqG9U9wceAniRJoXBnoP2"
+    },
+    {
+      "album": {
+        "name": "Roy Kim Live in Begin Again 2",
+        "url": "https://open.spotify.com/album/13ShXsAsKW7cW5yPz65Man"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267025,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/76rpHVRboIfPN5alPgQGsB"
+    },
+    {
+      "album": {
+        "name": "Begin Again Korea, Episode. 10 (Original Television Soundtrack) (Live)",
+        "url": "https://open.spotify.com/album/1GrNKv6qqmXfbBTdILPwwf"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313840,
+      "name": "You in my arms (From The Original TV Show \"Begin Again Korea\") (Live)",
+      "url": "https://open.spotify.com/track/3R1pb4dWmpMLqxfrwMep2u"
     },
     {
       "album": {
@@ -2289,10 +3783,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 313840,
       "name": "You in my arms (From The Original TV Show \"Begin Again Korea\") - Live",
       "url": "https://open.spotify.com/track/3dA3EVZKyoeH5RG5esZLhR"
+    },
+    {
+      "album": {
+        "name": "Begin Again Open MIC EPISODE. 1",
+        "url": "https://open.spotify.com/album/5mVUtVj69kNS66WyKP8bQc"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 179972,
+      "name": "YOU WERE BEAUTIFUL",
+      "url": "https://open.spotify.com/track/3ghjObgZIgUDgOlccfLAXw"
     },
     {
       "album": {
@@ -2314,6 +3826,24 @@
     },
     {
       "album": {
+        "name": "Youngblood (From The Original TV Show \"Begin Again Korea\" Ep. 1-1) (Live)",
+        "url": "https://open.spotify.com/album/4ItShd2pRcDjq7pkR7NAlc"
+      },
+      "artists": [
+        {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278216,
+      "name": "Youngblood (From The Original TV Show \"Begin Again Korea\" Ep. 1-1) (Live)",
+      "url": "https://open.spotify.com/track/6UZ0ahbrJ9pRyOMC3Zf6do"
+    },
+    {
+      "album": {
         "name": "Youngblood (From The Original TV Show \"Begin Again Korea\") Ep.1-1",
         "url": "https://open.spotify.com/album/3ejXv1mREH4JSTi2gg82hQ"
       },
@@ -2325,7 +3855,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 278216,
       "name": "Youngblood (From The Original TV Show \"Begin Again Korea\") Ep.1-1",
       "url": "https://open.spotify.com/track/2hHfHsqusupS8iimTLpBVI"
@@ -2343,7 +3873,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209588,
       "name": "\uadf8\ub0e5",
       "url": "https://open.spotify.com/track/4jY851u5PYHZM4GpHc6nUu"
@@ -2359,15 +3889,15 @@
           "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
         },
         {
-          "name": "Lee Sunkyu",
-          "url": "https://open.spotify.com/artist/2alpm0J0RkICnGpdP6Wc5Z"
+          "name": "Lee Sun Kyu",
+          "url": "https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X"
         }
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230957,
-      "name": "\ubd04\uc774 \uc624\uba74 Live Version",
+      "name": "\ubd04\uc774 \uc624\uba74 - Live Version",
       "url": "https://open.spotify.com/track/4lvfbmemVowRlY3qh05ro5"
     },
     {
@@ -2387,10 +3917,32 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258962,
       "name": "\ube44\uae34\uc5b4\uac8c\uc778 \uc624\ud508\ub9c8\uc774\ud06c EPISODE. 34 -\uc77c\ub801\uc784\uc758 \ucc30\ub098",
       "url": "https://open.spotify.com/track/3u2k4Mr3hpobfuDp9BLE1K"
+    },
+    {
+      "album": {
+        "name": "\ube44\uae34\uc5b4\uac8c\uc778 \uc624\ud508\ub9c8\uc774\ud06c EPISODE. 34 -\uc77c\ub801\uc784\uc758 \ucc30\ub098",
+        "url": "https://open.spotify.com/album/5pQzpyLvHtOefFVPCRK0Wg"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uc11d\ud6c8",
+          "url": "https://open.spotify.com/artist/1sK6u1AYcW34Kms0OZtnMC"
+        },
+        {
+          "name": "Kim Joon-Seo",
+          "url": "https://open.spotify.com/artist/38yvkeOk48SQQIqlvbOELK"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258962,
+      "name": "\ube44\uae34\uc5b4\uac8c\uc778 \uc624\ud508\ub9c8\uc774\ud06c EPISODE. 34 -\uc77c\ub801\uc784\uc758 \ucc30\ub098",
+      "url": "https://open.spotify.com/track/6IFdEC905IVfVKkEg5oCIf"
     },
     {
       "album": {
@@ -2403,15 +3955,15 @@
           "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
         },
         {
-          "name": "Lee Sunkyu",
-          "url": "https://open.spotify.com/artist/2alpm0J0RkICnGpdP6Wc5Z"
+          "name": "Lee Sun Kyu",
+          "url": "https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X"
         }
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 274818,
-      "name": "\uc2a4\ubb3c\ub2e4\uc12f, \uc2a4\ubb3c\ud558\ub098 Live Version",
+      "name": "\uc2a4\ubb3c\ub2e4\uc12f, \uc2a4\ubb3c\ud558\ub098 - Live Version",
       "url": "https://open.spotify.com/track/0S0n39V04ulJVZJlWfVGNt"
     },
     {
@@ -2425,15 +3977,15 @@
           "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
         },
         {
-          "name": "Lee Sunkyu",
-          "url": "https://open.spotify.com/artist/2alpm0J0RkICnGpdP6Wc5Z"
+          "name": "Lee Sun Kyu",
+          "url": "https://open.spotify.com/artist/3OdmCERSiK9kFfjfdsCb3X"
         }
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219991,
-      "name": "\uc704\ub85c Live Version",
+      "name": "\uc704\ub85c - Live Version",
       "url": "https://open.spotify.com/track/3HxCucOrK9HBjwDNbF5xi6"
     }
   ],

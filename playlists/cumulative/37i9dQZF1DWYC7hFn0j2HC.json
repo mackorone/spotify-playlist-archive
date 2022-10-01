@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Que De Raro Tiene",
+        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Ac\u00e1 Entre Nos",
+      "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 De Raro Tiene",
         "url": "https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195666,
       "name": "Ac\u00e1 Entre Nos",
       "url": "https://open.spotify.com/track/7jGzWIfDZLVyLYEWaX3oTR"
@@ -55,10 +73,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 156548,
       "name": "Albur De Amor",
       "url": "https://open.spotify.com/track/2Hi3gHdIpgSqr4jdEtWOJB"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico Gran Colecci\u00f3n Ranchera: Jorge Negrete",
+        "url": "https://open.spotify.com/album/6e2PGumvEHWGwC0xqDo9qW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135418,
+      "name": "Alla en el Rancho Grande",
+      "url": "https://open.spotify.com/track/5kxOvMsJ2XwXNBNnZupxJs"
     },
     {
       "album": {
@@ -73,7 +109,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133720,
       "name": "All\u00e1 en el rancho grande (remastered)",
       "url": "https://open.spotify.com/track/3a9QpnHcG3KeLgv7Lhc6yy"
@@ -91,7 +127,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189773,
       "name": "Amigo Organillero",
       "url": "https://open.spotify.com/track/0wAvcx3s0npmQdQRkBnUso"
@@ -116,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Jorge Negrete, Trio Calaveras y Silvestre Vargas",
+        "url": "https://open.spotify.com/album/2QV8SOTtZ3APYWXwBjpNy8"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Ay Jalisco No Te Rajes",
+      "url": "https://open.spotify.com/track/4euwnQbnoDNtXQ5LKNb07t"
+    },
+    {
+      "album": {
         "name": "Jorge Negrete. Sus 40 Grandes Canciones (1911-1953)",
         "url": "https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b"
       },
@@ -127,7 +181,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144266,
       "name": "Ay, jalisco no te rajes (remastered)",
       "url": "https://open.spotify.com/track/3W6QLGKk0ggZuk2jzPlxTO"
@@ -145,10 +199,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184533,
       "name": "Camino de Guanajuato",
       "url": "https://open.spotify.com/track/50AnCqAVXt8qR1RJtGudUU"
+    },
+    {
+      "album": {
+        "name": "Corridos Y Rancheras",
+        "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Camino de Guanajuato",
+      "url": "https://open.spotify.com/track/4Llj18Ki0h1YLFTCZbpSp8"
     },
     {
       "album": {
@@ -188,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Jorge Negrete, Vol II.",
+        "url": "https://open.spotify.com/album/0EdYht3AXlnmT4saeMDjFN"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237426,
+      "name": "Coplas de dos tipos de cuidado",
+      "url": "https://open.spotify.com/track/3IBIwsWrPv2mpJa4SSfNGc"
+    },
+    {
+      "album": {
         "name": "Jorge Negrete. Sus 40 Grandes Canciones (1911-1953)",
         "url": "https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b"
       },
@@ -199,7 +289,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236146,
       "name": "Coplas de dos tipos de cuidado (remastered)",
       "url": "https://open.spotify.com/track/3lgKbnsiz1twr0WJs3ZvNO"
@@ -325,10 +415,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179840,
       "name": "El Jinete",
       "url": "https://open.spotify.com/track/7rvTNx03Rl9R9uO4wMqB9G"
+    },
+    {
+      "album": {
+        "name": "Grabaciones Completas (Remastered)",
+        "url": "https://open.spotify.com/album/3DhnqhKYzQ8tKtUUOLJcnX"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 179943,
+      "name": "El Jinete - Remastered",
+      "url": "https://open.spotify.com/track/3enUz3EjVKgcrL7q8Q2HuW"
     },
     {
       "album": {
@@ -444,6 +552,24 @@
     },
     {
       "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150333,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
+    },
+    {
+      "album": {
         "name": "El Rey del Bolero Ranchero (Remastered)",
         "url": "https://open.spotify.com/album/4ho5wGUJjG7GB4sTC6SRNb"
       },
@@ -455,10 +581,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151986,
       "name": "Entrega Total - Remastered",
       "url": "https://open.spotify.com/track/5ed3P3QrQzU0uyrIJF2zxv"
+    },
+    {
+      "album": {
+        "name": "Los Boleros Morunos Solis",
+        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "Esclavo y Amo",
+      "url": "https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27"
     },
     {
       "album": {
@@ -473,7 +617,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179346,
       "name": "Esclavo y Amo",
       "url": "https://open.spotify.com/track/3iwRXRVCaxXJYP9E2mEesX"
@@ -509,10 +653,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226080,
       "name": "Fallaste corazon",
       "url": "https://open.spotify.com/track/7mYRqhp7hhew3UlSvEkJN5"
+    },
+    {
+      "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
+        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226324,
+      "name": "Fallaste Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
     },
     {
       "album": {
@@ -527,10 +689,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186346,
       "name": "Flor de Azalea",
       "url": "https://open.spotify.com/track/7EccAiD4tFrEx5gEmKGS55"
+    },
+    {
+      "album": {
+        "name": "Fiesta Mexicana",
+        "url": "https://open.spotify.com/album/3YGaO3xZe4xrr1defiiv5q"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186893,
+      "name": "Flor de Azalea",
+      "url": "https://open.spotify.com/track/4MfxBliVa1rOaGjWqyDPih"
     },
     {
       "album": {
@@ -599,7 +779,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169920,
       "name": "Jam\u00e1s, Jam\u00e1s",
       "url": "https://open.spotify.com/track/2GUB96lR5LWCbAhfLxEQU0"
@@ -617,7 +797,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208440,
       "name": "Juan charrasqueado (remastered)",
       "url": "https://open.spotify.com/track/7uqgScMcvxaAJ2MkBudh2X"
@@ -689,7 +869,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 203600,
       "name": "La Ley del Monte",
       "url": "https://open.spotify.com/track/5DUU1yPitGPugNXB1YjNnu"
@@ -743,10 +923,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169626,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/6J9WTHBcgGL7pjnGT6vvS6"
+    },
+    {
+      "album": {
+        "name": "Fiesta Mexicana",
+        "url": "https://open.spotify.com/album/3YGaO3xZe4xrr1defiiv5q"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169973,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/1alyNZG9KRgo9QEs7alv92"
     },
     {
       "album": {
@@ -833,7 +1031,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 158333,
       "name": "Media Vuelta",
       "url": "https://open.spotify.com/track/0QvxVQaOUIMgqxyvk9GpFE"
@@ -959,10 +1157,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266906,
       "name": "No volvere",
       "url": "https://open.spotify.com/track/6csbpu0WY20pjNfRALEoBx"
+    },
+    {
+      "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
+        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267206,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/4Ny3BGfhqH2XOkOMuR2A4Y"
     },
     {
       "album": {
@@ -1021,7 +1237,7 @@
     {
       "album": {
         "name": "Por Tu Maldito Amor",
-        "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
+        "url": "https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1"
       },
       "artists": [
         {
@@ -1032,6 +1248,24 @@
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236480,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5"
+    },
+    {
+      "album": {
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 238000,
       "name": "Por Tu Maldito Amor",
       "url": "https://open.spotify.com/track/4pFrn7MBtpwXlsyO5CbCj2"
@@ -1067,10 +1301,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201933,
       "name": "Qu\u00e9 de Raro Tiene",
       "url": "https://open.spotify.com/track/3S1ksI8qYpwxFy8yPcSlte"
+    },
+    {
+      "album": {
+        "name": "Que De Raro Tiene",
+        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202093,
+      "name": "Qu\u00e9 de Raro Tiene",
+      "url": "https://open.spotify.com/track/3gA2qpAbnuKLQV8Q9ZtIcf"
     },
     {
       "album": {
@@ -1272,6 +1524,24 @@
     },
     {
       "album": {
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180733,
+      "name": "Volver Volver",
+      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    },
+    {
+      "album": {
         "name": "Antonio Aguilar con Mariachi",
         "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
@@ -1337,7 +1607,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-27",
       "duration_ms": 189010,
       "name": "\u00c1rboles De La Barranca",
       "url": "https://open.spotify.com/track/1gbfUKAtyJQivt4gw2J3CG"

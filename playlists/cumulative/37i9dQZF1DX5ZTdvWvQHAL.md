@@ -4,7 +4,7 @@
 
 > Soothing sounds of rain, birds, and waves.
 
-93 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/47G451af9u2JmfvxOvW6Ut)
+95 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/47G451af9u2JmfvxOvW6Ut)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Babbling Brook](https://open.spotify.com/track/4ec3VGnJUyMfX5GEFCBipt) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 | 2022-01-07 |  |
 | [Beautiful Bird & Rain Noise](https://open.spotify.com/track/2pmugk13iWAVy280WYWOj8) | [Fictional Athmosphere](https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H) | [Beautiful Bird & Rain Noise](https://open.spotify.com/album/6fJw6eP08VlrQ0BUDagv8L) | 1:56 | 2022-01-07 |  |
 | [Bird Showers](https://open.spotify.com/track/2CJYdyRtMw3xTbXVAuwl7H) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Umbrella Weather](https://open.spotify.com/album/3xItyMnVuhzJ4xZZaVabSW) | 2:22 | 2022-01-07 |  |
-| [Birds After The Rain](https://open.spotify.com/track/3sgOhjx9zNhxEQIransTTP) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Peaceful Wildlife](https://open.spotify.com/album/0x1729ILqSXzbNEIpHmWjq) | 3:09 | 2022-01-07 |  |
+| [Birds After The Rain](https://open.spotify.com/track/37c5vjEwHXw9TJBfsPFTIb) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Peaceful Wildlife](https://open.spotify.com/album/214KDDxuxgtxSPXs1Fslh1) | 3:09 | 2022-07-04 |  |
+| [Birds After The Rain](https://open.spotify.com/track/3sgOhjx9zNhxEQIransTTP) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Peaceful Wildlife](https://open.spotify.com/album/0x1729ILqSXzbNEIpHmWjq) | 3:09 | 2022-01-07 | 2022-07-29 |
 | [Birds at the Cemetery](https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Birds](https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX) | 2:55 | 2022-01-07 |  |
 | [Birds By Mountain Stream](https://open.spotify.com/track/3KTbery9uig2aa5inLdPvy) | [Mountain Man Recordings](https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD) | [Mountain Birds](https://open.spotify.com/album/5GppWjsZF1di4rn5t3V9B9) | 3:07 | 2022-01-07 |  |
 | [Birds by the Waterside](https://open.spotify.com/track/4vknBBfaGO6ZnHw69a2Bi0) | [Outside Broadcast Recordings](https://open.spotify.com/artist/3RchxeOVaDXmQRBWeL5CNZ) | [Forest Sounds for Peace of Mind](https://open.spotify.com/album/6egF1GuipId0GYNcYMB0jU) | 3:55 | 2022-01-07 |  |
@@ -82,7 +83,8 @@
 | [Sleeping Sounds: Waves](https://open.spotify.com/track/3eB2jBzlvebMri9jLXHx69) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:30 | 2022-01-07 |  |
 | [Slow Waves](https://open.spotify.com/track/1wpF4qBNZQxIJ2sUe1P96b) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [The Beautiful Sounds Of The Ocean](https://open.spotify.com/album/1SSDVDGzMhv9t6SBbS3GMQ) | 3:56 | 2022-01-07 |  |
 | [Soaking Rain](https://open.spotify.com/track/6Ftt2yOvJyJ7nwQ4TMd5A6) | [Saman](https://open.spotify.com/artist/1cRTBK63mr22rRV5NRc6Hs) | [Soaking Rain](https://open.spotify.com/album/6a7qgZHFKI7H3tv9EglEqo) | 3:28 | 2022-01-07 |  |
-| [Soft Water Stream and Birds](https://open.spotify.com/track/1w3FviuQ1lSo2VaC1RgCbG) | [Nature Dreamscapes](https://open.spotify.com/artist/2V47h5lwR5mzKe8JV3LQpA) | [River Valley Water Sounds and Birds](https://open.spotify.com/album/6J2cIkfHuoPPxlVo0h08hj) | 5:41 | 2022-01-07 |  |
+| [Soft Water Stream and Birds](https://open.spotify.com/track/1w3FviuQ1lSo2VaC1RgCbG) | [Nature Dreamscapes](https://open.spotify.com/artist/2V47h5lwR5mzKe8JV3LQpA) | [River Valley Water Sounds and Birds](https://open.spotify.com/album/6J2cIkfHuoPPxlVo0h08hj) | 5:41 | 2022-01-07 | 2022-07-29 |
+| [Soft Water Stream and Birds](https://open.spotify.com/track/4UfA8nE6QiyyEj789utM4b) | [Nature Dreamscapes](https://open.spotify.com/artist/2V47h5lwR5mzKe8JV3LQpA) | [River Valley Water Sounds and Birds](https://open.spotify.com/album/4JtrrsfhgL4ikkyHTBXLx2) | 5:41 | 2022-07-04 |  |
 | [Softer Rain](https://open.spotify.com/track/7pjG0uixjZKFqsj05SJIOi) | [Decidic FX](https://open.spotify.com/artist/3D04EJ7Bvcko5xB2UWolID) | [Sleep \(Rain Sounds Compilation\)](https://open.spotify.com/album/4YmNhD0y0D0jMa926HRizV) | 2:57 | 2022-01-07 |  |
 | [Soothing Rain Sound](https://open.spotify.com/track/26Wq5dU0knVaquWbUFNPqP) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Forest Rain Sounds](https://open.spotify.com/album/5PBnIqFcWwIiRKQcm7XQ1i) | 2:08 | 2022-01-07 |  |
 | [Soothing Waves](https://open.spotify.com/track/3afgb2bRHdcpGgssbzd2kv) | [In The Ocean \(Sound FX\)](https://open.spotify.com/artist/6gKlW4QncpQHg6n6eMUNxF) | [Wave Sounds From Scandinavia Vol\. 2](https://open.spotify.com/album/5YbKpZftWuKq5JUPEZC9Le) | 2:40 | 2022-07-04 |  |

@@ -1,13 +1,29 @@
 {
-  "description": "LGBTQQIA+ artists like you've never heard before. Cover: Arlo Parks ",
-  "num_followers": 15916,
+  "description": "LGBTQQIA+ artists like you've never heard before. Cover: DOSS",
+  "num_followers": 16782,
   "original_name": "Spotify Singles: Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDA1NjAwMCwwMDAwMDAwNTAwMDAwMTgxMWQ2YjlhZjYwMDAwMDE4MGZmOGE2ODE4",
+  "snapshot_id": "MTY2MjA2MTcyMiwwMDAwMDAwMGI2MWIyZGQ2MGI1N2Q4Y2JiNzVlNWRjNGE2MjFiNGQ4",
   "tracks": [
+    {
+      "added_at": "2022-06-01 04:00:00",
+      "album": {
+        "name": "Cherry - Spotify Singles",
+        "url": "https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Cherry - Spotify Singles",
+      "url": "https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN"
+    },
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
@@ -55,22 +71,6 @@
       "duration_ms": 317729,
       "name": "Smalltown Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
-    },
-    {
-      "added_at": "2022-06-01 04:00:00",
-      "album": {
-        "name": "Cherry - Spotify Singles",
-        "url": "https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Cherry - Spotify Singles",
-      "url": "https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN"
     },
     {
       "added_at": "2021-05-25 21:33:44",
@@ -156,7 +156,7 @@
       "added_at": "2021-05-25 21:33:44",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/736ZS6qpLRbwq2y2clVA26"
+        "url": "https://open.spotify.com/album/1KQQIiKcpLntswP4sW62yK"
       },
       "artists": [
         {
@@ -165,14 +165,14 @@
         }
       ],
       "duration_ms": 214107,
-      "name": "Stay High - Recorded at East West Studios",
-      "url": "https://open.spotify.com/track/663sv7qnXdkEkorvYmd3nY"
+      "name": "Stay High - Recorded At East West Studios",
+      "url": "https://open.spotify.com/track/0LeA15NV8v9W1HrZvD3rqS"
     },
     {
       "added_at": "2021-05-25 21:33:44",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV"
+        "name": "Singles (Live From Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv"
       },
       "artists": [
         {
@@ -181,8 +181,8 @@
         }
       ],
       "duration_ms": 214381,
-      "name": "Summer Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd"
+      "name": "Summer Love - Live From Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2fsViUVkh7lh6gYDwvsvFH"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -204,7 +204,7 @@
       "added_at": "2021-05-25 21:33:44",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6eJDRuzwuZuVXHNGBSevVe"
+        "url": "https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7"
       },
       "artists": [
         {
@@ -214,7 +214,7 @@
       ],
       "duration_ms": 250493,
       "name": "Ain't No Way - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1Kiy7zFMynJkvBJLe4neSJ"
+      "url": "https://open.spotify.com/track/7IeHwRsVM3L6Kvotagrt9P"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -236,7 +236,7 @@
       "added_at": "2021-05-25 21:33:44",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P"
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
       "artists": [
         {
@@ -246,7 +246,7 @@
       ],
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7"
+      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
     },
     {
       "added_at": "2021-05-25 21:33:44",
@@ -316,7 +316,7 @@
       "added_at": "2021-06-14 15:15:26",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2321JkUAPuZHfb61djCDEh"
+        "url": "https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8"
       },
       "artists": [
         {
@@ -326,7 +326,7 @@
       ],
       "duration_ms": 228839,
       "name": "Declare Independence - Spotify Singles",
-      "url": "https://open.spotify.com/track/0w2zOnRSb3SQKTn0nXy8ml"
+      "url": "https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j"
     },
     {
       "added_at": "2021-05-25 21:33:44",
@@ -364,7 +364,7 @@
       "added_at": "2022-06-01 04:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4zT3trMgbFpd8Bgc0rBxEa"
+        "url": "https://open.spotify.com/album/0Qa7Ch1yrrx9nNxSJE9Oaf"
       },
       "artists": [
         {
@@ -374,7 +374,7 @@
       ],
       "duration_ms": 189660,
       "name": "Here You Come Again - Recorded at HOB Studios, Toronto",
-      "url": "https://open.spotify.com/track/5fpymVNyujJ2UohIX5ujxw"
+      "url": "https://open.spotify.com/track/0CBzDJMAkJ6aVPZRHosTod"
     },
     {
       "added_at": "2021-05-25 21:33:44",
@@ -428,7 +428,7 @@
       "added_at": "2021-05-25 21:33:44",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4vucVTj5GjNV0MllVjsxo5"
+        "url": "https://open.spotify.com/album/4WQLkeOJulFut0ZPTFQQdi"
       },
       "artists": [
         {
@@ -438,7 +438,7 @@
       ],
       "duration_ms": 168102,
       "name": "Slip Away - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2QX2OeVkckAavMTJtbV7GX"
+      "url": "https://open.spotify.com/track/4LtOPAPRHxFCRqC0gp4i7N"
     },
     {
       "added_at": "2021-05-25 21:33:44",
@@ -512,7 +512,7 @@
       "added_at": "2022-06-01 04:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P"
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
       "artists": [
         {
@@ -522,7 +522,7 @@
       ],
       "duration_ms": 332163,
       "name": "Scott Street - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1FseBXHmYLnX1XcGsQKH3j"
+      "url": "https://open.spotify.com/track/4qbtwmlqiYAI91GXnrMoFI"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -544,7 +544,7 @@
       "added_at": "2021-05-25 21:33:44",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6eJDRuzwuZuVXHNGBSevVe"
+        "url": "https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7"
       },
       "artists": [
         {
@@ -554,7 +554,7 @@
       ],
       "duration_ms": 247346,
       "name": "Tell Me You Love Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6c8yicr6W2pOT62TkZu2en"
+      "url": "https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -575,8 +575,8 @@
     {
       "added_at": "2021-05-25 21:33:44",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV"
+        "name": "Singles (Live From Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv"
       },
       "artists": [
         {
@@ -585,14 +585,14 @@
         }
       ],
       "duration_ms": 210886,
-      "name": "Out of Focus - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5hNR2TXslThoEgqqdDlt8F"
+      "name": "Out of Focus - Live From Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7h2NYUbQQgZXJ0KMMYhiBF"
     },
     {
       "added_at": "2021-05-25 21:33:44",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/736ZS6qpLRbwq2y2clVA26"
+        "url": "https://open.spotify.com/album/1KQQIiKcpLntswP4sW62yK"
       },
       "artists": [
         {
@@ -600,15 +600,15 @@
           "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "duration_ms": 252039,
-      "name": "You and Your Folks, Me and My Folks - Recorded at East West Studios",
-      "url": "https://open.spotify.com/track/4gtHfvLdEVcGGRL2CkWjKr"
+      "duration_ms": 249086,
+      "name": "You And Your Folks, Me And My Folks - Recorded At East West Studios",
+      "url": "https://open.spotify.com/track/1WFPLwZLn2xrioEwiRcJBY"
     },
     {
       "added_at": "2022-06-01 04:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4zT3trMgbFpd8Bgc0rBxEa"
+        "url": "https://open.spotify.com/album/0Qa7Ch1yrrx9nNxSJE9Oaf"
       },
       "artists": [
         {
@@ -618,7 +618,7 @@
       ],
       "duration_ms": 217633,
       "name": "Doubt - Recorded at HOB Studios, Toronto",
-      "url": "https://open.spotify.com/track/10MkHbBBIHqr8GF6dKlP0S"
+      "url": "https://open.spotify.com/track/3xJMcGj2CbFWm8tBOoZsst"
     },
     {
       "added_at": "2022-06-01 04:00:00",
@@ -724,7 +724,7 @@
       "added_at": "2021-05-25 21:33:44",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4vucVTj5GjNV0MllVjsxo5"
+        "url": "https://open.spotify.com/album/4WQLkeOJulFut0ZPTFQQdi"
       },
       "artists": [
         {
@@ -734,7 +734,7 @@
       ],
       "duration_ms": 224647,
       "name": "Body's In Trouble - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/15yWH0t80xio9hCjOZpalj"
+      "url": "https://open.spotify.com/track/40OXv3JCTBrMlh9DjDVXqy"
     },
     {
       "added_at": "2021-05-25 21:33:44",

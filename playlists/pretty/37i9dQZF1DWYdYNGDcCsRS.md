@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdYNGDcCsRS.md) - [plain]
 
 ### [John Dahlbäck's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWYdYNGDcCsRS)
 
-> Legendary Swedish house producer <a href ="spotify:artist:15xvsJMf8phaNa1LYvL9Qv">John Dahlbäck</a> takes the decks for a dark and melodic mix perfect for the long summer nights.
+> Legendary Swedish house producer <a href="spotify:artist:15xvsJMf8phaNa1LYvL9Qv">John Dahlbäck</a> takes the decks for a dark and melodic mix perfect for the long summer nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453 likes - 17 songs - 58 min 36 sec
+[Spotify](https://open.spotify.com/user/spotify) - 916 likes - 17 songs - 58 min 36 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdYNGDcCsRS.md) - [plain]
 | 11 | [More Than Human \- Mixed](https://open.spotify.com/track/23CRFkMTdNuTgJwc4pkIpw) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [More Than Human \(Mixed\)](https://open.spotify.com/album/06AthtVG4ervBU0msTGzzz) | 3:25 |
 | 12 | [Temper Temper \(feat\. ONR\) \- Mixed](https://open.spotify.com/track/1lSvICxom05kGx7VtOBOIm) | [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi), [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Temper Temper \(feat\. ONR\) \[Mixed\]](https://open.spotify.com/album/4Yu0fRmFxcoaHmInkD1UF7) | 4:14 |
 | 13 | [Mexico Can Wait \(feat\. DJ Remy\) \- Mixed](https://open.spotify.com/track/1FNjGCthhiqk9rmRcmW3EU) | [Roland Klinkenberg](https://open.spotify.com/artist/6EN9LJHqoZG0mgxLvedhcA), [DJ Remy](https://open.spotify.com/artist/4bjx2LOGdgbJAEnkOjQReI) | [Mexico Can Wait \(feat\. DJ Remy\) \[Mixed\]](https://open.spotify.com/album/2wTxGT6MpKh7uN1IFpg6xK) | 4:25 |
-| 14 | [Tomorrow \- Mixed](https://open.spotify.com/track/4EFqzlDtfqXTwmS2zDr4IU) | [Dom Youdan](https://open.spotify.com/artist/7mFtdq1kVeZHdWjponFfWx), [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Tomorrow \(Mixed\)](https://open.spotify.com/album/4LEVHT8GZhbjcjJ9VumNwI) | 5:01 |
+| 14 | [Tomorrow \- Mixed](https://open.spotify.com/track/4EFqzlDtfqXTwmS2zDr4IU) | [Able Joseph](https://open.spotify.com/artist/0djvjweduXm6AxFgwcznq8), [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Tomorrow \(Mixed\)](https://open.spotify.com/album/4LEVHT8GZhbjcjJ9VumNwI) | 5:01 |
 | 15 | [Mouth to Mouth \- Mixed](https://open.spotify.com/track/7E0t2TpnG2iU4FaaM4Y6Or) | [Audion](https://open.spotify.com/artist/5nhgTw3ExwUNdwZ1gNogmu) | [Mouth to Mouth \(Mixed\)](https://open.spotify.com/album/5vafFBQ9We8LEtatnRWC9Y) | 3:13 |
 | 16 | [Chakalaka \- Mixed](https://open.spotify.com/track/0OZUnJQg6zBObyNeTuBOZP) | [Wippenberg](https://open.spotify.com/artist/0Orz1QOZQrwampy0S742oK) | [Chakalaka \(Mixed\)](https://open.spotify.com/album/4Cl6YchrnomNpEf2o0tkx0) | 4:58 |
 | 17 | [Carbon \- Mixed](https://open.spotify.com/track/27e9nNYr6wSBxSnrjhEP8k) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Carbon \(Mixed\)](https://open.spotify.com/album/71O0W6iwJPi3dmVsdMgHox) | 3:14 |
 
-Snapshot ID: `MTY1NTI3NTk4NiwwMDAwMDAwMjAwMDAwMTgxNjYyMzFlNGUwMDAwMDE4MTQ0YTljNTQ1`
+Snapshot ID: `MTY2MDY2MTAyMywwMDAwMDAwMDIwZjVmMjJlM2RkZmZiZTU3OWNkOGQzODA0MDVlMGQ3`

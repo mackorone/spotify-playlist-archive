@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 184133,
       "name": "Canci\u00f3n a Mi Madre",
       "url": "https://open.spotify.com/track/2dNhQNwppNNwv4ptecPe4P"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-21",
       "duration_ms": 184533,
       "name": "Contrabando Por Amor",
       "url": "https://open.spotify.com/track/1NoPsquz9i9s8Ybo86u1Ku"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 176840,
       "name": "Descansa General",
       "url": "https://open.spotify.com/track/1pZB1cTeogCXkhWV0m98Eg"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": "2022-09-22",
       "duration_ms": 160200,
       "name": "Desprecio",
       "url": "https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq"
@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "El Rogon",
+        "url": "https://open.spotify.com/album/6fvDNjvBwBtoZottzuSF2F"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167093,
+      "name": "El Rogon",
+      "url": "https://open.spotify.com/track/1vGwqa4aF0mp3a8YddIpGV"
+    },
+    {
+      "album": {
         "name": "Los Cadetes",
         "url": "https://open.spotify.com/album/6uNdrT63Utmcx3ISlBKYvf"
       },
@@ -459,7 +477,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 169080,
       "name": "El Rog\u00f3n",
       "url": "https://open.spotify.com/track/3urP0J323Dt6wq239LZFmA"
@@ -477,10 +495,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 190466,
       "name": "Eleazar del Fierro",
       "url": "https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV"
+    },
+    {
+      "album": {
+        "name": "Las Tres Tumbas",
+        "url": "https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 185306,
+      "name": "Eran Cuatro de a Caballo",
+      "url": "https://open.spotify.com/track/2upInlVu7yMSnUv5ls8Qjg"
     },
     {
       "album": {
@@ -513,7 +549,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 182306,
       "name": "Ezequiel Rodriguez",
       "url": "https://open.spotify.com/track/49HTMbHr98K8GDok9CHHDR"
@@ -531,7 +567,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": "2022-09-18",
       "duration_ms": 183440,
       "name": "Flor De Capomo",
       "url": "https://open.spotify.com/track/6nZWx1svsdUedHNwsrrkOi"
@@ -549,7 +585,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-08-26",
       "duration_ms": 166800,
       "name": "Generoso y Carmelita",
       "url": "https://open.spotify.com/track/1xlgtF686KI0a3JfQwPcbl"
@@ -603,7 +639,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": "2022-09-22",
       "duration_ms": 140466,
       "name": "Jose Lopez",
       "url": "https://open.spotify.com/track/6DJrx5bu28lb4kBuus1oUI"
@@ -621,7 +657,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 187173,
       "name": "La Cruz Negra",
       "url": "https://open.spotify.com/track/2DiBQzkbn1b33z76pQdu1h"
@@ -639,7 +675,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-10-01",
       "duration_ms": 212940,
       "name": "La Eche en un Carrito",
       "url": "https://open.spotify.com/track/515smiuAAOc8azDZqtEHBD"
@@ -715,7 +751,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": "2022-09-30",
       "duration_ms": 183280,
       "name": "Las Tres Mujeres",
       "url": "https://open.spotify.com/track/15sNlEfS7ahhExOHsdhqh6"
@@ -820,6 +856,24 @@
     },
     {
       "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "Menos Que Nada",
+      "url": "https://open.spotify.com/track/46mK5SstpnGYBhwSrWf0re"
+    },
+    {
+      "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
       },
@@ -838,6 +892,24 @@
     },
     {
       "album": {
+        "name": "Las Mas Tocadas",
+        "url": "https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 172788,
+      "name": "Mi Unico Camino",
+      "url": "https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX"
+    },
+    {
+      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
@@ -853,7 +925,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-17",
       "duration_ms": 197133,
       "name": "Nave 727",
       "url": "https://open.spotify.com/track/7DffTGNIGuDdpNiPy766Es"
@@ -889,7 +961,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-21",
       "duration_ms": 188933,
       "name": "Nomas Las Mujeres Quedan",
       "url": "https://open.spotify.com/track/4bSadmBSBEBuddAwqbHJvW"
@@ -907,7 +979,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 174546,
       "name": "Pescadores de Ensenada",
       "url": "https://open.spotify.com/track/2QLYBaZhH2uCkxTfGgG0u7"
@@ -1013,6 +1085,24 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 156880,
+      "name": "Rezando Por Ella",
+      "url": "https://open.spotify.com/track/3oKs3ZVmz4vZykuoPp84u0"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1051,7 +1141,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "Sinceramente",
       "url": "https://open.spotify.com/track/7xwt2lHkykYzAYH6GPNyaf"
@@ -1109,10 +1199,50 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-23",
       "duration_ms": 162280,
       "name": "Tengo Un Amor Escondido",
       "url": "https://open.spotify.com/track/0jRHGnHLCS0d0uIEmwvfqN"
+    },
+    {
+      "album": {
+        "name": "Una Lagrima y un Recuerdo",
+        "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 143573,
+      "name": "Tu Vida No Me Importa",
+      "url": "https://open.spotify.com/track/1GOD2xdIk120yZ5m4qfkyw"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Lupe Tijerina y Rosendo Cantu",
+          "url": "https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 183813,
+      "name": "Un Noble Enga\u00f1o",
+      "url": "https://open.spotify.com/track/2iiCan39FMDuKG11zB5AzO"
     },
     {
       "album": {
@@ -1199,7 +1329,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-09-21",
       "duration_ms": 155093,
       "name": "Vivo Preso",
       "url": "https://open.spotify.com/track/5GvG3KhHyz0VsqCCjh3Iny"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzrEOEOM5Qu.md) - [plain]
 
 > New and classic Christmas tales for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,970 likes - 25 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,858 likes - 25 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzrEOEOM5Qu.md) - [plain]
 | 24 | [Chapter 1 \- Only YOU Can Save Christmas! \- A Help\-the\-Elf Adventure](https://open.spotify.com/track/5t6WKY4czkc233lBoxDA7L) | [Adam Wallace](https://open.spotify.com/artist/73j6cBMfIP39GqwyJE8pZA), [Nick Podehl](https://open.spotify.com/artist/1XHbOKTW9sJgucOsQ3Y7um) | [Only YOU Can Save Christmas! \[A Help\-the\-Elf Adventure \(Unabridged\)\]](https://open.spotify.com/album/3RMiNUY2sH3J5bjOfJl01l) | 3:02 |
 | 25 | [Chapter 2 \- Only YOU Can Save Christmas! \- A Help\-the\-Elf Adventure](https://open.spotify.com/track/5P8oxotA95amzBLjcZQzFB) | [Adam Wallace](https://open.spotify.com/artist/73j6cBMfIP39GqwyJE8pZA), [Nick Podehl](https://open.spotify.com/artist/1XHbOKTW9sJgucOsQ3Y7um) | [Only YOU Can Save Christmas! \[A Help\-the\-Elf Adventure \(Unabridged\)\]](https://open.spotify.com/album/3RMiNUY2sH3J5bjOfJl01l) | 5:58 |
 
-Snapshot ID: `MTYzNjczOTg5MSwwMDAwMDAwYzAwMDAwMTdkMTU0Y2MyNGUwMDAwMDE3ZDE1NGNhNDgw`
+Snapshot ID: `MTYzNjczOTg5MSwwMDAwMDAwMDI2NmE3MTY3NmNjZTdkOWJmMmRiNzliMjMxY2UyN2Rk`

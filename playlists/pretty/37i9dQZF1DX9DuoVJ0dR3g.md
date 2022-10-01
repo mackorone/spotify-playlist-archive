@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuoVJ0dR3g.md) - [plain]
 
 > Generation defining music, one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,217 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,683 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuoVJ0dR3g.md) - [plain]
 | 2 | [Ana's Song \(Open Fire\)](https://open.spotify.com/track/2ZvVKaRZzeEdmTrpTrhEvR) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 3:42 |
 | 3 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
 | 4 | [Anthem for the Year 2000](https://open.spotify.com/track/3J19l4hOfwFFIF715BwVcG) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 4:07 |
-| 5 | [The Greatest View](https://open.spotify.com/track/1uNxBzCKlBH5NfACmZraRH) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 4:05 |
+| 5 | [The Greatest View](https://open.spotify.com/track/1I3ZtkoM19zN8cV62XpbwW) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 4:02 |
 | 6 | [Straight Lines](https://open.spotify.com/track/5uPO2eBKEdmBT3XtZ76VVa) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Young Modern](https://open.spotify.com/album/7aTpmoysIfl5vhgAOJ0mp5) | 4:18 |
 | 7 | [Israel's Son](https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:18 |
 | 8 | [Miss You Love](https://open.spotify.com/track/3y9zMGuxWS8xkpOxNPfiMZ) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 4:00 |
 | 9 | [Pure Massacre](https://open.spotify.com/track/7qCIP5KHYy9HuXbEEWzmC7) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:58 |
-| 10 | [Without You](https://open.spotify.com/track/3BU1QSGVk2hUMJYpjTaULP) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 5:17 |
+| 10 | [Without You](https://open.spotify.com/track/6zCgvb5Js1s7C3kVERduKs) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 5:19 |
 | 11 | [Abuse Me](https://open.spotify.com/track/6lgsxp4M1RmnkivCqp6kPa) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:59 |
 | 12 | [Shade](https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:02 |
 | 13 | [The Door](https://open.spotify.com/track/58nHFSWj5N5JxNtWgS85TL) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:33 |
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuoVJ0dR3g.md) - [plain]
 | 15 | [Emotion Sickness](https://open.spotify.com/track/3y7dENLRE8paSquq4LAW1e) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 6:00 |
 | 16 | [Suicidal Dream](https://open.spotify.com/track/3AZ5XoHdiFpiKMky6M1Gt9) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 3:12 |
 | 17 | [Slave](https://open.spotify.com/track/7yUGMbFsUH5MuPNuq75MyP) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:55 |
-| 18 | [Luv Your Life](https://open.spotify.com/track/6GzhMCwuST1x0z5hbN1IiG) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 4:29 |
-| 19 | [Hollywood](https://open.spotify.com/track/5Coz936Nb9zD9MYTJQbsbe) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Without You](https://open.spotify.com/album/16JseuvRyx6cxLunIpQkpu) | 4:44 |
-| 20 | [Across the Night](https://open.spotify.com/track/1zcaoYzMsxtnJzwZ92iWeV) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 5:37 |
+| 18 | [Luv Your Life](https://open.spotify.com/track/3Ubzvmqs1Dp2y3zjpZ0W0l) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 4:29 |
+| 19 | [Hollywood](https://open.spotify.com/track/31RpJLAuvsiepAH32zAYQv) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Hollywood](https://open.spotify.com/album/6oHRmH9qLmOZzb6Yxyd6P6) | 4:45 |
+| 20 | [Across the Night](https://open.spotify.com/track/5p34KJUx20Vvd7hrWqn6Xg) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 5:39 |
 | 21 | [Paint Pastel Princess](https://open.spotify.com/track/50L4BKgP2HNyq37tbhqFqR) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 4:33 |
 | 22 | [If You Keep Losing Sleep](https://open.spotify.com/track/1yt5aHFSy1ZlrkJenysdnx) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Young Modern](https://open.spotify.com/album/7aTpmoysIfl5vhgAOJ0mp5) | 3:21 |
-| 23 | [One Way Mule](https://open.spotify.com/track/17z0ByRhAuJwNZ1ad7LioL) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 4:14 |
+| 23 | [One Way Mule](https://open.spotify.com/track/6WfuJb0HmIzA45sBFZ9j3F) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 4:14 |
 | 24 | [Faultline](https://open.spotify.com/track/18ihvfYz6uiieilnfl4XCs) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:18 |
 | 25 | [Stoned](https://open.spotify.com/track/33V0DuZAd72kC40DHNFBKZ) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Tomorrow \- EP](https://open.spotify.com/album/7v0I0ENVfc783mB4JlqhY8) | 2:48 |
 | 26 | [Untitled](https://open.spotify.com/track/2dPKS3Cegk5YgO1HB64FUr) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:30 |
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuoVJ0dR3g.md) - [plain]
 | 39 | [London's Burning](https://open.spotify.com/track/1QEU0SPYfYCiOny7Mgd71Q) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Anthem For The Year 2000](https://open.spotify.com/album/5ObvFLITofHUMNGhuFj274) | 3:17 |
 | 40 | [Undecided](https://open.spotify.com/track/3Yhi0Tz3zAD5Q7OUekXsdz) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:36 |
 | 41 | [Surfin' Bird](https://open.spotify.com/track/5HyAFzA2XJgeBc5UBJIpY1) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Door](https://open.spotify.com/album/6oHDWWu4q87WeULEQGoq84) | 2:22 |
-| 42 | [Too Much of Not Enough](https://open.spotify.com/track/6RhophzGHp8ekQLC1HjEzo) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 4:42 |
+| 42 | [Too Much of Not Enough](https://open.spotify.com/track/4FhNIcwh5wjUnptqRwdgoy) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 4:44 |
 | 43 | [No Association](https://open.spotify.com/track/0lrY8m1pYczjiup6f0HhoR) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:50 |
 | 44 | [Cicada](https://open.spotify.com/track/6mJdEWVOaCayMo8eaSl3Xw) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:10 |
 | 45 | [Do You Feel The Same](https://open.spotify.com/track/1ys0r7cSqkyrGVSAf152g7) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 4:18 |
-| 46 | [Tuna in the Brine](https://open.spotify.com/track/3gubenMKEX0gJDJjm1gGzN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 5:40 |
+| 46 | [Tuna in the Brine](https://open.spotify.com/track/5kmagO5ooNVld9ZGmsRWMf) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 5:39 |
 | 47 | [Findaway](https://open.spotify.com/track/6pcyozjE7GDIbf4oN8ctLe) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 2:58 |
 | 48 | [Punk Song 2](https://open.spotify.com/track/2duy4ye54wYZ3vN9C7GZmC) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 2:45 |
 | 49 | [Learn to Hate](https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 4:18 |
 | 50 | [Dearest Helpless](https://open.spotify.com/track/03BpiU265TNopnUCVQLaMT) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 3:34 |
 | 51 | [Mind Reader](https://open.spotify.com/track/0XlsNmT967kwFSrROdqbOc) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Young Modern](https://open.spotify.com/album/7aTpmoysIfl5vhgAOJ0mp5) | 3:07 |
 
-Snapshot ID: `MTYzMTc3MTk1MiwwMDAwMDA0OTAwMDAwMTdiZWQzMDA2MDgwMDAwMDE2ZDE1MTI4MThh`
+Snapshot ID: `MTYzMTc3MTk1MiwwMDAwMDAwMDU3MjQyZmUzZTYxNjJlOWMwZjY1OTUwYWFhNzU1YjRm`

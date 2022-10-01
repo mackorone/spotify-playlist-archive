@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5pxi1UkDk0BbUPDTPjmi4v.md) - [plain]
 
 > Here's to cherishing lifelong friends, remembering the good times, and celebrating the end of an era!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125 likes - 40 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 127 likes - 40 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/5pxi1UkDk0BbUPDTPjmi4v.md) - [plain]
 | 32 | [Dream On](https://open.spotify.com/track/07KHJvlYBeQVqrmifTEqEp) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Essential Aerosmith](https://open.spotify.com/album/0YlgzYfI3a1OrGBBN0wWTG) | 4:25 |
 | 33 | [Everybody's Free \(To Wear Sunscreen\)](https://open.spotify.com/track/1TQ6a2NEA8LmKfgf0yeBvT) | [Quindon Tarver](https://open.spotify.com/artist/0dfkF1i9s8ZyOAKbV572T7), [Josh Abrahams](https://open.spotify.com/artist/2C18qcP3k1dkMJpByV6rZX) | [Everybody's Free \(To Wear Sunscreen\)](https://open.spotify.com/album/30NOuZiJRlawF26dmWVaJo) | 5:09 |
 | 34 | [Get Lucky \(feat\. Pharrell Williams & Nile Rodgers\)](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 6:09 |
-| 35 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It](https://open.spotify.com/album/5hf74KpfuwSJXVs85k3dVI) | 2:35 |
+| 35 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/album/5hf74KpfuwSJXVs85k3dVI) | 2:35 |
 | 36 | [I Made It \(Cash Money Heroes\)](https://open.spotify.com/track/6H2wnX7ytNeCKERIVqCwgs) | [Kevin Rudolf](https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [To The Sky](https://open.spotify.com/album/09z9vmYEO8levsGRqEgg8P) | 4:09 |
 | 37 | [Oh Yeah \- Remastered 2005](https://open.spotify.com/track/42SYMWISn7xUpTNPLw9V5E) | [Yello](https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi) | [Stella](https://open.spotify.com/album/6FkITDf23iOvE8DRhrhWM0) | 3:05 |
 | 38 | [Closing Time](https://open.spotify.com/track/087OBLtoeS3Q6j0k6tMNAI) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Feeling Strangely Fine](https://open.spotify.com/album/10EiZk1JUeEcIVXHdYkrGp) | 4:33 |

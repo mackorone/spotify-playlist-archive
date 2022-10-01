@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVoboXxeXW4.md) - [plain]
 
 > Enjoy the official release of 'Drop the Beat', a competition between rappers to win 'Bitcoin'\. \(우승상금 '비트코인'을 쟁취하기 위한 래퍼들의 경쟁 '드랍 더 비트'의 공식 발매곡을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 796 likes - 18 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,437 likes - 18 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVoboXxeXW4.md) - [plain]
 | 17 | [light it up \(feat\. LIL GIMCHI\)](https://open.spotify.com/track/36rFeJ4jO7QF895h211l2N) | [heroincity](https://open.spotify.com/artist/4Sl2QYei5nqAb8bDcccyEP), [Sadboy JB](https://open.spotify.com/artist/7g2bqT5lmeea6rpG3cbEYc), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [Drop The Bit The 3rd round Pt\. 1](https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX) | 3:21 |
 | 18 | [Cockroaches \(feat\. Sikboy\)](https://open.spotify.com/track/3R7Mqg1N1JTDOzkNmP1YvR) | [Yonge Jaundice](https://open.spotify.com/artist/0ESfTnqcM5os6xjx05jjYT), [Max Kim](https://open.spotify.com/artist/6zKnUkgWMqNMQ3g88g9iqR), [Sikboy](https://open.spotify.com/artist/7yhu8y8MIhKA3I4n02MdBQ) | [Drop The Bit The 3rd round Pt\. 1](https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX) | 3:08 |
 
-Snapshot ID: `MTY1MTYyNTU0MCwwMDAwMDAwMjAwMDAwMTgwOGM4ZGJiZjUwMDAwMDE4MDhjOGQ0N2U1`
+Snapshot ID: `MTY1MTYyNTU0MCwwMDAwMDAwMDVkNTM5Mjg2ZDE1NDg5NjUxZWNiYmNjN2VlODA3OTNj`

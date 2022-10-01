@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 277973,
       "name": "A Una Almohada De Distancia",
       "url": "https://open.spotify.com/track/1bbXpIUydN0Nqfb1b21Kb4"
@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "\u00a1Ay Dolor!",
+        "url": "https://open.spotify.com/album/5DHROQu03oTApPdCy3375A"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 192146,
+      "name": "Deb\u00ed",
+      "url": "https://open.spotify.com/track/3dPqITmMgFYgmeHgn45kjt"
+    },
+    {
+      "album": {
         "name": "Luces, C\u00e1mara Y Acci\u00f3n",
         "url": "https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY"
       },
@@ -153,6 +171,28 @@
       "duration_ms": 197026,
       "name": "Dentro De Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4oJRZ1TI7S89tnDYZU2y9P"
+    },
+    {
+      "album": {
+        "name": "El Club De Los Dolidos",
+        "url": "https://open.spotify.com/album/7FWIe2JXLS20lAkOadKmbX"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        },
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191893,
+      "name": "El Club De Los Dolidos",
+      "url": "https://open.spotify.com/track/4A2n4Zss5KjRijiEC6mYas"
     },
     {
       "album": {
@@ -593,7 +633,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 189320,
       "name": "Morir De Amor - En Vivo",
       "url": "https://open.spotify.com/track/1JR3r3N2Nji7HBCh3hspCi"
@@ -881,7 +921,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-28",
       "duration_ms": 176653,
       "name": "Su Ex",
       "url": "https://open.spotify.com/track/5iOBVp8GOUNi7McqMkkP0e"
@@ -1075,7 +1115,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 226866,
       "name": "Ya Me Voy Para Siempre - En Vivo",
       "url": "https://open.spotify.com/track/6RQAzfcmcKxXUPRY4NZ9In"

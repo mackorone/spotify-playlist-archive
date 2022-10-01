@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 
 > Neverland, your queens are here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,607 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,843 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 | 35 | [MORE](https://open.spotify.com/track/6ZlvEI2HQC6R5TahN9Ffm4) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX), [Seraphine](https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) | 3:37 |
 | 36 | [We Already Fell In Love](https://open.spotify.com/track/0UOMVs7dFEd7TlIlUBJtoI) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [도도솔솔라라솔 \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/65HG117O3UPazcDUSLjwvN) | 3:01 |
 | 37 | [How To Love \(with NEON PAPRIKA\) \- Special Track Version](https://open.spotify.com/track/5avhK56czNLazDtqXEKrHa) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [NEON PAPRIKA](https://open.spotify.com/artist/7jlt93QGTuUEdDhhTuJj2i) | [Replay \(Original Television Soundtrack\)](https://open.spotify.com/album/6Mpb0VFJvRT8EpifN9sjKk) | 3:30 |
-| 38 | [Getaway](https://open.spotify.com/track/5pWd8NRoi9yY1K2Fz9nIVh) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [My Dangerous Wife Pt.2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1165v6khbvLivXLeu5JaMT) | 3:48 |
+| 38 | [Getaway](https://open.spotify.com/track/172SQ12T5WAyUPa4153LsX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [My Dangerous Wife, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/7x1R29OcIJcyBbn1adBioq) | 3:48 |
 | 39 | [Oh my god](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 |
 | 40 | [Cart](https://open.spotify.com/track/4WYLU0MgHng8t8yjtT2m2S) | [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Cart](https://open.spotify.com/album/1v3aPnfORtp7JETc4uPrwp) | 3:13 |
 | 41 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 |
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 | 47 | [LATATA](https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:22 |
 | 48 | [Oh my god \- English Version](https://open.spotify.com/track/2EJbMzocEZ6VHnZKQ8pt8H) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 |
 | 49 | [Senorita](https://open.spotify.com/track/0q6boCcLaWYPIy2vOsksFg) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:17 |
-| 50 | [Put It Straight \- Nightmare Version](https://open.spotify.com/track/6BheMIaNvX13rcfENmYTww) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Queendom < Box of Pandora > Pt\. 1](https://open.spotify.com/album/7fGaLPPmATwK9Jade24fXC) | 4:16 |
+| 50 | [Put It Straight \- Nightmare Version](https://open.spotify.com/track/3VqP1DVYFoS6sLhPbEtifi) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Queendom < Box of Pandora > Pt\. 1](https://open.spotify.com/album/75ii7SGF9jbD1ireJ0CeNI) | 4:16 |
 | 51 | [MAZE](https://open.spotify.com/track/5xptVEzEqCXv0oIJmyDYOJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:20 |
 | 52 | [Light My Fire](https://open.spotify.com/track/3jSMGwspwFJGWIaxNIDWsT) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [LATATA](https://open.spotify.com/album/3DOoKGlWO9lNsKQAxa0DJ1) | 3:51 |
 | 53 | [For You](https://open.spotify.com/track/6bfmUjaeIiTjpOqHtFIiVf) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [LATATA](https://open.spotify.com/album/3DOoKGlWO9lNsKQAxa0DJ1) | 3:44 |
 | 54 | [What's Your Name](https://open.spotify.com/track/0CFyI2NLMuz35P2yUxHFGX) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:09 |
-| 55 | [Help Me](https://open.spotify.com/track/1LdSxQ9HNRtXa6fQ2Bcjos) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Her Private Life \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3IGZKqFG3HJwPYorlck0p6) | 3:58 |
+| 55 | [Help Me](https://open.spotify.com/track/7lZqVyqbMtx4O1lrJCvRH0) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Her Private Life \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6xzTGXUxiDgdIH9TZiHKz8) | 3:58 |
 | 56 | [Wow Thing](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [SinB](https://open.spotify.com/artist/0tZl5OAXf9jYXFmfRGejs2), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Wow Thing](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) | 2:51 |
 | 57 | [Show](https://open.spotify.com/track/6rUDyzoRnBanKXvaflVLiA) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Sugar Man 3 투유프로젝트 \- 슈가맨3, EPISODE.8](https://open.spotify.com/album/4hmSr1S0TtDjjHlvE0BREP) | 3:11 |
 | 58 | [Idle song](https://open.spotify.com/track/1P7zwuGNeGWehpKVavukRe) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Idle song](https://open.spotify.com/album/6RasD9dt49odO6D3VkhD1z) | 3:08 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 | 67 | [DON'T TEXT ME](https://open.spotify.com/track/10gS1lJELCHguaUnrowonh) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:36 |
 | 68 | [What’s in your house?](https://open.spotify.com/track/2bSwPOwFskjLWMb09Ppqoo) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:27 |
 | 69 | [Hear me](https://open.spotify.com/track/2kgjb8aqV3202cAN7jUaNR) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:56 |
-| 70 | [달려! Relay](https://open.spotify.com/track/7iH3faubNoXfhxmQUzUGGq) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [달려! Relay](https://open.spotify.com/album/1QBlxNoC6ScHlfLzfLUHtK) | 3:43 |
+| 70 | [Relay](https://open.spotify.com/track/310Qb2mSocNLguFicxzRnD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Relay](https://open.spotify.com/album/0k31vrIZQgqit8TjlQePM9) | 3:43 |
 
-Snapshot ID: `MTY1Njk1MDQyMSwwMDAwMDAxYjAwMDAwMTgxYzlmMGY4YjMwMDAwMDE3ZmJmMTA2NmU3`
+Snapshot ID: `MTY1Njk1MDQyMSwwMDAwMDAwMDJkN2U5NjJlYWU5YzFhZTdkMjk2ZmI5MWQ1MjE0NGRm`

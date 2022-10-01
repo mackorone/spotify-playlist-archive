@@ -198,6 +198,28 @@
     },
     {
       "album": {
+        "name": "Honk If You're Sad",
+        "url": "https://open.spotify.com/album/7hfF5ThQJ3JPuQ4EWqDzZj"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        },
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221129,
+      "name": "Chandler",
+      "url": "https://open.spotify.com/track/0xaTg3VQlkaeWmmBuzSKR4"
+    },
+    {
+      "album": {
         "name": "Chandler",
         "url": "https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8"
       },
@@ -213,7 +235,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221129,
       "name": "Chandler",
       "url": "https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK"
@@ -909,7 +931,7 @@
     {
       "album": {
         "name": "Prototype",
-        "url": "https://open.spotify.com/album/5pyqMlsGJ38kQpY9V5CUIS"
+        "url": "https://open.spotify.com/album/5t7cIpJhwMSiNPBGb6OVv3"
       },
       "artists": [
         {
@@ -920,6 +942,24 @@
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 244612,
+      "name": "Starting Now",
+      "url": "https://open.spotify.com/track/0AXP131uI9Fs1f1upBFuPW"
+    },
+    {
+      "album": {
+        "name": "Prototype",
+        "url": "https://open.spotify.com/album/5pyqMlsGJ38kQpY9V5CUIS"
+      },
+      "artists": [
+        {
+          "name": "Reginald Chapman",
+          "url": "https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 244612,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/2ZbKwtl0g3JVDDuLIzcCUP"

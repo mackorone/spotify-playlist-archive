@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-07-09",
-  "description": "<a href =\u201cspotify:artist:10hGPIDZi33LRaYRIq3Bh4\u201d>Dimitri Vangelis & Wyman</a> are the perfect duo to get us into main stage vibes!",
-  "name": "Dimitri Vangelis & Wyman DJ Mix",
+  "description": "<a href=\u201cspotify:artist:10hGPIDZi33LRaYRIq3Bh4\u201d>Dimitri Vangelis & Wyman</a> are the perfect duo to get us into main stage vibes!",
+  "name": "Dimitri Vangelis & Wyman's DJ Mix",
   "published_playlist_ids": [
     "4TV2VrgQkdbBN7K4MFzUsA"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Acid Drop",
+        "url": "https://open.spotify.com/album/27f0q4EiHBT7a9Uv47APZD"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vangelis & Wyman",
+          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
+        },
+        {
+          "name": "Futuristic Polar Bears",
+          "url": "https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 178642,
+      "name": "Acid Drop",
+      "url": "https://open.spotify.com/track/736WZdexDNUUhVg5bP3bP1"
+    },
     {
       "album": {
         "name": "Acid Drop (Mixed)",
@@ -27,6 +49,28 @@
       "duration_ms": 180000,
       "name": "Acid Drop - Mixed",
       "url": "https://open.spotify.com/track/4izdpdPq7HaBIbXj89qeej"
+    },
+    {
+      "album": {
+        "name": "Blizzard",
+        "url": "https://open.spotify.com/album/4CgiNZuViHby7GJvaP32DD"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vangelis & Wyman",
+          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
+        },
+        {
+          "name": "Envyro",
+          "url": "https://open.spotify.com/artist/5lxDBvdzaRQ5I3P2fKzxRy"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 172734,
+      "name": "Blizzard",
+      "url": "https://open.spotify.com/track/5EKMssWOgGWu7IafhuqNcV"
     },
     {
       "album": {
@@ -115,6 +159,50 @@
       "duration_ms": 255000,
       "name": "Empire - Mixed",
       "url": "https://open.spotify.com/track/094OiNYarfvrTscmSCR2Db"
+    },
+    {
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/5JcihSt1ZtAgMKeEnaQWhQ"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vangelis & Wyman",
+          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
+        },
+        {
+          "name": "Tom Staar",
+          "url": "https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 260410,
+      "name": "Empire - Radio Edit",
+      "url": "https://open.spotify.com/track/1cP6uZspQSee2Fyll7PvEq"
+    },
+    {
+      "album": {
+        "name": "Grizzly",
+        "url": "https://open.spotify.com/album/0LasSgCUNVCdpGK8MKxkn2"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vangelis & Wyman",
+          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
+        },
+        {
+          "name": "Futuristic Polar Bears",
+          "url": "https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 206936,
+      "name": "Grizzly",
+      "url": "https://open.spotify.com/track/404GAjZXjNEbHylHJUYzbR"
     },
     {
       "album": {

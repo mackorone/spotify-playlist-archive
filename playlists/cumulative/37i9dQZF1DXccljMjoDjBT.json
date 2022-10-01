@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 412595,
       "name": "Althea - 2013 Remaster",
       "url": "https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m"
@@ -225,6 +225,24 @@
     {
       "album": {
         "name": "Street Fighting Years",
+        "url": "https://open.spotify.com/album/5mBLEMXwzctnXP2ZhPMNvX"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-27",
+      "duration_ms": 402173,
+      "name": "Belfast Child - Remastered 2002",
+      "url": "https://open.spotify.com/track/0guW4g1Z0gJjkKxkIy7VR7"
+    },
+    {
+      "album": {
+        "name": "Street Fighting Years",
         "url": "https://open.spotify.com/album/17U68dqp73T4E3Kte15ben"
       },
       "artists": [
@@ -235,7 +253,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 402173,
       "name": "Belfast Child - Remastered 2002",
       "url": "https://open.spotify.com/track/3fKDSSIgOngs8YYzFJO6eD"
@@ -296,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419400,
+      "name": "Brothers in Arms",
+      "url": "https://open.spotify.com/track/26tWBbtjvgi0tipRL2VQ2X"
+    },
+    {
+      "album": {
         "name": "Brothers In Arms",
         "url": "https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs"
       },
@@ -307,7 +343,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 424000,
       "name": "Brothers In Arms",
       "url": "https://open.spotify.com/track/0CzeAbfKFnxnWjwo5iYiCG"
@@ -350,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Crowded House",
+        "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236933,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
+    },
+    {
+      "album": {
         "name": "Crowded House (Deluxe)",
         "url": "https://open.spotify.com/album/6W8rZvQ97nvTyOj26TRHJJ"
       },
@@ -361,7 +415,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238173,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A"
@@ -602,7 +656,7 @@
     },
     {
       "album": {
-        "name": "Reckless (2014 Remaster)",
+        "name": "Reckless",
         "url": "https://open.spotify.com/album/7LPkGn9WJkguua8oZtaHxa"
       },
       "artists": [
@@ -631,7 +685,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 148853,
       "name": "Here Today - Remixed 2015",
       "url": "https://open.spotify.com/track/0QtnwXDziZN1K55fXuLN6q"
@@ -703,7 +757,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 307306,
       "name": "I Can't Go for That (No Can Do)",
       "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
@@ -739,7 +793,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218746,
       "name": "I Should Have Known Better",
       "url": "https://open.spotify.com/track/5Fc9KTi19410zQoLZAYSWh"
@@ -883,10 +937,28 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 322960,
       "name": "In the Mood - 2006 Remaster",
       "url": "https://open.spotify.com/track/1fOrdq5lDitklPno27DeHV"
+    },
+    {
+      "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302840,
+      "name": "In Too Deep - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
     },
     {
       "album": {
@@ -901,7 +973,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 302840,
       "name": "In Too Deep - Remastered 2007",
       "url": "https://open.spotify.com/track/4tmvNDYDxzspyUTVckmwI9"
@@ -1067,7 +1139,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 345293,
       "name": "Mandela Day - Remastered 2002",
       "url": "https://open.spotify.com/track/1cAKfDcmAPKijCDhK28GqW"
@@ -1157,10 +1229,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 394733,
       "name": "New York Minute",
       "url": "https://open.spotify.com/track/6jkqaUJm7Tv0EWpY28iQq2"
+    },
+    {
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395400,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "album": {
@@ -1200,7 +1290,7 @@
     },
     {
       "album": {
-        "name": "Escape",
+        "name": "Escape (Bonus Track Version)",
         "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
       "artists": [
@@ -1229,7 +1319,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224866,
       "name": "Pink Houses - Bonus Track",
       "url": "https://open.spotify.com/track/69ralFmXmtNuPsgpFUtbbt"
@@ -1265,7 +1355,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 405893,
       "name": "Private Investigations",
       "url": "https://open.spotify.com/track/5KVak7r5YKcnkmARc0hy0Q"
@@ -1283,10 +1373,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 360666,
       "name": "Romeo And Juliet",
       "url": "https://open.spotify.com/track/0PNt5WTw092eED0ru9SuIp"
+    },
+    {
+      "album": {
+        "name": "Making Movies",
+        "url": "https://open.spotify.com/album/7yTjsInNdNQJAlXAboi1nh"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361395,
+      "name": "Romeo and Juliet",
+      "url": "https://open.spotify.com/track/57MflfPN3ObQQAQtPUp0WF"
     },
     {
       "album": {
@@ -1413,10 +1521,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211826,
       "name": "Straight From The Heart",
       "url": "https://open.spotify.com/track/7uBxi4jHZqgWAjqLEl1KcF"
+    },
+    {
+      "album": {
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Straight From The Heart",
+      "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
     },
     {
       "album": {
@@ -1431,10 +1557,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 379000,
       "name": "Sunset Grill",
       "url": "https://open.spotify.com/track/4I9AA9H57ySNSv1ZPinL4D"
+    },
+    {
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259493,
+      "name": "Tea In The Sahara",
+      "url": "https://open.spotify.com/track/26R3e7bjY6e9dlgghide8L"
     },
     {
       "album": {
@@ -1475,7 +1619,7 @@
     {
       "album": {
         "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/4Y1isZbaqleNpbGDtP45ux"
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
       "artists": [
         {
@@ -1486,6 +1630,24 @@
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 315306,
+      "name": "The End Of The Innocence",
+      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
+    },
+    {
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/4Y1isZbaqleNpbGDtP45ux"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 316360,
       "name": "The End Of The Innocence",
       "url": "https://open.spotify.com/track/4i3E8TCZc97xLu5pjVQnch"
@@ -1511,7 +1673,7 @@
     {
       "album": {
         "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/4Y1isZbaqleNpbGDtP45ux"
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
       "artists": [
         {
@@ -1522,6 +1684,24 @@
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 322600,
+      "name": "The Heart Of The Matter",
+      "url": "https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI"
+    },
+    {
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/4Y1isZbaqleNpbGDtP45ux"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 324666,
       "name": "The Heart Of The Matter",
       "url": "https://open.spotify.com/track/3VxQqAkUs36X3MhjZm0CT4"
@@ -1539,10 +1719,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 362373,
       "name": "The Last Worthless Evening",
       "url": "https://open.spotify.com/track/5D6SN6oGADOqcLNxyrDJJM"
+    },
+    {
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362466,
+      "name": "The Last Worthless Evening",
+      "url": "https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg"
     },
     {
       "album": {
@@ -1583,7 +1781,7 @@
     {
       "album": {
         "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP"
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
       "artists": [
         {
@@ -1594,6 +1792,24 @@
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229560,
+      "name": "Throwing It All Away - 2007 Remaster",
+      "url": "https://open.spotify.com/track/1dMilrhgON9TIGPVdWG2dX"
+    },
+    {
+      "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 231400,
       "name": "Throwing It All Away - Remastered 2007",
       "url": "https://open.spotify.com/track/4HtqqceiGSIdxnpKrTfeOB"
@@ -1690,6 +1906,24 @@
     },
     {
       "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511293,
+      "name": "Why Worry",
+      "url": "https://open.spotify.com/track/4Yy5d21CJvXQ8cOuaTiCRD"
+    },
+    {
+      "album": {
         "name": "Brothers In Arms",
         "url": "https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs"
       },
@@ -1701,7 +1935,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 509066,
       "name": "Why Worry?",
       "url": "https://open.spotify.com/track/3KRJx4PjRJBFPGFQD0p02H"
@@ -1719,10 +1953,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 289066,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/34u3Bj1KVxKWfA07yDJ2vG"
+    },
+    {
+      "album": {
+        "name": "Heart Shaped World",
+        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289066,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
     },
     {
       "album": {
@@ -1867,7 +2119,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 190626,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
@@ -1903,10 +2155,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 393266,
       "name": "Your Latest Trick",
       "url": "https://open.spotify.com/track/7cR56TtuWIktf7jaZfyIgz"
+    },
+    {
+      "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393866,
+      "name": "Your Latest Trick",
+      "url": "https://open.spotify.com/track/4UK1g9Z1lWedkmIQuSyCe5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXccljMjoDjBT"

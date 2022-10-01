@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjRskvOCSF.md) - [plain](/playlists/plain/37i9dQZF1DX3JjRskvOCSF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3JjRskvOCSF)
 
-### [Dimitri Vangelis & Wyman DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX3JjRskvOCSF)
+### [Dimitri Vangelis & Wyman's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX3JjRskvOCSF)
 
-> <a href =“spotify:artist:10hGPIDZi33LRaYRIq3Bh4”>Dimitri Vangelis & Wyman</a> are the perfect duo to get us into main stage vibes!
+> <a href=“spotify:artist:10hGPIDZi33LRaYRIq3Bh4”>Dimitri Vangelis & Wyman</a> are the perfect duo to get us into main stage vibes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 276 likes - 19 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,517 likes - 19 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjRskvOCSF.md) - [plain]
 | 18 | [Safe \- Extended Mix \- Mixed](https://open.spotify.com/track/1sevDYfZAqrGJCKNiGVx6o) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Safe \- Extended Mix \(Mixed\)](https://open.spotify.com/album/7zkuGbHC89mNYEpcmUppKN) | 4:00 |
 | 19 | [Coming Home \- Extended Mix \- Mixed](https://open.spotify.com/track/4tHLBA2og5370qS6YbC84m) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Coming Home \- Extended Mix \(Mixed\)](https://open.spotify.com/album/1U1QEPUvMF7Ejf05Det8il) | 4:27 |
 
-Snapshot ID: `MTY1NzA4OTg0NywwMDAwMDAwNTAwMDAwMTgxZDI0MDcwNDYwMDAwMDE4MWNmMDgyZTIy`
+Snapshot ID: `MTY2MDY2MDkwOSwwMDAwMDAwMDNmMTc3ZDJlNmJhYzVjYzIzZjg4MTY5YzZkYmVlM2Uz`

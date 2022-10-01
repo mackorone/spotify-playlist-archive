@@ -4,7 +4,7 @@
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-60 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/2MbvFGK8Q4PKjddwW7wsN9)
+62 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/2MbvFGK8Q4PKjddwW7wsN9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Harlem River Blues](https://open.spotify.com/track/5bSt4SKyltiU8g42jXwwos) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 3:10 | 2021-09-29 |  |
 | [Hello Stranger \- Live](https://open.spotify.com/track/7DDT9pPrvuzuePgTluXU9b) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [The Nash Ramblers](https://open.spotify.com/artist/6kfIzjkF8DgvTSw0XlAJOh) | [Ramble in Music City: The Lost Concert \(Live\)](https://open.spotify.com/album/67Coweh6bxMgu7wijLpzGa) | 3:36 | 2021-09-29 |  |
 | [Honey I Been Thinking About You](https://open.spotify.com/track/5caWeJ9yfWlLh6magmtLr4) | [Jackie Greene](https://open.spotify.com/artist/5idHaEmJbiGTZ2MBmhmGMV) | [Sweet Somewhere Bound](https://open.spotify.com/album/7mHMvRtYcn606hWw9MoM7L) | 4:45 | 2021-09-29 |  |
-| [Honey I Love You \(feat\. Keb' Mo'\)](https://open.spotify.com/track/13HyzdrX8NYUo0l3WVfxon) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm) | [Dustbowl Revival](https://open.spotify.com/album/12lr2fucUT2rLSzHHQeBPE) | 3:33 | 2021-09-29 |  |
+| [Honey I Love You](https://open.spotify.com/track/7cvxb6UndQ9M2AMEWxLGrJ) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Dustbowl Revival](https://open.spotify.com/album/54EEdEGFyKLIu8YvdNyfuY) | 3:33 | 2021-09-29 |  |
+| [Honey I Love You \(feat\. Keb' Mo'\)](https://open.spotify.com/track/13HyzdrX8NYUo0l3WVfxon) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm) | [Dustbowl Revival](https://open.spotify.com/album/12lr2fucUT2rLSzHHQeBPE) | 3:33 | 2021-09-29 | 2022-07-29 |
 | [Hypotheticals](https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:50 | 2021-09-29 |  |
 | [I Don't Live In A Dream \- Live](https://open.spotify.com/track/3ho5QaAxckBv9GluIYqLMT) | [Jackie Greene](https://open.spotify.com/artist/5idHaEmJbiGTZ2MBmhmGMV), [Shannon Sanders](https://open.spotify.com/artist/44DNDJwAygYFhD3Pd7jOuI) | [I Don't Live In A Dream \(Live\)](https://open.spotify.com/album/295AdcebONhviN3QaEu65K) | 5:45 | 2021-09-29 |  |
 | [I Have Learned To Do Without You](https://open.spotify.com/track/5wfxLwBob2D32KO95kFMtx) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Only For The Lonely](https://open.spotify.com/album/1XZX9ze6FQDnBSUdkb9k0m) | 4:14 | 2021-09-29 |  |
@@ -58,7 +59,8 @@
 | [Sorta Surviving](https://open.spotify.com/track/6oVPXuvV9mfZgIhNYWvcEn) | [Tim Bluhm](https://open.spotify.com/artist/7DvcUPMTX0XfGlO0RexUh0) | [Sorta Surviving](https://open.spotify.com/album/7yCItyB8CBd08cMTiHk0a4) | 3:14 | 2021-09-29 |  |
 | [Spanish On The Beach](https://open.spotify.com/track/3GTqzTpAxsqbXiiL3OBZQu) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wilds](https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG) | 2:34 | 2021-09-29 |  |
 | [Stay](https://open.spotify.com/track/0sxik8HSqCPADJ3Z9d4khp) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Stay \(Little Dragon Remix\)](https://open.spotify.com/album/58CBjhuHtiy2PEhEgVQxS7) | 3:01 | 2021-09-29 |  |
-| [Sundowner \- 4\-Track Demo](https://open.spotify.com/track/3HIh24ThOen5MtubxA9kQO) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner \(4\-Track Demo\)](https://open.spotify.com/album/7LAm8foZ5Kk6KIeVBy2J7f) | 4:22 | 2021-09-29 |  |
+| [Sundowner \- 4\-Track Demo](https://open.spotify.com/track/1JGW7bagfkhvli39OuDXuV) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [A Night At The Little Los Angeles \(Sundowner 4\-Track Demos\)](https://open.spotify.com/album/4EINljdbkgBlqatl4h9OeW) | 4:22 | 2021-09-29 |  |
+| [Sundowner \- 4\-Track Demo](https://open.spotify.com/track/3HIh24ThOen5MtubxA9kQO) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner \(4\-Track Demo\)](https://open.spotify.com/album/7LAm8foZ5Kk6KIeVBy2J7f) | 4:22 | 2021-09-29 | 2022-07-29 |
 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 | 2021-09-29 |  |
 | [Supernova](https://open.spotify.com/track/1nHbi9dAQKg6WtmN5xMmed) | [Meklit](https://open.spotify.com/artist/4I5bRwfigd1Fj1ciXo7jQH) | [When the People Move, the Music Moves Too](https://open.spotify.com/album/43xW2nwuh5aSnKjtv6tERG) | 5:42 | 2021-09-29 |  |
 | [The Long Goodbye](https://open.spotify.com/track/39frvhj8AzWzM5UfduyeDH) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/6lGi8cCtoERQXSpWnb0Hmr) | 10:02 | 2021-09-29 |  |

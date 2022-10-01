@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+      },
+      "artists": [
+        {
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-23",
+      "duration_ms": 252400,
+      "name": "3 Tha Hard Way",
+      "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
+    },
+    {
+      "album": {
         "name": "Above The Rim",
         "url": "https://open.spotify.com/album/2Pei4jzhzQtaqGs9J2fDcS"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 288333,
       "name": "Afro Puffs",
       "url": "https://open.spotify.com/track/2sK1a4QxXQm6Jq8z2R1WgO"
@@ -59,7 +77,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 259466,
       "name": "B. K. Anthem",
       "url": "https://open.spotify.com/track/3liGFAshsmzJZW17h9Kebe"
@@ -135,7 +153,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 180093,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA"
@@ -157,7 +175,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 238386,
       "name": "Ching Ching",
       "url": "https://open.spotify.com/track/4YqYDP9MoPeBh1AqmzxD8g"
@@ -190,6 +208,24 @@
     },
     {
       "album": {
+        "name": "There's Something About Remy-Based On A True Story (Explicit)",
+        "url": "https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO"
+      },
+      "artists": [
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219560,
+      "name": "Conceited (There's Something About Remy)",
+      "url": "https://open.spotify.com/track/2OcBwebjQsdJy76zWvLQvn"
+    },
+    {
+      "album": {
         "name": "There's Something About Remy-Based On A True Story",
         "url": "https://open.spotify.com/album/6y9AdbqYziDJmcLSyyOsGO"
       },
@@ -201,7 +237,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219560,
       "name": "Conceited (There's Something About Remy)",
       "url": "https://open.spotify.com/track/2R4KCSHfWuYiCMSu9f0nuc"
@@ -263,7 +299,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 195293,
       "name": "Da Baddest Bitch",
       "url": "https://open.spotify.com/track/1rBittbf1aWwzeW28dI7Lv"
@@ -317,7 +353,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 250360,
       "name": "Extra, Extra!! - Radio Edit",
       "url": "https://open.spotify.com/track/2mN33GCazOi21eBFneNFlO"
@@ -339,10 +375,32 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242160,
       "name": "Feels So Good",
       "url": "https://open.spotify.com/track/3VmVapCFKcU9d3CJsoSUm8"
+    },
+    {
+      "album": {
+        "name": "There's Something About Remy-Based On A True Story (Explicit)",
+        "url": "https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO"
+      },
+      "artists": [
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242160,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/6oSoFV8IDRMrFh2C4aXIKt"
     },
     {
       "album": {
@@ -357,7 +415,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Final Hour",
       "url": "https://open.spotify.com/track/7nY3NA1AvORewLU3BU7GNX"
@@ -415,7 +473,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 211120,
       "name": "Get Ur Freak On",
       "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
@@ -455,7 +513,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": "2022-07-29",
       "duration_ms": 204000,
       "name": "Ghetto Love (feat. T-Boz)",
       "url": "https://open.spotify.com/track/5iJkSPVhITJvlYW3U3BxtS"
@@ -495,7 +553,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 313666,
       "name": "Hater's Anthem",
       "url": "https://open.spotify.com/track/43fVFKYwRXQwDtgT1jTGrh"
@@ -568,6 +626,28 @@
     },
     {
       "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT"
+      },
+      "artists": [
+        {
+          "name": "Monie Love",
+          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
+        },
+        {
+          "name": "True Image",
+          "url": "https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "It's a Shame (My Sister)",
+      "url": "https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA"
+    },
+    {
+      "album": {
         "name": "Beam Me Up Scotty",
         "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
       },
@@ -597,7 +677,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268066,
       "name": "Just Another Day...",
       "url": "https://open.spotify.com/track/48FC4RXepyOHJFTyFuQkm0"
@@ -648,6 +728,24 @@
     },
     {
       "album": {
+        "name": "Blacks' Magic",
+        "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "Let's Talk About Sex",
+      "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
+    },
+    {
+      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -677,7 +775,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 260306,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/0H2jfzzREOr9MF95HB7ry6"
@@ -735,10 +833,28 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-26",
       "duration_ms": 222333,
       "name": "My Neck, My Back",
       "url": "https://open.spotify.com/track/04NMCxLqlXuyONlkdH4rY2"
+    },
+    {
+      "album": {
+        "name": "Thug Misses (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
+      },
+      "artists": [
+        {
+          "name": "Khia",
+          "url": "https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222560,
+      "name": "My Neck, My Back (Lick It)",
+      "url": "https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6"
     },
     {
       "album": {
@@ -769,7 +885,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252520,
       "name": "Not Tonight (feat. Da Brat, Left Eye, Missy \"Misdemeanor\" Elliott and Angie Martinez) - Remix",
       "url": "https://open.spotify.com/track/42OhQBFNIbMyxRGxyPOvQA"
@@ -845,7 +961,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 270093,
       "name": "Poor Georgie",
       "url": "https://open.spotify.com/track/0wIEQYOLgV9TneTgM3aRVE"
@@ -881,7 +997,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 272133,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
@@ -917,7 +1033,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": "2022-07-23",
       "duration_ms": 309487,
       "name": "Roxanne's Revenge",
       "url": "https://open.spotify.com/track/2sftlrkrHgbmUa577QsOMm"
@@ -935,7 +1051,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 237266,
       "name": "Ruffneck",
       "url": "https://open.spotify.com/track/5BC50dLe7dZKVc3gPvJRx9"
@@ -960,6 +1076,24 @@
     },
     {
       "album": {
+        "name": "Very Necessary",
+        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248573,
+      "name": "Shoop",
+      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
+    },
+    {
+      "album": {
         "name": "Cold As Ice",
         "url": "https://open.spotify.com/album/6MZesTNMkraV9NpJ7ipFw8"
       },
@@ -975,7 +1109,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 284866,
       "name": "Stand Up (Featuring Ghostface Killah) (feat. Ghostface Killah)",
       "url": "https://open.spotify.com/track/1OthLEsS1Qc4zwEjJ2E2Xx"
@@ -997,7 +1131,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233226,
       "name": "Take You Home (feat. Kelis)",
       "url": "https://open.spotify.com/track/76HwNiaQIPdiKkPr9rIblr"
@@ -1051,7 +1185,7 @@
       ],
       "date_added": "2021-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 253106,
       "name": "The Party Don't Stop",
       "url": "https://open.spotify.com/track/1Ojr6XMYJnlkTYI1bVr5uG"
@@ -1159,7 +1293,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229333,
       "name": "What They Call Me",
       "url": "https://open.spotify.com/track/79qSLBw54yfALjCp41cTkn"
@@ -1251,7 +1385,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 281906,
       "name": "Who's That Girl?",
       "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
@@ -1269,10 +1403,28 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226066,
       "name": "Whuteva",
       "url": "https://open.spotify.com/track/0QJU13S307gWlr4nhUh2SV"
+    },
+    {
+      "album": {
+        "name": "There's Something About Remy-Based On A True Story (Explicit)",
+        "url": "https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO"
+      },
+      "artists": [
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226066,
+      "name": "Whuteva",
+      "url": "https://open.spotify.com/track/5K66mTtWcmGelHC4FkqOFK"
     },
     {
       "album": {
@@ -1309,7 +1461,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 304666,
       "name": "You Can't Play with My Yo-Yo (feat. Ice Cube)",
       "url": "https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t"

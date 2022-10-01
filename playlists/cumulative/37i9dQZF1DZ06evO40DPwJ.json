@@ -394,6 +394,32 @@
     },
     {
       "album": {
+        "name": "Hangover (Latino Version)",
+        "url": "https://open.spotify.com/album/674xP1BV18kOu3aw6Jhmzz"
+      },
+      "artists": [
+        {
+          "name": "Yuriel Es Musica",
+          "url": "https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
+      "duration_ms": 244584,
+      "name": "Hangover (Latino Version)",
+      "url": "https://open.spotify.com/track/1kI6dbPJALktaIm1wF9G3V"
+    },
+    {
+      "album": {
         "name": "Hangover (Remixes)",
         "url": "https://open.spotify.com/album/6yNFJz8Gy8E7ZR6ERc9nEa"
       },
@@ -503,7 +529,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 180000,
       "name": "Imagine - Big Brothers Big Sisters Charity Single",
       "url": "https://open.spotify.com/track/1YPrvXgBooolvvFZG8Mk7p"

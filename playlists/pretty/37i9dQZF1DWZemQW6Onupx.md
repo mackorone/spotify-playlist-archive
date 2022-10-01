@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZemQW6Onupx.md) - [plain]
 
 > Enjoy music from "Panty & Stocking with Garterbelt"! 「パンティ＆ストッキングwithガーターベルト」公式プレイリスト！\(C\)2010 GAINAX/GEEKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,636 likes - 43 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,321 likes - 43 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZemQW6Onupx.md) - [plain]
 | 42 | [Cherry Corrida X\~cocks back: the resurrection of a bitch\~](https://open.spotify.com/track/727QnkydHKiDVsVFvzd4Ga) | [TCY FORCE](https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe) | [Panty & Stocking with Garterbelt "THE WORST ALBUM"](https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP) | 1:13 |
 | 43 | [Fallen Angel \(El Poco Maro Drum'n'Bass Remix\)](https://open.spotify.com/track/7bL6vnjwbb9l7y56Nyui05) | [Mitsunori Ikeda](https://open.spotify.com/artist/6EP9l6n1MqBWLMDLsBGZSx), [Aimee B](https://open.spotify.com/artist/1uLk7jpNDdq7qhs5MSqjAS) | [Panty & Stocking with Garterbelt "THE WORST ALBUM"](https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP) | 6:00 |
 
-Snapshot ID: `MTYyMjAwODc0MywwMDAwMDAwNTAwMDAwMTc5YTc0MTQ1ZmMwMDAwMDE3MGM0OWFkNjRm`
+Snapshot ID: `MTYyMjAwODc0MywwMDAwMDAwMDEyZmI5OTk3ODlhOGVjZTAwYWMyNDA5NjhmMDU5YzI2`

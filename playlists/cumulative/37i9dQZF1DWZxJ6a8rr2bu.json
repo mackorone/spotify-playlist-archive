@@ -143,7 +143,7 @@
       },
       "artists": [
         {
-          "name": "Lauren Spencer-Smith",
+          "name": "Lauren Spencer Smith",
           "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
@@ -459,10 +459,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 94932,
       "name": "Self",
       "url": "https://open.spotify.com/track/0nKiPnnqn6bfn8sPOZJGs8"
+    },
+    {
+      "album": {
+        "name": "Room 25",
+        "url": "https://open.spotify.com/album/0OWKJhRqMHKWKISAKCKgAw"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94932,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/2kiCjjIJznzvPuSTtPPP4O"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYQim4OFxg7.md) - [plain]
 
 > These songs about science will get your kids thinking \(and dancing!\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218 likes - 30 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,242 likes - 30 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYQim4OFxg7.md) - [plain]
 | 7 | [What Is Electricity?](https://open.spotify.com/track/4sCEgYgNLeyPmG5UUeEBuE) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 2 \(Music From The Original Series\)](https://open.spotify.com/album/1gBVScuQu3oYi98AchR0WR) | 1:14 |
 | 8 | [Let's Explore Space!](https://open.spotify.com/track/5kSNgcL9H7rlZE6PXApxIm) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I), [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 6](https://open.spotify.com/album/4q63Npjvs1fkfxDz0AwpzZ) | 1:28 |
 | 9 | [The Volcano Song](https://open.spotify.com/track/0LixLuFCySCWfXxRWH0Esj) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:09 |
-| 10 | [Science](https://open.spotify.com/track/6PvmdYQrjnBGGEdMAxCQ1J) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Thoughtful Songs For Little People](https://open.spotify.com/album/6LSFxDVMLokDF0TO9kXUSP) | 3:40 |
+| 10 | [Science](https://open.spotify.com/track/6y527slRv6wrd7eM7PjYaM) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Thoughtful Songs for Little People](https://open.spotify.com/album/7f8sw4jRMSFZoAykCkd7CA) | 3:40 |
 | 11 | [Perry the Platypus Theme](https://open.spotify.com/track/0gG4SZ5weal3dd11pf5SzV) | [Randy Crenshaw](https://open.spotify.com/artist/1uYWNGwHu2d2au8iOXZROv) | [Phineas and Ferb](https://open.spotify.com/album/1mwUxOieg2GvQn4wm5bJR1) | 0:47 |
 | 12 | [Scientific Method Song](https://open.spotify.com/track/1VJzt4CeuWXNwTISfWYYW3) | [Have Fun Teaching](https://open.spotify.com/artist/705Z0iFTodc8kuWuq6s5ah) | [Science Songs](https://open.spotify.com/album/1SuAdgI7e9osUMADAoIPtC) | 3:08 |
-| 13 | [The Appliance of Science](https://open.spotify.com/track/72sa7baeB5edYoxLotlFo2) | [Andy And The Odd Socks](https://open.spotify.com/artist/7FaeyOiIacUzZR8I3b7uGh) | [Odd Socks Calling!](https://open.spotify.com/album/3W4Njm0c2juSr1A0rOcR6Y) | 3:01 |
-| 14 | [Science Safety Song](https://open.spotify.com/track/7sFIvuWrFcGDVgW5hv0uZC) | [T\-Rex Ranch](https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn) | [Science Safety Song](https://open.spotify.com/album/4HNbMitRi0kEbDFzz20ShU) | 1:56 |
+| 13 | [The Appliance of Science](https://open.spotify.com/track/4CTSxxuoJ6y8WiMY0wQq8u) | [Andy And The Odd Socks](https://open.spotify.com/artist/7FaeyOiIacUzZR8I3b7uGh) | [Odd Socks Calling!](https://open.spotify.com/album/5hFBdPyv74iBUQhz4MBkvN) | 3:01 |
+| 14 | [Science Safety Song](https://open.spotify.com/track/08zVXpxlOLeNAribgD0IU0) | [T\-Rex Ranch](https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn) | [Science Safety Song](https://open.spotify.com/album/1kKsfxd9UKEUj59tYegN1t) | 1:56 |
 | 15 | [Why Does the Sun Shine?](https://open.spotify.com/track/1wfa3vAiIAbSxHbzKoSPuS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:36 |
 | 16 | [The Planets](https://open.spotify.com/track/49fHq1JGgELi2dAWZFzFhz) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp) | [Songs for Chickens](https://open.spotify.com/album/6DRUmoB3xTpgh1dqWYQP1W) | 3:00 |
 | 17 | [The Elements \(Music By Sir Arthur Sullivan\)](https://open.spotify.com/track/3LRGJ97WvYoD99lDgtcIFJ) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [More Of Tom Lehrer](https://open.spotify.com/album/2ez9hfFQ772DXjuJ94sgJi) | 1:26 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYQim4OFxg7.md) - [plain]
 | 26 | [The Save The Planet Song](https://open.spotify.com/track/4TO4twNfRwHYylLt3AgJWl) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:07 |
 | 27 | [The Ballad of Davy Crockett \(in Outer Space\)](https://open.spotify.com/track/55EQ8G6yRRK23iPHRL6g7A) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:17 |
 | 28 | [How Plants Grow](https://open.spotify.com/track/3CU2MfdQcEM0FWQXILtv9V) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN), [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Ready for Preschool Vol\. 6](https://open.spotify.com/album/4q63Npjvs1fkfxDz0AwpzZ) | 1:26 |
-| 29 | [Science Is Real](https://open.spotify.com/track/0HK0ca4NUq81wKUpBksoSe) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0nrQFbrmkmXPq57leBGMjt) | 1:54 |
+| 29 | [Science Is Real](https://open.spotify.com/track/7xFXq8zWrmUsM4geMf4ieS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 1:54 |
 | 30 | [Speed and Velocity](https://open.spotify.com/track/7BT6rJugPKZS9STlaAiNxH) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O), [Marty Beller](https://open.spotify.com/artist/7mI3lEVRmJ9Yjpuu2J0GfI) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 1:48 |
 
-Snapshot ID: `MTY0OTQyNjU3MSwwMDAwMDAwZjAwMDAwMTgwMDk3YzIwY2YwMDAwMDE3MGFmM2E3OTJk`
+Snapshot ID: `MTY0OTQyNjU3MSwwMDAwMDAwMDA5MzIwZDdkNWUxY2RiY2ZlN2UzNTAyNjIwNTYzOGMw`

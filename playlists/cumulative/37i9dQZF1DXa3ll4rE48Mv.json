@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Get Damaged",
+        "url": "https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk"
+      },
+      "artists": [
+        {
+          "name": "be your own PET",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180266,
+      "name": "Becky",
+      "url": "https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O"
+    },
+    {
+      "album": {
         "name": "Get Awkward",
         "url": "https://open.spotify.com/album/19ROncpBALfjlbLdXSLSzr"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180266,
       "name": "Becky",
       "url": "https://open.spotify.com/track/2JXWrZnKf0PMklRuJapQgT"
@@ -99,6 +117,24 @@
     {
       "album": {
         "name": "Try to Be Hopeful",
+        "url": "https://open.spotify.com/album/1RKrCP38UismUZ1NnC9sjc"
+      },
+      "artists": [
+        {
+          "name": "The Spook School",
+          "url": "https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195080,
+      "name": "Binary",
+      "url": "https://open.spotify.com/track/310OmUKAvBV8hHZQxXZsIu"
+    },
+    {
+      "album": {
+        "name": "Try to Be Hopeful",
         "url": "https://open.spotify.com/album/0ooSpzz4zOyP9nKl02dDye"
       },
       "artists": [
@@ -109,7 +145,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195080,
       "name": "Binary",
       "url": "https://open.spotify.com/track/612neH3gcy0ke7jLRRca53"
@@ -153,6 +189,24 @@
     {
       "album": {
         "name": "Impeach My Bush",
+        "url": "https://open.spotify.com/album/5CSak2h5F36n6QieudTObv"
+      },
+      "artists": [
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "Boys Wanna Be Her",
+      "url": "https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd"
+    },
+    {
+      "album": {
+        "name": "Impeach My Bush",
         "url": "https://open.spotify.com/album/7xCGkKOjMAcKqUE5ggdntD"
       },
       "artists": [
@@ -163,7 +217,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235480,
       "name": "Boys Wanna Be Her",
       "url": "https://open.spotify.com/track/47PLgd0njLIMcyLuQOOlEn"
@@ -235,7 +289,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 229389,
       "name": "Colors",
       "url": "https://open.spotify.com/track/1CIVKxQTjN9Ed0woZbzx2z"
@@ -253,7 +307,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 187933,
       "name": "Damage",
       "url": "https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ"
@@ -307,10 +361,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225841,
       "name": "Don't You Feel Amazing?",
       "url": "https://open.spotify.com/track/5bccYlSbCo13rsK5i3f4i3"
+    },
+    {
+      "album": {
+        "name": "Don't You Feel Amazing?",
+        "url": "https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225841,
+      "name": "Don't You Feel Amazing?",
+      "url": "https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja"
     },
     {
       "album": {
@@ -397,7 +469,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-20",
       "duration_ms": 143568,
       "name": "Fake Great Britain",
       "url": "https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ"
@@ -505,7 +577,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 139688,
       "name": "Fuck Shades",
       "url": "https://open.spotify.com/track/3arJ7yXJcIWds8vzd0PZTG"
@@ -548,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Home Recordings 2020 - 2021",
+        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
+      },
+      "artists": [
+        {
+          "name": "Tokky Horror",
+          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188374,
+      "name": "Girlracer",
+      "url": "https://open.spotify.com/track/4GHmY6MxPzapdarlVs7yku"
+    },
+    {
+      "album": {
         "name": "Girlracer",
         "url": "https://open.spotify.com/album/0w024CbcRiVsEYr34C5Yq1"
       },
@@ -559,7 +649,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188374,
       "name": "Girlracer",
       "url": "https://open.spotify.com/track/7rqcUi5lrEAkREzHiZGIqT"
@@ -613,10 +703,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167276,
       "name": "Good Time Charlie",
       "url": "https://open.spotify.com/track/3YHEUUYqEYLzInHRNfN4bW"
+    },
+    {
+      "album": {
+        "name": "The Seduction of Kansas",
+        "url": "https://open.spotify.com/album/7LFNJk5W0KLjtdgo9W4WmQ"
+      },
+      "artists": [
+        {
+          "name": "Priests",
+          "url": "https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167276,
+      "name": "Good Time Charlie",
+      "url": "https://open.spotify.com/track/3m8UItuMK5t0VXmTOztjDQ"
     },
     {
       "album": {
@@ -693,6 +801,24 @@
     {
       "album": {
         "name": "Lost Time",
+        "url": "https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh"
+      },
+      "artists": [
+        {
+          "name": "Tacocat",
+          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125935,
+      "name": "I Hate the Weekend",
+      "url": "https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp"
+    },
+    {
+      "album": {
+        "name": "Lost Time",
         "url": "https://open.spotify.com/album/4vwTDSKpekqB7fEKvifutT"
       },
       "artists": [
@@ -703,7 +829,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 125935,
       "name": "I Hate the Weekend",
       "url": "https://open.spotify.com/track/7M1Wssdqgsl8CHFedtehTb"
@@ -721,10 +847,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156986,
       "name": "I Wanna Be Your Joey Ramone",
       "url": "https://open.spotify.com/track/1NVq4MTXJVqJ1Dw7LJ6KD4"
+    },
+    {
+      "album": {
+        "name": "Call the Doctor (Remastered)",
+        "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156986,
+      "name": "I Wanna Be Your Joey Ramone",
+      "url": "https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z"
     },
     {
       "album": {
@@ -775,10 +919,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159308,
       "name": "Jillian",
       "url": "https://open.spotify.com/track/0lhxZB33L7xpd0HzlpEyBa"
+    },
+    {
+      "album": {
+        "name": "Dream Nails",
+        "url": "https://open.spotify.com/album/0V68qsHQh9pancGCrfcxev"
+      },
+      "artists": [
+        {
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159308,
+      "name": "Jillian",
+      "url": "https://open.spotify.com/track/5l3tZXrt8t84oaQMArZv6q"
     },
     {
       "album": {
@@ -793,10 +955,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175760,
       "name": "Let's Make Out",
       "url": "https://open.spotify.com/track/3tgbbJ2XFGiNY5kMAdAn97"
+    },
+    {
+      "album": {
+        "name": "Dream Wife",
+        "url": "https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175760,
+      "name": "Let's Make Out",
+      "url": "https://open.spotify.com/track/6sFBi0lIQ2tWedzNcFDnkR"
     },
     {
       "album": {
@@ -811,10 +991,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215133,
       "name": "Lovers Lane",
       "url": "https://open.spotify.com/track/2C3NdJNp7DkOLtARovoL68"
+    },
+    {
+      "album": {
+        "name": "Too Young To Be In Love",
+        "url": "https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP"
+      },
+      "artists": [
+        {
+          "name": "Hunx & His Punx",
+          "url": "https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215133,
+      "name": "Lovers Lane",
+      "url": "https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf"
     },
     {
       "album": {
@@ -829,7 +1027,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 133520,
       "name": "Macaulay Sulkin'",
       "url": "https://open.spotify.com/track/6Q5W6qTZc9JV6surKRhoXY"
@@ -847,7 +1045,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 224440,
       "name": "Mackerel's Funky Mission",
       "url": "https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb"
@@ -919,7 +1117,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134347,
       "name": "Peeling Off the Rind",
       "url": "https://open.spotify.com/track/0yafbfp4DMrGTnntAtkJFi"
@@ -973,10 +1171,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180442,
       "name": "Precious & Perfect",
       "url": "https://open.spotify.com/track/4j95oNNiUfHNf95fqEvE4D"
+    },
+    {
+      "album": {
+        "name": "Talk It Out",
+        "url": "https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61"
+      },
+      "artists": [
+        {
+          "name": "Sports Bra",
+          "url": "https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180442,
+      "name": "Precious and Perfect",
+      "url": "https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD"
     },
     {
       "album": {
@@ -1045,7 +1261,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 55733,
       "name": "Save the Planet, You Dumb Shit",
       "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
@@ -1207,10 +1423,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 170969,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/1CtIrwQLU6s0UZgbn5cwH7"
+    },
+    {
+      "album": {
+        "name": "Standing in the Way of Control",
+        "url": "https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256399,
+      "name": "Standing In the Way of Control",
+      "url": "https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS"
     },
     {
       "album": {
@@ -1243,7 +1477,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263546,
       "name": "Stupid Rich Boy",
       "url": "https://open.spotify.com/track/62iqRRViLrPJgm2IFf3bI5"
@@ -1261,10 +1495,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 124533,
       "name": "SuperNatural Possession",
       "url": "https://open.spotify.com/track/5NjfRU0JaR3TjNGU2kOubc"
+    },
+    {
+      "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/2BBk7kjQwYdV0UgeYx0JYK"
+      },
+      "artists": [
+        {
+          "name": "Laura Jane Grace",
+          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124533,
+      "name": "SuperNatural Possession",
+      "url": "https://open.spotify.com/track/7rW0sRWMxWCMEF0Cd9kbu0"
     },
     {
       "album": {
@@ -1279,7 +1531,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180572,
       "name": "Take Another",
       "url": "https://open.spotify.com/track/3S7KVKmwbxYbN41tltqZdT"
@@ -1315,7 +1567,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 130598,
       "name": "The Thing I Do Best",
       "url": "https://open.spotify.com/track/5Ae7KzPFdnb8PgrMBjI1oo"
@@ -1333,7 +1585,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 137781,
       "name": "They / Them",
       "url": "https://open.spotify.com/track/1PuQlpFUY6GzQRfQuEQbPs"
@@ -1355,6 +1607,24 @@
       "duration_ms": 138824,
       "name": "They / Them / Theirs",
       "url": "https://open.spotify.com/track/5zpUjhFZWLZ7vCVk6ZpnRs"
+    },
+    {
+      "album": {
+        "name": "They/Them",
+        "url": "https://open.spotify.com/album/1OaojIxnExbR4O45XHJUIW"
+      },
+      "artists": [
+        {
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137781,
+      "name": "They/Them",
+      "url": "https://open.spotify.com/track/7BuZgwIl9cx2hk2fsVlVYu"
     },
     {
       "album": {
@@ -1423,7 +1693,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 254200,
       "name": "Thrash Unreal",
       "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
@@ -1517,6 +1787,24 @@
       "duration_ms": 170930,
       "name": "Wet",
       "url": "https://open.spotify.com/track/1pMEVQiiBtlhBjRxOVqVVH"
+    },
+    {
+      "album": {
+        "name": "What You Do for Love",
+        "url": "https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200934,
+      "name": "What You Do for Love",
+      "url": "https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD"
     },
     {
       "album": {

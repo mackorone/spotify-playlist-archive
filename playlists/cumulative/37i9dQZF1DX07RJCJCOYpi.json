@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The leading wave of Latin Electronic music. Cover: Samantha S\u00e1nchez ",
+  "description": "The leading wave of Latin Electronic music. Cover: Luis R Conriquez, Rod Contreras, Tony Aguirre, Jay Silva",
   "name": "mint Latin",
   "published_playlist_ids": [
     "0igTR570qf1Xr3v0XaTHRR"
@@ -253,6 +253,32 @@
       "duration_ms": 169000,
       "name": "Body On My Mind",
       "url": "https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL"
+    },
+    {
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250082,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
     },
     {
       "album": {
@@ -894,6 +920,36 @@
     },
     {
       "album": {
+        "name": "Guisao",
+        "url": "https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Rod Contreras",
+          "url": "https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Jay Silva",
+          "url": "https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139842,
+      "name": "Guisao",
+      "url": "https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ"
+    },
+    {
+      "album": {
         "name": "Hace Calor (Remix)",
         "url": "https://open.spotify.com/album/3xqKPEu68JbqshG5UXdEcP"
       },
@@ -905,10 +961,32 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197103,
       "name": "Hace Calor - Remix",
       "url": "https://open.spotify.com/track/0Wb0G3YcE4hY7LbF3ppEEQ"
+    },
+    {
+      "album": {
+        "name": "Hace Calor (Remix)",
+        "url": "https://open.spotify.com/album/4CYQ2m9siG9HnQwzadPkcP"
+      },
+      "artists": [
+        {
+          "name": "Eme Sarav",
+          "url": "https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197103,
+      "name": "Hace Calor - Remix",
+      "url": "https://open.spotify.com/track/7jfE42hjNY8zUuKKJlmBz6"
     },
     {
       "album": {
@@ -1374,6 +1452,28 @@
     },
     {
       "album": {
+        "name": "mariposas",
+        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "mariposas",
+      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
+    },
+    {
+      "album": {
         "name": "Me Medicaron (Remix)",
         "url": "https://open.spotify.com/album/2tHaAgiYRoqiE674uJRO1u"
       },
@@ -1389,10 +1489,32 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202380,
       "name": "Me Medicaron (Remix)",
       "url": "https://open.spotify.com/track/0aCNp6QjGiNNE3x7UInQn9"
+    },
+    {
+      "album": {
+        "name": "Me Medicaron (Remix)",
+        "url": "https://open.spotify.com/album/5nbQlyRsvBmnaombqh7o4n"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        },
+        {
+          "name": "8CHO",
+          "url": "https://open.spotify.com/artist/51yzNnpk6vFEDz5qt8rmrM"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202380,
+      "name": "Me Medicaron - Remix",
+      "url": "https://open.spotify.com/track/64uTg0DPxkjGKwiLAdWTBz"
     },
     {
       "album": {
@@ -1808,6 +1930,24 @@
     },
     {
       "album": {
+        "name": "Pa Ti Ya !",
+        "url": "https://open.spotify.com/album/5Heeh3NtSDw5Wq73kiorub"
+      },
+      "artists": [
+        {
+          "name": "Carlos Montesquieu",
+          "url": "https://open.spotify.com/artist/6aUadgc3VIt06htkgXEMIA"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163892,
+      "name": "Pa Ti Ya !",
+      "url": "https://open.spotify.com/track/24ZWoKxAmcG06vBfv2yARt"
+    },
+    {
+      "album": {
         "name": "PAP (Pendiente Al Paso)",
         "url": "https://open.spotify.com/album/57hEnKIuvKtgQHrGid8ubd"
       },
@@ -2026,6 +2166,28 @@
     },
     {
       "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
         "name": "Real Love (Sak Noel, Salvi & Franklin Dam Remix)",
         "url": "https://open.spotify.com/album/762BWVMk6By89MAXZNCM20"
       },
@@ -2145,7 +2307,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 213785,
       "name": "Si Es Trucho Es Trucho (feat. Farruko and El Alfa) - Remix",
       "url": "https://open.spotify.com/track/3pvalQEg29xTyQk1eqWtVJ"
@@ -2244,9 +2406,27 @@
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 196000,
+      "duration_ms": 184000,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6Xdpx96oFxS35VeGSbOjxO"
+    },
+    {
+      "album": {
+        "name": "Sweet Potato",
+        "url": "https://open.spotify.com/album/3jMgo1MoBGBoAHfy3cgEeV"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Sweet Potato",
+      "url": "https://open.spotify.com/track/6E09140FnSWgjdUJJosGfx"
     },
     {
       "album": {
@@ -2269,6 +2449,24 @@
       "duration_ms": 194163,
       "name": "Switch It - Tom & Collins Remix",
       "url": "https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4"
+    },
+    {
+      "album": {
+        "name": "Dharma +",
+        "url": "https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "Tacones Rojos - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/5h5q82KQiiO92tiaGgb2xF"
     },
     {
       "album": {

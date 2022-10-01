@@ -2,7 +2,7 @@
 
 ### [Koven's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DXcTGREYi2ti7)
 
-> A heart\-pumping, bass\-filled DJ mix from <a href ="spotify:artist:3UCbp6D1lvILlxRJT9LnFa">Koven</a>.
+> A heart\-pumping, bass\-filled DJ mix from <a href="spotify:artist:3UCbp6D1lvILlxRJT9LnFa">Koven</a>.
 
 37 songs - 1 hr 2 min - [published](https://open.spotify.com/playlist/2Zvx9gKKjSsUrS8iDzAEvb)
 

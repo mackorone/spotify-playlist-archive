@@ -4,7 +4,7 @@
 
 > Recordings from the tropical rainforest
 
-82 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/2IGFxvMJkgpydS1w8Mozy7)
+83 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/2IGFxvMJkgpydS1w8Mozy7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Birds in Calm Forest](https://open.spotify.com/track/23Hpf0InC4WVSmg9KaNxIy) | [Nature Lab](https://open.spotify.com/artist/2EBjHUWeiiLMOz9A22c4he) | [Birds by the Creek](https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg) | 1:26 | 2021-11-12 |  |
 | [Birds in the Forest](https://open.spotify.com/track/6xYPYS7c6y8f6QszLSMtCB) | [Memorable](https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV) | [Therapy Birds](https://open.spotify.com/album/2sENQCcr3TVwPG5JFiU7Ai) | 3:42 | 2021-11-12 |  |
 | [Birds Of the Rainforest](https://open.spotify.com/track/4KbwasB5txiAwLRFQsrZ07) | [Lively Nature Sounds](https://open.spotify.com/artist/4hYhL32tebI7EDJR8aDNWL) | [Wild Life Birds and Rain](https://open.spotify.com/album/7hGDH33pjK2feH0YSPZjyG) | 2:35 | 2021-11-12 |  |
-| [Calming Night\-Time Rain Sounds](https://open.spotify.com/track/0AFz1uLoD7Kv5SnCeodrRD) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Relaxing Rain Sounds](https://open.spotify.com/album/1ytTj3y3fBx09Fdc5aVzW5) | 9:59 | 2021-11-12 |  |
+| [Calming Night\-Time Rain Sounds](https://open.spotify.com/track/0AFz1uLoD7Kv5SnCeodrRD) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Relaxing Rain Sounds](https://open.spotify.com/album/1ytTj3y3fBx09Fdc5aVzW5) | 9:59 | 2021-11-12 | 2022-07-29 |
+| [Calming Nighttime Rain Sounds](https://open.spotify.com/track/4xnwkLgArVlRv81I1NF2Uu) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Love Nature Sounds](https://open.spotify.com/album/6GlqUq7SdTReO0zMuWDPSH) | 9:59 | 2022-07-04 |  |
 | [Country Crickets Sleep Aid Loop](https://open.spotify.com/track/3uGk1gDFXQSXPwxVjtcNWu) | [HB](https://open.spotify.com/artist/5RZS0SXUPOybDrsKJUBAP7) | [Country Crickets Sleep Aid Loop](https://open.spotify.com/album/6RqEMiXSrJ2CktsDvztFiA) | 10:08 | 2021-11-12 | 2022-07-05 |
 | [Dark Forest](https://open.spotify.com/track/2NMA93HoL1DkxNLbnyOOqA) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 2:30 | 2021-11-12 |  |
 | [Daytime Jungle Ambience with Heavy Insects, Birds and Water Dropping on Vegetation](https://open.spotify.com/track/4JfIIJr0YVezLxTpHK5Nz3) | [Nature Soundscape](https://open.spotify.com/artist/0GbSsMHnNTZ28ALJmQecCW) | [Rain Forest](https://open.spotify.com/album/50UYLBtzy02dHkzssaFzNW) | 9:50 | 2021-11-12 |  |

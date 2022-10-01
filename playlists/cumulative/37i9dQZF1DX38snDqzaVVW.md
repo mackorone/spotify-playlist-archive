@@ -4,7 +4,7 @@
 
 > Shafqat Amanat Ali with his favourite tracks this Ramadan.
 
-113 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
+114 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Kimdi?](https://open.spotify.com/track/1Kxnp6VqY4xNIO561MQJ8b) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Yine Sensiz](https://open.spotify.com/album/2N5Cp0xZ2gm0QqMWRCALQB) | 4:23 | 2021-10-21 | 2022-04-01 |
 | [Koroso](https://open.spotify.com/track/5PYkrbKgSbD9dIN8U8E1jf) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Hikima \- Creativity](https://open.spotify.com/album/6uFdhuYmW7Yei51ghA7Uh3) | 4:33 | 2021-10-21 | 2022-04-01 |
 | [Kun Faya Kun](https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 7:50 | 2022-04-18 |  |
-| [Kya Hai Ali Ye Nutqay](https://open.spotify.com/track/6tZLIlHn6oUFcnkxEoaslF) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Kya Hai Ali Ye Nutqay](https://open.spotify.com/album/2PGFhztL2n0H8vNnb8oOOe) | 4:23 | 2022-04-18 |  |
+| [Kya Hai Ali Ye Nutqay](https://open.spotify.com/track/6tZLIlHn6oUFcnkxEoaslF) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Kya Hai Ali Ye Nutqay](https://open.spotify.com/album/2PGFhztL2n0H8vNnb8oOOe) | 4:23 | 2022-04-18 | 2022-07-29 |
+| [Kya Hai Ali Ye Nutqay Payamber Batayega](https://open.spotify.com/track/6ix7LFcayNvGcZtGXdJxMR) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Kya Hai Ali Ye Nutqay Payamber Batayega](https://open.spotify.com/album/2vNtjTSfZLmbvEo8Oh735q) | 4:23 | 2022-04-18 |  |
 | [Lam Tooro](https://open.spotify.com/track/6RXdIw5UTnCIIcWjFvBeis) | [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf), [Mansour Seck](https://open.spotify.com/artist/7HAuGBgyiW6xu9tARZUObr) | [Djam Leelii: The Adventurers](https://open.spotify.com/album/3fI60xJqLkfhnbAf907JsS) | 6:40 | 2021-10-21 | 2022-04-01 |
 | [Law Kana Bainana](https://open.spotify.com/track/2RkEZUT6zbiW9POs8BRbvK) | [Abdul Rahman Muhammad](https://open.spotify.com/artist/0dc3tDdCJhWJLv3SRtUud6) | [Loving the Beloved \(Pbuh\) \- Best of Islamic Music, Vol\. 3](https://open.spotify.com/album/76j16Pci5gAVy7BfaEaBBL) | 4:35 | 2022-03-31 | 2022-04-18 |
 | [Manqabat \(Ya Ali\)](https://open.spotify.com/track/0ZsNuSiKfbDHwOCT7HojSE) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Tabeer](https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD) | 2:53 | 2022-04-18 |  |

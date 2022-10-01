@@ -619,7 +619,7 @@
     {
       "album": {
         "name": "You Bore Me",
-        "url": "https://open.spotify.com/album/1DgVLoZUwtIQfL1XKmD5oV"
+        "url": "https://open.spotify.com/album/6VtXZnqbvUQGkVMf00WtLC"
       },
       "artists": [
         {
@@ -630,6 +630,24 @@
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 150097,
+      "name": "You Bore Me",
+      "url": "https://open.spotify.com/track/3SaRmjj9eYqgHJ0mLcx7QR"
+    },
+    {
+      "album": {
+        "name": "You Bore Me",
+        "url": "https://open.spotify.com/album/1DgVLoZUwtIQfL1XKmD5oV"
+      },
+      "artists": [
+        {
+          "name": "Husky Loops",
+          "url": "https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 150097,
       "name": "You Bore Me",
       "url": "https://open.spotify.com/track/6jQy0arv30xWHWm2hjz7hy"

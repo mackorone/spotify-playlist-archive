@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 
 > The whole family can worship together with these upbeat, inspirational songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,255 likes - 62 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,798 likes - 62 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 | 37 | [Hosanna Rock](https://open.spotify.com/track/1C9GzLSV6dYRzeRHf9cInr) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [Happy Day Everyday](https://open.spotify.com/album/3XxNDjaH8AS7LTUyyjPHRv) | 2:20 |
 | 38 | [One In a Million](https://open.spotify.com/track/1Tgtd3hAGsEWkQdaNZhX25) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [One In a Million](https://open.spotify.com/album/2NV57pQNW911GnUj1koyTj) | 3:12 |
 | 39 | [Your Grace Is Enough](https://open.spotify.com/track/1JExwazB69I9eaa75UQAYJ) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [From The Inside Out For Kids](https://open.spotify.com/album/4y3m1W01TTK2nT2i2ViRtD) | 3:54 |
-| 40 | [Deep Cries Out](https://open.spotify.com/track/6PCTbGecSbQlHp7CD4taCd) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/4gddrbOk9PpDAsZeJ2jSxg) | 5:05 |
+| 40 | [Deep Cries Out](https://open.spotify.com/track/6vGaIY7HYRoYvl30oMg3G2) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/0E5j1NrkMsc3SN85dzlRg8) | 5:05 |
 | 41 | [Jesus Loves Me](https://open.spotify.com/track/29YSih94JCET2h8VCiWK4J) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats \(For Little Feets\)](https://open.spotify.com/album/3QfyerJxzTL9NXo79cXrOw) | 4:00 |
 | 42 | [Highs & Lows](https://open.spotify.com/track/4ZYs36pYTElML33GLe64ig) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 5:54 |
 | 43 | [Jesus Saves](https://open.spotify.com/track/72hEA0WduDESzcPLRRc1Md) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Victory \- EP](https://open.spotify.com/album/7y53FcW8JJUrFFOyh3C86H) | 4:31 |
 | 44 | [Brave \- Brave](https://open.spotify.com/track/4IpWEf6JwSGVSW3nC1SG10) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63) | [Brave Performance Tracks](https://open.spotify.com/album/38i0L7rD9dn8eW9LlBXjvc) | 3:28 |
 | 45 | [Love One Another](https://open.spotify.com/track/3ekTYgM0mNE8rY89K4Hoo2) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK), [Denver of Denver & The Mile High Orchestra](https://open.spotify.com/artist/6OcetOnC4SwCDtYNt277YS) | [Happy Day Everyday](https://open.spotify.com/album/3XxNDjaH8AS7LTUyyjPHRv) | 2:43 |
-| 46 | [This Is Amazing Grace](https://open.spotify.com/track/7kpOTgyNhIVVdg3a3jvnGQ) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/4gddrbOk9PpDAsZeJ2jSxg) | 5:16 |
+| 46 | [This Is Amazing Grace](https://open.spotify.com/track/1EkYmRwXsNydkeC7N49AV3) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/0E5j1NrkMsc3SN85dzlRg8) | 5:16 |
 | 47 | [Holy, Holy, Holy](https://open.spotify.com/track/1MMroiMA1d9quvFxsXsSI5) | [Christ Music Kids](https://open.spotify.com/artist/4tQcEEa8IYf1YuWsYvyQEi) | [Holy, Holy, Holy](https://open.spotify.com/album/7yhdLte62RDjy3UyEoxW6o) | 5:06 |
 | 48 | [Gotta Move!](https://open.spotify.com/track/3eZctScBWH96MuwLNyw6cW) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats 2](https://open.spotify.com/album/3IQHCaiHxWtPXnNJA9uIy0) | 2:54 |
-| 49 | [You Make Me Brave](https://open.spotify.com/track/5yv7dwLuopHQcakKw1pmHo) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/4gddrbOk9PpDAsZeJ2jSxg) | 4:27 |
+| 49 | [You Make Me Brave](https://open.spotify.com/track/46FLvXFCkkUdPWQcA6xU6G) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/0E5j1NrkMsc3SN85dzlRg8) | 4:26 |
 | 50 | [The Ten Commandment Boogie](https://open.spotify.com/track/5WdmalqYXxJV2rAHZJuxe8) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats \(For Little Feets\)](https://open.spotify.com/album/3QfyerJxzTL9NXo79cXrOw) | 3:00 |
 | 51 | [Fruit of the Spirit](https://open.spotify.com/track/1TTNfIlEqVnVrk3fF59WFS) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats \(For Little Feets\)](https://open.spotify.com/album/3QfyerJxzTL9NXo79cXrOw) | 3:10 |
 | 52 | [This Little Light \(feat\. Steve Fee & Mr\. Versee\)](https://open.spotify.com/track/433p6oT8N4lPDXT9BDXFIP) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb), [Steve Fee](https://open.spotify.com/artist/6eZldvfMSClBVZpjoMR69J), [Mr\. Versee](https://open.spotify.com/artist/4zArOIcHI8sTPqbYz9WlDV) | [Living Inside Out](https://open.spotify.com/album/4R5xmXeQwIbwMd9OVRV8mm) | 3:19 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 | 61 | [This is Amazing Grace](https://open.spotify.com/track/6saLHwRKrJIleVAizsRhoV) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63), [Ian Escalante](https://open.spotify.com/artist/4VdTEoEk67dYLvPALOIXIT) | [Brave](https://open.spotify.com/album/1JM1e0eP26O8eXfLJxYOom) | 4:34 |
 | 62 | [Praise Goes On](https://open.spotify.com/track/7jRcvNpCOtgkoHQO8i4o37) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [One In a Million](https://open.spotify.com/album/2NV57pQNW911GnUj1koyTj) | 3:09 |
 
-Snapshot ID: `MTY0NjY3MDYyNiwwMDAwMDAwZjAwMDAwMTdmNjUzN2JjZmQwMDAwMDE3MWQwOTA1ZGNl`
+Snapshot ID: `MTY0NjY3MDYyNiwwMDAwMDAwMGJlOWQzZWRhMjJlYmExMjQyZjE0NmIzMWM3NDRiNTI4`

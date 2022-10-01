@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EArHoxaUqO.md) - [plain]
 
 > Make bedtime dreamlike with original lullabies from Timbuktu, Mapei and Pontus Winngren, as well as the artists' personal favorite lullabies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 654 likes - 26 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 772 likes - 26 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paper Boat](https://open.spotify.com/track/6MwywkGKmWtYDtsHEtVnB4) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz), [Lullabies](https://open.spotify.com/artist/49Ig1fdepIMRJ5JUIr7Ppg) | [Lullabies](https://open.spotify.com/album/1Lcth0stK7A9Xl46Gknzc7) | 2:45 |
 | 2 | [Drops](https://open.spotify.com/track/3CknObGZkPnOdBIhN83Bu2) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz), [Lullabies](https://open.spotify.com/artist/49Ig1fdepIMRJ5JUIr7Ppg) | [Lullabies](https://open.spotify.com/album/1Lcth0stK7A9Xl46Gknzc7) | 3:19 |
 | 3 | [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 |
-| 4 | [Danny's Dream](https://open.spotify.com/track/13hLjPatKentvawsFceF9a) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:29 |
+| 4 | [Danny's Dream](https://open.spotify.com/track/13hLjPatKentvawsFceF9a) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:38 |
 | 5 | [Drops](https://open.spotify.com/track/2rZaw05jYJmirqBdtozMn5) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz), [Lullabies](https://open.spotify.com/artist/49Ig1fdepIMRJ5JUIr7Ppg) | [Lullabies](https://open.spotify.com/album/1Lcth0stK7A9Xl46Gknzc7) | 2:51 |
 | 6 | [Paper Boat](https://open.spotify.com/track/6VjgIisK90Sl675bjCLJGD) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz), [Lullabies](https://open.spotify.com/artist/49Ig1fdepIMRJ5JUIr7Ppg) | [Lullabies](https://open.spotify.com/album/1Lcth0stK7A9Xl46Gknzc7) | 2:45 |
 | 7 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 |
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EArHoxaUqO.md) - [plain]
 | 16 | [Tezeta \(Nostalgia\)](https://open.spotify.com/track/414J8tKHbtF16XOiHGBEso) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 6:16 |
 | 17 | [Hold On, Be Strong](https://open.spotify.com/track/7g8S0N45Tkp7yE1WEWRwyu) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 1:12 |
 | 18 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 |
-| 19 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/0PrAozo6AwJ0Ftatr3CfJt) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Amelie from Montmartre \(Original SoundTrack\)](https://open.spotify.com/album/2AroyoBgm78mz4Qo5WEAnc) | 2:20 |
-| 20 | [Iconoteca](https://open.spotify.com/track/533MyzSJnuD7hQ3Rg6LtOu) | [Rino De Filippi](https://open.spotify.com/artist/5P3033vbGD0XwYwqNEIRK0) | [French Riviera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JfyQdgonnrK4t6qPYpctt) | 3:35 |
+| 19 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
+| 20 | [Iconoteca](https://open.spotify.com/track/7xpKSrGAp1ZpX84Ui6Gc67) | [Rino De Filippi](https://open.spotify.com/artist/5P3033vbGD0XwYwqNEIRK0) | [French Riviera \(Edited Version\)](https://open.spotify.com/album/1DiOn1vpniiSJW8uqo6M45) | 3:35 |
 | 21 | [Méditation Des Enfants](https://open.spotify.com/track/3wRs0OVDfZU0Hs4Jw7A2xh) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk) | 1:33 |
-| 22 | [Portrait of Tracy](https://open.spotify.com/track/2Fc3GG0g44NbggiPUKM7AG) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Jaco Pastorius](https://open.spotify.com/album/47nWcb5GzhgGNzJuCJgiPN) | 2:22 |
+| 22 | [Portrait of Tracy](https://open.spotify.com/track/5NBAy2oiS9OIWyAZhklsH2) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Jaco Pastorius](https://open.spotify.com/album/6SsT4Zyev0zS7eocL0B72m) | 2:22 |
 | 23 | [Pyramid Song](https://open.spotify.com/track/55q3Ro66yXWi9rsEddeEN4) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Amnesiac](https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0) | 4:48 |
 | 24 | [Dream A Little Dream Of Me](https://open.spotify.com/track/7sO8fLoq7H3er7C24UtLiF) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ella And Basie](https://open.spotify.com/album/752AJr22BFy9yubj4XJauv) | 4:06 |
 | 25 | [Swing Low Sweet Chariot, Come Sunday](https://open.spotify.com/track/5wXulQePYdipf5yZuFjZS8) | [Brenda Mitchell Stewart](https://open.spotify.com/artist/4cIe8bqCXOsO0tUqS6qjqq) | [Missin' Mahalia: A Tribute To Ms\. Mahalia Jackson](https://open.spotify.com/album/1Dp5fbc3wjdY9YMGHCWgP2) | 5:57 |
-| 26 | [Goodnight, Sweetheart, Goodnight](https://open.spotify.com/track/4XYtukhmv6PgESSHm3hS3K) | [The Spaniels](https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P) | [Rock 'N' Roll Legend: The Spaniels](https://open.spotify.com/album/00WsL2je7cpiwFjt44JxaP) | 2:40 |
+| 26 | [Goodnight, Sweetheart, Goodnight](https://open.spotify.com/track/5VLKQp1YTubqXJ02HnViz5) | [The Spaniels](https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P) | [Presenting the Spaniels](https://open.spotify.com/album/3FXBB39hDogIg4qUjEmVn2) | 2:40 |
 
-Snapshot ID: `MTYyMDMzOTA1NCwwMDAwMDAwMjAwMDAwMTc5NDNiYmQ1YjMwMDAwMDE3OTQxODlmNzE5`
+Snapshot ID: `MTYyMDMzOTA1NCwwMDAwMDAwMDVkMTZhZGM3ZDBlOTA1ZWFlYmFjZWI2ZTQzYzIwODk5`

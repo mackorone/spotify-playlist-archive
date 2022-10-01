@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202075,
+      "name": "A.D.I.D.A.S.",
+      "url": "https://open.spotify.com/track/1Z2iamNbZQhsKsMXgAa317"
+    },
+    {
+      "album": {
         "name": "Get Weird (Deluxe)",
         "url": "https://open.spotify.com/album/4bzVI1FElc13HQagFR7S1W"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202080,
       "name": "A.D.I.D.A.S.",
       "url": "https://open.spotify.com/track/00WAVv6mwCtAQQEgjuajKm"
@@ -44,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232293,
+      "name": "Beep Beep",
+      "url": "https://open.spotify.com/track/0hryN1u1E4rF7ZgGmXDhTN"
+    },
+    {
+      "album": {
         "name": "Glory Days (Deluxe)",
         "url": "https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs"
       },
@@ -55,7 +91,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232293,
       "name": "Beep Beep",
       "url": "https://open.spotify.com/track/2QI1p7vvhZm5SAmIywUWyF"
@@ -91,10 +127,46 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211786,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/33NHr7lu7tCMjK05jUj1v0"
+    },
+    {
+      "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211786,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
+    },
+    {
+      "album": {
+        "name": "Get Weird - Rarities & Remixes",
+        "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208228,
+      "name": "Black Magic - Acoustic",
+      "url": "https://open.spotify.com/track/3ZmrtvItipf6LWnyUWhaRG"
     },
     {
       "album": {
@@ -109,10 +181,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209346,
       "name": "Black Magic - Acoustic",
       "url": "https://open.spotify.com/track/7wV6K1HW4EYYISf7NqIhgp"
+    },
+    {
+      "album": {
+        "name": "Confetti (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160551,
+      "name": "Bounce Back",
+      "url": "https://open.spotify.com/track/2RCZhvj9bhe4f14caGBsYu"
     },
     {
       "album": {
@@ -127,7 +217,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160551,
       "name": "Bounce Back",
       "url": "https://open.spotify.com/track/5KPKjcE2trO2hBWRzkb2Mo"
@@ -163,10 +253,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205066,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/07ojMjg6XfBNSUdzkOAn7Z"
+    },
+    {
+      "album": {
+        "name": "DNA (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205716,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/2XMP9Jaae8ei79ZrQb95E5"
     },
     {
       "album": {
@@ -181,10 +289,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201586,
       "name": "Change Your Life",
       "url": "https://open.spotify.com/track/2i1mFuP4XW2KgLZxw1T4AZ"
+    },
+    {
+      "album": {
+        "name": "DNA (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205293,
+      "name": "Change Your Life",
+      "url": "https://open.spotify.com/track/1nDQ9EvOmLj1dYKRbbqcoU"
     },
     {
       "album": {
@@ -203,10 +329,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185374,
       "name": "Confetti (feat. Saweetie)",
       "url": "https://open.spotify.com/track/40JjCZcdzT9ldZk5DhFqdZ"
+    },
+    {
+      "album": {
+        "name": "Between Us (The Mixers Edition)",
+        "url": "https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185374,
+      "name": "Confetti (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/4oXV7uPMrMNSZfLMYtiqIX"
     },
     {
       "album": {
@@ -221,10 +369,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200680,
       "name": "Dear Lover",
       "url": "https://open.spotify.com/track/1JevecJvfDc1TByJdEKiGl"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200680,
+      "name": "Dear Lover",
+      "url": "https://open.spotify.com/track/2wQuvFxL1UKwsqJHYyDa6a"
     },
     {
       "album": {
@@ -239,15 +405,33 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236733,
       "name": "DNA",
       "url": "https://open.spotify.com/track/6k6fTAWu4J0gSg8vb397qC"
     },
     {
       "album": {
-        "name": "Glory Days (Deluxe)",
-        "url": "https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs"
+        "name": "DNA (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/0MXMNgjjtOBxAjfw8a4lwL"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
       },
       "artists": [
         {
@@ -260,7 +444,7 @@
       "date_removed": null,
       "duration_ms": 175053,
       "name": "Down & Dirty",
-      "url": "https://open.spotify.com/track/6RA443phsBtsJDCOVKISTr"
+      "url": "https://open.spotify.com/track/5pn5T6gRfBqF1Xu9IHOc67"
     },
     {
       "album": {
@@ -275,7 +459,43 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175053,
+      "name": "Down & Dirty",
+      "url": "https://open.spotify.com/track/6RA443phsBtsJDCOVKISTr"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 238720,
+      "name": "F.U.",
+      "url": "https://open.spotify.com/track/33dY25vtBFUZ6m948fb3eK"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Deluxe)",
+        "url": "https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 238720,
       "name": "F.U.",
       "url": "https://open.spotify.com/track/78aee4DbeE3CCFfXWLw6qk"
@@ -293,10 +513,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216946,
       "name": "Freak",
       "url": "https://open.spotify.com/track/05zvG19WPTLz0yjn4mzM1L"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216946,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/7zOpDXHifG4AWzzEQlWocQ"
     },
     {
       "album": {
@@ -311,10 +549,46 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156613,
       "name": "Grown",
       "url": "https://open.spotify.com/track/4lDaeF4Yh2LvLDo4LM5mBc"
+    },
+    {
+      "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156618,
+      "name": "Grown",
+      "url": "https://open.spotify.com/track/33ubpYqvUMqczi4w0a2ktf"
+    },
+    {
+      "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209279,
+      "name": "Hair",
+      "url": "https://open.spotify.com/track/1tg7d4XKCgviATFNkxIX8r"
     },
     {
       "album": {
@@ -329,7 +603,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209280,
       "name": "Hair",
       "url": "https://open.spotify.com/track/4z0sS7hwnTZTRKZVahth6J"
@@ -387,15 +661,55 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211173,
       "name": "How Ya Doin'? (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/0oPDjsyEtvBfescdyJcWYt"
     },
     {
       "album": {
+        "name": "DNA (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213173,
+      "name": "How Ya Doin'? (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/457VLDn6a4MuwJhvqceLjj"
+    },
+    {
+      "album": {
         "name": "Glory Days: The Platinum Edition",
         "url": "https://open.spotify.com/album/5DL2Z5x7UJsWH1HhE9j8nd"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220626,
+      "name": "If I Get My Way",
+      "url": "https://open.spotify.com/track/5j4XRrlbXrLrJ5TX90NohV"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
       },
       "artists": [
         {
@@ -408,7 +722,25 @@
       "date_removed": null,
       "duration_ms": 220626,
       "name": "If I Get My Way",
-      "url": "https://open.spotify.com/track/5j4XRrlbXrLrJ5TX90NohV"
+      "url": "https://open.spotify.com/track/7nZfqSVjcyoKTv0fYFd8rb"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "Is Your Love Enough?",
+      "url": "https://open.spotify.com/track/6VXzA05dET772n5rGq63Cz"
     },
     {
       "album": {
@@ -423,10 +755,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224600,
       "name": "Is Your Love Enough?",
       "url": "https://open.spotify.com/track/6W6ijKiufUsBBcgJPKis6T"
+    },
+    {
+      "album": {
+        "name": "LM5 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191760,
+      "name": "Joan of Arc",
+      "url": "https://open.spotify.com/track/1nIfDGW6LmzWwrx1cAX5ts"
     },
     {
       "album": {
@@ -441,7 +791,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191760,
       "name": "Joan of Arc",
       "url": "https://open.spotify.com/track/2QApyk4ji8K7tYOf7LZa9b"
@@ -470,6 +820,24 @@
     },
     {
       "album": {
+        "name": "Salute (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "Little Me",
+      "url": "https://open.spotify.com/track/5FiBzGgY8zYSdWN7hWfVz2"
+    },
+    {
+      "album": {
         "name": "Salute (The Deluxe Edition)",
         "url": "https://open.spotify.com/album/06haetPrpbIFCY1FUWzVel"
       },
@@ -481,7 +849,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235360,
       "name": "Little Me",
       "url": "https://open.spotify.com/track/6D186kBHszfjVVWDsWdUig"
@@ -499,10 +867,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220968,
       "name": "Love (Sweet Love)",
       "url": "https://open.spotify.com/track/1kSfwOauMxFm9cgYiNfsiL"
+    },
+    {
+      "album": {
+        "name": "Between Us (The Mixers Edition)",
+        "url": "https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220968,
+      "name": "Love (Sweet Love)",
+      "url": "https://open.spotify.com/track/6Y9Sk7mKkNndGQBIwQ52Il"
     },
     {
       "album": {
@@ -517,10 +903,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197786,
       "name": "Love Me Like You",
       "url": "https://open.spotify.com/track/0fIOacVe000P5pNhaKQlQw"
+    },
+    {
+      "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197786,
+      "name": "Love Me Like You",
+      "url": "https://open.spotify.com/track/6L2uVVPJA9WcDc7zCZ4DHN"
     },
     {
       "album": {
@@ -557,10 +961,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224333,
       "name": "Move",
       "url": "https://open.spotify.com/track/0gsIQwgHmi1DGv1n2IipUr"
+    },
+    {
+      "album": {
+        "name": "Salute (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224333,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1bmtVglfmSQWfKjgPyERJ8"
     },
     {
       "album": {
@@ -597,10 +1019,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225253,
       "name": "No More Sad Songs",
       "url": "https://open.spotify.com/track/5ZnJsoJGkQ5K15W7Rcr5JO"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225200,
+      "name": "No More Sad Songs (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/0U372D2pbraSnrTFxSYlNj"
     },
     {
       "album": {
@@ -626,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248720,
+      "name": "Nobody Like You",
+      "url": "https://open.spotify.com/track/2lPmDekJerHxTtdKq1IXPf"
+    },
+    {
+      "album": {
         "name": "Glory Days (Deluxe)",
         "url": "https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs"
       },
@@ -637,7 +1099,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248720,
       "name": "Nobody Like You",
       "url": "https://open.spotify.com/track/7n64KgKSFxBFA1CIsGC2yo"
@@ -673,10 +1135,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235520,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/3lgcvDjNlGmrc5YZMt7WSo"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235520,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/72LijybQsm7uNuBD1pBfUE"
     },
     {
       "album": {
@@ -709,10 +1189,50 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192945,
       "name": "One I've Been Missing",
       "url": "https://open.spotify.com/track/4VpnrB9Lai2uHsRbh5C8Ft"
+    },
+    {
+      "album": {
+        "name": "Confetti (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192945,
+      "name": "One I've Been Missing",
+      "url": "https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0Q2jspt0vsfAu8TulVDVSM"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189401,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7IZ7S595rr4Q3E1Zga1Jev"
     },
     {
       "album": {
@@ -731,7 +1251,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189401,
       "name": "Only You (with Little Mix)",
       "url": "https://open.spotify.com/track/54l9GJGQ1UCFKe2tzt1Vxt"
@@ -753,15 +1273,55 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204760,
       "name": "Oops",
       "url": "https://open.spotify.com/track/37xcWhVKQ99uuiA5Y4yapi"
     },
     {
       "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "Oops (feat. Charlie Puth)",
+      "url": "https://open.spotify.com/track/7uU7UhUzfZJ5vEMoemdcIW"
+    },
+    {
+      "album": {
         "name": "Glory Days (Deluxe)",
         "url": "https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247840,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/03Nor3UpgNjFpsv4rEQSgr"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
       },
       "artists": [
         {
@@ -774,7 +1334,25 @@
       "date_removed": null,
       "duration_ms": 247840,
       "name": "Power",
-      "url": "https://open.spotify.com/track/03Nor3UpgNjFpsv4rEQSgr"
+      "url": "https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161773,
+      "name": "Private Show",
+      "url": "https://open.spotify.com/track/0McYRWXxbKyhhL4r25B2hf"
     },
     {
       "album": {
@@ -789,7 +1367,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161773,
       "name": "Private Show",
       "url": "https://open.spotify.com/track/5SuYKvxjUVGQtRpHfM0mQW"
@@ -811,10 +1389,50 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188797,
       "name": "Reggaet\u00f3n Lento (Remix)",
       "url": "https://open.spotify.com/track/3zoYkqS4y2BsGVShPL2nTE"
+    },
+    {
+      "album": {
+        "name": "CNCO",
+        "url": "https://open.spotify.com/album/0YCyFUN3ihGbP2x9C09NF6"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Reggaet\u00f3n Lento (Remix)",
+      "url": "https://open.spotify.com/track/58gqyeFXhOttZW3yetJGPN"
+    },
+    {
+      "album": {
+        "name": "Salute (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236013,
+      "name": "Salute",
+      "url": "https://open.spotify.com/track/1iupzLgX4O0Qosb4yDpYoz"
     },
     {
       "album": {
@@ -829,10 +1447,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236013,
       "name": "Salute",
       "url": "https://open.spotify.com/track/2E0fhpXbNfksy2mdjm57bf"
+    },
+    {
+      "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249810,
+      "name": "Secret Love Song (feat. Jason Derulo)",
+      "url": "https://open.spotify.com/track/6KHL1En9v6iNWjcs44mcmU"
     },
     {
       "album": {
@@ -851,7 +1491,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249813,
       "name": "Secret Love Song (feat. Jason Derulo)",
       "url": "https://open.spotify.com/track/4JIo8RztBbELr2gWJ5OGK6"
@@ -869,10 +1509,46 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266920,
       "name": "Secret Love Song, Pt. II",
       "url": "https://open.spotify.com/track/2BnjU9TqIovk0IQ7jJaA4z"
+    },
+    {
+      "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266925,
+      "name": "Secret Love Song, Pt. II",
+      "url": "https://open.spotify.com/track/0NyRSfiU6ri61vku1xiLoD"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246240,
+      "name": "Shout Out to My Ex",
+      "url": "https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs"
     },
     {
       "album": {
@@ -887,7 +1563,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246240,
       "name": "Shout Out to My Ex",
       "url": "https://open.spotify.com/track/0YHUITU3w6ws1v8ehT264g"
@@ -952,6 +1628,24 @@
     },
     {
       "album": {
+        "name": "LM5 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215333,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/1HiNWMc7vmFVM5mdwrNKnO"
+    },
+    {
+      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/5FCFKoerKnkwgr2y1Qhjic"
       },
@@ -963,7 +1657,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215360,
       "name": "The Cure",
       "url": "https://open.spotify.com/track/0hZWHQYhI2qZRcXUZ1BSS3"
@@ -1003,10 +1697,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234434,
       "name": "Think About Us (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/18n2GdCpsHYzkbMKPavE7Y"
+    },
+    {
+      "album": {
+        "name": "Between Us (The Mixers Edition)",
+        "url": "https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234946,
+      "name": "Think About Us (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6mkPKZqPIdyYdFePOwLXqQ"
     },
     {
       "album": {
@@ -1021,10 +1737,46 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192853,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/1leK8yhFrHCLXnRvBeQcyy"
+    },
+    {
+      "album": {
+        "name": "LM5 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192853,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/3Mvd9KPeMf2YQa1MiQGKmV"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP"
     },
     {
       "album": {
@@ -1039,7 +1791,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213306,
       "name": "Touch",
       "url": "https://open.spotify.com/track/5Ua3GXyHwiSfpNTMjq6m2z"
@@ -1057,10 +1809,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223693,
       "name": "Touch - Acoustic",
       "url": "https://open.spotify.com/track/24DsxWkvvmOxYzwDUf6f27"
+    },
+    {
+      "album": {
+        "name": "Glory Days - EP",
+        "url": "https://open.spotify.com/album/5XdzqhTD3iQ8kLpl9VLlzR"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224373,
+      "name": "Touch - Acoustic",
+      "url": "https://open.spotify.com/track/66zTGTLtp4zJQvJTkB3Nuk"
     },
     {
       "album": {
@@ -1100,6 +1870,24 @@
     },
     {
       "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211325,
+      "name": "Weird People",
+      "url": "https://open.spotify.com/track/13T4iKoGXSuwcojjgsimdu"
+    },
+    {
+      "album": {
         "name": "Weird People",
         "url": "https://open.spotify.com/album/1PjKhz2SyjL8U9x6zD0hMe"
       },
@@ -1111,7 +1899,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211333,
       "name": "Weird People",
       "url": "https://open.spotify.com/track/6GiK2aTZvtl5QA66ZhM7SN"
@@ -1129,10 +1917,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219733,
       "name": "Wings",
       "url": "https://open.spotify.com/track/4awRNvd5iC7QGVQOwSCffw"
+    },
+    {
+      "album": {
+        "name": "DNA (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221720,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/3180WDzph4WrS4sLSNcGfa"
     },
     {
       "album": {
@@ -1176,6 +1982,24 @@
     },
     {
       "album": {
+        "name": "Salute (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206053,
+      "name": "Word Up!",
+      "url": "https://open.spotify.com/track/4ddtYeAduUQRApb296kLhY"
+    },
+    {
+      "album": {
         "name": "Word Up!",
         "url": "https://open.spotify.com/album/19UZZsFgqZFyzBvvzewu04"
       },
@@ -1187,10 +2011,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209013,
       "name": "Word Up!",
       "url": "https://open.spotify.com/track/7kSxnLovkJUkCryyLvXAem"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191026,
+      "name": "You Gotta Not",
+      "url": "https://open.spotify.com/track/11GdgPlzK9Vzn0DV8gHQmd"
     },
     {
       "album": {
@@ -1205,7 +2047,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191026,
       "name": "You Gotta Not",
       "url": "https://open.spotify.com/track/5OnclJovQKLu18ip7L9PiC"
@@ -1223,10 +2065,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207746,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/5hWfntI1Jc4LmMABdw5FcX"
+    },
+    {
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207746,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/6tADmhq8hYElyxJKRmFY1y"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY24WaVcCqqH"

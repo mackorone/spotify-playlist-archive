@@ -4,7 +4,7 @@
 
 > "Absolute Six" and also "Above BrandNew Six".
 
-78 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/0IcP0dCuoCBPPVkleOjySZ)
+83 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/0IcP0dCuoCBPPVkleOjySZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [BLOOM](https://open.spotify.com/track/4oVkV9xL6sHIhaBemd9Qkp) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:31 | 2022-05-22 |  |
 | [BREAK UP](https://open.spotify.com/track/3cPl37Es32lxWY9AT3evat) | [LIM YOUNG MIN](https://open.spotify.com/artist/7s72t76jrvQLHUiYraBSZ0), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [5NALLY](https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC) | 3:51 | 2022-05-22 |  |
 | [BREATHE](https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) | 3:37 | 2022-05-22 |  |
+| [CHANCE](https://open.spotify.com/track/7zbrGdA3eIhoCT3WLOfU5q) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [CHANCE](https://open.spotify.com/album/0rRO9zYWBkQa03sAXplVmA) | 2:51 | 2022-09-06 |  |
 | [CHANDELIER](https://open.spotify.com/track/2NQKN3x5Evk8xsOEqUBUjX) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd), [Lee Eun Sang](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ) | [BRANDNEW YEAR 2020: BRANDNEW UP](https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9) | 3:16 | 2022-05-22 |  |
 | [CHERRY](https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:30 | 2022-05-22 |  |
 | [CLOSE](https://open.spotify.com/track/5CXbZ60u7fq4UjlLnOig5Q) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO' COMPLETE: HAVE A DREAM](https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH) | 3:39 | 2022-05-22 |  |
@@ -39,7 +40,7 @@
 | [EINSTEIN](https://open.spotify.com/track/4WiM9e6asPxzpuRCGMc9Yy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:15 | 2022-05-22 |  |
 | [ENCORE \(feat\. ABNEW\)](https://open.spotify.com/track/7zRuShJWeYLZD25qCR50pp) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [ABNEW](https://open.spotify.com/artist/7AlGsK053CkIzcWtFZgJlv) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:45 | 2022-05-22 |  |
 | [Fallin’ \(Adrenaline\) \- AB6IX Remix](https://open.spotify.com/track/2c7h4G9kkMxeKCgh6Md7VR) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fallin’ \(Adrenaline\) \[Remixes\]](https://open.spotify.com/album/7EBYUtgXTfna1divfwxeuq) | 3:32 | 2022-05-22 |  |
-| [Fallin’ \(Adrenaline\) \- AB6IX Remix](https://open.spotify.com/track/5p9FaCojrBbXf6qttoFeFV) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fallin’ \(Adrenaline\) \[AB6IX Remix\]](https://open.spotify.com/album/1At9o3z07x2UPf8XGMINzR) | 3:32 | 2022-05-22 |  |
+| [Fallin’ \(Adrenaline\) \- AB6IX Remix](https://open.spotify.com/track/5p9FaCojrBbXf6qttoFeFV) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fallin’ \(Adrenaline\) \[AB6IX Remix\]](https://open.spotify.com/album/1At9o3z07x2UPf8XGMINzR) | 3:32 | 2022-05-22 | 2022-07-29 |
 | [FRIEND ZONE](https://open.spotify.com/track/14e9d2LyLPHqWna3WmavAf) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) | 2:56 | 2022-05-22 |  |
 | [GEMINI](https://open.spotify.com/track/7L9gc9u9Ev2OprF08AMhGH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [GEMINI](https://open.spotify.com/album/2kikdfulAIPagHRLh18uJH) | 3:46 | 2022-05-22 |  |
 | [HEADLINE](https://open.spotify.com/track/3gC6MlNNzzFPRMDJFiANN4) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO' COMPLETE: HAVE A DREAM](https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH) | 3:30 | 2022-05-22 |  |
@@ -71,6 +72,8 @@
 | [SALUTE](https://open.spotify.com/track/1S16NbaZItWP83Skxf0tZP) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:08 | 2022-05-22 |  |
 | [SALUTE](https://open.spotify.com/track/6dZjwys4OGDogFFVh89MBY) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE](https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO) | 3:08 | 2022-05-22 |  |
 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 | 2022-05-22 |  |
+| [SAVIOR \-Japanese ver.\-](https://open.spotify.com/track/1UZdvZuUVkRNdRWFcBmjaQ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR](https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY) | 3:02 | 2022-09-06 |  |
+| [Set You Free](https://open.spotify.com/track/2uHfd1rAFd9ZhAXSFS7KqW) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR](https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY) | 3:26 | 2022-09-06 |  |
 | [SHADOW](https://open.spotify.com/track/6myWuWpEcdtX11cWbFxQT6) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:12 | 2022-05-22 |  |
 | [SHINING STARS](https://open.spotify.com/track/03zPSjqUGeGKCSbNoQJBqd) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) | 3:47 | 2022-05-22 |  |
 | [SHOWDOWN](https://open.spotify.com/track/4wCyDQYkdns4adPaEQCIBa) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:28 | 2022-05-22 |  |
@@ -78,10 +81,12 @@
 | [STAY WITH ME](https://open.spotify.com/track/20t9Wn063dlhUVMLtY2StX) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 4:00 | 2022-05-22 |  |
 | [STAY YOUNG](https://open.spotify.com/track/3B1nflnhZHmUpbIovL66Pk) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:28 | 2022-05-22 |  |
 | [Sucker for your love](https://open.spotify.com/track/3BgoJFAHeowRMb6LePgwUn) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:34 | 2022-05-22 |  |
+| [Sucker for your love \-Japanese ver.\-](https://open.spotify.com/track/47sWBKKishXyQd91jsQwru) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR](https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY) | 3:36 | 2022-09-06 |  |
 | [SUNSET](https://open.spotify.com/track/3aw7rTmNRiB8NbV5w9z0Kw) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:21 | 2022-05-22 |  |
 | [SURREAL](https://open.spotify.com/track/28pj5S2cbGHxdF3sk2x4lc) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [VIVID](https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ) | 3:13 | 2022-05-22 |  |
 | [SURREAL \- Alternative Rock Mix](https://open.spotify.com/track/7MzEUfY3N6Uw8umnwMkaq0) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:37 | 2022-05-22 |  |
 | [THE ANSWER](https://open.spotify.com/track/1L1N5X35wFk8d5VlyNy2Oa) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [VIVID](https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ) | 3:10 | 2022-05-22 |  |
+| [Umbrella](https://open.spotify.com/track/0lHPWGj6Zl62Ff8afRIN7w) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR](https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY) | 3:38 | 2022-09-06 |  |
 | [VENUS](https://open.spotify.com/track/4qhd5mh5VBZJL6vhIM3Oxk) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [COMPLETE WITH YOU](https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx) | 3:10 | 2022-05-22 |  |
 | [VIVID](https://open.spotify.com/track/3z4jfbtiivb9HYzCROWF1c) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [VIVID](https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ) | 3:24 | 2022-05-22 |  |
 | [Walking In The Rain](https://open.spotify.com/track/1VYwqTxCvQZHpvI9WQVmdq) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Walking In The Rain \(TEN PROJECT, Pt\. 4\)](https://open.spotify.com/album/0uFQ8dnMXvwkVRStsOn3va) | 3:41 | 2022-05-22 |  |

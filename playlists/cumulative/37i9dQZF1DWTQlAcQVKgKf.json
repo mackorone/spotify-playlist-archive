@@ -17,15 +17,19 @@
           "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
         },
         {
-          "name": "Jun Hyung Yong & G.NA",
-          "url": "https://open.spotify.com/artist/2oKtZK7dMGUxwOaXZmi6AI"
+          "name": "G.NA",
+          "url": "https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA"
+        },
+        {
+          "name": "Yong Jun Hyung",
+          "url": "https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo"
         }
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 227448,
-      "name": "A Bitter Day",
+      "name": "A Bitter Day (Feat. Jun Hyung Yong & G.NA)",
       "url": "https://open.spotify.com/track/0qjtg6cadlTcAT2Ox5lpcM"
     },
     {
@@ -39,8 +43,12 @@
           "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
         },
         {
-          "name": "Jun Hyung Yong & G.NA",
-          "url": "https://open.spotify.com/artist/2oKtZK7dMGUxwOaXZmi6AI"
+          "name": "G.NA",
+          "url": "https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA"
+        },
+        {
+          "name": "Yong Jun Hyung",
+          "url": "https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo"
         }
       ],
       "date_added": "2021-09-09",
@@ -106,6 +114,24 @@
     },
     {
       "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161539,
+      "name": "Bad Dog",
+      "url": "https://open.spotify.com/track/3e7f4ve2p94f8O1BlaiiLq"
+    },
+    {
+      "album": {
         "name": "A Talk",
         "url": "https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ"
       },
@@ -115,7 +141,7 @@
           "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
         },
         {
-          "name": "LE",
+          "name": "ELLY",
           "url": "https://open.spotify.com/artist/5h0QnpgJxd77A8UXYrcvhy"
         }
       ],
@@ -163,7 +189,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202546,
-      "name": "Cause I'm God Girl",
+      "name": "Cause I'm God Girl (Feat. Il Hoon Jung Of BTOB)",
       "url": "https://open.spotify.com/track/0AgMJriVSGWjN8WLaCqnDv"
     },
     {
@@ -187,6 +213,24 @@
       "duration_ms": 211333,
       "name": "Change (Feat. Jun Hyung Yong From BEAST)",
       "url": "https://open.spotify.com/track/6kFDvPj3FVpQ90HZ5PacxE"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 192400,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs"
     },
     {
       "album": {
@@ -315,7 +359,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203232,
-      "name": "Downtown",
+      "name": "Downtown (Feat. Ji Yoon Jun)",
       "url": "https://open.spotify.com/track/1HVlIvJ0FyvUYf9KARjTkT"
     },
     {
@@ -331,10 +375,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188373,
       "name": "FLOWER SHOWER",
       "url": "https://open.spotify.com/track/3wljaQ1KBCAMnPxCPDEUsC"
+    },
+    {
+      "album": {
+        "name": "FLOWER SHOWER",
+        "url": "https://open.spotify.com/album/6WEd55Evvtz5ZTMogdK8Uu"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "FLOWER SHOWER",
+      "url": "https://open.spotify.com/track/7sjnURvuXBKEdM3fw698iq"
     },
     {
       "album": {
@@ -387,7 +449,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191399,
-      "name": "FRENCH KISS",
+      "name": "French Kiss",
       "url": "https://open.spotify.com/track/2b7Kon2nTvTDOX4CQ7sFPL"
     },
     {
@@ -409,7 +471,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202840,
-      "name": "Get Outta My House",
+      "name": "Get Outta My House (Feat. Jung Yeol Kwon)",
       "url": "https://open.spotify.com/track/3IH4uDZKlyodQsR1e9RDjj"
     },
     {
@@ -443,7 +505,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185400,
       "name": "GOOD GIRL",
       "url": "https://open.spotify.com/track/5iMcihnPLMICfFhg3H694w"
@@ -580,6 +642,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Cool",
+        "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174173,
+      "name": "I'm Not Cool",
+      "url": "https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf"
+    },
+    {
+      "album": {
         "name": "I\u2019m Not Cool",
         "url": "https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW"
       },
@@ -591,7 +671,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174173,
       "name": "I'm Not Cool",
       "url": "https://open.spotify.com/track/7xTOqnsOV6qHBPWoCWpzGM"
@@ -637,7 +717,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196826,
-      "name": "Ice Ice",
+      "name": "Ice Ice (Feat. Ji Dam Yook)",
       "url": "https://open.spotify.com/track/142KEuaZKcjpSqYybDu68D"
     },
     {
@@ -677,7 +757,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204982,
-      "name": "Just Follow",
+      "name": "Just Follow (Feat. DOK2)",
       "url": "https://open.spotify.com/track/5oiAchP69eu8pbWbeIDwrG"
     },
     {
@@ -735,8 +815,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211071,
-      "name": "Morning glory",
+      "name": "Morning glory (Feat. Isle Qim)",
       "url": "https://open.spotify.com/track/7jaMOoks3YLbOoQxYLUJTo"
+    },
+    {
+      "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168462,
+      "name": "Nabillera",
+      "url": "https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N"
     },
     {
       "album": {
@@ -747,6 +845,10 @@
         {
           "name": "HyunA",
           "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "WOOSEOK",
+          "url": "https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V"
         }
       ],
       "date_added": "2021-09-09",
@@ -795,10 +897,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209560,
       "name": "Party, Feel, Love (Feat. DAWN)",
       "url": "https://open.spotify.com/track/2qR6lpnGS9AldPdElbzJ53"
+    },
+    {
+      "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156836,
+      "name": "Picasso & Fernande Olivier",
+      "url": "https://open.spotify.com/track/2np36jtqZyvS4QJDgUOwOp"
     },
     {
       "album": {
@@ -837,7 +957,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 225776,
-      "name": "Player (feat.HYUNA)",
+      "name": "Player (Feat. HYUNA)",
       "url": "https://open.spotify.com/track/2lj0NyS3hDxtHZuCdo2eEF"
     },
     {
@@ -849,6 +969,10 @@
         {
           "name": "HyunA",
           "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "E",
+          "url": "https://open.spotify.com/artist/45tZVD9vAd4R6zl9D82kmt"
         }
       ],
       "date_added": "2021-09-09",
@@ -947,7 +1071,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190146,
       "name": "Show Window",
       "url": "https://open.spotify.com/track/7KRsFDEkmdEZLpGR9BIs0Z"
@@ -1030,6 +1154,24 @@
     },
     {
       "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210887,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/1lsgh9qpdgKSIy77a3pZ3n"
+    },
+    {
+      "album": {
         "name": "Name is 4minute",
         "url": "https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU"
       },
@@ -1066,6 +1208,24 @@
     },
     {
       "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220527,
+      "name": "whatever",
+      "url": "https://open.spotify.com/track/4PLjGWQEcNihvnTGCAXKn6"
+    },
+    {
+      "album": {
         "name": "A`wesome",
         "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
       },
@@ -1083,7 +1243,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 234140,
-      "name": "Wolf",
+      "name": "Wolf (Feat. HANHAE)",
       "url": "https://open.spotify.com/track/4sK554bQI0vLKWS2jEmpi7"
     },
     {

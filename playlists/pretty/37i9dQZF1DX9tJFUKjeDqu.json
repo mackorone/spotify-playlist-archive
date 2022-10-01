@@ -1,15 +1,47 @@
 {
   "description": "Soft, instrumental blues to help you concentrate.\n",
-  "num_followers": 16964,
+  "num_followers": 18870,
   "original_name": "Blues Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5MTA3OCwwMDAwMDAyMjAwMDAwMTgxZGUzZWZjMDkwMDAwMDE4MWFmYThlZWQ5",
+  "snapshot_id": "MTY1OTA5MDg1NSwwMDAwMDAwMGU5OTlmYTgzODFiODdiNjc5ZjAyYTdmYTUzYzczNWJk",
   "tracks": [
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 200844,
+      "name": "Mud Island Morning",
+      "url": "https://open.spotify.com/track/7dugh1bNpR9FLOQd341YNX"
+    },
+    {
+      "added_at": "2022-07-29 10:34:15",
+      "album": {
+        "name": "The Heart of the Delta",
+        "url": "https://open.spotify.com/album/7j8TZr0fXYCaxbjHLaLfQx"
+      },
+      "artists": [
+        {
+          "name": "The Realist",
+          "url": "https://open.spotify.com/artist/4xvutMUL908zZKXnq32ObZ"
+        }
+      ],
+      "duration_ms": 85681,
+      "name": "Rope Hill",
+      "url": "https://open.spotify.com/track/2zdoyrxAfhJcEHRmPW0mFk"
+    },
+    {
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Folk & Blues Guitar",
         "url": "https://open.spotify.com/album/5IdfA8A5wIiNFRG557NLs2"
@@ -29,7 +61,7 @@
       "url": "https://open.spotify.com/track/4XSj02UDZIGVm0ZHHY9o4H"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Mississippi Boy",
         "url": "https://open.spotify.com/album/1GkkGdsXQIhDAzxmJjyoA2"
@@ -45,7 +77,7 @@
       "url": "https://open.spotify.com/track/4nAkPawzPeuy6V5h3ML8Ks"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Sunset Guitar Blues",
         "url": "https://open.spotify.com/album/1vEnl3zi7CM0SLyVfaHxbC"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/1VA18gUNRVnyrS53bAb6zg"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Take Five",
         "url": "https://open.spotify.com/album/00M7DsogdksAlx0Q745kV9"
@@ -81,7 +113,7 @@
       "url": "https://open.spotify.com/track/1MRivhXSuW5lICmMxVuIES"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Session Masters",
         "url": "https://open.spotify.com/album/6860zM9w6dmFEc8HVnV6Ih"
@@ -97,7 +129,7 @@
       "url": "https://open.spotify.com/track/4naYwJluM8H8dNuwlCB0Qf"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "How Many Miles",
         "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
@@ -113,7 +145,7 @@
       "url": "https://open.spotify.com/track/4JAIpmm35zsuwvJvqG2gD6"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Rush (Music from the Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2"
@@ -129,23 +161,23 @@
       "url": "https://open.spotify.com/track/2E5QCoyvDTM7oLJpF6K2wc"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Good News",
-        "url": "https://open.spotify.com/album/00gjkhEHHnrATP8ORz4C2G"
+        "url": "https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63"
       },
       "artists": [
         {
-          "name": "Ronnie Earl & The Broadcasters",
-          "url": "https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I"
+          "name": "Ronnie EarlThe Broadcasters",
+          "url": "https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF"
         }
       ],
       "duration_ms": 405160,
       "name": "Marje's Melody",
-      "url": "https://open.spotify.com/track/3ZewawA5h2yP6RvhWlBdFq"
+      "url": "https://open.spotify.com/track/36SpII7Y7MzXhuQe5Xu097"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "461 Ocean Blvd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
@@ -161,7 +193,7 @@
       "url": "https://open.spotify.com/track/6gHzcDHbcoGgvoGAtcTq94"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Rainy Day Blues",
         "url": "https://open.spotify.com/album/01zVpYm27HjF8DCcCLDn34"
@@ -177,7 +209,7 @@
       "url": "https://open.spotify.com/track/3s6ezi7niuEzr1xgqERNsj"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Mercy Me",
         "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
@@ -197,7 +229,7 @@
       "url": "https://open.spotify.com/track/6DVDYuQPe6XIC21qDUKhzR"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Baton Rouge",
         "url": "https://open.spotify.com/album/4r1Fb5TSgtvWCazZDH5RJ5"
@@ -213,30 +245,26 @@
       "url": "https://open.spotify.com/track/45mOThZziA0POOBVqwELS4"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/16Tjd5ycFqkHDU6f78rKYk"
+        "name": "Blues (Remastered)",
+        "url": "https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX"
       },
       "artists": [
         {
-          "name": "Berdon Kirksaether",
-          "url": "https://open.spotify.com/artist/0wp3pipE3auQxIeHfFvH6o"
-        },
-        {
-          "name": "The Twang Bar Kings",
-          "url": "https://open.spotify.com/artist/2gOxxvd4sVhmsEmu3GQVLo"
+          "name": "Berdon Kirksaether & the Twang Bar Kings",
+          "url": "https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR"
         }
       ],
       "duration_ms": 210013,
       "name": "It's a Rough Ride We're On",
-      "url": "https://open.spotify.com/track/2RiU43I9nzxG1by7Q8Y5Zi"
+      "url": "https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Marcelino",
-        "url": "https://open.spotify.com/album/0GFbJOOm84hvz0svAuxyuu"
+        "url": "https://open.spotify.com/album/5xgnea0UTuxQnXctk4yARm"
       },
       "artists": [
         {
@@ -245,11 +273,11 @@
         }
       ],
       "duration_ms": 120900,
-      "name": "Le Blues de Berthe",
-      "url": "https://open.spotify.com/track/4zZ6FWlCPoKFsbC1147cPZ"
+      "name": "Le blues de berthe",
+      "url": "https://open.spotify.com/track/2WB7N4gk7MO4d6vjpxIruc"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Golden Loam",
         "url": "https://open.spotify.com/album/0dPH6VQgPhfc0lLueu9m7V"
@@ -265,7 +293,7 @@
       "url": "https://open.spotify.com/track/0Bm5XTEyBth8b04J6oEms6"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/0wCy9QkfGL19XEYnW4NU8k"
@@ -281,7 +309,7 @@
       "url": "https://open.spotify.com/track/1fGPWHGdhxb8UciPOgRgyU"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Mississippi Boy",
         "url": "https://open.spotify.com/album/1GkkGdsXQIhDAzxmJjyoA2"
@@ -297,7 +325,7 @@
       "url": "https://open.spotify.com/track/0q3aPiWc44Virg0YgBv55A"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "I Feel Like Goin' On",
         "url": "https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K"
@@ -313,7 +341,7 @@
       "url": "https://open.spotify.com/track/2pypgWd8ZbLYwyMsPXPai1"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Here Comes Shuggie Otis",
         "url": "https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd"
@@ -329,7 +357,7 @@
       "url": "https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "The Essential Stevie Ray Vaughan And Double Trouble",
         "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
@@ -345,7 +373,7 @@
       "url": "https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Blue Fix",
         "url": "https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16"
@@ -361,10 +389,10 @@
       "url": "https://open.spotify.com/track/2pQzKjn9C68S4bnnXJMOl6"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
-        "name": "Soo Soo",
-        "url": "https://open.spotify.com/album/6TtGR4JOedS2VTTimyH9bX"
+        "name": "Ein Blick",
+        "url": "https://open.spotify.com/album/7rjXWcL9kIqmAMsa9aWRel"
       },
       "artists": [
         {
@@ -374,26 +402,30 @@
       ],
       "duration_ms": 340389,
       "name": "Soo Soo",
-      "url": "https://open.spotify.com/track/5Wb5ESjqKLXpUeraCpSTbG"
+      "url": "https://open.spotify.com/track/0EzT3qO62R3kFqQGpctHcM"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Spread The Love",
-        "url": "https://open.spotify.com/album/4RFvY4SxDOjOhoOOrKu2Nz"
+        "url": "https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht"
       },
       "artists": [
         {
           "name": "Ronnie Earl",
           "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        },
+        {
+          "name": "The Broadcasters",
+          "url": "https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH"
         }
       ],
-      "duration_ms": 312819,
+      "duration_ms": 312813,
       "name": "Cristo Redentor",
-      "url": "https://open.spotify.com/track/0QZ1JgRuAK83hsqJ8vio04"
+      "url": "https://open.spotify.com/track/08ubKgFasQsPB2YdmKMW9X"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Rainy Day Blues (Instrumental)",
         "url": "https://open.spotify.com/album/6I4k1yLhMfuJGl7j680IXi"
@@ -409,7 +441,7 @@
       "url": "https://open.spotify.com/track/2wDMSutZ0eXoB1cQ0WE8f7"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "A Blues for the Worried Minds",
         "url": "https://open.spotify.com/album/6j7tExly5611q8eH7ybAKf"
@@ -425,7 +457,7 @@
       "url": "https://open.spotify.com/track/4epUUIQ8Uf89fzMP9hvjmg"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Bourbon Please",
         "url": "https://open.spotify.com/album/4O01Xv4ikVGTb45Lnhw5uR"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/3udysyynIpSz9II7pDJITA"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Five Pop Tunes",
         "url": "https://open.spotify.com/album/3l0le9nsDpokAmAlWCfiex"
@@ -457,7 +489,7 @@
       "url": "https://open.spotify.com/track/3pPOTu0HzLBnfNBvGDK86v"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Slow Blues Guitar - Ambiance for Working",
         "url": "https://open.spotify.com/album/6sUMKVFDCkCiX3oR34ii2j"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/0oHsRS3yY9FZ5eJHbwgvKw"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Blues Music for Dogs",
         "url": "https://open.spotify.com/album/42KEN0fc3AtktxdETSDlZa"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/1IWK7wCyYkUiTbY78KE0jr"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Deep in the Pocket",
         "url": "https://open.spotify.com/album/2PXYPnt5dgNToCoASzy9ii"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/3KTfFNKOAHsFhuKNX90tbT"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Red Dirt",
         "url": "https://open.spotify.com/album/1wByxDUH6YkilEPLyvTt3G"
@@ -521,7 +553,7 @@
       "url": "https://open.spotify.com/track/3z1rYUvrX29vA2thDTTNBs"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Pirates (Live in Belgium / Dubbed in Denmark)",
         "url": "https://open.spotify.com/album/6gzqbVNqUK54CzgOqymluE"
@@ -541,10 +573,10 @@
       "url": "https://open.spotify.com/track/2AQJqe6b3mNyAp81ETFi1k"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Maxwell Street",
-        "url": "https://open.spotify.com/album/2YObpHVuuBJjCk9vaoZ9Nf"
+        "url": "https://open.spotify.com/album/6QJ6h4nSqQgnCNVVVYPwly"
       },
       "artists": [
         {
@@ -558,10 +590,10 @@
       ],
       "duration_ms": 340693,
       "name": "Elegy for a Bluesman",
-      "url": "https://open.spotify.com/track/6ezalWK2RCMwOoVPm6Yqj7"
+      "url": "https://open.spotify.com/track/51eO3uxag2ZhvnqWePYeVv"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Buddy's Baddest: The Best Of Buddy Guy",
         "url": "https://open.spotify.com/album/4dzFJPnPuJT2gjZNfkYkWO"
@@ -577,7 +609,7 @@
       "url": "https://open.spotify.com/track/2x6sAQFBhY5eqp0yqA0vBD"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Blue in Red",
         "url": "https://open.spotify.com/album/0AS15S5F73DD7Tc991CdXL"
@@ -593,10 +625,10 @@
       "url": "https://open.spotify.com/track/44mG1PFJja5s8WUKHxVcQr"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Blues For You",
-        "url": "https://open.spotify.com/album/6XIK9crFq9HgXowGwTK91I"
+        "url": "https://open.spotify.com/album/5EAr5Rzknr0B1DFaBPcC8v"
       },
       "artists": [
         {
@@ -606,10 +638,10 @@
       ],
       "duration_ms": 362146,
       "name": "The Blink Of An Eye",
-      "url": "https://open.spotify.com/track/2vJLBn78JRXewtqcUVvtm3"
+      "url": "https://open.spotify.com/track/656b8WVsC5JMmDDN43hPoQ"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "The Bootleg Series, Vol. 3: Son of a Witch",
         "url": "https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67"
@@ -625,7 +657,7 @@
       "url": "https://open.spotify.com/track/4cwQ5XhN8p6UkUUYj8hPp2"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI"
@@ -641,7 +673,7 @@
       "url": "https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "The Bootleg Series, Vol. 3: Son of a Witch",
         "url": "https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/7qvbVYCBCgPYUntoTcUUC2"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk"
@@ -673,10 +705,10 @@
       "url": "https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Nuno Mindelis & The Cream Crackers",
-        "url": "https://open.spotify.com/album/57HFDvunhtwCpfe8pkzUkN"
+        "url": "https://open.spotify.com/album/6Gv7FGEI7Ot7tgfthNLIiy"
       },
       "artists": [
         {
@@ -689,11 +721,11 @@
         }
       ],
       "duration_ms": 293600,
-      "name": "Answer to Ronnie",
-      "url": "https://open.spotify.com/track/0FEO7enEiq1uVm27W2sjFT"
+      "name": "Answer To Ronnie",
+      "url": "https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Mick Taylor",
         "url": "https://open.spotify.com/album/23c6z3f6XvBXKR4UqSnqne"
@@ -709,10 +741,10 @@
       "url": "https://open.spotify.com/track/451DmtsIrqVod8SD5tpXcU"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Odds Or Evens",
-        "url": "https://open.spotify.com/album/5FisgSJmd2fDoCA1DZkP9I"
+        "url": "https://open.spotify.com/album/2gb0BaQafMjAjZXHU8DEt2"
       },
       "artists": [
         {
@@ -722,10 +754,10 @@
       ],
       "duration_ms": 386560,
       "name": "Seven Thirty",
-      "url": "https://open.spotify.com/track/1Zm60s0lcImDsXthozhDlr"
+      "url": "https://open.spotify.com/track/6gsAuXwrZTInqexF3IfGEh"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Twelve Hours",
         "url": "https://open.spotify.com/album/5VWXunq9g3JCd2wo3ecpYL"
@@ -741,7 +773,7 @@
       "url": "https://open.spotify.com/track/7izyXZtIw69OhbeDb2jkTu"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Blues Ain't a Color",
         "url": "https://open.spotify.com/album/2zMqZ4gu3kmRZAY1l8XpxO"
@@ -757,7 +789,7 @@
       "url": "https://open.spotify.com/track/7bNnYkFBVaGzgscgh4XAtX"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Of Two Cities",
         "url": "https://open.spotify.com/album/7iWSzyoy9SrCmIIRAY9s1w"
@@ -773,7 +805,7 @@
       "url": "https://open.spotify.com/track/2AmEPE041ByXKpMuNGlfPf"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Fabulous Backdrop for Reading",
         "url": "https://open.spotify.com/album/33VjsbAeDbX5naLPcOdU2P"
@@ -789,7 +821,7 @@
       "url": "https://open.spotify.com/track/6R2i7JRkM7l4ez6J06TgEu"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Essential Blues",
         "url": "https://open.spotify.com/album/13I1hgOYUQTqPLpk0sGnO5"
@@ -805,7 +837,7 @@
       "url": "https://open.spotify.com/track/3I5wlSHXXMmVXTpPvN3wa5"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
@@ -821,7 +853,7 @@
       "url": "https://open.spotify.com/track/4YLLXJnKBQmYVC0XXvR1XS"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "I Like It When It Rains",
         "url": "https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD"
@@ -837,7 +869,7 @@
       "url": "https://open.spotify.com/track/12psIyrsp6DXHqzkkweac1"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "The Bootleg Series, Vol. 3: Son of a Witch",
         "url": "https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67"
@@ -853,7 +885,7 @@
       "url": "https://open.spotify.com/track/0CMXruCTkGen9gLpsTH8xH"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "In The Beginning",
         "url": "https://open.spotify.com/album/4s8yNqAy1MyFXtLp8HlWUM"
@@ -869,10 +901,10 @@
       "url": "https://open.spotify.com/track/6yJ6VtC0IQ4BC47Aj6MkZ3"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
-        "name": "If I Ever Get Lucky",
-        "url": "https://open.spotify.com/album/5ypZMTcLSmNU8Bya5ZXaqK"
+        "name": "Blues Legend Vol. 13",
+        "url": "https://open.spotify.com/album/3UeiL4Lg24S67ztbaBeL32"
       },
       "artists": [
         {
@@ -882,10 +914,10 @@
       ],
       "duration_ms": 309185,
       "name": "Blues After Hours",
-      "url": "https://open.spotify.com/track/56ENCoeGxJ9PWnAJpEktgs"
+      "url": "https://open.spotify.com/track/59AKB7WO9P4Z1jiS7zQntK"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Blues On The Bayou",
         "url": "https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r"
@@ -901,7 +933,7 @@
       "url": "https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Language Of The Soul",
         "url": "https://open.spotify.com/album/4MJvRWtQK30Xs4vjJGlpAg"
@@ -917,7 +949,7 @@
       "url": "https://open.spotify.com/track/0pI9XMjwp3Y7IIvFCXpFcr"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Roy Buchanan",
         "url": "https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw"
@@ -933,7 +965,7 @@
       "url": "https://open.spotify.com/track/6u4NXJuuZDVQ8QXE8UJ45R"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Bird of Paradise - An Anthology",
         "url": "https://open.spotify.com/album/661y6tO5MbvfHAYGPOPYmM"
@@ -949,7 +981,7 @@
       "url": "https://open.spotify.com/track/58dBSRx65WKUew5bussurJ"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "The Real Deal: Greatest Hits Volume 2",
         "url": "https://open.spotify.com/album/2SYJxEVYF7yzxEf2Ncymi1"
@@ -965,7 +997,7 @@
       "url": "https://open.spotify.com/track/2Pv7Vi2OY2ZTsrZlqZ8k8A"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Good Feelin'",
         "url": "https://open.spotify.com/album/4tRciHLk7U2JNVkcbbMrxA"
@@ -981,10 +1013,10 @@
       "url": "https://open.spotify.com/track/7vNS5HDDcbf06EA4k6gqWe"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Bad Habits",
-        "url": "https://open.spotify.com/album/5i3UxTh2U1lcAxpspXmxDG"
+        "url": "https://open.spotify.com/album/7iAzMP27sxvXLLGLXMEwGA"
       },
       "artists": [
         {
@@ -992,12 +1024,12 @@
           "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
         }
       ],
-      "duration_ms": 258613,
+      "duration_ms": 258773,
       "name": "Speechless",
-      "url": "https://open.spotify.com/track/3gkflrRAj1MIe2HIYYkDRA"
+      "url": "https://open.spotify.com/track/1DOf7lJ4tKA4qNUwehfjFI"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Soulful Blues (Instrumental)",
         "url": "https://open.spotify.com/album/1WyuB1JDD0bOR6Kyef9IKA"
@@ -1013,7 +1045,7 @@
       "url": "https://open.spotify.com/track/2d4HpgCWXuI6sCYhVfoZC1"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "Uptown Groove",
         "url": "https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq"
@@ -1029,10 +1061,10 @@
       "url": "https://open.spotify.com/track/6W5PADiws4J4jNZwr2loyH"
     },
     {
-      "added_at": "2022-07-08 14:37:58",
+      "added_at": "2022-07-29 10:34:15",
       "album": {
         "name": "The Luckiest Man",
-        "url": "https://open.spotify.com/album/5bj6EpqoaEgKeaEH6Qivnh"
+        "url": "https://open.spotify.com/album/4wf5RpT8tm8BrgfuRmjojU"
       },
       "artists": [
         {
@@ -1046,7 +1078,7 @@
       ],
       "duration_ms": 324493,
       "name": "Blues for Magic Sam",
-      "url": "https://open.spotify.com/track/2fZjnNYEvJO76sc6kqN24z"
+      "url": "https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6"
     }
   ],
   "unique_name": "Blues Focus",

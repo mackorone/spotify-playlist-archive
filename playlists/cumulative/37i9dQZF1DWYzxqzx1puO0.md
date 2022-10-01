@@ -4,7 +4,7 @@
 
 > Big rave tunes from Calvin's very own Love Regenerator project and many more house and techno belters.
 
-42 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/39vvlAtNZW72V2tIIe9nsm)
+43 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/39vvlAtNZW72V2tIIe9nsm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Music Please \- Edit](https://open.spotify.com/track/1b3nC8sQaNWkHJPAYhZgl1) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Music Please](https://open.spotify.com/album/0OZ6qxEjSJCK8pjWWFRct7) | 2:50 | 2020-06-30 |  |
 | [My Life](https://open.spotify.com/track/22QkHm06v6OrxJvgisEEw2) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [My Life](https://open.spotify.com/album/4oTult1y1nwam7AvCZzXmJ) | 3:01 | 2020-06-30 |  |
 | [Peace Love Happiness \[edit\]](https://open.spotify.com/track/1hY95zr4OUT7s1UqS5rarV) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Love Regenerator 3](https://open.spotify.com/album/1OwHR43fxoRcLkWov9MBm1) | 3:25 | 2020-06-30 |  |
-| [Pool Party Music](https://open.spotify.com/track/0PPpehRoJCBZYmZSUEJcot) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Pool Party Music](https://open.spotify.com/album/6D0804q8EoEHqWUH3wGGxF) | 6:07 | 2020-06-30 |  |
+| [Pool Party Music](https://open.spotify.com/track/0PPpehRoJCBZYmZSUEJcot) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Pool Party Music](https://open.spotify.com/album/6D0804q8EoEHqWUH3wGGxF) | 6:07 | 2020-06-30 | 2022-07-29 |
+| [Pool Party Music](https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:07 | 2020-06-30 |  |
 | [Promise](https://open.spotify.com/track/15CfptpFnwDrhkWt8JPyfN) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Promise](https://open.spotify.com/album/12kG7Na759dGzedni8OiQa) | 2:38 | 2020-06-30 |  |
 | [Searching For Someone \- Edit](https://open.spotify.com/track/08oufzbacifu4V5zQcoNMG) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Searching For Someone](https://open.spotify.com/album/0dznRiGGjKr1tXb8JWXbrW) | 3:24 | 2020-06-30 |  |
 | [Soldier](https://open.spotify.com/track/2gmjeSpQI7dvGLLcsu6SQq) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Soldier](https://open.spotify.com/album/2zF9dHUmB0BgzdxP2uKt49) | 3:10 | 2020-06-30 |  |

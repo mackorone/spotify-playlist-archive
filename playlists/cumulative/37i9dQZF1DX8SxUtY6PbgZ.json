@@ -223,7 +223,7 @@
     {
       "album": {
         "name": "Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2uMFg3hvo58SMkVlU1uhKJ"
+        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
       },
       "artists": [
         {
@@ -234,6 +234,24 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 148546,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA"
+    },
+    {
+      "album": {
+        "name": "Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2uMFg3hvo58SMkVlU1uhKJ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 148546,
       "name": "Candles",
       "url": "https://open.spotify.com/track/7aS8e5XKVWDcbyn06mF9fz"
@@ -295,7 +313,7 @@
     {
       "album": {
         "name": "It Follows (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xDWKjmxCOanU9ATEy6UqD"
+        "url": "https://open.spotify.com/album/5df4xBKQQdA8oAfbFmc3Vu"
       },
       "artists": [
         {
@@ -306,6 +324,24 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 80000,
+      "name": "Detroit",
+      "url": "https://open.spotify.com/track/3EfXB0To1zCbgDgPkSt9pR"
+    },
+    {
+      "album": {
+        "name": "It Follows (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xDWKjmxCOanU9ATEy6UqD"
+      },
+      "artists": [
+        {
+          "name": "Disasterpeace",
+          "url": "https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 80000,
       "name": "Detroit",
       "url": "https://open.spotify.com/track/6ruyXKuE1vlY2TiNCs0nx5"
@@ -331,7 +367,7 @@
     {
       "album": {
         "name": "Anthology: Movie Themes 1974-1998",
-        "url": "https://open.spotify.com/album/656eXgUaTvjHKV2cfX408g"
+        "url": "https://open.spotify.com/album/3ZqJGlPsvDsU1hlaeU2lr9"
       },
       "artists": [
         {
@@ -342,6 +378,24 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 212320,
+      "name": "Escape from New York",
+      "url": "https://open.spotify.com/track/6T4OT1wFOwgNK9VysjaEAk"
+    },
+    {
+      "album": {
+        "name": "Anthology: Movie Themes 1974-1998",
+        "url": "https://open.spotify.com/album/656eXgUaTvjHKV2cfX408g"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 212320,
       "name": "Escape from New York",
       "url": "https://open.spotify.com/track/7BJbIPIr3y2IaKF24JoNSX"
@@ -453,10 +507,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159556,
       "name": "Imagining Buffalo",
       "url": "https://open.spotify.com/track/7DTNppXH1FmXdSos20cwqP"
+    },
+    {
+      "album": {
+        "name": "The Revenant (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159556,
+      "name": "Imagining Buffalo",
+      "url": "https://open.spotify.com/track/1vtQUwCYHqLouqhnKPCZAX"
     },
     {
       "album": {
@@ -475,6 +551,24 @@
       "duration_ms": 168613,
       "name": "Is That What Everybody Wants",
       "url": "https://open.spotify.com/track/3ZohDI0H3LUGKg43A5ne9f"
+    },
+    {
+      "album": {
+        "name": "The Social Network",
+        "url": "https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99278,
+      "name": "It Catches up With You",
+      "url": "https://open.spotify.com/track/2cryrajucGmbV6mwNUhQPB"
     },
     {
       "album": {
@@ -659,10 +753,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295853,
       "name": "Monsters Theme",
       "url": "https://open.spotify.com/track/3CKstYFeiGJMGgRpHWbUGE"
+    },
+    {
+      "album": {
+        "name": "Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295853,
+      "name": "Monsters Theme",
+      "url": "https://open.spotify.com/track/6aiR4OPo4GSpsiRzuubaZg"
     },
     {
       "album": {
@@ -731,10 +843,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193960,
       "name": "Opening Title",
       "url": "https://open.spotify.com/track/6pYRLSxc9O9KWF53xjoHu1"
+    },
+    {
+      "album": {
+        "name": "Monster's Ball (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5cgVsvUZqOIbZOL4otaGXS"
+      },
+      "artists": [
+        {
+          "name": "Asche & Spencer",
+          "url": "https://open.spotify.com/artist/0nF3Xx2b9h9hBc1m0Alc10"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193960,
+      "name": "Opening Title",
+      "url": "https://open.spotify.com/track/6zrCYtsrqdLR4l3BXO8FVK"
     },
     {
       "album": {
@@ -957,10 +1087,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 723579,
       "name": "The Alien",
       "url": "https://open.spotify.com/track/1FKeutbl2sFHk81ZQqR105"
+    },
+    {
+      "album": {
+        "name": "Annihilation (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG"
+      },
+      "artists": [
+        {
+          "name": "Ben Salisbury",
+          "url": "https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq"
+        },
+        {
+          "name": "Geoff Barrow",
+          "url": "https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 723579,
+      "name": "The Alien",
+      "url": "https://open.spotify.com/track/3M0YZKONqBRpxPMDTKA1WP"
     },
     {
       "album": {
@@ -1123,10 +1275,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217906,
       "name": "The Thing",
       "url": "https://open.spotify.com/track/5SWRcQ31mBn5pGuhftU5dU"
+    },
+    {
+      "album": {
+        "name": "Anthology: Movie Themes 1974-1998",
+        "url": "https://open.spotify.com/album/3ZqJGlPsvDsU1hlaeU2lr9"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217906,
+      "name": "The Thing",
+      "url": "https://open.spotify.com/track/6QFLyznMxoXuffRCmxK6CO"
     },
     {
       "album": {
@@ -1153,7 +1323,7 @@
     {
       "album": {
         "name": "It Follows (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xDWKjmxCOanU9ATEy6UqD"
+        "url": "https://open.spotify.com/album/5df4xBKQQdA8oAfbFmc3Vu"
       },
       "artists": [
         {
@@ -1164,6 +1334,24 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Title",
+      "url": "https://open.spotify.com/track/3N5DU8yxyasg4hyHhIjNyz"
+    },
+    {
+      "album": {
+        "name": "It Follows (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xDWKjmxCOanU9ATEy6UqD"
+      },
+      "artists": [
+        {
+          "name": "Disasterpeace",
+          "url": "https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 137000,
       "name": "Title",
       "url": "https://open.spotify.com/track/7pRtdexXhJ8NKOHTBFrPOG"
@@ -1206,6 +1394,24 @@
     },
     {
       "album": {
+        "name": "Solaris (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
+      },
+      "artists": [
+        {
+          "name": "Cliff Martinez",
+          "url": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Wear Your Seat Belt",
+      "url": "https://open.spotify.com/track/0gSV4AFHXzOszSK38cOYno"
+    },
+    {
+      "album": {
         "name": "Moon (Original Score)",
         "url": "https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160"
       },
@@ -1224,6 +1430,28 @@
     },
     {
       "album": {
+        "name": "Annihilation (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG"
+      },
+      "artists": [
+        {
+          "name": "Ben Salisbury",
+          "url": "https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq"
+        },
+        {
+          "name": "Geoff Barrow",
+          "url": "https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156170,
+      "name": "What Do You Know?",
+      "url": "https://open.spotify.com/track/4PYkiul9hjpW4RNSHRrJRR"
+    },
+    {
+      "album": {
         "name": "Annihilation (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/0zTrUccbI88qkwHvfpH9sP"
       },
@@ -1239,7 +1467,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156170,
       "name": "What Do You Know?",
       "url": "https://open.spotify.com/track/6VCwwRPHsfaQLwxmUBD0hR"
@@ -1283,10 +1511,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247893,
       "name": "What If We Could?",
       "url": "https://open.spotify.com/track/1WarbadpH0uRaeELcPhTOv"
+    },
+    {
+      "album": {
+        "name": "The Girl With the Dragon Tattoo",
+        "url": "https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247897,
+      "name": "What If We Could?",
+      "url": "https://open.spotify.com/track/74OLST8WbPGinOStWNqYTN"
     },
     {
       "album": {

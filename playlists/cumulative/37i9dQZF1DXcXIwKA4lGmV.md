@@ -4,11 +4,12 @@
 
 > Songs all about cleaning up.
 
-33 songs - 1 hr 9 min - [published](https://open.spotify.com/playlist/2ReI04f5VoYE7BBtfAWes4)
+34 songs - 1 hr 10 min - [published](https://open.spotify.com/playlist/2ReI04f5VoYE7BBtfAWes4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Clean It Up](https://open.spotify.com/track/2VAlEyBUcnPJBlnynApOwO) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Classroom Favorites](https://open.spotify.com/album/0yBz0GmNIjkR9pTxNwSx1o) | 1:20 | 2022-04-08 |  |
+| [Clean It Up](https://open.spotify.com/track/2VAlEyBUcnPJBlnynApOwO) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Classroom Favorites](https://open.spotify.com/album/0yBz0GmNIjkR9pTxNwSx1o) | 1:20 | 2022-04-08 | 2022-07-29 |
+| [Clean It Up](https://open.spotify.com/track/240jwZegpLXJzrxrYMCBuz) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Buzz Buzz](https://open.spotify.com/album/2qaGwjEcIgtQ2XgA3jOsaN) | 1:23 | 2022-04-08 |  |
 | [Clean It Up!](https://open.spotify.com/track/1MQtc9JALkjXqOafjdeJnJ) | [The Juicebox Jukebox](https://open.spotify.com/artist/5E97AmvYFM4aGWCOtJkzYH) | [Now Hear This!](https://open.spotify.com/album/2cYNQhLqOi3bjGUqhfu34q) | 2:02 | 2022-04-08 |  |
 | [Clean Up](https://open.spotify.com/track/1D33HYMtMhZ9KvBdgOHZEU) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Start Singing with Barney](https://open.spotify.com/album/3AxlaORIaUzvFupsxC06yh) | 0:33 | 2022-04-08 |  |
 | [Clean Up](https://open.spotify.com/track/0t1rkqsHhGf4JsZycaeNSs) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b) | 2:51 | 2022-04-08 |  |
@@ -17,10 +18,10 @@
 | [Clean Up](https://open.spotify.com/track/65ov783J0qmUZkQqnjEb33) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 33 Circle Time Songs](https://open.spotify.com/album/6NykWbuxKO6ivJajGYbOgW) | 0:56 | 2022-04-08 |  |
 | [Clean Up](https://open.spotify.com/track/6YB26Hh9zYELVR01LSQpMA) | [The Montreal Children's Workshop](https://open.spotify.com/artist/0NAOoExRWvbLIrFuPzMz5x) | [For the Kids: Songs from Everyone's Favorite Children's Tv Shows](https://open.spotify.com/album/6g3KoJWI0A8rnytReVE39W) | 0:48 | 2022-04-08 |  |
 | [Clean Up & Tidy Up](https://open.spotify.com/track/1dsAmvY07yqWPgzeVVSJmq) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Jump Up](https://open.spotify.com/album/5xod1u7UJXKFl9tJHkpxNu) | 2:54 | 2022-04-08 |  |
-| [Clean up Song](https://open.spotify.com/track/2GToYdregYT3o89jbo9daC) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 4](https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy) | 2:37 | 2022-04-08 |  |
+| [Clean up Song](https://open.spotify.com/track/2GToYdregYT3o89jbo9daC) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 4](https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy) | 2:37 | 2022-04-08 |  |
 | [Clean up Song](https://open.spotify.com/track/4poJ5V6adwEGLNHEGjm0on) | [Mr\. Steve & Miss Katie](https://open.spotify.com/artist/4KCLjct1NNmK35Kp7DAL0N) | [Kids Music for Parents That Hate Kids Music](https://open.spotify.com/album/6NedhQWczdPHRiFT3TBV4X) | 2:00 | 2022-04-08 |  |
 | [Clean Up Time](https://open.spotify.com/track/7GX2IeEpBtCVDUXqMsKcE5) | [Radha & The Kiwi Kids](https://open.spotify.com/artist/6J9Lq9uvCdflqtZU3Ix2yd) | [Clean Up Time](https://open.spotify.com/album/71tt7461lEJ4Fov8P46pB3) | 3:29 | 2022-04-08 |  |
-| [Clean Up Trash Song](https://open.spotify.com/track/0CUND8t73n7O27uhiKEVWS) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 10](https://open.spotify.com/album/6K7fcWjYUMPRnew4XiXW8D) | 3:00 | 2022-04-08 |  |
+| [Clean Up Trash Song](https://open.spotify.com/track/0CUND8t73n7O27uhiKEVWS) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 10](https://open.spotify.com/album/6K7fcWjYUMPRnew4XiXW8D) | 3:00 | 2022-04-08 |  |
 | [Clean up Warning](https://open.spotify.com/track/2ey5dbkgSZVtdX5sJS7B16) | [Anthony Broughton](https://open.spotify.com/artist/7Dkbc3C9t6HSSwZ08CbuIb) | [In the B\-Hive with Mister B: Inspirational & Educational Children's Hip Hop Music](https://open.spotify.com/album/4zReCC2vlgsRaUWbLzkb3R) | 0:37 | 2022-04-08 |  |
 | [Clean Up Your Room](https://open.spotify.com/track/5p3QRQTza7Tu3I2KxEYYeP) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Clean Up Your Room](https://open.spotify.com/album/17CeLbSIgFMMycpcgFtGuX) | 2:11 | 2022-04-08 |  |
 | [Clean Up!](https://open.spotify.com/track/4ei0HMUjDQT7n5UCJbI7PI) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Moose Tube](https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa), [Lindsay Ryan](https://open.spotify.com/artist/1KZteRtFzCRWyfRdDKQl6v), [Katrina Jones](https://open.spotify.com/artist/6DjI6iXS7M0EOnq5WvcYLp) | [Clean Up!](https://open.spotify.com/album/5KeNemUAU29lWGFxvE3Zfl) | 1:23 | 2022-04-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5baU2nNxC8ag8XzlHNsANg.md) - [plain]
 
 > All your favorite hits from the decade you love most!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,495 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,500 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/5baU2nNxC8ag8XzlHNsANg.md) - [plain]
 | 9 | [Let Me Blow Ya Mind](https://open.spotify.com/track/5DCA1FOUDBURlRTNg4ganf) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Scorpion](https://open.spotify.com/album/5z1Su2S6WXspjhLNBkAScm) | 3:49 |
 | 10 | [Get the Party Started](https://open.spotify.com/track/4bk78jvK8Fe9YHqruOJW0v) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [M!ssundaztood](https://open.spotify.com/album/03pT16iWbhVKpDodI37D8b) | 3:11 |
 | 11 | [Sk8er Boi](https://open.spotify.com/track/4omisSlTk6Dsq2iQD7MA07) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/7h6XeTzy0SRXDrFJeA9gO7) | 3:24 |
-| 12 | [Hot In Herre](https://open.spotify.com/track/0oXuKhuNkXiZtuoxrdt3Ca) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville \(Explicit Version\)](https://open.spotify.com/album/502wXEj9iWWdqaAi0CO75M) | 3:48 |
+| 12 | [Hot In Herre](https://open.spotify.com/track/0oXuKhuNkXiZtuoxrdt3Ca) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville \(Explicit Version\)](https://open.spotify.com/album/502wXEj9iWWdqaAi0CO75M) | 3:47 |
 | 13 | [All You Wanted](https://open.spotify.com/track/0kr6d8wHDQPlzuET33NVn6) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:37 |
 | 14 | [I Don't Want to Be](https://open.spotify.com/track/1ccNXmmgYnajJ8ulYYEK9Y) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot](https://open.spotify.com/album/70ZsiClM7RBUsoTERq2qXu) | 3:39 |
 | 15 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |

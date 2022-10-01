@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 
 > A pride playlist for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,800 likes - 39 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,843 likes - 39 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 | 20 | [Dress Up and Dance](https://open.spotify.com/track/5hQsvs1r8HB3KddDDQaxxK) | [Chana Rothman](https://open.spotify.com/artist/5rhw2nhZysMtE7HUdoa0aR), [Ali Wadsworth](https://open.spotify.com/artist/4rynw6dg0dqNjziumo2xID), [Mighty Flipside ESQ.](https://open.spotify.com/artist/22aS2NiRp3lfel7ZSs0H9s) | [Rainbow Train](https://open.spotify.com/album/7zUf2MFerkp7fLElIbI9nk) | 2:48 |
 | 21 | [Play It Loud](https://open.spotify.com/track/0PrCmeLBJHrXCvhV7HJbzu) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Really Loud Music](https://open.spotify.com/album/08WKH7AdhNWNER1Y4BGxjm) | 0:53 |
 | 22 | [Snowpeople](https://open.spotify.com/track/1qFWXT8iWQIuDOAUXoqZV4) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Winterland](https://open.spotify.com/album/4T6NbIjlMpe8Rpc5Lx8DKt) | 2:37 |
-| 23 | [Boy Or Girl Colour](https://open.spotify.com/track/2P65xZN3MzNxxMBoKJEIye) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Helpful Songs For Little People](https://open.spotify.com/album/3tiVuLLVWaSi6p9Z0uvAaP) | 3:03 |
+| 23 | [Boy or Girl Colour](https://open.spotify.com/track/4t0917UONxsUhyiQvjIeEE) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Helpful Songs for Little People](https://open.spotify.com/album/7jOW68jFVaqKI68MI0esza) | 3:03 |
 | 24 | [Something Entirely New \(feat\. Erica Luttrell & Charlyne Yi\)](https://open.spotify.com/track/0Mg0iwFNJX5GLkArZfIX9s) | [Steven Universe](https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA), [Charlyne Yi](https://open.spotify.com/artist/4g7sAbyq2q5Eou0inGABvw), [Erica Luttrell](https://open.spotify.com/artist/1HRq8YjrdR6yJfQu5DEGjD) | [Steven Universe, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5MAx9iJP58ErRpSUdrV1Uk) | 1:47 |
 | 25 | [Beautiful](https://open.spotify.com/track/40fvlRGSBSEYWTgCpRyVqf) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Keeps Gettin' Better: A Decade of Hits](https://open.spotify.com/album/2019iQx5MmA6byqYqdK7zS) | 4:01 |
 | 26 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 | 28 | [I Am Enough](https://open.spotify.com/track/58H6FaeUnqdSFAWjdbm21O) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [The Singing Bois](https://open.spotify.com/artist/6HPtUoIvyOH0ph6NlaRcDD) | [The Love](https://open.spotify.com/album/1KXBAJuLCtlby4JpDcvcTt) | 3:46 |
 | 29 | [Keep It Up](https://open.spotify.com/track/2a4OFdKFvRGVcbdsDnYmj6) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Sugar Free Allstars](https://open.spotify.com/artist/7BSCguaUAUrg4jftlh6RoQ) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 3:30 |
 | 30 | [Gender Blender](https://open.spotify.com/track/1DRMjuHzCl9NOG2ItmLz45) | [Chana Rothman](https://open.spotify.com/artist/5rhw2nhZysMtE7HUdoa0aR), [Eliyashu ben Mosche](https://open.spotify.com/artist/1IcKy0f0cRqptDGnxBmBbE), [Ella Berson](https://open.spotify.com/artist/2GTfNYCIhOcgA3mbwLEYhC), [Hadassah Weinmarten](https://open.spotify.com/artist/2ApuGy1WgwNiirlBGUKLw4), [Hannah Shaw](https://open.spotify.com/artist/5zw3xZrA4Q5NjM0AwYOBW1) | [Rainbow Train](https://open.spotify.com/album/7zUf2MFerkp7fLElIbI9nk) | 5:16 |
-| 31 | [Some Girls Have Short Hair](https://open.spotify.com/track/1n9inNjAfarRPFsSw3ErCm) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6fAkgy3mHYCHSIuLqacj82) | 1:16 |
+| 31 | [Some Girls Have Short Hair](https://open.spotify.com/track/0uaEO7D5FuGAOj8GeWGLFp) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6JCPj80o5nfJcHvn4wdvyw) | 1:16 |
 | 32 | [The Ally Song](https://open.spotify.com/track/6ZvGKwMWeLsIXORjyd4oTy) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Frogs And Birds](https://open.spotify.com/album/1YUT7gYPCXKS5RWsII7X4o) | 1:53 |
 | 33 | [Love is Love \(Rainbow Family\)](https://open.spotify.com/track/7cdbC2vaPV8zNuxcY1pTPj) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Love is Love \(Rainbow Family\)](https://open.spotify.com/album/5iFErWG7QTWmwqtzoeW54H) | 2:24 |
 | 34 | [Rainbow Baby](https://open.spotify.com/track/58Fl2TnFkVvrOGT6Tf70TV) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [Rainbow Baby](https://open.spotify.com/album/59ezSZpBp2d6BJv9mjBdMo) | 3:41 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 | 38 | [And Mom and Kid](https://open.spotify.com/track/4WImM9b0Fk1SMhwyeRtKh7) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Why?](https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK) | 1:22 |
 | 39 | [Go Shine \(Song for Elm\)](https://open.spotify.com/track/4gZcqkqfdKDA6UBn93B7bk) | [Alastair Moock](https://open.spotify.com/artist/5NwLASbIjDj6FUgaEa1NMz), [Heather Mae](https://open.spotify.com/artist/3wdm6k2HSsI6uWkYPuKj7V) | [Be a Pain \- An Album for Young \(and Old\) Leaders](https://open.spotify.com/album/5nDOikFiHs1P1jJUv5YgTk) | 2:58 |
 
-Snapshot ID: `MTY1NTI5NTg5MywwMDAwMDAwYjAwMDAwMTgxNjc1MmRmZTcwMDAwMDE4MTY3NTJiYzBm`
+Snapshot ID: `MTY1NTI5NTg5MywwMDAwMDAwMGZlNjU4NDhjYTBlNGNmODIxYTBkMGNlNWY4Y2M4MDhj`

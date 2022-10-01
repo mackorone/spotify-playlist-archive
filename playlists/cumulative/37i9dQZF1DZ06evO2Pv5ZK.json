@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 331426,
       "name": "12 O'Clock",
       "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 279373,
       "name": "Blade Runner - End Titles",
       "url": "https://open.spotify.com/track/1u1ATklwZesAvq1whHsI8Z"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": "2022-09-07",
       "duration_ms": 152906,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3"
@@ -217,10 +217,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 331360,
       "name": "Chung Kuo",
       "url": "https://open.spotify.com/track/0y8yOha94wVIUhnVyc2CXX"
+    },
+    {
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 136306,
+      "name": "City of Isabel",
+      "url": "https://open.spotify.com/track/02nEzf5yn6sqI6PxM6QZ8N"
     },
     {
       "album": {
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 601506,
       "name": "Cr\u00e9ation du monde - Remastered",
       "url": "https://open.spotify.com/track/4sGMiZL7PhTJgcg2pJwXP4"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 256266,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/2hJ1ZvyDUomcJZPB9deUq9"
@@ -311,7 +329,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 163333,
       "name": "Dreams of Surf",
       "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-26",
       "duration_ms": 246306,
       "name": "Eric's Theme",
       "url": "https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT"
@@ -401,7 +419,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-10-01",
       "duration_ms": 118893,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/0X6SplektlOd1CwtwuOOaM"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-08-13",
       "duration_ms": 320373,
       "name": "Five Circles",
       "url": "https://open.spotify.com/track/0RimU0tZwtruAOSAhoYyRX"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 401933,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy"
@@ -660,6 +678,24 @@
     },
     {
       "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305026,
+      "name": "Memories of Green",
+      "url": "https://open.spotify.com/track/0rHCW5eZ35QmQNVYyozAnZ"
+    },
+    {
+      "album": {
         "name": "Direct",
         "url": "https://open.spotify.com/album/1Ia0VRhvOAowBCxm3ncUuZ"
       },
@@ -696,6 +732,24 @@
     },
     {
       "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 426333,
+      "name": "Moxica and the Horse",
+      "url": "https://open.spotify.com/track/14LPasSTYy0QbrHIfEYeDQ"
+    },
+    {
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -725,7 +779,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 81533,
       "name": "Opening",
       "url": "https://open.spotify.com/track/3BUoh4ToIQXNDYWNVBAbgx"
@@ -851,7 +905,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-09-29",
       "duration_ms": 479000,
       "name": "Siren's Whispering",
       "url": "https://open.spotify.com/track/24auEWHk5IjqjrWdxGKbTi"
@@ -873,7 +927,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 304840,
       "name": "So Long Ago, So Clear",
       "url": "https://open.spotify.com/track/7ggqsWse5ByOm5ps5kAP2j"
@@ -1017,7 +1071,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 312826,
       "name": "Through the Night Mist",
       "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
@@ -1096,6 +1150,24 @@
     },
     {
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 421293,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/2pgjiHXeXRTqXxabugZoLD"
+    },
+    {
+      "album": {
         "name": "1492: Conquest of Paradise",
         "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
       },
@@ -1107,7 +1179,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 173240,
       "name": "West Across the Ocean Sea",
       "url": "https://open.spotify.com/track/574kl9OU5dmKGKYhDFXj2P"
@@ -1125,7 +1197,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": "2022-08-19",
       "duration_ms": 95666,
       "name": "Young Alexander",
       "url": "https://open.spotify.com/track/4VoqLzKRCYB7Sd1ZOlpNzK"

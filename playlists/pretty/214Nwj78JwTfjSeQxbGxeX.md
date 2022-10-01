@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/214Nwj78JwTfjSeQxbGxeX.md) - [plain]
 
 > A different option for your New Year's Eve party\. Sweet pop, rock, and singer/songwriter tunes about this special holiday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457 likes - 28 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 458 likes - 28 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

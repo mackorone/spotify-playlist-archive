@@ -62,6 +62,42 @@
     },
     {
       "album": {
+        "name": "Las Retro Chingonas",
+        "url": "https://open.spotify.com/album/4lYOAQavqEc198FSGiGbQe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 141493,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/3RIBgjIFE4UXMGTASfEk1s"
+    },
+    {
+      "album": {
+        "name": "Las M\u00e1s Pegadas",
+        "url": "https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 141493,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q"
+    },
+    {
+      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -163,10 +199,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-30",
       "duration_ms": 193493,
       "name": "Con Cartitas",
       "url": "https://open.spotify.com/track/3kk0EWEnEwkqfhUb3ivUBx"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos De (Vol. 2)",
+        "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160040,
+      "name": "Dados Cargados",
+      "url": "https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn"
     },
     {
       "album": {
@@ -181,7 +235,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 163013,
       "name": "Dados Cargados",
       "url": "https://open.spotify.com/track/2V9lolR3rDL9wf1961MDMt"
@@ -235,7 +289,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 199520,
       "name": "El Arbol De La Horca",
       "url": "https://open.spotify.com/track/6Unaw76VUQCRt5xSEDGqKQ"
@@ -325,7 +379,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-22",
       "duration_ms": 147453,
       "name": "El Mandil\u00f3n",
       "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
@@ -379,7 +433,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-09-30",
       "duration_ms": 189613,
       "name": "El Quemador",
       "url": "https://open.spotify.com/track/2O2iXnudGx7AjWnwxotGIS"
@@ -469,7 +523,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-09-29",
       "duration_ms": 142160,
       "name": "El Taxista Enamorado",
       "url": "https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ"
@@ -494,6 +548,24 @@
     },
     {
       "album": {
+        "name": "Nuestros Grandes 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176280,
+      "name": "El Vengador de Federales",
+      "url": "https://open.spotify.com/track/6Kh562k6QThvyqq6ao1zd3"
+    },
+    {
+      "album": {
         "name": "20 Exitos de Coleccion",
         "url": "https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX"
       },
@@ -505,7 +577,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 176893,
       "name": "El Vengador de los Federales",
       "url": "https://open.spotify.com/track/2qolfM6jIjHcQ19oJTS1kB"
@@ -545,6 +617,24 @@
       "duration_ms": 165480,
       "name": "Flor De Capomo",
       "url": "https://open.spotify.com/track/656ZHcf9DiKQMvzuVPIZoi"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/7yPKtlNWxPoPdB0MgI2YLh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128666,
+      "name": "Flor De Las Flores",
+      "url": "https://open.spotify.com/track/41ztdXuWnrY8B9Z5tKPzTt"
     },
     {
       "album": {
@@ -653,6 +743,24 @@
       "duration_ms": 166000,
       "name": "Juanita y Miguel",
       "url": "https://open.spotify.com/track/1hBvx69jOTLHYPPmKMZ55O"
+    },
+    {
+      "album": {
+        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
+        "url": "https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-06",
+      "duration_ms": 177000,
+      "name": "La Amapola",
+      "url": "https://open.spotify.com/track/1urkLh3lci1vMfMJOUc2y2"
     },
     {
       "album": {
@@ -775,7 +883,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 171626,
       "name": "La Yerbabuena",
       "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
@@ -811,7 +919,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-29",
       "duration_ms": 160813,
       "name": "Los Dos Contrabandos",
       "url": "https://open.spotify.com/track/5l4K1ifEJoN9zBYhlw1HkX"
@@ -872,6 +980,24 @@
     },
     {
       "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "Paloma Piquito de Oro",
+      "url": "https://open.spotify.com/track/0BDlZpSr5IJoRm4C6R9dh1"
+    },
+    {
+      "album": {
         "name": "Corridos Con",
         "url": "https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR"
       },
@@ -919,7 +1045,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 146280,
       "name": "Que Tristeza Me Acompa\u00f1a",
       "url": "https://open.spotify.com/track/12lb8hUUEOihoN94n01UHw"
@@ -937,7 +1063,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 181213,
       "name": "Santos Cant\u00fa",
       "url": "https://open.spotify.com/track/44y0RPcKAsJ9lTs5EJgMbA"

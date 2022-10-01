@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,146 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,624 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 11 | [Champagne Corolla](https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 3:35 |
 | 12 | [Spanish On The Beach](https://open.spotify.com/track/3GTqzTpAxsqbXiiL3OBZQu) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wilds](https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG) | 2:34 |
 | 13 | [Goin' Down To Louisiana](https://open.spotify.com/track/4rGe67WaPWFUZ083lKPzIC) | [Cedric Watson](https://open.spotify.com/artist/2a8PsBPX3LvG671uuQGDpq), [Corey Ledet](https://open.spotify.com/artist/5fOBJYdlwH0bXvmguPxrkY) | [Goin' Down to Louisiana](https://open.spotify.com/album/5BDHzun5HpuyGe3xNdfnRp) | 3:19 |
-| 14 | [Honey I Love You \(feat\. Keb' Mo'\)](https://open.spotify.com/track/13HyzdrX8NYUo0l3WVfxon) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm) | [Dustbowl Revival](https://open.spotify.com/album/12lr2fucUT2rLSzHHQeBPE) | 3:33 |
+| 14 | [Honey I Love You](https://open.spotify.com/track/7cvxb6UndQ9M2AMEWxLGrJ) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Dustbowl Revival](https://open.spotify.com/album/54EEdEGFyKLIu8YvdNyfuY) | 3:33 |
 | 15 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 |
 | 16 | [See A Little Light](https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB) | [Bob Mould](https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A) | [Workbook](https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15) | 3:32 |
 | 17 | [Zydeco Et La Encore](https://open.spotify.com/track/3WZINLXF1LbAIKuqs0pgQq) | [Bruce "Sunpie" Barnes](https://open.spotify.com/artist/3rHHoShzRwkhqqIt0aBSgA), [Michael Doucet](https://open.spotify.com/artist/52j11xMvBi0yiQB1uPdbRO) | [A New Orleans Visit: Before Katrina](https://open.spotify.com/album/18LtwzCur87jGH0CeZu43A) | 4:24 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 35 | [I Don't Live In A Dream \- Live](https://open.spotify.com/track/3ho5QaAxckBv9GluIYqLMT) | [Jackie Greene](https://open.spotify.com/artist/5idHaEmJbiGTZ2MBmhmGMV), [Shannon Sanders](https://open.spotify.com/artist/44DNDJwAygYFhD3Pd7jOuI) | [I Don't Live In A Dream \(Live\)](https://open.spotify.com/album/295AdcebONhviN3QaEu65K) | 5:45 |
 | 36 | [Sorta Surviving](https://open.spotify.com/track/6oVPXuvV9mfZgIhNYWvcEn) | [Tim Bluhm](https://open.spotify.com/artist/7DvcUPMTX0XfGlO0RexUh0) | [Sorta Surviving](https://open.spotify.com/album/7yCItyB8CBd08cMTiHk0a4) | 3:14 |
 | 37 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 |
-| 38 | [Sundowner \- 4\-Track Demo](https://open.spotify.com/track/3HIh24ThOen5MtubxA9kQO) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner \(4\-Track Demo\)](https://open.spotify.com/album/7LAm8foZ5Kk6KIeVBy2J7f) | 4:22 |
+| 38 | [Sundowner \- 4\-Track Demo](https://open.spotify.com/track/1JGW7bagfkhvli39OuDXuV) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [A Night At The Little Los Angeles \(Sundowner 4\-Track Demos\)](https://open.spotify.com/album/4EINljdbkgBlqatl4h9OeW) | 4:22 |
 | 39 | [Drunken Angel](https://open.spotify.com/track/0Vk5X3h5v1NDQhGzkRrt8m) | [Alynda Segarra](https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow) | [Drunken Angel](https://open.spotify.com/album/2yEUM0Up8mgePFq4MN0bX7) | 3:30 |
 | 40 | [Cineramascope](https://open.spotify.com/track/1XqQqv32Q9eUerJkpPNJNl) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Corey Henry](https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Now You See Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24kyacpyGz1gfbIoTgLl9B) | 3:14 |
 | 41 | [Hypotheticals](https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 59 | [I See It Now](https://open.spotify.com/track/23I2duciX9JdJANkYyrGm6) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/4VL4eRCCfus08MjUiYFB7x) | 2:53 |
 | 60 | [The Long Goodbye](https://open.spotify.com/track/39frvhj8AzWzM5UfduyeDH) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/6lGi8cCtoERQXSpWnb0Hmr) | 10:02 |
 
-Snapshot ID: `MTYzMjkzNDIwNSwwMDAwMDAwNDAwMDAwMTdjMzI3Njk4ZmIwMDAwMDE3NGQ1NDczN2U5`
+Snapshot ID: `MTYzMjkzNDIwNSwwMDAwMDAwMDUyMzgwNjUyOTBjYWNjNzY5ZmYwMzY1Y2VjZjM5MTE1`

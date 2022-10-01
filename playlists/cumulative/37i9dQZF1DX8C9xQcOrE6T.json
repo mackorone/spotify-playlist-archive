@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "All of your favorite Disney hits, including songs from Turning Red. Stream Disney and Pixar's Turning Red on Disney+.",
+  "description": "All of your favorite Disney hits, including songs from Encanto. Stream Encanto on Disney+.",
   "name": "Disney Hits",
   "published_playlist_ids": [
     "636MTeCEICQctVDwXtEgUe"
@@ -25,16 +25,16 @@
           "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
         },
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        },
-        {
           "name": "Topher Ngo",
           "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
         },
         {
           "name": "Grayson Villanueva",
           "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
         }
       ],
       "date_added": "2022-04-01",
@@ -219,10 +219,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144426,
       "name": "Almost There - From \"The Princess and the Frog\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/2dlxN435ZY9ruxGYND2Hq0"
+    },
+    {
+      "album": {
+        "name": "The Princess and the Frog: Tiana and Her Princess Friends",
+        "url": "https://open.spotify.com/album/5mZgyfa7rkogNoxxqHpbOg"
+      },
+      "artists": [
+        {
+          "name": "Anika Noni Rose",
+          "url": "https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144826,
+      "name": "Almost There - From \"The Princess and the Frog\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/3aJgAgTI9srxcTuyzVDtkm"
     },
     {
       "album": {
@@ -248,6 +266,36 @@
     },
     {
       "album": {
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
+      },
+      "artists": [
+        {
+          "name": "Angela Lansbury",
+          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
+        },
+        {
+          "name": "Jerry Orbach",
+          "url": "https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO"
+        },
+        {
+          "name": "Chorus - Beauty And the Beast",
+          "url": "https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224920,
+      "name": "Be Our Guest",
+      "url": "https://open.spotify.com/track/2F8LPJgSVTJxukoParTyBD"
+    },
+    {
+      "album": {
         "name": "Beauty And The Beast (Soundtrack)",
         "url": "https://open.spotify.com/album/6Hzv2X1vxzbyGUv5gmaYOS"
       },
@@ -267,10 +315,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224733,
       "name": "Be Our Guest - From \"Beauty and the Beast\"/Soundtrack",
       "url": "https://open.spotify.com/track/7rmClvTK7B8qO8cRGr3btT"
+    },
+    {
+      "album": {
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
+      },
+      "artists": [
+        {
+          "name": "Angela Lansbury",
+          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165186,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ"
     },
     {
       "album": {
@@ -285,7 +355,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166306,
       "name": "Beauty and the Beast - From \"Beauty and the Beast\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/3jfxeTcEfcH8wNMnGNh7U1"
@@ -395,10 +465,40 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166080,
       "name": "Chim Chim Cher-ee - From \"Mary Poppins\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2hKYhft1VITPST4iiAHLGC"
+    },
+    {
+      "album": {
+        "name": "Saving Mr. Banks (Original Motion Picture Soundtrack [Deluxe Edition])",
+        "url": "https://open.spotify.com/album/1cuE3waPR1CDFUpYd6fX12"
+      },
+      "artists": [
+        {
+          "name": "Dick Van Dyke",
+          "url": "https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6"
+        },
+        {
+          "name": "Julie Andrews",
+          "url": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
+        },
+        {
+          "name": "Karen Dotrice",
+          "url": "https://open.spotify.com/artist/2vHx2wi7daCLxHL0jKOZiz"
+        },
+        {
+          "name": "Matthew Garber",
+          "url": "https://open.spotify.com/artist/3YDM76Dml4Pyo8H7JSfafZ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166240,
+      "name": "Chim Chim Cher-ee - From \"Mary Poppins\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2Bl4ZuWiMoffCXzj11s0oR"
     },
     {
       "album": {
@@ -460,6 +560,62 @@
     },
     {
       "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Ariel Martin",
+          "url": "https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165604,
+      "name": "Come on Out",
+      "url": "https://open.spotify.com/track/2eCAySGeTsPGXnfFb60Kgq"
+    },
+    {
+      "album": {
+        "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
+      },
+      "artists": [
+        {
+          "name": "Jenifer Lewis",
+          "url": "https://open.spotify.com/artist/6e28WiPlKSu1ukkhHCZEnF"
+        },
+        {
+          "name": "The Pinnacle Gospel Choir",
+          "url": "https://open.spotify.com/artist/4R1dpQ2VCZsEutiXZKeIzk"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "Dig a Little Deeper",
+      "url": "https://open.spotify.com/track/7kh64k3P9Fk4EsA6vOdwmj"
+    },
+    {
+      "album": {
         "name": "The Princess and the Frog",
         "url": "https://open.spotify.com/album/6zgvBxOmfWxrQi4Jxxki0P"
       },
@@ -475,7 +631,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167933,
       "name": "Dig a Little Deeper - From \"The Princess and the Frog\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/6DE96OoBcJiJXkEJKNksR9"
@@ -613,10 +769,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194160,
       "name": "Go the Distance",
       "url": "https://open.spotify.com/track/2rm72l5pjfby1cWvPMUojI"
+    },
+    {
+      "album": {
+        "name": "Hercules (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J"
+      },
+      "artists": [
+        {
+          "name": "Roger Bart",
+          "url": "https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "Go the Distance",
+      "url": "https://open.spotify.com/track/0D1OY0M5A0qD5HGBvFmFid"
     },
     {
       "album": {
@@ -717,10 +895,44 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183680,
       "name": "Honor To Us All",
       "url": "https://open.spotify.com/track/3dn0WbPmRrKV9t6LlmgDLg"
+    },
+    {
+      "album": {
+        "name": "Mulan (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
+      },
+      "artists": [
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        },
+        {
+          "name": "Beth Fowler",
+          "url": "https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV"
+        },
+        {
+          "name": "Marni Nixon",
+          "url": "https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ"
+        },
+        {
+          "name": "Chorus - Mulan",
+          "url": "https://open.spotify.com/artist/4KpdqBDU2C5gB3vhdojuqA"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Honor To Us All",
+      "url": "https://open.spotify.com/track/78EMhiyAcalWWtnpk20Eoo"
     },
     {
       "album": {
@@ -1037,10 +1249,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160586,
       "name": "Into The Open Air - From \"Brave\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/1NjrOiC3KlEovbhGkyRLMT"
+    },
+    {
+      "album": {
+        "name": "Disney Summer Songs",
+        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
+      },
+      "artists": [
+        {
+          "name": "Julie Fowlis",
+          "url": "https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160586,
+      "name": "Into The Open Air - From \"Brave\"/Soundtrack",
+      "url": "https://open.spotify.com/track/0buWWJU9TGVJUWCkEsHKos"
     },
     {
       "album": {
@@ -1321,16 +1551,16 @@
           "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
         },
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        },
-        {
           "name": "Topher Ngo",
           "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
         },
         {
           "name": "Grayson Villanueva",
           "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
         }
       ],
       "date_added": "2022-04-01",
@@ -1683,10 +1913,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180533,
       "name": "Strangers Like Me",
       "url": "https://open.spotify.com/track/3E99KpWAcYEnj64e86y6u9"
+    },
+    {
+      "album": {
+        "name": "Disney Summer Songs",
+        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "Strangers Like Me - From \"Tarzan\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/5Zb6JxSEcjsUNrINcAyAYJ"
     },
     {
       "album": {
@@ -1709,10 +1957,36 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 121440,
       "name": "Supercalifragilisticexpialidocious - From \"Mary Poppins\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/5mXBaDm21IbxvWSl1AHCpq"
+    },
+    {
+      "album": {
+        "name": "Saving Mr. Banks (Original Motion Picture Soundtrack [Deluxe Edition])",
+        "url": "https://open.spotify.com/album/1cuE3waPR1CDFUpYd6fX12"
+      },
+      "artists": [
+        {
+          "name": "Julie Andrews",
+          "url": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
+        },
+        {
+          "name": "Dick Van Dyke",
+          "url": "https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6"
+        },
+        {
+          "name": "The Pearlie Chorus",
+          "url": "https://open.spotify.com/artist/0sT01j0t90pOjUgS61doJw"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122026,
+      "name": "Supercalifragilisticexpialidocious - From \"Mary Poppins\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/5cvzqk8wsmLA9P7LrZCRb2"
     },
     {
       "album": {
@@ -1827,10 +2101,48 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145639,
       "name": "The Gospel Truth I / Main Titles - Hercules",
       "url": "https://open.spotify.com/track/0I8mZRtlFGOqZayJbEAdxL"
+    },
+    {
+      "album": {
+        "name": "Hercules (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J"
+      },
+      "artists": [
+        {
+          "name": "Cheryl Freeman",
+          "url": "https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd"
+        },
+        {
+          "name": "LaChanze",
+          "url": "https://open.spotify.com/artist/3zT7dcLl9wbSXsVh3VQx3A"
+        },
+        {
+          "name": "Vaneese Thomas",
+          "url": "https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK"
+        },
+        {
+          "name": "Lillias White",
+          "url": "https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq"
+        },
+        {
+          "name": "Roz Ryan",
+          "url": "https://open.spotify.com/artist/66mvEj9XSF89tUj87Y3HDu"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145640,
+      "name": "The Gospel Truth I / Main Titles - Hercules",
+      "url": "https://open.spotify.com/track/6uW03WHG3qv2FzxPIW6SUP"
     },
     {
       "album": {
@@ -1905,6 +2217,24 @@
       "duration_ms": 50765,
       "name": "The World Es Mi Familia",
       "url": "https://open.spotify.com/track/7FOS31xq9jv4cXWtp6Jnzw"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
     },
     {
       "album": {
@@ -2005,16 +2335,16 @@
           "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
         },
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        },
-        {
           "name": "Topher Ngo",
           "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
         },
         {
           "name": "Grayson Villanueva",
           "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
         }
       ],
       "date_added": "2022-04-01",
@@ -2185,10 +2515,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185440,
       "name": "What's This?",
       "url": "https://open.spotify.com/track/2Rddbad3XaTds95LY8iidH"
+    },
+    {
+      "album": {
+        "name": "Disney's Greatest Vol. 3",
+        "url": "https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186840,
+      "name": "What's This? - From \u201cThe Nightmare Before Christmas\u201d / Soundtrack Version",
+      "url": "https://open.spotify.com/track/0U5KyiC7CJjTGlB7RhPI3x"
     },
     {
       "album": {
@@ -2269,10 +2617,40 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142093,
       "name": "When We're Human - From \"The Princess and the Frog\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0II9l1sI3Mo9XKaszKfizl"
+    },
+    {
+      "album": {
+        "name": "Disney Summer Songs",
+        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
+      },
+      "artists": [
+        {
+          "name": "Michael-Leon Wooley",
+          "url": "https://open.spotify.com/artist/6W6iYN5Sz5DbA8CgLWBeoU"
+        },
+        {
+          "name": "Bruno Campos",
+          "url": "https://open.spotify.com/artist/3VaV2rGbTKuqCiluNkToEd"
+        },
+        {
+          "name": "Anika Noni Rose",
+          "url": "https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2"
+        },
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142093,
+      "name": "When We're Human - From \"The Princess and the Frog\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2g2kJZcu1cFTw4aKE7w9Iq"
     },
     {
       "album": {
@@ -2316,6 +2694,28 @@
     },
     {
       "album": {
+        "name": "Pinocchio (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117693,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf"
+    },
+    {
+      "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
       },
@@ -2350,6 +2750,28 @@
     },
     {
       "album": {
+        "name": "High School Musical: The Musical: The Series Season 3 (Episode 2) [From \"High School Musical: The Musical: The Series (Season 3)\"]",
+        "url": "https://open.spotify.com/album/1XlNDgxQd2Tsqu6pK0iNkd"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196619,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop"
+    },
+    {
+      "album": {
         "name": "Tarzan Original Soundtrack",
         "url": "https://open.spotify.com/album/6fBzYwBKjuO4hmhcGuklJM"
       },
@@ -2361,10 +2783,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258146,
       "name": "You'll Be In My Heart",
       "url": "https://open.spotify.com/track/6LBfozDVA7crIeuaPAVVlE"
+    },
+    {
+      "album": {
+        "name": "Disney Summer Songs",
+        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258133,
+      "name": "You'll Be In My Heart - From \"Tarzan\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1fTDYdx5zYfWJSX0JlKO8o"
     },
     {
       "album": {
@@ -2415,10 +2855,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212111,
       "name": "Zero",
       "url": "https://open.spotify.com/track/4Bi2qsF5AWin93USPh5fQK"
+    },
+    {
+      "album": {
+        "name": "Origins (Deluxe)",
+        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210933,
+      "name": "Zero - From the Original Motion Picture \"Ralph Breaks The Internet\"",
+      "url": "https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi"
     },
     {
       "album": {
@@ -2457,10 +2915,56 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 140573,
       "name": "Zero To Hero",
       "url": "https://open.spotify.com/track/4InER8nvZnn3nt56anVVNO"
+    },
+    {
+      "album": {
+        "name": "Hercules (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J"
+      },
+      "artists": [
+        {
+          "name": "Chorus - Hercules",
+          "url": "https://open.spotify.com/artist/2pLvZNFSNqj5ggB8cPK7ki"
+        },
+        {
+          "name": "Lillias White",
+          "url": "https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq"
+        },
+        {
+          "name": "Cheryl Freeman",
+          "url": "https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd"
+        },
+        {
+          "name": "LaChanze",
+          "url": "https://open.spotify.com/artist/3zT7dcLl9wbSXsVh3VQx3A"
+        },
+        {
+          "name": "Roz Ryan",
+          "url": "https://open.spotify.com/artist/66mvEj9XSF89tUj87Y3HDu"
+        },
+        {
+          "name": "Vaneese Thomas",
+          "url": "https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK"
+        },
+        {
+          "name": "Tawatha Agee",
+          "url": "https://open.spotify.com/artist/26j9y8Rq679tININ1Mt4ZV"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140573,
+      "name": "Zero To Hero",
+      "url": "https://open.spotify.com/track/4zDfgax6Ihb0UWdour1ZEs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T"

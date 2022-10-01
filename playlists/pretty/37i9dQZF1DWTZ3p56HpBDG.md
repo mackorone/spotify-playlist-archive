@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > A Mumzy Stranger takeover highlighting his favorite South Asian tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,357 likes - 27 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,133 likes - 27 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 22 | [Toba Tek Singh](https://open.spotify.com/track/40YF7t5DgNQBXsrul31hdr) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/7bhh6bvHq7hqc2VQFgrwE5) | 3:03 |
 | 23 | [Here](https://open.spotify.com/track/6ggzsFVDrkWpHIAQCyHvQv) | [Zoya](https://open.spotify.com/artist/1pgxAcdxuIlb6Ax2xioK30) | [Here](https://open.spotify.com/album/60A4f8ndrZ2yzrKHxTqI9X) | 2:48 |
 | 24 | [Quattro Season \(feat\. Xavier Omär\)](https://open.spotify.com/track/7ppechbAuEARzWXWiLUhJH) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Denied](https://open.spotify.com/album/1RhKQmiNc2NqRMftCAvnoV) | 3:29 |
-| 25 | [Str8 Outta Mumbai](https://open.spotify.com/track/3pROf3AwBDvr2LaGfpZFnT) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/6Wsai43KQmmKlN29AWlXFr) | 2:42 |
+| 25 | [Str8 Outta Mumbai](https://open.spotify.com/track/0mRtv3pnmPiN2mDMzYzWt2) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 2:42 |
 | 26 | [the road](https://open.spotify.com/track/4bXPup4TDlsOf5YJA4xgoC) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [the road](https://open.spotify.com/album/3zOwc9sjMgxZeMV9AaLVKW) | 3:38 |
 | 27 | [Two Nights](https://open.spotify.com/track/5BeS2mGbdYVfS53Q6bVinG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:06 |
 
-Snapshot ID: `MTY1ODExNjgwMCwwMDAwMDBjNzAwMDAwMTgyMGY3NjdlNzAwMDAwMDE4MjAwZDg1MzUz`
+Snapshot ID: `MTY1ODExNjgwMCwwMDAwMDAwMDNkMTJkZjUzZjdmN2E2OGFiMjM3M2U1NTc0ZGNjZGJj`

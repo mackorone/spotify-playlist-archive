@@ -4,7 +4,7 @@
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-59 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/0WpRCwnHLqwwOEdSsL7BjN)
+60 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/0WpRCwnHLqwwOEdSsL7BjN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Identifying the Different Fantasy Coins](https://open.spotify.com/track/6Y53WoHgjy7RwHh7AXiROE) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Sorting Fantasy & Medieval Coins \| ASMR Cozy Basics](https://open.spotify.com/album/53mRZ0RNRh0pMAkFMrhLV8) | 5:03 | 2021-11-12 |  |
 | [Intense Relaxation Pt.2](https://open.spotify.com/track/68NEZB7mPPWZtNhXoGtZ40) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Intense Relaxation](https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8) | 7:27 | 2021-11-12 |  |
 | [Into Dreams](https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 5:04 | 2021-11-12 |  |
-| [It's Just You and Me](https://open.spotify.com/track/7AmkjYnKthAdWlsisckn75) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Let's Fall Asleep Together](https://open.spotify.com/album/5CRBoC6jLGPsxOpkcxKVRz) | 3:38 | 2021-11-12 |  |
+| [It's Just You and Me](https://open.spotify.com/track/1E15ykxdCHlUENEsqIOe7K) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Let's Fall Asleep Together](https://open.spotify.com/album/4MDMFBvoD63cpWzPhYOWPW) | 3:38 | 2022-07-21 |  |
+| [It's Just You and Me](https://open.spotify.com/track/7AmkjYnKthAdWlsisckn75) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Let's Fall Asleep Together](https://open.spotify.com/album/5CRBoC6jLGPsxOpkcxKVRz) | 3:38 | 2021-11-12 | 2022-07-29 |
 | [KKW Beauty Unboxing, Pt\. 1](https://open.spotify.com/track/69m3nD9Ju1Vo4rXxjfZrfr) | [Chynaunique ASMR](https://open.spotify.com/artist/6Z9u1ESUuHk9m66KVYFZa6) | [KKW Beauty Unboxing](https://open.spotify.com/album/1FwLj8SygHzhFh660eZBn7) | 1:54 | 2021-11-12 |  |
 | [Liquid Bubble Hourglass & Whispering, Pt\. 4](https://open.spotify.com/track/4MoJG4kECK0KoPMPNbnLmL) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [3Dio Ear Touching ASMR \- Liquid Bubble Hourglass](https://open.spotify.com/album/7npzqkuDloJNEyEgxcy6yj) | 4:22 | 2021-11-12 | 2022-07-13 |
 | [Making Your Eyes Heavy](https://open.spotify.com/track/01Zuq3xB12zBwqfbPT55r8) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [Sounds To Help You Sleep in 15 Minutes](https://open.spotify.com/album/7FBQgbJXAqYIQGvrHWsF3j) | 5:02 | 2021-11-12 |  |

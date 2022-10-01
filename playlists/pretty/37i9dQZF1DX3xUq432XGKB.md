@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > The electro revival with Dawn Richard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,705 likes - 37 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,503 likes - 37 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wanted](https://open.spotify.com/track/6DmyAvH1MeAoqWApThDHTM) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Wanted](https://open.spotify.com/album/3dlPrX23qvVuXUBRInIJy8) | 2:58 |
 | 2 | [SLIME](https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SLIME](https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L) | 2:39 |
 | 3 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 |
-| 4 | [Bussifame](https://open.spotify.com/track/3Snsn7nR619p0Ze090QT7K) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Bussifame](https://open.spotify.com/album/5Yg9JXE24N3d58v3HuY1Vl) | 4:33 |
+| 4 | [Bussifame](https://open.spotify.com/track/3bQWyx3JDz53yP2uij16Jj) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Second Line](https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv) | 4:33 |
 | 5 | [Marilyn Monroe](https://open.spotify.com/track/6qXcX5uTDYKCqYuqnf5C7U) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Ison](https://open.spotify.com/album/2yjRCaDVCsAJjcavAPztVY) | 3:28 |
 | 6 | [Ache](https://open.spotify.com/track/0nNh57CedtpSjca7uhbrtg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EP1](https://open.spotify.com/album/44keDDETPLFK48WCykPKit) | 5:00 |
 | 7 | [In the Morning](https://open.spotify.com/track/3pRyeZCIGdaO84RSBj9Bj7) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 4:06 |
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 25 | [A Palé](https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [A Palé](https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx) | 2:23 |
 | 26 | [Do It 4 U](https://open.spotify.com/track/3JlKaNxC03Qt6UX0dxnYqW) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [D∆WN](https://open.spotify.com/artist/5FC4ZICxoYTYQbN1sGFKx1) | [Do It 4 U](https://open.spotify.com/album/4cCnV3LlnQgxuJrP4j7qnG) | 3:40 |
 | 27 | [Lapdance from Asia](https://open.spotify.com/track/70Tn7Qn1LyVCTTd8EyyXGW) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Lapdance from Asia](https://open.spotify.com/album/39FgCD5p3mfqX17D5e5hMe) | 3:28 |
-| 28 | [BITE ME](https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [BITE ME](https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG) | 3:26 |
+| 28 | [BITE ME](https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun) | [Kilo Kish](https://open.spotify.com/artist/0Ib2a1F7sq1OTrYSoVIsIX) | [BITE ME](https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG) | 3:26 |
 | 29 | [NEEDSUMBODY](https://open.spotify.com/track/5BXNZDjPaV7bpbxQJjmeMn) | [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [NEEDSUMBODY](https://open.spotify.com/album/4eu5lI3vWkSoFMOUVynb6Y) | 4:19 |
-| 30 | [Spiders](https://open.spotify.com/track/3c7Fz5gSqqYMc81pv79AGT) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp4](https://open.spotify.com/album/5agYNY4IFgl4yQ3gIGLW65) | 2:31 |
+| 30 | [Spiders](https://open.spotify.com/track/3HUNWEwROQxlC05gWtertM) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Jp4](https://open.spotify.com/album/5t0sp3W275c53WOqxgcmY5) | 2:31 |
 | 31 | [IN IN IN](https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:17 |
 | 32 | [U.A.F.W.M.](https://open.spotify.com/track/7tyfn9k8LGkDFMkT4BeCyf) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [U.A.F.W.M.](https://open.spotify.com/album/6Q068g9ukV72Ffm88FMKYt) | 2:53 |
 | 33 | [Booty 3000](https://open.spotify.com/track/1ou1ijurTcoe8lSB23rZxP) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Free Form Mixtape](https://open.spotify.com/album/0uqRet3v7HR1RcPWAegQt6) | 2:09 |
 | 34 | [unearth me](https://open.spotify.com/track/0Uq8EBEXYFBGcPTKlTtRdT) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE) | 3:25 |
 | 35 | [You, at the End](https://open.spotify.com/track/1LAbP1QlBJ8qVhF3ayRlkl) | [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP) | [The Fifth Season](https://open.spotify.com/album/4y8Vq2D9o7X4tVQOxoAF1q) | 4:12 |
 | 36 | [Whole House](https://open.spotify.com/track/6rbpsdhGF86u7Eu1Ew8iVK) | [Lolawolf](https://open.spotify.com/artist/6ABaV7mB6WIZKgfEEtWCf8) | [Tenderness](https://open.spotify.com/album/67v0qu708WJVT9rxxdZmh1) | 3:02 |
-| 37 | [Pilot \(a lude\)](https://open.spotify.com/track/3K3ArwcC7PvYpfX9IB2gWB) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Pilot \(a lude\)](https://open.spotify.com/album/4W2yQocSXIb85zQEu5dQy1) | 0:57 |
+| 37 | [Pilot \(a lude\)](https://open.spotify.com/track/56aTDizKP5ZmkOtJ6jl6zH) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Second Line](https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv) | 0:57 |
 
-Snapshot ID: `MTYxNTkyNjQxNSwwMDAwMDAwNzAwMDAwMTc4M2NiODRlOWYwMDAwMDE3ODNjYjdhNmRi`
+Snapshot ID: `MTYxNTkyNjQxNSwwMDAwMDAwMDU2ZWE3YzcxMTJiZTQ5MmExNjUyZWRiMWY2YmViYjUx`

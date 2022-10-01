@@ -63,10 +63,32 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251746,
       "name": "Comando X (En Vivo)",
       "url": "https://open.spotify.com/track/2klm6F6NIXGoqVbIkxKJPv"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
+      },
+      "artists": [
+        {
+          "name": "Tito Y Su Torbellino",
+          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251746,
+      "name": "Comando X (En Vivo)",
+      "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
     },
     {
       "album": {
@@ -219,10 +241,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 104480,
       "name": "El Cholo (En Vivo)",
       "url": "https://open.spotify.com/track/3YcAm1OnEH6qALS7cnBifC"
+    },
+    {
+      "album": {
+        "name": "Corridos En Vivo",
+        "url": "https://open.spotify.com/album/14SAq62aSgJcLqDc8iuyyF"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104480,
+      "name": "El Cholo (En Vivo)",
+      "url": "https://open.spotify.com/track/3uf95hOq9NF1FF5r4OBH3c"
     },
     {
       "album": {
@@ -617,8 +657,8 @@
       },
       "artists": [
         {
-          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/5U8FVQFiugMolJ7DEEDOdf"
         },
         {
           "name": "Luis R Conriquez",
@@ -761,10 +801,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208783,
       "name": "La Siembra En El Cerro",
       "url": "https://open.spotify.com/track/1JwfEcCXRBONintEFJZtsG"
+    },
+    {
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208783,
+      "name": "La Siembra En El Cerro",
+      "url": "https://open.spotify.com/track/7BM7AHyidinBMTUqO7oSU0"
     },
     {
       "album": {
@@ -827,7 +885,7 @@
     {
       "album": {
         "name": "Corridos En Vivo",
-        "url": "https://open.spotify.com/album/1xq1fFDrIAYo28TqDhO0lg"
+        "url": "https://open.spotify.com/album/14SAq62aSgJcLqDc8iuyyF"
       },
       "artists": [
         {
@@ -838,6 +896,24 @@
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192906,
+      "name": "Los Ninis (En Vivo)",
+      "url": "https://open.spotify.com/track/535Pqi5MSztvisF6Pw8F9W"
+    },
+    {
+      "album": {
+        "name": "Corridos En Vivo",
+        "url": "https://open.spotify.com/album/1xq1fFDrIAYo28TqDhO0lg"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 192906,
       "name": "Los Ninis (En Vivo)",
       "url": "https://open.spotify.com/track/5LzGYBYB0DCQZIwGEpwgx8"

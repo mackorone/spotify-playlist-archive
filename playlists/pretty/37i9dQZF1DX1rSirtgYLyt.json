@@ -1,15 +1,31 @@
 {
   "description": "The best cover versions from the world of Blues. Taj Mahal on cover. ",
-  "num_followers": 2148,
+  "num_followers": 8095,
   "original_name": "Blues Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5MTAyOSwwMDAwMDAwNDAwMDAwMTgxZGUzZTNhYWEwMDAwMDE4MTk2Mzc4ZjAy",
+  "snapshot_id": "MTY2MzAwMDY3MSwwMDAwMDAwMDM3ZWQyOGQyODA3YTcwY2ZlYzg5YTcwYTg1N2RjMzE2",
   "tracks": [
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
+      "album": {
+        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
+        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "Nobody Knows You When You're Down And Out",
+      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
+    },
+    {
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Mississippi Son",
         "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/35RfqVHfnWeGYXC9RH9q6Y"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "River Of Time",
         "url": "https://open.spotify.com/album/6FwFt4jIkHCRg09cqOQhXU"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/3ThRt0CKd9Fu3d4SiSYf69"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Keepin' Outta Trouble: A Tribute To Bukka White",
         "url": "https://open.spotify.com/album/7IVijDUdKmwy8kdvHYLhMA"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/5xscuYoBceOfi1y2HfpPZd"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "All Blues's Up: Songs of Led Zeppelin",
         "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/6J0CecH7Bp1Do60SXqWIxv"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "All Blues'd Up: Songs of the Rolling Stones",
         "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/0AZFM3GlyErGyoyoK5zxQP"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Messing With The Blues",
         "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/7hTT6Wfwni319nUkp5fmO7"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Bad Mouthin'",
         "url": "https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/5GfniMxaYSGBCPrK71SL0Y"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
@@ -145,7 +161,23 @@
       "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
+      "album": {
+        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
+        "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "duration_ms": 322760,
+      "name": "Herbert Harper's Free Press News",
+      "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
+    },
+    {
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Coda (Deluxe Edition)",
         "url": "https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd"
@@ -161,7 +193,7 @@
       "url": "https://open.spotify.com/track/3dCarMp6T3GsKCspJgeD0a"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Can't Quit The Blues",
         "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
@@ -181,7 +213,7 @@
       "url": "https://open.spotify.com/track/22W96oGvTk4kvL9oHnIxok"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Cover To Cover",
         "url": "https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5"
@@ -197,10 +229,10 @@
       "url": "https://open.spotify.com/track/6VFZdBFUTLciOus17vmBWI"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W"
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
       "artists": [
         {
@@ -208,12 +240,12 @@
           "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
         }
       ],
-      "duration_ms": 313800,
+      "duration_ms": 315706,
       "name": "Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3XEiDurjDQL0WF7SwqR4qt"
+      "url": "https://open.spotify.com/track/0iRXdt6ZP8hFnzdUxymSBO"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
@@ -229,7 +261,7 @@
       "url": "https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Complete Them (1964-1967) (feat. Van Morrison)",
         "url": "https://open.spotify.com/album/0I5bDXICWz4idoFkxv0W4Z"
@@ -249,7 +281,7 @@
       "url": "https://open.spotify.com/track/5WUgOOaTk00PnksDekcgcg"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
@@ -265,7 +297,7 @@
       "url": "https://open.spotify.com/track/03By6gD02qhtvIQiK8KidK"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Blues For Greeny",
         "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
@@ -281,23 +313,23 @@
       "url": "https://open.spotify.com/track/6Xw030pHwq8vsXWj4WisF6"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur"
+        "name": "The Legendary Christine Perfect Album",
+        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
       },
       "artists": [
         {
-          "name": "Chicken Shack",
-          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
         }
       ],
-      "duration_ms": 193920,
+      "duration_ms": 197200,
       "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/5K4C4We3nhtTYCyPEUae1I"
+      "url": "https://open.spotify.com/track/5i1T44coT8wyZpCMd4F4O8"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Piece By Piece",
         "url": "https://open.spotify.com/album/39LGwjgf2oV1BlCPsuLp4S"
@@ -313,7 +345,7 @@
       "url": "https://open.spotify.com/track/50y2NVBilJvswKuQn5qe5x"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "All Blues's Up: Songs of Led Zeppelin",
         "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Hot Tuna",
         "url": "https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/3YqtzrRTFoEUWdFXxmFHJP"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Other People's Stuff",
         "url": "https://open.spotify.com/album/3magaLME88Nwqz6ODcKJG9"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/3igI8O766elxoGpdpzbiSs"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "The 1971 Fillmore East Recordings",
         "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
@@ -405,10 +437,10 @@
       "url": "https://open.spotify.com/track/5ah6Etv38v3ZsE0iyZMdTq"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
-        "name": "Old Sock (Track By Track)",
-        "url": "https://open.spotify.com/album/0BeaxNPhOKKwwSBF5nMT1J"
+        "name": "Old Sock",
+        "url": "https://open.spotify.com/album/4P3By1D3VxXMbbNZJI0a8v"
       },
       "artists": [
         {
@@ -417,11 +449,11 @@
         }
       ],
       "duration_ms": 354760,
-      "name": "Still Got The Blues",
-      "url": "https://open.spotify.com/track/7nMl2aiwjNz4TIFoAkOrtG"
+      "name": "Still Got the Blues",
+      "url": "https://open.spotify.com/track/4foKEzs442JODnkwNRro1R"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Mixtape Volume 1",
         "url": "https://open.spotify.com/album/2EHVKbkVpBo5InQALrV66h"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/3gRmX5TE7k74k7yDXzvmoR"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Unplugged At Caffe Calabria",
         "url": "https://open.spotify.com/album/2WzdzAGB2md2dBKPbpC1oK"
@@ -469,10 +501,10 @@
       "url": "https://open.spotify.com/track/3psdUK3ZLT8VLl6ZdCyfUc"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
-        "name": "The Cream Of Clapton",
-        "url": "https://open.spotify.com/album/6uTteowoZyrRDJ9GHITrEp"
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
       },
       "artists": [
         {
@@ -480,12 +512,12 @@
           "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 253266,
+      "duration_ms": 258466,
       "name": "Crossroads - Live",
-      "url": "https://open.spotify.com/track/2ETejAvEOWY7vUk6OSCOTx"
+      "url": "https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Blues From The Heart Live",
         "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
@@ -521,10 +553,10 @@
       "url": "https://open.spotify.com/track/5D0ZRPvZOCbR520eCZ5mCs"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Blue Country Heart",
-        "url": "https://open.spotify.com/album/2bj1nmObmKUBAYmznB3crd"
+        "url": "https://open.spotify.com/album/4p6mFvVULKm6iU8BXksH6r"
       },
       "artists": [
         {
@@ -534,10 +566,10 @@
       ],
       "duration_ms": 183840,
       "name": "Tom Cat Blues",
-      "url": "https://open.spotify.com/track/3XPY2HNMUsCPXOGKWXcPQn"
+      "url": "https://open.spotify.com/track/69LGgafa9setHOHVyPQyJK"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Cover My Blues",
         "url": "https://open.spotify.com/album/417wJrH380kNJ1SBJwAgtm"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/2jFIiF5GpgS5PL8y7rFurn"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "All Time Favorites: Lou Ann Barton",
         "url": "https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ"
@@ -569,7 +601,7 @@
       "url": "https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "All Blues'd Up: Songs of the Rolling Stones",
         "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
@@ -585,7 +617,7 @@
       "url": "https://open.spotify.com/track/32rkgJbRDxBoCocsT6iSrd"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Buddy Guy & Junior Wells Play The Blues (Expanded)",
         "url": "https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ"
@@ -605,10 +637,10 @@
       "url": "https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
-        "name": "That's What I Say (Int'l Online/Yahoo Exclusive)",
-        "url": "https://open.spotify.com/album/6IgHB6OSrcG3KNWCVknhjy"
+        "name": "That's What I Say",
+        "url": "https://open.spotify.com/album/6B6Legr1T9aMiMxL55SZnK"
       },
       "artists": [
         {
@@ -620,12 +652,12 @@
           "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
         }
       ],
-      "duration_ms": 288186,
+      "duration_ms": 287160,
       "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/46EtkT78WNyuQQtNGRguCb"
+      "url": "https://open.spotify.com/track/2ngkSsDjbKRxovWkMfjBUk"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Burgers",
         "url": "https://open.spotify.com/album/0NWwuGPSfuj9H0OMUDikws"
@@ -641,7 +673,7 @@
       "url": "https://open.spotify.com/track/7GQZYw55Juuq3tntjZJzZt"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "All Blues'd Up: Songs of Bob Dylan",
         "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Live +",
         "url": "https://open.spotify.com/album/5LTErKR4sVxrANiPNLcYI8"
@@ -673,10 +705,10 @@
       "url": "https://open.spotify.com/track/7KxGNaPXmhRwdjio3ttD69"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Watch Your Back",
-        "url": "https://open.spotify.com/album/5WwzmetgQlGwtddMt3FQaD"
+        "url": "https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW"
       },
       "artists": [
         {
@@ -686,10 +718,10 @@
       ],
       "duration_ms": 244160,
       "name": "A Little Less Conversation",
-      "url": "https://open.spotify.com/track/2XbxdAWaC7UfQRE11JYGP4"
+      "url": "https://open.spotify.com/track/73qNHMPnanBGsxD1cQ2ojn"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Exile On Main Street (2010 Re-Mastered)",
         "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
@@ -705,7 +737,7 @@
       "url": "https://open.spotify.com/track/09eg3FGzsZQbZk8qEXhJIA"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Messing With The Blues",
         "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
@@ -721,7 +753,7 @@
       "url": "https://open.spotify.com/track/09tD5JvaiCrdlmKdmjDATX"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Too Much Mustard",
         "url": "https://open.spotify.com/album/3qBcJfdrKT98tvXZqcIqsO"
@@ -741,7 +773,7 @@
       "url": "https://open.spotify.com/track/6ZdCKxcNoLgJfQBCncD2SU"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "De Stijl",
         "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
@@ -757,7 +789,7 @@
       "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Stars In My Crown",
         "url": "https://open.spotify.com/album/16vXqLiCvBwbSOPTF1VUwG"
@@ -773,10 +805,10 @@
       "url": "https://open.spotify.com/track/6zN2SuJaXhGJYXhb77xPVO"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "All Blues'd Up: Songs of the Rolling Stones",
-        "url": "https://open.spotify.com/album/1zHWMhbLzLP2mjQnuqJnqL"
+        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
       },
       "artists": [
         {
@@ -786,10 +818,10 @@
       ],
       "duration_ms": 290000,
       "name": "Beast of Burden",
-      "url": "https://open.spotify.com/track/6G0E34D8C9wb777W4QHZfv"
+      "url": "https://open.spotify.com/track/3MW8e0Lh1d53pVY3Tnd8ac"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Wheels Of Fire",
         "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
@@ -805,7 +837,23 @@
       "url": "https://open.spotify.com/track/2uxsnsH0XzOBZkMrSFVmll"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
+    },
+    {
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Greatest Blues Covers",
         "url": "https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG"
@@ -821,7 +869,7 @@
       "url": "https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
         "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
@@ -841,7 +889,7 @@
       "url": "https://open.spotify.com/track/0O6lcWkE8m9pTDGD8Kpatf"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Hot Tuna",
         "url": "https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL"
@@ -857,7 +905,7 @@
       "url": "https://open.spotify.com/track/2ZA8w7VIA2A5bFmb3ViXoQ"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "The Robert Johnson Songbook",
         "url": "https://open.spotify.com/album/4RZdbilpZLCecJHtEkdJgX"
@@ -873,10 +921,10 @@
       "url": "https://open.spotify.com/track/2uzGLzv8DPmXrlBfdR9dU8"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "All Blues'd Up: Songs of the Rolling Stones",
-        "url": "https://open.spotify.com/album/1zHWMhbLzLP2mjQnuqJnqL"
+        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
       },
       "artists": [
         {
@@ -886,13 +934,13 @@
       ],
       "duration_ms": 357000,
       "name": "(I Can't Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/0eZNkuyJGeNGHxBxcXzHRq"
+      "url": "https://open.spotify.com/track/4HTF7QhXhZQyuowEaGAiBl"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Songlines",
-        "url": "https://open.spotify.com/album/0bAKGnvpKWdI3lH7Q3RCJJ"
+        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
       },
       "artists": [
         {
@@ -902,10 +950,10 @@
       ],
       "duration_ms": 233773,
       "name": "Crow Jane",
-      "url": "https://open.spotify.com/track/2KgPcX2NVfmnia6JOSjKyJ"
+      "url": "https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "The Ballad of John Henry",
         "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
@@ -921,7 +969,7 @@
       "url": "https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Led Zeppelin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/22BzOOZKYZ2jYYKLpOlnET"
@@ -937,7 +985,7 @@
       "url": "https://open.spotify.com/track/2Y1HhOfvtzms7urVKFY67n"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "6 String Theory",
         "url": "https://open.spotify.com/album/12KBkAV3rS7H2h8QIcbCy5"
@@ -961,7 +1009,7 @@
       "url": "https://open.spotify.com/track/2NlzTQKA7U1nc9U6tWb7Xv"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "All Blues'd Up: Songs of Bob Dylan",
         "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
@@ -977,7 +1025,7 @@
       "url": "https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "The Best Of Canned Heat",
         "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
@@ -993,7 +1041,7 @@
       "url": "https://open.spotify.com/track/6IWxHgVbdKyUMydhVGXRaT"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "All Blues'd Up: Songs of the Rolling Stones",
         "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
@@ -1009,7 +1057,7 @@
       "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Greatest Blues Covers",
         "url": "https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG"
@@ -1025,27 +1073,43 @@
       "url": "https://open.spotify.com/track/4zWSge8GdwbqY2aTFX98rR"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/01wNKNEpY0svUkPYOlKmzs"
+        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
       "artists": [
         {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        },
-        {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
         }
       ],
-      "duration_ms": 407640,
+      "duration_ms": 407653,
       "name": "Ain't No Way",
-      "url": "https://open.spotify.com/track/4TGoG48PrAx352MXjIJFF4"
+      "url": "https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
+      "album": {
+        "name": "All Blues'd Up: Songs of the Rolling Stones",
+        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 357000,
+      "name": "(I Can't Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/4HTF7QhXhZQyuowEaGAiBl"
+    },
+    {
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Blues From The Heart Live",
         "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
@@ -1061,7 +1125,7 @@
       "url": "https://open.spotify.com/track/7FD3t0JgZ46k28egOPYfHa"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "L.A. Blues Authority Vol. Iv: Fit for a King",
         "url": "https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w"
@@ -1077,7 +1141,7 @@
       "url": "https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
         "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
@@ -1097,10 +1161,10 @@
       "url": "https://open.spotify.com/track/7avlGe2Kmp0yagByGRT9x0"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
-        "name": "B.B. King & Friends - 80",
-        "url": "https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce"
+        "name": "Country Blues Hits",
+        "url": "https://open.spotify.com/album/7zmKufdRW5fhQ1TfCBRV0h"
       },
       "artists": [
         {
@@ -1114,10 +1178,10 @@
       ],
       "duration_ms": 248906,
       "name": "Funny How Time Slips Away",
-      "url": "https://open.spotify.com/track/0tyDdSze4rfPuwFTFkV2lG"
+      "url": "https://open.spotify.com/track/1fDmvwNjghVsHWjrIruFJU"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Back In Bluesville",
         "url": "https://open.spotify.com/album/1YocQJ1WyxCQ7bSCPg2A6N"
@@ -1133,23 +1197,23 @@
       "url": "https://open.spotify.com/track/5mv7gXwH5qYChfwISnOx94"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Good News",
-        "url": "https://open.spotify.com/album/00gjkhEHHnrATP8ORz4C2G"
+        "url": "https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63"
       },
       "artists": [
         {
-          "name": "Ronnie Earl & The Broadcasters",
-          "url": "https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I"
+          "name": "Ronnie EarlThe Broadcasters",
+          "url": "https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF"
         }
       ],
       "duration_ms": 362266,
       "name": "Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/6QEhyWyMPQ3cUtCsu5MRM2"
+      "url": "https://open.spotify.com/track/1t0v4uUKWd0MrmHtcEzRiV"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Neckbone Stew",
         "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
@@ -1165,7 +1229,7 @@
       "url": "https://open.spotify.com/track/3ag0SbzIlflUWf1ChhEmhZ"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/67G22I1pYApKc9kr3Y5zyq"
@@ -1181,10 +1245,10 @@
       "url": "https://open.spotify.com/track/5WqBaZ1VIieP63wl7l18cY"
     },
     {
-      "added_at": "2022-07-08 14:37:09",
+      "added_at": "2022-09-12 16:37:51",
       "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+        "name": "Eric Clapton & Friends - The Breeze (An Appreciation of JJ Cale)",
+        "url": "https://open.spotify.com/album/21swqoPE6wszY0IC8sJEYs"
       },
       "artists": [
         {
@@ -1197,24 +1261,8 @@
         }
       ],
       "duration_ms": 182986,
-      "name": "I Got The Same Old Blues",
-      "url": "https://open.spotify.com/track/1PmPNn8lpamGGWbgVyFrX1"
-    },
-    {
-      "added_at": "2022-07-08 14:37:09",
-      "album": {
-        "name": "All Blues'd Up: Songs of the Rolling Stones",
-        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 357000,
-      "name": "(I Can't Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/4HTF7QhXhZQyuowEaGAiBl"
+      "name": "I Got the Same Old Blues (feat. Tom Petty)",
+      "url": "https://open.spotify.com/track/5uIAjyOvC9PjzCpeMRcQo8"
     }
   ],
   "unique_name": "Blues Covers",

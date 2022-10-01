@@ -340,6 +340,24 @@
     },
     {
       "album": {
+        "name": "KOATI Original Soundtrack",
+        "url": "https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193172,
+      "name": "Baila Baila",
+      "url": "https://open.spotify.com/track/1ZYzJ6gpIaTY7SGlXXg3dS"
+    },
+    {
+      "album": {
         "name": "Jen",
         "url": "https://open.spotify.com/album/5MFFnpG6N8RIIdC5GSQ5w4"
       },
@@ -1085,6 +1103,24 @@
       "duration_ms": 235866,
       "name": "Es Natural",
       "url": "https://open.spotify.com/track/6oh2qSjZeP7TPWp2Ehh5MM"
+    },
+    {
+      "album": {
+        "name": "Este Fuego (De La Telenovela \"Fuego Ardiente\")",
+        "url": "https://open.spotify.com/album/7IW4bOn7VYTxOsiUop7RbZ"
+      },
+      "artists": [
+        {
+          "name": "Joy",
+          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175517,
+      "name": "Este Fuego - De La Telenovela \"Fuego Ardiente\"",
+      "url": "https://open.spotify.com/track/761N0nQAx5t2td96kc3T51"
     },
     {
       "album": {
@@ -2411,7 +2447,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 219346,
       "name": "Sue\u00f1alo",
       "url": "https://open.spotify.com/track/4K14C25LGafAgxuOb6tsV2"

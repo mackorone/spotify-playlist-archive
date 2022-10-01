@@ -577,6 +577,28 @@
     {
       "album": {
         "name": "Dustbowl Revival",
+        "url": "https://open.spotify.com/album/54EEdEGFyKLIu8YvdNyfuY"
+      },
+      "artists": [
+        {
+          "name": "Dustbowl Revival",
+          "url": "https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213026,
+      "name": "Honey I Love You",
+      "url": "https://open.spotify.com/track/7cvxb6UndQ9M2AMEWxLGrJ"
+    },
+    {
+      "album": {
+        "name": "Dustbowl Revival",
         "url": "https://open.spotify.com/album/12lr2fucUT2rLSzHHQeBPE"
       },
       "artists": [
@@ -587,7 +609,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213026,
       "name": "Honey I Love You (feat. Keb' Mo')",
       "url": "https://open.spotify.com/track/13HyzdrX8NYUo0l3WVfxon"
@@ -996,6 +1018,24 @@
     },
     {
       "album": {
+        "name": "A Night At The Little Los Angeles (Sundowner 4-Track Demos)",
+        "url": "https://open.spotify.com/album/4EINljdbkgBlqatl4h9OeW"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262105,
+      "name": "Sundowner - 4-Track Demo",
+      "url": "https://open.spotify.com/track/1JGW7bagfkhvli39OuDXuV"
+    },
+    {
+      "album": {
         "name": "Sundowner (4-Track Demo)",
         "url": "https://open.spotify.com/album/7LAm8foZ5Kk6KIeVBy2J7f"
       },
@@ -1007,7 +1047,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262105,
       "name": "Sundowner - 4-Track Demo",
       "url": "https://open.spotify.com/track/3HIh24ThOen5MtubxA9kQO"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1M2abQkxCwrLjzLGgKWnDP.md) - [plain]
 
 > Lend some gravitas to the moment with the complete works of Vincenzo Bellini, featuring acclaimed recordings of his entire operatic oeuvre and large scale sacred choral pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426 likes - 500 songs - 1 day 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 428 likes - 500 songs - 1 day 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

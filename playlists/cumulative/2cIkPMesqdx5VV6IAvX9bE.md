@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Your Love Has Lifted Me\) Higher and Higher](https://open.spotify.com/track/3mHnwzZOQd638wnFaPPKYd) | [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Havana Jam](https://open.spotify.com/album/7puP9uhAE7gbbBc2NJxC91) | 3:29 | 2013-06-27 |  |
-| [Angel in Your Arms \- Single Version](https://open.spotify.com/track/1X7deB82EPo7pLcMdVU6n8) | [Hot](https://open.spotify.com/artist/2y9NHQDJMsOMIVY5dECoWe) | [Hit Singles 1958\-1977](https://open.spotify.com/album/2OjQL0UdSY4q4zw1p5hSrn) | 2:55 | 2013-06-27 |  |
+| [Angel in Your Arms \- Single Version](https://open.spotify.com/track/1X7deB82EPo7pLcMdVU6n8) | [Hot](https://open.spotify.com/artist/5QtSG5KWz4jEVNCf5eB0Ti) | [Hit Singles 1958\-1977](https://open.spotify.com/album/2OjQL0UdSY4q4zw1p5hSrn) | 2:55 | 2013-06-27 |  |
 | [Best of My Love \- Single Version](https://open.spotify.com/track/0dBIRqrKow6d4Tkv4DMSke) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Pledging My Love](https://open.spotify.com/album/3XuQdwsTSHLSnfLNGyUlAN) | 3:40 | 2013-06-27 |  |
 | [Blinded By The Light](https://open.spotify.com/track/7nfiM8DuaSJ61KaerHchcA) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [The Best Of Manfred Mann's Earth Band](https://open.spotify.com/album/0x2ixTpYF95FXOnUpNafxo) | 7:06 | 2013-06-27 |  |
 | [Car Wash](https://open.spotify.com/track/57Yh1qszw18ZJ2gwOXhqOz) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Disco Gold](https://open.spotify.com/album/2wFzaVmHfeDG8yNaAs7lYr) | 3:17 | 2013-06-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2mADaSxlIcxRDSG9e9vLlh.md) - [plain]
 
 > Songs for you and your best friend\. Endless love in any weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,370 likes - 35 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,367 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

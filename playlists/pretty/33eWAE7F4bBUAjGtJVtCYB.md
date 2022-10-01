@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/33eWAE7F4bBUAjGtJVtCYB.md) - [plain]
 
 > För att fira de blå/gula färgerna har vi grävt djupt i den svenska låtskatten och sammanställt en spellista med 40 älskade klassiker\. Hitta spellistor för alla tillfällen på <a href="spotify:app:tunigo">Tunigo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 887 likes - 41 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 882 likes - 41 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

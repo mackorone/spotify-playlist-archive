@@ -753,10 +753,6 @@
       },
       "artists": [
         {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        },
-        {
           "name": "LudoWic",
           "url": "https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND"
         }
@@ -1572,10 +1568,6 @@
         "url": "https://open.spotify.com/album/23KCp1w3aJeKdMrqcyodWK"
       },
       "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        },
         {
           "name": "Bill Kiley",
           "url": "https://open.spotify.com/artist/6jYO2wnv847jRUsA7dciSs"
@@ -4369,6 +4361,24 @@
       "duration_ms": 192480,
       "name": "Samurai Cyberpunk",
       "url": "https://open.spotify.com/track/2lWT0z0Clbh9lBFklgvLln"
+    },
+    {
+      "album": {
+        "name": "save states",
+        "url": "https://open.spotify.com/album/7g3kpYucY8onA8SRCvdqzl"
+      },
+      "artists": [
+        {
+          "name": "divmod",
+          "url": "https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225078,
+      "name": "save states",
+      "url": "https://open.spotify.com/track/1UOTXqK4T6hseoOkDjksH6"
     },
     {
       "album": {

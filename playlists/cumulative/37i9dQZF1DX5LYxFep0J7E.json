@@ -807,7 +807,7 @@
     {
       "album": {
         "name": "Freedom Fables",
-        "url": "https://open.spotify.com/album/7dGOyxCI4QXNFxHEpgD4jt"
+        "url": "https://open.spotify.com/album/3HDaoy8TYaaLfKPKSVcsOq"
       },
       "artists": [
         {
@@ -822,6 +822,28 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 327960,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/39dsqpRTcjZQExrzeQAiJV"
+    },
+    {
+      "album": {
+        "name": "Freedom Fables",
+        "url": "https://open.spotify.com/album/7dGOyxCI4QXNFxHEpgD4jt"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Ria Moran",
+          "url": "https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 327960,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/6mNsWIUeTuxOAlbVlNzam5"
@@ -839,10 +861,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 407240,
       "name": "My Friend Of Misery",
       "url": "https://open.spotify.com/track/14A7YuFDIVykJBGXcipCpp"
+    },
+    {
+      "album": {
+        "name": "My Friend of Misery",
+        "url": "https://open.spotify.com/album/0v08kiSBOOoy59PZOIscFW"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407240,
+      "name": "My Friend of Misery",
+      "url": "https://open.spotify.com/track/4VgstGQR0BW7wamAFNEz6A"
     },
     {
       "album": {

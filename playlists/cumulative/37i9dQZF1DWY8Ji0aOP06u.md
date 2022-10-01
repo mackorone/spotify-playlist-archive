@@ -2,7 +2,7 @@
 
 ### [Jeremy Olander DJ Mix: A Journey Through Melody](https://open.spotify.com/playlist/37i9dQZF1DWY8Ji0aOP06u)
 
-> Nordic underground pioneer <a href ="spotify:artist:5vdjF79d5d2m12FOkJhxHB">Jeremy Olander</a> steps up to the decks to take you on a journey through melody!
+> Nordic underground pioneer <a href="spotify:artist:5vdjF79d5d2m12FOkJhxHB">Jeremy Olander</a> steps up to the decks to take you on a journey through melody!
 
 11 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/15pEnJQs8SZZKwhnwE8Niq)
 

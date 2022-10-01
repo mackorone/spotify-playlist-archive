@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvdcM9QUiSL.md) - [plain]
 
 > Feel the vibe\. Feel the pressure\. And dance to a mix curated by <a href="spotify:artist:7DhdJhd6DrxeJlUajwttd1">Martin Ikin</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,254 likes - 13 songs - 59 min 57 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,961 likes - 13 songs - 59 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,4 +22,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvdcM9QUiSL.md) - [plain]
 | 12 | [Sometimes \- Mixed](https://open.spotify.com/track/0xVcWX7uPc9EPiqGNvpaB2) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Sometimes \(Mixed\)](https://open.spotify.com/album/4F2f0xbm442BR46u41EakB) | 4:00 |
 | 13 | [Riser \- Mixed](https://open.spotify.com/track/4In3OThxYpi8XBGutltMWI) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Riser \(Mixed\)](https://open.spotify.com/album/5yImYEowF3HPlY4PTsxDLK) | 5:21 |
 
-Snapshot ID: `MTY0NzI4NTMyNiwwMDAwMDAwMjAwMDAwMTdmODlkYjUxNzAwMDAwMDE3ZjJkYWI4ZmYz`
+Snapshot ID: `MTY0NzI4NTMyNiwwMDAwMDAwMDdkMDNlOGMwNWNjODIzNGQyOTgzM2EzYzlkMzE5ZWI1`

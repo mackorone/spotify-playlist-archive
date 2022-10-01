@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 
 > Remembering the voices that have always spoken truth to power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,226 likes - 41 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,082 likes - 41 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,16 +38,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 | 28 | [The Negro and Young People](https://open.spotify.com/track/5z0FmdulgRsE93NMmxrbeF) | [W.E.B\. DuBois](https://open.spotify.com/artist/0B6p2Z41UzVCPIPO94BhqF) | [W.E.B\. DuBois: A Recorded Autobiography, Interview with Moses Asch](https://open.spotify.com/album/6jvNmgzwiWc6R1TI6cjXhQ) | 3:21 |
 | 29 | [Chapter 10\-The Loss of Vision \(continued\)](https://open.spotify.com/track/6A0jKGXLZrfdlUIzAsVsvb) | [Carter G\. Woodson](https://open.spotify.com/artist/0ZcdRpxMPxw8cSC4IyCl86) | [The Mis\-Education of the Negro](https://open.spotify.com/album/6io2SUuK89XBdafEmcrCoo) | 3:18 |
 | 30 | [Dreams](https://open.spotify.com/track/3eOzQDN7CQLo2MJYehbraw) | [Langston Hughes](https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm) | [The Voice of Langston Hughes](https://open.spotify.com/album/47svgVhdLaB00HOKFc4Bo8) | 0:57 |
-| 31 | [What's Going On](https://open.spotify.com/track/34b3a3Pz9Jlz0092LMyNAB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 3:52 |
-| 32 | [What's Happening Brother](https://open.spotify.com/track/3B1K9cOissM5S7zUBwd8TZ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 2:43 |
+| 31 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 |
+| 32 | [What's Happening Brother](https://open.spotify.com/track/4ihykcy9d9SSC5qxHIhPcf) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 2:43 |
 | 33 | [Favorite Music](https://open.spotify.com/track/4yixpYyPIqaEI0I44u2Ljl) | [Dick Gregory](https://open.spotify.com/artist/4ny5u89tQVgw6OmFkj454M) | [You Don't Know Dick](https://open.spotify.com/album/6BMaVNyFWCN9XpimvvQrys) | 7:09 |
 | 34 | [Eulogy for Jackie Robinson \(Steal Away\) \(Piano\) \- /Steal Away Piano](https://open.spotify.com/track/0Y2zOANQhrwsYmoEpwdEvw) | [Rev\. Jesse Jackson](https://open.spotify.com/artist/6ncDkEf2tfA2wJ3X2g9unp) | [Baseball A Film By Ken Burns \- Original Soundtrack Recording](https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua) | 2:10 |
 | 35 | [When Ure Heart Turns Cold](https://open.spotify.com/track/2xCCw5DcCQ0QVfjCfiTyBT) | [Sonia Sanchez](https://open.spotify.com/artist/0hvH9P1nlB5xrNdlXwZ22P) | [The Rose That Grew From Concrete](https://open.spotify.com/album/17v0WKUfqS4lRiWslYyVWh) | 1:37 |
 | 36 | [My Petition](https://open.spotify.com/track/2op7tTCjyyDTP1nMGoB7aC) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 4:11 |
-| 37 | [My Beliefs](https://open.spotify.com/track/079pZO9Yzp8zyXf9j8JLK3) | [Assata Shakur](https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew) | [The Vinyl Project](https://open.spotify.com/album/0LIGpl05li5brnrlNOGstL) | 0:30 |
+| 37 | [My Beliefs](https://open.spotify.com/track/4iuf8G1xTIy9GxebzDTOvm) | [Assata Shakur](https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew) | [The Vinyl Project](https://open.spotify.com/album/2lfolXtk5xklnxieg24LQR) | 0:30 |
 | 38 | [A Song For Assata](https://open.spotify.com/track/6dhfqStWHETvJWNhhLO1Qc) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 6:48 |
 | 39 | [Why are the Panthers So Provocative?](https://open.spotify.com/track/2fq0KcqINDwPWoTICTdmxA) | [Huey P\. Newton](https://open.spotify.com/artist/2SMi8AArIjUwlhY9TVxkZ7) | [Huey Newton Speaks](https://open.spotify.com/album/4yOtfYeRNDMJ3RRTWZAQnN) | 1:29 |
 | 40 | [Still I Rise](https://open.spotify.com/track/3J9NZT8U0uyRd8ZYNCkOAq) | [Dr\. Maya Angelou](https://open.spotify.com/artist/0NmNdh2bUgGrrIbj5Ar8GQ) | [The Civil War : The Complete Work](https://open.spotify.com/album/3shDCBNvoYpBwIzBkx0XAK) | 0:57 |
 | 41 | [Civil Rights vs\. Social Privilege](https://open.spotify.com/track/5oolbgm69Ad0EUK6zzc79w) | [Martin Luther King, Jr.](https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB) | [Civil Rights vs\. Social Privilege](https://open.spotify.com/album/2bkgW7I8a8eDYiabY8VVF0) | 3:24 |
 
-Snapshot ID: `MTYxODYwMDIzMCwwMDAwMDAzMTAwMDAwMTc4ZGMxNzdkYjIwMDAwMDE3ODNjNmUwZTcx`
+Snapshot ID: `MTYxODYwMDIzMCwwMDAwMDAwMDE4Y2FjNjY0YTVmNDMwMWFjNTQyOWI4NzQzOTY3NDA2`

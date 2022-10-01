@@ -4,7 +4,7 @@
 
 > The official Ozark playlist with all the music from Season 4.
 
-34 songs - 2 hr 15 min - [published](https://open.spotify.com/playlist/5U25p66mg1TN4sZewAZ6iz)
+35 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/5U25p66mg1TN4sZewAZ6iz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Untitled \(feat\. Scar\)](https://open.spotify.com/track/68qkEjGepczQDzuhxH5anO) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Scar](https://open.spotify.com/artist/0sywmyZ8FiRChMptufCVUS) | [R.A.P\. Music](https://open.spotify.com/album/5EAhUoAz1G3WTvIfGZvmrh) | 3:53 | 2022-04-29 |  |
 | [Vehicle](https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr) | [The Ides Of March](https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji) | [Vehicle](https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob) | 2:58 | 2022-04-29 |  |
 | [Weepin Willow Tree](https://open.spotify.com/track/5FnSd0uYNoX73MAQQvhKCF) | [Gwynn Michaels](https://open.spotify.com/artist/1OVOJT3t9IhIKfxMr7N7Gr) | [The Helva Records Sessions](https://open.spotify.com/album/1reUXWDUT7Xidaw7tMADUq) | 3:51 | 2022-04-29 |  |
-| [You Bore Me](https://open.spotify.com/track/6jQy0arv30xWHWm2hjz7hy) | [Husky Loops](https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9) | [You Bore Me](https://open.spotify.com/album/1DgVLoZUwtIQfL1XKmD5oV) | 2:30 | 2022-04-29 |  |
+| [You Bore Me](https://open.spotify.com/track/3SaRmjj9eYqgHJ0mLcx7QR) | [Husky Loops](https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9) | [You Bore Me](https://open.spotify.com/album/6VtXZnqbvUQGkVMf00WtLC) | 2:30 | 2022-04-29 |  |
+| [You Bore Me](https://open.spotify.com/track/6jQy0arv30xWHWm2hjz7hy) | [Husky Loops](https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9) | [You Bore Me](https://open.spotify.com/album/1DgVLoZUwtIQfL1XKmD5oV) | 2:30 | 2022-04-29 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

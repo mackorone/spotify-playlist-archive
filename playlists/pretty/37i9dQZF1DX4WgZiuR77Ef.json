@@ -1,13 +1,29 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 389348,
+  "num_followers": 388064,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDA5ODAwMDAwMTgyMDAwNTNmMzEwMDAwMDE4MDUyMWJjM2Mw",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDYwOWEwZWFhYjU2YjQwMzVmYzkzYTZjODg1NGZhZmQ4",
   "tracks": [
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Funky Family",
+        "url": "https://open.spotify.com/album/2FeJEOVHMx2oO8s7ZybmeI"
+      },
+      "artists": [
+        {
+          "name": "Them Vibes",
+          "url": "https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664"
+        }
+      ],
+      "duration_ms": 246641,
+      "name": "Funky Family",
+      "url": "https://open.spotify.com/track/3WVxrFlPRkR7reDUOctOKb"
+    },
     {
       "added_at": "2022-07-15 04:02:00",
       "album": {
@@ -47,8 +63,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Africvillean Funk",
-        "url": "https://open.spotify.com/album/4dA1mxVyeTqlbOurVp76TN"
+        "name": "Don't Trip",
+        "url": "https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB"
       },
       "artists": [
         {
@@ -62,7 +78,7 @@
       ],
       "duration_ms": 192133,
       "name": "Africvillean Funk",
-      "url": "https://open.spotify.com/track/1rbN7wvQtAYoGV5DZliziB"
+      "url": "https://open.spotify.com/track/7HweCGOZ6T0Kh9o64cuusn"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -109,6 +125,22 @@
       "url": "https://open.spotify.com/track/2ZUIMmjpRjCzopFJl7F5EX"
     },
     {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Very Fine, Pts. 1 & 2 b/w Strawberry Letter 23",
+        "url": "https://open.spotify.com/album/07SAHKc8swr296nZdY2Bu8"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 337826,
+      "name": "Very Fine - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/3NGlYT0YnxSL3tF0F7bBWV"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Gonna Get In My Way",
@@ -129,7 +161,7 @@
         },
         {
           "name": "Chad Pike",
-          "url": "https://open.spotify.com/artist/2jHsExomQEvt5bk6OQfJDL"
+          "url": "https://open.spotify.com/artist/0WfL5KgBtjVks1wcXimVnP"
         }
       ],
       "duration_ms": 235480,
@@ -203,8 +235,8 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "Everything's Gonna Be Alright",
-        "url": "https://open.spotify.com/album/2teo9fYVUAJ3qBRi3FIjJm"
+        "name": "Unify",
+        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
       },
       "artists": [
         {
@@ -214,7 +246,7 @@
       ],
       "duration_ms": 213000,
       "name": "Everything's Gonna Be Alright",
-      "url": "https://open.spotify.com/track/1USqDSnSZ2RYsZIflEJNWP"
+      "url": "https://open.spotify.com/track/1reNWIGSfItCbAhy9cr1nz"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -235,8 +267,8 @@
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "Hazel",
-        "url": "https://open.spotify.com/album/2O5A8VHIlLf8OEQeNtquwU"
+        "name": "Lost Knights",
+        "url": "https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi"
       },
       "artists": [
         {
@@ -246,13 +278,13 @@
       ],
       "duration_ms": 241613,
       "name": "Hazel",
-      "url": "https://open.spotify.com/track/25fq8Rq28dNyC4VWCFs8uN"
+      "url": "https://open.spotify.com/track/45VqSJIZ9xUH2x7uyjdIIQ"
     },
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Inked (Alhambra Studios Live Session)",
-        "url": "https://open.spotify.com/album/2UmqUzPgh3qm4BySf0XtpY"
+        "url": "https://open.spotify.com/album/7noEBRP8M6EgmejChbVMwl"
       },
       "artists": [
         {
@@ -261,8 +293,8 @@
         }
       ],
       "duration_ms": 221248,
-      "name": "Inked - Alhambra Studios Live Session",
-      "url": "https://open.spotify.com/track/1ft2Fb7TaeVee9kobX0rHF"
+      "name": "Inked (Alhambra Studios Live Session)",
+      "url": "https://open.spotify.com/track/6NEd8Dt1jVLLxwQ1wpiKd5"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -331,8 +363,8 @@
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Wicked Karma",
-        "url": "https://open.spotify.com/album/2ezwjIl6DMeeK8LkPx7RjX"
+        "name": "Lost Knights",
+        "url": "https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi"
       },
       "artists": [
         {
@@ -342,7 +374,7 @@
       ],
       "duration_ms": 233013,
       "name": "Wicked Karma",
-      "url": "https://open.spotify.com/track/41slG6esf3Qr3V5CJ8tB2Y"
+      "url": "https://open.spotify.com/track/1euxBryXMch8Oq4OD4GbWt"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -571,8 +603,8 @@
     {
       "added_at": "2021-04-09 04:00:00",
       "album": {
-        "name": "Do You",
-        "url": "https://open.spotify.com/album/148wDTLIKVYD7iNXvK7kJu"
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR"
       },
       "artists": [
         {
@@ -582,7 +614,7 @@
       ],
       "duration_ms": 292400,
       "name": "Do You",
-      "url": "https://open.spotify.com/track/6Po6hrICRrMUQPaDkL8elp"
+      "url": "https://open.spotify.com/track/4YSfp2I61liqg6NtWTBrxp"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -651,8 +683,8 @@
     {
       "added_at": "2021-11-19 05:02:00",
       "album": {
-        "name": "Better Off Dead",
-        "url": "https://open.spotify.com/album/6LrcNG6dzsOjFB1gctkn7Z"
+        "name": "Electric Cowboy: Born In Carolina Mud",
+        "url": "https://open.spotify.com/album/7uMzDIJ4UbE8aCKZCTareh"
       },
       "artists": [
         {
@@ -666,13 +698,13 @@
       ],
       "duration_ms": 249946,
       "name": "Better Off Dead (feat. Nikki Lane)",
-      "url": "https://open.spotify.com/track/578IWecGEFe6XkbAd6iDis"
+      "url": "https://open.spotify.com/track/4HGyzxbytL3DHMt7b2ZdDt"
     },
     {
       "added_at": "2021-08-06 04:01:00",
       "album": {
-        "name": "Brand New Day",
-        "url": "https://open.spotify.com/album/0Whv0ihThqPDFw9WBgk8fG"
+        "name": "Break the Wall",
+        "url": "https://open.spotify.com/album/0EF3hnwr3Go8xCwBxC7gcE"
       },
       "artists": [
         {
@@ -682,7 +714,7 @@
       ],
       "duration_ms": 239480,
       "name": "Brand New Day",
-      "url": "https://open.spotify.com/track/50kcNzbEiu0nlSKTGAJe9W"
+      "url": "https://open.spotify.com/track/6162qDKnzcPSOh1NcqoLM3"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -823,8 +855,8 @@
     {
       "added_at": "2021-05-21 04:01:00",
       "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/5I2q3XVg8rKwCLkQ0Tr4dE"
+        "name": "Moonshadows",
+        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
       },
       "artists": [
         {
@@ -838,7 +870,7 @@
       ],
       "duration_ms": 253240,
       "name": "Show Me",
-      "url": "https://open.spotify.com/track/2k0omPPfQU1clxnAVaUdO6"
+      "url": "https://open.spotify.com/track/1jvIzuhXvNKi5KTKxW0AwT"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -860,7 +892,7 @@
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Thomas Atlas",
-        "url": "https://open.spotify.com/album/2PB9nzvPkMH340fOB30fkm"
+        "url": "https://open.spotify.com/album/1hn0OhkwxNmIbdcjxy4aTv"
       },
       "artists": [
         {
@@ -870,7 +902,7 @@
       ],
       "duration_ms": 171000,
       "name": "Juice",
-      "url": "https://open.spotify.com/track/5JJjXx0PCTGLabGrLDruap"
+      "url": "https://open.spotify.com/track/4ID3iACsnvHL6F5ER140Oo"
     },
     {
       "added_at": "2021-04-09 04:00:00",
@@ -900,7 +932,7 @@
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Funk Is My Religion",
-        "url": "https://open.spotify.com/album/1ebG6V1lQvLgRhJ2sCwzgN"
+        "url": "https://open.spotify.com/album/4l1PPZ7MgVuTACORe0vaFz"
       },
       "artists": [
         {
@@ -910,13 +942,13 @@
       ],
       "duration_ms": 290003,
       "name": "Funk Is My Religion",
-      "url": "https://open.spotify.com/track/5JfPmqLsOHBFqiMbjVcH5X"
+      "url": "https://open.spotify.com/track/0MUfqhh2wepeXY3xn9O64O"
     },
     {
       "added_at": "2021-05-21 04:01:00",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/6rXDUFPDscd0L9j8IG0lOq"
+        "name": "Secret Night Gang",
+        "url": "https://open.spotify.com/album/5NYdmamzON8sbPshgNcdty"
       },
       "artists": [
         {
@@ -926,13 +958,13 @@
       ],
       "duration_ms": 332000,
       "name": "Journey",
-      "url": "https://open.spotify.com/track/17bXySNIfVmyYBZnXoxFm5"
+      "url": "https://open.spotify.com/track/3BuDZacvKsLgiGk4zi6JKU"
     },
     {
       "added_at": "2021-03-12 05:00:00",
       "album": {
         "name": "It's My Thing (You Can't Tell Me Who To Sock It To)",
-        "url": "https://open.spotify.com/album/6tPBs0lIhPMolFJi2sTpMF"
+        "url": "https://open.spotify.com/album/4D1RGmSzBOuToTwzWGGVMG"
       },
       "artists": [
         {
@@ -946,13 +978,13 @@
       ],
       "duration_ms": 179682,
       "name": "It's My Thing (You Can't Tell Me Who To Sock It To)",
-      "url": "https://open.spotify.com/track/4O3a9GrWo8F2Imxi1FDLdo"
+      "url": "https://open.spotify.com/track/0QvnLJFbSHr4xhDLweP40h"
     },
     {
       "added_at": "2021-02-12 05:01:00",
       "album": {
-        "name": "Wildman",
-        "url": "https://open.spotify.com/album/26mwl4r20VYuBRks5yG9cX"
+        "name": "My People",
+        "url": "https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c"
       },
       "artists": [
         {
@@ -962,13 +994,13 @@
       ],
       "duration_ms": 271413,
       "name": "Wildman",
-      "url": "https://open.spotify.com/track/6xKbZckqJTzIStdlp9nIp3"
+      "url": "https://open.spotify.com/track/0CgmMmdisUyp72qfEEUtbw"
     },
     {
       "added_at": "2020-10-30 04:02:00",
       "album": {
-        "name": "Justice 2020 (feat. Chali 2na & Trombone Shorty)",
-        "url": "https://open.spotify.com/album/3kE0kXYB84Y1xUZYBKxCls"
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR"
       },
       "artists": [
         {
@@ -985,14 +1017,14 @@
         }
       ],
       "duration_ms": 293875,
-      "name": "Justice 2020 (feat. Chali 2na & Trombone Shorty)",
-      "url": "https://open.spotify.com/track/4rcIBssNKyGnS8UIWH9ixO"
+      "name": "Justice 2020",
+      "url": "https://open.spotify.com/track/20Cq38WdpKCscYtTPTZy0J"
     },
     {
       "added_at": "2020-10-30 04:02:00",
       "album": {
-        "name": "Jam On",
-        "url": "https://open.spotify.com/album/2pf5YXATqLlqx7R0eMRKRg"
+        "name": "The Power of the One",
+        "url": "https://open.spotify.com/album/0HiqFidTpNyPKiaW8B0lwg"
       },
       "artists": [
         {
@@ -1010,7 +1042,7 @@
       ],
       "duration_ms": 302560,
       "name": "Jam On",
-      "url": "https://open.spotify.com/track/0qDpUNoPqMV4aTiVepqXOQ"
+      "url": "https://open.spotify.com/track/1ePjiM953NQc7FfRTNjxsq"
     },
     {
       "added_at": "2021-04-09 04:00:00",
@@ -1064,7 +1096,7 @@
       "added_at": "2020-10-30 04:02:00",
       "album": {
         "name": "Connection",
-        "url": "https://open.spotify.com/album/2mJeeTdHdYNwyB2xdKT4fj"
+        "url": "https://open.spotify.com/album/5Tp94nlIqgi6933CP5zoG8"
       },
       "artists": [
         {
@@ -1078,7 +1110,7 @@
       ],
       "duration_ms": 247613,
       "name": "The Truth",
-      "url": "https://open.spotify.com/track/226pEjWaakamKLxnoTSaVF"
+      "url": "https://open.spotify.com/track/3dzZG5Snplh8mq1HO7v4Sd"
     },
     {
       "added_at": "2020-11-06 04:01:00",
@@ -1116,7 +1148,7 @@
       "added_at": "2020-10-30 04:02:00",
       "album": {
         "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/5PVTLcwmvKzPE4gY5ca8db"
+        "url": "https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR"
       },
       "artists": [
         {
@@ -1126,7 +1158,7 @@
       ],
       "duration_ms": 515231,
       "name": "Where Do We Go From Here",
-      "url": "https://open.spotify.com/track/1ax95j7TLkNoP6UeQFlU22"
+      "url": "https://open.spotify.com/track/55RNNV9kBwX8rxwnpEWHkK"
     },
     {
       "added_at": "2020-10-30 04:02:00",
@@ -1176,21 +1208,25 @@
       "added_at": "2020-10-30 04:02:00",
       "album": {
         "name": "Less Is More",
-        "url": "https://open.spotify.com/album/1vr964CwAICSadDDA9EuaJ"
+        "url": "https://open.spotify.com/album/7t28sA9KwVGxOBRwUQHBuv"
       },
       "artists": [
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        },
         {
           "name": "The New Mastersounds",
           "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
         },
         {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
         }
       ],
-      "duration_ms": 256188,
+      "duration_ms": 256187,
       "name": "Less Is More",
-      "url": "https://open.spotify.com/track/15E1HxTq8M05lJeFACHw7m"
+      "url": "https://open.spotify.com/track/4jiEXf9FQjVIMpM92iD9oe"
     },
     {
       "added_at": "2020-10-30 04:02:00",
@@ -1212,7 +1248,7 @@
       "added_at": "2020-10-30 04:02:00",
       "album": {
         "name": "Soul Food: Cooking With Maceo",
-        "url": "https://open.spotify.com/album/1nI2mxpnTcJsPjFh4ORf5E"
+        "url": "https://open.spotify.com/album/5Gov2tT73ooJR5WQienGoH"
       },
       "artists": [
         {
@@ -1222,7 +1258,7 @@
       ],
       "duration_ms": 342880,
       "name": "Yes We Can Can",
-      "url": "https://open.spotify.com/track/7GO7XfiDsUysp4MMkdCiXo"
+      "url": "https://open.spotify.com/track/2qlfzP4cXFnd718WGNDCT4"
     },
     {
       "added_at": "2020-10-30 04:02:00",
@@ -1247,8 +1283,8 @@
     {
       "added_at": "2020-10-30 04:02:00",
       "album": {
-        "name": "Witness 4 The Prosecution (Version 2) [2020 Remaster]",
-        "url": "https://open.spotify.com/album/6ZkYNos93hJHHdpaZfTJPL"
+        "name": "Sign O' The Times (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0TQG9HCLZGushGzSwvtxC1"
       },
       "artists": [
         {
@@ -1258,7 +1294,7 @@
       ],
       "duration_ms": 339280,
       "name": "Cosmic Day - 2020 Remaster",
-      "url": "https://open.spotify.com/track/5PaBbJtAzd7dl3RMk6ezer"
+      "url": "https://open.spotify.com/track/5C0ntapk5jYYNBYkRiUWBB"
     },
     {
       "added_at": "2020-10-30 04:02:00",
@@ -1299,8 +1335,8 @@
     {
       "added_at": "2020-10-30 04:02:00",
       "album": {
-        "name": "Cross The Track",
-        "url": "https://open.spotify.com/album/4H9YUJMatjxYWbfypAosLU"
+        "name": "Soul Food: Cooking With Maceo",
+        "url": "https://open.spotify.com/album/5Gov2tT73ooJR5WQienGoH"
       },
       "artists": [
         {
@@ -1310,13 +1346,13 @@
       ],
       "duration_ms": 305760,
       "name": "Cross The Track",
-      "url": "https://open.spotify.com/track/0E02hR1cBcwaGhZBKboKts"
+      "url": "https://open.spotify.com/track/5GpVsLkTn20sUOjiFKKlCT"
     },
     {
       "added_at": "2020-10-30 04:02:00",
       "album": {
-        "name": "Witness 4 The Prosecution (Version 1) [2020 Remaster]",
-        "url": "https://open.spotify.com/album/23cQVWou7vii0d3CknLU6A"
+        "name": "Sign O' The Times (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0TQG9HCLZGushGzSwvtxC1"
       },
       "artists": [
         {
@@ -1325,8 +1361,8 @@
         }
       ],
       "duration_ms": 239803,
-      "name": "Witness 4 The Prosecution (Version 1) - 2020 Remaster",
-      "url": "https://open.spotify.com/track/22ZZIvttMc2JsRC2hVrXyF"
+      "name": "Witness 4 The Prosecution - Version 1 - 2020 Remaster",
+      "url": "https://open.spotify.com/track/0DnYgTugNUhBcALAkNvwz1"
     },
     {
       "added_at": "2020-10-30 04:02:00",
@@ -1511,22 +1547,6 @@
     {
       "added_at": "2020-10-30 04:02:00",
       "album": {
-        "name": "Let a Man Do What He Wanna Do",
-        "url": "https://open.spotify.com/album/6VlxpL1jxNMJ1b8XEgV70i"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 170386,
-      "name": "Let a Man Do What He Wanna Do",
-      "url": "https://open.spotify.com/track/21tzl7QqFs2UJwaGQpwtCk"
-    },
-    {
-      "added_at": "2020-10-30 04:02:00",
-      "album": {
         "name": "Wanna Do (Funk With You)",
         "url": "https://open.spotify.com/album/1bLTjPXpIsnU3WqBwxM5hH"
       },
@@ -1543,8 +1563,8 @@
     {
       "added_at": "2020-10-30 04:02:00",
       "album": {
-        "name": "Checker Wrecker",
-        "url": "https://open.spotify.com/album/5eKL3jiEKnTb3bej9OKvUJ"
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
       },
       "artists": [
         {
@@ -1562,7 +1582,7 @@
       ],
       "duration_ms": 350972,
       "name": "Checker Wrecker",
-      "url": "https://open.spotify.com/track/2tqfdsBI9N8TrRVFTUDnGZ"
+      "url": "https://open.spotify.com/track/7CmmRmYeCU9BGU3NVY3z0r"
     },
     {
       "added_at": "2020-10-30 04:02:00",
@@ -1587,8 +1607,8 @@
     {
       "added_at": "2020-10-30 04:02:00",
       "album": {
-        "name": "Let's Celebrate Our Love",
-        "url": "https://open.spotify.com/album/73zVIvNpWoV68BTDOFPPvH"
+        "name": "Step Up",
+        "url": "https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr"
       },
       "artists": [
         {
@@ -1598,7 +1618,7 @@
       ],
       "duration_ms": 275910,
       "name": "Let's Celebrate Our Love",
-      "url": "https://open.spotify.com/track/3ZQZUODe0CoMcgndwZ7cK9"
+      "url": "https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I"
     },
     {
       "added_at": "2020-10-30 04:02:00",

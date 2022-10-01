@@ -1,74 +1,86 @@
 {
   "description": "Songs from your family's favorite TV shows.",
-  "num_followers": 851,
+  "num_followers": 861,
   "original_name": "Family TV Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE5NDI1NSwwMDAwMDAwMGEwYzU4ZjEyMDE5YzUwZDAxNGFmZGRkOTJlMmQ2MWQ5",
+  "snapshot_id": "MTY1MDI5Mzg1NSwwMDAwMDAwMDk2YTg4ZmM1OWE4ODlhMzI3ZmExNDExZGE2MjU2ZjRj",
   "tracks": [
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
+        "name": "PAW Patrol Official Theme Song & More",
+        "url": "https://open.spotify.com/album/6FGyqglqi0oS3tl4SxyZxf"
       },
       "artists": [
         {
-          "name": "Ada Twist, Scientist Cast",
-          "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 40593,
+      "name": "PAW Patrol Opening Theme",
+      "url": "https://open.spotify.com/track/7n70tzvZDfdAL1j9XqsAbH"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Julie and the Phantoms: Season 1 (From the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm"
+      },
+      "artists": [
+        {
+          "name": "Julie and the Phantoms Cast",
+          "url": "https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC"
         },
         {
-          "name": "Renee Elise Goldsberry",
-          "url": "https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D"
+          "name": "Charlie Gillespie",
+          "url": "https://open.spotify.com/artist/2HJ4hedICRfMlEQCCNPdyz"
         }
       ],
-      "duration_ms": 47274,
-      "name": "Ada Twist, Scientist Theme Song (From \"Ada Twist, Scientist\")",
-      "url": "https://open.spotify.com/track/5fvMWOLISgdDbvm8EYuJMU"
+      "duration_ms": 230240,
+      "name": "Unsaid Emily (feat. Charlie Gillespie)",
+      "url": "https://open.spotify.com/track/2vEDOWuYM6r2LO9HXI47F1"
     },
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Disney Junior Music: Fancy Nancy",
-        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu"
       },
       "artists": [
         {
-          "name": "Fancy Nancy - Cast",
-          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
         }
       ],
-      "duration_ms": 53568,
-      "name": "Add a Little Fancy (Fancy Nancy Main Title)",
-      "url": "https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3"
+      "duration_ms": 174120,
+      "name": "The Best of Both Worlds - From \"Hannah Montana\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg"
     },
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Sesame Street: What's the Number?",
-        "url": "https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km"
+        "name": "Pokemon - 2.b.a. Master - Music From The Hit Tv Series",
+        "url": "https://open.spotify.com/album/4R0boGQyiCUt3i7pAKCitR"
       },
       "artists": [
         {
-          "name": "The Sesame Street Kids",
-          "url": "https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G"
-        },
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+          "name": "Pok\u00e9mon",
+          "url": "https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk"
         }
       ],
-      "duration_ms": 113245,
-      "name": "Sesame Street Theme - 2019 Mix",
-      "url": "https://open.spotify.com/track/0A03kYvR7okcxYmqshk7lA"
+      "duration_ms": 198186,
+      "name": "Pok\u00e9mon Theme",
+      "url": "https://open.spotify.com/track/3OIHgTyQdiAGMmpjQaNxp3"
     },
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Make Your Move",
-        "url": "https://open.spotify.com/album/2nyp8Xkf7tpMADBQ6Xo8vI"
+        "name": "Here We Come",
+        "url": "https://open.spotify.com/album/5EMXt35wUlhAYTpQHiuSsR"
       },
       "artists": [
         {
@@ -76,25 +88,9 @@
           "url": "https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ"
         }
       ],
-      "duration_ms": 101694,
-      "name": "Make Your Move",
-      "url": "https://open.spotify.com/track/2q49j6l5dy3BmNiI36iz8x"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "The Loud House Theme & End Credit",
-        "url": "https://open.spotify.com/album/2etegCiek9WKyF9GtkrNAw"
-      },
-      "artists": [
-        {
-          "name": "The Loud House",
-          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
-        }
-      ],
-      "duration_ms": 80755,
-      "name": "The Loud House Theme Song",
-      "url": "https://open.spotify.com/track/3lpc0zUmr89UthmpDAycG6"
+      "duration_ms": 40000,
+      "name": "PJ Masks Theme Song",
+      "url": "https://open.spotify.com/track/7eKpWdTDReOTNn1mXPyuzf"
     },
     {
       "added_at": "2022-04-15 14:11:01",
@@ -115,6 +111,246 @@
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
+        "name": "PAW Patrol Official Theme Song & More",
+        "url": "https://open.spotify.com/album/6FGyqglqi0oS3tl4SxyZxf"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 48544,
+      "name": "PAW Patrol on a Roll",
+      "url": "https://open.spotify.com/track/2efkanyOeo0Vzkli3HfcuU"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Victorious: Music From The Hit TV Show (feat. Victoria Justice)",
+        "url": "https://open.spotify.com/album/1VM5qKftnTKFU9rthvEgYx"
+      },
+      "artists": [
+        {
+          "name": "Victorious Cast",
+          "url": "https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd"
+        },
+        {
+          "name": "Victoria Justice",
+          "url": "https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Make It Shine (Victorious Theme) (feat. Victoria Justice)",
+      "url": "https://open.spotify.com/track/4nqxQU97VmHhn3e6a3CUWZ"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Julie and the Phantoms: Season 1 (From the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm"
+      },
+      "artists": [
+        {
+          "name": "Julie and the Phantoms Cast",
+          "url": "https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC"
+        },
+        {
+          "name": "Madison Reyes",
+          "url": "https://open.spotify.com/artist/7zGcGkMtgpbkCKljWto3NQ"
+        },
+        {
+          "name": "Charlie Gillespie",
+          "url": "https://open.spotify.com/artist/2HJ4hedICRfMlEQCCNPdyz"
+        },
+        {
+          "name": "Owen Patrick Joyner",
+          "url": "https://open.spotify.com/artist/2jLTy8ur5VewqDyKUZohXa"
+        },
+        {
+          "name": "Jeremy Shada",
+          "url": "https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W"
+        }
+      ],
+      "duration_ms": 181322,
+      "name": "Edge of Great (feat. Madison Reyes, Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada)",
+      "url": "https://open.spotify.com/track/1e2ofLpE40cjEeMENP7pzv"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Hey Gabby! (Theme Song from Gabby's Dollhouse)",
+        "url": "https://open.spotify.com/album/3lkEtPQqGmOQVoYykSczSC"
+      },
+      "artists": [
+        {
+          "name": "PT Walkley",
+          "url": "https://open.spotify.com/artist/4PRBH61ujBc3VWylX0IGgG"
+        },
+        {
+          "name": "Michel Walkley",
+          "url": "https://open.spotify.com/artist/0wbtAw0LRnmB2cZYNkSXHJ"
+        },
+        {
+          "name": "Charlie Walkley",
+          "url": "https://open.spotify.com/artist/5yAhTBMRLXzUo50PIICGiA"
+        },
+        {
+          "name": "Nash Walkley",
+          "url": "https://open.spotify.com/artist/50toR6RTNrXKHJatsXHX4V"
+        }
+      ],
+      "duration_ms": 120103,
+      "name": "Hey Gabby! (Theme Song from Gabby's Dollhouse)",
+      "url": "https://open.spotify.com/track/36xw27XcI4mUqFkGKh6LtO"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Leave It All To Me (Theme from iCarly) (feat. Drake Bell)",
+        "url": "https://open.spotify.com/album/5sqQDRCog2FN2BOjCfcO4O"
+      },
+      "artists": [
+        {
+          "name": "Miranda Cosgrove",
+          "url": "https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp"
+        },
+        {
+          "name": "Drake Bell",
+          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
+        }
+      ],
+      "duration_ms": 158413,
+      "name": "Leave It All To Me (Theme from iCarly) (feat. Drake Bell)",
+      "url": "https://open.spotify.com/track/7CMIy0uwXyeBv2MvaEUJM1"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "The Muppets (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50"
+      },
+      "artists": [
+        {
+          "name": "The Muppets",
+          "url": "https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu"
+        },
+        {
+          "name": "Joanna Newsom",
+          "url": "https://open.spotify.com/artist/4gn6f5jaOO75s0oF7ozqGG"
+        }
+      ],
+      "duration_ms": 50786,
+      "name": "The Muppet Show Theme",
+      "url": "https://open.spotify.com/track/2fFnUnsRZ11zSqJoZalmxq"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "duration_ms": 145240,
+      "name": "It's Peppa Pig",
+      "url": "https://open.spotify.com/track/3XKXa1U5reVWFTvGlBbJ7B"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Steven Universe, Vol. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5MAx9iJP58ErRpSUdrV1Uk"
+      },
+      "artists": [
+        {
+          "name": "Steven Universe",
+          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
+        },
+        {
+          "name": "Deedee Magno Hall",
+          "url": "https://open.spotify.com/artist/5QGswxSXQUHzQoc2r9hVPI"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Michaela Dietz",
+          "url": "https://open.spotify.com/artist/3MBBCjjwCjbeikYXPswyZc"
+        },
+        {
+          "name": "Tom Scharpling",
+          "url": "https://open.spotify.com/artist/7mC1wcdVz5yzAWC9wjrigv"
+        },
+        {
+          "name": "Zach Callison",
+          "url": "https://open.spotify.com/artist/57YFNq46Xx86nl7ETkd1Ei"
+        }
+      ],
+      "duration_ms": 146454,
+      "name": "We Are The Crystal Gems (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling) - Full Theme Song",
+      "url": "https://open.spotify.com/track/0xmniyyldEt2E0T0sPvpOq"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Wizards of Waverly Place",
+        "url": "https://open.spotify.com/album/2aXmfPpn8Hq7B5gxOTxxi4"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 50613,
+      "name": "Everything Is Not As It Seems - Series Theme Song",
+      "url": "https://open.spotify.com/track/5U4wYRHrCRxRP6iQfM824C"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Rockin' Ride-Along Songs",
+        "url": "https://open.spotify.com/album/1isb3iavBKHs5oXLtzkIA5"
+      },
+      "artists": [
+        {
+          "name": "Blaze and the Monster Machines",
+          "url": "https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l"
+        }
+      ],
+      "duration_ms": 31068,
+      "name": "Blaze and the Monster Machines Theme Song",
+      "url": "https://open.spotify.com/track/6uaSSpEyVqcoEBLbaoiUZ6"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        },
+        {
+          "name": "Branch",
+          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
+        }
+      ],
+      "duration_ms": 134493,
+      "name": "Hair In The Air (Trolls: The Beat Goes On Theme)",
+      "url": "https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
         "name": "Bubble Guppies Bubble Bops!",
         "url": "https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF"
       },
@@ -131,22 +367,222 @@
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Pete The Cat (Expanded Version)",
-        "url": "https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37"
+        "name": "Disney Junior Music: Muppet Babies",
+        "url": "https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI"
       },
       "artists": [
         {
-          "name": "Pete the Cat",
-          "url": "https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg"
-        },
-        {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+          "name": "Renee Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D"
         }
       ],
-      "duration_ms": 45200,
-      "name": "Pete The Cat Theme (feat. Elvis Costello)",
-      "url": "https://open.spotify.com/track/2fcpeIoCs3pVmYzexXAnIk"
+      "duration_ms": 61600,
+      "name": "Muppet Babies Theme 2018",
+      "url": "https://open.spotify.com/track/4LZXzrdzNjNNhXj6rW3XTO"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Disney Junior Music: T.O.T.S. (Vol. 1)",
+        "url": "https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG"
+      },
+      "artists": [
+        {
+          "name": "T.O.T.S. - Cast",
+          "url": "https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4"
+        }
+      ],
+      "duration_ms": 40969,
+      "name": "T.O.T.S. Main Title",
+      "url": "https://open.spotify.com/track/7rllsBhVxaGhkr6gTrVstU"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Disney Junior Music: Fancy Nancy",
+        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
+      },
+      "artists": [
+        {
+          "name": "Fancy Nancy - Cast",
+          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
+        }
+      ],
+      "duration_ms": 53568,
+      "name": "Add a Little Fancy (Fancy Nancy Main Title)",
+      "url": "https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Power Rangers Dino Charge Theme Song",
+        "url": "https://open.spotify.com/album/2TlnrB2whsLXmvMKK1KpQ0"
+      },
+      "artists": [
+        {
+          "name": "Power Rangers",
+          "url": "https://open.spotify.com/artist/7cTXTmhaqdEVifI1B33cnx"
+        },
+        {
+          "name": "Noam Kaniel",
+          "url": "https://open.spotify.com/artist/7rW1m5GAR0FkbA74j0xztI"
+        }
+      ],
+      "duration_ms": 115555,
+      "name": "Power Rangers Dino Charge Theme Song - Extended Full Version",
+      "url": "https://open.spotify.com/track/7GmlAIzyeG3OjQLB7BUkgz"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "The Loud House Theme & End Credit",
+        "url": "https://open.spotify.com/album/2etegCiek9WKyF9GtkrNAw"
+      },
+      "artists": [
+        {
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+        }
+      ],
+      "duration_ms": 80755,
+      "name": "The Loud House Theme Song",
+      "url": "https://open.spotify.com/track/3lpc0zUmr89UthmpDAycG6"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Shake It Up (From \"Shake It Up\")",
+        "url": "https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Shake It Up - From \"Shake It Up\"",
+      "url": "https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Ask The StoryBots: Season 1 (Music From The Original Series)",
+        "url": "https://open.spotify.com/album/1SKApykupjLWWole4UiXoT"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 60098,
+      "name": "Ask The StoryBots Theme",
+      "url": "https://open.spotify.com/track/1JaN2fP2SeMc0B8vYCkbRm"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Songs Of Ponyville (Music From The Original TV Series)",
+        "url": "https://open.spotify.com/album/4AisqgQXW57ADDJRBQOpON"
+      },
+      "artists": [
+        {
+          "name": "Twilight Sparkle",
+          "url": "https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac"
+        },
+        {
+          "name": "Apple Jack",
+          "url": "https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT"
+        },
+        {
+          "name": "Rainbow Dash",
+          "url": "https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n"
+        },
+        {
+          "name": "Pinkie Pie",
+          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
+        },
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era"
+        },
+        {
+          "name": "Fluttershy",
+          "url": "https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU"
+        }
+      ],
+      "duration_ms": 123276,
+      "name": "My Little Pony Theme Song",
+      "url": "https://open.spotify.com/track/7IuqzB9NXVqrum0jaDQ0LY"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Blue's Clues & You Theme Song",
+        "url": "https://open.spotify.com/album/3DJlybXGWCqd5P8d2x0Bzj"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "duration_ms": 93195,
+      "name": "Blue's Clues & You Theme Song",
+      "url": "https://open.spotify.com/track/25CB87HLgvGJjx28qDlUUY"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Teen Titans Go! To The Movies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0JjBO2WnSE6pjK4TC9Jci2"
+      },
+      "artists": [
+        {
+          "name": "Greg Cipes",
+          "url": "https://open.spotify.com/artist/6L3vVRDyG1FxVkpfkY27oH"
+        },
+        {
+          "name": "Scott Menville",
+          "url": "https://open.spotify.com/artist/7JrGE2z9m0yDVXELO7o9jB"
+        },
+        {
+          "name": "Khary Payton",
+          "url": "https://open.spotify.com/artist/6NhL2mZ0OKFLvYIeyi5rd0"
+        },
+        {
+          "name": "Tara Strong",
+          "url": "https://open.spotify.com/artist/4CN7jn6DiWNaDnaJdhBMKp"
+        },
+        {
+          "name": "Hynden Walch",
+          "url": "https://open.spotify.com/artist/4yPSwzNyZhysv1v9FlV5jj"
+        }
+      ],
+      "duration_ms": 97973,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/4AORpy9kuI37FvgTF3BWrd"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "SpongeBob's Greatest Hits",
+        "url": "https://open.spotify.com/album/7n5FErCSkbQ4g2TZXKU6GD"
+      },
+      "artists": [
+        {
+          "name": "Spongebob Squarepants",
+          "url": "https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj"
+        },
+        {
+          "name": "Plankton",
+          "url": "https://open.spotify.com/artist/4gtF4P04jpHvM0GnWWd3JS"
+        }
+      ],
+      "duration_ms": 84826,
+      "name": "F.U.N. Song",
+      "url": "https://open.spotify.com/track/0gdLTqxAY4DDUQxXzmwj1z"
     },
     {
       "added_at": "2022-04-15 14:11:01",
@@ -199,498 +635,54 @@
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Rockin' Ride-Along Songs",
-        "url": "https://open.spotify.com/album/1isb3iavBKHs5oXLtzkIA5"
+        "name": "Pete The Cat (Expanded Version)",
+        "url": "https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37"
       },
       "artists": [
         {
-          "name": "Blaze and the Monster Machines",
-          "url": "https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l"
-        }
-      ],
-      "duration_ms": 31068,
-      "name": "Blaze and the Monster Machines Theme Song",
-      "url": "https://open.spotify.com/track/6uaSSpEyVqcoEBLbaoiUZ6"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Daniel Tiger's Neighborhood: Big Feelings",
-        "url": "https://open.spotify.com/album/3uhrWaD9eVHfzzI5jpr4y8"
-      },
-      "artists": [
-        {
-          "name": "Daniel Tiger\u2019s Neighborhood",
-          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
-        }
-      ],
-      "duration_ms": 94378,
-      "name": "It's Such a Good Feeling!",
-      "url": "https://open.spotify.com/track/05DnLOyGvZqA3NmyfS3fp2"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Keep Styling, Keep Singing",
-        "url": "https://open.spotify.com/album/7cgGVrEHEiJLhjzWfMfItx"
-      },
-      "artists": [
-        {
-          "name": "Sunny Day",
-          "url": "https://open.spotify.com/artist/4KqqosG1rMSwHl0AyLeatP"
-        }
-      ],
-      "duration_ms": 38113,
-      "name": "Sunny Day Theme Song",
-      "url": "https://open.spotify.com/track/1KA3N8sFdNvKqeU0zc79fT"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "The Loud House Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT"
-      },
-      "artists": [
-        {
-          "name": "The Loud House",
-          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
-        }
-      ],
-      "duration_ms": 149112,
-      "name": "Life Is Better Loud",
-      "url": "https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "The Casagrandes Theme Song",
-        "url": "https://open.spotify.com/album/4n3HX545ECl7YtcGJf6BCb"
-      },
-      "artists": [
-        {
-          "name": "The Casagrandes",
-          "url": "https://open.spotify.com/artist/6mZmc5IDtEr4QLHFDdV9pa"
+          "name": "Pete the Cat",
+          "url": "https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg"
         },
         {
-          "name": "Ally Brooke",
-          "url": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
         }
       ],
-      "duration_ms": 82836,
-      "name": "The Casagrandes Theme Song",
-      "url": "https://open.spotify.com/track/6wvT81yLxtGnRlWfAKzYwb"
+      "duration_ms": 45200,
+      "name": "Pete The Cat Theme (feat. Elvis Costello)",
+      "url": "https://open.spotify.com/track/2fcpeIoCs3pVmYzexXAnIk"
     },
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Julie and the Phantoms: Season 1 (From the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm"
+        "name": "Santiago's Sea Shanties",
+        "url": "https://open.spotify.com/album/0UhvB5gwwLXH4kCAyyo4dL"
       },
       "artists": [
         {
-          "name": "Julie and the Phantoms Cast",
-          "url": "https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC"
-        },
-        {
-          "name": "Madison Reyes",
-          "url": "https://open.spotify.com/artist/7zGcGkMtgpbkCKljWto3NQ"
-        },
-        {
-          "name": "Charlie Gillespie",
-          "url": "https://open.spotify.com/artist/2HJ4hedICRfMlEQCCNPdyz"
-        },
-        {
-          "name": "Owen Patrick Joyner",
-          "url": "https://open.spotify.com/artist/2jLTy8ur5VewqDyKUZohXa"
-        },
-        {
-          "name": "Jeremy Shada",
-          "url": "https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W"
+          "name": "Santiago of the Seas",
+          "url": "https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu"
         }
       ],
-      "duration_ms": 181322,
-      "name": "Edge of Great (feat. Madison Reyes, Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada)",
-      "url": "https://open.spotify.com/track/1e2ofLpE40cjEeMENP7pzv"
+      "duration_ms": 91482,
+      "name": "Santiago of the Seas Theme - Extended",
+      "url": "https://open.spotify.com/track/7494gF82bPmJYFYQFQsGra"
     },
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Nickelodeon's Mega Music Fest Album",
-        "url": "https://open.spotify.com/album/1yeIcnhsGdCpj1jb8cJqgI"
+        "name": "Songs from Kim Possible (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/611TrABNivsGExe1eqIRur"
       },
       "artists": [
         {
-          "name": "Nickelodeon",
-          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
-        },
-        {
-          "name": "The Patrick Star Show Cast",
-          "url": "https://open.spotify.com/artist/1R5nP9VoX1Q3iQ541QVUWX"
+          "name": "Christina Milian",
+          "url": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
         }
       ],
-      "duration_ms": 33986,
-      "name": "The Patrick Star Show Theme Song",
-      "url": "https://open.spotify.com/track/4GvT1kcqDLztVAkyeRRWEh"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
-      },
-      "artists": [
-        {
-          "name": "Ada Twist, Scientist Cast",
-          "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
-        }
-      ],
-      "duration_ms": 91624,
-      "name": "The Why Song",
-      "url": "https://open.spotify.com/track/0PPhUn8wym6SElNCXhoHad"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Dance and Sing with True",
-        "url": "https://open.spotify.com/album/3rGOpK27aWBo1U9HIa17FW"
-      },
-      "artists": [
-        {
-          "name": "True and the Rainbow Kingdom",
-          "url": "https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl"
-        }
-      ],
-      "duration_ms": 141238,
-      "name": "Grizbot Groove",
-      "url": "https://open.spotify.com/track/4qiArbjA2EqcgnfYFMSbof"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Disney Junior Music: T.O.T.S. (Vol. 1)",
-        "url": "https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG"
-      },
-      "artists": [
-        {
-          "name": "T.O.T.S. - Cast",
-          "url": "https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4"
-        }
-      ],
-      "duration_ms": 40969,
-      "name": "T.O.T.S. Main Title",
-      "url": "https://open.spotify.com/track/7rllsBhVxaGhkr6gTrVstU"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Disney Junior Music: Mira, Royal Detective Vol. 2",
-        "url": "https://open.spotify.com/album/114Dr2e40MUQcClW6nEEK4"
-      },
-      "artists": [
-        {
-          "name": "Mira, Royal Detective - Cast",
-          "url": "https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj"
-        }
-      ],
-      "duration_ms": 68258,
-      "name": "Mystery in the Sky",
-      "url": "https://open.spotify.com/track/5iKZAwDvrBQMCwJ7jnZjqG"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Disney Junior Music: Mickey Mouse Funhouse Vol. 1",
-        "url": "https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX"
-      },
-      "artists": [
-        {
-          "name": "Mickey Mouse",
-          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
-        },
-        {
-          "name": "Mickey Mouse Funhouse - Cast",
-          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
-        }
-      ],
-      "duration_ms": 78880,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/06XmduRx6Fhod8FnjyK9lh"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "My First Album",
-        "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
-      },
-      "artists": [
-        {
-          "name": "Peppa Pig",
-          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
-        }
-      ],
-      "duration_ms": 145240,
-      "name": "It's Peppa Pig",
-      "url": "https://open.spotify.com/track/3XKXa1U5reVWFTvGlBbJ7B"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Barbie Dreamhouse Adventures Theme Song",
-        "url": "https://open.spotify.com/album/3g3haWnvgJVPcNEphO4uiV"
-      },
-      "artists": [
-        {
-          "name": "Barbie",
-          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
-        }
-      ],
-      "duration_ms": 121379,
-      "name": "Barbie Dreamhouse Adventures Theme Song",
-      "url": "https://open.spotify.com/track/3cD5x5Y7ia2Kr9A46tlo82"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "PAW Patrol Official Theme Song & More",
-        "url": "https://open.spotify.com/album/6FGyqglqi0oS3tl4SxyZxf"
-      },
-      "artists": [
-        {
-          "name": "PAW Patrol",
-          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
-        }
-      ],
-      "duration_ms": 40593,
-      "name": "PAW Patrol Opening Theme",
-      "url": "https://open.spotify.com/track/7n70tzvZDfdAL1j9XqsAbH"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Work Your Body",
-        "url": "https://open.spotify.com/album/66hZhoeuuTFV9gMpv1ZzwY"
-      },
-      "artists": [
-        {
-          "name": "Jim Henson's Sid the Science Kid",
-          "url": "https://open.spotify.com/artist/24J1jPqrTfwaASivMTPuHd"
-        }
-      ],
-      "duration_ms": 33566,
-      "name": "Sid the Science Kid Theme Song",
-      "url": "https://open.spotify.com/track/131DnrFnS9XAKQX0LG70AJ"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Really Big Album",
-        "url": "https://open.spotify.com/album/5nJQTGCwiqzwe1BeQKqO7s"
-      },
-      "artists": [
-        {
-          "name": "Peg + Cat",
-          "url": "https://open.spotify.com/artist/4MP5AtPZsXVLJJUm4wvTdE"
-        }
-      ],
-      "duration_ms": 41552,
-      "name": "Peg + Cat Theme Song",
-      "url": "https://open.spotify.com/track/6SCFhlq74iw2cWM8uum68K"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Julie and the Phantoms: Season 1 (From the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm"
-      },
-      "artists": [
-        {
-          "name": "Julie and the Phantoms Cast",
-          "url": "https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC"
-        },
-        {
-          "name": "Charlie Gillespie",
-          "url": "https://open.spotify.com/artist/2HJ4hedICRfMlEQCCNPdyz"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "Unsaid Emily (feat. Charlie Gillespie)",
-      "url": "https://open.spotify.com/track/2vEDOWuYM6r2LO9HXI47F1"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Victorious: Music From The Hit TV Show (feat. Victoria Justice)",
-        "url": "https://open.spotify.com/album/1VM5qKftnTKFU9rthvEgYx"
-      },
-      "artists": [
-        {
-          "name": "Victorious Cast",
-          "url": "https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd"
-        },
-        {
-          "name": "Victoria Justice",
-          "url": "https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Make It Shine (Victorious Theme) (feat. Victoria Justice)",
-      "url": "https://open.spotify.com/track/4nqxQU97VmHhn3e6a3CUWZ"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Fantastic Voyages",
-        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
-      },
-      "artists": [
-        {
-          "name": "Yo Gabba Gabba",
-          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
-        }
-      ],
-      "duration_ms": 55008,
-      "name": "Yo Gabba Gabba! Theme",
-      "url": "https://open.spotify.com/track/5igejF6xpeDEAHwBduuyxB"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Ask The StoryBots: Season 1 (Music From The Original Series)",
-        "url": "https://open.spotify.com/album/1SKApykupjLWWole4UiXoT"
-      },
-      "artists": [
-        {
-          "name": "StoryBots",
-          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
-        }
-      ],
-      "duration_ms": 60098,
-      "name": "Ask The StoryBots Theme",
-      "url": "https://open.spotify.com/track/1JaN2fP2SeMc0B8vYCkbRm"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Theme Song",
-        "url": "https://open.spotify.com/album/4gwnoVmwbrt2DoeArXXzoi"
-      },
-      "artists": [
-        {
-          "name": "True and the Rainbow Kingdom",
-          "url": "https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl"
-        }
-      ],
-      "duration_ms": 36047,
-      "name": "Theme Song",
-      "url": "https://open.spotify.com/track/3dSwVeRv24eVFz6Mn9ilGz"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Teen Titans Go! To The Movies (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0JjBO2WnSE6pjK4TC9Jci2"
-      },
-      "artists": [
-        {
-          "name": "Greg Cipes",
-          "url": "https://open.spotify.com/artist/6L3vVRDyG1FxVkpfkY27oH"
-        },
-        {
-          "name": "Scott Menville",
-          "url": "https://open.spotify.com/artist/7JrGE2z9m0yDVXELO7o9jB"
-        },
-        {
-          "name": "Khary Payton",
-          "url": "https://open.spotify.com/artist/6NhL2mZ0OKFLvYIeyi5rd0"
-        },
-        {
-          "name": "Tara Strong",
-          "url": "https://open.spotify.com/artist/4CN7jn6DiWNaDnaJdhBMKp"
-        },
-        {
-          "name": "Hynden Walch",
-          "url": "https://open.spotify.com/artist/4yPSwzNyZhysv1v9FlV5jj"
-        }
-      ],
-      "duration_ms": 97973,
-      "name": "Go!",
-      "url": "https://open.spotify.com/track/4AORpy9kuI37FvgTF3BWrd"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Here We Come",
-        "url": "https://open.spotify.com/album/2bK91wL7wsGgJJ7uD6XFYo"
-      },
-      "artists": [
-        {
-          "name": "PJ Masks",
-          "url": "https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ"
-        }
-      ],
-      "duration_ms": 61416,
-      "name": "PJ Masks Are Feeling Great",
-      "url": "https://open.spotify.com/track/5tdafRy5LkmvdMYmLHMMha"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "PAW Patrol Official Theme Song & More",
-        "url": "https://open.spotify.com/album/6FGyqglqi0oS3tl4SxyZxf"
-      },
-      "artists": [
-        {
-          "name": "PAW Patrol",
-          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
-        }
-      ],
-      "duration_ms": 48544,
-      "name": "PAW Patrol on a Roll",
-      "url": "https://open.spotify.com/track/2efkanyOeo0Vzkli3HfcuU"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Hey Gabby! (Theme Song from Gabby's Dollhouse)",
-        "url": "https://open.spotify.com/album/3lkEtPQqGmOQVoYykSczSC"
-      },
-      "artists": [
-        {
-          "name": "PT Walkley",
-          "url": "https://open.spotify.com/artist/4PRBH61ujBc3VWylX0IGgG"
-        },
-        {
-          "name": "Michel Walkley",
-          "url": "https://open.spotify.com/artist/0wbtAw0LRnmB2cZYNkSXHJ"
-        },
-        {
-          "name": "Charlie Walkley",
-          "url": "https://open.spotify.com/artist/5yAhTBMRLXzUo50PIICGiA"
-        },
-        {
-          "name": "Nash Walkley",
-          "url": "https://open.spotify.com/artist/50toR6RTNrXKHJatsXHX4V"
-        }
-      ],
-      "duration_ms": 120103,
-      "name": "Hey Gabby! (Theme Song from Gabby's Dollhouse)",
-      "url": "https://open.spotify.com/track/36xw27XcI4mUqFkGKh6LtO"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "Equestria Girls - EP (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4tGnJMBAttq0rIAzDAMHt0"
-      },
-      "artists": [
-        {
-          "name": "My Little Pony",
-          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
-        }
-      ],
-      "duration_ms": 91415,
-      "name": "Opening Titles - Remix",
-      "url": "https://open.spotify.com/track/5uPxKN5VhekSg2mU5jK09Z"
+      "duration_ms": 157133,
+      "name": "Call Me, Beep Me! (The Kim Possible Song)",
+      "url": "https://open.spotify.com/track/47HmhXbYlMIxpN2ChwNMh9"
     },
     {
       "added_at": "2022-04-15 14:11:01",
@@ -715,138 +707,110 @@
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "SpongeBob's Greatest Hits",
-        "url": "https://open.spotify.com/album/7n5FErCSkbQ4g2TZXKU6GD"
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/2nyp8Xkf7tpMADBQ6Xo8vI"
       },
       "artists": [
         {
-          "name": "Spongebob Squarepants",
-          "url": "https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj"
-        },
-        {
-          "name": "Plankton",
-          "url": "https://open.spotify.com/artist/4gtF4P04jpHvM0GnWWd3JS"
+          "name": "PJ Masks",
+          "url": "https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ"
         }
       ],
-      "duration_ms": 84826,
-      "name": "F.U.N. Song",
-      "url": "https://open.spotify.com/track/0gdLTqxAY4DDUQxXzmwj1z"
+      "duration_ms": 101694,
+      "name": "Make Your Move",
+      "url": "https://open.spotify.com/track/2q49j6l5dy3BmNiI36iz8x"
     },
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Butterbean's Fairy Best Songs",
-        "url": "https://open.spotify.com/album/2jjc0iu6j4tfpOgXxDtRLQ"
+        "name": "Barbie Dreamhouse Adventures Theme Song",
+        "url": "https://open.spotify.com/album/3g3haWnvgJVPcNEphO4uiV"
       },
       "artists": [
         {
-          "name": "Butterbean\u2019s Cafe",
-          "url": "https://open.spotify.com/artist/60I3eGhWjudFPD2aGoFU7D"
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
         }
       ],
-      "duration_ms": 33921,
-      "name": "Butterbean\u2019s Caf\u00e9 Theme Song",
-      "url": "https://open.spotify.com/track/1Hlxa7ovZajhyd6ClPFzdV"
+      "duration_ms": 121379,
+      "name": "Barbie Dreamhouse Adventures Theme Song",
+      "url": "https://open.spotify.com/track/3cD5x5Y7ia2Kr9A46tlo82"
     },
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Nickelodeon's Mega Music Fest Album",
-        "url": "https://open.spotify.com/album/1yeIcnhsGdCpj1jb8cJqgI"
+        "name": "Adventure Time, Vol. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7irFTapPhttGWfJxgaH9pW"
       },
       "artists": [
         {
-          "name": "Nickelodeon",
-          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+          "name": "Adventure Time",
+          "url": "https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1"
         },
         {
-          "name": "Tyler Perry's Young Dylan",
-          "url": "https://open.spotify.com/artist/0kvZqeOHqGNMGKFlFAKTbZ"
-        },
-        {
-          "name": "Dylan Gilmer",
-          "url": "https://open.spotify.com/artist/5ew4AX9sIvxR96LQcBwNGu"
+          "name": "John DiMaggio",
+          "url": "https://open.spotify.com/artist/04jyrvfZFrbSjUlEXwsA53"
         }
       ],
-      "duration_ms": 132528,
-      "name": "Young Dylan Theme Song",
-      "url": "https://open.spotify.com/track/6hTzOj7DEUgsVP0HOp73qc"
+      "duration_ms": 33893,
+      "name": "Bacon Pancakes (feat. John DiMaggio)",
+      "url": "https://open.spotify.com/track/3CT99LPgxJ52AQse2LPi2U"
     },
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Theme Music",
-        "url": "https://open.spotify.com/album/1UYrtJHW76tNKpT8FK5CCF"
+        "name": "Welcome to Amphibia (From \"Amphibia\")",
+        "url": "https://open.spotify.com/album/2F9GxgXwUudEkdp5v2gE3b"
       },
       "artists": [
         {
-          "name": "Julian Nott",
-          "url": "https://open.spotify.com/artist/5rTSrGxGb29AiNRh0omvKS"
-        },
-        {
-          "name": "the cast of Peppa Pig",
-          "url": "https://open.spotify.com/artist/37SPusg3FhnvFhR4jMMriT"
+          "name": "Celica Gray",
+          "url": "https://open.spotify.com/artist/6gN0dbL3m72tw4Yb46incI"
         }
       ],
-      "duration_ms": 22026,
-      "name": "Theme Music from Peppa Pig",
-      "url": "https://open.spotify.com/track/2QAA6IYSnSkjs8ReU6NO3N"
+      "duration_ms": 43983,
+      "name": "Welcome to Amphibia - From \"Amphibia\"",
+      "url": "https://open.spotify.com/track/06xeAis34bbhcIYdwNQ28t"
     },
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Karma\u2019s World",
-        "url": "https://open.spotify.com/album/2WtR8Ymlpgvx3DXnZIrcAA"
+        "name": "The Loud House Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT"
       },
       "artists": [
         {
-          "name": "Karma's World",
-          "url": "https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS"
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+        },
+        {
+          "name": "Oh, Hush!",
+          "url": "https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk"
+        },
+        {
+          "name": "graywolfe",
+          "url": "https://open.spotify.com/artist/0ZX1HJYOIIM74QLJAKnjo6"
         }
       ],
-      "duration_ms": 143299,
-      "name": "Love For The Heights",
-      "url": "https://open.spotify.com/track/0YQGBzrLbWdBgP5hvYpqyC"
+      "duration_ms": 86939,
+      "name": "Ordinary Me",
+      "url": "https://open.spotify.com/track/4Wf6McIFTYEyJFPkSNHk3P"
     },
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "The Muppets (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50"
+        "name": "The Music of She-Ra and the Princesses of Power",
+        "url": "https://open.spotify.com/album/6S2nR6z4kPQI7WT798Tl1U"
       },
       "artists": [
         {
-          "name": "The Muppets",
-          "url": "https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu"
-        },
-        {
-          "name": "Joanna Newsom",
-          "url": "https://open.spotify.com/artist/4gn6f5jaOO75s0oF7ozqGG"
+          "name": "AJ Michalka",
+          "url": "https://open.spotify.com/artist/30HtguQmog7sTEvDJowVEC"
         }
       ],
-      "duration_ms": 50786,
-      "name": "The Muppet Show Theme",
-      "url": "https://open.spotify.com/track/2fFnUnsRZ11zSqJoZalmxq"
-    },
-    {
-      "added_at": "2022-04-15 14:11:01",
-      "album": {
-        "name": "DreamWorks Trolls - The Beat Goes On! (Music From Season 1)",
-        "url": "https://open.spotify.com/album/74G7ktttrog53aefGFcf41"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
-        },
-        {
-          "name": "Branch",
-          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
-        }
-      ],
-      "duration_ms": 134500,
-      "name": "Hair In The Air (Trolls: The Beat Goes On Theme)",
-      "url": "https://open.spotify.com/track/2GMgGGx83x0QtJ2Q0qK0Vf"
+      "duration_ms": 210253,
+      "name": "Warriors (She-Ra and the Princesses of Power)",
+      "url": "https://open.spotify.com/track/1VQTA3jeKZ9ul94xroHmbz"
     },
     {
       "added_at": "2022-04-15 14:11:01",
@@ -867,8 +831,24 @@
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Shine On Everyone",
-        "url": "https://open.spotify.com/album/5M4wisJxzqcU0GVQaOFv9E"
+        "name": "Butterbean's Fairy Best Songs",
+        "url": "https://open.spotify.com/album/2jjc0iu6j4tfpOgXxDtRLQ"
+      },
+      "artists": [
+        {
+          "name": "Butterbean\u2019s Cafe",
+          "url": "https://open.spotify.com/artist/60I3eGhWjudFPD2aGoFU7D"
+        }
+      ],
+      "duration_ms": 33921,
+      "name": "Butterbean\u2019s Caf\u00e9 Theme Song",
+      "url": "https://open.spotify.com/track/1Hlxa7ovZajhyd6ClPFzdV"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Here We Come",
+        "url": "https://open.spotify.com/album/5EMXt35wUlhAYTpQHiuSsR"
       },
       "artists": [
         {
@@ -876,41 +856,93 @@
           "url": "https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ"
         }
       ],
-      "duration_ms": 101850,
-      "name": "Shine On Everyone",
-      "url": "https://open.spotify.com/track/7nTCmhPnplDQ21oOyeh5wd"
+      "duration_ms": 61416,
+      "name": "PJ Masks Are Feeling Great",
+      "url": "https://open.spotify.com/track/2tOQWE0pK4uXeVFrjOELAW"
     },
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Songs from Kim Possible (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/611TrABNivsGExe1eqIRur"
+        "name": "Songs from That's So Raven",
+        "url": "https://open.spotify.com/album/6d2GhUjA9Ce6dRsMDOkmRu"
       },
       "artists": [
         {
-          "name": "Christina Milian",
-          "url": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
+          "name": "Raven-Symon\u00e9",
+          "url": "https://open.spotify.com/artist/6kUQJlewgd3UFKVYrrmILh"
         }
       ],
-      "duration_ms": 157133,
-      "name": "Call Me, Beep Me! (The Kim Possible Song)",
-      "url": "https://open.spotify.com/track/47HmhXbYlMIxpN2ChwNMh9"
+      "duration_ms": 50933,
+      "name": "That's So Raven (Theme Song)",
+      "url": "https://open.spotify.com/track/02sVnwa4wVikUfBh6PN8u7"
     },
     {
       "added_at": "2022-04-15 14:11:01",
       "album": {
-        "name": "Party in Fraggle Rock (Single from \"Fraggle Rock: Back to the Rock\")",
-        "url": "https://open.spotify.com/album/6fSrfyTrShO9jJ36C6qcI2"
+        "name": "The Casagrandes Theme Song",
+        "url": "https://open.spotify.com/album/4n3HX545ECl7YtcGJf6BCb"
       },
       "artists": [
         {
-          "name": "Fraggle Rock",
-          "url": "https://open.spotify.com/artist/3Nxg9jbBUXycegdZFGuoEr"
+          "name": "The Casagrandes",
+          "url": "https://open.spotify.com/artist/6mZmc5IDtEr4QLHFDdV9pa"
+        },
+        {
+          "name": "Ally Brooke",
+          "url": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
         }
       ],
-      "duration_ms": 99506,
-      "name": "Party in Fraggle Rock (Single from \"Fraggle Rock: Back to the Rock\")",
-      "url": "https://open.spotify.com/track/7jN7Bw5k1AZL8adcWrDtHS"
+      "duration_ms": 82836,
+      "name": "The Casagrandes Theme Song",
+      "url": "https://open.spotify.com/track/6wvT81yLxtGnRlWfAKzYwb"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "The Loud House Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT"
+      },
+      "artists": [
+        {
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+        }
+      ],
+      "duration_ms": 149112,
+      "name": "Life Is Better Loud",
+      "url": "https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9"
+    },
+    {
+      "added_at": "2022-04-15 14:11:01",
+      "album": {
+        "name": "Equestria Girls - EP (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4tGnJMBAttq0rIAzDAMHt0"
+      },
+      "artists": [
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "duration_ms": 91415,
+      "name": "Opening Titles - Remix",
+      "url": "https://open.spotify.com/track/5uPxKN5VhekSg2mU5jK09Z"
     }
   ],
   "unique_name": "Family TV Tunes",

@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : November Ultra",
+  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : Olympe Chabert",
   "name": "RADAR FRANCE",
   "published_playlist_ids": [
     "5n9koYIGQWOBSUyvQu30SO"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Immoral & Ill\u00e9gal",
+        "url": "https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU"
+      },
+      "artists": [
+        {
+          "name": "Garg\u00e4ntua",
+          "url": "https://open.spotify.com/artist/1ScFJG5ccOnTPPUin8cPFu"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233990,
+      "name": "Alcool Alcool",
+      "url": "https://open.spotify.com/track/6wriPlx1qGGI7yOrtSGNvY"
+    },
     {
       "album": {
         "name": "Au bout de ma rue",
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 143853,
       "name": "bedroom walls",
       "url": "https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 201541,
       "name": "C'est comme le Soleil",
       "url": "https://open.spotify.com/track/6FLq3GelXxESTfa85EXgix"
@@ -257,10 +275,28 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150066,
       "name": "Dans la sauce",
       "url": "https://open.spotify.com/track/0auHcOjJqevDw665HOHpma"
+    },
+    {
+      "album": {
+        "name": "Wingu",
+        "url": "https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150066,
+      "name": "Dans la sauce",
+      "url": "https://open.spotify.com/track/4JotkTX7ImmIoQK5gwBIIh"
     },
     {
       "album": {
@@ -293,7 +329,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 185625,
       "name": "De l'air",
       "url": "https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU"
@@ -333,6 +369,24 @@
       "duration_ms": 175530,
       "name": "Dis-moi",
       "url": "https://open.spotify.com/track/5MMkgucRpQfKulEXrNk9Yc"
+    },
+    {
+      "album": {
+        "name": "La fin de la nuit",
+        "url": "https://open.spotify.com/album/61B9Jgp1u9U46CUNIFOJfb"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177613,
+      "name": "Docteur",
+      "url": "https://open.spotify.com/track/0WoXJsM5EKwhYURKx3p1p2"
     },
     {
       "album": {
@@ -390,6 +444,24 @@
     },
     {
       "album": {
+        "name": "Jeune The Doug",
+        "url": "https://open.spotify.com/album/5XXx9jvwEc4r3C9yXciIEo"
+      },
+      "artists": [
+        {
+          "name": "The Doug",
+          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182760,
+      "name": "Faire le bien",
+      "url": "https://open.spotify.com/track/2J0rXl0ku1QJ6pwV4KfqBw"
+    },
+    {
+      "album": {
         "name": "Faire les choses bien",
         "url": "https://open.spotify.com/album/5ElfdD5QqQ5HB3c67fA3x3"
       },
@@ -405,7 +477,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 257785,
       "name": "Faire les choses bien - Version alternative",
       "url": "https://open.spotify.com/track/6sqYnu5QuI8e1JwxlbwFs4"
@@ -668,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Pour la vie enti\u00e8re",
+        "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
+      },
+      "artists": [
+        {
+          "name": "blond",
+          "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179773,
+      "name": "Les bonnes mani\u00e8res",
+      "url": "https://open.spotify.com/track/3Gp36IydZoAw6p1Lb9HvIS"
+    },
+    {
+      "album": {
         "name": "Les gens qui doutent",
         "url": "https://open.spotify.com/album/4qa4kWwOe8wH1SRrE4kx7U"
       },
@@ -805,10 +895,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 208702,
       "name": "On m'a dit",
       "url": "https://open.spotify.com/track/0vg9919pYOV7mkiEZZDCHo"
+    },
+    {
+      "album": {
+        "name": "Home of Sanity (the playlist)",
+        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236167,
+      "name": "ophelie",
+      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
     },
     {
       "album": {
@@ -845,6 +953,24 @@
       "duration_ms": 191056,
       "name": "Parlons de nous",
       "url": "https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8"
+    },
+    {
+      "album": {
+        "name": "L'\u00c9lu",
+        "url": "https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i"
+      },
+      "artists": [
+        {
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143525,
+      "name": "Pas b\u00eate",
+      "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
     },
     {
       "album": {
@@ -899,6 +1025,24 @@
       "duration_ms": 195798,
       "name": "Rayons Gamma",
       "url": "https://open.spotify.com/track/3vk4CWWFlo1UAjCFG6ctZq"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e9o&Juliette",
+        "url": "https://open.spotify.com/album/59WxYXTPmlmd2Y1aZWM6eP"
+      },
+      "artists": [
+        {
+          "name": "Olympe Chabert",
+          "url": "https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232253,
+      "name": "Rom\u00e9o&Juliette",
+      "url": "https://open.spotify.com/track/2tIWSnNLyD2EdGgcnkyzl3"
     },
     {
       "album": {
@@ -971,7 +1115,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 208309,
       "name": "si rose",
       "url": "https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5"
@@ -996,6 +1140,24 @@
     },
     {
       "album": {
+        "name": "Suffisamment",
+        "url": "https://open.spotify.com/album/1xwjEIbQEqd9gFnUlm0SUb"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Suffisamment",
+      "url": "https://open.spotify.com/track/7jIsa1OvMZSWWmOxqekPCx"
+    },
+    {
+      "album": {
         "name": "Tapion",
         "url": "https://open.spotify.com/album/0aOEqCwX0R9fr9vpdXIdEA"
       },
@@ -1007,10 +1169,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 197200,
       "name": "Tapion",
       "url": "https://open.spotify.com/track/2vHzw04q8IL0wRKJmBDocw"
+    },
+    {
+      "album": {
+        "name": "Tarzan",
+        "url": "https://open.spotify.com/album/0vvWbMFuL708tNtMx4Z2QL"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190146,
+      "name": "Tarzan",
+      "url": "https://open.spotify.com/track/7bTEYM4keeHBnm8h0nBj5G"
     },
     {
       "album": {
@@ -1065,7 +1245,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 193146,
       "name": "Ton nom",
       "url": "https://open.spotify.com/track/1d1mEmt257v9YrrW5LTNsG"
@@ -1155,7 +1335,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 176093,
       "name": "Vieux",
       "url": "https://open.spotify.com/track/3PcnIkTtKWGppswX0FErvk"
@@ -1173,7 +1353,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 154400,
       "name": "Vue sur la mer",
       "url": "https://open.spotify.com/track/6YkaP9iPyhk4tqZ6GcnTuU"
@@ -1213,7 +1393,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 192857,
       "name": "\u16cb. INSPIR\u00c9 DE FAITS R\u00c9ELS #4",
       "url": "https://open.spotify.com/track/02PO29J9Hjay8TPbyDskVH"

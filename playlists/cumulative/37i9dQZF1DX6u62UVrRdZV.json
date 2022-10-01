@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Animal Remixes",
+        "url": "https://open.spotify.com/album/1QR3ok2BgBhCicv4DQOhuH"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271106,
+      "name": "Animal - Mark Ronson Remix",
+      "url": "https://open.spotify.com/track/1jsdtlKxAPYSVKwqsIJGLb"
+    },
+    {
+      "album": {
         "name": "Miike Snow",
         "url": "https://open.spotify.com/album/1AMTbO4k2kPRAn6udg9qJz"
       },
@@ -23,7 +41,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270360,
       "name": "Animal - Mark Ronson Remix",
       "url": "https://open.spotify.com/track/3Nbgpc2ooFHtkCT9ZLRFXg"
@@ -41,10 +59,50 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165786,
       "name": "Bedroom Bully",
       "url": "https://open.spotify.com/track/3KiVsbXehlQmO8ob18EL6B"
+    },
+    {
+      "album": {
+        "name": "It (Incomparable Talent)",
+        "url": "https://open.spotify.com/album/1DHJhXAwi3cvPM0LscDsyZ"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165786,
+      "name": "Bedroom Bully",
+      "url": "https://open.spotify.com/track/5esGnzJMqZQP3XBWC4PJYY"
+    },
+    {
+      "album": {
+        "name": "Black Rabbit",
+        "url": "https://open.spotify.com/album/1NFY55qk8QDEobcEVsY4AF"
+      },
+      "artists": [
+        {
+          "name": "Prince Fatty",
+          "url": "https://open.spotify.com/artist/2KQRgrZISaDwQNpiLUTAnr"
+        },
+        {
+          "name": "Shniece McMenamin",
+          "url": "https://open.spotify.com/artist/44odrjJUepZctaUDynBx8E"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227491,
+      "name": "Black Rabbit - Dub",
+      "url": "https://open.spotify.com/track/4ps8OmIEuSBxkZzpmKaTxW"
     },
     {
       "album": {
@@ -63,7 +121,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227491,
       "name": "Black Rabbit - Dub",
       "url": "https://open.spotify.com/track/50h7ajX4uBhEX7VUWvtCbW"
@@ -92,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Borro Cassette",
+      "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
+    },
+    {
+      "album": {
         "name": "Borro Cassette",
         "url": "https://open.spotify.com/album/4PAmAgjdsvX5oRLrJQvGCW"
       },
@@ -103,7 +179,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217920,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/2ocDZVhBiGCaaZRNW3fmSd"
@@ -169,10 +245,28 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153500,
       "name": "Chain",
       "url": "https://open.spotify.com/track/6exM77JuqVZq4XS8X8ABSj"
+    },
+    {
+      "album": {
+        "name": "Chain - Single",
+        "url": "https://open.spotify.com/album/6ctEe5UeQ2NBIb0Z12muZ2"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154071,
+      "name": "Chain",
+      "url": "https://open.spotify.com/track/5zXHt4m9Aj3ybArW7FgXq1"
     },
     {
       "album": {
@@ -205,10 +299,28 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174190,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/5ByIHT8s38diBQf6dkEWbt"
+    },
+    {
+      "album": {
+        "name": "Me 4 U",
+        "url": "https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY"
+      },
+      "artists": [
+        {
+          "name": "OMI",
+          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180560,
+      "name": "Cheerleader - Felix Jaehn Remix Radio Edit",
+      "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
     },
     {
       "album": {
@@ -227,10 +339,32 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223063,
       "name": "Come Over (feat. Stylo G)",
       "url": "https://open.spotify.com/track/1s53uhPZHTB50uIPrDiA2L"
+    },
+    {
+      "album": {
+        "name": "New Eyes",
+        "url": "https://open.spotify.com/album/4a6DxkhmMvvEdPXxm4ergN"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223063,
+      "name": "Come Over (feat. Stylo G)",
+      "url": "https://open.spotify.com/track/47Av8QkXRAhsrYxr51X3hC"
     },
     {
       "album": {
@@ -267,10 +401,28 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240092,
       "name": "Encantadora",
       "url": "https://open.spotify.com/track/6orQZTTBvgRem8OZFbDYdT"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240093,
+      "name": "Encantadora",
+      "url": "https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb"
     },
     {
       "album": {
@@ -292,6 +444,28 @@
     },
     {
       "album": {
+        "name": "Free The Universe (Extended Version)",
+        "url": "https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Amber Coffman",
+          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289973,
+      "name": "Get Free",
+      "url": "https://open.spotify.com/track/0yhGTljYYHyP7phuxoKWiJ"
+    },
+    {
+      "album": {
         "name": "Free The Universe",
         "url": "https://open.spotify.com/album/0YCQXNvumvaKzCOJT8tLwA"
       },
@@ -303,7 +477,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 291162,
       "name": "Get Free (feat. Amber of Dirty Projectors)",
       "url": "https://open.spotify.com/track/3ImoG3mDx8nadslaZeXEXK"
@@ -333,7 +507,7 @@
     {
       "album": {
         "name": "Break the Chain",
-        "url": "https://open.spotify.com/album/1VkofCI3bwDYkrhVAC2XDS"
+        "url": "https://open.spotify.com/album/6DMdoqZttHBy4VC80Kr3Yz"
       },
       "artists": [
         {
@@ -344,6 +518,24 @@
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 160821,
+      "name": "Golddigger",
+      "url": "https://open.spotify.com/track/2dvHq6NLk7ZWux7QZeJKoL"
+    },
+    {
+      "album": {
+        "name": "Break the Chain",
+        "url": "https://open.spotify.com/album/1VkofCI3bwDYkrhVAC2XDS"
+      },
+      "artists": [
+        {
+          "name": "Randy Valentine",
+          "url": "https://open.spotify.com/artist/6qPjo0iKI9TQoc4vlCzYk1"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 160821,
       "name": "Golddigger",
       "url": "https://open.spotify.com/track/6r1rqsRvf8WOHv0MtJAXJ2"
@@ -369,10 +561,36 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169773,
       "name": "Good Enuff - Cash Flow Dub",
       "url": "https://open.spotify.com/track/219czERofO0VNx1WIgsw3l"
+    },
+    {
+      "album": {
+        "name": "Lazers Never Die",
+        "url": "https://open.spotify.com/album/3eGbUm5Wf64fzDATCAVNi4"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        },
+        {
+          "name": "Lindi Ortega",
+          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171040,
+      "name": "Good Enuff - Cash Flow Dub",
+      "url": "https://open.spotify.com/track/7aPko8WfIkpMMwVflASZT5"
     },
     {
       "album": {
@@ -391,10 +609,32 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199386,
       "name": "I Wanna Be the One",
       "url": "https://open.spotify.com/track/0Qg2TXTGyKePHKZNtBGEK4"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be the One",
+        "url": "https://open.spotify.com/album/465gPsi85NtWuAyl5Og8pG"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Chevaughn",
+          "url": "https://open.spotify.com/artist/6OkYIMcOAxfbv4YmCWe33w"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199386,
+      "name": "I Wanna Be the One",
+      "url": "https://open.spotify.com/track/6EU6TOBNnr0JfvzAs74NYP"
     },
     {
       "album": {
@@ -420,6 +660,24 @@
     },
     {
       "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217106,
+      "name": "King Of The Dancehall",
+      "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
+    },
+    {
+      "album": {
         "name": "King Of The Dancehall",
         "url": "https://open.spotify.com/album/3JKNBYlQcjxSPyLkZq0bU0"
       },
@@ -431,7 +689,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217106,
       "name": "King Of The Dancehall",
       "url": "https://open.spotify.com/track/6UFFuz7mqMF39rnyVi7IJG"
@@ -449,10 +707,28 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190960,
       "name": "Kingston Town",
       "url": "https://open.spotify.com/track/6cOrnBtY3jN76BQpYTiD8v"
+    },
+    {
+      "album": {
+        "name": "Soul Pirate",
+        "url": "https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC"
+      },
+      "artists": [
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192400,
+      "name": "Kingston Town",
+      "url": "https://open.spotify.com/track/2OHQhOiGIYaXqqJVIMpNrF"
     },
     {
       "album": {
@@ -471,6 +747,32 @@
       "duration_ms": 220524,
       "name": "La Pelea",
       "url": "https://open.spotify.com/track/1ibTjlZgMLH4xgPX45Zn8f"
+    },
+    {
+      "album": {
+        "name": "Peace Is The Mission (Extended)",
+        "url": "https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176561,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG"
     },
     {
       "album": {
@@ -493,10 +795,32 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176561,
       "name": "Lean On (feat. M\u00d8 & DJ Snake)",
       "url": "https://open.spotify.com/track/4WjH9Bzt3kx7z8kl0awxh4"
+    },
+    {
+      "album": {
+        "name": "Escape From Babylon",
+        "url": "https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD"
+      },
+      "artists": [
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        },
+        {
+          "name": "I.Eye",
+          "url": "https://open.spotify.com/artist/01zqTZ32M8dp9sjSRFlNCt"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248760,
+      "name": "Mama She Don't Like You (feat. I.Eye)",
+      "url": "https://open.spotify.com/track/1wWqU1J2RvPdf9k1ECn4Ny"
     },
     {
       "album": {
@@ -511,10 +835,28 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239266,
       "name": "Mama She Don't Like You - feat. I.Eye",
       "url": "https://open.spotify.com/track/2LfjfCgBzafdPlBtmUlKev"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266986,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/454h9zAIuTe1eJyw9iTnj4"
     },
     {
       "album": {
@@ -529,7 +871,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267000,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug"
@@ -547,10 +889,50 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159428,
       "name": "Money a Di Right Ting",
       "url": "https://open.spotify.com/track/7wR0eLbYxDJ7lCPb69NdyI"
+    },
+    {
+      "album": {
+        "name": "Wild West Riddim",
+        "url": "https://open.spotify.com/album/5niFrijxxdS1xylowyprDP"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159449,
+      "name": "Money a Di Right Ting",
+      "url": "https://open.spotify.com/track/4Xna2E9f0QEDNUgnNZI3nk"
+    },
+    {
+      "album": {
+        "name": "My Music EP",
+        "url": "https://open.spotify.com/album/7HtiHpnk7DZOIyr7m8ETp8"
+      },
+      "artists": [
+        {
+          "name": "Dubkasm",
+          "url": "https://open.spotify.com/artist/2cEQyve0SK4lHQSeGOhqwC"
+        },
+        {
+          "name": "Buggsy",
+          "url": "https://open.spotify.com/artist/5bpN1MF5zqWwTY9JQRIAx3"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288463,
+      "name": "My Music (feat. Buggsy)",
+      "url": "https://open.spotify.com/track/2u77VJY3KqIWdOMZ4kvraM"
     },
     {
       "album": {
@@ -573,7 +955,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 288463,
       "name": "My Music (feat. Buggsy)",
       "url": "https://open.spotify.com/track/72H9mc676DUkERQpPLiMh9"
@@ -643,10 +1025,28 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173567,
       "name": "Nuh Like Da Style Yah",
       "url": "https://open.spotify.com/track/416YHT0G6hBwIyOy2VHvhD"
+    },
+    {
+      "album": {
+        "name": "Intoxxicated Riddim",
+        "url": "https://open.spotify.com/album/2Kr3GHlrKjrq0VF6wwVh7P"
+      },
+      "artists": [
+        {
+          "name": "Bugle",
+          "url": "https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173590,
+      "name": "Nuh Like da Style Yah",
+      "url": "https://open.spotify.com/track/4Kp19kNlmNY6QUmDqHOXlZ"
     },
     {
       "album": {
@@ -715,10 +1115,50 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181839,
       "name": "Rebel Hifi",
       "url": "https://open.spotify.com/track/7fTma0ZJ0Q4tkLtnHF11fG"
+    },
+    {
+      "album": {
+        "name": "Rebel Hifi (Remixes) (feat. Spikey Tee)",
+        "url": "https://open.spotify.com/album/2oNu83nbRXNrFg0j9h2g3j"
+      },
+      "artists": [
+        {
+          "name": "Lotek",
+          "url": "https://open.spotify.com/artist/1Ne5E79pl0FLsaSX5nML1s"
+        },
+        {
+          "name": "Spikey Tee",
+          "url": "https://open.spotify.com/artist/6a4hSUQZf8eszRQyOgbR75"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181839,
+      "name": "Rebel Hifi",
+      "url": "https://open.spotify.com/track/2Gvqxi6K6A6gYliyc9kxsY"
+    },
+    {
+      "album": {
+        "name": "I Am The Upsetter - The Story Of The Lee \"Scratch\" Perry Golden Years",
+        "url": "https://open.spotify.com/album/77e2HqGY8NQZCTLbC3q61n"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234080,
+      "name": "Small Axe",
+      "url": "https://open.spotify.com/track/7gYWCaKeuAJKhGiauRrFsj"
     },
     {
       "album": {
@@ -733,7 +1173,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240146,
       "name": "Small Axe",
       "url": "https://open.spotify.com/track/3rv2jT77RT99OSidcW4oqD"
@@ -773,10 +1213,46 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 102400,
       "name": "Special Delivery",
       "url": "https://open.spotify.com/track/16IdoXlXlPgJNVzTFFpevJ"
+    },
+    {
+      "album": {
+        "name": "Special Delivery",
+        "url": "https://open.spotify.com/album/0R8MTkNTCXHFFXYu8awNfq"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102400,
+      "name": "Special Delivery",
+      "url": "https://open.spotify.com/track/6YwqfLLJVipwMZoFxhFpNq"
+    },
+    {
+      "album": {
+        "name": "Twice",
+        "url": "https://open.spotify.com/album/7A8gJglITsO8pUdnzcS6Gf"
+      },
+      "artists": [
+        {
+          "name": "Hollie Cook",
+          "url": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245629,
+      "name": "Tiger Balm",
+      "url": "https://open.spotify.com/track/3Adx062tdqrJnUBqauym15"
     },
     {
       "album": {
@@ -791,7 +1267,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245629,
       "name": "Tiger Balm",
       "url": "https://open.spotify.com/track/774OIerK6vGTqR9VNf4y6y"
@@ -897,7 +1373,7 @@
     {
       "album": {
         "name": "Welcome to Jamrock",
-        "url": "https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5"
+        "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
       },
       "artists": [
         {
@@ -908,6 +1384,24 @@
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213200,
+      "name": "Welcome To Jamrock",
+      "url": "https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG"
+    },
+    {
+      "album": {
+        "name": "Welcome to Jamrock",
+        "url": "https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 213200,
       "name": "Welcome To Jamrock",
       "url": "https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6"
@@ -969,10 +1463,32 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207675,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/7Hq8cSsjf2iQPDM8UXMOpE"
+    },
+    {
+      "album": {
+        "name": "Ancient Future",
+        "url": "https://open.spotify.com/album/6BsOed5euH2KWEujQZrFaF"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208466,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/43CAMHDrAVA3nJP2zgKJDI"
     },
     {
       "album": {
@@ -995,10 +1511,40 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 299984,
       "name": "Worldwide Traveller - Dreadsquad Remix",
       "url": "https://open.spotify.com/track/57Eo0fWSrvI58RyMgq2w9p"
+    },
+    {
+      "album": {
+        "name": "Worldwide Traveller",
+        "url": "https://open.spotify.com/album/7H8vNgN7WdpViUTKKYXR9W"
+      },
+      "artists": [
+        {
+          "name": "Chopstick Dubplate",
+          "url": "https://open.spotify.com/artist/1llsKlMeU35w7oct8C2pxI"
+        },
+        {
+          "name": "Top Cat",
+          "url": "https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j"
+        },
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
+        },
+        {
+          "name": "Dreadsquad",
+          "url": "https://open.spotify.com/artist/7xFwx08ljvRKCtwduYfLFY"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299984,
+      "name": "Worldwide Traveller - Dreadsquad Remix",
+      "url": "https://open.spotify.com/track/2xCvUwV0bFrchbeciFNCY3"
     },
     {
       "album": {
@@ -1013,10 +1559,28 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150173,
       "name": "You're Wondering Now",
       "url": "https://open.spotify.com/track/0rYqYwP8zLQ4Xr9pYZtPXl"
+    },
+    {
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153413,
+      "name": "You're Wondering Now",
+      "url": "https://open.spotify.com/track/7ee1XEOzZgzTQWNaiHZvKY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6u62UVrRdZV"

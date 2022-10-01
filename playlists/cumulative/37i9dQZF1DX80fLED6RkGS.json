@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q?si=dHc9UkpbQz2jb-MNOXBWbw\">Boondocks Gang</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=GCrVoHQWQXCU24-AeFvXNQ\">Maandy</a> ",
   "name": "Gengetone Fire",
   "published_playlist_ids": [
     "7MvfVmuw7tyjVzEqBd5mPq"
@@ -126,6 +126,50 @@
     },
     {
       "album": {
+        "name": "Kelele",
+        "url": "https://open.spotify.com/album/2qy5pSFN4r6WdjFRcZahbi"
+      },
+      "artists": [
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        },
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 163160,
+      "name": "Alert",
+      "url": "https://open.spotify.com/track/0F85rtn6C9ypTVXtRk80gW"
+    },
+    {
+      "album": {
+        "name": "Kelele (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1KDJyapBIBQjRGiLhJKzTG"
+      },
+      "artists": [
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        },
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163160,
+      "name": "Alert",
+      "url": "https://open.spotify.com/track/33htkCWlVopcE4UQRQ8710"
+    },
+    {
+      "album": {
         "name": "Ameiva",
         "url": "https://open.spotify.com/album/2Nst24UckqXS312dQ6JNv7"
       },
@@ -171,6 +215,24 @@
       "duration_ms": 168000,
       "name": "Amsha Simba",
       "url": "https://open.spotify.com/track/0gN1EJ0zugTJje0bT2kasF"
+    },
+    {
+      "album": {
+        "name": "Sugarcane",
+        "url": "https://open.spotify.com/album/0Uf3m96SQ0l1ZejwD17YDD"
+      },
+      "artists": [
+        {
+          "name": "Seska",
+          "url": "https://open.spotify.com/artist/0I1qRE43DtaywX3NxLk8WZ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181603,
+      "name": "Apewe Mic",
+      "url": "https://open.spotify.com/track/1ihwva2Geog94pHxDUinYq"
     },
     {
       "album": {
@@ -549,10 +611,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 196310,
       "name": "Chachisha",
       "url": "https://open.spotify.com/track/3B8HK99F4bvh2P2zD3LpE6"
+    },
+    {
+      "album": {
+        "name": "Vivi The Album",
+        "url": "https://open.spotify.com/album/6aLva35MBow24eToRVDKC7"
+      },
+      "artists": [
+        {
+          "name": "Vivian Kenya",
+          "url": "https://open.spotify.com/artist/5VPOmZOwOPNzb6rqlNkul3"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196310,
+      "name": "Chachisha",
+      "url": "https://open.spotify.com/track/2p5qCcxhQghPIXgExufeSC"
     },
     {
       "album": {
@@ -607,7 +687,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 216000,
       "name": "Character Development",
       "url": "https://open.spotify.com/track/5E4yMQEONWdxxoDlS1cEBw"
@@ -671,7 +751,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 240837,
       "name": "Chingri",
       "url": "https://open.spotify.com/track/695iTP0Wk2V9gBHRKiplZb"
@@ -719,6 +799,64 @@
       "duration_ms": 211200,
       "name": "Chunduka",
       "url": "https://open.spotify.com/track/0UXO7Xe0HZdncbATDZZEx0"
+    },
+    {
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/3kTpDX8OQWsQ9mRuPwFyoK"
+      },
+      "artists": [
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Shekina Karen",
+          "url": "https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154388,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/4BlBFQR8SjwtHpsuJIMoFu"
+    },
+    {
+      "album": {
+        "name": "Dakika Tano",
+        "url": "https://open.spotify.com/album/3dvnUAmlRM10DUgVyQmN58"
+      },
+      "artists": [
+        {
+          "name": "Rekles",
+          "url": "https://open.spotify.com/artist/4HJqolqPOEFhm9AmEKeQ83"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188682,
+      "name": "Dakika Tano",
+      "url": "https://open.spotify.com/track/6rpo0AjGoDcks0A9YAUTqd"
+    },
+    {
+      "album": {
+        "name": "DANCEHALLING",
+        "url": "https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc"
+      },
+      "artists": [
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144065,
+      "name": "DANCEHALLING",
+      "url": "https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi"
     },
     {
       "album": {
@@ -1028,6 +1166,36 @@
     },
     {
       "album": {
+        "name": "Freshi Barida (Remix)",
+        "url": "https://open.spotify.com/album/4eXnMIxfeI9uvVhwanHigy"
+      },
+      "artists": [
+        {
+          "name": "Stevo Simple Boy",
+          "url": "https://open.spotify.com/artist/4AWQoDrvQdiwSMZgphLTfI"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "Ntosh Ngazi",
+          "url": "https://open.spotify.com/artist/4QvwgtZXeVbmyeKTRqOczU"
+        },
+        {
+          "name": "Exray",
+          "url": "https://open.spotify.com/artist/4LuC7VnBIHO29vdcrMtk8l"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "Freshi Barida - Remix",
+      "url": "https://open.spotify.com/track/5YGdJhOjYHJsJgE9PGlCMF"
+    },
+    {
+      "album": {
         "name": "Gari Kubwa",
         "url": "https://open.spotify.com/album/4RUhXpGcQOHMRjxtVL7Ueg"
       },
@@ -1091,10 +1259,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 246883,
       "name": "Gin ama Whiskey",
       "url": "https://open.spotify.com/track/4avsKo1gmFshYWbaom1ziJ"
+    },
+    {
+      "album": {
+        "name": "Gin Ama Whiskey",
+        "url": "https://open.spotify.com/album/0IU5Kq4BLwGZRbDq1rIy93"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246883,
+      "name": "Gin Ama Whiskey",
+      "url": "https://open.spotify.com/track/6zhNp08Kd10UrhfvOCLu0d"
     },
     {
       "album": {
@@ -1321,7 +1511,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230204,
       "name": "Kalale",
       "url": "https://open.spotify.com/track/4x1dXhe2guntPZFNckJ7fz"
@@ -1346,6 +1536,42 @@
     },
     {
       "album": {
+        "name": "Kamkora",
+        "url": "https://open.spotify.com/album/38gKoE7uMtIGeppBrhHDrW"
+      },
+      "artists": [
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173818,
+      "name": "Kamkora",
+      "url": "https://open.spotify.com/track/6MTKpuVgwGXlTImS6gGYGu"
+    },
+    {
+      "album": {
+        "name": "Kanairo Dating",
+        "url": "https://open.spotify.com/album/0OH5okIVBbVDxhUfxdjt5J"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221332,
+      "name": "Kanairo Dating",
+      "url": "https://open.spotify.com/track/61yhVznYvsruXvl71ld3ig"
+    },
+    {
+      "album": {
         "name": "Kanuthu",
         "url": "https://open.spotify.com/album/6cufmY8u4KyFzh5HZvfQBB"
       },
@@ -1361,6 +1587,28 @@
       "duration_ms": 184056,
       "name": "Kanuthu",
       "url": "https://open.spotify.com/track/06kYoTv4WcXaSjXazTUQNp"
+    },
+    {
+      "album": {
+        "name": "Kata Simu Tupo Site",
+        "url": "https://open.spotify.com/album/55JPWUIgkSDbNao09s4Y1U"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        },
+        {
+          "name": "Mc Rayan The Dj",
+          "url": "https://open.spotify.com/artist/230ekA5qM5ff89XJ7qIN4Z"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134843,
+      "name": "Kata Simu Tupo Site",
+      "url": "https://open.spotify.com/track/1im2flSA48HRObloZjJwOm"
     },
     {
       "album": {
@@ -1892,6 +2140,36 @@
     },
     {
       "album": {
+        "name": "Mahewa (Remix)",
+        "url": "https://open.spotify.com/album/6qayCvWNrxRwu7WUyO7v0M"
+      },
+      "artists": [
+        {
+          "name": "Gody Tennor",
+          "url": "https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB"
+        },
+        {
+          "name": "Kushman Pedi Wa Magenge",
+          "url": "https://open.spotify.com/artist/7jEJcY9wV2iQpXFVAu1lGF"
+        },
+        {
+          "name": "Parroty",
+          "url": "https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK"
+        },
+        {
+          "name": "Wakanda",
+          "url": "https://open.spotify.com/artist/4eADGBViPg3rolrLAlGWTY"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252244,
+      "name": "Mahewa - Remix",
+      "url": "https://open.spotify.com/track/3KLcOOjnMXyZFk5ZFekGgW"
+    },
+    {
+      "album": {
         "name": "Manyuria",
         "url": "https://open.spotify.com/album/1Va6NPyYIHQSQ1tKIwl7A3"
       },
@@ -1999,7 +2277,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 177743,
       "name": "Matire",
       "url": "https://open.spotify.com/track/0KsqSRSSsKWXO6iyqfev1b"
@@ -2127,6 +2405,24 @@
       "duration_ms": 193015,
       "name": "Mmh Aah",
       "url": "https://open.spotify.com/track/7dMpjpq6hB4B7f4GjYhkPv"
+    },
+    {
+      "album": {
+        "name": "Mmhh Mmhh",
+        "url": "https://open.spotify.com/album/75Zjn6YMCrzr7kwl5BPki9"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146751,
+      "name": "Mmhh Mmhh",
+      "url": "https://open.spotify.com/track/2krD209EXeH4HISpTp3g5S"
     },
     {
       "album": {
@@ -2358,6 +2654,32 @@
     },
     {
       "album": {
+        "name": "Naskia Poa Remix",
+        "url": "https://open.spotify.com/album/6sJIql7TeC3NVJ3Jgb9JTD"
+      },
+      "artists": [
+        {
+          "name": "Dmore",
+          "url": "https://open.spotify.com/artist/01v6UAGxwidjKJkYwX5zcr"
+        },
+        {
+          "name": "Ochungulo Family",
+          "url": "https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b"
+        },
+        {
+          "name": "Bobo Nyosto",
+          "url": "https://open.spotify.com/artist/5520Pd7tpASXN6tyXlWJUc"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193280,
+      "name": "Naskia Poa Remix",
+      "url": "https://open.spotify.com/track/7CHCfjUFyQwUmFncAAmxwB"
+    },
+    {
+      "album": {
         "name": "New Year Party",
         "url": "https://open.spotify.com/album/0WHtHcgbfy3tzkMAOajuXQ"
       },
@@ -2462,6 +2784,50 @@
     },
     {
       "album": {
+        "name": "Ng'ang'o",
+        "url": "https://open.spotify.com/album/0cCmWkYJragCVVC2seT3fc"
+      },
+      "artists": [
+        {
+          "name": "VDJ Jones",
+          "url": "https://open.spotify.com/artist/5CoXG9KZC7qK1LsZ4FYtAm"
+        },
+        {
+          "name": "Bussa J",
+          "url": "https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd"
+        },
+        {
+          "name": "Iano Ranking",
+          "url": "https://open.spotify.com/artist/09iTULFuj81QbYSC73ebg4"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151693,
+      "name": "Ng'ang'o",
+      "url": "https://open.spotify.com/track/1WuBrDXMqotDpjPJxLR9VP"
+    },
+    {
+      "album": {
+        "name": "Ngoko",
+        "url": "https://open.spotify.com/album/0dR4SF1ZT3phoaK4PhDJ9q"
+      },
+      "artists": [
+        {
+          "name": "Gwaash",
+          "url": "https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216024,
+      "name": "Ngoko",
+      "url": "https://open.spotify.com/track/5US66dlO0HagPSyQhkFry9"
+    },
+    {
+      "album": {
         "name": "Kitenge",
         "url": "https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke"
       },
@@ -2525,7 +2891,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 259032,
       "name": "Nitakusema",
       "url": "https://open.spotify.com/track/0vTKDdxIJ9gWz91HFhZA1W"
@@ -2671,7 +3037,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 269061,
       "name": "Pattern",
       "url": "https://open.spotify.com/track/24gqaz90ui55C2Q5vQyao7"
@@ -3093,7 +3459,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 201723,
       "name": "Shamra Shamra",
       "url": "https://open.spotify.com/track/0zBeSzwKqoZ96EVfltBxp6"
@@ -3115,7 +3481,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202653,
       "name": "Shamra Shamra",
       "url": "https://open.spotify.com/track/4BhQqytJe47FKBFXqFrRDu"
@@ -3525,7 +3891,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 183614,
       "name": "Sugua",
       "url": "https://open.spotify.com/track/0ClhZfQOOgzCNuL9TyqTtf"
@@ -3643,6 +4009,28 @@
       "duration_ms": 187275,
       "name": "Tena Na Tena",
       "url": "https://open.spotify.com/track/2xTUetd1o7sU7kHURdnbkl"
+    },
+    {
+      "album": {
+        "name": "This Life",
+        "url": "https://open.spotify.com/album/7Jpo8hdYQsZWsjpMv8UXRx"
+      },
+      "artists": [
+        {
+          "name": "Imadh",
+          "url": "https://open.spotify.com/artist/0TOKFUBpQUqy5njsggfDUb"
+        },
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240041,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/7apKD9mYK4mD1qR0lHgxAF"
     },
     {
       "album": {
@@ -3829,7 +4217,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 175203,
       "name": "Ulimi Yangu",
       "url": "https://open.spotify.com/track/1q1gUECAGekO5jrrOCfIzW"
@@ -3903,7 +4291,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 221387,
       "name": "Usherati",
       "url": "https://open.spotify.com/track/6XckSdd5zp9cJpplwOL9nJ"
@@ -3965,6 +4353,28 @@
       "duration_ms": 199909,
       "name": "WABABA",
       "url": "https://open.spotify.com/track/2yK919ZuJ54CQscoSVCPAQ"
+    },
+    {
+      "album": {
+        "name": "Waganis",
+        "url": "https://open.spotify.com/album/2PUEv7rKPnDB5lDCX2iMJk"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Waganis",
+      "url": "https://open.spotify.com/track/3Ojg6HbWnavMSobVcHx5FI"
     },
     {
       "album": {
@@ -4078,6 +4488,24 @@
     },
     {
       "album": {
+        "name": "Wapi Hio Tumbler",
+        "url": "https://open.spotify.com/album/5NhoZgb8dITNFeN5DK2GdF"
+      },
+      "artists": [
+        {
+          "name": "Blueflame",
+          "url": "https://open.spotify.com/artist/75gRD9fQD1xoggioVeHW7O"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172506,
+      "name": "Wapi Hio Tumbler",
+      "url": "https://open.spotify.com/track/1euOHNRbVXiIA8tKS9TBcV"
+    },
+    {
+      "album": {
         "name": "Yea Yea Yea",
         "url": "https://open.spotify.com/album/0Awx0OJ8SIMY98fLYB7ztT"
       },
@@ -4093,6 +4521,24 @@
       "duration_ms": 195223,
       "name": "Yea Yea Yea",
       "url": "https://open.spotify.com/track/4lD2nTM6ldiZe76QRHH0V5"
+    },
+    {
+      "album": {
+        "name": "Zamali",
+        "url": "https://open.spotify.com/album/2PFIkS3pTwyoj8AnwOJo5f"
+      },
+      "artists": [
+        {
+          "name": "mbogi genje",
+          "url": "https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Zamali",
+      "url": "https://open.spotify.com/track/2o0cwqpXOAl7yot2WT6vGw"
     },
     {
       "album": {
@@ -4141,6 +4587,28 @@
       "duration_ms": 212307,
       "name": "Zimenice",
       "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
+    },
+    {
+      "album": {
+        "name": "Zimenyilo",
+        "url": "https://open.spotify.com/album/4518jXSeHMv11oSsWYd8FN"
+      },
+      "artists": [
+        {
+          "name": "Parroty",
+          "url": "https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK"
+        },
+        {
+          "name": "Naiboi",
+          "url": "https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203728,
+      "name": "Zimenyilo",
+      "url": "https://open.spotify.com/track/2GNMxLvOFuxBV1b9NGzscD"
     },
     {
       "album": {

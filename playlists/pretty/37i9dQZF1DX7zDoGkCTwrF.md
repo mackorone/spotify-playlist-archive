@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zDoGkCTwrF.md) - [plain]
 
 > This is Uptown Records\. The essential tracks, all in one playlist\. Rest in peace, Andre O'Neal Harrell!
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,280 likes - 38 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,763 likes - 38 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zDoGkCTwrF.md) - [plain]
 | 37 | [Stay](https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Forever My Lady](https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7) | 5:12 |
 | 38 | [Dangerzone](https://open.spotify.com/track/6c9pBKOBiiXuhEFPeh9qlQ) | [McGruff](https://open.spotify.com/artist/0ZlMjCphI76sWiRzsM88RQ), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM) | [Destined To Be](https://open.spotify.com/album/62v2khLr3RK4x9Y2WL1OmL) | 4:23 |
 
-Snapshot ID: `MTU4OTEyNjkwNCwwMDAwMDAwMjAwMDAwMTcxZmY1ODNhMWIwMDAwMDE3MWZiZjVlYzY0`
+Snapshot ID: `MTU4OTEyNjkwNCwwMDAwMDAwMGMyODQ3ZDEzNTU1MjM0N2JjOTg5NmQwMjU2YzVlNzdj`

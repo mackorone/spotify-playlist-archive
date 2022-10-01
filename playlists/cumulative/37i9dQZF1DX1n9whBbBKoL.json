@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Another Galaxy",
+        "url": "https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl"
+      },
+      "artists": [
+        {
+          "name": "Astro.Not",
+          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146966,
+      "name": "Another Galaxy",
+      "url": "https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W"
+    },
+    {
+      "album": {
         "name": "Anti-Clockwise Spiral Staircase",
         "url": "https://open.spotify.com/album/14wlLHVPkCezE2gwGu2v6f"
       },
@@ -300,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Astral Distance",
+        "url": "https://open.spotify.com/album/6u40IEYn1dKNXC7rGBqM5N"
+      },
+      "artists": [
+        {
+          "name": "Muni Yogi",
+          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125995,
+      "name": "Astral Distance",
+      "url": "https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7898KcnclYbvNAdYWnwZW1"
       },
@@ -315,6 +351,24 @@
       "duration_ms": 193625,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/6B5LtVE6Nlvmr9iJRMu2O9"
+    },
+    {
+      "album": {
+        "name": "Awakened",
+        "url": "https://open.spotify.com/album/3WRhawwvVoG5leL75BKKbV"
+      },
+      "artists": [
+        {
+          "name": "The Deep Sleep Scientists",
+          "url": "https://open.spotify.com/artist/2afsRt41XbJjJMMrABnBYR"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180116,
+      "name": "Awakened",
+      "url": "https://open.spotify.com/track/5KIGU2oWqXFjXdQKTIhfmZ"
     },
     {
       "album": {
@@ -606,6 +660,24 @@
     },
     {
       "album": {
+        "name": "Convergence",
+        "url": "https://open.spotify.com/album/1095m41z6UPcurOL35ybPa"
+      },
+      "artists": [
+        {
+          "name": "SleepTherapy",
+          "url": "https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Convergence",
+      "url": "https://open.spotify.com/track/6u6mjHCd8ULdqYYmkRJeeS"
+    },
+    {
+      "album": {
         "name": "Cosmic Colours",
         "url": "https://open.spotify.com/album/4p1JQDTfGIvf4cIwiM4GX8"
       },
@@ -689,7 +761,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 212433,
       "name": "Declarations",
       "url": "https://open.spotify.com/track/54zOGMwyC9Or7rHwcdEv4n"
@@ -858,6 +930,24 @@
     },
     {
       "album": {
+        "name": "Doux Sommeil",
+        "url": "https://open.spotify.com/album/7saNKwrdkqrmz7w2eXliyn"
+      },
+      "artists": [
+        {
+          "name": "Cloudville",
+          "url": "https://open.spotify.com/artist/2PZ9Lx5YAYcmTUPBc6a17L"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150545,
+      "name": "Doux Sommeil",
+      "url": "https://open.spotify.com/track/4HHB23Kvr6Lbwx8ksTTAuA"
+    },
+    {
+      "album": {
         "name": "Dreamcatcher",
         "url": "https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC"
       },
@@ -977,10 +1067,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 174000,
       "name": "Equilibrium - Loopable with No Fade",
       "url": "https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT"
+    },
+    {
+      "album": {
+        "name": "serenity (sleep)",
+        "url": "https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173645,
+      "name": "eternity",
+      "url": "https://open.spotify.com/track/5aBE5Xdf8mqQcYaNjzFeA7"
     },
     {
       "album": {
@@ -995,7 +1103,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173645,
       "name": "eternity",
       "url": "https://open.spotify.com/track/78sv6AmYs4TZpSOjWKAQzr"
@@ -1175,7 +1283,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 253168,
       "name": "Geneva",
       "url": "https://open.spotify.com/track/4ZJQUajvBXUmTilpiISmN4"
@@ -1661,7 +1769,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 199923,
       "name": "My Halo Orbit",
       "url": "https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt"
@@ -1715,7 +1823,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 166678,
       "name": "Next to Nothing",
       "url": "https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm"
@@ -1751,7 +1859,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 188500,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/676cCislDJ6X51j2mai6xD"
@@ -1787,7 +1895,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 220000,
       "name": "Ongoing",
       "url": "https://open.spotify.com/track/6ICoijQw5AmAB9OWQu0EqR"
@@ -2021,7 +2129,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 156250,
       "name": "Pondering Life",
       "url": "https://open.spotify.com/track/7BM5WFlytFqJ8j0FewyhA7"
@@ -2093,7 +2201,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 180000,
       "name": "Reverberating",
       "url": "https://open.spotify.com/track/3qF9dkwCok7vMc3MSnX0KU"
@@ -2262,6 +2370,24 @@
     },
     {
       "album": {
+        "name": "Skymning",
+        "url": "https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70"
+      },
+      "artists": [
+        {
+          "name": "Signe Golin",
+          "url": "https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154550,
+      "name": "Skymning",
+      "url": "https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6"
+    },
+    {
+      "album": {
         "name": "Sleepy Space",
         "url": "https://open.spotify.com/album/6rcEWX5oQJLh4w1knvZkZ2"
       },
@@ -2309,7 +2435,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 259000,
       "name": "Snesl bych ti modr\u00e9 z nebe",
       "url": "https://open.spotify.com/track/1v8nEP8CRicvuRiGxxjZF6"
@@ -2334,6 +2460,24 @@
     },
     {
       "album": {
+        "name": "Soon For Cali",
+        "url": "https://open.spotify.com/album/0Dicmt7fUioNWoi4hBe7GH"
+      },
+      "artists": [
+        {
+          "name": "Bjorkman",
+          "url": "https://open.spotify.com/artist/6N2wYh9RMSqQaeOzhJqPtN"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206980,
+      "name": "Soon For Cali",
+      "url": "https://open.spotify.com/track/2rsgcPUIYBCFosRWPGJgv7"
+    },
+    {
+      "album": {
         "name": "Soon for Cali",
         "url": "https://open.spotify.com/album/6L9NHfCyLYV2lZH8Ir2bpR"
       },
@@ -2345,7 +2489,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206980,
       "name": "Soon for Cali",
       "url": "https://open.spotify.com/track/4FOQOEe2XexdK3puJjgi0i"
@@ -2543,7 +2687,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 157000,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE"
@@ -2633,7 +2777,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 228000,
       "name": "Trigg's Oldest Book",
       "url": "https://open.spotify.com/track/6cdMnYYMiYDrFvNzw1JTwS"
@@ -2669,7 +2813,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 253000,
       "name": "Verlangen",
       "url": "https://open.spotify.com/track/75pcpojFTJnyfeGw0YrEQ9"
@@ -2723,7 +2867,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 175200,
       "name": "Vista",
       "url": "https://open.spotify.com/track/7dtcMyTqczRKdUe27niB1N"
@@ -2741,7 +2885,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 203097,
       "name": "we are here",
       "url": "https://open.spotify.com/track/0AmWizHZxla0JyvrOX4Cqj"
@@ -2781,6 +2925,24 @@
       "duration_ms": 192000,
       "name": "Wood Siding Railway Station",
       "url": "https://open.spotify.com/track/5ixnYv40UHrZQIuqNlOJl0"
+    },
+    {
+      "album": {
+        "name": "Wu Wei",
+        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169382,
+      "name": "Wu Wei",
+      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
     },
     {
       "album": {

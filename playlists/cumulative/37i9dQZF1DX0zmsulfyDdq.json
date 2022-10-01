@@ -1572,6 +1572,24 @@
     },
     {
       "album": {
+        "name": "Lady and The Tramp and Friends",
+        "url": "https://open.spotify.com/album/5nmEqzKRjL3WyA5X7Zppdc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96800,
+      "name": "La La Lu",
+      "url": "https://open.spotify.com/track/3Fou4O94pyR80OxdSj3pI8"
+    },
+    {
+      "album": {
         "name": "Disney Ukulele: Soothing",
         "url": "https://open.spotify.com/album/4s0t0BbmkfB9iESE8FGRaa"
       },
@@ -1941,10 +1959,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 74493,
       "name": "Meg's Garden",
       "url": "https://open.spotify.com/track/1OkdPo7U61GS697VFzmXTI"
+    },
+    {
+      "album": {
+        "name": "Hercules (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74493,
+      "name": "Meg's Garden",
+      "url": "https://open.spotify.com/track/3CZ6dewgB5uzSfIgj05xe8"
     },
     {
       "album": {
@@ -2047,6 +2087,28 @@
       "duration_ms": 109895,
       "name": "Once Upon a Dream",
       "url": "https://open.spotify.com/track/1jHNQodYIGvk187xrISw1i"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Lullaby",
+        "url": "https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197519,
+      "name": "Once Upon a Dream",
+      "url": "https://open.spotify.com/track/5t4Ysd832UYYBZL92258tn"
     },
     {
       "album": {
@@ -2635,6 +2697,28 @@
     {
       "album": {
         "name": "Disney Guitar: Spirit",
+        "url": "https://open.spotify.com/album/1bhcurJpiXBV2aT6uoua4h"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Guitar",
+          "url": "https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201183,
+      "name": "Surface Pressure",
+      "url": "https://open.spotify.com/track/0EjxneWpJA1hT8Ek2Kq14b"
+    },
+    {
+      "album": {
+        "name": "Disney Guitar: Spirit",
         "url": "https://open.spotify.com/album/520Da388X7g8PBOHwzDE2C"
       },
       "artists": [
@@ -2649,7 +2733,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201183,
       "name": "Surface Pressure",
       "url": "https://open.spotify.com/track/6EaNiwXGAFpce4SWRIUbpe"
@@ -3185,10 +3269,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207669,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/2QZBp9UQwz2HXxjGW9e1NP"
+    },
+    {
+      "album": {
+        "name": "Disney Guitar: Family",
+        "url": "https://open.spotify.com/album/5O6AwBJHEjWOdAuSdW03VV"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Guitar",
+          "url": "https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207669,
+      "name": "We Don't Talk About Bruno",
+      "url": "https://open.spotify.com/track/4U8pBfTMo2rVQuvn3BXxQ4"
     },
     {
       "album": {

@@ -1,0 +1,60 @@
+pretty - [cumulative](/playlists/cumulative/1SM8IZ5aPl2wVazZIUOb0H.md) - [plain](/playlists/plain/1SM8IZ5aPl2wVazZIUOb0H) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1SM8IZ5aPl2wVazZIUOb0H)
+
+### [Grindstone Mix v2](https://open.spotify.com/playlist/1SM8IZ5aPl2wVazZIUOb0H)
+
+> 
+
+[Telkin](https://open.spotify.com/user/5l15pz9djz62b4a6vpw5piae8) - 6 likes - 48 songs - 2 hr 54 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Rule \#21 \- Momento Mori](https://open.spotify.com/track/5DeZowL9q9wS0OBdud4Wy1) | [Fish in a Birdcage](https://open.spotify.com/artist/3AFsnAC0H9hes71BeRypbq) | [Waterfall](https://open.spotify.com/album/4RX7OLRicCMQ4ORUJTQVTm) | 3:09 |
+| 2 | [Hey Ya](https://open.spotify.com/track/6LfGZ9i7ocRJtffuG2um26) | [Avriel & the Sequoias](https://open.spotify.com/artist/1IzY8IYs4IsfJJnPHYPEjq) | [Hey Ya](https://open.spotify.com/album/2ZVs3U1kqnTfMcInPq7U3m) | 4:15 |
+| 3 | [The Good Part](https://open.spotify.com/track/0dgrFwOa0RrFzWcM0azTzx) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click](https://open.spotify.com/album/2nwTJuSqvCygeyI8U7vpeI) | 3:47 |
+| 4 | [Michelle](https://open.spotify.com/track/48rZVgAGm0OlbbxjikCpqm) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:34 |
+| 5 | [2econd 2ight 2eer \(that was fun, goodbye.\)](https://open.spotify.com/track/4jd13hFvWAZKZpomQleZ8L) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 3:26 |
+| 6 | [Suburbia Overture / Greetings from Mary Bell Township! / \(Vampire\) Culture / Love Me, Normally](https://open.spotify.com/track/5iiuKcrjqMns675Z0cBoa2) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 6:16 |
+| 7 | [Heartbreaker](https://open.spotify.com/track/1ZOwOxMVO2dxa6haZDzu1p) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM) | [Sugar Deluxe](https://open.spotify.com/album/0d4QlG5X8GmGDOr6w3pkxW) | 3:03 |
+| 8 | [You're So Cool](https://open.spotify.com/track/21fMkU3plJ5bCpI0UhOv8l) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM) | [Sugar Deluxe](https://open.spotify.com/album/0d4QlG5X8GmGDOr6w3pkxW) | 3:21 |
+| 9 | [We'll Meet Again](https://open.spotify.com/track/1AI6AX6yWgvK7Eu0eKmBci) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Classics](https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX) | 2:32 |
+| 10 | [Summer](https://open.spotify.com/track/08MjeBiHlinMM6VHH0kvQN) | [Circadian Clock](https://open.spotify.com/artist/5nfGpTvDUwfZzo7IR3LF9w), [Baethoven](https://open.spotify.com/artist/4aDq8u0yWYdK1WEZZCwVYi) | [Summer](https://open.spotify.com/album/3zu34ZndCHIm2bST2SDM39) | 2:35 |
+| 11 | [Curses](https://open.spotify.com/track/7wjmdC4OL3l1nh9zQwCpv8) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Foxlore](https://open.spotify.com/album/6LIPwQk1AIfvrpnZ1XF7mi) | 3:48 |
+| 12 | [The Fall](https://open.spotify.com/track/1tODQXkLNhg0uyILdjcGBs) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:04 |
+| 13 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 |
+| 14 | [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 |
+| 15 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:03 |
+| 16 | [Nice Boys](https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 3:00 |
+| 17 | [Never Love an Anchor](https://open.spotify.com/track/0RPD5sbsSLnKWYOJ5iPPMm) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Coyote Stories](https://open.spotify.com/album/5J8ItxI5pye6qNYSyhBs4z) | 3:48 |
+| 18 | [Locket](https://open.spotify.com/track/26AhgCPP2OKAnF4AyBf2Kg) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Locket](https://open.spotify.com/album/7MTfe1MFeQcc6ENWOhwQlz) | 5:18 |
+| 19 | [It Will Come Back](https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:37 |
+| 20 | [Holemabier](https://open.spotify.com/track/2lubQdEEHxE6EP29fiFQcd) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Finch In The Pantry](https://open.spotify.com/album/3GNgRPzfWWQ6UAkcYzTTvg) | 3:20 |
+| 21 | [Cocoa Hooves](https://open.spotify.com/track/4Qw1VBxYRX2ieU9CADu8Co) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:31 |
+| 22 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 |
+| 23 | [Dear Wormwood](https://open.spotify.com/track/5QK2qYLoYyE0v45cbtBWEe) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 5:16 |
+| 24 | [Do You Wonder](https://open.spotify.com/track/6ZmI0Joq5BJB5jLAnNSmVO) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Summer Is Like a Dream](https://open.spotify.com/album/1G3b6b8cpsmT4JRQCz49md) | 2:27 |
+| 25 | [O Sleeper](https://open.spotify.com/track/7zDv9tvJQW1WLRQHTaSzqz) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Eurus](https://open.spotify.com/album/3yvSrU3Kb4JVfQJxCPmJAx) | 4:15 |
+| 26 | [Grow](https://open.spotify.com/track/2UO2S9bgunVWC44lCYqEk8) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Eurus](https://open.spotify.com/album/3yvSrU3Kb4JVfQJxCPmJAx) | 3:33 |
+| 27 | [Passerine](https://open.spotify.com/track/5AdK2iCPCaWnHfuoO0FoGw) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Eurus](https://open.spotify.com/album/3yvSrU3Kb4JVfQJxCPmJAx) | 3:43 |
+| 28 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 |
+| 29 | [Concrete](https://open.spotify.com/track/1ESrGv8T855RXBQonIuL4l) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:16 |
+| 30 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 |
+| 31 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
+| 32 | [No Time to Explain](https://open.spotify.com/track/3LQY0O87BlaOKMp56ST4hC) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [No Time to Explain](https://open.spotify.com/album/5wqULj0mJVw6VDfpOXRMPS) | 2:36 |
+| 33 | [Tongues & Teeth](https://open.spotify.com/track/0XSOLgNqtHZgEEaQyoQctR) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [The Fool in Her Wedding Gown](https://open.spotify.com/album/7iMgsJgCYBxWtDXN6jFl36) | 3:41 |
+| 34 | [The Moon Will Sing](https://open.spotify.com/track/4c0tJe2ENJwrZbn9Bap2qs) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Coyote Stories](https://open.spotify.com/album/5J8ItxI5pye6qNYSyhBs4z) | 3:40 |
+| 35 | [Eulogy](https://open.spotify.com/track/2E6GpcwpDgcDmxbULX7Hvv) | [7Chariot](https://open.spotify.com/artist/4V3hylv1eMCEVAHtWjsQ8S) | [7Chariot](https://open.spotify.com/album/7602GEA5F0z7pP52C32Gmy) | 3:15 |
+| 36 | [Funktionality](https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Dr Hypenstein](https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P) | 3:07 |
+| 37 | [Dark Necessities](https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 5:02 |
+| 38 | [Kahlil Gibran](https://open.spotify.com/track/0PldjOTKRt45S9MrLnlwVM) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Miracle Mile](https://open.spotify.com/album/5S4tasGYxpQuSEWLYvgyQp) | 4:01 |
+| 39 | [Shona](https://open.spotify.com/track/0JNRE2AVZvGfJdNNabrVIg) | [Jake Chudnow](https://open.spotify.com/artist/0IhZsSjGTFJBXIM5unqzdV) | [Shona](https://open.spotify.com/album/3sKv18MCypZJzh9bEncv5G) | 5:15 |
+| 40 | [Surreal](https://open.spotify.com/track/134Naq9YPOeBDXFUB7rdA9) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan](https://open.spotify.com/album/7cHv3kepqiEMWP67HQWgJN) | 3:06 |
+| 41 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
+| 42 | [For the Damaged Coda](https://open.spotify.com/track/7jA5OcunWRSYXq98puhAX8) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody of Certain Damaged Lemons](https://open.spotify.com/album/5ozMQsDFl6QNqB2bGiMuHU) | 2:37 |
+| 43 | [It’s All So Incredibly Loud](https://open.spotify.com/track/7jbDqjzkpjfUytnqG6zxO3) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 4:19 |
+| 44 | [Wasteland, Baby!](https://open.spotify.com/track/1IbgYIuVwJsibCcT5GFYHy) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE) | 4:26 |
+| 45 | [a letter from a notable source](https://open.spotify.com/track/4yRvu06wfiQLznWImi5omX) | [Beetlebug](https://open.spotify.com/artist/1VT3v8pPYq1Y8yeVxRKAyM) | [a letter from a notable source](https://open.spotify.com/album/2W5X6xZBjgWHDMAVTZfnSX) | 3:06 |
+| 46 | [edge of the world](https://open.spotify.com/track/2jd0X87fTd5947SPnsQNmp) | [Beetlebug](https://open.spotify.com/artist/1VT3v8pPYq1Y8yeVxRKAyM) | [edge of the world](https://open.spotify.com/album/0KkYum5QVAfS5FdX8t9gpp) | 4:45 |
+| 47 | [Teenage Sound](https://open.spotify.com/track/06xPdNtt4iuQPKxQhBAQtb) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Teenage Sound](https://open.spotify.com/album/2D8dV3fLbJH4isDduuIxHt) | 2:51 |
+| 48 | [Ruler of Everything](https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:42 |
+
+Snapshot ID: `NTAsMTg0M2VmZTg5NTRlMTk3MzFlZTg2N2RkNDc1MzgyYTdiMmYzNTEyNw==`

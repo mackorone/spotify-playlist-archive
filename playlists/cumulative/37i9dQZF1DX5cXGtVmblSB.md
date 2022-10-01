@@ -4,7 +4,7 @@
 
 > Feline\-friendly tracks curated by musicologist <a href="spotify:artist:0TMyZy9NGJJ7NKMAgCgw6B">David Teie</a>, who pioneered scientifically researched music for cats.
 
-33 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/3aC2CwoMZV4vaqzE3DlaQB)
+34 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/3aC2CwoMZV4vaqzE3DlaQB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Penelope's Nocturne](https://open.spotify.com/track/2DJehHvLodyXbp8W0glBNr) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 6:52 | 2020-01-10 |  |
 | [Piano Sonata No\. 12 in F Major, K\. 332: 2\. Adagio](https://open.spotify.com/track/5x2xMWorOHxbhRN50Ebwa0) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Mozart: Piano Sonatas Nos\. 11 & 12/Fantasia in D minor](https://open.spotify.com/album/1TqayVLpoTPrHyOkY7Nc15) | 5:01 | 2020-01-10 |  |
 | [Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile": 2\. Andante](https://open.spotify.com/track/6IKPX55mQL42ELcLIkK0Ci) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Mozart: Piano Sonatas Nos\. 15 & 16; Rondo in A minor](https://open.spotify.com/album/6krZ3BTfSZmA4OVceOAttH) | 7:00 | 2020-01-10 |  |
-| [Piano Sonata No.5 in G, K.283: 2\. Andante](https://open.spotify.com/track/3G4bjAdt72KfUsVWpESLKY) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Mozart: The Piano Sonatas, Vol.1 \(Complete Mozart Edition\)](https://open.spotify.com/album/3mqfMQP7o3aWH353S7Dwgh) | 6:16 | 2020-01-10 |  |
+| [Piano Sonata No\. 5 in G, K.283: 2\. Andante](https://open.spotify.com/track/7LGkBu8hHP8CWweOO1ZccB) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Mozart: The Piano Sonatas](https://open.spotify.com/album/39E5TLqxXs6QttsbEDPvzZ) | 6:17 | 2020-01-10 |  |
+| [Piano Sonata No.5 in G, K.283: 2\. Andante](https://open.spotify.com/track/3G4bjAdt72KfUsVWpESLKY) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Mozart: The Piano Sonatas, Vol.1 \(Complete Mozart Edition\)](https://open.spotify.com/album/3mqfMQP7o3aWH353S7Dwgh) | 6:16 | 2020-01-10 | 2022-07-29 |
 | [Potato's Song](https://open.spotify.com/track/4YVXr7tpEZVGnWlYMtNjQQ) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Music for Cats Album Two](https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI) | 11:49 | 2020-01-10 |  |
 | [Quasar](https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Quasar](https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE) | 4:18 | 2020-01-10 |  |
 | [Rusty's Ballad](https://open.spotify.com/track/2GB1uEIsHWNoXldwN6mtyI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Rusty's Ballad](https://open.spotify.com/album/0TSPCRCHOY6rnGxcCklrxF) | 3:21 | 2020-01-10 |  |

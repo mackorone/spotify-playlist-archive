@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/4A3hrXyS9pAqrwbp0zK0ws"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 123906,
+      "name": "Amanec\u00ed Con Ganas",
+      "url": "https://open.spotify.com/track/6njkT58Zh60Mq1GgrwOkae"
+    },
+    {
+      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
@@ -134,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 166840,
+      "name": "Chiquilla Te Quiero",
+      "url": "https://open.spotify.com/track/1qYiXj8TdD8AGdzUCCUXW4"
+    },
+    {
+      "album": {
         "name": "Camina Sin Mirar Atras",
         "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
       },
@@ -199,7 +235,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-10-01",
       "duration_ms": 162720,
       "name": "Cristaleros Michoacanos - Banda",
       "url": "https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h"
@@ -289,7 +325,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-09-22",
       "duration_ms": 192120,
       "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
       "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
@@ -621,7 +657,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 181356,
       "name": "Loco - Version Mariachi",
       "url": "https://open.spotify.com/track/1SFSlKPiGIhMUuTULvzdSO"
@@ -679,6 +715,24 @@
       "duration_ms": 162746,
       "name": "Mi Todo",
       "url": "https://open.spotify.com/track/11BkL2zleBIdQoaO8ycDfA"
+    },
+    {
+      "album": {
+        "name": "Tu Yo Y La Luna",
+        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 177720,
+      "name": "Morenita Piel Canela",
+      "url": "https://open.spotify.com/track/6vPmsIYNleN4D9UOb3ChGr"
     },
     {
       "album": {
@@ -913,6 +967,24 @@
       "duration_ms": 172805,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
+    },
+    {
+      "album": {
+        "name": "Te Va A Gustar",
+        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4NJtRhRFKjodwYKFBa2NRc"
     },
     {
       "album": {

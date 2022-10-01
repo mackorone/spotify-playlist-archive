@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/48GGszBLm7kS5D1xJuMnxD.md) - [plain]
 | 47 | [California Girls](https://open.spotify.com/track/0mwr3py9MZIOdvOrI31h6r) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [50 Big Ones: Greatest Hits](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) | 2:46 |
 | 48 | [Go Now](https://open.spotify.com/track/3tBoyeqrFkJfBIeQtdayvG) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Super 60's Hits](https://open.spotify.com/album/0qHTVl9zL3ZbDmeUDtswu2) | 3:15 |
 | 49 | [Goldfinger](https://open.spotify.com/track/7r0EUONfPUZ8SD1vu4ro27) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Diamonds: The Best of Shirley Bassey](https://open.spotify.com/album/47CseYTjSFPkxo9SDFQoot) | 2:48 |
-| 50 | [Down In The Boondocks \- Rerecorded](https://open.spotify.com/track/0bhZLkQ1KcwLrC63EFBnVl) | [Billy Joe Royal](https://open.spotify.com/artist/4WFTfNjxQYskBioYk39r9n) | [The Ultimate Sixties Collection](https://open.spotify.com/album/2CqYJbZzK4gOM33MtBoI6D) | 2:33 |
+| 50 | [Down In The Boondocks \(Rerecorded\)](https://open.spotify.com/track/0bhZLkQ1KcwLrC63EFBnVl) | [Billy Joe Royal](https://open.spotify.com/artist/4WFTfNjxQYskBioYk39r9n) | [The Ultimate Sixties Collection](https://open.spotify.com/album/2CqYJbZzK4gOM33MtBoI6D) | 2:33 |
 
 Snapshot ID: `NyxlY2FkZjU3NGUyZTM3MGY0NjQwZDg3MDlmZWZhM2Y5ZTY4NjZhMDhi`

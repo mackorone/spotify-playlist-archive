@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 279533,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 209946,
       "name": "Baby Can I Hold You Tonight",
       "url": "https://open.spotify.com/track/1UZu42Sn6pGcRPFyPh2yTo"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 244200,
       "name": "Budy Bye",
       "url": "https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 208666,
       "name": "Come Over [Missing You]",
       "url": "https://open.spotify.com/track/4MAo6tvIRCEjUZLOrC9Z4q"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 237536,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/1Bl33q0pGYrxSaxS0bWSDy"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "Differentology (Ready for the Road)",
       "url": "https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 211250,
       "name": "Diseases",
       "url": "https://open.spotify.com/track/7bw5yR8AcrOS9C0JSXD6Sv"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226244,
       "name": "Down By The River",
       "url": "https://open.spotify.com/track/3XrZy5LkmYl1NK36XUdTCN"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 217840,
       "name": "Dust A Sound Boy",
       "url": "https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza"
@@ -343,10 +343,28 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 228166,
       "name": "Everyone Falls In Love",
       "url": "https://open.spotify.com/track/1jRVjtZnyLjE0LOS8UT78f"
+    },
+    {
+      "album": {
+        "name": "Everyone Falls In Love",
+        "url": "https://open.spotify.com/album/3D9Ac8ZaUdpT75shinyjTY"
+      },
+      "artists": [
+        {
+          "name": "Tanto Metro & Devonte",
+          "url": "https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "Everyone Falls in Love",
+      "url": "https://open.spotify.com/track/6nGwWIh0ATJqK9cXbLqDw8"
     },
     {
       "album": {
@@ -361,10 +379,28 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-27",
       "duration_ms": 251790,
       "name": "Firehouse Rock",
       "url": "https://open.spotify.com/track/35UgqtCNd7EVpcKJ8t84Cl"
+    },
+    {
+      "album": {
+        "name": "Heart Of The Congos",
+        "url": "https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M"
+      },
+      "artists": [
+        {
+          "name": "The Congos",
+          "url": "https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328240,
+      "name": "Fisherman",
+      "url": "https://open.spotify.com/track/4jIO4fWetRQXS6Tw1XbhWD"
     },
     {
       "album": {
@@ -379,7 +415,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-26",
       "duration_ms": 211077,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/6LjGQGrhPUtHLECjlWVTaa"
@@ -397,10 +433,28 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 176213,
       "name": "Ganga Lee",
       "url": "https://open.spotify.com/track/7GrDTXhDzVTUKYl49Whe9e"
+    },
+    {
+      "album": {
+        "name": "Wa-Do-Dem",
+        "url": "https://open.spotify.com/album/2fGzC6ZvAqmpBr8dprAQTT"
+      },
+      "artists": [
+        {
+          "name": "Eek-A-Mouse",
+          "url": "https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "Ganja Smuggling",
+      "url": "https://open.spotify.com/track/5iynCtpEY7mx4ou54tHBPH"
     },
     {
       "album": {
@@ -415,7 +469,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 208986,
       "name": "Give It To Her",
       "url": "https://open.spotify.com/track/4ZS5tKyn5PsNS2NI4NxyiJ"
@@ -433,7 +487,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-29",
       "duration_ms": 256706,
       "name": "Give Praise",
       "url": "https://open.spotify.com/track/59fbwTdEQbbRZx40fxwnl0"
@@ -451,7 +505,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242988,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/45JJz10TKQlBAwbm9hmFus"
@@ -487,10 +541,28 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 223089,
       "name": "Gunman",
       "url": "https://open.spotify.com/track/445wd3hPxcxpEbtg0VAnrk"
+    },
+    {
+      "album": {
+        "name": "Mr Vegas: The Hits",
+        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Heads High",
+      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
     },
     {
       "album": {
@@ -505,7 +577,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 211440,
       "name": "Heads High",
       "url": "https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU"
@@ -559,7 +631,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-27",
       "duration_ms": 232781,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT"
@@ -577,7 +649,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 224786,
       "name": "Hot Stepper",
       "url": "https://open.spotify.com/track/3lcNT3qDqs1teAkuLERgSR"
@@ -595,7 +667,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228053,
       "name": "I Am Not A Substitute Lover",
       "url": "https://open.spotify.com/track/0VEM1OY21jskZupMY6iNpU"
@@ -613,7 +685,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 240226,
       "name": "I Am Not Afraid",
       "url": "https://open.spotify.com/track/0EhMnGX0ayyKkwBiHCzfQy"
@@ -649,10 +721,40 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201960,
       "name": "I'm Missing You",
       "url": "https://open.spotify.com/track/7d2gr7qoBXzybhUGscD03H"
+    },
+    {
+      "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
+        },
+        {
+          "name": "Jeremy Harding",
+          "url": "https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0"
+        },
+        {
+          "name": "Murray Elias",
+          "url": "https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273360,
+      "name": "I'm Still in Love with You (feat. Sasha)",
+      "url": "https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI"
     },
     {
       "album": {
@@ -667,7 +769,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-29",
       "duration_ms": 202622,
       "name": "Ice Cream Love",
       "url": "https://open.spotify.com/track/48iLhlIRqVb2jZuUfZCdqr"
@@ -685,7 +787,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 252788,
       "name": "It's A Pity",
       "url": "https://open.spotify.com/track/4TOlKsCgIfslTxibIq25fK"
@@ -739,7 +841,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 209627,
       "name": "Kushumpeng",
       "url": "https://open.spotify.com/track/7HBuxHsm3kslrZ0jjmaTfK"
@@ -757,7 +859,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-07-25",
       "duration_ms": 225524,
       "name": "Lazy Body",
       "url": "https://open.spotify.com/track/5cJ7yT8euOz4d4v3DCq7k5"
@@ -775,7 +877,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-26",
       "duration_ms": 203392,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4Hue6rHN892sFzzOJBHYra"
@@ -811,7 +913,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 212262,
       "name": "Living In Love",
       "url": "https://open.spotify.com/track/5XXd7aHObJEHYm9FpsNeKH"
@@ -829,7 +931,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231634,
       "name": "Longing For",
       "url": "https://open.spotify.com/track/5AJrLAegpdGCK0nhEAf8Zv"
@@ -869,7 +971,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 213518,
       "name": "Lord Watch Over Our Shoulders",
       "url": "https://open.spotify.com/track/1HFbmxRMA8kI3aSAi3mE0V"
@@ -941,10 +1043,32 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 233698,
       "name": "Mi Caan Sleep",
       "url": "https://open.spotify.com/track/2UCgki0bxkjFy49YALLKsE"
+    },
+    {
+      "album": {
+        "name": "My Woman, My Everything (feat. Wandecoal) - Single",
+        "url": "https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233717,
+      "name": "My Woman, My Everything (feat. Wandecoal)",
+      "url": "https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9"
     },
     {
       "album": {
@@ -966,6 +1090,24 @@
     },
     {
       "album": {
+        "name": "Escape From Babylon",
+        "url": "https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD"
+      },
+      "artists": [
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254906,
+      "name": "No Cocaine",
+      "url": "https://open.spotify.com/track/07QuKUTu5O40AibYYPx98I"
+    },
+    {
+      "album": {
         "name": "Down In Jamaica: 40 Years of VP Records",
         "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
       },
@@ -977,7 +1119,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201794,
       "name": "No Letting Go",
       "url": "https://open.spotify.com/track/6U72aQMoDJicq24wwaH0SZ"
@@ -999,7 +1141,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 244412,
       "name": "Note To Self (Okay) [feat. Chronixx]",
       "url": "https://open.spotify.com/track/5FuUXAoCJoh7k9F8jJ6jkA"
@@ -1017,7 +1159,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 228226,
       "name": "Nuff Respect",
       "url": "https://open.spotify.com/track/0N5RZqR45NTsDe4yuXyoCr"
@@ -1042,6 +1184,24 @@
     },
     {
       "album": {
+        "name": "Police In Helicopter",
+        "url": "https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq"
+      },
+      "artists": [
+        {
+          "name": "John Holt",
+          "url": "https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219160,
+      "name": "Police In Helicopter",
+      "url": "https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU"
+    },
+    {
+      "album": {
         "name": "Down In Jamaica: 40 Years of VP Records",
         "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
       },
@@ -1053,7 +1213,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 239517,
       "name": "Pon De River, Pon De Bank",
       "url": "https://open.spotify.com/track/05ldMUa2b7KhctXmx0T30M"
@@ -1093,10 +1253,28 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 197487,
       "name": "Raggamuffin",
       "url": "https://open.spotify.com/track/46Vrct1wOEW4TcEw8NVq4Y"
+    },
+    {
+      "album": {
+        "name": "Tough Life",
+        "url": "https://open.spotify.com/album/0j4h4INrckemf0kmGd2NHc"
+      },
+      "artists": [
+        {
+          "name": "Junior Kelly",
+          "url": "https://open.spotify.com/artist/20aXKBdnVocEWJQjDyddN9"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "Rasta Should Be Deeper",
+      "url": "https://open.spotify.com/track/77DMJWGzzpLk8Fzd2jpqTI"
     },
     {
       "album": {
@@ -1111,7 +1289,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 262000,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/14uaxEtvwwTR2WnnvAfaj9"
@@ -1129,7 +1307,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237065,
       "name": "Rock Away",
       "url": "https://open.spotify.com/track/57EuuAQJrXOVeAdII7zhMb"
@@ -1191,7 +1369,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 233167,
       "name": "Serious Time",
       "url": "https://open.spotify.com/track/6AbvzOk3kg6wANbJ7hiuTo"
@@ -1209,7 +1387,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250190,
       "name": "She's Royal",
       "url": "https://open.spotify.com/track/4ZEcuuNRfZk2osjAHAUJ8J"
@@ -1245,7 +1423,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 178840,
       "name": "So Special",
       "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
@@ -1281,7 +1459,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 254866,
       "name": "Soul Provider",
       "url": "https://open.spotify.com/track/2C6JGwgXp5W9yPi21dBHsw"
@@ -1299,7 +1477,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199626,
       "name": "Splashing Dashing",
       "url": "https://open.spotify.com/track/0Cenbvs1uDQvTLhnCXw9zv"
@@ -1335,10 +1513,32 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 217573,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ"
+    },
+    {
+      "album": {
+        "name": "Stop That Train",
+        "url": "https://open.spotify.com/album/2GkHD2HdhKoY4B5yigF66J"
+      },
+      "artists": [
+        {
+          "name": "Clint Eastwood",
+          "url": "https://open.spotify.com/artist/7gDNcZAStavwiBcb1CHQND"
+        },
+        {
+          "name": "General Saint",
+          "url": "https://open.spotify.com/artist/3LvMhOfZRrE93aW5Xtb5Ua"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310173,
+      "name": "Stop That Train",
+      "url": "https://open.spotify.com/track/0Ajis5FpljtwnD7uWqO8jf"
     },
     {
       "album": {
@@ -1353,7 +1553,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235533,
       "name": "Strange",
       "url": "https://open.spotify.com/track/0hBoSLU2bvScgEA8JAAiyQ"
@@ -1371,7 +1571,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 262800,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U"
@@ -1425,7 +1625,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 229274,
       "name": "Telephone Love",
       "url": "https://open.spotify.com/track/3WUmpyblWerEMLKpsuRmPn"
@@ -1479,7 +1679,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 214160,
       "name": "Tight Up Skirt",
       "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
@@ -1501,7 +1701,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-03",
       "duration_ms": 227933,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn"
@@ -1523,7 +1723,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 219013,
       "name": "Trueversation (feat. Damian Marley)",
       "url": "https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq"
@@ -1541,7 +1741,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 209186,
       "name": "Two Sevens Clash",
       "url": "https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0"
@@ -1563,7 +1763,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-28",
       "duration_ms": 265053,
       "name": "Unity We Need (feat. Chronixx)",
       "url": "https://open.spotify.com/track/5LHsnh2rrAunWXUSI7xqtO"
@@ -1581,7 +1781,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223756,
       "name": "When I See You Smile",
       "url": "https://open.spotify.com/track/0sedwk5jVoYD78bxdwJIjt"
@@ -1617,7 +1817,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 207760,
       "name": "Who Say Me Dun",
       "url": "https://open.spotify.com/track/2w4EvvVRkqNVdEmnUg7bF5"

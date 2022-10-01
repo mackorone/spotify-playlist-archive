@@ -186,7 +186,7 @@
     },
     {
       "album": {
-        "name": "Adipoli",
+        "name": "Adipoli (From \"Think Originals\")",
         "url": "https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy"
       },
       "artists": [
@@ -207,7 +207,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172750,
-      "name": "Adipoli",
+      "name": "Adipoli (From \"Think Originals\")",
       "url": "https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4"
     },
     {
@@ -330,6 +330,32 @@
     },
     {
       "album": {
+        "name": "Prince (Tamil)",
+        "url": "https://open.spotify.com/album/6lxJ6xdX66dSk6qunfYNkA"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ramya Behra",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Bimbilikki Pilapi",
+      "url": "https://open.spotify.com/track/1Hdz67JES35Z4h3Yd4PXvV"
+    },
+    {
+      "album": {
         "name": "Trisha Illana Nayanthara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5vq5Malmnzi69toC2WN41D"
       },
@@ -363,7 +389,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 169193,
       "name": "Breakup Song",
       "url": "https://open.spotify.com/track/1hnG8nDABfdb8qeQ7g4aKh"
@@ -407,10 +433,28 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 259069,
       "name": "Chalmaar",
       "url": "https://open.spotify.com/track/5dnUb7ZJX4JNNyFbGzqO6h"
+    },
+    {
+      "album": {
+        "name": "Chalmaar (From Devi) - Single",
+        "url": "https://open.spotify.com/album/6pKgYR6Beqjlc3cxxVArDF"
+      },
+      "artists": [
+        {
+          "name": "Sajid-Wajid,Benny Dayal",
+          "url": "https://open.spotify.com/artist/0T1FGnAEZ4wC0gsqLoHW02"
+        }
+      ],
+      "date_added": "2021-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259069,
+      "name": "Chalmaar",
+      "url": "https://open.spotify.com/track/36ZHaZcuMJafQbLKshj28u"
     },
     {
       "album": {
@@ -625,7 +669,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262066,
       "name": "En Aasai Mythiliye",
       "url": "https://open.spotify.com/track/44OEXE0l8fdx6oaKexx2G5"
@@ -1035,7 +1079,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 230252,
       "name": "Maari Thara Local - Here Comes Maari",
       "url": "https://open.spotify.com/track/7w4kFO2slzHCu1qEOMaPkl"
@@ -1095,7 +1139,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Marana Mass - From \"Petta\"",
       "url": "https://open.spotify.com/track/612T2qs3Xaj72F8M0bj9gL"
@@ -1177,6 +1221,24 @@
     {
       "album": {
         "name": "Siruthai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4GiCDevVFjVvZwkJLoRlsf"
+      },
+      "artists": [
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        }
+      ],
+      "date_added": "2021-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245933,
+      "name": "Naan Romba",
+      "url": "https://open.spotify.com/track/3Eqe0yeDWicGdBeD56OEDm"
+    },
+    {
+      "album": {
+        "name": "Siruthai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7KHNl1rp4b6yc37rb8Ozmt"
       },
       "artists": [
@@ -1195,7 +1257,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245933,
       "name": "Naan Romba",
       "url": "https://open.spotify.com/track/3AveuWMomOOs92pmWeXZLZ"
@@ -1217,7 +1279,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254345,
       "name": "Naanga Vera Maari",
       "url": "https://open.spotify.com/track/59WtsOIuCiAXITgTN2dSPe"
@@ -1423,7 +1485,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256372,
       "name": "Pakkam Vanthu (From \"Kaththi\")",
       "url": "https://open.spotify.com/track/73QrFjT6dth8UlR7vFOFVM"
@@ -1511,7 +1573,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 214124,
       "name": "Polakattum Para Para",
       "url": "https://open.spotify.com/track/2K058s9yrpoUfANaQt7Zu4"
@@ -1651,10 +1713,66 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224457,
       "name": "Single Pasanga",
       "url": "https://open.spotify.com/track/5IirRCYX0AuRAZDDeOY7RA"
+    },
+    {
+      "album": {
+        "name": "Natpe Thunai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4kVzewcZrjwncy9zO9HxEY"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Gana Balachanda",
+          "url": "https://open.spotify.com/artist/2wQuVlgFVtiq4e3e0b7FRW"
+        },
+        {
+          "name": "Gana Ulagam Dharani",
+          "url": "https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2021-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224457,
+      "name": "Single Pasanga",
+      "url": "https://open.spotify.com/track/4Xn3xgMPWSMIWuELgWpGbp"
+    },
+    {
+      "album": {
+        "name": "Poikkal Kuthirai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4YVCRMdqLGIF0lIQYs7Bwx"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207111,
+      "name": "Singleu",
+      "url": "https://open.spotify.com/track/37cLDb7uqI7y8zQe5lFdiU"
     },
     {
       "album": {
@@ -1803,7 +1921,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-09-02",
       "duration_ms": 199894,
       "name": "Thappa Dhaan Theriyum - Maari's Karuthu",
       "url": "https://open.spotify.com/track/4RXjmJrLbH9DNROHHaMbNc"
@@ -2003,7 +2121,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 282000,
       "name": "Vechukkava - Remix",
       "url": "https://open.spotify.com/track/5MkFrM6BYPkq6CuoQWDfN5"

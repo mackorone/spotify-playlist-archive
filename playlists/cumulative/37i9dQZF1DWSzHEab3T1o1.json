@@ -45,10 +45,40 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 205333,
       "name": "All Night",
       "url": "https://open.spotify.com/track/1hpXAtEeEpiQXHMwbDtGdp"
+    },
+    {
+      "album": {
+        "name": "Neon Future III",
+        "url": "https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226161,
+      "name": "Azukita",
+      "url": "https://open.spotify.com/track/6tSaMs79oJxK3VZ7QFgoTj"
     },
     {
       "album": {
@@ -75,7 +105,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 226161,
       "name": "Azukita",
       "url": "https://open.spotify.com/track/7ioSP47bavdJ5yUwVXbKi3"
@@ -105,10 +135,32 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 226161,
       "name": "Azukita (Steve Aoki, Daddy Yankee, Play-N-Skillz & Elvis Crespo) (feat. Elvis Crespo)",
       "url": "https://open.spotify.com/track/5e45GhSF18JYoLpaq2F48h"
+    },
+    {
+      "album": {
+        "name": "Good Evening",
+        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137661,
+      "name": "Bailar (feat. Elvis Crespo) - Radio Edit",
+      "url": "https://open.spotify.com/track/1HCw8XKtTgWWU3JlEUR0qQ"
     },
     {
       "album": {
@@ -127,7 +179,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 137661,
       "name": "Bailar (feat. Elvis Crespo) - Radio Edit",
       "url": "https://open.spotify.com/track/45sGyAtAxD6efaN0bJAFgh"
@@ -168,6 +220,70 @@
     },
     {
       "album": {
+        "name": "Bum Bum Tam Tam (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/4k1O7oGOEruYk3pkYl5XRv"
+      },
+      "artists": [
+        {
+          "name": "MC Fioti",
+          "url": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208909,
+      "name": "Bum Bum Tam Tam - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/5NOuNThafeyeuqjD4q6fzt"
+    },
+    {
+      "album": {
+        "name": "Know No Better",
+        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173909,
+      "name": "Buscando Huellas",
+      "url": "https://open.spotify.com/track/1i2bRNCJEBdJxbFDi4B8WQ"
+    },
+    {
+      "album": {
         "name": "Know No Better",
         "url": "https://open.spotify.com/album/2CowvoLKMTquFbyMnVp0Va"
       },
@@ -187,7 +303,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 173909,
       "name": "Buscando Huellas",
       "url": "https://open.spotify.com/track/6s6CFPmlvquc5rc47aTblX"
@@ -329,7 +445,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144181,
       "name": "Diplomatico",
       "url": "https://open.spotify.com/track/30gTxyy9t91rh8tlOP0wfU"
@@ -631,7 +747,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230698,
       "name": "Lean On - J Balvin & Farruko Remix",
       "url": "https://open.spotify.com/track/1YAWPd6beey1hE9Hr0jFqQ"
@@ -679,7 +795,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184000,
       "name": "Mala Intenci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/2n2H23tlvMNjjgmGUH0hA9"
@@ -727,7 +843,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193125,
       "name": "Me Siento Bien (feat. Alex Rose)",
       "url": "https://open.spotify.com/track/2ibv5jEtgPySM3bk5V6Vt8"
@@ -753,10 +869,36 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 213360,
       "name": "Mi Gente - Alesso Remix",
       "url": "https://open.spotify.com/track/4uLObuemgRYF5b96UpqjH3"
+    },
+    {
+      "album": {
+        "name": "Mi Gente (Alesso Remix)",
+        "url": "https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "Mi Gente - Alesso Remix",
+      "url": "https://open.spotify.com/track/4ohMD1wzaaOC2I6jSGFMeP"
     },
     {
       "album": {
@@ -779,7 +921,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 269666,
       "name": "Mi Gente - Cedric Gervais Remix",
       "url": "https://open.spotify.com/track/71uiOC9BjtKy1bKAqdUrxx"
@@ -869,7 +1011,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 193797,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq"
@@ -989,10 +1131,36 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 127333,
       "name": "Pues",
       "url": "https://open.spotify.com/track/7J6po4sXO8MNB9BVyM4ny0"
+    },
+    {
+      "album": {
+        "name": "Pues (with Luis Fonsi & Sean Paul)",
+        "url": "https://open.spotify.com/album/03HdtkcGhFu7BdOGdFV3Hf"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-06",
+      "duration_ms": 127333,
+      "name": "Pues (with Luis Fonsi & Sean Paul)",
+      "url": "https://open.spotify.com/track/0H4olUjRf0vXXuQkpKnJmr"
     },
     {
       "album": {
@@ -1019,10 +1187,40 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150000,
       "name": "Pues (with Luis Fonsi & Sean Paul) - All That MTRS Remix",
       "url": "https://open.spotify.com/track/3yKSEZVNq9Y6IO3QV4L3iw"
+    },
+    {
+      "album": {
+        "name": "Music Is The Weapon (Reloaded)",
+        "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169997,
+      "name": "Que Calor (feat. J Balvin & El Alfa)",
+      "url": "https://open.spotify.com/track/13HgktGt4RdYj0QmF1ELZO"
     },
     {
       "album": {
@@ -1049,7 +1247,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169997,
       "name": "Que Calor (with J Balvin & El Alfa)",
       "url": "https://open.spotify.com/track/1G2CAJeP7rCwOZjlSJ0Zw3"
@@ -1101,10 +1299,36 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 165176,
       "name": "QueLoQue",
       "url": "https://open.spotify.com/track/1U7LLE7v6pYa5Spw3oFxgG"
+    },
+    {
+      "album": {
+        "name": "Music Is The Weapon (Reloaded)",
+        "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165176,
+      "name": "QueLoQue (feat. Paloma Mami)",
+      "url": "https://open.spotify.com/track/1089I4FLizCRim8hc6eKST"
     },
     {
       "album": {
@@ -1175,7 +1399,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 198946,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/3MoV1UsAJmz64LHqyiRMp0"
@@ -1291,7 +1515,7 @@
     {
       "album": {
         "name": "Know No Better",
-        "url": "https://open.spotify.com/album/2CowvoLKMTquFbyMnVp0Va"
+        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
       },
       "artists": [
         {
@@ -1310,6 +1534,32 @@
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 167310,
+      "name": "Sua Cara",
+      "url": "https://open.spotify.com/track/3XfsA0zVsrPkVkaDDEr73B"
+    },
+    {
+      "album": {
+        "name": "Know No Better",
+        "url": "https://open.spotify.com/album/2CowvoLKMTquFbyMnVp0Va"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
       "duration_ms": 167310,
       "name": "Sua Cara",
       "url": "https://open.spotify.com/track/66lA84zzlj88DdcnegOeCn"
@@ -1383,7 +1633,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186666,
       "name": "Toda La Noche",
       "url": "https://open.spotify.com/track/35fKNLcDG6d4ctrL4I4qO4"
@@ -1424,6 +1674,36 @@
     },
     {
       "album": {
+        "name": "Free The Universe (Extended Version)",
+        "url": "https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "The Flexican",
+          "url": "https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN"
+        },
+        {
+          "name": "FS Green",
+          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269146,
+      "name": "Watch Out For This (Bumaye)",
+      "url": "https://open.spotify.com/track/3j9o0zUoyGNXkijNSyRyBI"
+    },
+    {
+      "album": {
         "name": "Watch Out For This (Bumaye) Remixes",
         "url": "https://open.spotify.com/album/3S3MH3R1c3BBvjjYbieEXO"
       },
@@ -1451,7 +1731,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-28",
       "duration_ms": 266120,
       "name": "Watch Out For This (Bumaye) - Daddy Yankee Remix",
       "url": "https://open.spotify.com/track/47yZg80rYauOtvcCTCBDKm"

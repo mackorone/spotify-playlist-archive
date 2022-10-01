@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > <a href="http://bluegiant.jp/">BLUE GIANT EXPLORER</a>とSpotifyのコラボ・プレイリスト。<br/>いよいよアメリカに上陸した主人公＝宮本大が愛聴する、新旧のジャズの名曲たち！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,046 likes - 30 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,300 likes - 30 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Up Jumped Spring \- Live](https://open.spotify.com/track/0YJe7D4SogvIgsnZZgBlht) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Three Blind Mice](https://open.spotify.com/album/4pUbg9hQSnuzXNFkejX9JM) | 9:48 |
-| 2 | [Limehouse Blues](https://open.spotify.com/track/3MqB9UlKZc01rmzrHTvCMh) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/1ywi5zQMqngyRWrmPUB0um) | 4:40 |
+| 2 | [Limehouse Blues](https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 4:40 |
 | 3 | [Now's The Time](https://open.spotify.com/track/0cvA7oe0YMEOl5L017P9lq) | [Charlie Parker Quartet](https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs) | [Now’s The Time: The Genius Of Charlie Parker \#3](https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3) | 3:01 |
 | 4 | [Pent\-Up House](https://open.spotify.com/track/2uaMIdq7JAfpN1QGt4kQ7W) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Richie Powell](https://open.spotify.com/artist/2HQT5NglL0BOkpV2vmQ5yc), [George Morrow](https://open.spotify.com/artist/41P4s0R293jpTpSF5UF0ni) | [Plus Four](https://open.spotify.com/album/2JqK4JgeAo5XShkLTlwOQf) | 8:53 |
 | 5 | [Jeannine \- Remastered](https://open.spotify.com/track/5yBiR8gx0EwlVow5mYWpT6) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Them Dirty Blues](https://open.spotify.com/album/0XOpvC5VjPdl39BcvHZMx7) | 7:18 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 26 | [Don't Explain \- Remastered](https://open.spotify.com/track/62QZvTYmdmEZMIIqwa3vHU) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:06 |
 | 27 | [Broad Way Blues](https://open.spotify.com/track/3ASbn4OVbcg1tnSjmdyREe) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [New York Is Now](https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy) | 8:43 |
 | 28 | [Will You Still Be Mine \- RVG Remaster](https://open.spotify.com/track/7KXJpG6wGGQQciQAGS0wtb) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [Groovy](https://open.spotify.com/album/3ciCOxajIXO3WhvBfBSa2Q) | 4:39 |
-| 29 | [Out There](https://open.spotify.com/track/0saF5Jdjgec1M1bLOkc1cA) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Out There \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/7L7zE192GY9uir7cG0IJh9) | 6:52 |
+| 29 | [Out There](https://open.spotify.com/track/7xe7XwmN5t2lF4yULpVYug) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Out There \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/2GTMwdiWPXKD6wvKgbolIp) | 6:52 |
 | 30 | [G.W.](https://open.spotify.com/track/0ImRiLQznJS7HH15qlXXHX) | [Eric Dolphy Quintet](https://open.spotify.com/artist/4qEeWyjLrxjxjVlVvEJW5M) | [Outward Bound](https://open.spotify.com/album/2vDH2vjdjyJtVGiDCHvUFP) | 7:56 |
 
-Snapshot ID: `MTY1NjUxNDgwMCwwMDAwMDAxYzAwMDAwMTgxYWZmOWVhMTkwMDAwMDE4MTZiODJjNWQz`
+Snapshot ID: `MTY1NjUxNDgwMCwwMDAwMDAwMDdjODIzM2UyZmE4MTI0NjgxZjUwMjRhMmNhN2I1ZWY2`

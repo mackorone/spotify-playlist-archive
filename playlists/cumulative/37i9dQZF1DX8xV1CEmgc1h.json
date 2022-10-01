@@ -102,7 +102,7 @@
     },
     {
       "album": {
-        "name": "Can't Slow Down",
+        "name": "Can't Slow Down (Deluxe Edition)",
         "url": "https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC"
       },
       "artists": [
@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "More Hits By The Supremes",
+        "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174306,
+      "name": "Back In My Arms Again",
+      "url": "https://open.spotify.com/track/2WjW8DjQru6Ic4KvYDqLys"
+    },
+    {
+      "album": {
         "name": "More Hits By The Supremes - Expanded Edition",
         "url": "https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH"
       },
@@ -149,7 +167,7 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176613,
       "name": "Back In My Arms Again - Mono Single Version",
       "url": "https://open.spotify.com/track/1cY6UYbPf4plUm3fpLZGWF"
@@ -174,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Bernadette",
+      "url": "https://open.spotify.com/track/0LVvnJs7eOuHIkWwjWHEWF"
+    },
+    {
+      "album": {
         "name": "20th Century Masters \u2013 The Millennium Collection: The Best Of",
         "url": "https://open.spotify.com/album/3dfUrPJtFPlqZxoxD2f0Kb"
       },
@@ -185,7 +221,7 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183373,
       "name": "Bernadette",
       "url": "https://open.spotify.com/track/4Q8JGqOWzRy44qDlx5c74b"
@@ -210,6 +246,24 @@
     },
     {
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
+    },
+    {
+      "album": {
         "name": "Hitsville USA, The Motown Collection 1972-1992",
         "url": "https://open.spotify.com/album/2e6N9mz4kFIR1sM9givKpK"
       },
@@ -221,7 +275,7 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218906,
       "name": "Don't Leave Me This Way - Single Version",
       "url": "https://open.spotify.com/track/6OYlE1SrosD9Swah1Rxkdt"
@@ -261,10 +315,32 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 265613,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/4GBPZmnLHEMdthyo2RDolF"
+    },
+    {
+      "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268293,
+      "name": "Endless Love - From \"The Endless Love\" Soundtrack",
+      "url": "https://open.spotify.com/track/0rt0dZ11FVsvprbarag5tk"
     },
     {
       "album": {
@@ -279,10 +355,28 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190426,
       "name": "Fingertips",
       "url": "https://open.spotify.com/track/1NYQcypyj0Useb8xyw3I4E"
+    },
+    {
+      "album": {
+        "name": "Mono Singles",
+        "url": "https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190213,
+      "name": "Fingertips, Pt. 2 - Live/1962",
+      "url": "https://open.spotify.com/track/6SvMoVRctg7Z3jDtlYIYlL"
     },
     {
       "album": {
@@ -322,7 +416,7 @@
     },
     {
       "album": {
-        "name": "Can't Slow Down",
+        "name": "Can't Slow Down (Deluxe Edition)",
         "url": "https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC"
       },
       "artists": [
@@ -423,10 +517,28 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260613,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/6VAKyYoJQu1hwjWNvxQVTt"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
       "album": {
@@ -467,7 +579,7 @@
     {
       "album": {
         "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
       "artists": [
         {
@@ -478,6 +590,24 @@
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 252373,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
+    },
+    {
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 252373,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/74MfBIVOVHzQiJqfJ1dgTo"
@@ -705,7 +835,7 @@
     {
       "album": {
         "name": "All Directions",
-        "url": "https://open.spotify.com/album/56L1qdaEq8OWNKjWUzKCii"
+        "url": "https://open.spotify.com/album/4Et98HH5UoYzwUH5583YE7"
       },
       "artists": [
         {
@@ -716,6 +846,24 @@
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 704826,
+      "name": "Papa Was A Rollin' Stone",
+      "url": "https://open.spotify.com/track/31NAADgOqGlBU70Xg1bdwQ"
+    },
+    {
+      "album": {
+        "name": "All Directions",
+        "url": "https://open.spotify.com/album/56L1qdaEq8OWNKjWUzKCii"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 705173,
       "name": "Papa Was A Rollin' Stone",
       "url": "https://open.spotify.com/track/0LlqwwSGPJen7TMVCzp1dI"
@@ -758,6 +906,24 @@
     },
     {
       "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178533,
+      "name": "Reach Out I'll Be There",
+      "url": "https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY"
+    },
+    {
+      "album": {
         "name": "20th Century Masters \u2013 The Millennium Collection: The Best Of",
         "url": "https://open.spotify.com/album/3dfUrPJtFPlqZxoxD2f0Kb"
       },
@@ -769,7 +935,7 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180066,
       "name": "Reach Out I'll Be There",
       "url": "https://open.spotify.com/track/11npGmmHAsN9i11Vcnwtko"
@@ -813,7 +979,7 @@
     {
       "album": {
         "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
       "artists": [
         {
@@ -824,6 +990,24 @@
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232760,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+    },
+    {
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 234093,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
@@ -903,7 +1087,25 @@
     {
       "album": {
         "name": "Gold",
-        "url": "https://open.spotify.com/album/5OnA6kyXMAxx6SEPPSPcGW"
+        "url": "https://open.spotify.com/album/7bPBdkx7Vm2vqDkwnfNlg8"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-01",
+      "duration_ms": 169866,
+      "name": "The Happening",
+      "url": "https://open.spotify.com/track/2SusUbsUQnw8OJDq56ZMbE"
+    },
+    {
+      "album": {
+        "name": "The Story Of The Supremes",
+        "url": "https://open.spotify.com/album/23s2StHCeb3zO0B95ZDN2R"
       },
       "artists": [
         {
@@ -914,6 +1116,24 @@
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170466,
+      "name": "The Happening",
+      "url": "https://open.spotify.com/track/6IrBgAF2nSiwrdbIcaCKnp"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5OnA6kyXMAxx6SEPPSPcGW"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 169866,
       "name": "The Happening - Album Version (Stereo)",
       "url": "https://open.spotify.com/track/6WGtWrzsyCtHjUod3dKbIU"
@@ -1064,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "War And Peace",
+        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
+      },
+      "artists": [
+        {
+          "name": "Edwin Starr",
+          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200266,
+      "name": "War",
+      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+    },
+    {
+      "album": {
         "name": "Superstar Series Vol. 3",
         "url": "https://open.spotify.com/album/1uQUjWpTiZ5jEPYzkj6xtz"
       },
@@ -1075,7 +1313,7 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200960,
       "name": "War - Single Version",
       "url": "https://open.spotify.com/track/7bfWzWm54GVlb8XBKIb9Zx"

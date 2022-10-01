@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Liszt: 12 Etudes D'Execution Transcendante, S139/R2B",
+        "url": "https://open.spotify.com/album/3Si3FrndTquVM32UtC8LFx"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316333,
+      "name": "12 Etudes d'execution transcendante, S139/R2b: No. 12 in B Minor, \"Chasse neige\"",
+      "url": "https://open.spotify.com/track/3mmuiyuZHEE2ZKzgzZP8sS"
+    },
+    {
+      "album": {
         "name": "Liszt Complete Piano Music, Vol. 17: Schubert Song Transcriptions, Vol. 2",
         "url": "https://open.spotify.com/album/7mjTSS6EirJLb3IH47Gwut"
       },
@@ -23,10 +45,32 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 277693,
       "name": "12 Lieder von Schubert, S. 558: Schubert - 12 Lieder, S. 558/R. 243: No. 12, Ave Maria",
       "url": "https://open.spotify.com/track/44mQ828pFWlIQ8eOfJwiPx"
+    },
+    {
+      "album": {
+        "name": "Liszt Complete Piano Music, Vol. 17: Schubert Song Transcriptions, Vol. 2",
+        "url": "https://open.spotify.com/album/2MDW1QcQ44ZlYeW15VZYuL"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Valerie Tryon",
+          "url": "https://open.spotify.com/artist/5QAb81QLlETPYzwp9DnZsX"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277693,
+      "name": "12 Lieder von Schubert, S. 558: Schubert - 12 Lieder, S. 558/R. 243: No. 12, Ave Maria",
+      "url": "https://open.spotify.com/track/7Hi9qlyzdqC4xRVqEy6EOM"
     },
     {
       "album": {
@@ -45,7 +89,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 320763,
       "name": "3 Etudes de Concert, S.144: No.3 In D-Flat Major \"Un sospiro\"",
       "url": "https://open.spotify.com/track/5FaJWEUDxDXy4eJfDjGcZ4"
@@ -67,10 +111,54 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 390786,
       "name": "3 Sonetti di Petrarca (1st version), S158/R10b: Sonetto No. 47. Benedetto sia 'lgiorno",
       "url": "https://open.spotify.com/track/0RDiEBrEU3gW7kHKi9IHOa"
+    },
+    {
+      "album": {
+        "name": "Liszt Complete Piano Music, Vol. 37: 3 Sonetti del Petrarca, Venezia e Napoli & Recueillement",
+        "url": "https://open.spotify.com/album/6s8eKNUQiOzSUDPsBrE8dX"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Jue Wang",
+          "url": "https://open.spotify.com/artist/703hgxQ44C39dH9qShI3UQ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390786,
+      "name": "3 Sonetti di Petrarca (1st version), S158/R10b: Sonetto No. 47. Benedetto sia 'lgiorno",
+      "url": "https://open.spotify.com/track/3PKQ4dNA6gdvqTJgndtBiF"
+    },
+    {
+      "album": {
+        "name": "Transcendental - Daniil Trifonov Plays Franz Liszt (Etudes S. 139, S. 141, S. 144, S. 145)",
+        "url": "https://open.spotify.com/album/1U7BErPHxIgtzsq05Wfj5E"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319346,
+      "name": "3 \u00c9tudes de Concert, S. 144: No. 3 in D-Flat Major \"Un sospiro\"",
+      "url": "https://open.spotify.com/track/6Y2ID5LrizFmT8FL0BQEgG"
     },
     {
       "album": {
@@ -89,10 +177,32 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270533,
       "name": "6 Grandes \u00e9tudes de Paganini, S. 141: No. 3 in A-Flat Minor \"La campanella\"",
       "url": "https://open.spotify.com/track/4wbLub3fJG80ac7pdOWfnd"
+    },
+    {
+      "album": {
+        "name": "Liszt Complete Piano Music, Vol. 42: Paganini Studies",
+        "url": "https://open.spotify.com/album/5mpvjDqm7eKToN25Rs9vMF"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Goran Filipec",
+          "url": "https://open.spotify.com/artist/0ay4ca3yOhNIRsqKvq2RCW"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270533,
+      "name": "6 Grandes \u00e9tudes de Paganini, S. 141: No. 3 in A-Flat Minor \"La campanella\"",
+      "url": "https://open.spotify.com/track/6CxNvUMx58ZucUpBVCzrdk"
     },
     {
       "album": {
@@ -137,10 +247,54 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 687466,
       "name": "Adelaide, S. 466",
       "url": "https://open.spotify.com/track/3Lkt2uB8zHxBVCpYTc7DN3"
+    },
+    {
+      "album": {
+        "name": "Liszt: Piano Works, Vol. 2 \u2013 Garrick Ohlsson Edition",
+        "url": "https://open.spotify.com/album/7lBcRyLcFFGgF11ilo6j9b"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Garrick Ohlsson",
+          "url": "https://open.spotify.com/artist/6OZmjtuzO1FCcPQ6kdPF5x"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 687466,
+      "name": "Adelaide, S. 466 (After Beethoven's Op. 46)",
+      "url": "https://open.spotify.com/track/33N86FRk4FwgJGHPApxkgI"
+    },
+    {
+      "album": {
+        "name": "Liszt Complete Piano Music, Vol. 26: Dante Symphony & Dante Sonata (Arr. for 2 Pianos)",
+        "url": "https://open.spotify.com/album/0lmulYXZgZ0pc7mCoo3f8y"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Franz Liszt Piano Duo",
+          "url": "https://open.spotify.com/artist/15eBEmzpxkBWkbQqcosCF6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1019666,
+      "name": "Annees de pelerinage, 2nd year, Italy, S. 161/R. 10b, No. 7. Apres une lecture du Dante: Annees de pelerinage, 2nd year, Italy, S. 161/R. 10b: No. 7, Apres une lecture du Dante (Arr. V. Bresciani for 2 pianos)",
+      "url": "https://open.spotify.com/track/0Tavxx4mxW9WsYyvY2YScn"
     },
     {
       "album": {
@@ -159,10 +313,54 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1019666,
       "name": "Annees de pelerinage, 2nd year, Italy, S. 161/R. 10b, No. 7. Apres une lecture du Dante: Annees de pelerinage, 2nd year, Italy, S. 161/R. 10b: No. 7, Apres une lecture du Dante (Arr. V. Bresciani for 2 pianos)",
       "url": "https://open.spotify.com/track/3wJGJcOTKWDpELy1miqSwx"
+    },
+    {
+      "album": {
+        "name": "Liszt: Int\u00e9grale des ann\u00e9es de p\u00e9lerinage",
+        "url": "https://open.spotify.com/album/0YvwChsWRq5YAeqG1dSeqZ"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500373,
+      "name": "Ann\u00e9es de p\u00e8lerinage III, S. 163: IV. Les jeux d'eau de la villa d'Este",
+      "url": "https://open.spotify.com/track/3GBZAY2DdxZfWecKun3qF0"
+    },
+    {
+      "album": {
+        "name": "Liszt: Harmonies du Soir",
+        "url": "https://open.spotify.com/album/68F4MdeaTVEXjt3P0X9X9m"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164773,
+      "name": "Ann\u00e9es de p\u00e8lerinage: 1e ann\u00e9e: Suisse, S.160: 2. Au lac de Wallenstadt",
+      "url": "https://open.spotify.com/track/1mIiXgLdPNp0d9wccO485S"
     },
     {
       "album": {
@@ -181,10 +379,54 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164773,
       "name": "Ann\u00e9es de p\u00e8lerinage: 1e ann\u00e9e: Suisse, S.160: 2. Au lac de Wallenstadt",
       "url": "https://open.spotify.com/track/5S7EnPBCLJeaRf88raNyfE"
+    },
+    {
+      "album": {
+        "name": "Schubert: Classical Creations",
+        "url": "https://open.spotify.com/album/1Dqu9JiEM8yLcjxY3CY5Xm"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "Auf dem Wasser zu singen, D. 774 - Transcription: Franz Liszt, Searle 558 No. 2",
+      "url": "https://open.spotify.com/track/1cLqcUQzMpgiSCp6Bqx7X8"
+    },
+    {
+      "album": {
+        "name": "Schubert: \"Wanderer\" Fantasia / Brahms: Fantasien op.116 / Liszt: Hungarian Rhapsody No.12",
+        "url": "https://open.spotify.com/album/2QgoZeyTwhdTiGOXFcsL5c"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-18",
+      "duration_ms": 232000,
+      "name": "Auf dem Wasser zu singen, D.774 - Transcription: Franz Liszt, Searle 558 No. 2",
+      "url": "https://open.spotify.com/track/4wYmJlEqIme358SxbbmbJ1"
     },
     {
       "album": {
@@ -203,7 +445,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233653,
       "name": "Auf dem Wasser zu singen, D.774 - Transcription: Franz Liszt, Searle 558 No.2",
       "url": "https://open.spotify.com/track/6Sd8oJpKHsq7nndrC2L56n"
@@ -233,10 +475,40 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245800,
       "name": "Ave Maria, S. 20 No. 2: Ave Maria, S20/1/R496a",
       "url": "https://open.spotify.com/track/4iqTepcRuOVeNeHdnjwyaa"
+    },
+    {
+      "album": {
+        "name": "Liszt: Sacred Choral Music",
+        "url": "https://open.spotify.com/album/1UDTVpuNqi3ZFIVpGiUQKo"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Paolo Crivellaro",
+          "url": "https://open.spotify.com/artist/0TXdh0vsFTTOWg7wknvhEn"
+        },
+        {
+          "name": "Radio Svizzera Choir, Lugano",
+          "url": "https://open.spotify.com/artist/4NCeIeDJjAXyP7VMc5c8f3"
+        },
+        {
+          "name": "Diego Fasolis",
+          "url": "https://open.spotify.com/artist/4WbEmAwPIeRh1bHcv6uY7U"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245800,
+      "name": "Ave Maria, S20/1/R496a",
+      "url": "https://open.spotify.com/track/5fGiMy2FFw1uzYtEsbI7BD"
     },
     {
       "album": {
@@ -281,10 +553,36 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1751960,
       "name": "Ce qu'on entend sur la montagne (What Is Heard on the Mountain), S. 95/R. 412",
       "url": "https://open.spotify.com/track/5JOHwJI2Lx7NqWyoozm4Y4"
+    },
+    {
+      "album": {
+        "name": "Liszt: Symphonic Poems, Vol. 3",
+        "url": "https://open.spotify.com/album/3k2gPAEbhpD9AvNmBh9YKW"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1751960,
+      "name": "Ce qu'on entend sur la montagne (What is Heard on the Mountain), S95/R412",
+      "url": "https://open.spotify.com/track/4J04Ip9H3WGrUTVAzIukC9"
     },
     {
       "album": {
@@ -303,7 +601,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 350653,
       "name": "Chasse-neige",
       "url": "https://open.spotify.com/track/0TAVMrhBRmrBGAZN4ow4R9"
@@ -333,6 +631,28 @@
     {
       "album": {
         "name": "Liszt Complete Piano Music, Vol. 24: Mephisto Waltzes, 2 Elegies & Grosso Konzertsolo",
+        "url": "https://open.spotify.com/album/6b6cLj6UakxAFUhQnrNhCR"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Giuseppe Andaloro",
+          "url": "https://open.spotify.com/artist/5lpfGaObTKMHdZ4iQZFWnw"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 723280,
+      "name": "Der Tanz in der Dorfschenke, S. 514 \"Mephisto Waltz No. 1\": Der Tanz in der Dorfschenke, S. 514/R. 181, \"Mephisto Waltz No. 1\"",
+      "url": "https://open.spotify.com/track/5G5SIUNYqHtMX9Rhub0Qcu"
+    },
+    {
+      "album": {
+        "name": "Liszt Complete Piano Music, Vol. 24: Mephisto Waltzes, 2 Elegies & Grosso Konzertsolo",
         "url": "https://open.spotify.com/album/12VJSYesfTM1abfqdiyulp"
       },
       "artists": [
@@ -347,10 +667,32 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 723280,
       "name": "Der Tanz in der Dorfschenke, S. 514 \"Mephisto Waltz No. 1\": Der Tanz in der Dorfschenke, S. 514/R. 181, \"Mephisto Waltz No. 1\"",
       "url": "https://open.spotify.com/track/5yPptojDarizfj8IeGwtMb"
+    },
+    {
+      "album": {
+        "name": "Liszt: Piano Works Vol. 2 - Schubert Song Transcriptions",
+        "url": "https://open.spotify.com/album/4Yvhnj8B9ZBJGgWbDoA9SC"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Jorge Bolet",
+          "url": "https://open.spotify.com/artist/4DozkIMJBaF8L9Tix8pUID"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "Die Forelle, S. 564 (after Schubert, D. 550)",
+      "url": "https://open.spotify.com/track/4djfz7d3D12RImkcz3ZwCY"
     },
     {
       "album": {
@@ -369,7 +711,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231750,
       "name": "Die Forelle, S.564 (after Schubert, D.550)",
       "url": "https://open.spotify.com/track/0fNKbrans81mTCCMjgIqY8"
@@ -395,10 +737,36 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1521466,
       "name": "Die Ideale, S. 106/R. 423",
       "url": "https://open.spotify.com/track/7H6oHZa9Sijm1rAQkEuNXN"
+    },
+    {
+      "album": {
+        "name": "Liszt: Symphonic Poems, Vol. 2",
+        "url": "https://open.spotify.com/album/3uOp4dMToqAyGocSpy0F2B"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1521466,
+      "name": "Die Ideale, S106/R423",
+      "url": "https://open.spotify.com/track/4oyMQl4ZKu0lFcCuhycW1k"
     },
     {
       "album": {
@@ -487,10 +855,36 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1321080,
       "name": "Hungaria, S. 103/R. 420",
       "url": "https://open.spotify.com/track/1BTQn2vhCwymK7cK9JTmYL"
+    },
+    {
+      "album": {
+        "name": "Liszt: Symphonic Poems, Vol. 4",
+        "url": "https://open.spotify.com/album/7goEuJGrCqsOKiJrdhwxiF"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1321080,
+      "name": "Hungaria, S103/R420",
+      "url": "https://open.spotify.com/track/7wX5PdULVgAo6ZOkTGPhXj"
     },
     {
       "album": {
@@ -533,8 +927,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 580000,
-      "name": "Hungarian Rhapsody No.2 in C sharp minor, S.244",
+      "name": "Hungarian Rhapsody No. 2 in C sharp minor, S.244",
       "url": "https://open.spotify.com/track/7eocs06QszmFJwnFwHe1GJ"
+    },
+    {
+      "album": {
+        "name": "Liszt: Piano Concerto No.1; Piano Sonata in B",
+        "url": "https://open.spotify.com/album/0Vms9kjFQ7p2RdDa2jvWw4"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382266,
+      "name": "Hungarian Rhapsody No. 6 in D-Flat Major, S. 244",
+      "url": "https://open.spotify.com/track/0mwn1hTGqC0luXpwI9EG3G"
     },
     {
       "album": {
@@ -553,7 +969,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 379135,
       "name": "Hungarian Rhapsody No.6 In D-Flat Major, S.244",
       "url": "https://open.spotify.com/track/6RrUDnlhUXGwlWh0M6cYT4"
@@ -583,6 +999,28 @@
     {
       "album": {
         "name": "Liszt Complete Piano Music, Vol. 42: Paganini Studies",
+        "url": "https://open.spotify.com/album/5mpvjDqm7eKToN25Rs9vMF"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Goran Filipec",
+          "url": "https://open.spotify.com/artist/0ay4ca3yOhNIRsqKvq2RCW"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321986,
+      "name": "Le Carnaval de Venise, S. 700",
+      "url": "https://open.spotify.com/track/1rUZl37nN4sX59dhUubEzK"
+    },
+    {
+      "album": {
+        "name": "Liszt Complete Piano Music, Vol. 42: Paganini Studies",
         "url": "https://open.spotify.com/album/2xSLKWJ2rAoUAXwcAHo3BF"
       },
       "artists": [
@@ -597,10 +1035,32 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 321986,
       "name": "Le Carnaval de Venise, S. 700",
       "url": "https://open.spotify.com/track/3Rdrw3AdeSLm1xzlCBUiZQ"
+    },
+    {
+      "album": {
+        "name": "Liszt: The Best of Liszt",
+        "url": "https://open.spotify.com/album/2bMNzj2s9VH74KbT0OdHBa"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1020333,
+      "name": "Les Preludes, S97/R414 : Les Preludes",
+      "url": "https://open.spotify.com/track/54kpY58qUYcBIP49sfnRRF"
     },
     {
       "album": {
@@ -623,7 +1083,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1011200,
       "name": "Les pr\u00e9ludes, S. 97",
       "url": "https://open.spotify.com/track/4i3ACQY4ZnWSXdQQKLopFW"
@@ -700,6 +1160,28 @@
     },
     {
       "album": {
+        "name": "Schubert / Arr. Liszt: St\u00e4ndchen, Serenade (After Schubert's 'Schwanengesang' D. 957)",
+        "url": "https://open.spotify.com/album/5abXWiLQUc6ILQfsLOOvh4"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Mariam Batsashvili",
+          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367480,
+      "name": "Liszt: Lieder aus Franz Schubert's \"Schwanengesang\", S. 560: No. 7 St\u00e4ndchen",
+      "url": "https://open.spotify.com/track/4302P24v1ljMAzxnL5VO52"
+    },
+    {
+      "album": {
         "name": "Liszt: Piano Concertos Nos 1, 2 & Totentanz",
         "url": "https://open.spotify.com/album/5OzAdKyYTiBvxywntuM8aT"
       },
@@ -771,10 +1253,36 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1026333,
       "name": "Mazeppa, S. 100/R. 417",
       "url": "https://open.spotify.com/track/4sUgch8o4kOFeRlucS0Ql6"
+    },
+    {
+      "album": {
+        "name": "Liszt: Symphonic Poems, Vol. 1",
+        "url": "https://open.spotify.com/album/1l8gJBYGalZ8WOn0OzxV8z"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1026333,
+      "name": "Mazeppa, S100/R417",
+      "url": "https://open.spotify.com/track/2mVYB4WEYUDaNj2dSiFIwP"
     },
     {
       "album": {
@@ -821,7 +1329,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 778000,
-      "name": "Orpheus, symphonic poem No.4, S.98",
+      "name": "Orpheus, symphonic poem No. 4, S.98",
       "url": "https://open.spotify.com/track/7B1ZnEE48TSp4bXSqRoIxx"
     },
     {
@@ -841,10 +1349,32 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 459293,
       "name": "Paraphrase de concert sur Rigoletto, S. 434: Verdi - Rigoletto: Paraphrase de concert , S. 434/R. 267",
       "url": "https://open.spotify.com/track/0Vy6K1LWI0Ct0rd0refhhq"
+    },
+    {
+      "album": {
+        "name": "Liszt Complete Piano Music, Vol. 25: Verdi Paraphrases & Transcriptions",
+        "url": "https://open.spotify.com/album/7flurgp0KRWgC4vxNMhI3Q"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Alexandre Dossin",
+          "url": "https://open.spotify.com/artist/6okuPcUyAvSqDjhZAinDhY"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459293,
+      "name": "Paraphrase de concert sur Rigoletto, S. 434: Verdi - Rigoletto: Paraphrase de concert , S. 434/R. 267",
+      "url": "https://open.spotify.com/track/6xTH4nf81GgjAJJtPOqdxh"
     },
     {
       "album": {
@@ -867,7 +1397,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 529306,
       "name": "Pater noster No. 2, S. 29 (Vater unser): Vater unser, S. 29/R. 519",
       "url": "https://open.spotify.com/track/54hd3mHYGpSqpJQjwp3C4P"
@@ -1054,36 +1584,6 @@
     },
     {
       "album": {
-        "name": "The Liszt Concertos",
-        "url": "https://open.spotify.com/album/4EaXVOeFTD2gXqg71WH2uA"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        },
-        {
-          "name": "Staatskapelle Berlin",
-          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        }
-      ],
-      "date_added": "2021-08-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 317773,
-      "name": "Piano Concerto No. 2 in A Major, S. 125: I. Adagio sostenuto assai",
-      "url": "https://open.spotify.com/track/6Mw7tm0M9vHlqIfUO8rTBD"
-    },
-    {
-      "album": {
         "name": "Liszt: Piano Concertos Nos. 1 & 2; Totentanz",
         "url": "https://open.spotify.com/album/1IKSiDTwCfw2TUs9WjnQ8A"
       },
@@ -1144,6 +1644,36 @@
     },
     {
       "album": {
+        "name": "The Liszt Concertos",
+        "url": "https://open.spotify.com/album/4EaXVOeFTD2gXqg71WH2uA"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317773,
+      "name": "Piano Concerto No. 2 in A, S.125: I. Adagio sostenuto assai",
+      "url": "https://open.spotify.com/track/6Mw7tm0M9vHlqIfUO8rTBD"
+    },
+    {
+      "album": {
         "name": "Liszt: Organ Works, Vol. 1",
         "url": "https://open.spotify.com/album/4j7KohI5lUhwCFSu2sBBK3"
       },
@@ -1159,10 +1689,58 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254226,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/4LrWmBUF9sXkJuTAuSGdss"
+    },
+    {
+      "album": {
+        "name": "Liszt: Organ Works, Vol. 1",
+        "url": "https://open.spotify.com/album/3cpSJhv3Ydd0vGU27WoxFB"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Andreas Rothkopf",
+          "url": "https://open.spotify.com/artist/0hnMgiCtTo1ncfRbDpLNd7"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254226,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/7bNbsJXzfI6qUzadfnYCvI"
+    },
+    {
+      "album": {
+        "name": "Liszt: Symphonic Poems",
+        "url": "https://open.spotify.com/album/1kkbC1ieMNRPi3SW4xixdm"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 747000,
+      "name": "Prometheus, symphonic poem No. 5, S.99",
+      "url": "https://open.spotify.com/track/7B9BGKXXzchbJEApKnjVeo"
     },
     {
       "album": {
@@ -1185,7 +1763,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 747533,
       "name": "Prometheus, symphonic poem No.5, S.99",
       "url": "https://open.spotify.com/track/6kxxEBR33Qsyplcm0D6Asz"
@@ -1241,6 +1819,28 @@
     {
       "album": {
         "name": "Liszt Complete Piano Music, Vol. 17: Schubert Song Transcriptions, Vol. 2",
+        "url": "https://open.spotify.com/album/2MDW1QcQ44ZlYeW15VZYuL"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Valerie Tryon",
+          "url": "https://open.spotify.com/artist/5QAb81QLlETPYzwp9DnZsX"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185640,
+      "name": "Schubert - Mullerlieder, S565/E249: No. 5, Wohin? (2nd Version)",
+      "url": "https://open.spotify.com/track/4IFK3qw5LcFK67zpWjSbJ2"
+    },
+    {
+      "album": {
+        "name": "Liszt Complete Piano Music, Vol. 17: Schubert Song Transcriptions, Vol. 2",
         "url": "https://open.spotify.com/album/7mjTSS6EirJLb3IH47Gwut"
       },
       "artists": [
@@ -1255,10 +1855,32 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185640,
       "name": "Schubert - Mullerlieder, S565/E249: No. 5, Wohin? (2nd Version)",
       "url": "https://open.spotify.com/track/7dNR9z4I3DtkrJO2k96Ame"
+    },
+    {
+      "album": {
+        "name": "Vladimir Horowitz - Horowitz at home",
+        "url": "https://open.spotify.com/album/2r9wdXd7oiJ2QrJOVuJbDa"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Vladimir Horowitz",
+          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 337666,
+      "name": "Schwanengesang, S. 560: No. 4 St\u00e4ndchen",
+      "url": "https://open.spotify.com/track/5qGZQ9Q5qLlZhl5Ez6tsbY"
     },
     {
       "album": {
@@ -1277,7 +1899,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 335500,
       "name": "Schwanengesang, S.560: No.4 St\u00e4ndchen",
       "url": "https://open.spotify.com/track/6cI2sf8Go2EDkFt0COnAcB"
@@ -1303,10 +1925,80 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1289840,
       "name": "Tasso: Lamento e trionfo, S. 96/R. 413",
       "url": "https://open.spotify.com/track/310UFn2bmq7wgs6jT0A9eF"
+    },
+    {
+      "album": {
+        "name": "Liszt: Symphonic Poems, Vol. 1",
+        "url": "https://open.spotify.com/album/1l8gJBYGalZ8WOn0OzxV8z"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1289840,
+      "name": "Tasso: lamento e trionfo, S96/R413",
+      "url": "https://open.spotify.com/track/58Gl0b7ugZIMidJNni4d1c"
+    },
+    {
+      "album": {
+        "name": "Transcendental \u00c9tudes, S.139: XI. Harmonies du soir",
+        "url": "https://open.spotify.com/album/1ep1mqzJTqWdp1k0dIEXr2"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 599085,
+      "name": "Transcendental \u00c9tudes, S.139: XI. Harmonies du soir",
+      "url": "https://open.spotify.com/track/28Icv5GtXZOzVzuA0n71Q5"
+    },
+    {
+      "album": {
+        "name": "Tristan",
+        "url": "https://open.spotify.com/album/663RedYDgdaITtPR1dsb1j"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599085,
+      "name": "Transcendental \u00c9tudes, S.139: XI. Harmonies du soir",
+      "url": "https://open.spotify.com/track/3tROciMVjdxYR4boNVLIhB"
     },
     {
       "album": {
@@ -1325,7 +2017,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 500373,
       "name": "Troisi\u00e8me ann\u00e9e S.163: III.Les jeux d'eau de la Villa d'Este",
       "url": "https://open.spotify.com/track/4YUQCUPZZrEA4PySXP40gQ"
@@ -1347,10 +2039,32 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 363413,
       "name": "Unstern! -Sinistre , S208",
       "url": "https://open.spotify.com/track/0N4sQWENULr0EHhYWDfRw1"
+    },
+    {
+      "album": {
+        "name": "The Liszt Project - Bart\u00f3k; Berg; Messiaen; Ravel; Scriabin; Stroppa; Wagner",
+        "url": "https://open.spotify.com/album/2wPExAXASG4ICQGfzxowCi"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Pierre-Laurent Aimard",
+          "url": "https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363413,
+      "name": "Unstern! -Sinistre , S208",
+      "url": "https://open.spotify.com/track/16a5AZugitkbqukRT6wXAQ"
     },
     {
       "album": {
@@ -1369,10 +2083,54 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166320,
       "name": "Valses oubli\u00e9es, S. 215: No. 1, \u2014",
       "url": "https://open.spotify.com/track/4ZD8KtkiNJI9Jh4joc7gFA"
+    },
+    {
+      "album": {
+        "name": "Liszt: Dances",
+        "url": "https://open.spotify.com/album/0f1VHJdctiGEmL7QJmd4sS"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Goran Filipec",
+          "url": "https://open.spotify.com/artist/0ay4ca3yOhNIRsqKvq2RCW"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166320,
+      "name": "Valses oubli\u00e9es, S. 215: No. 1, \u2014",
+      "url": "https://open.spotify.com/track/6DbLVTGeYkWTZzHuxxv8nt"
+    },
+    {
+      "album": {
+        "name": "Liszt: Organ Works, Vol. 1",
+        "url": "https://open.spotify.com/album/3cpSJhv3Ydd0vGU27WoxFB"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Andreas Rothkopf",
+          "url": "https://open.spotify.com/artist/0hnMgiCtTo1ncfRbDpLNd7"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1167933,
+      "name": "Variations on the motif \"Weinen, klagen, sorgen, zagen\", S180/R24",
+      "url": "https://open.spotify.com/track/2ohGSOM9bH4EBFS78WRkqI"
     },
     {
       "album": {
@@ -1391,10 +2149,36 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1167933,
       "name": "Variations on the Theme of Bach, S. 180: Variations on the motif \"Weinen, klagen, sorgen, zagen\", S. 180/R. 24",
       "url": "https://open.spotify.com/track/3kA9EqUPSamuzLe4XpdlPn"
+    },
+    {
+      "album": {
+        "name": "Liszt: Sacred Choral Music",
+        "url": "https://open.spotify.com/album/1UDTVpuNqi3ZFIVpGiUQKo"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Radio Svizzera Choir, Lugano",
+          "url": "https://open.spotify.com/artist/4NCeIeDJjAXyP7VMc5c8f3"
+        },
+        {
+          "name": "Diego Fasolis",
+          "url": "https://open.spotify.com/artist/4WbEmAwPIeRh1bHcv6uY7U"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529306,
+      "name": "Vater unser, S29/R519",
+      "url": "https://open.spotify.com/track/4lcZ5do9xqLrDE45X8PkZN"
     },
     {
       "album": {
@@ -1429,10 +2213,48 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273866,
       "name": "Via Crucis, S. 53/R. 534: Station XIV: Jesus wird ins Grab gelegt",
       "url": "https://open.spotify.com/track/0JMhUmqObGgkfXw8zUOkwR"
+    },
+    {
+      "album": {
+        "name": "Liszt: Sacred Choral Music",
+        "url": "https://open.spotify.com/album/1UDTVpuNqi3ZFIVpGiUQKo"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Dorothee Labusch",
+          "url": "https://open.spotify.com/artist/0YAVpYY46GAMdAjfzIbaVF"
+        },
+        {
+          "name": "Furio Zanasi",
+          "url": "https://open.spotify.com/artist/1s3y0x2My1zc41cYiGdRte"
+        },
+        {
+          "name": "Ulrich Rausch",
+          "url": "https://open.spotify.com/artist/2rm8eqwLG2PUfYdyvNin74"
+        },
+        {
+          "name": "Diego Fasolis",
+          "url": "https://open.spotify.com/artist/4WbEmAwPIeRh1bHcv6uY7U"
+        },
+        {
+          "name": "Radio Svizzera Choir, Lugano",
+          "url": "https://open.spotify.com/artist/4NCeIeDJjAXyP7VMc5c8f3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273866,
+      "name": "Via Crucis, S53/R534: Station XIV: Jesus wird ins Grab gelegt",
+      "url": "https://open.spotify.com/track/0OHp1g5byIrNimiriJOsqi"
     },
     {
       "album": {
@@ -1455,10 +2277,36 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 287600,
       "name": "Von der Wiege bis zum Grabe, S. 107/R. 424: Die Wiege",
       "url": "https://open.spotify.com/track/6hu2LjwsPrJdkVvrxUCAiE"
+    },
+    {
+      "album": {
+        "name": "Liszt: Symphonic Poems, Vol. 2",
+        "url": "https://open.spotify.com/album/3uOp4dMToqAyGocSpy0F2B"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287600,
+      "name": "Von der Wiege bis zum Grabe, S107/R424",
+      "url": "https://open.spotify.com/track/7Co7leFkFbUXGEy9Q2t1Vk"
     },
     {
       "album": {
@@ -1477,7 +2325,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 444573,
       "name": "Wagner - Isoldes Liebestod aus Tristan und Isolde, S447/R280",
       "url": "https://open.spotify.com/track/557nL0raPKjJACdJ543pR8"
@@ -1485,6 +2333,50 @@
     {
       "album": {
         "name": "Liszt Complete Piano Music, Vol. 36: Transcriptions of Wagner",
+        "url": "https://open.spotify.com/album/3hG2t2dlufFHYgur0vclkP"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "William Wolfram",
+          "url": "https://open.spotify.com/artist/2DSGVqA0JXE2L2JqVPTuF7"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444573,
+      "name": "Wagner - Isoldes Liebestod aus Tristan und Isolde, S447/R280",
+      "url": "https://open.spotify.com/track/5t6s4VX5QpZ64iV7hbyYud"
+    },
+    {
+      "album": {
+        "name": "Liszt Complete Piano Music, Vol. 36: Transcriptions of Wagner",
+        "url": "https://open.spotify.com/album/3hG2t2dlufFHYgur0vclkP"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "William Wolfram",
+          "url": "https://open.spotify.com/artist/2DSGVqA0JXE2L2JqVPTuF7"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321240,
+      "name": "Wagner - Tannh\u00e4user: Pilgrim's Chorus, S443/R276",
+      "url": "https://open.spotify.com/track/1xB9TsyExvGrO4eHO3R0gT"
+    },
+    {
+      "album": {
+        "name": "Liszt Complete Piano Music, Vol. 36: Transcriptions of Wagner",
         "url": "https://open.spotify.com/album/3OCiqUAm8EuANV12y9e6rl"
       },
       "artists": [
@@ -1499,7 +2391,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 321240,
       "name": "Wagner - Tannh\u00e4user: Pilgrim's Chorus, S443/R276",
       "url": "https://open.spotify.com/track/58mQg3DJgj4g916DtCGkXV"
@@ -1521,10 +2413,32 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 316333,
       "name": "\u00c9tudes d'ex\u00e9cution transcendante, S. 139: No. 12 in B Minor, \"Chasse neige\"",
       "url": "https://open.spotify.com/track/4boQJrq2UZtxFm3nd556ww"
+    },
+    {
+      "album": {
+        "name": "Liszt: Piano Works",
+        "url": "https://open.spotify.com/album/2jyztORnekANV7I5ylJLxc"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Nikolai Lugansky",
+          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350653,
+      "name": "\u00c9tudes d'ex\u00e9cution transcendante, S. 139: No. 12, Chasse-neige",
+      "url": "https://open.spotify.com/track/5kWbU1l9Dy3P9F1yCA6P7s"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX93wmY669mVj"

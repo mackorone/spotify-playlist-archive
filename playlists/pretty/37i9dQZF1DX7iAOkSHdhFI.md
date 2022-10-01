@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iAOkSHdhFI.md) - [plain]
 
 > The rise of the world's most influential punk band.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,932 likes - 24 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,992 likes - 24 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iAOkSHdhFI.md) - [plain]
 | 19 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 |
 | 20 | [Longview](https://open.spotify.com/track/25tukAKZqMuxAJjpaNkkVe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Longview](https://open.spotify.com/album/19n6S72k5RG320UOuHEkRI) | 3:48 |
 | 21 | [Coming Clean](https://open.spotify.com/track/3YvcGzb3yoqpn2etiBzCWl) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/2isc12bFWhGjvhDgPgVcFO) | 1:52 |
-| 22 | [Burnout](https://open.spotify.com/track/3k1Eq5tlk7Gi22DtWicYFi) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/3GNVuwK8JUqvWc0K67z1SV) | 2:18 |
-| 23 | [Welcome To Paradise](https://open.spotify.com/track/7H3X9tX72Mr7TjxpqxSo0P) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/5dSE8bGpHGIZN9fTPfInX0) | 3:50 |
-| 24 | [She](https://open.spotify.com/track/3MSHU8LTXUFf5GvDeDJnco) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/2xjpJx5Rnf0yRa0YMmCM2p) | 4:04 |
+| 22 | [Burnout](https://open.spotify.com/track/2KBVzYt6iS1drCaSiBzPb2) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/1cKWXk5QHsUWHHqlsanUgj) | 2:18 |
+| 23 | [Welcome To Paradise](https://open.spotify.com/track/1XN6GUhNfKeOacK2Gj8mJD) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/5NL4v80t1rR33foSRUxeJe) | 3:50 |
+| 24 | [She](https://open.spotify.com/track/6u9WQNDUbBrJHcGrPKI76U) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/3NRdCKiAGPBrrEncLj7IAM) | 4:04 |
 
-Snapshot ID: `MTU4MzQ4ODQ1OCwwMDAwMDAyODAwMDAwMTYyZDYxMWRlYWQwMDAwMDE3MGFmNDQ1ZDhj`
+Snapshot ID: `MTUyNDAwOTkxOCwwMDAwMDAwMGQzMTI5ZjM1YTAzZGYzZDAxYmI5MzNjMzcwYzY4MzEz`

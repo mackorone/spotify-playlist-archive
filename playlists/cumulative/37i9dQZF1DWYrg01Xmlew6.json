@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Napoli e il meglio della scena campana. Cover: SLF",
+  "description": "Il meglio da Napoli e dalla scena campana. Cover: Geolier, Luch\u00e8",
   "name": "Int 'o Rione",
   "published_playlist_ids": [
     "24YJoDhwO3164C86soW14C"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 120121,
       "name": "'O NOMME",
       "url": "https://open.spotify.com/track/7vTtjwKa63wPERKQ3B7mlE"
@@ -114,6 +114,32 @@
     },
     {
       "album": {
+        "name": "Baby \u00e8 tutt' normal'",
+        "url": "https://open.spotify.com/album/0xMBNHOzQCDrNiqeAJRlBI"
+      },
+      "artists": [
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "LOWA",
+          "url": "https://open.spotify.com/artist/50s5PUzlEIuQz606N3hSM1"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Baby \u00e8 tutt' normal'",
+      "url": "https://open.spotify.com/track/4jZ86LWK5gWKmPvFT8vjfF"
+    },
+    {
+      "album": {
         "name": "BCN",
         "url": "https://open.spotify.com/album/2eFsshWElYwxAW8JYYO8p5"
       },
@@ -159,7 +185,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 174883,
       "name": "BEST FRIENDS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/2s8Y2ksyWf6xsh2O6CLZzF"
@@ -181,7 +207,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 138000,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/0DHxikaj0fk6gKkOwd2sMo"
@@ -233,7 +259,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 144631,
       "name": "CAGN MARCIA",
       "url": "https://open.spotify.com/track/3CLP2Ui5lPjUpYh6dpQXVK"
@@ -255,10 +281,32 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169142,
       "name": "Catene (feat. Vale Pain)",
       "url": "https://open.spotify.com/track/5Q3mrwEwMxlHmphyJn5aQz"
+    },
+    {
+      "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/69WeTXYxLFMrOKrCgYqTlR"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186988,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3"
     },
     {
       "album": {
@@ -306,6 +354,28 @@
     },
     {
       "album": {
+        "name": "Chiamm'm",
+        "url": "https://open.spotify.com/album/416Zpbe6xnUU2mZn8HRyek"
+      },
+      "artists": [
+        {
+          "name": "Southboy",
+          "url": "https://open.spotify.com/artist/5d4A9NzErxmra8zPzo2ckE"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130826,
+      "name": "Chiamm'm",
+      "url": "https://open.spotify.com/track/6kf8m42FQ1YB4KZOXdsnCo"
+    },
+    {
+      "album": {
         "name": "Emiro",
         "url": "https://open.spotify.com/album/67qP62bagRJKqLQ52uZDTm"
       },
@@ -328,6 +398,24 @@
     },
     {
       "album": {
+        "name": "'A Tiemp 'a tiemp (EP)",
+        "url": "https://open.spotify.com/album/7d09N3oPvb8DxAXMUxBPe1"
+      },
+      "artists": [
+        {
+          "name": "Pit",
+          "url": "https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 136201,
+      "name": "CLEAN",
+      "url": "https://open.spotify.com/track/2v71zuC2m9gItAYrXWTFcn"
+    },
+    {
+      "album": {
         "name": "Salvatore",
         "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
       },
@@ -343,7 +431,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 189720,
       "name": "Comandamento (feat. Geolier)",
       "url": "https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh"
@@ -394,6 +482,32 @@
     },
     {
       "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "anice",
+          "url": "https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183532,
+      "name": "Dedication (con Geolier & anice)",
+      "url": "https://open.spotify.com/track/24xrkSLeA7Y6Ypb4ZSXwJ2"
+    },
+    {
+      "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
       },
@@ -409,7 +523,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 192146,
       "name": "Desaparecidos (feat. Geolier)",
       "url": "https://open.spotify.com/track/1kcwsO1ptrEMXsHtcIGPjI"
@@ -431,7 +545,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 143641,
       "name": "DIOSA (feat. Peppe Soks) - Remix",
       "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
@@ -453,6 +567,28 @@
       "duration_ms": 171233,
       "name": "Doje Vote",
       "url": "https://open.spotify.com/track/6PupByuUnrfNgW1XowhNe7"
+    },
+    {
+      "album": {
+        "name": "DON'T STOP / ACAL 'A VOCE",
+        "url": "https://open.spotify.com/album/0IcpZncMY4qhuX44ocnJNr"
+      },
+      "artists": [
+        {
+          "name": "SPETRIX",
+          "url": "https://open.spotify.com/artist/5TfIVdYlqjs9RmC4vyAesM"
+        },
+        {
+          "name": "DENEMI",
+          "url": "https://open.spotify.com/artist/5wQUqEJMbi2INC969TwMXt"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 150000,
+      "name": "DON'T STOP",
+      "url": "https://open.spotify.com/track/7phaQRCg0ws1d9mb9C9aTO"
     },
     {
       "album": {
@@ -483,7 +619,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 219047,
       "name": "DREAM TEAM (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/0KoBFeJ2R330pyRn1DuXde"
@@ -520,6 +656,24 @@
     },
     {
       "album": {
+        "name": "EMIRATES",
+        "url": "https://open.spotify.com/album/2FeMXivnB7SG2PnT3Sq4LH"
+      },
+      "artists": [
+        {
+          "name": "Meth",
+          "url": "https://open.spotify.com/artist/7mP77CbmESx0WtAFLvRTZP"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 151980,
+      "name": "EMIRATES",
+      "url": "https://open.spotify.com/track/3xncdlgBxm4jnDHUA6nUyD"
+    },
+    {
+      "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
       },
@@ -542,6 +696,32 @@
     },
     {
       "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177504,
+      "name": "Fake (con Geolier & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/0xKBCd6EttVyRv1Sdgo9PX"
+    },
+    {
+      "album": {
         "name": "GAS",
         "url": "https://open.spotify.com/album/7ciK8kJ0K7fExA4VtiXLYQ"
       },
@@ -557,7 +737,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 145257,
       "name": "GAS",
       "url": "https://open.spotify.com/track/6351T1EhGpm7IAnsmXplnn"
@@ -667,6 +847,24 @@
     {
       "album": {
         "name": "I Miss You",
+        "url": "https://open.spotify.com/album/2jAiCu51wRIF6CcQqgTpkK"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177669,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/4lgfhjnm922y6kGBAqKhaU"
+    },
+    {
+      "album": {
+        "name": "I Miss You",
         "url": "https://open.spotify.com/album/3xNjmCh8NTA9WuO8EkHo1R"
       },
       "artists": [
@@ -677,7 +875,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178316,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/5yTqoZ6nhOv21jNHFfwsBV"
@@ -724,6 +922,68 @@
     },
     {
       "album": {
+        "name": "L'immortale",
+        "url": "https://open.spotify.com/album/6QXefXe4iqEEc3AXu8Gi1F"
+      },
+      "artists": [
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        },
+        {
+          "name": "LilTony",
+          "url": "https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh"
+        },
+        {
+          "name": "808s",
+          "url": "https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 170090,
+      "name": "L'immortale",
+      "url": "https://open.spotify.com/track/1OnQfsNP3MzaxGsP52siB9"
+    },
+    {
+      "album": {
+        "name": "La Notte di San Lorenzo",
+        "url": "https://open.spotify.com/album/2GdSyJJhZiVTauVviRoycI"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188888,
+      "name": "La Notte di San Lorenzo",
+      "url": "https://open.spotify.com/track/79Fh7hxRa2QDiLN3VMrFjL"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/1SYlvXfEqgf2rgvOQMYufO"
+      },
+      "artists": [
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 208524,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/1daenAwiS4hRaY5dvLYdmn"
+    },
+    {
+      "album": {
         "name": "999",
         "url": "https://open.spotify.com/album/22oy1c4fMawK7VbulvH89W"
       },
@@ -735,10 +995,62 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204521,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/0tHNfx3jrnG65IiGj9PP4L"
+    },
+    {
+      "album": {
+        "name": "999",
+        "url": "https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz"
+      },
+      "artists": [
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3"
+    },
+    {
+      "album": {
+        "name": "WE THE SQUAD Vol. 1 (SUMMER EDITION)",
+        "url": "https://open.spotify.com/album/0Nq6NPJOm3pNG20k5ZY3yk"
+      },
+      "artists": [
+        {
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "MALA (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
+      "url": "https://open.spotify.com/track/0nJNtKjTDOr3uZeRH9ue8W"
     },
     {
       "album": {
@@ -757,6 +1069,36 @@
       "duration_ms": 306260,
       "name": "ME STAJE APPENNENN' AM\u00d2",
       "url": "https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm"
+    },
+    {
+      "album": {
+        "name": "Mi Regalo Mas Bonito (con Peppe Soks & O'Tsunami) [Remix]",
+        "url": "https://open.spotify.com/album/2aKR0fJ0eCxMGstVCRnpNh"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "ARMS",
+          "url": "https://open.spotify.com/artist/3IXlXWmJSpytr7musHXIzI"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141869,
+      "name": "Mi Regalo Mas Bonito (con Peppe Soks & O'Tsunami) - Remix",
+      "url": "https://open.spotify.com/track/1YbkSzTkIpQ743BrmdT1wH"
     },
     {
       "album": {
@@ -817,6 +1159,24 @@
       "duration_ms": 220372,
       "name": "MIRANAPOLI !",
       "url": "https://open.spotify.com/track/0uguXoThv1UhkGHHZAsNcq"
+    },
+    {
+      "album": {
+        "name": "Montana",
+        "url": "https://open.spotify.com/album/0wfHDwNuPkzAdbcbSK8p8U"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172394,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/3TNxFSgZDfY5ZkVRDtYlw2"
     },
     {
       "album": {
@@ -887,6 +1247,28 @@
     {
       "album": {
         "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 227005,
+      "name": "No Love (feat. CoCo)",
+      "url": "https://open.spotify.com/track/04UJuGMKBimBWXdpL93dDd"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
       },
       "artists": [
@@ -901,10 +1283,32 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227005,
       "name": "No Love (feat. CoCo)",
       "url": "https://open.spotify.com/track/3EtI6sLY2w2l4oCQ1JSI5m"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-04",
+      "duration_ms": 227005,
+      "name": "No Love (feat. CoCo)",
+      "url": "https://open.spotify.com/track/4tlDLoVg3YX4GNBnddaNZb"
     },
     {
       "album": {
@@ -923,6 +1327,50 @@
       "duration_ms": 181661,
       "name": "Non Abbiamo Et\u00e0",
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
+    },
+    {
+      "album": {
+        "name": "NUN M FID E NISCIUN (Con O'Tsunami)",
+        "url": "https://open.spotify.com/album/6exDruFXOU3vcx82yUAj7m"
+      },
+      "artists": [
+        {
+          "name": "Onivas",
+          "url": "https://open.spotify.com/artist/7n7tzS8yl0ftRfgkSDZOtt"
+        },
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 140307,
+      "name": "NUN M FID E NISCIUN (Con O'Tsunami)",
+      "url": "https://open.spotify.com/track/4Pi7YaKpU421V78gf8qFuu"
+    },
+    {
+      "album": {
+        "name": "Nun te rispongo cchi\u00f9",
+        "url": "https://open.spotify.com/album/3iJAfh63NVfCwq0MWCaowY"
+      },
+      "artists": [
+        {
+          "name": "Bapevens",
+          "url": "https://open.spotify.com/artist/6JqHvyMB6iSIaHkXbJ3KFB"
+        },
+        {
+          "name": "Eris Gacha",
+          "url": "https://open.spotify.com/artist/0CGxRo2G5p9IJn7U13ZBB2"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 149000,
+      "name": "Nun te rispongo cchi\u00f9",
+      "url": "https://open.spotify.com/track/2bBenDA68EZXFqFgpPo6MZ"
     },
     {
       "album": {
@@ -995,10 +1443,54 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210493,
       "name": "Over (feat. Geolier)",
       "url": "https://open.spotify.com/track/1ma63HYdwGlXmVhrQdgnTW"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-04",
+      "duration_ms": 210493,
+      "name": "Over (feat. Geolier)",
+      "url": "https://open.spotify.com/track/50MEBYlrrt47OTvpoZ8AcH"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Over (feat. Geolier)",
+      "url": "https://open.spotify.com/track/6URgRkWHKc7SJpC1NSVBrP"
     },
     {
       "album": {
@@ -1024,6 +1516,28 @@
     },
     {
       "album": {
+        "name": "P Secondigliano (2020 Remaster)",
+        "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229893,
+      "name": "P Secondigliano - 2020 Remaster",
+      "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
+    },
+    {
+      "album": {
         "name": "Parln e me",
         "url": "https://open.spotify.com/album/5jDlmOcNuu9f7134Q3wg2i"
       },
@@ -1043,7 +1557,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 155736,
       "name": "Parln e me",
       "url": "https://open.spotify.com/track/42K8rB0IhO0NzPTZNm7QNq"
@@ -1079,10 +1593,46 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165721,
       "name": "Password",
       "url": "https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-05",
+      "duration_ms": 165721,
+      "name": "Password",
+      "url": "https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165721,
+      "name": "Password",
+      "url": "https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil"
     },
     {
       "album": {
@@ -1119,10 +1669,36 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 164651,
       "name": "Penzier",
       "url": "https://open.spotify.com/track/4CFL4pIRkUkO8hkUQsP6xz"
+    },
+    {
+      "album": {
+        "name": "PNT #1 - Punti di vista",
+        "url": "https://open.spotify.com/album/12jRhgG3sfQQtIgjVYfSaB"
+      },
+      "artists": [
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        },
+        {
+          "name": "LilTony",
+          "url": "https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh"
+        },
+        {
+          "name": "808s",
+          "url": "https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143714,
+      "name": "PNT #1 - Punti di vista",
+      "url": "https://open.spotify.com/track/3396cbLW7mZiwppmUBGVSR"
     },
     {
       "album": {
@@ -1171,7 +1747,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 189100,
       "name": "Revenge (feat. Enzo Dong)",
       "url": "https://open.spotify.com/track/5juO5QlcUYCwDEm8KG7V1x"
@@ -1207,7 +1783,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 128274,
       "name": "RFTS 3: Transalp (Freestyle)",
       "url": "https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw"
@@ -1258,6 +1834,46 @@
     },
     {
       "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Scale (con Luch\u00e8)",
+      "url": "https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD"
+    },
+    {
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/7a33VKOjd8l4uSyci8lsEl"
+      },
+      "artists": [
+        {
+          "name": "Moderup",
+          "url": "https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137475,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/6h3Ygm8pThn9j2UYNfNuq6"
+    },
+    {
+      "album": {
         "name": "AMBIZIONE",
         "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
       },
@@ -1273,10 +1889,46 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 120483,
       "name": "So Fresh So Clean (feat. Vale Lambo)",
       "url": "https://open.spotify.com/track/3SJNxU9GNf8MnNRW4G6b6s"
+    },
+    {
+      "album": {
+        "name": "Soldi",
+        "url": "https://open.spotify.com/album/3tm8GwPNOJPcr9rQAXMWgV"
+      },
+      "artists": [
+        {
+          "name": "Christian Revo",
+          "url": "https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 151741,
+      "name": "Soldi",
+      "url": "https://open.spotify.com/track/7rlhLWCYROT4H6YAzAyuPi"
+    },
+    {
+      "album": {
+        "name": "SOMEBODY",
+        "url": "https://open.spotify.com/album/08H4mUl6AWTV51W1bRkPmp"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "SOMEBODY",
+      "url": "https://open.spotify.com/track/1z4ijeGJocaJ7Uw0LC8VHw"
     },
     {
       "album": {
@@ -1328,6 +1980,24 @@
     },
     {
       "album": {
+        "name": "T Pens",
+        "url": "https://open.spotify.com/album/4goIUzzouxxq3nYDL3xFnm"
+      },
+      "artists": [
+        {
+          "name": "O'CINES",
+          "url": "https://open.spotify.com/artist/6drNYL1qof91qhlkhrIjlS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 108400,
+      "name": "T Pens",
+      "url": "https://open.spotify.com/track/65U8ZFmt7JSrLdwH93q363"
+    },
+    {
+      "album": {
         "name": "Rivoluzione",
         "url": "https://open.spotify.com/album/2vjQGNiqEcvNyvTPAlotQ2"
       },
@@ -1339,10 +2009,28 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 148875,
       "name": "Te penso ancora",
       "url": "https://open.spotify.com/track/1nt9UH3Bzu3wMCgE0LudzZ"
+    },
+    {
+      "album": {
+        "name": "Rivoluzione",
+        "url": "https://open.spotify.com/album/4Im07AiNZRmx2o0jGgEsal"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148875,
+      "name": "Te penso ancora",
+      "url": "https://open.spotify.com/track/34ki4KNkR0lZmCDOASSLpx"
     },
     {
       "album": {
@@ -1530,6 +2218,24 @@
     },
     {
       "album": {
+        "name": "TUTT E SBAGL",
+        "url": "https://open.spotify.com/album/2DkCCRODSWiDkQxXS9Hyx7"
+      },
+      "artists": [
+        {
+          "name": "Armouann",
+          "url": "https://open.spotify.com/artist/4CKFSinEpu2Pap0R3aw5q6"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161212,
+      "name": "TUTT E SBAGL",
+      "url": "https://open.spotify.com/track/0buNokncaTlwjJR0LPOnG4"
+    },
+    {
+      "album": {
         "name": "U Know",
         "url": "https://open.spotify.com/album/4Y7rrNJRqI3NLgY3tEZsP6"
       },
@@ -1563,7 +2269,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 116571,
       "name": "UEUE",
       "url": "https://open.spotify.com/track/5Vq17WvWaqM8B6dj0qGFkB"
@@ -1585,6 +2291,42 @@
       "duration_ms": 142941,
       "name": "Vado Fuori",
       "url": "https://open.spotify.com/track/368Bj5HWZe98B6ChmsK1XE"
+    },
+    {
+      "album": {
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/4rLBnUhWRXUg8s1OOsWxNw"
+      },
+      "artists": [
+        {
+          "name": "Guerra",
+          "url": "https://open.spotify.com/artist/4kEZMl8mZ5WX2fAQq6feTC"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174875,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/63WzPPR8lS0ibJeZvngg9A"
+    },
+    {
+      "album": {
+        "name": "VIENI",
+        "url": "https://open.spotify.com/album/0sgWDwkBePNAxRQsYniAiY"
+      },
+      "artists": [
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "VIENI",
+      "url": "https://open.spotify.com/track/6ga53DHuFADei7Y0onoWUd"
     },
     {
       "album": {

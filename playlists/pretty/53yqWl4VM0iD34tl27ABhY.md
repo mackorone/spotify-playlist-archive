@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53yqWl4VM0iD34tl27ABhY.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 581 likes - 30 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 578 likes - 30 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/53yqWl4VM0iD34tl27ABhY.md) - [plain]
 | 11 | [Gasoline](https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:39 |
 | 12 | [Who's Gonna Save My Soul \- Original Mix](https://open.spotify.com/track/4qiBDlMzW2vTK8dJKw7xD3) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [The Odd Couple](https://open.spotify.com/album/3R2TOuSPrGi3jNafJNFixD) | 3:15 |
 | 13 | [Money \- 2011 Remastered Version](https://open.spotify.com/track/3aoDEt6zSuYQ47gzarlaVo) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side Of The Moon \(2011 Remastered Version\)](https://open.spotify.com/album/3a0UOgDWw2pTajw85QPMiz) | 6:22 |
-| 14 | [Gimme Danger \- Alternate 'Violent' Iggy Mix](https://open.spotify.com/track/77bHrxVX3E2SWopfaoWrTw) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:33 |
+| 14 | [Gimme Danger \- Iggy Pop Mix](https://open.spotify.com/track/77bHrxVX3E2SWopfaoWrTw) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:33 |
 | 15 | [Helter Skelter \- Outtake \- 1975](https://open.spotify.com/track/5svBTKTKa8S8jaZqV3XZgv) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pandora's Box](https://open.spotify.com/album/4HxV2LEGimmJoD65yllfSL) | 3:14 |
 | 16 | [Runnin' With The Devil](https://open.spotify.com/track/3gLlcZQMvpwgtV9THHXrGp) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Reissue\)](https://open.spotify.com/album/7G2PY8yve3Db0PeGsosb4x) | 3:36 |
 | 17 | [Greedy Fly](https://open.spotify.com/track/4L3rX2zbxlB2h0h2k47pqE) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Bush Digital Collection](https://open.spotify.com/album/6qxLUeyoz4DpQL4cXbUK0v) | 4:29 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/53yqWl4VM0iD34tl27ABhY.md) - [plain]
 | 20 | [Little White Lie](https://open.spotify.com/track/1YQ5dX31nGu1XbSzs6iXyp) | [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [The Essential Red Collection](https://open.spotify.com/album/6SUJunxhvTnNtwilWtL8d1) | 2:53 |
 | 21 | [Crossroads](https://open.spotify.com/track/4WBmkMJyWubRXRLYk8t9SI) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 2:29 |
 | 22 | [Catch Me If You Can](https://open.spotify.com/track/7gP7uRggAiXHrC0DhNpRyE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Another Ticket](https://open.spotify.com/album/0RnwxYxvxulUrMDyszaTlt) | 4:26 |
-| 23 | [Gimme Danger \- Alternate 'Violent' Iggy Mix](https://open.spotify.com/track/77bHrxVX3E2SWopfaoWrTw) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:33 |
+| 23 | [Gimme Danger \- Iggy Pop Mix](https://open.spotify.com/track/77bHrxVX3E2SWopfaoWrTw) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:33 |
 | 24 | [Lake Of Fire](https://open.spotify.com/track/4UJmPSJsBsIR1U0N79BU1g) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 2:55 |
 | 25 | [Tumble in the Rough](https://open.spotify.com/track/5tuSu554gnalzbg4t2jKfc) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 3:18 |
 | 26 | [Seven Nation Army](https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d) | 3:51 |

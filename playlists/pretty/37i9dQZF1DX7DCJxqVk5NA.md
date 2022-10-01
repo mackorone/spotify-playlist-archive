@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 
 > HBCU Anthems! Curated by Texas Southern University's own Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,612 likes - 62 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,592 likes - 62 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 52 | [I'm Not A Star](https://open.spotify.com/track/1fRuRNJVZjDU1yKXvarKqW) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Teflon Don](https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80) | 3:00 |
 | 53 | [Pop That](https://open.spotify.com/track/3Jv1XgMPVjdN5xGfnRJ20s) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Excuse My French](https://open.spotify.com/album/5Llp1V2yhpdGle13fM1EWh) | 5:03 |
 | 54 | [Kitty Kat](https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:05 |
-| 55 | [They Know \(Dey Know\)](https://open.spotify.com/track/6TQANhh0iV17xMeExcH6qj) | [Shawty Lo](https://open.spotify.com/artist/5mNB8ykTlENptzmsxXRtdS) | [They Know \[Dey Know\]](https://open.spotify.com/album/59ufCjp6Z4A84OcOvA4VTt) | 3:18 |
+| 55 | [They Know \(Dey Know\)](https://open.spotify.com/track/6TQANhh0iV17xMeExcH6qj) | [Shawty Lo](https://open.spotify.com/artist/5mNB8ykTlENptzmsxXRtdS) | [They Know \(Dey Know\)](https://open.spotify.com/album/59ufCjp6Z4A84OcOvA4VTt) | 3:18 |
 | 56 | [Blow the Whistle](https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Blow The Whistle](https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp) | 2:43 |
 | 57 | [Down 4 My N's](https://open.spotify.com/track/14uUTfHIwIp587cz13UI5A) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [C\-Murder](https://open.spotify.com/artist/4135eJjHCRw5SuVzLfzR0x), [Magic](https://open.spotify.com/artist/5RszwcBlHzry6slQ9LRcSw) | [No Limit Top Dogg](https://open.spotify.com/album/2evskaXutnTkQAaZeT4PQb) | 3:46 |
 | 58 | [I Look Good](https://open.spotify.com/track/65PAx3F8JYA1dJNufkn8Tm) | [Chalie Boy](https://open.spotify.com/artist/5c6zqnWXNHg6PJrJtAARpk) | [I Look Good](https://open.spotify.com/album/6EAZVQHCP7ii1Jrle3wBFI) | 4:11 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 61 | [Okay \(feat\. Lil Jon & YoungBloodZ\)](https://open.spotify.com/track/1e5ayf28RKanXy0NNJVANp) | [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Youngbloodz](https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq) | [Complicated](https://open.spotify.com/album/3KNzGIMzjSY0x2HV3Lm53c) | 4:43 |
 | 62 | [Southside Forever Freestyle](https://open.spotify.com/track/5hmQVsjZGozYCBOCHDYoYl) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:57 |
 
-Snapshot ID: `MTYzNjY5MzI2MCwwMDAwMDAwNTAwMDAwMTdkMTI4NTM3YTIwMDAwMDE3ZDBiZTVmYzc1`
+Snapshot ID: `MTYzNjY5MzI2MCwwMDAwMDAwMDFjMGU2ZjJlMGY5ZDdiNjJkZmVkMzdjZDMzYWJiYjRl`

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Recovering The Satellites",
+        "url": "https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295066,
+      "name": "A Long December",
+      "url": "https://open.spotify.com/track/1tjKIXd7DYNklhVSgBxREi"
+    },
+    {
+      "album": {
         "name": "Films About Ghosts (The Best Of Counting Crows)",
         "url": "https://open.spotify.com/album/7FJlveNFRrWYiD6xWGPHSb"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 297293,
       "name": "A Long December",
       "url": "https://open.spotify.com/track/5V8518q2DbhoGDlI3qW1Be"
@@ -73,7 +91,7 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171831,
       "name": "Christmas Ain't like Christmas Anymore",
       "url": "https://open.spotify.com/track/4nRWjWjiytZGCKxVIiJAqD"
@@ -134,6 +152,24 @@
     },
     {
       "album": {
+        "name": "A Very Special Christmas 25th Anniversary",
+        "url": "https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/7LcA08RfpEFEV0vJUsyDkA"
+    },
+    {
+      "album": {
         "name": "Christmas Without You",
         "url": "https://open.spotify.com/album/0a0KVX4qdIea6J0JdVHc6J"
       },
@@ -145,10 +181,28 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197146,
       "name": "Christmas Without You",
       "url": "https://open.spotify.com/track/4gWpUjTbcwASiRVkJM319B"
+    },
+    {
+      "album": {
+        "name": "The Best Of/20th Century Masters: The Christmas Collection",
+        "url": "https://open.spotify.com/album/1x6bJdWl3Imquoi2Mu0BsC"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250893,
+      "name": "Cold December Nights",
+      "url": "https://open.spotify.com/track/3tgAvM8H74EqEywozKEz6u"
     },
     {
       "album": {
@@ -163,10 +217,32 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251693,
       "name": "Cold December Nights",
       "url": "https://open.spotify.com/track/5YD2z1KMfT3UihBJN0by39"
+    },
+    {
+      "album": {
+        "name": "Christmas Wish",
+        "url": "https://open.spotify.com/album/3NLZKv2k2obOnj34G2TSpn"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232053,
+      "name": "Every Time It Snows",
+      "url": "https://open.spotify.com/track/0ZyUVB6M3wzdVgO9VwtJZA"
     },
     {
       "album": {
@@ -185,7 +261,7 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232053,
       "name": "Every Time It Snows",
       "url": "https://open.spotify.com/track/2n4eizAr2bnAinEUR0DrFm"
@@ -211,7 +287,7 @@
     {
       "album": {
         "name": "A Hundred Miles Or More: A Collection",
-        "url": "https://open.spotify.com/album/2dE7kEc4OJzVRYiqt5E2pW"
+        "url": "https://open.spotify.com/album/2i3Fr0qXGyR57MfWNPcMKP"
       },
       "artists": [
         {
@@ -228,7 +304,47 @@
       "date_removed": null,
       "duration_ms": 390853,
       "name": "Get Me Through December",
+      "url": "https://open.spotify.com/track/0Tiu34ejKfhhTY8nzUOUH6"
+    },
+    {
+      "album": {
+        "name": "A Hundred Miles Or More: A Collection",
+        "url": "https://open.spotify.com/album/2dE7kEc4OJzVRYiqt5E2pW"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        },
+        {
+          "name": "Natalie MacMaster",
+          "url": "https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 390853,
+      "name": "Get Me Through December",
       "url": "https://open.spotify.com/track/70emYpaRMLv68qc85Zz6H3"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170964,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
     },
     {
       "album": {
@@ -243,7 +359,7 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170964,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/7Hz6LLOVxrojLPIHJJ1S0E"
@@ -261,10 +377,28 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241506,
       "name": "I Don't Wanna Spend One More Christmas Without You",
       "url": "https://open.spotify.com/track/5Kbd1qQPtaNpmtWUoOU9VV"
+    },
+    {
+      "album": {
+        "name": "Home For Christmas (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OkMfIZVXt3ju1eRrKt9W9"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241800,
+      "name": "I Don't Wanna Spend One More Christmas Without You",
+      "url": "https://open.spotify.com/track/76D8jOHpc25GO952UlCbla"
     },
     {
       "album": {
@@ -297,10 +431,28 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232906,
       "name": "I'm Not Really in the Christmas Mood This Year",
       "url": "https://open.spotify.com/track/1erwt70Knt2Rcl3V3xuDNC"
+    },
+    {
+      "album": {
+        "name": "Time Is Passed",
+        "url": "https://open.spotify.com/album/6oFbP7RmY2QrjGFg8nCMr2"
+      },
+      "artists": [
+        {
+          "name": "Foxtails Brigade",
+          "url": "https://open.spotify.com/artist/6VNIsExpc6Sklt3ZWNXVtJ"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "I'm Not Really in the Christmas Mood This Year",
+      "url": "https://open.spotify.com/track/5BWCqLhRe7mi8YVnBaDH8U"
     },
     {
       "album": {
@@ -315,10 +467,46 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154466,
       "name": "It Doesn't Have To Be That Way",
       "url": "https://open.spotify.com/track/2tYNY7zPBmB7XmXBbc8yJy"
+    },
+    {
+      "album": {
+        "name": "Life & Times",
+        "url": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154466,
+      "name": "It Doesn't Have to Be That Way",
+      "url": "https://open.spotify.com/track/5DqSOPvzr2LPxM0yKeR0qZ"
+    },
+    {
+      "album": {
+        "name": "Christmas Is The Time To Say I Love You",
+        "url": "https://open.spotify.com/album/3kMWXBaZ2veV8WZDL272DB"
+      },
+      "artists": [
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233733,
+      "name": "It\u2019s Not Christmas Without You",
+      "url": "https://open.spotify.com/track/5ShynzpggkdRNrOA4Mw035"
     },
     {
       "album": {
@@ -333,7 +521,7 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233733,
       "name": "It\u2019s Not Christmas Without You",
       "url": "https://open.spotify.com/track/5Tw3hk9eyKLJQHuVjqK6zO"
@@ -351,10 +539,28 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145160,
       "name": "Just A Lonely Christmas",
       "url": "https://open.spotify.com/track/7Jw1oHkY6CnA25C9we9rXY"
+    },
+    {
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
       "album": {
@@ -369,10 +575,28 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266146,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/0QPYn15U8IQHKcH2LDfrek"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Very KT Christmas",
+        "url": "https://open.spotify.com/album/4ZkKPj74Ia1jPFeXk4AdQL"
+      },
+      "artists": [
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257493,
+      "name": "Lonely This Christmas",
+      "url": "https://open.spotify.com/track/2zW28wjFkMhxpoCCLaCD1n"
     },
     {
       "album": {
@@ -387,10 +611,28 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257493,
       "name": "Lonely This Christmas",
       "url": "https://open.spotify.com/track/3CIvynowLFibpsDYR52OZ7"
+    },
+    {
+      "album": {
+        "name": "Christmas Portrait (Special Edition/Reissue)",
+        "url": "https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "Merry Christmas Darling - Remix",
+      "url": "https://open.spotify.com/track/0z5HSQGWgnjdNvwbOmhB2w"
     },
     {
       "album": {
@@ -405,10 +647,28 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185906,
       "name": "Merry Christmas Darling - Single Version",
       "url": "https://open.spotify.com/track/7nxvcuBjqp1F2Jxqvtyx7H"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199080,
+      "name": "Please Come Home for Christmas (Bells Will Be Ringing)",
+      "url": "https://open.spotify.com/track/2mTtNTa2fnj9m4uyBbKPDr"
     },
     {
       "album": {
@@ -423,7 +683,7 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199080,
       "name": "Please Come Home for Christmas (Bells Will Be Ringing)",
       "url": "https://open.spotify.com/track/42X0uRpzqXXHJzX0mzThGL"
@@ -477,10 +737,28 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207333,
       "name": "What Do The Lonely Do At Christmas?",
       "url": "https://open.spotify.com/track/78yD3lSwoeA0NAvKNSyLdC"
+    },
+    {
+      "album": {
+        "name": "Sunshine!",
+        "url": "https://open.spotify.com/album/0v3fyTk380rEjpgufLVtGF"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "What Do The Lonely Do At Christmas?",
+      "url": "https://open.spotify.com/track/3sXl6SoKsHjCLKyrXu9HlD"
     },
     {
       "album": {
@@ -506,6 +784,24 @@
     },
     {
       "album": {
+        "name": "Wintersong",
+        "url": "https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2018-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210906,
+      "name": "Wintersong",
+      "url": "https://open.spotify.com/track/4p8qhuurSA5UOuMAFiyRSj"
+    },
+    {
+      "album": {
         "name": "Christmas Hits",
         "url": "https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6"
       },
@@ -517,7 +813,7 @@
       ],
       "date_added": "2018-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211293,
       "name": "Wintersong",
       "url": "https://open.spotify.com/track/3KBh7JAfMwMhQ7OeDd8MSX"

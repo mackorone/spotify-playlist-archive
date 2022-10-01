@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Sooner Or Later",
+        "url": "https://open.spotify.com/album/1vaydA93AMLnjddGnQM15Q"
+      },
+      "artists": [
+        {
+          "name": "BBMAK",
+          "url": "https://open.spotify.com/artist/7y1GT7SdgGiFLWoktv2TSw"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "Back Here",
+      "url": "https://open.spotify.com/track/6znv7i4Wif5fLwI6OjKHZ4"
+    },
+    {
+      "album": {
         "name": "Sooner or Later",
         "url": "https://open.spotify.com/album/64tUoD5uNiXPRFqLkykqQB"
       },
@@ -95,7 +113,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221653,
       "name": "Back Here",
       "url": "https://open.spotify.com/track/4D6bsg0MqGF0PIZLgDydWp"
@@ -113,10 +131,46 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200106,
       "name": "Best Song Ever",
       "url": "https://open.spotify.com/track/35BZx3KqY1MCjWEFle4YwH"
+    },
+    {
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200106,
+      "name": "Best Song Ever",
+      "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
+    },
+    {
+      "album": {
+        "name": "Big Plans",
+        "url": "https://open.spotify.com/album/55qkK5QfwfwUOMjye419s3"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179929,
+      "name": "Big Plans",
+      "url": "https://open.spotify.com/track/448hSkxDU1sUQQauBWZVcC"
     },
     {
       "album": {
@@ -131,10 +185,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179929,
       "name": "Big Plans",
       "url": "https://open.spotify.com/track/6Yx181fZzA0YE2EkUsYruq"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "Boy With Luv (feat. Halsey)",
+      "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
     },
     {
       "album": {
@@ -153,7 +229,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229773,
       "name": "Boy With Luv (feat. Halsey)",
       "url": "https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c"
@@ -197,7 +273,7 @@
     {
       "album": {
         "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako"
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
       "artists": [
         {
@@ -208,6 +284,24 @@
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 200560,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/4r8lRYnoOGdEi6YyI5OC1o"
@@ -261,10 +355,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157492,
       "name": "Easier",
       "url": "https://open.spotify.com/track/4tNXntkAzQ5A2dfYRYGIIQ"
+    },
+    {
+      "album": {
+        "name": "CALM",
+        "url": "https://open.spotify.com/album/46K4raQPIGem3N031upNj9"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158098,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/2bjUEg4jBtKBlPdNrTAppI"
     },
     {
       "album": {
@@ -341,7 +453,7 @@
     {
       "album": {
         "name": "Celebrity",
-        "url": "https://open.spotify.com/album/7gfXFkA259SkaFeJxSFtKE"
+        "url": "https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg"
       },
       "artists": [
         {
@@ -352,6 +464,24 @@
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI"
+    },
+    {
+      "album": {
+        "name": "Celebrity",
+        "url": "https://open.spotify.com/album/7gfXFkA259SkaFeJxSFtKE"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 292000,
       "name": "Gone",
       "url": "https://open.spotify.com/track/5efcmnfzIROJ5Aj7EGSDm8"
@@ -391,10 +521,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198774,
       "name": "Just Hold On",
       "url": "https://open.spotify.com/track/27zK2lkAiqFw7y113I94H5"
+    },
+    {
+      "album": {
+        "name": "Neon Future III",
+        "url": "https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198774,
+      "name": "Just Hold On",
+      "url": "https://open.spotify.com/track/508oFmt92FyICj6pZiWQwC"
     },
     {
       "album": {
@@ -427,10 +579,46 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200186,
       "name": "Live While We're Young",
       "url": "https://open.spotify.com/track/411ueFnfkhWWl6Sytif6l7"
+    },
+    {
+      "album": {
+        "name": "Take Me Home (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200213,
+      "name": "Live While We're Young",
+      "url": "https://open.spotify.com/track/6Vh03bkEfXqekWp7Y1UBRb"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4ofNmOMGoL3sp1e2Ey8vBe"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178794,
+      "name": "Location - Live from Spotify",
+      "url": "https://open.spotify.com/track/1xpv74iYg4ZSKHX1WcnTQF"
     },
     {
       "album": {
@@ -445,7 +633,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178794,
       "name": "Location - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7jwZYPS8reDirsT4Mvqpui"
@@ -481,10 +669,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189325,
       "name": "My Pace",
       "url": "https://open.spotify.com/track/339xlPKDLkEkFBFkMfAFfJ"
+    },
+    {
+      "album": {
+        "name": "I am WHO",
+        "url": "https://open.spotify.com/album/2SACeVKmkXeAXHqLDdTU9N"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189325,
+      "name": "My Pace",
+      "url": "https://open.spotify.com/track/48MDKHuJ6qte0kAaI25JnN"
     },
     {
       "album": {
@@ -523,16 +729,16 @@
           "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
         },
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        },
-        {
           "name": "Topher Ngo",
           "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
         },
         {
           "name": "Grayson Villanueva",
           "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
         }
       ],
       "date_added": "2022-03-11",
@@ -696,6 +902,24 @@
     },
     {
       "album": {
+        "name": "She Do",
+        "url": "https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7"
+      },
+      "artists": [
+        {
+          "name": "In Real Life",
+          "url": "https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229293,
+      "name": "Tattoo (How 'Bout You)",
+      "url": "https://open.spotify.com/track/70EN8Pffupcsua0Lt1hTYb"
+    },
+    {
+      "album": {
         "name": "Tattoo (How 'Bout You)",
         "url": "https://open.spotify.com/album/7eEdEB51wwksaSY6YoXkBu"
       },
@@ -707,7 +931,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229294,
       "name": "Tattoo (How 'Bout You)",
       "url": "https://open.spotify.com/track/7pueVHUwKar1JqWnqlKCf0"

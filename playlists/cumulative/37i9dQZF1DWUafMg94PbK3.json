@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Counting Songs for Kids",
+        "url": "https://open.spotify.com/album/0dlw2wtrVmAo6plmmVLFcy"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116400,
+      "name": "10 Little Tractors",
+      "url": "https://open.spotify.com/track/0gLaaYkotQSXZKgl4S8MmL"
+    },
+    {
+      "album": {
         "name": "Humpty Dumpty & More Kids Songs",
         "url": "https://open.spotify.com/album/0BzahBqTDaiYJ9183lO5Hu"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 116400,
       "name": "10 Little Tractors",
       "url": "https://open.spotify.com/track/4MPSOqsA5CDK6t3St7YTTT"
@@ -37,10 +55,28 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 99272,
       "name": "Abc Train Song",
       "url": "https://open.spotify.com/track/4H9miZ4EME0cqCYJZQxLr7"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes & Children's Songs (British English Versions)",
+        "url": "https://open.spotify.com/album/3HPoqbQDhOfkBtW6OsDh0H"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99272,
+      "name": "ABC Train Song - British English Version",
+      "url": "https://open.spotify.com/track/1QZIqUo9uye2c7I37Y0Gs3"
     },
     {
       "album": {
@@ -59,10 +95,32 @@
       ],
       "date_added": "2020-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 91486,
       "name": "Baby Truck (Doo Doo Doo Doo)",
       "url": "https://open.spotify.com/track/42ifNBQW23TAhiP6N1V0dN"
+    },
+    {
+      "album": {
+        "name": "Gecko's Truck Songs for Children",
+        "url": "https://open.spotify.com/album/3URrK6lBjPliA34LkQL1hH"
+      },
+      "artists": [
+        {
+          "name": "Toddler Fun Learning",
+          "url": "https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q"
+        },
+        {
+          "name": "Gecko's Garage",
+          "url": "https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7"
+        }
+      ],
+      "date_added": "2020-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91486,
+      "name": "Baby Truck (Doo Doo Doo Doo)",
+      "url": "https://open.spotify.com/track/4j9BaSfQJraqrjwbeO2JJ6"
     },
     {
       "album": {
@@ -138,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Nursery Rhymes & Children's Songs, Vol. 15 (Sing & Learn with LittleBabyBum)",
+        "url": "https://open.spotify.com/album/0E2rvJamSYembnyuuduOLc"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116785,
+      "name": "Bus Song",
+      "url": "https://open.spotify.com/track/0m9Ljem9PxyE6cQ5dGXfE6"
+    },
+    {
+      "album": {
         "name": "Vehicle Songs, Vol. 2",
         "url": "https://open.spotify.com/album/1VW3sLTTqeQjDpRje85ThB"
       },
@@ -149,7 +225,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 116785,
       "name": "Bus Song",
       "url": "https://open.spotify.com/track/4jVQqZszu2Rd5bk1bVZmm7"
@@ -167,10 +243,28 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184973,
       "name": "Can You Canoe?",
       "url": "https://open.spotify.com/track/0IjbQr3DnBtbe32g6oKnki"
+    },
+    {
+      "album": {
+        "name": "Can You Canoe? A Mississippi River Adventure Album",
+        "url": "https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v"
+      },
+      "artists": [
+        {
+          "name": "The Okee Dokee Brothers",
+          "url": "https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184973,
+      "name": "Can You Canoe?",
+      "url": "https://open.spotify.com/track/2pot9T6V7bZQ8EQ6PzpjC9"
     },
     {
       "album": {
@@ -185,10 +279,28 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 116000,
       "name": "Choo Choo Train",
       "url": "https://open.spotify.com/track/3CetOnQ4zzhKZsvgv1QMBn"
+    },
+    {
+      "album": {
+        "name": "Jump, Wiggle and Hop",
+        "url": "https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ"
+      },
+      "artists": [
+        {
+          "name": "Patty Shukla",
+          "url": "https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140546,
+      "name": "Choo Choo Train",
+      "url": "https://open.spotify.com/track/2dIpzVC9RzJIYca6fGcPTT"
     },
     {
       "album": {
@@ -203,10 +315,46 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 143197,
       "name": "Choo Choo Train",
       "url": "https://open.spotify.com/track/1V04M7wFRFxzDlcjChlLsh"
+    },
+    {
+      "album": {
+        "name": "Vehicle Songs, Vol 1",
+        "url": "https://open.spotify.com/album/1jcYEBq6kXnpggjH5lTpUF"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Choo Choo Train (Racing Down the Track)",
+      "url": "https://open.spotify.com/track/1BGZnICVFkZ86rAGXXsiun"
+    },
+    {
+      "album": {
+        "name": "50 Timeless Toddler Tunes",
+        "url": "https://open.spotify.com/album/3YcNvdnYrIE0nqk6Z3y8tN"
+      },
+      "artists": [
+        {
+          "name": "ABC Kids",
+          "url": "https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55106,
+      "name": "Down by the Station",
+      "url": "https://open.spotify.com/track/1yHQcqSfL3pg0GQmpPR685"
     },
     {
       "album": {
@@ -221,7 +369,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 55106,
       "name": "Down By The Station",
       "url": "https://open.spotify.com/track/3DcZOEsFLmt0TrIrsUQaPo"
@@ -239,10 +387,28 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 30600,
       "name": "Drive The Fire Truck",
       "url": "https://open.spotify.com/track/061nNfQ0LAsTyN9fqxF3sd"
+    },
+    {
+      "album": {
+        "name": "Songs for Wiggleworms",
+        "url": "https://open.spotify.com/album/4bTD53mtiKyg7wiiHaGxqa"
+      },
+      "artists": [
+        {
+          "name": "Old Town School of Folk Music",
+          "url": "https://open.spotify.com/artist/68xJjwAFcVSDmF9vTlnqi8"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30600,
+      "name": "Drive The Fire Truck",
+      "url": "https://open.spotify.com/track/3gy29LA7h17YlBnV7pOAJa"
     },
     {
       "album": {
@@ -264,6 +430,24 @@
     },
     {
       "album": {
+        "name": "Nursery Rhymes & Children's Songs, Vol. 15 (Sing & Learn with LittleBabyBum)",
+        "url": "https://open.spotify.com/album/0E2rvJamSYembnyuuduOLc"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85909,
+      "name": "Driving in My Car",
+      "url": "https://open.spotify.com/track/0adzLf1hMZvFFfITwsEqJr"
+    },
+    {
+      "album": {
         "name": "Vehicle Songs, Vol 1",
         "url": "https://open.spotify.com/album/6M4hu1ubzcihIDsAZFnlFX"
       },
@@ -275,7 +459,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 85909,
       "name": "Driving in My Car",
       "url": "https://open.spotify.com/track/2hNywVyL4cZgLnuHSuN1W0"
@@ -373,10 +557,50 @@
       ],
       "date_added": "2020-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 120880,
       "name": "Fiona Fire Truck",
       "url": "https://open.spotify.com/track/0WuKjQYAoTRaAQFHu0iVHc"
+    },
+    {
+      "album": {
+        "name": "Gecko's Truck Songs for Children",
+        "url": "https://open.spotify.com/album/3URrK6lBjPliA34LkQL1hH"
+      },
+      "artists": [
+        {
+          "name": "Toddler Fun Learning",
+          "url": "https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q"
+        },
+        {
+          "name": "Gecko's Garage",
+          "url": "https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7"
+        }
+      ],
+      "date_added": "2020-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120880,
+      "name": "Fiona Fire Truck",
+      "url": "https://open.spotify.com/track/6PwTKjilj5aLnAclaGtrzK"
+    },
+    {
+      "album": {
+        "name": "Blippi Tunes, Vol. 4: Vehicles",
+        "url": "https://open.spotify.com/album/27S5LgtyQbiX0EQFfhBFFl"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2020-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141084,
+      "name": "Firefighting Helicopter Song",
+      "url": "https://open.spotify.com/track/51EEZhz3QjjOOsBNJRUuVn"
     },
     {
       "album": {
@@ -391,7 +615,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141084,
       "name": "Firefighting Helicopter Song",
       "url": "https://open.spotify.com/track/5a9JRYXw1QL2lqrwyIjkzR"
@@ -507,7 +731,7 @@
     {
       "album": {
         "name": "Buzz Buzz",
-        "url": "https://open.spotify.com/album/3ewqpIxaq4yX0rCjOKe3Ag"
+        "url": "https://open.spotify.com/album/2qaGwjEcIgtQ2XgA3jOsaN"
       },
       "artists": [
         {
@@ -518,6 +742,24 @@
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Little Red Caboose",
+      "url": "https://open.spotify.com/track/08W5oVrQo75y6wd15SHvhp"
+    },
+    {
+      "album": {
+        "name": "Buzz Buzz",
+        "url": "https://open.spotify.com/album/3ewqpIxaq4yX0rCjOKe3Ag"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 143000,
       "name": "Little Red Caboose",
       "url": "https://open.spotify.com/track/3hN0tEDoTr5eCmpt91NpWx"
@@ -589,10 +831,28 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 90500,
       "name": "On a Bike",
       "url": "https://open.spotify.com/track/35Mj7mpxRHYfgZGoi9kcs6"
+    },
+    {
+      "album": {
+        "name": "Fun Vehicle Songs for Children! Learn about Transport with LittleBabyBum",
+        "url": "https://open.spotify.com/album/1pXeFG7PI0rfUhL5hwkuIj"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90500,
+      "name": "On a Bike",
+      "url": "https://open.spotify.com/track/7MwZcaEJS24i2KHXwbJEnV"
     },
     {
       "album": {
@@ -614,6 +874,24 @@
     },
     {
       "album": {
+        "name": "New Children's Songs and Kids Music, vol.1",
+        "url": "https://open.spotify.com/album/2NycZMNJC1c37GCY1lTPSA"
+      },
+      "artists": [
+        {
+          "name": "Dirk Scheele",
+          "url": "https://open.spotify.com/artist/6aYoZj5hriqO12UUSffEaA"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199577,
+      "name": "Riding On A Train",
+      "url": "https://open.spotify.com/track/0Y0FUbEoV7WBMzQP5sMtD7"
+    },
+    {
+      "album": {
         "name": "New Children's Songs and Kids Music vol.1",
         "url": "https://open.spotify.com/album/4Ljq9QXdXTsrqWySqddn7j"
       },
@@ -625,7 +903,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199577,
       "name": "Riding On A Train",
       "url": "https://open.spotify.com/track/4411Vd2aDCFEto1aBUOzX1"
@@ -643,10 +921,46 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 109000,
       "name": "Road Safety Song",
       "url": "https://open.spotify.com/track/0VaST2G4hdH9c2yhroOnZ3"
+    },
+    {
+      "album": {
+        "name": "Fun Vehicle Songs for Children! Learn about Transport with LittleBabyBum",
+        "url": "https://open.spotify.com/album/1pXeFG7PI0rfUhL5hwkuIj"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "Road Safety Song",
+      "url": "https://open.spotify.com/track/0nXPpi9miHZeGROZDVn8WH"
+    },
+    {
+      "album": {
+        "name": "Fun Vehicle Songs for Children! Learn about Transport with LittleBabyBum",
+        "url": "https://open.spotify.com/album/1pXeFG7PI0rfUhL5hwkuIj"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92666,
+      "name": "Song About Planes",
+      "url": "https://open.spotify.com/track/4jYYAn4t2kRoiUH3lQG3bh"
     },
     {
       "album": {
@@ -661,7 +975,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 92666,
       "name": "Song About Planes",
       "url": "https://open.spotify.com/track/6Chh6YgaSq4cNd3wKKdofj"
@@ -679,10 +993,46 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 87000,
       "name": "Song About Trucks",
       "url": "https://open.spotify.com/track/5fRnaOgaEn0u8PeSEcOf4c"
+    },
+    {
+      "album": {
+        "name": "Fun Vehicle Songs for Children! Learn about Transport with LittleBabyBum",
+        "url": "https://open.spotify.com/album/1pXeFG7PI0rfUhL5hwkuIj"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Song About Trucks",
+      "url": "https://open.spotify.com/track/7GlzGRfo2LvRKeCsWnWNcS"
+    },
+    {
+      "album": {
+        "name": "Thomas & Friends: All Star Tracks",
+        "url": "https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127180,
+      "name": "Sounds",
+      "url": "https://open.spotify.com/track/6yj1vDpJ2PzMxhQSaouJGX"
     },
     {
       "album": {
@@ -697,10 +1047,28 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127746,
       "name": "Sounds",
       "url": "https://open.spotify.com/track/0aAXqjc8tNg3gZbcoXTEAz"
+    },
+    {
+      "album": {
+        "name": "Blippi Tunes, Vol. 4: Vehicles",
+        "url": "https://open.spotify.com/album/27S5LgtyQbiX0EQFfhBFFl"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2020-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127709,
+      "name": "Sport Car Song",
+      "url": "https://open.spotify.com/track/4TMq3QChrJnPWDbRPRXOU1"
     },
     {
       "album": {
@@ -715,7 +1083,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127709,
       "name": "Sports Car Song",
       "url": "https://open.spotify.com/track/2ZNrzFZ2UK0yPPDSiXeQ2b"
@@ -741,7 +1109,7 @@
     {
       "album": {
         "name": "Blippi Tunes, Vol. 4: Vehicles",
-        "url": "https://open.spotify.com/album/1TbfXoVpPCMDp9PoBTm2an"
+        "url": "https://open.spotify.com/album/27S5LgtyQbiX0EQFfhBFFl"
       },
       "artists": [
         {
@@ -752,6 +1120,24 @@
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 119164,
+      "name": "Street Sweeper",
+      "url": "https://open.spotify.com/track/00rrWEJGAPjIX7CuIcpuEw"
+    },
+    {
+      "album": {
+        "name": "Blippi Tunes, Vol. 4: Vehicles",
+        "url": "https://open.spotify.com/album/1TbfXoVpPCMDp9PoBTm2an"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2020-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 119164,
       "name": "Street Sweeper",
       "url": "https://open.spotify.com/track/6FYkE4CDAGFPVfZX7qvNpG"
@@ -795,7 +1181,7 @@
     {
       "album": {
         "name": "Blippi Tunes, Vol. 2: Machines (Music for Toddlers)",
-        "url": "https://open.spotify.com/album/7FW8yYv5Ox3CJjkEJCA8Se"
+        "url": "https://open.spotify.com/album/3uD0l4haHJADqL4I3ykb8b"
       },
       "artists": [
         {
@@ -806,6 +1192,24 @@
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 164875,
+      "name": "The Airplane Song",
+      "url": "https://open.spotify.com/track/2ezjsQ4Ovf5gQfllhja85v"
+    },
+    {
+      "album": {
+        "name": "Blippi Tunes, Vol. 2: Machines (Music for Toddlers)",
+        "url": "https://open.spotify.com/album/7FW8yYv5Ox3CJjkEJCA8Se"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 166866,
       "name": "The Airplane Song",
       "url": "https://open.spotify.com/track/6qBDXAIxumtwgXW7ryNZ1b"
@@ -866,6 +1270,24 @@
     },
     {
       "album": {
+        "name": "Fun Vehicle Songs for Children! Learn about Transport with LittleBabyBum",
+        "url": "https://open.spotify.com/album/1pXeFG7PI0rfUhL5hwkuIj"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103125,
+      "name": "Tractors Song",
+      "url": "https://open.spotify.com/track/5EOPDGIz7vHmfhxHjfW2hX"
+    },
+    {
+      "album": {
         "name": "Vehicle Songs, Vol 1",
         "url": "https://open.spotify.com/album/6M4hu1ubzcihIDsAZFnlFX"
       },
@@ -877,7 +1299,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 103125,
       "name": "Tractors Song",
       "url": "https://open.spotify.com/track/7K4Ye9DJpb4tAEBiVzmu84"
@@ -957,7 +1379,7 @@
     {
       "album": {
         "name": "Victor Vito",
-        "url": "https://open.spotify.com/album/43RB81zUywXWyPpFBEvxU0"
+        "url": "https://open.spotify.com/album/2zvFlAi9Xy2IGXlaMYLgfl"
       },
       "artists": [
         {
@@ -968,6 +1390,24 @@
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176333,
+      "name": "Trucks",
+      "url": "https://open.spotify.com/track/0zcMjwUeRuhCSOUflcJ3y1"
+    },
+    {
+      "album": {
+        "name": "Victor Vito",
+        "url": "https://open.spotify.com/album/43RB81zUywXWyPpFBEvxU0"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 176333,
       "name": "Trucks",
       "url": "https://open.spotify.com/track/6ZmcrgCpnJ0wBumxHQTrQ1"
@@ -1061,10 +1501,50 @@
       ],
       "date_added": "2020-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 100440,
       "name": "Wheels on the Bus",
       "url": "https://open.spotify.com/track/0GzL6vZXfYOmMyfN3VszoT"
+    },
+    {
+      "album": {
+        "name": "Gecko's Truck Songs for Children",
+        "url": "https://open.spotify.com/album/3URrK6lBjPliA34LkQL1hH"
+      },
+      "artists": [
+        {
+          "name": "Toddler Fun Learning",
+          "url": "https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q"
+        },
+        {
+          "name": "Gecko's Garage",
+          "url": "https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7"
+        }
+      ],
+      "date_added": "2020-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100440,
+      "name": "Wheels on the Bus",
+      "url": "https://open.spotify.com/track/4xXDkuBubr6ougVhkzmdYm"
+    },
+    {
+      "album": {
+        "name": "More Singable Songs",
+        "url": "https://open.spotify.com/album/0MRTAsSv2VDaLyMiNLkyQN"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68146,
+      "name": "Workin' on the Railroad",
+      "url": "https://open.spotify.com/track/7lF3svpuHotTwu0EtMAWTY"
     },
     {
       "album": {
@@ -1079,7 +1559,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 71760,
       "name": "Workin' On The Railroad",
       "url": "https://open.spotify.com/track/7Ck3QNR067q4Hhae6vPLaN"

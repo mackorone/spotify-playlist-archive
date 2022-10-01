@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 366507,
       "name": "All the Time",
       "url": "https://open.spotify.com/track/29medaTijeF8nnq85prKuG"
@@ -237,6 +237,28 @@
       "duration_ms": 358281,
       "name": "Bridging Mechanics",
       "url": "https://open.spotify.com/track/1HNBnJhWryX0mbQBDwOdka"
+    },
+    {
+      "album": {
+        "name": "Buck Fever",
+        "url": "https://open.spotify.com/album/7toS9tvwQhTl7xxUJwH28P"
+      },
+      "artists": [
+        {
+          "name": "Technical Itch",
+          "url": "https://open.spotify.com/artist/0KRqdhJSmE5uVSJ2SyDpRZ"
+        },
+        {
+          "name": "Doom Poets",
+          "url": "https://open.spotify.com/artist/2WXzytB5TirRELdAPGPkIK"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343000,
+      "name": "Buck Fever",
+      "url": "https://open.spotify.com/track/4TDklW1CChEmNkN7mCgsKS"
     },
     {
       "album": {
@@ -403,6 +425,24 @@
       "duration_ms": 391638,
       "name": "Dimensions",
       "url": "https://open.spotify.com/track/0b0OkUJ9tC6SfadcD96Ulm"
+    },
+    {
+      "album": {
+        "name": "Don't Go (Edit)",
+        "url": "https://open.spotify.com/album/4uiJCOfsEzb5mkSiQQ2spi"
+      },
+      "artists": [
+        {
+          "name": "Amy Dabbs",
+          "url": "https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260605,
+      "name": "Don't Go - Edit",
+      "url": "https://open.spotify.com/track/16op1pIObrpe67455ckG8d"
     },
     {
       "album": {
@@ -693,7 +733,7 @@
     {
       "album": {
         "name": "Good Time",
-        "url": "https://open.spotify.com/album/50aLwBuEQ2bU1bSm2KXyFd"
+        "url": "https://open.spotify.com/album/1C9ovUwakv3dr4dMgBJcWg"
       },
       "artists": [
         {
@@ -704,6 +744,24 @@
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 277174,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/2LVz0jvvdCSwSEYIvcIXqA"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/50aLwBuEQ2bU1bSm2KXyFd"
+      },
+      "artists": [
+        {
+          "name": "4am Kru",
+          "url": "https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 277174,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/5BpypPrHuuAvFeZ1LtUgzQ"
@@ -721,7 +779,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 307479,
       "name": "H to the A to the R to the D to the C to the O to the R to the E",
       "url": "https://open.spotify.com/track/4iZJ48KwVMbTh8ws83eveN"
@@ -747,7 +805,7 @@
     {
       "album": {
         "name": "Infrasound",
-        "url": "https://open.spotify.com/album/5TjvVmeJULJUSSWMZUL8US"
+        "url": "https://open.spotify.com/album/1Z0JNGkLgVQVhXU3ZlhGD4"
       },
       "artists": [
         {
@@ -758,6 +816,24 @@
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 299353,
+      "name": "Infrasound",
+      "url": "https://open.spotify.com/track/1CRorGbPh3yiMlENqQYX6s"
+    },
+    {
+      "album": {
+        "name": "Infrasound",
+        "url": "https://open.spotify.com/album/5TjvVmeJULJUSSWMZUL8US"
+      },
+      "artists": [
+        {
+          "name": "Spectre",
+          "url": "https://open.spotify.com/artist/1WwDMZS8uPVbqyeujblu8c"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 299353,
       "name": "Infrasound",
       "url": "https://open.spotify.com/track/1Q2oiVvZ0DTdd2lBLiPULV"
@@ -793,10 +869,28 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241999,
       "name": "JUNGLE TEKNAH",
       "url": "https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU"
+    },
+    {
+      "album": {
+        "name": "JUNGLE TEKNAH",
+        "url": "https://open.spotify.com/album/5CiPiMVy48leoaMEdzz9df"
+      },
+      "artists": [
+        {
+          "name": "SHERELLE",
+          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241999,
+      "name": "JUNGLE TEKNAH",
+      "url": "https://open.spotify.com/track/68TFG76EGGL6WZ5NlSu0fo"
     },
     {
       "album": {
@@ -837,10 +931,28 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270024,
       "name": "LA",
       "url": "https://open.spotify.com/track/11dDBAYvh97embjsF3qEK0"
+    },
+    {
+      "album": {
+        "name": "Won't U / LA",
+        "url": "https://open.spotify.com/album/2qcoRLFUcc0boZmkEyZHL9"
+      },
+      "artists": [
+        {
+          "name": "Ownglow",
+          "url": "https://open.spotify.com/artist/5y0Z76say1n6Vj2mQnUHNj"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270027,
+      "name": "LA",
+      "url": "https://open.spotify.com/track/66WrKlrNWu3GAGerC3W59U"
     },
     {
       "album": {
@@ -877,7 +989,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 251030,
       "name": "Let It Slide",
       "url": "https://open.spotify.com/track/45CXdDHgb5u5oylgMa13RJ"
@@ -917,6 +1029,28 @@
       "duration_ms": 362354,
       "name": "Live And Direct",
       "url": "https://open.spotify.com/track/64zlbq7x2ZgHPFbOUBe5v1"
+    },
+    {
+      "album": {
+        "name": "Looking At Your Pager (CLIPZ Remix)",
+        "url": "https://open.spotify.com/album/3Y4VU7ZIN8v4XVK6J35tdj"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+        },
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226631,
+      "name": "Looking at Your Pager - CLIPZ Remix",
+      "url": "https://open.spotify.com/track/2Ikl0HGBDhvSPyPudSrM9s"
     },
     {
       "album": {
@@ -1185,6 +1319,32 @@
       "duration_ms": 273479,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/6wBXGUAcDsK3T7fidop2Gc"
+    },
+    {
+      "album": {
+        "name": "Palaces : The Remixes, Pt. 2",
+        "url": "https://open.spotify.com/album/40p5qaIMZREYF9S6vKzFf5"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Coco Bryce",
+          "url": "https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313233,
+      "name": "Sirens (feat. Caroline Polachek) [Coco Bryce Remix]",
+      "url": "https://open.spotify.com/track/326eYH1DUgVJafO2baEEwL"
     },
     {
       "album": {
@@ -1511,10 +1671,32 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 355345,
       "name": "Tyrant",
       "url": "https://open.spotify.com/track/4e4KixcWdsC9ZU6ncT8B2D"
+    },
+    {
+      "album": {
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/4kZKTNifMhOF5u8IE8TP55"
+      },
+      "artists": [
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        },
+        {
+          "name": "T-Man",
+          "url": "https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300117,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/6wdwC58WB6sPW0bpE0KR5f"
     },
     {
       "album": {

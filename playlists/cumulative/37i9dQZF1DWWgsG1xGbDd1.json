@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Foundation Ska",
+        "url": "https://open.spotify.com/album/75ZvFVrbCvlXtjrMkyeRCZ"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144773,
+      "name": "Addis Ababa",
+      "url": "https://open.spotify.com/track/2WyHhnomczoCMPlG6SW50w"
+    },
+    {
+      "album": {
         "name": "Studio One Ska",
         "url": "https://open.spotify.com/album/0rb7M19pl1lRSboIKvoxEv"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147280,
       "name": "Addis Ababa",
       "url": "https://open.spotify.com/track/0eVmqKYRg6A8hqOTdxcDyI"
@@ -127,10 +145,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 204146,
       "name": "Black Wax",
       "url": "https://open.spotify.com/track/1yZp4EH1pnKnytB1psEb7y"
+    },
+    {
+      "album": {
+        "name": "Freddie McGregor: The Anthology",
+        "url": "https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Bobby Babylon",
+      "url": "https://open.spotify.com/track/0VjZC2nsyapSm0pd5r4Jns"
     },
     {
       "album": {
@@ -145,7 +181,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149680,
       "name": "Bobby Babylon",
       "url": "https://open.spotify.com/track/2Z0EHTytryLUAIUikxakIH"
@@ -163,10 +199,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 168880,
       "name": "Bongo Red",
       "url": "https://open.spotify.com/track/2eo43OF7EEgIELPnTcrJUH"
+    },
+    {
+      "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255840,
+      "name": "Buffalo Soldier",
+      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
     },
     {
       "album": {
@@ -181,10 +235,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 123773,
       "name": "Call to Me",
       "url": "https://open.spotify.com/track/5AlZ6pmFMiiEGAm6QLKhC5"
+    },
+    {
+      "album": {
+        "name": "Dancing the Ska",
+        "url": "https://open.spotify.com/album/6b2G79N6sJoKbg7Mw0Pubw"
+      },
+      "artists": [
+        {
+          "name": "Rita Marley",
+          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121470,
+      "name": "Call to Me (aka Come to Me)",
+      "url": "https://open.spotify.com/track/07JiDePV5j3JS2Ohss2u7y"
     },
     {
       "album": {
@@ -217,7 +289,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169946,
       "name": "Coconut Rock",
       "url": "https://open.spotify.com/track/3gxEtE7T9CdLod0ZdOTrJv"
@@ -253,7 +325,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195306,
       "name": "Crabwalking",
       "url": "https://open.spotify.com/track/4jYXEy2Rv5V5jcf4JAiR7o"
@@ -278,6 +350,24 @@
     },
     {
       "album": {
+        "name": "The Best of Studio One, Vol. 1",
+        "url": "https://open.spotify.com/album/1wPbCwn6OsBQj9VfziLYjQ"
+      },
+      "artists": [
+        {
+          "name": "The Abyssinians",
+          "url": "https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199746,
+      "name": "Declaration of Rights",
+      "url": "https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim"
+    },
+    {
+      "album": {
         "name": "Soul Jazz Records Presents Studio One Story",
         "url": "https://open.spotify.com/album/5Mr1LHcR1zseZQ087rNg1W"
       },
@@ -289,7 +379,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200973,
       "name": "Declaration Of Rights",
       "url": "https://open.spotify.com/track/3t1rBSQTTvmgzSsnSORInf"
@@ -307,7 +397,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233653,
       "name": "Drum Song",
       "url": "https://open.spotify.com/track/7m7XbZbG4otW7AtUOtn7iU"
@@ -325,10 +415,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250360,
       "name": "Freedom Sounds",
       "url": "https://open.spotify.com/track/4dNDYHH9JPAHc339r1y8ty"
+    },
+    {
+      "album": {
+        "name": "Fat Back Ska, Vol. 2",
+        "url": "https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw"
+      },
+      "artists": [
+        {
+          "name": "The Soul Brothers",
+          "url": "https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250360,
+      "name": "Freedom Sounds",
+      "url": "https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw"
     },
     {
       "album": {
@@ -343,7 +451,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 197666,
       "name": "Get Up, Stand Up",
       "url": "https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx"
@@ -368,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Fat Back Ska, Vol. 2",
+        "url": "https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111173,
+      "name": "Gumma",
+      "url": "https://open.spotify.com/track/48lJI0zX6WopGcgmwv22kv"
+    },
+    {
+      "album": {
         "name": "Studio One Ska Fever! More Ska Sounds from Sir Coxsone's Downbeat 1962-65",
         "url": "https://open.spotify.com/album/2X9XmbPk2hthOpLcZ5lHnj"
       },
@@ -379,7 +505,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 111173,
       "name": "Gumma",
       "url": "https://open.spotify.com/track/6Jz8AqlYRx2QaReB3Schvn"
@@ -397,7 +523,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149360,
       "name": "Guns of Navarone",
       "url": "https://open.spotify.com/track/5np6g6qhDLUh1y15nlxPBC"
@@ -469,7 +595,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191813,
       "name": "How Could I Live",
       "url": "https://open.spotify.com/track/4dY12uO1KLfh79TUyZVSEN"
@@ -512,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Presenting The Gladiators",
+        "url": "https://open.spotify.com/album/6inbtfHKcxOyAAOqkzw7di"
+      },
+      "artists": [
+        {
+          "name": "The Gladiators",
+          "url": "https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161567,
+      "name": "Jah Jah Go Before Us",
+      "url": "https://open.spotify.com/track/1R0XkmUBzSOqiWV8XSZ1if"
+    },
+    {
+      "album": {
         "name": "Studio One Groups",
         "url": "https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo"
       },
@@ -523,7 +667,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 166426,
       "name": "Jah Jah Go Before Us",
       "url": "https://open.spotify.com/track/55lbdEV1suvlkYVyIgVZxU"
@@ -541,10 +685,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
     },
     {
       "album": {
@@ -559,7 +721,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 177000,
       "name": "Jericho Skank",
       "url": "https://open.spotify.com/track/3TJ7zlTrUnssanybZDirCu"
@@ -577,7 +739,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 198653,
       "name": "Joe Frazier",
       "url": "https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT"
@@ -613,7 +775,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 217440,
       "name": "Kinky Reggae - Original Album Version",
       "url": "https://open.spotify.com/track/7rzl3uAXLQMWznyVUaoeer"
@@ -631,7 +793,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 239266,
       "name": "Live Up to Your Name",
       "url": "https://open.spotify.com/track/7yaIFvg4FW9U3PRnBisAqi"
@@ -649,7 +811,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 310426,
       "name": "Lively Up Yourself",
       "url": "https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr"
@@ -667,7 +829,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 259506,
       "name": "Locust",
       "url": "https://open.spotify.com/track/3jFPay48ActRmwHnhPHwu7"
@@ -685,7 +847,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159480,
       "name": "Love and Affection",
       "url": "https://open.spotify.com/track/2OGB6WhcDJ2kMl1uAPRt7j"
@@ -703,7 +865,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 156853,
       "name": "Love Jah",
       "url": "https://open.spotify.com/track/2kNtkx2Bh9qRKELpJMdIks"
@@ -721,10 +883,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 108626,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/4iYwpyRtLevg1OXHARWCSn"
+    },
+    {
+      "album": {
+        "name": "This Girl Loves Reggae",
+        "url": "https://open.spotify.com/album/1TuWq3VmQSEC18DBlED4BD"
+      },
+      "artists": [
+        {
+          "name": "Hugh Godfrey",
+          "url": "https://open.spotify.com/artist/1z66MA7rp4Rm0tvBIjaM0r"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108626,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/6oZymvG8LsXxMzDFPwBqRf"
     },
     {
       "album": {
@@ -793,10 +973,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 215680,
       "name": "Nanny\u2019s Corner",
       "url": "https://open.spotify.com/track/5xUjLG37Qk3YR2CYpGHgKR"
+    },
+    {
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/6xagSz2uBot6PdYytMZxxi"
+      },
+      "artists": [
+        {
+          "name": "Carlton & The Shoes",
+          "url": "https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "Never Give Your Heart Away",
+      "url": "https://open.spotify.com/track/22LNaj7qU9BC1nlylGVaKt"
     },
     {
       "album": {
@@ -811,10 +1009,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191693,
       "name": "Never Give Your Heart Away",
       "url": "https://open.spotify.com/track/4Fe9EIHcLd3jmJ10GsjuPM"
+    },
+    {
+      "album": {
+        "name": "Feel Like Jumping: The Best of Studio One Women",
+        "url": "https://open.spotify.com/album/6VePDosmMTNHNOshjX4vZJ"
+      },
+      "artists": [
+        {
+          "name": "Dawn Penn",
+          "url": "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269506,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/1IydAjgvKCvFinmoIDaBx0"
     },
     {
       "album": {
@@ -829,7 +1045,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271000,
       "name": "No, No, No",
       "url": "https://open.spotify.com/track/4bukx6aimK0TeawVaPVLi8"
@@ -847,10 +1063,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197173,
       "name": "People Make The World Go Round",
       "url": "https://open.spotify.com/track/4YHyTPPrfbROj1Uh5V3oYj"
+    },
+    {
+      "album": {
+        "name": "Alton & Hortense Ellis",
+        "url": "https://open.spotify.com/album/1hWDeXQy6iBX5avTe0TKmy"
+      },
+      "artists": [
+        {
+          "name": "Hortense Ellis",
+          "url": "https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "People Make the World Go Round",
+      "url": "https://open.spotify.com/track/5VsZxcRWnfX9b4SNH0KjuK"
     },
     {
       "album": {
@@ -883,10 +1117,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253373,
       "name": "Poco Tempo",
       "url": "https://open.spotify.com/track/1X2V7D8O2BeVXPatr23Evr"
+    },
+    {
+      "album": {
+        "name": "Natural High: The Bongo Man Collection",
+        "url": "https://open.spotify.com/album/09ThsD4R0KOVguZBScQH3S"
+      },
+      "artists": [
+        {
+          "name": "Pablove Black and The New Establishment",
+          "url": "https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250543,
+      "name": "Poco Tempo (aka Pocco Tempo)",
+      "url": "https://open.spotify.com/track/3XsdL4mKkygWZpOcyt4vfp"
     },
     {
       "album": {
@@ -901,7 +1153,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 213893,
       "name": "Positive Vibration",
       "url": "https://open.spotify.com/track/5722IiSQ4ZqzpwhwFeCz2u"
@@ -955,7 +1207,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 154546,
       "name": "Reggae Feet",
       "url": "https://open.spotify.com/track/7bfqVYoG4SEjyp0LgUf6KG"
@@ -973,7 +1225,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 180586,
       "name": "Reggae Version",
       "url": "https://open.spotify.com/track/7gnGakKfPtbXTDh9zoj1r4"
@@ -991,7 +1243,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188333,
       "name": "Ringo Rock",
       "url": "https://open.spotify.com/track/0d98jmXYAEuh2cLAdLp8Q9"
@@ -1052,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "Winner Of My Heart - Reggae",
+        "url": "https://open.spotify.com/album/0xUN4o8p2BixUKpUvOejJ5"
+      },
+      "artists": [
+        {
+          "name": "The Clarendonians",
+          "url": "https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141800,
+      "name": "Rudie Bam Bam",
+      "url": "https://open.spotify.com/track/19MYWyeATrI33acF9xSgBk"
+    },
+    {
+      "album": {
         "name": "Studio One Ska Fever! More Ska Sounds from Sir Coxsone's Downbeat 1962-65",
         "url": "https://open.spotify.com/album/2X9XmbPk2hthOpLcZ5lHnj"
       },
@@ -1063,7 +1333,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141800,
       "name": "Rudie Bam Bam",
       "url": "https://open.spotify.com/track/5wMDhtowY6v49Ftjws4hvg"
@@ -1081,7 +1351,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 271000,
       "name": "Satisfy My Soul",
       "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
@@ -1117,7 +1387,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 363386,
       "name": "Send Another Moses",
       "url": "https://open.spotify.com/track/4HSC43MCTRxCA6ohDU4MNB"
@@ -1160,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 188026,
+      "name": "So Much Things To Say",
+      "url": "https://open.spotify.com/track/2RiOvJpzM1IsxZNLlCBqIM"
+    },
+    {
+      "album": {
         "name": "Exodus (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
       },
@@ -1171,7 +1459,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-26",
       "duration_ms": 188026,
       "name": "So Much Things To Say",
       "url": "https://open.spotify.com/track/4z62783TED1Rz0XOpBLOV7"
@@ -1225,7 +1513,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146253,
       "name": "Surfin",
       "url": "https://open.spotify.com/track/79HIvcu6xOekJTWPIFSe9P"
@@ -1243,7 +1531,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 163386,
       "name": "The Lord Is With Me",
       "url": "https://open.spotify.com/track/4D9l6fyrjLYvhALDmrBXBk"
@@ -1279,7 +1567,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 153626,
       "name": "The Well Run Dry",
       "url": "https://open.spotify.com/track/30b90XD4VP61a8h70iv31o"
@@ -1297,7 +1585,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-22",
       "duration_ms": 117866,
       "name": "There's a Fire",
       "url": "https://open.spotify.com/track/7EhKVBUrL5dd7VNZDXGpiD"
@@ -1369,10 +1657,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256240,
       "name": "Waiting In Vain",
       "url": "https://open.spotify.com/track/4Gq2ydMKhDZmctzkmk2bYo"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256240,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
     },
     {
       "album": {
@@ -1387,10 +1693,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134200,
       "name": "Where's Garvey",
       "url": "https://open.spotify.com/track/32fwQQjAdnaW9TuqJdW8rw"
+    },
+    {
+      "album": {
+        "name": "Reggae For House Parties",
+        "url": "https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c"
+      },
+      "artists": [
+        {
+          "name": "The Bongo Man",
+          "url": "https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134200,
+      "name": "Where's Garvey",
+      "url": "https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00"
     },
     {
       "album": {
@@ -1405,7 +1729,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 176706,
       "name": "You'll Get Your Pay",
       "url": "https://open.spotify.com/track/0QS4vNmAoV6Y0FMz0FTYhe"

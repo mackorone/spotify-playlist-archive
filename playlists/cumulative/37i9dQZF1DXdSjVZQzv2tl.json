@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Matheus & Kauan",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Jorge & Mateus",
   "name": "Esquenta Sertanejo",
   "published_playlist_ids": [
     "1QClRCShAKNcti565v7TOp"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "\u00c9 Simples Assim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3KOePCX9vdj3OrAC2ruEFk"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161469,
+      "name": "5 Regras - Ao Vivo",
+      "url": "https://open.spotify.com/track/3gCWngngUs1uojw33vrE8K"
+    },
     {
       "album": {
         "name": "50 por Cento",
@@ -41,7 +59,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 190161,
       "name": "A Maior Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/5Q0ZnQjk4lQpScX7ujswun"
@@ -106,6 +124,24 @@
     },
     {
       "album": {
+        "name": "No Churrasco 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GwoKtfGlr1VGlrTU6Xb9u"
+      },
+      "artists": [
+        {
+          "name": "Clayton & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176491,
+      "name": "Ai Eu Chorei - Ao Vivo",
+      "url": "https://open.spotify.com/track/5TPXcKSOlPaz2pkYbWiWHU"
+    },
+    {
+      "album": {
         "name": "Rol\u00ea Diferenciado, Temp. #3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/78SmFsr14MytkxzvCRIAHJ"
       },
@@ -121,7 +157,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 185533,
       "name": "Amava Nada - Ao Vivo",
       "url": "https://open.spotify.com/track/60JP0KEMPE9uOw5NGGfPpW"
@@ -161,10 +197,54 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171524,
       "name": "Assume a Gente - Ao Vivo",
       "url": "https://open.spotify.com/track/2IJPcsIjReWb0v4EdNuwLu"
+    },
+    {
+      "album": {
+        "name": "Assume a Gente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Uf3XivKw12Ic7J3YMwSXy"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco e Gabriel",
+          "url": "https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171524,
+      "name": "Assume a Gente - Ao Vivo",
+      "url": "https://open.spotify.com/track/48LEhRW4gLMCVSYFEZvt8b"
+    },
+    {
+      "album": {
+        "name": "Assunto Delicado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fMbYVUDAIWPuKcyehDYlT"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180504,
+      "name": "Assunto Delicado - Ao Vivo",
+      "url": "https://open.spotify.com/track/3yHXEidSu4gYVRqKoI653O"
     },
     {
       "album": {
@@ -190,6 +270,24 @@
     },
     {
       "album": {
+        "name": "Basiquinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/66K770CKTCoFFTRTiZGEwJ"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164383,
+      "name": "Basiquinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/2HMbGPbGiqGaHXzFkQAmZI"
+    },
+    {
+      "album": {
         "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
       },
@@ -208,6 +306,46 @@
     },
     {
       "album": {
+        "name": "Beijo de Glicose (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Y3F7RFN8cOh7ewKiyn2rC"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171007,
+      "name": "Beijo de Glicose - Ao Vivo",
+      "url": "https://open.spotify.com/track/6gyhp7IcNhTYzwlk8utsgP"
+    },
+    {
+      "album": {
+        "name": "Buteco in Boston (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168689,
+      "name": "Bloqueado - Ao Vivo",
+      "url": "https://open.spotify.com/track/6nkoWsFZeFt5dUdNmlIceh"
+    },
+    {
+      "album": {
         "name": "Buteco in Boston, Vol. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7j9x6yqb1XSNsyxEh3q3QK"
       },
@@ -219,7 +357,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 168689,
       "name": "Bloqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/7MLCxrDoxcTRg1u3QAGE5a"
@@ -270,6 +408,28 @@
     },
     {
       "album": {
+        "name": "Pr\u00f3ximo Passo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2aeDFXeS2WvKqIfXQyKRGa"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171077,
+      "name": "Cheiro de Balada - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ykYxd8UGHOsdjP3Z5jSHh"
+    },
+    {
+      "album": {
         "name": "Manifesto Musical (Ao Vivo / Vol. 1)",
         "url": "https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau"
       },
@@ -285,6 +445,28 @@
       "duration_ms": 176585,
       "name": "Ch\u00e1 De Casa Nova - Ao Vivo",
       "url": "https://open.spotify.com/track/6wrkP23fHC8KDHCfs8MpJ9"
+    },
+    {
+      "album": {
+        "name": "LUAN CITY (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209928,
+      "name": "CORA\u00c7\u00c3O CIGANO - Ao Vivo",
+      "url": "https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS"
     },
     {
       "album": {
@@ -357,7 +539,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 129353,
       "name": "Dar uma Namorada - Ao Vivo",
       "url": "https://open.spotify.com/track/2PZmUFZGlUqkYJL0s0Cl6C"
@@ -415,6 +597,24 @@
       "duration_ms": 168644,
       "name": "Ela e Ela",
       "url": "https://open.spotify.com/track/5Yu1AOnIzC1tWRJ4U0uW7u"
+    },
+    {
+      "album": {
+        "name": "Raiz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5SClWm6m0wwcS3hb766KBg"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167124,
+      "name": "Elevador - Ao Vivo",
+      "url": "https://open.spotify.com/track/20yfr4F5QmZ5V3Cu1Rx4Kp"
     },
     {
       "album": {
@@ -495,7 +695,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 144401,
       "name": "Esse Barulho",
       "url": "https://open.spotify.com/track/67fTDdGkHk1G5IZokS4uML"
@@ -517,7 +717,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 172000,
       "name": "Estelionato Afetivo - Ao Vivo",
       "url": "https://open.spotify.com/track/0m6XpDgZSyqyCg0HKOCaO8"
@@ -543,6 +743,28 @@
       "duration_ms": 162799,
       "name": "Eu e Eu",
       "url": "https://open.spotify.com/track/7DETyuwRe61Ab57w90dJ37"
+    },
+    {
+      "album": {
+        "name": "Eu Gosto Assim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Eu Gosto Assim - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
     },
     {
       "album": {
@@ -611,10 +833,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 163324,
       "name": "Expectativa x Realidade",
       "url": "https://open.spotify.com/track/1wdhj1r7aeWVDUl9d18YKu"
+    },
+    {
+      "album": {
+        "name": "Fala Alguma Coisa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KNtqlfJEyuLHqNRwHYE3B"
+      },
+      "artists": [
+        {
+          "name": "Paulo e Nathan",
+          "url": "https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161802,
+      "name": "Fala Alguma Coisa - Ao Vivo",
+      "url": "https://open.spotify.com/track/0JAnjmcYMX157RsnmkhDBW"
     },
     {
       "album": {
@@ -851,6 +1091,24 @@
       "duration_ms": 229857,
       "name": "Me Ame Mais",
       "url": "https://open.spotify.com/track/4iavXH4dDUMA8yAabnUhSI"
+    },
+    {
+      "album": {
+        "name": "Diego & Victor Hugo Ao Vivo Em S\u00e3o Paulo Vol. 2",
+        "url": "https://open.spotify.com/album/0V3ZGohMB2SF82xhUEN8QC"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153055,
+      "name": "Meio Fio - Ao Vivo",
+      "url": "https://open.spotify.com/track/1t5dhHyXMwdbAcI3EQRqFV"
     },
     {
       "album": {
@@ -1101,7 +1359,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 176394,
       "name": "N\u00e3o Parei De Sofrer",
       "url": "https://open.spotify.com/track/4zN7Kfk6s75jBOEehLHzV2"
@@ -1119,7 +1377,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 175466,
       "name": "N\u00e3o Pega Ningu\u00e9m Ainda (Ao Vivo)",
       "url": "https://open.spotify.com/track/2LEV3lTRxKqLBfmt5BWkLj"
@@ -1166,6 +1424,28 @@
     },
     {
       "album": {
+        "name": "Perfeito Pra Ficar Sozinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0hSTkDethURIn0Bqp009ja"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170568,
+      "name": "Perfeito Pra Ficar Sozinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4cxQWmXmmbFoWvV8qipQTe"
+    },
+    {
+      "album": {
         "name": "LUAN CITY ALAMEDA BRUNA SANTANA (Ao Vivo)",
         "url": "https://open.spotify.com/album/49CJLfc1GJNjhMb7C7l9Ve"
       },
@@ -1177,7 +1457,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 201896,
       "name": "PERIGO NOTURNO - Ao Vivo",
       "url": "https://open.spotify.com/track/4IX43MpJlpxzRMLb9QayrJ"
@@ -1217,7 +1497,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 196209,
       "name": "Presepada",
       "url": "https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp"
@@ -1239,7 +1519,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 175216,
       "name": "Quebrando Protocolo - Ao Vivo",
       "url": "https://open.spotify.com/track/4OjLi2Ji9UhVsHjqzRGCsM"
@@ -1304,6 +1584,24 @@
     },
     {
       "album": {
+        "name": "Decretos Reais, Vol.1",
+        "url": "https://open.spotify.com/album/24aslPrdihuSQ59jrB2eBB"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205685,
+      "name": "Te Amo Demais",
+      "url": "https://open.spotify.com/track/4xxeEWGQNFQ6qehlnev5LS"
+    },
+    {
+      "album": {
         "name": "Termina Comigo Antes",
         "url": "https://open.spotify.com/album/3DnY0LdBlcqVcSOGLHE4Vq"
       },
@@ -1359,7 +1657,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 206171,
       "name": "Todo Mundo Menos Voc\u00ea",
       "url": "https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b"
@@ -1497,10 +1795,32 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191523,
       "name": "Vai L\u00e1 Em Casa Hoje",
       "url": "https://open.spotify.com/track/1c4htMHiolERc0YJvZNdlc"
+    },
+    {
+      "album": {
+        "name": "Vai L\u00e1 Em Casa Hoje",
+        "url": "https://open.spotify.com/album/0JKlc3z8LMvYXvAvCv1EzG"
+      },
+      "artists": [
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191523,
+      "name": "Vai L\u00e1 Em Casa Hoje",
+      "url": "https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY"
     },
     {
       "album": {
@@ -1515,7 +1835,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 139528,
       "name": "Vamo Tomar Uma",
       "url": "https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2xxkK8eaOyM6JRhHOheZBZ.md) - [plain]
 
 > Sweden Rock är Sveriges största hårdrocksfestival\. Sommarens upplaga äger rum 6 \- 9 juni i Sölvesborg\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 49 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/2xxkK8eaOyM6JRhHOheZBZ.md) - [plain]
 | 67 | [Four wanderers](https://open.spotify.com/track/63ykaCEiOJmF7c53O5bl08) | [Mother Of God](https://open.spotify.com/artist/6n2dyzk0w0KEHwhmJifBtG) | [Forging a new path](https://open.spotify.com/album/3ybkaU0bFDtLKYdd9bkN7D) | 3:29 |
 | 68 | [Between The Lines](https://open.spotify.com/track/1yUurcZU99B1DQJQhvZivz) | [Beyond All Recognition](https://open.spotify.com/artist/1PMagroptnVMBgWJYgTaC6) | [Now Or Never](https://open.spotify.com/album/5WtT21ERyo0SK0zLcv0kMk) | 3:49 |
 | 69 | [Elaborinth](https://open.spotify.com/track/5Sw2tsW3UOjRf1Fta5Q6CI) | [Vulkan](https://open.spotify.com/artist/7hUmeNCy16IbVdufW26t2H) | [Mask of Air](https://open.spotify.com/album/2y3TrMOSOeJDd8yBB7hAC0) | 9:07 |
-| 70 | [Broken Wings](https://open.spotify.com/track/1IzfSKXYt8KMGix4GahE87) | [Scarlet Drop](https://open.spotify.com/artist/6siRgfoot198KXZyhfQpsi) | [Broken Wings](https://open.spotify.com/album/60mnuHvrCOoAAvQGHGQeqR) | 4:15 |
+| 70 | [Broken Wings](https://open.spotify.com/track/1IzfSKXYt8KMGix4GahE87) | [Scarlet Drop](https://open.spotify.com/artist/6siRgfoot198KXZyhfQpsi), [Simon Vacklen](https://open.spotify.com/artist/4WkvfHDB6enBTlt9W8n43R), [Henrik Astrom](https://open.spotify.com/artist/5zLl8NQrPYTb94PYNrCWN0) | [Broken Wings](https://open.spotify.com/album/60mnuHvrCOoAAvQGHGQeqR) | 4:15 |
 | 71 | [The Chase](https://open.spotify.com/track/22O6usT184qfjv5dZmIMMD) | [Evasive](https://open.spotify.com/artist/58YLW4aJF8LCktIV6v0dTd) | [Evasive EP](https://open.spotify.com/album/2KGD6jrBnAT6lY7vBmjbC5) | 4:36 |
 | 72 | [All I Wanna Do](https://open.spotify.com/track/3yKO07e3rSJLvLbF2UsuoE) | [Frontback](https://open.spotify.com/artist/4uuYNKIR4DjaMJCerKYcCD) | [Frontback](https://open.spotify.com/album/0WK8uPKB2ZD47Cz7514NvT) | 4:20 |
 | 73 | [Parasite](https://open.spotify.com/track/05GEbrggzaiEyre297M8w7) | [Colossus](https://open.spotify.com/artist/2xg2J6rxsafD4z6D0E26cI) | [Spiritual Myiasis](https://open.spotify.com/album/0IoEavnDgE7mn2bWiR4Aqx) | 4:23 |

@@ -4,7 +4,7 @@
 
 > Eagles at their best\. Explore their deep catalog as a band and as solo artists.
 
-68 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/1N5CBy1kKdpU2nUNav26R6)
+69 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/1N5CBy1kKdpU2nUNav26R6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [So Much in Love](https://open.spotify.com/track/4HIcn25dIDQgUURWvGKRUq) | [Timothy B\. Schmit](https://open.spotify.com/artist/2VbrivHnDf4Z43xPTgqvym) | [Playin' It Cool](https://open.spotify.com/album/78MYE6N6PfoZDoikNBdjP9) | 2:16 | 2022-07-15 |  |
 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 | 2022-07-15 |  |
 | [Take It to the Limit](https://open.spotify.com/track/2EhszzA7t9Jptste4v3CPT) | [Randy Meisner](https://open.spotify.com/artist/00f43SIUld0KU349dnwsmC) | [Randy Meisner](https://open.spotify.com/album/0e2SRIvDcdx7xXKZBEb48h) | 4:19 | 2022-07-15 |  |
-| [Taking You Home](https://open.spotify.com/track/114ZIcx0S3gJkZmT3wmGte) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Inside Job](https://open.spotify.com/album/6joEVcRAygVpcDBWh7extk) | 5:31 | 2022-07-15 |  |
+| [Taking You Home](https://open.spotify.com/track/2Ro4mKGAO5zgfwZmThAWhj) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Soft Rock For Kids](https://open.spotify.com/album/3TdyAkbn8phqy6xoCx6tXu) | 5:31 | 2022-07-15 |  |
+| [Taking You Home](https://open.spotify.com/track/114ZIcx0S3gJkZmT3wmGte) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Inside Job](https://open.spotify.com/album/6joEVcRAygVpcDBWh7extk) | 5:31 | 2022-07-15 | 2022-09-30 |
 | [Tequila Sunrise \- 2013 Remaster](https://open.spotify.com/track/1WYokrkFOb9TFVuTrmxTTt) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 2:53 | 2022-07-15 |  |
 | [The Best of My Love \- 2013 Remaster](https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:34 | 2022-07-15 |  |
 | [The Boys Of Summer](https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Building The Perfect Beast](https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i) | 4:48 | 2022-07-15 |  |

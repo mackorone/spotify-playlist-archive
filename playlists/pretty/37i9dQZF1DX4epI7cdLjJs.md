@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4epI7cdLjJs.md) - [plain]
 
 > Enjoy the soundtrack of Business Proposal! \(드라마 사내 맞선의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,021 likes - 35 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,736 likes - 35 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4epI7cdLjJs.md) - [plain]
 | 34 | [Terrible Mistake](https://open.spotify.com/track/5GY8fd9L48CsyKT4I2trCV) | [Song Jin Seok](https://open.spotify.com/artist/39gwJ5Pyd3jpuC2IPh3GFg), [HWANG SEUNG PIL](https://open.spotify.com/artist/2B0ns0f43BZMTheyMx0ELG) | [A Business Proposal OST](https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY) | 1:52 |
 | 35 | [Acoustic Romance](https://open.spotify.com/track/7CmLlsJ9PExKs6P4L5cAxM) | [WOO JI HUN](https://open.spotify.com/artist/7gtqoiAM3hN5D0ug4BuHW0), [Park Sejun](https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW) | [A Business Proposal OST](https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY) | 2:07 |
 
-Snapshot ID: `MTY1MTY0NzMyMywwMDAwMDAwMjAwMDAwMTgwOGRkYTFjOGIwMDAwMDE4MDhjZmVlZTQw`
+Snapshot ID: `MTY1MTY0NzMyMywwMDAwMDAwMDZjNjhmOTJhYzY1Y2UyZjRlODk3MmI4MDY0NzllNzRi`

@@ -4,13 +4,14 @@
 
 > Soundtrack your 2022 resolutions with Corey Calliet.
 
-59 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/71iiAy84h7BLNDLGpturJS)
+61 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/71iiAy84h7BLNDLGpturJS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3500 \(feat\. Future & 2 Chainz\)](https://open.spotify.com/track/1SGt65i9AnXYdDQt1AtDRH) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Rodeo \(Expanded Edition\)](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 7:41 | 2022-01-12 |  |
 | [9MM](https://open.spotify.com/track/2K6FYgz38Kzih6BGJzfD0H) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Greatest Story Ever Told](https://open.spotify.com/album/4dlnbBnFH9CE6sbyrPP2aR) | 4:07 | 2022-01-12 |  |
-| [Avalanche](https://open.spotify.com/track/3BaDbRcCoK46B2ifLj6mcx) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/3Irz7UWmZX0rSE0WR63lRq) | 3:26 | 2022-01-12 |  |
+| [Avalanche](https://open.spotify.com/track/3BaDbRcCoK46B2ifLj6mcx) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/3Irz7UWmZX0rSE0WR63lRq) | 3:26 | 2022-01-12 | 2022-07-29 |
+| [Avalanche](https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:26 | 2022-01-12 |  |
 | [BIG](https://open.spotify.com/track/0wRpsc7jtLA8V0COFkwtYG) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [BIG](https://open.spotify.com/album/4mYgWeJ39gMlXqTPOUzASz) | 2:40 | 2022-01-12 |  |
 | [Bless Em \(Takeoff feat\. Travis Scott\)](https://open.spotify.com/track/3aaRK3htdVkK2pqOI64FEb) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:00 | 2022-01-12 |  |
 | [BM J.R.](https://open.spotify.com/track/3AmVUYa0BTGd1AhrWWj4Gz) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:58 | 2022-01-12 |  |
@@ -46,7 +47,8 @@
 | [Reverse \(feat\. G\-Eazy\)](https://open.spotify.com/track/5Vvu6MkyvNVdbsD5oV49Aw) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [HOOLIGANS](https://open.spotify.com/album/21OHZ67Rh5SA48teJlEExi) | 3:31 | 2022-01-12 |  |
 | [Roadrunner](https://open.spotify.com/track/5DxA8tzKieKkOrvKnCrADi) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:16 | 2022-01-12 |  |
 | [Run Up the Racks](https://open.spotify.com/track/7vbjH8laThXpcBXeLNPm3M) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 3:09 | 2022-01-12 |  |
-| [Scorpio](https://open.spotify.com/track/0LlFMKD7MAHwOqkIBsHui6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/78L6XKTChkf0M5SK3oogk3) | 2:45 | 2022-01-12 |  |
+| [Scorpio](https://open.spotify.com/track/0BFGDkrXAneskCJdudSCro) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:45 | 2022-01-12 |  |
+| [Scorpio](https://open.spotify.com/track/0LlFMKD7MAHwOqkIBsHui6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/78L6XKTChkf0M5SK3oogk3) | 2:45 | 2022-01-12 | 2022-07-29 |
 | [Set It Off](https://open.spotify.com/track/6Efmq0wDgijxWFdBkzIOvb) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [Bad Azz](https://open.spotify.com/album/7EEdfr0tQIbdFe6UKwK93O) | 4:44 | 2022-01-12 |  |
 | [Set It Off](https://open.spotify.com/track/44LFap7VrB4356vfbQOZHg) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI) | [Project English](https://open.spotify.com/album/6XWF6iUztcDP7yVBGpsGvb) | 4:17 | 2022-01-12 |  |
 | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/3T9BKc4kB7ukeNQrCqv6ZV) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 2:41 | 2022-01-12 |  |

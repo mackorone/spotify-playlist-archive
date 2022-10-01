@@ -45,7 +45,7 @@
     {
       "album": {
         "name": "All I Need (DJ-Kicks)",
-        "url": "https://open.spotify.com/album/538fzgi7SpX9LWVFwR0bIw"
+        "url": "https://open.spotify.com/album/4eMhrXXUCKHXIaG2xZGjjO"
       },
       "artists": [
         {
@@ -58,7 +58,43 @@
       "date_removed": null,
       "duration_ms": 219848,
       "name": "All I Need (DJ-Kicks) - Edit",
+      "url": "https://open.spotify.com/track/1K4Pm198Uqbb5L6KTpq9t2"
+    },
+    {
+      "album": {
+        "name": "All I Need (DJ-Kicks)",
+        "url": "https://open.spotify.com/album/538fzgi7SpX9LWVFwR0bIw"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219848,
+      "name": "All I Need (DJ-Kicks) - Edit",
       "url": "https://open.spotify.com/track/52t3lx38kiruAIGY2gISfc"
+    },
+    {
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237929,
+      "name": "Already",
+      "url": "https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs"
     },
     {
       "album": {
@@ -73,7 +109,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237929,
       "name": "ALREADY",
       "url": "https://open.spotify.com/track/6Va3LYz5xrQWbqqbbUaPSu"
@@ -171,10 +207,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 343341,
       "name": "Bby",
       "url": "https://open.spotify.com/track/3x1Tn4rHA7ziJXsHMTJDMY"
+    },
+    {
+      "album": {
+        "name": "Diamond Cut / Bby",
+        "url": "https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343341,
+      "name": "Bby",
+      "url": "https://open.spotify.com/track/7kAJWULoQUsWiiTJp2951Y"
     },
     {
       "album": {
@@ -483,7 +537,7 @@
     {
       "album": {
         "name": "DEACON",
-        "url": "https://open.spotify.com/album/15i2CVbvZzxiv9LfUkl2wU"
+        "url": "https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV"
       },
       "artists": [
         {
@@ -494,6 +548,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219320,
+      "name": "Fellowship",
+      "url": "https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM"
+    },
+    {
+      "album": {
+        "name": "DEACON",
+        "url": "https://open.spotify.com/album/15i2CVbvZzxiv9LfUkl2wU"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 219320,
       "name": "Fellowship",
       "url": "https://open.spotify.com/track/4ROdvtRcPEGo56SiZ23o8a"
@@ -765,7 +837,7 @@
     {
       "album": {
         "name": "Hildegard",
-        "url": "https://open.spotify.com/album/1iWXfCQ5mVVcvLtxJYyfPq"
+        "url": "https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV"
       },
       "artists": [
         {
@@ -784,6 +856,32 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186544,
+      "name": "Jour 3",
+      "url": "https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V"
+    },
+    {
+      "album": {
+        "name": "Hildegard",
+        "url": "https://open.spotify.com/album/1iWXfCQ5mVVcvLtxJYyfPq"
+      },
+      "artists": [
+        {
+          "name": "Hildegard",
+          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 186544,
       "name": "Jour 3",
       "url": "https://open.spotify.com/track/6DS9JfbMf76Bo5qqylNtgt"
@@ -898,6 +996,28 @@
     },
     {
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191537,
+      "name": "Lights Up",
+      "url": "https://open.spotify.com/track/68fRXTgDg5V2p2wzHCPh9n"
+    },
+    {
+      "album": {
         "name": "Lights Up (feat. Channel Tres)",
         "url": "https://open.spotify.com/album/25rxE7bpEZ6SSIcJd22040"
       },
@@ -913,7 +1033,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 191537,
       "name": "Lights Up (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n"
@@ -931,10 +1051,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199626,
       "name": "Like a Butterfly",
       "url": "https://open.spotify.com/track/1F4u9meLzVwyHtoSWmjJJQ"
+    },
+    {
+      "album": {
+        "name": "Ambition",
+        "url": "https://open.spotify.com/album/6qAC2WPjZEQA8FanPkAODg"
+      },
+      "artists": [
+        {
+          "name": "Baltra",
+          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199626,
+      "name": "Like a Butterfly",
+      "url": "https://open.spotify.com/track/4jL1PrNhUhQyTZIAxMqtj7"
     },
     {
       "album": {
@@ -979,7 +1117,7 @@
     {
       "album": {
         "name": "House of FM",
-        "url": "https://open.spotify.com/album/76zZinKzeNvh8GRfPnEB8M"
+        "url": "https://open.spotify.com/album/79b1f5kSsTgueh0Ux3JIB2"
       },
       "artists": [
         {
@@ -992,7 +1130,43 @@
       "date_removed": null,
       "duration_ms": 235263,
       "name": "Losing Touch",
+      "url": "https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig"
+    },
+    {
+      "album": {
+        "name": "House of FM",
+        "url": "https://open.spotify.com/album/76zZinKzeNvh8GRfPnEB8M"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235263,
+      "name": "Losing Touch",
       "url": "https://open.spotify.com/track/33h0F53mXDP3CmBSKlFKo5"
+    },
+    {
+      "album": {
+        "name": "What I Breathe",
+        "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294183,
+      "name": "Love Reigns",
+      "url": "https://open.spotify.com/track/7CGkR8BkFkvzrEXWYWB9gw"
     },
     {
       "album": {
@@ -1007,7 +1181,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 294507,
       "name": "Love Reigns",
       "url": "https://open.spotify.com/track/78Yqfmq11yBeibacqvl4Y4"
@@ -1157,7 +1331,7 @@
     {
       "album": {
         "name": "Feelings",
-        "url": "https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb"
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
       "artists": [
         {
@@ -1170,7 +1344,43 @@
       "date_removed": null,
       "duration_ms": 261614,
       "name": "Ocean",
+      "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 261614,
+      "name": "Ocean",
       "url": "https://open.spotify.com/track/6xe412Lgeamth5RxbyYQHT"
+    },
+    {
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246182,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/5aqsZYOE5bP1cY4sSaw0Jq"
     },
     {
       "album": {
@@ -1185,7 +1395,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246182,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/6cds9yY4j7MTZJtFqp0p9v"
@@ -1277,7 +1487,7 @@
     {
       "album": {
         "name": "Promise",
-        "url": "https://open.spotify.com/album/7GTCxNYTXK1Dx3fsltOjff"
+        "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
       },
       "artists": [
         {
@@ -1288,6 +1498,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209806,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/7GTCxNYTXK1Dx3fsltOjff"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 209806,
       "name": "Promise",
       "url": "https://open.spotify.com/track/3lqEiq5RjyngsxvpqQJ5rl"
@@ -1371,10 +1599,36 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 111957,
       "name": "Running Away (Vocal Remix)",
       "url": "https://open.spotify.com/track/2klxbcWhKYihwLdL9tclLn"
+    },
+    {
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB"
+      },
+      "artists": [
+        {
+          "name": "VANO 3000",
+          "url": "https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Samuel T. Herring",
+          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111957,
+      "name": "Running Away - Vocal Remix",
+      "url": "https://open.spotify.com/track/5OLNQbQ2o2JRL7zEERZqOm"
     },
     {
       "album": {
@@ -1483,6 +1737,10 @@
         {
           "name": "Tommy Villiers",
           "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
         }
       ],
       "date_added": "2021-12-01",
@@ -1623,7 +1881,7 @@
     {
       "album": {
         "name": "The Distance",
-        "url": "https://open.spotify.com/album/4Y5HddfFNFopRAhEbXuUe7"
+        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
       },
       "artists": [
         {
@@ -1634,6 +1892,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
+    },
+    {
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/4Y5HddfFNFopRAhEbXuUe7"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 291840,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/7kUZGVHKDRBrPIYfhZ49ju"
@@ -1879,7 +2155,7 @@
     {
       "album": {
         "name": "You Can Do It",
-        "url": "https://open.spotify.com/album/4gugFhu1ub505iAzsuhZJi"
+        "url": "https://open.spotify.com/album/5BYQxikCnimaiq5qQNgTbb"
       },
       "artists": [
         {
@@ -1890,6 +2166,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228807,
+      "name": "You Can Do It",
+      "url": "https://open.spotify.com/track/3bKytazUrCb1vlgKmaUo12"
+    },
+    {
+      "album": {
+        "name": "You Can Do It",
+        "url": "https://open.spotify.com/album/4gugFhu1ub505iAzsuhZJi"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 228807,
       "name": "You Can Do It",
       "url": "https://open.spotify.com/track/74usZNReO4g4j5aZ0yAmBw"

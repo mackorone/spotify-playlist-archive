@@ -81,7 +81,7 @@
     {
       "album": {
         "name": "Sapphire",
-        "url": "https://open.spotify.com/album/51sf1gfgOSgcF4AK5qJ4jK"
+        "url": "https://open.spotify.com/album/0VbeTe0lGt64zxB9nP4OqW"
       },
       "artists": [
         {
@@ -92,6 +92,24 @@
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 127750,
+      "name": "Aoi",
+      "url": "https://open.spotify.com/track/3uRiUTLcITvlfgTzXxewIy"
+    },
+    {
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/51sf1gfgOSgcF4AK5qJ4jK"
+      },
+      "artists": [
+        {
+          "name": "Arden Forest",
+          "url": "https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 127750,
       "name": "Aoi",
       "url": "https://open.spotify.com/track/7LW1LiX6gMkHpwCXlaq63g"
@@ -217,10 +235,28 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 84480,
       "name": "Chalets",
       "url": "https://open.spotify.com/track/6t3FJ7d30iGl0fSePKZh1O"
+    },
+    {
+      "album": {
+        "name": "The Wood Painter",
+        "url": "https://open.spotify.com/album/3OR1YYYlVNBhwp3zWnLhD3"
+      },
+      "artists": [
+        {
+          "name": "Martin Gauffin",
+          "url": "https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Chalets",
+      "url": "https://open.spotify.com/track/1BDm3GIPagVvet40fFKg8K"
     },
     {
       "album": {
@@ -261,7 +297,7 @@
     {
       "album": {
         "name": "First Flower",
-        "url": "https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO"
+        "url": "https://open.spotify.com/album/4z5M2r9PDsE5jz72rYMjvz"
       },
       "artists": [
         {
@@ -272,6 +308,24 @@
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/5x5FiSc99Lmplte6KTyk9N"
+    },
+    {
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO"
+      },
+      "artists": [
+        {
+          "name": "Vincente M",
+          "url": "https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 232000,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/65qU5EsQb12UUdUFCH7FBY"
@@ -405,7 +459,7 @@
     {
       "album": {
         "name": "First Flower",
-        "url": "https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO"
+        "url": "https://open.spotify.com/album/4z5M2r9PDsE5jz72rYMjvz"
       },
       "artists": [
         {
@@ -416,6 +470,24 @@
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 212000,
+      "name": "First Flower",
+      "url": "https://open.spotify.com/track/1qjLzirZt50H0f2vFYKRg9"
+    },
+    {
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO"
+      },
+      "artists": [
+        {
+          "name": "Vincente M",
+          "url": "https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 212000,
       "name": "First Flower",
       "url": "https://open.spotify.com/track/2xrzeCo6r8L31gYS0GmmEK"
@@ -451,10 +523,28 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174539,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/0EK2R1LzlH51tRFWAmodXo"
+    },
+    {
+      "album": {
+        "name": "Rikyu Garden",
+        "url": "https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52"
+      },
+      "artists": [
+        {
+          "name": "Izumi Tanaka",
+          "url": "https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174539,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/0qRGPTsjcMT9EpxgMTOl1P"
     },
     {
       "album": {
@@ -495,7 +585,7 @@
     {
       "album": {
         "name": "Hundreds of Days",
-        "url": "https://open.spotify.com/album/3IWrNOSIxzGobh8I70rBpm"
+        "url": "https://open.spotify.com/album/3htG3vw3Y9SZuoKFEvQ9FI"
       },
       "artists": [
         {
@@ -506,6 +596,24 @@
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214189,
+      "name": "Hello from the Edge of the Earth",
+      "url": "https://open.spotify.com/track/0NxlgdHCjvD0FeTzRP9HQd"
+    },
+    {
+      "album": {
+        "name": "Hundreds of Days",
+        "url": "https://open.spotify.com/album/3IWrNOSIxzGobh8I70rBpm"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 214189,
       "name": "Hello from the Edge of the Earth",
       "url": "https://open.spotify.com/track/4enSqzRLAs0h7s4n50uMAj"
@@ -548,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "Hopefull",
+      "url": "https://open.spotify.com/track/1pMY02UghJHHv0DXv0ZmmK"
+    },
+    {
+      "album": {
         "name": "Hopefull",
         "url": "https://open.spotify.com/album/4bpCA9wD3IapewaQ7clEMm"
       },
@@ -559,7 +685,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258500,
       "name": "Hopefull",
       "url": "https://open.spotify.com/track/3T9YBqJEpy7IZsIo89SYVm"
@@ -613,10 +739,28 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175093,
       "name": "Judith",
       "url": "https://open.spotify.com/track/6GsOj1QAdG1XIhbFilnj77"
+    },
+    {
+      "album": {
+        "name": "Omkuld",
+        "url": "https://open.spotify.com/album/3nz0L887xLbp5O6NqDzYgr"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175093,
+      "name": "Judith",
+      "url": "https://open.spotify.com/track/7jZ3B5pFQUy1CUgC0GIzyb"
     },
     {
       "album": {
@@ -815,10 +959,28 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152000,
       "name": "Olvidado",
       "url": "https://open.spotify.com/track/0p4IWEs8ZHhcFdXuy5SYL2"
+    },
+    {
+      "album": {
+        "name": "Luna M\u00e1gica",
+        "url": "https://open.spotify.com/album/6zkPu70oUFPTGpiKAdS4MZ"
+      },
+      "artists": [
+        {
+          "name": "Piano Pacifico",
+          "url": "https://open.spotify.com/artist/2wuUrp6l6k3yscNZNUFUpJ"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Olvidado",
+      "url": "https://open.spotify.com/track/18OvtoBWwAfDbrhUyIjMdN"
     },
     {
       "album": {
@@ -840,6 +1002,24 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "Peaceful Steps",
+      "url": "https://open.spotify.com/track/0aYMZokpkck2E0q0tahWXX"
+    },
+    {
+      "album": {
         "name": "My Promise",
         "url": "https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm"
       },
@@ -851,7 +1031,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202250,
       "name": "Peaceful Steps",
       "url": "https://open.spotify.com/track/0uQp5uVoeiERuDd9ld0eqw"
@@ -966,6 +1146,24 @@
     },
     {
       "album": {
+        "name": "Rikyu Garden",
+        "url": "https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52"
+      },
+      "artists": [
+        {
+          "name": "Izumi Tanaka",
+          "url": "https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "Purple Heart",
+      "url": "https://open.spotify.com/track/2anhOZpTaoB2Ej5ULsHZ5Q"
+    },
+    {
+      "album": {
         "name": "Purple Heart",
         "url": "https://open.spotify.com/album/3eQzl4B4D6gS5gCkaEU4vL"
       },
@@ -977,7 +1175,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218333,
       "name": "Purple Heart",
       "url": "https://open.spotify.com/track/41hfLPgLlHIBPaiPw2q8tV"
@@ -1139,10 +1337,28 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134220,
       "name": "Small Strokes",
       "url": "https://open.spotify.com/track/3O9oF9EmLGiBEz1nOtADYO"
+    },
+    {
+      "album": {
+        "name": "The Wood Painter",
+        "url": "https://open.spotify.com/album/3OR1YYYlVNBhwp3zWnLhD3"
+      },
+      "artists": [
+        {
+          "name": "Martin Gauffin",
+          "url": "https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134370,
+      "name": "Small Strokes",
+      "url": "https://open.spotify.com/track/1eakqecyY7opzEJvYp713Q"
     },
     {
       "album": {
@@ -1164,6 +1380,24 @@
     },
     {
       "album": {
+        "name": "Breathe In (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5cvhwLaFo0osyZmxdTvis2"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89893,
+      "name": "Summer Waltz / The Drive",
+      "url": "https://open.spotify.com/track/3Og6m4ltVGu3OteMm1Qw5F"
+    },
+    {
+      "album": {
         "name": "Breathe In (Drake Doremus' Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1A4UZZrTRzh0kgVIMtqIMj"
       },
@@ -1175,7 +1409,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 90093,
       "name": "Summer Waltz / The Drive",
       "url": "https://open.spotify.com/track/2x3uxrOfrB4vIqZV5KEpsO"
@@ -1265,10 +1499,46 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167344,
       "name": "The Young Sabina",
       "url": "https://open.spotify.com/track/5EhmLz25rdgm13G1C3KQ8J"
+    },
+    {
+      "album": {
+        "name": "Colourized",
+        "url": "https://open.spotify.com/album/61Pe4Z2dyXFVnwCy3B6uLr"
+      },
+      "artists": [
+        {
+          "name": "Jaque Di Palma",
+          "url": "https://open.spotify.com/artist/79s3DecSnPM2nyQQcQGkzI"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167344,
+      "name": "The Young Sabina",
+      "url": "https://open.spotify.com/track/7xh2WWxh8qgGNnovjO9hyp"
+    },
+    {
+      "album": {
+        "name": "Time For Reflection",
+        "url": "https://open.spotify.com/album/5OewMGijMVWGyfH9NjBcsn"
+      },
+      "artists": [
+        {
+          "name": "Izumi Tanaka",
+          "url": "https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl"
+        }
+      ],
+      "date_added": "2019-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205844,
+      "name": "Time For Reflection",
+      "url": "https://open.spotify.com/track/35UsABanHui5IxzRVDTbhv"
     },
     {
       "album": {
@@ -1283,7 +1553,7 @@
       ],
       "date_added": "2019-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205844,
       "name": "Time For Reflection",
       "url": "https://open.spotify.com/track/68wRmxabhpvkIQZIRpIFHT"

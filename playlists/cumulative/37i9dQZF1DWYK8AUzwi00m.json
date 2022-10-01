@@ -9,7 +9,7 @@
     {
       "album": {
         "name": "A Dream Present",
-        "url": "https://open.spotify.com/album/10AjmZLhpwN9J3i7Vxb3Ot"
+        "url": "https://open.spotify.com/album/4QailWei2sNgGgk15VMv7f"
       },
       "artists": [
         {
@@ -20,6 +20,24 @@
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 132215,
+      "name": "A Dream Present",
+      "url": "https://open.spotify.com/track/5wc7OAxwpUE89bAD5Taco1"
+    },
+    {
+      "album": {
+        "name": "A Dream Present",
+        "url": "https://open.spotify.com/album/10AjmZLhpwN9J3i7Vxb3Ot"
+      },
+      "artists": [
+        {
+          "name": "Mantrick",
+          "url": "https://open.spotify.com/artist/4WfXJIC30dh3ezNzAmVi3m"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 132215,
       "name": "A Dream Present",
       "url": "https://open.spotify.com/track/6BvyFxhCplQNQ5YH7oFRZ6"
@@ -45,7 +63,7 @@
     {
       "album": {
         "name": "Lofi Christmas Dream",
-        "url": "https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS"
+        "url": "https://open.spotify.com/album/0X7oGr11TaApOmfPjHGdb9"
       },
       "artists": [
         {
@@ -56,6 +74,24 @@
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 122263,
+      "name": "All I Wish for Christmas",
+      "url": "https://open.spotify.com/track/0W4x1eYx7HYsWAfZ4vzkSd"
+    },
+    {
+      "album": {
+        "name": "Lofi Christmas Dream",
+        "url": "https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS"
+      },
+      "artists": [
+        {
+          "name": "Tony Thriller",
+          "url": "https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 122263,
       "name": "All I Wish for Christmas",
       "url": "https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H"
@@ -235,10 +271,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147333,
       "name": "Christmas chill Lofi",
       "url": "https://open.spotify.com/track/5bWhc0nwWpfPnigzzA6OBv"
+    },
+    {
+      "album": {
+        "name": "A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/1qp0o8LrCSzr07zaLXqb7B"
+      },
+      "artists": [
+        {
+          "name": "vatto Lofi",
+          "url": "https://open.spotify.com/artist/1Axzw0JFLOkd1fADgbEJGt"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147375,
+      "name": "Christmas Chill Lofi",
+      "url": "https://open.spotify.com/track/79J50Wj05x0zvPCdePAaeb"
     },
     {
       "album": {
@@ -307,10 +361,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270000,
       "name": "Christmas Time Is Here Charlie Brown",
       "url": "https://open.spotify.com/track/5QggOGFS41W6f055d6YzBw"
+    },
+    {
+      "album": {
+        "name": "Lofi Christmas 2",
+        "url": "https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW"
+      },
+      "artists": [
+        {
+          "name": "Akira The Don",
+          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Christmas Time Is Here Charlie Brown",
+      "url": "https://open.spotify.com/track/7pJ2lypbozkrCExoJPhgYG"
     },
     {
       "album": {
@@ -444,6 +516,24 @@
     },
     {
       "album": {
+        "name": "A Merry Lo-Fi Christmas",
+        "url": "https://open.spotify.com/album/2EHasP4Jvp7sbqgAN2wcF0"
+      },
+      "artists": [
+        {
+          "name": "hope mona",
+          "url": "https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Deck the Halls - Lo-Fi",
+      "url": "https://open.spotify.com/track/03cWzdHw0bWbHEv8wYgAzg"
+    },
+    {
+      "album": {
         "name": "A Short Album With Christmas Songs but Lofi",
         "url": "https://open.spotify.com/album/1PQSTaySOgGqHgTHPEeUL8"
       },
@@ -463,7 +553,7 @@
     {
       "album": {
         "name": "Do You Believe in Santa Claus?",
-        "url": "https://open.spotify.com/album/2hOAqWhlbFhDtUd9Bkgxm9"
+        "url": "https://open.spotify.com/album/4JvFuRb3CLnrH9u4965AAt"
       },
       "artists": [
         {
@@ -474,6 +564,24 @@
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 160975,
+      "name": "Do You Believe in Santa Claus?",
+      "url": "https://open.spotify.com/track/5P6mq1N9lbSdfbTdUAGpS2"
+    },
+    {
+      "album": {
+        "name": "Do You Believe in Santa Claus?",
+        "url": "https://open.spotify.com/album/2hOAqWhlbFhDtUd9Bkgxm9"
+      },
+      "artists": [
+        {
+          "name": "Yestalgia",
+          "url": "https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 160975,
       "name": "Do You Believe in Santa Claus?",
       "url": "https://open.spotify.com/track/6NxWqseRGbVEIQR4JuzkqU"
@@ -521,8 +629,8 @@
       },
       "artists": [
         {
-          "name": "Duce Haus",
-          "url": "https://open.spotify.com/artist/7j2z41scihGIdCgqmOmDGs"
+          "name": "Utah Noir",
+          "url": "https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR"
         }
       ],
       "date_added": "2021-12-20",
@@ -563,10 +671,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180703,
       "name": "HA! Santa!",
       "url": "https://open.spotify.com/track/0XvkcbKTbiXlK3wZVuqTzM"
+    },
+    {
+      "album": {
+        "name": "Lofi Christmas 2",
+        "url": "https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW"
+      },
+      "artists": [
+        {
+          "name": "Akira The Don",
+          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180703,
+      "name": "HA! Santa!",
+      "url": "https://open.spotify.com/track/23nJx0537xxLV9KeYE5AOR"
     },
     {
       "album": {
@@ -657,10 +783,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256666,
       "name": "Have Yourself a Very Lofi Christmas",
       "url": "https://open.spotify.com/track/4iJhAs1Zi1TeUTkqvDF1mf"
+    },
+    {
+      "album": {
+        "name": "Lofi Christmas 2",
+        "url": "https://open.spotify.com/album/4qxnUYP1NIaeyYY3L758lW"
+      },
+      "artists": [
+        {
+          "name": "Akira The Don",
+          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256666,
+      "name": "Have Yourself a Very Lofi Christmas",
+      "url": "https://open.spotify.com/track/7su98ziiskUZJIOzXRNMV3"
     },
     {
       "album": {
@@ -682,6 +826,24 @@
     },
     {
       "album": {
+        "name": "A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/1qp0o8LrCSzr07zaLXqb7B"
+      },
+      "artists": [
+        {
+          "name": "vatto Lofi",
+          "url": "https://open.spotify.com/artist/1Axzw0JFLOkd1fADgbEJGt"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150274,
+      "name": "Holiday Mood Lofi",
+      "url": "https://open.spotify.com/track/2IMrqdfQVS2aDiz6L7vFVb"
+    },
+    {
+      "album": {
         "name": "Holiday Mood Lofi (Instrumental)",
         "url": "https://open.spotify.com/album/3LEaUqcC5i6DisMEEEtdTH"
       },
@@ -693,7 +855,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150399,
       "name": "Holiday Mood Lofi - Instrumental",
       "url": "https://open.spotify.com/track/0p9ihhlziFCYfNrRPZCJkF"
@@ -1011,10 +1173,32 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 140000,
       "name": "Jingle Bellz",
       "url": "https://open.spotify.com/track/6hltz2dSuaLINUIwexgFvh"
+    },
+    {
+      "album": {
+        "name": "Winter LoFi and ChillHop Beats Vol. 1 (Merry Xmas!)",
+        "url": "https://open.spotify.com/album/2hz2yJRGdcVkssSRV3o7cP"
+      },
+      "artists": [
+        {
+          "name": "Grandmaster Faff",
+          "url": "https://open.spotify.com/artist/4ISswKBMuFcpzC7xGKGLFW"
+        },
+        {
+          "name": "Ol Wallace",
+          "url": "https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Jingle Bellz",
+      "url": "https://open.spotify.com/track/5pQPhVvQmElS3dPjSgKuuN"
     },
     {
       "album": {
@@ -1091,7 +1275,7 @@
     {
       "album": {
         "name": "Chillhop Essentials Winter 2017",
-        "url": "https://open.spotify.com/album/6WYT84o6iLdOkuYTU6858W"
+        "url": "https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl"
       },
       "artists": [
         {
@@ -1102,6 +1286,24 @@
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 118260,
+      "name": "latenite",
+      "url": "https://open.spotify.com/track/4eaNEchs8ADEH5XfhJlk8K"
+    },
+    {
+      "album": {
+        "name": "Chillhop Essentials Winter 2017",
+        "url": "https://open.spotify.com/album/6WYT84o6iLdOkuYTU6858W"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 118260,
       "name": "latenite",
       "url": "https://open.spotify.com/track/5vSUFyNKpv64p2oIrcHqb9"
@@ -1127,7 +1329,7 @@
     {
       "album": {
         "name": "Little Christmas",
-        "url": "https://open.spotify.com/album/1KpwAfM3CCu8bWeL1Yaqat"
+        "url": "https://open.spotify.com/album/1iVhLyQhchCupWk1SXyW22"
       },
       "artists": [
         {
@@ -1138,6 +1340,24 @@
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 162953,
+      "name": "Little Christmas",
+      "url": "https://open.spotify.com/track/3nI2d49zJFC14GpwTnxoOF"
+    },
+    {
+      "album": {
+        "name": "Little Christmas",
+        "url": "https://open.spotify.com/album/1KpwAfM3CCu8bWeL1Yaqat"
+      },
+      "artists": [
+        {
+          "name": "Keepitinside",
+          "url": "https://open.spotify.com/artist/78cc6k0CLZpWYSO4x5xnro"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 162953,
       "name": "Little Christmas",
       "url": "https://open.spotify.com/track/6AP7hjESvJlXKWruEWpekc"
@@ -1181,7 +1401,7 @@
     {
       "album": {
         "name": "Oddwinter",
-        "url": "https://open.spotify.com/album/75Te6QaxCKmSA8Ei7etVCn"
+        "url": "https://open.spotify.com/album/01mtyasGQsiGQw2DpvOf0k"
       },
       "artists": [
         {
@@ -1192,6 +1412,24 @@
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 98461,
+      "name": "Log Cabin",
+      "url": "https://open.spotify.com/track/44jlG98OigYNLq8mkEWc2f"
+    },
+    {
+      "album": {
+        "name": "Oddwinter",
+        "url": "https://open.spotify.com/album/75Te6QaxCKmSA8Ei7etVCn"
+      },
+      "artists": [
+        {
+          "name": "Abe M Beats",
+          "url": "https://open.spotify.com/artist/5Vf0wwHCWJ59WopZTR520e"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 98461,
       "name": "Log Cabin",
       "url": "https://open.spotify.com/track/5MFlNYdFjO7un11HCuA49N"
@@ -1270,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "night bells",
+        "url": "https://open.spotify.com/album/4SIPC9cuoMfKJRySmtqIcI"
+      },
+      "artists": [
+        {
+          "name": "Lomery",
+          "url": "https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118560,
+      "name": "night bells",
+      "url": "https://open.spotify.com/track/5wXv9gdno0D2wls7Uofbul"
+    },
+    {
+      "album": {
         "name": "A Merry Lofi Christmas",
         "url": "https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG"
       },
@@ -1299,10 +1555,32 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 63000,
       "name": "O Christmas Tree",
       "url": "https://open.spotify.com/track/1TKfooyCj8TSugn6UmikDC"
+    },
+    {
+      "album": {
+        "name": "Winter LoFi and ChillHop Beats Vol. 1 (Merry Xmas!)",
+        "url": "https://open.spotify.com/album/2hz2yJRGdcVkssSRV3o7cP"
+      },
+      "artists": [
+        {
+          "name": "melloe",
+          "url": "https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI"
+        },
+        {
+          "name": "Ol Wallace",
+          "url": "https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63000,
+      "name": "O Christmas Tree",
+      "url": "https://open.spotify.com/track/2shWMlZ2LkE92EyP9ZIazd"
     },
     {
       "album": {
@@ -1379,6 +1657,28 @@
     {
       "album": {
         "name": "A Lofi Christmas",
+        "url": "https://open.spotify.com/album/06HI45dJEHqNVyTkJMB7OJ"
+      },
+      "artists": [
+        {
+          "name": "iluvu",
+          "url": "https://open.spotify.com/artist/0A5IvugTETbHDLHsM5Ro3j"
+        },
+        {
+          "name": "Lazy Tree Records",
+          "url": "https://open.spotify.com/artist/5Qvy6aHj0WZS8fwt7Z5WUf"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51758,
+      "name": "Reindeer",
+      "url": "https://open.spotify.com/track/6rhv0IzO0oK4RKEHvgdGCR"
+    },
+    {
+      "album": {
+        "name": "A Lofi Christmas",
         "url": "https://open.spotify.com/album/6TRZqtG48tlSbwat2dzg3J"
       },
       "artists": [
@@ -1389,7 +1689,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 51758,
       "name": "Reindeer",
       "url": "https://open.spotify.com/track/6z4LtsWhk0C4dtqAExQirM"
@@ -1623,10 +1923,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 139684,
       "name": "sincerely, yours",
       "url": "https://open.spotify.com/track/2GPKo5nrX2uwB8eSCebIIk"
+    },
+    {
+      "album": {
+        "name": "osho",
+        "url": "https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc"
+      },
+      "artists": [
+        {
+          "name": "Nohidea",
+          "url": "https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139684,
+      "name": "sincerely, yours",
+      "url": "https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp"
     },
     {
       "album": {
@@ -1635,8 +1953,8 @@
       },
       "artists": [
         {
-          "name": "Duce Haus",
-          "url": "https://open.spotify.com/artist/7j2z41scihGIdCgqmOmDGs"
+          "name": "Utah Noir",
+          "url": "https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR"
         }
       ],
       "date_added": "2021-12-20",
@@ -1735,10 +2053,46 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176500,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1GK8IGST7h1RoDYl2x8981"
+    },
+    {
+      "album": {
+        "name": "Chillhop Essentials Winter 2016",
+        "url": "https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-04",
+      "duration_ms": 176500,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/3IL8NIwz2vZpy7fettGnZk"
+    },
+    {
+      "album": {
+        "name": "Chillhop Essentials Winter 2016",
+        "url": "https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8"
     },
     {
       "album": {
@@ -1753,10 +2107,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135652,
       "name": "Spike the Eggnog",
       "url": "https://open.spotify.com/track/2EETKC428MySkgsrGswRdK"
+    },
+    {
+      "album": {
+        "name": "Sounds of the Season, Vol. I",
+        "url": "https://open.spotify.com/album/38MuWDkJ0apxRo0nniKlpu"
+      },
+      "artists": [
+        {
+          "name": "Two Dudes",
+          "url": "https://open.spotify.com/artist/7B4UaTUFjsPmtPNg2HcLwS"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Spike the Eggnog",
+      "url": "https://open.spotify.com/track/5Ndi8aTYfmjrXYgTOXhYEM"
     },
     {
       "album": {
@@ -1775,10 +2147,32 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164208,
       "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
       "url": "https://open.spotify.com/track/1jfe1vVK9uruZS6wF9P04Q"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+        "url": "https://open.spotify.com/album/0MJj6YAUwn9QiLgXSBomyX"
+      },
+      "artists": [
+        {
+          "name": "Ameer Corro",
+          "url": "https://open.spotify.com/artist/1H5PsYGFaTqxJUoyr6bD5C"
+        },
+        {
+          "name": "Sun Kim",
+          "url": "https://open.spotify.com/artist/0jcraZwUALvGIS3RtpsWZQ"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164208,
+      "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+      "url": "https://open.spotify.com/track/44R8mSrOzeIL8h7j2tn4KU"
     },
     {
       "album": {
@@ -1945,7 +2339,7 @@
     {
       "album": {
         "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/0QTZHBEsjse6oTZlOxbrJn"
+        "url": "https://open.spotify.com/album/3ZE7dFb01zw9k7SuZTNDo8"
       },
       "artists": [
         {
@@ -1956,6 +2350,24 @@
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/5doXKZRmtUoMRL1vVEMd55"
+    },
+    {
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/0QTZHBEsjse6oTZlOxbrJn"
+      },
+      "artists": [
+        {
+          "name": "Soft Eyez",
+          "url": "https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 112000,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/7GvkwVWW90W8vvUIgj54vt"
@@ -1973,10 +2385,46 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 126271,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/0emoEFX5JN5rKhAYWx9Tr3"
+    },
+    {
+      "album": {
+        "name": "Chillhop Essentials Winter 2016",
+        "url": "https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ"
+      },
+      "artists": [
+        {
+          "name": "Limes",
+          "url": "https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126271,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/34qYvf7M6RXRzQF5HMJB38"
+    },
+    {
+      "album": {
+        "name": "Chillhop Essentials Winter 2016",
+        "url": "https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853"
+      },
+      "artists": [
+        {
+          "name": "Limes",
+          "url": "https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-04",
+      "duration_ms": 126271,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/6nlmgDXzsQ0snHKYPOy6WH"
     },
     {
       "album": {
@@ -1991,10 +2439,50 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203450,
       "name": "Xmas Treez",
       "url": "https://open.spotify.com/track/4qdC5XlXPUbuqPVa1gCp7U"
+    },
+    {
+      "album": {
+        "name": "Sounds of the Season, Vol. III",
+        "url": "https://open.spotify.com/album/6pNBMJoKqAD3odcjncp75k"
+      },
+      "artists": [
+        {
+          "name": "Ghost Beatz",
+          "url": "https://open.spotify.com/artist/5KdCsUhbJtRff3kRxUl51q"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203450,
+      "name": "Xmas Treez",
+      "url": "https://open.spotify.com/track/6Ouj0h3zO7dHV9Ok5yU8gv"
+    },
+    {
+      "album": {
+        "name": "A Lofi Christmas",
+        "url": "https://open.spotify.com/album/06HI45dJEHqNVyTkJMB7OJ"
+      },
+      "artists": [
+        {
+          "name": "iluvu",
+          "url": "https://open.spotify.com/artist/0A5IvugTETbHDLHsM5Ro3j"
+        },
+        {
+          "name": "Lazy Tree Records",
+          "url": "https://open.spotify.com/artist/5Qvy6aHj0WZS8fwt7Z5WUf"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131165,
+      "name": "Yule Tide",
+      "url": "https://open.spotify.com/track/4wFco5b2VsRaPD0XbqYsv9"
     },
     {
       "album": {
@@ -2009,7 +2497,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 131165,
       "name": "Yule Tide",
       "url": "https://open.spotify.com/track/0WRloctZv2KVQDA3NvVSHq"

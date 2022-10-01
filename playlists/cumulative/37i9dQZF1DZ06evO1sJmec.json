@@ -91,10 +91,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 497933,
       "name": "Bleeding Me",
       "url": "https://open.spotify.com/track/7FLm43IriB4jxAposCv9Ji"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395706,
+      "name": "Creeping Death (Remastered)",
+      "url": "https://open.spotify.com/track/4q9QVIaLqjbcoqeCfM2zan"
     },
     {
       "album": {
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 395704,
       "name": "Creeping Death - Creeping Death EP Version / Remastered",
       "url": "https://open.spotify.com/track/1Gn1FeIYUMZ2a7PrbaaQhl"
@@ -350,6 +368,24 @@
     },
     {
       "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 261906,
+      "name": "Hero Of The Day",
+      "url": "https://open.spotify.com/track/0rDPQzWWmLTv9deHn4ulG7"
+    },
+    {
+      "album": {
         "name": "Kill 'Em All (Deluxe / Remastered)",
         "url": "https://open.spotify.com/album/3m69LQokz6DaKB3yw4BH6n"
       },
@@ -383,6 +419,24 @@
       "duration_ms": 266240,
       "name": "I Disappear",
       "url": "https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt"
+    },
+    {
+      "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281293,
+      "name": "Jump In The Fire - Remastered",
+      "url": "https://open.spotify.com/track/4fVBFyglBhMf0erfF7pBJp"
     },
     {
       "album": {
@@ -649,7 +703,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 429198,
       "name": "Spit Out The Bone",
       "url": "https://open.spotify.com/track/3eB1b4DL6O9TMOksOYg83l"
@@ -743,10 +797,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-09-12",
       "duration_ms": 395960,
       "name": "The Shortest Straw",
       "url": "https://open.spotify.com/track/2Aqz0jTeEsS6DZbQYqHRGh"
+    },
+    {
+      "album": {
+        "name": "...And Justice for All (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 395101,
+      "name": "The Shortest Straw (Remastered)",
+      "url": "https://open.spotify.com/track/2Rn5VhDVELkuB4BjZEVJKr"
     },
     {
       "album": {
@@ -851,7 +923,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 244066,
       "name": "Trapped Under Ice - Remastered",
       "url": "https://open.spotify.com/track/3J8jTThxk8GtxyoupHtyrb"

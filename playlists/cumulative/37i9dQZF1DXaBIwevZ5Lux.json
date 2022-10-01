@@ -493,7 +493,7 @@
     {
       "album": {
         "name": "Blastoma",
-        "url": "https://open.spotify.com/album/5V2DfUqYqHvK4W2CCmPgnf"
+        "url": "https://open.spotify.com/album/6AQhXXnBFP6OoTkLa7Yv41"
       },
       "artists": [
         {
@@ -504,6 +504,24 @@
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 311526,
+      "name": "Once",
+      "url": "https://open.spotify.com/track/5J3Cw72OU3NmFwUsuUyR4T"
+    },
+    {
+      "album": {
+        "name": "Blastoma",
+        "url": "https://open.spotify.com/album/5V2DfUqYqHvK4W2CCmPgnf"
+      },
+      "artists": [
+        {
+          "name": "Ngaiire",
+          "url": "https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
       "duration_ms": 311526,
       "name": "Once",
       "url": "https://open.spotify.com/track/75Exrl1RCc2FK509PXW4sP"

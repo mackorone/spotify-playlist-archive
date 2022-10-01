@@ -758,6 +758,24 @@
     },
     {
       "album": {
+        "name": "Idas y vueltas",
+        "url": "https://open.spotify.com/album/3UGeyUhO0DhMlUeKTC9AVX"
+      },
+      "artists": [
+        {
+          "name": "Muchachito Bombo Infierno",
+          "url": "https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192757,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/7rSBUr661iFb9ndIJS0xUR"
+    },
+    {
+      "album": {
         "name": "Idas y Vueltas",
         "url": "https://open.spotify.com/album/4lCSqYA9tC6D2QvPzqpryB"
       },
@@ -769,7 +787,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193584,
       "name": "La Quiero a Morir",
       "url": "https://open.spotify.com/track/6shvAFKsshKhvsazuGO404"
@@ -979,7 +997,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 225680,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6"
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 263840,
       "name": "Sabor, Sabor",
       "url": "https://open.spotify.com/track/4zMJYmYSTZBNn1YdZVznSS"

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 784560,
       "name": "Abu Gil - Live",
       "url": "https://open.spotify.com/track/3X0BvVXZ5Xpx0oPN0di5yO"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 320266,
       "name": "Air",
       "url": "https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-09-16",
       "duration_ms": 239866,
       "name": "Air Afrique (Wind)",
       "url": "https://open.spotify.com/track/0O6sbqgaXZMfE6m1iuh7lT"
@@ -102,6 +102,40 @@
     },
     {
       "album": {
+        "name": "Siwan",
+        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Amina Alaoui",
+          "url": "https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Kheir Eddine M'Kachiche",
+          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 256533,
+      "name": "Ayshyin Raquin",
+      "url": "https://open.spotify.com/track/4w72TCoWaoE11mynCinysb"
+    },
+    {
+      "album": {
         "name": "Fourth World Vol 1 Possible Musics",
         "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
       },
@@ -135,7 +169,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-08-20",
       "duration_ms": 280066,
       "name": "Balia",
       "url": "https://open.spotify.com/track/2zzfAe9dSic2L9MGTCDxPk"
@@ -305,7 +339,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 344093,
       "name": "Courtrais - Live",
       "url": "https://open.spotify.com/track/2UKP0Z8tMyjI7NprsS6GsB"
@@ -348,6 +382,24 @@
     },
     {
       "album": {
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 443773,
+      "name": "Darbari Extension II",
+      "url": "https://open.spotify.com/track/7yeOaqzx9sciyl2vOyUzrD"
+    },
+    {
+      "album": {
         "name": "Seeing Through Sound (Pentimento Volume Two)",
         "url": "https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy"
       },
@@ -359,7 +411,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-10-01",
       "duration_ms": 242200,
       "name": "Delicado",
       "url": "https://open.spotify.com/track/6OqlazjaFOPqlZI6gWvuvJ"
@@ -399,7 +451,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-10-01",
       "duration_ms": 435200,
       "name": "Divine S.O.S",
       "url": "https://open.spotify.com/track/5f8iTVIIHWjBPdu4X5ympV"
@@ -453,7 +505,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 293973,
       "name": "Empire II",
       "url": "https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO"
@@ -489,7 +541,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 313980,
       "name": "Empire IV",
       "url": "https://open.spotify.com/track/4ZRIdK87L5YOfVZoywWV60"
@@ -525,10 +577,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 482146,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/0E5Qd7mge1e9gfkCKfGOUR"
+    },
+    {
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/4Keo1capq90Jwzf1ZsKUdd"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482146,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/4Tru6czY37f4dPCRpLrxK3"
     },
     {
       "album": {
@@ -547,7 +617,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-09-22",
       "duration_ms": 345293,
       "name": "Flash of the Spirit (Laughter)",
       "url": "https://open.spotify.com/track/1KvWa9WllBJcqmqOhr7YdR"
@@ -637,9 +707,43 @@
           "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
         }
       ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 403186,
+      "name": "Itimad",
+      "url": "https://open.spotify.com/track/5IHnMKUAkcYkf6eKfIgudL"
+    },
+    {
+      "album": {
+        "name": "Siwan",
+        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Amina Alaoui",
+          "url": "https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Kheir Eddine M'Kachiche",
+          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-09-26",
       "duration_ms": 317093,
       "name": "Jadwa",
       "url": "https://open.spotify.com/track/0YaS2FdbEGt2huzABrHQYJ"
@@ -697,7 +801,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-09-19",
       "duration_ms": 479893,
       "name": "Light On Water - Live",
       "url": "https://open.spotify.com/track/6A3NOW4IW0NtAKavtXeu6W"
@@ -715,7 +819,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 392933,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/2s9A9QkP6poey6gfYdTeJF"
@@ -751,7 +855,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 344653,
       "name": "Manga Scene",
       "url": "https://open.spotify.com/track/2RHtLQ1gxmqL6kCBvY4mlH"
@@ -805,7 +909,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-10-01",
       "duration_ms": 427400,
       "name": "Ndeya",
       "url": "https://open.spotify.com/track/3d5NKtguBkKIHjvsNqK6hc"
@@ -830,6 +934,28 @@
     },
     {
       "album": {
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 144506,
+      "name": "Night Moves (Fear)",
+      "url": "https://open.spotify.com/track/5lFfcGyrJTTR2GvaxdtraU"
+    },
+    {
+      "album": {
         "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
         "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
       },
@@ -841,10 +967,50 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-09-26",
       "duration_ms": 403040,
       "name": "Northline - Live",
       "url": "https://open.spotify.com/track/1m3zsapoK5CGtujd680k4c"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
+      "duration_ms": 707320,
+      "name": "Open Secret (Paris)",
+      "url": "https://open.spotify.com/track/2oNjchovVMPVouByxj0Zfv"
+    },
+    {
+      "album": {
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 434293,
+      "name": "Out Pours (Kongo) Blue [Prayer]",
+      "url": "https://open.spotify.com/track/1GEjkGIXfNLZpV4XINVy94"
     },
     {
       "album": {
@@ -877,7 +1043,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 239706,
       "name": "Pastorale Vassant",
       "url": "https://open.spotify.com/track/7429GeBCGutDEUPy1L4Uv4"
@@ -895,7 +1061,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 358506,
       "name": "Picnic",
       "url": "https://open.spotify.com/track/1VCvYkf9BjcXlAXzBCSALt"
@@ -931,7 +1097,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-30",
       "duration_ms": 136826,
       "name": "Reykjavik",
       "url": "https://open.spotify.com/track/7GgsPMF25JBJtXdC50bhSc"
@@ -1029,7 +1195,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-29",
       "duration_ms": 293373,
       "name": "Sundown Dance",
       "url": "https://open.spotify.com/track/2r8ZZIipWHs1cDJk5Ot2Fx"
@@ -1047,7 +1213,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 668840,
       "name": "The Elephant And The Orchid",
       "url": "https://open.spotify.com/track/5eVpu8sD59T14iFoXwTxR5"
@@ -1193,7 +1359,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 177480,
       "name": "Unknown Wish",
       "url": "https://open.spotify.com/track/6LjICn4qIqegu9oHm7yqvg"
@@ -1247,7 +1413,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": "2022-08-12",
       "duration_ms": 348333,
       "name": "Voiceprint (Blind From The Facts)",
       "url": "https://open.spotify.com/track/3iuDuxuhuNUzCfS7YXydTO"
@@ -1335,7 +1501,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 145560,
       "name": "Ya Andalucin",
       "url": "https://open.spotify.com/track/47DrzRMA800FMIMRi5eBsB"
@@ -1369,7 +1535,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-10-01",
       "duration_ms": 317986,
       "name": "Ya Safwa Ti",
       "url": "https://open.spotify.com/track/3HIOAlsSQQI8PtI5sNcK1F"
@@ -1399,7 +1565,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": "2022-09-17",
       "duration_ms": 296960,
       "name": "Zahori",
       "url": "https://open.spotify.com/track/5HYLKZoFm2V3RLCNGP4lDl"

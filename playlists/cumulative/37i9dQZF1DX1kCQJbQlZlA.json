@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 267493,
       "name": "Bang Long Di Em",
       "url": "https://open.spotify.com/track/537X1rYAOJdz06khkwzg5e"
@@ -63,6 +63,24 @@
       "duration_ms": 326119,
       "name": "B\u1eadu V\u1ec1 N\u01a1i \u0110\u00e2u",
       "url": "https://open.spotify.com/track/6KOF37EGduM2G3QUJzpqNf"
+    },
+    {
+      "album": {
+        "name": "B\u1eb1ng L\u00f2ng \u0110i Em",
+        "url": "https://open.spotify.com/album/6so9Ru7VnYXoCAdkVPQd3x"
+      },
+      "artists": [
+        {
+          "name": "Quoc Dai",
+          "url": "https://open.spotify.com/artist/2nfy0nJ70ftD2p3WeEVrw9"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265247,
+      "name": "B\u1eb1ng L\u00f2ng \u0110i Em",
+      "url": "https://open.spotify.com/track/2J8kDQ6h2MK161CqDN3X8r"
     },
     {
       "album": {
@@ -135,10 +153,28 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 291840,
       "name": "Chuy\u1ebfn \u0110\u00f2 Qu\u00ea H\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/1hGEgucgKg6Y8ebfWdhOPC"
+    },
+    {
+      "album": {
+        "name": "Chim Tr\u1eafng M\u1ed3 C\u00f4i",
+        "url": "https://open.spotify.com/album/3BsmysQHlGhbePd6jk08hA"
+      },
+      "artists": [
+        {
+          "name": "C\u1ea9m Ly",
+          "url": "https://open.spotify.com/artist/5sXudh7NFkU6fjQL6BQOj0"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291840,
+      "name": "Chuy\u1ebfn \u0110\u00f2 Qu\u00ea H\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/4IuzULUl147TjKo9mvGoVw"
     },
     {
       "album": {
@@ -171,7 +207,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 322426,
       "name": "Con De Chung Tinh",
       "url": "https://open.spotify.com/track/6b4aBoUmv6PjAdDe1DQ57v"
@@ -189,10 +225,28 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 324681,
       "name": "Con Do Lo Hen",
       "url": "https://open.spotify.com/track/5oNsFsxzM2WQR8Kuu2VXan"
+    },
+    {
+      "album": {
+        "name": "D\u00e2n Ca Qu\u00ea H\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/0pHd2saAqJPkkNB2ojUpmA"
+      },
+      "artists": [
+        {
+          "name": "Ngoc Han",
+          "url": "https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271007,
+      "name": "Con G\u00e1i Mi\u1ec1n T\u00e2y",
+      "url": "https://open.spotify.com/track/3OQoJNtaqOephkNCrogBbd"
     },
     {
       "album": {
@@ -207,7 +261,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271007,
       "name": "Con G\u00e1i Mi\u1ec1n T\u00e2y",
       "url": "https://open.spotify.com/track/4ZiIsVoMSYVgk8XH1RIV3S"
@@ -232,6 +286,42 @@
     },
     {
       "album": {
+        "name": "Con \u0110\u00ea Chung T\u00ecnh",
+        "url": "https://open.spotify.com/album/64TsUj4tDVCKrfO5HyPRT3"
+      },
+      "artists": [
+        {
+          "name": "Phi Nhung",
+          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320426,
+      "name": "Con \u0110\u00ea Chung T\u00ecnh",
+      "url": "https://open.spotify.com/track/50Fd5nnL0Cp7r1ULZTvXiW"
+    },
+    {
+      "album": {
+        "name": "Chuy\u1ec7n Ng\u01b0\u1eddi Con G\u00e1i",
+        "url": "https://open.spotify.com/album/4SWMrSAUEIj06uJUyzGHa7"
+      },
+      "artists": [
+        {
+          "name": "H\u01b0\u01a1ng Th\u1ee7y",
+          "url": "https://open.spotify.com/artist/62fblWo293n6H96ETSYmxR"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324684,
+      "name": "Con \u0110\u00f2 L\u1ee1 H\u1eb9n",
+      "url": "https://open.spotify.com/track/0gi66hVjKjmFcLFyp2rO2q"
+    },
+    {
+      "album": {
         "name": "C\u00f2 \u0110\u00e3 Qua S\u00f4ng",
         "url": "https://open.spotify.com/album/0PYUYGQVqPTPlzzOKVHSLu"
       },
@@ -247,10 +337,32 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310043,
       "name": "C\u00f2 \u0110\u00e3 Qua S\u00f4ng",
       "url": "https://open.spotify.com/track/3z22XDcTJ5ud1qsNz8sHpJ"
+    },
+    {
+      "album": {
+        "name": "C\u00f2 \u0110\u00e3 Qua S\u00f4ng",
+        "url": "https://open.spotify.com/album/4FTL1VkGeceOw1F8cQPTu7"
+      },
+      "artists": [
+        {
+          "name": "L\u00ea Nh\u01b0",
+          "url": "https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC"
+        },
+        {
+          "name": "Kh\u01b0u Huy V\u0169",
+          "url": "https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310043,
+      "name": "C\u00f2 \u0110\u00e3 Qua S\u00f4ng",
+      "url": "https://open.spotify.com/track/3j3pVIRtdbHhBVNpRG1bCS"
     },
     {
       "album": {
@@ -389,10 +501,32 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 315613,
       "name": "Giac Mo Canh Co",
       "url": "https://open.spotify.com/track/3Ss1Bg9QI7aohlqXIx8jQ9"
+    },
+    {
+      "album": {
+        "name": "The Best of Nh\u01b0 Qu\u1ef3nh",
+        "url": "https://open.spotify.com/album/1zjm9bzyOtmIhWmVXBP9EJ"
+      },
+      "artists": [
+        {
+          "name": "Nhu Quynh",
+          "url": "https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe"
+        },
+        {
+          "name": "Phi Nhung",
+          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317254,
+      "name": "Gi\u1ea5c M\u01a1 C\u00e1nh C\u00f2",
+      "url": "https://open.spotify.com/track/04LFLKz9gCVs36pocCTMfQ"
     },
     {
       "album": {
@@ -462,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Kh\u00f4ng Bao Gi\u1edd Qu\u00ean Anh",
+        "url": "https://open.spotify.com/album/1uxJL4jDieeXnXQMVYg0MQ"
+      },
+      "artists": [
+        {
+          "name": "Luu Anh Loan",
+          "url": "https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 240573,
+      "name": "H\u01b0\u01a1ng S\u1eafc Mi\u1ec1n Nam",
+      "url": "https://open.spotify.com/track/0zRnjt0yYuWYfkUDRIIx4Y"
+    },
+    {
+      "album": {
         "name": "T\u1ed5ng H\u1ee3p B\u00e0i H\u00e1t C\u1ee7a L\u01b0u \u00c1nh Loan",
         "url": "https://open.spotify.com/album/2rdtFyIr3QmuU8y16A8QtX"
       },
@@ -473,10 +625,28 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240588,
       "name": "H\u01b0\u01a1ng S\u1eafc Mi\u1ec1n Nam",
       "url": "https://open.spotify.com/track/0vruGZkZxQxTayxFcKG3F2"
+    },
+    {
+      "album": {
+        "name": "T\u1ed5ng H\u1ee3p B\u00e0i H\u00e1t C\u1ee7a L\u01b0u \u00c1nh Loan",
+        "url": "https://open.spotify.com/album/27NpiWC1xTS6TyfNXn8BVq"
+      },
+      "artists": [
+        {
+          "name": "Luu Anh Loan",
+          "url": "https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240588,
+      "name": "H\u01b0\u01a1ng S\u1eafc Mi\u1ec1n Nam",
+      "url": "https://open.spotify.com/track/3XClJRr3tGYVDP8oGHs6e1"
     },
     {
       "album": {
@@ -517,6 +687,24 @@
     {
       "album": {
         "name": "H\u01b0\u1edbng V\u1ec1 Mi\u1ec1n T\u00e2y",
+        "url": "https://open.spotify.com/album/50ODB17Fi7iDfMr91To6T8"
+      },
+      "artists": [
+        {
+          "name": "M\u1ea1nh Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304821,
+      "name": "H\u01b0\u1edbng V\u1ec1 Mi\u1ec1n T\u00e2y",
+      "url": "https://open.spotify.com/track/32YRj4tlS0V6e5o28tPOLL"
+    },
+    {
+      "album": {
+        "name": "H\u01b0\u1edbng V\u1ec1 Mi\u1ec1n T\u00e2y",
         "url": "https://open.spotify.com/album/5gV9fEtonBxEJCl4RzUNTf"
       },
       "artists": [
@@ -527,7 +715,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 304821,
       "name": "H\u01b0\u1edbng V\u1ec1 Mi\u1ec1n T\u00e2y",
       "url": "https://open.spotify.com/track/6tIztN7c8Lt3FuZaiOb0cK"
@@ -779,6 +967,24 @@
     {
       "album": {
         "name": "M\u01b0a Tr\u00ean Qu\u00ea H\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/0JfrVLSas2iH01dcIzyJhk"
+      },
+      "artists": [
+        {
+          "name": "Qu\u1ef3nh Trang",
+          "url": "https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278819,
+      "name": "M\u01b0a Tr\u00ean Qu\u00ea H\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/2UzX3Sk6zabmMhmB3H0nAx"
+    },
+    {
+      "album": {
+        "name": "M\u01b0a Tr\u00ean Qu\u00ea H\u01b0\u01a1ng",
         "url": "https://open.spotify.com/album/0pdC7qnns5k3TjBqf8UBIK"
       },
       "artists": [
@@ -789,7 +995,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 278819,
       "name": "M\u01b0a Tr\u00ean Qu\u00ea H\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/7Ly8MsdFkthJ1n2EqewQz0"
@@ -861,10 +1067,28 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247626,
       "name": "Ng\u1ee3i Ca Qu\u00ea H\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/2g9r5sk4BskWYjZGBMnWks"
+    },
+    {
+      "album": {
+        "name": "H\u1eb9n M\u1ed9t M\u00f9a Xu\u00e2n",
+        "url": "https://open.spotify.com/album/0PpGcaGXiddwPizLYLnMPU"
+      },
+      "artists": [
+        {
+          "name": "Nhu Quynh",
+          "url": "https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247626,
+      "name": "Ng\u1ee3i Ca Qu\u00ea H\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/5Z9tpCdp7AhRGTvwFHoZGg"
     },
     {
       "album": {
@@ -1159,10 +1383,28 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 302915,
       "name": "T\u00e1t N\u01b0\u1edbc \u0110\u1ea7u \u0110\u00ecnh",
       "url": "https://open.spotify.com/track/4EsFje6KwIcdm1lfuTDEdp"
+    },
+    {
+      "album": {
+        "name": "T\u00ecnh L\u00e0 G\u00ec",
+        "url": "https://open.spotify.com/album/79pLdkBrst1icsDhBCBNqV"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/0fyBq02ZMDgu857S5JaW9H"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302880,
+      "name": "T\u00e1t N\u01b0\u1edbc \u0110\u1ea7u \u0110\u00ecnh",
+      "url": "https://open.spotify.com/track/4lW0zwt8ldnR6Y6cDLNihS"
     },
     {
       "album": {
@@ -1189,6 +1431,28 @@
     {
       "album": {
         "name": "T\u00ecnh Nh\u1ecf Mau Qu\u00ean",
+        "url": "https://open.spotify.com/album/65vgee8zpVyhx9j40LU9fa"
+      },
+      "artists": [
+        {
+          "name": "Nam Cuong",
+          "url": "https://open.spotify.com/artist/64vIV4nGYnWdHeioX3kIdA"
+        },
+        {
+          "name": "Ng\u1ecdc Li\u00ean",
+          "url": "https://open.spotify.com/artist/7DJMiXpr6bRhOvkvMO479r"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232002,
+      "name": "T\u00ecnh Nh\u1ecf Mau Qu\u00ean",
+      "url": "https://open.spotify.com/track/1EbchMb3W81Qj6m6ftU1EQ"
+    },
+    {
+      "album": {
+        "name": "T\u00ecnh Nh\u1ecf Mau Qu\u00ean",
         "url": "https://open.spotify.com/album/3BDJOmAgf8CXxp1KxdkGkh"
       },
       "artists": [
@@ -1203,10 +1467,32 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232002,
       "name": "T\u00ecnh Nh\u1ecf Mau Qu\u00ean",
       "url": "https://open.spotify.com/track/6nT25zd99pNhLRDfuUVeis"
+    },
+    {
+      "album": {
+        "name": "Tuy\u1ec3n T\u1eadp C\u00e1c Ca Kh\u00fac Tr\u1eef T\u00ecnh D\u01b0\u01a1ng H\u1ed3ng Loan",
+        "url": "https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL"
+      },
+      "artists": [
+        {
+          "name": "Duong Hong Loan",
+          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
+        },
+        {
+          "name": "Hu\u1ef3nh Nguy\u1ec5n C\u00f4ng B\u1eb1ng",
+          "url": "https://open.spotify.com/artist/0MZdNmWMdt0PQwiyXz93XD"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252121,
+      "name": "T\u00ecnh Qu\u00ea (feat. Hu\u1ef3nh Nguy\u1ec5n C\u00f4ng B\u1eb1ng)",
+      "url": "https://open.spotify.com/track/2q1CALWcpLvH5JAv50RclK"
     },
     {
       "album": {
@@ -1225,10 +1511,28 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252121,
       "name": "T\u00ecnh Qu\u00ea (feat. Hu\u1ef3nh Nguy\u1ec5n C\u00f4ng B\u1eb1ng)",
       "url": "https://open.spotify.com/track/4oWkQWu78llLj97AsEFUaB"
+    },
+    {
+      "album": {
+        "name": "Tuy\u1ec3n T\u1eadp C\u00e1c Ca Kh\u00fac Tr\u1eef T\u00ecnh D\u01b0\u01a1ng H\u1ed3ng Loan",
+        "url": "https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL"
+      },
+      "artists": [
+        {
+          "name": "Duong Hong Loan",
+          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275632,
+      "name": "T\u00ecnh Qu\u00ea Mi\u1ec1n T\u00e2y",
+      "url": "https://open.spotify.com/track/3RBYweJkZsmV71kwXBzQa9"
     },
     {
       "album": {
@@ -1243,10 +1547,32 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275632,
       "name": "T\u00ecnh Qu\u00ea Mi\u1ec1n T\u00e2y",
       "url": "https://open.spotify.com/track/6NRYHavXmrMOATx1fD2R5L"
+    },
+    {
+      "album": {
+        "name": "Tuy\u1ec3n T\u1eadp C\u00e1c Ca Kh\u00fac Tr\u1eef T\u00ecnh D\u01b0\u01a1ng H\u1ed3ng Loan",
+        "url": "https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL"
+      },
+      "artists": [
+        {
+          "name": "Duong Hong Loan",
+          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
+        },
+        {
+          "name": "Tu\u1ea5n H\u1ea3i",
+          "url": "https://open.spotify.com/artist/4B7hhylN1PiEpEMQ00RsBp"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273036,
+      "name": "T\u00ecnh Th\u1eafm Duy\u00ean Qu\u00ea (feat. Tu\u1ea5n H\u1ea3i)",
+      "url": "https://open.spotify.com/track/08rPtjcJX0PAqCkjaYnVtf"
     },
     {
       "album": {
@@ -1265,7 +1591,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273036,
       "name": "T\u00ecnh Th\u1eafm Duy\u00ean Qu\u00ea (feat. Tu\u1ea5n H\u1ea3i)",
       "url": "https://open.spotify.com/track/6q1VeovKP37DbG2kexlv2k"
@@ -1395,10 +1721,28 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 292389,
       "name": "Y\u00eau C\u00f4 G\u00e1i B\u1ea1c Li\u00eau",
       "url": "https://open.spotify.com/track/6QE1YK5SQyy82i9nbBfnny"
+    },
+    {
+      "album": {
+        "name": "B\u1ebfn Duy\u00ean L\u00e0nh",
+        "url": "https://open.spotify.com/album/3L2Vcbc53dC8DgHZjsGsvn"
+      },
+      "artists": [
+        {
+          "name": "Ngoc Han",
+          "url": "https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292389,
+      "name": "Y\u00eau C\u00f4 G\u00e1i B\u1ea1c Li\u00eau",
+      "url": "https://open.spotify.com/track/73g0yQTH1JGE20Br82ccES"
     },
     {
       "album": {
@@ -1509,10 +1853,54 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293408,
       "name": "\u0110\u1eb9p M\u1ed1i Duy\u00ean Qu\u00ea",
       "url": "https://open.spotify.com/track/5BJdLaZyHoIXapKb7I4Fj9"
+    },
+    {
+      "album": {
+        "name": "Tuy\u1ec3n T\u1eadp Song Ca (Th\u01b0\u01a1ng M\u1ed1i T\u00ecnh \u0110\u1ea7u)",
+        "url": "https://open.spotify.com/album/6SQX1wP7rHofPZnAMUKPco"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1ecdc Ki\u1ec1u Oanh",
+          "url": "https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8"
+        },
+        {
+          "name": "Le Sang",
+          "url": "https://open.spotify.com/artist/2z9gi7deY4ZOydUTxhiMff"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-05",
+      "duration_ms": 293381,
+      "name": "\u0110\u1eb9p m\u1ed1i duy\u00ean qu\u00ea",
+      "url": "https://open.spotify.com/track/2QmzslvPYjF7Ubas31niaZ"
+    },
+    {
+      "album": {
+        "name": "T\u1ed5ng H\u1ee3p B\u00e0i H\u00e1t C\u1ee7a L\u00ea Sang",
+        "url": "https://open.spotify.com/album/5uMNk9HqwKVVzh3TuVLYkS"
+      },
+      "artists": [
+        {
+          "name": "L\u00ea Sang",
+          "url": "https://open.spotify.com/artist/1F5d5qNLZ2T1AxZ4fnOnxJ"
+        },
+        {
+          "name": "Ng\u1ecdc Ki\u1ec1u Oanh",
+          "url": "https://open.spotify.com/artist/50YVNNy4HUh9n2r6z1UAg8"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293408,
+      "name": "\u0110\u1eb9p M\u1ed1i Duy\u00ean Qu\u00ea (feat. Ng\u1ecdc Ki\u1ec1u Oanh)",
+      "url": "https://open.spotify.com/track/1aRoFrHr1Jv2fKrKC0mgld"
     },
     {
       "album": {

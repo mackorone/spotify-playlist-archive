@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best current contemporary Reggae. Cover: Skip Marley",
+  "description": "The best current contemporary Reggae. Cover: Kabaka Pyramid",
   "name": "Irie",
   "published_playlist_ids": [
     "0YIpWHNBNN3qo5IAtegSNU"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/4ZO52CTQ2EzwDmAIrFjHaW"
+      },
+      "artists": [
+        {
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+        },
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203474,
+      "name": "2020 Vision (feat. Kabaka Pyramid)",
+      "url": "https://open.spotify.com/track/2rIPa2SPXybqxFySqQ4MIN"
+    },
     {
       "album": {
         "name": "Set up Shop, Vol. 4",
@@ -23,10 +45,44 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 176000,
       "name": "40 Days & 40 Nights (Pt. 2)",
       "url": "https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES"
+    },
+    {
+      "album": {
+        "name": "IN:SIDE",
+        "url": "https://open.spotify.com/album/4QLELkMzJl3mX9YN8DHzYg"
+      },
+      "artists": [
+        {
+          "name": "Runkus",
+          "url": "https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ"
+        },
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        },
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Royal Blu",
+          "url": "https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx"
+        },
+        {
+          "name": "Munga Honorable",
+          "url": "https://open.spotify.com/artist/4N6urvy01I1p3ZgWLDjmKU"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229274,
+      "name": "5Gs",
+      "url": "https://open.spotify.com/track/6Cby4tZ2EW7ZpXOSLf6cvT"
     },
     {
       "album": {
@@ -45,10 +101,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 163853,
       "name": "A Vibe (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV"
+    },
+    {
+      "album": {
+        "name": "Allow Me to Live",
+        "url": "https://open.spotify.com/album/1KWipvpvLEgb0Lnozzyhib"
+      },
+      "artists": [
+        {
+          "name": "Bugle",
+          "url": "https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 183409,
+      "name": "Allow Me to Live",
+      "url": "https://open.spotify.com/track/1qTfGeXfINLj01VmuchXcr"
     },
     {
       "album": {
@@ -63,10 +137,32 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183409,
       "name": "Allow Me to Live",
       "url": "https://open.spotify.com/track/2ocgbHELlfQPXMFwQhIblw"
+    },
+    {
+      "album": {
+        "name": "Platinum Jam 2000: The Bug & The Clone Riddims",
+        "url": "https://open.spotify.com/album/4fFEqVK2DOGxUYfus6kSij"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "Another Level",
+      "url": "https://open.spotify.com/track/6hJ2bS9cbhe97y9qSOUBh5"
     },
     {
       "album": {
@@ -103,7 +199,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 189750,
       "name": "Blaze Away",
       "url": "https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF"
@@ -125,7 +221,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 262973,
       "name": "Blessed (feat. Damian Marley)",
       "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
@@ -147,10 +243,36 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 217114,
       "name": "Born A Rebel",
       "url": "https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6"
+    },
+    {
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/5Ko9dGZI8vlqVROi0ugTym"
+      },
+      "artists": [
+        {
+          "name": "Bugle",
+          "url": "https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM"
+        },
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        },
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154953,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/6Qhx0sm1tTc78p4FMvwfuI"
     },
     {
       "album": {
@@ -165,10 +287,88 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196949,
       "name": "Cold & Clear",
       "url": "https://open.spotify.com/track/40bhrR8iRfr1RfMUsHbGNH"
+    },
+    {
+      "album": {
+        "name": "Ekundayo",
+        "url": "https://open.spotify.com/album/1DHs1TPC3rOV2Y9lFpjZxY"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 196949,
+      "name": "Cold & Clear",
+      "url": "https://open.spotify.com/track/6gCx19TvXTF39mQ6VLCKvm"
+    },
+    {
+      "album": {
+        "name": "Cornerstone 2022",
+        "url": "https://open.spotify.com/album/0WE6c5U0BxItFScQn9KA3I"
+      },
+      "artists": [
+        {
+          "name": "The Marley Brothers",
+          "url": "https://open.spotify.com/artist/53lYQjtmgJPaOseKa1sttY"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "Julian Marley",
+          "url": "https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236730,
+      "name": "Cornerstone 2022",
+      "url": "https://open.spotify.com/track/6IdTZHEefQ8A2WagEvsFlZ"
+    },
+    {
+      "album": {
+        "name": "Now I Rise",
+        "url": "https://open.spotify.com/album/2sQfxaIn395xqNkYH7VfAp"
+      },
+      "artists": [
+        {
+          "name": "Dre Island",
+          "url": "https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303526,
+      "name": "Days of Stone",
+      "url": "https://open.spotify.com/track/3kJM6nB0qDeNjADOgFOQei"
     },
     {
       "album": {
@@ -187,7 +387,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 253167,
       "name": "Dirty Money",
       "url": "https://open.spotify.com/track/0beUa4YmnC5oMtWqzoeNYt"
@@ -205,10 +405,68 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 225103,
       "name": "Do To Me",
       "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
+    },
+    {
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/4ymBYQ4cUYjjTbwecsblqe"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Imeru Tafari",
+          "url": "https://open.spotify.com/artist/1YxQyYfXtg9pMJStr0hvxT"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190040,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/5rqoQ8fs0BbAOVIlvVrRPS"
+    },
+    {
+      "album": {
+        "name": "Now I Rise",
+        "url": "https://open.spotify.com/album/2sQfxaIn395xqNkYH7VfAp"
+      },
+      "artists": [
+        {
+          "name": "Dre Island",
+          "url": "https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180939,
+      "name": "Four Seasons",
+      "url": "https://open.spotify.com/track/2C0rFoP2hER9QoxvfPf8RQ"
+    },
+    {
+      "album": {
+        "name": "God Flo",
+        "url": "https://open.spotify.com/album/4x4obAcTr9ET8r5U3XMw0u"
+      },
+      "artists": [
+        {
+          "name": "5 Star Celestial",
+          "url": "https://open.spotify.com/artist/7zGPusmDtqVpsMqdxmGY6L"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188297,
+      "name": "God Flo",
+      "url": "https://open.spotify.com/track/1fnWfoQqM20SD4Bjd5nFIm"
     },
     {
       "album": {
@@ -227,7 +485,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 260185,
       "name": "God is Love",
       "url": "https://open.spotify.com/track/7pm5ZgUZlDA5P51j9zIz6l"
@@ -245,7 +503,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 236000,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6"
@@ -263,10 +521,50 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 264960,
       "name": "Good Over Evil",
       "url": "https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f"
+    },
+    {
+      "album": {
+        "name": "Helping Hand",
+        "url": "https://open.spotify.com/album/5huEQQmNFdO6sZtm81fbqk"
+      },
+      "artists": [
+        {
+          "name": "Irie Souljah",
+          "url": "https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254310,
+      "name": "Helping Hand",
+      "url": "https://open.spotify.com/track/0ouLZmfGnrvxXGpY3k4IaB"
+    },
+    {
+      "album": {
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/1uJzh0ZINTIALdPwDVrbJP"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294786,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/1Bsl6Jw7bJtQ4pc7OQREog"
     },
     {
       "album": {
@@ -285,7 +583,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 203077,
       "name": "Higher Place",
       "url": "https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl"
@@ -303,10 +601,32 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 227112,
       "name": "How Could You",
       "url": "https://open.spotify.com/track/3Sag8mEE8Kh22DQs9jaraT"
+    },
+    {
+      "album": {
+        "name": "I Miss You (with Spragga Benz)",
+        "url": "https://open.spotify.com/album/3beTV1lC6tVbHzFLYdha4F"
+      },
+      "artists": [
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        },
+        {
+          "name": "Spragga Benz",
+          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156646,
+      "name": "I Miss You (with Spragga Benz)",
+      "url": "https://open.spotify.com/track/4FP6JqFadQflSILvQYxnpb"
     },
     {
       "album": {
@@ -329,7 +649,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 256638,
       "name": "If Not Today",
       "url": "https://open.spotify.com/track/6l3N5PqwZlGBRTMljrX923"
@@ -347,7 +667,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 231838,
       "name": "If You Know",
       "url": "https://open.spotify.com/track/1BGk2pZMRXI9T3tTPgKKtf"
@@ -369,10 +689,50 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 227613,
       "name": "In Bloom (feat. Lila Ik\u00e9)",
       "url": "https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx"
+    },
+    {
+      "album": {
+        "name": "Incient Stepping",
+        "url": "https://open.spotify.com/album/6ibpBLrRUvcEaMX66fvDD4"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229168,
+      "name": "Incient Stepping",
+      "url": "https://open.spotify.com/track/2ZMrQpLGv3H10PeNDEL1UF"
+    },
+    {
+      "album": {
+        "name": "Jah in My Corner",
+        "url": "https://open.spotify.com/album/5PMDCFeRiSX0A0PeT23oFp"
+      },
+      "artists": [
+        {
+          "name": "Black Am I",
+          "url": "https://open.spotify.com/artist/4gGjGwAPoNq5UqUltcrSXN"
+        },
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233887,
+      "name": "Jah in My Corner",
+      "url": "https://open.spotify.com/track/611xhTLxn4GKWp7okPO3Fn"
     },
     {
       "album": {
@@ -387,7 +747,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 141560,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd"
@@ -409,7 +769,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 184200,
       "name": "Keep Blazin'",
       "url": "https://open.spotify.com/track/3blQBAryJo7rmvRGW0rcTp"
@@ -427,10 +787,64 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236000,
       "name": "Lift Our Spirits, Raise Our Voice",
       "url": "https://open.spotify.com/track/61ZAorrS5K3EATlg5x8AAD"
+    },
+    {
+      "album": {
+        "name": "Lift Our Spirits, Raise Our Voice",
+        "url": "https://open.spotify.com/album/1418WzxcFIK2IfE06S6CpY"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 236000,
+      "name": "Lift Our Spirits, Raise Our Voice",
+      "url": "https://open.spotify.com/track/6ufJDfCIe2YAETu84JB6we"
+    },
+    {
+      "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/7cTMnsjjUEsUMe4JLShz3e"
+      },
+      "artists": [
+        {
+          "name": "Mortimer",
+          "url": "https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309591,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/2NrmiC7IpTXJrWPvueZMzX"
+    },
+    {
+      "album": {
+        "name": "The Journey - The Very Best Of Sizzla Kalonji",
+        "url": "https://open.spotify.com/album/07AQybXuRFflDzipExouL4"
+      },
+      "artists": [
+        {
+          "name": "Sizzla",
+          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220760,
+      "name": "Like Mountain",
+      "url": "https://open.spotify.com/track/7MvQf3Ql2RcIUKAoZPGRSg"
     },
     {
       "album": {
@@ -449,10 +863,134 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 245986,
       "name": "Like Royalty (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH"
+    },
+    {
+      "album": {
+        "name": "Loco (Remix)",
+        "url": "https://open.spotify.com/album/2XSbGPGtCT8OEiO5EQVU4A"
+      },
+      "artists": [
+        {
+          "name": "Agent Sasco (Assassin)",
+          "url": "https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy"
+        },
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132400,
+      "name": "Loco - Remix",
+      "url": "https://open.spotify.com/track/3n41zxL7ggMakWfLMfN9O3"
+    },
+    {
+      "album": {
+        "name": "Love Alone",
+        "url": "https://open.spotify.com/album/0MlJXgZuqRWqCXyY2qRDqM"
+      },
+      "artists": [
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        },
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209620,
+      "name": "Love Alone",
+      "url": "https://open.spotify.com/track/4ieXbToMBt4Cy0MU6Lf3av"
+    },
+    {
+      "album": {
+        "name": "Love Has Found I",
+        "url": "https://open.spotify.com/album/6EfiRIcE93eGlXXs1jQ7ta"
+      },
+      "artists": [
+        {
+          "name": "Jah9",
+          "url": "https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274255,
+      "name": "Love Has Found I",
+      "url": "https://open.spotify.com/track/7vgJuzAYHAIYljsPDCqWDD"
+    },
+    {
+      "album": {
+        "name": "Maaga Dog",
+        "url": "https://open.spotify.com/album/2uwUG2TiyMTUAdCdHBXH3s"
+      },
+      "artists": [
+        {
+          "name": "EarthKry",
+          "url": "https://open.spotify.com/artist/6aVvDhysCxaf1SuBpx9jJn"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270989,
+      "name": "Maaga Dog",
+      "url": "https://open.spotify.com/track/4U51bXzT9l06kVQ8i7sIlk"
+    },
+    {
+      "album": {
+        "name": "Madda Badda",
+        "url": "https://open.spotify.com/album/17XrwH6leiuoiuC4qieNRZ"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190687,
+      "name": "Madda Badda",
+      "url": "https://open.spotify.com/track/1fC7QnxvvazYuF02zZZFEs"
+    },
+    {
+      "album": {
+        "name": "Made It",
+        "url": "https://open.spotify.com/album/2MIESbjRuWNhlNMtUMV5a2"
+      },
+      "artists": [
+        {
+          "name": "Jo Mersa Marley",
+          "url": "https://open.spotify.com/artist/6pRzVEriqNrbluIUSzBmML"
+        },
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209665,
+      "name": "Made It",
+      "url": "https://open.spotify.com/track/3lv9lGczx0buvcyfd1RLKB"
     },
     {
       "album": {
@@ -475,10 +1013,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 192284,
       "name": "Make Me Feel (feat. Rick Ross & Ari Lennox)",
       "url": "https://open.spotify.com/track/683pmH1N542FzPKKvs0Aqs"
+    },
+    {
+      "album": {
+        "name": "Make Things Work",
+        "url": "https://open.spotify.com/album/0hFKmKNNdOdQ8RUwkeh4fj"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241244,
+      "name": "Make Things Work",
+      "url": "https://open.spotify.com/track/7vDvRGAI64dvYTwR5yL19C"
     },
     {
       "album": {
@@ -493,10 +1049,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 194455,
       "name": "Mama's Prayer",
       "url": "https://open.spotify.com/track/12zOHhw84rjzStFU9EJDgs"
+    },
+    {
+      "album": {
+        "name": "Mek It Rock",
+        "url": "https://open.spotify.com/album/0FX9ee08ja3nL8BZHMGQJy"
+      },
+      "artists": [
+        {
+          "name": "MediSun",
+          "url": "https://open.spotify.com/artist/0IsmvNH84dS9wcMSCPC5UM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243550,
+      "name": "Mek It Rock",
+      "url": "https://open.spotify.com/track/0wZfbblLDVMtvDchBZBke2"
     },
     {
       "album": {
@@ -515,7 +1089,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 188640,
       "name": "Message Of Love",
       "url": "https://open.spotify.com/track/3Vr6JTctfPeDOVAEc6TJbj"
@@ -533,7 +1107,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 191555,
       "name": "Million Times",
       "url": "https://open.spotify.com/track/3uk44fP88XJZ9rCqZicsXV"
@@ -551,10 +1125,54 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 198362,
       "name": "My World",
       "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
+    },
+    {
+      "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/4etz5JRFBUlNcFkvCYpLiW"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        },
+        {
+          "name": "MediSun",
+          "url": "https://open.spotify.com/artist/0IsmvNH84dS9wcMSCPC5UM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202326,
+      "name": "Natural High",
+      "url": "https://open.spotify.com/track/6OmV5Oi2CtizrCzYKJc9wM"
+    },
+    {
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw"
     },
     {
       "album": {
@@ -573,7 +1191,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 196153,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
@@ -598,6 +1216,76 @@
     },
     {
       "album": {
+        "name": "No Fear (feat. Damian Marley & Nicky Jam)",
+        "url": "https://open.spotify.com/album/5iNZBIAKC2ohCuxiZwuevw"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210922,
+      "name": "No Fear (feat. Damian Marley & Nicky Jam)",
+      "url": "https://open.spotify.com/track/5B1QxXc3XWgJ3dg2ULj7Aa"
+    },
+    {
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/1avDmigs822ZGvXBuVFZnE"
+      },
+      "artists": [
+        {
+          "name": "Jo Mersa Marley",
+          "url": "https://open.spotify.com/artist/6pRzVEriqNrbluIUSzBmML"
+        },
+        {
+          "name": "Black Am I",
+          "url": "https://open.spotify.com/artist/4gGjGwAPoNq5UqUltcrSXN"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205072,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/3vF66SKLJYMdLaMolR3bMZ"
+    },
+    {
+      "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/0EUaIfzNRdEkiP4YJ7OJqp"
+      },
+      "artists": [
+        {
+          "name": "Pressure",
+          "url": "https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh"
+        },
+        {
+          "name": "Midnite",
+          "url": "https://open.spotify.com/artist/2qo5BOQTBHXYKcTER10pRZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301008,
+      "name": "Nothing No Wrong",
+      "url": "https://open.spotify.com/track/15Gb5a89gq0Cw6opsCgT37"
+    },
+    {
+      "album": {
         "name": "Oh Jah",
         "url": "https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj"
       },
@@ -609,7 +1297,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 241219,
       "name": "Oh Jah",
       "url": "https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ"
@@ -627,7 +1315,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 201250,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/7AQ9Nd0jVvbR6yR6QApqoi"
@@ -645,7 +1333,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 212307,
       "name": "Perfectly With You",
       "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
@@ -667,7 +1355,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 238576,
       "name": "Pressure (feat. Buju Banton) - Remix",
       "url": "https://open.spotify.com/track/3mjsWpaYzIWJQcYgO7VtUA"
@@ -685,7 +1373,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 180066,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
@@ -707,10 +1395,94 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 170629,
       "name": "Ready",
       "url": "https://open.spotify.com/track/6VDgMJdCeStxNkwBr6AQB3"
+    },
+    {
+      "album": {
+        "name": "Ready Fi Di Road (Remastered)",
+        "url": "https://open.spotify.com/album/0pkqPOfiL02TucxKlfKLdc"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265158,
+      "name": "Ready Fi Di Road - Remastered",
+      "url": "https://open.spotify.com/track/6Lt5mG1VpdPK4k5HNuOWqG"
+    },
+    {
+      "album": {
+        "name": "Reggaeland",
+        "url": "https://open.spotify.com/album/754AVqPGMs1W1yEYxG5Hq5"
+      },
+      "artists": [
+        {
+          "name": "Yaadcore",
+          "url": "https://open.spotify.com/artist/1hevfhry04udTTR3OPJIv4"
+        },
+        {
+          "name": "Pressure Busspipe",
+          "url": "https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD"
+        },
+        {
+          "name": "I Wayne",
+          "url": "https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260726,
+      "name": "Ready Now (Remix)",
+      "url": "https://open.spotify.com/track/49pgMMidzC9kvNTNSacA03"
+    },
+    {
+      "album": {
+        "name": "Red Gold and Green",
+        "url": "https://open.spotify.com/album/53tx7b7xj9qklpnw8AbT5x"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229057,
+      "name": "Red Gold and Green",
+      "url": "https://open.spotify.com/track/4EHZqxkgwhhJYkSHKrf5Eq"
+    },
+    {
+      "album": {
+        "name": "Kontraband",
+        "url": "https://open.spotify.com/album/4iXGII4BnlGonXgrqx8bUx"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233387,
+      "name": "Reggae Music",
+      "url": "https://open.spotify.com/track/4LH6TQajTVHlPz1283KHAw"
     },
     {
       "album": {
@@ -725,10 +1497,58 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 240053,
       "name": "Righteous",
       "url": "https://open.spotify.com/track/4yrNzSh3l1lh7YV50rNymS"
+    },
+    {
+      "album": {
+        "name": "Welcome to Jamrock",
+        "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317333,
+      "name": "Road To Zion",
+      "url": "https://open.spotify.com/track/6Ja1mjO9WcJFX3LsH22gRk"
+    },
+    {
+      "album": {
+        "name": "Revelation Pt. II: The Fruit of Life",
+        "url": "https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        },
+        {
+          "name": "Sizzla",
+          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277653,
+      "name": "Rock Stone",
+      "url": "https://open.spotify.com/track/7b2WilS8iNSF8PcU17IMdC"
     },
     {
       "album": {
@@ -747,10 +1567,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 222000,
       "name": "Rocking Style",
       "url": "https://open.spotify.com/track/6kFCFFcRoRPb7IxlpiBBxu"
+    },
+    {
+      "album": {
+        "name": "Rub a Dub",
+        "url": "https://open.spotify.com/album/3J9pOnKkvIwqUcDVITu9Bl"
+      },
+      "artists": [
+        {
+          "name": "Christopher Ellis",
+          "url": "https://open.spotify.com/artist/1CEhqTYXYpWeVLCCZE0LEs"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191020,
+      "name": "Rub a Dub",
+      "url": "https://open.spotify.com/track/1NIOyoX5kS8Mb1jDFP6Ri0"
     },
     {
       "album": {
@@ -765,10 +1603,32 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 186564,
       "name": "Safe N Sound",
       "url": "https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie"
+    },
+    {
+      "album": {
+        "name": "Same Prayer",
+        "url": "https://open.spotify.com/album/0RaQaiuWVvfiqXJq4SGFv3"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        },
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233966,
+      "name": "Same Prayer",
+      "url": "https://open.spotify.com/track/3MfbMLBGKSHBboWixya7gL"
     },
     {
       "album": {
@@ -783,10 +1643,54 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 208719,
       "name": "Same So",
       "url": "https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW"
+    },
+    {
+      "album": {
+        "name": "Victory Rock Riddim",
+        "url": "https://open.spotify.com/album/2ychB1n3vMLc8t2bOflZTu"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "D-Major",
+          "url": "https://open.spotify.com/artist/3XC2RnJHl1Z08ZamQVNpks"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207847,
+      "name": "She Nah Give It Away",
+      "url": "https://open.spotify.com/track/6EdXGqDnxlKejBHHtdbxUc"
+    },
+    {
+      "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 194406,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/0jPEWByX9DZAQb5zyQ6eng"
     },
     {
       "album": {
@@ -805,7 +1709,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195066,
       "name": "Slow Down (with H.E.R.)",
       "url": "https://open.spotify.com/track/73FDJgnjt6ZcxoiavN6XrS"
@@ -827,10 +1731,110 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 260168,
       "name": "Smugglaren",
       "url": "https://open.spotify.com/track/233P1DUo0GMAjHrZVgIQ16"
+    },
+    {
+      "album": {
+        "name": "Still Go a Dance",
+        "url": "https://open.spotify.com/album/6yN83NixfyLv59uj635Ccx"
+      },
+      "artists": [
+        {
+          "name": "Christopher Ellis",
+          "url": "https://open.spotify.com/artist/1CEhqTYXYpWeVLCCZE0LEs"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191416,
+      "name": "Still Go a Dance",
+      "url": "https://open.spotify.com/track/4clUohoKu1S7YGM8SuCMrs"
+    },
+    {
+      "album": {
+        "name": "Halfway Tree",
+        "url": "https://open.spotify.com/album/79A9fjAyeGil2IvBXfBjMj"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "Yami Bolo",
+          "url": "https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304706,
+      "name": "Still Searching",
+      "url": "https://open.spotify.com/track/372wpFKwnTJdVEEIJaFQfu"
+    },
+    {
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/5LCaKsOwObwaUaDFAVNqpq"
+      },
+      "artists": [
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229960,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/7ng4T6teNlLYjpw7RNDYCH"
+    },
+    {
+      "album": {
+        "name": "Survival 76 Cypher",
+        "url": "https://open.spotify.com/album/7iZ2DcpZ0q6ZWlWlYb66p9"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Tifa",
+          "url": "https://open.spotify.com/artist/0SC0umMk5cSHBN8zAVc4TA"
+        },
+        {
+          "name": "Agent Sasco",
+          "url": "https://open.spotify.com/artist/3qppN9KCK7kBILNTMaHkB4"
+        },
+        {
+          "name": "Tanya Stephens",
+          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
+        },
+        {
+          "name": "Jo Mersa Marley",
+          "url": "https://open.spotify.com/artist/6pRzVEriqNrbluIUSzBmML"
+        },
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382138,
+      "name": "Survival 76 Cypher",
+      "url": "https://open.spotify.com/track/7t7BQ6Lv0fATGfkiOGufd4"
     },
     {
       "album": {
@@ -849,7 +1853,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 234920,
       "name": "Switch It Up (feat. Koffee)",
       "url": "https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8"
@@ -871,10 +1875,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 208893,
       "name": "That's Not True",
       "url": "https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL"
+    },
+    {
+      "album": {
+        "name": "The Voice",
+        "url": "https://open.spotify.com/album/7mGuqGTAy7gWHNBhQucEXq"
+      },
+      "artists": [
+        {
+          "name": "Naomi Cowan",
+          "url": "https://open.spotify.com/artist/129TLJBvb1WfwaaBsSIH1m"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "The Voice",
+      "url": "https://open.spotify.com/track/2DrLYrE3BYrRFxHucvrZge"
     },
     {
       "album": {
@@ -897,7 +1919,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 198948,
       "name": "Time Is of Essence",
       "url": "https://open.spotify.com/track/6EseVHHBlvGNJnkhyyl4kH"
@@ -919,10 +1941,50 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 195829,
       "name": "Vibe (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
+    },
+    {
+      "album": {
+        "name": "Victory Rock Riddim",
+        "url": "https://open.spotify.com/album/2ychB1n3vMLc8t2bOflZTu"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Alaine",
+          "url": "https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229542,
+      "name": "Victory Rock",
+      "url": "https://open.spotify.com/track/7pgjKkMgWUp6qsisoqK88m"
+    },
+    {
+      "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/2LQ3Ts5RzrOV8sqYTV3xqu"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217288,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO"
     },
     {
       "album": {
@@ -937,10 +1999,32 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160172,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/5PFWxdaF4INZtOSb40nSiU"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0ZQoADyRu8QSfzXaUOrDHI"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "ZJ Chrome",
+          "url": "https://open.spotify.com/artist/10RdVSp5OiUPHjh4bYKBMM"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 160172,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/48qduYsXAIOjvqvXs7jO6r"
     },
     {
       "album": {
@@ -981,7 +2065,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 243049,
       "name": "Where I'm Coming From",
       "url": "https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ"
@@ -999,7 +2083,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 208860,
       "name": "Woii",
       "url": "https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt"
@@ -1021,10 +2105,50 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 198912,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6N37hPucYSTkj59pOnOkuW"
+    },
+    {
+      "album": {
+        "name": "Work Day",
+        "url": "https://open.spotify.com/album/74771kls0BonEge3lDF20s"
+      },
+      "artists": [
+        {
+          "name": "Black Am I",
+          "url": "https://open.spotify.com/artist/4gGjGwAPoNq5UqUltcrSXN"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240756,
+      "name": "Work Day",
+      "url": "https://open.spotify.com/track/060f54kwqQRw3HiyujgqCt"
+    },
+    {
+      "album": {
+        "name": "YOU (feat. Damian Marley)",
+        "url": "https://open.spotify.com/album/3xP4sRiFGlSeoSw5t3Q567"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213502,
+      "name": "YOU (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/70gSJrLzbMOURbFnMzG85g"
     },
     {
       "album": {
@@ -1039,7 +2163,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 166053,
       "name": "Zulu Gang",
       "url": "https://open.spotify.com/track/76UAvXDNPaHhqJypINfAXz"

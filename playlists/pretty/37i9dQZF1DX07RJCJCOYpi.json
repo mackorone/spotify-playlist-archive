@@ -1,15 +1,163 @@
 {
-  "description": "The leading wave of Latin Electronic music. Cover: Samantha S\u00e1nchez ",
-  "num_followers": 1741282,
+  "description": "The leading wave of Latin Electronic music. Cover: Luis R Conriquez, Rod Contreras, Tony Aguirre, Jay Silva",
+  "num_followers": 1739451,
   "original_name": "mint Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgzNjAzMCwwMDAwMDBlZDAwMDAwMTgxZmViYTRiNmMwMDAwMDE4MWY4MjcyMzdl",
+  "snapshot_id": "MTY2MzMwMTE5NCwwMDAwMDAwMDk3ODYzNGIxMzUzOGUzYzhiNGUzYWExMzkzYTVmZGNh",
   "tracks": [
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
+      "album": {
+        "name": "Guisao",
+        "url": "https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Rod Contreras",
+          "url": "https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Jay Silva",
+          "url": "https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn"
+        }
+      ],
+      "duration_ms": 139842,
+      "name": "Guisao",
+      "url": "https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ"
+    },
+    {
+      "added_at": "2022-09-16 04:06:34",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 250082,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
+    },
+    {
+      "added_at": "2022-09-16 04:06:34",
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2022-09-16 04:06:34",
+      "album": {
+        "name": "Dharma +",
+        "url": "https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Tacones Rojos - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/5h5q82KQiiO92tiaGgb2xF"
+    },
+    {
+      "added_at": "2022-09-16 04:06:34",
+      "album": {
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
+    },
+    {
+      "added_at": "2022-09-16 04:06:34",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 246061,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
+    },
+    {
+      "added_at": "2022-09-16 04:06:34",
+      "album": {
+        "name": "LAS 12",
+        "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "LAS 12",
+      "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
+    },
+    {
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "CTRL",
         "url": "https://open.spotify.com/album/6494FU89k0o3Kfgz9LqH9H"
@@ -25,7 +173,7 @@
       "url": "https://open.spotify.com/track/4QIQmXC0OI5ZEQPvwCXbdI"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Nieve",
         "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
@@ -41,7 +189,23 @@
       "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
+      "album": {
+        "name": "Caf\u00e9 Con Leche",
+        "url": "https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 168323,
+      "name": "Caf\u00e9 Con Leche",
+      "url": "https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy"
+    },
+    {
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
@@ -61,7 +225,7 @@
       "url": "https://open.spotify.com/track/2L6rsP2nThuVySclwSUkBT"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
@@ -77,7 +241,7 @@
       "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "MAMIII (kryptogram Remix)",
         "url": "https://open.spotify.com/album/60CnppsgEGpKhlT4xV5TGz"
@@ -101,47 +265,7 @@
       "url": "https://open.spotify.com/track/46Lqs8FqqomRGmRmpm1Adx"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
-      "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 246061,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
-    },
-    {
-      "added_at": "2022-07-14 22:00:30",
-      "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
-    },
-    {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Nazareno",
         "url": "https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU"
@@ -157,23 +281,39 @@
       "url": "https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
-        "name": "Caf\u00e9 Con Leche",
-        "url": "https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS"
+        "name": "Pa Ti Ya !",
+        "url": "https://open.spotify.com/album/5Heeh3NtSDw5Wq73kiorub"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Carlos Montesquieu",
+          "url": "https://open.spotify.com/artist/6aUadgc3VIt06htkgXEMIA"
         }
       ],
-      "duration_ms": 168323,
-      "name": "Caf\u00e9 Con Leche",
-      "url": "https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy"
+      "duration_ms": 163892,
+      "name": "Pa Ti Ya !",
+      "url": "https://open.spotify.com/track/24ZWoKxAmcG06vBfv2yARt"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
+      "album": {
+        "name": "Sweet Potato",
+        "url": "https://open.spotify.com/album/3jMgo1MoBGBoAHfy3cgEeV"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Sweet Potato",
+      "url": "https://open.spotify.com/track/6E09140FnSWgjdUJJosGfx"
+    },
+    {
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "NO MIENTEN",
         "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
@@ -189,10 +329,10 @@
       "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Me Medicaron (Remix)",
-        "url": "https://open.spotify.com/album/2tHaAgiYRoqiE674uJRO1u"
+        "url": "https://open.spotify.com/album/5nbQlyRsvBmnaombqh7o4n"
       },
       "artists": [
         {
@@ -205,11 +345,11 @@
         }
       ],
       "duration_ms": 202380,
-      "name": "Me Medicaron (Remix)",
-      "url": "https://open.spotify.com/track/0aCNp6QjGiNNE3x7UInQn9"
+      "name": "Me Medicaron - Remix",
+      "url": "https://open.spotify.com/track/64uTg0DPxkjGKwiLAdWTBz"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Siempre Happy",
         "url": "https://open.spotify.com/album/3XhOTcxYjY05zs0m9rFmD6"
@@ -229,7 +369,7 @@
       "url": "https://open.spotify.com/track/3aGf3ECy05mRNhthHjqlif"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
@@ -249,27 +389,27 @@
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
-        "name": "LAS 12",
-        "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
+        "name": "mariposas",
+        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
       },
       "artists": [
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
         },
         {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 165230,
-      "name": "LAS 12",
-      "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
+      "duration_ms": 154000,
+      "name": "mariposas",
+      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "NataKong",
         "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
@@ -289,7 +429,7 @@
       "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Provenza",
         "url": "https://open.spotify.com/album/3KJslj1QLLn1VO6QZPcSie"
@@ -305,7 +445,7 @@
       "url": "https://open.spotify.com/track/4cgKV8PTmNHIillgrxI0J8"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/5EtTgPcghle0Nna7MKRwBl"
@@ -316,12 +456,12 @@
           "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
         }
       ],
-      "duration_ms": 196000,
+      "duration_ms": 184000,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6Xdpx96oFxS35VeGSbOjxO"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "La Tarde",
         "url": "https://open.spotify.com/album/2Gtkz11XYN5wtzafQFS8As"
@@ -341,7 +481,7 @@
       "url": "https://open.spotify.com/track/0v2uMRnqJRCLGgnboVtq6A"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Campeona (feat. Nicky Jam)",
         "url": "https://open.spotify.com/album/0Somt7nMoN8nsNXz0i3Xts"
@@ -365,7 +505,7 @@
       "url": "https://open.spotify.com/track/32igAB8n9KMEQkz6jEs5yq"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -381,7 +521,7 @@
       "url": "https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Una Vaina Loca (R3HAB Remix)",
         "url": "https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS"
@@ -409,7 +549,7 @@
       "url": "https://open.spotify.com/track/65SZzxum2FuIUFIIVQH1g6"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Corocito (Manguelena)",
         "url": "https://open.spotify.com/album/5chY6FhFyWkTkldLElL9SE"
@@ -433,7 +573,7 @@
       "url": "https://open.spotify.com/track/61GOXPwH81y1I7KIfBXHlB"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Vazilando",
         "url": "https://open.spotify.com/album/6PLvwPVlATZi6iP9qgFAWp"
@@ -449,7 +589,7 @@
       "url": "https://open.spotify.com/track/17Ci0qxBOeEQMadwb9qYNt"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ"
@@ -465,7 +605,7 @@
       "url": "https://open.spotify.com/track/160zbysYKia7DpELpVS0DW"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Kong 2.0",
         "url": "https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi"
@@ -485,7 +625,7 @@
       "url": "https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "The Club",
         "url": "https://open.spotify.com/album/6Vic2QsA1mGgnl0oPB5klW"
@@ -505,7 +645,7 @@
       "url": "https://open.spotify.com/track/6PlSs5hJFTujS9yMJuF7Ty"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
@@ -525,7 +665,7 @@
       "url": "https://open.spotify.com/track/5Pg4qYTcvCUBBq3jBhKq0t"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Discoteca (Deorro Remix)",
         "url": "https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj"
@@ -549,7 +689,7 @@
       "url": "https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Real Love (Sak Noel, Salvi & Franklin Dam Remix)",
         "url": "https://open.spotify.com/album/762BWVMk6By89MAXZNCM20"
@@ -581,7 +721,7 @@
       "url": "https://open.spotify.com/track/21LO2b29sLEypeJFXWqEQl"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
@@ -597,7 +737,7 @@
       "url": "https://open.spotify.com/track/5PpwwiaSqIzLyzboENB4QO"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
@@ -617,7 +757,7 @@
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Romances de una Nota 2021, Vol.2",
         "url": "https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T"
@@ -633,7 +773,7 @@
       "url": "https://open.spotify.com/track/5QhLerJoRUjlmi35DzQDd7"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "N\u00f3mada (Viic Remix)",
         "url": "https://open.spotify.com/album/3L19MWTcbsLDK5SZzrlFiP"
@@ -657,7 +797,7 @@
       "url": "https://open.spotify.com/track/4D3XtP9njTq47nrc0VXs08"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
@@ -673,7 +813,7 @@
       "url": "https://open.spotify.com/track/7jZGELQvY3aZKaCIQVqwSY"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Loco Toditos",
         "url": "https://open.spotify.com/album/3fLplolZzEdJ0BCg6gx7jL"
@@ -689,23 +829,27 @@
       "url": "https://open.spotify.com/track/3PCnoYjmTmOEZvTOopA8nJ"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Hace Calor (Remix)",
-        "url": "https://open.spotify.com/album/3xqKPEu68JbqshG5UXdEcP"
+        "url": "https://open.spotify.com/album/4CYQ2m9siG9HnQwzadPkcP"
       },
       "artists": [
         {
           "name": "Eme Sarav",
           "url": "https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
         }
       ],
       "duration_ms": 197103,
       "name": "Hace Calor - Remix",
-      "url": "https://open.spotify.com/track/0Wb0G3YcE4hY7LbF3ppEEQ"
+      "url": "https://open.spotify.com/track/7jfE42hjNY8zUuKKJlmBz6"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Fenix (Radio Edit)",
         "url": "https://open.spotify.com/album/4OWOcaoeR6A6HmOfC2UYyQ"
@@ -725,7 +869,7 @@
       "url": "https://open.spotify.com/track/1kATj4UD3ZO9EeiEyRXBx0"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Yo Las Pongo",
         "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
@@ -749,7 +893,7 @@
       "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh"
@@ -769,7 +913,7 @@
       "url": "https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Ojos Chiquitos",
         "url": "https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A"
@@ -789,7 +933,7 @@
       "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "De 100 a 0",
         "url": "https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc"
@@ -805,7 +949,7 @@
       "url": "https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Cheke (The Remixes)",
         "url": "https://open.spotify.com/album/1hzfAaCFTgoE5K8ohwvAHZ"
@@ -829,7 +973,7 @@
       "url": "https://open.spotify.com/track/4DDzgjfANSHudWS56LQJkU"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Formentera RMX",
         "url": "https://open.spotify.com/album/5jUuL7HYJQlVF4TlW5PCZp"
@@ -853,7 +997,7 @@
       "url": "https://open.spotify.com/track/1HaNaeulZAeYszYCRsnD0y"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Pepas (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ"
@@ -873,7 +1017,7 @@
       "url": "https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/0kHWGX8LFN8fym7PLtFxY3"
@@ -897,7 +1041,7 @@
       "url": "https://open.spotify.com/track/66me76ApwjNVXMaI8EgJca"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "m\u00e1s de ti",
         "url": "https://open.spotify.com/album/7k0VM3WSb93hOblMsIYnPG"
@@ -913,7 +1057,7 @@
       "url": "https://open.spotify.com/track/55bcTduPNKrs96TfNTjfXH"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/3rmcFbXbPdvCD8GCL72uZ3"
@@ -933,7 +1077,7 @@
       "url": "https://open.spotify.com/track/5l91QS67BEDNZiDWPdXLwy"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Hanging Tree",
         "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
@@ -949,7 +1093,7 @@
       "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Switch It - Tom & Collins Remix",
         "url": "https://open.spotify.com/album/5GVgoMKCACSH24RkPuhlwk"
@@ -969,7 +1113,7 @@
       "url": "https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "We Outside (Sak Noel & Salvi Remix)",
         "url": "https://open.spotify.com/album/2AZmSJDDeiQmf0q0EMRyKG"
@@ -1001,7 +1145,7 @@
       "url": "https://open.spotify.com/track/5hbSLOZkTwfSbAglosqKh1"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Annual 2021",
         "url": "https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI"
@@ -1025,7 +1169,7 @@
       "url": "https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Muy Bien",
         "url": "https://open.spotify.com/album/0YBsUl0SvyfhMBJMg1EGDc"
@@ -1045,7 +1189,7 @@
       "url": "https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Up & Down",
         "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
@@ -1061,7 +1205,7 @@
       "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Como Es Posible Que a Mi Lado",
         "url": "https://open.spotify.com/album/73Q842SM0mDLFtiuryhfRP"
@@ -1081,7 +1225,7 @@
       "url": "https://open.spotify.com/track/4n3z3N2m6zfCJzrAc3ABPi"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Adios (with Andrez Babii)",
         "url": "https://open.spotify.com/album/6fyxiLqGh9Llo4cjORrBdS"
@@ -1101,7 +1245,7 @@
       "url": "https://open.spotify.com/track/01te0VWuPo9HvyA6A4Rizp"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Sorry For The Weight",
         "url": "https://open.spotify.com/album/61UgKPXbltFZQiF3qifIyG"
@@ -1121,7 +1265,7 @@
       "url": "https://open.spotify.com/track/04xd1RYPYlaWAavY7NnyTt"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Heartless (Kidd Spin Remix)",
         "url": "https://open.spotify.com/album/7HGBT7yVmnLCsIj58do4M0"
@@ -1141,7 +1285,7 @@
       "url": "https://open.spotify.com/track/52PY71c5aNyFrCXpBGViMz"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "I Feel Good (Sak Noel X Salvi X Franklin Dam Remix)",
         "url": "https://open.spotify.com/album/5JFJn3AlEMf763mjLdf0g4"
@@ -1177,7 +1321,7 @@
       "url": "https://open.spotify.com/track/72gZ6wXzF6CWcBauTYR8Wo"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Las Leyendas Nunca Mueren",
         "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
@@ -1193,7 +1337,7 @@
       "url": "https://open.spotify.com/track/0x4Kmsd1YLB9emO8thJ62U"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Cucu",
         "url": "https://open.spotify.com/album/2nVcDPVHyNZpcVKDyTlMWd"
@@ -1213,7 +1357,7 @@
       "url": "https://open.spotify.com/track/4XGUihmiNJAH22UusW4KZU"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "A M\u00ed Me Encanta (Tequila)",
         "url": "https://open.spotify.com/album/3v2S4J6gKUF5oG8cQFXiNi"
@@ -1229,7 +1373,7 @@
       "url": "https://open.spotify.com/track/7hOypPNirw4UFkCtCHAOou"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "Rockport Espacial 2",
         "url": "https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6"
@@ -1249,7 +1393,7 @@
       "url": "https://open.spotify.com/track/2WTTEfbb96NHOmKJ7TrJvH"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "En Mi Cuarto",
         "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
@@ -1269,7 +1413,7 @@
       "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
     },
     {
-      "added_at": "2022-07-14 22:00:30",
+      "added_at": "2022-09-16 04:06:34",
       "album": {
         "name": "PAP (Pendiente Al Paso)",
         "url": "https://open.spotify.com/album/57hEnKIuvKtgQHrGid8ubd"
@@ -1287,30 +1431,6 @@
       "duration_ms": 164242,
       "name": "PAP (Pendiente Al Paso)",
       "url": "https://open.spotify.com/track/7HqtpURyE5eUVY2mMImqTX"
-    },
-    {
-      "added_at": "2022-07-14 22:00:30",
-      "album": {
-        "name": "Si Es Trucho Es Trucho (feat. Farruko and El Alfa) [Remix]",
-        "url": "https://open.spotify.com/album/2V3oEJWhKr8oYA9VwvPCPX"
-      },
-      "artists": [
-        {
-          "name": "Axel Rulay",
-          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 213785,
-      "name": "Si Es Trucho Es Trucho (feat. Farruko and El Alfa) - Remix",
-      "url": "https://open.spotify.com/track/3pvalQEg29xTyQk1eqWtVJ"
     }
   ],
   "unique_name": "mint Latin",

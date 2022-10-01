@@ -9,6 +9,24 @@
     {
       "album": {
         "name": "[#]",
+        "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66080,
+      "name": "#",
+      "url": "https://open.spotify.com/track/0g4EXf2GxjePFGl6EXnGFZ"
+    },
+    {
+      "album": {
+        "name": "[#]",
         "url": "https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn"
       },
       "artists": [
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 66200,
       "name": "#",
       "url": "https://open.spotify.com/track/3Q4eFdGe02tM0whH8AH4F0"
@@ -127,10 +145,28 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209110,
       "name": "Around You",
       "url": "https://open.spotify.com/track/2Tf6La0o3Jqu7HfKwkWqjJ"
+    },
+    {
+      "album": {
+        "name": "Meow the secret boy (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/4m71LoXK1OfvkOlWkYmWFk"
+      },
+      "artists": [
+        {
+          "name": "JinSoul",
+          "url": "https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186960,
+      "name": "As Time Goes",
+      "url": "https://open.spotify.com/track/5AL7gnyJ5qpsZB4cVCJgQZ"
     },
     {
       "album": {
@@ -145,7 +181,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186960,
       "name": "As Time Goes \uc2dc\uac04\uc740 \ud55c \ubc14\ud034 \ub3cc\uc544",
       "url": "https://open.spotify.com/track/0sJTYKbXztWSGJiMDrZ5CK"
@@ -171,6 +207,24 @@
     {
       "album": {
         "name": "[X X]",
+        "url": "https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237707,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV"
+    },
+    {
+      "album": {
+        "name": "[X X]",
         "url": "https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET"
       },
       "artists": [
@@ -181,7 +235,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237756,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/5jhYykolbcG1T9wZSyvhp5"
@@ -225,7 +279,7 @@
     {
       "album": {
         "name": "[X X]",
-        "url": "https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET"
+        "url": "https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf"
       },
       "artists": [
         {
@@ -233,12 +287,12 @@
           "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
         }
       ],
-      "date_added": "2021-10-27",
+      "date_added": "2022-06-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 195351,
+      "duration_ms": 195307,
       "name": "Colors",
-      "url": "https://open.spotify.com/track/1bg4MF45JFU0Dx1MjLJ5vn"
+      "url": "https://open.spotify.com/track/5udzPjfCFLvrKvdu5TyGn6"
     },
     {
       "album": {
@@ -253,7 +307,43 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195351,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/1bg4MF45JFU0Dx1MjLJ5vn"
+    },
+    {
+      "album": {
+        "name": "[X X]",
+        "url": "https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188960,
+      "name": "Curiosity",
+      "url": "https://open.spotify.com/track/0dGoEd5azO9g3tKdONfBRZ"
+    },
+    {
+      "album": {
+        "name": "[X X]",
+        "url": "https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 189002,
       "name": "Curiosity",
       "url": "https://open.spotify.com/track/6Kke9MonigeJKLSmlmRnWD"
@@ -315,6 +405,24 @@
     {
       "album": {
         "name": "[#]",
+        "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178640,
+      "name": "Ding Ding Dong",
+      "url": "https://open.spotify.com/track/5wXl54GxirvUdS9ne70mC7"
+    },
+    {
+      "album": {
+        "name": "[#]",
         "url": "https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn"
       },
       "artists": [
@@ -325,7 +433,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178773,
       "name": "Ding Ding Dong",
       "url": "https://open.spotify.com/track/4bPY0n3hMVd6q39B2ePkZe"
@@ -383,7 +491,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231237,
       "name": "Eclipse (Prod. By Daniel Obi Klein)",
       "url": "https://open.spotify.com/track/6k3sl3Hs6bNN497d672gpR"
@@ -445,7 +553,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208160,
       "name": "Everyday I Love You (feat. HaSeul)",
       "url": "https://open.spotify.com/track/5e6Tii9571q3uKOC6wn8XU"
@@ -489,7 +597,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187624,
       "name": "Everyday I Need You (feat. JinSoul)",
       "url": "https://open.spotify.com/track/6y0g4cJTSABiaaKECOISiI"
@@ -507,10 +615,28 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187442,
       "name": "Fairy Tale",
       "url": "https://open.spotify.com/track/0AH0dkzF93dcHFnmeBOTbE"
+    },
+    {
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187442,
+      "name": "Fairy Tale",
+      "url": "https://open.spotify.com/track/2TUQSG8OGC1cg1uMyJrJks"
     },
     {
       "album": {
@@ -695,6 +821,28 @@
     {
       "album": {
         "name": "Love & Live",
+        "url": "https://open.spotify.com/album/24xMv1Q8SdNoCrKoKUPQJD"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        },
+        {
+          "name": "JUNGMO",
+          "url": "https://open.spotify.com/artist/265utmyoXKhopQTAHBXByE"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67437,
+      "name": "Into the New Heart",
+      "url": "https://open.spotify.com/track/1vFgGSZOjdomaUakHJi3oB"
+    },
+    {
+      "album": {
+        "name": "Love & Live",
         "url": "https://open.spotify.com/album/02QYjN9V9rlnXAtQvAX0rW"
       },
       "artists": [
@@ -705,7 +853,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 67437,
       "name": "Into the New Heart (Guitar by JungMo)",
       "url": "https://open.spotify.com/track/7EG2HkWMW1mM7PIMznLyhW"
@@ -723,7 +871,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188558,
       "name": "I\u2019ll be There",
       "url": "https://open.spotify.com/track/2cCj7bIY0jrdGn20lq88ae"
@@ -741,7 +889,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199754,
       "name": "Kiss Later",
       "url": "https://open.spotify.com/track/4TeqecANyRsllKmXNw641W"
@@ -759,7 +907,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187649,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/3Ir6BUnlnAGTMZBMIHlgSu"
@@ -803,6 +951,24 @@
     {
       "album": {
         "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62875,
+      "name": "Love & Evil",
+      "url": "https://open.spotify.com/track/0HT726L1FN7csp0DmTfwhU"
+    },
+    {
+      "album": {
+        "name": "Love & Evil",
         "url": "https://open.spotify.com/album/35DjTZIwcC0Vfg2w7ICHUg"
       },
       "artists": [
@@ -813,10 +979,28 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 62875,
       "name": "Love & Evil",
       "url": "https://open.spotify.com/track/6XAca0QIiTvMaWfTnjjwrn"
+    },
+    {
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206868,
+      "name": "Love & Live",
+      "url": "https://open.spotify.com/track/3isW89jO5h49OoCHpqediW"
     },
     {
       "album": {
@@ -831,7 +1015,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206868,
       "name": "Love & Live",
       "url": "https://open.spotify.com/track/7uAD8DLwFDpZkFEJFSxxcb"
@@ -885,7 +1069,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188899,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/3t7m1KLkT2aPvqyzVRnTBy"
@@ -921,7 +1105,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182920,
       "name": "My Melody",
       "url": "https://open.spotify.com/track/3uOuaBpMHwYcxej5qRDocD"
@@ -957,7 +1141,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182713,
       "name": "My Sunday",
       "url": "https://open.spotify.com/track/0oiVMsDM40biyMxhF1ooI0"
@@ -1109,6 +1293,24 @@
     {
       "album": {
         "name": "[#]",
+        "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202893,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05"
+    },
+    {
+      "album": {
+        "name": "[#]",
         "url": "https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn"
       },
       "artists": [
@@ -1119,7 +1321,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202946,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/2GGzUBEJE1dN2PHrf7neS7"
@@ -1163,6 +1365,24 @@
     {
       "album": {
         "name": "[#]",
+        "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "Oh (Yes I Am)",
+      "url": "https://open.spotify.com/track/5l8Vpgx92aqAuniKsSKbyZ"
+    },
+    {
+      "album": {
+        "name": "[#]",
         "url": "https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn"
       },
       "artists": [
@@ -1173,7 +1393,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195786,
       "name": "Oh (Yes I Am)",
       "url": "https://open.spotify.com/track/0WdCXlXSSfpIldlzZ4BrHi"
@@ -1407,10 +1627,28 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201409,
       "name": "Rain 51db",
       "url": "https://open.spotify.com/track/0y6mgjArFlmksW6Qciycd5"
+    },
+    {
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201409,
+      "name": "Rain 51db",
+      "url": "https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm"
     },
     {
       "album": {
@@ -1451,6 +1689,24 @@
     {
       "album": {
         "name": "[X X]",
+        "url": "https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189507,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/7nbKBoLQ8ZiQ5Ge8vMPcgF"
+    },
+    {
+      "album": {
+        "name": "[X X]",
         "url": "https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET"
       },
       "artists": [
@@ -1461,7 +1717,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189557,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/644aVns0mIqtLY9Wqzm7zD"
@@ -1537,10 +1793,28 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211661,
       "name": "Singing in the Rain",
       "url": "https://open.spotify.com/track/6ZCugHZvchMlF6DqMDYIW1"
+    },
+    {
+      "album": {
+        "name": "[#]",
+        "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/1ry2mTVmAJHbNLzl5qww5v"
     },
     {
       "album": {
@@ -1555,10 +1829,28 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198040,
       "name": "So What",
       "url": "https://open.spotify.com/track/7w3pIUjz7BTTqj9uAws40m"
+    },
+    {
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197346,
+      "name": "Sonatine",
+      "url": "https://open.spotify.com/track/6LOPo5liG9RE6pBKTVUoEm"
     },
     {
       "album": {
@@ -1573,7 +1865,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197346,
       "name": "Sonatine",
       "url": "https://open.spotify.com/track/6RMFRrVjtcvpyyBs6cM0xd"
@@ -1663,7 +1955,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206432,
       "name": "The Carol",
       "url": "https://open.spotify.com/track/1CKJ1nmAYp1XD4ZajfhzIC"
@@ -1753,7 +2045,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186722,
       "name": "Twilight (Prod. By Cha Cha Malone)",
       "url": "https://open.spotify.com/track/0Eh58SEH7NMUS5r6saQ7W7"
@@ -1814,6 +2106,24 @@
     },
     {
       "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190722,
+      "name": "Valentine Girl",
+      "url": "https://open.spotify.com/track/4UN3kpjB0RoGXUx2zyNzK0"
+    },
+    {
+      "album": {
         "name": "Love & Live",
         "url": "https://open.spotify.com/album/02QYjN9V9rlnXAtQvAX0rW"
       },
@@ -1825,7 +2135,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190722,
       "name": "Valentine Girl",
       "url": "https://open.spotify.com/track/54aMoZIU4kF8o4MbIEObls"
@@ -1861,7 +2171,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201537,
       "name": "ViViD",
       "url": "https://open.spotify.com/track/5UcKA3kFDFze29N8qrV804"
@@ -1879,10 +2189,28 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216273,
       "name": "ViViD (Acoustic Ver.)",
       "url": "https://open.spotify.com/track/0Egf0suvZSOB3bet2rLWGX"
+    },
+    {
+      "album": {
+        "name": "HeeJin",
+        "url": "https://open.spotify.com/album/4bAHdv04do1PfJcGIjD2cX"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216273,
+      "name": "ViViD - Acoustic Mix Version",
+      "url": "https://open.spotify.com/track/3w9DXhZIfOJpStUSkLHxWg"
     },
     {
       "album": {
@@ -1905,6 +2233,24 @@
     {
       "album": {
         "name": "[X X]",
+        "url": "https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207347,
+      "name": "Where you at",
+      "url": "https://open.spotify.com/track/06uHelfNbaIX9rkJ4ggc51"
+    },
+    {
+      "album": {
+        "name": "[X X]",
         "url": "https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET"
       },
       "artists": [
@@ -1915,7 +2261,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207437,
       "name": "Where you at",
       "url": "https://open.spotify.com/track/6OcDMIYoDm0DvybUM1jBWF"
@@ -1959,6 +2305,24 @@
     {
       "album": {
         "name": "[X X]",
+        "url": "https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48613,
+      "name": "X X",
+      "url": "https://open.spotify.com/track/2iU7an5xjHihPBgMFXZjhR"
+    },
+    {
+      "album": {
+        "name": "[X X]",
         "url": "https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET"
       },
       "artists": [
@@ -1969,7 +2333,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 48658,
       "name": "X X",
       "url": "https://open.spotify.com/track/4TgYBLdExSoISFOfWLmBOh"
@@ -1987,10 +2351,28 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187703,
       "name": "You and Me Together",
       "url": "https://open.spotify.com/track/2yIcpjnvw0ihKxHqWNFIuz"
+    },
+    {
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187703,
+      "name": "You and Me Together",
+      "url": "https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv"
     },
     {
       "album": {

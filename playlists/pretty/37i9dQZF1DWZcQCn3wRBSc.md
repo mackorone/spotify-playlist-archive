@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZcQCn3wRBSc.md) - [plain]
 
 > everyone has left and it's just you and your love dancing in the living room
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,797 likes - 121 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,580 likes - 121 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,11 +123,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZcQCn3wRBSc.md) - [plain]
 | 113 | [Our Love Is Here To Stay](https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Imperious Dinah Washington](https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK) | 2:34 |
 | 114 | [Do Nothing Till You Hear From Me](https://open.spotify.com/track/2ElLhXcioohy3mX7oVF5e3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 7:42 |
 | 115 | [Time After Time](https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Great Ladies Of Song / Spotlight On Margaret Whiting](https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO) | 2:56 |
-| 116 | [Lazy](https://open.spotify.com/track/6NFdXjbL4KX7gVT6xINF3P) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [Deluxe: I Wanna Be Loved By You](https://open.spotify.com/album/0SH5DsuoVpQfEULF6NGFsa) | 3:33 |
+| 116 | [Lazy](https://open.spotify.com/track/6zgmftTQSNQPuU0UI98UVD) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [The Very Best Of Marilyn Monroe](https://open.spotify.com/album/3F8TaBY2U0Vy6VBqBfNjdz) | 3:38 |
 | 117 | [How Deep Is The Ocean \(How High Is The Sky\)](https://open.spotify.com/track/2gApkvnQjFPUtty97zZdq8) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Ella Fitzgerald Sings The Irving Berlin Song Book](https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj) | 3:11 |
 | 118 | [Spring Will Be A Little Late This Year](https://open.spotify.com/track/4P8apt1P3y4m7vQDJi2inx) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Easy Does It](https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR) | 3:01 |
-| 119 | [What Is There To Say](https://open.spotify.com/track/0WD1FrPUZVXk3S3QeTvhKl) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Complete Gus Wildi Recordings](https://open.spotify.com/album/3mglYkqFkapisfgT6NXNxH) | 2:50 |
+| 119 | [What Is There to Say](https://open.spotify.com/track/5iOc7ArRS1yRIbwkHAZYne) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:49 |
 | 120 | [Isn't It Romantic?](https://open.spotify.com/track/7tvtx2Byz8Sc3LyosuqpEA) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:02 |
 | 121 | [Willow Weep For Me](https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:06 |
 
-Snapshot ID: `MTY1NTQ3MTM2MiwwMDAwMDAwODAwMDAwMTgxNzFjODUzN2EwMDAwMDE3ZWRmMjczNjEx`
+Snapshot ID: `MTY1NTQ3MTM2MiwwMDAwMDAwMDNkYTMxMDRjYzUwYzlmMDcxYzE5MWMyMWMzYWRkMGU5`

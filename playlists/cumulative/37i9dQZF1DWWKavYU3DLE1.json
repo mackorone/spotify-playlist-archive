@@ -124,6 +124,28 @@
     },
     {
       "album": {
+        "name": "Seoul Vibe (Original Soundtrack from The Netflix Film)",
+        "url": "https://open.spotify.com/album/6uZBJUJZY1gkxBGxfksbHs"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177700,
+      "name": "CITY+++ (feat. Gaeko)",
+      "url": "https://open.spotify.com/track/1tLPWvrnepX6TK7RDPoWMa"
+    },
+    {
+      "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
       },
@@ -893,10 +915,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172714,
       "name": "\uac54 \uc138 I'm Him",
       "url": "https://open.spotify.com/track/3e2blQpgdH9pIrrGFI6SZw"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172714,
+      "name": "\uac54 \uc138 I'm Him",
+      "url": "https://open.spotify.com/track/7LvZFvfo7Vr5i84GZ44JGr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWKavYU3DLE1"

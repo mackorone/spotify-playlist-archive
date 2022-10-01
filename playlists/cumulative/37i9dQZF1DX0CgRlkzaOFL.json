@@ -8,7 +8,7 @@
   "tracks": [
     {
       "album": {
-        "name": "The Seven Deadly Sins (Original Soundtrack)",
+        "name": "\u4e03\u3064\u306e\u5927\u7f6a \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/4OHuwh9kd4b38gyrP5YMmP"
       },
       "artists": [
@@ -21,12 +21,48 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 291013,
-      "name": "7Tsuno: The1",
+      "name": "7\u89d2:the1",
       "url": "https://open.spotify.com/track/30LuuTndVmwmQr6q1JMlPm"
     },
     {
       "album": {
-        "name": "KILL LA KILL Complete Soundtrack",
+        "name": "The Wind Rises Soundtrack",
+        "url": "https://open.spotify.com/album/59U5FQ4kDEt11Q2UcFu1dK"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97480,
+      "name": "A Shooting Star",
+      "url": "https://open.spotify.com/track/1CKgi1N9crZUuWdyJE25ME"
+    },
+    {
+      "album": {
+        "name": "Kiki's Delivery Service Soundtrack Music Collection",
+        "url": "https://open.spotify.com/album/2NO5lYWs4aWpsmHOjF4JHk"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180333,
+      "name": "A Town with an Ocean View",
+      "url": "https://open.spotify.com/track/2ZJ28Rm7OXMYJshLtp5uff"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30eb\u30e9\u30ad\u30eb \u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7hhI5DK0xtKjkBmmHUlTg6"
       },
       "artists": [
@@ -39,7 +75,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203573,
-      "name": "Ad La Lib",
+      "name": "Ad\u30e9Lib",
       "url": "https://open.spotify.com/track/4AwCgFvlH58SmKbNWFKsWY"
     },
     {
@@ -156,6 +192,28 @@
     },
     {
       "album": {
+        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
+        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151480,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta"
+    },
+    {
+      "album": {
         "name": "Bach: Cello Suites Nos. 1, 5 & 6",
         "url": "https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg"
       },
@@ -171,10 +229,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152280,
       "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B"
+    },
+    {
+      "album": {
+        "name": "Wolf Children (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110720,
+      "name": "Circulation",
+      "url": "https://open.spotify.com/track/08cx2NSZT86HpYzkVLKoRd"
     },
     {
       "album": {
@@ -211,6 +287,24 @@
       "duration_ms": 142837,
       "name": "Faces in the Rain",
       "url": "https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF"
+    },
+    {
+      "album": {
+        "name": "The Boy and The Beast (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173480,
+      "name": "Free The Wind",
+      "url": "https://open.spotify.com/track/0r3cg5Co9bAsNgLqcKVMlr"
     },
     {
       "album": {
@@ -254,7 +348,7 @@
     },
     {
       "album": {
-        "name": "Blue Exorcist (Original Soundtrack II)",
+        "name": "\u9752\u306e\u7953\u9b54\u5e2b \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af II",
         "url": "https://open.spotify.com/album/0y3XZ3R8MsOQGx16H1wsuz"
       },
       "artists": [
@@ -267,7 +361,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252760,
-      "name": "Iimuroya-$.feat 3Rd-Mov.:Heiw@ kizun@",
+      "name": "IiMuRoYa-$.feat 3rd-Mov.:HEiW@\u2192KiZUN@",
       "url": "https://open.spotify.com/track/59owDR67uubyLwhXNEtQ2k"
     },
     {
@@ -356,6 +450,24 @@
     },
     {
       "album": {
+        "name": "A Shape of Light \"A Silent Voice the Movie\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WlmFFtmePwfhN9pQdVJ5v"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134786,
+      "name": "lit(var)",
+      "url": "https://open.spotify.com/track/6bTCdqB1PN5J93hiiZvQzW"
+    },
+    {
+      "album": {
         "name": "\u6620\u753b \u8072\u306e\u5f62 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af a shape of light\u3010\u5f62\u614bA\u3011",
         "url": "https://open.spotify.com/album/7ESzwDgNKNk8qJtbOAmX3Y"
       },
@@ -367,28 +479,32 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134786,
       "name": "lit(var)",
       "url": "https://open.spotify.com/track/7mZ5nhoyb6vcInY3AherBC"
     },
     {
       "album": {
-        "name": "Eiga \"Liz und ein Blauer Vogel\" Original Soundtrack: girls,dance,staircase",
-        "url": "https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE"
+        "name": "MOBILE SUIT GUNDAM SEED Symphony SEED",
+        "url": "https://open.spotify.com/album/32NnCOfYPQyrA7OJjIviJI"
       },
       "artists": [
         {
-          "name": "\u5317\u5b87\u6cbb\u9ad8\u6821\u5439\u594f\u697d\u90e8",
-          "url": "https://open.spotify.com/artist/2KcsOu1hIobMNRXYFun6tF"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Toshihiko Sahashi",
+          "url": "https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8"
         }
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 387370,
-      "name": "Liz und ein Blauer Vogel The third movement \"Ai yue no Ketsudan\"",
-      "url": "https://open.spotify.com/track/04XhdVM3q2qPusWPEmg95c"
+      "duration_ms": 215800,
+      "name": "Memory (4th Movement: Itsukushimi no Senritsu no Kanata)",
+      "url": "https://open.spotify.com/track/4MGDnDRcBEsqi2k7AFxVuJ"
     },
     {
       "album": {
@@ -407,7 +523,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215800,
       "name": "Memory \u7b2c\u56db\u7ae0 \u611b\u3057\u307f\u306e\u65cb\u5f8b\u306e\u5f7c\u65b9",
       "url": "https://open.spotify.com/track/7vitKfxtaSngoUbReATDAL"
@@ -432,6 +548,64 @@
     },
     {
       "album": {
+        "name": "Spirited Away Soundtrack",
+        "url": "https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "One Summer Day",
+      "url": "https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu"
+    },
+    {
+      "album": {
+        "name": "MOBILE SUIT GUNDAM SEED Symphony SEED",
+        "url": "https://open.spotify.com/album/32NnCOfYPQyrA7OJjIviJI"
+      },
+      "artists": [
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Toshihiko Sahashi",
+          "url": "https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327973,
+      "name": "Opening (1st Movement: Aoki Umi ni Midare no Yokan)",
+      "url": "https://open.spotify.com/track/4TuLDhvuhQsbmqfRIn1L5w"
+    },
+    {
+      "album": {
+        "name": "Howl's Moving Castle Soundtrack",
+        "url": "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153573,
+      "name": "Opening Song - Merry-Go-Round of Life",
+      "url": "https://open.spotify.com/track/3cIKojC2JBVIno9b35MJWn"
+    },
+    {
+      "album": {
         "name": "\u4ea4\u97ff\u7d44\u66f2 \u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED",
         "url": "https://open.spotify.com/album/7LFAMQXx94kCFdROyCB3Kr"
       },
@@ -447,7 +621,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 327973,
       "name": "Opening \u7b2c\u4e00\u7ae0 \u84bc\u304d\u6d77\u306b\u4e71\u308c\u306e\u4e88\u611f",
       "url": "https://open.spotify.com/track/7KGiLVAaBCz4Vjiz31Et5N"
@@ -472,7 +646,7 @@
     },
     {
       "album": {
-        "name": "The Seven Deadly Sins (Original Soundtrack) 2",
+        "name": "\u4e03\u3064\u306e\u5927\u7f6a \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
         "url": "https://open.spotify.com/album/67H16vW2PEzBo2ZrTkWVHz"
       },
       "artists": [
@@ -489,7 +663,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 132360,
-      "name": "Pfad-10 :Zai",
+      "name": "pfAD-10:\u7f6a",
       "url": "https://open.spotify.com/track/3a3yOY5NhZV9msnSMC1T5e"
     },
     {
@@ -509,10 +683,32 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 758613,
       "name": "Piano Sonata No. 16 in A Minor, D. 845: I. Moderato",
       "url": "https://open.spotify.com/track/00tZj5a6Yv5fXTZUQJyiPb"
+    },
+    {
+      "album": {
+        "name": "Schubert",
+        "url": "https://open.spotify.com/album/1krbiT1gkPdIzn1pSscOye"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Maria Jo\u00e3o Pires",
+          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 758613,
+      "name": "Piano Sonata No. 16 in A Minor, D. 845: I. Moderato",
+      "url": "https://open.spotify.com/track/69wjQMavWgK3aCEeVU5BwL"
     },
     {
       "album": {
@@ -531,24 +727,6 @@
       "duration_ms": 165899,
       "name": "piece by ten",
       "url": "https://open.spotify.com/track/50R5pS4Ptd7tioFFaqo9F6"
-    },
-    {
-      "album": {
-        "name": "Ranking of Kings Original Soundtrack",
-        "url": "https://open.spotify.com/album/5uQAOc824R8ukjh6T1H4R6"
-      },
-      "artists": [
-        {
-          "name": "MAYUKO",
-          "url": "https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL"
-        }
-      ],
-      "date_added": "2022-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 126133,
-      "name": "Ranking of Kings -Main Theme-",
-      "url": "https://open.spotify.com/track/1FrE0MDUawjQGqV4rTeOUj"
     },
     {
       "album": {
@@ -582,6 +760,24 @@
     },
     {
       "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179920,
+      "name": "Rei-Opus V",
+      "url": "https://open.spotify.com/track/4qTEtgqsduWNmXPvMsfwMS"
+    },
+    {
+      "album": {
         "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
         "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
       },
@@ -593,7 +789,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179920,
       "name": "Rei-Opus \u2164 (EMA01)",
       "url": "https://open.spotify.com/track/69bGff6rYUHT6Fzodw6wpV"
@@ -662,24 +858,6 @@
     },
     {
       "album": {
-        "name": "Nodame Cantabile Special BEST!",
-        "url": "https://open.spotify.com/album/7tHoaRyQsXpbW2b1gi82Fd"
-      },
-      "artists": [
-        {
-          "name": "\u306e\u3060\u3081\u30ab\u30f3\u30bf\u30fc\u30d3\u30ec",
-          "url": "https://open.spotify.com/artist/6nWWsbt4NZhcUKinYxZ8PN"
-        }
-      ],
-      "date_added": "2022-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 440506,
-      "name": "Symphony No. 7 1st. to 4th. Movement in A Major Op. 92 - Drama edit",
-      "url": "https://open.spotify.com/track/5MZl6mbsB0GRMnxuNJIyfx"
-    },
-    {
-      "album": {
         "name": "Princess Mononoke Soundtrack",
         "url": "https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p"
       },
@@ -731,10 +909,32 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149187,
       "name": "Very little wishes",
       "url": "https://open.spotify.com/track/0dRub80H2d4W7FtuhBS2Qo"
+    },
+    {
+      "album": {
+        "name": "MACROSS PLUS ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/13vrWwIfBEpGPJOfqfjNk8"
+      },
+      "artists": [
+        {
+          "name": "MEMBERS OF ISRAEL",
+          "url": "https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO"
+        },
+        {
+          "name": "Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149187,
+      "name": "Very little wishes",
+      "url": "https://open.spotify.com/track/0sy481jsaYC1fNqGWgKTM2"
     },
     {
       "album": {
@@ -767,7 +967,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189800,
       "name": "\u3042\u306e\u590f\u3078",
       "url": "https://open.spotify.com/track/6RxsExIM2y163Iy1Qst36S"
@@ -803,7 +1003,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 110733,
       "name": "\u3081\u3050\u308a",
       "url": "https://open.spotify.com/track/66Tay60xv3SRYCzjwwDFf7"
@@ -821,10 +1021,36 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 115440,
       "name": "\u30ab\u3099\u30fc\u30b7\u30e5\u30a4\u30f3:\u30e9\u30d5\u309a\u30bd\u30c6\u3099\u30a3\u30fb\u30a4\u30f3\u30fb\u30d5\u3099\u30eb\u30fc \u30c8\u3099\u30e9\u30de\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099\u30ed\u30f3\u30af\u3099\u30a6\u3099\u30a1\u30fc\u30b7\u3099\u30e7\u30f3",
       "url": "https://open.spotify.com/track/0xcemfCcLJt8eftaOXtYI6"
+    },
+    {
+      "album": {
+        "name": "\u306e\u3060\u3081\u30ab\u30f3\u30bf\u30fc\u30d3\u30ec \u30b9\u30da\u30b7\u30e3\u30eb BEST!",
+        "url": "https://open.spotify.com/album/7tHoaRyQsXpbW2b1gi82Fd"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "\u306e\u3060\u3081\u30ab\u30f3\u30bf\u30fc\u30d3\u30ec",
+          "url": "https://open.spotify.com/artist/6nWWsbt4NZhcUKinYxZ8PN"
+        },
+        {
+          "name": "Toshiaki Umeda",
+          "url": "https://open.spotify.com/artist/2EbzA6PvoBEiyjAcqhfKqQ"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115440,
+      "name": "\u30ac\u30fc\u30b7\u30e5\u30a4\u30f3:\u30e9\u30d7\u30bd\u30c7\u30a3\u30fb\u30a4\u30f3\u30fb\u30d6\u30eb\u30fc \u30c9\u30e9\u30de\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30ed\u30f3\u30b0\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5b5xUPu8Pdj1r8fFnZHMRU"
     },
     {
       "album": {
@@ -846,6 +1072,50 @@
     },
     {
       "album": {
+        "name": "\u306e\u3060\u3081\u30ab\u30f3\u30bf\u30fc\u30d3\u30ec \u30b9\u30da\u30b7\u30e3\u30eb BEST!",
+        "url": "https://open.spotify.com/album/7tHoaRyQsXpbW2b1gi82Fd"
+      },
+      "artists": [
+        {
+          "name": "\u306e\u3060\u3081\u30ab\u30f3\u30bf\u30fc\u30d3\u30ec",
+          "url": "https://open.spotify.com/artist/6nWWsbt4NZhcUKinYxZ8PN"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 440506,
+      "name": "\u30d8\u3099\u30fc\u30c8\u30fc\u30a6\u3099\u30a7\u30f3:\u4ea4\u97ff\u66f2\u7b2c7\u756a\u30a4\u9577\u8abf\u4f5c\u54c192\u3088\u308a \u7b2c1\u697d\u7ae0\u30fb\u7b2c4\u697d\u7ae0 \u30c8\u3099\u30e9\u30de\u30a8\u30c6\u3099\u30a3\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/5MZl6mbsB0GRMnxuNJIyfx"
+    },
+    {
+      "album": {
+        "name": "Best Classic Royal",
+        "url": "https://open.spotify.com/album/61DaPuIXkng3zY9OvVRxZw"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "\u306e\u3060\u3081\u30ab\u30f3\u30bf\u30fc\u30d3\u30ec",
+          "url": "https://open.spotify.com/artist/6nWWsbt4NZhcUKinYxZ8PN"
+        },
+        {
+          "name": "Toshiaki Umeda",
+          "url": "https://open.spotify.com/artist/2EbzA6PvoBEiyjAcqhfKqQ"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440546,
+      "name": "\u30d9\u30fc\u30c8\u30fc\u30f4\u30a7\u30f3:\u4ea4\u97ff\u66f2\u7b2c7\u756a\u30a4\u9577\u8abf\u4f5c\u54c192\u3088\u308a \u7b2c1\u697d\u7ae0\u30fb\u7b2c4\u697d\u7ae0 \u30c9\u30e9\u30de\u30a8\u30c7\u30a3\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/3SgWoIHhVPtTdPNyXjEtYD"
+    },
+    {
+      "album": {
         "name": "WOLF'S RAIN",
         "url": "https://open.spotify.com/album/6x1nU2XGUsJKANdgJ4W1Q9"
       },
@@ -864,6 +1134,24 @@
     },
     {
       "album": {
+        "name": "\u6620\u753b\u300e\u30ea\u30ba\u3068\u9752\u3044\u9ce5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cgirls,dance,staircase\u300d",
+        "url": "https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u5b87\u6cbb\u9ad8\u6821\u5439\u594f\u697d\u90e8",
+          "url": "https://open.spotify.com/artist/2KcsOu1hIobMNRXYFun6tF"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387370,
+      "name": "\u30ea\u30ba\u3068\u9752\u3044\u9ce5 \u7b2c\u4e09\u697d\u7ae0\u300c\u611b\u3086\u3048\u306e\u6c7a\u65ad\u300d",
+      "url": "https://open.spotify.com/track/04XhdVM3q2qPusWPEmg95c"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF"
       },
@@ -875,7 +1163,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153560,
       "name": "\u4eba\u751f\u306e\u30e1\u30ea\u30fc\u30b3\u3099\u30fc\u30e9\u30f3\u30c8\u3099-\u30aa\u30fc\u30d5\u309a\u30cb\u30f3\u30af\u3099-",
       "url": "https://open.spotify.com/track/6pIirGODmVMu57AlyzXC2R"
@@ -911,7 +1199,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 97480,
       "name": "\u6d41\u308c\u661f",
       "url": "https://open.spotify.com/track/0W7i2mlLUM3SdVa8urLt8e"
@@ -929,10 +1217,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180333,
       "name": "\u6d77\u306e\u898b\u3048\u308b\u8857",
       "url": "https://open.spotify.com/track/15X1ksqhe8cY1NlEZMl7X8"
+    },
+    {
+      "album": {
+        "name": "\u738b\u69d8\u30e9\u30f3\u30ad\u30f3\u30b0 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5uQAOc824R8ukjh6T1H4R6"
+      },
+      "artists": [
+        {
+          "name": "MAYUKO",
+          "url": "https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126133,
+      "name": "\u738b\u69d8\u30e9\u30f3\u30ad\u30f3\u30b0 -\u30e1\u30a4\u30f3\u30c6\u30fc\u30de-",
+      "url": "https://open.spotify.com/track/1FrE0MDUawjQGqV4rTeOUj"
     },
     {
       "album": {
@@ -983,7 +1289,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173480,
       "name": "\u98a8\u306f\u98db\u3093\u3060",
       "url": "https://open.spotify.com/track/4tR8zDf56C8S4Mp8tTVTIj"

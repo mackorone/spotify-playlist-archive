@@ -1,13 +1,29 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Taj Mahal",
-  "num_followers": 669624,
+  "num_followers": 667994,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDA1NDAwMDAwMTgxNmZkMzJmNTIwMDAwMDE3ZWZmNzI0ODU5",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDQ0YTRmZjUwOTQ2ZWUyOTJjY2E3OTM5ZTdjYjA4ODFk",
   "tracks": [
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Rank Strangers",
+      "url": "https://open.spotify.com/track/75E8SwuE43G0bj3kHZlIts"
+    },
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
@@ -31,6 +47,38 @@
       "duration_ms": 272000,
       "name": "Running Through High Water",
       "url": "https://open.spotify.com/track/0D4hafcSvGv5r9h2WWJaaS"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 176001,
+      "name": "The Dolls Are Sleeping",
+      "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Banty Rooster Blues",
+        "url": "https://open.spotify.com/album/3XLhfpwOjTnPqRLg9AiNMA"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Peyton's Big Damn Band",
+          "url": "https://open.spotify.com/artist/6Ec85Uubz3lO7BIEvcBfZK"
+        }
+      ],
+      "duration_ms": 246511,
+      "name": "Banty Rooster Blues",
+      "url": "https://open.spotify.com/track/4qTmr1QcPZNzj06rf0GA92"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -67,6 +115,22 @@
       "duration_ms": 154226,
       "name": "Other Side of Goodbye",
       "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "stripped back (deluxe) [Stripped Back]",
+        "url": "https://open.spotify.com/album/4HyyliTxijDyPMKcQt5AWS"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "in three years' time - Stripped Back",
+      "url": "https://open.spotify.com/track/3Vr5sIoub3YGiXWsZvnlmQ"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -215,8 +279,8 @@
     {
       "added_at": "2021-09-10 04:02:00",
       "album": {
-        "name": "Heavy Load",
-        "url": "https://open.spotify.com/album/5KvAYLiVGfNVZUBdGVWNs1"
+        "name": "Heavy Load Blues",
+        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
       },
       "artists": [
         {
@@ -226,13 +290,13 @@
       ],
       "duration_ms": 438840,
       "name": "Heavy Load",
-      "url": "https://open.spotify.com/track/10zwPTX4CiU3axwgy4LcXW"
+      "url": "https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2"
     },
     {
       "added_at": "2021-05-21 04:01:00",
       "album": {
-        "name": "The World Can Be So Cold",
-        "url": "https://open.spotify.com/album/7kE0bDyvEtUN1HLK6aHRwC"
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
       "artists": [
         {
@@ -242,7 +306,7 @@
       ],
       "duration_ms": 206040,
       "name": "The World Can Be So Cold",
-      "url": "https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG"
+      "url": "https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd"
     },
     {
       "added_at": "2021-02-05 05:01:00",
@@ -415,8 +479,8 @@
     {
       "added_at": "2021-07-30 04:01:00",
       "album": {
-        "name": "Lost & Lonesome",
-        "url": "https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv"
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
       },
       "artists": [
         {
@@ -426,7 +490,7 @@
       ],
       "duration_ms": 222853,
       "name": "Lost & Lonesome",
-      "url": "https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX"
+      "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
     },
     {
       "added_at": "2020-11-27 05:01:00",
@@ -463,8 +527,8 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Should've Learnt My Lesson (Deuce Session / Alternative Acoustic Take / 1971)",
-        "url": "https://open.spotify.com/album/75AvgyhRwWC33BhWwPKkNd"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
       },
       "artists": [
         {
@@ -473,8 +537,8 @@
         }
       ],
       "duration_ms": 184360,
-      "name": "Should've Learnt My Lesson - Deuce Session / Alternative Acoustic Take / 1971",
-      "url": "https://open.spotify.com/track/3FXuf8Xy906gEYERZMHlsG"
+      "name": "Should've Learnt My Lesson - Deuce Album Session / Alternative Acoustic Take / 1971",
+      "url": "https://open.spotify.com/track/3TLHIqYpEdtjivr3IN1dMB"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -512,7 +576,7 @@
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Live at Brighton Road",
-        "url": "https://open.spotify.com/album/4rATgGVN4pPWsmDOFMGywb"
+        "url": "https://open.spotify.com/album/35HfrF3OsVgByxsWYalUmC"
       },
       "artists": [
         {
@@ -522,7 +586,7 @@
       ],
       "duration_ms": 220226,
       "name": "Bumble Bee (Live)",
-      "url": "https://open.spotify.com/track/4eSv18SwAXoQJF6tPqFIyw"
+      "url": "https://open.spotify.com/track/4iS4vGzh365Wg0KutUiWoy"
     },
     {
       "added_at": "2021-02-05 05:01:00",
@@ -559,8 +623,8 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Free Man/Quarter On The Ground",
-        "url": "https://open.spotify.com/album/0qzSJZMuzzsPC6zQUVSx5g"
+        "name": "Halfway Home By Morning",
+        "url": "https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e"
       },
       "artists": [
         {
@@ -569,8 +633,8 @@
         }
       ],
       "duration_ms": 216453,
-      "name": "Quarter On The Ground ( A Song For Uncle Joe)",
-      "url": "https://open.spotify.com/track/6qDDv9vMjxxmhc4Jqh8nbL"
+      "name": "Quarter on the Ground (A Song for Uncle Joe)",
+      "url": "https://open.spotify.com/track/3sqmtKa1JwnAxLJFkmOQIf"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -611,22 +675,18 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble 3.0",
-        "url": "https://open.spotify.com/album/44gP7lSICNoSqTSCDyScnA"
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
       },
       "artists": [
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        },
-        {
-          "name": "Double Trouble",
-          "url": "https://open.spotify.com/artist/05m9VGwNd8glcJ2o5UN8H3"
         }
       ],
-      "duration_ms": 147200,
-      "name": "Life By The Drop",
-      "url": "https://open.spotify.com/track/4KENBGgFQIxliSjJGb8FYa"
+      "duration_ms": 147506,
+      "name": "Life by the Drop",
+      "url": "https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -648,7 +708,7 @@
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Blue Highways",
-        "url": "https://open.spotify.com/album/5IzvgXy4fmGzgxkfVS2tul"
+        "url": "https://open.spotify.com/album/6mzGzBApcOc4JDzzFZTljw"
       },
       "artists": [
         {
@@ -658,7 +718,7 @@
       ],
       "duration_ms": 177366,
       "name": "Riding In the Moonlight / Mr. Luck",
-      "url": "https://open.spotify.com/track/1mkxMjrjzzXU9mg4S375Zo"
+      "url": "https://open.spotify.com/track/1rmpguQGqC1YWy9i99YIQC"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -767,8 +827,8 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Booker\u2019s Guitar",
-        "url": "https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr"
+        "name": "Booker's Guitar",
+        "url": "https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG"
       },
       "artists": [
         {
@@ -778,7 +838,7 @@
       ],
       "duration_ms": 221120,
       "name": "With My Maker I Am One",
-      "url": "https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY"
+      "url": "https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -799,8 +859,8 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Solo Recordings Volume 3",
-        "url": "https://open.spotify.com/album/5c7E6QImmtlRXTsbU4dQWC"
+        "name": "Solo Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k"
       },
       "artists": [
         {
@@ -810,13 +870,13 @@
       ],
       "duration_ms": 297880,
       "name": "Going Down the Road Feeling Bad",
-      "url": "https://open.spotify.com/track/70NvafQPgdytXWUe2Yvw1W"
+      "url": "https://open.spotify.com/track/0GKIy4nMb4mclMsgsSoAsw"
     },
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Sonic Soul Surfer",
-        "url": "https://open.spotify.com/album/5IIMQ2MbC7iblV4hdMwZD4"
+        "name": "Sonic Soul Surfer (Deluxe)",
+        "url": "https://open.spotify.com/album/45x5hEhdNvtx94NDAYrLEy"
       },
       "artists": [
         {
@@ -826,7 +886,7 @@
       ],
       "duration_ms": 448986,
       "name": "Don't Ask Me (Bonus Track)",
-      "url": "https://open.spotify.com/track/5lvg4sQSRNgr3MND6SoEWR"
+      "url": "https://open.spotify.com/track/6K90dTF2qbjHOMpPJ9dH3A"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -900,7 +960,7 @@
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Head Bent",
-        "url": "https://open.spotify.com/album/2rSZBqwYTxFHA9yXxxdXxs"
+        "url": "https://open.spotify.com/album/4VXrAdqkFnz2qNJGO0wmKL"
       },
       "artists": [
         {
@@ -910,7 +970,7 @@
       ],
       "duration_ms": 265360,
       "name": "Break My Fall",
-      "url": "https://open.spotify.com/track/7FSeN06d370hAEdv7hCqcU"
+      "url": "https://open.spotify.com/track/6KbHosVLv94wZG6lhZdAp9"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -963,8 +1023,8 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Passionate Blues",
-        "url": "https://open.spotify.com/album/7gmDAUOzdSNJf0x8HEhRFh"
+        "name": "Alabama Blues!",
+        "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
       },
       "artists": [
         {
@@ -974,7 +1034,7 @@
       ],
       "duration_ms": 194373,
       "name": "Alabama Blues",
-      "url": "https://open.spotify.com/track/4ghvDvK0tWXLfvG4znwpAe"
+      "url": "https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -995,8 +1055,8 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Bad Guy Necessity (acoustic)",
-        "url": "https://open.spotify.com/album/08aRguL8EvjUpy2oPH6Pqe"
+        "name": "Please Don't Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/76BB70ASc22gc7NcRTGSQl"
       },
       "artists": [
         {
@@ -1006,7 +1066,7 @@
       ],
       "duration_ms": 237143,
       "name": "Bad Guy Necessity - Acoustic",
-      "url": "https://open.spotify.com/track/08qYcblROPJzWHOhMFqSt2"
+      "url": "https://open.spotify.com/track/4VthU2Re0xqGF0qt6XHPMD"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -1023,22 +1083,6 @@
       "duration_ms": 236813,
       "name": "No Expectations",
       "url": "https://open.spotify.com/track/4wWnFmXuoFhSAu5UukxTjs"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "Neckbone Stew",
-        "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Wilson",
-          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Cross Creek Road",
-      "url": "https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -1091,8 +1135,8 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Living Country Blues USA Vol. 1",
-        "url": "https://open.spotify.com/album/1wdmrcveHQIDxQ07VcOjok"
+        "name": "Living Country Blues USA, Vol. 1",
+        "url": "https://open.spotify.com/album/7qQbThSdEViT0axddA7qEp"
       },
       "artists": [
         {
@@ -1106,7 +1150,7 @@
       ],
       "duration_ms": 191666,
       "name": "Guitar & Harmonica Rag",
-      "url": "https://open.spotify.com/track/093EX8opuhjCfFzrGOwXwj"
+      "url": "https://open.spotify.com/track/6DBVUOcItyqkuBkSwNelOX"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -1159,8 +1203,8 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Blowin' Harp Blues",
-        "url": "https://open.spotify.com/album/1M0V9j5iTvdNT2hNGq5utx"
+        "name": "Deep In The Blues",
+        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
       },
       "artists": [
         {
@@ -1170,7 +1214,7 @@
       ],
       "duration_ms": 219000,
       "name": "Play With Your Poodle",
-      "url": "https://open.spotify.com/track/2Q7j9wJk8DomZhKckPeHdy"
+      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -1192,7 +1236,7 @@
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Blues for the Modern Daze",
-        "url": "https://open.spotify.com/album/6Hc2RIipiqxuxYD1C7DdAZ"
+        "url": "https://open.spotify.com/album/7F73Pr637O5lVlXUsPgUFJ"
       },
       "artists": [
         {
@@ -1202,7 +1246,7 @@
       ],
       "duration_ms": 194013,
       "name": "Pray For Rain",
-      "url": "https://open.spotify.com/track/6TTV5D4GL999sZZgDSHLQU"
+      "url": "https://open.spotify.com/track/1lE2aVjpBPUcDO1XlmD0yu"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -1272,7 +1316,7 @@
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Global Griot",
-        "url": "https://open.spotify.com/album/0b8jmTwNddvlh7RBTKTvPn"
+        "url": "https://open.spotify.com/album/2GraWMDrJYtWr4VbOGKwT3"
       },
       "artists": [
         {
@@ -1282,7 +1326,7 @@
       ],
       "duration_ms": 151403,
       "name": "Brazos River Blues",
-      "url": "https://open.spotify.com/track/6lWbufKOd1mQYdhSYEL3vE"
+      "url": "https://open.spotify.com/track/0mhROANTkoXNVe3fF5DDPi"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -1303,8 +1347,8 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Harlem Street Singer (Remastered)",
-        "url": "https://open.spotify.com/album/4IwcZDJileSoKXbfQjyRFB"
+        "name": "Harlem Street Singer",
+        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
       },
       "artists": [
         {
@@ -1314,13 +1358,13 @@
       ],
       "duration_ms": 243600,
       "name": "Samson And Delilah",
-      "url": "https://open.spotify.com/track/3Z1uHWxTB4YF82VSaSyrDa"
+      "url": "https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV"
     },
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Simple Truths",
-        "url": "https://open.spotify.com/album/0njoBaMuox6zxRG9Is8WRF"
+        "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
       },
       "artists": [
         {
@@ -1330,29 +1374,29 @@
       ],
       "duration_ms": 280306,
       "name": "I'm So Lonely",
-      "url": "https://open.spotify.com/track/6BsaK0v4nm49vNd5ccHyRX"
+      "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
     },
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Miles To Go",
-        "url": "https://open.spotify.com/album/7J7wbpmJhixqKYETzJcsPb"
+        "url": "https://open.spotify.com/album/2qYDJzQe2Y0EoV2y4TpVDW"
       },
       "artists": [
         {
           "name": "Colin James",
-          "url": "https://open.spotify.com/artist/4RN8CfKJE14EhffVP5hPbC"
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
         }
       ],
       "duration_ms": 183311,
       "name": "See That My Grave Is Kept Clean",
-      "url": "https://open.spotify.com/track/3Cx3GZApS0HveX3oUqpXAl"
+      "url": "https://open.spotify.com/track/7vdcotQVRcTBwNiI4ZFNfz"
     },
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Gimme a Pigfoot and a Bottle of Beer",
-        "url": "https://open.spotify.com/album/63cFrmjsqyaUh97l64IBAG"
+        "name": "A Woman's Soul: A Tribute to Bessie Smith",
+        "url": "https://open.spotify.com/album/5mWTJnKmVMCGEO6ZTu7VLz"
       },
       "artists": [
         {
@@ -1362,13 +1406,13 @@
       ],
       "duration_ms": 226733,
       "name": "Gimme a Pigfoot and a Bottle of Beer",
-      "url": "https://open.spotify.com/track/6IXoRpgaFJEf8gSptfpFE6"
+      "url": "https://open.spotify.com/track/2Qdtq7tz7oNHHnvmQ1CSLa"
     },
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Migration Blues",
-        "url": "https://open.spotify.com/album/3GUjuuxc6SUovceRCUngc2"
+        "url": "https://open.spotify.com/album/6zGiiAgHy41gVLOkhub2at"
       },
       "artists": [
         {
@@ -1378,13 +1422,13 @@
       ],
       "duration_ms": 158066,
       "name": "Delta Getaway",
-      "url": "https://open.spotify.com/track/6puSbCX17EbrpJu0mIhUpw"
+      "url": "https://open.spotify.com/track/5suBKFfUnbSDujh14lmxT0"
     },
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Raw Sugar",
-        "url": "https://open.spotify.com/album/5yVHESZZNt3DcYtG1Obsfd"
+        "url": "https://open.spotify.com/album/28CI62akHTySi71hTfUTye"
       },
       "artists": [
         {
@@ -1402,13 +1446,13 @@
       ],
       "duration_ms": 201746,
       "name": "Oh Lord",
-      "url": "https://open.spotify.com/track/2flh4b34mwwNSAK39s64Yl"
+      "url": "https://open.spotify.com/track/3K0nUaDXL7ghUjNYtGyjTE"
     },
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Migration Blues",
-        "url": "https://open.spotify.com/album/3GUjuuxc6SUovceRCUngc2"
+        "url": "https://open.spotify.com/album/6zGiiAgHy41gVLOkhub2at"
       },
       "artists": [
         {
@@ -1418,7 +1462,7 @@
       ],
       "duration_ms": 186733,
       "name": "Refugee Moan",
-      "url": "https://open.spotify.com/track/519peDYoPxR11QfcNJajXW"
+      "url": "https://open.spotify.com/track/6sN9oWUODtTqbOKSIZ7K7d"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -1439,24 +1483,8 @@
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Avalon: A Tribute To Mississippi John Hurt",
-        "url": "https://open.spotify.com/album/0IvcKOjiGavyX0GDsPI68h"
-      },
-      "artists": [
-        {
-          "name": "Rory Block",
-          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
-        }
-      ],
-      "duration_ms": 282428,
-      "name": "Make Me A Pallet On Your Floor",
-      "url": "https://open.spotify.com/track/3HdPVdqcuD2Qt2QgNogHw7"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
         "name": "Kokomo Kidd",
-        "url": "https://open.spotify.com/album/5rCddIMaL73dmo0h2pKOmb"
+        "url": "https://open.spotify.com/album/3jS9ngQkhrfertgQCIqaLH"
       },
       "artists": [
         {
@@ -1464,9 +1492,9 @@
           "url": "https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW"
         }
       ],
-      "duration_ms": 180526,
+      "duration_ms": 180506,
       "name": "Maybe I'll Go",
-      "url": "https://open.spotify.com/track/1cYa4SUJNBvpimXnJ5Usyk"
+      "url": "https://open.spotify.com/track/0M3Ax4slidyDfv9Hq0rYQz"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -1488,23 +1516,27 @@
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Sticks and Stones",
-        "url": "https://open.spotify.com/album/4Q5SP0bw5Qz9Ory2DxXsif"
+        "url": "https://open.spotify.com/album/2dlPRyDPSkFzbEaHoGqkPt"
       },
       "artists": [
         {
           "name": "Eric Sardinas",
           "url": "https://open.spotify.com/artist/6ioaRkg9SnP8mC2NP7Z2rB"
+        },
+        {
+          "name": "Big Motor",
+          "url": "https://open.spotify.com/artist/13xEB2Ahsm3Gl6rFLKFqbA"
         }
       ],
       "duration_ms": 99960,
       "name": "Ratchet Blues",
-      "url": "https://open.spotify.com/track/53ctPcODtJvhxsdDQkumze"
+      "url": "https://open.spotify.com/track/0647hHN3O8D0OuOQFpfuuU"
     },
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Animals In The Dark",
-        "url": "https://open.spotify.com/album/3WjgDAPVhWl6cdc7q3EM1R"
+        "url": "https://open.spotify.com/album/5oD05jbDmF4rIENz7te94J"
       },
       "artists": [
         {
@@ -1514,13 +1546,13 @@
       ],
       "duration_ms": 269906,
       "name": "Johnny law",
-      "url": "https://open.spotify.com/track/4z9Je08Qpyfn6q7bbiqmW5"
+      "url": "https://open.spotify.com/track/50NxwJPlcjsT7IqFshyuYP"
     },
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Good Morning Little School Girl",
-        "url": "https://open.spotify.com/album/32oUg8gbTMLEZj4SoAFoXB"
+        "url": "https://open.spotify.com/album/3yYBnIVUvJrM6a0z8HNHOl"
       },
       "artists": [
         {
@@ -1530,7 +1562,7 @@
       ],
       "duration_ms": 201600,
       "name": "Good Morning Little Schoolgirl",
-      "url": "https://open.spotify.com/track/57WUir2snvdr1CakOsgtL7"
+      "url": "https://open.spotify.com/track/2LtpyfWWnr5V96l3Js7LLX"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -1552,7 +1584,7 @@
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Brother Sinner & The Whale",
-        "url": "https://open.spotify.com/album/49SYH9sbBqVVLhFP1XJW8O"
+        "url": "https://open.spotify.com/album/7BsEu3aR82GbSKxMhbGnUS"
       },
       "artists": [
         {
@@ -1562,13 +1594,13 @@
       ],
       "duration_ms": 276106,
       "name": "Talkin' To Jehova",
-      "url": "https://open.spotify.com/track/69gubiWawGe46tKg6DpIyG"
+      "url": "https://open.spotify.com/track/2htN0gyb1WiJliAq9LtDza"
     },
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
-        "name": "Solo Recordings Volume 3",
-        "url": "https://open.spotify.com/album/5c7E6QImmtlRXTsbU4dQWC"
+        "name": "Solo Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k"
       },
       "artists": [
         {
@@ -1578,7 +1610,7 @@
       ],
       "duration_ms": 206492,
       "name": "Slowly Slipping Away",
-      "url": "https://open.spotify.com/track/1O3uMuRCBc6E4RmhJGW5Jn"
+      "url": "https://open.spotify.com/track/2esnC3sEMqLfQvF4qaCJfA"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -1604,7 +1636,7 @@
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Between Midnight And Day",
-        "url": "https://open.spotify.com/album/5Ac9bCzeHTohN8KxBwDkzl"
+        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
       },
       "artists": [
         {
@@ -1614,13 +1646,13 @@
       ],
       "duration_ms": 174533,
       "name": "Keep Your Lamp Trimmed And Burning",
-      "url": "https://open.spotify.com/track/1iilSLhyTDanY7cCPwZ3tl"
+      "url": "https://open.spotify.com/track/5LTMzb6lrWkdgNl4CNwfwx"
     },
     {
       "added_at": "2020-08-11 16:18:31",
       "album": {
         "name": "Hundred Dollar Valentine",
-        "url": "https://open.spotify.com/album/15qeyD4UdDxtNCAQyWEb44"
+        "url": "https://open.spotify.com/album/1OsaTxNg63FgnAqMVvIcC7"
       },
       "artists": [
         {
@@ -1630,7 +1662,7 @@
       ],
       "duration_ms": 166240,
       "name": "What They Say",
-      "url": "https://open.spotify.com/track/6KbsA9kAmOcECPJeCy58XO"
+      "url": "https://open.spotify.com/track/24NvptbNKGs6sPy1Vh1O0v"
     },
     {
       "added_at": "2020-08-11 16:18:31",
@@ -1647,38 +1679,6 @@
       "duration_ms": 233933,
       "name": "Turtle Beach",
       "url": "https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "Stripped Down & Surrendered",
-        "url": "https://open.spotify.com/album/4Clnz845KVZqqINWEsVZ7y"
-      },
-      "artists": [
-        {
-          "name": "Cee Cee James",
-          "url": "https://open.spotify.com/artist/6Y21yqal00z7As840atRpD"
-        }
-      ],
-      "duration_ms": 347533,
-      "name": "So Grateful",
-      "url": "https://open.spotify.com/track/1U236FYzQEdMWn1hMM0gQn"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "Respect the Dead",
-        "url": "https://open.spotify.com/album/0ApfREM6XMT4MQpgme6ynU"
-      },
-      "artists": [
-        {
-          "name": "Otis Taylor",
-          "url": "https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Seven Hours Of Light",
-      "url": "https://open.spotify.com/track/1dsdV2Rjbc69aQKCWvUAjH"
     }
   ],
   "unique_name": "Acoustic Blues",

@@ -4,7 +4,7 @@
 
 > Jazz favorites from 2021\. Cover: Julius Rodriguez
 
-62 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/6vPgqB1nQAvAFN19KxQccP)
+64 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/6vPgqB1nQAvAFN19KxQccP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,10 @@
 | [Life on Earth](https://open.spotify.com/track/53ORetFnlRmTP6xPMQ7cuC) | [Joe Lovano & Dave Douglas Sound Prints](https://open.spotify.com/artist/3JEQNreu0UTiiayxUfE9fd), [Lawrence Fields](https://open.spotify.com/artist/6Gx8FEiq4GWxQibFuSzmeY), [Linda May Han Oh](https://open.spotify.com/artist/1TOuijxFR45Xc1702ki9VC), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Other Worlds](https://open.spotify.com/album/1OQ2G8VwRYQHv4fGaXMrXh) | 7:34 | 2021-12-01 |  |
 | [Lowlands of Sorrow](https://open.spotify.com/track/0TvUDHBbG3dQ8irtIT37XQ) | [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [Jesup Wagon](https://open.spotify.com/album/1DOad8ZQBcRnPyUs66SkGJ) | 7:02 | 2021-12-01 |  |
 | [Mars Blues](https://open.spotify.com/track/3Vw6jxsmxkwMgYwNSyGO0v) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Corydrums](https://open.spotify.com/artist/3LU0lAD1W7SbzLnzeYudtJ) | [The New Heritage](https://open.spotify.com/album/2wybYLaccS7y16e0bqr1zK) | 3:50 | 2021-12-01 |  |
-| [Morning Light](https://open.spotify.com/track/6mNsWIUeTuxOAlbVlNzam5) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Freedom Fables](https://open.spotify.com/album/7dGOyxCI4QXNFxHEpgD4jt) | 5:27 | 2021-12-01 |  |
-| [My Friend Of Misery](https://open.spotify.com/track/14A7YuFDIVykJBGXcipCpp) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [My Friend Of Misery](https://open.spotify.com/album/6f4xneECqUb0JELhNa3KzN) | 6:47 | 2021-12-01 |  |
+| [Morning Light](https://open.spotify.com/track/39dsqpRTcjZQExrzeQAiJV) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Freedom Fables](https://open.spotify.com/album/3HDaoy8TYaaLfKPKSVcsOq) | 5:27 | 2021-12-01 |  |
+| [Morning Light](https://open.spotify.com/track/6mNsWIUeTuxOAlbVlNzam5) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Freedom Fables](https://open.spotify.com/album/7dGOyxCI4QXNFxHEpgD4jt) | 5:27 | 2021-12-01 | 2022-07-29 |
+| [My Friend Of Misery](https://open.spotify.com/track/14A7YuFDIVykJBGXcipCpp) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [My Friend Of Misery](https://open.spotify.com/album/6f4xneECqUb0JELhNa3KzN) | 6:47 | 2021-12-01 | 2022-07-29 |
+| [My Friend of Misery](https://open.spotify.com/track/4VgstGQR0BW7wamAFNEz6A) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [My Friend of Misery](https://open.spotify.com/album/0v08kiSBOOoy59PZOIscFW) | 6:47 | 2021-12-01 |  |
 | [Nascentia Suite: All Up in It \(feat\. Jeremy Pelt & Clark Gayton\)](https://open.spotify.com/track/4HgeqSM6txLTsaneFrfDNU) | [Steve Slagle](https://open.spotify.com/artist/4VzhvQxwHNiqdCnUHZsprs), [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX), [Clark Gayton](https://open.spotify.com/artist/4pNVrj94ZiFangbDh50OlI) | [Nascentia Suite: All up in It \(feat\. Jeremy Pelt & Clark Gayton\)](https://open.spotify.com/album/7N21V8876vqUT8vmlD8SdL) | 8:14 | 2021-12-01 |  |
 | [Not So Modern Times](https://open.spotify.com/track/4AiRfllz5Lx7A6gy9H0ezT) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Not So Modern Times](https://open.spotify.com/album/1qkX8T3LTk8BBiSCNPvWLj) | 3:32 | 2021-12-01 |  |
 | [Ramblin'](https://open.spotify.com/track/2YUrvA3VeQouPmkzulbuBb) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Tone Poem](https://open.spotify.com/album/6Qo5COqwUoBomPPQsGx568) | 4:58 | 2021-12-01 |  |

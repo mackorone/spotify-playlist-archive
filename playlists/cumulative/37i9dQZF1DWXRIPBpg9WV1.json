@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/0dbFSSNCY13oNajXMZARfj"
+      },
+      "artists": [
+        {
+          "name": "Neve Baker",
+          "url": "https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143831,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/4uMvGP2jcSXLPvNZf5umsU"
+    },
+    {
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/3coti4dPLbCMnZJJE2SrvV"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 254000,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/7zASRqnZYlkU7hSTFGoACA"
@@ -59,6 +77,24 @@
       "duration_ms": 181167,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/56ICwlcXIKFoLg2CzbKwKF"
+    },
+    {
+      "album": {
+        "name": "All of me",
+        "url": "https://open.spotify.com/album/3YHjGSpj2bzB7256PhRlN1"
+      },
+      "artists": [
+        {
+          "name": "Skyler Hunt",
+          "url": "https://open.spotify.com/artist/0VkRky5og1A8kwViWuyeOl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132547,
+      "name": "All of me",
+      "url": "https://open.spotify.com/track/1YqEANBV7eYCAOooDgZgyu"
     },
     {
       "album": {
@@ -113,6 +149,24 @@
       "duration_ms": 195854,
       "name": "Baby Can I Hold You - Instrumental",
       "url": "https://open.spotify.com/track/0xDWWuPkhZ4ZBzN8rNGLyL"
+    },
+    {
+      "album": {
+        "name": "Baby I Love Your Way",
+        "url": "https://open.spotify.com/album/0mEG8pXr3z8bT7Nw1lNYPQ"
+      },
+      "artists": [
+        {
+          "name": "Felix Day",
+          "url": "https://open.spotify.com/artist/1nNLAz1wsnh8FfcdeBYWEF"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143490,
+      "name": "Baby I love your way",
+      "url": "https://open.spotify.com/track/5Yee4GWzUPwCPG6F2En5p6"
     },
     {
       "album": {
@@ -541,10 +595,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193125,
       "name": "Goodbye Yellow Brick Road",
       "url": "https://open.spotify.com/track/1by7FAjCJUlTCSSCb1NZPu"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road",
+        "url": "https://open.spotify.com/album/2ltdhm5JuSUm5L0DizaUwO"
+      },
+      "artists": [
+        {
+          "name": "Georg Erixon",
+          "url": "https://open.spotify.com/artist/2YohShuz0Lf4i09lImCR5r"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "Goodbye Yellow Brick Road",
+      "url": "https://open.spotify.com/track/4NyXOt1GM6PaSyg7kkPI9u"
     },
     {
       "album": {
@@ -563,6 +635,24 @@
       "duration_ms": 206053,
       "name": "Goodbye Yellow Brick Road",
       "url": "https://open.spotify.com/track/69yGmOlMXuVMBhmJipSA1r"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road",
+        "url": "https://open.spotify.com/album/2yOc7Gl15Vrdx7Ts4II89T"
+      },
+      "artists": [
+        {
+          "name": "Phillipe Goldman",
+          "url": "https://open.spotify.com/artist/2kSOIyf9QXEISbCLOgy7rW"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151286,
+      "name": "Goodbye Yellow Brick Road",
+      "url": "https://open.spotify.com/track/5KZqaISCbbATLV54SR9ztn"
     },
     {
       "album": {
@@ -617,6 +707,24 @@
       "duration_ms": 99296,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7yAhqUJ1LAkEdYnF8XxNN5"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/07XgGTzEYfa2YMAOZ6tU5a"
+      },
+      "artists": [
+        {
+          "name": "Noah Walsh",
+          "url": "https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203096,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/1d34TcAqhMCMCsS2KEZ22E"
     },
     {
       "album": {
@@ -901,10 +1009,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204426,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/3dXrQxEAeL5c0z8k3cLrtL"
+    },
+    {
+      "album": {
+        "name": "Guitar Pop Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy"
+      },
+      "artists": [
+        {
+          "name": "Edy Hafler",
+          "url": "https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204613,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/7iQMgK17jJNkaPzSWp1CgF"
     },
     {
       "album": {
@@ -991,7 +1117,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 278016,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/5OFd5vy1z9MlPkevJZszFI"
@@ -1085,6 +1211,24 @@
       "duration_ms": 206000,
       "name": "Perfect - Acoustic Guitar",
       "url": "https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1"
+    },
+    {
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/1b9Y5HENJ6zkmYNtrKsVms"
+      },
+      "artists": [
+        {
+          "name": "Anna Kitkowska",
+          "url": "https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170833,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/2L2QTOdjLXJ8sg0zF9JRa9"
     },
     {
       "album": {
@@ -1405,10 +1549,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211843,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1Papec9BTj4JFjMVYGfL2u"
+    },
+    {
+      "album": {
+        "name": "Guitar Pop Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/3vOxhVB13qQHb2IVv2wq6j"
+      },
+      "artists": [
+        {
+          "name": "Edy Hafler",
+          "url": "https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212031,
+      "name": "Time after Time",
+      "url": "https://open.spotify.com/track/7cuNUdSbrrFIiqejH4tbsI"
     },
     {
       "album": {
@@ -1427,6 +1589,24 @@
       "duration_ms": 244124,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/0lazFQfhuD9CDjkceTIj9E"
+    },
+    {
+      "album": {
+        "name": "Top Gun Anthem",
+        "url": "https://open.spotify.com/album/0EO7Sx80EQEl2ZfgKmM6sY"
+      },
+      "artists": [
+        {
+          "name": "Mario Cabrera",
+          "url": "https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179101,
+      "name": "Top Gun Anthem",
+      "url": "https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp"
     },
     {
       "album": {
@@ -1665,6 +1845,24 @@
       "duration_ms": 234083,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/0ZSFjbcjmMccbJbWouNRxR"
+    },
+    {
+      "album": {
+        "name": "You\u00b4ll Be In My heart",
+        "url": "https://open.spotify.com/album/36q4eAeAtx39HyVxBwONzU"
+      },
+      "artists": [
+        {
+          "name": "Larry Eagler",
+          "url": "https://open.spotify.com/artist/6BAFOyxrRfvSvjpcNxp3rs"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240781,
+      "name": "You\u00b4ll Be In My heart",
+      "url": "https://open.spotify.com/track/0SV5qCggYI52A7xPVNUeD5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXRIPBpg9WV1"

@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2019-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc"
+    },
+    {
+      "album": {
         "name": "The Very Best Of Michael Jackson With The Jackson 5",
         "url": "https://open.spotify.com/album/119TC8Ww6LYJm8uarhzvgQ"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2019-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179973,
       "name": "ABC",
       "url": "https://open.spotify.com/track/6nzhhT57iQYrbqumru9NNP"
@@ -98,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260186,
+      "name": "Baby Be Mine",
+      "url": "https://open.spotify.com/track/3bMveJpCPytU79V5A61Bb7"
+    },
+    {
+      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -145,10 +181,28 @@
       ],
       "date_added": "2019-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166240,
       "name": "Ben - Single Version",
       "url": "https://open.spotify.com/track/2x1sYWAXomiTwWWwd6yQPb"
+    },
+    {
+      "album": {
+        "name": "Ben",
+        "url": "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2019-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167386,
+      "name": "Ben - Single Version",
+      "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
     },
     {
       "album": {
@@ -260,6 +314,24 @@
     },
     {
       "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245506,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
+    },
+    {
+      "album": {
         "name": "Dancing Machine",
         "url": "https://open.spotify.com/album/4oq9Qnp8xopMsypgLGbJ7G"
       },
@@ -350,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313200,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/2JzcEEYul9ngmGGPzvFVNL"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
@@ -437,10 +527,32 @@
       ],
       "date_added": "2019-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212226,
       "name": "Hold My Hand (with Akon)",
       "url": "https://open.spotify.com/track/0pCyoA5o2uxUwIovECCziF"
+    },
+    {
+      "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2019-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-04",
+      "duration_ms": 212226,
+      "name": "Hold My Hand (with Akon)",
+      "url": "https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb"
     },
     {
       "album": {
@@ -520,6 +632,24 @@
     },
     {
       "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2019-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "album": {
         "name": "The Very Best Of Michael Jackson With The Jackson 5",
         "url": "https://open.spotify.com/album/119TC8Ww6LYJm8uarhzvgQ"
       },
@@ -531,7 +661,7 @@
       ],
       "date_added": "2019-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181026,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/5YhcTlesFVSpTgXXnUBkiU"
@@ -571,6 +701,24 @@
       "duration_ms": 390573,
       "name": "In the Closet",
       "url": "https://open.spotify.com/track/5Fy40smNxk0j5OpFMtvfaU"
+    },
+    {
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227866,
+      "name": "It's the Falling in Love",
+      "url": "https://open.spotify.com/track/0CeE7kE8zAnfKIVpdmOaJl"
     },
     {
       "album": {
@@ -805,10 +953,28 @@
       ],
       "date_added": "2019-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152826,
       "name": "Rockin' Robin",
       "url": "https://open.spotify.com/track/5EcNgf6BlaBpHuEGEyqJgj"
+    },
+    {
+      "album": {
+        "name": "Got To Be There",
+        "url": "https://open.spotify.com/album/0F4XW0iBOhNFkbn1BuQ8cu"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2019-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154840,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/63gcHyuhAC8G2C0bVQUOJI"
     },
     {
       "album": {
@@ -899,10 +1065,28 @@
       ],
       "date_added": "2019-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237760,
       "name": "Somebody's Watching Me - Single Version",
       "url": "https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA"
+    },
+    {
+      "album": {
+        "name": "Hitsville USA, The Motown Collection 1972-1992",
+        "url": "https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2019-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238773,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv"
     },
     {
       "album": {
@@ -964,6 +1148,24 @@
     },
     {
       "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2019-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "The Love You Save",
+      "url": "https://open.spotify.com/track/2dYdai0GywuwYq6blSwDBV"
+    },
+    {
+      "album": {
         "name": "The Very Best Of Michael Jackson With The Jackson 5",
         "url": "https://open.spotify.com/album/119TC8Ww6LYJm8uarhzvgQ"
       },
@@ -975,7 +1177,7 @@
       ],
       "date_added": "2019-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186093,
       "name": "The Love You Save",
       "url": "https://open.spotify.com/track/3IuNNnc5rCdyPnYc5cSXjO"

@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Roots Of Greek Music Vol. 7: Manos Loizos",
+        "url": "https://open.spotify.com/album/3Y087ASNJZrWEkgXMrAuAO"
+      },
+      "artists": [
+        {
+          "name": "Manos Loizos",
+          "url": "https://open.spotify.com/artist/3xFDHACooUWcJ6FP4tsCp4"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179141,
+      "name": "Ah Helidoni Mou",
+      "url": "https://open.spotify.com/track/3MlxzQZbTKy0L4PIww0rjQ"
+    },
+    {
+      "album": {
         "name": "Viva Bouzouki (Viva Greece)",
         "url": "https://open.spotify.com/album/0LHmXjjmZ80BAXMHmnZbkS"
       },
@@ -59,7 +77,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180093,
       "name": "Ah Helidoni Mou",
       "url": "https://open.spotify.com/track/6ot9gN6pwNEDDSDApwrJ2A"
@@ -81,10 +99,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204200,
       "name": "Anemos Eisai",
       "url": "https://open.spotify.com/track/3OEVHcWihKlnXPkMuNdvu7"
+    },
+    {
+      "album": {
+        "name": "The Art of the Greek Bouzouki",
+        "url": "https://open.spotify.com/album/17QhFoIxLEwfZeOpWDAZ9p"
+      },
+      "artists": [
+        {
+          "name": "Michalis Terzis",
+          "url": "https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj"
+        },
+        {
+          "name": "Glykeria",
+          "url": "https://open.spotify.com/artist/0GBKwLQdkZ6tml0ssOSQ4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204200,
+      "name": "Anemos eisai",
+      "url": "https://open.spotify.com/track/66beesQRvXONR3HTw5ofim"
     },
     {
       "album": {
@@ -117,10 +157,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165400,
       "name": "Aprili mou",
       "url": "https://open.spotify.com/track/00YRYmPSH63t6rIZUX64qx"
+    },
+    {
+      "album": {
+        "name": "The Athenians: 20 Best Syrtakis From Greece",
+        "url": "https://open.spotify.com/album/0mFWAvF8RpbrvM5NbXVwqB"
+      },
+      "artists": [
+        {
+          "name": "Athenians, The",
+          "url": "https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165400,
+      "name": "Aprili mou",
+      "url": "https://open.spotify.com/track/1z9gFodwv7e94sDveM29tC"
     },
     {
       "album": {
@@ -137,7 +195,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217680,
-      "name": "Aptaliko",
+      "name": "Aptaliko - Instrumental",
       "url": "https://open.spotify.com/track/3feUCbRGftukH3bbAnuOJr"
     },
     {
@@ -197,6 +255,44 @@
     {
       "album": {
         "name": "Magic of the Greek Bouzouki",
+        "url": "https://open.spotify.com/album/0D3XXijlSAIO6k1TrsFudU"
+      },
+      "artists": [
+        {
+          "name": "Michalis Terzis",
+          "url": "https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj"
+        },
+        {
+          "name": "Thanasis Vasilas",
+          "url": "https://open.spotify.com/artist/6W0BTPNERby9NUUSyF5Fiq"
+        },
+        {
+          "name": "Nikos Katsikis",
+          "url": "https://open.spotify.com/artist/3vp1ao4puFTxYah4KLc5AY"
+        },
+        {
+          "name": "Vassilis Chatziloukas",
+          "url": "https://open.spotify.com/artist/4kJwp8PjlxUJh4bHYPqEqp"
+        },
+        {
+          "name": "Odysseas Papathanasiou-Terzis",
+          "url": "https://open.spotify.com/artist/6a1KaAAitmtVMzgQIlMtur"
+        },
+        {
+          "name": "Thanassis Sofras",
+          "url": "https://open.spotify.com/artist/7utqr9X5ZLg6032rDoAbZf"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174680,
+      "name": "Chasapiko Dance from Tatavla",
+      "url": "https://open.spotify.com/track/6uDxXzHE5NbboJWEe5Qycu"
+    },
+    {
+      "album": {
+        "name": "Magic of the Greek Bouzouki",
         "url": "https://open.spotify.com/album/0RM8ih3cSqIxTXz1u9ANMu"
       },
       "artists": [
@@ -227,10 +323,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174680,
       "name": "Chasapiko Dance from Tatavla",
       "url": "https://open.spotify.com/track/0Wt96kPrShY5e7E7xcXMTr"
+    },
+    {
+      "album": {
+        "name": "The Athenians: 20 Best Syrtakis From Greece",
+        "url": "https://open.spotify.com/album/0mFWAvF8RpbrvM5NbXVwqB"
+      },
+      "artists": [
+        {
+          "name": "Athenians, The",
+          "url": "https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205733,
+      "name": "Choros tis leventias",
+      "url": "https://open.spotify.com/track/0GbiVa9O0YPKgsW8YTD12q"
     },
     {
       "album": {
@@ -249,7 +363,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205733,
       "name": "Choros tis leventias",
       "url": "https://open.spotify.com/track/7aB2Q2Uc91WRZbtP0srU3k"
@@ -336,6 +450,24 @@
     },
     {
       "album": {
+        "name": "The Athenians: 20 Best Syrtakis From Greece",
+        "url": "https://open.spotify.com/album/0mFWAvF8RpbrvM5NbXVwqB"
+      },
+      "artists": [
+        {
+          "name": "Athenians, The",
+          "url": "https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172600,
+      "name": "Doxa to Theo",
+      "url": "https://open.spotify.com/track/10Z7duswQqU3tTNSsVLF4b"
+    },
+    {
+      "album": {
         "name": "Best of Greece",
         "url": "https://open.spotify.com/album/6z9CGgtinyu2nnfDpHC3qn"
       },
@@ -351,7 +483,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172600,
       "name": "Doxa to Theo",
       "url": "https://open.spotify.com/track/6a0570ze7aChuwwZZbmtGu"
@@ -377,6 +509,24 @@
     {
       "album": {
         "name": "The Athenians: 20 Best Syrtakis From Greece",
+        "url": "https://open.spotify.com/album/0mFWAvF8RpbrvM5NbXVwqB"
+      },
+      "artists": [
+        {
+          "name": "Athenians, The",
+          "url": "https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309400,
+      "name": "Epichirisis Apollon",
+      "url": "https://open.spotify.com/track/4LHUPdSQWaTUH5YxysnrKF"
+    },
+    {
+      "album": {
+        "name": "The Athenians: 20 Best Syrtakis From Greece",
         "url": "https://open.spotify.com/album/3gQSY5Jpsn9hW4Wr6NcftW"
       },
       "artists": [
@@ -391,7 +541,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 309400,
       "name": "Epichirisis Apollon",
       "url": "https://open.spotify.com/track/246EUNtQdRqfIZ2S2IAZQe"
@@ -435,7 +585,7 @@
     {
       "album": {
         "name": "Best Greek Songs",
-        "url": "https://open.spotify.com/album/3qWVFcvPGlKUxn6h6nRwTH"
+        "url": "https://open.spotify.com/album/1MttZ0N5RZSycoc017Frud"
       },
       "artists": [
         {
@@ -452,7 +602,79 @@
       "date_removed": null,
       "duration_ms": 171000,
       "name": "Geia Sas Triantafilla",
+      "url": "https://open.spotify.com/track/0zmLoraof2pdilDFhrmRQP"
+    },
+    {
+      "album": {
+        "name": "Best Greek Songs",
+        "url": "https://open.spotify.com/album/3qWVFcvPGlKUxn6h6nRwTH"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        },
+        {
+          "name": "Michalis Terzis",
+          "url": "https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 171000,
+      "name": "Geia Sas Triantafilla",
       "url": "https://open.spotify.com/track/6pRvivdlaZKMrVuyMBTuFM"
+    },
+    {
+      "album": {
+        "name": "A Tribute to Greece",
+        "url": "https://open.spotify.com/album/58jyxP7WcaOJHTAFK1xZvK"
+      },
+      "artists": [
+        {
+          "name": "Vasilis Skoulas",
+          "url": "https://open.spotify.com/artist/34eAojLdFdpko4FWeNxwSM"
+        },
+        {
+          "name": "A. Papagelis",
+          "url": "https://open.spotify.com/artist/4JoBZs2TVn73BeA7fW7yn4"
+        },
+        {
+          "name": "Odysseas Papathanasiou-Terzis",
+          "url": "https://open.spotify.com/artist/6a1KaAAitmtVMzgQIlMtur"
+        },
+        {
+          "name": "C. Pertsinidis",
+          "url": "https://open.spotify.com/artist/1WRQdsc7Kqvb8DLBVS5u9v"
+        },
+        {
+          "name": "Vazilis Potiris",
+          "url": "https://open.spotify.com/artist/242IuTxqr3AMGLrywtAHts"
+        },
+        {
+          "name": "K. Seggis",
+          "url": "https://open.spotify.com/artist/3HEKC9PeCbw5SSLpPqca5f"
+        },
+        {
+          "name": "Y. Sinanis",
+          "url": "https://open.spotify.com/artist/7dS0GKbGms4GtywbJrgJYa"
+        },
+        {
+          "name": "Thanassis Sofras",
+          "url": "https://open.spotify.com/artist/7utqr9X5ZLg6032rDoAbZf"
+        },
+        {
+          "name": "Michalis Terzis",
+          "url": "https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207950,
+      "name": "Gyrisane ta chronia kai oi kairoi",
+      "url": "https://open.spotify.com/track/3jNMYRmTPx3RZL6k9zl0Bj"
     },
     {
       "album": {
@@ -499,7 +721,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207950,
       "name": "Gyrisane ta chronia kai oi kairoi",
       "url": "https://open.spotify.com/track/5UQ5SuRs9lkdOOipROqGZK"
@@ -519,7 +741,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204906,
-      "name": "Hassapiko",
+      "name": "Hassapiko - Instrumental",
       "url": "https://open.spotify.com/track/3KjYYrdw7sVzNOUfoFVapa"
     },
     {
@@ -598,6 +820,24 @@
     },
     {
       "album": {
+        "name": "The Sound of Greece",
+        "url": "https://open.spotify.com/album/1CONM3502GE70HlA1DlWel"
+      },
+      "artists": [
+        {
+          "name": "Michalis Terzis",
+          "url": "https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "Kardia Malamatenia",
+      "url": "https://open.spotify.com/track/2IFCWOVuXgX6sQEtL7BjUC"
+    },
+    {
+      "album": {
         "name": "The Ultimate Greek Collection",
         "url": "https://open.spotify.com/album/5A8yUU6xoRSP71du97QAfW"
       },
@@ -609,7 +849,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183893,
       "name": "Kardia Malamatenia",
       "url": "https://open.spotify.com/track/2yuSdBgXKdjD8gGmP77wNr"
@@ -673,10 +913,74 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205533,
       "name": "March of Smyrna",
       "url": "https://open.spotify.com/track/1yvoJygykaoWC5PRjH56IU"
+    },
+    {
+      "album": {
+        "name": "Magic of the Greek Bouzouki",
+        "url": "https://open.spotify.com/album/0D3XXijlSAIO6k1TrsFudU"
+      },
+      "artists": [
+        {
+          "name": "Michalis Terzis",
+          "url": "https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj"
+        },
+        {
+          "name": "Kyriakos Gouvendas",
+          "url": "https://open.spotify.com/artist/2i99PLT1r01q6duuJsmV8t"
+        },
+        {
+          "name": "Ploutarchos Reboutsikas",
+          "url": "https://open.spotify.com/artist/5u1SMnmXKWqcjLJCWYfQe1"
+        },
+        {
+          "name": "Thanasis Vasilas",
+          "url": "https://open.spotify.com/artist/6W0BTPNERby9NUUSyF5Fiq"
+        },
+        {
+          "name": "Nikos Katsikis",
+          "url": "https://open.spotify.com/artist/3vp1ao4puFTxYah4KLc5AY"
+        },
+        {
+          "name": "Vassilis Chatziloukas",
+          "url": "https://open.spotify.com/artist/4kJwp8PjlxUJh4bHYPqEqp"
+        },
+        {
+          "name": "Odysseas Papathanasiou-Terzis",
+          "url": "https://open.spotify.com/artist/6a1KaAAitmtVMzgQIlMtur"
+        },
+        {
+          "name": "Thanassis Sofras",
+          "url": "https://open.spotify.com/artist/7utqr9X5ZLg6032rDoAbZf"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205533,
+      "name": "March of Smyrna",
+      "url": "https://open.spotify.com/track/1u5tWsKTpMKvkUrt3HdvKl"
+    },
+    {
+      "album": {
+        "name": "Athenians: Greece",
+        "url": "https://open.spotify.com/album/1mFxByzu4pT1VReVGpK3eZ"
+      },
+      "artists": [
+        {
+          "name": "Athenians, The",
+          "url": "https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Margarita - Margaro",
+      "url": "https://open.spotify.com/track/4lgDrExkSslDWqHhHgIjYG"
     },
     {
       "album": {
@@ -695,7 +999,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219000,
       "name": "Margarita-Margaro",
       "url": "https://open.spotify.com/track/5QUp93V9RhWhl4xBYVp5dz"
@@ -733,8 +1037,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156093,
-      "name": "Mas Horissan oi Thalasses",
+      "name": "Mas Horissan oi Thalasses - Instrumental",
       "url": "https://open.spotify.com/track/3POQveelN8PBi7NVc2UW3G"
+    },
+    {
+      "album": {
+        "name": "Greece",
+        "url": "https://open.spotify.com/album/5zdhQQMiNsbTUQroPsjXp7"
+      },
+      "artists": [
+        {
+          "name": "Athenians, The",
+          "url": "https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Mastro Vassilis",
+      "url": "https://open.spotify.com/track/1oyrbCAioSFIbJIP9ttdOR"
     },
     {
       "album": {
@@ -753,7 +1075,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174800,
       "name": "Mastro Vassilis",
       "url": "https://open.spotify.com/track/4U22J3LQqMsxrF52Xe86a2"
@@ -797,7 +1119,7 @@
     {
       "album": {
         "name": "The Sound of Greece",
-        "url": "https://open.spotify.com/album/0gNam32SlVsQIyX4xbmrG9"
+        "url": "https://open.spotify.com/album/1Rjeluf3m75pkGTAR2Kq1C"
       },
       "artists": [
         {
@@ -810,7 +1132,47 @@
       "date_removed": null,
       "duration_ms": 194133,
       "name": "My Father the Greek",
+      "url": "https://open.spotify.com/track/3na2SnSYhMMKyQ1C9vRHHK"
+    },
+    {
+      "album": {
+        "name": "The Sound of Greece",
+        "url": "https://open.spotify.com/album/0gNam32SlVsQIyX4xbmrG9"
+      },
+      "artists": [
+        {
+          "name": "Michalis Terzis",
+          "url": "https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194133,
+      "name": "My Father the Greek",
       "url": "https://open.spotify.com/track/4vd0aZKGZY6rWaSbrJi3tB"
+    },
+    {
+      "album": {
+        "name": "Best of Greece",
+        "url": "https://open.spotify.com/album/6DCGq0wZvYC5k8sWrh7ygt"
+      },
+      "artists": [
+        {
+          "name": "Kriteos",
+          "url": "https://open.spotify.com/artist/6P6v3M7CcDBuQAyGObFi3I"
+        },
+        {
+          "name": "Romiosini",
+          "url": "https://open.spotify.com/artist/1ZJgXjX7XCii5ULJPguZ9T"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211493,
+      "name": "Namoun Asteri",
+      "url": "https://open.spotify.com/track/5wd7OaorCJjJyVfJWYrLPk"
     },
     {
       "album": {
@@ -833,7 +1195,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211493,
       "name": "Namoun Asteri (I'd Love to Be a Star) [Greece]",
       "url": "https://open.spotify.com/track/6RcltfUFjNwyttVYcClnbP"
@@ -851,10 +1213,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186600,
       "name": "Near the Sea",
       "url": "https://open.spotify.com/track/5dwGtyAYKeFtixOjECQvq8"
+    },
+    {
+      "album": {
+        "name": "Magic of the Greek Bouzouki: Near the Sea",
+        "url": "https://open.spotify.com/album/480jzKVG94eXc3Zq02CCOf"
+      },
+      "artists": [
+        {
+          "name": "Michalis Terzis",
+          "url": "https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Near the Sea",
+      "url": "https://open.spotify.com/track/7FijYL1eAyN6qpvKOVXmtx"
     },
     {
       "album": {
@@ -887,7 +1267,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 213200,
       "name": "O Horos Tou Sakena",
       "url": "https://open.spotify.com/track/6Q00QQxHdVXglQ7halXeQj"
@@ -905,10 +1285,44 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215093,
       "name": "Odos Athinas",
       "url": "https://open.spotify.com/track/320okUACDm3e5ixVNy6jHW"
+    },
+    {
+      "album": {
+        "name": "Michalis Terzis: The Road To Olympia",
+        "url": "https://open.spotify.com/album/5lB4qkdawJcr278YRsJGzd"
+      },
+      "artists": [
+        {
+          "name": "Michalis Terzis",
+          "url": "https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj"
+        },
+        {
+          "name": "Thanasis Vasilas",
+          "url": "https://open.spotify.com/artist/6W0BTPNERby9NUUSyF5Fiq"
+        },
+        {
+          "name": "Nikos Sakas",
+          "url": "https://open.spotify.com/artist/1gj59v2uYJmRbu1jzODdHB"
+        },
+        {
+          "name": "Polys Pelelis",
+          "url": "https://open.spotify.com/artist/4LsrIQ6f2KLpmLyOUjbhMu"
+        },
+        {
+          "name": "Vazilis Potiris",
+          "url": "https://open.spotify.com/artist/242IuTxqr3AMGLrywtAHts"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "Odos Athinas (Athena's Street)",
+      "url": "https://open.spotify.com/track/604AFoxKxuJDVuu94EWKoG"
     },
     {
       "album": {
@@ -934,6 +1348,24 @@
     },
     {
       "album": {
+        "name": "Zorba the Greek and Other Famous Hits",
+        "url": "https://open.spotify.com/album/7yLIITFq42dijI25BJXaE4"
+      },
+      "artists": [
+        {
+          "name": "Bouzouki Kings",
+          "url": "https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210560,
+      "name": "Oniro Demeno",
+      "url": "https://open.spotify.com/track/5yVTRPum2TJDOKnb3JQCog"
+    },
+    {
+      "album": {
         "name": "Play Bouzouki",
         "url": "https://open.spotify.com/album/4oU5vaqJe0sN5axIOqTNSM"
       },
@@ -945,7 +1377,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208666,
       "name": "Oniro Demeno - A Tied Up Dream",
       "url": "https://open.spotify.com/track/2ieZkaG3DU774qRtDQGzgv"
@@ -975,7 +1407,7 @@
     {
       "album": {
         "name": "Best Greek Songs",
-        "url": "https://open.spotify.com/album/3qWVFcvPGlKUxn6h6nRwTH"
+        "url": "https://open.spotify.com/album/1MttZ0N5RZSycoc017Frud"
       },
       "artists": [
         {
@@ -986,6 +1418,24 @@
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 245693,
+      "name": "Prosopa Byzantina",
+      "url": "https://open.spotify.com/track/3Bx2MZ5n7TsrRKVK0HkLnc"
+    },
+    {
+      "album": {
+        "name": "Best Greek Songs",
+        "url": "https://open.spotify.com/album/3qWVFcvPGlKUxn6h6nRwTH"
+      },
+      "artists": [
+        {
+          "name": "Michalis Terzis",
+          "url": "https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 245693,
       "name": "Prosopa Byzantina",
       "url": "https://open.spotify.com/track/70TtO2gj2SnwmpRtKXyYU2"
@@ -1033,10 +1483,46 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210600,
       "name": "Siko Chorepse Sirtaki",
       "url": "https://open.spotify.com/track/427g5P6t0fupC99OYW7Uqo"
+    },
+    {
+      "album": {
+        "name": "The Athenians: 20 Best Syrtakis From Greece",
+        "url": "https://open.spotify.com/album/0mFWAvF8RpbrvM5NbXVwqB"
+      },
+      "artists": [
+        {
+          "name": "Athenians, The",
+          "url": "https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "Siko chorepse Syrtaki",
+      "url": "https://open.spotify.com/track/54WabNS2Z0kHE1L8XBvtOa"
+    },
+    {
+      "album": {
+        "name": "The Digital Collection",
+        "url": "https://open.spotify.com/album/1prIokiu4j6JOkqkZ6DfSQ"
+      },
+      "artists": [
+        {
+          "name": "Kostas Papadopoulos",
+          "url": "https://open.spotify.com/artist/0ezjYLMcpgQpfRze6ozkLw"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Siko Horepse Syrtaki",
+      "url": "https://open.spotify.com/track/0HizcBV819alr9ynsOyzgh"
     },
     {
       "album": {
@@ -1051,7 +1537,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185600,
       "name": "Siko Horepse Syrtaki",
       "url": "https://open.spotify.com/track/6a6bv762djB4WPiL4ieBat"
@@ -1095,6 +1581,28 @@
     {
       "album": {
         "name": "Bouzouki-Kl\u00e4nge",
+        "url": "https://open.spotify.com/album/0KxGXgtoDdkzhXUz5YdAZR"
+      },
+      "artists": [
+        {
+          "name": "Bouzouki-Ensemble Bilek-Nejez",
+          "url": "https://open.spotify.com/artist/68TCdVaOerUB8vIJPM6DYC"
+        },
+        {
+          "name": "Das Orchester Claudius Alzner",
+          "url": "https://open.spotify.com/artist/6I2aGcVSEwlTpVJTZN64EY"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154733,
+      "name": "Sirtaki",
+      "url": "https://open.spotify.com/track/2nXzTqDYJvQzhnQ7o1rpcT"
+    },
+    {
+      "album": {
+        "name": "Bouzouki-Kl\u00e4nge",
         "url": "https://open.spotify.com/album/0MICZxAKEjzltR0dhd72vo"
       },
       "artists": [
@@ -1105,7 +1613,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154733,
       "name": "Sirtaki",
       "url": "https://open.spotify.com/track/1qZX2U9Us0Vv3dZKVy80kc"
@@ -1141,10 +1649,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261693,
       "name": "Sta Chronia Tou Othona",
       "url": "https://open.spotify.com/track/1ZbU4YjLOPo9oReBjhqV5k"
+    },
+    {
+      "album": {
+        "name": "The Athenians: 20 Best Syrtakis From Greece",
+        "url": "https://open.spotify.com/album/0mFWAvF8RpbrvM5NbXVwqB"
+      },
+      "artists": [
+        {
+          "name": "Athenians, The",
+          "url": "https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261693,
+      "name": "Sta chronia tou othona",
+      "url": "https://open.spotify.com/track/3oZsIec6Yiuct4ekuz0J0a"
     },
     {
       "album": {
@@ -1187,10 +1713,56 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251533,
       "name": "Sto'pa Kai Sto Xanaleo",
       "url": "https://open.spotify.com/track/2yepR6vy9wgf7wB5u5qhtg"
+    },
+    {
+      "album": {
+        "name": "Magic of the Greek Bouzouki",
+        "url": "https://open.spotify.com/album/0D3XXijlSAIO6k1TrsFudU"
+      },
+      "artists": [
+        {
+          "name": "Michalis Terzis",
+          "url": "https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj"
+        },
+        {
+          "name": "Kyriakos Gouvendas",
+          "url": "https://open.spotify.com/artist/2i99PLT1r01q6duuJsmV8t"
+        },
+        {
+          "name": "Ploutarchos Reboutsikas",
+          "url": "https://open.spotify.com/artist/5u1SMnmXKWqcjLJCWYfQe1"
+        },
+        {
+          "name": "Nikos Katsikis",
+          "url": "https://open.spotify.com/artist/3vp1ao4puFTxYah4KLc5AY"
+        },
+        {
+          "name": "Thanasis Vasilas",
+          "url": "https://open.spotify.com/artist/6W0BTPNERby9NUUSyF5Fiq"
+        },
+        {
+          "name": "Vassilis Chatziloukas",
+          "url": "https://open.spotify.com/artist/4kJwp8PjlxUJh4bHYPqEqp"
+        },
+        {
+          "name": "Odysseas Papathanasiou-Terzis",
+          "url": "https://open.spotify.com/artist/6a1KaAAitmtVMzgQIlMtur"
+        },
+        {
+          "name": "Thanassis Sofras",
+          "url": "https://open.spotify.com/artist/7utqr9X5ZLg6032rDoAbZf"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251533,
+      "name": "Sto'pa kai sto xanaleo",
+      "url": "https://open.spotify.com/track/7wuR5w7Scjd7fbFq59Ni1i"
     },
     {
       "album": {
@@ -1209,10 +1781,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206800,
       "name": "Ta Teichi",
       "url": "https://open.spotify.com/track/0ajKZQknQrBI5rwQ79GDPW"
+    },
+    {
+      "album": {
+        "name": "The Art of the Greek Bouzouki",
+        "url": "https://open.spotify.com/album/17QhFoIxLEwfZeOpWDAZ9p"
+      },
+      "artists": [
+        {
+          "name": "Michalis Terzis",
+          "url": "https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj"
+        },
+        {
+          "name": "Glykeria",
+          "url": "https://open.spotify.com/artist/0GBKwLQdkZ6tml0ssOSQ4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Ta teichi",
+      "url": "https://open.spotify.com/track/19wGZ8XA8SRPBBhfHyHJBD"
     },
     {
       "album": {
@@ -1305,7 +1899,7 @@
     {
       "album": {
         "name": "100% Mimis Plessas",
-        "url": "https://open.spotify.com/album/6Fb7m1BzhkXiQCeWxa7urU"
+        "url": "https://open.spotify.com/album/38olp7yauGrv8mQWY7X86d"
       },
       "artists": [
         {
@@ -1316,6 +1910,24 @@
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 147106,
+      "name": "Tou Agoriou Apenanti",
+      "url": "https://open.spotify.com/track/5m2aOYyGuVX9pVGAQ8MqZP"
+    },
+    {
+      "album": {
+        "name": "100% Mimis Plessas",
+        "url": "https://open.spotify.com/album/6Fb7m1BzhkXiQCeWxa7urU"
+      },
+      "artists": [
+        {
+          "name": "Mimis Plessas",
+          "url": "https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 147106,
       "name": "Tou Agoriou Apenanti",
       "url": "https://open.spotify.com/track/782ikzzvtlZHrV8qIFo9nT"
@@ -1351,10 +1963,46 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 92823,
       "name": "Zakinthos",
       "url": "https://open.spotify.com/track/3UmheFGqWMYcLH79rK8eSW"
+    },
+    {
+      "album": {
+        "name": "Flash Light, Vol. 3",
+        "url": "https://open.spotify.com/album/0GKbffLWyyKXDpj2owMytS"
+      },
+      "artists": [
+        {
+          "name": "Evangelos Pitsiladis",
+          "url": "https://open.spotify.com/artist/4jhXBUr0bnqcS8ZEHZmGyQ"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96026,
+      "name": "Zakinthos",
+      "url": "https://open.spotify.com/track/7ibrET4jt5rwdfxYLToGnM"
+    },
+    {
+      "album": {
+        "name": "The Athenians: 20 Best Syrtakis From Greece",
+        "url": "https://open.spotify.com/album/0mFWAvF8RpbrvM5NbXVwqB"
+      },
+      "artists": [
+        {
+          "name": "Athenians, The",
+          "url": "https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Zorba the Greek",
+      "url": "https://open.spotify.com/track/2k5txEdDUrVBcAmgbbDFQ7"
     },
     {
       "album": {
@@ -1373,10 +2021,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228000,
       "name": "Zorba the Greek",
       "url": "https://open.spotify.com/track/6MygdnbMsNtOQ1lV5wAMUa"
+    },
+    {
+      "album": {
+        "name": "Rebetika & Greek Popular Music",
+        "url": "https://open.spotify.com/album/076clgDbBpAoBob1QJm0sw"
+      },
+      "artists": [
+        {
+          "name": "Athenians, The",
+          "url": "https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144213,
+      "name": "\u039f \u0393\u03b9\u03c9\u03c1\u03b3\u03b7\u03c2",
+      "url": "https://open.spotify.com/track/3kwjxonQFiF0PfJNkxRsuh"
     },
     {
       "album": {
@@ -1391,7 +2057,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144213,
       "name": "\u039f \u0393\u03b9\u03c9\u03c1\u03b3\u03b7\u03c2",
       "url": "https://open.spotify.com/track/7gHstvpNpbG25npqN2OQCW"

@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H"
+      },
+      "artists": [
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        },
+        {
+          "name": "Samer Doumet",
+          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "3abali",
+      "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
+    },
+    {
+      "album": {
         "name": "Amygdala - EP",
         "url": "https://open.spotify.com/album/5Qo3Ex6JhkUf9W8LaiMa31"
       },
@@ -23,7 +45,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201379,
       "name": "3abali",
       "url": "https://open.spotify.com/track/5IfQ6aRrUAAZvR0in4uoyA"
@@ -286,6 +308,28 @@
     },
     {
       "album": {
+        "name": "Dum Tak (feat. NASIR)",
+        "url": "https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        },
+        {
+          "name": "NASIR",
+          "url": "https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Dum Tak (feat. NASIR)",
+      "url": "https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA"
+    },
+    {
+      "album": {
         "name": "Eskendereya",
         "url": "https://open.spotify.com/album/51ScKyJykdjnsKa8L5O6ir"
       },
@@ -424,6 +468,24 @@
     },
     {
       "album": {
+        "name": "\u0647\u064a\u062f\u0627 \u062d\u0627\u0644\u064a",
+        "url": "https://open.spotify.com/album/04BUdm7whYgxcyPrre29LX"
+      },
+      "artists": [
+        {
+          "name": "George Nehme",
+          "url": "https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190271,
+      "name": "Hayda Hali",
+      "url": "https://open.spotify.com/track/4SVhjqDecCRW1bbt5ZwP8z"
+    },
+    {
+      "album": {
         "name": "9addgni",
         "url": "https://open.spotify.com/album/1iQeb4yXEFJwzNdZt4gu2I"
       },
@@ -443,10 +505,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 254285,
       "name": "Hip-hop/Jwk",
       "url": "https://open.spotify.com/track/01ZHMSHIQSgoXgtaca46Jf"
+    },
+    {
+      "album": {
+        "name": "Hiya Hiya",
+        "url": "https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H"
+      },
+      "artists": [
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217021,
+      "name": "Hiya Hiya",
+      "url": "https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ"
     },
     {
       "album": {
@@ -465,10 +549,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 217021,
       "name": "Hiya Hiya",
       "url": "https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q"
+    },
+    {
+      "album": {
+        "name": "Hiya hiya New Distribution",
+        "url": "https://open.spotify.com/album/4iJJ8pkyW3CY41C53B6KVq"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Hussam",
+          "url": "https://open.spotify.com/artist/1ZVYNea11w8l7t5pqZUYoM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-01",
+      "duration_ms": 217080,
+      "name": "Hiya hiya New Distribution",
+      "url": "https://open.spotify.com/track/3GDe4ABAWZWP6XKYCPmrhc"
     },
     {
       "album": {
@@ -487,7 +589,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 194951,
       "name": "How Is This Love ?",
       "url": "https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5"
@@ -567,6 +669,24 @@
       "duration_ms": 134217,
       "name": "Kaifi",
       "url": "https://open.spotify.com/track/7ceIt7Z5qwcRwiariXq4YC"
+    },
+    {
+      "album": {
+        "name": "Khaleeki",
+        "url": "https://open.spotify.com/album/5q1pW37eb9Pf7iuayk4Gcr"
+      },
+      "artists": [
+        {
+          "name": "Molham",
+          "url": "https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144137,
+      "name": "Khaleeki",
+      "url": "https://open.spotify.com/track/03rXpc8P0yMF6X3GShm40h"
     },
     {
       "album": {
@@ -776,6 +896,42 @@
     },
     {
       "album": {
+        "name": "Sebak - \u0633\u064a\u0628\u0643",
+        "url": "https://open.spotify.com/album/16WxAua0GVxd1VQvdm701k"
+      },
+      "artists": [
+        {
+          "name": "Young Kabalo",
+          "url": "https://open.spotify.com/artist/0YKv8wjIIoMdWt3Ea8WLRx"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173903,
+      "name": "Sebak - \u0633\u064a\u0628\u0643",
+      "url": "https://open.spotify.com/track/1cNljxhP45g5o2RLN92MTZ"
+    },
+    {
+      "album": {
+        "name": "Sekka Baraka",
+        "url": "https://open.spotify.com/album/6t78W97JmzbxxInDEIoYKr"
+      },
+      "artists": [
+        {
+          "name": "\u0639\u0637\u0627\u0631",
+          "url": "https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170213,
+      "name": "Sekka Baraka",
+      "url": "https://open.spotify.com/track/3qY6aHNvRt3lHsD9jZQXfD"
+    },
+    {
+      "album": {
         "name": "Sibtiny",
         "url": "https://open.spotify.com/album/0B1qIzqos6ajSnuXYB0x8Y"
       },
@@ -791,6 +947,36 @@
       "duration_ms": 179294,
       "name": "Sibtiny",
       "url": "https://open.spotify.com/track/6vqgukgBvRUIUvuM8fuv4k"
+    },
+    {
+      "album": {
+        "name": "Square One",
+        "url": "https://open.spotify.com/album/1Vi1fKEfFBLHY09a6QAOqq"
+      },
+      "artists": [
+        {
+          "name": "Ntitled",
+          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
+        },
+        {
+          "name": "Kali-B",
+          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
+        },
+        {
+          "name": "B-Element",
+          "url": "https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa"
+        },
+        {
+          "name": "Zii",
+          "url": "https://open.spotify.com/artist/3iO6JRHgp14ESXysByB3yl"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183711,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/2eicDRS52ZAT2LRuYzqkna"
     },
     {
       "album": {
@@ -918,6 +1104,24 @@
     },
     {
       "album": {
+        "name": "\u064a\u0627 \u0623\u063a\u0644\u0649 \u0645\u0646 \u0639\u0645\u0631\u064a",
+        "url": "https://open.spotify.com/album/07OqZ5WPe08P9r21flFGqG"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6h6bN6w1alS5cqNp5EKkqG"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203967,
+      "name": "Ya Aghla Min Omri",
+      "url": "https://open.spotify.com/track/1GyOCcAQbN4ZymgkU5rVib"
+    },
+    {
+      "album": {
         "name": "Ya Lalali",
         "url": "https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX"
       },
@@ -947,10 +1151,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216626,
       "name": "Yjeek Youm",
       "url": "https://open.spotify.com/track/0na0JDk8c1wQhUjnotuJRu"
+    },
+    {
+      "album": {
+        "name": "Yjeek Youm",
+        "url": "https://open.spotify.com/album/2KShjcCHoSnt6qDnW9HxAz"
+      },
+      "artists": [
+        {
+          "name": "Bahjat",
+          "url": "https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216626,
+      "name": "Yjeek Youm",
+      "url": "https://open.spotify.com/track/7mhRSbBekfLTVLcWo3rxmW"
     },
     {
       "album": {
@@ -995,7 +1217,7 @@
       },
       "artists": [
         {
-          "name": "DaMoJaNad",
+          "name": "MoJaNaD",
           "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
         }
       ],
@@ -1084,6 +1306,24 @@
     },
     {
       "album": {
+        "name": "\u0648\u0644\u0627 \u0635\u062d\u0628\u0647 \u0627\u062d\u0644\u0649",
+        "url": "https://open.spotify.com/album/4SP39vn0J6IBX3HlnPNqGO"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u062d\u0645\u062f \u0631\u0623\u0641\u062a",
+          "url": "https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201183,
+      "name": "\u0648\u0644\u0627 \u0635\u062d\u0628\u0647 \u0627\u062d\u0644\u0649",
+      "url": "https://open.spotify.com/track/5abjiC8O2jUGyXhFozLhOc"
+    },
+    {
+      "album": {
         "name": "\u064a\u0627 \u062a\u0631\u0649",
         "url": "https://open.spotify.com/album/0pdp0vz5ruqkvmpXjtmAjI"
       },
@@ -1096,7 +1336,7 @@
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 195227,
+      "duration_ms": 35342,
       "name": "\u064a\u0627 \u062a\u0631\u0649",
       "url": "https://open.spotify.com/track/6FC6o08x0Ah6AVl4SVoCMI"
     }

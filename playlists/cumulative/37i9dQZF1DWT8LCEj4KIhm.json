@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242720,
       "name": "Alive",
       "url": "https://open.spotify.com/track/66TuXZ2lVBf6ODhMn8Q3yb"
@@ -103,10 +103,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152613,
       "name": "Barquette",
       "url": "https://open.spotify.com/track/6iPXXtvAr7LxqmzVuEF29q"
+    },
+    {
+      "album": {
+        "name": "La Barquetterie",
+        "url": "https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef"
+      },
+      "artists": [
+        {
+          "name": "Benny Adam",
+          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152613,
+      "name": "Barquette",
+      "url": "https://open.spotify.com/track/7cWl7ZJwmuvwxYroIq8eY3"
     },
     {
       "album": {
@@ -121,7 +139,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 188585,
       "name": "Bient\u00f4t",
       "url": "https://open.spotify.com/track/1wX7nWzrolWpnPKp09fhlk"
@@ -164,6 +182,36 @@
     },
     {
       "album": {
+        "name": "Brother Louie",
+        "url": "https://open.spotify.com/album/6mGRWR6C2qe3nWOn83iCbb"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Dieter Bohlen",
+          "url": "https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172459,
+      "name": "Brother Louie",
+      "url": "https://open.spotify.com/track/0fQfopzcRtmYxdK9xFA3Qr"
+    },
+    {
+      "album": {
         "name": "Brother Louie (feat. Leony)",
         "url": "https://open.spotify.com/album/3MgruIL1LtnYoHq5jpOsa7"
       },
@@ -187,7 +235,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172459,
       "name": "Brother Louie (feat. Leony)",
       "url": "https://open.spotify.com/track/5Mu1SdYD9imHxBc7dDTiow"
@@ -235,10 +283,36 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192731,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/7pstxLUhvsJC3M4TxHe2aI"
+    },
+    {
+      "album": {
+        "name": "Carry You Home (feat. StarGate & Aloe Blacc)",
+        "url": "https://open.spotify.com/album/7apwmztwcRn7DpWVx69VDr"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Stargate",
+          "url": "https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192731,
+      "name": "Carry You Home (feat. StarGate & Aloe Blacc)",
+      "url": "https://open.spotify.com/track/6bolfjXj78EIQRB48C6QTc"
     },
     {
       "album": {
@@ -275,7 +349,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 186106,
       "name": "Chaud",
       "url": "https://open.spotify.com/track/4sPJpns1ma2kpfDEMvpAG5"
@@ -293,10 +367,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175151,
       "name": "Cold Feet",
       "url": "https://open.spotify.com/track/05eyyXvXUn1sJddXilQb5d"
+    },
+    {
+      "album": {
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181957,
+      "name": "Cold Feet",
+      "url": "https://open.spotify.com/track/08zt4rqVjqahvXaWAuEBbP"
     },
     {
       "album": {
@@ -311,7 +403,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 183130,
       "name": "Comme dans les films",
       "url": "https://open.spotify.com/track/5bxaSSnEhbc8u7diN1jY69"
@@ -347,10 +439,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183746,
       "name": "Dans la peau (Anxiety)",
       "url": "https://open.spotify.com/track/3n2pKZvxaUtVUdsj6UcW4s"
+    },
+    {
+      "album": {
+        "name": "Dans la peau (Anxiety)",
+        "url": "https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq"
+      },
+      "artists": [
+        {
+          "name": "Yes Mccan",
+          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183746,
+      "name": "Dans la peau (Anxiety)",
+      "url": "https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j"
     },
     {
       "album": {
@@ -373,7 +483,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194851,
       "name": "Des milliers de secondes - Realmind Remix",
       "url": "https://open.spotify.com/track/7DFoNEU5ZNsMFcpuwZjZQ9"
@@ -413,10 +523,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 144098,
       "name": "Do The Most",
       "url": "https://open.spotify.com/track/6ZBqCuo8fUGSZJGYR9LNwL"
+    },
+    {
+      "album": {
+        "name": "The New Toronto 3",
+        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144098,
+      "name": "Do The Most",
+      "url": "https://open.spotify.com/track/7n0lXKEOaFxrAU0R93fIQh"
     },
     {
       "album": {
@@ -435,7 +563,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274177,
       "name": "Don't Forget",
       "url": "https://open.spotify.com/track/2FuV8PGlvlJMVzpB9Fma1H"
@@ -501,7 +629,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 145826,
       "name": "Fausses idoles",
       "url": "https://open.spotify.com/track/6o8ks6uoHaME2MvnYXPVAx"
@@ -527,7 +655,7 @@
     {
       "album": {
         "name": "Irr\u00e9versible",
-        "url": "https://open.spotify.com/album/5oggv1p8eYt4HGkliMR2VL"
+        "url": "https://open.spotify.com/album/5AHWRtchHWxLyQcCD6hflC"
       },
       "artists": [
         {
@@ -542,6 +670,28 @@
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 257544,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/3fioUBORpFuvNIL8RIwuGU"
+    },
+    {
+      "album": {
+        "name": "Irr\u00e9versible",
+        "url": "https://open.spotify.com/album/5oggv1p8eYt4HGkliMR2VL"
+      },
+      "artists": [
+        {
+          "name": "Sarahm\u00e9e",
+          "url": "https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 257544,
       "name": "Fuego (feat. Souldia)",
       "url": "https://open.spotify.com/track/0hSQVw88mK62FyOB0ZpsuK"
@@ -585,7 +735,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 143969,
       "name": "Girl Code",
       "url": "https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh"
@@ -819,10 +969,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn"
+    },
+    {
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "album": {
@@ -973,10 +1141,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200400,
       "name": "me & ur ghost",
       "url": "https://open.spotify.com/track/4yJiXq86uM56uIfIZgE440"
+    },
+    {
+      "album": {
+        "name": "everything means nothing",
+        "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201398,
+      "name": "me & ur ghost",
+      "url": "https://open.spotify.com/track/5tiZBnx5IvETA0Pj3gELjn"
     },
     {
       "album": {
@@ -1057,10 +1243,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165853,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/2t7nM6kZZ3JTSheTwVlAAR"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj"
+      },
+      "artists": [
+        {
+          "name": "RadioClub",
+          "url": "https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165853,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb"
     },
     {
       "album": {
@@ -1108,6 +1312,28 @@
     },
     {
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e"
+      },
+      "artists": [
+        {
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+        },
+        {
+          "name": "Amber Van Day",
+          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192296,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q"
+    },
+    {
+      "album": {
         "name": "Oblivion (feat. Amber Van Day)",
         "url": "https://open.spotify.com/album/4xG7w6o7w2ah1W2a3tPgaV"
       },
@@ -1123,7 +1349,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192296,
       "name": "Oblivion (feat. Amber Van Day)",
       "url": "https://open.spotify.com/track/3HNs1UAn7OZQiby7DXTIYl"
@@ -1145,7 +1371,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 369523,
       "name": "Oser aimer - Dave Aud\u00e9 Pride Remix",
       "url": "https://open.spotify.com/track/7z3SSCoJGBuXNBUlCrHdmq"
@@ -1203,7 +1429,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 210625,
       "name": "Petite mort (Remix)",
       "url": "https://open.spotify.com/track/7Fds4txIukBaLpzODVAatU"
@@ -1243,10 +1469,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 165386,
       "name": "Premi\u00e8re ministre",
       "url": "https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s"
+    },
+    {
+      "album": {
+        "name": "Purple Hat",
+        "url": "https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178369,
+      "name": "Purple Hat",
+      "url": "https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z"
     },
     {
       "album": {
@@ -1261,7 +1505,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178369,
       "name": "Purple Hat",
       "url": "https://open.spotify.com/track/6WiGRFQfx2qw49MA7OeDYK"
@@ -1327,10 +1571,32 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176840,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
+    },
+    {
+      "album": {
+        "name": "While The World Was Burning",
+        "url": "https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176867,
+      "name": "Roses - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb"
     },
     {
       "album": {
@@ -1349,10 +1615,32 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 223479,
       "name": "Run Run",
       "url": "https://open.spotify.com/track/3AykwqBMnpKvNwT9iMcJXj"
+    },
+    {
+      "album": {
+        "name": "Run Run",
+        "url": "https://open.spotify.com/album/38PlQgKM1ytIx0yOZRlzNU"
+      },
+      "artists": [
+        {
+          "name": "CAZZETTE",
+          "url": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
+        },
+        {
+          "name": "Morgan Bosman",
+          "url": "https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223479,
+      "name": "Run Run",
+      "url": "https://open.spotify.com/track/64TB6vy9OSpv8mlA7hBKJ0"
     },
     {
       "album": {
@@ -1452,6 +1740,28 @@
     },
     {
       "album": {
+        "name": "Le tournant (Deluxe)",
+        "url": "https://open.spotify.com/album/3aTjsAPRs4s8KShwk8wIDW"
+      },
+      "artists": [
+        {
+          "name": "Amay Laoni",
+          "url": "https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp"
+        },
+        {
+          "name": "Marie-Mai",
+          "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 218616,
+      "name": "Sous les rivi\u00e8res",
+      "url": "https://open.spotify.com/track/3tQUAxWJ1OQVg6E5QmU2W4"
+    },
+    {
+      "album": {
         "name": "Sous les rivi\u00e8res",
         "url": "https://open.spotify.com/album/3gJsg7WPQjSNNoYuObwx9Z"
       },
@@ -1467,7 +1777,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 218616,
       "name": "Sous les rivi\u00e8res",
       "url": "https://open.spotify.com/track/3y9pU3vApshiVOJ5ngTZAB"
@@ -1567,7 +1877,7 @@
     {
       "album": {
         "name": "Trap (Rompasso Remix)",
-        "url": "https://open.spotify.com/album/7k8be8fqMq09xErCVY0Eiq"
+        "url": "https://open.spotify.com/album/1s7yipr2OiICvvV8YAEMpv"
       },
       "artists": [
         {
@@ -1582,6 +1892,28 @@
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Trap - Rompasso Remix",
+      "url": "https://open.spotify.com/track/08pnZCD7bB3voKAA3ShGTw"
+    },
+    {
+      "album": {
+        "name": "Trap (Rompasso Remix)",
+        "url": "https://open.spotify.com/album/7k8be8fqMq09xErCVY0Eiq"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 168750,
       "name": "Trap - Rompasso Remix",
       "url": "https://open.spotify.com/track/0UiXb63styFtMSJUnRcXIY"
@@ -1603,7 +1935,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170666,
       "name": "Usine",
       "url": "https://open.spotify.com/track/44hTr4ziB9ASIDOPEvzeYd"
@@ -1713,7 +2045,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 176377,
       "name": "White Lies",
       "url": "https://open.spotify.com/track/2UkF0EWfh0T90ScJzGqnD1"
@@ -1783,7 +2115,7 @@
     {
       "album": {
         "name": "You Do You",
-        "url": "https://open.spotify.com/album/6m9lTF2yfw9sIY3gdtOxaD"
+        "url": "https://open.spotify.com/album/6Tk1TJLX2NJUJ03cjxTykN"
       },
       "artists": [
         {
@@ -1798,6 +2130,28 @@
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 154217,
+      "name": "You Do You",
+      "url": "https://open.spotify.com/track/0Nek8bANm0dzO0vI9mmnJG"
+    },
+    {
+      "album": {
+        "name": "You Do You",
+        "url": "https://open.spotify.com/album/6m9lTF2yfw9sIY3gdtOxaD"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "BabyJake",
+          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 154217,
       "name": "You Do You",
       "url": "https://open.spotify.com/track/4cHDvM5zaKfabQaW2wAT1x"

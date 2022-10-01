@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Soft, instrumental music to help you reflect. ",
+  "description": "A safe space for reflecting and remembering. Soft, instrumental music to bring you comfort and strength. ",
   "name": "Reflection",
   "published_playlist_ids": [
     "795SCNBaIRC4NKBwTzfdNv"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "LISZT INSPECTIONS",
+        "url": "https://open.spotify.com/album/26tmVV1dFkaftPXyMrRABC"
+      },
+      "artists": [
+        {
+          "name": "Marino Formenti",
+          "url": "https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139653,
+      "name": "6 Encores for Piano: No. 3, Wasserklavier",
+      "url": "https://open.spotify.com/track/07tKTXpTwZhseOKcmzCv6D"
+    },
     {
       "album": {
         "name": "Liszt Inspections",
@@ -23,10 +41,36 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 139653,
       "name": "6 Encores for Piano: Wasserklavier",
       "url": "https://open.spotify.com/track/0aOvxm0QThgJ3QSV0qqS35"
+    },
+    {
+      "album": {
+        "name": "Orph\u00e9e",
+        "url": "https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Air Lyndhurst String Orchestra",
+          "url": "https://open.spotify.com/artist/72UK8pq1vewvVNs0mGCoH8"
+        },
+        {
+          "name": "Anthony Weeden",
+          "url": "https://open.spotify.com/artist/3Sn9qNHNBzGuMW3b4V6o98"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147093,
+      "name": "A Sparrow Alighted upon our Shoulder",
+      "url": "https://open.spotify.com/track/1G2mAZQL8xfy9wRqC6fY6K"
     },
     {
       "album": {
@@ -49,7 +93,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147093,
       "name": "A Sparrow Alighted upon our Shoulder",
       "url": "https://open.spotify.com/track/4ycGyVS3kyKxGqUiGuOVmt"
@@ -347,10 +391,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262413,
       "name": "much loved",
       "url": "https://open.spotify.com/track/0ehvSWC15JKhz5us5aOBjL"
+    },
+    {
+      "album": {
+        "name": "ask the river",
+        "url": "https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262413,
+      "name": "much loved",
+      "url": "https://open.spotify.com/track/6DV5mwk2kZw6GiDR2XUsjP"
     },
     {
       "album": {
@@ -431,10 +493,40 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 431160,
       "name": "Odchodz\u0105c",
       "url": "https://open.spotify.com/track/6Qme8DrbvQFDn2lTjGakLn"
+    },
+    {
+      "album": {
+        "name": "Bia\u0142a flaga (Remastered 2021)",
+        "url": "https://open.spotify.com/album/6As5yhcLVjvfDCupLSWDuK"
+      },
+      "artists": [
+        {
+          "name": "Grzegorz Ciechowski",
+          "url": "https://open.spotify.com/artist/3Gx5Yd5lrRmQ6hZpd4r3X2"
+        },
+        {
+          "name": "Zbigniew Krzywa\u0144ski",
+          "url": "https://open.spotify.com/artist/5Yft4cien7pPki6ixdxSso"
+        },
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431449,
+      "name": "Odchodz\u0105c - Remastered 2021",
+      "url": "https://open.spotify.com/track/6KrYbAmoNnTEffv42nhToI"
     },
     {
       "album": {
@@ -655,10 +747,46 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211055,
       "name": "This Night",
       "url": "https://open.spotify.com/track/0m8MYDal7eCEfjApR7hyUP"
+    },
+    {
+      "album": {
+        "name": "This Night",
+        "url": "https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Califano",
+          "url": "https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211055,
+      "name": "This Night",
+      "url": "https://open.spotify.com/track/6LQv4r8SDy2S3fLNo3ntr9"
+    },
+    {
+      "album": {
+        "name": "Munich Session",
+        "url": "https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Today and it\u2019s gone (Munich Session)",
+      "url": "https://open.spotify.com/track/2w2ILZhs6v4kAEPD8GLIJj"
     },
     {
       "album": {
@@ -673,7 +801,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258000,
       "name": "Today and it\u2019s gone (Munich Session)",
       "url": "https://open.spotify.com/track/2wlUU8uTvjeCetz0EyeF5M"
@@ -745,10 +873,36 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 297500,
       "name": "Woven",
       "url": "https://open.spotify.com/track/2z5W3GOgV8yoNyCBkIpBzt"
+    },
+    {
+      "album": {
+        "name": "Spun from Reverence",
+        "url": "https://open.spotify.com/album/2hrD5KDCZSsJInhjV6vTFY"
+      },
+      "artists": [
+        {
+          "name": "Chelsea McGough",
+          "url": "https://open.spotify.com/artist/1O7mIiCIcKbF2X0GS616Yb"
+        },
+        {
+          "name": "Adrian Walther",
+          "url": "https://open.spotify.com/artist/1JTRiqIZM2aTYirDud2CoY"
+        },
+        {
+          "name": "Alice In Winter",
+          "url": "https://open.spotify.com/artist/6GT9NGuY5ABje2cz3AN5in"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297500,
+      "name": "Woven",
+      "url": "https://open.spotify.com/track/20Q7fB2oTV89FxFz7I3oVg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSZXCWJ6tnaz"

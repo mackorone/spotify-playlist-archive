@@ -243,6 +243,28 @@
     {
       "album": {
         "name": "K'op Kuxul",
+        "url": "https://open.spotify.com/album/4fh1lwgtTR6adLCmxv2kjB"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        },
+        {
+          "name": "Slajem K'op",
+          "url": "https://open.spotify.com/artist/0tfqvpIPdZzRdu8fcCedMb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Jajvel",
+      "url": "https://open.spotify.com/track/3xxs8YXrqQW2lILPeQ9Pxz"
+    },
+    {
+      "album": {
+        "name": "K'op Kuxul",
         "url": "https://open.spotify.com/album/5gkAiy0mlD7bchVoHVAjFr"
       },
       "artists": [
@@ -257,7 +279,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205714,
       "name": "Jajvel",
       "url": "https://open.spotify.com/track/26yDq0F8D1NIBr6s133aMM"
@@ -401,7 +423,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 155200,
       "name": "Ritual Consagrado a los Dioses",
       "url": "https://open.spotify.com/track/5nA2Us56gdVsctPVi9k5nB"

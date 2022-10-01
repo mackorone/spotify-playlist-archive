@@ -1,18 +1,110 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 2814,
+  "num_followers": 3438,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI1MjkyMCwwMDAwMDAxYTAwMDAwMTgxZGJmOGJiYjAwMDAwMDE3ZDlhNmU1YTBj",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGIyMzIzMTBkZDNjODA3MzRmM2NlZTMyZDJkNTMyYmE3",
   "tracks": [
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Variations of a Bloodline (Live)",
+        "url": "https://open.spotify.com/album/3iD3tUauck969gRVKq4Bt5"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade & The Fellowship Band",
+          "url": "https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF"
+        }
+      ],
+      "duration_ms": 822154,
+      "name": "Variations of a Bloodline - Live",
+      "url": "https://open.spotify.com/track/2usSemKhVAcu6JUcM9UkTB"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Chick Corea: The Montreux Years (Live)",
+        "url": "https://open.spotify.com/album/42fDTeZVyJcVoaKCnqP31t"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea Elektric Band",
+          "url": "https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Interlude - Live - Montreux Jazz Festival 2004",
+      "url": "https://open.spotify.com/track/4sMLaJdIDP9VUQuHngHzjb"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "John Patitucci Trio: Live in Italy",
+        "url": "https://open.spotify.com/album/3pxAc3Z4c4RX3y24cHJuA7"
+      },
+      "artists": [
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        }
+      ],
+      "duration_ms": 850557,
+      "name": "Mali (Live)",
+      "url": "https://open.spotify.com/track/7xgveO0ftVy4VcKt6gCGBu"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Saturday Night in San Francisco (Expanded Edition) [Live]",
+        "url": "https://open.spotify.com/album/0ucEskHaCyeqMWBmgT3J3n"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        },
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "duration_ms": 425746,
+      "name": "Splendido Sundance - Live at Warfield Theater, San Francisco, CA - December 6, 1980",
+      "url": "https://open.spotify.com/track/7evFX4LIgofxcz2MGnPaf5"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Now's The Time [Live (Remastered)]",
+        "url": "https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL"
+      },
+      "artists": [
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        },
+        {
+          "name": "Sam Rivers",
+          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
+        }
+      ],
+      "duration_ms": 431826,
+      "name": "Giant Steps - Live (Remastered)",
+      "url": "https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW"
+    },
     {
       "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "What It Is (Live In Montreal - July 7, 1983)",
-        "url": "https://open.spotify.com/album/5iNscjGQmMygfbiWXJlpkx"
+        "name": "What It Is: Montreal 7/7/83 (Live)",
+        "url": "https://open.spotify.com/album/5NUH4GlFSKf4QnKsK8EQHL"
       },
       "artists": [
         {
@@ -21,8 +113,8 @@
         }
       ],
       "duration_ms": 405425,
-      "name": "What It Is - Live In Montreal - July 7, 1983",
-      "url": "https://open.spotify.com/track/5daKUVUo5FVbXv6TF6Ic5D"
+      "name": "What It Is - Live at Theatre St-Denis, Montreal, Canada - July 7, 1983",
+      "url": "https://open.spotify.com/track/3oNcGjNy8kWNrORs3LGfrL"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -39,6 +131,38 @@
       "duration_ms": 518093,
       "name": "Sierre - Live",
       "url": "https://open.spotify.com/track/0na21NgHCDoPzS5Mjl9gMz"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Soul Eyes (Live)",
+        "url": "https://open.spotify.com/album/0rOjjtD2olUaP8hRt4DOy0"
+      },
+      "artists": [
+        {
+          "name": "Mal Waldron",
+          "url": "https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3"
+        }
+      ],
+      "duration_ms": 529360,
+      "name": "Soul Eyes (Live)",
+      "url": "https://open.spotify.com/track/1QtKtRFcCtacDvGWEhe5uP"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Money Jungle (Live)",
+        "url": "https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO"
+      },
+      "artists": [
+        {
+          "name": "\u6851\u539f\u3042\u3044",
+          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+        }
+      ],
+      "duration_ms": 347573,
+      "name": "\u30de\u30cd\u30fc\u30fb\u30b8\u30e3\u30f3\u30b0\u30eb - Live",
+      "url": "https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -59,8 +183,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Heart Song (Live)",
-        "url": "https://open.spotify.com/album/5abUJ9e8YQ1nuLvldIk96e"
+        "name": "Some Funkyness",
+        "url": "https://open.spotify.com/album/0yRE0UMYhstY8Yh1bf1Dr7"
       },
       "artists": [
         {
@@ -78,7 +202,7 @@
       ],
       "duration_ms": 429466,
       "name": "Heart Song - Live",
-      "url": "https://open.spotify.com/track/4auFbiuMrpvqxs3237Asgn"
+      "url": "https://open.spotify.com/track/15masYlUIQwqPAHpiE2DmN"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -855,8 +979,8 @@
     {
       "added_at": "2021-11-12 05:14:12",
       "album": {
-        "name": "Twins Live In Japan 1982",
-        "url": "https://open.spotify.com/album/77E3yGa6D6O5HJRuK90KyG"
+        "name": "Smooth Jazz Hits",
+        "url": "https://open.spotify.com/album/3PmD3OrZ0yYdvyslH6VkUz"
       },
       "artists": [
         {
@@ -864,9 +988,9 @@
           "url": "https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX"
         }
       ],
-      "duration_ms": 415866,
-      "name": "Okonkole' Y Trompa - Live in Japan 1982",
-      "url": "https://open.spotify.com/track/1JTyErCbO6j5gPDSvJRJpg"
+      "duration_ms": 424266,
+      "name": "Okonkole' Y Trompa - Remastered",
+      "url": "https://open.spotify.com/track/6P03MjTK2iTrkVBrGf1Qtd"
     },
     {
       "added_at": "2021-11-12 05:14:12",
@@ -1143,7 +1267,7 @@
     {
       "added_at": "2021-11-12 05:14:12",
       "album": {
-        "name": "Friday Night In San Francisco",
+        "name": "Friday Night in San Francisco",
         "url": "https://open.spotify.com/album/2zJMxui25tclR2FYj8jDYT"
       },
       "artists": [
@@ -1161,14 +1285,14 @@
         }
       ],
       "duration_ms": 691306,
-      "name": "Mediterranean Sundance / Rio Ancho - Live at Warfield Theatre, San Francisco, CA - December 1980",
+      "name": "Mediterranean Sundance / Rio Ancho - Live at Warfield Theatre, San Francisco, CA - December 5, 1980",
       "url": "https://open.spotify.com/track/0og2U8tsBAR7NJysRR6uBU"
     },
     {
       "added_at": "2021-11-12 05:14:12",
       "album": {
         "name": "Live at Union Chapel",
-        "url": "https://open.spotify.com/album/1F8kkZsV6ETDAwq0CIJeKu"
+        "url": "https://open.spotify.com/album/4o85w82Kto6QbSKHTmBSRN"
       },
       "artists": [
         {
@@ -1177,8 +1301,8 @@
         }
       ],
       "duration_ms": 316429,
-      "name": "December in New York - Live",
-      "url": "https://open.spotify.com/track/5tfpp6qdEkDkYDbhxop5ah"
+      "name": "December in New York",
+      "url": "https://open.spotify.com/track/3rXiWzhHkG5QPVyDQroix8"
     },
     {
       "added_at": "2021-11-12 05:14:12",

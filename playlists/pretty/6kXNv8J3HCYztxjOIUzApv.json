@@ -1,13 +1,477 @@
 {
-  "description": "Cover Artist: Bad Wolves                      Rock out while you work out! Follow for updates!",
-  "num_followers": 56986,
+  "description": "Rock out while you work out! Follow for updates!",
+  "num_followers": 56934,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MTc0OSxiOWVkMWM1MTAyOGE4MTg4ZjVkOWYwNThhMzM4NTIzZjdhMGRmYzcw",
+  "snapshot_id": "MTgxNyxmMWEyMDdiZjVmYWI2NjhkNWY2YTQ3ZmQ2ODMwNTFkZWNhYmNjNDI0",
   "tracks": [
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 209828,
+      "name": "The Ending",
+      "url": "https://open.spotify.com/track/691AmE5DD4ZZGtZBDZE654"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 224854,
+      "name": "This Is Mongol",
+      "url": "https://open.spotify.com/track/17Ps0qbxzIbNbg4tTMv6CU"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 165238,
+      "name": "Blow (feat. Spencer Charnas of Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/2shOJCdayjTPwCTS8l6OW7"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        },
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Scars That I'm Hiding (feat. Anders Frid\u00e9n of In Flames)",
+      "url": "https://open.spotify.com/track/3KccNKlsI4LhdJyIfpQfM8"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 185542,
+      "name": "Faded Out (feat. Within Temptation)",
+      "url": "https://open.spotify.com/track/3S4fzPT48VfDTjeqVrGuv4"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lee",
+          "url": "https://open.spotify.com/artist/4b9L0p4cMof32XvjwT9YrX"
+        },
+        {
+          "name": "Push Push",
+          "url": "https://open.spotify.com/artist/2U6tKVDkCk3vHLXQcg3ooI"
+        }
+      ],
+      "duration_ms": 147977,
+      "name": "Tops",
+      "url": "https://open.spotify.com/track/7LZ3e5dwxSHLMJiOOIx71v"
+    },
+    {
+      "added_at": "2022-08-26 16:05:57",
+      "album": {
+        "name": "Who\u2019s That Playing On The Radio? (feat. Danny Worsnop of Asking Alexandria and Mick Mars of M\u00f6tley Cr\u00fce)",
+        "url": "https://open.spotify.com/album/4SuFcZyW8cZ5owF1mj5KmC"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        },
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        },
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 205731,
+      "name": "Who\u2019s That Playing On The Radio? (feat. Danny Worsnop of Asking Alexandria and Mick Mars of M\u00f6tley Cr\u00fce)",
+      "url": "https://open.spotify.com/track/60873rJNFVxsGUrvVQenhS"
+    },
+    {
+      "added_at": "2022-08-17 19:31:15",
+      "album": {
+        "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS",
+        "url": "https://open.spotify.com/album/1BfOMEIpEQE8Xj2yYJLHPR"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "YOU DON'T KNOW WHAT LOVE MEANS",
+      "url": "https://open.spotify.com/track/2Ktf2I6JdWIczgrBpLEnXn"
+    },
+    {
+      "added_at": "2022-07-25 20:43:18",
+      "album": {
+        "name": "TIRED OF WINNING",
+        "url": "https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "TIRED OF WINNING",
+      "url": "https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO"
+    },
+    {
+      "added_at": "2022-07-25 20:43:44",
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/31lb2wh2yhT8I8DHdBKS7r"
+      },
+      "artists": [
+        {
+          "name": "The Browning",
+          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+        }
+      ],
+      "duration_ms": 251154,
+      "name": "Pure Evil",
+      "url": "https://open.spotify.com/track/51QDLswsqMjczerR1uROzk"
+    },
+    {
+      "added_at": "2022-07-25 20:43:23",
+      "album": {
+        "name": "TURN IT UP LIKE (Stand In The Fire)",
+        "url": "https://open.spotify.com/album/1ZLPa1ssZth3Ti7xRzpyAG"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 269314,
+      "name": "TURN IT UP LIKE (Stand In The Fire)",
+      "url": "https://open.spotify.com/track/0qNaAvpToqL0KyI1Ddg6gx"
+    },
+    {
+      "added_at": "2022-07-25 20:45:13",
+      "album": {
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/1JiQM9ygHBPtO18Lvqyd2i"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Last Chance To Dance (Bad Friend)",
+      "url": "https://open.spotify.com/track/0o49yIEUZUoCTJ1qRnqFUO"
+    },
+    {
+      "added_at": "2022-09-02 09:25:51",
+      "album": {
+        "name": "Rumble Of Thunder",
+        "url": "https://open.spotify.com/album/5gqOvY9dUDP8JQygMUYPTn"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 258462,
+      "name": "Bii Biyelgee",
+      "url": "https://open.spotify.com/track/2m30WlnHkXQgUlQNyFizTL"
+    },
+    {
+      "added_at": "2022-07-25 20:43:30",
+      "album": {
+        "name": "SPIRITS",
+        "url": "https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 339360,
+      "name": "SPIRITS",
+      "url": "https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD"
+    },
+    {
+      "added_at": "2022-07-25 20:43:55",
+      "album": {
+        "name": "Idol (feat. Tech N9ne)",
+        "url": "https://open.spotify.com/album/6UXqIJqZInWaAQ71rcAWeU"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 247154,
+      "name": "Idol (feat. Tech N9ne)",
+      "url": "https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK"
+    },
+    {
+      "added_at": "2022-07-25 20:45:31",
+      "album": {
+        "name": "The Amanuensis",
+        "url": "https://open.spotify.com/album/213Qf05kTcKCSq1Wc21Rhn"
+      },
+      "artists": [
+        {
+          "name": "Monuments",
+          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
+        }
+      ],
+      "duration_ms": 233986,
+      "name": "I, The Creator",
+      "url": "https://open.spotify.com/track/1QMda5rnAhJmwnjv5pxE7n"
+    },
+    {
+      "added_at": "2022-07-25 20:44:07",
+      "album": {
+        "name": "Special Effects",
+        "url": "https://open.spotify.com/album/63uxYglJtSneGlHf5MKWfl"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "Roadkill",
+      "url": "https://open.spotify.com/track/28QEJ42cRjtEr5x9Pa2KxU"
+    },
+    {
+      "added_at": "2022-07-25 20:45:46",
+      "album": {
+        "name": "Obsidian",
+        "url": "https://open.spotify.com/album/6QRURYmqe56BojUuWgTpX6"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 238373,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/0W9ZFdjumKClsj0UhYYnP3"
+    },
+    {
+      "added_at": "2022-07-25 20:44:16",
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "I Am Hated",
+      "url": "https://open.spotify.com/track/1hrDDgkVbbS5bySL8uHLh3"
+    },
+    {
+      "added_at": "2022-07-25 20:58:52",
+      "album": {
+        "name": "Outlier",
+        "url": "https://open.spotify.com/album/7HSNQl2xKaGTZF70H4QXIb"
+      },
+      "artists": [
+        {
+          "name": "Twelve Foot Ninja",
+          "url": "https://open.spotify.com/artist/3swwiYEQQzPNGvMdEhqReR"
+        }
+      ],
+      "duration_ms": 268582,
+      "name": "One Hand Killing",
+      "url": "https://open.spotify.com/track/4CAYapDnN4OZC8QnOvmIib"
+    },
+    {
+      "added_at": "2022-07-25 20:44:23",
+      "album": {
+        "name": "ANTI-ICON",
+        "url": "https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 174586,
+      "name": "AI",
+      "url": "https://open.spotify.com/track/0IdJ2fQSlQTeNuuA3Xznfm"
+    },
+    {
+      "added_at": "2022-07-25 21:00:24",
+      "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "War?",
+      "url": "https://open.spotify.com/track/5Q7m1Km199HHMB926xxbrs"
+    },
+    {
+      "added_at": "2022-08-17 19:32:04",
+      "album": {
+        "name": "The Retaliators Theme Song (21 Bullets) [feat. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New]",
+        "url": "https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k"
+      },
+      "artists": [
+        {
+          "name": "The Retaliators",
+          "url": "https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5"
+        },
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        },
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 242336,
+      "name": "The Retaliators Theme (21 Bullets) (feat. M\u00f6tley Cr\u00fce, Asking Alexandria, Ice Nine Kills, From Ashes To New)",
+      "url": "https://open.spotify.com/track/3iEmgajStVBooooNaltdOv"
+    },
+    {
+      "added_at": "2022-08-17 19:33:09",
+      "album": {
+        "name": "Black Thunder",
+        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Black Thunder",
+      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
+    },
+    {
+      "added_at": "2022-06-10 10:45:36",
+      "album": {
+        "name": "Welcome To The Circus",
+        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 256741,
+      "name": "Welcome To The Circus",
+      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
+    },
+    {
+      "added_at": "2022-08-19 15:42:41",
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 223199,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL"
+    },
     {
       "added_at": "2021-10-29 11:52:27",
       "album": {
@@ -2345,26 +2809,46 @@
       "url": "https://open.spotify.com/track/4MCko2lInqpb0hKRZxRdGz"
     },
     {
-      "added_at": "2022-04-29 15:07:01",
+      "added_at": "2022-08-26 16:06:01",
       "album": {
-        "name": "TIRED OF WINNING",
-        "url": "https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY"
+        "name": "Thousand Lifetimes",
+        "url": "https://open.spotify.com/album/1AQe2iTO5cYZqmPDT52ti6"
       },
       "artists": [
         {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
         }
       ],
-      "duration_ms": 206586,
-      "name": "TIRED OF WINNING",
-      "url": "https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO"
+      "duration_ms": 192502,
+      "name": "Thousand Lifetimes",
+      "url": "https://open.spotify.com/track/3iSgwMXZtxE7fBMqK214JX"
     },
     {
-      "added_at": "2022-06-10 10:45:36",
+      "added_at": "2022-09-21 14:25:50",
       "album": {
-        "name": "Welcome To The Circus",
-        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "Classless Act",
+          "url": "https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1"
+        },
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 194654,
+      "name": "Classless Act (feat. Vince Neil of Motley Crue)",
+      "url": "https://open.spotify.com/track/4ut8tFTcjm9gWPOJNWZ41T"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
       },
       "artists": [
         {
@@ -2372,9 +2856,245 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 256741,
-      "name": "Welcome To The Circus",
-      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
+      "duration_ms": 281803,
+      "name": "Darkness Settles In",
+      "url": "https://open.spotify.com/track/4tDY71ImWHA27HlmBJwjN4"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "The Retaliators",
+          "url": "https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5"
+        }
+      ],
+      "duration_ms": 339160,
+      "name": "TIRED OF WINNING / SHIPS IN THE NIGHT",
+      "url": "https://open.spotify.com/track/14QzhzJm09S4sKJ5odpfax"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        }
+      ],
+      "duration_ms": 267156,
+      "name": "Evil World Machine",
+      "url": "https://open.spotify.com/track/3CYDh4mjfg7I0hHHCNEt1S"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "Jacoby Shaddix",
+          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
+        },
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 317077,
+      "name": "Wolf Totem (feat. Jacoby Shaddix of Papa Roach)",
+      "url": "https://open.spotify.com/track/4MpWej5PustlOe6Wihucky"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 189499,
+      "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/4PDazdk7Vr6J3fkPdYNSvg"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "duration_ms": 206038,
+      "name": "Burn It Up",
+      "url": "https://open.spotify.com/track/0W22ed8cPRlbyaDEhuBQTB"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "TEMPT",
+          "url": "https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk"
+        },
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 238174,
+      "name": "Living Dangerous (feat. Dorothy)",
+      "url": "https://open.spotify.com/track/1EQ98Dd3TGD4rqRfzNgjtp"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        },
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        },
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 205731,
+      "name": "Who\u2019s That Playing On The Radio? (feat. Danny Worsnop of Asking Alexandria and Mick Mars of M\u00f6tley Cr\u00fce)",
+      "url": "https://open.spotify.com/track/6QbTzUuNxRnhZRMQpHQAOh"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        },
+        {
+          "name": "Jason Hook",
+          "url": "https://open.spotify.com/artist/1Nm7n07ydhbE1jjagpvJQQ"
+        }
+      ],
+      "duration_ms": 207229,
+      "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
+      "url": "https://open.spotify.com/track/4LOPMwxmP7ENYLiVUl9bFi"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "All Good Things",
+          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+        },
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 281197,
+      "name": "For The Glory (feat. Hollywood Undead)",
+      "url": "https://open.spotify.com/track/4oLzeTsQpM0sW6TXXxlyfw"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "The Retaliators",
+          "url": "https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5"
+        },
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        },
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 242336,
+      "name": "The Retaliators Theme (21 Bullets) (feat. M\u00f6tley Cr\u00fce, Asking Alexandria, Ice Nine Kills, From Ashes To New)",
+      "url": "https://open.spotify.com/track/63sD6W8AU9YbDrSjelxtCM"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "The Retaliators",
+          "url": "https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5"
+        },
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "duration_ms": 129726,
+      "name": "Cops Are Here",
+      "url": "https://open.spotify.com/track/1RDi8CZD2v7XvQOBvNYsSP"
     }
   ],
   "unique_name": "Hard Rock Workout",

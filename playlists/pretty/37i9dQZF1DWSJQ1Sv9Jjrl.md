@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJQ1Sv9Jjrl.md) - [plain]
 
 > Music from the Tall Girl films\. Watch Tall Girl 2 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,539 likes - 39 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,621 likes - 39 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJQ1Sv9Jjrl.md) - [plain]
 | 4 | [Slow Clap](https://open.spotify.com/track/2FD3oVMksB9tPIaowrx0zJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Slow Clap](https://open.spotify.com/album/6EE59zmOlHnpitmm52vkkm) | 2:30 |
 | 5 | [Delmar Drag](https://open.spotify.com/track/4a5jFpSidPpgH5Nvsvi8sX) | [Don Ewell Quartet](https://open.spotify.com/artist/3n4tB2FLZuG3fXSifkA5uI) | [Free 'n Easy!](https://open.spotify.com/album/0wDZBZ5HdV1NSok7vYx39w) | 3:58 |
 | 6 | [SUPERBLOOM](https://open.spotify.com/track/2HvtedoEeymVWrBPyAMNwZ) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [SUPERBLOOM](https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob) | 3:33 |
-| 7 | [Frankie](https://open.spotify.com/track/6nZAmCkn0cB5wG2uvQWSBi) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Quarry](https://open.spotify.com/album/2Z48McZfltPdZbp4dASRdp) | 4:17 |
+| 7 | [Frankie](https://open.spotify.com/track/76d5duEjc2sorWQFmZsdVC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:17 |
 | 8 | [Represent](https://open.spotify.com/track/2ZPDtvS8qtNv7wuVEBNPnO) | [MIZZI](https://open.spotify.com/artist/769KKZvR0mYxMd8qMiA4MF) | [Represent](https://open.spotify.com/album/7edDKiYFeO9saIw9zBxK49) | 2:41 |
 | 9 | [Vi ska aldrig gå hem](https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L) | 3:15 |
 | 10 | [Dance For The Hell Of It](https://open.spotify.com/track/1G8nKybzD7qlBxfZYFSybv) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:15 |
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJQ1Sv9Jjrl.md) - [plain]
 | 14 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 15 | [As Long as You Love Me](https://open.spotify.com/track/0q5OkmIw0GY8nmtrWNqOgY) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 2](https://open.spotify.com/album/5gw7p48ohCl2DpMjvMw5Ik) | 3:04 |
 | 16 | [Living It Up](https://open.spotify.com/track/7xqb9V5dnp2wa9emncBBEt) | [Rough Nights](https://open.spotify.com/artist/6UCvu6CiBsiaCNwjDrYFiT) | [Living It Up](https://open.spotify.com/album/3XXsI2XS9LZbJj0h0nSr8Q) | 2:52 |
-| 17 | [Stand Tall \("Tall Girl" Version\)](https://open.spotify.com/track/02X2UtRnA6gnvT6w9iCAQe) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Ava Michelle](https://open.spotify.com/artist/6euN0qAjCYkM3kcJYGMN2Z) | [Stand Tall \(from Netflix’s “Tall Girl”\)](https://open.spotify.com/album/35ssTQZcUa7dX0B0JZewhc) | 3:29 |
+| 17 | [Stand Tall \("Tall Girl" Version\)](https://open.spotify.com/track/10NS45JEegLhHNwU24WITE) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Ava Michelle](https://open.spotify.com/artist/6euN0qAjCYkM3kcJYGMN2Z) | [Stand Tall \(from Netflix’s “Tall Girl”\)](https://open.spotify.com/album/25GTeYaatZ09n71mGhfyZ1) | 3:29 |
 | 18 | [Figure You Out](https://open.spotify.com/track/2bFGGsScXp2Tu10jKMCKO6) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Long Story Short](https://open.spotify.com/album/0fsUPGZdjtXb5F7KJ4FSzk) | 2:43 |
 | 19 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 |
 | 20 | [Karaoke \(feat\. Lizzo\)](https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [3rd Ward Bounce](https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj) | 3:05 |
-| 21 | [Je Ne Me Connais Pas](https://open.spotify.com/track/59UhDtzduuh0zNVi52xCBs) | [Mattiel](https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q) | [Je Ne Me Connais Pas](https://open.spotify.com/album/7yn5Q1N2N3glht5HzDLa4E) | 2:40 |
+| 21 | [Je Ne Me Connais Pas](https://open.spotify.com/track/7uGz8qMZrX4T81hhTzAsdv) | [Mattiel](https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q) | [Satis Factory](https://open.spotify.com/album/3fBqQmacfxb4kVtQuULZK6) | 2:40 |
 | 22 | [Born for This](https://open.spotify.com/track/1eI5BMbva0iR0KzsV9wpck) | [Foxxi](https://open.spotify.com/artist/4Cojmi9XHgWlt7wuaY7YNA), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Born for This](https://open.spotify.com/album/2ZmL7NPS5bwagH4LsejkC2) | 3:16 |
 | 23 | [Future Starts Slow](https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/0PjRCiXdp6TQPXojFRB0AX) | 4:08 |
 | 24 | [Unchained Melody](https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [The Very Best Of The Righteous Brothers \- Unchained Melody](https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6) | 3:36 |
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJQ1Sv9Jjrl.md) - [plain]
 | 31 | [R U Ready for It](https://open.spotify.com/track/5iDuhDcGVSNk50VnFTgbnq) | [KID SOMETHING](https://open.spotify.com/artist/0ZUzov4ewXiJRz0uO2DiLO) | [R U Ready for It](https://open.spotify.com/album/4gAoLiZWUPZGAN09XTpvsx) | 2:17 |
 | 32 | [Big Kid](https://open.spotify.com/track/01LHOmbVULmYKnWFanWJBI) | [Avonlea](https://open.spotify.com/artist/30Ddlk9YPm030og6lClMou) | [Big Kid](https://open.spotify.com/album/2B8GMNzIaujNhf6OBac2JY) | 2:59 |
 | 33 | [Get What I Want](https://open.spotify.com/track/5KftZDwTyNCntMiu53J6f4) | [Foxxi](https://open.spotify.com/artist/4Cojmi9XHgWlt7wuaY7YNA), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Get What I Want](https://open.spotify.com/album/6lNdsQD8Wkkpd8V2f3Smc0) | 2:54 |
-| 34 | [Mayhem](https://open.spotify.com/track/1z3Gg0PF3qj81j4bOVtUU6) | [The Kemist](https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG), [Dj Braindead](https://open.spotify.com/artist/6KfuBqaNiLpb0cLc23Pnfq), [Nyanda](https://open.spotify.com/artist/5EgzuWPhhAurJc93qPTD3k) | [Mayhem](https://open.spotify.com/album/14yuL31T9JOO6HP5yMiA2a) | 3:30 |
+| 34 | [Mayhem 7.0](https://open.spotify.com/track/7kHEGPPEyN1E6lpFDqUb7h) | [The Kemist](https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG), [Dj Braindead](https://open.spotify.com/artist/6KfuBqaNiLpb0cLc23Pnfq), [Nyanda](https://open.spotify.com/artist/5EgzuWPhhAurJc93qPTD3k) | [Mayhem](https://open.spotify.com/album/5nlHNMt4szqKburTX4B4hh) | 3:30 |
 | 35 | [As Good as It Gets](https://open.spotify.com/track/0onRRPMlJ5OmWppoJtVwKD) | [Leftrightcenter](https://open.spotify.com/artist/07mLaGASjL3C43sjlpAL7Y) | [As Good as It Gets](https://open.spotify.com/album/05wcj0DsGL8wvl1ECuq4tn) | 2:50 |
 | 36 | [Mariah](https://open.spotify.com/track/3CwAAsuZuy1HKtNQcXDD3o) | [lilbootycall](https://open.spotify.com/artist/4EPyKMgsR7JDuW9tL0AYZP) | [Mariah](https://open.spotify.com/album/3xWPfUqCOw29NDc6x71naf) | 2:00 |
 | 37 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
 | 38 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 |
-| 39 | [Stand Tall \("Tall Girl" Version \- Remix\)](https://open.spotify.com/track/3ZKu0JSPo4OfPbh9zujNaO) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Ava Michelle](https://open.spotify.com/artist/6euN0qAjCYkM3kcJYGMN2Z) | [Stand Tall \(from Netflix’s “Tall Girl”\)](https://open.spotify.com/album/35ssTQZcUa7dX0B0JZewhc) | 3:42 |
+| 39 | [Stand Tall \("Tall Girl" Version \- Remix\)](https://open.spotify.com/track/0Vz8K8KIJfSFYt9n0Ifvl4) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Ava Michelle](https://open.spotify.com/artist/6euN0qAjCYkM3kcJYGMN2Z) | [Stand Tall \(from Netflix’s “Tall Girl”\)](https://open.spotify.com/album/25GTeYaatZ09n71mGhfyZ1) | 3:42 |
 
-Snapshot ID: `MTY0NDU4MDgwMCwwMDAwMDAwMjAwMDAwMTdlZThhNzg2NzYwMDAwMDE3ZWRmMTBlNjhi`
+Snapshot ID: `MTY0NDU4MDgwMCwwMDAwMDAwMGRjN2I1MWY5YWVlOWViMDg3MTc5YmQzYzVhNzBhNGJi`

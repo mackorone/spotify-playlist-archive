@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and jungle ambience.
 
-135 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/3l15CqJzr2gc74aGCbMkFu)
+137 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/3l15CqJzr2gc74aGCbMkFu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Ambient Woods](https://open.spotify.com/track/3UaXmGGrnybMEdNe5rh941) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Forest Sounds For Relaxation](https://open.spotify.com/album/03M9bEN52lhF5BHCbrml7D) | 2:08 | 2022-03-25 |  |
 | [Amour D'oiseau](https://open.spotify.com/track/5HUvWmP7XJ6vpzdmMBBZle) | [La Nature](https://open.spotify.com/artist/7AS6fHy7sK2j8EKoL5ygXT) | [Amour D'oiseau](https://open.spotify.com/album/5yDIfRt5KSttJ3tdvPCqDW) | 2:22 | 2022-04-29 |  |
 | [April Rain](https://open.spotify.com/track/7KB9VZg79SNkaBesrOOJMT) | [Beatrice Birds](https://open.spotify.com/artist/3hNMJQgn87uH4qAjdbkjUL) | [April Rain](https://open.spotify.com/album/5Dgk3JIGt2uzlxaxmNMBdY) | 2:06 | 2022-07-04 |  |
-| [Archipelago Waves](https://open.spotify.com/track/6pcIq19lQuURRdl1ZD3i46) | [Ice Wave Isac](https://open.spotify.com/artist/3ZgZHtsTSsa0k5vqEKtG2y) | [Discover The Waves](https://open.spotify.com/album/0kyGKFxKbKcTGv8OkiQEYf) | 1:12 | 2022-03-25 |  |
+| [Archipelago Waves](https://open.spotify.com/track/3Na4wOerW2kOPEPBOZnYqR) | [Ice Wave Isac](https://open.spotify.com/artist/3ZgZHtsTSsa0k5vqEKtG2y) | [Discover The Waves](https://open.spotify.com/album/3bgKEP7dzNP3NJenUsQtC8) | 1:12 | 2022-07-04 |  |
+| [Archipelago Waves](https://open.spotify.com/track/6pcIq19lQuURRdl1ZD3i46) | [Ice Wave Isac](https://open.spotify.com/artist/3ZgZHtsTSsa0k5vqEKtG2y) | [Discover The Waves](https://open.spotify.com/album/0kyGKFxKbKcTGv8OkiQEYf) | 1:12 | 2022-03-25 | 2022-07-29 |
 | [Atlanta Rain](https://open.spotify.com/track/07CtNdTuh11zJQlwoVkLCW) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Rainy Summer Days](https://open.spotify.com/album/6TpQ6fU21enN1K6iDu9Mij) | 2:50 | 2022-03-25 |  |
 | [Averse Sombre](https://open.spotify.com/track/0XdxWj0BQOdVKhaAbQYlwF) | [Créateurs De Pluie](https://open.spotify.com/artist/6LNyPA7N6f4dCGIqNdYkdK) | [Pluie Confortable](https://open.spotify.com/album/5YCyQJq6BlyEqb8et9l216) | 2:41 | 2022-03-25 |  |
 | [Beruhigender Bach](https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N) | [Calming Water Sounds](https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx) | [Chill Day by the River](https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv) | 2:27 | 2022-03-25 | 2022-07-05 |
@@ -110,7 +111,8 @@
 | [Serenity Stream](https://open.spotify.com/track/3YRLGX31Urt4b0sePMeqTK) | [Outside Broadcast Recordings](https://open.spotify.com/artist/3RchxeOVaDXmQRBWeL5CNZ) | [Natural Forest Sounds](https://open.spotify.com/album/2FSVv9SXq2JtwS9aZntmMn) | 4:00 | 2022-03-25 | 2022-04-29 |
 | [Singing Birds by the Stream](https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 2:55 | 2022-03-25 |  |
 | [Sitting Under The Tree](https://open.spotify.com/track/5ySy6nj1AWOTDx3Tm6M6zb) | [Paul's Field Recordings](https://open.spotify.com/artist/5fxe8QDUhBHXPULOFmFxry) | [Mother Nature](https://open.spotify.com/album/77DLlFKvDKjCbexjhopdve) | 2:23 | 2022-03-25 |  |
-| [Small Forest River](https://open.spotify.com/track/70lS8JZMk66GUaYn1UIL8b) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Small Forest River](https://open.spotify.com/album/3yAarsrdwNGlqFZlzCWWMy) | 3:32 | 2022-03-25 |  |
+| [Small Forest River](https://open.spotify.com/track/4hpHmF6GbAT1fLQ1JKbNG5) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Small Forest River](https://open.spotify.com/album/0XkHNDr5SbuQA8GPyvr8ty) | 3:32 | 2022-07-04 |  |
+| [Small Forest River](https://open.spotify.com/track/70lS8JZMk66GUaYn1UIL8b) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Small Forest River](https://open.spotify.com/album/3yAarsrdwNGlqFZlzCWWMy) | 3:32 | 2022-03-25 | 2022-07-29 |
 | [Small Waves Hitting Beach](https://open.spotify.com/track/0qLbSqEgFtyLOp1epIw1fa) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Seawaves](https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4) | 4:37 | 2022-03-25 |  |
 | [Smoothe Suburban Forest Rain 2](https://open.spotify.com/track/2BhG0szLZb5rqpIdXu0hGh) | [Mori Desu](https://open.spotify.com/artist/3pocUa48FP2N3zVmIKRYxv) | [Smoothe Suburban Forest Rain](https://open.spotify.com/album/0Dk4VKHbpAqFAxntBbiAwG) | 2:34 | 2022-03-25 |  |
 | [Soft & Crispy Rain](https://open.spotify.com/track/6bhxAE1z4FCDkJJKQBkV6f) | [Morgonkvist](https://open.spotify.com/artist/65IKDKBIpATr65zcLhiUvw) | [Droppar](https://open.spotify.com/album/7wr1YeA4KKJaH4aD7tzGTh) | 1:58 | 2022-03-25 |  |

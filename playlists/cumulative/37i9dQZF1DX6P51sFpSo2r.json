@@ -27,7 +27,7 @@
     {
       "album": {
         "name": "Sirens",
-        "url": "https://open.spotify.com/album/1HAvhnvSbJ3wdyOtj6Jtcl"
+        "url": "https://open.spotify.com/album/3k3ON7AVd9OZpIbnkzKQSy"
       },
       "artists": [
         {
@@ -38,6 +38,24 @@
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194066,
+      "name": "A Port In Any Storm",
+      "url": "https://open.spotify.com/track/46Zdq2HrcAtolMCkXUwsEu"
+    },
+    {
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/1HAvhnvSbJ3wdyOtj6Jtcl"
+      },
+      "artists": [
+        {
+          "name": "It Dies Today",
+          "url": "https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
       "duration_ms": 194066,
       "name": "A Port In Any Storm",
       "url": "https://open.spotify.com/track/4wVXaAKzc6sh2jkcgOba1d"
@@ -63,7 +81,7 @@
     {
       "album": {
         "name": "Dead Throne",
-        "url": "https://open.spotify.com/album/4aJCOyKPoo44BNCMbA5bP2"
+        "url": "https://open.spotify.com/album/4iYkAfmG9mB9whqxDEPgfI"
       },
       "artists": [
         {
@@ -74,6 +92,24 @@
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 184773,
+      "name": "Born To Lose",
+      "url": "https://open.spotify.com/track/4WsQCb1Atrhbb2I78hHCNG"
+    },
+    {
+      "album": {
+        "name": "Dead Throne",
+        "url": "https://open.spotify.com/album/4aJCOyKPoo44BNCMbA5bP2"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 184773,
       "name": "Born To Lose",
       "url": "https://open.spotify.com/track/6clSq0mAWWyBxJ41J4fUnw"
@@ -145,10 +181,28 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 302560,
       "name": "Chelsea Smile",
       "url": "https://open.spotify.com/track/0IebF3yDXM6KJX1xhMkdoe"
+    },
+    {
+      "album": {
+        "name": "Suicide Season",
+        "url": "https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302560,
+      "name": "Chelsea Smile",
+      "url": "https://open.spotify.com/track/3eSnqrgqm1R0mkgz80Cpzq"
     },
     {
       "album": {
@@ -261,7 +315,7 @@
     {
       "album": {
         "name": "No Sleep",
-        "url": "https://open.spotify.com/album/2quuIlEzXOKnu3z48wtK0b"
+        "url": "https://open.spotify.com/album/47PNyfphw9gBMz9SvxCPzP"
       },
       "artists": [
         {
@@ -272,6 +326,24 @@
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202493,
+      "name": "Erased",
+      "url": "https://open.spotify.com/track/4P2OiHcrk7j10MHFiVK3N3"
+    },
+    {
+      "album": {
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/2quuIlEzXOKnu3z48wtK0b"
+      },
+      "artists": [
+        {
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 202493,
       "name": "Erased",
       "url": "https://open.spotify.com/track/6rkYJm6nFi6twitGUVECfK"
@@ -361,10 +433,28 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 307933,
       "name": "Four Walls",
       "url": "https://open.spotify.com/track/04np64OjIt01Z7KSYWwhcC"
+    },
+    {
+      "album": {
+        "name": "Brainwashed",
+        "url": "https://open.spotify.com/album/6XnWvByzLkijHomCcGO2pv"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307933,
+      "name": "Four Walls",
+      "url": "https://open.spotify.com/track/2xfA2dKr30aRz3YgfvM6PV"
     },
     {
       "album": {
@@ -397,10 +487,28 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248493,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4JFUKD0b2V6IiW1up71GqU"
+    },
+    {
+      "album": {
+        "name": "Understanding What We've Grown to Be (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6QmepOn4v046xEUpYEcq1t"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250226,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/0IjqvPyctsYf3ASQPHWBvB"
     },
     {
       "album": {
@@ -513,7 +621,7 @@
     {
       "album": {
         "name": "Until Your Heart Stops",
-        "url": "https://open.spotify.com/album/7zMg7jqyMONlSKSGHW5jaS"
+        "url": "https://open.spotify.com/album/4uEbn5VjsqdbBQoMCI01Pl"
       },
       "artists": [
         {
@@ -524,6 +632,24 @@
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 125360,
+      "name": "Moral Eclipse",
+      "url": "https://open.spotify.com/track/0pcOFA9Nw7QYW8G5sqGIWk"
+    },
+    {
+      "album": {
+        "name": "Until Your Heart Stops",
+        "url": "https://open.spotify.com/album/7zMg7jqyMONlSKSGHW5jaS"
+      },
+      "artists": [
+        {
+          "name": "Cave In",
+          "url": "https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 125360,
       "name": "Moral Eclipse",
       "url": "https://open.spotify.com/track/3PI1ctNyHbnmhUqttF59xa"
@@ -620,6 +746,24 @@
     },
     {
       "album": {
+        "name": "This Is Love, This Is Murderous (Explicit Version)",
+        "url": "https://open.spotify.com/album/7qpANeSFbCyN6BWZM1jcxC"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 321013,
+      "name": "On Wings Of Lead",
+      "url": "https://open.spotify.com/track/4fsMEXdkiQz8VmoGuN31QL"
+    },
+    {
+      "album": {
         "name": "This Is Love, This Is Murderous",
         "url": "https://open.spotify.com/album/2ZWA7Os6UzInZOC9SJx0uz"
       },
@@ -631,10 +775,28 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 321013,
       "name": "On Wings of Lead",
       "url": "https://open.spotify.com/track/7MMc50k0I12cCeXS8503X9"
+    },
+    {
+      "album": {
+        "name": "This Is Love, This Is Murderous",
+        "url": "https://open.spotify.com/album/3ALJb3H9F3OXIauWYgg6Lz"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321506,
+      "name": "On Wings Of Lead",
+      "url": "https://open.spotify.com/track/4FnHy5Ux7PzyFwE8zjp3RU"
     },
     {
       "album": {
@@ -747,7 +909,7 @@
     {
       "album": {
         "name": "The Poison",
-        "url": "https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq"
+        "url": "https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM"
       },
       "artists": [
         {
@@ -758,6 +920,24 @@
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 348386,
+      "name": "Tears Don't Fall",
+      "url": "https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ"
+    },
+    {
+      "album": {
+        "name": "The Poison",
+        "url": "https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 348386,
       "name": "Tears Don't Fall",
       "url": "https://open.spotify.com/track/7ln7o4q6y9h8qEc6hGrtr1"
@@ -883,10 +1063,28 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283826,
       "name": "Unholy Confessions",
       "url": "https://open.spotify.com/track/20g7z9R1wjE7EtVnB7XEjS"
+    },
+    {
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283826,
+      "name": "Unholy Confessions",
+      "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
     },
     {
       "album": {

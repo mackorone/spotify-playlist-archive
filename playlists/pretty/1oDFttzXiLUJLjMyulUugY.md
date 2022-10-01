@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1oDFttzXiLUJLjMyulUugY.md) - [plain]
 
 > Achieve optimal workday zen with this relaxed, meditative mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 75 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 75 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

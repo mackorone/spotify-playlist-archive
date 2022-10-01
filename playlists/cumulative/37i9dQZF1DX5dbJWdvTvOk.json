@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-19",
   "description": "Canciones instrumentales de guitarra.",
   "name": "Guitarra Tranquila",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "284nn8KHwKE48t5E3olrdV"
+  ],
   "tracks": [
     {
       "album": {
@@ -57,6 +59,24 @@
       "duration_ms": 126875,
       "name": "Across",
       "url": "https://open.spotify.com/track/01xJAa5YF3Ffnw7VHXvTWf"
+    },
+    {
+      "album": {
+        "name": "Albarrac\u00edn",
+        "url": "https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8"
+      },
+      "artists": [
+        {
+          "name": "Marino Calle",
+          "url": "https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102360,
+      "name": "Albarrac\u00edn",
+      "url": "https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv"
     },
     {
       "album": {
@@ -215,7 +235,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 119786,
       "name": "Bella Flamenco",
       "url": "https://open.spotify.com/track/3yBw9pDOcsuEhcY2UBIqoM"
@@ -251,7 +271,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 182750,
       "name": "Black eyed dog",
       "url": "https://open.spotify.com/track/2DENCfhn50slvRKvF9pqcI"
@@ -341,7 +361,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191108,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP"
@@ -366,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Calisto",
+        "url": "https://open.spotify.com/album/6v3xFIkiGK5BtXb6IyILMI"
+      },
+      "artists": [
+        {
+          "name": "Marta Fiscovich",
+          "url": "https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146935,
+      "name": "Calisto",
+      "url": "https://open.spotify.com/track/6J35jqkTjXsJz2SQhu3BVt"
+    },
+    {
+      "album": {
         "name": "Calme et Paisible",
         "url": "https://open.spotify.com/album/2E92OD1lGuIQEla85kYKvY"
       },
@@ -381,6 +419,24 @@
       "duration_ms": 226244,
       "name": "Calme et Paisible",
       "url": "https://open.spotify.com/track/7yVRPYTBVg3h1TsPdzcr07"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n A Solas",
+        "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
+      },
+      "artists": [
+        {
+          "name": "Marta Fiscovich",
+          "url": "https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146875,
+      "name": "Canci\u00f3n A Solas",
+      "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
     },
     {
       "album": {
@@ -431,7 +487,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 224269,
       "name": "Cerbillona",
       "url": "https://open.spotify.com/track/0tnvceMi3hjvm78mKOzBzm"
@@ -853,7 +909,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187250,
       "name": "El Raval",
       "url": "https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll"
@@ -871,7 +927,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168196,
       "name": "El Viaje",
       "url": "https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3"
@@ -889,7 +945,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177392,
       "name": "En el \u00daltimo Trago",
       "url": "https://open.spotify.com/track/26ZLo3OE6vf6NK56YRn1I4"
@@ -1033,7 +1089,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 124272,
       "name": "Green Meadow",
       "url": "https://open.spotify.com/track/0z2dmmunpl2LB0iozr4yYv"
@@ -1130,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "Isola Bella",
+        "url": "https://open.spotify.com/album/1usC9bDEEJ79QAVmg1FoCx"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109254,
+      "name": "Isola Bella",
+      "url": "https://open.spotify.com/track/3JlL4o7hhUC2eWOByAdbk1"
+    },
+    {
+      "album": {
         "name": "It Started With A Simple Hello",
         "url": "https://open.spotify.com/album/3mb2nHbWyloy0dzdjlm3Fd"
       },
@@ -1163,7 +1237,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 152000,
       "name": "Jobim: Road to the Sun",
       "url": "https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx"
@@ -1206,6 +1280,50 @@
     },
     {
       "album": {
+        "name": "La Cascata",
+        "url": "https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131896,
+      "name": "La Cascata",
+      "url": "https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI"
+    },
+    {
+      "album": {
+        "name": "La Nostalgia",
+        "url": "https://open.spotify.com/album/7qt3oe7jbO84iozNWFpb4e"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Jos\u00e9 Isidoro",
+          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218342,
+      "name": "La Nostalgia",
+      "url": "https://open.spotify.com/track/0LPw0eHj4ZzgFoWBNkKMPM"
+    },
+    {
+      "album": {
         "name": "La Suerte Llegara\u0301",
         "url": "https://open.spotify.com/album/1kGSX1V9qlLqa51ldvn9TR"
       },
@@ -1217,7 +1335,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 145374,
       "name": "La Suerte Llegara\u0301",
       "url": "https://open.spotify.com/track/6kkupWXVg8I0XjbCbx7lHu"
@@ -1329,7 +1447,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234000,
       "name": "Like A Tourist On Caminito",
       "url": "https://open.spotify.com/track/6alGPVL0zYvetBZiSULNiP"
@@ -1351,6 +1469,42 @@
       "duration_ms": 167241,
       "name": "Lusen",
       "url": "https://open.spotify.com/track/5nPOD520fGVNUIUVAeOjbY"
+    },
+    {
+      "album": {
+        "name": "Manha De Carnaval",
+        "url": "https://open.spotify.com/album/2xRj3jkw0xBoLTBdkM8BSK"
+      },
+      "artists": [
+        {
+          "name": "Pablo Despeyroux",
+          "url": "https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146527,
+      "name": "Manha De Carnaval",
+      "url": "https://open.spotify.com/track/5D09utzIzyrzSRjeQMrssn"
+    },
+    {
+      "album": {
+        "name": "Manh\u00e3 de Carnaval",
+        "url": "https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232870,
+      "name": "Manh\u00e3 de Carnaval",
+      "url": "https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1"
     },
     {
       "album": {
@@ -1653,10 +1807,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 95421,
       "name": "Preludium G-Dur",
       "url": "https://open.spotify.com/track/7BrfpWvcN5ZlzaHs1ej0DF"
+    },
+    {
+      "album": {
+        "name": "Quite Comfy",
+        "url": "https://open.spotify.com/album/3gf4STG2CwjdpqjqSJNKKw"
+      },
+      "artists": [
+        {
+          "name": "R.B James",
+          "url": "https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214817,
+      "name": "Quite Comfy",
+      "url": "https://open.spotify.com/track/0oAZ7VXoIgk8Q8Izs0YkhO"
     },
     {
       "album": {
@@ -1750,6 +1922,24 @@
     },
     {
       "album": {
+        "name": "Rome Tivoli",
+        "url": "https://open.spotify.com/album/2PqlKRq3A5LJlV7G8NBkom"
+      },
+      "artists": [
+        {
+          "name": "Miguel Serugetti",
+          "url": "https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111649,
+      "name": "Rome Tivoli",
+      "url": "https://open.spotify.com/track/5cjoEk6N6psm1BO9Qdd4ML"
+    },
+    {
+      "album": {
         "name": "Rosebuds",
         "url": "https://open.spotify.com/album/36pUo2ZfESoPVlGVRGrzIK"
       },
@@ -1779,7 +1969,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 163613,
       "name": "Saas Fee",
       "url": "https://open.spotify.com/track/2q9RdGt69x8gWofFuPTLtD"
@@ -1959,7 +2149,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 193245,
       "name": "Shifrin",
       "url": "https://open.spotify.com/track/6hcKAG0hvriFgNlhJPfhmU"
@@ -1981,6 +2171,24 @@
       "duration_ms": 219000,
       "name": "So Close",
       "url": "https://open.spotify.com/track/3wz1TYEdO1O0Y217x8fkV1"
+    },
+    {
+      "album": {
+        "name": "Solitaria",
+        "url": "https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF"
+      },
+      "artists": [
+        {
+          "name": "Julia Quir\u00f3s",
+          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136624,
+      "name": "Solitaria",
+      "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
     },
     {
       "album": {
@@ -2092,6 +2300,24 @@
     },
     {
       "album": {
+        "name": "Stockholm Waltz",
+        "url": "https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623"
+      },
+      "artists": [
+        {
+          "name": "Julian Vigil",
+          "url": "https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140964,
+      "name": "Stockholm Waltz",
+      "url": "https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr"
+    },
+    {
+      "album": {
         "name": "The Poconos",
         "url": "https://open.spotify.com/album/3A40QGZkO7BxsX5pwDr017"
       },
@@ -2121,7 +2347,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 152119,
       "name": "Thing Of Beauty",
       "url": "https://open.spotify.com/track/4ATFCqpqkV8IwC7SXuPZSZ"
@@ -2215,10 +2441,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 131250,
       "name": "Un Dia de Novembre",
       "url": "https://open.spotify.com/track/2JuotGupvzrnGSYSx31N1o"
+    },
+    {
+      "album": {
+        "name": "Unknown",
+        "url": "https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2"
+      },
+      "artists": [
+        {
+          "name": "Atacustico",
+          "url": "https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147317,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl"
     },
     {
       "album": {
@@ -2259,6 +2503,24 @@
       "duration_ms": 158794,
       "name": "Valsa e Vinho",
       "url": "https://open.spotify.com/track/4992uwyEYOstUKzPgdPVR3"
+    },
+    {
+      "album": {
+        "name": "Velvet Morning",
+        "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148374,
+      "name": "Velvet Morning",
+      "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
     },
     {
       "album": {
@@ -2345,10 +2607,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 188987,
       "name": "Waiting for you",
       "url": "https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF"
+    },
+    {
+      "album": {
+        "name": "Whispering Layers",
+        "url": "https://open.spotify.com/album/1Xo3DXwlMHItplKwelQCMT"
+      },
+      "artists": [
+        {
+          "name": "Pacific Strings",
+          "url": "https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154280,
+      "name": "Whispering Layers",
+      "url": "https://open.spotify.com/track/29HXSiNvjzOadUBozQ1wJC"
     },
     {
       "album": {

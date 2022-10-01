@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 
 > Buon Appetito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,463 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,738 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 3 | [Summertime in Venice](https://open.spotify.com/track/48ivErtRGxqq7c7McvCrLu) | [Buddy Greco](https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ) | [My Last Night in Rome](https://open.spotify.com/album/5M0nS1p261Pba8ETac6qtv) | 2:14 |
 | 4 | [Rags to Riches](https://open.spotify.com/track/4BH8EuPAxeFAh1rSWtnGdD) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Columbia Singles, Vol\. 2](https://open.spotify.com/album/69MC1P86JXGPPfRDOgicPO) | 2:48 |
 | 5 | [Lazzarella](https://open.spotify.com/track/2Jx5D0YoqTrCmf6mhWUBNH) | [Gloria Christian](https://open.spotify.com/artist/1tGvCnveV3FhhNIjjGEPPI) | [La bimba di Napoli](https://open.spotify.com/album/44lx8lzwLCBQMFZwAbvjad) | 3:00 |
-| 6 | [Tu vuo' fa l'americano](https://open.spotify.com/track/5ez6STfeeuCyahjmGFmudi) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [Tu Vuo' Fa L'americano](https://open.spotify.com/album/5pvgUx68aVvUibpa1J9O56) | 3:25 |
+| 6 | [Tu Vuo' Fa L'Americano \(Alternate Take\)](https://open.spotify.com/track/0aRwjpeeFTjSLT7f58GdBw) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [L'Incredibile Renato Carosone](https://open.spotify.com/album/18nKFmNk8Jygs9tKqJAEzG) | 3:25 |
 | 7 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 |
 | 8 | [Primo amore](https://open.spotify.com/track/44nITwzqqMN5YGkkpHIssi) | [Carlo Buti](https://open.spotify.com/artist/2X9ZzmPwihIKKf2hIFfPyX) | [Se vuoi goder la vita](https://open.spotify.com/album/5crLflFonGxdtP6O5llh0H) | 3:45 |
 | 9 | [Sott'er celo de Roma](https://open.spotify.com/track/4aoGVSGI98wtrol55ppThj) | [Teddy Reno](https://open.spotify.com/artist/6bobviRFkmyCKCIxqMluuv) | [Pezzi da...90](https://open.spotify.com/album/6Ie5uPiaaDhJRbssFBAkZf) | 3:13 |
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 11 | [Conversazione](https://open.spotify.com/track/6QJCRh7zkxzpNZ5tzK2Rfm) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Sabato sera Studio Uno 1967](https://open.spotify.com/album/0GE5WZVdug1awyoHhWkBd0) | 2:20 |
 | 12 | [Colpevole \(con Orchestra\)](https://open.spotify.com/track/3jcLeXLBfmfxWmRVQ7oIc6) | [Nicola Arigliano](https://open.spotify.com/artist/2idnMmsuRiGC9cij6q8jFD) | [Colpevole](https://open.spotify.com/album/1mgsq0slHd56RMtIyTjej2) | 3:06 |
 | 13 | [Save The Last Dance For Me](https://open.spotify.com/track/3AgDyq95PRlHWhij9CaHam) | [Russ Columbo](https://open.spotify.com/artist/1bX7fjOYkonAk4NR2S82Kw) | [Save The Last Dance For Me](https://open.spotify.com/album/3GFvLuliDKA3e1dVGzGJ5H) | 2:53 |
-| 14 | [That's Amore \- 1998 Remastered](https://open.spotify.com/track/2yVKRJ026MOBElS97mp2Xl) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 3:07 |
+| 14 | [That's Amore](https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 3:10 |
 | 15 | [Kriminal tango](https://open.spotify.com/track/50Z9lMvcnkHuPodeL6XY53) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:44 |
-| 16 | [Ma l'amore no](https://open.spotify.com/track/33dcDLgUPZr3jvUuYMxANH) | [Alberto Rabagliati](https://open.spotify.com/artist/3zH8fBlRRDQl4fBjU9Hgra) | [Rarity Music Pop, Vol\. 300 \(Giorgio Gaslini presenta Alberto Rabagliati\)](https://open.spotify.com/album/01kBWFi4Gaaw4cOKgB6Hui) | 3:57 |
-| 17 | [Take My Heart \- Remastered](https://open.spotify.com/track/5tg20ochJcAlpj25GM5ZWx) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [Crooner \(Remastered\)](https://open.spotify.com/album/7pgcJ7XAmi0a41S0l7LKdL) | 3:09 |
+| 16 | [Ma l'amore no](https://open.spotify.com/track/5drSJDJ0IiWmwKiosUskqK) | [Alberto Rabagliati](https://open.spotify.com/artist/3zH8fBlRRDQl4fBjU9Hgra) | [Alberto Rabagliati](https://open.spotify.com/album/1yvawlqBZYtfiyu8OMhAPK) | 3:57 |
+| 17 | [Take My Heart](https://open.spotify.com/track/17mHf9wIBpntdSqDfD8c2g) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [The Ultimate Al Martino](https://open.spotify.com/album/5ZWGb9xTcmxXAjVNnbqELV) | 3:10 |
 | 18 | [Polvere](https://open.spotify.com/track/1ZhJn46BIvPpZcSqNEWDKX) | [Giorgio Consolini](https://open.spotify.com/artist/3YJLfJ2gMM7sd2cZnsHKKS) | [Giorgio Consolini](https://open.spotify.com/album/1ZtMtYMAmH2oopEA6dkCWr) | 3:39 |
 | 19 | [Guarda che luna](https://open.spotify.com/track/79g5dcc87vtTw5RkwkDs4L) | [Fred Buscaglione](https://open.spotify.com/artist/2OZgYaqlFRoRyycKkIvkSa) | [Che Bambola!](https://open.spotify.com/album/2dznTOXzQCpmzkTwLmt9fh) | 2:24 |
 | 20 | [In Times Like These](https://open.spotify.com/track/1O3XkvdYvLgmvUhAqtTPCR) | [Julius La Rosa](https://open.spotify.com/artist/1yhv5zp6IYFYpboAm7Fdlm) | [On The Sunny Side](https://open.spotify.com/album/5UwXs3lYUnJJjOMdvxKfty) | 2:46 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 46 | [Vecchio frack](https://open.spotify.com/track/0rHIXD2GmjixirvBfTUV2b) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 3:27 |
 | 47 | [I Have But One Heart \(O Marenariello\) \- 78 rpm Version](https://open.spotify.com/track/2Y0PJlBIzrcUGAH6r9pfzh) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Columbia Years \(1943\-1952\): The Complete Recordings: Volume 3](https://open.spotify.com/album/5BoSBPiaIMAPs87jvtAvFi) | 3:12 |
 | 48 | [Passione](https://open.spotify.com/track/5YbUsKDnZSuDiLx8MnDGiZ) | [Beniamino Gigli](https://open.spotify.com/artist/78qb0nLAzypzePDYBGYl8F) | [Passione](https://open.spotify.com/album/5nLsJZ6FqFslzLRputLC06) | 3:29 |
-| 49 | [Come Back To Sorrento](https://open.spotify.com/track/5qwgAYRiKuI1iTy8OpEMZS) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Old Gold Times Presents: Dean Martin \- The Full Story](https://open.spotify.com/album/29KCJy50quUkgpS0E4nBIt) | 3:13 |
+| 49 | [Come Back To Sorrento](https://open.spotify.com/track/5aefoUh9oR6nzQdwdp6k14) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:15 |
 | 50 | [Sincerely](https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [The Best Of Bobby Lester And The Moonglows](https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8) | 3:09 |
 | 51 | [Tarantella](https://open.spotify.com/track/5CVSC6Ehnko15JmOuGYFwA) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 2:16 |
 | 52 | [Carina \- 2004 Remaster](https://open.spotify.com/track/5yivxFwuIMvhWWQclRNuLC) | [Nicola Arigliano](https://open.spotify.com/artist/2idnMmsuRiGC9cij6q8jFD) | [Made In Italy](https://open.spotify.com/album/4fLE2vaPEOFgewmQ2DrJqC) | 3:01 |
 | 53 | [Sapore di sale](https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 3:34 |
-| 54 | [Italian Restaurant for One](https://open.spotify.com/track/4zuic4CVOHN9shgFcVIjw7) | [Italian Social Club](https://open.spotify.com/artist/05TCFEjumGZHwHezCWNwK0) | [Italian Café: Traditional Romantic Dinner Music from Italy](https://open.spotify.com/album/7hHYu4VO064qljJ4oKdjrD) | 3:25 |
+| 54 | [Italian Night](https://open.spotify.com/track/7kQJ5znmZV3jLpcNDQE0xR) | [The New Italian Ensemble](https://open.spotify.com/artist/6dxVfmnDCABARibSSrtqRI) | [Welcome Home](https://open.spotify.com/album/0QsSFqGdbReLFAWwKdQIhS) | 3:33 |
 
-Snapshot ID: `MTY0NTIwMDg4NiwwMDAwMDAwZDAwMDAwMTdmMGQ5ZDRjYWYwMDAwMDE2ZDE1MzJiMzMy`
+Snapshot ID: `MTY2MTM0OTIwOSwwMDAwMDAwMDJjNzQ3OWM5ZDllOTZhYWYxMzIwM2I1M2JlYWQyNWQw`

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Fall to Grace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3kWgBxtkD8ZJ9Xu84xrhWj"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191840,
+      "name": "Agony",
+      "url": "https://open.spotify.com/track/2SxirI2LVqTAa6YwZpTAyN"
+    },
+    {
+      "album": {
         "name": "Fall To Grace",
         "url": "https://open.spotify.com/album/2e5LKXliWzgc0tmdlnMwt9"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2017-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191840,
       "name": "Agony",
       "url": "https://open.spotify.com/track/62ZkL8GK1xNlPd25Ygcilu"
@@ -44,6 +62,28 @@
     },
     {
       "album": {
+        "name": "Family Dinner - Vol. 1",
+        "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        },
+        {
+          "name": "Magda Giannikou",
+          "url": "https://open.spotify.com/artist/2E2gPRKo4APVuw55BQelKc"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262693,
+      "name": "Amour T'es La",
+      "url": "https://open.spotify.com/track/4MIXgItmCtVLCnT4BvU5tU"
+    },
+    {
+      "album": {
         "name": "Amour T'es La (with Magda Giannikou)",
         "url": "https://open.spotify.com/album/5dIBox6fdwnfkNOBSjViue"
       },
@@ -55,7 +95,7 @@
       ],
       "date_added": "2017-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262693,
       "name": "Amour T'es La (with Magda Giannikou)",
       "url": "https://open.spotify.com/track/5YFi8OcgmaL6fwwEcQgGni"
@@ -188,6 +228,28 @@
     },
     {
       "album": {
+        "name": "Family Dinner - Vol. 1",
+        "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        },
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313506,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/63FjsyDMefiiQuuQkDbGlg"
+    },
+    {
+      "album": {
         "name": "Family Dinner - Volume 1",
         "url": "https://open.spotify.com/album/30JmlRnyVzdjADjj91bLq7"
       },
@@ -199,7 +261,7 @@
       ],
       "date_added": "2017-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 313497,
       "name": "Deep (with N'Dambi)",
       "url": "https://open.spotify.com/track/1N7ekKjPNRkouLjN6CzFDV"
@@ -217,10 +279,28 @@
       ],
       "date_added": "2017-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232530,
       "name": "Don't Wanna Fight",
       "url": "https://open.spotify.com/track/1xmctspTzQxisNXKY6Gxf6"
+    },
+    {
+      "album": {
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232530,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK"
     },
     {
       "album": {
@@ -295,8 +375,8 @@
           "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
         },
         {
-          "name": "Billy May's Rico Billy May's Rico Mambo OrchestraMambo Orchestra",
-          "url": "https://open.spotify.com/artist/37clSqgC3rfNpZIY0mHDbW"
+          "name": "The Rico Mambo Orchestra",
+          "url": "https://open.spotify.com/artist/11GPsCMxATNWk1L7OKFLpH"
         }
       ],
       "date_added": "2017-06-08",
@@ -337,10 +417,28 @@
       ],
       "date_added": "2017-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261200,
       "name": "Hope There's Someone",
       "url": "https://open.spotify.com/track/57KORKnC0OQM7HE7IN2FkZ"
+    },
+    {
+      "album": {
+        "name": "I Am A Bird Now",
+        "url": "https://open.spotify.com/album/1qgHb6l3H8xHuBQrFtvjKN"
+      },
+      "artists": [
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261200,
+      "name": "Hope There's Someone",
+      "url": "https://open.spotify.com/track/6hNOgftznEOoTrermrc30D"
     },
     {
       "album": {
@@ -377,10 +475,32 @@
       ],
       "date_added": "2017-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 309133,
       "name": "Motherless Child",
       "url": "https://open.spotify.com/track/2youXVWiL7DzESg3zspmvb"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/4cFoiStUR2uBHKKZUWtaBG"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        },
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309133,
+      "name": "Motherless Child",
+      "url": "https://open.spotify.com/track/6K8maSfqAvR82mV6rrDC5Z"
     },
     {
       "album": {
@@ -489,10 +609,46 @@
       ],
       "date_added": "2017-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244240,
       "name": "Shades of Blue",
       "url": "https://open.spotify.com/track/1qGi797wVdwu3DpsVGi6RJ"
+    },
+    {
+      "album": {
+        "name": "ESKA",
+        "url": "https://open.spotify.com/album/33ivVGguNH9c9nA223YAGc"
+      },
+      "artists": [
+        {
+          "name": "ESKA",
+          "url": "https://open.spotify.com/artist/6pBfwu2Yt96wWprf96vhpg"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244240,
+      "name": "Shades of Blue",
+      "url": "https://open.spotify.com/track/3EQ1tsO3gLby0K294yTGEz"
+    },
+    {
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220586,
+      "name": "What You Don't Do",
+      "url": "https://open.spotify.com/track/0gorODYIUfyg83lBPnPbZs"
     },
     {
       "album": {
@@ -507,7 +663,7 @@
       ],
       "date_added": "2017-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220586,
       "name": "What You Don't Do",
       "url": "https://open.spotify.com/track/4mityPmJpqtHea3y9qZLg6"
@@ -543,10 +699,28 @@
       ],
       "date_added": "2017-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192000,
       "name": "You're The One That I Want",
       "url": "https://open.spotify.com/track/0rONIAKyhhXXHxPfyc9dGf"
+    },
+    {
+      "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/6swbkdvrS8P0uq03AcFQiJ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "You're The One That I Want",
+      "url": "https://open.spotify.com/track/2GcCFSXhiEkIya9tcAdk2M"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8SiEKUUEVVi"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0y9CwEpdGpz.md) - [plain]
 
 > Known as the Nation's Little Sister in South Korea.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,940 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,764 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0y9CwEpdGpz.md) - [plain]
 | 79 | [Daydream \(feat\. Yang Hee\-eun\)](https://open.spotify.com/track/5TjV9Mx486FBvFW9n4IR2m) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Yang Hee\-eun](https://open.spotify.com/artist/5tkbYopseV4clQ9rtCwVzB) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 3:40 |
 | 80 | [Love of B](https://open.spotify.com/track/7b3p9nGAWa2fByucNemToA) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 3:11 |
 
-Snapshot ID: `MTY0NzQ5OTkxNCwwMDAwMDAzNjAwMDAwMTdmOTZhNWFkZjkwMDAwMDE3YzliZDc0MzVi`
+Snapshot ID: `MTY0NzQ5OTkxNCwwMDAwMDAwMDgwZmY3NGY1NzliMjMyZmE4NDc0Y2QwYTBkYzk3MTg2`

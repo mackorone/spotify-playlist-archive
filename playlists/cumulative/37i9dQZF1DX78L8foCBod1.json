@@ -8,25 +8,7 @@
   "tracks": [
     {
       "album": {
-        "name": "Dignified",
-        "url": "https://open.spotify.com/album/7l4oSwR9WSZmS1LWOX0fBW"
-      },
-      "artists": [
-        {
-          "name": "SennaRin",
-          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
-        }
-      ],
-      "date_added": "2022-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207333,
-      "name": "Akashi",
-      "url": "https://open.spotify.com/track/0XGoDPEHpeDTBpoDfndXrQ"
-    },
-    {
-      "album": {
-        "name": "Re:CREATORS (Original Soundtrack)",
+        "name": "Re:CREATORS Original Soundtrack",
         "url": "https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG"
       },
       "artists": [
@@ -39,8 +21,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252933,
-      "name": "Al:Lu",
+      "name": "AL:Lu",
       "url": "https://open.spotify.com/track/40QCH2u7X2ztyxrTW9mfEj"
+    },
+    {
+      "album": {
+        "name": "o1",
+        "url": "https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "mizuki",
+          "url": "https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268480,
+      "name": "aLIEz",
+      "url": "https://open.spotify.com/track/0w0LzMyUvgRYqYehX77UE7"
     },
     {
       "album": {
@@ -55,15 +59,15 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268480,
       "name": "aLIEz",
       "url": "https://open.spotify.com/track/1sbc8eGIQ69LOdmOdDx6g7"
     },
     {
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
-        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+        "name": "Attack on Titan The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi"
       },
       "artists": [
         {
@@ -71,12 +75,12 @@
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
-      "date_added": "2022-06-07",
+      "date_added": "2022-06-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 477480,
       "name": "AOTF-s1",
-      "url": "https://open.spotify.com/track/4UsCRRCctHBF45wci4a4BR"
+      "url": "https://open.spotify.com/track/1C9oENPxKhJlRy21acxJNq"
     },
     {
       "album": {
@@ -91,7 +95,43 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 477480,
+      "name": "AOTF-s1",
+      "url": "https://open.spotify.com/track/4UsCRRCctHBF45wci4a4BR"
+    },
+    {
+      "album": {
+        "name": "Attack on Titan The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213346,
+      "name": "AOTF-s2",
+      "url": "https://open.spotify.com/track/471mJZzGPEvXlVI2lV9WBJ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 213346,
       "name": "AOTF-s2",
       "url": "https://open.spotify.com/track/5sXmXSfvguJBhQRDzQMqZ8"
@@ -109,15 +149,15 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222146,
       "name": "AOTF-s3",
       "url": "https://open.spotify.com/track/2fA7GDUDBo2SO1GRLC5uWe"
     },
     {
       "album": {
-        "name": "Blue Exorcist Plugless",
-        "url": "https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq"
+        "name": "Attack on Titan The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi"
       },
       "artists": [
         {
@@ -125,12 +165,12 @@
           "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
-      "date_added": "2022-06-07",
+      "date_added": "2022-06-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 199666,
-      "name": "Ashergensawkyoku 1St-Mov.: Call Me Later",
-      "url": "https://open.spotify.com/track/4Ubtpg1kZYDfc2S2UhwW54"
+      "duration_ms": 222146,
+      "name": "AOTF-s3",
+      "url": "https://open.spotify.com/track/781lnywJl6ruxJzFF2kj6P"
     },
     {
       "album": {
@@ -139,8 +179,12 @@
       },
       "artists": [
         {
-          "name": "SawanoHiroyuki[nZk]:mizuki",
-          "url": "https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS"
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "mizuki",
+          "url": "https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS"
         }
       ],
       "date_added": "2022-06-07",
@@ -181,10 +225,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221426,
       "name": "Barricades",
       "url": "https://open.spotify.com/track/09IDtgw1w7BETDAV2X9UWt"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "Barricades",
+      "url": "https://open.spotify.com/track/6iaQi9uPzHoXLMo5g490Bj"
     },
     {
       "album": {
@@ -193,8 +255,12 @@
       },
       "artists": [
         {
-          "name": "SawanoHiroyuki[nZk]:Yosh",
-          "url": "https://open.spotify.com/artist/2LjjIxKVSELsdFKkmABPNT"
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Yosh",
+          "url": "https://open.spotify.com/artist/6YQbZJhj2jLdbeNpYFZY73"
         }
       ],
       "date_added": "2022-06-07",
@@ -203,6 +269,24 @@
       "duration_ms": 220626,
       "name": "Barricades <MODv>",
       "url": "https://open.spotify.com/track/6ifVlWjbfDBIwmlz4QmOzS"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236253,
+      "name": "Bauklotze",
+      "url": "https://open.spotify.com/track/6oh6pyBUaJWZbhQKsq0iAm"
     },
     {
       "album": {
@@ -221,14 +305,14 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236253,
       "name": "Baukl\u00f6tze",
       "url": "https://open.spotify.com/track/3M4ZPA9akOPJVnJnepcfb6"
     },
     {
       "album": {
-        "name": "KILL LA KILL Complete Soundtrack",
+        "name": "\u30ad\u30eb\u30e9\u30ad\u30eb \u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7hhI5DK0xtKjkBmmHUlTg6"
       },
       "artists": [
@@ -241,8 +325,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 248266,
-      "name": "Before My Body Is Dry",
+      "name": "Before my body is dry",
       "url": "https://open.spotify.com/track/1FvZeK3MgmGldxeYDvzanR"
+    },
+    {
+      "album": {
+        "name": "BEST OF VOCAL WORKS [nZk] 2 -Side SawanoHiroyuki[nZk]-",
+        "url": "https://open.spotify.com/album/1Z024hSkjcF3P3FjRtAm3o"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Yosh",
+          "url": "https://open.spotify.com/artist/6YQbZJhj2jLdbeNpYFZY73"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230186,
+      "name": "BELONG",
+      "url": "https://open.spotify.com/track/32MBCRb6ADfaoRreLCjU3z"
     },
     {
       "album": {
@@ -257,7 +363,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230186,
       "name": "BELONG",
       "url": "https://open.spotify.com/track/7cbhfvV5kvpBWwjVpqvvJJ"
@@ -279,32 +385,54 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283853,
       "name": "Binary Star",
       "url": "https://open.spotify.com/track/1KuSFI0ARV38j5spcq7Wbo"
     },
     {
       "album": {
-        "name": "GUILTY CROWN (COMPLETE SOUNDTRACK)",
-        "url": "https://open.spotify.com/album/0GYWaav81pYQVP3QcOdVv1"
+        "name": "R\u2203/MEMBER",
+        "url": "https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0"
       },
       "artists": [
         {
-          "name": "Hiroyuki Sawano",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
         },
         {
-          "name": "Mika Kobayashi",
-          "url": "https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz"
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
         }
       ],
-      "date_added": "2022-06-07",
+      "date_added": "2022-06-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 273760,
-      "name": "Bios",
-      "url": "https://open.spotify.com/track/30XxVjgbzt3BhaZIRIriaE"
+      "duration_ms": 283853,
+      "name": "Binary Star",
+      "url": "https://open.spotify.com/track/44UgawdeYuvQ1rKc33t2tp"
+    },
+    {
+      "album": {
+        "name": "UnChild",
+        "url": "https://open.spotify.com/album/316cd68BCYDpLDjQ14rLha"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288426,
+      "name": "bL\u221edy f8",
+      "url": "https://open.spotify.com/track/4mX3vYu4lkOrOXfFBOoHJY"
     },
     {
       "album": {
@@ -319,14 +447,14 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 288426,
       "name": "bL\u221edy f8",
       "url": "https://open.spotify.com/track/3X056v6ulInK4Q6xcUG1Oh"
     },
     {
       "album": {
-        "name": "Re:CREATORS (Original Soundtrack)",
+        "name": "Re:CREATORS Original Soundtrack",
         "url": "https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG"
       },
       "artists": [
@@ -339,12 +467,12 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 264786,
-      "name": "Brave The Ocean",
+      "name": "BRAVE THE OCEAN",
       "url": "https://open.spotify.com/track/0hmk2Wp5zmsH4tRpgGG61b"
     },
     {
       "album": {
-        "name": "ALDNOAH.ZERO (Original Soundtrack)",
+        "name": "\u30a2\u30eb\u30c9\u30ce\u30a2\u30fb\u30bc\u30ed \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/0S7j5fH2fipQ9i9MXwCYqi"
       },
       "artists": [
@@ -357,8 +485,44 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241986,
-      "name": "Bre@th//Less",
+      "name": "BRE@TH//LESS",
       "url": "https://open.spotify.com/track/5OC6Gv6qYt2s59IwiJZhu7"
+    },
+    {
+      "album": {
+        "name": "Break Free",
+        "url": "https://open.spotify.com/album/2D7WcHj7mz8BtzrOkBUDVM"
+      },
+      "artists": [
+        {
+          "name": "NAQT VANE",
+          "url": "https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186987,
+      "name": "Break Free",
+      "url": "https://open.spotify.com/track/6YoDbIGSUKhhk7t63zXJkM"
+    },
+    {
+      "album": {
+        "name": "Break Free (English Ver.)",
+        "url": "https://open.spotify.com/album/3nQB9S1PjNqMO1zdgdiQca"
+      },
+      "artists": [
+        {
+          "name": "NAQT VANE",
+          "url": "https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186987,
+      "name": "Break Free - English Ver.",
+      "url": "https://open.spotify.com/track/7JBVP5uK17ykhXiONpsI13"
     },
     {
       "album": {
@@ -381,6 +545,28 @@
     {
       "album": {
         "name": "narrative / NOISEofRAIN",
+        "url": "https://open.spotify.com/album/05HlCEwQ6p8Z5NU0jM6ssq"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Tielle",
+          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279360,
+      "name": "Cage <NTv>",
+      "url": "https://open.spotify.com/track/2RnHcbIhWU0wEfU8xcL9Lo"
+    },
+    {
+      "album": {
+        "name": "narrative / NOISEofRAIN",
         "url": "https://open.spotify.com/album/1FCMC2u03xrev6UsofDv7X"
       },
       "artists": [
@@ -391,7 +577,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 279360,
       "name": "Cage <NTv>",
       "url": "https://open.spotify.com/track/4aHRYUcSDr58mGep14Y6MI"
@@ -403,8 +589,12 @@
       },
       "artists": [
         {
-          "name": "SawanoHiroyuki[nZk]:Jean-Ken Johnny",
-          "url": "https://open.spotify.com/artist/5EuPKYBZNfEcg4ctrvubbo"
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Jean-Ken Johnny",
+          "url": "https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE"
         }
       ],
       "date_added": "2022-06-07",
@@ -413,6 +603,32 @@
       "duration_ms": 229146,
       "name": "Chaos Drifters",
       "url": "https://open.spotify.com/track/0BkkNBgnKwn9fc1MFoGJKI"
+    },
+    {
+      "album": {
+        "name": "narrative / NOISEofRAIN",
+        "url": "https://open.spotify.com/album/05HlCEwQ6p8Z5NU0jM6ssq"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "mizuki",
+          "url": "https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS"
+        },
+        {
+          "name": "Tielle",
+          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287520,
+      "name": "Christmas Scene",
+      "url": "https://open.spotify.com/track/4AHDmsYiqHI5rXcWUOURpY"
     },
     {
       "album": {
@@ -427,10 +643,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 287520,
       "name": "Christmas Scene",
       "url": "https://open.spotify.com/track/6FCIgCWGvMcMukMKaPzLq3"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206026,
+      "name": "DOA",
+      "url": "https://open.spotify.com/track/3oID0W8xzgfMWD5KFop4xA"
     },
     {
       "album": {
@@ -449,7 +683,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206026,
       "name": "DOA",
       "url": "https://open.spotify.com/track/7Jvht2ZKSBpiKTYy7qj6qc"
@@ -492,25 +726,7 @@
     },
     {
       "album": {
-        "name": "Blue Exorcist Plugless",
-        "url": "https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq"
-      },
-      "artists": [
-        {
-          "name": "Hiroyuki Sawano",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
-        }
-      ],
-      "date_added": "2022-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201506,
-      "name": "Exorcist Kyousoukyoku Chapter1 Me&Creed",
-      "url": "https://open.spotify.com/track/0t0u4H9AgnS0fQUvQwj6hd"
-    },
-    {
-      "album": {
-        "name": "Fanfare of Adolescence Original Soundtrack",
+        "name": "\u7fa4\u9752\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/3DczGU9W9xrKLpE9WFJ8iX"
       },
       "artists": [
@@ -528,7 +744,7 @@
     },
     {
       "album": {
-        "name": "Re:CREATORS (Original Soundtrack)",
+        "name": "Re:CREATORS Original Soundtrack",
         "url": "https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG"
       },
       "artists": [
@@ -541,8 +757,34 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 251586,
-      "name": "God Of Ink",
+      "name": "God of ink",
       "url": "https://open.spotify.com/track/5s0LeGW1HW39G1ZqxonnFj"
+    },
+    {
+      "album": {
+        "name": "2V-Alk",
+        "url": "https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Tielle",
+          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
+        },
+        {
+          "name": "Gemie",
+          "url": "https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226333,
+      "name": "gravityWall",
+      "url": "https://open.spotify.com/track/7wW7booCIm4h6a9upgAyLy"
     },
     {
       "album": {
@@ -557,14 +799,14 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226320,
-      "name": "Gravity Wall",
+      "name": "gravityWall",
       "url": "https://open.spotify.com/track/5vM7uTVvj65yNYKwnuERFo"
     },
     {
       "album": {
-        "name": "KABANERI OF THE IRON FORTRESS ORIGINAL SOUNDTRACK",
+        "name": "\u7532\u9244\u57ce\u306e\u30ab\u30d0\u30cd\u30ea ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/3g5qoaQMLMpDOnfof2RPCn"
       },
       "artists": [
@@ -582,6 +824,24 @@
     },
     {
       "album": {
+        "name": "SINGularity",
+        "url": "https://open.spotify.com/album/0z6d7zSYf9ZFkQA9kFsmEe"
+      },
+      "artists": [
+        {
+          "name": "Takanori Nishikawa",
+          "url": "https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "His/Story",
+      "url": "https://open.spotify.com/track/01StvYUbEIBwTHYdAXljct"
+    },
+    {
+      "album": {
         "name": "His/Story / Roll The Dice",
         "url": "https://open.spotify.com/album/36kha76MJobek1T7CzFASG"
       },
@@ -593,7 +853,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234480,
       "name": "His/Story",
       "url": "https://open.spotify.com/track/2PvKDoq2wPHhY4oqicrBwJ"
@@ -611,10 +871,50 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234053,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/1haosXb8XNSXWBuNirom1g"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30d7\u30ed\u30e1\u30a2\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1QZBK8EZ4KSQTlunvEwL7o"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234053,
+      "name": "Inferno",
+      "url": "https://open.spotify.com/track/6ZXVnfb7cIIDxg1DfLCP1M"
+    },
+    {
+      "album": {
+        "name": "2V-Alk",
+        "url": "https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Tielle",
+          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231480,
+      "name": "Into the Sky",
+      "url": "https://open.spotify.com/track/7rZ5VNIFZo8nC8XSSCvv7K"
     },
     {
       "album": {
@@ -629,7 +929,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229973,
       "name": "Into the Sky",
       "url": "https://open.spotify.com/track/6tlNCRtMwXKf0gw33ynf3X"
@@ -641,8 +941,12 @@
       },
       "artists": [
         {
-          "name": "SawanoHiroyuki[nZk]:mizuki",
-          "url": "https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS"
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "mizuki",
+          "url": "https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS"
         }
       ],
       "date_added": "2022-06-07",
@@ -690,21 +994,25 @@
     },
     {
       "album": {
-        "name": "Let there be light",
-        "url": "https://open.spotify.com/album/68per7qELaTtnUTYjqduRy"
+        "name": "R\u2203/MEMBER",
+        "url": "https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0"
       },
       "artists": [
         {
-          "name": "Akihito Okano",
-          "url": "https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD"
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Sayuri",
+          "url": "https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz"
         }
       ],
-      "date_added": "2022-06-07",
+      "date_added": "2022-06-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 218800,
-      "name": "Let there be light",
-      "url": "https://open.spotify.com/track/32Af51Tolwru7wDH9sgauz"
+      "duration_ms": 206306,
+      "name": "ME & CREED <nZkv>",
+      "url": "https://open.spotify.com/track/4TUMn1MyfbGKEH3SOQis4T"
     },
     {
       "album": {
@@ -723,7 +1031,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206306,
       "name": "ME & CREED <nZkv>",
       "url": "https://open.spotify.com/track/6MXCJwgxBt991xQt2kC9Dw"
@@ -753,10 +1061,62 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233480,
       "name": "M\u00f6bius",
       "url": "https://open.spotify.com/track/2Zamj985QrDpk6kRmG6qKt"
+    },
+    {
+      "album": {
+        "name": "Mobile Suit Gundam Hathaway Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0jQX86ZLgJ6w1Ll2rM54N5"
+      },
+      "artists": [
+        {
+          "name": "mpi",
+          "url": "https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K"
+        },
+        {
+          "name": "Laco",
+          "url": "https://open.spotify.com/artist/32e1e0DV0A1t0puvN1KXsj"
+        },
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx"
+        },
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233480,
+      "name": "M\u00f6bius",
+      "url": "https://open.spotify.com/track/3FgvBg0X20xbF0Dfq0N01E"
+    },
+    {
+      "album": {
+        "name": "R\u2203/MEMBER",
+        "url": "https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260519,
+      "name": "narrative",
+      "url": "https://open.spotify.com/track/1v4W1B2Qq29MTVXZA26Jhj"
     },
     {
       "album": {
@@ -775,10 +1135,32 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260519,
       "name": "narrative",
       "url": "https://open.spotify.com/track/3iaUOZm0Hfycs8xFBy7dmZ"
+    },
+    {
+      "album": {
+        "name": "R\u2203/MEMBER",
+        "url": "https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Sukima Switch",
+          "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242133,
+      "name": "never gonna change",
+      "url": "https://open.spotify.com/track/2Th1m7eTpU2A1HXbPAtZQ6"
     },
     {
       "album": {
@@ -797,7 +1179,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242133,
       "name": "never gonna change",
       "url": "https://open.spotify.com/track/2hG8RyNHcOLUnWEggEKfwU"
@@ -819,10 +1201,32 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260773,
-      "name": "Ninelie",
+      "name": "ninelie",
       "url": "https://open.spotify.com/track/0Qjqsp2Yfa05oQOlimaXzO"
+    },
+    {
+      "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        },
+        {
+          "name": "Chelly",
+          "url": "https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261773,
+      "name": "ninelie",
+      "url": "https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz"
     },
     {
       "album": {
@@ -870,7 +1274,7 @@
     },
     {
       "album": {
-        "name": "The Seven Deadly Sins (Original Soundtrack)",
+        "name": "\u4e03\u3064\u306e\u5927\u7f6a \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/4OHuwh9kd4b38gyrP5YMmP"
       },
       "artists": [
@@ -885,6 +1289,28 @@
       "duration_ms": 283760,
       "name": "Perfect Time",
       "url": "https://open.spotify.com/track/1upmGVmHvx0MEHEVdvnBCK"
+    },
+    {
+      "album": {
+        "name": "The Seven Deadly Sins:Cursed by Light ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7zNVkr0h3sj7LVnMntNhfQ"
+      },
+      "artists": [
+        {
+          "name": "Eliana",
+          "url": "https://open.spotify.com/artist/5gLLotXhk8QIBIi4oxaFmP"
+        },
+        {
+          "name": "mpi",
+          "url": "https://open.spotify.com/artist/0M8XP8YqaT4sUTFR6O6EKz"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380386,
+      "name": "Perfect Time <HNMT>",
+      "url": "https://open.spotify.com/track/1shauNfcBzaAR8pu1kBZgR"
     },
     {
       "album": {
@@ -903,7 +1329,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 380386,
       "name": "Perfect Time <HNMT>",
       "url": "https://open.spotify.com/track/4ov3V0TuMnKcd9CfqcQj6H"
@@ -925,10 +1351,32 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 296577,
       "name": "REMIND YOU",
       "url": "https://open.spotify.com/track/28lfGtjQI5KYTRXxxzsu2t"
+    },
+    {
+      "album": {
+        "name": "MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2",
+        "url": "https://open.spotify.com/album/6CHzOvncncZpIt3htstibX"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        },
+        {
+          "name": "Mika Kobayashi",
+          "url": "https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296577,
+      "name": "Remind You",
+      "url": "https://open.spotify.com/track/65wILiMv7t8DN4wweVQT0C"
     },
     {
       "album": {
@@ -955,6 +1403,28 @@
     {
       "album": {
         "name": "o1",
+        "url": "https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274626,
+      "name": "s-AVE",
+      "url": "https://open.spotify.com/track/5VTCTEHELRevrwWxVNFrXB"
+    },
+    {
+      "album": {
+        "name": "o1",
         "url": "https://open.spotify.com/album/7rvt413Q8h0wYZZ7AjNL6T"
       },
       "artists": [
@@ -965,14 +1435,14 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274626,
       "name": "s-AVE",
       "url": "https://open.spotify.com/track/1cT6cws3eNVGQCyrtpGHpQ"
     },
     {
       "album": {
-        "name": "KABANERI OF THE IRON FORTRESS COMPLETE SOUNDTRACK",
+        "name": "\u7532\u9244\u57ce\u306e\u30ab\u30d0\u30cd\u30ea COMPLETE SOUNDTRACK",
         "url": "https://open.spotify.com/album/4w86tNooD8SvmyWVjsjwNt"
       },
       "artists": [
@@ -985,8 +1455,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 238546,
-      "name": "S_Team",
+      "name": "S_TEAM",
       "url": "https://open.spotify.com/track/01oCO0CvwQLlbq3aHOvJOZ"
+    },
+    {
+      "album": {
+        "name": "o1",
+        "url": "https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Gemie",
+          "url": "https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283146,
+      "name": "Saving Us",
+      "url": "https://open.spotify.com/track/3ixdZukTK7y7bccizNfiYt"
     },
     {
       "album": {
@@ -1001,7 +1493,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283146,
       "name": "Saving Us",
       "url": "https://open.spotify.com/track/3qhuTGCGZJ0O9mFz5gpl69"
@@ -1026,6 +1518,32 @@
     },
     {
       "album": {
+        "name": "2V-Alk",
+        "url": "https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Tielle",
+          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
+        },
+        {
+          "name": "Gemie",
+          "url": "https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245426,
+      "name": "sh0ut",
+      "url": "https://open.spotify.com/track/0JUdNScTFs37m9dFGC07qp"
+    },
+    {
+      "album": {
         "name": "2V-ALK",
         "url": "https://open.spotify.com/album/1cWreaVLzKCYEim1vDF89j"
       },
@@ -1037,10 +1555,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245426,
       "name": "sh0ut",
       "url": "https://open.spotify.com/track/72CR78tomDaGj2yXyPAUWI"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328026,
+      "name": "StarRingChild",
+      "url": "https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu"
     },
     {
       "album": {
@@ -1055,14 +1591,14 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 328786,
       "name": "StarRingChild",
       "url": "https://open.spotify.com/track/4X9TyaTlXZKoYEaljWBIEK"
     },
     {
       "album": {
-        "name": "86 EIGHTY-SIX original soundtrack",
+        "name": "86\u2015\u30a8\u30a4\u30c6\u30a3\u30b7\u30c3\u30af\u30b9\u2015 \u30aa\u30ea\u30b7\u3099\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c8\u3099\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/2SlW3LaVSzRseiFdXRmssc"
       },
       "artists": [
@@ -1077,6 +1613,42 @@
       "duration_ms": 226053,
       "name": "THE ANSWER",
       "url": "https://open.spotify.com/track/2TQRsVtJBQnD0y6rPRCIA1"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275280,
+      "name": "The Dogs",
+      "url": "https://open.spotify.com/track/41FVSWUDLLOQok5DZLvKuy"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267120,
+      "name": "The Reluctant Heroes",
+      "url": "https://open.spotify.com/track/6zSXcvXQ8T74fXm72OpSOb"
     },
     {
       "album": {
@@ -1095,7 +1667,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267120,
       "name": "The Reluctant Heroes",
       "url": "https://open.spotify.com/track/6gay903RNSvL9pbY4cGQhz"
@@ -1113,7 +1685,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275893,
       "name": "theDOGS",
       "url": "https://open.spotify.com/track/7oexMVSCaD9l35CAliJT4w"
@@ -1131,14 +1703,32 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241533,
       "name": "Through My Blood <AM>",
       "url": "https://open.spotify.com/track/7nMyG8CJCgLweioZNOqRJc"
     },
     {
       "album": {
-        "name": "Thunderbolt Fantasy (Original Soundtrack)",
+        "name": "ninelie EP",
+        "url": "https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "Through My Blood <AM>",
+      "url": "https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt"
+    },
+    {
+      "album": {
+        "name": "Thunderbolt Fantasy \u6771\u96e2\u528d\u904a\u7d00 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/30HkaUQCrZj2wMd1ONqklE"
       },
       "artists": [
@@ -1151,7 +1741,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 335840,
-      "name": "Thunderboltfantasy",
+      "name": "thunderBOLTfantasy",
       "url": "https://open.spotify.com/track/09WSdjh5Xa0rYZs3SIxh4P"
     },
     {
@@ -1161,8 +1751,12 @@
       },
       "artists": [
         {
-          "name": "SawanoHiroyuki[nZk]:\u512a\u91cc",
-          "url": "https://open.spotify.com/artist/06xiwRrOYpawlayhiTU6Tr"
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
         }
       ],
       "date_added": "2022-06-07",
@@ -1179,8 +1773,12 @@
       },
       "artists": [
         {
-          "name": "SawanoHiroyuki[nZk]:ReoNa",
-          "url": "https://open.spotify.com/artist/0xOekrDdx7v5KH9KH3c1Nf"
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
       "date_added": "2022-06-07",
@@ -1189,6 +1787,42 @@
       "duration_ms": 238666,
       "name": "time",
       "url": "https://open.spotify.com/track/3Vy6sMmiFKmf8XmJlkxyMz"
+    },
+    {
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "Tot Musica",
+      "url": "https://open.spotify.com/track/4eChbtoFoOmWQt03aRDzaJ"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 195226,
+      "name": "Tot Musica",
+      "url": "https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj"
     },
     {
       "album": {
@@ -1203,10 +1837,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202186,
       "name": "TRACER",
       "url": "https://open.spotify.com/track/4bhPNXJUMNKHzvZlPVYYf6"
+    },
+    {
+      "album": {
+        "name": "Mobile Suit Gundam Hathaway Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0jQX86ZLgJ6w1Ll2rM54N5"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202186,
+      "name": "TRACER",
+      "url": "https://open.spotify.com/track/5pZNL0ZqBQ9Z8hKPGLtVrl"
     },
     {
       "album": {
@@ -1215,8 +1867,12 @@
       },
       "artists": [
         {
-          "name": "SawanoHiroyuki[nZk]:Anly",
-          "url": "https://open.spotify.com/artist/3htiRaaposQpQDprY7CWp8"
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Anly",
+          "url": "https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz"
         }
       ],
       "date_added": "2022-06-07",
@@ -1239,10 +1895,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 286702,
       "name": "UNICORN",
       "url": "https://open.spotify.com/track/3YbioJ807KAVVzY3NFdpF5"
+    },
+    {
+      "album": {
+        "name": "MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/7ylxV9GzV7U6lhQLKnHGWU"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286702,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/7q1pK4BgyC0H2Y8t9rh6Qh"
     },
     {
       "album": {
@@ -1264,24 +1938,6 @@
     },
     {
       "album": {
-        "name": "Walk to the Light",
-        "url": "https://open.spotify.com/album/1wlUyiLlOK5m7LWBhXxEuc"
-      },
-      "artists": [
-        {
-          "name": "Akihito Okano",
-          "url": "https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD"
-        }
-      ],
-      "date_added": "2022-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262633,
-      "name": "Walk to the Light",
-      "url": "https://open.spotify.com/track/6vhlzDLaHOaENWsdwGCBCc"
-    },
-    {
-      "album": {
         "name": "\u300c\u6226\u56fdBASARA\u5f10\u300d\u97f3\u697d\u7d75\u5dfb \u5f10 ~\u4e71\u4e16\u3001\u518d\u3072\u3099!~",
         "url": "https://open.spotify.com/album/5uiEMPybqprqh2TMaOR677"
       },
@@ -1300,6 +1956,28 @@
     },
     {
       "album": {
+        "name": "o1",
+        "url": "https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Gemie",
+          "url": "https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283853,
+      "name": "X.U.",
+      "url": "https://open.spotify.com/track/15tzlxIHJKn0axkuhhCvUX"
+    },
+    {
+      "album": {
         "name": "X.U. | scaPEGoat",
         "url": "https://open.spotify.com/album/21TgGuLWBGqtggQtWpiEdB"
       },
@@ -1311,10 +1989,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285853,
       "name": "X.U.",
       "url": "https://open.spotify.com/track/6bAiYbJ37zaQ6dTTcW49EA"
+    },
+    {
+      "album": {
+        "name": "Mobile Suit Gundam Hathaway Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0jQX86ZLgJ6w1Ll2rM54N5"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258440,
+      "name": "XI",
+      "url": "https://open.spotify.com/track/05htfeSgcxumTsbYEwerjb"
     },
     {
       "album": {
@@ -1329,10 +2025,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258440,
       "name": "XI",
       "url": "https://open.spotify.com/track/4eW2BYoxZ2tir3LJByWwTS"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266173,
+      "name": "Yamanaiame",
+      "url": "https://open.spotify.com/track/41XETJAuErZTQsUCwRckfF"
     },
     {
       "album": {
@@ -1347,7 +2061,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267640,
       "name": "YAMANAIAME",
       "url": "https://open.spotify.com/track/6KBQatL64GDr2i0KKpsIMC"
@@ -1365,10 +2079,46 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257466,
       "name": "YouSee-Power",
       "url": "https://open.spotify.com/track/517GTpatzMITcAIqsM74BU"
+    },
+    {
+      "album": {
+        "name": "Attack On Titan The Final Season Original Soundtrack 02",
+        "url": "https://open.spotify.com/album/6ZhZFePX82sWsRzKMdaprL"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257466,
+      "name": "YouSee-Power",
+      "url": "https://open.spotify.com/track/6fx2tRc1ez4qCPySzRRx1m"
+    },
+    {
+      "album": {
+        "name": "\"Attack on Titan\" Season 3 Original Soundtrack",
+        "url": "https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253893,
+      "name": "Zero Eclipse",
+      "url": "https://open.spotify.com/track/0MemW1DmggDpHBGH4GgiaS"
     },
     {
       "album": {
@@ -1383,10 +2133,86 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253893,
       "name": "Zero Eclipse",
       "url": "https://open.spotify.com/track/3MRtp8nHiflu8rrmLYB07X"
+    },
+    {
+      "album": {
+        "name": "GUILTY CROWN COMPLETE SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0GYWaav81pYQVP3QcOdVv1"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        },
+        {
+          "name": "Mika Kobayashi",
+          "url": "https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273760,
+      "name": "\u03b2ios",
+      "url": "https://open.spotify.com/track/30XxVjgbzt3BhaZIRIriaE"
+    },
+    {
+      "album": {
+        "name": "\u305d\u306e\u5148\u306e\u5149\u3078",
+        "url": "https://open.spotify.com/album/1wlUyiLlOK5m7LWBhXxEuc"
+      },
+      "artists": [
+        {
+          "name": "Akihito Okano",
+          "url": "https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262633,
+      "name": "\u305d\u306e\u5148\u306e\u5149\u3078",
+      "url": "https://open.spotify.com/track/6vhlzDLaHOaENWsdwGCBCc"
+    },
+    {
+      "album": {
+        "name": "\u9752\u306e\u7953\u9b54\u5e2b Plugless",
+        "url": "https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "\u30a2\u30c3\u30b7\u30e3\u30fc\u5e7bsaw\u66f2 \u7b2c\u4e00\u697d\u7ae0: Call me later",
+      "url": "https://open.spotify.com/track/4Ubtpg1kZYDfc2S2UhwW54"
+    },
+    {
+      "album": {
+        "name": "\u5149\u3042\u308c",
+        "url": "https://open.spotify.com/album/68per7qELaTtnUTYjqduRy"
+      },
+      "artists": [
+        {
+          "name": "Akihito Okano",
+          "url": "https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "\u5149\u3042\u308c",
+      "url": "https://open.spotify.com/track/32Af51Tolwru7wDH9sgauz"
     },
     {
       "album": {
@@ -1405,6 +2231,42 @@
       "duration_ms": 202693,
       "name": "\u5316\u8eab\u306e\u7363",
       "url": "https://open.spotify.com/track/0TKtEyUOpH8RanuLIRsiUC"
+    },
+    {
+      "album": {
+        "name": "\u9752\u306e\u7953\u9b54\u5e2b Plugless",
+        "url": "https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201506,
+      "name": "\u7953\u9b54\u5e2b\u5f37\u594f\u66f2 \u7b2c\u4e00\u697d\u7ae0: Me & Creed",
+      "url": "https://open.spotify.com/track/0t0u4H9AgnS0fQUvQwj6hd"
+    },
+    {
+      "album": {
+        "name": "Dignified",
+        "url": "https://open.spotify.com/album/7l4oSwR9WSZmS1LWOX0fBW"
+      },
+      "artists": [
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "\u8a3c",
+      "url": "https://open.spotify.com/track/0XGoDPEHpeDTBpoDfndXrQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX78L8foCBod1"

@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 311786,
       "name": "Heroes Party",
       "url": "https://open.spotify.com/track/3pTPE65rcQD17NixGk7Lzw"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 307333,
       "name": "Jiva",
       "url": "https://open.spotify.com/track/0mJXMCZ4p6bPVpsjj0zTGe"
@@ -261,6 +261,24 @@
       "duration_ms": 304133,
       "name": "Kutheni",
       "url": "https://open.spotify.com/track/0qrJ1ifPy3j0pUhYx6Lsfh"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 266226,
+      "name": "Kuyoze Kuyovalwa",
+      "url": "https://open.spotify.com/track/6UaKFi4ZmQqnQ1BoZYWoEw"
     },
     {
       "album": {
@@ -365,7 +383,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-29",
       "duration_ms": 265866,
       "name": "Memeza",
       "url": "https://open.spotify.com/track/3PCKM1x8qKIMjApmC6u2Ze"
@@ -696,6 +714,24 @@
     },
     {
       "album": {
+        "name": "Memeza",
+        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 317200,
+      "name": "Qula",
+      "url": "https://open.spotify.com/track/4Tqg2AhwuuzgpDsGWtG3M7"
+    },
+    {
+      "album": {
         "name": "Malibongwe",
         "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
       },
@@ -1021,7 +1057,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-09-17",
       "duration_ms": 240640,
       "name": "Zola Budd",
       "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"

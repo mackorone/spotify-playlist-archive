@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Soft piano music to accompany your reading.",
+  "description": "Soft piano music to accompany your reading",
   "name": "Summer Reading",
   "published_playlist_ids": [
     "4Uv2pvKPGCfzL9ALUABEi4"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 139663,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 180777,
       "name": "Before your eyes",
       "url": "https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 136374,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/10pCEITWkgRHhTAuCtvMWK"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 168295,
       "name": "Fairway Drive",
       "url": "https://open.spotify.com/track/3zkLIQIwUzSVO7BPOiqVSE"
@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Sweet Water",
+        "url": "https://open.spotify.com/album/4pFfD5JJWub5rc1A7kflUG"
+      },
+      "artists": [
+        {
+          "name": "Aron Edwards",
+          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154829,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/3NT3cMv9qqmIX45fQqwVIU"
+    },
+    {
+      "album": {
         "name": "Ariosa",
         "url": "https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded"
       },
@@ -649,7 +667,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 212000,
       "name": "Forgive Us",
       "url": "https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 220403,
       "name": "Home For Someone",
       "url": "https://open.spotify.com/track/4dSSFaVIaF3G0yYOkegjYo"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 202750,
       "name": "Human",
       "url": "https://open.spotify.com/track/2SMT5fwEqzZIu5VGFYL6qH"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 172992,
       "name": "Journey in Place",
       "url": "https://open.spotify.com/track/7dNH0Srg1kTobjTUwGnqxc"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 176625,
       "name": "Just Like Glass",
       "url": "https://open.spotify.com/track/77RVnHDxwWHltl9ZubyvOY"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 146725,
       "name": "Lasting Sun",
       "url": "https://open.spotify.com/track/0f6u4KLnzyfrMgbIjpvgBf"
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 251600,
       "name": "Lumi\u00e8re",
       "url": "https://open.spotify.com/track/3iNliE9VdKaPmpUangZfTB"
@@ -1283,6 +1301,24 @@
       "duration_ms": 180720,
       "name": "Manus in Mano",
       "url": "https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr"
+    },
+    {
+      "album": {
+        "name": "Marietta",
+        "url": "https://open.spotify.com/album/1GFJ90yWL7Y9rBYrIpI7LG"
+      },
+      "artists": [
+        {
+          "name": "Isaac Nash",
+          "url": "https://open.spotify.com/artist/32MlHIPCHJoM3V9IlknCxD"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143874,
+      "name": "Marietta",
+      "url": "https://open.spotify.com/track/7I3YkJ333ghsMaQXSiQNi2"
     },
     {
       "album": {
@@ -1423,7 +1459,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 193997,
       "name": "Next Part Of The Dream",
       "url": "https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG"
@@ -1441,7 +1477,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 248000,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/5Rmd8TQOc2hrM81Rvm1gpB"
@@ -1477,7 +1513,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 147250,
       "name": "Now and Then",
       "url": "https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG"
@@ -1549,7 +1585,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 141250,
       "name": "Op Die Fiets",
       "url": "https://open.spotify.com/track/7lkkpBe13UFrPIe9Ffn2cb"
@@ -1567,7 +1603,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 184135,
       "name": "Ozoner",
       "url": "https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ"
@@ -1657,7 +1693,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 167000,
       "name": "Portrait",
       "url": "https://open.spotify.com/track/4Ld5s7QdOY0mvuM0zHbnu5"
@@ -1679,6 +1715,24 @@
       "duration_ms": 144576,
       "name": "Pour toujours",
       "url": "https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO"
+    },
+    {
+      "album": {
+        "name": "Pour Vous",
+        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Pour Vous",
+      "url": "https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU"
     },
     {
       "album": {
@@ -1999,7 +2053,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 142750,
       "name": "Signs of Yesterday",
       "url": "https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c"
@@ -2042,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "Relaxing Piano (Neoclassical Sessions)",
+        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
+      },
+      "artists": [
+        {
+          "name": "Kalen Elmsley",
+          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184220,
+      "name": "Spheroidal",
+      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
+    },
+    {
+      "album": {
         "name": "Spheroidal",
         "url": "https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY"
       },
@@ -2053,7 +2125,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 184220,
       "name": "Spheroidal",
       "url": "https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh"
@@ -2204,6 +2276,24 @@
     },
     {
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/09kiYFhi76YddawBYnHKXt"
+      },
+      "artists": [
+        {
+          "name": "Wendie Solomon",
+          "url": "https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/2DiA01I5LFxzZC7QpVg3PZ"
+    },
+    {
+      "album": {
         "name": "Infinite Landing",
         "url": "https://open.spotify.com/album/3OUb8u8blLuUt2i4gnTUdD"
       },
@@ -2251,7 +2341,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 146709,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/2iKJY18ZbvwC6rGIGh1pIE"
@@ -2521,7 +2611,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 160145,
       "name": "Vitrales",
       "url": "https://open.spotify.com/track/2SPkUtdw39pnYWZr01opD9"

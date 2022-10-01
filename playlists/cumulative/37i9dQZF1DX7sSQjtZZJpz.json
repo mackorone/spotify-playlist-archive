@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "Learning Letters in the Classroom",
+        "url": "https://open.spotify.com/album/76evQcPiAR5Ec4egk4ipy1"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "ABC Song (Now I Know MY ABCs)",
+      "url": "https://open.spotify.com/track/2a2vb2BBrHIzDaLFQq56e8"
+    },
+    {
+      "album": {
         "name": "Learn Spanish - Aprende Ingl\u00e9s",
         "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
       },
@@ -59,7 +77,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 96000,
       "name": "ABC Song (Now I Know MY ABCs)",
       "url": "https://open.spotify.com/track/3YYHpNrXTFwChTbaOwv7ni"
@@ -128,8 +146,8 @@
     },
     {
       "album": {
-        "name": "Learn Spanish - Aprende Ingl\u00e9s",
-        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+        "name": "\u00a1Diversi\u00f3n en la Granja de Animales!",
+        "url": "https://open.spotify.com/album/3NTKOcn4UI6ukm4p26aTSU"
       },
       "artists": [
         {
@@ -142,7 +160,43 @@
       "date_removed": null,
       "duration_ms": 124726,
       "name": "Bingo (El Abecedario y los N\u00fameros)",
+      "url": "https://open.spotify.com/track/48CyJpHXn5eedkqy5roU07"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 124726,
+      "name": "Bingo (El Abecedario y los N\u00fameros)",
       "url": "https://open.spotify.com/track/7CDbZ2MufocDSGSG30KuLe"
+    },
+    {
+      "album": {
+        "name": "Learning Songs, Vol. 1 - Counting!",
+        "url": "https://open.spotify.com/album/1zKvQCMJ57vF2jaz8LmEUw"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123280,
+      "name": "Bingo Song - ABCs and 123s",
+      "url": "https://open.spotify.com/track/17Tyq0AeUiFrV5RiXBtjGd"
     },
     {
       "album": {
@@ -157,7 +211,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 123280,
       "name": "Bingo Song - ABCs and 123s",
       "url": "https://open.spotify.com/track/5wgNbLATNUHqJgXMGUW9sD"
@@ -287,10 +341,28 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 113906,
       "name": "Contar Veh\u00edculos de Colores",
       "url": "https://open.spotify.com/track/6G2kY5RqTyVSZtlEJkhdRU"
+    },
+    {
+      "album": {
+        "name": "Las Ruedas del Autob\u00fas y M\u00e1s Canciones de Veh\u00edculos",
+        "url": "https://open.spotify.com/album/5WpnQFRViLxLjxOqXWzODf"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113906,
+      "name": "Contar Veh\u00edculos de Colores",
+      "url": "https://open.spotify.com/track/6t6yDRUkINj1RZEi4Fu74h"
     },
     {
       "album": {
@@ -305,10 +377,28 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 69375,
       "name": "Count & Move",
       "url": "https://open.spotify.com/track/2su98ur3mUwDzbgWKQWILW"
+    },
+    {
+      "album": {
+        "name": "Twinkle Twinkle Little Star & More Kids Songs",
+        "url": "https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70891,
+      "name": "Count & Move",
+      "url": "https://open.spotify.com/track/62DApnlLEbCxeIoZmx2Fkp"
     },
     {
       "album": {
@@ -345,10 +435,28 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 91836,
       "name": "Counting Ducks Song",
       "url": "https://open.spotify.com/track/2Ec32B6l4fpntU6ZpcPb6A"
+    },
+    {
+      "album": {
+        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 3 - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/2wHrjY2KwfaFSKpZgnvILo"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91836,
+      "name": "Counting Ducks Song",
+      "url": "https://open.spotify.com/track/2XGBwiSqhsW9q8pW4AidEg"
     },
     {
       "album": {
@@ -399,10 +507,28 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 124726,
       "name": "Diez Huevitos",
       "url": "https://open.spotify.com/track/0oDiDejsvUeCDkshoPiVYp"
+    },
+    {
+      "album": {
+        "name": "\u00a1Diversi\u00f3n en la Granja de Animales!",
+        "url": "https://open.spotify.com/album/3NTKOcn4UI6ukm4p26aTSU"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124726,
+      "name": "Diez Huevitos",
+      "url": "https://open.spotify.com/track/4yiT2uEgIvsZ9XsAKat3B8"
     },
     {
       "album": {
@@ -443,7 +569,7 @@
     {
       "album": {
         "name": "24 Horas",
-        "url": "https://open.spotify.com/album/6tm1M6j9spjOrQOufaVGEw"
+        "url": "https://open.spotify.com/album/3dPdREEhxWnXBcVDcl90Ea"
       },
       "artists": [
         {
@@ -454,6 +580,24 @@
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 132773,
+      "name": "Hasta Diez",
+      "url": "https://open.spotify.com/track/4vdyMCHuBNWRVPysXZFtsc"
+    },
+    {
+      "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/6tm1M6j9spjOrQOufaVGEw"
+      },
+      "artists": [
+        {
+          "name": "Chiquititas",
+          "url": "https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 132773,
       "name": "Hasta Diez",
       "url": "https://open.spotify.com/track/6tUYiOgNXLU72ZQUQk3dgF"
@@ -478,6 +622,24 @@
     },
     {
       "album": {
+        "name": "Nanas y Canciones para Ni\u00f1os, Vol. 3 (Cantar y Aprender con LittleBabyBum)",
+        "url": "https://open.spotify.com/album/0sESu4JK502RYgNZBC27lJ"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91139,
+      "name": "La Canci\u00f3n de los Colores del Arco Iris",
+      "url": "https://open.spotify.com/track/1nrJvpZU0L37rc4XgVirkN"
+    },
+    {
+      "album": {
         "name": "Learn Spanish - Aprende Ingl\u00e9s",
         "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
       },
@@ -489,7 +651,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 91139,
       "name": "La Canci\u00f3n de los Colores del Arco Iris",
       "url": "https://open.spotify.com/track/4tQ4soXO34sGvHR9rXoL1L"
@@ -507,10 +669,28 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 96000,
       "name": "La Canci\u00f3n del ABC",
       "url": "https://open.spotify.com/track/5FmaEGHKIAa99FNaQJkuAp"
+    },
+    {
+      "album": {
+        "name": "\u00a1ABC, 123, Colores y Figuras!",
+        "url": "https://open.spotify.com/album/1XEDdfACwROZsHARJ1rS7T"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "La Canci\u00f3n del ABC",
+      "url": "https://open.spotify.com/track/6PbagrbF4H4aEs7XXCcOXL"
     },
     {
       "album": {
@@ -525,10 +705,28 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 122895,
       "name": "La Canci\u00f3n del Tren",
       "url": "https://open.spotify.com/track/6z7Z8LLWdAIgyeTcOe5XH4"
+    },
+    {
+      "album": {
+        "name": "Nanas y Canciones para Ni\u00f1os, Vol. 8 (Cantar y Aprender con LittleBabyBum)",
+        "url": "https://open.spotify.com/album/5RPEDvQsMWuZ3DURrH01x4"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122895,
+      "name": "La Canci\u00f3n del Tren de Formas",
+      "url": "https://open.spotify.com/track/6owNfXnjfSzSKfeKEL8Ebo"
     },
     {
       "album": {
@@ -568,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Wheels on the Bus & More Vehicle Songs!",
+        "url": "https://open.spotify.com/album/5rMGKINa45CmYXC7y7EQni"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113906,
+      "name": "Learn Numbers and Colours Song - Bus, Cars and Trucks",
+      "url": "https://open.spotify.com/track/2L8Q1XArhm968SXREBLeMb"
+    },
+    {
+      "album": {
         "name": "Learn Spanish - Aprende Ingl\u00e9s",
         "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
       },
@@ -579,7 +795,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 113906,
       "name": "Learn Numbers and Colours Song - Bus, Cars and Trucks",
       "url": "https://open.spotify.com/track/2qoa06w5d05xfzmlTrz9Ra"
@@ -596,7 +812,7 @@
         },
         {
           "name": "Zoe",
-          "url": "https://open.spotify.com/artist/2ssMAH1zhNUAwxBNvESHnA"
+          "url": "https://open.spotify.com/artist/4t8Z2cp7ogUDJcmOjDoEpe"
         },
         {
           "name": "Sesame Street",
@@ -797,10 +1013,28 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 40945,
       "name": "One Two Buckle My Shoe",
       "url": "https://open.spotify.com/track/3i9w1SJX31DC4onEpSqtat"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner's Favorite Classic Kids' Songs",
+        "url": "https://open.spotify.com/album/6DL5ZTWLrApqcpOXN2ljj9"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40945,
+      "name": "One Two Buckle My Shoe",
+      "url": "https://open.spotify.com/track/7gdB3HCeYvUg3wp2CkOwHx"
     },
     {
       "album": {
@@ -840,8 +1074,8 @@
     },
     {
       "album": {
-        "name": "Learn Spanish - Aprende Ingl\u00e9s",
-        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+        "name": "Nursery Rhymes & Children's Songs, Vol. 3 (Sing & Learn with LittleBabyBum)",
+        "url": "https://open.spotify.com/album/0za6wcd3SWkmyKn4ToVffG"
       },
       "artists": [
         {
@@ -854,7 +1088,43 @@
       "date_removed": null,
       "duration_ms": 91139,
       "name": "Rainbow Colors Song",
+      "url": "https://open.spotify.com/track/1ZyZxL7FAqAaEWWid5FDyR"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 91139,
+      "name": "Rainbow Colors Song",
       "url": "https://open.spotify.com/track/34bBmSl0cnSqxxwhVTJNlO"
+    },
+    {
+      "album": {
+        "name": "Colors!",
+        "url": "https://open.spotify.com/album/7GNrmUgUdUJsWu9XiCGO3T"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112200,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/0rI7Nb3sQsT8Yt9ML9guc9"
     },
     {
       "album": {
@@ -869,7 +1139,7 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 112200,
       "name": "Red",
       "url": "https://open.spotify.com/track/7BSXTBBAjLoqnVGgv9I2Z4"
@@ -905,10 +1175,46 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 122872,
       "name": "Shapes Train Song",
       "url": "https://open.spotify.com/track/4DvfoXiSwTT6TOAQ2XTwmx"
+    },
+    {
+      "album": {
+        "name": "ABC Colors Shapes and More - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/73AdelAITLoU5PxRGGYyk0"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122872,
+      "name": "Shapes Train Song",
+      "url": "https://open.spotify.com/track/5EQNnclurQIg5uAtNcqfc0"
+    },
+    {
+      "album": {
+        "name": "Planets of Our Solar System",
+        "url": "https://open.spotify.com/album/6iApbHoANBNEz1hxZ6eLcv"
+      },
+      "artists": [
+        {
+          "name": "Kids Learning Tube",
+          "url": "https://open.spotify.com/artist/3RvQsrlQFlGXHeLl1Vl9e0"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "Solar System",
+      "url": "https://open.spotify.com/track/4bRKc6gfJwv6MykBCOj6ju"
     },
     {
       "album": {
@@ -923,7 +1229,7 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 208561,
       "name": "Solar System",
       "url": "https://open.spotify.com/track/5zc9lVtIyznZOSEyQaOwqe"
@@ -959,10 +1265,28 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 119154,
       "name": "Ten Little Speckled Eggs - Learn Numbers with Chicks and Bunnies",
       "url": "https://open.spotify.com/track/3Tr4BBQbmGMmlyl9e6wdBw"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/49gD6mZhZkoYmr0n9PL5q5"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119154,
+      "name": "Ten Little Speckled Eggs - Learn Numbers with Chicks and Bunnies",
+      "url": "https://open.spotify.com/track/5rA5GviXad7rQQzNMQXDyC"
     },
     {
       "album": {
@@ -977,10 +1301,32 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 104498,
       "name": "The Alphabet Chant",
       "url": "https://open.spotify.com/track/4tYk6thaXl4sFEEahK4Tms"
+    },
+    {
+      "album": {
+        "name": "Twinkle Twinkle Little Star & More Kids Songs",
+        "url": "https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106338,
+      "name": "The Alphabet Chant",
+      "url": "https://open.spotify.com/track/4lmGHOgGeI327WihOT9B47"
     },
     {
       "album": {

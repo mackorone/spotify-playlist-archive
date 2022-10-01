@@ -4,7 +4,7 @@
 
 > The rise of the world's most influential punk band.
 
-24 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/2UiAyfKzlBQGJk08L73iZR)
+27 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/2UiAyfKzlBQGJk08L73iZR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 | 2017-04-25 |  |
 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2017-04-25 |  |
 | [Best Thing in Town](https://open.spotify.com/track/6tkTwjsmbX71sVUugD8szN) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:01 | 2017-04-25 |  |
-| [Burnout](https://open.spotify.com/track/3k1Eq5tlk7Gi22DtWicYFi) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/3GNVuwK8JUqvWc0K67z1SV) | 2:18 | 2017-04-25 |  |
+| [Burnout](https://open.spotify.com/track/2KBVzYt6iS1drCaSiBzPb2) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/1cKWXk5QHsUWHHqlsanUgj) | 2:18 | 2017-04-25 |  |
+| [Burnout](https://open.spotify.com/track/3k1Eq5tlk7Gi22DtWicYFi) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/3GNVuwK8JUqvWc0K67z1SV) | 2:18 | 2017-04-25 | 2022-07-29 |
 | [Christie Rd.](https://open.spotify.com/track/1O1Dzi3VvUfs0GAbcjqxJC) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 3:31 | 2017-04-25 |  |
 | [Chump](https://open.spotify.com/track/1Cq8IdsiaMiieYuLN8iEm0) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:54 | 2017-04-25 |  |
 | [Coming Clean](https://open.spotify.com/track/3YvcGzb3yoqpn2etiBzCWl) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/2isc12bFWhGjvhDgPgVcFO) | 1:52 | 2017-04-25 |  |
@@ -26,10 +27,12 @@
 | [Only of You](https://open.spotify.com/track/6jI28euaXj6cDYypkV8Gqe) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [1,039 / Smoothed out Slappy Hours](https://open.spotify.com/album/5xlutZ0sYfJQjVIBOkkeW8) | 2:44 | 2017-04-25 |  |
 | [Paper Lanterns](https://open.spotify.com/track/5TbJdu0jasNSuQRDkjIKax) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [1,039 / Smoothed out Slappy Hours](https://open.spotify.com/album/5xlutZ0sYfJQjVIBOkkeW8) | 2:23 | 2017-04-25 |  |
 | [She](https://open.spotify.com/track/4wsQGsdf8D0Bj26cGdvreB) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:14 | 2017-04-25 |  |
-| [She](https://open.spotify.com/track/3MSHU8LTXUFf5GvDeDJnco) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/2xjpJx5Rnf0yRa0YMmCM2p) | 4:04 | 2017-04-25 |  |
+| [She](https://open.spotify.com/track/3MSHU8LTXUFf5GvDeDJnco) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/2xjpJx5Rnf0yRa0YMmCM2p) | 4:04 | 2017-04-25 | 2022-07-29 |
+| [She](https://open.spotify.com/track/6u9WQNDUbBrJHcGrPKI76U) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/3NRdCKiAGPBrrEncLj7IAM) | 4:04 | 2017-04-25 |  |
 | [Still Breathing](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:44 | 2017-04-25 |  |
 | [Welcome to Paradise](https://open.spotify.com/track/7LZl1tWRNAPXLY4IgbCjmt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 3:30 | 2017-04-25 |  |
-| [Welcome To Paradise](https://open.spotify.com/track/7H3X9tX72Mr7TjxpqxSo0P) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/5dSE8bGpHGIZN9fTPfInX0) | 3:50 | 2017-04-25 |  |
+| [Welcome To Paradise](https://open.spotify.com/track/1XN6GUhNfKeOacK2Gj8mJD) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/5NL4v80t1rR33foSRUxeJe) | 3:50 | 2017-04-25 |  |
+| [Welcome To Paradise](https://open.spotify.com/track/7H3X9tX72Mr7TjxpqxSo0P) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Green Day: The Early Years \(Covers & New Classics\)](https://open.spotify.com/album/5dSE8bGpHGIZN9fTPfInX0) | 3:50 | 2017-04-25 | 2022-07-29 |
 | [When I Come Around](https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:58 | 2017-04-25 |  |
 | [Who Wrote Holden Caulfield?](https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:42 | 2017-04-25 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/67zOV0qxT0TT8JEHZDCBDd.md) - [plain]
 
 > Missa inte Miguel på Azalea\-scenen på FREDAG / 21.15
 
-[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 10 songs - 34 min 31 sec
+[Spotify](https://open.spotify.com/user/spotify) - 48 likes - 10 songs - 34 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

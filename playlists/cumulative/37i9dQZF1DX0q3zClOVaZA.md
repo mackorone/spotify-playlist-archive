@@ -4,7 +4,7 @@
 
 > \(\-\) "Connection, Discovery, & Growth"
 
-45 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/1rT41aZqBZS8Y2fAOD9mlZ)
+46 songs - 2 hr 8 min - [published](https://open.spotify.com/playlist/1rT41aZqBZS8Y2fAOD9mlZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Go Big or Go Home](https://open.spotify.com/track/0nh0uf3eB4JEjv4jQxj5eP) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:21 | 2022-05-12 |  |
 | [Go Big or Go Home](https://open.spotify.com/track/6IqKFke4ZhKbGYULllEezY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:21 | 2022-05-12 |  |
 | [Hey Tayo \- Tayo Opening Theme Song](https://open.spotify.com/track/2A7A3KF4NHFjW3ygFSt7In) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [HEY TAYO](https://open.spotify.com/album/2i0irlNjTfYPohsFPIK8J0) | 1:51 | 2022-05-12 |  |
+| [I Need The Light](https://open.spotify.com/track/69mhZKG0nDbSK7NoINWEsE) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [I Need The Light](https://open.spotify.com/album/4RAx28on33NHM5FQiFhyvZ) | 3:05 | 2022-08-19 |  |
 | [Interlude : Question](https://open.spotify.com/track/44h1kKvowM2bMxx1X3T1ue) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 1:24 | 2022-05-12 |  |
 | [Interlude : Question](https://open.spotify.com/track/5hmNvW5VqPJ96N6om3tO4g) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 1:24 | 2022-05-12 |  |
 | [Intro : The Invitation](https://open.spotify.com/track/6gGpF8V8miC4O0GZUqSZ9a) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:10 | 2022-05-12 |  |

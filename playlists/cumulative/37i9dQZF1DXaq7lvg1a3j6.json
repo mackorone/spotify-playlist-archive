@@ -537,8 +537,8 @@
           "url": "https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ"
         },
         {
-          "name": "Prem Hardeep",
-          "url": "https://open.spotify.com/artist/1ge0FlKDdkPEWarNZgxQrx"
+          "name": "Prem & Hardeep",
+          "url": "https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P"
         }
       ],
       "date_added": "2021-10-29",
@@ -745,10 +745,32 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 291626,
       "name": "Mehndi Laga Ke Rakhna",
       "url": "https://open.spotify.com/track/10VHC3DkFmpevIP3p7mvSf"
+    },
+    {
+      "album": {
+        "name": "Diamonds Forever - Lata Mangeshkar",
+        "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286694,
+      "name": "Mehndi Laga Ke Rakhna (From \"Dilwale Dulhania Le Jayenge\")",
+      "url": "https://open.spotify.com/track/6fAd7h8Jt3Hsf764rn7kEV"
     },
     {
       "album": {
@@ -878,7 +900,7 @@
     },
     {
       "album": {
-        "name": "Shaadi Mein Zaroor Aana",
+        "name": "Shaadi Mein Zaroor Aana (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Mpodk3gBVn1eSAVlfbci4"
       },
       "artists": [
@@ -893,6 +915,10 @@
         {
           "name": "Fazilpuria",
           "url": "https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX"
+        },
+        {
+          "name": "Zain - Sam",
+          "url": "https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL"
         }
       ],
       "date_added": "2021-10-29",
@@ -1051,8 +1077,8 @@
           "url": "https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q"
         },
         {
-          "name": "Sudesh Bhosle",
-          "url": "https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu"
+          "name": "Sudesh Bhosale",
+          "url": "https://open.spotify.com/artist/7u7mPDD1KXN9mfJ7EsBmET"
         },
         {
           "name": "Alka Yagnik",
@@ -1184,6 +1210,28 @@
     },
     {
       "album": {
+        "name": "Jab We Met",
+        "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280974,
+      "name": "Ye Ishq Hai",
+      "url": "https://open.spotify.com/track/4BiPsAV070dg3eLSVf727A"
+    },
+    {
+      "album": {
         "name": "Shreya Ghoshal's Favorites",
         "url": "https://open.spotify.com/album/0VWAJ6sKV4PFiBx0oH3oNw"
       },
@@ -1195,7 +1243,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 282852,
       "name": "Ye Ishq Hai (From \"Jab We Met\")",
       "url": "https://open.spotify.com/track/6ROdtruhxx6zK7jDpfP1Eh"

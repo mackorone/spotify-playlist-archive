@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Alicia's Noir",
+        "url": "https://open.spotify.com/album/3y5m3gy0dxv10z5czMmcWH"
+      },
+      "artists": [
+        {
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199580,
+      "name": "Alicia's Noir",
+      "url": "https://open.spotify.com/track/47CFKKFp99Wjk3QIyVJnVo"
+    },
+    {
+      "album": {
         "name": "All Of Me",
         "url": "https://open.spotify.com/album/1OMtqqOHouDPqZ4H4wxz6M"
       },
@@ -322,6 +340,24 @@
     },
     {
       "album": {
+        "name": "Colin",
+        "url": "https://open.spotify.com/album/2naNvERtXmruzo0nxV4pWR"
+      },
+      "artists": [
+        {
+          "name": "Las Desorden",
+          "url": "https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Colin",
+      "url": "https://open.spotify.com/track/1Bd5aIOYLMyxvI4FtG08x9"
+    },
+    {
+      "album": {
         "name": "Crossing Paths",
         "url": "https://open.spotify.com/album/6tDR44G5XlTW1n5YxhX29c"
       },
@@ -355,6 +391,24 @@
       "duration_ms": 120826,
       "name": "Crossroad at Dawn",
       "url": "https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP"
+    },
+    {
+      "album": {
+        "name": "Cyllene",
+        "url": "https://open.spotify.com/album/5JbLwgqc6LYNVWFnH4IGVn"
+      },
+      "artists": [
+        {
+          "name": "Martin Landh",
+          "url": "https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171482,
+      "name": "Cyllene",
+      "url": "https://open.spotify.com/track/2rdfoD2s2fZIKxAqcX2t9O"
     },
     {
       "album": {
@@ -423,10 +477,32 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 71826,
       "name": "Discovering River",
       "url": "https://open.spotify.com/track/4nNFaPF3JRJdDoltCGZRVX"
+    },
+    {
+      "album": {
+        "name": "The Revenant (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71826,
+      "name": "Discovering River",
+      "url": "https://open.spotify.com/track/2WuDHuqqedCB2jqZgGm5Om"
     },
     {
       "album": {
@@ -524,6 +600,42 @@
     },
     {
       "album": {
+        "name": "Faith in You",
+        "url": "https://open.spotify.com/album/5IAp1A7XNBFRAmLbtHYVcW"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198986,
+      "name": "Faith in You",
+      "url": "https://open.spotify.com/track/0wOmd66tskQXrKtLg33b3U"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Flew Away",
+        "url": "https://open.spotify.com/album/1s1aADIorXvJ1DUmMKxWId"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Flight",
+      "url": "https://open.spotify.com/track/08AlY11E0HRmvm32pt0K9d"
+    },
+    {
+      "album": {
         "name": "The Boy Who Flew Away",
         "url": "https://open.spotify.com/album/4dgeskwXtoICOIJuPqXBAt"
       },
@@ -535,7 +647,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136500,
       "name": "Flight",
       "url": "https://open.spotify.com/track/6x5tRBmT3426qhiOepUDOB"
@@ -650,6 +762,42 @@
     },
     {
       "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/4p1bxpSIls5jSr9CWRJmSz"
+      },
+      "artists": [
+        {
+          "name": "BlackDarkwin",
+          "url": "https://open.spotify.com/artist/66nc7AwBS925cs768stOQg"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173763,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/1gSTJluVhF7DoMPAqTqZxi"
+    },
+    {
+      "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/2KiX8D8GGwlXgjfwYb5z8M"
+      },
+      "artists": [
+        {
+          "name": "BlackDarkwin",
+          "url": "https://open.spotify.com/artist/66nc7AwBS925cs768stOQg"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 173763,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/63UfuiDT4cb2fi4LPSNvlm"
+    },
+    {
+      "album": {
         "name": "Dinosaur Original Soundtrack",
         "url": "https://open.spotify.com/album/19sIkTpeU6sUjZfafi1aCZ"
       },
@@ -661,10 +809,28 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177493,
       "name": "Inner Sanctum / The Nesting Grounds",
       "url": "https://open.spotify.com/track/1QuqujcrL6Iy0FDokChqHF"
+    },
+    {
+      "album": {
+        "name": "Dinosaur",
+        "url": "https://open.spotify.com/album/364YR5hc3wDSLIJfgrrqHi"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177493,
+      "name": "Inner Sanctum / The Nesting Grounds - From \"Dinosaur\"/Score",
+      "url": "https://open.spotify.com/track/5JbuKh2rpieicj3ld8Yy2L"
     },
     {
       "album": {
@@ -722,6 +888,28 @@
     },
     {
       "album": {
+        "name": "Quartet Classics Series: Largo from Xerxes",
+        "url": "https://open.spotify.com/album/3REN8n3aARNwmHx9YcGjvQ"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Artwinder Modern Quartet",
+          "url": "https://open.spotify.com/artist/2ipPNWfa4u0WTh99vGxpQ6"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Largo from Xerxes",
+      "url": "https://open.spotify.com/track/3dSA0ZoHzvXxvticgIz5MJ"
+    },
+    {
+      "album": {
         "name": "Adagio in G Minor",
         "url": "https://open.spotify.com/album/71LQkDLQm2RozTdCKAFBpt"
       },
@@ -773,10 +961,28 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177874,
       "name": "Let's Run Away Together",
       "url": "https://open.spotify.com/track/7jxJHRmtMpGNR3EmxnspDB"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Flew Away",
+        "url": "https://open.spotify.com/album/1s1aADIorXvJ1DUmMKxWId"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177875,
+      "name": "Let's Run Away Together",
+      "url": "https://open.spotify.com/track/2HfkmgoO8fLWRFeksDGpa6"
     },
     {
       "album": {
@@ -881,10 +1087,28 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219631,
       "name": "Moon Runes - Extended Version",
       "url": "https://open.spotify.com/track/0EUpzQP8Ni647J0hPXAclB"
+    },
+    {
+      "album": {
+        "name": "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack) [Special Edition]",
+        "url": "https://open.spotify.com/album/6v6VCAaPl3G08OeNhuk6za"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219631,
+      "name": "Moon Runes - Extended Version",
+      "url": "https://open.spotify.com/track/2qyWCX7YBeNh8p4Za0D4p7"
     },
     {
       "album": {
@@ -939,10 +1163,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 312506,
       "name": "My Initial Intentions",
       "url": "https://open.spotify.com/track/21sQUGmVeEqhvjEBlxARFO"
+    },
+    {
+      "album": {
+        "name": "The Ever After",
+        "url": "https://open.spotify.com/album/0fJwTIqN5z5PklqgqZB4x9"
+      },
+      "artists": [
+        {
+          "name": "Marble Sounds",
+          "url": "https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312506,
+      "name": "My Initial Intentions",
+      "url": "https://open.spotify.com/track/7h7R6kTMVdqFnoP0DFu1Ov"
     },
     {
       "album": {
@@ -1090,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "Remain",
+        "url": "https://open.spotify.com/album/0yXKfilmlkr1Z0WnYvA3fl"
+      },
+      "artists": [
+        {
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207790,
+      "name": "Remain",
+      "url": "https://open.spotify.com/track/04Df7GRcJW9WfstmCQKCkb"
+    },
+    {
+      "album": {
         "name": "The Elder Scrolls Online: Music of Tamriel, Vol. 1 (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/3CDobpkPE61sifIMbxvSN7"
       },
@@ -1191,10 +1451,28 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 139546,
       "name": "Sherwood Forest",
       "url": "https://open.spotify.com/track/1bHaFlc2jjKMfnb6GcBNwb"
+    },
+    {
+      "album": {
+        "name": "Robin Hood (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1QN1oNiNm33SVenYlW7ADL"
+      },
+      "artists": [
+        {
+          "name": "Marc Streitenfeld",
+          "url": "https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139546,
+      "name": "Sherwood Forest",
+      "url": "https://open.spotify.com/track/51zjgYMqhtxjYckGppYoce"
     },
     {
       "album": {
@@ -1310,6 +1588,50 @@
     },
     {
       "album": {
+        "name": "The Ballad of the Lake of Tears",
+        "url": "https://open.spotify.com/album/6vq1ayUsfwt6HsEZI973bM"
+      },
+      "artists": [
+        {
+          "name": "Chris Palmer",
+          "url": "https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141267,
+      "name": "The Ballad of the Lake of Tears",
+      "url": "https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ"
+    },
+    {
+      "album": {
+        "name": "The Dawning",
+        "url": "https://open.spotify.com/album/2dukrzOf2iXJpRDSJqZRWH"
+      },
+      "artists": [
+        {
+          "name": "Christoffer Moe Ditlevsen",
+          "url": "https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S"
+        },
+        {
+          "name": "Anna Dager",
+          "url": "https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B"
+        },
+        {
+          "name": "Hanna Ekstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167458,
+      "name": "The Dawning",
+      "url": "https://open.spotify.com/track/0k963HCwT2H2SLhdA8CWve"
+    },
+    {
+      "album": {
         "name": "Elision",
         "url": "https://open.spotify.com/album/6orXM32rO2JFSt60ZWyp4p"
       },
@@ -1393,10 +1715,28 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 140574,
       "name": "The Lost Cities",
       "url": "https://open.spotify.com/track/2Eb5pVOvZhjxjEaamfb0Cp"
+    },
+    {
+      "album": {
+        "name": "The Road To Meteora",
+        "url": "https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140574,
+      "name": "The Lost Cities",
+      "url": "https://open.spotify.com/track/6UbRxJUyHzgkWHr17ETDcp"
     },
     {
       "album": {
@@ -1616,6 +1956,24 @@
     },
     {
       "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194713,
+      "name": "Winter Has Come",
+      "url": "https://open.spotify.com/track/0L1aUXwaUwRTHqDvxOLAK3"
+    },
+    {
+      "album": {
         "name": "Game of Thrones: Season 6 (Music from the HBO\u00ae Series)",
         "url": "https://open.spotify.com/album/29zyqYXwLn4nNTPkRNSOuJ"
       },
@@ -1627,7 +1985,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194713,
       "name": "Winter Has Come",
       "url": "https://open.spotify.com/track/16bZwkDgXGLeys3cS1Mn5f"

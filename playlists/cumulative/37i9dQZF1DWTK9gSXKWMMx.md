@@ -4,7 +4,7 @@
 
 > Sit back and relax to the smooth sound of blues piano.
 
-53 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/6pVEAMIhTh8lrPSIN67nvp)
+54 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/6pVEAMIhTh8lrPSIN67nvp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Piano Blues: Not Now](https://open.spotify.com/track/3eBc7S3spGJUaYB5x2kot1) | [Instrumental Jazz Music Ambient](https://open.spotify.com/artist/1EJY1WcqU1y3P5GKl1VqzE) | [Memories of Piano Blues: Quiet Piano Blues, Greatest Dinner Jazz Piano Blues](https://open.spotify.com/album/3T86jLfPsO9z0yWY975jQc) | 4:12 | 2021-12-03 |  |
 | [Relaxing and Calm Blues](https://open.spotify.com/track/1ptfhDtqGF7FMVKtha6lNI) | [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Relaxing Blues Piano](https://open.spotify.com/album/300k7CJq6XEXTMs9MGkVfc) | 4:10 | 2021-12-03 |  |
 | [Roll on Blues](https://open.spotify.com/track/0w0EDIdz3xp5WtWIZUmesx) | [Simon Armitage](https://open.spotify.com/artist/25D5tU7Ij8L6xJZLKf8dL8) | [Roll on Blues](https://open.spotify.com/album/6mkSNqwl72hfnaGf4b9sWq) | 2:17 | 2022-02-04 |  |
+| [Romance by Candlelight](https://open.spotify.com/track/1etvDtXZzQfRegjLPQmwdA) | [Simon Armitage](https://open.spotify.com/artist/25D5tU7Ij8L6xJZLKf8dL8) | [Romance by Candlelight](https://open.spotify.com/album/7jHqI86IR2WA7p2o89sCQK) | 2:13 | 2022-09-23 |  |
 | [Saint Louis Blues](https://open.spotify.com/track/3ep6YBNGP5vk2BsICDKKcb) | [Piano Piano](https://open.spotify.com/artist/6wcQTmHPMXY0QlaNu2DAdU) | [Piano Instrumental](https://open.spotify.com/album/79i7WrhOhvn9fZlkjz2Gz9) | 3:32 | 2021-12-03 |  |
 | [Shift the Spiritual Sounds](https://open.spotify.com/track/3Mea3IdehdZjKV1P1KXbnh) | [Teres](https://open.spotify.com/artist/1h9MPFKFUMiWJewgZEeScp) | [Blues Piano & Chill](https://open.spotify.com/album/6t5oDLfuvPGNSiHsFNJifI) | 2:10 | 2021-12-03 |  |
 | [Slow Piano Blues](https://open.spotify.com/track/2n93thyhsa4XbRY07AiYyq) | [Simon Armitage](https://open.spotify.com/artist/25D5tU7Ij8L6xJZLKf8dL8) | [Slow Piano Blues](https://open.spotify.com/album/7JTLknvQIe0rSEfhlqlrZL) | 1:25 | 2021-12-03 |  |

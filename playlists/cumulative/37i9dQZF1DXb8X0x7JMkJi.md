@@ -2,7 +2,7 @@
 
 ### [Acalmando a Mente](https://open.spotify.com/playlist/37i9dQZF1DXb8X0x7JMkJi)
 
-> Podcasts que te ajudam a tirar um tempinho para cuidar de você.
+> Podcasts que ajudam a tirar um tempinho você.
 
 0 song - 0 sec - [published](https://open.spotify.com/playlist/4fjCM63nMwhoFiDM3I0Ewp)
 

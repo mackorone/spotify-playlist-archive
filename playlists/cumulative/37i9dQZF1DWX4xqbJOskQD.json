@@ -9,7 +9,7 @@
     {
       "album": {
         "name": "The Board Of Directors",
-        "url": "https://open.spotify.com/album/2F2pS1PP3ZPhhxhsL6aRfU"
+        "url": "https://open.spotify.com/album/7cgj7WQBm6SlACUXiJR3lH"
       },
       "artists": [
         {
@@ -24,6 +24,28 @@
       "date_added": "2020-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208052,
+      "name": "(Up A) Lazy River",
+      "url": "https://open.spotify.com/track/2tdciiLh3jZSzWBXaxo5oH"
+    },
+    {
+      "album": {
+        "name": "The Board Of Directors",
+        "url": "https://open.spotify.com/album/2F2pS1PP3ZPhhxhsL6aRfU"
+      },
+      "artists": [
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2020-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 208052,
       "name": "(Up A) Lazy River",
       "url": "https://open.spotify.com/track/5g2h9vP1ZU1eGVhVZa0kms"
@@ -220,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Hits Singles: Collectors Series",
+        "url": "https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH"
+      },
+      "artists": [
+        {
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+        }
+      ],
+      "date_added": "2020-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151768,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR"
+    },
+    {
+      "album": {
         "name": "The Coed Singles",
         "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
       },
@@ -235,7 +275,7 @@
       ],
       "date_added": "2020-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151455,
       "name": "Have You Heard (feat. Joey Vann)",
       "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
@@ -787,10 +827,32 @@
       ],
       "date_added": "2020-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180732,
       "name": "Three Coins In The Fountain",
       "url": "https://open.spotify.com/track/3myhs1DFwJnd5TA4RZl1Hc"
+    },
+    {
+      "album": {
+        "name": "The Four Aces' Greatest Hits",
+        "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
+      },
+      "artists": [
+        {
+          "name": "The Four Aces",
+          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
+        },
+        {
+          "name": "Al Alberts",
+          "url": "https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq"
+        }
+      ],
+      "date_added": "2020-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "Three Coins In The Fountain",
+      "url": "https://open.spotify.com/track/2vZNvA8PEvBdeWr4EkZjLG"
     },
     {
       "album": {
@@ -823,10 +885,28 @@
       ],
       "date_added": "2020-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185600,
       "name": "Tuxedo Junction",
       "url": "https://open.spotify.com/track/2gE1UVwRrEW7Q09ht0SpHJ"
+    },
+    {
+      "album": {
+        "name": "The Manhattan Transfer",
+        "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
+      },
+      "artists": [
+        {
+          "name": "The Manhattan Transfer",
+          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
+        }
+      ],
+      "date_added": "2020-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Tuxedo Junction",
+      "url": "https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ"
     },
     {
       "album": {

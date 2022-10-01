@@ -1,63 +1,15 @@
 {
   "description": "This is ClariS. The essential tracks, all in one playlist.",
-  "num_followers": 14073,
+  "num_followers": 14986,
   "original_name": "This Is ClariS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc2MzYwMjAsMDAwMDAwMDBjY2M0ZWRjZTU0NWFhOWI0MzVkMGIxMzA0MWE0NDlhYg==",
+  "snapshot_id": "Mjc3NDI0MDksMDAwMDAwMDAzMTY4YTg2ZmFjNDZjMzUyMjk1OThiYzA5NjBkODIyYw==",
   "tracks": [
     {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 270040,
-      "name": "Connect",
-      "url": "https://open.spotify.com/track/3DZG4wc2NQbgjR2m8iXpG1"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Fairy Party",
-        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Hitorigoto",
-      "url": "https://open.spotify.com/track/3Un2d5mEp5yLqaITkb1mS8"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Party Time",
-        "url": "https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "Click",
-      "url": "https://open.spotify.com/track/3lVjrhRTt8nQ99kan7pOmj"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
       "album": {
         "name": "ALIVE",
         "url": "https://open.spotify.com/album/7lpsmkTYFRiDNIDyKRRLXP"
@@ -73,9 +25,73 @@
       "url": "https://open.spotify.com/track/5cBmwNnKGLPRCQWzFS0r0Y"
     },
     {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
       "album": {
-        "name": "Birthday",
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 270040,
+      "name": "\u30b3\u30cd\u30af\u30c8",
+      "url": "https://open.spotify.com/track/3DZG4wc2NQbgjR2m8iXpG1"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "Fairy Party",
+        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "\u30d2\u30c8\u30ea\u30b4\u30c8",
+      "url": "https://open.spotify.com/track/3Un2d5mEp5yLqaITkb1mS8"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "PARTY TIME",
+        "url": "https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/3lVjrhRTt8nQ99kan7pOmj"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "SECOND STORY",
+        "url": "https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 251413,
+      "name": "\u30eb\u30df\u30ca\u30b9",
+      "url": "https://open.spotify.com/track/2imEBsXVoLpYTqkTAfycay"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "BIRTHDAY",
         "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
       },
       "artists": [
@@ -85,11 +101,11 @@
         }
       ],
       "duration_ms": 258812,
-      "name": "Irony",
+      "name": "irony",
       "url": "https://open.spotify.com/track/3qLPnTQYkTObObPgncJQyS"
     },
     {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
       "album": {
         "name": "Fairy Party",
         "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
@@ -105,9 +121,9 @@
       "url": "https://open.spotify.com/track/2aD6xzt5z68nhUAe78GVvv"
     },
     {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
       "album": {
-        "name": "Party Time",
+        "name": "PARTY TIME",
         "url": "https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY"
       },
       "artists": [
@@ -116,15 +132,15 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 272960,
-      "name": "Colorful",
-      "url": "https://open.spotify.com/track/1w25qP6ViEMw24RdawuWZC"
+      "duration_ms": 255706,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/5DvdcadbAkXdpITIKLycqx"
     },
     {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
       "album": {
-        "name": "Second Story",
-        "url": "https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx"
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/2cKUf4iMPcKWFJHXvVEebU"
       },
       "artists": [
         {
@@ -132,12 +148,28 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 251413,
-      "name": "Luminous",
-      "url": "https://open.spotify.com/track/2imEBsXVoLpYTqkTAfycay"
+      "duration_ms": 279640,
+      "name": "\u5fd8\u308c\u3066\u3082\u3044\u3044\u3088",
+      "url": "https://open.spotify.com/track/4BbNUcHFb4ijbX1RYFDaU7"
     },
     {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 237730,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
       "album": {
         "name": "ClariS 10th Anniversary BEST - Green Star -",
         "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
@@ -149,11 +181,27 @@
         }
       ],
       "duration_ms": 231080,
-      "name": "Alethea",
+      "name": "\u30a2\u30ea\u30b7\u30a2",
       "url": "https://open.spotify.com/track/48bApuUSPxV0TY1CeBXFfe"
     },
     {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "PARTY TIME",
+        "url": "https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 272960,
+      "name": "\u30ab\u30e9\u30d5\u30eb",
+      "url": "https://open.spotify.com/track/1w25qP6ViEMw24RdawuWZC"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
       "album": {
         "name": "Fairy Party",
         "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
@@ -165,29 +213,13 @@
         }
       ],
       "duration_ms": 248146,
-      "name": "Shiori",
+      "name": "SHIORI",
       "url": "https://open.spotify.com/track/3OBGuiLR37GJP0H8csaE3n"
     },
     {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
       "album": {
-        "name": "Party Time",
-        "url": "https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 255706,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/5DvdcadbAkXdpITIKLycqx"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Birthday",
+        "name": "BIRTHDAY",
         "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
       },
       "artists": [
@@ -196,30 +228,14 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 260812,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/0a6dL9FS3oWoGlAtR3yxQr"
+      "duration_ms": 261413,
+      "name": "\u30ca\u30a4\u30b7\u30e7\u306e\u8a71",
+      "url": "https://open.spotify.com/track/0BDtQ3XsoRHYYcHvvVgFLE"
     },
     {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
       "album": {
-        "name": "Second Story",
-        "url": "https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 290693,
-      "name": "Reunion",
-      "url": "https://open.spotify.com/track/3wvJE9X8azs237ZMPKsz33"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Fairy Castle (Deluxe Edition)",
+        "name": "Fairy Castle(Deluxe Edition)",
         "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
       },
       "artists": [
@@ -237,57 +253,9 @@
       "url": "https://open.spotify.com/track/7qNnUhpCnFBjOM37bysD0H"
     },
     {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
       "album": {
-        "name": "Summer Tracks - Natsu No Uta",
-        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 298906,
-      "name": "Secret Base - Kimiga Kuretamono",
-      "url": "https://open.spotify.com/track/1jdLeQ1vyU9POww0oY8Smy"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Naisho No Hanashi",
-      "url": "https://open.spotify.com/track/0BDtQ3XsoRHYYcHvvVgFLE"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "ClariS - Single Best 1st",
-        "url": "https://open.spotify.com/album/4QRz46oz5smqLdihwyl2bX"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Border",
-      "url": "https://open.spotify.com/track/1ZVZKOmy9RS4GhJ5Epj5MN"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Colorful",
+        "name": "\u30ab\u30e9\u30d5\u30eb",
         "url": "https://open.spotify.com/album/3PWVzMnK8ZtdanDMssCIeN"
       },
       "artists": [
@@ -301,459 +269,7 @@
       "url": "https://open.spotify.com/track/4NF9qpz2QP5IRdwZLdtsWC"
     },
     {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "ClariS 10th Anniversary BEST - Green Star -",
-        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Clear Sky",
-      "url": "https://open.spotify.com/track/4hyUMlOse5Cs037QohpGFM"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Fairy Castle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 313453,
-      "name": "Hirahira Hirara",
-      "url": "https://open.spotify.com/track/5WCOCRgRtn8OfkDJfoyYYv"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 291706,
-      "name": "Nexus",
-      "url": "https://open.spotify.com/track/1j6UfYcCYnSJa1FpdFBMEr"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "CLICK -TV MIX-",
-        "url": "https://open.spotify.com/album/5LCXVRcG1D86tGtnzTmj7i"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 90786,
-      "name": "CLICK -TV MIX-",
-      "url": "https://open.spotify.com/track/0tvkAHEkyzrITMugyijmZy"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Shiori",
-        "url": "https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 341746,
-      "name": "Kimino Shiranai Monogatari",
-      "url": "https://open.spotify.com/track/4LggOGijGZuwoiYBXKoPM0"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Fairy Castle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 270440,
-      "name": "Connect-2017-",
-      "url": "https://open.spotify.com/track/13gcdbzfAArRm6RDhijxM7"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "ClariS 10th Anniversary BEST - Green Star -",
-        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 267626,
-      "name": "PRECIOUS",
-      "url": "https://open.spotify.com/track/6pY3mA8t0DUfQWL1HuyGxX"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Summer Tracks - Natsu No Uta",
-        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 159520,
-      "name": "Koi No Vacance",
-      "url": "https://open.spotify.com/track/5AoEKI3ai8YPdhnBYqloud"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
-        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 259213,
-      "name": "Irony -season 02-",
-      "url": "https://open.spotify.com/track/6TrMn2s2KGLq00pQZNM5FB"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Fairy Castle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 272306,
-      "name": "Anemone",
-      "url": "https://open.spotify.com/track/4D0wg2S4PdRvccSOVpu8zV"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "ClariS 10th Anniversary BEST - Green Star -",
-        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Nakanaiyo - Clara solo version",
-      "url": "https://open.spotify.com/track/0Eqe56YVUzl6gFKVLXHK4l"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Parfaitone",
-        "url": "https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 254960,
-      "name": "Summer Delay",
-      "url": "https://open.spotify.com/track/5fvAqSz4TvHyXyn4mqR11J"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Fairy Party",
-        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 255786,
-      "name": "PRIMALove",
-      "url": "https://open.spotify.com/track/0C0S6SJcJlAkPQHBT1qo7U"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Summer Tracks - Natsu No Uta",
-        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6FnQ5TUNu8DJxKJDwYeFJR"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "ClariS 10th Anniversary BEST - Green Star -",
-        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "Signal",
-      "url": "https://open.spotify.com/track/768HgRPmiEeeVKB5URxOJt"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Parfaitone",
-        "url": "https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "Mermaid",
-      "url": "https://open.spotify.com/track/20iLkzds9JViZjGm7BZQB2"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Fairy Castle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 252746,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/31FWbJsuaaqqk87RwYRqNg"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Alethea/Signal",
-        "url": "https://open.spotify.com/album/16ZYBLZVTEup2AYxAli6FZ"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Unison",
-      "url": "https://open.spotify.com/track/1oHL7ocJVNFGlfobC92OxX"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Shiori",
-        "url": "https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "Ai Wo Utae",
-      "url": "https://open.spotify.com/track/4qfhuChuz77EaZrqKgwHEA"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Fairy Party",
-        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 283240,
-      "name": "Last Squall",
-      "url": "https://open.spotify.com/track/0Htj6NEPvfBvZ13hG0QM4U"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
-        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 294613,
-      "name": "nexus -season 02-",
-      "url": "https://open.spotify.com/track/7B1CWgamfChJj5FxJRVxjB"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Fairy Castle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Colorful-2017-",
-      "url": "https://open.spotify.com/track/1yGtzIGEap6EE5jsRly23m"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Summer Tracks - Natsu No Uta",
-        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 305253,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/4CUnP1yLlZOxdW5puFIZN9"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Second Story",
-        "url": "https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2bQTmdOKGgqO2OT2jEVf1g"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "ClariS 10th Anniversary BEST - Green Star -",
-        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "Luminous-2017-",
-      "url": "https://open.spotify.com/track/76Ek9Lbigy6mLTRZAau6lP"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Mouichido Luminous",
-        "url": "https://open.spotify.com/album/3iAPqnmOiEYK1Il7Ngydj5"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        },
-        {
-          "name": "\u4e38\u5c71\u5f69 from Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/0N8XbKOOPtJqiSZcjKPfCI"
-        }
-      ],
-      "duration_ms": 261566,
-      "name": "Luminous Once More",
-      "url": "https://open.spotify.com/track/2nMVkKOSXWlx39bDb6O3Ac"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Puella Magi Madoka Magica Music Collection",
-        "url": "https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 94720,
-      "name": "Connect -Game Instrumental Version",
-      "url": "https://open.spotify.com/track/6O7dVp1w20oN5dUjGVytoQ"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
-      "album": {
-        "name": "Fairy Party",
-        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Fairy Party",
-      "url": "https://open.spotify.com/track/1ijOD2KVBWe4p6kfhu80Wo"
-    },
-    {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
       "album": {
         "name": "ClariS 10th Anniversary BEST - Pink Moon -",
         "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
@@ -769,7 +285,327 @@
       "url": "https://open.spotify.com/track/4jPW4GbHYbgWrNEpoS2mES"
     },
     {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "SECOND STORY",
+        "url": "https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 290693,
+      "name": "reunion",
+      "url": "https://open.spotify.com/track/3wvJE9X8azs237ZMPKsz33"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "SUMMER TRACKS -\u590f\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 298906,
+      "name": "secret base \u301c\u541b\u304c\u304f\u308c\u305f\u3082\u306e\u301c",
+      "url": "https://open.spotify.com/track/1jdLeQ1vyU9POww0oY8Smy"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "treasure",
+      "url": "https://open.spotify.com/track/0a6dL9FS3oWoGlAtR3yxQr"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 267626,
+      "name": "PRECIOUS",
+      "url": "https://open.spotify.com/track/6pY3mA8t0DUfQWL1HuyGxX"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "ClariS \u301cSINGLE BEST 1st\u301c",
+        "url": "https://open.spotify.com/album/4QRz46oz5smqLdihwyl2bX"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "border",
+      "url": "https://open.spotify.com/track/1ZVZKOmy9RS4GhJ5Epj5MN"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "SUMMER TRACKS -\u590f\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "\u30bf\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/6FnQ5TUNu8DJxKJDwYeFJR"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30de\u30ae\u30a2\u30ec\u30b3\u30fc\u30c9 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u5916\u4f1d 2nd SEASON -\u899a\u9192\u524d\u591c-\u300dTheme Song Collection",
+        "url": "https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 254716,
+      "name": "\u30b1\u30a2\u30ec\u30b9",
+      "url": "https://open.spotify.com/track/0vEGVn21baQ0D5xaWJgLCc"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "Fairy Castle(Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 270440,
+      "name": "\u30b3\u30cd\u30af\u30c8 -2017-",
+      "url": "https://open.spotify.com/track/13gcdbzfAArRm6RDhijxM7"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "CLICK -TV MIX-",
+        "url": "https://open.spotify.com/album/5LCXVRcG1D86tGtnzTmj7i"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 90786,
+      "name": "CLICK -TV MIX-",
+      "url": "https://open.spotify.com/track/0tvkAHEkyzrITMugyijmZy"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "SUMMER TRACKS -\u590f\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 305253,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4CUnP1yLlZOxdW5puFIZN9"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 291706,
+      "name": "nexus",
+      "url": "https://open.spotify.com/track/1j6UfYcCYnSJa1FpdFBMEr"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "Fairy Castle(Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/31FWbJsuaaqqk87RwYRqNg"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "SHIORI",
+        "url": "https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 341746,
+      "name": "\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/4LggOGijGZuwoiYBXKoPM0"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "Fairy Party",
+        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 255786,
+      "name": "PRIMALove",
+      "url": "https://open.spotify.com/track/0C0S6SJcJlAkPQHBT1qo7U"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "Parfaitone",
+        "url": "https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 254960,
+      "name": "Summer Delay",
+      "url": "https://open.spotify.com/track/5fvAqSz4TvHyXyn4mqR11J"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "\u30a2\u30ea\u30b7\u30a2/\u30b7\u30af\u3099\u30ca\u30eb",
+        "url": "https://open.spotify.com/album/16ZYBLZVTEup2AYxAli6FZ"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "\u30e6\u30cb\u30be\u30f3",
+      "url": "https://open.spotify.com/track/1oHL7ocJVNFGlfobC92OxX"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "SHIORI",
+        "url": "https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "\u30a2\u30a4\u30f2\u30a6\u30bf\u30a8",
+      "url": "https://open.spotify.com/track/4qfhuChuz77EaZrqKgwHEA"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "SPRING TRACKS -\u6625\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/75iexQXsMr2LPouyL45o8U"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 284346,
+      "name": "\u660e\u65e5\u3001\u6625\u304c\u6765\u305f\u3089",
+      "url": "https://open.spotify.com/track/28E0uOrw97kb28l1lqSuWk"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "Fairy Castle(Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 272306,
+      "name": "\u30a2\u30cd\u30e2\u30cd",
+      "url": "https://open.spotify.com/track/4D0wg2S4PdRvccSOVpu8zV"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
+        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 271560,
+      "name": "CLICK -season 02-",
+      "url": "https://open.spotify.com/track/3ey9NGmQAQ21guN77Kp1v1"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
       "album": {
         "name": "PRIMALove",
         "url": "https://open.spotify.com/album/5Qq5eR5DCQczvzzLV7e1LX"
@@ -781,14 +617,14 @@
         }
       ],
       "duration_ms": 269040,
-      "name": "Fuyuzora Hanabi",
+      "name": "\u51ac\u7a7a\u82b1\u706b",
       "url": "https://open.spotify.com/track/6eArFjBGBVdWlCwOIZzmi5"
     },
     {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
       "album": {
-        "name": "Second Story",
-        "url": "https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx"
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
       },
       "artists": [
         {
@@ -796,15 +632,15 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 234533,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/0q7cr2AmsvucswUwfX1FoL"
+      "duration_ms": 224706,
+      "name": "\u30b7\u30b0\u30ca\u30eb",
+      "url": "https://open.spotify.com/track/768HgRPmiEeeVKB5URxOJt"
     },
     {
-      "added_at": "2022-07-18 16:20:57",
+      "added_at": "2022-09-30 13:29:07",
       "album": {
-        "name": "Twinkle Twinkle",
-        "url": "https://open.spotify.com/album/7ti4tcjdsbO4J9aENCzaoX"
+        "name": "Fairy Castle(Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
       },
       "artists": [
         {
@@ -812,9 +648,169 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 230651,
-      "name": "Twinkle Twinkle",
-      "url": "https://open.spotify.com/track/6ZgkaVkKBrvZtOefIIPI8f"
+      "duration_ms": 313453,
+      "name": "\u3072\u3089\u3072\u3089 \u3072\u3089\u3089",
+      "url": "https://open.spotify.com/track/5WCOCRgRtn8OfkDJfoyYYv"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
+        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 259213,
+      "name": "irony -season 02-",
+      "url": "https://open.spotify.com/track/6TrMn2s2KGLq00pQZNM5FB"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/2cKUf4iMPcKWFJHXvVEebU"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/6PGD1qYRbfRcVIWBJ97Eup"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Clear Sky",
+      "url": "https://open.spotify.com/track/4hyUMlOse5Cs037QohpGFM"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "Fairy Castle(Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "\u30ab\u30e9\u30d5\u30eb -2017-",
+      "url": "https://open.spotify.com/track/1yGtzIGEap6EE5jsRly23m"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "Fairy Party",
+        "url": "https://open.spotify.com/album/34cOizYrnROPXji1gfR38k"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 283240,
+      "name": "Last Squall",
+      "url": "https://open.spotify.com/track/0Htj6NEPvfBvZ13hG0QM4U"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
+        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 294613,
+      "name": "nexus -season 02-",
+      "url": "https://open.spotify.com/track/7B1CWgamfChJj5FxJRVxjB"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "STEP",
+        "url": "https://open.spotify.com/album/7tIa5Dxx9YtZaL6npoy4jx"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 282213,
+      "name": "\u685c\u54b2\u304f",
+      "url": "https://open.spotify.com/track/4sEgpIXYobY9NRlQmoIBG1"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "Fight!!",
+        "url": "https://open.spotify.com/album/60l2pA1I8kZMLL74TxVyBV"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "Fight!!",
+      "url": "https://open.spotify.com/track/5Vqe6O1inyJuf54FsCm5SL"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Green Star -",
+        "url": "https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "\u6ce3\u304b\u306a\u3044\u3088 - Clara solo ver.",
+      "url": "https://open.spotify.com/track/0Eqe56YVUzl6gFKVLXHK4l"
+    },
+    {
+      "added_at": "2022-09-30 13:29:07",
+      "album": {
+        "name": "SUMMER TRACKS -\u590f\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 159520,
+      "name": "\u604b\u306e\u30d0\u30ab\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/5AoEKI3ai8YPdhnBYqloud"
     }
   ],
   "unique_name": "This Is ClariS",

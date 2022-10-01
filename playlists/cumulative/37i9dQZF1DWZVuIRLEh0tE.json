@@ -37,10 +37,28 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 137777,
       "name": "3730",
       "url": "https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH"
+    },
+    {
+      "album": {
+        "name": "3730",
+        "url": "https://open.spotify.com/album/3Q2EYfVHIPBtcwrs6IKkpP"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137810,
+      "name": "3730",
+      "url": "https://open.spotify.com/track/2nlbKSzDPYUmU8F2npLFak"
     },
     {
       "album": {
@@ -693,10 +711,62 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 122880,
       "name": "En Detone",
       "url": "https://open.spotify.com/track/7jVZ71GmvJo85idzeTudtZ"
+    },
+    {
+      "album": {
+        "name": "En Detone",
+        "url": "https://open.spotify.com/album/6bDglsSOalMjpNNDrOv3EP"
+      },
+      "artists": [
+        {
+          "name": "Tato el X5",
+          "url": "https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8"
+        },
+        {
+          "name": "Olle Jey",
+          "url": "https://open.spotify.com/artist/3cTW4GbKjWqX3Sj4uZEpeH"
+        },
+        {
+          "name": "Drumz LT",
+          "url": "https://open.spotify.com/artist/7LQVujKoQp86vom82YHV14"
+        },
+        {
+          "name": "Berto Lokera",
+          "url": "https://open.spotify.com/artist/4huvJpp8DdgopunvvUy2Xs"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "En Detone",
+      "url": "https://open.spotify.com/track/6ayhb2zGzFKv4cC1kH6XAx"
+    },
+    {
+      "album": {
+        "name": "En Que Tu Ta Tu No Ta En Nah (En Vivo)",
+        "url": "https://open.spotify.com/album/34UMsVZ5txNzdOKwGS9EKd"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "Big Chriss & Draco Deville",
+          "url": "https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182256,
+      "name": "En Que Tu Ta Tu No Ta En Nah - En Vivo",
+      "url": "https://open.spotify.com/track/7G2nyEQlxrZ7pLEw4WXZPB"
     },
     {
       "album": {
@@ -715,7 +785,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192000,
       "name": "En Que Tu Ta Tu No Ta En Nah - En Vivo",
       "url": "https://open.spotify.com/track/72blRbRNl6ZEem3twjMj6m"
@@ -813,10 +883,32 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203803,
       "name": "Harto de la Foto",
       "url": "https://open.spotify.com/track/0Oh1NYBD8JUsUGXO5tbxdc"
+    },
+    {
+      "album": {
+        "name": "Harto De La Foto",
+        "url": "https://open.spotify.com/album/0DPxDEr8oD8gbJaArkfcsn"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203835,
+      "name": "Harto De La Foto",
+      "url": "https://open.spotify.com/track/1H70PFtpxHzVwXLyk8THHh"
     },
     {
       "album": {
@@ -851,6 +943,28 @@
       "duration_ms": 193272,
       "name": "Hasta Bajo",
       "url": "https://open.spotify.com/track/2UjKBHL3jtnunvflj2WUPz"
+    },
+    {
+      "album": {
+        "name": "Hoyo",
+        "url": "https://open.spotify.com/album/2ak2UHWueLjmL4TtUIsk24"
+      },
+      "artists": [
+        {
+          "name": "Kaly Ocho",
+          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+        },
+        {
+          "name": "DJ Kiko El De Lo Alka",
+          "url": "https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Hoyo",
+      "url": "https://open.spotify.com/track/0HSTqDopuezKQF6rakMCnl"
     },
     {
       "album": {
@@ -935,7 +1049,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 200588,
       "name": "La Sombra",
       "url": "https://open.spotify.com/track/2iUzxiSnVzifiRrBKOVlPq"
@@ -1017,6 +1131,24 @@
     {
       "album": {
         "name": "Los Ganster",
+        "url": "https://open.spotify.com/album/6h0O50v8LOlf335RlERNUY"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163996,
+      "name": "Los Ganster",
+      "url": "https://open.spotify.com/track/4LAgd3RmiEGq0KFM1Nk6tf"
+    },
+    {
+      "album": {
+        "name": "Los Ganster",
         "url": "https://open.spotify.com/album/1pQ7Tc0kgSiXXcoqQVWcM0"
       },
       "artists": [
@@ -1027,7 +1159,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164010,
       "name": "Los Ganster",
       "url": "https://open.spotify.com/track/39H7PSdDSbh2jWBgwb70a4"
@@ -1143,10 +1275,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180000,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/2g00pvcrHmWPyjEsrf4UC2"
+    },
+    {
+      "album": {
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/6gn9youzAGYweXoDnKRUxq"
+      },
+      "artists": [
+        {
+          "name": "Jc La Nevula",
+          "url": "https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 180000,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/7m0flR9eZVZrOCpZ1ffqpk"
     },
     {
       "album": {
@@ -1500,6 +1650,24 @@
     },
     {
       "album": {
+        "name": "Privity Party",
+        "url": "https://open.spotify.com/album/5ZSrTFCZN8orZzadh059UU"
+      },
+      "artists": [
+        {
+          "name": "La Santa Ganga",
+          "url": "https://open.spotify.com/artist/0w91GAjzBTivPNCXUiCBst"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157057,
+      "name": "Privity Party",
+      "url": "https://open.spotify.com/track/4W07r0nA5Xdg3CySVUmiPL"
+    },
+    {
+      "album": {
         "name": "Rico de Boca",
         "url": "https://open.spotify.com/album/2jEIqBy6NDXy3CjLywapPg"
       },
@@ -1533,7 +1701,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 211881,
       "name": "Rico Feo",
       "url": "https://open.spotify.com/track/4fzZtW9YAaxVvW54tN4H3c"
@@ -1705,6 +1873,28 @@
       "duration_ms": 202219,
       "name": "Toco Toco To - Remix",
       "url": "https://open.spotify.com/track/6t5WDx1H74Qqr5kl8kAkj9"
+    },
+    {
+      "album": {
+        "name": "TOMALA",
+        "url": "https://open.spotify.com/album/7kjeQc4eECAHw28luSVJ2A"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182564,
+      "name": "TOMALA",
+      "url": "https://open.spotify.com/track/73u8KWnLOQykesSgYic6nD"
     },
     {
       "album": {

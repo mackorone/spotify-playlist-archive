@@ -1,44 +1,28 @@
 {
   "description": "Funk to these good ol' funky soul classics!",
-  "num_followers": 759390,
+  "num_followers": 768427,
   "original_name": "Funk Outta Here",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzY5Nzc3NSwwMDAwMDA0NDAwMDAwMTgxZjY3Y2IwZTgwMDAwMDE2ZDAwYmY5ZTll",
+  "snapshot_id": "MTY2MzU2OTQ2MSwwMDAwMDAwMGNlNjc1YTRmN2YzZjJkYWM2YmI1MTRkN2YzYTY2NTcy",
   "tracks": [
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
-        "name": "Wild Cherry",
-        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
       "artists": [
         {
-          "name": "Wild Cherry",
-          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Play That Funky Music",
-      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
-    },
-    {
-      "added_at": "2020-05-08 09:11:07",
-      "album": {
-        "name": "Kool & The Gang - Collected",
-        "url": "https://open.spotify.com/album/4wWEDdybB2Wic6pk31fNE4"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Get Down On It - Single Version",
-      "url": "https://open.spotify.com/track/4gu0AQJevmk5noyD2pr2Zh"
+      "duration_ms": 255133,
+      "name": "Got To Give It Up - Pt. 1",
+      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
     },
     {
       "added_at": "2020-05-08 09:11:07",
@@ -59,8 +43,56 @@
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
+        "name": "Wild Cherry",
+        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
+      },
+      "artists": [
+        {
+          "name": "Wild Cherry",
+          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Play That Funky Music",
+      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
+    },
+    {
+      "added_at": "2020-05-08 09:11:07",
+      "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Get Down On It - Single Version",
+      "url": "https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU"
+    },
+    {
+      "added_at": "2020-05-08 09:11:07",
+      "album": {
+        "name": "King Size Soul",
+        "url": "https://open.spotify.com/album/10oWkzpDsLfD1lq21m6RPr"
+      },
+      "artists": [
+        {
+          "name": "King Curtis",
+          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
+        }
+      ],
+      "duration_ms": 179413,
+      "name": "Memphis Soul Stew",
+      "url": "https://open.spotify.com/track/6MqfTP3OwngywVTOS5OAFt"
+    },
+    {
+      "added_at": "2020-05-08 09:11:07",
+      "album": {
         "name": "Controversy",
-        "url": "https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA"
+        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
       },
       "artists": [
         {
@@ -70,13 +102,13 @@
       ],
       "duration_ms": 435333,
       "name": "Controversy",
-      "url": "https://open.spotify.com/track/5shPZ6RnC6sCm0iSZiv7wU"
+      "url": "https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS"
     },
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
-        "name": "Let's Go Round Again: The Best Of AWB",
-        "url": "https://open.spotify.com/album/6BRKdiPDkmi4UP31LetL6C"
+        "name": "AWB",
+        "url": "https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6"
       },
       "artists": [
         {
@@ -84,15 +116,15 @@
           "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
         }
       ],
-      "duration_ms": 234586,
-      "name": "Pick Up The Pieces",
-      "url": "https://open.spotify.com/track/5FJlZUlKxvqkrPMSOh8jFK"
+      "duration_ms": 239908,
+      "name": "Pick Up the Pieces",
+      "url": "https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9"
     },
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
-        "name": "The Best of Lakeside",
-        "url": "https://open.spotify.com/album/6qEgsBxOzMnrWyc4iOhGQp"
+        "name": "Fantastic Voyage",
+        "url": "https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q"
       },
       "artists": [
         {
@@ -100,25 +132,9 @@
           "url": "https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72"
         }
       ],
-      "duration_ms": 369800,
-      "name": "Fantastic Voyage - Extended",
-      "url": "https://open.spotify.com/track/64JkfFIUe4gQTCXCQESF2X"
-    },
-    {
-      "added_at": "2020-05-08 09:11:07",
-      "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Got To Give It Up - Pt. 1",
-      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
+      "duration_ms": 370893,
+      "name": "Fantastic Voyage",
+      "url": "https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF"
     },
     {
       "added_at": "2020-05-08 09:11:07",
@@ -139,22 +155,6 @@
     {
       "added_at": "2020-04-15 02:39:51",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Dazz Band",
-        "url": "https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG"
-      },
-      "artists": [
-        {
-          "name": "Dazz Band",
-          "url": "https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Let It Whip",
-      "url": "https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M"
-    },
-    {
-      "added_at": "2020-04-15 02:39:51",
-      "album": {
         "name": "I Love The Way You Love",
         "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
       },
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
     },
     {
-      "added_at": "2020-05-08 09:11:07",
+      "added_at": "2020-04-15 02:39:51",
       "album": {
-        "name": "King Size Soul",
-        "url": "https://open.spotify.com/album/10oWkzpDsLfD1lq21m6RPr"
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Dazz Band",
+        "url": "https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG"
       },
       "artists": [
         {
-          "name": "King Curtis",
-          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
+          "name": "Dazz Band",
+          "url": "https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l"
         }
       ],
-      "duration_ms": 179413,
-      "name": "Memphis Soul Stew",
-      "url": "https://open.spotify.com/track/6MqfTP3OwngywVTOS5OAFt"
+      "duration_ms": 287000,
+      "name": "Let It Whip",
+      "url": "https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M"
     },
     {
       "added_at": "2020-05-08 09:11:07",
@@ -204,7 +204,7 @@
       "added_at": "2020-05-08 09:11:07",
       "album": {
         "name": "Galaxy",
-        "url": "https://open.spotify.com/album/3ja5mrhVqXnPJoDAc0A9D1"
+        "url": "https://open.spotify.com/album/2xdXcf10v4Y9mZfoHpOOsz"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
         }
       ],
-      "duration_ms": 491000,
+      "duration_ms": 494106,
       "name": "Galaxy",
-      "url": "https://open.spotify.com/track/2j8m9sboX9FFadbKctTXq1"
+      "url": "https://open.spotify.com/track/1SbA3jg6wqrUcmvSk4Fw7x"
     },
     {
       "added_at": "2020-05-08 09:11:07",
@@ -447,8 +447,8 @@
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
-        "name": "Superfly (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/38Q0cmqwfKZisGWNMyTiFa"
+        "name": "Superfly: Deluxe 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 304400,
+      "duration_ms": 300693,
       "name": "Pusherman",
-      "url": "https://open.spotify.com/track/32nRtHc478v9qD056PHeTp"
+      "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
     },
     {
       "added_at": "2020-05-08 09:11:07",
@@ -496,7 +496,7 @@
       "added_at": "2020-05-08 09:11:07",
       "album": {
         "name": "Diana",
-        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
       "artists": [
         {
@@ -504,15 +504,15 @@
           "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 325266,
+      "duration_ms": 323346,
       "name": "I'm Coming Out",
-      "url": "https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE"
+      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
     },
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
-        "name": "Too Hot To Handle",
-        "url": "https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6"
+        "name": "Too Hot to Handle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
         }
       ],
-      "duration_ms": 303533,
+      "duration_ms": 303640,
       "name": "Boogie Nights",
-      "url": "https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg"
+      "url": "https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo"
     },
     {
       "added_at": "2020-05-08 09:11:07",
@@ -675,8 +675,8 @@
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
-        "name": "12\" 80s Classics",
-        "url": "https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb"
+        "name": "The Gap Band II",
+        "url": "https://open.spotify.com/album/50IVeN4X1yybqwXc1kNGok"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
         }
       ],
-      "duration_ms": 519813,
-      "name": "Oops Up Side Your Head - 12\" Single Version",
-      "url": "https://open.spotify.com/track/76jBriPAnOJzGBsrcZ0ihl"
+      "duration_ms": 522666,
+      "name": "I Don't Believe You Want To Get Up And Dance (Oops Up Side Your Head)",
+      "url": "https://open.spotify.com/track/520fkoz7YAPnqZNvZ21UfP"
     },
     {
       "added_at": "2020-04-15 02:39:51",
@@ -835,8 +835,8 @@
     {
       "added_at": "2020-04-15 02:39:51",
       "album": {
-        "name": "Number 1's",
-        "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 244826,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/4dwrL3Z5U2RZ6MZiKE2PgL"
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2020-06-10 11:44:10",
@@ -884,7 +884,7 @@
       "added_at": "2020-05-08 09:11:07",
       "album": {
         "name": "James Brown's Funky People",
-        "url": "https://open.spotify.com/album/5FNifXgW28BA8kHiujO3Iu"
+        "url": "https://open.spotify.com/album/5ytMVOR2Moy8hu7Tx1hee2"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di"
         }
       ],
-      "duration_ms": 192160,
+      "duration_ms": 191666,
       "name": "Pass The Peas",
-      "url": "https://open.spotify.com/track/7CjV22bm1Vx0guKm2HV3OD"
+      "url": "https://open.spotify.com/track/62rSpnxXl2lXDevp1z583x"
     },
     {
       "added_at": "2020-09-12 14:54:51",
@@ -995,8 +995,8 @@
     {
       "added_at": "2020-04-15 02:39:51",
       "album": {
-        "name": "Evolutionary",
-        "url": "https://open.spotify.com/album/7rk4fjeq22xXAwhY7XL8yf"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2k28jFjuu7dR4jgUV6RHI3"
       },
       "artists": [
         {
@@ -1006,7 +1006,7 @@
       ],
       "duration_ms": 227720,
       "name": "The Cisco Kid",
-      "url": "https://open.spotify.com/track/5DvGqOJAB0OUDc8R9cLN3H"
+      "url": "https://open.spotify.com/track/1c0ShGrrj3m04rrOWrWFEH"
     },
     {
       "added_at": "2020-05-08 09:11:07",
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
-        "name": "Sign \"O\" the Times",
-        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+        "name": "Sign O' The Times",
+        "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
       },
       "artists": [
         {
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 227706,
-      "name": "U Got the Look",
-      "url": "https://open.spotify.com/track/2X6okzhnNPSzh9yxDMHHe3"
+      "duration_ms": 226079,
+      "name": "U Got The Look - 2020 Remaster",
+      "url": "https://open.spotify.com/track/1NAf61L4b3jFgLJhThTQ8B"
     },
     {
       "added_at": "2020-04-15 02:39:51",
@@ -1127,8 +1127,8 @@
     {
       "added_at": "2020-04-15 02:39:51",
       "album": {
-        "name": "Get On Up - The James Brown Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6f8C6KCkU3ybGalzVqbXY8"
+        "name": "70's Funk Classics",
+        "url": "https://open.spotify.com/album/2qHJQ1SqVTUfN93ovRHjZc"
       },
       "artists": [
         {
@@ -1136,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 213426,
-      "name": "The Payback - Part 1",
-      "url": "https://open.spotify.com/track/0E4Tb9UvOHgI5v59yG50Wm"
+      "duration_ms": 213506,
+      "name": "The Payback",
+      "url": "https://open.spotify.com/track/0YSE1fLSwXoGAb3CPzUgZm"
     },
     {
       "added_at": "2020-04-15 02:39:51",
@@ -1191,8 +1191,8 @@
     {
       "added_at": "2020-04-15 02:39:51",
       "album": {
-        "name": "The Best of Chuck Brown",
-        "url": "https://open.spotify.com/album/2GMvrVJXmEzu6SoDJKMNdg"
+        "name": "Bustin' Loose",
+        "url": "https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu"
         }
       ],
-      "duration_ms": 461733,
+      "duration_ms": 462466,
       "name": "Bustin' Loose",
-      "url": "https://open.spotify.com/track/2iXA7lqR3Ne3Enkcl1YDWO"
+      "url": "https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa"
     },
     {
       "added_at": "2020-04-15 02:39:51",
@@ -1239,8 +1239,8 @@
     {
       "added_at": "2020-04-15 02:39:51",
       "album": {
-        "name": "Summer Breeze - The Best Of",
-        "url": "https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe"
+        "name": "It's Your Thing: The Story Of The Isley Brothers",
+        "url": "https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs"
       },
       "artists": [
         {
@@ -1248,9 +1248,9 @@
           "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 320093,
+      "duration_ms": 318733,
       "name": "Fight the Power - Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/56zGhoVjHxTQTEn1udEOCb"
+      "url": "https://open.spotify.com/track/5q5qmdfdJAVOv1mbSk7xxN"
     },
     {
       "added_at": "2020-04-15 02:39:51",
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2020-04-15 02:39:51",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7xU5YV1lr7X2q2pOr757SB"
+        "name": "We All Know Who We Are",
+        "url": "https://open.spotify.com/album/4kwAmxSWZndrH076YU2VgY"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
         }
       ],
-      "duration_ms": 486506,
+      "duration_ms": 489226,
       "name": "It's Serious",
-      "url": "https://open.spotify.com/track/7xxPEWraePLXgLsibZjUjb"
+      "url": "https://open.spotify.com/track/5KV0kTuocyu9UT2aq2fuiB"
     },
     {
       "added_at": "2020-04-15 02:39:51",

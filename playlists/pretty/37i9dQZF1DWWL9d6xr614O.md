@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,747 likes - 76 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,237 likes - 76 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 8 | [Sigaw Ng Puso](https://open.spotify.com/track/0SDhDia5qGCTCyDflHT0T5) | [Erik Santos](https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE) | [Sigaw Ng Puso](https://open.spotify.com/album/3houv6BmnMopjWysIRohVd) | 6:42 |
 | 9 | [Pagsintang Papuri](https://open.spotify.com/track/0tccKQmX8sjrqo3xe9eW0d) | [Jojo Ibañez](https://open.spotify.com/artist/05NCyKg98MYGeFobMmMd2x) | [Pagsintang Papuri](https://open.spotify.com/album/2HYoXU1zBTE8up9zx1fSDR) | 4:46 |
 | 10 | [FORTRESS](https://open.spotify.com/track/07PSmpoDsd7gKHov4mGcn1) | [nathan huang](https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL) | [FORTRESS](https://open.spotify.com/album/1ya0fmkQ86Yh1eCqAGpXCV) | 3:44 |
-| 11 | [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/34r6cLVbeT4UoPgTRSBIE0) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/album/00rMWiOm3uX2yNcvsvLns4) | 2:58 |
+| 11 | [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/1AWPIzLVFnRvUKsNdG97PL) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship](https://open.spotify.com/album/7qXTIRbsNuTB1Jlnx3WfMn) | 2:58 |
 | 12 | [New Generation](https://open.spotify.com/track/2yFze3Tul0hCB0eBOkz324) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Jeng Belen](https://open.spotify.com/artist/0l1E52m5uF5Ah2wQr8HAlw) | [New Generation](https://open.spotify.com/album/7ehgv9ZB0HgxtcxBmCeQsG) | 3:29 |
 | 13 | [Ako Ay Iyo](https://open.spotify.com/track/6zWix26MsK7btzIAJtOsMW) | [Yeuseff](https://open.spotify.com/artist/3aQu9d2OvoHU04uehdimRn), [Deovincci Dasig](https://open.spotify.com/artist/19aD9C8Y8OYJO7NsRXictD) | [Ako Ay Iyo](https://open.spotify.com/album/0A7pZA6TRRvxO6tu2cwVPT) | 4:00 |
 | 14 | [Hallelujah Instead](https://open.spotify.com/track/2MjEaqylTvxnJpD4FpjiD6) | [Mary Ozaraga](https://open.spotify.com/artist/4GS8yp4W5CAsrm9nuGmOVB), [Ike Ozaraga](https://open.spotify.com/artist/6h4Pma9HCStherLHOMlNFO) | [Hallelujah Instead](https://open.spotify.com/album/7wPnD9GquCu0L6e8nMGqrt) | 4:39 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 44 | [Lighthouse in the Storm](https://open.spotify.com/track/4ZNpAwmAFBjIkE49GUqDUm) | [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [Lighthouse in the Storm](https://open.spotify.com/album/6ASnuC91fC5llmBogdwmg2) | 3:29 |
 | 45 | [Hallelujah](https://open.spotify.com/track/0oBSBvVSq4URqyyxpaM3sy) | [LG Fuentes](https://open.spotify.com/artist/5C7ZZauzEZgsMYCdRPEKNu) | [Hallelujah](https://open.spotify.com/album/7hTzsUnPyuqCbqWPBH7iYZ) | 4:49 |
 | 46 | [Promise](https://open.spotify.com/track/6XUH3f6pfvszR8Z9cQGl1D) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Promise](https://open.spotify.com/album/06VVEg6ZKBSdffLW55bLId) | 4:28 |
-| 47 | [The Lord Is My Strength](https://open.spotify.com/track/5pn6jIp7xDLeqsolqo8xPM) | [Winter Lines](https://open.spotify.com/artist/4nn7aCP8zkNozTIk0corHJ) | [The Lord Is My Strength](https://open.spotify.com/album/3pet4Bt1uQWLf24NsiT93T) | 3:03 |
-| 48 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/2PDlIgTWeNkVwx3QIAQT0i) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Zion](https://open.spotify.com/album/4rbOCwVhFYT2yYBmmUsekd) | 8:56 |
+| 47 | [The Lord Is My Strength](https://open.spotify.com/track/2h3ijpjDCPUT8Xk0dSamdP) | [Winter Lines](https://open.spotify.com/artist/4nn7aCP8zkNozTIk0corHJ) | [The Lord Is My Strength](https://open.spotify.com/album/5yp8ku9AspiR681MinboV9) | 3:03 |
+| 48 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 |
 | 49 | [Change My Heart, Oh God](https://open.spotify.com/track/4cauwv2JwSGHEOehKhwZSC) | [Lyle Lopez](https://open.spotify.com/artist/5PEXx58BRuOq6D3CbBnx5M) | [Burst into Songs Ministries](https://open.spotify.com/album/5yZl6gJHmBQ5gJ73gqbzUj) | 5:24 |
 | 50 | [Sinasamba Kita](https://open.spotify.com/track/46VE4tQX8PVDo5z6ADonxH) | [Benjamin Angeles](https://open.spotify.com/artist/3xvz4vKojMUraZ8aR92Hbx) | [Sinasamba Kita](https://open.spotify.com/album/4l55w0haSeiQxv5VlLwZHM) | 4:16 |
 | 51 | [Panaginip](https://open.spotify.com/track/5AzItYJaYpu36CTSK9ZvKj) | [Sasaya](https://open.spotify.com/artist/0nTnDnS4mFcZHI2O8OmZ3u) | [Panaginip](https://open.spotify.com/album/6BLaL8oRhm8AXzCQGYbx98) | 5:11 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 75 | [Where Would I Be](https://open.spotify.com/track/1QN30TGAZWHiGInfeR5o2Q) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Where Would I Be](https://open.spotify.com/album/0n7GtDVbxR1GPJnDuxOQgv) | 4:04 |
 | 76 | [Remember Me My Lord](https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Paul Tagle](https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93) | [Remember Me My Lord](https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8) | 5:09 |
 
-Snapshot ID: `MTY1MjE5ODQ3OSwwMDAwMDAxOTAwMDAwMTgwYWViNDE4NTgwMDAwMDE3YzRhN2MyNmIx`
+Snapshot ID: `MTY1MjE5ODQ3OSwwMDAwMDAwMDZlZDcxYWUxZTExN2M2MTNlMTkzOTY0ZTUwZGE0Nzlh`

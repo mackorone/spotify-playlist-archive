@@ -244,6 +244,32 @@
     },
     {
       "album": {
+        "name": "Mozart: Piano Concerto No. 23, Symphony No. 40 & Don Giovanni Overture",
+        "url": "https://open.spotify.com/album/6WNARxOTVdmgO8Z1e4wiV4"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Le Concert de la Loge",
+          "url": "https://open.spotify.com/artist/4A6IKOWIPjQ2m8SpMtWqZn"
+        },
+        {
+          "name": "Julien Chauvin",
+          "url": "https://open.spotify.com/artist/0f4NQpXWIbD4ulV9KPctcS"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336320,
+      "name": "Don Giovanni, K. 527: Overture",
+      "url": "https://open.spotify.com/track/5FGjk7ToA7tm8MVGwL9HZC"
+    },
+    {
+      "album": {
         "name": "For Seasons",
         "url": "https://open.spotify.com/album/72ideJOH9v0ySDvaWMnra8"
       },
@@ -345,10 +371,36 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 770520,
       "name": "Night on Bare Mountain",
       "url": "https://open.spotify.com/track/67F2FBLJL9Wn09qvPe6XVa"
+    },
+    {
+      "album": {
+        "name": "Mussorgsky: Pictures at an Exhibition, Songs and Dances of Death, Night on Bare Mountain",
+        "url": "https://open.spotify.com/album/6qyiGULDllYwwfmHivC0gE"
+      },
+      "artists": [
+        {
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 770473,
+      "name": "Night on Bare Mountain",
+      "url": "https://open.spotify.com/track/01rntacu6clKb9acYmmaWp"
     },
     {
       "album": {
@@ -697,6 +749,28 @@
     {
       "album": {
         "name": "Shostakovich: The String Quartets",
+        "url": "https://open.spotify.com/album/46ZSRWpa4VTsGWaPA1AxPy"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Emerson String Quartet",
+          "url": "https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285640,
+      "name": "String Quartet No. 8 in C Minor, Op. 110: IV. Largo - Live",
+      "url": "https://open.spotify.com/track/5374X528TCE8gSgM6Y90WH"
+    },
+    {
+      "album": {
+        "name": "Shostakovich: The String Quartets",
         "url": "https://open.spotify.com/album/02cUEQheRApdmagcTcW1oB"
       },
       "artists": [
@@ -711,7 +785,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285640,
       "name": "String Quartet No.8 In C Minor, Op.110: 4. Largo - Live",
       "url": "https://open.spotify.com/track/0QTrE9uq3vtFbEAUfBcL7A"
@@ -744,6 +818,58 @@
     },
     {
       "album": {
+        "name": "Mahler: Symphony No.2 \"Resurrection\" / Debussy: La Mer",
+        "url": "https://open.spotify.com/album/09pPcrcSHVNPXHDMh6sSaP"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lucerne Festival Orchestra",
+          "url": "https://open.spotify.com/artist/0DX4vAO3I8ObqHKrw72E7f"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1245106,
+      "name": "Symphony No. 2 in C minor - \"Resurrection\": 1. Allegro maestoso. Mit durchaus ernstem und feierlichem Ausdruck - Live",
+      "url": "https://open.spotify.com/track/3gg5gdsbE6Fnqtsfhc29NE"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Symphony No.3; A Midsummer Night's Dream",
+        "url": "https://open.spotify.com/album/1Genq8Wn5i0JHCV0ks3TOe"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Peter Maag",
+          "url": "https://open.spotify.com/artist/5bBulPVoQuw4lzargujOvI"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576653,
+      "name": "Symphony No. 3 in A Minor, Op. 56, MWV N 18 \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
+      "url": "https://open.spotify.com/track/0dYaZeUGUgjmRnjyvR1RWg"
+    },
+    {
+      "album": {
         "name": "Mendelssohn: Symphony No.3; A Midsummer Night's Dream",
         "url": "https://open.spotify.com/album/66Hw8kNdwLAVe2939JL6q0"
       },
@@ -763,7 +889,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 576653,
       "name": "Symphony No. 3 In A Minor, Op. 56, MWV N 18 - \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
       "url": "https://open.spotify.com/track/4I024wasuUj1tEm6t7Uz5x"
@@ -867,7 +993,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1245106,
       "name": "Symphony No.2 In C Minor - \"Resurrection\": 1. Allegro maestoso. Mit durchaus ernstem und feierlichem Ausdruck - Live At Lucerne / 2003",
       "url": "https://open.spotify.com/track/6IJHHhOD3WFHOqDywPHa3F"
@@ -893,10 +1019,36 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 444053,
       "name": "Symphony No.9 in E Minor, Op.95, B.178: 3. Scherzo (Molto vivace)",
       "url": "https://open.spotify.com/track/2UofhTxrKOGfifNYKOH8sO"
+    },
+    {
+      "album": {
+        "name": "Dvor\u00e1k: The Symphonies/Overtures",
+        "url": "https://open.spotify.com/album/6ECe5dUoLAX7LCyYArKemo"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Istv\u00e1n Kert\u00e9sz",
+          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444866,
+      "name": "Symphony No.9 in E Minor, Op.95, B.178: 3. Scherzo (Molto vivace)",
+      "url": "https://open.spotify.com/track/60n5VI7dvJb5U9YRcCmSrn"
     },
     {
       "album": {
@@ -978,6 +1130,32 @@
     },
     {
       "album": {
+        "name": "Holst: The Planets / John Williams: Star Wars Suite / Strauss, R.: Also sprach Zarathustra",
+        "url": "https://open.spotify.com/album/7MOYiQcBcdYvqCyopWBj64"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429600,
+      "name": "The Planets, Op. 32: 1. Mars, the Bringer of War",
+      "url": "https://open.spotify.com/track/0dXrZ47LxK2PHm4mjSlwgt"
+    },
+    {
+      "album": {
         "name": "Holst: The Planets / John Williams: Star Wars Suite / Strauss, R.: Also sprach Zarathustra (2 CDs)",
         "url": "https://open.spotify.com/album/1U4I6dVQDO7aDrvHLMwbaK"
       },
@@ -997,7 +1175,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 429600,
       "name": "The Planets, op.32: 1. Mars, the Bringer of War",
       "url": "https://open.spotify.com/track/0PJlGHCDmZNOaQKxlG904u"
@@ -1027,6 +1205,36 @@
       "duration_ms": 275179,
       "name": "The Rite of Spring: Part Two: The Sacrifice: Sacrificial Dance (The Chosen One)",
       "url": "https://open.spotify.com/track/6g4dvPG9jMtSCwQKIHOvo4"
+    },
+    {
+      "album": {
+        "name": "Sviridov: The Snowstorm, Miniature Triptych, Cantata 'Snow Is Falling'; Tchaikovsky: Capriccio Italien, Op. 45",
+        "url": "https://open.spotify.com/album/4s5rhEtnBG7zxk5zdDdzvE"
+      },
+      "artists": [
+        {
+          "name": "Georgy Sviridov",
+          "url": "https://open.spotify.com/artist/2lLeVbtJ3XiJb4zPHUl0yI"
+        },
+        {
+          "name": "Vladimir Fedoseyev",
+          "url": "https://open.spotify.com/artist/6X77f89mGJaE1wIgXE6SXr"
+        },
+        {
+          "name": "State Academic Large Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5GxeNrDRRKxASJFhSOOk9z"
+        },
+        {
+          "name": "State academic large symphony orchestra",
+          "url": "https://open.spotify.com/artist/0F4JJjLyjYDleMO5HIOOSZ"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "The Snowstorm: IX. Winter road",
+      "url": "https://open.spotify.com/track/4Y4ekj3NtkUogYrIa8KGrT"
     },
     {
       "album": {
@@ -1138,6 +1346,36 @@
     },
     {
       "album": {
+        "name": "Bacewicz: Violin Concertos Nos. 1, 3 & 7",
+        "url": "https://open.spotify.com/album/42PCT91P3nKk4DFGeCI0xi"
+      },
+      "artists": [
+        {
+          "name": "Grazyna Bacewicz",
+          "url": "https://open.spotify.com/artist/0MrP6v2MTynnExsCwpnjpb"
+        },
+        {
+          "name": "\u0141ukasz Borowicz",
+          "url": "https://open.spotify.com/artist/7uLvjFKAw1iwyrA3FrSkaa"
+        },
+        {
+          "name": "Polish Radio Symphony Orchestra, Krakow",
+          "url": "https://open.spotify.com/artist/4bNdwxraawS9igfyQQbAVl"
+        },
+        {
+          "name": "Joanna Kurkowicz",
+          "url": "https://open.spotify.com/artist/03mNwkOPahk1RQPvo0Atx0"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438533,
+      "name": "Violin Concerto No. 3: III. Vivo",
+      "url": "https://open.spotify.com/track/4z3ywmuYl4pyHWdQEmusXn"
+    },
+    {
+      "album": {
         "name": "Bacewicz, G.: Violin Concertos Nos. 1, 3, 7 / Overture",
         "url": "https://open.spotify.com/album/7dNU6k2r5HB6q2hZalMKSR"
       },
@@ -1161,7 +1399,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 438533,
       "name": "Violin Concerto No. 3: III. Vivo",
       "url": "https://open.spotify.com/track/6q9l2LlJN4mKEqOKVB89AF"

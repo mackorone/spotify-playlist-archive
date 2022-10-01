@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-19",
   "description": "Respira y medita con los sonidos de este ancestral instrumento.",
   "name": "Cuencos Tibetanos",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3LNBQsBN1z8uKPju1HpsiQ"
+  ],
   "tracks": [
     {
       "album": {
@@ -147,6 +149,24 @@
       "duration_ms": 142650,
       "name": "Aum Meditate",
       "url": "https://open.spotify.com/track/4w3TPh10uapmoxwbfgt6D6"
+    },
+    {
+      "album": {
+        "name": "Be Love Now",
+        "url": "https://open.spotify.com/album/2tnkj3KcWroc1xF6h56X4V"
+      },
+      "artists": [
+        {
+          "name": "Larrek",
+          "url": "https://open.spotify.com/artist/6VFekblOut967g4jD8w46E"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117582,
+      "name": "Be Love Now",
+      "url": "https://open.spotify.com/track/2roRyBtlHkiCdrEksPTeGs"
     },
     {
       "album": {
@@ -309,6 +329,24 @@
       "duration_ms": 135000,
       "name": "Crystal Bowl Dream",
       "url": "https://open.spotify.com/track/0f8DS6g7JIPQMzaONezO4g"
+    },
+    {
+      "album": {
+        "name": "Crystal Bowl Tranquility",
+        "url": "https://open.spotify.com/album/2eOJnGIAQA6NkUUDdE4NWQ"
+      },
+      "artists": [
+        {
+          "name": "The Forest Escape",
+          "url": "https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Crystal Bowl Soundbath",
+      "url": "https://open.spotify.com/track/4RK7ebcJcY5b71aGYiF9FS"
     },
     {
       "album": {
@@ -575,7 +613,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 443960,
       "name": "Octaves",
       "url": "https://open.spotify.com/track/78WS3GE1b8SOYXu92uH95v"
@@ -744,6 +782,24 @@
     },
     {
       "album": {
+        "name": "Be Love Now",
+        "url": "https://open.spotify.com/album/2tnkj3KcWroc1xF6h56X4V"
+      },
+      "artists": [
+        {
+          "name": "Larrek",
+          "url": "https://open.spotify.com/artist/6VFekblOut967g4jD8w46E"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143179,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/4dGYytZBGnFHEzJUqMyxdn"
+    },
+    {
+      "album": {
         "name": "Dhy\u0101na",
         "url": "https://open.spotify.com/album/4aJArtbJHKy4F88Wy2pMn9"
       },
@@ -834,6 +890,24 @@
     },
     {
       "album": {
+        "name": "Soul Shower",
+        "url": "https://open.spotify.com/album/7c7bUDAMlzqPhgtyr6FL0V"
+      },
+      "artists": [
+        {
+          "name": "Larrek",
+          "url": "https://open.spotify.com/artist/6VFekblOut967g4jD8w46E"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212805,
+      "name": "Soul Shower",
+      "url": "https://open.spotify.com/track/3RCLYLBaVc2vSjSof1phdk"
+    },
+    {
+      "album": {
         "name": "Zen Gaya",
         "url": "https://open.spotify.com/album/54yk5I0Xqd2gL3B4h8Nff4"
       },
@@ -881,7 +955,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 300000,
       "name": "Spirit of Bliss",
       "url": "https://open.spotify.com/track/3KIDYgSYHgmfuCT6e6ehqw"
@@ -903,6 +977,24 @@
       "duration_ms": 228727,
       "name": "Spiritual Bowls",
       "url": "https://open.spotify.com/track/7yb3y3PY6fxWwH4IJaBDBv"
+    },
+    {
+      "album": {
+        "name": "Spiritual Sounds",
+        "url": "https://open.spotify.com/album/7v9NZZBD7LTDNygTnTIgkT"
+      },
+      "artists": [
+        {
+          "name": "Kayce Laine",
+          "url": "https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260902,
+      "name": "Spiritual Sounds",
+      "url": "https://open.spotify.com/track/5erkedXCeiXSOfm6wEY08i"
     },
     {
       "album": {

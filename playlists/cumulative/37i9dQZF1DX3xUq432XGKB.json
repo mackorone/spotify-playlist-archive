@@ -50,7 +50,7 @@
       "artists": [
         {
           "name": "Kilo Kish",
-          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
+          "url": "https://open.spotify.com/artist/0Ib2a1F7sq1OTrYSoVIsIX"
         }
       ],
       "date_added": "2021-03-16",
@@ -135,10 +135,28 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273386,
       "name": "Bussifame",
       "url": "https://open.spotify.com/track/3Snsn7nR619p0Ze090QT7K"
+    },
+    {
+      "album": {
+        "name": "Second Line",
+        "url": "https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273386,
+      "name": "Bussifame",
+      "url": "https://open.spotify.com/track/3bQWyx3JDz53yP2uij16Jj"
     },
     {
       "album": {
@@ -461,10 +479,28 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 57853,
       "name": "Pilot (a lude)",
       "url": "https://open.spotify.com/track/3K3ArwcC7PvYpfX9IB2gWB"
+    },
+    {
+      "album": {
+        "name": "Second Line",
+        "url": "https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57853,
+      "name": "Pilot (a lude)",
+      "url": "https://open.spotify.com/track/56aTDizKP5ZmkOtJ6jl6zH"
     },
     {
       "album": {
@@ -563,7 +599,7 @@
     {
       "album": {
         "name": "Jp4",
-        "url": "https://open.spotify.com/album/5agYNY4IFgl4yQ3gIGLW65"
+        "url": "https://open.spotify.com/album/5t0sp3W275c53WOqxgcmY5"
       },
       "artists": [
         {
@@ -574,6 +610,24 @@
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 151550,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/3HUNWEwROQxlC05gWtertM"
+    },
+    {
+      "album": {
+        "name": "Jp4",
+        "url": "https://open.spotify.com/album/5agYNY4IFgl4yQ3gIGLW65"
+      },
+      "artists": [
+        {
+          "name": "Junglepussy",
+          "url": "https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 151550,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/3c7Fz5gSqqYMc81pv79AGT"

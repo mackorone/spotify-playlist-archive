@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Lo mas pegao en Dembow. \nCover: El Alfa",
+  "description": "Lo mas pegao en Dembow. \nCover: El Alfa, Trueno, Noriel",
   "name": "Dembow Pegao",
   "published_playlist_ids": [
     "4L9HFTRvt3WNU7wBLTIuvk"
@@ -19,10 +19,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 137777,
       "name": "3730",
       "url": "https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH"
+    },
+    {
+      "album": {
+        "name": "3730",
+        "url": "https://open.spotify.com/album/3Q2EYfVHIPBtcwrs6IKkpP"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137810,
+      "name": "3730",
+      "url": "https://open.spotify.com/track/2nlbKSzDPYUmU8F2npLFak"
     },
     {
       "album": {
@@ -131,7 +149,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 162466,
       "name": "Alta Gama",
       "url": "https://open.spotify.com/track/2hfeAtMrCUt0F9zlsRT9JJ"
@@ -161,6 +179,28 @@
     {
       "album": {
         "name": "Bagre",
+        "url": "https://open.spotify.com/album/6xONvAcQS1GBqrMH3O85lU"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Imperio Record",
+          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160307,
+      "name": "Bagre",
+      "url": "https://open.spotify.com/track/12wW9cNLX11umS3lh10xsE"
+    },
+    {
+      "album": {
+        "name": "Bagre",
         "url": "https://open.spotify.com/album/0qVX6Zye3aHSTWmKwGYFFF"
       },
       "artists": [
@@ -175,7 +215,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160307,
       "name": "Bagre",
       "url": "https://open.spotify.com/track/4dAyNv3NvYQdzvpPcpBmo6"
@@ -245,6 +285,28 @@
       "duration_ms": 187118,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/5m6i8SGp2CyudL8rgYUYFe"
+    },
+    {
+      "album": {
+        "name": "Bliky",
+        "url": "https://open.spotify.com/album/2tam2CR18UtUo86yj8sTlZ"
+      },
+      "artists": [
+        {
+          "name": "Shootter Ledo",
+          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
+        },
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183405,
+      "name": "Bliky",
+      "url": "https://open.spotify.com/track/79TIziymcMWiaOqEqJlNYF"
     },
     {
       "album": {
@@ -718,6 +780,28 @@
     },
     {
       "album": {
+        "name": "Disciplina (Puerto Rico Edition)",
+        "url": "https://open.spotify.com/album/4Qwz7NX3o56AlOR99WRwgw"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218920,
+      "name": "Demaga Ge Gi Go Gu",
+      "url": "https://open.spotify.com/track/3nQbCPy1vMFtXb4XEpOmgC"
+    },
+    {
+      "album": {
         "name": "Desacato Escolar",
         "url": "https://open.spotify.com/album/2cWzuplC5MLtAT8UjhajTY"
       },
@@ -851,6 +935,32 @@
       "duration_ms": 123716,
       "name": "El Coba",
       "url": "https://open.spotify.com/track/1lh3TDFVCmgOE6szIPwoIK"
+    },
+    {
+      "album": {
+        "name": "El Con Con",
+        "url": "https://open.spotify.com/album/29HCwiG8wd0LWtSzMN5SWf"
+      },
+      "artists": [
+        {
+          "name": "DJ Buddha",
+          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
+        },
+        {
+          "name": "A.C.",
+          "url": "https://open.spotify.com/artist/0nEAytOgLVljiBx1pj4uWy"
+        },
+        {
+          "name": "Maceo El Perro Blanco",
+          "url": "https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156230,
+      "name": "El Con Con",
+      "url": "https://open.spotify.com/track/4ZTbTvevmFuXUQ26LTLEoy"
     },
     {
       "album": {
@@ -1222,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "La Cojio",
+        "url": "https://open.spotify.com/album/63gtMBrpqj5KIsHGCJ2dWE"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "La Cojio",
+      "url": "https://open.spotify.com/track/7ofdxnOjU0OcvpGqPgH3jw"
+    },
+    {
+      "album": {
         "name": "La Conet",
         "url": "https://open.spotify.com/album/6783q8YyWFbjkFYZluOvrt"
       },
@@ -1425,10 +1553,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136308,
       "name": "Llego Tu Para",
       "url": "https://open.spotify.com/track/54UkAEPhMh5hjIXjBltCEf"
+    },
+    {
+      "album": {
+        "name": "Llego Tu Para",
+        "url": "https://open.spotify.com/album/6mjpd3eFLM81k1kklnuIbw"
+      },
+      "artists": [
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        },
+        {
+          "name": "Jay Elite",
+          "url": "https://open.spotify.com/artist/4UG8b6IcuWkjMmPsoSYPGj"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138716,
+      "name": "Llego Tu Para",
+      "url": "https://open.spotify.com/track/48pqSaLYIsn1E9beF7ERsW"
     },
     {
       "album": {
@@ -1451,6 +1601,32 @@
       "duration_ms": 154324,
       "name": "Lo Vibro",
       "url": "https://open.spotify.com/track/5YXUq4sQa30oHvuxZl0P6T"
+    },
+    {
+      "album": {
+        "name": "LOS APARATOS",
+        "url": "https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232843,
+      "name": "LOS APARATOS",
+      "url": "https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP"
     },
     {
       "album": {
@@ -1685,10 +1861,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158498,
       "name": "Millonario",
       "url": "https://open.spotify.com/track/15ddWrQcXwXUa7aXXtjPoN"
+    },
+    {
+      "album": {
+        "name": "Millonario Real",
+        "url": "https://open.spotify.com/album/5MQD3Kg9Kqs3Zq10udAhgw"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158023,
+      "name": "Millonario Real",
+      "url": "https://open.spotify.com/track/1FQzbD9VhhsUeL5Lw7RFTf"
     },
     {
       "album": {
@@ -1823,6 +2021,32 @@
       "duration_ms": 125040,
       "name": "Necio",
       "url": "https://open.spotify.com/track/73AVi7D6a8HPMOS78CYTJZ"
+    },
+    {
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "No Conf\u00edo",
+      "url": "https://open.spotify.com/track/2UieOcTk0Kl4bzLVBW4oVj"
     },
     {
       "album": {
@@ -2256,6 +2480,28 @@
     },
     {
       "album": {
+        "name": "Sistema De Patio",
+        "url": "https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134222,
+      "name": "Sistema De Patio",
+      "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
+    },
+    {
+      "album": {
         "name": "Solteroski",
         "url": "https://open.spotify.com/album/53E6nAATsQheECjMF5IzGL"
       },
@@ -2439,7 +2685,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -2709,7 +2955,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 164048,
       "name": "Y Eso?",
       "url": "https://open.spotify.com/track/1Cx2O26LJUjG94LfH6rnyB"

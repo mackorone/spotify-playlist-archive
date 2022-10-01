@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a jazz band plays somewhere in the background. ",
+  "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
   "name": "French Jazz Caf\u00e9",
   "published_playlist_ids": [
     "0n3iccKC8QyenwGtq9NXxf"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 271213,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/6nq8mMlQ2RKpG4SmqziE3j"
@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302773,
+      "name": "C'est le printemps",
+      "url": "https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz"
+    },
+    {
+      "album": {
         "name": "Seule ce soir",
         "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
       },
@@ -224,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Monsieur Gainsbourg Originals",
+        "url": "https://open.spotify.com/album/0SywgxMeOlmVNDa2IXAa3G"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122466,
+      "name": "Ces petits riens",
+      "url": "https://open.spotify.com/track/3ttOCwpDbGFLf3VbZinXF1"
+    },
+    {
+      "album": {
         "name": "Gainsbourg percussions",
         "url": "https://open.spotify.com/album/1eSbBUNhdkrDtfqVHn3sS1"
       },
@@ -235,7 +271,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 125200,
       "name": "Ces petits riens",
       "url": "https://open.spotify.com/track/71HYFVkUfN5ptKggYNJOHF"
@@ -326,6 +362,24 @@
     },
     {
       "album": {
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213586,
+      "name": "Chanson triste",
+      "url": "https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om"
+    },
+    {
+      "album": {
         "name": "My Gentleman Friend",
         "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
       },
@@ -391,7 +445,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200933,
       "name": "Dans mon \u00eele",
       "url": "https://open.spotify.com/track/5VrG6UV06VZryXqtY6a2Jo"
@@ -427,10 +481,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233302,
       "name": "Dolce Francia",
       "url": "https://open.spotify.com/track/1jx8ydYcoTChx3nyr6T7U1"
+    },
+    {
+      "album": {
+        "name": "Little French Songs",
+        "url": "https://open.spotify.com/album/6ZBquZ3qyIkf5pIX8w6j7m"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233626,
+      "name": "Dolce Francia",
+      "url": "https://open.spotify.com/track/0g5omlHR6Dil6XkStu2OT8"
     },
     {
       "album": {
@@ -499,7 +571,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 168800,
       "name": "Faire des ronds dans l'eau",
       "url": "https://open.spotify.com/track/7JFT6vfzNI3Qtyyza6J55R"
@@ -535,7 +607,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 210560,
       "name": "High Low In",
       "url": "https://open.spotify.com/track/6LAIuS6A5qBqFP41FEQnsY"
@@ -571,10 +643,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "J'ai 18 Ans",
       "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
+    },
+    {
+      "album": {
+        "name": "Careless Love",
+        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "J'ai Deux Amours",
+      "url": "https://open.spotify.com/track/4HcY6ds4TeEo9j4Aj3soFp"
     },
     {
       "album": {
@@ -589,7 +679,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176506,
       "name": "J'ai Deux Amours",
       "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
@@ -647,10 +737,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": "2022-07-27",
       "duration_ms": 130186,
       "name": "J'suis pas d'ici",
       "url": "https://open.spotify.com/track/4p1jq0itFZ9DLtVU6HCYdr"
+    },
+    {
+      "album": {
+        "name": "Comme Un Manouche Sans Guitare",
+        "url": "https://open.spotify.com/album/3LoBT4sO5ThbqUaD4fycUW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130186,
+      "name": "J'Suis Pas D'Ici",
+      "url": "https://open.spotify.com/track/61FxaViELF86usDHyVQvvq"
     },
     {
       "album": {
@@ -701,7 +809,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 167866,
       "name": "Je Cherche Un Homme",
       "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
@@ -726,6 +834,46 @@
     },
     {
       "album": {
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272733,
+      "name": "Je m'ennuie",
+      "url": "https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT"
+    },
+    {
+      "album": {
+        "name": "Just The Two Of Us",
+        "url": "https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        },
+        {
+          "name": "Diego Figueiredo",
+          "url": "https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137960,
+      "name": "Je Suis Seule Ce Soir",
+      "url": "https://open.spotify.com/track/0l5rSE550QrVceVHcBCiDM"
+    },
+    {
+      "album": {
         "name": "Just The Two Of Us",
         "url": "https://open.spotify.com/album/7aD6SxbDiyXAXoagiOxeO9"
       },
@@ -741,7 +889,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 137960,
       "name": "Je Suis Seule Ce Soir",
       "url": "https://open.spotify.com/track/6g7lZAZ4vNyeswmaEFenlz"
@@ -759,7 +907,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 182400,
       "name": "Je suis vous tous qui m'\u00e9coutez",
       "url": "https://open.spotify.com/track/6t5ed6P4mmaCu7tdZOecqo"
@@ -877,6 +1025,24 @@
     {
       "album": {
         "name": "Nolita",
+        "url": "https://open.spotify.com/album/7jlEzGrX8XytkuQJHtcOys"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179653,
+      "name": "L'onde am\u00e8re",
+      "url": "https://open.spotify.com/track/0RnMnEHyWtyAdOUfSqouvs"
+    },
+    {
+      "album": {
+        "name": "Nolita",
         "url": "https://open.spotify.com/album/5M6CSIWhFBH97H9W35jaOn"
       },
       "artists": [
@@ -945,10 +1111,32 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141306,
       "name": "La grippe",
       "url": "https://open.spotify.com/track/1syekyuaIRLfqGMP5quqhb"
+    },
+    {
+      "album": {
+        "name": "Chante Vian et Higelin",
+        "url": "https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy"
+      },
+      "artists": [
+        {
+          "name": "Jacques Higelin",
+          "url": "https://open.spotify.com/artist/7KisXggbWbBdYatDQcBmum"
+        },
+        {
+          "name": "Brigitte Fontaine",
+          "url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141306,
+      "name": "La Grippe",
+      "url": "https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM"
     },
     {
       "album": {
@@ -1024,6 +1212,24 @@
     },
     {
       "album": {
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242120,
+      "name": "La noy\u00e9e",
+      "url": "https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene"
+    },
+    {
+      "album": {
         "name": "Nino Ferrer",
         "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
       },
@@ -1089,7 +1295,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 201200,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
@@ -1107,7 +1313,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 238893,
       "name": "Le chien d'avant garde",
       "url": "https://open.spotify.com/track/3xNsHKqsBYt4aV90Bp4l5Y"
@@ -1179,7 +1385,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 253000,
       "name": "Le Poisson Des Mers Du Sud",
       "url": "https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY"
@@ -1222,6 +1428,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Bardot",
+        "url": "https://open.spotify.com/album/7zBRw7aeKzugZ5bkFtcSID"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195946,
+      "name": "Le soleil",
+      "url": "https://open.spotify.com/track/2eGGZSSdnady1oqoV2JGVP"
+    },
+    {
+      "album": {
         "name": "B Bardot - CD Story",
         "url": "https://open.spotify.com/album/0moSn0vXjIrzWZH0weiFif"
       },
@@ -1233,7 +1457,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196906,
       "name": "Le soleil",
       "url": "https://open.spotify.com/track/1ddDudbgEXIFqMJQzHxidQ"
@@ -1287,10 +1511,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217960,
       "name": "Les eaux de Mars",
       "url": "https://open.spotify.com/track/2SbWYJjhMiWGpN3evhm0R9"
+    },
+    {
+      "album": {
+        "name": "Le voyageur",
+        "url": "https://open.spotify.com/album/78FHh2FBh4UugFnZ2fTsAM"
+      },
+      "artists": [
+        {
+          "name": "Georges Moustaki",
+          "url": "https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218533,
+      "name": "Les eaux de Mars",
+      "url": "https://open.spotify.com/track/5m12MQSNBHP3SoIoYTgnyX"
     },
     {
       "album": {
@@ -1361,7 +1603,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 198346,
       "name": "Les Etoiles",
       "url": "https://open.spotify.com/track/3a61AXiLnRT456B4MeW7mT"
@@ -1379,7 +1621,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200333,
       "name": "Les Etoiles",
       "url": "https://open.spotify.com/track/5yQOP5W4KZtUDjsHjVQvT9"
@@ -1401,6 +1643,24 @@
       "duration_ms": 201066,
       "name": "Les feuilles mortes",
       "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
+    },
+    {
+      "album": {
+        "name": "A Fraction Of You",
+        "url": "https://open.spotify.com/album/3dq8TPEG5EezRpuh2YfCsY"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "Les jeux sont faits",
+      "url": "https://open.spotify.com/track/0G7aymlLyV2F40F4YpDYDH"
     },
     {
       "album": {
@@ -1440,6 +1700,40 @@
     },
     {
       "album": {
+        "name": "Raconte-moi... (Bonus Edition)",
+        "url": "https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Graham Harvey",
+          "url": "https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt"
+        },
+        {
+          "name": "Matt Skelton",
+          "url": "https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA"
+        },
+        {
+          "name": "John Parricelli",
+          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
+        },
+        {
+          "name": "Jeremy Brown",
+          "url": "https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209803,
+      "name": "Les vacances au bord de la mer",
+      "url": "https://open.spotify.com/track/0htMEthRuUTVgNRK1byxMj"
+    },
+    {
+      "album": {
         "name": "Les Bonbons (Vol.8)",
         "url": "https://open.spotify.com/album/2ACZa9NP3v66fWAlLtr4H7"
       },
@@ -1451,10 +1745,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244533,
       "name": "Les vieux",
       "url": "https://open.spotify.com/track/0S69aHSTmtYHKWdStcuBsd"
+    },
+    {
+      "album": {
+        "name": "15 Ans D'Amour",
+        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244906,
+      "name": "Les vieux",
+      "url": "https://open.spotify.com/track/7wAbY4A7KEPzQQIeUyARbi"
     },
     {
       "album": {
@@ -1523,10 +1835,28 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216282,
       "name": "Libert\u00e9",
       "url": "https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo"
+    },
+    {
+      "album": {
+        "name": "Little French Songs",
+        "url": "https://open.spotify.com/album/6ZBquZ3qyIkf5pIX8w6j7m"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217120,
+      "name": "Libert\u00e9",
+      "url": "https://open.spotify.com/track/6aqNZAOITFShgcpg66Gatm"
     },
     {
       "album": {
@@ -1559,7 +1889,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 289413,
       "name": "Menilmontant",
       "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
@@ -1577,10 +1907,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257240,
       "name": "Mes pas dans la neige (Spanish Song Bird)",
       "url": "https://open.spotify.com/track/7cM8i0m3As7TY3twK5867L"
+    },
+    {
+      "album": {
+        "name": "La disparition",
+        "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257240,
+      "name": "Mes pas dans la neige - Spanish Song Bird",
+      "url": "https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z"
     },
     {
       "album": {
@@ -1677,7 +2025,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": null,
       "duration_ms": 247666,
       "name": "On N'a Pas Besoin",
       "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
@@ -1739,6 +2087,24 @@
       "duration_ms": 211160,
       "name": "O\u00f9 veux-tu aller ?",
       "url": "https://open.spotify.com/track/3MrZpuWijCWDsCPl6bqDqc"
+    },
+    {
+      "album": {
+        "name": "A Fraction Of You",
+        "url": "https://open.spotify.com/album/3dq8TPEG5EezRpuh2YfCsY"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "O\u00f9 veux-tu aller ?",
+      "url": "https://open.spotify.com/track/5z3UJq95l8teAWcSmht6ff"
     },
     {
       "album": {
@@ -1832,6 +2198,24 @@
     },
     {
       "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "Plus je t'embrasse",
+      "url": "https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En"
+    },
+    {
+      "album": {
         "name": "Clair Obscur",
         "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
       },
@@ -1847,7 +2231,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 226826,
       "name": "Puisque vous partez en voyage",
       "url": "https://open.spotify.com/track/6AxIQYB4hZhhwyUHTRkThH"
@@ -1865,7 +2249,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 214784,
       "name": "Quand j'serai K.O",
       "url": "https://open.spotify.com/track/45csvaQWw0MMkEv0pP7YMc"
@@ -1908,6 +2292,24 @@
     },
     {
       "album": {
+        "name": "The Boy Next Door (Special Edition)",
+        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177253,
+      "name": "Que rest-t-il de nos amours?",
+      "url": "https://open.spotify.com/track/6QZ2OZGes6LAku3d5rIAeX"
+    },
+    {
+      "album": {
         "name": "The Boy Next Door",
         "url": "https://open.spotify.com/album/1Qo0mVjKK1eEZ5vGFpRvbl"
       },
@@ -1927,7 +2329,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177253,
       "name": "Que rest-t-il de nos amours?",
       "url": "https://open.spotify.com/track/3WYTn5VlkWkdacjGRsGvSv"
@@ -1953,6 +2355,24 @@
       "duration_ms": 163510,
       "name": "Que reste-t-il de nos amours ? - Bonus track",
       "url": "https://open.spotify.com/track/7vY7W8DL8JSaS6aBDFHGW3"
+    },
+    {
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199986,
+      "name": "Que reste-t-il de nos amours?",
+      "url": "https://open.spotify.com/track/0xh3JjCrXNKVfWzt0DEoTL"
     },
     {
       "album": {
@@ -2133,10 +2553,32 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 212893,
       "name": "Samois A Moi",
       "url": "https://open.spotify.com/track/01PlkOByrDuSNkJEhaMnr3"
+    },
+    {
+      "album": {
+        "name": "Just The Two Of Us",
+        "url": "https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        },
+        {
+          "name": "Diego Figueiredo",
+          "url": "https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212893,
+      "name": "Samois A Moi",
+      "url": "https://open.spotify.com/track/7dKkv6VSzDoak10meLR3Ia"
     },
     {
       "album": {
@@ -2223,7 +2665,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154079,
       "name": "Sympathique",
       "url": "https://open.spotify.com/track/2QkpfEIj3Ox8Tqfio7OTMh"
@@ -2241,7 +2683,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": "2022-08-11",
       "duration_ms": 168186,
       "name": "Sympathique",
       "url": "https://open.spotify.com/track/1sKpay0q1lsH8RgafNzdI1"
@@ -2266,6 +2708,24 @@
     },
     {
       "album": {
+        "name": "Tous mes r\u00eaves",
+        "url": "https://open.spotify.com/album/1zDcTxR4u2YE80bUsjaQpw"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155664,
+      "name": "Tous mes r\u00eaves",
+      "url": "https://open.spotify.com/track/6lCv1OYP94cH0yni2WDDmD"
+    },
+    {
+      "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },
@@ -2284,6 +2744,24 @@
     },
     {
       "album": {
+        "name": "Les deux guitares",
+        "url": "https://open.spotify.com/album/6boO8YNFqiJfu8IQUDCKAC"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221413,
+      "name": "Tu t'laisses aller",
+      "url": "https://open.spotify.com/track/1zv0wKzFiSguxypzw67DgN"
+    },
+    {
+      "album": {
         "name": "Le monde de la chanson, Vol. 27: Charles Aznavour, Vol. 2 \"O toi la vie!\"",
         "url": "https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk"
       },
@@ -2299,7 +2777,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219204,
       "name": "Tu t'laissez aller",
       "url": "https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX"
@@ -2393,7 +2871,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 113493,
       "name": "Une histoire de plage",
       "url": "https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK"
@@ -2433,7 +2911,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 233426,
       "name": "\u00c0 La Tour Eiffel",
       "url": "https://open.spotify.com/track/71RkxMNJzFk80bo0p4OFnp"

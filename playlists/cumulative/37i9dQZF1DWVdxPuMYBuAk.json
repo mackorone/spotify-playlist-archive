@@ -116,6 +116,28 @@
     },
     {
       "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/6ycHu5HE3kRz1HC2E5gtXo"
+      },
+      "artists": [
+        {
+          "name": "Matthew Dear",
+          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
+        },
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272506,
+      "name": "Bad Ones (feat. Tegan and Sara)",
+      "url": "https://open.spotify.com/track/31AYjxq6VkR57EgcwAJFmO"
+    },
+    {
+      "album": {
         "name": "Bad Ones (feat. Tegan and Sara)",
         "url": "https://open.spotify.com/album/19SqTcS9B9gHZImliAOmiM"
       },
@@ -131,7 +153,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 276983,
       "name": "Bad Ones (feat. Tegan and Sara)",
       "url": "https://open.spotify.com/track/28izyGMuPysSxWhKbqxRRc"
@@ -261,10 +283,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198842,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/0UQc1EkgxdIB3nGVTuAXKI"
+    },
+    {
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W"
+      },
+      "artists": [
+        {
+          "name": "Wild Nothing",
+          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198842,
+      "name": "Chinatown",
+      "url": "https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz"
     },
     {
       "album": {
@@ -279,10 +319,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254160,
       "name": "Clovers",
       "url": "https://open.spotify.com/track/20pGTJQx9VkRrW7Pvw5R2m"
+    },
+    {
+      "album": {
+        "name": "Happy To Be Here",
+        "url": "https://open.spotify.com/album/6t1OiiVq9VIbW1SUHaXX7W"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254160,
+      "name": "Clovers",
+      "url": "https://open.spotify.com/track/4blV3e2rU6jkqhXt5ZATSu"
     },
     {
       "album": {
@@ -402,6 +460,24 @@
     },
     {
       "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/568ZnkQDsn09lX1FXn7a4Q"
+    },
+    {
+      "album": {
         "name": "To All The Boys: Always and Forever (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT"
       },
@@ -413,7 +489,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151680,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/72wFB779XxTql3IQN2Nvya"
@@ -601,10 +677,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186823,
       "name": "Heartshaker",
       "url": "https://open.spotify.com/track/5lHq0Tv3xyBt6wlZ6zT29l"
+    },
+    {
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186823,
+      "name": "Heartshaker",
+      "url": "https://open.spotify.com/track/7awrM47SxC8KHtt2WUMyPZ"
     },
     {
       "album": {
@@ -626,6 +720,24 @@
     },
     {
       "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/2PeeUvfOenbUY9RSyeeheV"
+      },
+      "artists": [
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213496,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/08N3QBzipeqmTr4fnDddCI"
+    },
+    {
+      "album": {
         "name": "To All The Boys: P.S. I Still Love You (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/37QF4ERcZXyv3i4s22akY5"
       },
@@ -637,10 +749,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215093,
       "name": "Honest",
       "url": "https://open.spotify.com/track/4L3KRAAuIfzIFVS8woBgWD"
+    },
+    {
+      "album": {
+        "name": "Faint of Heart",
+        "url": "https://open.spotify.com/album/6Oo2L6mlblKkGSWj49Q7mn"
+      },
+      "artists": [
+        {
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193546,
+      "name": "Human Right",
+      "url": "https://open.spotify.com/track/0e866bvP5rorqKS0pPjvr5"
     },
     {
       "album": {
@@ -655,10 +785,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193546,
       "name": "Human Right",
       "url": "https://open.spotify.com/track/38Bei4A7rJZfnC7fugI2hJ"
+    },
+    {
+      "album": {
+        "name": "The New Life",
+        "url": "https://open.spotify.com/album/7cUfFtYLowKwLNrrJiAxFj"
+      },
+      "artists": [
+        {
+          "name": "Girls Names",
+          "url": "https://open.spotify.com/artist/4UAxwzDV5PYB11huf5Shs3"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228620,
+      "name": "Hypnotic Regression",
+      "url": "https://open.spotify.com/track/0AIhZWdCh5A01W5ldiS6Z5"
     },
     {
       "album": {
@@ -673,7 +821,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228620,
       "name": "Hypnotic Regression",
       "url": "https://open.spotify.com/track/4efmMftIGGwVn03AFD7VT9"
@@ -709,10 +857,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197436,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/1wjzFQodRWrPcQ0AnYnvQ9"
+    },
+    {
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197436,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ"
     },
     {
       "album": {
@@ -839,10 +1005,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189052,
       "name": "Kill This Love",
       "url": "https://open.spotify.com/track/18PergoIrGmRyeYxnaXJN2"
+    },
+    {
+      "album": {
+        "name": "KILL THIS LOVE",
+        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191050,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
     },
     {
       "album": {
@@ -897,10 +1081,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184281,
       "name": "Me and My Mind",
       "url": "https://open.spotify.com/track/2Mjx0U6EzYoY0dCvhxy9aV"
+    },
+    {
+      "album": {
+        "name": "Me and My Mind",
+        "url": "https://open.spotify.com/album/09xUbuXHA0Wp7QqHOE1Pdh"
+      },
+      "artists": [
+        {
+          "name": "Jazz Morley",
+          "url": "https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184281,
+      "name": "Me and My Mind",
+      "url": "https://open.spotify.com/track/4QG1X1iG7fevXjaEeGLmBI"
     },
     {
       "album": {
@@ -1205,7 +1407,7 @@
     {
       "album": {
         "name": "Reservoir",
-        "url": "https://open.spotify.com/album/27CcSt3j7OxhWVcCPZBYLq"
+        "url": "https://open.spotify.com/album/7MVNwVgywHDy4hv7MQ2n1E"
       },
       "artists": [
         {
@@ -1218,7 +1420,43 @@
       "date_removed": null,
       "duration_ms": 300120,
       "name": "Something Like This",
+      "url": "https://open.spotify.com/track/02j4nqTmaNzb9dJnqJTtRI"
+    },
+    {
+      "album": {
+        "name": "Reservoir",
+        "url": "https://open.spotify.com/album/27CcSt3j7OxhWVcCPZBYLq"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 300120,
+      "name": "Something Like This",
       "url": "https://open.spotify.com/track/7iPo9XtZD2eJ77IoqO2yIw"
+    },
+    {
+      "album": {
+        "name": "Tal Uno",
+        "url": "https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267274,
+      "name": "Tal Uno",
+      "url": "https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S"
     },
     {
       "album": {
@@ -1233,7 +1471,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267274,
       "name": "Tal Uno",
       "url": "https://open.spotify.com/track/7eXDhsMpOFdsJWauZgq9qv"
@@ -1258,6 +1496,24 @@
     },
     {
       "album": {
+        "name": "The Same / Real Love",
+        "url": "https://open.spotify.com/album/0zWFPw6BqkytZZ2roxs9vh"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233220,
+      "name": "The Same",
+      "url": "https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY"
+    },
+    {
+      "album": {
         "name": "To All The Boys: Always and Forever (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT"
       },
@@ -1269,7 +1525,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233560,
       "name": "The Same",
       "url": "https://open.spotify.com/track/4x7OnXtzFvsPIqdmQq2Pao"
@@ -1341,10 +1597,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238520,
       "name": "Unsung Songs",
       "url": "https://open.spotify.com/track/7dsYDkjVP0btEBT5d9DVVZ"
+    },
+    {
+      "album": {
+        "name": "Me You They We",
+        "url": "https://open.spotify.com/album/3wF6DCWrOi4OQEuwowzurN"
+      },
+      "artists": [
+        {
+          "name": "Ages and Ages",
+          "url": "https://open.spotify.com/artist/3DozezNrsIE37kJJfHhS9M"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238855,
+      "name": "Unsung Songs",
+      "url": "https://open.spotify.com/track/2YModoAu53OVxlMUqtof87"
     },
     {
       "album": {
@@ -1359,10 +1633,46 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177613,
       "name": "Until We Leave the Ground",
       "url": "https://open.spotify.com/track/0Y2BB9NaHf1afyCuwBVTUW"
+    },
+    {
+      "album": {
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/596mgQppymQJnhfphd3RJP"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180706,
+      "name": "Until We Leave the Ground",
+      "url": "https://open.spotify.com/track/2U5GoyOx5r93PzP1xbji9V"
+    },
+    {
+      "album": {
+        "name": "Away for All Time",
+        "url": "https://open.spotify.com/album/1cRf3YRjE0pm48CNQC6eCr"
+      },
+      "artists": [
+        {
+          "name": "Many Voices Speak",
+          "url": "https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300800,
+      "name": "Video Child",
+      "url": "https://open.spotify.com/track/5MBKDKheLzcGoRYGWpFNNg"
     },
     {
       "album": {
@@ -1377,7 +1687,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 300800,
       "name": "Video Child",
       "url": "https://open.spotify.com/track/6XRJPmdCErAaOEraEuvsuQ"
@@ -1449,10 +1759,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226053,
       "name": "Way Back In",
       "url": "https://open.spotify.com/track/4AQi9KrSkV92PDMHwU0LMM"
+    },
+    {
+      "album": {
+        "name": "Me You They We",
+        "url": "https://open.spotify.com/album/3wF6DCWrOi4OQEuwowzurN"
+      },
+      "artists": [
+        {
+          "name": "Ages and Ages",
+          "url": "https://open.spotify.com/artist/3DozezNrsIE37kJJfHhS9M"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226470,
+      "name": "Way Back In",
+      "url": "https://open.spotify.com/track/18jVn1j8AX2YvkTUcGhruX"
     },
     {
       "album": {
@@ -1493,7 +1821,7 @@
     {
       "album": {
         "name": "Stay Cool",
-        "url": "https://open.spotify.com/album/17OupkaKflx66dgvGUFGlw"
+        "url": "https://open.spotify.com/album/44ZygtuH05Lo1yUuVcBA85"
       },
       "artists": [
         {
@@ -1504,6 +1832,24 @@
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 210089,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2rVoTl5ZMP3UijfJVnyRgf"
+    },
+    {
+      "album": {
+        "name": "Stay Cool",
+        "url": "https://open.spotify.com/album/17OupkaKflx66dgvGUFGlw"
+      },
+      "artists": [
+        {
+          "name": "Twinsmith",
+          "url": "https://open.spotify.com/artist/6OzddGLeuKG9irjEC13C69"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 210089,
       "name": "You & I",
       "url": "https://open.spotify.com/track/7gVs0xlYYqN7fYA8humvwl"
@@ -1529,7 +1875,7 @@
     {
       "album": {
         "name": "Eccentric Soul: The Capsoul Label",
-        "url": "https://open.spotify.com/album/0C5uwKeCiK6GJEEK5eUuwe"
+        "url": "https://open.spotify.com/album/04D0mW6vcrkyirMVF7x1cy"
       },
       "artists": [
         {
@@ -1540,6 +1886,24 @@
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198093,
+      "name": "You're All I Need to Make It",
+      "url": "https://open.spotify.com/track/1aAKe7L1OKsoXJHqy8uMwH"
+    },
+    {
+      "album": {
+        "name": "Eccentric Soul: The Capsoul Label",
+        "url": "https://open.spotify.com/album/0C5uwKeCiK6GJEEK5eUuwe"
+      },
+      "artists": [
+        {
+          "name": "Johnson, Hawkins, Tatum & Durr",
+          "url": "https://open.spotify.com/artist/3eobivfx0tOH94jFekNtaG"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 198093,
       "name": "You're All I Need to Make It",
       "url": "https://open.spotify.com/track/2XbF6EvqVqMR8ImThZUHqy"

@@ -4,7 +4,7 @@
 
 > I'm The One! A TEEnager Z is here.
 
-92 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/2ZfBUnJ6uWG5YMir0Zq40K)
+99 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/2ZfBUnJ6uWG5YMir0Zq40K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Better \- Korean Version](https://open.spotify.com/track/4PyRAVwFRxwPESvpVKZfiJ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:34 | 2022-02-03 |  |
 | [Blue Summer](https://open.spotify.com/track/7oLyy8aPrMu6hka0SaUWxz) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Dreamers](https://open.spotify.com/album/1RiuAAiDFvA0sYc4MRWKvK) | 3:31 | 2022-02-03 |  |
 | [Celebrate](https://open.spotify.com/track/1ptZH0pgnIjSG2mUYvMUjB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:16 | 2022-02-03 |  |
+| [Cyberpunk](https://open.spotify.com/track/2Ax4rdLenBhULX7nRbhful) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:44 | 2022-07-29 |  |
 | [Dancing Like Butterfly Wings](https://open.spotify.com/track/0sZpzFq1Ms8MQwuCe8WThA) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:02 | 2022-02-03 |  |
 | [Dazzling Light](https://open.spotify.com/track/7HyAzQHnTni37xGUlve1iD) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:09 | 2022-02-03 |  |
 | [Dear Diary : 2016.07.29](https://open.spotify.com/track/093RivoXCivJPm372opl5Q) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 2:33 | 2022-02-03 |  |
@@ -36,6 +37,7 @@
 | [FEVER](https://open.spotify.com/track/2dPETee06bbHulsABk0h7I) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:24 | 2022-02-03 |  |
 | [Fireworks \(I'm The One\)](https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:29 | 2022-02-03 |  |
 | [Good Lil Boy](https://open.spotify.com/track/5U8pXQSdhTtQ8bp6K6vb9Y) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:25 | 2022-02-03 |  |
+| [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-07-29 |  |
 | [HALA HALA \(Hearts Awakened, Live Alive\)](https://open.spotify.com/track/4v2BLMhWtVvBnZwuoiKxja) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2: Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:22 | 2022-02-03 |  |
 | [HALA HALA \- Traditional Treatment Mix](https://open.spotify.com/track/14MK8meDsJ7JVCjVXGXK2j) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP\. EXTRA: Shift The Map](https://open.spotify.com/album/3uejTFamPCZuTD1HvYLqw2) | 3:22 | 2022-02-03 |  |
 | [Horizon](https://open.spotify.com/track/7aq8t9D82PJuqH7TFT4W6O) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EPILOGUE : Action To Answer](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) | 3:11 | 2022-02-03 |  |
@@ -48,6 +50,7 @@
 | [Light](https://open.spotify.com/track/2KnNV0Ahhb5qkK83LKymZE) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2: Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:38 | 2022-02-03 |  |
 | [MIST](https://open.spotify.com/track/52PCrf2tqml44bWLNT58hF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:19 | 2022-02-03 |  |
 | [My Way](https://open.spotify.com/track/7nm5N2yWWlDp3R9wPSGmj8) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:48 | 2022-02-03 |  |
+| [New World](https://open.spotify.com/track/0rvQzaVeceFaksUoeyonXw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:36 | 2022-07-29 |  |
 | [Not Too Late](https://open.spotify.com/track/0fmdJr4UEfmqFCGFswAJPe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:34 | 2022-02-03 |  |
 | [One Day At A Time](https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:23 | 2022-02-03 |  |
 | [Outro : Over the Horizon](https://open.spotify.com/track/50E6fZjrXlueE5CGwYQh3m) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 1:41 | 2022-02-03 |  |
@@ -58,10 +61,12 @@
 | [Precious \(Overture\)](https://open.spotify.com/track/6gbhjkoubkuIzKSEV37suF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 1:42 | 2022-02-03 |  |
 | [Promise](https://open.spotify.com/track/54z9tiaPu15pfkGSUwrOLI) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2: Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:15 | 2022-02-03 |  |
 | [Promise \- Notation from Senor Juwon Park](https://open.spotify.com/track/0tAEIfNoAAf7yksns00RE1) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP\. EXTRA: Shift The Map](https://open.spotify.com/album/3uejTFamPCZuTD1HvYLqw2) | 3:25 | 2022-02-03 |  |
+| [PROPAGANDA](https://open.spotify.com/track/5DlFiQX9LUiSI0QuBi0JA7) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 1:17 | 2022-07-29 |  |
 | [ROCKY](https://open.spotify.com/track/1Idy1ndwsEhW10UlQFT0mF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:08 | 2022-02-03 |  |
 | [Say My Name](https://open.spotify.com/track/2UP7KnRSvc4taXbjOoSX0f) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2: Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:42 | 2022-02-03 |  |
 | [Say My Name \- Flavor of Latin with Juwon Park](https://open.spotify.com/track/7jPiCapcTtnuCP3keJkjja) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP\. EXTRA: Shift The Map](https://open.spotify.com/album/3uejTFamPCZuTD1HvYLqw2) | 3:41 | 2022-02-03 |  |
 | [Say My Name \- Japanese Ver.](https://open.spotify.com/track/4jE309OhIWZqXJUzrpkW0V) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Into the A to Z](https://open.spotify.com/album/4UfjyHIT2Nvb2XC7hnaPC0) | 3:42 | 2022-02-03 |  |
+| [Sector 1](https://open.spotify.com/track/1V1btvvh0M47BWClDsiCqZ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:03 | 2022-07-29 |  |
 | [Star 1117](https://open.spotify.com/track/0wuGxn6mILf918ZIaeiIG5) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EPILOGUE : Action To Answer](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) | 3:42 | 2022-02-03 |  |
 | [Star 1117 \- BUDDY'S Melodic Mix](https://open.spotify.com/track/2q43AKtvPAlk4ISyvuNBgg) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Buddy](https://open.spotify.com/artist/74zjHeFm4yooE7SuemoFan) | [TREASURE EP\. Map To Answer](https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i) | 4:00 | 2022-02-03 |  |
 | [Stay](https://open.spotify.com/track/2vrasrfR6mxxjcD5v5BuRT) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:19 | 2022-02-03 |  |
@@ -79,6 +84,7 @@
 | [The Leaders](https://open.spotify.com/track/52Sj1SUJ6FNceKLZVggVak) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:12 | 2022-02-03 |  |
 | [The Letter](https://open.spotify.com/track/36Pv4AULgye6Y8Zhq9GDQz) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:49 | 2022-02-03 |  |
 | [The Real \- Heung Version](https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:30 | 2022-02-03 |  |
+| [The Ring](https://open.spotify.com/track/1s9dHDYdTjQo1Ow8MoF9nV) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 4:00 | 2022-07-29 |  |
 | [Time Of Love](https://open.spotify.com/track/7CXXE0TJeCjsVIKnnATvmJ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 2:56 | 2022-02-03 |  |
 | [TO THE BEAT](https://open.spotify.com/track/3c8UznwIeQjux7OWT0Wa0s) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:01 | 2022-02-03 |  |
 | [Treasure](https://open.spotify.com/track/0SDUepNAC5xZPkIEb6Kpce) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:40 | 2022-02-03 |  |
@@ -93,6 +99,7 @@
 | [Wave](https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:23 | 2022-02-03 |  |
 | [WAVE \(Overture\)](https://open.spotify.com/track/4MmTThXHLm5dPLhLMBnXgq) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 1:42 | 2022-02-03 |  |
 | [Wave \- Ollounder's Bold Dynamics Mix](https://open.spotify.com/track/178BwxzvYbZze3eF7hAMYs) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP\. EXTRA: Shift The Map](https://open.spotify.com/album/3uejTFamPCZuTD1HvYLqw2) | 2:45 | 2022-02-03 |  |
+| [WDIG \(Where Do I Go\)](https://open.spotify.com/track/2pwEbLrm8PkgplnTRG6bSL) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:13 | 2022-07-29 |  |
 | [White Love](https://open.spotify.com/track/3HVfAODNZoFHLOegytXJz9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Season Songs](https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ) | 3:17 | 2022-02-03 |  |
 | [WIN](https://open.spotify.com/track/6iaVgWHDlYxjjvj3PuKSQX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:22 | 2022-02-03 |  |
 | [WITH U](https://open.spotify.com/track/3gYFXFPdWslCNtZcO4GEdy) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:34 | 2022-02-03 |  |

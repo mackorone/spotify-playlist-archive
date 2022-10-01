@@ -44,6 +44,78 @@
     },
     {
       "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 174749,
+      "name": "Al Ni\u00f1o Le Gusta Lo Bueno",
+      "url": "https://open.spotify.com/track/0osBwuy7W8a7H0HkPPTDgn"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174749,
+      "name": "Al Ni\u00f1o Le Gusta Lo Bueno",
+      "url": "https://open.spotify.com/track/1c6ilYnCPdP1BiFN6qi0Dy"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-05",
+      "duration_ms": 167500,
+      "name": "Arriba De Una Moto",
+      "url": "https://open.spotify.com/track/4nkR3bV6HENhWYJ88HDhrX"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Arriba De Una Moto",
+      "url": "https://open.spotify.com/track/4pNhqgKHVZ7DFRkgirEykX"
+    },
+    {
+      "album": {
         "name": "Barrio Xolo",
         "url": "https://open.spotify.com/album/2WdXJMn7Y4jlMM5tXPzt7j"
       },
@@ -95,6 +167,60 @@
       "duration_ms": 197463,
       "name": "Calles De S.D.",
       "url": "https://open.spotify.com/track/7qjrn67d14U8XDsnwOL0Nr"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 150875,
+      "name": "Cheyenne Black",
+      "url": "https://open.spotify.com/track/0rgn0SK9Xfi9fRY9YVeICI"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 155876,
+      "name": "Ch\u00e1vez Charola",
+      "url": "https://open.spotify.com/track/2yPFa8QtSZrST8wMtfRsSm"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 155876,
+      "name": "Ch\u00e1vez Charola",
+      "url": "https://open.spotify.com/track/3BYXaFIdgpcqSK2kvHJnd5"
     },
     {
       "album": {
@@ -185,6 +311,46 @@
       "duration_ms": 184751,
       "name": "Cuartitos De Libra",
       "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
+    },
+    {
+      "album": {
+        "name": "De Aqu\u00ed Para All\u00e1",
+        "url": "https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216841,
+      "name": "De Aqu\u00ed Para All\u00e1",
+      "url": "https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 141818,
+      "name": "El Chava",
+      "url": "https://open.spotify.com/track/5Tr6YTRAFfsnFd2k36DAh5"
     },
     {
       "album": {
@@ -296,6 +462,24 @@
     },
     {
       "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 164500,
+      "name": "El Roque",
+      "url": "https://open.spotify.com/track/6WxSL4jaPaxEa1mm7p2uMd"
+    },
+    {
+      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -318,6 +502,42 @@
     },
     {
       "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 147999,
+      "name": "Fino El Porteson",
+      "url": "https://open.spotify.com/track/0Kkw5A0E9THKHiZwpqY78h"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147999,
+      "name": "Fino El Porteson",
+      "url": "https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf"
+    },
+    {
+      "album": {
         "name": "Galil Rameado",
         "url": "https://open.spotify.com/album/1QLEQpE84nhDO17QuAmyzT"
       },
@@ -333,6 +553,42 @@
       "duration_ms": 196336,
       "name": "Galil Rameado",
       "url": "https://open.spotify.com/track/7mTQYSdS2N4Fb9T2ieH7dl"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Gerardo V1",
+      "url": "https://open.spotify.com/track/3iFeFrtR3ubraz7cbKwzWX"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 154500,
+      "name": "Gerardo V1",
+      "url": "https://open.spotify.com/track/5vVHHD6VOh5KRn3gzju0Sk"
     },
     {
       "album": {
@@ -372,6 +628,42 @@
     },
     {
       "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 172000,
+      "name": "La Cubana",
+      "url": "https://open.spotify.com/track/3rDQsjtqw3rNSX3niFAJqq"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 172000,
+      "name": "La Cubana",
+      "url": "https://open.spotify.com/track/5s8flimp5WHfmQFkVgSNpA"
+    },
+    {
+      "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
@@ -401,10 +693,82 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": "2022-09-19",
       "duration_ms": 149350,
       "name": "La Gente Del Toro",
       "url": "https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 157875,
+      "name": "La Gente Nueva",
+      "url": "https://open.spotify.com/track/3nsj36Pio46eXURlJdDRz5"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 157875,
+      "name": "La Gente Nueva",
+      "url": "https://open.spotify.com/track/5vyDbihMtrtyrKp6xUW8Gq"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 209624,
+      "name": "La Moneda Vueltas Dio",
+      "url": "https://open.spotify.com/track/0HdwsDCUpvVm0f9mPvGaRk"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209624,
+      "name": "La Moneda Vueltas Dio",
+      "url": "https://open.spotify.com/track/7aMuodDbZvgLOPk3zRReqJ"
     },
     {
       "album": {
@@ -484,6 +848,42 @@
     },
     {
       "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 179499,
+      "name": "Millonario y Me Retiro",
+      "url": "https://open.spotify.com/track/5TS8Q5BGgq3PlqfySprCB4"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 179499,
+      "name": "Millonario y Me Retiro",
+      "url": "https://open.spotify.com/track/6u9KQvTQBGQ6uQ5PbqPItd"
+    },
+    {
+      "album": {
         "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
         "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },
@@ -529,12 +929,66 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 174550,
+      "name": "No Toco Inocentes",
+      "url": "https://open.spotify.com/track/1EXfrxDYUSufbBeUXnf2j6"
+    },
+    {
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174556,
       "name": "Para Ser Respetado",
       "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163374,
+      "name": "Peter King Kong",
+      "url": "https://open.spotify.com/track/3gv9PZLhs2c87MEcy6zOfu"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 163374,
+      "name": "Peter King Kong",
+      "url": "https://open.spotify.com/track/4CJGVxXvB3PIqRgnmFBIo8"
     },
     {
       "album": {
@@ -592,6 +1046,42 @@
     },
     {
       "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 174918,
+      "name": "Sigo y Sigo",
+      "url": "https://open.spotify.com/track/18ex1QePwFr4kevw448OlG"
+    },
+    {
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 167251,
+      "name": "Soy De La",
+      "url": "https://open.spotify.com/track/1tRKJ5Ov5meBRAg7B9rab6"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os y Metas",
         "url": "https://open.spotify.com/album/5xznQhaDmG3QocS1i5KfUE"
       },
@@ -643,7 +1133,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-08-28",
       "duration_ms": 172471,
       "name": "Todo A Su Tiempo",
       "url": "https://open.spotify.com/track/0eh9ZrTOVClUh7lhBv1pLt"

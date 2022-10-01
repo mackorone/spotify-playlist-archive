@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3gTjSx5Dc7.md) - [plain]
 
 > This is the essential Axwell Λ Ingrosso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,880 likes - 22 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,287 likes - 22 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3gTjSx5Dc7.md) - [plain]
 | 3 | [Something New](https://open.spotify.com/track/5C4NMi4fPpdFPnMZVsyG8H) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:07 |
 | 4 | [Sun Is Shining](https://open.spotify.com/track/4b2tcjrG1qUkSdsqEFP2dB) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:14 |
 | 5 | [On My Way](https://open.spotify.com/track/5zATs59c3mikRxLK6ODE0p) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:24 |
-| 6 | [Dancing Alone](https://open.spotify.com/track/2sWiygeCvOSSMjS0pwR80M) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [RØMANS](https://open.spotify.com/artist/4b8dLpJgJpNQYzu4AtXLt3) | [Dancing Alone](https://open.spotify.com/album/78cu7nvNAX0aM40ahlLUWr) | 4:13 |
+| 6 | [Dancing Alone](https://open.spotify.com/track/5xzzxWj8a1YBbNZhNLqWuQ) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [RØMANS](https://open.spotify.com/artist/4b8dLpJgJpNQYzu4AtXLt3) | [Dancing Alone](https://open.spotify.com/album/3Eji57H17vbXGlU0geDquA) | 4:13 |
 | 7 | [I Love You](https://open.spotify.com/track/2GISbjz3wIJX7S4iv1XXAy) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:10 |
 | 8 | [How Do You Feel Right Now](https://open.spotify.com/track/5P9lfNxIoCTCcInZRSdjW4) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 2:59 |
 | 9 | [This Time](https://open.spotify.com/track/2CEYIgQM8cloUeNaFOwT1C) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:37 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3gTjSx5Dc7.md) - [plain]
 | 21 | [Together \- Radio Edit](https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [Together](https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz) | 3:31 |
 | 22 | [Dreamer \- Matisse & Sadko Remix](https://open.spotify.com/track/6Bz6Rsp8GyeK4yL7APYYX3) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Dreamer \(Remixes\)](https://open.spotify.com/album/6DWBzXE4ccUNtpKXdvU2tA) | 4:10 |
 
-Snapshot ID: `MTY1NzY0MjMxNywwMDAwMDAwYzAwMDAwMTgxZjMyZTc1ODUwMDAwMDE3MGE0ZjUwYjkx`
+Snapshot ID: `MTY1NzY0MjMxNywwMDAwMDAwMDY1ODQ3NTFlMzM1M2RiZDNjYjg1NDg3ODNjYjdkZmMy`

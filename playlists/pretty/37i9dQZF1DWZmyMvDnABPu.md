@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmyMvDnABPu.md) - [plain]
 
 > Enjoy the JTBC drama 'Nevertheless,' OSTs in a different way with the lines in the drama\. \(JTBC 드라마 '알고있지만'의 OST를 작중 대사와 함께 색다르게 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,868 likes - 44 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,715 likes - 44 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmyMvDnABPu.md) - [plain]
 | 43 | [Love, This \- Instrumental](https://open.spotify.com/track/6cnIxIEf69ZwGgZcCmjyKm) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Nevertheless, \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/2DNfUCOCsKzUBLBD79cU2L) | 3:12 |
 | 44 | [Nevertheless \- Instrumental](https://open.spotify.com/track/4vFZTRGFmUF0uCO3QnirOB) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Nevertheless, \(Original Television Soundtrack, Pt\. 10\)](https://open.spotify.com/album/72l5H1zdxBPzC2q5KJgSgB) | 3:00 |
 
-Snapshot ID: `MTYzMzA1MDc2NywwMDAwMDAwODAwMDAwMTdjMzk2OTMxMTcwMDAwMDE3YzJhOGY1OWZj`
+Snapshot ID: `MTYzMzA1MDc2NywwMDAwMDAwMGYyZDlhY2VjYTE5YTcyMGUzZTY4YTUzNjM4M2M2NDQ2`

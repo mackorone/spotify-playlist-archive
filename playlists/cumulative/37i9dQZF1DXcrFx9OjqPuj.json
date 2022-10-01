@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-13",
-  "description": "Get the party started with some upbeat party jazz.",
+  "description": "Get the party started with some upbeat party Jazz.",
   "name": "Party Jazz",
   "published_playlist_ids": [
     "0URm84MB7MMlfi2eP9YKgm"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 192333,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/6H1oEU9UVUz0ZuxyOoDWT6"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 308800,
       "name": "'Smake It - Rudy Van Gelder/Digital Remaster/2007",
       "url": "https://open.spotify.com/track/0cWMf4QrlmHYhxXUh8tTjD"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 416320,
       "name": "Beyond The Blue Horizon",
       "url": "https://open.spotify.com/track/6PIGn43hhLuLnfOWT6XYKA"
@@ -316,6 +316,28 @@
     },
     {
       "album": {
+        "name": "Blowing In From Chicago",
+        "url": "https://open.spotify.com/album/3vkVhAKhudQjsjLchc8RU6"
+      },
+      "artists": [
+        {
+          "name": "Clifford Jordan",
+          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
+        },
+        {
+          "name": "John Gilmore",
+          "url": "https://open.spotify.com/artist/65A4foeosCkf3zaigZJuzF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356746,
+      "name": "Bo-Fill - Rudy Van Gelder 24Bit Mastering",
+      "url": "https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5"
+    },
+    {
+      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -363,7 +385,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 271773,
       "name": "Bubbis",
       "url": "https://open.spotify.com/track/0CUbMWaaV3LXNsgh3ne7ua"
@@ -421,7 +443,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 236240,
       "name": "Carvin' The Rock - Remastered",
       "url": "https://open.spotify.com/track/0nMCpAhJZRXtVn3CkVjPyE"
@@ -468,7 +490,7 @@
     },
     {
       "album": {
-        "name": "Introducing",
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
       "artists": [
@@ -481,7 +503,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 257866,
-      "name": "Cherokee - Rudy Van Gelder Edition/Digital Remaster/2006",
+      "name": "Cherokee - Remastered 2006/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2Gxqa5tSywDIreRacsNPZB"
     },
     {
@@ -587,7 +609,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 331386,
       "name": "Doozy - 1966 Album Version",
       "url": "https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF"
@@ -699,7 +721,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 428133,
       "name": "Fidel - Remastered",
       "url": "https://open.spotify.com/track/7DGD76uSCMikhXmhOQnbj7"
@@ -717,7 +739,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-26",
       "duration_ms": 426573,
       "name": "Five Will Get You Ten - Remastered 1999 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3qCp2wsIumik19ro8QEIBT"
@@ -863,10 +885,28 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 495173,
       "name": "Hobo Joe",
       "url": "https://open.spotify.com/track/62ADmGUgi4J5zgJDTRKGJz"
+    },
+    {
+      "album": {
+        "name": "Further Definitions",
+        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230813,
+      "name": "Honeysuckle Rose",
+      "url": "https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR"
     },
     {
       "album": {
@@ -906,6 +946,24 @@
     },
     {
       "album": {
+        "name": "The Hard Swing",
+        "url": "https://open.spotify.com/album/5ppHHedKagWqeeg5O70CIz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275520,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/6DaExxnrF56oEF0qHR3Izl"
+    },
+    {
+      "album": {
         "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/2Od5gIW3c3szwoTxl0Hhu7"
       },
@@ -917,7 +975,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281226,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/0kCs2MagFVwOM90kpwSR5V"
@@ -1062,6 +1120,24 @@
     },
     {
       "album": {
+        "name": "Rollin' With Leo (Remastered)",
+        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
+      },
+      "artists": [
+        {
+          "name": "Leo Parker",
+          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270960,
+      "name": "Jumpin' Leo - Remastered",
+      "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
+    },
+    {
+      "album": {
         "name": "Afro-Cuban (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
       },
@@ -1107,7 +1183,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 426480,
       "name": "Kiss And Run",
       "url": "https://open.spotify.com/track/1hqa9kxKz6wKgNx9PP2Iwc"
@@ -1125,7 +1201,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 387653,
       "name": "Latin Quarter - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/7L83qErlLHeb6n1CR9lqXk"
@@ -1191,7 +1267,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 293106,
       "name": "Lion's Den - Rudy Van Gelder Edition/2007 Remaster",
       "url": "https://open.spotify.com/track/5Q9XLLVex1yZ0Heo2SVhMI"
@@ -1209,7 +1285,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 324466,
       "name": "Lizzy's Bounce",
       "url": "https://open.spotify.com/track/6DXYegZOJPvQ07OhKgDlHM"
@@ -1229,7 +1305,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 434624,
-      "name": "Locomotion - Remastered",
+      "name": "Locomotion",
       "url": "https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk"
     },
     {
@@ -1245,7 +1321,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 224266,
       "name": "Lou's Blues",
       "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
@@ -1285,7 +1361,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 410106,
       "name": "Lover Come Back To Me - Rudy Van Gelder Edition/Digital Remaster/2006",
       "url": "https://open.spotify.com/track/1J02pIG4SD4X2itRrSY43Y"
@@ -1303,7 +1379,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 275613,
       "name": "Mad Lad Returns - Remastered",
       "url": "https://open.spotify.com/track/6npb3822TbhzUHr6KJliBZ"
@@ -1339,10 +1415,28 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 406240,
       "name": "Medina - Remastered",
       "url": "https://open.spotify.com/track/0ovtEcriEuV9CosA98U8tZ"
+    },
+    {
+      "album": {
+        "name": "Leapin' And Lopin'",
+        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432580,
+      "name": "Midnight Mambo",
+      "url": "https://open.spotify.com/track/4Lp28xhDHUNvdcnfYf4Hhq"
     },
     {
       "album": {
@@ -1393,7 +1487,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 353106,
       "name": "Move",
       "url": "https://open.spotify.com/track/2wo3fkK3ZtUZrm9MvElyhv"
@@ -1483,7 +1577,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 382453,
       "name": "Ole - Digital Remaster/2007",
       "url": "https://open.spotify.com/track/539lbCBUmpYrXRdEMX7e1q"
@@ -1635,7 +1729,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 297040,
       "name": "Sandu",
       "url": "https://open.spotify.com/track/7iOTBeLm5qR9N23fjQy8Kl"
@@ -1653,7 +1747,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 451626,
       "name": "Smokin' - Remastered 2005",
       "url": "https://open.spotify.com/track/2BxdgnesDnHCmbRABgAJEb"
@@ -1671,7 +1765,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 347133,
       "name": "Sneaky Pete",
       "url": "https://open.spotify.com/track/5Gd7CJ9wlg5fah94ZsXBWK"
@@ -1741,10 +1835,58 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 406266,
       "name": "St. Thomas",
       "url": "https://open.spotify.com/track/0zQE77yszbyv61M4NboU2u"
+    },
+    {
+      "album": {
+        "name": "Saxophone Colossus",
+        "url": "https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Doug Watkins",
+          "url": "https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 407600,
+      "name": "St. Thomas",
+      "url": "https://open.spotify.com/track/05LNBtMuc26HSAHh7C6iG8"
+    },
+    {
+      "album": {
+        "name": "Boss Tenor",
+        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Stompin' At The Savoy",
+      "url": "https://open.spotify.com/track/5DJ2nRHo37U7pvjnkWKfZE"
     },
     {
       "album": {
@@ -1759,7 +1901,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212066,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/1paZKdYXEFYTb2IHls5FK4"
@@ -1795,7 +1937,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 538973,
       "name": "Straight Ahead - Remasted 1998/ Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4wupMhFWAQzP8CGROC1D2r"
@@ -1849,7 +1991,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 317733,
       "name": "Swingin' The Samba - Rudy Van Gelder Edition / Remastered",
       "url": "https://open.spotify.com/track/0DUtvrzMPw3IswNQgZPIHR"
@@ -1885,7 +2027,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 330120,
       "name": "Tariff - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/3WJpTTRFQr46ZF2Td29bTj"
@@ -1907,7 +2049,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 733066,
       "name": "Tenor Madness - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO"
@@ -1925,7 +2067,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 201440,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/4GteYBDgn0o1fnJl6SAsZN"
@@ -1961,10 +2103,28 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 143800,
       "name": "The Best Things In Life Are Free",
       "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
+    },
+    {
+      "album": {
+        "name": "Autumn In New York",
+        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144840,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
     },
     {
       "album": {
@@ -2019,7 +2179,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 139133,
       "name": "The Critic's Choice",
       "url": "https://open.spotify.com/track/67cJY01l5qsL6ckW0OgyHK"
@@ -2037,7 +2197,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 304453,
       "name": "The Joker - Remastered",
       "url": "https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb"
@@ -2131,9 +2291,9 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 581026,
-      "name": "The Way You Look Tonight - Remastered",
+      "name": "The Way You Look Tonight - Remastered 2009",
       "url": "https://open.spotify.com/track/48LBp3r6onaYB7UDGOPXgI"
     },
     {
@@ -2174,6 +2334,24 @@
     },
     {
       "album": {
+        "name": "African Waltz",
+        "url": "https://open.spotify.com/album/5sl60zyjldirYBI1kKxN9f"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180266,
+      "name": "This Here",
+      "url": "https://open.spotify.com/track/73ywxvRTfXvgj2WP33Ud3Y"
+    },
+    {
+      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
       },
@@ -2207,7 +2385,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 327600,
       "name": "Tickle Toe",
       "url": "https://open.spotify.com/track/4V73ybTMOp2a2ePP8wx6t3"
@@ -2245,7 +2423,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 372080,
-      "name": "Tippin' - Rudy Van Gelder Edition/2000 Digital Remaster/24-Bit Mastering",
+      "name": "Tippin' - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2yVOF2movPBYvUt1vdpv5k"
     },
     {
@@ -2279,10 +2457,28 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 128040,
       "name": "Toki's Theme",
       "url": "https://open.spotify.com/track/2diV5YJNLCW73J8IGo6arS"
+    },
+    {
+      "album": {
+        "name": "Jazz Impressions Of Japan",
+        "url": "https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128040,
+      "name": "Toki's Theme",
+      "url": "https://open.spotify.com/track/4Xlq6iQXgx3hLgyqavhWXx"
     },
     {
       "album": {
@@ -2335,7 +2531,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 310733,
       "name": "Two Bass Hit (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/0DtEf3aHfOgaCFJQO98x0c"
@@ -2371,7 +2567,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 439880,
       "name": "Used To Be Duke",
       "url": "https://open.spotify.com/track/5UI9nSnk8k5e6oMcGK55tt"
@@ -2455,6 +2651,24 @@
       "duration_ms": 271506,
       "name": "Wheelin' And Dealin'",
       "url": "https://open.spotify.com/track/57uQYzZCSVEGMkJbeAToQk"
+    },
+    {
+      "album": {
+        "name": "Horace - Scope",
+        "url": "https://open.spotify.com/album/5fy4rxCz9rIRVuU3HZgK5B"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 337960,
+      "name": "Where You At? - Remastered",
+      "url": "https://open.spotify.com/track/0hbkhKoSQo04FLOydoxIsh"
     },
     {
       "album": {

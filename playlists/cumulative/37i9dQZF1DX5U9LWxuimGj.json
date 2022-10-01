@@ -1,11 +1,55 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music with a Latin flair. Cover: Filmore and Pitbull",
+  "description": "Country music with a Latin flair. Cover: Frank Ray",
   "name": "Country Latino",
   "published_playlist_ids": [
     "1WK5MqHO5idzyfqGcT0LRT"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "506",
+        "url": "https://open.spotify.com/album/38coX6excq4obQR4Z7sww7"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180546,
+      "name": "506",
+      "url": "https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3"
+    },
+    {
+      "album": {
+        "name": "Set the Record Straight",
+        "url": "https://open.spotify.com/album/65HZxbBL9viNkzeFJM53tE"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        },
+        {
+          "name": "JENCARLOS",
+          "url": "https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194398,
+      "name": "Achy Breaky Heart 25 (Spanglish) [feat. Jencarlos Canela]",
+      "url": "https://open.spotify.com/track/6AJJN8totfQ19PPft5qJqt"
+    },
     {
       "album": {
         "name": "Achy Breaky Heart 25 - Spanglish (feat. Jencarlos Canela)",
@@ -27,7 +71,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194280,
       "name": "Achy Breaky Heart 25 - Spanglish (feat. Jencarlos Canela)",
       "url": "https://open.spotify.com/track/7BsOKmHxQ9vvpFZaRR8Tzm"
@@ -79,6 +123,24 @@
     {
       "album": {
         "name": "Faded Gloryville",
+        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
+      },
+      "artists": [
+        {
+          "name": "Lindi Ortega",
+          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274333,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L"
+    },
+    {
+      "album": {
+        "name": "Faded Gloryville",
         "url": "https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6"
       },
       "artists": [
@@ -89,7 +151,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274333,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/6dben05JiKn09x31h1JgOW"
@@ -169,6 +231,24 @@
       "duration_ms": 177416,
       "name": "Chevy Bel Air",
       "url": "https://open.spotify.com/track/1tepd9MBwVeC9jRva63Rv1"
+    },
+    {
+      "album": {
+        "name": "Kat & Alex Lado B",
+        "url": "https://open.spotify.com/album/2q3MgdvSHJ2MbldHccxoC2"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161493,
+      "name": "Como Las Cinco Un Viernes - 5 on a Friday - Spanish Version",
+      "url": "https://open.spotify.com/track/3ndv8kUmluaGkfrHMeYfmo"
     },
     {
       "album": {
@@ -302,6 +382,24 @@
     },
     {
       "album": {
+        "name": "Cuarentena",
+        "url": "https://open.spotify.com/album/2LT6UCYbbOx7KbXgxG73rV"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181589,
+      "name": "Drinkin' Problem (Brindemos)",
+      "url": "https://open.spotify.com/track/6RJH2nSmmxFOynFDzNfik8"
+    },
+    {
+      "album": {
         "name": "Drinkin' Problem (Brindemos)",
         "url": "https://open.spotify.com/album/6X84FPyedv5spo1tdQxLuQ"
       },
@@ -313,7 +411,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181589,
       "name": "Drinkin' Problem (Brindemos)",
       "url": "https://open.spotify.com/track/70TQ2bBSD5J39rmggn0wRR"
@@ -459,7 +557,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 166747,
       "name": "Gracias A La Vida",
       "url": "https://open.spotify.com/track/5bHSXxczMdoPWVg3RemYHq"
@@ -553,7 +651,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 175996,
       "name": "Honkytonk Bar",
       "url": "https://open.spotify.com/track/5uWUZQEP1TxZM2YYgDe3bu"
@@ -593,10 +691,46 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205798,
       "name": "How Many Times (Spanish Version)",
       "url": "https://open.spotify.com/track/1xIedqGs6MXWZTCTSybZvx"
+    },
+    {
+      "album": {
+        "name": "How Many Times (Spanish Version)",
+        "url": "https://open.spotify.com/album/3uWvFEAurqos8bEdEkPJRG"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205798,
+      "name": "How Many Times - Spanish Version",
+      "url": "https://open.spotify.com/track/2yPWdo1Uo15owusJkamkTy"
+    },
+    {
+      "album": {
+        "name": "Hoy Te Quiero Ver",
+        "url": "https://open.spotify.com/album/7dw571unUolJcPGlAvGAlA"
+      },
+      "artists": [
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226306,
+      "name": "Hoy Te Quiero Ver",
+      "url": "https://open.spotify.com/track/6hAXI7z8UtMDEL4B7OHIaA"
     },
     {
       "album": {
@@ -774,6 +908,24 @@
     },
     {
       "album": {
+        "name": "Just a Bordertown",
+        "url": "https://open.spotify.com/album/3UsuIICuP8aR1QwqJhCsWt"
+      },
+      "artists": [
+        {
+          "name": "Valerie Ponzio",
+          "url": "https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208753,
+      "name": "Just a Bordertown",
+      "url": "https://open.spotify.com/track/1PiBlXOdXaoA9sZ3qSv3kD"
+    },
+    {
+      "album": {
         "name": "La Bamba",
         "url": "https://open.spotify.com/album/48s9qikZZvbEhVX1tdWc5R"
       },
@@ -789,10 +941,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193611,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/0dJUbqKkP9EwuBtyLeQWHt"
+    },
+    {
+      "album": {
+        "name": "La Bamba",
+        "url": "https://open.spotify.com/album/7cve9lcdp9KQUpbbaj8Mlp"
+      },
+      "artists": [
+        {
+          "name": "Jake Hoot",
+          "url": "https://open.spotify.com/artist/5YhWPIcZ5eNSKxrdwJItS7"
+        },
+        {
+          "name": "Ricky Duran",
+          "url": "https://open.spotify.com/artist/1C18TJ6Co8ihwnIUYbrfiy"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193611,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/25oidgdkH3NlGpJtDV7ujD"
     },
     {
       "album": {
@@ -847,6 +1021,24 @@
       "duration_ms": 236307,
       "name": "Laredo",
       "url": "https://open.spotify.com/track/2NrfHt0kmyH1l2C6k0cBxR"
+    },
+    {
+      "album": {
+        "name": "Getcha Some",
+        "url": "https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU"
+      },
+      "artists": [
+        {
+          "name": "Frank Ray",
+          "url": "https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232640,
+      "name": "Late",
+      "url": "https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF"
     },
     {
       "album": {
@@ -973,10 +1165,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 335355,
       "name": "Me Olvid\u00e9 de Vivir",
       "url": "https://open.spotify.com/track/4HnSjaMV1PoRaRveNG2KKY"
+    },
+    {
+      "album": {
+        "name": "Mi Casa (We Bought a House - Spanish Version)",
+        "url": "https://open.spotify.com/album/480wf3uDfOScBJsnco9vku"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184882,
+      "name": "Mi Casa - We Bought a House - Spanish Version",
+      "url": "https://open.spotify.com/track/1v61YJhvATuIWMRARRhKbh"
     },
     {
       "album": {
@@ -1009,7 +1219,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 198272,
       "name": "Most Nights",
       "url": "https://open.spotify.com/track/5gs9CYfoPQUKJ9TPBRgBWI"
@@ -1419,7 +1629,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 151950,
       "name": "take my phone.",
       "url": "https://open.spotify.com/track/1uI8U4FO4fvFa0d5dd1UYl"
@@ -1503,10 +1713,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245866,
       "name": "The Unforgiven",
       "url": "https://open.spotify.com/track/4xfUlRu5KWuf3RvpyBzkgg"
+    },
+    {
+      "album": {
+        "name": "The Unforgiven",
+        "url": "https://open.spotify.com/album/7KpZPUNuZBarex1NYPCezR"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245875,
+      "name": "The Unforgiven",
+      "url": "https://open.spotify.com/track/2OzMQSnYu4wVYBhCm3sNSZ"
     },
     {
       "album": {

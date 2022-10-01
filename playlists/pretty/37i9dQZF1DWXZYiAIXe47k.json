@@ -1,15 +1,31 @@
 {
   "description": "\"Absolute Six\" and also \"Above BrandNew Six\".",
-  "num_followers": 13267,
+  "num_followers": 14196,
   "original_name": "This Is AB6IX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzIyODUwNywwMDAwMDAwODAwMDAwMTgwZWMxOTEwNDEwMDAwMDE4MGVjMThlOGEx",
+  "snapshot_id": "MTY2MjQzMzgwNiwwMDAwMDAwMDQxNGZlNjQxMzAzOWQ4ZDQxZGJhN2UyYmVmNDE0Njg4",
   "tracks": [
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "CHANCE",
+        "url": "https://open.spotify.com/album/0rRO9zYWBkQa03sAXplVmA"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 171208,
+      "name": "CHANCE",
+      "url": "https://open.spotify.com/track/7zbrGdA3eIhoCT3WLOfU5q"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "A to B",
         "url": "https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "A to B",
         "url": "https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/0F3nwA38IqhL7rezgQv9N8"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "A to B",
         "url": "https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/3BgoJFAHeowRMb6LePgwUn"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "A to B",
         "url": "https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/4WiM9e6asPxzpuRCGMc9Yy"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "A to B",
         "url": "https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch"
@@ -89,7 +105,71 @@
       "url": "https://open.spotify.com/track/13wL441ZsKQx0Xf8OMyM7C"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SAVIOR",
+        "url": "https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 182133,
+      "name": "SAVIOR -Japanese ver.-",
+      "url": "https://open.spotify.com/track/1UZdvZuUVkRNdRWFcBmjaQ"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SAVIOR",
+        "url": "https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/2uHfd1rAFd9ZhAXSFS7KqW"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SAVIOR",
+        "url": "https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/0lHPWGj6Zl62Ff8afRIN7w"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SAVIOR",
+        "url": "https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Sucker for your love -Japanese ver.-",
+      "url": "https://open.spotify.com/track/47sWBKKishXyQd91jsQwru"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "COMPLETE WITH YOU",
         "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
@@ -105,7 +185,7 @@
       "url": "https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "COMPLETE WITH YOU",
         "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
@@ -121,7 +201,7 @@
       "url": "https://open.spotify.com/track/4qhd5mh5VBZJL6vhIM3Oxk"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "COMPLETE WITH YOU",
         "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
@@ -137,7 +217,7 @@
       "url": "https://open.spotify.com/track/3tktQ5TEIE6CiDgb7io47d"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "COMPLETE WITH YOU",
         "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
@@ -153,7 +233,7 @@
       "url": "https://open.spotify.com/track/338hmbCHBYnVecbOGCs4Gd"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "COMPLETE WITH YOU",
         "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
@@ -169,7 +249,7 @@
       "url": "https://open.spotify.com/track/6KqkUPBBGFPBe0jVEy3G4d"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO\u2019 COMPLETE",
         "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
@@ -185,7 +265,7 @@
       "url": "https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO\u2019 COMPLETE",
         "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
@@ -201,7 +281,7 @@
       "url": "https://open.spotify.com/track/4wCyDQYkdns4adPaEQCIBa"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO\u2019 COMPLETE",
         "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
@@ -217,7 +297,7 @@
       "url": "https://open.spotify.com/track/16QEfpbKhIOaqahtxvhdAo"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO\u2019 COMPLETE",
         "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
@@ -233,7 +313,7 @@
       "url": "https://open.spotify.com/track/5KbRQ2OKdjJg9gJOT8bRCs"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO\u2019 COMPLETE",
         "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
@@ -249,7 +329,7 @@
       "url": "https://open.spotify.com/track/2tmyzuhfWisbAMP0FS4Vz7"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO\u2019 COMPLETE",
         "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
@@ -265,7 +345,7 @@
       "url": "https://open.spotify.com/track/20t9Wn063dlhUVMLtY2StX"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO\u2019 COMPLETE",
         "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
@@ -281,7 +361,7 @@
       "url": "https://open.spotify.com/track/6ALiB57WX3g2AbdRjA2KEI"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO\u2019 COMPLETE",
         "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
@@ -297,7 +377,7 @@
       "url": "https://open.spotify.com/track/6axKJDZCXcbZdfJckoO0GT"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO\u2019 COMPLETE",
         "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
@@ -313,7 +393,7 @@
       "url": "https://open.spotify.com/track/5oHUSZjZ9MEZqAp9TEegJZ"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO\u2019 COMPLETE",
         "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
@@ -329,7 +409,7 @@
       "url": "https://open.spotify.com/track/4pgPks0xK9sfUJJSMSHVlD"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "Walking In The Rain (TEN PROJECT, Pt. 4)",
         "url": "https://open.spotify.com/album/0uFQ8dnMXvwkVRStsOn3va"
@@ -345,7 +425,7 @@
       "url": "https://open.spotify.com/track/1VYwqTxCvQZHpvI9WQVmdq"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/2kikdfulAIPagHRLh18uJH"
@@ -361,7 +441,7 @@
       "url": "https://open.spotify.com/track/7L9gc9u9Ev2OprF08AMhGH"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO' COMPLETE: HAVE A DREAM",
         "url": "https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH"
@@ -377,7 +457,7 @@
       "url": "https://open.spotify.com/track/5CXbZ60u7fq4UjlLnOig5Q"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO' COMPLETE: HAVE A DREAM",
         "url": "https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH"
@@ -393,7 +473,7 @@
       "url": "https://open.spotify.com/track/3gC6MlNNzzFPRMDJFiANN4"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO' COMPLETE: HAVE A DREAM",
         "url": "https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH"
@@ -409,7 +489,7 @@
       "url": "https://open.spotify.com/track/2wY0zy0zM1tUEinoJu6mY6"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO' COMPLETE: HAVE A DREAM",
         "url": "https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH"
@@ -425,7 +505,7 @@
       "url": "https://open.spotify.com/track/0nZJq7yJ1bBbVMNqHygyN1"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "MO' COMPLETE: HAVE A DREAM",
         "url": "https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH"
@@ -441,7 +521,7 @@
       "url": "https://open.spotify.com/track/6rMsZCcBEQCQJXvBfLPHs5"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "SALUTE: A NEW HOPE",
         "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
@@ -457,787 +537,7 @@
       "url": "https://open.spotify.com/track/3B1nflnhZHmUpbIovL66Pk"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "Fallin\u2019 (Adrenaline) [AB6IX Remix]",
-        "url": "https://open.spotify.com/album/1At9o3z07x2UPf8XGMINzR"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        },
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 212962,
-      "name": "Fallin\u2019 (Adrenaline) - AB6IX Remix",
-      "url": "https://open.spotify.com/track/5p9FaCojrBbXf6qttoFeFV"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "B:COMPLETE",
-        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 217823,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE: A NEW HOPE",
-        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 188656,
-      "name": "SALUTE",
-      "url": "https://open.spotify.com/track/1S16NbaZItWP83Skxf0tZP"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 190832,
-      "name": "THE ANSWER",
-      "url": "https://open.spotify.com/track/1L1N5X35wFk8d5VlyNy2Oa"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE: A NEW HOPE",
-        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "APRICITY",
-      "url": "https://open.spotify.com/track/58NQYnzPPC6UNdITirM5bb"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE: A NEW HOPE",
-        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        },
-        {
-          "name": "ABNEW",
-          "url": "https://open.spotify.com/artist/7AlGsK053CkIzcWtFZgJlv"
-        }
-      ],
-      "duration_ms": 225375,
-      "name": "ENCORE (feat. ABNEW)",
-      "url": "https://open.spotify.com/track/7zRuShJWeYLZD25qCR50pp"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE: A NEW HOPE",
-        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 205896,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/1uThwF3Gi9N9ZR8DVIjS2Q"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE: A NEW HOPE",
-        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/1wBCZKRXLl3Ody9PwbeE7j"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE: A NEW HOPE",
-        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "MAYBE",
-      "url": "https://open.spotify.com/track/35TArxNhMONAZYlrrsz63r"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE: A NEW HOPE",
-        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 211381,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/4oVkV9xL6sHIhaBemd9Qkp"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE: A NEW HOPE",
-        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 269616,
-      "name": "BEHIND YOU",
-      "url": "https://open.spotify.com/track/3KslL1oHw2JreJF9RBzuVt"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE: A NEW HOPE",
-        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 217494,
-      "name": "SURREAL - Alternative Rock Mix",
-      "url": "https://open.spotify.com/track/7MzEUfY3N6Uw8umnwMkaq0"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE: A NEW HOPE",
-        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "BLIND FOR LOVE - Nu Disco Mix",
-      "url": "https://open.spotify.com/track/6swEE23x1DdAufXul8fI7M"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "6IXENSE",
-        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 202924,
-      "name": "BE THERE",
-      "url": "https://open.spotify.com/track/0R4Mh4OX3HktD3A0XT4n1H"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "6IXENSE",
-        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 216991,
-      "name": "BLIND FOR LOVE",
-      "url": "https://open.spotify.com/track/4bUkJxCgAY9e9Tb0r4vOoy"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "6IXENSE",
-        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 188587,
-      "name": "DANDELION",
-      "url": "https://open.spotify.com/track/3a7omVEAcSSd8fYqhBXeNj"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "6IXENSE",
-        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 201022,
-      "name": "SUNSET",
-      "url": "https://open.spotify.com/track/3aw7rTmNRiB8NbV5w9z0Kw"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "6IXENSE",
-        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 194034,
-      "name": "_AND ME",
-      "url": "https://open.spotify.com/track/3m7kJV91nKEVDpcRHIQTMK"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "6IXENSE",
-        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 212992,
-      "name": "LOVE AIR",
-      "url": "https://open.spotify.com/track/57tbiOceaiySa8CLwIKBmb"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "6IXENSE",
-        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 211942,
-      "name": "PRETTY",
-      "url": "https://open.spotify.com/track/6oUu7veCji260Uhx7rM9Di"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "6IXENSE",
-        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 192438,
-      "name": "SHADOW",
-      "url": "https://open.spotify.com/track/6myWuWpEcdtX11cWbFxQT6"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "6IXENSE",
-        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 258390,
-      "name": "DEEP INSIDE",
-      "url": "https://open.spotify.com/track/4OHGuBU5yUrgsT1emgxMSu"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "6IXENSE",
-        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 204396,
-      "name": "D.R.E.A.M",
-      "url": "https://open.spotify.com/track/1MTU0TM6Nc3qWSbkto5R49"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "6IXENSE",
-        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 219316,
-      "name": "NOTHING WITHOUT YOU",
-      "url": "https://open.spotify.com/track/3Jx5wapdhDapIYX8EtHyRf"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "B:COMPLETE",
-        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "ABSOLUTE",
-      "url": "https://open.spotify.com/track/64qPf5epX2eQiS0derYypE"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "B:COMPLETE",
-        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 227590,
-      "name": "SHINING STARS",
-      "url": "https://open.spotify.com/track/03zPSjqUGeGKCSbNoQJBqd"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "B:COMPLETE",
-        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 176537,
-      "name": "FRIEND ZONE",
-      "url": "https://open.spotify.com/track/14e9d2LyLPHqWna3WmavAf"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "B:COMPLETE",
-        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 194323,
-      "name": "LIGHT ME UP",
-      "url": "https://open.spotify.com/track/5nKCQmITzxTEfC8SNmTSkV"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "B:COMPLETE",
-        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 204450,
-      "name": "DANCE FOR TWO",
-      "url": "https://open.spotify.com/track/7scwc2Hegepz04a3bnlmKC"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "B:COMPLETE",
-        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 187234,
-      "name": "HOLLYWOOD",
-      "url": "https://open.spotify.com/track/5caCE7Uqhty9MtlB7Ks5a8"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "HOLD YOU",
-        "url": "https://open.spotify.com/album/6uqgoNzaXK39CVJS4MB7Ur"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 189892,
-      "name": "HOLD YOU",
-      "url": "https://open.spotify.com/track/2NkcIFj9SwKdNqRobBju5C"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE",
-        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 205896,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/7sMXQv5zDYBttme1UUItdR"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE",
-        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 188656,
-      "name": "SALUTE",
-      "url": "https://open.spotify.com/track/6dZjwys4OGDogFFVh89MBY"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE",
-        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/5dZIWP8a0NciO6bC0cMbb7"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE",
-        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "MAYBE",
-      "url": "https://open.spotify.com/track/5wKp16EDQxhKuMpdb0PnrK"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE",
-        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 211381,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/46px5VoYxS5EK2ejdCAoVx"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "SALUTE",
-        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 269616,
-      "name": "BEHIND YOU",
-      "url": "https://open.spotify.com/track/1AxfiAXRJhs8qLu1WFTjD7"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 219037,
-      "name": "RED UP",
-      "url": "https://open.spotify.com/track/3fu0HeerXHfYzcVUVu4eJe"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "VIVID",
-      "url": "https://open.spotify.com/track/3z4jfbtiivb9HYzCROWF1c"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 193755,
-      "name": "SURREAL",
-      "url": "https://open.spotify.com/track/28pj5S2cbGHxdF3sk2x4lc"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 188081,
-      "name": "MIDNIGHT BLUE",
-      "url": "https://open.spotify.com/track/1yGaSWjEICfbtHZ1MZYP8T"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 202124,
-      "name": "HOLD TIGHT",
-      "url": "https://open.spotify.com/track/785F5cifRCjGnNmMTGdeYQ"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "5NALLY",
-        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
-      },
-      "artists": [
-        {
-          "name": "JEON WOONG",
-          "url": "https://open.spotify.com/artist/7HkRTmxvjlJxL3lEOSxpqN"
-        },
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 224166,
-      "name": "MOONDANCE",
-      "url": "https://open.spotify.com/track/3hGQn8GEEjsJD558f6qAtd"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "5NALLY",
-        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
-      },
-      "artists": [
-        {
-          "name": "KIM DONG HYUN",
-          "url": "https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU"
-        },
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 208152,
-      "name": "MORE",
-      "url": "https://open.spotify.com/track/5jQqFhmNdiRp57Y8UNkMsZ"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "5NALLY",
-        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
-      },
-      "artists": [
-        {
-          "name": "LEE DAE HWI",
-          "url": "https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB"
-        },
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 205342,
-      "name": "ROSE, SCENT, KISS",
-      "url": "https://open.spotify.com/track/5eOb7OPhOkN0gUicVIcOCH"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "5NALLY",
-        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
-      },
-      "artists": [
-        {
-          "name": "LIM YOUNG MIN",
-          "url": "https://open.spotify.com/artist/7s72t76jrvQLHUiYraBSZ0"
-        },
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 231736,
-      "name": "BREAK UP",
-      "url": "https://open.spotify.com/track/3cPl37Es32lxWY9AT3evat"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
-      "album": {
-        "name": "5NALLY",
-        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
-      },
-      "artists": [
-        {
-          "name": "PARK WOO JIN",
-          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
-        },
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 192514,
-      "name": "COLOR EYE",
-      "url": "https://open.spotify.com/track/2VsjGK8eJPCthu3IANWwOH"
-    },
-    {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "Fallin\u2019 (Adrenaline) [Remixes]",
         "url": "https://open.spotify.com/album/7EBYUtgXTfna1divfwxeuq"
@@ -1257,7 +557,787 @@
       "url": "https://open.spotify.com/track/2c7h4G9kkMxeKCgh6Md7VR"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 217823,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 188656,
+      "name": "SALUTE",
+      "url": "https://open.spotify.com/track/1S16NbaZItWP83Skxf0tZP"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 190832,
+      "name": "THE ANSWER",
+      "url": "https://open.spotify.com/track/1L1N5X35wFk8d5VlyNy2Oa"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "APRICITY",
+      "url": "https://open.spotify.com/track/58NQYnzPPC6UNdITirM5bb"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        },
+        {
+          "name": "ABNEW",
+          "url": "https://open.spotify.com/artist/7AlGsK053CkIzcWtFZgJlv"
+        }
+      ],
+      "duration_ms": 225375,
+      "name": "ENCORE (feat. ABNEW)",
+      "url": "https://open.spotify.com/track/7zRuShJWeYLZD25qCR50pp"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 205896,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/1uThwF3Gi9N9ZR8DVIjS2Q"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/1wBCZKRXLl3Ody9PwbeE7j"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "MAYBE",
+      "url": "https://open.spotify.com/track/35TArxNhMONAZYlrrsz63r"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 211381,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/4oVkV9xL6sHIhaBemd9Qkp"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 269616,
+      "name": "BEHIND YOU",
+      "url": "https://open.spotify.com/track/3KslL1oHw2JreJF9RBzuVt"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 217494,
+      "name": "SURREAL - Alternative Rock Mix",
+      "url": "https://open.spotify.com/track/7MzEUfY3N6Uw8umnwMkaq0"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "BLIND FOR LOVE - Nu Disco Mix",
+      "url": "https://open.spotify.com/track/6swEE23x1DdAufXul8fI7M"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 202924,
+      "name": "BE THERE",
+      "url": "https://open.spotify.com/track/0R4Mh4OX3HktD3A0XT4n1H"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "BLIND FOR LOVE",
+      "url": "https://open.spotify.com/track/4bUkJxCgAY9e9Tb0r4vOoy"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 188587,
+      "name": "DANDELION",
+      "url": "https://open.spotify.com/track/3a7omVEAcSSd8fYqhBXeNj"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 201022,
+      "name": "SUNSET",
+      "url": "https://open.spotify.com/track/3aw7rTmNRiB8NbV5w9z0Kw"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 194034,
+      "name": "_AND ME",
+      "url": "https://open.spotify.com/track/3m7kJV91nKEVDpcRHIQTMK"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 212992,
+      "name": "LOVE AIR",
+      "url": "https://open.spotify.com/track/57tbiOceaiySa8CLwIKBmb"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 211942,
+      "name": "PRETTY",
+      "url": "https://open.spotify.com/track/6oUu7veCji260Uhx7rM9Di"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 192438,
+      "name": "SHADOW",
+      "url": "https://open.spotify.com/track/6myWuWpEcdtX11cWbFxQT6"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 258390,
+      "name": "DEEP INSIDE",
+      "url": "https://open.spotify.com/track/4OHGuBU5yUrgsT1emgxMSu"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 204396,
+      "name": "D.R.E.A.M",
+      "url": "https://open.spotify.com/track/1MTU0TM6Nc3qWSbkto5R49"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 219316,
+      "name": "NOTHING WITHOUT YOU",
+      "url": "https://open.spotify.com/track/3Jx5wapdhDapIYX8EtHyRf"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "ABSOLUTE",
+      "url": "https://open.spotify.com/track/64qPf5epX2eQiS0derYypE"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 227590,
+      "name": "SHINING STARS",
+      "url": "https://open.spotify.com/track/03zPSjqUGeGKCSbNoQJBqd"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 176537,
+      "name": "FRIEND ZONE",
+      "url": "https://open.spotify.com/track/14e9d2LyLPHqWna3WmavAf"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 194323,
+      "name": "LIGHT ME UP",
+      "url": "https://open.spotify.com/track/5nKCQmITzxTEfC8SNmTSkV"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 204450,
+      "name": "DANCE FOR TWO",
+      "url": "https://open.spotify.com/track/7scwc2Hegepz04a3bnlmKC"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 187234,
+      "name": "HOLLYWOOD",
+      "url": "https://open.spotify.com/track/5caCE7Uqhty9MtlB7Ks5a8"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "HOLD YOU",
+        "url": "https://open.spotify.com/album/6uqgoNzaXK39CVJS4MB7Ur"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "HOLD YOU",
+      "url": "https://open.spotify.com/track/2NkcIFj9SwKdNqRobBju5C"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE",
+        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 205896,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/7sMXQv5zDYBttme1UUItdR"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE",
+        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 188656,
+      "name": "SALUTE",
+      "url": "https://open.spotify.com/track/6dZjwys4OGDogFFVh89MBY"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE",
+        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/5dZIWP8a0NciO6bC0cMbb7"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE",
+        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "MAYBE",
+      "url": "https://open.spotify.com/track/5wKp16EDQxhKuMpdb0PnrK"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE",
+        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 211381,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/46px5VoYxS5EK2ejdCAoVx"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "SALUTE",
+        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 269616,
+      "name": "BEHIND YOU",
+      "url": "https://open.spotify.com/track/1AxfiAXRJhs8qLu1WFTjD7"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 219037,
+      "name": "RED UP",
+      "url": "https://open.spotify.com/track/3fu0HeerXHfYzcVUVu4eJe"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/3z4jfbtiivb9HYzCROWF1c"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 193755,
+      "name": "SURREAL",
+      "url": "https://open.spotify.com/track/28pj5S2cbGHxdF3sk2x4lc"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 188081,
+      "name": "MIDNIGHT BLUE",
+      "url": "https://open.spotify.com/track/1yGaSWjEICfbtHZ1MZYP8T"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 202124,
+      "name": "HOLD TIGHT",
+      "url": "https://open.spotify.com/track/785F5cifRCjGnNmMTGdeYQ"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "5NALLY",
+        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
+      },
+      "artists": [
+        {
+          "name": "JEON WOONG",
+          "url": "https://open.spotify.com/artist/7HkRTmxvjlJxL3lEOSxpqN"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 224166,
+      "name": "MOONDANCE",
+      "url": "https://open.spotify.com/track/3hGQn8GEEjsJD558f6qAtd"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "5NALLY",
+        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
+      },
+      "artists": [
+        {
+          "name": "KIM DONG HYUN",
+          "url": "https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 208152,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/5jQqFhmNdiRp57Y8UNkMsZ"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "5NALLY",
+        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
+      },
+      "artists": [
+        {
+          "name": "LEE DAE HWI",
+          "url": "https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 205342,
+      "name": "ROSE, SCENT, KISS",
+      "url": "https://open.spotify.com/track/5eOb7OPhOkN0gUicVIcOCH"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "5NALLY",
+        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
+      },
+      "artists": [
+        {
+          "name": "LIM YOUNG MIN",
+          "url": "https://open.spotify.com/artist/7s72t76jrvQLHUiYraBSZ0"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 231736,
+      "name": "BREAK UP",
+      "url": "https://open.spotify.com/track/3cPl37Es32lxWY9AT3evat"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "5NALLY",
+        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
+      },
+      "artists": [
+        {
+          "name": "PARK WOO JIN",
+          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 192514,
+      "name": "COLOR EYE",
+      "url": "https://open.spotify.com/track/2VsjGK8eJPCthu3IANWwOH"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
+      "album": {
+        "name": "Fallin\u2019 (Adrenaline) [Remixes]",
+        "url": "https://open.spotify.com/album/7EBYUtgXTfna1divfwxeuq"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 212962,
+      "name": "Fallin\u2019 (Adrenaline) - AB6IX Remix",
+      "url": "https://open.spotify.com/track/2c7h4G9kkMxeKCgh6Md7VR"
+    },
+    {
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "BRANDNEW YEAR 2019 'DO THAT BRANDNEW THING'",
         "url": "https://open.spotify.com/album/4IyIHTwpkxntQlugXUYewH"
@@ -1289,7 +1369,7 @@
       "url": "https://open.spotify.com/track/1uO3h6GtQ4Q57HMOBP7WiX"
     },
     {
-      "added_at": "2022-05-22 14:08:27",
+      "added_at": "2022-09-06 03:10:05",
       "album": {
         "name": "BRANDNEW YEAR 2020: BRANDNEW UP",
         "url": "https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9"

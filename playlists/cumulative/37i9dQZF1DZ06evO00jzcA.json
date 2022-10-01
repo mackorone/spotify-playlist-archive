@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Betrayed (Outtake)",
+        "url": "https://open.spotify.com/album/1cliarCXzPu1Ha0zYIOaKq"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278142,
+      "name": "Betrayed - Outtake",
+      "url": "https://open.spotify.com/track/6EVZPA4FZ8dygeaCNtPlaA"
+    },
+    {
+      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
       },
@@ -199,7 +217,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-10-01",
       "duration_ms": 243400,
       "name": "Creatures Of The Night",
       "url": "https://open.spotify.com/track/5yeRPZioHaRp86lPMwPw4s"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 267933,
       "name": "Dirty Livin'",
       "url": "https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq"
@@ -347,7 +365,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 230386,
       "name": "Forever - Live",
       "url": "https://open.spotify.com/track/0c3acWFtqZwvBjv5dO4Ts5"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": "2022-09-23",
       "duration_ms": 216733,
       "name": "Goin' Blind",
       "url": "https://open.spotify.com/track/2Kgabuiyu24mw1tVcFjHh3"
@@ -491,7 +509,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": "2022-07-25",
       "duration_ms": 264133,
       "name": "Hide Your Heart",
       "url": "https://open.spotify.com/track/47o525G86mLspoGnUCaMd9"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": "2022-09-30",
       "duration_ms": 184960,
       "name": "I Stole Your Love",
       "url": "https://open.spotify.com/track/7qj6lBOB1QTgBmKedXuIbs"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-19",
       "duration_ms": 372866,
       "name": "I Was Made For Loving You - Live In Virginia Beach, 7/25/2004",
       "url": "https://open.spotify.com/track/0ccElJ2DgEv9UZ7UJECWU0"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 181853,
       "name": "Let Me Go, Rock 'N Roll - Live In Veterans Memorial Auditorium, Des Moines / 1977",
       "url": "https://open.spotify.com/track/6MEYbafwyChkm22SFKzPs7"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 280666,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/1RUQIkl3vHaOUPKC885STa"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 242293,
       "name": "Who Wants To Be Lonely",
       "url": "https://open.spotify.com/track/7FIq1KZva7CjQjHG6A8XUg"

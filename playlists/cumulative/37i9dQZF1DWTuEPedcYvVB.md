@@ -4,7 +4,7 @@
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-46 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/6cWvUONQFP4knU09puj0L3)
+48 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/6cWvUONQFP4knU09puj0L3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Gbona](https://open.spotify.com/track/7rpWDu9GPlLxbLorYKVys7) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:07 | 2022-04-14 |  |
 | [Get Man Got](https://open.spotify.com/track/4fEr8iz4VziG7d7OnWp49g) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE) | [Untraditional EP](https://open.spotify.com/album/6cH71f3wPxyGXR264z7daA) | 3:58 | 2022-04-14 |  |
 | [GS X PS Whips and Bikes](https://open.spotify.com/track/5jpqCyP42DLgaeXkRcbzIJ) | [Frecks](https://open.spotify.com/artist/3w5zlljTveruvJtCM1tP3b), [Spooks](https://open.spotify.com/artist/5ewJHfiGNQJjmKHzLjcojz), [Goose](https://open.spotify.com/artist/2LePmzqki44WJcvlf19vlk), [Tragic](https://open.spotify.com/artist/0u94Z0XmLOjejURGTGMb1e) | [GS X PS Whips and Bikes](https://open.spotify.com/album/2c6iQJ3RgpMMXzZ2Abcbsg) | 3:56 | 2022-04-14 |  |
-| [Have Some Mercy](https://open.spotify.com/track/5fFldZH5U1NE6sQgvydV7Q) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [The Reggae Artists Gallery](https://open.spotify.com/album/484PIE4qtnUpm7XUiDLumm) | 3:28 | 2022-04-14 |  |
+| [Have Some Mercy](https://open.spotify.com/track/6P4TFTWjdO5iXr8EfQVjqz) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 3:26 | 2022-04-14 |  |
+| [Have Some Mercy](https://open.spotify.com/track/5fFldZH5U1NE6sQgvydV7Q) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [The Reggae Artists Gallery](https://open.spotify.com/album/484PIE4qtnUpm7XUiDLumm) | 3:28 | 2022-04-14 | 2022-08-21 |
 | [Heart\-Shaped Smoke Rings](https://open.spotify.com/track/4akzeLDcfAo2O42aOEU1oZ) | [Antonia Carrena](https://open.spotify.com/artist/4wyIlKQECWBUoIIVT7cUUx) | [Heart\-Shaped Smoke Rings](https://open.spotify.com/album/1kr4XrDEINDyLjYoKKeXZL) | 4:07 | 2022-04-14 |  |
 | [Ice](https://open.spotify.com/track/0aXQ4eXHFkfDhfLN7gPkbw) | [Cam Keddy](https://open.spotify.com/artist/1747Rrh8maZzzcgo2jVJkt) | [Ice](https://open.spotify.com/album/52dedAOLJuR9XcLonVwYn1) | 2:46 | 2022-04-14 |  |
 | [La Guayaba](https://open.spotify.com/track/2VeXI9CcoekqU1VGMljovo) | [Riccie Oriach](https://open.spotify.com/artist/3b12EGhDU7EhHcuZmMG3oV) | [Viaje Al Infinito](https://open.spotify.com/album/5f1r5AowWw21NMerlIwBxz) | 4:23 | 2022-04-14 |  |
@@ -37,7 +38,8 @@
 | [Let My People Go](https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:58 | 2022-04-14 |  |
 | [Loading](https://open.spotify.com/track/4vzJrkfHbCGaodPA5RY5BV) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:53 | 2022-04-14 |  |
 | [Mahmoume \- Tourmenté](https://open.spotify.com/track/63TIFnEUF8mzPOVw0wYhT3) | [Nass El Ghiwane](https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL) | [Fine ghadi biya khouya](https://open.spotify.com/album/43S3rQh0r9yxCrraFFSO2n) | 3:03 | 2022-04-14 |  |
-| [Mañana](https://open.spotify.com/track/1VNqecx3k8nGWaCorq2QNZ) | [Radio Tarifa](https://open.spotify.com/artist/66fSx6FKclyaS6PUYx23ee) | [Rumba Argelina](https://open.spotify.com/album/02G4K8LFZciEEnmqFNtZcG) | 3:40 | 2022-04-14 |  |
+| [Mañana](https://open.spotify.com/track/1VNqecx3k8nGWaCorq2QNZ) | [Radio Tarifa](https://open.spotify.com/artist/66fSx6FKclyaS6PUYx23ee) | [Rumba Argelina](https://open.spotify.com/album/02G4K8LFZciEEnmqFNtZcG) | 3:40 | 2022-04-14 | 2022-07-29 |
+| [Mañana \- 2019 \- Remaster](https://open.spotify.com/track/5wCaEg0F5IvtSZbFD2ze1l) | [Radio Tarifa](https://open.spotify.com/artist/66fSx6FKclyaS6PUYx23ee) | [Rumba Argelina \(2019 \- Remaster\)](https://open.spotify.com/album/1iuAGJEfdOw0klUssxJl4m) | 3:41 | 2022-04-14 |  |
 | [Mind Language](https://open.spotify.com/track/4jSLPUJKvVsG6avWAgFmY5) | [She Wyse](https://open.spotify.com/artist/03YynoWMMyKiLDbEVFBrrv) | [Mind Language](https://open.spotify.com/album/2Wp98D6txTTqGoBetjIxx4) | 2:57 | 2022-04-14 |  |
 | [Nighttime](https://open.spotify.com/track/3YWJbv4CeZ1508JfmGNVL6) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Nighttime](https://open.spotify.com/album/4XicRqMQwnEanQQES0kHjM) | 3:51 | 2022-04-14 |  |
 | [No Drama](https://open.spotify.com/track/6HyYOsbICeWtN9brSOhr9R) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5o8IgzG9di21TFESYuU5jD) | 3:10 | 2022-04-14 |  |

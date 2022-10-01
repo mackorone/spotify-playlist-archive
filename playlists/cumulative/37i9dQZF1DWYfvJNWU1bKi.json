@@ -60,7 +60,7 @@
     },
     {
       "album": {
-        "name": "Adipoli",
+        "name": "Adipoli (From \"Think Originals\")",
         "url": "https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy"
       },
       "artists": [
@@ -79,9 +79,9 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 172750,
-      "name": "Adipoli",
+      "name": "Adipoli (From \"Think Originals\")",
       "url": "https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4"
     },
     {
@@ -213,7 +213,7 @@
           "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
         },
         {
-          "name": "S.P.Charan",
+          "name": "S.P. Charan",
           "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
         },
         {
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 329280,
       "name": "Ennai Saaithaalae",
       "url": "https://open.spotify.com/track/73dPMLKVaaOSS0TWe8oNmw"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 310000,
       "name": "Kaathodu Kaathanen (From \"Jail\")",
       "url": "https://open.spotify.com/track/4tkSvA7zfuhwgHQbEeNEJU"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 166372,
       "name": "Kadhal Psycho (From \"Saaho\")",
       "url": "https://open.spotify.com/track/36BwgojDYh1SOmZ6gG7WqR"
@@ -1088,6 +1088,28 @@
     },
     {
       "album": {
+        "name": "Sita Ramam (Tamil) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/61k6yRsDzYJwMQWsaZV2Q9"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218808,
+      "name": "Kurumugil",
+      "url": "https://open.spotify.com/track/1xtlT8C62HToUvB0xmwvyi"
+    },
+    {
+      "album": {
         "name": "Kutty Pattas",
         "url": "https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs"
       },
@@ -1132,6 +1154,24 @@
     },
     {
       "album": {
+        "name": "Rowthiram (Orignal Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LnjOrT8cUWTWwkk7mVgGh"
+      },
+      "artists": [
+        {
+          "name": "Ranina Reddy",
+          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313600,
+      "name": "Malai Mangum Neram",
+      "url": "https://open.spotify.com/track/2VrNpMt23IX5ZfROWM7wAi"
+    },
+    {
+      "album": {
         "name": "Rowthiram (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4Bi1ggSG4ljoZoD4e5jpyA"
       },
@@ -1143,7 +1183,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 313600,
       "name": "Malai Mangum Neram",
       "url": "https://open.spotify.com/track/2yDBeS1pUuX9ms5Y3ItIAf"
@@ -1169,7 +1209,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 260698,
       "name": "Mangalyam",
       "url": "https://open.spotify.com/track/7n5Jcqw85WSfJHrMXsk5N2"
@@ -1227,10 +1267,32 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 249973,
       "name": "Mazhaiye Mazhaiye",
       "url": "https://open.spotify.com/track/4jk5H0R3x6MDCLryHuHUN9"
+    },
+    {
+      "album": {
+        "name": "Megham Karukatha (From \"Thiruchitrambalam\")",
+        "url": "https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y"
+      },
+      "artists": [
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290400,
+      "name": "Megham Karukatha (From \"Thiruchitrambalam\")",
+      "url": "https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi"
     },
     {
       "album": {
@@ -1433,7 +1495,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 268455,
       "name": "Neethanae",
       "url": "https://open.spotify.com/track/0aI4SOX8BknvAfOs607FlV"
@@ -1529,7 +1591,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 304772,
       "name": "Nira - From \"Takkar\"",
       "url": "https://open.spotify.com/track/1VxCdnd46iCgHP5zXGCXPe"
@@ -1669,7 +1731,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 261572,
       "name": "Pularaadha (From \"Dear Comrade\")",
       "url": "https://open.spotify.com/track/2evwKEXIO4b6y7aOnkUvxu"
@@ -1787,7 +1849,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 264314,
       "name": "Senthoora",
       "url": "https://open.spotify.com/track/6LtQGnMSsQ859t930Anbyk"
@@ -1820,6 +1882,28 @@
     },
     {
       "album": {
+        "name": "Theeran Adhigaaram Ondru",
+        "url": "https://open.spotify.com/album/64OQ2PzSo9idwKf0dCMScA"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 234241,
+      "name": "Sevatha Pulla",
+      "url": "https://open.spotify.com/track/2436qFo91myUvcU2l1lVFI"
+    },
+    {
+      "album": {
         "name": "Theeran Adhigaaram Ondru (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1BSjjfC3IQH9RooUCNQapw"
       },
@@ -1835,7 +1919,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234241,
       "name": "Sevatha Pulla",
       "url": "https://open.spotify.com/track/4qXLKjGhBqIlqtamTbkkCa"
@@ -1864,6 +1948,28 @@
     },
     {
       "album": {
+        "name": "Kadaram Kondan",
+        "url": "https://open.spotify.com/album/3kb1aQFDtAbPoGqf6X8jh9"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228214,
+      "name": "Thaarame Thaarame",
+      "url": "https://open.spotify.com/track/1hhLL2eWsnPtYCdDjbiRIU"
+    },
+    {
+      "album": {
         "name": "Thaarame Thaarame (From \"Kadaram Kondan\")",
         "url": "https://open.spotify.com/album/7gDlZBWd8cyUXL3qqqTQNc"
       },
@@ -1879,7 +1985,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228214,
       "name": "Thaarame Thaarame - From \"Kadaram Kondan\"",
       "url": "https://open.spotify.com/track/2x1R5G71p2UsLEQtH6gtdL"
@@ -1993,7 +2099,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 266053,
       "name": "Unakaga",
       "url": "https://open.spotify.com/track/5RR6Q4yCrbGiRCU5YbpNaY"
@@ -2015,10 +2121,28 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 275503,
       "name": "Unna Nenachu (From \"Psycho (Tamil)\")",
       "url": "https://open.spotify.com/track/5KW8kOHmXqkDEdj6JyP3dJ"
+    },
+    {
+      "album": {
+        "name": "Cobra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 313333,
+      "name": "Uyir Urugudhey",
+      "url": "https://open.spotify.com/track/66rGA1vJn4xCuNCyPFeLoz"
     },
     {
       "album": {
@@ -2044,6 +2168,24 @@
     },
     {
       "album": {
+        "name": "Minnalae (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6YU8UWD0sq0b3nAbR3pUfz"
+      },
+      "artists": [
+        {
+          "name": "Bombay Jayashri",
+          "url": "https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299146,
+      "name": "Vaseegara",
+      "url": "https://open.spotify.com/track/34IgZueFcAjJ1xwVxH1ANy"
+    },
+    {
+      "album": {
         "name": "Minnale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/41ZjHZm4QK6Swalxpt5hqA"
       },
@@ -2055,7 +2197,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 299146,
       "name": "Vaseegara",
       "url": "https://open.spotify.com/track/3vxy9D4qd7TO4j6Gi2zmXo"
@@ -2103,7 +2245,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 304000,
       "name": "Veyyon Silli (From \"Soorarai Pottru\")",
       "url": "https://open.spotify.com/track/2gqapLp6Br7jcR1QQNBVFz"
@@ -2317,7 +2459,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 269832,
       "name": "Yembuttu Irukkuthu Aasai",
       "url": "https://open.spotify.com/track/0srLmMJws5nv8d1n9qrtro"

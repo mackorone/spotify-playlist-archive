@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 190727,
       "name": "105 Degrees",
       "url": "https://open.spotify.com/track/061NHZijloOmBvbujB72sm"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-10-01",
       "duration_ms": 274813,
       "name": "All You Can Carry",
       "url": "https://open.spotify.com/track/757plEIHl29OU5hOMRvJnH"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 169893,
       "name": "Alright for Now - Live",
       "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 144026,
       "name": "Anything That's Rock 'n' Roll",
       "url": "https://open.spotify.com/track/2AX3BnBmNwR2lHZhkKvmXJ"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 191074,
       "name": "Asshole",
       "url": "https://open.spotify.com/track/3PmB1b6IIlXyJFcB7pzsE9"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-22",
       "duration_ms": 267600,
       "name": "Fault Lines",
       "url": "https://open.spotify.com/track/6EbwtNHHupaiR2tCTNwDFz"
@@ -431,6 +431,24 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 286280,
+      "name": "Free Fallin' - Live",
+      "url": "https://open.spotify.com/track/7GIlNI3ry1HfM5l35pSROT"
+    },
+    {
+      "album": {
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -451,7 +469,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-09-30",
       "duration_ms": 206120,
       "name": "Full Grown Boy",
       "url": "https://open.spotify.com/track/1u4HpdpAG9W8HGXAlEqAhb"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 259320,
       "name": "Green Onions - Live",
       "url": "https://open.spotify.com/track/5Na9CFg7vuqPBQfXoQy61q"
@@ -589,7 +607,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-09-05",
       "duration_ms": 260973,
       "name": "Insider",
       "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
@@ -632,6 +650,24 @@
     },
     {
       "album": {
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 734813,
+      "name": "It's Good to Be King - Live",
+      "url": "https://open.spotify.com/track/3fr8eOb9TWfp7VM7IrTg2Q"
+    },
+    {
+      "album": {
         "name": "Let Me Up (I've Had Enough)",
         "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
       },
@@ -643,7 +679,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 249093,
       "name": "Jammin' Me",
       "url": "https://open.spotify.com/track/2AFJkvRUFVx0MccykGaHV2"
@@ -661,7 +697,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-10-01",
       "duration_ms": 186733,
       "name": "Kings Highway",
       "url": "https://open.spotify.com/track/0ge66NW3sKKgWW7eKQHnE0"
@@ -769,7 +805,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-10-01",
       "duration_ms": 237440,
       "name": "Nightwatchman",
       "url": "https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7"
@@ -794,6 +830,24 @@
     },
     {
       "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 218080,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/61chTBkjt6A8GsrXOojdPV"
+    },
+    {
+      "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
       },
@@ -805,7 +859,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-14",
       "duration_ms": 221000,
       "name": "Out In The Cold",
       "url": "https://open.spotify.com/track/3m8w70z3xjmSjpc30Bn2T2"
@@ -1115,7 +1169,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": "2022-09-17",
       "duration_ms": 183400,
       "name": "The Wild One, Forever",
       "url": "https://open.spotify.com/track/5ZdZppoiqEJsgjYXnJeAKA"
@@ -1223,7 +1277,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-15",
       "duration_ms": 177600,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/1q6KLpnyB8NMcSBUPVTlwa"

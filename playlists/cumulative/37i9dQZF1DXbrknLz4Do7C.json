@@ -345,7 +345,7 @@
     {
       "album": {
         "name": "Clean",
-        "url": "https://open.spotify.com/album/6x2IRGwgHbo7Tj2zNwCFsS"
+        "url": "https://open.spotify.com/album/3JiryCdck69RJNlX7wTTe3"
       },
       "artists": [
         {
@@ -356,6 +356,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168004,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/1Qd7kw7Zirh6Ep03IGYcEz"
+    },
+    {
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/6x2IRGwgHbo7Tj2zNwCFsS"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
       "duration_ms": 168004,
       "name": "Clean",
       "url": "https://open.spotify.com/track/2fDG6nBpw0WHVoycB20KeP"
@@ -917,7 +935,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 247343,
-      "name": "I Got It",
+      "name": "I Got It - Bonus Track",
       "url": "https://open.spotify.com/track/6y8ZVdDFBly8GJhFJAM97L"
     },
     {
@@ -1177,6 +1195,10 @@
         {
           "name": "Hillsong UNITED",
           "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
       "date_added": "2021-12-01",
@@ -1217,10 +1239,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205273,
       "name": "Look What You've Done",
       "url": "https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy"
+    },
+    {
+      "album": {
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205273,
+      "name": "Look What You've Done",
+      "url": "https://open.spotify.com/track/7yniFtYK22ABG31mydMyzS"
     },
     {
       "album": {
@@ -1727,10 +1767,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 139805,
       "name": "Talk 2 Me",
       "url": "https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO"
+    },
+    {
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
     },
     {
       "album": {

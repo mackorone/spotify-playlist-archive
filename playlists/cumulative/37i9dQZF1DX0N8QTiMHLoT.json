@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 159337,
       "name": "A Dark Light",
       "url": "https://open.spotify.com/track/770BeHuLlFqz5Tdm4tSmib"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 259386,
       "name": "Actualize",
       "url": "https://open.spotify.com/track/4V8MJ9W3DfxSWDTpmDXHD5"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 146750,
       "name": "Aeon",
       "url": "https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 118739,
       "name": "And Ya Know We're Missing You: Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom Petty, Chuck Berry & my good friend Larry Coryell",
       "url": "https://open.spotify.com/track/4yKpVDfezBjtyThrWEgTij"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 118739,
       "name": "And Ya Know We're Missing You: Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom Petty, Chuck Berry & my good friend Larry Coryell - Single",
       "url": "https://open.spotify.com/track/6bGXVgsRSvvDgqcvUDaU38"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": "2022-07-24",
       "duration_ms": 216006,
       "name": "Benny",
       "url": "https://open.spotify.com/track/4xtA92JBIShJB38xpUi54N"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 362293,
       "name": "Bent",
       "url": "https://open.spotify.com/track/2wuL3O4CTUPjveRCEXnlfE"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 228920,
       "name": "Blues Mfr",
       "url": "https://open.spotify.com/track/5fJcaPOiPKBxpTKRaTPC5W"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 194671,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/7tpRhxTJb9476O9qef8VPq"
@@ -327,11 +327,27 @@
         {
           "name": "Michael Manson",
           "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        },
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        },
+        {
+          "name": "George Duke",
+          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
+        },
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        },
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
         }
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": "2022-08-14",
       "duration_ms": 318200,
       "name": "Coming Right At ya",
       "url": "https://open.spotify.com/track/0sMFKh1kcox1e2oZ0sHMG6"
@@ -411,7 +427,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-25",
       "duration_ms": 301466,
       "name": "Deep Sensations",
       "url": "https://open.spotify.com/track/7owzLt8mC3gMFMMlZiqGJH"
@@ -447,7 +463,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 192361,
       "name": "Don't Look Back Again",
       "url": "https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7"
@@ -465,7 +481,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-28",
       "duration_ms": 248000,
       "name": "Donovan James",
       "url": "https://open.spotify.com/track/2g37ZBeL0NsNWNB4RV7cBh"
@@ -501,7 +517,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-09-26",
       "duration_ms": 223895,
       "name": "F.U.NKWHY",
       "url": "https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J"
@@ -541,7 +557,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 353546,
       "name": "Funky Boy",
       "url": "https://open.spotify.com/track/4kVQoPK2CdsWYhlLhIl9oi"
@@ -585,7 +601,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 258360,
       "name": "Get Down On It",
       "url": "https://open.spotify.com/track/41BisXehQCshqh06t1is99"
@@ -603,7 +619,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 380373,
       "name": "Groovin' High",
       "url": "https://open.spotify.com/track/3Ct7wdx4Ht0c7ck0OeY5ub"
@@ -621,7 +637,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 304506,
       "name": "Hear Now!",
       "url": "https://open.spotify.com/track/55LlEq0OSbtAIo7R8b9M7R"
@@ -639,7 +655,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 262986,
       "name": "Helios",
       "url": "https://open.spotify.com/track/21SSZPV09UAaOJ97r1TfC6"
@@ -683,7 +699,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 382360,
       "name": "International Blvd.",
       "url": "https://open.spotify.com/track/3EKFRRTFaw191vTDxBi4MG"
@@ -719,7 +735,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-28",
       "duration_ms": 286293,
       "name": "Jazz vs. Hip Hop",
       "url": "https://open.spotify.com/track/6c8lSWY9dNeq1k4pLsMtEk"
@@ -737,7 +753,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 309839,
       "name": "Just Letting Go",
       "url": "https://open.spotify.com/track/0Y4SEMAHZpGp9UyTrMcVTW"
@@ -865,7 +881,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-07-25",
       "duration_ms": 408960,
       "name": "Lucky Punch",
       "url": "https://open.spotify.com/track/5T0Gn4bxR7fCuSxRIsDRsw"
@@ -1057,7 +1073,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-25",
       "duration_ms": 239861,
       "name": "Power UP!",
       "url": "https://open.spotify.com/track/13rfYcNKMn16ZErNcMYx9J"
@@ -1075,7 +1091,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179350,
       "name": "Pra Chanel",
       "url": "https://open.spotify.com/track/4Yr0b24l0NiM3jeUaBx4SG"
@@ -1111,7 +1127,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 413266,
       "name": "Right After 4",
       "url": "https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco"
@@ -1173,7 +1189,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 345546,
       "name": "Shadow (feat. Chick Corea)",
       "url": "https://open.spotify.com/track/39x0LosnX3CnytF1fELFB9"
@@ -1191,7 +1207,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 240933,
       "name": "Soldier of the Groove",
       "url": "https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b"
@@ -1209,10 +1225,28 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-28",
       "duration_ms": 228106,
       "name": "Space Age",
       "url": "https://open.spotify.com/track/6FHuDw2gCmWknjP5qFPPw6"
+    },
+    {
+      "album": {
+        "name": "A Ray of Hope",
+        "url": "https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1"
+      },
+      "artists": [
+        {
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279480,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL"
     },
     {
       "album": {
@@ -1227,10 +1261,32 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-26",
       "duration_ms": 280626,
       "name": "Straight Up",
       "url": "https://open.spotify.com/track/1FQCQGCTDasksoloXfrzc0"
+    },
+    {
+      "album": {
+        "name": "Cerulean Blue",
+        "url": "https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        },
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246692,
+      "name": "Sun Chaser",
+      "url": "https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj"
     },
     {
       "album": {
@@ -1249,7 +1305,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 247382,
       "name": "Sun Chaser",
       "url": "https://open.spotify.com/track/1rK6mqNOInbXGUrhkdSotu"
@@ -1267,7 +1323,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 169414,
       "name": "Symmetry",
       "url": "https://open.spotify.com/track/1BC1Zv4tJ0FUcc7dSYgPIs"
@@ -1281,14 +1337,52 @@
         {
           "name": "Michael Manson",
           "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        },
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        },
+        {
+          "name": "George Duke",
+          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
+        },
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        },
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-14",
+      "duration_ms": 355093,
+      "name": "The Bassment",
+      "url": "https://open.spotify.com/track/7FzR482cXPSleaXixFRNdu"
+    },
+    {
+      "album": {
+        "name": "Just Feelin' It",
+        "url": "https://open.spotify.com/album/29UJRaoihYDbOlMBIbSR6l"
+      },
+      "artists": [
+        {
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        },
+        {
+          "name": "George Duke",
+          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
         }
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 355093,
-      "name": "The Bassment",
-      "url": "https://open.spotify.com/track/7FzR482cXPSleaXixFRNdu"
+      "name": "The Bassment (feat. George Duke)",
+      "url": "https://open.spotify.com/track/0yyoBiEZhgE0oTBBOh0VSv"
     },
     {
       "album": {
@@ -1303,7 +1397,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-29",
       "duration_ms": 272560,
       "name": "The Book of Lies",
       "url": "https://open.spotify.com/track/50I8d0s6Ki2F5cMv7ZdBeS"
@@ -1321,7 +1415,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178840,
       "name": "The Bridge",
       "url": "https://open.spotify.com/track/4MeTCgjEEXhmcl04NHQY8L"
@@ -1339,7 +1433,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 222240,
       "name": "The Lion's Den",
       "url": "https://open.spotify.com/track/68tguTFRYXtSPxn6GJUfi2"
@@ -1357,7 +1451,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 212441,
       "name": "The Rugged Truth",
       "url": "https://open.spotify.com/track/5tbu6qMdDcnfTSTy7tLeuB"
@@ -1419,7 +1513,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-10-01",
       "duration_ms": 104626,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/04TNNN0s6F4soZQhoO4oWG"
@@ -1441,10 +1535,32 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258312,
       "name": "Trust and Faith",
       "url": "https://open.spotify.com/track/2fooyGgpvP6IfAmueqdEBP"
+    },
+    {
+      "album": {
+        "name": "Trust and Faith",
+        "url": "https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq"
+      },
+      "artists": [
+        {
+          "name": "Barry Likumahuwa",
+          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
+        },
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258312,
+      "name": "Trust and Faith",
+      "url": "https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3"
     },
     {
       "album": {
@@ -1459,7 +1575,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 379636,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/787KLXWqvJHkkhuGFpjnLJ"
@@ -1477,7 +1593,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 264000,
       "name": "Twilight - Radio Edit",
       "url": "https://open.spotify.com/track/5cKoSv9uuKyRYb1rWa665T"
@@ -1520,6 +1636,24 @@
     },
     {
       "album": {
+        "name": "What Did He Say? (Remastered)",
+        "url": "https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282946,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb"
+    },
+    {
+      "album": {
         "name": "What Did He Say?",
         "url": "https://open.spotify.com/album/15A21H8cjqxKZmjzIswRyL"
       },
@@ -1531,7 +1665,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 282500,
       "name": "What You Won\u2019t Do For Love",
       "url": "https://open.spotify.com/track/4va2GsDHBZIEmop8BzIS6B"

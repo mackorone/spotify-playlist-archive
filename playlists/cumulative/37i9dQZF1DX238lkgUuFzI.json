@@ -490,6 +490,28 @@
     },
     {
       "album": {
+        "name": "Love & Venom Too",
+        "url": "https://open.spotify.com/album/2t5kV5m8bUui32j3FghJEf"
+      },
+      "artists": [
+        {
+          "name": "heffy",
+          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
+        },
+        {
+          "name": "paqrat",
+          "url": "https://open.spotify.com/artist/7Fc4WsZwaDRqbtHISPBFM5"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104400,
+      "name": "Love & Venom Too",
+      "url": "https://open.spotify.com/track/0Y8wzq8cjtSi9VY6UVOy0a"
+    },
+    {
+      "album": {
         "name": "love & venom too (feat. paqrat)",
         "url": "https://open.spotify.com/album/1HWkEtvQ5iGHV2nJH05J79"
       },
@@ -505,7 +527,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 104800,
       "name": "love & venom too (feat. paqrat)",
       "url": "https://open.spotify.com/track/7fUW8WESea4f2gJm47TyuD"
@@ -668,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153882,
+      "name": "Pretty In Pink",
+      "url": "https://open.spotify.com/track/1hSpR6T2VyCtZh9pXCLSUy"
+    },
+    {
+      "album": {
         "name": "Pretty In Pink",
         "url": "https://open.spotify.com/album/4Ct7vLUxheizQLxWgth6CT"
       },
@@ -679,7 +719,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153882,
       "name": "Pretty In Pink",
       "url": "https://open.spotify.com/track/4SxpCBvFptTOANfdGnjqvc"
@@ -937,10 +977,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 135160,
       "name": "Undertaker - FEVER 333 Remix",
       "url": "https://open.spotify.com/track/3Wj8USHNbYGLvfIHgxbMhZ"
+    },
+    {
+      "album": {
+        "name": "Undertaker (Fever 333 Remix)",
+        "url": "https://open.spotify.com/album/4FAZBq7n35B3wftzMcJIwY"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        },
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135160,
+      "name": "Undertaker - Fever 333 Remix",
+      "url": "https://open.spotify.com/track/42byRWzhvfTWbsN7pxcC6w"
     },
     {
       "album": {
@@ -973,10 +1035,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 213333,
       "name": "White Lie",
       "url": "https://open.spotify.com/track/6lZRybpY3OTgnufOBR91dg"
+    },
+    {
+      "album": {
+        "name": "White Lie",
+        "url": "https://open.spotify.com/album/3AOMfjc6UEQRS29dzlLltv"
+      },
+      "artists": [
+        {
+          "name": "Lenii",
+          "url": "https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "White Lie",
+      "url": "https://open.spotify.com/track/7B1Lenkjs00lgpFhiaw1fd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX238lkgUuFzI"

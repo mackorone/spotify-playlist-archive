@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVL7BvDWdNBe.md) - [plain]
 
 > Dance & jive to the biggest hits of Elvis Presley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,276 likes - 35 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,516 likes - 35 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVL7BvDWdNBe.md) - [plain]
 | 15 | [Hound Dog](https://open.spotify.com/track/12P1E4R3CIlqgiJju079Nn) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Presley: The Searcher \(The Original Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/2ZxjVJSCfp2JYiN2Vrd7k6) | 2:16 |
 | 16 | [Trouble / Guitar Man \- Live from the '68 Comeback Special](https://open.spotify.com/track/6fAOkcjttStpog7jfnVO1F) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Presley: The Searcher \(The Original Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/2ZxjVJSCfp2JYiN2Vrd7k6) | 3:26 |
 | 17 | [Bossa Nova Baby](https://open.spotify.com/track/22Z6ClJxSRovjPiswfCg3V) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Fun in Acapulco](https://open.spotify.com/album/6HKnyw3DYCaD1wdmzez463) | 2:02 |
-| 18 | [Too Much Monkey Business](https://open.spotify.com/track/4g3pTaJtVbkXU0FuxpDbrb) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Bossa Nova Baby: The Ultimate Elvis Presley Party Album](https://open.spotify.com/album/5m21mnF0TmFzG9EevImho6) | 2:29 |
-| 19 | [Good Rockin' Tonight](https://open.spotify.com/track/7cJNO7Q8CiF1H65WVnSIfg) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Bossa Nova Baby: The Ultimate Elvis Presley Party Album](https://open.spotify.com/album/5m21mnF0TmFzG9EevImho6) | 2:12 |
+| 18 | [Too Much Monkey Business](https://open.spotify.com/track/7cHRosCDDl7qhHxkSpcTtH) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Sings Flaming Star](https://open.spotify.com/album/3xHHQWEtennMsfZ65t9Brv) | 2:30 |
+| 19 | [Good Rockin' Tonight](https://open.spotify.com/track/5yZQXR98v0kvhYQ7Adn8PK) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 2:11 |
 | 20 | [Viva Las Vegas](https://open.spotify.com/track/5Q7ayTarb9Tpmkik5cVMug) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Gold Records, Vol\. 4](https://open.spotify.com/album/3ufobt4J5vaT3z7lgUub6a) | 2:24 |
 | 21 | [Guitar Man](https://open.spotify.com/track/7Lvjsltj3TcAJLaTVTWHwO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Bossa Nova Baby: The Ultimate Elvis Presley Party Album](https://open.spotify.com/album/4RaW2vsKwtP8AxXVAgZyZN) | 2:18 |
 | 22 | [C'mon Everybody](https://open.spotify.com/track/2BcMIA1oRqG7tDbSEPBCtt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [C'mon Everybody](https://open.spotify.com/album/1qEWLQtbtSfa051tA3jJQ5) | 2:19 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVL7BvDWdNBe.md) - [plain]
 | 34 | [A Big Hunk O' Love \- Live at the Honolulu International Center](https://open.spotify.com/track/3GI4aSJU8HrTM6msYXz1MT) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Aloha from Hawaii Via Satellite \(Live\)](https://open.spotify.com/album/6AUihdKWdT5evm91G7wirB) | 2:08 |
 | 35 | [Way Down](https://open.spotify.com/track/0JnEaldTC6IFyUGOqppFdG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Moody Blue](https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08) | 2:38 |
 
-Snapshot ID: `MTY1MDk4MDE4OCwwMDAwMDAwMjAwMDAwMTgwNjYxNjZmOTgwMDAwMDE4MDY2MTBlNjY3`
+Snapshot ID: `MTY1MDk4MDE4OCwwMDAwMDAwMDc5YTc5NjI5MGVkODkxOGRlMjdiZWFkYWZjOTIxMTg4`

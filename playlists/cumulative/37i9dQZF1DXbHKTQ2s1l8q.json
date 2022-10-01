@@ -139,6 +139,24 @@
     {
       "album": {
         "name": "Capablanca",
+        "url": "https://open.spotify.com/album/5mENq4ZwKjrjofLKzmyvG7"
+      },
+      "artists": [
+        {
+          "name": "Golden Retriever",
+          "url": "https://open.spotify.com/artist/71TknewZmcMQGt4R313xoo"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176252,
+      "name": "Audrey Horne",
+      "url": "https://open.spotify.com/track/1cNNPJSTu1ZQALIijHvwqV"
+    },
+    {
+      "album": {
+        "name": "Capablanca",
         "url": "https://open.spotify.com/album/673anqqhs8SSQMtQuTRaN4"
       },
       "artists": [
@@ -149,7 +167,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176252,
       "name": "Audrey Horne",
       "url": "https://open.spotify.com/track/1pkQDlaCXB58kAouuVZGgB"
@@ -409,6 +427,24 @@
       "duration_ms": 233979,
       "name": "Constellations (feat. Jack Johnson)",
       "url": "https://open.spotify.com/track/7ysGMxKwKTR78Xhuju3Hvo"
+    },
+    {
+      "album": {
+        "name": "This Is Home",
+        "url": "https://open.spotify.com/album/5oPVf7ao47R9xnp2XcDSfa"
+      },
+      "artists": [
+        {
+          "name": "Shirley Michaels",
+          "url": "https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210062,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/49mGPurzHvCPjiLTTEsc7G"
     },
     {
       "album": {
@@ -895,7 +931,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 272251,
       "name": "Horai",
       "url": "https://open.spotify.com/track/4AoHH38lHbl78JE7rpFlcy"
@@ -996,6 +1032,24 @@
     },
     {
       "album": {
+        "name": "Pumped Up Kicks",
+        "url": "https://open.spotify.com/album/6WKc0Y5OfMShB2Wywfaqpu"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200102,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/0uRq3UbO7llLNzcPkLdIqt"
+    },
+    {
+      "album": {
         "name": "Kahakai",
         "url": "https://open.spotify.com/album/0fTMgwOLelHGCctAZYUfzR"
       },
@@ -1015,6 +1069,24 @@
     {
       "album": {
         "name": "Wooden Boat",
+        "url": "https://open.spotify.com/album/5zMsw0HrRHbUI2sbPB28Ku"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262253,
+      "name": "Kalena Kai",
+      "url": "https://open.spotify.com/track/491T7mr4TMQoGNDgceIIAo"
+    },
+    {
+      "album": {
+        "name": "Wooden Boat",
         "url": "https://open.spotify.com/album/0RYdFktBJKdNLh8rRAYvAp"
       },
       "artists": [
@@ -1025,7 +1097,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 265133,
       "name": "Kalena Kai",
       "url": "https://open.spotify.com/track/42ZtKeVuYhMZRvnByfxX2M"
@@ -1043,7 +1115,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 157307,
       "name": "Kanakamana",
       "url": "https://open.spotify.com/track/4yu0FGVE719GKtyJjb9DCA"
@@ -1079,7 +1151,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 135111,
       "name": "Ku U I Po",
       "url": "https://open.spotify.com/track/6LNrHG2e2B5ugSG0kZKnyY"
@@ -1155,10 +1227,32 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 282706,
       "name": "Lei 'Awapuhi",
       "url": "https://open.spotify.com/track/1dVyAJFUCAD5TjbWTKzpk0"
+    },
+    {
+      "album": {
+        "name": "K\u012bk\u0101 Kila Meets K\u012b H\u014d'alu",
+        "url": "https://open.spotify.com/album/3lD6160vY7QdfYnjTh4tid"
+      },
+      "artists": [
+        {
+          "name": "Bob Brozman",
+          "url": "https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V"
+        },
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279640,
+      "name": "Lei 'Awapuhi - Yellow Ginger Lei",
+      "url": "https://open.spotify.com/track/7jVT5ATucVf0V2R5ztUnYJ"
     },
     {
       "album": {
@@ -1343,6 +1437,24 @@
     {
       "album": {
         "name": "Serender",
+        "url": "https://open.spotify.com/album/6ckORjcNVEyH3Or0lkv6Qf"
+      },
+      "artists": [
+        {
+          "name": "Realizer",
+          "url": "https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159704,
+      "name": "Mountain Hymn",
+      "url": "https://open.spotify.com/track/32Rj2nucYWWwbqJvdiF13P"
+    },
+    {
+      "album": {
+        "name": "Serender",
         "url": "https://open.spotify.com/album/3ekC5yEZkQS873zuUmO289"
       },
       "artists": [
@@ -1353,7 +1465,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159704,
       "name": "Mountain Hymn",
       "url": "https://open.spotify.com/track/6zPASzVCy6QEcB8ys2ZE4L"
@@ -1526,6 +1638,24 @@
     },
     {
       "album": {
+        "name": "Pumped Up Kicks",
+        "url": "https://open.spotify.com/album/6WKc0Y5OfMShB2Wywfaqpu"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202788,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/58b0omCJozdH06nY5riZfI"
+    },
+    {
+      "album": {
         "name": "Hawaiian Slack Key Guitar Masters, Vol. 1",
         "url": "https://open.spotify.com/album/53hJB0xPGms7KJxRZsWE0I"
       },
@@ -1544,6 +1674,24 @@
     },
     {
       "album": {
+        "name": "Waltz of the Wind",
+        "url": "https://open.spotify.com/album/4TF9XpVgoymaVHAXD7eTw0"
+      },
+      "artists": [
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213733,
+      "name": "Radio Hula",
+      "url": "https://open.spotify.com/track/0ucKNafOslGlsuxPB0H6Ck"
+    },
+    {
+      "album": {
         "name": "Hawaiian Slack Key Guitar Masters, Vol. 2",
         "url": "https://open.spotify.com/album/6bwChwiwN9rexZRQmXfdAb"
       },
@@ -1555,7 +1703,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215666,
       "name": "Radio Hula - Instrumental",
       "url": "https://open.spotify.com/track/6Ix3gDxTKEfaNQqcqsTaWe"
@@ -1616,6 +1764,24 @@
     },
     {
       "album": {
+        "name": "Hawaiian Ukulele Hits",
+        "url": "https://open.spotify.com/album/1dKU3TRpFCRwcDAheqiyPe"
+      },
+      "artists": [
+        {
+          "name": "The Shady Ukulele Band",
+          "url": "https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196937,
+      "name": "Soak Up the Sun",
+      "url": "https://open.spotify.com/track/03hVrrbV52cKFbg1stXgmS"
+    },
+    {
+      "album": {
         "name": "Ukulele Surf Style (Acoustic Style Covers)",
         "url": "https://open.spotify.com/album/73ReNL7RJuuQppRERCQqOd"
       },
@@ -1627,7 +1793,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196937,
       "name": "Soak up the Sun",
       "url": "https://open.spotify.com/track/1BT8IDlFYmMel8FidLu0oK"
@@ -1793,6 +1959,24 @@
       "duration_ms": 240416,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/17ejm3j1Pm74j0tC19FenK"
+    },
+    {
+      "album": {
+        "name": "This Is Home",
+        "url": "https://open.spotify.com/album/5oPVf7ao47R9xnp2XcDSfa"
+      },
+      "artists": [
+        {
+          "name": "Shirley Michaels",
+          "url": "https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227417,
+      "name": "This Is Home",
+      "url": "https://open.spotify.com/track/3IMXuDKy3jPJoPmV8yWJY9"
     },
     {
       "album": {

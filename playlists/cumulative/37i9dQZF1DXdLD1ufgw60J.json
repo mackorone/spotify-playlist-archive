@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253413,
       "name": "Adagio in D Minor, BWV 974: II. Adagio",
       "url": "https://open.spotify.com/track/4a8dR8XKOBOMxUSr8UT58W"
@@ -725,6 +725,28 @@
       "duration_ms": 140733,
       "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
       "url": "https://open.spotify.com/track/3YYKrn3iGOAel605Znt3ai"
+    },
+    {
+      "album": {
+        "name": "Alexandre Tharaud: Baroque",
+        "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253413,
+      "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
+      "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
     },
     {
       "album": {
@@ -1313,10 +1335,36 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268000,
       "name": "Le Tombeau de Couperin: V. Menuet - Arr. for oboe and piano",
       "url": "https://open.spotify.com/track/5DI93d7HPS7iHGwdFiwi49"
+    },
+    {
+      "album": {
+        "name": "Lumi\u00e8re",
+        "url": "https://open.spotify.com/album/4hrZpVvHdEsKzPtjIDyrFR"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "C\u00e9line Moinet",
+          "url": "https://open.spotify.com/artist/5WMho67qn4F1VLvOnFEAzE"
+        },
+        {
+          "name": "Florian Uhlig",
+          "url": "https://open.spotify.com/artist/0cpP8FeiZedCgAwj2L895j"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Le Tombeau de Couperin: V. Menuet - Arr. for oboe and piano",
+      "url": "https://open.spotify.com/track/5YrU9onxukiOKTpCgTHOBn"
     },
     {
       "album": {
@@ -1729,6 +1777,18 @@
         {
           "name": "Abel Selaocoe",
           "url": "https://open.spotify.com/artist/44LUiqh2zLIWA4UPdPmvWU"
+        },
+        {
+          "name": "Elizabeth Kenny",
+          "url": "https://open.spotify.com/artist/23wxscxc5ZMWXyOf0xpSw6"
+        },
+        {
+          "name": "Fred Thomas",
+          "url": "https://open.spotify.com/artist/6QA7spY3kFRPGsl2xV4QTf"
+        },
+        {
+          "name": "Kadialy Kouyate",
+          "url": "https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS"
         }
       ],
       "date_added": "2022-07-01",
@@ -1781,6 +1841,36 @@
       "duration_ms": 121013,
       "name": "Puccini: Gianni Schicchi, Act 1: \"O mio babbino caro\" (Lauretta)",
       "url": "https://open.spotify.com/track/18VNXlRteVgchjjqaTKZmm"
+    },
+    {
+      "album": {
+        "name": "Raymonda, Op. 57: Pr\u00e9lude et la Romanesca",
+        "url": "https://open.spotify.com/album/0PQ1N6Tq2RA7UzBiUXPIZe"
+      },
+      "artists": [
+        {
+          "name": "Alexander Glazunov",
+          "url": "https://open.spotify.com/artist/78t7WfwhjZLkDHN5QKwS5u"
+        },
+        {
+          "name": "Xavier De Maistre",
+          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
+        },
+        {
+          "name": "Nathalie Stutzmann",
+          "url": "https://open.spotify.com/artist/01nToDFj9swyFm6Pm3H2EL"
+        },
+        {
+          "name": "WDR Sinfonieorchester",
+          "url": "https://open.spotify.com/artist/3QFf9QniZrojhI4UtZPQ97"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Raymonda, Op. 57: Pr\u00e9lude et la Romanesca",
+      "url": "https://open.spotify.com/track/6rQKvS3JdNeFI7dJg3YKBH"
     },
     {
       "album": {
@@ -2098,6 +2188,28 @@
     },
     {
       "album": {
+        "name": "Impromptu",
+        "url": "https://open.spotify.com/album/3chncWqSySIsq63y17njdc"
+      },
+      "artists": [
+        {
+          "name": "Domenico Scarlatti",
+          "url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE"
+        },
+        {
+          "name": "Sarah O'Brien",
+          "url": "https://open.spotify.com/artist/4zO7mLEq76fAfPau6es6lm"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Sonata in E Major, K. 380",
+      "url": "https://open.spotify.com/track/1smp3QNqTbvJFXuhHHpGV8"
+    },
+    {
+      "album": {
         "name": "Scarlatti: Sonata in E Major, K. 380",
         "url": "https://open.spotify.com/album/3dVkY0lhUIdFMBY9FeBtMQ"
       },
@@ -2113,7 +2225,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 179000,
       "name": "Sonata in E Major, K. 380",
       "url": "https://open.spotify.com/track/2EY5Ddmo95nwNwlF2bmb7P"

@@ -4,7 +4,7 @@
 
 > A <a href="http://www.womeninmusic.org">Women in Music</a> curated list of barrier\-breaking talent impacting the music world\. Features songs from artists directly from our WIM Community \| Cover: Flo Milli
 
-40 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/6fwhtl1cWEqu4PNGxsBW0E)
+41 songs - 2 hr 0 min - [published](https://open.spotify.com/playlist/6fwhtl1cWEqu4PNGxsBW0E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2022-03-08 |  |
 | [Dark Skinned](https://open.spotify.com/track/358NH6zt0bZCCqrL0bMQZ6) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Dark Skinned](https://open.spotify.com/album/1SR9fPVtVwQ37dryvXAowV) | 3:00 | 2022-03-08 |  |
 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 | 2022-03-08 |  |
-| [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-03-08 |  |
+| [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-03-08 |  |
 | [Girlfriend](https://open.spotify.com/track/5hr55QtxToXumR95t6j8lh) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9) | [Ms\. Out Tonight](https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq) | 2:50 | 2022-03-08 |  |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2022-03-08 |  |
 | [hoe \(feat\. Miguel\)](https://open.spotify.com/track/4v2AdwK5xJneq1RosH0JJS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:37 | 2022-03-08 |  |
@@ -32,7 +32,8 @@
 | [Nappy](https://open.spotify.com/track/7ufmJswFQ2S9OzMVIz86df) | [Arewa](https://open.spotify.com/artist/5eNwMClFhgkfRy14EDIQNV) | [Nappy](https://open.spotify.com/album/7j5e6CAm468ruvzKJW3rOo) | 2:36 | 2022-03-08 |  |
 | [Outer Love](https://open.spotify.com/track/1wVMKkf2TbM7MtdnrlyB5k) | [Tonina](https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b) | [March Nineteen](https://open.spotify.com/album/2YYu2I0cb2YfOUq4C65Q7F) | 3:12 | 2022-03-08 |  |
 | [Queen Bee](https://open.spotify.com/track/0FsPv3k1PrnSbnvzpc0zN9) | [Plxnet 419](https://open.spotify.com/artist/1hYkWuhlkDrQEmnCZZKc9v) | [Queen Bee](https://open.spotify.com/album/2t3afI2nt4IMBygzdeRK3b) | 2:56 | 2022-03-08 |  |
-| [Self](https://open.spotify.com/track/0nKiPnnqn6bfn8sPOZJGs8) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/3mpA4v2tvEM5aAYtNGnbzD) | 1:34 | 2022-03-08 |  |
+| [Self](https://open.spotify.com/track/0nKiPnnqn6bfn8sPOZJGs8) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/3mpA4v2tvEM5aAYtNGnbzD) | 1:34 | 2022-03-08 | 2022-09-09 |
+| [Self](https://open.spotify.com/track/2kiCjjIJznzvPuSTtPPP4O) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/0OWKJhRqMHKWKISAKCKgAw) | 1:34 | 2022-03-08 |  |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-03-08 |  |
 | [Single & Happy \(feat\. Wale & Eric Bellinger\)](https://open.spotify.com/track/6n9G36q0JwCS12oQRXCeMi) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Single & Happy](https://open.spotify.com/album/3Rhqmw9GAShFfVEVP8R0EF) | 3:10 | 2022-03-08 |  |
 | [Slowly](https://open.spotify.com/track/1TFciqEaPcxcYkXF7SdsZF) | [Joy Bogat](https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg) | [It's Different Now](https://open.spotify.com/album/1e41DPRgxbxSqFpPzAAtX3) | 4:12 | 2022-03-08 |  |

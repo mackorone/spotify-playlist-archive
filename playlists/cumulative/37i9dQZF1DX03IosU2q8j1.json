@@ -514,6 +514,24 @@
     },
     {
       "album": {
+        "name": "Su Historia, Vol. 5",
+        "url": "https://open.spotify.com/album/5QJWtJcrYbb3UylDoA5Yrh"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245746,
+      "name": "Figurate Tu",
+      "url": "https://open.spotify.com/track/0Lh3bz143h1LBtv8qcY75n"
+    },
+    {
+      "album": {
         "name": "Rodrigo y La Mona Jimenez (2x1)",
         "url": "https://open.spotify.com/album/4NSOqNe4WoFv9VBhLe3Men"
       },
@@ -525,7 +543,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245746,
       "name": "Figurate tu",
       "url": "https://open.spotify.com/track/73cJK9Bz1lVXxvM9ZzKPMn"
@@ -817,10 +835,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 556426,
       "name": "Por Lo Que Yo Te Quiero",
       "url": "https://open.spotify.com/track/4CffX0HNwF5Mkioh6kAm0L"
+    },
+    {
+      "album": {
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556426,
+      "name": "Por Lo Que Yo Te Quiero",
+      "url": "https://open.spotify.com/track/5i9yLs9LPercK6BJgj87gj"
     },
     {
       "album": {
@@ -1037,10 +1073,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 405160,
       "name": "Un Largo Camino Al Cielo",
       "url": "https://open.spotify.com/track/0fmneMvBzm0QvGy3e8S7CR"
+    },
+    {
+      "album": {
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405160,
+      "name": "Un Largo Camino al Cielo",
+      "url": "https://open.spotify.com/track/2PlSYK2fahYQAfOQ5oZkDt"
     },
     {
       "album": {

@@ -13,7 +13,7 @@
       },
       "artists": [
         {
-          "name": "Shelley FKA DRAM",
+          "name": "DRAM",
           "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
         }
       ],
@@ -81,7 +81,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261440,
       "name": "A Christmas Fucking Miracle",
       "url": "https://open.spotify.com/track/54DmhgFHvYxqBEnOwklDml"
@@ -99,10 +99,36 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261440,
       "name": "A Christmas Fucking Miracle",
       "url": "https://open.spotify.com/track/59fKNCUMTncSMICMNqT2in"
+    },
+    {
+      "album": {
+        "name": "Run The Jewels",
+        "url": "https://open.spotify.com/album/00YvpfulLYvaJp0s6nC7f2"
+      },
+      "artists": [
+        {
+          "name": "Run The Jewels",
+          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "date_added": "2019-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261440,
+      "name": "A Christmas Fucking Miracle",
+      "url": "https://open.spotify.com/track/2iKfoNi5TOOOvwit3Qte95"
     },
     {
       "album": {
@@ -176,6 +202,28 @@
     },
     {
       "album": {
+        "name": "All I Want For Christmas",
+        "url": "https://open.spotify.com/album/5nmT49mNrQXBOsX3okThVK"
+      },
+      "artists": [
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2019-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234881,
+      "name": "All I Want For Christmas",
+      "url": "https://open.spotify.com/track/6DzfoG92Au5YumPSsVuPGV"
+    },
+    {
+      "album": {
         "name": "All I Want for Christmas (feat. Kodak Black)",
         "url": "https://open.spotify.com/album/4r0lhaqoy76x01TKtYoDoy"
       },
@@ -191,7 +239,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234840,
       "name": "All I Want for Christmas (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/5YIrN8eiSm9X7uodyoCmCp"
@@ -225,7 +273,7 @@
     {
       "album": {
         "name": "A Dipset Christmas",
-        "url": "https://open.spotify.com/album/4SAE349ZWH6Tyt4hjzW0Do"
+        "url": "https://open.spotify.com/album/0GfcY3i2aeTqcOxb8i8tLS"
       },
       "artists": [
         {
@@ -236,6 +284,24 @@
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215986,
+      "name": "Ballin' On Xmas",
+      "url": "https://open.spotify.com/track/1atC80Kwb6gHOn27dG1qX1"
+    },
+    {
+      "album": {
+        "name": "A Dipset Christmas",
+        "url": "https://open.spotify.com/album/4SAE349ZWH6Tyt4hjzW0Do"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "date_added": "2019-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 215986,
       "name": "Ballin' On Xmas",
       "url": "https://open.spotify.com/track/4fr1ceHZvZl2kY1GYm6GlJ"
@@ -330,6 +396,24 @@
     },
     {
       "album": {
+        "name": "Tougher Than Leather (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "date_added": "2019-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178613,
+      "name": "Christmas In Hollis",
+      "url": "https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf"
+    },
+    {
+      "album": {
         "name": "Christmas Hits",
         "url": "https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6"
       },
@@ -341,7 +425,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178853,
       "name": "Christmas In Hollis",
       "url": "https://open.spotify.com/track/1MxFicnnrdo9RzFLAm4Gsf"
@@ -359,10 +443,40 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231986,
       "name": "Christmas In The Ghetto",
       "url": "https://open.spotify.com/track/4qnAL2v6WtgxbJ5DxWgLno"
+    },
+    {
+      "album": {
+        "name": "A Tribute To Bad Santa Starring Mike Epps",
+        "url": "https://open.spotify.com/album/0LtmH4OrlmrdEkGB7ISbhi"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Skull Gang",
+          "url": "https://open.spotify.com/artist/6R4blCfeFM693nL3QeCeAH"
+        },
+        {
+          "name": "Rab",
+          "url": "https://open.spotify.com/artist/1SOPb1pF1KBjDkRFXegpeV"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "date_added": "2019-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231986,
+      "name": "Christmas In The Ghetto (feat. Juelz Santana & Rab)",
+      "url": "https://open.spotify.com/track/23Q4A1vOQUnuB5jLwYU4yZ"
     },
     {
       "album": {
@@ -425,7 +539,7 @@
     {
       "album": {
         "name": "A Dipset Christmas",
-        "url": "https://open.spotify.com/album/4SAE349ZWH6Tyt4hjzW0Do"
+        "url": "https://open.spotify.com/album/0GfcY3i2aeTqcOxb8i8tLS"
       },
       "artists": [
         {
@@ -436,6 +550,24 @@
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 241880,
+      "name": "Dipset X-mas Time",
+      "url": "https://open.spotify.com/track/5Ka1tMdg4EMf0EnjraSbV3"
+    },
+    {
+      "album": {
+        "name": "A Dipset Christmas",
+        "url": "https://open.spotify.com/album/4SAE349ZWH6Tyt4hjzW0Do"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "date_added": "2019-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 241880,
       "name": "Dipset X-mas Time",
       "url": "https://open.spotify.com/track/5TiZO9v3hLqILmfatAJMV0"
@@ -547,10 +679,32 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193106,
       "name": "Intro",
       "url": "https://open.spotify.com/track/19yDsmC7MexMWIRjXlsuF4"
+    },
+    {
+      "album": {
+        "name": "A Tribute To Bad Santa Starring Mike Epps",
+        "url": "https://open.spotify.com/album/0LtmH4OrlmrdEkGB7ISbhi"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Skull Gang",
+          "url": "https://open.spotify.com/artist/6R4blCfeFM693nL3QeCeAH"
+        }
+      ],
+      "date_added": "2019-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193106,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4Vp3hN8N9eIeh3qCqrYmMM"
     },
     {
       "album": {
@@ -699,10 +853,28 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158241,
       "name": "Night Shifts At Christmas",
       "url": "https://open.spotify.com/track/2igDCdkPxsG876uqueSr9F"
+    },
+    {
+      "album": {
+        "name": "Nightshifts at Christmas",
+        "url": "https://open.spotify.com/album/4qsa33pjwt2qTAWd34e8rB"
+      },
+      "artists": [
+        {
+          "name": "Golden Rules",
+          "url": "https://open.spotify.com/artist/0LvSG8k9YJF0fSevrndsR9"
+        }
+      ],
+      "date_added": "2019-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "Nightshifts at Christmas",
+      "url": "https://open.spotify.com/track/0ZufGxzMJcPHgQgxsWmIBb"
     },
     {
       "album": {
@@ -761,10 +933,56 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242400,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/4uuZnt6DS1LTvCpfZb98Bq"
+    },
+    {
+      "album": {
+        "name": "A Very Special Christmas 3",
+        "url": "https://open.spotify.com/album/1Esu95dAPjDnjQi9KrlQ45"
+      },
+      "artists": [
+        {
+          "name": "The Christmas All-Stars",
+          "url": "https://open.spotify.com/artist/69oz4W3aGcG9pgEqb32DRA"
+        },
+        {
+          "name": "Joseph Simmons",
+          "url": "https://open.spotify.com/artist/2g5m3ioWlD6JBqqzvK1uAy"
+        },
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        },
+        {
+          "name": "Onyx",
+          "url": "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Keith Murray",
+          "url": "https://open.spotify.com/artist/2bwR166mSJEJrYJqfyust3"
+        },
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ],
+      "date_added": "2019-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/40x0LtHNt6ksea5Si2mevO"
     },
     {
       "album": {
@@ -852,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "The Return of East Atlanta Santa",
+        "url": "https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2019-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145146,
+      "name": "St. Brick Intro",
+      "url": "https://open.spotify.com/track/4U7ARsdGktEi8SmITVPXtC"
+    },
+    {
+      "album": {
         "name": "St. Brick Intro",
         "url": "https://open.spotify.com/album/1CQpVdTTTL1SfOb0bAME0O"
       },
@@ -863,7 +1099,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147152,
       "name": "St. Brick Intro",
       "url": "https://open.spotify.com/track/1Et5dtjFVjgZeH6OC925hk"
@@ -1005,10 +1241,28 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 108986,
       "name": "You're A Mean One, Mr. Grinch",
       "url": "https://open.spotify.com/track/38sOMt0jPIWWqJMNk2u0DI"
+    },
+    {
+      "album": {
+        "name": "Dr. Seuss' The Grinch (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2019-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108986,
+      "name": "You're A Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1qPYE0fcNDF"

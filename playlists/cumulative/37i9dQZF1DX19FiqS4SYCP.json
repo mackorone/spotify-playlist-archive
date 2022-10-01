@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Tejano's new wave, co-curated with <a href=\"https://tejanonation.net/\">Tejano Nation</a>! La nueva ola de la m\u00fasica tejana. Cover: Stefani Montiel",
+  "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
   "name": "New Tejano",
   "published_playlist_ids": [
     "1DP7NGrjVhNrBARNSXYxLf"
@@ -121,6 +121,24 @@
       "duration_ms": 177748,
       "name": "Baby Luna",
       "url": "https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo"
+    },
+    {
+      "album": {
+        "name": "MOONCHILD MIXES",
+        "url": "https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
+      "url": "https://open.spotify.com/track/4PUcIVtKlu3QXDraTWoleG"
     },
     {
       "album": {
@@ -627,10 +645,28 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198539,
       "name": "Nunca Voy A Olvidarte",
       "url": "https://open.spotify.com/track/3dgzwhggcd45Rk8yiZNYcb"
+    },
+    {
+      "album": {
+        "name": "Nunca Voy A Olvidarte (Radio Mix)",
+        "url": "https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9"
+      },
+      "artists": [
+        {
+          "name": "Los Lost Boyz",
+          "url": "https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198216,
+      "name": "Nunca Voy A Olvidarte - Radio Mix",
+      "url": "https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW"
     },
     {
       "album": {
@@ -833,7 +869,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 161610,
       "name": "Trampa De Amor",
       "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"

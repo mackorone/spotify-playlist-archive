@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 
 > Soothing water sounds from lakes and rivers
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,071 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,381 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 67 | [Ocean Wave Tranquility](https://open.spotify.com/track/5QN4ohn0UCzVtEjcwCXu9J) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Ocean Wave Tranquility](https://open.spotify.com/album/62V6uvjlaJbgxVcjkoJTsC) | 3:00 |
 | 68 | [Wuthering Lochs](https://open.spotify.com/track/1v2amRtEhw1hnkrkv1HfrO) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Wuthering Lochs](https://open.spotify.com/album/4vLzq2D9GTVMz6t1qUFSWZ) | 4:03 |
 | 69 | [Peaceful waves](https://open.spotify.com/track/2dJsaUEG3JQUb88F7YL5t0) | [The Relaxation Hub](https://open.spotify.com/artist/6J2XOkGyDdC603Fmf44J5e) | [Peaceful Waves](https://open.spotify.com/album/65gW8GTFtnExMQmFQ15N5l) | 1:53 |
-| 70 | [Sitting By The Beach Then Jumping In](https://open.spotify.com/track/4ZRes6AFBBAFzV7VHuFWPd) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/6jKTQZxWAm7RuQdBbz4TaN) | 3:48 |
+| 70 | [Sitting By The Beach Then Jumping In](https://open.spotify.com/track/0Cp445LHoSJYVa3XuNAzS3) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/0cxRpFqh1zwxqEIoLu0dYw) | 3:48 |
 | 71 | [Beach Waves](https://open.spotify.com/track/3BfSxrAh4GX28WFd9d9Ujc) | [The Wave Sleep Machine](https://open.spotify.com/artist/49kfCzRL9oEVuOOfuFI4nu) | [The Wave Sleep Machine](https://open.spotify.com/album/7iicR5jDirO7didbpr2O8O) | 3:31 |
 | 72 | [Finding Inner Peace Close to the Edge of the Sea](https://open.spotify.com/track/3OFBUO81026zPhA8b88MLB) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Contemplation by the Sea](https://open.spotify.com/album/0YLBgediglomrRmXQFsX3a) | 5:27 |
 | 73 | [Gettin’ Into The Water](https://open.spotify.com/track/5HrEAUfoYBzRAcIBm20vAP) | [Sundays By The Ocean](https://open.spotify.com/artist/0zZl9VsforOKto9vF8ufLg) | [Volume One](https://open.spotify.com/album/1w2TodavMoCOgcJXqWOWRV) | 2:26 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 83 | [Finding the Light](https://open.spotify.com/track/7pI5Hy6cpduETyWYS4fvI5) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Magic Water](https://open.spotify.com/album/3Ewgcu9Y9gbmxJurW4gvVs) | 3:06 |
 | 84 | [Guided by the Rocks and the Rolling Sea](https://open.spotify.com/track/4wgfLLN0iLPR9mypcRIEL7) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Contemplation by the Sea](https://open.spotify.com/album/0YLBgediglomrRmXQFsX3a) | 2:52 |
 | 85 | [Calm Waves](https://open.spotify.com/track/6B6HZWEtj7CdaIScX16bRG) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Calm Beach Sounds Vol\. 1](https://open.spotify.com/album/57hdkDOtmaLOsLUpgNfHh4) | 2:56 |
-| 86 | [Waves Crashing On The Beach](https://open.spotify.com/track/40LXz8tBRZhOVV3WHPH3Nn) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/6jKTQZxWAm7RuQdBbz4TaN) | 3:24 |
+| 86 | [Waves Crashing On The Beach](https://open.spotify.com/track/7sfNMu2SJCHE7Tf1WHz9cg) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/0cxRpFqh1zwxqEIoLu0dYw) | 3:24 |
 | 87 | [I love the sound of the ocean](https://open.spotify.com/track/0AJGDJQyIIp98FPvMyuKhI) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Sound Waves](https://open.spotify.com/album/2NVjVSAhKnqIewKJ9T8yCj) | 3:16 |
 | 88 | [Ondas de sueño](https://open.spotify.com/track/257HeQKft6Ef6fNZSP0T5n) | [Ayudantes para dormir](https://open.spotify.com/artist/3uiLZIt70oh7RelYoaozqD) | [Ayudantes para dormir](https://open.spotify.com/album/7r5Aj4mO7gl9VFowZjI1LS) | 4:34 |
 | 89 | [Light Waves Sound](https://open.spotify.com/track/1yRJjh8bRDa9OnR2gkr8Gr) | [Mare](https://open.spotify.com/artist/3cIvuWy0J86I7TJZ6KDXm1) | [Agua](https://open.spotify.com/album/0FG7HOJB5h2knAJ2EQcSn2) | 3:16 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 92 | [Distant Waterfall And Brook](https://open.spotify.com/track/4SLuqAtsNE258Aql5keUsN) | [Water Science](https://open.spotify.com/artist/2Zhk6Eu0cTqw9zKlbMl3yv) | [Binaural Water](https://open.spotify.com/album/0xQArU4l4FMn0WhLpQE2GN) | 3:08 |
 | 93 | [Arriving \(6.5 kHz Lowpass\)](https://open.spotify.com/track/0KGpwqkKGjRKWgVvJriIWg) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Wuthering Lochs](https://open.spotify.com/album/4vLzq2D9GTVMz6t1qUFSWZ) | 3:28 |
 
-Snapshot ID: `MTY1MDYzOTkzOCwwMDAwMDAyZjAwMDAwMTgwNTFjZWEzZjkwMDAwMDE3MGM0YWVhNjZh`
+Snapshot ID: `MTY1OTU5OTExNywwMDAwMDAwMDYzYzI0YTE5MDRiOGRmZTc2N2UxODI4ODMxZTc1NzIz`

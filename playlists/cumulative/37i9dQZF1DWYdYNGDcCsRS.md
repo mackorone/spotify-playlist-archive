@@ -2,9 +2,9 @@
 
 ### [John Dahlbäck's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWYdYNGDcCsRS)
 
-> Legendary Swedish house producer <a href ="spotify:artist:15xvsJMf8phaNa1LYvL9Qv">John Dahlbäck</a> takes the decks for a dark and melodic mix perfect for the long summer nights.
+> Legendary Swedish house producer <a href="spotify:artist:15xvsJMf8phaNa1LYvL9Qv">John Dahlbäck</a> takes the decks for a dark and melodic mix perfect for the long summer nights.
 
-17 songs - 58 min 36 sec - not published yet
+17 songs - 58 min 36 sec - [published](https://open.spotify.com/playlist/0Nh3dusPqsN4lqUegMBk4B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,6 @@
 | [Need To Feel Loved \- Tinlicker Remix \- Mixed](https://open.spotify.com/track/4Xblpi3BYmbKyoygdnpX49) | [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk), [Reflekt](https://open.spotify.com/artist/1AjG4kPZtTlEhqkrLC1yno), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Need To Feel Loved \- Tinlicker Remix \(Mixed\)](https://open.spotify.com/album/00SCwXaC90QR35Ns2mRsLt) | 4:12 | 2022-06-15 |  |
 | [Roadkill \- Mixed](https://open.spotify.com/track/6gf4l7BALSUOOgIrOBQ1ij) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [Roadkill \(Mixed\)](https://open.spotify.com/album/1PK3kV5MbIs3fsFjFPogDL) | 1:15 | 2022-06-15 |  |
 | [Temper Temper \(feat\. ONR\) \- Mixed](https://open.spotify.com/track/1lSvICxom05kGx7VtOBOIm) | [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi), [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Temper Temper \(feat\. ONR\) \[Mixed\]](https://open.spotify.com/album/4Yu0fRmFxcoaHmInkD1UF7) | 4:14 | 2022-06-15 |  |
-| [Tomorrow \- Mixed](https://open.spotify.com/track/4EFqzlDtfqXTwmS2zDr4IU) | [Dom Youdan](https://open.spotify.com/artist/7mFtdq1kVeZHdWjponFfWx), [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Tomorrow \(Mixed\)](https://open.spotify.com/album/4LEVHT8GZhbjcjJ9VumNwI) | 5:01 | 2022-06-15 |  |
+| [Tomorrow \- Mixed](https://open.spotify.com/track/4EFqzlDtfqXTwmS2zDr4IU) | [Able Joseph](https://open.spotify.com/artist/0djvjweduXm6AxFgwcznq8), [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Tomorrow \(Mixed\)](https://open.spotify.com/album/4LEVHT8GZhbjcjJ9VumNwI) | 5:01 | 2022-06-15 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

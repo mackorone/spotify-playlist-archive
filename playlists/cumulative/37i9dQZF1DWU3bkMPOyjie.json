@@ -19,10 +19,46 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193000,
       "name": "1985",
       "url": "https://open.spotify.com/track/4UuHWIkAWnN176A2rx7YFB"
+    },
+    {
+      "album": {
+        "name": "A Hangover You Don't Deserve",
+        "url": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
+    },
+    {
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175493,
+      "name": "Ain't No Rest for the Wicked",
+      "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
     },
     {
       "album": {
@@ -37,7 +73,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175493,
       "name": "Ain't No Rest for the Wicked",
       "url": "https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i"
@@ -63,6 +99,24 @@
     {
       "album": {
         "name": "Southern Air",
+        "url": "https://open.spotify.com/album/1URxt8zdzFsihGRAv01cb0"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189585,
+      "name": "Always Summer",
+      "url": "https://open.spotify.com/track/4ilpew1AcHAc38SIf4GQbN"
+    },
+    {
+      "album": {
+        "name": "Southern Air",
         "url": "https://open.spotify.com/album/5pIfGcf34u4nVvHtbXdGfJ"
       },
       "artists": [
@@ -73,7 +127,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190103,
       "name": "Always Summer",
       "url": "https://open.spotify.com/track/35GAGXqQxaMFXSkZ9FQHgC"
@@ -229,6 +283,24 @@
     {
       "album": {
         "name": "\"This Summer\" B/W \"Cruel Summer\"",
+        "url": "https://open.spotify.com/album/1Lr1MQ4BHb0gxZjC9gr8iK"
+      },
+      "artists": [
+        {
+          "name": "Superchunk",
+          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170671,
+      "name": "Cruel Summer (Bananarama Cover)",
+      "url": "https://open.spotify.com/track/36CQeLoHzTh9QOc7yB0fs8"
+    },
+    {
+      "album": {
+        "name": "\"This Summer\" B/W \"Cruel Summer\"",
         "url": "https://open.spotify.com/album/2QDF1e1678GgUhjDEQFVkI"
       },
       "artists": [
@@ -239,7 +311,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170671,
       "name": "Cruel Summer (Bananarama Cover)",
       "url": "https://open.spotify.com/track/4jz9ju8mdBDhoYQRxSd72W"
@@ -275,10 +347,28 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179960,
       "name": "Don't Look Back into the Sun",
       "url": "https://open.spotify.com/track/38peLHRTxGZAd5TpEO3gB9"
+    },
+    {
+      "album": {
+        "name": "Don't Look Back into the Sun",
+        "url": "https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180266,
+      "name": "Don't Look Back into the Sun",
+      "url": "https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm"
     },
     {
       "album": {
@@ -373,6 +463,24 @@
     {
       "album": {
         "name": "Veni Vidi Vicious",
+        "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199759,
+      "name": "Hate To Say I Told You So",
+      "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
+    },
+    {
+      "album": {
+        "name": "Veni Vidi Vicious",
         "url": "https://open.spotify.com/album/1C4UGzx5gD9b3X0UfAhY7z"
       },
       "artists": [
@@ -383,10 +491,46 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200693,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/20j7B6mL9gnNvG3ic6Vwh5"
+    },
+    {
+      "album": {
+        "name": "Making Enemies Is Good",
+        "url": "https://open.spotify.com/album/3WBiqMIPiRU9ybRTLxGSDh"
+      },
+      "artists": [
+        {
+          "name": "Backyard Babies",
+          "url": "https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171266,
+      "name": "Heaven 2.9",
+      "url": "https://open.spotify.com/track/6gfjeVtBYntpnQ12wG6oOJ"
+    },
+    {
+      "album": {
+        "name": "Making Enemies Is Good",
+        "url": "https://open.spotify.com/album/3cZ8xIHA5iJs2j8okxnNb5"
+      },
+      "artists": [
+        {
+          "name": "Backyard Babies",
+          "url": "https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 171280,
+      "name": "Heaven 2.9",
+      "url": "https://open.spotify.com/track/2nuyR7uWofLwfzHeveCdrm"
     },
     {
       "album": {
@@ -401,10 +545,28 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171280,
       "name": "Heaven 2.9",
       "url": "https://open.spotify.com/track/70ju11WAXAozZmB8WyJ09U"
+    },
+    {
+      "album": {
+        "name": "Going To Hell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224533,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL"
     },
     {
       "album": {
@@ -419,7 +581,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224854,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl"
@@ -480,6 +642,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits: God's Favorite Band",
+        "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232680,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4VgEM12OeaN3GyBV487Me7"
+    },
+    {
+      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C"
       },
@@ -491,7 +671,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233026,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z"
@@ -571,6 +751,24 @@
     {
       "album": {
         "name": "...Like Clockwork",
+        "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235586,
+      "name": "I Sat by the Ocean",
+      "url": "https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG"
+    },
+    {
+      "album": {
+        "name": "...Like Clockwork",
         "url": "https://open.spotify.com/album/06S2JBsr4U1Dz3YaenPdVq"
       },
       "artists": [
@@ -581,7 +779,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235586,
       "name": "I Sat By The Ocean",
       "url": "https://open.spotify.com/track/7oXRMDUzBPekkLRTJhSGvC"
@@ -642,6 +840,24 @@
     },
     {
       "album": {
+        "name": "King of the Beach",
+        "url": "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d"
+      },
+      "artists": [
+        {
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158106,
+      "name": "King of the Beach",
+      "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
+    },
+    {
+      "album": {
         "name": "King Of The Beach",
         "url": "https://open.spotify.com/album/39ve9pwi7p3kOYKNkRKcSs"
       },
@@ -653,10 +869,28 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158106,
       "name": "King Of The Beach",
       "url": "https://open.spotify.com/track/3pOSTi5yh2krttjdNddRLl"
+    },
+    {
+      "album": {
+        "name": "Let the Vultures In",
+        "url": "https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207141,
+      "name": "Let Me Live / Let Me Die",
+      "url": "https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI"
     },
     {
       "album": {
@@ -671,7 +905,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 207141,
       "name": "Let Me Live / Let Me Die",
       "url": "https://open.spotify.com/track/481idAnpIOHEjR4YPsbA0y"
@@ -714,6 +948,24 @@
     },
     {
       "album": {
+        "name": "Outlaw Gentlemen & Shady Ladies",
+        "url": "https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267680,
+      "name": "Lola Montez",
+      "url": "https://open.spotify.com/track/1wnq9TwifJ9ipLUFsm8vKx"
+    },
+    {
+      "album": {
         "name": "Outlaw Gentlemen & Shady Ladies (Deluxe Version)",
         "url": "https://open.spotify.com/album/6bM5H5CIEsTtIoHcScwJWX"
       },
@@ -725,7 +977,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267680,
       "name": "Lola Montez",
       "url": "https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL"
@@ -805,6 +1057,24 @@
     {
       "album": {
         "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214147,
+      "name": "Pompeii",
+      "url": "https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795"
+    },
+    {
+      "album": {
+        "name": "Bad Blood",
         "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
       },
       "artists": [
@@ -815,7 +1085,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214147,
       "name": "Pompeii",
       "url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ"
@@ -859,6 +1129,24 @@
     {
       "album": {
         "name": "Konk",
+        "url": "https://open.spotify.com/album/37he52Ye10gETvnot9bC2t"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "See The Sun",
+      "url": "https://open.spotify.com/track/0GENETcbBO2yCnk2nO8S9a"
+    },
+    {
+      "album": {
+        "name": "Konk",
         "url": "https://open.spotify.com/album/5gXWb2WwmKFdAqILvs2pIe"
       },
       "artists": [
@@ -869,7 +1157,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216426,
       "name": "See The Sun",
       "url": "https://open.spotify.com/track/4aCGcv5CKBKBpPBoj0OXCM"
@@ -931,6 +1219,24 @@
     {
       "album": {
         "name": "Libertad",
+        "url": "https://open.spotify.com/album/2mFnAf5xnMOs1LBS4qRy5R"
+      },
+      "artists": [
+        {
+          "name": "Velvet Revolver",
+          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242440,
+      "name": "She Builds Quick Machines",
+      "url": "https://open.spotify.com/track/5kwVVnZ8ZjJanBbGmrbHsb"
+    },
+    {
+      "album": {
+        "name": "Libertad",
         "url": "https://open.spotify.com/album/6MY4dyk9U9A5bkxEIk22jj"
       },
       "artists": [
@@ -941,7 +1247,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242440,
       "name": "She Builds Quick Machines",
       "url": "https://open.spotify.com/track/6qB8Aa8SnLBgCJI1afxGpJ"
@@ -995,10 +1301,28 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160173,
       "name": "Summer",
       "url": "https://open.spotify.com/track/0BmJsqTCp4cz2xxaMGVD7n"
+    },
+    {
+      "album": {
+        "name": "Half Hour Of Power",
+        "url": "https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160173,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/46pErPIiLjAWrr5uLFomA0"
     },
     {
       "album": {
@@ -1046,6 +1370,28 @@
     },
     {
       "album": {
+        "name": "Summer Paradise (feat. Sean Paul)",
+        "url": "https://open.spotify.com/album/6U12piIo0noLnBIRTzZS8l"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234786,
+      "name": "Summer Paradise (feat. Sean Paul) - Single Version",
+      "url": "https://open.spotify.com/track/6kcuYyyU2tPxGP3PDVWYJT"
+    },
+    {
+      "album": {
         "name": "Get Your Heart On!",
         "url": "https://open.spotify.com/album/3Lg4pp9DVSsqcCA0IP82n6"
       },
@@ -1061,7 +1407,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234786,
       "name": "Summer Paradise (feat. Sean Paul) - Single Version",
       "url": "https://open.spotify.com/track/7sziTn5nHwrWf4K7gISaaU"
@@ -1079,10 +1425,28 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223903,
       "name": "Surface Of The Sun",
       "url": "https://open.spotify.com/track/4pUf2KnXsjmZvZIeu9z42p"
+    },
+    {
+      "album": {
+        "name": "Southern Air",
+        "url": "https://open.spotify.com/album/1URxt8zdzFsihGRAv01cb0"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223903,
+      "name": "Surface Of The Sun",
+      "url": "https://open.spotify.com/track/7pP1lHIs7GzszcY1b1XECn"
     },
     {
       "album": {
@@ -1097,10 +1461,28 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 241666,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/1w2b6f5Cgwy8ZmKdHUBSiW"
+    },
+    {
+      "album": {
+        "name": "Wheatus",
+        "url": "https://open.spotify.com/album/4YiSn22yxCxPdwdx0EzE9H"
+      },
+      "artists": [
+        {
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241666,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/7HYeWt67UHZELHCY0SrJ3E"
     },
     {
       "album": {
@@ -1141,6 +1523,24 @@
     {
       "album": {
         "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181720,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/3xOE5ciDmfQ0VY3WahE0eJ"
+    },
+    {
+      "album": {
+        "name": "So Wrong, It's Right",
         "url": "https://open.spotify.com/album/7GcuimRczCCOblhJr0NgzD"
       },
       "artists": [
@@ -1151,7 +1551,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181720,
       "name": "The Beach",
       "url": "https://open.spotify.com/track/4DnRAvfHBRkxMMOAXsCJpZ"
@@ -1194,6 +1594,60 @@
     },
     {
       "album": {
+        "name": "The Only Place (Deluxe)",
+        "url": "https://open.spotify.com/album/02gFZUaqAcQNtV6rmVIsN0"
+      },
+      "artists": [
+        {
+          "name": "Best Coast",
+          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162634,
+      "name": "The Only Place",
+      "url": "https://open.spotify.com/track/0NCcbiW3kiasTzgg3CiBrf"
+    },
+    {
+      "album": {
+        "name": "The Only Place",
+        "url": "https://open.spotify.com/album/3vTAcIRcaEwrdy5q8dXBYV"
+      },
+      "artists": [
+        {
+          "name": "Best Coast",
+          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 162634,
+      "name": "The Only Place",
+      "url": "https://open.spotify.com/track/1jqRIFPidtXj9H9YKv5ILM"
+    },
+    {
+      "album": {
+        "name": "The Only Place (Deluxe)",
+        "url": "https://open.spotify.com/album/2lpW13Gis4FaolJmwufJB1"
+      },
+      "artists": [
+        {
+          "name": "Best Coast",
+          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 162634,
+      "name": "The Only Place",
+      "url": "https://open.spotify.com/track/4nczzhe10DQGPUClkevmqB"
+    },
+    {
+      "album": {
         "name": "The Only Place",
         "url": "https://open.spotify.com/album/6ihyZlwcled0sx3Kay0R2x"
       },
@@ -1205,7 +1659,7 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162666,
       "name": "The Only Place",
       "url": "https://open.spotify.com/track/7cac2wtDsAtBzrDL0K2iUG"
@@ -1331,10 +1785,28 @@
       ],
       "date_added": "2020-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175666,
       "name": "Woman",
       "url": "https://open.spotify.com/track/2pcwmk8c1pTYwX0COSVX52"
+    },
+    {
+      "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176306,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU3bkMPOyjie"

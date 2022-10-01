@@ -1,31 +1,55 @@
 {
   "description": "Where jazz meets classical, and classical meets jazz. ",
-  "num_followers": 262645,
+  "num_followers": 265872,
   "original_name": "Jazz Meets Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODEyODQxOSwwMDAwMDAzNDAwMDAwMTgyMTAyN2M5ZDIwMDAwMDE4MWM4Nzg4NGZj",
+  "snapshot_id": "MTY2MzMxNDkwNiwwMDAwMDAwMDNlZDU3ZmZjNjM1MzM4MWQzNTZkNmI1NTUwMzIzMzRl",
   "tracks": [
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Voice",
-        "url": "https://open.spotify.com/album/1LeBjxguhl0sNpmJSc4aKu"
+        "url": "https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04"
       },
       "artists": [
         {
           "name": "Hiromi",
           "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "Anthony Jackson",
+          "url": "https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC"
+        },
+        {
+          "name": "Simon Phillips",
+          "url": "https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy"
         }
       ],
       "duration_ms": 313026,
       "name": "Beethoven's Piano Sonata No. 8, Pathetique",
-      "url": "https://open.spotify.com/track/7hdbfMdjsdclkZONmT7lD6"
+      "url": "https://open.spotify.com/track/08kouBwoppDP70MmwiNUPr"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
+      "album": {
+        "name": "The Epic",
+        "url": "https://open.spotify.com/album/2j2q2ySuVk43eHB8wI5XQj"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 667733,
+      "name": "Clair de Lune",
+      "url": "https://open.spotify.com/track/273VxALm722DRN4PNujOF8"
+    },
+    {
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "En attendant",
         "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
@@ -41,7 +65,7 @@
       "url": "https://open.spotify.com/track/6FCsAVLJWMamkoglmADxS6"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
@@ -57,7 +81,7 @@
       "url": "https://open.spotify.com/track/5mjFeu4fGH6RgpklX4vAAs"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Kronos Quartet: Music Of Bill Evans",
         "url": "https://open.spotify.com/album/5vGOb3jAa4wv7ZS0mL2IfF"
@@ -73,7 +97,7 @@
       "url": "https://open.spotify.com/track/1OIf9HdeZ0V0F6kSbgnBoO"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Monsieur Claude (A Travel with Claude Debussy)",
         "url": "https://open.spotify.com/album/1Eh0JcWtm36zjJaR276Rph"
@@ -97,7 +121,7 @@
       "url": "https://open.spotify.com/track/0Ojn5HBy1lcILqz4m0Nj2h"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "BAYATI",
         "url": "https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c"
@@ -113,10 +137,10 @@
       "url": "https://open.spotify.com/track/44ZIZqZyUSJciKQzKlGvZf"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Paganini: After A Dream",
-        "url": "https://open.spotify.com/album/5iW2cWp53rs2JDCW7lbXc2"
+        "url": "https://open.spotify.com/album/149V0HZMaxjgSr4mrvwC1n"
       },
       "artists": [
         {
@@ -126,10 +150,10 @@
       ],
       "duration_ms": 324573,
       "name": "Pavane",
-      "url": "https://open.spotify.com/track/1pASaPpC5gkDDQlcZi1QKi"
+      "url": "https://open.spotify.com/track/1IdTBf0QfIvl4giLRuNOk0"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Nuove Invenzioni",
         "url": "https://open.spotify.com/album/6mPNYpx47nLYi6pekAqhoK"
@@ -153,7 +177,7 @@
       "url": "https://open.spotify.com/track/2GTQ3iVNLw90PLPVUdPE4t"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Munich Afternoon",
         "url": "https://open.spotify.com/album/2CjaV6jqeaUFGUhKx6vaoa"
@@ -177,7 +201,7 @@
       "url": "https://open.spotify.com/track/1g6WFBWZWcelqtpBoSNagG"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Quando m'en vo [From the opera \"La Boheme\"]",
         "url": "https://open.spotify.com/album/4r7wCXTSeEs79fordibgeb"
@@ -197,7 +221,7 @@
       "url": "https://open.spotify.com/track/4fDKjvddshvWecTqhkeCws"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Night Lights (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
@@ -213,7 +237,7 @@
       "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "M\u00e9nage \u00e0 trois",
         "url": "https://open.spotify.com/album/55UQ7AQ6F88cmU7SEoVNaE"
@@ -237,23 +261,31 @@
       "url": "https://open.spotify.com/track/22DgAcWnb50oKlv0F8eziW"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
-        "name": "Bach in Jazz",
-        "url": "https://open.spotify.com/album/13cHPvZSrRbNIaFlFosi2i"
+        "name": "Stephan K\u00f6nig: Bach in Jazz",
+        "url": "https://open.spotify.com/album/7AuOlhGRcKflgML8T52oDf"
       },
       "artists": [
         {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
           "name": "Stephan-K\u00f6nig-Trio",
-          "url": "https://open.spotify.com/artist/1BY8RYFS2E4KErfJuQo8n7"
+          "url": "https://open.spotify.com/artist/7G0nAtg6I4jO03h1LlihYe"
+        },
+        {
+          "name": "Stephan K\u00f6nig",
+          "url": "https://open.spotify.com/artist/5z670iMlr1eCJCKK1UoyRP"
         }
       ],
       "duration_ms": 237000,
-      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air (On a G String)",
-      "url": "https://open.spotify.com/track/4FsUPnXoCN6VSgkU6wXAwz"
+      "name": "Orchestersuite D-Dur BWV 1068: No. 3 Air (Arr. Stefan K\u00f6nig)",
+      "url": "https://open.spotify.com/track/5iVIFUBgVvatmKufC2CbVW"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Classical Jazz: Swingin' Jazz Interpretations of the Classics",
         "url": "https://open.spotify.com/album/5eiHbQCWmPTa9IqO8A3Xsn"
@@ -269,23 +301,27 @@
       "url": "https://open.spotify.com/track/2nnlowBc8ZESp1UUTEOiIx"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
-        "name": "Introducing Uri Caine - Shortlist 1992-2015",
-        "url": "https://open.spotify.com/album/2j4p7sfhVcE965eAq8YEuR"
+        "name": "Gustav Mahler in Toblach",
+        "url": "https://open.spotify.com/album/6zJn2RYauCrm284UPcHMkT"
       },
       "artists": [
         {
-          "name": "Uri Caine",
-          "url": "https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA"
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Uri Caine Ensemble",
+          "url": "https://open.spotify.com/artist/36kkRaYrdhkQ9h3XVQ7qaR"
         }
       ],
       "duration_ms": 762840,
-      "name": "Symphony No. 5 Adagietto",
-      "url": "https://open.spotify.com/track/3AGMN7ej0BFlFIy5LAvAmW"
+      "name": "Adagietto (From \"Symphony No. 5 in C-Sharp Minor\") [Live]",
+      "url": "https://open.spotify.com/track/7p5NYxs2LzmRFdlAt2kJGm"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Swinging the Classics On MPS",
         "url": "https://open.spotify.com/album/4F2ApYDxzFRvN4XN2NNAYX"
@@ -301,7 +337,7 @@
       "url": "https://open.spotify.com/track/0fCw1m9tPATGUWLZSRXvNz"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Liberetto II",
         "url": "https://open.spotify.com/album/52f8OH2v1jtqemCOI4VFvt"
@@ -329,7 +365,27 @@
       "url": "https://open.spotify.com/track/5BD9SqJecAsPUI717asNV6"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
+      "album": {
+        "name": "Cry Me a River (Arr. for Cello and Piano)",
+        "url": "https://open.spotify.com/album/76QAlWkYwv50dBTyK2VEGc"
+      },
+      "artists": [
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        },
+        {
+          "name": "Harry Baker",
+          "url": "https://open.spotify.com/artist/6Cb0nXxdjrk9nTcVXUgQvU"
+        }
+      ],
+      "duration_ms": 145253,
+      "name": "Cry Me a River (Arr. for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1uWXjkaWw8l4y5sP1wdhd4"
+    },
+    {
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Les triplettes de Belleville (Bande originale du film)",
         "url": "https://open.spotify.com/album/1HTooPlkTxGohRy43IvZ3c"
@@ -345,7 +401,7 @@
       "url": "https://open.spotify.com/track/18mefzc19revZMMDVPxMPT"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "My History of Jazz",
         "url": "https://open.spotify.com/album/7ahVUrtlbmVq29CPbt1J85"
@@ -373,7 +429,7 @@
       "url": "https://open.spotify.com/track/3JZCddd48NgLYgHvLkLylo"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Promenade from \"Pictures of an exhibition\" (Jazz Version)",
         "url": "https://open.spotify.com/album/2myvzZBserSMEddKm1b8BW"
@@ -393,30 +449,26 @@
       "url": "https://open.spotify.com/track/6fQ2GaQ3xoI35Pq2ymOKCl"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Beyond Bach, Other Composers I Adore",
-        "url": "https://open.spotify.com/album/2YSxMJokGpKxh9kc4Zj6Ro"
+        "url": "https://open.spotify.com/album/6wcn0aASsJ15iIE1a7KeC1"
       },
       "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
         {
           "name": "Jacques Loussier",
           "url": "https://open.spotify.com/artist/1VIbVO1ahhBhe1l8dEe245"
         }
       ],
       "duration_ms": 116743,
-      "name": "Nocturne No. 20 in C-sharp minor, Op. posthume",
-      "url": "https://open.spotify.com/track/7btkqjF0Jw2DopaH6wvgvD"
+      "name": "Nocturne No. 20 in C-sharp minor, Op. posthume (Arr. for Jazz Solo)",
+      "url": "https://open.spotify.com/track/641dlUcV9G6s5I9BtfKAsE"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
-        "name": "For All I Care (Exclusive Online Version)",
-        "url": "https://open.spotify.com/album/3yQwCBZDdUAljCho8QF4Ve"
+        "name": "For All I Care",
+        "url": "https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV"
       },
       "artists": [
         {
@@ -424,12 +476,12 @@
           "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
         }
       ],
-      "duration_ms": 275066,
-      "name": "Variation d'Apollon",
-      "url": "https://open.spotify.com/track/7xfirUVtWnX4xkFiTlSUbP"
+      "duration_ms": 273426,
+      "name": "Variation d\u2019Apollon",
+      "url": "https://open.spotify.com/track/4xxsj5DGpSyqpe4IwaAHkP"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "The Classical Jazz Quartet Play Rachmaninov",
         "url": "https://open.spotify.com/album/7uWekrM76prs7XHttD4IWc"
@@ -461,7 +513,7 @@
       "url": "https://open.spotify.com/track/5HvjZVl5FgrMxusRKPchBs"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "The Bandwagon",
         "url": "https://open.spotify.com/album/5XxvFw1K9lYu78ipjF8gpG"
@@ -477,10 +529,10 @@
       "url": "https://open.spotify.com/track/0Lf9AIOPZqprp67xBWbTG1"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
-        "name": "Impromptu",
-        "url": "https://open.spotify.com/album/1Tvn7vVEQu9RAaLgulrYBe"
+        "name": "Classical Jazz: Swingin' Jazz Interpretations of the Classics",
+        "url": "https://open.spotify.com/album/5eiHbQCWmPTa9IqO8A3Xsn"
       },
       "artists": [
         {
@@ -488,12 +540,12 @@
           "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
         }
       ],
-      "duration_ms": 409000,
+      "duration_ms": 405020,
       "name": "Moonlight Sonata",
-      "url": "https://open.spotify.com/track/6B7JRtfZCcZ9Ra2vISs08q"
+      "url": "https://open.spotify.com/track/0yERcLFHXV0kbdZZktZMqZ"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Piano Starts Here: Live at The Shrine Zenph Re-performance",
         "url": "https://open.spotify.com/album/2pTubaEQI3lnCTLJMh6vSy"
@@ -517,7 +569,7 @@
       "url": "https://open.spotify.com/track/0YJrQjMcj5FhD2cFQPnjpM"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Three Works For Jazz Soloists & Symphony Orchestra",
         "url": "https://open.spotify.com/album/6xxUdDL1kecVFlTJPL1750"
@@ -565,10 +617,10 @@
       "url": "https://open.spotify.com/track/0QAB177dOh8F1bafYgwBZy"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Baroqueswing Vol. II",
-        "url": "https://open.spotify.com/album/180MM5RltxV7A4JtjWFupO"
+        "url": "https://open.spotify.com/album/1YHSFT1FrYtcMrESGNs9fq"
       },
       "artists": [
         {
@@ -582,10 +634,10 @@
       ],
       "duration_ms": 223200,
       "name": "Orph\u00e9e & Eurydice: M\u00e9lodie - Arranged by Charl du Plessis",
-      "url": "https://open.spotify.com/track/3N3QAAN8Z1VKOy4GEl0Yjf"
+      "url": "https://open.spotify.com/track/7Cm2CaZc35mndY9XBfFfqD"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Plays",
         "url": "https://open.spotify.com/album/0bCQBbSG0KGv9X5pb4IQY0"
@@ -601,7 +653,7 @@
       "url": "https://open.spotify.com/track/0BLJ7JRKXTRNU5r1OiXNiL"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "The Spirio Sessions",
         "url": "https://open.spotify.com/album/2R7KLL90rj7MQZctiKbRmr"
@@ -625,7 +677,7 @@
       "url": "https://open.spotify.com/track/3V0UWSP292tAoj4SeLI5eZ"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Air",
         "url": "https://open.spotify.com/album/6Sz9JXUyd7oVAdSwY9TTA0"
@@ -649,10 +701,10 @@
       "url": "https://open.spotify.com/track/716P6XfVX13JMY17IKGeMj"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Psychicemotus",
-        "url": "https://open.spotify.com/album/5FEhFXoPdIEFU33KFf60H7"
+        "url": "https://open.spotify.com/album/4UqqaK6LJahK6O4dbSTEKP"
       },
       "artists": [
         {
@@ -662,10 +714,10 @@
       ],
       "duration_ms": 207440,
       "name": "First Gymnopedie",
-      "url": "https://open.spotify.com/track/6A5DjTiYSkelNb2QuEV4vt"
+      "url": "https://open.spotify.com/track/2U0UZHljhqhX50VbzsKo0K"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/6xcBERmDaaQkKknPMYWgKa"
@@ -685,7 +737,7 @@
       "url": "https://open.spotify.com/track/79yJzE3W5a5tTH6lZ6Sz1t"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/2Jsl2o6t5fxE90CTunCX91"
@@ -701,7 +753,7 @@
       "url": "https://open.spotify.com/track/0smHgnEPwiaUbeITveQEcg"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "The Chopin Project",
         "url": "https://open.spotify.com/album/5TcI5s6eZiAaR2f9nBsU1o"
@@ -721,7 +773,7 @@
       "url": "https://open.spotify.com/track/3KwwWYRDpF5kSwm5sFrjWa"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "The Berlin Recital \u2013 Encores",
         "url": "https://open.spotify.com/album/1gPiHxv3TKb6UFBua8nWM8"
@@ -741,10 +793,10 @@
       "url": "https://open.spotify.com/track/1DCksP8NjTjm3i0qM96xCW"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Impromptu",
-        "url": "https://open.spotify.com/album/1Tvn7vVEQu9RAaLgulrYBe"
+        "url": "https://open.spotify.com/album/59d7F7J0Ib4e2YEVWS1WQs"
       },
       "artists": [
         {
@@ -753,11 +805,11 @@
         }
       ],
       "duration_ms": 460133,
-      "name": "Clair De Lune",
-      "url": "https://open.spotify.com/track/5oEUDWZ881K3A2HH82ZIQ4"
+      "name": "Clair de Lune",
+      "url": "https://open.spotify.com/track/0kP8p4d5FIkXZicuWzXZNz"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "B-A-C-H",
         "url": "https://open.spotify.com/album/00Y9P5wIDLWoIA7rhTUqTP"
@@ -785,7 +837,7 @@
       "url": "https://open.spotify.com/track/3mxdQvIIltmVakO8btAP6P"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Classical Jazz: Swingin' Jazz Interpretations of the Classics",
         "url": "https://open.spotify.com/album/5eiHbQCWmPTa9IqO8A3Xsn"
@@ -801,7 +853,7 @@
       "url": "https://open.spotify.com/track/5gQ5aZsBSgeMccCz8TkWhd"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/4AKtbb5wCrL31mptOegyqu"
@@ -821,7 +873,7 @@
       "url": "https://open.spotify.com/track/0fZ6bKJwwEdb0zsexcqANR"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Tchaikovsky & Ellington: The Nutcracker Suites, Classical & Jazz",
         "url": "https://open.spotify.com/album/5WpLO4jvVGe7I237Jmjvcj"
@@ -845,7 +897,7 @@
       "url": "https://open.spotify.com/track/4HUYWxC3FMK9lj1fBe0lZE"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "The Last Mulberry",
         "url": "https://open.spotify.com/album/7ea33k7uNNYdTAuxPNVjpC"
@@ -881,9 +933,9 @@
       "url": "https://open.spotify.com/track/7HEv4ibZo1IWUCjHYBQI72"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
-        "name": "Parker: Ornithology (Arr. for Recorder and Ensemble)",
+        "name": "Parker: Ornithology (Arr. Horsting for Recorder and Ensemble)",
         "url": "https://open.spotify.com/album/1gi2fFJa1ablewcCparDeG"
       },
       "artists": [
@@ -901,11 +953,11 @@
         }
       ],
       "duration_ms": 170626,
-      "name": "Ornithology (Arr. for Recorder and Ensemble)",
+      "name": "Ornithology (Arr. Horsting for Recorder and Ensemble)",
       "url": "https://open.spotify.com/track/3OCeWssFnu0U02ZrrmVEkF"
     },
     {
-      "added_at": "2022-07-07 14:48:02",
+      "added_at": "2022-09-16 07:55:06",
       "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"

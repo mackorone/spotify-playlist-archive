@@ -1,12 +1,12 @@
 {
   "description": "Your favourite Christmas carols, performed and re-imagined by the world's greatest choirs.",
-  "num_followers": 21984,
+  "num_followers": 22022,
   "original_name": "Christmas Choir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg4MzYwOSwwMDAwMDAwODAwMDAwMTdkOTUxMzRiZTQwMDAwMDE3Y2ZmOWQzODcy",
+  "snapshot_id": "MTYzODg4MzYwOSwwMDAwMDAwMDJiMmQ2Y2JlZTE4MTE0OTY4ZjUyY2ZmMWU5YjQ5NGYw",
   "tracks": [
     {
       "added_at": "2020-10-27 11:02:46",
@@ -40,7 +40,7 @@
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "Winter",
-        "url": "https://open.spotify.com/album/4TE1s26Ks49JwJgXtATsm4"
+        "url": "https://open.spotify.com/album/6lS5mutdPdnySUumtZoMGI"
       },
       "artists": [
         {
@@ -53,8 +53,8 @@
         }
       ],
       "duration_ms": 311853,
-      "name": "In The Bleak Midwinter",
-      "url": "https://open.spotify.com/track/3Qq32MdNMcHyPtO77Fhcza"
+      "name": "In the Bleak Midwinter (Arr. Gjeilo)",
+      "url": "https://open.spotify.com/track/4a0npy6TddlwGKXNQI0Ixx"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -220,7 +220,7 @@
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "The Wonder of Christmas",
-        "url": "https://open.spotify.com/album/4haacqQmvY9rUIcb5HyC4J"
+        "url": "https://open.spotify.com/album/31FdebdWzsv9oGTkgIEMJP"
       },
       "artists": [
         {
@@ -232,8 +232,8 @@
           "url": "https://open.spotify.com/artist/7F9CKy8D6gXd8FWRP2DxyY"
         },
         {
-          "name": "The Elora Singers",
-          "url": "https://open.spotify.com/artist/6V3rM6AuJ8NIe35TeOiSR5"
+          "name": "Elora Festival Singers",
+          "url": "https://open.spotify.com/artist/5nT4cLeFAQJszMSk06DvDy"
         },
         {
           "name": "Noel Edison",
@@ -242,7 +242,7 @@
       ],
       "duration_ms": 206266,
       "name": "Lo, How a Rose E'er Blooming",
-      "url": "https://open.spotify.com/track/7BpEUnCvEqCULdHH4Ja3z8"
+      "url": "https://open.spotify.com/track/3BS658jjE4Os7pl8mZ1JK0"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -284,7 +284,7 @@
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "Winter Songs",
-        "url": "https://open.spotify.com/album/1m2B0Df35xza5SfLfskyB2"
+        "url": "https://open.spotify.com/album/2jFBT3xeFTFExf0p7nZPT6"
       },
       "artists": [
         {
@@ -292,13 +292,13 @@
           "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
         },
         {
-          "name": "Choir Of Royal Holloway",
-          "url": "https://open.spotify.com/artist/1AyMCUbv7CdLpPBUjKs9Mf"
+          "name": "The Choir of Royal Holloway",
+          "url": "https://open.spotify.com/artist/1vasMRKeTuE5wtYduxAETj"
         }
       ],
       "duration_ms": 275840,
       "name": "The First Nowell",
-      "url": "https://open.spotify.com/track/0G1CKUwK9u1UePpezzvFKC"
+      "url": "https://open.spotify.com/track/1QsYMRX7Ax8Rt84VlToswG"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -383,26 +383,18 @@
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
-        "name": "A Danish Christmas",
-        "url": "https://open.spotify.com/album/3qsU43BWEwZbGrYOsJVU0m"
+        "name": "Christmas Danske Julesalmer Og Sange, Vol. 1 (Danish Christmas Hymns, Vol. 1)",
+        "url": "https://open.spotify.com/album/025MVK1Uw89fXum0Mpqyme"
       },
       "artists": [
-        {
-          "name": "Johann Peter Emilius Hartmann",
-          "url": "https://open.spotify.com/artist/5K1Oq4FDLHH1IO1qpw8eR8"
-        },
-        {
-          "name": "Musica Ficta",
-          "url": "https://open.spotify.com/artist/5WKv8DLIGTPZP1QRaY6Uau"
-        },
         {
           "name": "Bo Holten",
           "url": "https://open.spotify.com/artist/4f32MH6GiPxxIsYeDl16kL"
         }
       ],
-      "duration_ms": 162440,
-      "name": "Julebudet til dem, der bygge",
-      "url": "https://open.spotify.com/track/4RczjzqIjE7kOQOUk286Z8"
+      "duration_ms": 162000,
+      "name": "Julebudet til dem, der bygge (The Christmas message) (arr. B. Holten): Julebudet til dem, der bygge.",
+      "url": "https://open.spotify.com/track/73vzfkDYSiVeNWZvaX9d5U"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -456,7 +448,7 @@
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "Favourite Carols from King's",
-        "url": "https://open.spotify.com/album/3SBTbZQLObtqqw8Zp4LjUR"
+        "url": "https://open.spotify.com/album/1g2S8YsPx59vWvDNOOI7MA"
       },
       "artists": [
         {
@@ -473,8 +465,8 @@
         }
       ],
       "duration_ms": 189053,
-      "name": "The Shepherd's Carol",
-      "url": "https://open.spotify.com/track/1PgtdNIE83A4NjTPIrhDru"
+      "name": "A Shepherd's Carol",
+      "url": "https://open.spotify.com/track/0whBlFjvsePcmtFPf5aWju"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -563,8 +555,8 @@
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
-        "name": "A Ceremony Of Carols - Britten At Christmas From King's",
-        "url": "https://open.spotify.com/album/59CBlYu3nyoc7rqb0pMY2A"
+        "name": "Britten: A Ceremony of Carols; Rejoice in the Lamb; A Boy Was Born",
+        "url": "https://open.spotify.com/album/5DJE4U0ypbrTdzFynHkWTQ"
       },
       "artists": [
         {
@@ -584,15 +576,15 @@
           "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
         }
       ],
-      "duration_ms": 78333,
+      "duration_ms": 78346,
       "name": "Ceremony of Carols, Op. 28: Balulalow",
-      "url": "https://open.spotify.com/track/0UFBuB1arDtnsmHNPFAd7N"
+      "url": "https://open.spotify.com/track/46oQBYq0GOL5qSs5zYkNjn"
     },
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "The Mystery of Christmas",
-        "url": "https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr"
+        "url": "https://open.spotify.com/album/0RqXNvldA4k444jpai59He"
       },
       "artists": [
         {
@@ -600,23 +592,23 @@
           "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
         },
         {
-          "name": "The Elora Singers",
-          "url": "https://open.spotify.com/artist/6V3rM6AuJ8NIe35TeOiSR5"
+          "name": "Elora Festival Singers",
+          "url": "https://open.spotify.com/artist/5nT4cLeFAQJszMSk06DvDy"
         },
         {
           "name": "Noel Edison",
           "url": "https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy"
         }
       ],
-      "duration_ms": 196666,
+      "duration_ms": 194546,
       "name": "A Hymn to the Virgin",
-      "url": "https://open.spotify.com/track/0NVgOr4EbHiCfYMM4WvgpA"
+      "url": "https://open.spotify.com/track/6msPPTj9EXXeUVmFugdf9I"
     },
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "A Spotless Rose",
-        "url": "https://open.spotify.com/album/0H2VJ1C6nu2zSMmNThPtS0"
+        "url": "https://open.spotify.com/album/7HM8wgdIMZn2YDw1ZNgFpG"
       },
       "artists": [
         {
@@ -634,7 +626,7 @@
       ],
       "duration_ms": 295680,
       "name": "There Is No Rose Of Swych Vertu",
-      "url": "https://open.spotify.com/track/0VEaXfuf4t4ntm683G1dJu"
+      "url": "https://open.spotify.com/track/48DKcpdi0uczUEETURtciW"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -667,8 +659,8 @@
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
-        "name": "Christmas Round The World",
-        "url": "https://open.spotify.com/album/556nIItNBfo4hLmYzVfgrd"
+        "name": "Christmas round the World",
+        "url": "https://open.spotify.com/album/6fso1yYWRNuBBTy6QP84pU"
       },
       "artists": [
         {
@@ -686,13 +678,13 @@
       ],
       "duration_ms": 144253,
       "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/1m3O1VbEvRwgUqRmmF1PDa"
+      "url": "https://open.spotify.com/track/2yPS64A0RTxlpzDq1EJDID"
     },
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
-        "name": "Christmas: Bach Choir - Family Carols",
-        "url": "https://open.spotify.com/album/2S5YRNzmP6c3cWtjhleQkj"
+        "name": "Family Carols",
+        "url": "https://open.spotify.com/album/3vpDE7jvPxkRvze9kNNLIB"
       },
       "artists": [
         {
@@ -700,25 +692,29 @@
           "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
+          "name": "Sir David Willcocks",
+          "url": "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
+        },
+        {
           "name": "The Bach Choir",
           "url": "https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM"
         },
         {
-          "name": "Royal Military School Of Music Ceremonial Trumpets",
-          "url": "https://open.spotify.com/artist/5WNJ51xDorHpBmIkeM5VK6"
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "Fanfare Trumpeters of the Royal Military School of Music, Kneller Hall",
+          "url": "https://open.spotify.com/artist/1ObosRcS4T19ROUW5f1EjT"
         },
         {
           "name": "The Graham Ashton Brass Ensemble",
           "url": "https://open.spotify.com/artist/0FZ5xFx2hLUeRvvtBYHOex"
-        },
-        {
-          "name": "Sir David Willcocks",
-          "url": "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
         }
       ],
       "duration_ms": 91000,
-      "name": "We Wish You a Merry Christmas: A Merry Christmas (Arr. A. Warrell for choir)",
-      "url": "https://open.spotify.com/track/7raN5xL6fksTmUmkPsbP2N"
+      "name": "A Merry Christmas",
+      "url": "https://open.spotify.com/track/3c9frOgwdTM7TGUrG8ZQlB"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -756,7 +752,7 @@
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "Star Over Bethlehem: Choral Jewels for Christmas",
-        "url": "https://open.spotify.com/album/7FTJFh9mSOrBn5i8SsmqLm"
+        "url": "https://open.spotify.com/album/6Jb9ELSqMBjepVEm0Sqn0I"
       },
       "artists": [
         {
@@ -782,7 +778,7 @@
       ],
       "duration_ms": 172666,
       "name": "A Spotless Rose",
-      "url": "https://open.spotify.com/track/6KYDbLBKkmN8JKbdKh7huv"
+      "url": "https://open.spotify.com/track/3uIJxoc2UXe6wSYBeD5hGu"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -819,30 +815,18 @@
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
-        "name": "A Danish Christmas",
-        "url": "https://open.spotify.com/album/3qsU43BWEwZbGrYOsJVU0m"
+        "name": "Christmas Danske Julesalmer Og Sange, Vol. 1 (Danish Christmas Hymns, Vol. 1)",
+        "url": "https://open.spotify.com/album/025MVK1Uw89fXum0Mpqyme"
       },
       "artists": [
-        {
-          "name": "Peter Erasmus Lange-Muller",
-          "url": "https://open.spotify.com/artist/3t7cjTu6nv6aIttnHn4aaH"
-        },
-        {
-          "name": "Anne Mette Balling",
-          "url": "https://open.spotify.com/artist/2U5godqDDDSv9pqVbvOFvs"
-        },
-        {
-          "name": "Musica Ficta",
-          "url": "https://open.spotify.com/artist/5WKv8DLIGTPZP1QRaY6Uau"
-        },
         {
           "name": "Bo Holten",
           "url": "https://open.spotify.com/artist/4f32MH6GiPxxIsYeDl16kL"
         }
       ],
-      "duration_ms": 176826,
-      "name": "Gammel julesang",
-      "url": "https://open.spotify.com/track/3yNfSuueSuY2AYBIGVRuvJ"
+      "duration_ms": 180360,
+      "name": "Gammel julesang (Old Christmas Song): Gammel julesang.",
+      "url": "https://open.spotify.com/track/3Tbt6181M7v8rkA1gzo2Qc"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -872,9 +856,13 @@
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "Christmas Carols From Tewkesbury Abbey",
-        "url": "https://open.spotify.com/album/31uwWoSYGLBuRh9kWdmn4K"
+        "url": "https://open.spotify.com/album/1BCTTrLVeS68wGHvkj3zag"
       },
       "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
         {
           "name": "Traditional",
           "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
@@ -888,9 +876,9 @@
           "url": "https://open.spotify.com/artist/2Q4Ge9DEARr3PU0lCHb6kz"
         }
       ],
-      "duration_ms": 180933,
-      "name": "The Truth from Above (Arr. R.V. Williams)",
-      "url": "https://open.spotify.com/track/1VvBzbkNq1DcqhXR4XLEUJ"
+      "duration_ms": 184000,
+      "name": "The Truth From Above (arr. R.V. Williams)",
+      "url": "https://open.spotify.com/track/7j9scuNhYqSWassnA3hfw9"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -920,7 +908,7 @@
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "Star Over Bethlehem: Choral Jewels for Christmas",
-        "url": "https://open.spotify.com/album/7FTJFh9mSOrBn5i8SsmqLm"
+        "url": "https://open.spotify.com/album/6Jb9ELSqMBjepVEm0Sqn0I"
       },
       "artists": [
         {
@@ -942,13 +930,13 @@
       ],
       "duration_ms": 214333,
       "name": "Babe of Bethlehem",
-      "url": "https://open.spotify.com/track/26xDHbBu6uTFXp3mQ0rhTx"
+      "url": "https://open.spotify.com/track/21pVHjftN16N4yyeUr77Qc"
     },
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "Winter",
-        "url": "https://open.spotify.com/album/4TE1s26Ks49JwJgXtATsm4"
+        "url": "https://open.spotify.com/album/6lS5mutdPdnySUumtZoMGI"
       },
       "artists": [
         {
@@ -962,7 +950,7 @@
       ],
       "duration_ms": 174360,
       "name": "Balulalow",
-      "url": "https://open.spotify.com/track/3wxqOA0cFQcxKJUPg5aUln"
+      "url": "https://open.spotify.com/track/2MZRlB5WEIaUWKNPDSZ3pr"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -996,7 +984,7 @@
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "No\u00ebl baroque",
-        "url": "https://open.spotify.com/album/6DTVHCioBoyoOyIlVHOZLh"
+        "url": "https://open.spotify.com/album/1kwtB2zKgJ5JLTJYQx9pWD"
       },
       "artists": [
         {
@@ -1020,15 +1008,15 @@
           "url": "https://open.spotify.com/artist/0N5s1R0xem7sYxgCykIaFJ"
         }
       ],
-      "duration_ms": 244320,
+      "duration_ms": 243306,
       "name": "Quand Dieu naquit \u00e0 No\u00ebl",
-      "url": "https://open.spotify.com/track/6tS6FhWXiso2VCfDT0jAuu"
+      "url": "https://open.spotify.com/track/1IJ6HQDv50SSKiEslDMjxI"
     },
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "O Holy Night: A Merton Christmas",
-        "url": "https://open.spotify.com/album/3Mp87Ig3TjDIq6rItkzDd6"
+        "url": "https://open.spotify.com/album/3sw3aksNFOX4Sx087rl1sB"
       },
       "artists": [
         {
@@ -1049,14 +1037,14 @@
         }
       ],
       "duration_ms": 172691,
-      "name": "Shepherd's Pipe Carol",
-      "url": "https://open.spotify.com/track/5Cwhnz5p5JewVb6t5DlXgq"
+      "name": "Shepherd\u2019s Pipe Carol",
+      "url": "https://open.spotify.com/track/5N3dbg5YS68VT51aMZCskk"
     },
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
-        "name": "The Colours Of Christmas",
-        "url": "https://open.spotify.com/album/3GEd4voPN8iSGzkt4XzWFL"
+        "name": "The Colors Of Christmas",
+        "url": "https://open.spotify.com/album/4kz8WSD8aDnYjOwaiXvSYr"
       },
       "artists": [
         {
@@ -1078,13 +1066,13 @@
       ],
       "duration_ms": 149946,
       "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/69B0tVTpyCbYIbVQKVj5Mi"
+      "url": "https://open.spotify.com/track/4vhMp985sB2tXWd3gW9vUe"
     },
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "Veni Domine: Advent & Christmas At The Sistine Chapel",
-        "url": "https://open.spotify.com/album/6yGhhTdTl3rZSIBNonU2TT"
+        "url": "https://open.spotify.com/album/1KkwB5ixbFr8sNpYOkiVEY"
       },
       "artists": [
         {
@@ -1102,7 +1090,7 @@
       ],
       "duration_ms": 261653,
       "name": "\"Nasceris, alme puer\"",
-      "url": "https://open.spotify.com/track/21XFOSb2keHZmdLYe14Css"
+      "url": "https://open.spotify.com/track/6aOHGZpBKzoqxhoCsA48Kc"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -1117,7 +1105,7 @@
         },
         {
           "name": "David Quinn",
-          "url": "https://open.spotify.com/artist/5FODVnlBocGxKKHstECQxA"
+          "url": "https://open.spotify.com/artist/5tduvKEzR134ALeSJ35AZr"
         }
       ],
       "duration_ms": 199160,
@@ -1127,26 +1115,18 @@
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
-        "name": "A Danish Christmas",
-        "url": "https://open.spotify.com/album/3qsU43BWEwZbGrYOsJVU0m"
+        "name": "Christmas Danske Julesalmer Og Sange, Vol. 1 (Danish Christmas Hymns, Vol. 1)",
+        "url": "https://open.spotify.com/album/025MVK1Uw89fXum0Mpqyme"
       },
       "artists": [
-        {
-          "name": "Johann Peter Emilius Hartmann",
-          "url": "https://open.spotify.com/artist/5K1Oq4FDLHH1IO1qpw8eR8"
-        },
-        {
-          "name": "Musica Ficta",
-          "url": "https://open.spotify.com/artist/5WKv8DLIGTPZP1QRaY6Uau"
-        },
         {
           "name": "Bo Holten",
           "url": "https://open.spotify.com/artist/4f32MH6GiPxxIsYeDl16kL"
         }
       ],
-      "duration_ms": 163160,
-      "name": "Blomstre som en roseng\u00e5rd",
-      "url": "https://open.spotify.com/track/7epvartD3aZKAjokTUDiKF"
+      "duration_ms": 164160,
+      "name": "Blomstre som en rosengard (Like a Rose Garden) (arr. B. Holten and B. Kallenbach): Blomstre som en roseng\u00e5rd.",
+      "url": "https://open.spotify.com/track/0mqY0MfInwX5FmkC4GsNEQ"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -1184,7 +1164,7 @@
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "Veni Domine: Advent & Christmas At The Sistine Chapel",
-        "url": "https://open.spotify.com/album/6yGhhTdTl3rZSIBNonU2TT"
+        "url": "https://open.spotify.com/album/1KkwB5ixbFr8sNpYOkiVEY"
       },
       "artists": [
         {
@@ -1202,13 +1182,13 @@
       ],
       "duration_ms": 303480,
       "name": "Motet \"Quem vidistis, pastores - Dicite, quidnam vidistis\"",
-      "url": "https://open.spotify.com/track/3yYsjvrLXnmN2eYK6IxLkO"
+      "url": "https://open.spotify.com/track/55b3aiMevY767XgXx0Mucs"
     },
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "A Winter's Light: A Christmas Collection",
-        "url": "https://open.spotify.com/album/1AzqBGmKqvkaBpZ6raPpjc"
+        "url": "https://open.spotify.com/album/5Mdv6Guj9j0nOqDGPV4KN4"
       },
       "artists": [
         {
@@ -1226,13 +1206,13 @@
       ],
       "duration_ms": 144986,
       "name": "The Stable Door",
-      "url": "https://open.spotify.com/track/3bwKcXjfeAB5CX6vbUBuJG"
+      "url": "https://open.spotify.com/track/0AkU2CTTrrLxTWqhzCdfkO"
     },
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "Light & Gold",
-        "url": "https://open.spotify.com/album/53wCzwNmrSEJwAQJMrGlLT"
+        "url": "https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS"
       },
       "artists": [
         {
@@ -1246,13 +1226,13 @@
       ],
       "duration_ms": 255773,
       "name": "Lux Aurumque",
-      "url": "https://open.spotify.com/track/1okViGDW2p7kUAYaoL2CGa"
+      "url": "https://open.spotify.com/track/5bUdtdODnRPeQpmMoqhvVY"
     },
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "Favourite Carols from King's",
-        "url": "https://open.spotify.com/album/3SBTbZQLObtqqw8Zp4LjUR"
+        "url": "https://open.spotify.com/album/1g2S8YsPx59vWvDNOOI7MA"
       },
       "artists": [
         {
@@ -1260,17 +1240,21 @@
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         },
         {
-          "name": "Parker Ramsay",
-          "url": "https://open.spotify.com/artist/5ForLHbyCPMNAICPCv1oeb"
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
         },
         {
           "name": "Stephen Cleobury",
           "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        },
+        {
+          "name": "Parker Ramsay",
+          "url": "https://open.spotify.com/artist/5ForLHbyCPMNAICPCv1oeb"
         }
       ],
       "duration_ms": 274280,
       "name": "All Bells in Paradise",
-      "url": "https://open.spotify.com/track/43QhBswmugTj3S82i3u6WY"
+      "url": "https://open.spotify.com/track/4MnrR7TxzlrRB0lEu8nH1j"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -1328,7 +1312,7 @@
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "Star Over Bethlehem: Choral Jewels for Christmas",
-        "url": "https://open.spotify.com/album/7FTJFh9mSOrBn5i8SsmqLm"
+        "url": "https://open.spotify.com/album/6Jb9ELSqMBjepVEm0Sqn0I"
       },
       "artists": [
         {
@@ -1346,7 +1330,7 @@
       ],
       "duration_ms": 231733,
       "name": "Here We Come a-Wassailing (Arr. J. Rutter)",
-      "url": "https://open.spotify.com/track/1HE31bK2mDWeuYl2HfiOT0"
+      "url": "https://open.spotify.com/track/7BxvLyq7Tb0QRZ7psPt4rp"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -1400,7 +1384,7 @@
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "The Mystery of Christmas",
-        "url": "https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr"
+        "url": "https://open.spotify.com/album/0RqXNvldA4k444jpai59He"
       },
       "artists": [
         {
@@ -1408,17 +1392,21 @@
           "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
-          "name": "The Elora Singers",
-          "url": "https://open.spotify.com/artist/6V3rM6AuJ8NIe35TeOiSR5"
+          "name": "Sir Malcolm Sargent",
+          "url": "https://open.spotify.com/artist/4FVncYpcoiyS5lY2ElwtK8"
+        },
+        {
+          "name": "Elora Festival Singers",
+          "url": "https://open.spotify.com/artist/5nT4cLeFAQJszMSk06DvDy"
         },
         {
           "name": "Noel Edison",
           "url": "https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy"
         }
       ],
-      "duration_ms": 200426,
-      "name": "Star in the South",
-      "url": "https://open.spotify.com/track/2HxO75cQo1QyBf3rI5dz6b"
+      "duration_ms": 199040,
+      "name": "Star in the South (arr. Malcolm Sargent)",
+      "url": "https://open.spotify.com/track/4jjSKbfgSdtFeKYyJBlGgH"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -1440,7 +1428,7 @@
       "added_at": "2020-10-27 11:02:46",
       "album": {
         "name": "Veni Domine: Advent & Christmas At The Sistine Chapel",
-        "url": "https://open.spotify.com/album/6yGhhTdTl3rZSIBNonU2TT"
+        "url": "https://open.spotify.com/album/1KkwB5ixbFr8sNpYOkiVEY"
       },
       "artists": [
         {
@@ -1461,8 +1449,8 @@
         }
       ],
       "duration_ms": 228066,
-      "name": "\"Beata viscera Mariae Virginis\"",
-      "url": "https://open.spotify.com/track/5zOCleN9xd7Tqr6i2yVuOJ"
+      "name": "Beata viscera Mariae Virginis",
+      "url": "https://open.spotify.com/track/4lRPKLzo7ZhHteXI2454UB"
     },
     {
       "added_at": "2020-10-27 11:02:46",
@@ -1563,8 +1551,8 @@
     {
       "added_at": "2020-10-27 11:02:46",
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+        "name": "Frozen (Original Score)",
+        "url": "https://open.spotify.com/album/7o2waKdsh4gVGgb0KgQlc0"
       },
       "artists": [
         {
@@ -1574,7 +1562,7 @@
       ],
       "duration_ms": 85600,
       "name": "Heimr \u00c0rnadalr - From \"Frozen\"/Score",
-      "url": "https://open.spotify.com/track/0BVJL3uKlVSjTF6dclucdt"
+      "url": "https://open.spotify.com/track/38J7vmkCIvTtnP6Zd5bnuU"
     },
     {
       "added_at": "2020-10-27 11:02:46",

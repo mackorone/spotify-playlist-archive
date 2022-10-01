@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4bGuyvrKl5.md) - [plain]
 
 ### [Rebecca & Fiona DJ Mix: Diamond Droppin Rave Spring Mix ](https://open.spotify.com/playlist/37i9dQZF1DXa4bGuyvrKl5)
 
-> Swedish house icons <a href ="spotify:artist:6rgEPiKjowlMKZC1DF6W75">Rebecca & Fiona</a> kicking off rave season with their gem filled spring mix!
+> Swedish house icons <a href="spotify:artist:6rgEPiKjowlMKZC1DF6W75">Rebecca & Fiona</a> kicking off rave season with their gem filled spring mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 890 likes - 15 songs - 57 min 31 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,523 likes - 15 songs - 57 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4bGuyvrKl5.md) - [plain]
 | 14 | [Come On \- Mixed](https://open.spotify.com/track/70whn106RAuxCd949WV8gw) | [Sam Akers](https://open.spotify.com/artist/0AwujcjMYhaCJ5pyMstX4F) | [Come On \(Mixed\)](https://open.spotify.com/album/1vNiHCPpSm2DrhyBfRO8YO) | 4:49 |
 | 15 | [Sweetest Delight \- DJ City Remix \- Mixed](https://open.spotify.com/track/76MKwYQhindFzqvpE20gB4) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [DJ CITY](https://open.spotify.com/artist/52c8wOVJiBoVy5csR9SSWj) | [Sweetest Delight \- DJ City Remix \(Mixed\)](https://open.spotify.com/album/1DVh6qIDSlQMs5TAEjMcRU) | 4:08 |
 
-Snapshot ID: `MTY1MTY0NDUzNCwwMDAwMDAwNTAwMDAwMTgwOGRhZjhmNDQwMDAwMDE3ZmY4ZWE5MTA5`
+Snapshot ID: `MTY2MDY2MTA1OSwwMDAwMDAwMDZmZjU2Nzc5ZmJmMzY5NWI3ZWI3MDFiZWI5NGI3ZGU3`

@@ -4,14 +4,15 @@
 
 > From the past to the present, soul music has evolved into many different sounds and Motown has been at the forefront.
 
-31 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/3cK9yg3609ko0saEs1Ekc8)
+34 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/3cK9yg3609ko0saEs1Ekc8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't No Mountain High Enough \- Single Version](https://open.spotify.com/track/0yLchb1kn0jtEgIRtoTCwq) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2fRnRS1s58KLndlxOi8c36) | 6:20 | 2019-06-14 |  |
 | [All Night Long](https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [In My House](https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF) | 5:43 | 2019-06-14 |  |
 | [Angel](https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1) | [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [BEcoming](https://open.spotify.com/album/49eOVYOGoUjNjgyplB6JJF) | 3:05 | 2019-06-14 |  |
-| [Baby, I'm For Real](https://open.spotify.com/track/3E9zYordfTyoCQbLpTgB94) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Motown Gold](https://open.spotify.com/album/2T5DSQcR2CrhLjAiRxE8nv) | 3:14 | 2019-06-14 |  |
+| [Baby, I'm For Real](https://open.spotify.com/track/3E9zYordfTyoCQbLpTgB94) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Motown Gold](https://open.spotify.com/album/2T5DSQcR2CrhLjAiRxE8nv) | 3:14 | 2019-06-14 | 2022-07-29 |
+| [Baby, I'm For Real](https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Baby, I'm For Real](https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn) | 3:21 | 2019-06-14 |  |
 | [Cloud Nine](https://open.spotify.com/track/1A8gqfrso63AC4XVW6DTTw) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Cloud Nine](https://open.spotify.com/album/5ETcOu2ITbVLilnw3QQqSX) | 3:31 | 2019-06-14 |  |
 | [Come And Get These Memories](https://open.spotify.com/track/5gwvsIrTVL4F76tn9xEhQ3) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Come And Get These Memories](https://open.spotify.com/album/6jOw3nHWwnbF7eKW9yxfY4) | 2:23 | 2019-06-14 |  |
 | [Dial My Heart](https://open.spotify.com/track/3qWBa4EpvVlnCvbNUYR4RP) | [The Boys](https://open.spotify.com/artist/4skTgMZnk2EvSwYMo9Eu73) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 4:23 | 2019-06-14 |  |
@@ -32,8 +33,10 @@
 | [Motownphilly](https://open.spotify.com/track/3PqhQ5G24At0yDQuJBLZjT) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO) | 3:55 | 2019-06-14 |  |
 | [Reach Out I'll Be There \- Single Version / Mono](https://open.spotify.com/track/0PpamSdfQzIAvj5OB9Bz54) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Essential Collection: Four Tops](https://open.spotify.com/album/6f0YDFC5WfPHvqhLdJyZm8) | 3:02 | 2019-06-14 |  |
 | [Shop Around](https://open.spotify.com/track/47IRIQxGDe2Sc6F4pe2FMf) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Hi We're The Miracles](https://open.spotify.com/album/2fvokJVgfNIjWbGzudJQfT) | 2:50 | 2019-06-14 |  |
-| [Shotgun](https://open.spotify.com/track/6VzM9C7CXyn1BQdgTJVqDx) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/4aDsONCBMpZ6AAjZctYEYS) | 2:56 | 2019-06-14 |  |
-| [Square Biz](https://open.spotify.com/track/5lAH3vLN4Gc3jDM25cMIgH) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [20th Century Masters: The Millennium Collection: Best of Teena Marie](https://open.spotify.com/album/7rBP3Z4FX95gFPTXgs4MMo) | 6:25 | 2019-06-14 |  |
+| [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 | 2019-06-14 |  |
+| [Shotgun](https://open.spotify.com/track/6VzM9C7CXyn1BQdgTJVqDx) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/4aDsONCBMpZ6AAjZctYEYS) | 2:56 | 2019-06-14 | 2022-07-29 |
+| [Square Biz](https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Best Of/20th Century](https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7) | 6:23 | 2019-06-14 |  |
+| [Square Biz](https://open.spotify.com/track/5lAH3vLN4Gc3jDM25cMIgH) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [20th Century Masters: The Millennium Collection: Best of Teena Marie](https://open.spotify.com/album/7rBP3Z4FX95gFPTXgs4MMo) | 6:25 | 2019-06-14 | 2022-07-29 |
 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 | 2019-06-14 |  |
 | [The Love You Save](https://open.spotify.com/track/2dYdai0GywuwYq6blSwDBV) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 3:01 | 2019-06-14 |  |
 | [Turnin' Me Up](https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:29 | 2019-06-14 |  |

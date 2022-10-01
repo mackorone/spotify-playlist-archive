@@ -80,6 +80,32 @@
     },
     {
       "album": {
+        "name": "At What Cost",
+        "url": "https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX"
+      },
+      "artists": [
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176702,
+      "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
+      "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
+    },
+    {
+      "album": {
         "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
         "url": "https://open.spotify.com/album/4Ysy1MEXCD5HjO0VBDfBgj"
       },
@@ -99,10 +125,36 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177406,
       "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
       "url": "https://open.spotify.com/track/3jEtESxn2ngF25DMD6vbBg"
+    },
+    {
+      "album": {
+        "name": "telefone",
+        "url": "https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Raury",
+          "url": "https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ"
+        },
+        {
+          "name": "Cam O'bi",
+          "url": "https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Diddy Bop",
+      "url": "https://open.spotify.com/track/3M0XJE3zuyOKksK7wIOxNN"
     },
     {
       "album": {
@@ -125,10 +177,32 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 208000,
       "name": "Diddy Bop (feat. Cam O'bi & Raury)",
       "url": "https://open.spotify.com/track/6JvfBzqZmSiEG5MjM7OcSY"
+    },
+    {
+      "album": {
+        "name": "No Rain No Flowers",
+        "url": "https://open.spotify.com/album/0Ph5bjjYkVRIGlZpLDhYpw"
+      },
+      "artists": [
+        {
+          "name": "Ant Beale",
+          "url": "https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH"
+        },
+        {
+          "name": "Charlie Heat",
+          "url": "https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193518,
+      "name": "Dirty Taurus",
+      "url": "https://open.spotify.com/track/1mXnMM0ZW8xv0TOHSyM0MH"
     },
     {
       "album": {
@@ -143,10 +217,28 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193593,
       "name": "Dirty Taurus",
       "url": "https://open.spotify.com/track/5HvvNQEd62bveJqT1raHbw"
+    },
+    {
+      "album": {
+        "name": "The Vibe Is Heavy 2",
+        "url": "https://open.spotify.com/album/2aQjvAzM4IB2Ko5oLrXdCz"
+      },
+      "artists": [
+        {
+          "name": "Tdot illdude",
+          "url": "https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Don't Knock on My Door",
+      "url": "https://open.spotify.com/track/0CaY5hpcqHCQgOZI0Vpv5O"
     },
     {
       "album": {
@@ -161,7 +253,7 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216666,
       "name": "Don't Knock On My Door",
       "url": "https://open.spotify.com/track/0MIpa4KMqDwigRcMi8uXdD"
@@ -183,10 +275,32 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197170,
       "name": "Everyday We Lit",
       "url": "https://open.spotify.com/track/40Hf6BV0EugJhs6BgzG35Q"
+    },
+    {
+      "album": {
+        "name": "Long Live Nut",
+        "url": "https://open.spotify.com/album/19EwdZNJYi92XMSKEyhnO9"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197170,
+      "name": "Everyday We Lit (feat. PnB Rock)",
+      "url": "https://open.spotify.com/track/3J8Q6aBhjpvao8BsBQ6H9Y"
     },
     {
       "album": {
@@ -277,10 +391,28 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221538,
       "name": "Magic Mirror (Bonus Track)",
       "url": "https://open.spotify.com/track/6ySneHE2k64QKnBAqfUkAA"
+    },
+    {
+      "album": {
+        "name": "Black Noise",
+        "url": "https://open.spotify.com/album/5piR3MTiPBRSqAKBT5hu5t"
+      },
+      "artists": [
+        {
+          "name": "Kirk Knight",
+          "url": "https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Magic Mirror - Bonus Track",
+      "url": "https://open.spotify.com/track/1mafRFlR1Ff0qyRQ4M7bqF"
     },
     {
       "album": {
@@ -321,10 +453,28 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159934,
       "name": "Now You Know",
       "url": "https://open.spotify.com/track/5oEahjzzZOvnRCf5T2bG7m"
+    },
+    {
+      "album": {
+        "name": "FLYTRAP",
+        "url": "https://open.spotify.com/album/6wxguuGgaW0apsmY0kHzL7"
+      },
+      "artists": [
+        {
+          "name": "CJ Fly",
+          "url": "https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159934,
+      "name": "Now You Know",
+      "url": "https://open.spotify.com/track/66ZYkvUCgrgJFXZ8LlTWCZ"
     },
     {
       "album": {
@@ -397,10 +547,28 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241841,
       "name": "Reflex",
       "url": "https://open.spotify.com/track/0DpQ59d7bDBrdyHg7VTFpM"
+    },
+    {
+      "album": {
+        "name": "Collection One",
+        "url": "https://open.spotify.com/album/6SInUyQqx0RZaVTSEioHkD"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241841,
+      "name": "Reflex",
+      "url": "https://open.spotify.com/track/2HhJ0b1AwX5Vgcnf3zzx1p"
     },
     {
       "album": {

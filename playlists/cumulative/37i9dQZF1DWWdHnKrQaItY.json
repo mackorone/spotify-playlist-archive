@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "Best Friends Forever (Single Version)",
+        "url": "https://open.spotify.com/album/1E0ZOLgPgswwxXp9kwEFE7"
+      },
+      "artists": [
+        {
+          "name": "Regurgitator's Pogogo Show",
+          "url": "https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111013,
+      "name": "Best Friends Forever - Single Version",
+      "url": "https://open.spotify.com/track/0gLE9Q4nLeG6oDlQRJ0QOo"
+    },
+    {
+      "album": {
         "name": "Best Friends Forever",
         "url": "https://open.spotify.com/album/5FOSwa1tus2IZEHABA05u7"
       },
@@ -59,10 +77,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 111068,
       "name": "Best Friends Forever - Single Version",
       "url": "https://open.spotify.com/track/0v2xEadRgNFT7INr6t5YT4"
+    },
+    {
+      "album": {
+        "name": "Dance, Move & Groove!",
+        "url": "https://open.spotify.com/album/0pDk4yAlwOyU5iE3WUO4N9"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135789,
+      "name": "Big Band Blippi",
+      "url": "https://open.spotify.com/track/011HN8h0MgO6h26EayHjc4"
     },
     {
       "album": {
@@ -77,7 +113,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135789,
       "name": "Big Band Blippi",
       "url": "https://open.spotify.com/track/75tmDo7sHg0VXCAihsKC8q"
@@ -102,6 +138,24 @@
     },
     {
       "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206440,
+      "name": "Boy With Luv",
+      "url": "https://open.spotify.com/track/7GZmO8tmQ1MAskqokLzsFN"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP Party Playlist!",
         "url": "https://open.spotify.com/album/1o4U9tfc2fN94WJ4kRrUE9"
       },
@@ -113,7 +167,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206493,
       "name": "Boy With Luv",
       "url": "https://open.spotify.com/track/5qYFV3xGkdKrIWr45QCxoQ"
@@ -131,10 +185,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150008,
       "name": "Bunny Hop",
       "url": "https://open.spotify.com/track/4ALGayAi9P281f71KCxo7T"
+    },
+    {
+      "album": {
+        "name": "Shake It Up",
+        "url": "https://open.spotify.com/album/4ebzMDMuPUQx53NkRxzT6J"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150008,
+      "name": "Bunny Hop",
+      "url": "https://open.spotify.com/track/7K44meuixBWcunotVpdwJf"
     },
     {
       "album": {
@@ -203,10 +275,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 78853,
       "name": "Dance to Your Daddy",
       "url": "https://open.spotify.com/track/5TR9IJBjpxx2eVrkks0Vu7"
+    },
+    {
+      "album": {
+        "name": "Taking Off!",
+        "url": "https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78947,
+      "name": "Dance to Your Daddy",
+      "url": "https://open.spotify.com/track/3Q5Qi7wr74JGzcG7JRGpb4"
     },
     {
       "album": {
@@ -221,7 +311,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 79000,
       "name": "Dancing with the Sharks",
       "url": "https://open.spotify.com/track/27jXedxbm2KFVUGtEoZ09a"
@@ -257,10 +347,46 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 113880,
       "name": "Do the Propeller!",
       "url": "https://open.spotify.com/track/3bylEU4KBzUSDd1sbSrBJs"
+    },
+    {
+      "album": {
+        "name": "Taking Off!",
+        "url": "https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114211,
+      "name": "Do the Propeller!",
+      "url": "https://open.spotify.com/track/77GQOehkChjV2fUWV4OmNf"
+    },
+    {
+      "album": {
+        "name": "Taking Off!",
+        "url": "https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132088,
+      "name": "Dorothy's Dance Party",
+      "url": "https://open.spotify.com/track/0YTFQsygHGEcBz7dkkuHRJ"
     },
     {
       "album": {
@@ -275,7 +401,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133866,
       "name": "Dorothy's Dance Party",
       "url": "https://open.spotify.com/track/4r5msUZmWaKDyTcf0yFfyy"
@@ -293,7 +419,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 59640,
       "name": "Dorothy's Dance Party (Introduction)",
       "url": "https://open.spotify.com/track/4m9zQvWjrjyTA6uosCW01u"
@@ -412,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Wiggle Time!",
+        "url": "https://open.spotify.com/album/2J9sgiEk6WX2RMY3k30cVv"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125333,
+      "name": "Get Ready to Wiggle",
+      "url": "https://open.spotify.com/track/0O0pn82JUSSDzZvvqQCalX"
+    },
+    {
+      "album": {
         "name": "Taking Off",
         "url": "https://open.spotify.com/album/4HjuufrtTlDhHH6iuMPnYJ"
       },
@@ -423,7 +567,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 125733,
       "name": "Get Ready to Wiggle",
       "url": "https://open.spotify.com/track/7BrLOVBmmuEo2xCwsvE5EA"
@@ -441,10 +585,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135897,
       "name": "Get The Wiggles Out",
       "url": "https://open.spotify.com/track/3ih1RKNm08fJDG92AVd8ln"
+    },
+    {
+      "album": {
+        "name": "Dance, Move & Groove!",
+        "url": "https://open.spotify.com/album/0pDk4yAlwOyU5iE3WUO4N9"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135897,
+      "name": "Get The Wiggles Out",
+      "url": "https://open.spotify.com/track/5kz0I5eAnc908Gxv8MMwKf"
     },
     {
       "album": {
@@ -513,10 +675,32 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 90226,
       "name": "Happy Tappin' with Elmo",
       "url": "https://open.spotify.com/track/1vabQAO370qU6hTvzDGkQZ"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Elmo's Dance Party",
+        "url": "https://open.spotify.com/album/0U8c4uToAUcfvPVvnQQUH1"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90373,
+      "name": "Happy Tappin' with Elmo",
+      "url": "https://open.spotify.com/track/15MSguIhOLq9qEphs2bIE1"
     },
     {
       "album": {
@@ -571,10 +755,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 68221,
       "name": "I Just Want to Dance",
       "url": "https://open.spotify.com/track/7uGObyP7bodsd9DrJ6LtwK"
+    },
+    {
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68221,
+      "name": "I Just Want to Dance",
+      "url": "https://open.spotify.com/track/6pWIvwHHAW8uOclWErysdw"
     },
     {
       "album": {
@@ -589,10 +791,58 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202586,
       "name": "I'm Gonna Catch You",
       "url": "https://open.spotify.com/track/7iQ0LPpCjATFwuMrTYzJeh"
+    },
+    {
+      "album": {
+        "name": "Under A Shady Tree",
+        "url": "https://open.spotify.com/album/6f7pFWEwVTTivCKpD9F54q"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "I'm Gonna Catch You",
+      "url": "https://open.spotify.com/track/4IW9N2bPYoIaFH4QwkW9Ib"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Kids' Favorite Songs 2",
+        "url": "https://open.spotify.com/album/16aAKJ6cx1nA0S15UTyEJm"
+      },
+      "artists": [
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Oscar the Grouch",
+          "url": "https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9"
+        },
+        {
+          "name": "The Sesame Street Kids",
+          "url": "https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151996,
+      "name": "If You're Happy and You Know It",
+      "url": "https://open.spotify.com/track/6di5gMpHQIvHezmekFG3BK"
     },
     {
       "album": {
@@ -611,10 +861,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151996,
       "name": "If You\u2019re Happy And You Know It",
       "url": "https://open.spotify.com/track/5GppFsE03nmnaUha3yyIwH"
+    },
+    {
+      "album": {
+        "name": "Taking Off!",
+        "url": "https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59534,
+      "name": "Introduction VII",
+      "url": "https://open.spotify.com/track/5Sle8jGZo4yVIu73PabtnC"
     },
     {
       "album": {
@@ -773,10 +1041,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203773,
       "name": "Let\u2019s Move! Dance Party",
       "url": "https://open.spotify.com/track/2qPEiuO3w4iho9YY8B0KMW"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 2",
+        "url": "https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Let\u2019s Move! Dance Party",
+      "url": "https://open.spotify.com/track/78VhKIYlWIn72RqRSY85kM"
     },
     {
       "album": {
@@ -856,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Kidz Bop 21",
+        "url": "https://open.spotify.com/album/272fQpCPOG9CcFHXs7dZyd"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "Party Rock Anthem",
+      "url": "https://open.spotify.com/track/2oNJsgvVdw5YSqhn91p9Ta"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP Party Playlist!",
         "url": "https://open.spotify.com/album/1o4U9tfc2fN94WJ4kRrUE9"
       },
@@ -867,7 +1171,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206866,
       "name": "Party Rock Anthem",
       "url": "https://open.spotify.com/track/6ENFVzTMN4kaVFMHNu5rLC"
@@ -957,10 +1261,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208266,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/0qiu3KKWvyZtwUZ68EYBCh"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 27",
+        "url": "https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp"
     },
     {
       "album": {
@@ -975,10 +1297,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 71440,
       "name": "Shake My Sillies",
       "url": "https://open.spotify.com/track/0TKfyrXMKb3LEAExa4OKKo"
+    },
+    {
+      "album": {
+        "name": "Action Songs: Wiggle & Shake",
+        "url": "https://open.spotify.com/album/4w7h1lROwNkdKxjiikH6gC"
+      },
+      "artists": [
+        {
+          "name": "Tumble Tots",
+          "url": "https://open.spotify.com/artist/0NcZOCgglyAmOdkiM9kQuv"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71440,
+      "name": "Shake My Sillies",
+      "url": "https://open.spotify.com/track/2M4X7QY9WTJKaWgOd8EiVR"
     },
     {
       "album": {
@@ -997,6 +1337,24 @@
       "duration_ms": 186427,
       "name": "Shake Your Body Down",
       "url": "https://open.spotify.com/track/6vaxOLlCcMwkQnpsHsH4ee"
+    },
+    {
+      "album": {
+        "name": "Baby Shark Workout",
+        "url": "https://open.spotify.com/album/0V5KVEfoY7PbQiG2njjG7I"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79000,
+      "name": "Shark Dance Party",
+      "url": "https://open.spotify.com/track/4s8oZhFMG08lR3bIUckeYZ"
     },
     {
       "album": {
@@ -1037,7 +1395,7 @@
     {
       "album": {
         "name": "Action Songs: Wiggle & Shake",
-        "url": "https://open.spotify.com/album/13uu1dLImwMAGmu8Hy3sK9"
+        "url": "https://open.spotify.com/album/4w7h1lROwNkdKxjiikH6gC"
       },
       "artists": [
         {
@@ -1048,6 +1406,24 @@
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 101306,
+      "name": "Stand up, Sit Down",
+      "url": "https://open.spotify.com/track/1VuC4DJJwk420tTk9P8bf6"
+    },
+    {
+      "album": {
+        "name": "Action Songs: Wiggle & Shake",
+        "url": "https://open.spotify.com/album/13uu1dLImwMAGmu8Hy3sK9"
+      },
+      "artists": [
+        {
+          "name": "Tumble Tots",
+          "url": "https://open.spotify.com/artist/0NcZOCgglyAmOdkiM9kQuv"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 101306,
       "name": "Stand Up, Sit Down",
       "url": "https://open.spotify.com/track/5msXQve94gaNm97ar2KDTV"
@@ -1144,6 +1520,24 @@
     },
     {
       "album": {
+        "name": "Kidz Bop 28",
+        "url": "https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224133,
+      "name": "Uptown Funk",
+      "url": "https://open.spotify.com/track/0Gpu8A8uTQ0CZFHRhzqBst"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP Party Playlist!",
         "url": "https://open.spotify.com/album/1o4U9tfc2fN94WJ4kRrUE9"
       },
@@ -1155,7 +1549,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225733,
       "name": "Uptown Funk",
       "url": "https://open.spotify.com/track/1K7KUJu2LsjfWTxnJVJati"

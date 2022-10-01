@@ -760,6 +760,24 @@
     },
     {
       "album": {
+        "name": "Romance by Candlelight",
+        "url": "https://open.spotify.com/album/7jHqI86IR2WA7p2o89sCQK"
+      },
+      "artists": [
+        {
+          "name": "Simon Armitage",
+          "url": "https://open.spotify.com/artist/25D5tU7Ij8L6xJZLKf8dL8"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133346,
+      "name": "Romance by Candlelight",
+      "url": "https://open.spotify.com/track/1etvDtXZzQfRegjLPQmwdA"
+    },
+    {
+      "album": {
         "name": "Piano Instrumental",
         "url": "https://open.spotify.com/album/79i7WrhOhvn9fZlkjz2Gz9"
       },

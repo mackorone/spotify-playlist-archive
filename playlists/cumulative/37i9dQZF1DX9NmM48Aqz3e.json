@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Midnight",
+        "url": "https://open.spotify.com/album/7ljqmefDOpPyqYswrk6Uc4"
+      },
+      "artists": [
+        {
+          "name": "Matthew Good Band",
+          "url": "https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312493,
+      "name": "apparitions",
+      "url": "https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz"
+    },
+    {
+      "album": {
         "name": "Underdogs",
         "url": "https://open.spotify.com/album/74Rz6pP4zcrT10smt1EALp"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 314626,
       "name": "Apparitions",
       "url": "https://open.spotify.com/track/7CosFlbml7Rhw7t4FrSkdz"
@@ -127,10 +145,28 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247266,
       "name": "Building a Mystery",
       "url": "https://open.spotify.com/track/2mazBRLLeWQSHeNiu7jxDm"
+    },
+    {
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247306,
+      "name": "Building a Mystery",
+      "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
     },
     {
       "album": {
@@ -181,10 +217,28 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236066,
       "name": "Drinking in L.A.",
       "url": "https://open.spotify.com/track/2vd5WiKwFzW5YeYcscu20j"
+    },
+    {
+      "album": {
+        "name": "Glee",
+        "url": "https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp"
+      },
+      "artists": [
+        {
+          "name": "Bran Van 3000",
+          "url": "https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236066,
+      "name": "Drinking in L.A.",
+      "url": "https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x"
     },
     {
       "album": {
@@ -199,10 +253,28 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160986,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/5BeMAafz7zA1jurQlVzxB2"
+    },
+    {
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/0aDWCrEQxS7RH66v20qezy"
+      },
+      "artists": [
+        {
+          "name": "Great Big Sea",
+          "url": "https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165266,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/0HZM2O3KZT5vYYP763dm2I"
     },
     {
       "album": {
@@ -235,10 +307,46 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 321000,
       "name": "Hurts To Love You - LP Version (Album Version)",
       "url": "https://open.spotify.com/track/3yBWPiXqbEOCr4cWmczG79"
+    },
+    {
+      "album": {
+        "name": "Four Hits: The Philosopher Kings",
+        "url": "https://open.spotify.com/album/2hfmvbYfmXvNd4qf6TFQyb"
+      },
+      "artists": [
+        {
+          "name": "The Philosopher Kings",
+          "url": "https://open.spotify.com/artist/4UzgFHHFfl4vf1UUmnORrA"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 321000,
+      "name": "Hurts To Love You - LP Version (Album Version)",
+      "url": "https://open.spotify.com/track/7D4vdvgwrrbJjb3px4mMZ0"
+    },
+    {
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/3TwFXy7ldbkDmSC9EiUTcB"
+      },
+      "artists": [
+        {
+          "name": "Wild Strawberries",
+          "url": "https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "I Don't Want To Think About It",
+      "url": "https://open.spotify.com/track/0mLzR7UE4so9fUfi3MX3rf"
     },
     {
       "album": {
@@ -253,7 +361,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226400,
       "name": "I Don't Want to Think About It",
       "url": "https://open.spotify.com/track/5qYkPxkYVbzMRnHApgTxFt"
@@ -271,7 +379,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 268910,
       "name": "Informer",
       "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
@@ -289,10 +397,28 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 456866,
       "name": "It's All Coming Back to Me Now",
       "url": "https://open.spotify.com/track/2JRicL2f8tJl9TiQlH7vbJ"
+    },
+    {
+      "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456866,
+      "name": "It's All Coming Back to Me Now",
+      "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
     },
     {
       "album": {
@@ -307,10 +433,28 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271960,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/3iXaV9yTFnAnZAoVbY8AuT"
+    },
+    {
+      "album": {
+        "name": "Amanda Marshall",
+        "url": "https://open.spotify.com/album/0HEvHFESNJMTERnF6zpjnz"
+      },
+      "artists": [
+        {
+          "name": "Amanda Marshall",
+          "url": "https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271960,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/6B02MufyAO1pPsWYRespCr"
     },
     {
       "album": {
@@ -440,6 +584,24 @@
     },
     {
       "album": {
+        "name": "Black History Month: Funk + Hip-Hop",
+        "url": "https://open.spotify.com/album/0kBDIcvYaIeUrMq8JtkHV2"
+      },
+      "artists": [
+        {
+          "name": "Dream Warriors",
+          "url": "https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218626,
+      "name": "My Definition Of A Boombastic Jazz Style - Radio Mix",
+      "url": "https://open.spotify.com/track/75Cz7AVd6T3PHSnLoqWhh9"
+    },
+    {
+      "album": {
         "name": "Danger \"The Hip Hop Collection 5\"",
         "url": "https://open.spotify.com/album/4jAQqJmuUDVwLrvduYK9vn"
       },
@@ -451,7 +613,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224760,
       "name": "My Definition Of A Boombastic Jazz Style - Radio Mix",
       "url": "https://open.spotify.com/track/5vmxVtt3hyQQvVnNXJtvJC"
@@ -469,7 +631,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-16",
+      "date_removed": null,
       "duration_ms": 262333,
       "name": "Nobody's Supposed to Be Here",
       "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
@@ -529,6 +691,24 @@
     {
       "album": {
         "name": "This Child",
+        "url": "https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU"
+      },
+      "artists": [
+        {
+          "name": "Susan Aglukark",
+          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "O Siem",
+      "url": "https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ"
+    },
+    {
+      "album": {
+        "name": "This Child",
         "url": "https://open.spotify.com/album/2eEzjJcIibt8lC3ecx7RDN"
       },
       "artists": [
@@ -539,7 +719,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267000,
       "name": "O Siem",
       "url": "https://open.spotify.com/track/7JGI5J2oETERIyYdSbIoUt"
@@ -564,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Drive Fast, Rock Hard",
+        "url": "https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL"
+      },
+      "artists": [
+        {
+          "name": "I Mother Earth",
+          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324226,
+      "name": "One More Astronaut",
+      "url": "https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS"
+    },
+    {
+      "album": {
         "name": "Scenery & Fish",
         "url": "https://open.spotify.com/album/2ghGUuQNwMOVl5HNIPSKeU"
       },
@@ -575,7 +773,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 324400,
       "name": "One More Astronaut",
       "url": "https://open.spotify.com/track/3kJw8wpzrB5WLFcdmIvXew"
@@ -593,10 +791,28 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169760,
       "name": "One Week",
       "url": "https://open.spotify.com/track/1C0pmryC2MdXfa7MZ9uIrU"
+    },
+    {
+      "album": {
+        "name": "Stunt (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169760,
+      "name": "One Week",
+      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
     },
     {
       "album": {
@@ -619,6 +835,24 @@
     {
       "album": {
         "name": "Silver",
+        "url": "https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn"
+      },
+      "artists": [
+        {
+          "name": "Moist",
+          "url": "https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230426,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ"
+    },
+    {
+      "album": {
+        "name": "Silver",
         "url": "https://open.spotify.com/album/6rzMckapLqcGs5GubjR8CA"
       },
       "artists": [
@@ -629,7 +863,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230426,
       "name": "Push",
       "url": "https://open.spotify.com/track/3NN2VyGJUre8epa7bWr8jw"
@@ -647,10 +881,28 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219391,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/6tbk1CZz3omYU73JsxBNIf"
+    },
+    {
+      "album": {
+        "name": "Make a Pest a Pet",
+        "url": "https://open.spotify.com/album/47wRkLjmX69P80q7adpxjs"
+      },
+      "artists": [
+        {
+          "name": "The Age Of Electric",
+          "url": "https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219391,
+      "name": "Remote Control",
+      "url": "https://open.spotify.com/track/7zPRpUujRke7mpt61KIC5U"
     },
     {
       "album": {
@@ -781,10 +1033,28 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201573,
       "name": "Sucks To Be You",
       "url": "https://open.spotify.com/track/3St0CuLCZghaJrT33e7RT5"
+    },
+    {
+      "album": {
+        "name": "Hot Show",
+        "url": "https://open.spotify.com/album/586yBJiBN0KyDLAJFqPGwC"
+      },
+      "artists": [
+        {
+          "name": "Prozzak",
+          "url": "https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Sucks To Be You",
+      "url": "https://open.spotify.com/track/6NtKwJUIVl213jNPoPW95Q"
     },
     {
       "album": {
@@ -807,6 +1077,24 @@
     {
       "album": {
         "name": "Clumsy",
+        "url": "https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "Superman's Dead",
+      "url": "https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH"
+    },
+    {
+      "album": {
+        "name": "Clumsy",
         "url": "https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M"
       },
       "artists": [
@@ -817,10 +1105,28 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255400,
       "name": "Superman's Dead",
       "url": "https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY"
+    },
+    {
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218866,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
     },
     {
       "album": {
@@ -835,10 +1141,28 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238706,
       "name": "That Don't Impress Me Much",
       "url": "https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I"
+    },
+    {
+      "album": {
+        "name": "Come On Over (International Version)",
+        "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 238706,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx"
     },
     {
       "album": {
@@ -853,10 +1177,28 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 304906,
       "name": "That Song",
       "url": "https://open.spotify.com/track/2XI1Ja1rRLgNuiZCvias4w"
+    },
+    {
+      "album": {
+        "name": "In Loving Memory Of - 20th Anniversary Special Edition",
+        "url": "https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304906,
+      "name": "That Song",
+      "url": "https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB"
     },
     {
       "album": {
@@ -879,6 +1221,24 @@
     {
       "album": {
         "name": "Under These Rocks And Stones",
+        "url": "https://open.spotify.com/album/45x3fW5IKv8k4tMEhv1Evy"
+      },
+      "artists": [
+        {
+          "name": "Chantal Kreviazuk",
+          "url": "https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 285866,
+      "name": "Wayne",
+      "url": "https://open.spotify.com/track/38h3FGMLUI3V3sn5uK0cke"
+    },
+    {
+      "album": {
+        "name": "Under These Rocks And Stones",
         "url": "https://open.spotify.com/album/3PMSWzK8diDoaMdOZTHzFJ"
       },
       "artists": [
@@ -889,7 +1249,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285866,
       "name": "Wayne",
       "url": "https://open.spotify.com/track/5RCyu62J9pk1PqgFfCxgn8"
@@ -965,10 +1325,32 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210613,
       "name": "You're a Superstar - Radio Edit",
       "url": "https://open.spotify.com/track/0o1CpOzg6GA7L1PRnocChr"
+    },
+    {
+      "album": {
+        "name": "00s Party Mixtape",
+        "url": "https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0"
+      },
+      "artists": [
+        {
+          "name": "Love Inc.",
+          "url": "https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx"
+        },
+        {
+          "name": "Simone Denny",
+          "url": "https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210613,
+      "name": "You're a Superstar - Radio Edit",
+      "url": "https://open.spotify.com/track/0F7HW6u4LdXDxuCJynN9bF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9NmM48Aqz3e"

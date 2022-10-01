@@ -1939,6 +1939,24 @@
     {
       "album": {
         "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162480,
+      "name": "Str8 Outta Mumbai",
+      "url": "https://open.spotify.com/track/0mRtv3pnmPiN2mDMzYzWt2"
+    },
+    {
+      "album": {
+        "name": "Leak 04-13 (Bait Ones)",
         "url": "https://open.spotify.com/album/6Wsai43KQmmKlN29AWlXFr"
       },
       "artists": [
@@ -1949,7 +1967,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162480,
       "name": "Str8 Outta Mumbai",
       "url": "https://open.spotify.com/track/3pROf3AwBDvr2LaGfpZFnT"

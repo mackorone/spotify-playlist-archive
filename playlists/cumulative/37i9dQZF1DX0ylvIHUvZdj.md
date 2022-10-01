@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0ylvIHUvZdj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0ylvIHUvZdj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0ylvIHUvZdj)
 
-### [This Is Joan Baez](https://open.spotify.com/playlist/37i9dQZF1DX0ylvIHUvZdj)
+### [This Is Joan Baez \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX0ylvIHUvZdj)
 
 > The essential Joan Baez, all in one place.
 

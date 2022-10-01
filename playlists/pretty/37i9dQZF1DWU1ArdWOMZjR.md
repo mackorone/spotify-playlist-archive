@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1ArdWOMZjR.md) - [plain]
 
 > Now That's What I Call Netflix, Curated by Rebel Wilson from Senior Year\. Listen to her favorites from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,139 likes - 27 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,072 likes - 27 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1ArdWOMZjR.md) - [plain]
 | 26 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
 | 27 | [Supermodel \(You Better Work\)](https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel of the World](https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA) | 3:59 |
 
-Snapshot ID: `MTY1MjQyNTIwMCwwMDAwMDAwMjAwMDAwMTgwYmMzNzkxZjAwMDAwMDE4MGI5YzQzYzlj`
+Snapshot ID: `MTY1MjQyNTIwMCwwMDAwMDAwMGExNGM1MjY4ZDA1ZGE4ZGJlNTcwMDFjNzgwMTU2MWRj`

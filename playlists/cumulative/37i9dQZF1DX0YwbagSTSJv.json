@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Bring Us Back",
+        "url": "https://open.spotify.com/album/6oUu8OWwS3L9YPYleN2Ofu"
+      },
+      "artists": [
+        {
+          "name": "Will Carano",
+          "url": "https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158986,
+      "name": "Bring Us Back",
+      "url": "https://open.spotify.com/track/59Vt25MOgFp1CkzdRFzMJP"
+    },
+    {
+      "album": {
         "name": "Calibration of Time",
         "url": "https://open.spotify.com/album/6cRk4SEFqjH5vPNTNv78KW"
       },
@@ -437,7 +455,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 149142,
       "name": "Chaturanga",
       "url": "https://open.spotify.com/track/1Oiz4jjV7G1OZ7Lh2DLuse"
@@ -480,6 +498,42 @@
     },
     {
       "album": {
+        "name": "Consapevolezza",
+        "url": "https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X"
+      },
+      "artists": [
+        {
+          "name": "Dormiente",
+          "url": "https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154508,
+      "name": "Consapevolezza",
+      "url": "https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP"
+    },
+    {
+      "album": {
+        "name": "Oasis Wave",
+        "url": "https://open.spotify.com/album/55l79TqUuygwmPJRnV3Kuf"
+      },
+      "artists": [
+        {
+          "name": "D/S/T/N/C/E",
+          "url": "https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Dawn & Dusk",
+      "url": "https://open.spotify.com/track/0Czatw37VUQLKtZ5SIzGBa"
+    },
+    {
+      "album": {
         "name": "Days of Past",
         "url": "https://open.spotify.com/album/3JvVLfiFHuXm6cQroHwAsX"
       },
@@ -509,7 +563,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 191250,
       "name": "Decumbent",
       "url": "https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY"
@@ -664,6 +718,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Ease",
+        "url": "https://open.spotify.com/album/5wp6m5rlnmPYBALjPvMnG1"
+      },
+      "artists": [
+        {
+          "name": "Aloen",
+          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233514,
+      "name": "Ethereal Ease",
+      "url": "https://open.spotify.com/track/1Frq45fT42aD8tOdxzH6gn"
+    },
+    {
+      "album": {
         "name": "Eudaimonia",
         "url": "https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw"
       },
@@ -701,6 +773,24 @@
     {
       "album": {
         "name": "Fiction",
+        "url": "https://open.spotify.com/album/5DdCboBXyuP9VJDaiJ3Y61"
+      },
+      "artists": [
+        {
+          "name": "Drifting Phonetics",
+          "url": "https://open.spotify.com/artist/31Ai45YFkzvuP30R2HBDQy"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211034,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/2cQJCXUhGKilLJT7OE40w0"
+    },
+    {
+      "album": {
+        "name": "Fiction",
         "url": "https://open.spotify.com/album/1MLutcc8zOKfnxA00EoVwC"
       },
       "artists": [
@@ -711,7 +801,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211034,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/7N3pnzacUb4TpSEgRSlgw5"
@@ -729,10 +819,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 205200,
       "name": "Finding Neverness",
       "url": "https://open.spotify.com/track/2Z76YJ8By50mep2bAonJ2Y"
+    },
+    {
+      "album": {
+        "name": "Fleuriste",
+        "url": "https://open.spotify.com/album/5bOxFicaz7OXLdRoXOsIWa"
+      },
+      "artists": [
+        {
+          "name": "LUVT",
+          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223888,
+      "name": "Fleuriste",
+      "url": "https://open.spotify.com/track/5vX23o6aI02aIT5EiB4WSV"
     },
     {
       "album": {
@@ -751,6 +859,24 @@
       "duration_ms": 214800,
       "name": "Floating Peace",
       "url": "https://open.spotify.com/track/1vpzs2y4nduldNWjJdPMQ6"
+    },
+    {
+      "album": {
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/0tcUR682Jq6YI3Bs53i6j2"
+      },
+      "artists": [
+        {
+          "name": "Michael Arigato",
+          "url": "https://open.spotify.com/artist/1GmOmktidNKbqV9Wbvqwyv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188959,
+      "name": "Free Air",
+      "url": "https://open.spotify.com/track/2bzmMxleX0343iCXyim9cI"
     },
     {
       "album": {
@@ -819,10 +945,32 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 216100,
       "name": "Healing",
       "url": "https://open.spotify.com/track/6mJ76GdI4fm2ThsC4strZf"
+    },
+    {
+      "album": {
+        "name": "Chakra Spiritual Solfeggios",
+        "url": "https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL"
+      },
+      "artists": [
+        {
+          "name": "Zen Meditation Garden",
+          "url": "https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl"
+        },
+        {
+          "name": "Solfeggio Guru",
+          "url": "https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332307,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/6Ju1cRnaWq0PU3NDFuUths"
     },
     {
       "album": {
@@ -837,7 +985,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 209181,
       "name": "Hibernation",
       "url": "https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o"
@@ -877,6 +1025,24 @@
       "duration_ms": 255792,
       "name": "Hills Of Clarity",
       "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
+    },
+    {
+      "album": {
+        "name": "Invisible Waters",
+        "url": "https://open.spotify.com/album/3xvxpj3ETyaC4g4pASqxm9"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186590,
+      "name": "Invisible Waters",
+      "url": "https://open.spotify.com/track/2OtMv9xZ3n9XYJCc4eGDDZ"
     },
     {
       "album": {
@@ -970,6 +1136,24 @@
     },
     {
       "album": {
+        "name": "Life Vision | Spiritual Regeneration",
+        "url": "https://open.spotify.com/album/5GyZ3TVAO626DJPnWboWUN"
+      },
+      "artists": [
+        {
+          "name": "Astron",
+          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164692,
+      "name": "Life Vision",
+      "url": "https://open.spotify.com/track/1OzGM2yzyrOmP9b64mu7BY"
+    },
+    {
+      "album": {
         "name": "Liquid Air",
         "url": "https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW"
       },
@@ -1035,7 +1219,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 157306,
       "name": "Neend",
       "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
@@ -1219,7 +1403,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 186600,
       "name": "Pace Of Nature",
       "url": "https://open.spotify.com/track/1sB226w76E26PZRxcSA8Uq"
@@ -1255,7 +1439,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 173961,
       "name": "Peaceful Movement",
       "url": "https://open.spotify.com/track/6OQzGwdsy5ny1HRsNzkUth"
@@ -1410,6 +1594,24 @@
     },
     {
       "album": {
+        "name": "Rhythms",
+        "url": "https://open.spotify.com/album/3r2nphYPieVtEcbWCfWMP3"
+      },
+      "artists": [
+        {
+          "name": "Pascal Dirac",
+          "url": "https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148797,
+      "name": "Rhythms",
+      "url": "https://open.spotify.com/track/2ZvyrcGO1JLsfc2XqD7oio"
+    },
+    {
+      "album": {
         "name": "Wellness Portal",
         "url": "https://open.spotify.com/album/19nYyLIiUYfGOtDDVIRoA9"
       },
@@ -1439,7 +1641,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 522000,
       "name": "Sacred part one",
       "url": "https://open.spotify.com/track/7qobsQFx45nRS50uSFUcsr"
@@ -1511,7 +1713,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 185606,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5FULRUSFmbfBmxb6maxb83"
@@ -1583,10 +1785,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 196000,
       "name": "Small Sprites",
       "url": "https://open.spotify.com/track/360PAyaCRAAFVJrOnkBQCe"
+    },
+    {
+      "album": {
+        "name": "Sobre las Nubes",
+        "url": "https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS"
+      },
+      "artists": [
+        {
+          "name": "Tormenta Solar",
+          "url": "https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Sobre las Nubes",
+      "url": "https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl"
     },
     {
       "album": {
@@ -1695,6 +1915,24 @@
       "duration_ms": 180519,
       "name": "Symmetry",
       "url": "https://open.spotify.com/track/7s1zPhZgciTy2ruEy3JUmb"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lestur",
+        "url": "https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN"
+      },
+      "artists": [
+        {
+          "name": "Elsa Gudmundsdottir",
+          "url": "https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129103,
+      "name": "S\u00f3lestur",
+      "url": "https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH"
     },
     {
       "album": {
@@ -1915,6 +2153,24 @@
     {
       "album": {
         "name": "Filament and Place",
+        "url": "https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t"
+      },
+      "artists": [
+        {
+          "name": "Innesti",
+          "url": "https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 318640,
+      "name": "Waits Dreaming",
+      "url": "https://open.spotify.com/track/0zBnOKgmkEp4LDJdWkDl1U"
+    },
+    {
+      "album": {
+        "name": "Filament and Place",
         "url": "https://open.spotify.com/album/5ZRUr2HqVBVKeRfoN8rKQz"
       },
       "artists": [
@@ -1925,7 +2181,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 318640,
       "name": "Waits Dreaming",
       "url": "https://open.spotify.com/track/365CgMIdzM2P2t3sgTmwJt"
@@ -2033,7 +2289,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 228380,
       "name": "\u200bWhite Lotus",
       "url": "https://open.spotify.com/track/7kYTV63c7KMeFWJl9ZOsMg"

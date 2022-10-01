@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X62wFct8zv.md) - [plain]
 
 > The best of Fleetwood Mac, together and apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,323 likes - 72 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,406 likes - 72 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X62wFct8zv.md) - [plain]
 | 71 | [Say You Love Me](https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:09 |
 | 72 | [Leather and Lace](https://open.spotify.com/track/6L5c6wFGDQswebVAS3BmUw) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 3:54 |
 
-Snapshot ID: `MTY1NDA5MDMzMywwMDAwMDAwMjAwMDAwMTgxMWY3NzdkMTMwMDAwMDE4MGZjMzMwNDU4`
+Snapshot ID: `MTY1NDA5MDMzMywwMDAwMDAwMGFjZWIyNGIxMjU3MTBiMTZlYzdjYzVjYzk3ZDFkNzk3`

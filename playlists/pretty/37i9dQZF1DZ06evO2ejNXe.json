@@ -1,15 +1,15 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 869,
+  "num_followers": 956,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc2MzYwMjEsMDAwMDAwMDAyMDdmYzRhZDlmNmQxZjIzMzM0ZDY2ZWY2NWM4OTQ1Nw==",
+  "snapshot_id": "Mjc3NDI0MDksMDAwMDAwMDBiNjVmNzNlMTdlMGY1NDdmNjFjNzQ0NDI2OWI1NWY5Ng==",
   "tracks": [
     {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Caliente, Caliente",
         "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Viva La Fiesta",
         "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/2taVzkrj093yCYb9DecjBN"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "Calzones De Bolitas",
-      "url": "https://open.spotify.com/track/0FpwNEP4wq4iFN3W2M5HaH"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Dale Biberon",
         "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
@@ -73,7 +57,23 @@
       "url": "https://open.spotify.com/track/0JMPuoi9vvGyWrPm9f8j3V"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "Calzones De Bolitas",
+      "url": "https://open.spotify.com/track/0FpwNEP4wq4iFN3W2M5HaH"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Caliente, Caliente",
         "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
@@ -89,71 +89,7 @@
       "url": "https://open.spotify.com/track/4gZTC4RXeQMYPINO9geFta"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Uno, Dos, Tres",
-      "url": "https://open.spotify.com/track/1ssU56tFNBKznd8GYQ9UUT"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Dale Biberon",
-        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 203426,
-      "name": "El Chango Lloron",
-      "url": "https://open.spotify.com/track/3wBuwyiOOn3SDWJASq4bHR"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Caliente, Caliente",
-        "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Mambo, Mambo",
-      "url": "https://open.spotify.com/track/1lfsFtXEM1TSYTja0WCo7C"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
@@ -169,7 +105,23 @@
       "url": "https://open.spotify.com/track/3DCS7PRExYp8s1xPD2GdwD"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Dale Biberon",
+        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "El Chango Lloron",
+      "url": "https://open.spotify.com/track/3wBuwyiOOn3SDWJASq4bHR"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "El Reloj De Mi Corazon",
         "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
@@ -180,92 +132,12 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 266600,
-      "name": "Bailando De Caque",
-      "url": "https://open.spotify.com/track/4QXzC6m5BLszBmaj8V5ONd"
+      "duration_ms": 186066,
+      "name": "Uno, Dos, Tres",
+      "url": "https://open.spotify.com/track/1ssU56tFNBKznd8GYQ9UUT"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Dale Biberon",
-        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "La Guera Karla",
-      "url": "https://open.spotify.com/track/1AnMUfHLFWbM26lZWH793A"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Caliente, Caliente",
-        "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "El Pulpo",
-      "url": "https://open.spotify.com/track/15xfPAgrDU5YAJL6wPzpAN"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Mas Caliente",
-      "url": "https://open.spotify.com/track/1alUoNNyA38hr8yWI8Qow2"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Viva La Fiesta",
-        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Rico Ritmo",
-      "url": "https://open.spotify.com/track/1jHMIjqGdJrWH3FrpevfUR"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Dale Biberon",
-        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Mambo Maria",
-      "url": "https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Caliente, Caliente",
         "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
@@ -281,87 +153,7 @@
       "url": "https://open.spotify.com/track/1BgH0sooCdisYKC9om3MGD"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "El Reloj De Mi Corazon",
-      "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Viva La Fiesta",
-        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Hey, Hey",
-      "url": "https://open.spotify.com/track/6jaJ4Rc02uvDro3nel8FHm"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Dale Biberon",
-        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "La Chica Se Mueve Bien",
-      "url": "https://open.spotify.com/track/73g8SmEP2ACdxwzdJVLYwA"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Caliente, Caliente",
-        "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "Tu Yo Somos Uno Mismo",
-      "url": "https://open.spotify.com/track/6PbQ5NUTEwCNBpbea0N3pp"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "A La Sombra De Los Angeles",
-      "url": "https://open.spotify.com/track/1kYXUudZoRTZyO6Rf8F7g7"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Viva La Fiesta",
         "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
@@ -377,7 +169,55 @@
       "url": "https://open.spotify.com/track/2I16xsBvYgqVAaL4pd4Z8B"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Dale Biberon",
+        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Que Esto Que Lo Otro",
+      "url": "https://open.spotify.com/track/5NwNMxpq58Sg2aKCCHJy0o"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "Bailando De Caque",
+      "url": "https://open.spotify.com/track/4QXzC6m5BLszBmaj8V5ONd"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Caliente, Caliente",
+        "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "El Pulpo",
+      "url": "https://open.spotify.com/track/15xfPAgrDU5YAJL6wPzpAN"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
@@ -393,39 +233,7 @@
       "url": "https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "El Pasadisco",
-      "url": "https://open.spotify.com/track/5JkoYyOB55thgJcQicOTsm"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 247720,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Dale Biberon",
         "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
@@ -436,60 +244,12 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Dale Biberon",
-      "url": "https://open.spotify.com/track/4Ld6hcn4xMtetpzPEMD3Jt"
+      "duration_ms": 188400,
+      "name": "La Chica Se Mueve Bien",
+      "url": "https://open.spotify.com/track/73g8SmEP2ACdxwzdJVLYwA"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "Sombrero, Zarape Y Guitarra",
-      "url": "https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "El Suegro",
-      "url": "https://open.spotify.com/track/264N2LbwqrFlDrNxwB2o84"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Muevelo Bien",
-      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Viva La Fiesta",
         "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
@@ -505,7 +265,119 @@
       "url": "https://open.spotify.com/track/2yM2qO9OLVpQWH0Zk67tzm"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Caliente, Caliente",
+        "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Mambo, Mambo",
+      "url": "https://open.spotify.com/track/1lfsFtXEM1TSYTja0WCo7C"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "El Pasadisco",
+      "url": "https://open.spotify.com/track/5JkoYyOB55thgJcQicOTsm"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Dale Biberon",
+        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Mambo Maria",
+      "url": "https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Viva La Fiesta",
+        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Hey, Hey",
+      "url": "https://open.spotify.com/track/6jaJ4Rc02uvDro3nel8FHm"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "A La Sombra De Los Angeles",
+      "url": "https://open.spotify.com/track/1kYXUudZoRTZyO6Rf8F7g7"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Caliente, Caliente",
+        "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "La Gloria",
+      "url": "https://open.spotify.com/track/1kYPGM806I2hx95bQw11GF"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Dale Biberon",
+        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "La Guera Karla",
+      "url": "https://open.spotify.com/track/1AnMUfHLFWbM26lZWH793A"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
@@ -516,15 +388,15 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 171346,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL"
+      "duration_ms": 186760,
+      "name": "Mas Caliente",
+      "url": "https://open.spotify.com/track/1alUoNNyA38hr8yWI8Qow2"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
       "album": {
-        "name": "Piensa en Mi",
-        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
       },
       "artists": [
         {
@@ -532,12 +404,76 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 180493,
-      "name": "La Crisis",
-      "url": "https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7"
+      "duration_ms": 257266,
+      "name": "El Reloj De Mi Corazon",
+      "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Muevelo Bien",
+      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "No Se Ha Dado Cuenta",
+        "url": "https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 142440,
+      "name": "No Se Ha Dado Cuenta",
+      "url": "https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Viva La Fiesta",
+        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 247960,
+      "name": "Me Estas Volviendo Loco",
+      "url": "https://open.spotify.com/track/3D0dwXxPkJ19PNlMyqfyNS"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Coleccion Suprema Plus- Banda Zarape",
         "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
@@ -553,23 +489,7 @@
       "url": "https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
-      "album": {
-        "name": "Viva La Fiesta",
-        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Traigo Perdida La Fe",
-      "url": "https://open.spotify.com/track/5TsdOfR6VDCLZojKa7GFvH"
-    },
-    {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
@@ -585,7 +505,87 @@
       "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 171346,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Viva La Fiesta",
+        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Rico Ritmo",
+      "url": "https://open.spotify.com/track/1jHMIjqGdJrWH3FrpevfUR"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "El Suegro",
+      "url": "https://open.spotify.com/track/264N2LbwqrFlDrNxwB2o84"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "Sombrero, Zarape Y Guitarra",
+      "url": "https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
@@ -601,7 +601,23 @@
       "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
     },
     {
-      "added_at": "2022-07-18 16:21:00",
+      "added_at": "2022-09-30 13:29:10",
+      "album": {
+        "name": "Piensa en Mi",
+        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "La Crisis",
+      "url": "https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7"
+    },
+    {
+      "added_at": "2022-09-30 13:29:10",
       "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"

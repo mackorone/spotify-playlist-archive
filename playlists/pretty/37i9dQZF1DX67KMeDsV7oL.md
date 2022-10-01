@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67KMeDsV7oL.md) - [plain]
 
 > Check out the Official Spiderhead Playlist\. Watch now on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,177 likes - 22 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,761 likes - 22 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67KMeDsV7oL.md) - [plain]
 | 21 | [The Logical Song](https://open.spotify.com/track/2IOeOJyiuzwF8BRAK9jJyj) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America](https://open.spotify.com/album/7i75GRwJbhDDiLi2uQHTtZ) | 4:11 |
 | 22 | [Redemption](https://open.spotify.com/track/3Tqd7D4DjwboPzsoAYOQg5) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Tonality](https://open.spotify.com/artist/5pcicNTH7aIJujRAA7WFXg) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 2:31 |
 
-Snapshot ID: `MTY1Nzg1ODQzMCwwMDAwMDAwNTAwMDAwMTgyMDAxMDE1OTIwMDAwMDE4MTY5YmIxNGFl`
+Snapshot ID: `MTY1Nzg1ODQzMCwwMDAwMDAwMDk3MDk1MWYxMDY2OWE2MTRiM2FlOWVmMmFjNWI3YWM0`

@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-08-20",
       "duration_ms": 142106,
       "name": "Chiquilina",
       "url": "https://open.spotify.com/track/3DiBjgOxP26LVm9BcosS7P"
@@ -250,6 +250,24 @@
     },
     {
       "album": {
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 186346,
+      "name": "El negrito",
+      "url": "https://open.spotify.com/track/3ELx3O1UQAXAMzfobMRhyn"
+    },
+    {
+      "album": {
         "name": "Con paso sensual",
         "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
       },
@@ -261,7 +279,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 225173,
       "name": "El retrato de mam\u00e1",
       "url": "https://open.spotify.com/track/2L8uzQnGf2UUWeKHPbsv8F"
@@ -279,7 +297,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 175400,
       "name": "Eso no, no, no",
       "url": "https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om"
@@ -405,7 +423,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": "2022-07-30",
       "duration_ms": 254600,
       "name": "Lo Que So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/7LpnnmmXpFRFCq0XjjdqSp"
@@ -441,7 +459,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-09-26",
       "duration_ms": 180906,
       "name": "Luna llena",
       "url": "https://open.spotify.com/track/1SHsgQdBllRc2q46WwpHQh"
@@ -520,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 174986,
+      "name": "Me toc\u00f3 perder",
+      "url": "https://open.spotify.com/track/1VSCn6pepqpFo3ZReTkpWQ"
+    },
+    {
+      "album": {
         "name": "15 \u00c9xitos 2004-2005",
         "url": "https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo"
       },
@@ -553,6 +589,24 @@
       "duration_ms": 174400,
       "name": "Mi coraz\u00f3n y yo",
       "url": "https://open.spotify.com/track/5Xb6GxBcyLNdeYpu4BoGJX"
+    },
+    {
+      "album": {
+        "name": "Romantico incurable",
+        "url": "https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 187960,
+      "name": "Mi fracaso",
+      "url": "https://open.spotify.com/track/1w11SiJRAxlFNNmTWs2Cue"
     },
     {
       "album": {
@@ -729,7 +783,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": "2022-10-01",
       "duration_ms": 196306,
       "name": "Piel A Piel",
       "url": "https://open.spotify.com/track/4AjaDTAr3qFQPq5z0xVbps"
@@ -873,10 +927,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 177213,
       "name": "Te extra\u00f1o",
       "url": "https://open.spotify.com/track/5Cvu39ORglPtZfr5ZeZzBI"
+    },
+    {
+      "album": {
+        "name": "Romantico incurable",
+        "url": "https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177213,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/7wv6p1I2GWuZ1eQ1Iok3u1"
     },
     {
       "album": {

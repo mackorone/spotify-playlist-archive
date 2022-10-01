@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Sim City",
+        "url": "https://open.spotify.com/album/54wLYwAvsp61uxv4ciwYOZ"
+      },
+      "artists": [
+        {
+          "name": "Halo Boy",
+          "url": "https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195882,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/0UvNdJWO4jRxAHi8pAv20Z"
+    },
+    {
+      "album": {
         "name": "Autopilot",
         "url": "https://open.spotify.com/album/1Fj4667loGqnXZmuV8Ky5E"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-29",
       "duration_ms": 195882,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/4CF3Z1OmJLwSIqt3l8tdsR"
@@ -178,6 +196,24 @@
     },
     {
       "album": {
+        "name": "songs that you'll probably never hear, pt. 3",
+        "url": "https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177454,
+      "name": "crying in my car",
+      "url": "https://open.spotify.com/track/0a593TcPTKixO9Melp5p8A"
+    },
+    {
+      "album": {
         "name": "songs that you'll probably never hear pt. 3",
         "url": "https://open.spotify.com/album/1betffpzW0aaFTPADWKzaz"
       },
@@ -189,7 +225,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 177454,
       "name": "crying in my car",
       "url": "https://open.spotify.com/track/7o1XtPp4otuCj5oTAXt55z"
@@ -225,10 +261,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 149068,
       "name": "dear whatever",
       "url": "https://open.spotify.com/track/3Coe9AsyM4NvTBdcfcPL7f"
+    },
+    {
+      "album": {
+        "name": "dear whatever",
+        "url": "https://open.spotify.com/album/5lxeZj31ST56LJXKMWQpvF"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149068,
+      "name": "dear whatever",
+      "url": "https://open.spotify.com/track/4kDVrzz871IGFeYwdweUYJ"
     },
     {
       "album": {
@@ -269,10 +323,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 191785,
       "name": "disarm me",
       "url": "https://open.spotify.com/track/0nO4EDfJGNkd0QIk6HVLhh"
+    },
+    {
+      "album": {
+        "name": "songs that you'll probably never hear",
+        "url": "https://open.spotify.com/album/1B4TAPy6dm7AaZ8EnwVvcn"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191785,
+      "name": "disarm me",
+      "url": "https://open.spotify.com/track/7gcU9pn3ZOGzEnshKIeeH9"
     },
     {
       "album": {
@@ -392,6 +464,28 @@
     },
     {
       "album": {
+        "name": "Ten Years",
+        "url": "https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD"
+      },
+      "artists": [
+        {
+          "name": "Win and Woo",
+          "url": "https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC"
+        },
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155370,
+      "name": "Good Catch",
+      "url": "https://open.spotify.com/track/1aM1vmUvj3ki6VvEPMhnyP"
+    },
+    {
+      "album": {
         "name": "Good Catch",
         "url": "https://open.spotify.com/album/6cnhQqH39ScPvQpBtQazGc"
       },
@@ -407,7 +501,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 155370,
       "name": "Good Catch",
       "url": "https://open.spotify.com/track/4o0DR32ubkdQCPT1onM18W"
@@ -425,10 +519,28 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 191612,
       "name": "good stuff",
       "url": "https://open.spotify.com/track/6TBMFvQnjLcJCch1trUgtr"
+    },
+    {
+      "album": {
+        "name": "good stuff",
+        "url": "https://open.spotify.com/album/7bLybHcr7HWEAMghCBIKZL"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "good stuff",
+      "url": "https://open.spotify.com/track/6mglSejg7jejo0thhHQvER"
     },
     {
       "album": {
@@ -579,7 +691,7 @@
           "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
         },
         {
-          "name": "Garrett Nash",
+          "name": "gnash",
           "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
         }
       ],
@@ -679,10 +791,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 142745,
       "name": "just another day",
       "url": "https://open.spotify.com/track/2erFH1t2iDTJLSHPz8D03F"
+    },
+    {
+      "album": {
+        "name": "songs that you'll probably never hear, pt. 2",
+        "url": "https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142745,
+      "name": "just another day",
+      "url": "https://open.spotify.com/track/7J5lMhBctps6q86jQGAsUl"
     },
     {
       "album": {
@@ -733,10 +863,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 198139,
       "name": "love notes and hate mail",
       "url": "https://open.spotify.com/track/2UbMXiSOvDNT9YTQVb2fZV"
+    },
+    {
+      "album": {
+        "name": "songs that you'll probably never hear, pt. 3",
+        "url": "https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198139,
+      "name": "love notes and hate mail",
+      "url": "https://open.spotify.com/track/7F25Xwb7FWYlx2GBj5i8Wv"
     },
     {
       "album": {
@@ -791,10 +939,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 147619,
       "name": "mexico city",
       "url": "https://open.spotify.com/track/34Y7LIhSelCjmzJUZHBEOn"
+    },
+    {
+      "album": {
+        "name": "songs that you'll probably never hear, pt. 3",
+        "url": "https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147619,
+      "name": "mexico city",
+      "url": "https://open.spotify.com/track/4yl95JyeOUopdg7GXlnY0o"
     },
     {
       "album": {
@@ -857,6 +1023,24 @@
     {
       "album": {
         "name": "new heartbreak",
+        "url": "https://open.spotify.com/album/7oPhOoCsmqealichnE6389"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194615,
+      "name": "new heartbreak",
+      "url": "https://open.spotify.com/track/4QlWWP0p9zkVFnls5xoI35"
+    },
+    {
+      "album": {
+        "name": "new heartbreak",
         "url": "https://open.spotify.com/album/736wZF8meYCjbGUvpjZ1yX"
       },
       "artists": [
@@ -867,7 +1051,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 194615,
       "name": "new heartbreak",
       "url": "https://open.spotify.com/track/7as2G7f005jH4jNMI4UX8A"
@@ -977,10 +1161,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 156000,
       "name": "paper ceilings",
       "url": "https://open.spotify.com/track/06jflCGJadQmfvMjXQYHlw"
+    },
+    {
+      "album": {
+        "name": "songs that you'll probably never hear, pt. 2",
+        "url": "https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "paper ceilings",
+      "url": "https://open.spotify.com/track/40a9j0j933mlcCEgokySHT"
     },
     {
       "album": {
@@ -995,10 +1197,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 217043,
       "name": "rearview",
       "url": "https://open.spotify.com/track/2KOpyptIp3aPMTiS2GCfiK"
+    },
+    {
+      "album": {
+        "name": "rearview",
+        "url": "https://open.spotify.com/album/3m4yOqyElVb8RkJeDyciz8"
+      },
+      "artists": [
+        {
+          "name": "alxxa",
+          "url": "https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217043,
+      "name": "rearview",
+      "url": "https://open.spotify.com/track/2MSAwuM5wRtyOlKsTOl6AY"
     },
     {
       "album": {
@@ -1043,6 +1263,28 @@
     {
       "album": {
         "name": "routine",
+        "url": "https://open.spotify.com/album/717BWqHWne4kvOvFaiZm8d"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        },
+        {
+          "name": "alxxa",
+          "url": "https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188461,
+      "name": "routine",
+      "url": "https://open.spotify.com/track/05HBUzEgUCBc89i7pshnLK"
+    },
+    {
+      "album": {
+        "name": "routine",
         "url": "https://open.spotify.com/album/7kGOM6fdrahDu2ITDmArL6"
       },
       "artists": [
@@ -1057,10 +1299,46 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 188461,
       "name": "routine",
       "url": "https://open.spotify.com/track/2QHXsnqf8aULSjmxRoLNqU"
+    },
+    {
+      "album": {
+        "name": "rugburn",
+        "url": "https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139856,
+      "name": "rugburn",
+      "url": "https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu"
+    },
+    {
+      "album": {
+        "name": "songs that you'll probably never hear",
+        "url": "https://open.spotify.com/album/1B4TAPy6dm7AaZ8EnwVvcn"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "ruin it",
+      "url": "https://open.spotify.com/track/38zxMTxPyAwdwmr8M749hj"
     },
     {
       "album": {
@@ -1075,7 +1353,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 194823,
       "name": "ruin it",
       "url": "https://open.spotify.com/track/4lzqah4u0wkUJvPRHEtBmX"
@@ -1145,6 +1423,28 @@
     {
       "album": {
         "name": "Waves",
+        "url": "https://open.spotify.com/album/4DwTCENDrvdFJVB5odaxiI"
+      },
+      "artists": [
+        {
+          "name": "OFF TOP",
+          "url": "https://open.spotify.com/artist/1qfVE7DbB6U9djizm6Qtsl"
+        },
+        {
+          "name": "Jamiison",
+          "url": "https://open.spotify.com/artist/1Agg6zZOXNBJiWNBrOGA9a"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135319,
+      "name": "Still Healing",
+      "url": "https://open.spotify.com/track/53VZW4XxtnqlMLI08YrmYb"
+    },
+    {
+      "album": {
+        "name": "Waves",
         "url": "https://open.spotify.com/album/6N44nmfMlrEp1vHV9mRmMC"
       },
       "artists": [
@@ -1159,7 +1459,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 135319,
       "name": "Still Healing (feat. JAMiiSON)",
       "url": "https://open.spotify.com/track/5pzQ6SHl5ZzsYnWSZaaXwF"
@@ -1213,10 +1513,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157333,
       "name": "There for You",
       "url": "https://open.spotify.com/track/38IkWM27SIOSsJXOUpTMFh"
+    },
+    {
+      "album": {
+        "name": "There for You",
+        "url": "https://open.spotify.com/album/4mflxpzrTCEAc5KphX0B6o"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "There for You",
+      "url": "https://open.spotify.com/track/5SMjLDinukPvhXnZkY3Uhf"
     },
     {
       "album": {
@@ -1256,6 +1574,24 @@
     },
     {
       "album": {
+        "name": "songs that you'll probably never hear, pt. 2",
+        "url": "https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "twenty something",
+      "url": "https://open.spotify.com/track/3ZQDiTdMdujWmiwUOi8DUQ"
+    },
+    {
+      "album": {
         "name": "songs that you'll probably never hear pt. 2",
         "url": "https://open.spotify.com/album/6UiPYjrJQaApMa78xGRe3q"
       },
@@ -1267,7 +1603,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 150857,
       "name": "twenty something",
       "url": "https://open.spotify.com/track/65LDJx6C866TcnRnL0ngwT"
@@ -1293,6 +1629,28 @@
     {
       "album": {
         "name": "wash your hands",
+        "url": "https://open.spotify.com/album/4Gw0Ny1PuwGrKYmmHT8ZIL"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        },
+        {
+          "name": "Richard Orofino",
+          "url": "https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152112,
+      "name": "wash your hands",
+      "url": "https://open.spotify.com/track/2jpM1xm3XkQRsPyQdcTbYM"
+    },
+    {
+      "album": {
+        "name": "wash your hands",
         "url": "https://open.spotify.com/album/2UZUH95n1E3m88UvB9zATy"
       },
       "artists": [
@@ -1307,7 +1665,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 152112,
       "name": "wash your hands",
       "url": "https://open.spotify.com/track/4adT64TTEDpAelfTGZOEW2"

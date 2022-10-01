@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/7tsPRVM0KZQrV7txpBoa4R"
+      },
+      "artists": [
+        {
+          "name": "Francesco Siano",
+          "url": "https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158936,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/5XYAieIJYukSs5yscEgu9w"
+    },
+    {
+      "album": {
         "name": "Angustifolia",
         "url": "https://open.spotify.com/album/13Qyyw6AwtO4QPNeFrHfEF"
       },
@@ -131,7 +149,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 226708,
       "name": "At Peace",
       "url": "https://open.spotify.com/track/0Dd0bM1MWg2JvHbjRe7o1K"
@@ -257,10 +275,28 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 116500,
       "name": "Between Moments",
       "url": "https://open.spotify.com/track/4dnjEaI4F2OigWbi95JIDm"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Will Save Us",
+        "url": "https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC"
+      },
+      "artists": [
+        {
+          "name": "Rand Aldo",
+          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 116500,
+      "name": "Between Moments",
+      "url": "https://open.spotify.com/track/7IeAd6rhMU9zMG0wccZbwb"
     },
     {
       "album": {
@@ -333,7 +369,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 158430,
       "name": "Bord de L\u2019eau",
       "url": "https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF"
@@ -481,6 +517,24 @@
       "duration_ms": 159632,
       "name": "Cloudy Mountains",
       "url": "https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl"
+    },
+    {
+      "album": {
+        "name": "Colin",
+        "url": "https://open.spotify.com/album/2naNvERtXmruzo0nxV4pWR"
+      },
+      "artists": [
+        {
+          "name": "Las Desorden",
+          "url": "https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Colin",
+      "url": "https://open.spotify.com/track/1Bd5aIOYLMyxvI4FtG08x9"
     },
     {
       "album": {
@@ -831,10 +885,28 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261306,
       "name": "Esja",
       "url": "https://open.spotify.com/track/0DNBrEt6XVU7qsuxahUw4K"
+    },
+    {
+      "album": {
+        "name": "Esja",
+        "url": "https://open.spotify.com/album/6UEnWtk3BxIxw4tJYFwm4P"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261306,
+      "name": "Esja",
+      "url": "https://open.spotify.com/track/0qLJdyq6rqXQmdlzjtcCs1"
     },
     {
       "album": {
@@ -1083,10 +1155,46 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193726,
       "name": "Frontiers Are Where You Find Them",
       "url": "https://open.spotify.com/track/0pYcmN2XmJSWNEvjgGFodh"
+    },
+    {
+      "album": {
+        "name": "Luminescence",
+        "url": "https://open.spotify.com/album/4JFvicXoNpfbIB1gAm7uxw"
+      },
+      "artists": [
+        {
+          "name": "Trevor Kowalski",
+          "url": "https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193726,
+      "name": "Frontiers Are Where You Find Them",
+      "url": "https://open.spotify.com/track/4JHBDESS5rxMXjMXaKGYHf"
+    },
+    {
+      "album": {
+        "name": "Gone Day",
+        "url": "https://open.spotify.com/album/41k94jymMWGvYhBAcWgeb2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Kvarnstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4qZrlSJ1sikAjQS9rrBBpx"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250282,
+      "name": "Gone Day",
+      "url": "https://open.spotify.com/track/2SSOF3vAlTd3FqWupkuQBt"
     },
     {
       "album": {
@@ -1343,6 +1451,28 @@
       "duration_ms": 122389,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/0X4MfCEzXp28yrhUKpOadD"
+    },
+    {
+      "album": {
+        "name": "Quartet Classics Series: Largo from Xerxes",
+        "url": "https://open.spotify.com/album/3REN8n3aARNwmHx9YcGjvQ"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Artwinder Modern Quartet",
+          "url": "https://open.spotify.com/artist/2ipPNWfa4u0WTh99vGxpQ6"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Largo from Xerxes",
+      "url": "https://open.spotify.com/track/3dSA0ZoHzvXxvticgIz5MJ"
     },
     {
       "album": {
@@ -1663,7 +1793,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 184000,
       "name": "Moving Space",
       "url": "https://open.spotify.com/track/3m1hoXw6tRHXRqK37bNbax"
@@ -1699,10 +1829,46 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-11",
       "duration_ms": 334506,
       "name": "Music For Growing Flowers - Pt. 4",
       "url": "https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW"
+    },
+    {
+      "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
+    },
+    {
+      "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/3kSKcgJ0FYz7t2k4p71jiy"
     },
     {
       "album": {
@@ -2755,7 +2921,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 165632,
       "name": "These Steady Hands",
       "url": "https://open.spotify.com/track/3IIJBXhYKDDRk5UAaSSacY"

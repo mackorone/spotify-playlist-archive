@@ -1,13 +1,49 @@
 {
-  "description": "Instrumental guitar shreddery. Cover: Paul Gilbert",
-  "num_followers": 95404,
+  "description": "Instrumental guitar shreddery. Cover: TORA",
+  "num_followers": 100606,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAyZDAwMDAwMTgxYjdlYzM4OGMwMDAwMDE3ZDk1ZTlhYmE4",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDdiZDc2MmNhZWVkOTI5NTFkNjBjZmU0YmMxMGE1MzIx",
   "tracks": [
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Ego Death (feat. Steve Vai)",
+        "url": "https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "duration_ms": 350085,
+      "name": "Ego Death (feat. Steve Vai)",
+      "url": "https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Soundtrack Life / Yesterday Meets Today",
+        "url": "https://open.spotify.com/album/2kipIDLTDxSHWM7MC6MqUx"
+      },
+      "artists": [
+        {
+          "name": "Eric Johnson",
+          "url": "https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb"
+        }
+      ],
+      "duration_ms": 259946,
+      "name": "Soundtrack Life",
+      "url": "https://open.spotify.com/track/7E6VxeL3kzU330AA11FhqE"
+    },
     {
       "added_at": "2022-06-10 04:02:00",
       "album": {
@@ -27,6 +63,22 @@
       "duration_ms": 188000,
       "name": "Action Boyz",
       "url": "https://open.spotify.com/track/1vyWw3z1eW510h1DfcjOBq"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "duration_ms": 153362,
+      "name": "I Don't Funk with You",
+      "url": "https://open.spotify.com/track/2eiK5sjccZJdNTq8Qej596"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -49,6 +101,22 @@
       "url": "https://open.spotify.com/track/7wVAS3INpT4el1p6FJpY3x"
     },
     {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Alive and Living",
+        "url": "https://open.spotify.com/album/0G9yeCMh4JauJK82odWRq9"
+      },
+      "artists": [
+        {
+          "name": "Lari Basilio",
+          "url": "https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0"
+        }
+      ],
+      "duration_ms": 216531,
+      "name": "Alive and Living",
+      "url": "https://open.spotify.com/track/3cgbytw3M9Lse9wwdPiuBu"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Midnight Sunset",
@@ -65,6 +133,38 @@
       "url": "https://open.spotify.com/track/02tkWCsZuGHuvvW0rGTROf"
     },
     {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Playing God",
+        "url": "https://open.spotify.com/album/3rHwz3EQwsQXdsXvSWE1N4"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        }
+      ],
+      "duration_ms": 205925,
+      "name": "Playing God",
+      "url": "https://open.spotify.com/track/3nBGFgfRQ8ujSmu5cGlZIU"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "duration_ms": 80006,
+      "name": "When She Leaves",
+      "url": "https://open.spotify.com/track/2Z29IIOq6xaec3uwJj84Uq"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Pull The Trigger",
@@ -79,6 +179,46 @@
       "duration_ms": 188224,
       "name": "Pull The Trigger",
       "url": "https://open.spotify.com/track/50YQPtM31mct7NOIBHALQr"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Ghostfish (Masterlink Sessions)",
+        "url": "https://open.spotify.com/album/4yxkHvAV6Uh86YLNlh81r1"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        },
+        {
+          "name": "Mike Outram",
+          "url": "https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ"
+        },
+        {
+          "name": "Tony Remy",
+          "url": "https://open.spotify.com/artist/4ZPe9yodynCxVDpH4uExp0"
+        }
+      ],
+      "duration_ms": 173379,
+      "name": "Ghostfish - Masterlink Sessions",
+      "url": "https://open.spotify.com/track/3x2MCE4ayd3DUhBxVHBaIq"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Guitar Nerd",
+        "url": "https://open.spotify.com/album/3t4ggDv6r3gLGuIyK25Yet"
+      },
+      "artists": [
+        {
+          "name": "Pete Thorn",
+          "url": "https://open.spotify.com/artist/2fGIc4JSHwzCB7HIzATFtV"
+        }
+      ],
+      "duration_ms": 274426,
+      "name": "Revenge Of The Nerd",
+      "url": "https://open.spotify.com/track/2oPdW4tRE5sc7xJYdhz6XM"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -111,6 +251,22 @@
       "duration_ms": 262257,
       "name": "What Really Matters",
       "url": "https://open.spotify.com/track/4dIOwzpO6MVitMIDtm5UHC"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/1Y8ixv209l76IYgFS0DHyN"
+      },
+      "artists": [
+        {
+          "name": "Al Joseph",
+          "url": "https://open.spotify.com/artist/21PirAYDy86Fxofydxphxu"
+        }
+      ],
+      "duration_ms": 430496,
+      "name": "Elemental",
+      "url": "https://open.spotify.com/track/7pELXfqANfpuEgVQhL6kDS"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -177,6 +333,22 @@
       "url": "https://open.spotify.com/track/5rDXHvjM3oIlEpkq0iao8N"
     },
     {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Big Rock",
+        "url": "https://open.spotify.com/album/1rAGxz4UMc4jqdlcibxrb8"
+      },
+      "artists": [
+        {
+          "name": "Neil Zaza",
+          "url": "https://open.spotify.com/artist/4FzEKhLeEN58Mu7JzUHdHF"
+        }
+      ],
+      "duration_ms": 227814,
+      "name": "Big Rock",
+      "url": "https://open.spotify.com/track/6zj3GgamevCXncxB9E0GLI"
+    },
+    {
       "added_at": "2022-04-08 04:02:00",
       "album": {
         "name": "The Roaring Twenties",
@@ -215,8 +387,8 @@
     {
       "added_at": "2021-05-04 18:30:17",
       "album": {
-        "name": "A Thunderous Ovation Shook the Columns",
-        "url": "https://open.spotify.com/album/5LIkApuwAK9pMeWcOH2s9G"
+        "name": "Werewolves of Portland",
+        "url": "https://open.spotify.com/album/3IS5K6CXvUJW1eq5stkMFA"
       },
       "artists": [
         {
@@ -225,8 +397,24 @@
         }
       ],
       "duration_ms": 236478,
-      "name": "A Thunderous Ovation Shook the Columns",
-      "url": "https://open.spotify.com/track/6Kcmvtym0taGPHlciFxgKa"
+      "name": "A Thunderous Ovation Shook The Columns",
+      "url": "https://open.spotify.com/track/4uE9NXr6sdzrFXPmAztCZ7"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "I Found The Sun Again",
+        "url": "https://open.spotify.com/album/0nW69fDBiiEmlI9POYb0wF"
+      },
+      "artists": [
+        {
+          "name": "Steve Lukather",
+          "url": "https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM"
+        }
+      ],
+      "duration_ms": 354974,
+      "name": "Journey Through",
+      "url": "https://open.spotify.com/track/2ht5zHY5EJYjNdvwLQpkz0"
     },
     {
       "added_at": "2021-05-04 18:30:17",
@@ -255,8 +443,8 @@
     {
       "added_at": "2021-08-06 04:01:00",
       "album": {
-        "name": "A Dragon's Tail (Instrumental)",
-        "url": "https://open.spotify.com/album/2JppXP0sF33yMsYcYObwX1"
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB"
       },
       "artists": [
         {
@@ -265,8 +453,8 @@
         }
       ],
       "duration_ms": 293749,
-      "name": "A Dragon's Tail - Instrumental",
-      "url": "https://open.spotify.com/track/7xOdjT5HRqckEXhjWGAOcP"
+      "name": "A Dragon's Tail",
+      "url": "https://open.spotify.com/track/7MM90UlM1S9HxI4R23gn5Q"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -278,6 +466,10 @@
         {
           "name": "Waxamilion",
           "url": "https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6"
+        },
+        {
+          "name": "Bormsen",
+          "url": "https://open.spotify.com/artist/5epoZlpLXp6iEoOLPbgkNy"
         }
       ],
       "duration_ms": 231909,
@@ -371,8 +563,8 @@
     {
       "added_at": "2021-05-04 18:30:17",
       "album": {
-        "name": "Nu Som",
-        "url": "https://open.spotify.com/album/4DfgGHHHDVWQN2VTUbf5BJ"
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/36d8L5jU3W6tbkCh59eS82"
       },
       "artists": [
         {
@@ -386,7 +578,7 @@
       ],
       "duration_ms": 328866,
       "name": "Nu Som",
-      "url": "https://open.spotify.com/track/2F5ojPnjFZd7a3g5HJroXv"
+      "url": "https://open.spotify.com/track/2monwhL9bsFNaobXHhrLDa"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -423,8 +615,8 @@
     {
       "added_at": "2021-05-04 18:30:17",
       "album": {
-        "name": "Abbot Kinney",
-        "url": "https://open.spotify.com/album/44FKxAgwdWEYEshZ4sAMKx"
+        "name": "Dreamcatcher",
+        "url": "https://open.spotify.com/album/4FdVcs2flxUfuNNhEz7Xkj"
       },
       "artists": [
         {
@@ -434,13 +626,13 @@
       ],
       "duration_ms": 193333,
       "name": "Abbot Kinney",
-      "url": "https://open.spotify.com/track/39bETklNLbxywBZOTFTkYj"
+      "url": "https://open.spotify.com/track/6AwKhdLcw7zhE8UZYlZRf6"
     },
     {
       "added_at": "2021-05-04 18:30:17",
       "album": {
         "name": "I Found The Sun Again",
-        "url": "https://open.spotify.com/album/3yNjUAz8wM1CxGCiEQcVzz"
+        "url": "https://open.spotify.com/album/0nW69fDBiiEmlI9POYb0wF"
       },
       "artists": [
         {
@@ -450,13 +642,13 @@
       ],
       "duration_ms": 354974,
       "name": "Journey Through",
-      "url": "https://open.spotify.com/track/6RQwWe0auWqd1RwFD4Pt64"
+      "url": "https://open.spotify.com/track/2ht5zHY5EJYjNdvwLQpkz0"
     },
     {
       "added_at": "2021-05-04 18:30:17",
       "album": {
         "name": "Behold Electric Guitar",
-        "url": "https://open.spotify.com/album/0hAq2Cqzq3LhHlYvaxEFAg"
+        "url": "https://open.spotify.com/album/0TVfzZyaJYKPM3QGkBnJFo"
       },
       "artists": [
         {
@@ -466,7 +658,7 @@
       ],
       "duration_ms": 419546,
       "name": "Havin' It",
-      "url": "https://open.spotify.com/track/1L4zRZzhBECP4IvNJNMz68"
+      "url": "https://open.spotify.com/track/0nhqmycepbgpJxoDlKftqn"
     },
     {
       "added_at": "2021-05-04 18:30:17",
@@ -820,7 +1012,7 @@
       "added_at": "2021-05-04 18:30:17",
       "album": {
         "name": "Handmade Cities",
-        "url": "https://open.spotify.com/album/36vGWMFViWBpBB4npwmusv"
+        "url": "https://open.spotify.com/album/4cJ8qhE71x97swkaMQhGcr"
       },
       "artists": [
         {
@@ -830,7 +1022,7 @@
       ],
       "duration_ms": 220213,
       "name": "Every Piece Matters",
-      "url": "https://open.spotify.com/track/25RDHbzKzGSUefENv5uz9M"
+      "url": "https://open.spotify.com/track/1kuUcD74m4Pqmu3LYjNvMo"
     },
     {
       "added_at": "2021-05-04 18:30:17",
@@ -916,7 +1108,7 @@
       "added_at": "2021-05-04 18:30:17",
       "album": {
         "name": "All's Well That Ends Well",
-        "url": "https://open.spotify.com/album/0MUOKjKpJOWr9PFwgt4OtN"
+        "url": "https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd"
       },
       "artists": [
         {
@@ -926,13 +1118,13 @@
       ],
       "duration_ms": 242080,
       "name": "Tumescent",
-      "url": "https://open.spotify.com/track/3YrsPyrXHkV5EZnSuyLpCN"
+      "url": "https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D"
     },
     {
       "added_at": "2021-05-04 18:30:17",
       "album": {
         "name": "Sounds of Innocence",
-        "url": "https://open.spotify.com/album/0rtwwQetfvL67PGfCQcngs"
+        "url": "https://open.spotify.com/album/4NvAMdVVeCkqIW6oV4KEkk"
       },
       "artists": [
         {
@@ -942,7 +1134,7 @@
       ],
       "duration_ms": 225693,
       "name": "Reflective",
-      "url": "https://open.spotify.com/track/5B6lWsQXoKghgupCA5yNRY"
+      "url": "https://open.spotify.com/track/28iQulj2Omv4SI3N5G3RWd"
     },
     {
       "added_at": "2021-05-04 18:30:17",
@@ -1012,7 +1204,7 @@
       "added_at": "2021-05-04 18:30:17",
       "album": {
         "name": "Frenzy of Ecstasy",
-        "url": "https://open.spotify.com/album/2xe1fsuFOyPfGfWHEoCbAG"
+        "url": "https://open.spotify.com/album/2tdDBOupJfz4Dt5DzlIrxv"
       },
       "artists": [
         {
@@ -1022,7 +1214,7 @@
       ],
       "duration_ms": 259453,
       "name": "Guitar Sbrego",
-      "url": "https://open.spotify.com/track/1U40tfjSlm0DkfLre7cZUy"
+      "url": "https://open.spotify.com/track/2g5azwOSguslWNa8C7lHUF"
     },
     {
       "added_at": "2021-05-04 18:30:17",

@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Aperte o play e dance com os maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Alok",
+  "description": "Aperte o play e dance com os maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Jetlag Music",
   "name": "mint brasil",
   "published_playlist_ids": [
     "560Dq1N8XlhiCMoPDbEiON"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Ai Papi",
+        "url": "https://open.spotify.com/album/5q36s9vwucIs4XKp03mNVv"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 158158,
+      "name": "Ai Papi",
+      "url": "https://open.spotify.com/track/6l6RuG9usSZXu2s0NsyLWe"
+    },
     {
       "album": {
         "name": "Ain't No Sunshine (feat. Jasmine Pace)",
@@ -45,10 +67,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 259359,
       "name": "All I Wonder",
       "url": "https://open.spotify.com/track/1eFE7mambCS0dUNz688ceT"
+    },
+    {
+      "album": {
+        "name": "Always Feel Like",
+        "url": "https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Always Feel Like",
+      "url": "https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS"
     },
     {
       "album": {
@@ -165,10 +205,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169000,
       "name": "Body On My Mind",
       "url": "https://open.spotify.com/track/0tC6DBA0PA8o0LL3M6neZ9"
+    },
+    {
+      "album": {
+        "name": "Body On My Mind",
+        "url": "https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Body On My Mind",
+      "url": "https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL"
     },
     {
       "album": {
@@ -470,6 +528,32 @@
     },
     {
       "album": {
+        "name": "Dancing",
+        "url": "https://open.spotify.com/album/10racGxkbniYEwyKcajmba"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Dubdisko",
+          "url": "https://open.spotify.com/artist/6DL4EekcvzJIDIOOQQbe3Z"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162459,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/1JyQVDd48BprQrdEOpmodT"
+    },
+    {
+      "album": {
         "name": "Delusional",
         "url": "https://open.spotify.com/album/2JpeFmcaX5PZKTpDQ3Yvjb"
       },
@@ -537,7 +621,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 158000,
       "name": "Domino (feat. Oxia)",
       "url": "https://open.spotify.com/track/1TepyN2GXukyc6wo3kTFMO"
@@ -607,7 +691,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 229586,
       "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu"
@@ -654,6 +738,32 @@
     },
     {
       "album": {
+        "name": "Fall To Pieces (feat. Jex)",
+        "url": "https://open.spotify.com/album/1RZp0MwiZpYwUaRmhsx5fv"
+      },
+      "artists": [
+        {
+          "name": "Michael Calfan",
+          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171640,
+      "name": "Fall To Pieces (feat. Jex)",
+      "url": "https://open.spotify.com/track/0hgRmK0ouFXfDeYPCsezNv"
+    },
+    {
+      "album": {
         "name": "Falling for You",
         "url": "https://open.spotify.com/album/3PlHIJHpzzxNtRzzCy5YUr"
       },
@@ -673,6 +783,32 @@
       "duration_ms": 140280,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/5CG0mHrltJxCqMV0YHZ62x"
+    },
+    {
+      "album": {
+        "name": "Falling Into You",
+        "url": "https://open.spotify.com/album/6mvU6BuLYzrqLCuhisx7oo"
+      },
+      "artists": [
+        {
+          "name": "Justin Mylo",
+          "url": "https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu"
+        },
+        {
+          "name": "Pontifexx",
+          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+        },
+        {
+          "name": "Clara Sofie",
+          "url": "https://open.spotify.com/artist/1adncZQpQ0JKUUCTJyPho4"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211560,
+      "name": "Falling Into You",
+      "url": "https://open.spotify.com/track/4P0KHrbsOC4s7IgCsMLApO"
     },
     {
       "album": {
@@ -801,10 +937,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147121,
       "name": "Gimme Gimme",
       "url": "https://open.spotify.com/track/61PUqivooERiYjgLMw2UR2"
+    },
+    {
+      "album": {
+        "name": "Gimme Gimme",
+        "url": "https://open.spotify.com/album/0DE70DL84J6TAGv980nTgV"
+      },
+      "artists": [
+        {
+          "name": "Groove Delight",
+          "url": "https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147121,
+      "name": "Gimme Gimme",
+      "url": "https://open.spotify.com/track/73j31E7LkV0cgb6fkbyZWR"
     },
     {
       "album": {
@@ -849,7 +1003,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 199558,
       "name": "Goes Around",
       "url": "https://open.spotify.com/track/31YfoN78IzQX9F5WZTMlNj"
@@ -1055,10 +1209,32 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175555,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/4JUjUe1zor1myq8f2eq3Kq"
+    },
+    {
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175555,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn"
     },
     {
       "album": {
@@ -1103,7 +1279,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 173742,
       "name": "It Don\u2019t Matter - Spotify Singles",
       "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
@@ -1248,6 +1424,28 @@
     },
     {
       "album": {
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/5eo5f4UypNJpSMMzFtqUrB"
+      },
+      "artists": [
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Marmii",
+          "url": "https://open.spotify.com/artist/6AgnQLNYgI4j92GWE4cg6k"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135714,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/4COSS0u8fXB2qYtW5bbVaE"
+    },
+    {
+      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/6ICQ72lx4SLiwNxT5iVVc5"
       },
@@ -1259,7 +1457,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 174774,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/7mI2Hb578fXNLJOTfAdICI"
@@ -1439,10 +1637,32 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147976,
       "name": "Sicko Drop",
       "url": "https://open.spotify.com/track/5OJbBrGPY4scEGwMysuyLb"
+    },
+    {
+      "album": {
+        "name": "Sicko Drop",
+        "url": "https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Schillist",
+          "url": "https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147976,
+      "name": "Sicko Drop",
+      "url": "https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr"
     },
     {
       "album": {
@@ -1473,6 +1693,28 @@
       "duration_ms": 181306,
       "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
       "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
+    },
+    {
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
     },
     {
       "album": {
@@ -1604,6 +1846,28 @@
     },
     {
       "album": {
+        "name": "The Upside Down",
+        "url": "https://open.spotify.com/album/5NEZVPF8IHVGdZdsVPCjud"
+      },
+      "artists": [
+        {
+          "name": "Bolth",
+          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
+        },
+        {
+          "name": "hollywhaaat",
+          "url": "https://open.spotify.com/artist/2mP5CeI6PYuKIAav3iVsOQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "The Upside Down",
+      "url": "https://open.spotify.com/track/1jtvLN2p1q2lTQL5Qb5Igs"
+    },
+    {
+      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/25cyAsBHAUIIME98kp0wXY"
       },
@@ -1707,7 +1971,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 164105,
       "name": "Worst Enemy",
       "url": "https://open.spotify.com/track/3N3H2fNepRQVf71lnWqJ8I"

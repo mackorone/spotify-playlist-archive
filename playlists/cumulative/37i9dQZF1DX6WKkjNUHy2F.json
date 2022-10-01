@@ -153,10 +153,28 @@
       ],
       "date_added": "2017-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206819,
       "name": "Boom",
       "url": "https://open.spotify.com/track/05oJbmJsjisyNM4NWwS7re"
+    },
+    {
+      "album": {
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/3PbX3SwyXvr3f1htBBcmP0"
+      },
+      "artists": [
+        {
+          "name": "Kalifa",
+          "url": "https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206819,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/2qy2OVvmim7Vvj5UnMZdij"
     },
     {
       "album": {
@@ -255,10 +273,32 @@
       ],
       "date_added": "2017-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220779,
       "name": "La La La",
       "url": "https://open.spotify.com/track/5iaMh3rhscSYEdLGDmA2Cd"
+    },
+    {
+      "album": {
+        "name": "Hotel Cabana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB"
     },
     {
       "album": {
@@ -299,6 +339,24 @@
     {
       "album": {
         "name": "Too Bright",
+        "url": "https://open.spotify.com/album/571wQuGuOOLTbbyYoujGra"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230719,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/1DfRCC2qpjjzc6l5DmTjkG"
+    },
+    {
+      "album": {
+        "name": "Too Bright",
         "url": "https://open.spotify.com/album/28FxHb9OJRzAch4DwUUsaT"
       },
       "artists": [
@@ -309,7 +367,7 @@
       ],
       "date_added": "2017-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230719,
       "name": "Queen",
       "url": "https://open.spotify.com/track/52WTLETEHs5jwCr7LCq0VW"
@@ -339,6 +397,24 @@
     {
       "album": {
         "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255506,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/0SjaL4cjD4PXOY4orbZSMZ"
+    },
+    {
+      "album": {
+        "name": "Communion (Deluxe)",
         "url": "https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8"
       },
       "artists": [
@@ -349,10 +425,28 @@
       ],
       "date_added": "2017-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255506,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4Qrxdjj3nFhjrqcnUU5r6a"
+    },
+    {
+      "album": {
+        "name": "Supermodel of the World",
+        "url": "https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239933,
+      "name": "Supermodel (You Better Work)",
+      "url": "https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v"
     },
     {
       "album": {
@@ -367,7 +461,7 @@
       ],
       "date_added": "2017-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239933,
       "name": "Supermodel (You Better Work)",
       "url": "https://open.spotify.com/track/7tvMOBSGPAl4Gyiq6fdiRd"
@@ -414,6 +508,24 @@
     },
     {
       "album": {
+        "name": "Excommunication",
+        "url": "https://open.spotify.com/album/6Wy2fOHFH90riocdTcRtkq"
+      },
+      "artists": [
+        {
+          "name": "Tyler Glenn",
+          "url": "https://open.spotify.com/artist/5XCujjq919BFXTnjyyDpiE"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215520,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/4fTS0P8uM3Tn2WBkU57M7l"
+    },
+    {
+      "album": {
         "name": "Trash",
         "url": "https://open.spotify.com/album/3LivFdxK0GoykeIifallwV"
       },
@@ -425,7 +537,7 @@
       ],
       "date_added": "2017-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216160,
       "name": "Trash",
       "url": "https://open.spotify.com/track/0QrWi1AvY401URVZlz08EW"
@@ -443,10 +555,28 @@
       ],
       "date_added": "2017-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256483,
       "name": "Vegas",
       "url": "https://open.spotify.com/track/4BL0cwm1vMK8Yl45gtdbKz"
+    },
+    {
+      "album": {
+        "name": "Ratchet",
+        "url": "https://open.spotify.com/album/7wbl4fcf6oTL1BfKrx2pCC"
+      },
+      "artists": [
+        {
+          "name": "Shamir",
+          "url": "https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256483,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/50GoWpDjtU6nsuQr2rvlbr"
     },
     {
       "album": {

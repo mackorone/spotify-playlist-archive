@@ -798,6 +798,24 @@
     },
     {
       "album": {
+        "name": "10 Years Of Bling Vol. 2",
+        "url": "https://open.spotify.com/album/4NfmR8RmWJFAXn5b4vTv5C"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265546,
+      "name": "Fireman",
+      "url": "https://open.spotify.com/track/10WtvjnCYQvwws4Gyz3AMA"
+    },
+    {
+      "album": {
         "name": "Still Writing In My Diary: 2nd Entry",
         "url": "https://open.spotify.com/album/2R7G5Z0RWWZU1V731JZG68"
       },
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 246386,
       "name": "Hard in Da Paint",
       "url": "https://open.spotify.com/track/3XQY8kDjI8LARMIC9xkxQk"
@@ -1451,8 +1469,8 @@
           "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
         },
         {
-          "name": "Big D",
-          "url": "https://open.spotify.com/artist/3a2TTT8yA6ffsrAyNRUoGg"
+          "name": "Bigg D",
+          "url": "https://open.spotify.com/artist/25BLFLt2ivDMxIlvao7lnU"
         },
         {
           "name": "Twista",
@@ -2616,6 +2634,24 @@
     },
     {
       "album": {
+        "name": "Beat'n Down Yo Block (Deluxe)",
+        "url": "https://open.spotify.com/album/5FMsv3sDsE2M3ppuJpxdhI"
+      },
+      "artists": [
+        {
+          "name": "Unk",
+          "url": "https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "Walk It Out",
+      "url": "https://open.spotify.com/track/0vZXMVr3eZGSV2xg1VYvTM"
+    },
+    {
+      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
       },
@@ -2865,7 +2901,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 189053,
       "name": "You're a Jerk",
       "url": "https://open.spotify.com/track/30QbrkRLEimw7HWXb7ntrU"

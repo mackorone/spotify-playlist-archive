@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xZ87c95aRIeyvqVoKCtdM.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 362 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/1xZ87c95aRIeyvqVoKCtdM.md) - [plain]
 | 37 | [Time of the Season \- Mono Version](https://open.spotify.com/track/5AJrhrwz4oSZX2PwwV4qrN) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/7K6JtyaSSVr7HidQsCHun0) | 3:34 |
 | 38 | [Wedding Bell Blues \- Laura Nyro Cover](https://open.spotify.com/track/0bzNvVatHKKtAudmRvar8J) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [The Age Of Aquarius](https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch) | 2:44 |
 | 39 | [Little Woman](https://open.spotify.com/track/1F2LTc315hFDs6GYnl9KFH) | [Bobby Sherman](https://open.spotify.com/artist/5Rsz3E1aovbqsmLQOxgK2y) | [The Wonderful World of the 70's: 100 Hit Songs](https://open.spotify.com/album/5pVffpSDVlqPRADnKRmSRE) | 2:25 |
-| 40 | [Love Can Make You Happy](https://open.spotify.com/track/5RlTopKNMnGMgFrvREcKgL) | [Mercy](https://open.spotify.com/artist/4958loju8eTBhBFO32oWQ6) | [Love Can Make You Happy](https://open.spotify.com/album/4g2SB9KDxWcVTWkRQqPmbu) | 3:28 |
+| 40 | [Love Can Make You Happy](https://open.spotify.com/track/5RlTopKNMnGMgFrvREcKgL) | [Mercy](https://open.spotify.com/artist/6Z9BYjPk5TLrwCup4utBD6) | [Love Can Make You Happy](https://open.spotify.com/album/4g2SB9KDxWcVTWkRQqPmbu) | 3:28 |
 | 41 | [Good Morning Starshine \- Re\-Recording](https://open.spotify.com/track/2uPjNcKB9VIlWAOd26OQLH) | [Oliver](https://open.spotify.com/artist/3kn0edxse3lzsrrtrNTtyU) | [The Sunshine Collection](https://open.spotify.com/album/0zhhkrvqmuHlScxUuUANth) | 3:38 |
 | 42 | [These Eyes](https://open.spotify.com/track/3eNSdI9oriVPpuqkpO4h31) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [The Best Of The Guess Who](https://open.spotify.com/album/5TZEAFmzvF0PU0ubgWzLI4) | 3:45 |
 | 43 | [You've Made Me So Very Happy](https://open.spotify.com/track/1VL7DLieQaRCjAEj0Kdzju) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [Blood, Sweat & Tears](https://open.spotify.com/album/4mGSw7RUWGE7IGawdFGcjA) | 4:15 |

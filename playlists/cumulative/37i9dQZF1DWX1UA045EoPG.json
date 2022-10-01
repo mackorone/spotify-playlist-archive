@@ -9,7 +9,7 @@
     {
       "album": {
         "name": "Be Your Girl (Kaytranada Edition)",
-        "url": "https://open.spotify.com/album/4HUulHBL22YUjwG5WTje5N"
+        "url": "https://open.spotify.com/album/72D0SqH6YFJ7kiZUjKt20c"
       },
       "artists": [
         {
@@ -24,6 +24,28 @@
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 268087,
+      "name": "Be Your Girl (Kaytranada Edition)",
+      "url": "https://open.spotify.com/track/38spM0LahLUfQhOMAqA7AI"
+    },
+    {
+      "album": {
+        "name": "Be Your Girl (Kaytranada Edition)",
+        "url": "https://open.spotify.com/album/4HUulHBL22YUjwG5WTje5N"
+      },
+      "artists": [
+        {
+          "name": "Teedra Moses",
+          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2018-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 268087,
       "name": "Be Your Girl (Kaytranada Edition)",
       "url": "https://open.spotify.com/track/7xAE36UUNgyDJDIM4yiucY"
@@ -59,10 +81,28 @@
       ],
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275620,
       "name": "Change",
       "url": "https://open.spotify.com/track/6vKqMteEK461i7fZbnfLqF"
+    },
+    {
+      "album": {
+        "name": "Joy, Ease, Lightness",
+        "url": "https://open.spotify.com/album/5ybMFVNupOM0QpV9d8hciD"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "date_added": "2018-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275620,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/7HPoNHUAZaXkMFoKUL8Dah"
     },
     {
       "album": {
@@ -95,10 +135,28 @@
       ],
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169565,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/0VH7wmxrvFD1VBU701vueP"
+    },
+    {
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/6ZPDDJOHDSNq0X0zX8TCie"
+      },
+      "artists": [
+        {
+          "name": "Hurley Mower",
+          "url": "https://open.spotify.com/artist/6CoTYzOyg2NW2OUEFaSTxO"
+        }
+      ],
+      "date_added": "2018-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/7ebSGd2G8PaTR1aKWrzL2g"
     },
     {
       "album": {
@@ -131,10 +189,28 @@
       ],
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222401,
       "name": "Cool It",
       "url": "https://open.spotify.com/track/063IdJMX78fSgSJnaYwSKh"
+    },
+    {
+      "album": {
+        "name": "Bits & Pieces",
+        "url": "https://open.spotify.com/album/2ORjqBygvY8oyEp6oVm8PB"
+      },
+      "artists": [
+        {
+          "name": "Mars Today",
+          "url": "https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH"
+        }
+      ],
+      "date_added": "2018-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222401,
+      "name": "Cool It",
+      "url": "https://open.spotify.com/track/6jTJq11wBAeTptcybJHmgJ"
     },
     {
       "album": {
@@ -179,10 +255,36 @@
       ],
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231652,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0aMn1LbfjyhZunY2K7oPLg"
+    },
+    {
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/5d1GP0Dl62bgaOQ8euQJAn"
+      },
+      "artists": [
+        {
+          "name": "Umii",
+          "url": "https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc"
+        },
+        {
+          "name": "Reva DeVito",
+          "url": "https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz"
+        },
+        {
+          "name": "B. Bravo",
+          "url": "https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4"
+        }
+      ],
+      "date_added": "2018-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231652,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/3WOB7zFoez5ziVhUHtqqD9"
     },
     {
       "album": {
@@ -401,10 +503,32 @@
       ],
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185084,
       "name": "Hurting",
       "url": "https://open.spotify.com/track/56SHxd1fNd564p7kS6URmz"
+    },
+    {
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "date_added": "2018-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185084,
+      "name": "Hurting (feat. AlunaGeorge)",
+      "url": "https://open.spotify.com/track/7h8e5oCD5ZRu0VPNHEN6A5"
     },
     {
       "album": {
@@ -569,7 +693,7 @@
     {
       "album": {
         "name": "Mona Lisa Bonet",
-        "url": "https://open.spotify.com/album/2MmwK5PGV6s1O1kjAz4CsG"
+        "url": "https://open.spotify.com/album/6t3OXIO6WN2k24g8xRsam6"
       },
       "artists": [
         {
@@ -580,6 +704,24 @@
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 125607,
+      "name": "Mona Lisa Bonet",
+      "url": "https://open.spotify.com/track/06I2oTgzyWBjw6qJcKGMkk"
+    },
+    {
+      "album": {
+        "name": "Mona Lisa Bonet",
+        "url": "https://open.spotify.com/album/2MmwK5PGV6s1O1kjAz4CsG"
+      },
+      "artists": [
+        {
+          "name": "Latrell James",
+          "url": "https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc"
+        }
+      ],
+      "date_added": "2018-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 125607,
       "name": "Mona Lisa Bonet",
       "url": "https://open.spotify.com/track/2YzBdC2q79LqZ2w7YN5Yfj"
@@ -597,10 +739,28 @@
       ],
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220258,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/29tpVR68E5goOG1RlLQqbv"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2018-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220258,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3vegrQVpcg38k6D20s6TTm"
     },
     {
       "album": {
@@ -615,10 +775,28 @@
       ],
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213000,
       "name": "MPH",
       "url": "https://open.spotify.com/track/2MHGSsLRJgtFO3FUMHYZIQ"
+    },
+    {
+      "album": {
+        "name": "MPH",
+        "url": "https://open.spotify.com/album/7MBwB6nRv4cikVJEWevUHU"
+      },
+      "artists": [
+        {
+          "name": "MIKNNA",
+          "url": "https://open.spotify.com/artist/53htGvuREf9YT5LYk5HEvb"
+        }
+      ],
+      "date_added": "2018-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "MPH",
+      "url": "https://open.spotify.com/track/7tzRTFrsbmx9M4O8iQug7H"
     },
     {
       "album": {
@@ -860,6 +1038,28 @@
     },
     {
       "album": {
+        "name": "Sometime",
+        "url": "https://open.spotify.com/album/2XAClj8jcQ28igOqs1iMRU"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        }
+      ],
+      "date_added": "2018-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166505,
+      "name": "Sometime",
+      "url": "https://open.spotify.com/track/0k7jQIz3bZBeeCwmBFZzOS"
+    },
+    {
+      "album": {
         "name": "Sometime (feat. Brasstracks)",
         "url": "https://open.spotify.com/album/3JtPUd1jInKOtMUVFiqDOF"
       },
@@ -875,7 +1075,7 @@
       ],
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166505,
       "name": "Sometime (feat. Brasstracks)",
       "url": "https://open.spotify.com/track/5G9AFl0ibJsTbGm8h3N6jw"
@@ -1009,10 +1209,28 @@
       ],
       "date_added": "2018-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210555,
       "name": "Zesty Surprise",
       "url": "https://open.spotify.com/track/06qtPTcRVN7VRhADhxDSHH"
+    },
+    {
+      "album": {
+        "name": "Zesty Surprise",
+        "url": "https://open.spotify.com/album/1nvOH8ihLCbnpg2ICSKET3"
+      },
+      "artists": [
+        {
+          "name": "Birocratic",
+          "url": "https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB"
+        }
+      ],
+      "date_added": "2018-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210555,
+      "name": "Zesty Surprise",
+      "url": "https://open.spotify.com/track/1kgwqnaAleyIrREmXRYIKo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWX1UA045EoPG"

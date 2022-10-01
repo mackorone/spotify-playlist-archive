@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Day in June",
+        "url": "https://open.spotify.com/album/2dbOdeW2CpY4UN43yMybuv"
+      },
+      "artists": [
+        {
+          "name": "Davide Delvecchio",
+          "url": "https://open.spotify.com/artist/5WDMPRZIzbj6Q2eXqVqXmu"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "A Day in June",
+      "url": "https://open.spotify.com/track/1pZZzlgOtbvhEI9I0e7Z1P"
+    },
+    {
+      "album": {
         "name": "A Drop in the Ocean",
         "url": "https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM"
       },
@@ -189,7 +207,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 179577,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1pJrauys2fPNopv4TuyltK"
@@ -524,6 +542,24 @@
     },
     {
       "album": {
+        "name": "In My Blood",
+        "url": "https://open.spotify.com/album/7JFHndEvL3lcEuPtrhIznR"
+      },
+      "artists": [
+        {
+          "name": "Dorette Roos",
+          "url": "https://open.spotify.com/artist/7jKYBIGfuGvN2Jsvu5qGGX"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140936,
+      "name": "In My Blood",
+      "url": "https://open.spotify.com/track/3Qk8eoXVUqHIRCarPbrlr8"
+    },
+    {
+      "album": {
         "name": "Path of The Moon",
         "url": "https://open.spotify.com/album/4l5q2eFbVXYKWdrcjFJHo1"
       },
@@ -553,10 +589,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157269,
       "name": "Iridescent",
       "url": "https://open.spotify.com/track/1KTUpvg6XroGOSnmpjuyVi"
+    },
+    {
+      "album": {
+        "name": "Wax Figures",
+        "url": "https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD"
+      },
+      "artists": [
+        {
+          "name": "Infinity Ripple",
+          "url": "https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157269,
+      "name": "Iridescent",
+      "url": "https://open.spotify.com/track/5fpojFWTYwnkwzyRm2D3du"
     },
     {
       "album": {
@@ -633,6 +687,28 @@
       "duration_ms": 139689,
       "name": "Landsort",
       "url": "https://open.spotify.com/track/0VrOdgTIh68gW8p9WkXSPY"
+    },
+    {
+      "album": {
+        "name": "Quartet Classics Series: Largo from Xerxes",
+        "url": "https://open.spotify.com/album/3REN8n3aARNwmHx9YcGjvQ"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Artwinder Modern Quartet",
+          "url": "https://open.spotify.com/artist/2ipPNWfa4u0WTh99vGxpQ6"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Largo from Xerxes",
+      "url": "https://open.spotify.com/track/3dSA0ZoHzvXxvticgIz5MJ"
     },
     {
       "album": {
@@ -835,10 +911,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213859,
       "name": "Opal",
       "url": "https://open.spotify.com/track/3vb6ZHxSckbWkqM5wNdsA5"
+    },
+    {
+      "album": {
+        "name": "Humming Bird Rework",
+        "url": "https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213859,
+      "name": "Opal",
+      "url": "https://open.spotify.com/track/6nqhj6vFNMey63HMUcIvLS"
     },
     {
       "album": {
@@ -950,6 +1044,78 @@
     },
     {
       "album": {
+        "name": "Rising Fog & Sacred Mountain",
+        "url": "https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ"
+      },
+      "artists": [
+        {
+          "name": "Elinaura",
+          "url": "https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198250,
+      "name": "Rising Fog",
+      "url": "https://open.spotify.com/track/3fndeX9142XIUH7qySaGMc"
+    },
+    {
+      "album": {
+        "name": "Rising Fog & Sacred Mountain",
+        "url": "https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ"
+      },
+      "artists": [
+        {
+          "name": "Elinaura",
+          "url": "https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Sacred Mountain",
+      "url": "https://open.spotify.com/track/6qzS70K6z2XDu4bCwKVa50"
+    },
+    {
+      "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/6THGTBys7V3VsuL4PvHNt8"
+      },
+      "artists": [
+        {
+          "name": "Dorette Roos",
+          "url": "https://open.spotify.com/artist/7jKYBIGfuGvN2Jsvu5qGGX"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214028,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/6HZNaBGl5N7OWCyntPYjgi"
+    },
+    {
+      "album": {
+        "name": "Second Sleep",
+        "url": "https://open.spotify.com/album/54DvTHvJ5QG5c0F7B5YAZe"
+      },
+      "artists": [
+        {
+          "name": "S. Salter",
+          "url": "https://open.spotify.com/artist/1rr2n5xm79tKtt2vAANMGB"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218405,
+      "name": "Second Sleep",
+      "url": "https://open.spotify.com/track/6pGsdGElugsC8HygWqcSSK"
+    },
+    {
+      "album": {
         "name": "Ser A Ti",
         "url": "https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB"
       },
@@ -965,6 +1131,24 @@
       "duration_ms": 214687,
       "name": "Ser A Ti",
       "url": "https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE"
+    },
+    {
+      "album": {
+        "name": "Silver Sky",
+        "url": "https://open.spotify.com/album/00DwQxtjO2UzwLf1DU1lsS"
+      },
+      "artists": [
+        {
+          "name": "Adam Bokesch",
+          "url": "https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200137,
+      "name": "Silver Sky",
+      "url": "https://open.spotify.com/track/5S9EkxIUWgxcBuwmcVnits"
     },
     {
       "album": {
@@ -1099,6 +1283,24 @@
     {
       "album": {
         "name": "Wax Figures",
+        "url": "https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD"
+      },
+      "artists": [
+        {
+          "name": "Infinity Ripple",
+          "url": "https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187011,
+      "name": "Supposing",
+      "url": "https://open.spotify.com/track/08nQNQ3joVf8kyjuZ9rEVv"
+    },
+    {
+      "album": {
+        "name": "Wax Figures",
         "url": "https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt"
       },
       "artists": [
@@ -1109,10 +1311,36 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187011,
       "name": "Supposing",
       "url": "https://open.spotify.com/track/7vCNVMDqzV2tsdZi5Rodi6"
+    },
+    {
+      "album": {
+        "name": "The Dawning",
+        "url": "https://open.spotify.com/album/2dukrzOf2iXJpRDSJqZRWH"
+      },
+      "artists": [
+        {
+          "name": "Christoffer Moe Ditlevsen",
+          "url": "https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S"
+        },
+        {
+          "name": "Anna Dager",
+          "url": "https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B"
+        },
+        {
+          "name": "Hanna Ekstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167458,
+      "name": "The Dawning",
+      "url": "https://open.spotify.com/track/0k963HCwT2H2SLhdA8CWve"
     },
     {
       "album": {
@@ -1163,10 +1391,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141266,
       "name": "The Streets of Belgrade",
       "url": "https://open.spotify.com/track/4cNtJQaOgmjlBSChAlrsBT"
+    },
+    {
+      "album": {
+        "name": "Wax Figures",
+        "url": "https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD"
+      },
+      "artists": [
+        {
+          "name": "Infinity Ripple",
+          "url": "https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141266,
+      "name": "The Streets of Belgrade",
+      "url": "https://open.spotify.com/track/57zYO8q3f19ksGdHcCFpk9"
     },
     {
       "album": {
@@ -1203,6 +1449,24 @@
       "duration_ms": 167740,
       "name": "To Capture The Infinite",
       "url": "https://open.spotify.com/track/0hrTFLbtNvhe5X8b40DVOC"
+    },
+    {
+      "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/6kkCrSH59rXLNsYFEHkQ59"
+      },
+      "artists": [
+        {
+          "name": "Omar Raafat",
+          "url": "https://open.spotify.com/artist/1WbvLPPRx9AHgPt2OwUbi3"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158674,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/2DrBcfPBdC9rQ1puxyDkDB"
     },
     {
       "album": {

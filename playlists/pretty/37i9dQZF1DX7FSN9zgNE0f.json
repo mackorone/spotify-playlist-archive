@@ -1,15 +1,31 @@
 {
   "description": "Recorr\u00e9 un viaje por el oscuro \u00e9xtasis de WOS!",
-  "num_followers": 227943,
+  "num_followers": 247163,
   "original_name": "This Is WOS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU1NDgwOSwwMDAwMDAwOTAwMDAwMTgxZWRmNzMzMGQwMDAwMDE3ZDIzZjhkZTRm",
+  "snapshot_id": "MTY2MzgwNDgwMCwwMDAwMDAwMDlmYTU1NTdiYTExZGY0YzBmZDZkYTUyOWE4MWExYzAx",
   "tracks": [
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "PUAJ (sesi\u00f3n)",
+        "url": "https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 156665,
+      "name": "PUAJ (sesi\u00f3n)",
+      "url": "https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "ARRANCARMELO",
         "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
@@ -25,7 +41,39 @@
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "TERRAZA",
+        "url": "https://open.spotify.com/album/0q1g3Xvfg0qLLNzRNxKLL6"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 234949,
+      "name": "TERRAZA",
+      "url": "https://open.spotify.com/track/4Yx9jw2hqVk00uwLRBXKxc"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "TRES PUNTOS SUSPENSIVOS",
+        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "ALMA DINAMITA",
+      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "QUEREME",
         "url": "https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7"
@@ -45,7 +93,7 @@
       "url": "https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "CARAVANA",
         "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
@@ -61,7 +109,7 @@
       "url": "https://open.spotify.com/track/2UAWYufVaO3EnUUNzl0ppO"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "OSCURO \u00c9XTASIS",
         "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
@@ -81,71 +129,7 @@
       "url": "https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "ANDR\u00d3MEDA",
-        "url": "https://open.spotify.com/album/5hP0Os6zCLLnf5ADAeIVs7"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 171475,
-      "name": "ANDR\u00d3MEDA",
-      "url": "https://open.spotify.com/track/3hNKWD8kkxOEJ7K90PjWri"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "CARAVANA",
-        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 176394,
-      "name": "MEL\u00d3N VINO",
-      "url": "https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "TRES PUNTOS SUSPENSIVOS",
-        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "ALMA DINAMITA",
-      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "TERRAZA",
-        "url": "https://open.spotify.com/album/0q1g3Xvfg0qLLNzRNxKLL6"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 234949,
-      "name": "TERRAZA",
-      "url": "https://open.spotify.com/track/4Yx9jw2hqVk00uwLRBXKxc"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "CARAVANA",
         "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
@@ -161,10 +145,10 @@
       "url": "https://open.spotify.com/track/0blWPYAfbvpRLVHUcmqmmj"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
       "album": {
-        "name": "MIR\u00c1 MAM\u00c1",
-        "url": "https://open.spotify.com/album/6f996bGCPz0XK7C5zwCs7l"
+        "name": "ANDR\u00d3MEDA",
+        "url": "https://open.spotify.com/album/5hP0Os6zCLLnf5ADAeIVs7"
       },
       "artists": [
         {
@@ -172,12 +156,28 @@
           "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 169536,
-      "name": "MIR\u00c1 MAM\u00c1",
-      "url": "https://open.spotify.com/track/3d1wvsZjykpYZxbIPz91Ou"
+      "duration_ms": 171475,
+      "name": "ANDR\u00d3MEDA",
+      "url": "https://open.spotify.com/track/3hNKWD8kkxOEJ7K90PjWri"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "CARAVANA",
+        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "OKUPA",
+      "url": "https://open.spotify.com/track/25NPeIjHjQGvyp4D52Tji2"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "OSCURO \u00c9XTASIS",
         "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
@@ -193,7 +193,39 @@
       "url": "https://open.spotify.com/track/47DL8jY6HJD2mlCcTuOWKX"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "CARAVANA",
+        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 176394,
+      "name": "MEL\u00d3N VINO",
+      "url": "https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "CARAVANA",
+        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 155867,
+      "name": "LUZ DELITO",
+      "url": "https://open.spotify.com/track/13VEtVCYfLTVsq5STs3SlW"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "OSCURO \u00c9XTASIS",
         "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
@@ -213,30 +245,10 @@
       "url": "https://open.spotify.com/track/2y2iEADc8O0Vv5IKHSs21i"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
       "album": {
-        "name": "OSCURO \u00c9XTASIS",
-        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        }
-      ],
-      "duration_ms": 144129,
-      "name": "NI\u00d1O GORDO FLACO",
-      "url": "https://open.spotify.com/track/0Wz6TToEPwxzH482fuGEwO"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "CARAVANA",
-        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
+        "name": "MIR\u00c1 MAM\u00c1",
+        "url": "https://open.spotify.com/album/6f996bGCPz0XK7C5zwCs7l"
       },
       "artists": [
         {
@@ -244,12 +256,12 @@
           "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 143000,
-      "name": "OKUPA",
-      "url": "https://open.spotify.com/track/25NPeIjHjQGvyp4D52Tji2"
+      "duration_ms": 169536,
+      "name": "MIR\u00c1 MAM\u00c1",
+      "url": "https://open.spotify.com/track/3d1wvsZjykpYZxbIPz91Ou"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
@@ -281,10 +293,10 @@
       "url": "https://open.spotify.com/track/1fJjC8C0BdgUHlKIP2ODQf"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
       "album": {
-        "name": "CARAVANA",
-        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
+        "name": "MUGRE",
+        "url": "https://open.spotify.com/album/76U5G9L3YaFDkKGYXfl1Zb"
       },
       "artists": [
         {
@@ -292,28 +304,32 @@
           "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 155867,
-      "name": "LUZ DELITO",
-      "url": "https://open.spotify.com/track/13VEtVCYfLTVsq5STs3SlW"
+      "duration_ms": 259199,
+      "name": "MUGRE",
+      "url": "https://open.spotify.com/track/0hoo74Q82lOWekiPWYOOuz"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
       "album": {
-        "name": "QUE SE MEJOREN",
-        "url": "https://open.spotify.com/album/2YrxNeGDQAFYrNvOx3mYUe"
+        "name": "OSCURO \u00c9XTASIS",
+        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
       },
       "artists": [
         {
           "name": "WOS",
           "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
         }
       ],
-      "duration_ms": 181454,
-      "name": "QUE SE MEJOREN",
-      "url": "https://open.spotify.com/track/1ikC0IM4iDcdPtVpQ22fik"
+      "duration_ms": 144129,
+      "name": "NI\u00d1O GORDO FLACO",
+      "url": "https://open.spotify.com/track/0Wz6TToEPwxzH482fuGEwO"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "PURPURA",
         "url": "https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2"
@@ -329,10 +345,10 @@
       "url": "https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
       "album": {
-        "name": "TRES PUNTOS SUSPENSIVOS",
-        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
+        "name": "CARAVANA",
+        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
       },
       "artists": [
         {
@@ -340,12 +356,12 @@
           "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 177615,
-      "name": "OJERAS NEGRAS",
-      "url": "https://open.spotify.com/track/6xbN8rhmzmI4MfLRDXw5KP"
+      "duration_ms": 150661,
+      "name": "PANTANO",
+      "url": "https://open.spotify.com/track/0VMxiFeuVhG3Hu7NHnge9e"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "CONVOY JARANA",
         "url": "https://open.spotify.com/album/0QhDcUVtv75nzlLHiNZ3bZ"
@@ -361,7 +377,23 @@
       "url": "https://open.spotify.com/track/09ZM0SFVkQauSIR5I3aj0g"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "QUE SE MEJOREN",
+        "url": "https://open.spotify.com/album/2YrxNeGDQAFYrNvOx3mYUe"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 181454,
+      "name": "QUE SE MEJOREN",
+      "url": "https://open.spotify.com/track/1ikC0IM4iDcdPtVpQ22fik"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
@@ -381,7 +413,39 @@
       "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "OSCURO \u00c9XTASIS",
+        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 195864,
+      "name": "GATO NEGRO",
+      "url": "https://open.spotify.com/track/5Mn4FEB5vtRI4tbr3MwNnO"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "OSCURO \u00c9XTASIS",
+        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 220222,
+      "name": "LLENO DE ZAFIROS",
+      "url": "https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "TRES PUNTOS SUSPENSIVOS",
         "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
@@ -401,123 +465,7 @@
       "url": "https://open.spotify.com/track/1dKjLvlAPTPlhRCFyA84Z9"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "MUGRE",
-        "url": "https://open.spotify.com/album/76U5G9L3YaFDkKGYXfl1Zb"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 259199,
-      "name": "MUGRE",
-      "url": "https://open.spotify.com/track/0hoo74Q82lOWekiPWYOOuz"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "OSCURO \u00c9XTASIS",
-        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 189434,
-      "name": "BUITRES",
-      "url": "https://open.spotify.com/track/2cIf0QMDPd9aimLylQqCZ8"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "OSCURO \u00c9XTASIS",
-        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 220222,
-      "name": "LLENO DE ZAFIROS",
-      "url": "https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "CARAVANA",
-        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 150661,
-      "name": "PANTANO",
-      "url": "https://open.spotify.com/track/0VMxiFeuVhG3Hu7NHnge9e"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "OSCURO \u00c9XTASIS",
-        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "PARED DE CRISTAL",
-      "url": "https://open.spotify.com/track/2k9N7Izc9EO9upvM61FuGC"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "TRES PUNTOS SUSPENSIVOS",
-        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 65182,
-      "name": "40",
-      "url": "https://open.spotify.com/track/5Mfz3Aoj1txhueNZUXSUnV"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/3hykNzTPJLYxvNxY4gGvHk"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/1ueLYdeuGMAwUiaezLDObD"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "Protocolo",
         "url": "https://open.spotify.com/album/4DEjk8Hu1JxL7o8Y17vHJR"
@@ -537,39 +485,7 @@
       "url": "https://open.spotify.com/track/1IJcROM3wuO4phCdjlEl5t"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "OSCURO \u00c9XTASIS",
-        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 195864,
-      "name": "GATO NEGRO",
-      "url": "https://open.spotify.com/track/5Mn4FEB5vtRI4tbr3MwNnO"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
-      "album": {
-        "name": "OSCURO \u00c9XTASIS",
-        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 116247,
-      "name": "INTRODUCCI\u00d3N AL \u00c9XTASIS",
-      "url": "https://open.spotify.com/track/74KCrwYaoHssps1bXnh1mR"
-    },
-    {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "LIVE SET",
         "url": "https://open.spotify.com/album/1pPk6NgVoh8mL0V48ChMrL"
@@ -585,7 +501,107 @@
       "url": "https://open.spotify.com/track/0WYcVMr4ekWawPKIL2JDZd"
     },
     {
-      "added_at": "2022-06-16 22:57:18",
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "OSCURO \u00c9XTASIS",
+        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "PARED DE CRISTAL",
+      "url": "https://open.spotify.com/track/2k9N7Izc9EO9upvM61FuGC"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/3hykNzTPJLYxvNxY4gGvHk"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/1ueLYdeuGMAwUiaezLDObD"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "OSCURO \u00c9XTASIS",
+        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 189434,
+      "name": "BUITRES",
+      "url": "https://open.spotify.com/track/2cIf0QMDPd9aimLylQqCZ8"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "TRES PUNTOS SUSPENSIVOS",
+        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 177615,
+      "name": "OJERAS NEGRAS",
+      "url": "https://open.spotify.com/track/6xbN8rhmzmI4MfLRDXw5KP"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "TRES PUNTOS SUSPENSIVOS",
+        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 65182,
+      "name": "40",
+      "url": "https://open.spotify.com/track/5Mfz3Aoj1txhueNZUXSUnV"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
+      "album": {
+        "name": "OSCURO \u00c9XTASIS",
+        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 116247,
+      "name": "INTRODUCCI\u00d3N AL \u00c9XTASIS",
+      "url": "https://open.spotify.com/track/74KCrwYaoHssps1bXnh1mR"
+    },
+    {
+      "added_at": "2022-09-22 00:00:00",
       "album": {
         "name": "Bolivia",
         "url": "https://open.spotify.com/album/5YxoX8pFRrXYW1ACMUM6ur"

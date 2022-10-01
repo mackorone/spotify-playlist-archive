@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Harmony Hill",
+        "url": "https://open.spotify.com/album/2S5d3lR3nekV8pxERYJikd"
+      },
+      "artists": [
+        {
+          "name": "Dervish",
+          "url": "https://open.spotify.com/artist/08DRTASY1wyduMevINkClA"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Apples in Winter",
+      "url": "https://open.spotify.com/track/0seLQVi3uesYGf188SjV7W"
+    },
+    {
+      "album": {
         "name": "Decade",
         "url": "https://open.spotify.com/album/45jjWeemwTn2Mh0fSjrhoy"
       },
@@ -73,10 +91,28 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233973,
       "name": "Apples in Winter",
       "url": "https://open.spotify.com/track/4twcqevRWiXRndhVhNpUvU"
+    },
+    {
+      "album": {
+        "name": "The Ravishing Genius of Bones",
+        "url": "https://open.spotify.com/album/5FuSpSOXCFheIcXtCOtH2t"
+      },
+      "artists": [
+        {
+          "name": "Brian Finnegan",
+          "url": "https://open.spotify.com/artist/20fwGjw7IpBUMzxjb3gvET"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303853,
+      "name": "Belfast",
+      "url": "https://open.spotify.com/track/0VqM9XNkPtRRNNCD09QDg7"
     },
     {
       "album": {
@@ -91,7 +127,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 303853,
       "name": "Belfast",
       "url": "https://open.spotify.com/track/5P8LzctGucBj26sE78N7SP"
@@ -153,7 +189,7 @@
     {
       "album": {
         "name": "The Minstrel From Clare",
-        "url": "https://open.spotify.com/album/75JKmNw0ljwHkoPoLFSkpP"
+        "url": "https://open.spotify.com/album/6QK8bIcu19iuEPfyenHHDl"
       },
       "artists": [
         {
@@ -165,8 +201,80 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 305813,
+      "name": "Caoineadh An Spailp\u00edn (The Spalpeen's Lament)",
+      "url": "https://open.spotify.com/track/3sQcd81KocTl0ZVQvcqh2n"
+    },
+    {
+      "album": {
+        "name": "The Minstrel From Clare",
+        "url": "https://open.spotify.com/album/75JKmNw0ljwHkoPoLFSkpP"
+      },
+      "artists": [
+        {
+          "name": "Willie Clancy",
+          "url": "https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 305813,
       "name": "Caoineadh an Spailp\u00edn (The Spalpeen's Lament)",
       "url": "https://open.spotify.com/track/7HGUltqTH6YqynkMQl3zzd"
+    },
+    {
+      "album": {
+        "name": "The Best Of DeDannan",
+        "url": "https://open.spotify.com/album/72QISrRZoQmgNZa7ucSlra"
+      },
+      "artists": [
+        {
+          "name": "De Dannan",
+          "url": "https://open.spotify.com/artist/09RBtr6JUJprt2li2NsdU8"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 339106,
+      "name": "Coleraine Jig",
+      "url": "https://open.spotify.com/track/7n76JlxTrfGMUHfCK7s4Nw"
+    },
+    {
+      "album": {
+        "name": "The Star Spangled Molly (2022 Remaster)",
+        "url": "https://open.spotify.com/album/6X0QjmyympxMvV0CcUMoCT"
+      },
+      "artists": [
+        {
+          "name": "De Dannan",
+          "url": "https://open.spotify.com/artist/09RBtr6JUJprt2li2NsdU8"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339866,
+      "name": "Coleraine Jig / Derrane's / John Stenson's / Moher Reel - 2022 Remaster",
+      "url": "https://open.spotify.com/track/4lXHEHTVVB4sQGZSfswd9A"
+    },
+    {
+      "album": {
+        "name": "The Star Spangled Molly",
+        "url": "https://open.spotify.com/album/5go8p25WL9vT4sX2baR433"
+      },
+      "artists": [
+        {
+          "name": "De Danann All-Stars",
+          "url": "https://open.spotify.com/artist/4GiZqMvreWFc0AZL2rhnbX"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 340573,
+      "name": "Coleraine Jig/Derrane's/John Stenson's/Mother Reel",
+      "url": "https://open.spotify.com/track/60DXGx8p9BFHko5IgDwEmO"
     },
     {
       "album": {
@@ -181,7 +289,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 342573,
       "name": "Coleraine Jig/Derrane's/John Stenson's/Mother Reel",
       "url": "https://open.spotify.com/track/6KwgDPblRn3AjFBeaU3kbz"
@@ -221,10 +329,32 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198066,
       "name": "Cooley's Jig",
       "url": "https://open.spotify.com/track/2VTQ8VMyIFCJ6nx3i2EdWY"
+    },
+    {
+      "album": {
+        "name": "I gCnoc Na Gra\u00ed",
+        "url": "https://open.spotify.com/album/0M6T36GQGzhrlk89SINXvG"
+      },
+      "artists": [
+        {
+          "name": "Noel Hill",
+          "url": "https://open.spotify.com/artist/3mOxdrvnnFAGKWE29vW7qx"
+        },
+        {
+          "name": "Tony MacMahon",
+          "url": "https://open.spotify.com/artist/1suQ05WMwsctRnmYZrh9CG"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "Cooley's Jig",
+      "url": "https://open.spotify.com/track/7yY6EPqQsRMO3DYI19wDaX"
     },
     {
       "album": {
@@ -293,10 +423,28 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215693,
       "name": "Dolan's 6AM",
       "url": "https://open.spotify.com/track/0VxzXknxAYjvcUL0GfAExj"
+    },
+    {
+      "album": {
+        "name": "How to Tune a Fish",
+        "url": "https://open.spotify.com/album/434qaX0gq8wBHp1PaQiJJf"
+      },
+      "artists": [
+        {
+          "name": "Beoga",
+          "url": "https://open.spotify.com/artist/659fOqEHzm3jL8AeWuOwXO"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215693,
+      "name": "Dolan's 6AM",
+      "url": "https://open.spotify.com/track/2gHH4oSsdrli2lo0aeSkMW"
     },
     {
       "album": {
@@ -437,7 +585,7 @@
     {
       "album": {
         "name": "Ceol & Cuimhne (Music & Memory)",
-        "url": "https://open.spotify.com/album/7quUNhhoH6QdgepIxWKOCv"
+        "url": "https://open.spotify.com/album/1y6gUYBfHfPgJYccX7t83s"
       },
       "artists": [
         {
@@ -449,8 +597,44 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 277746,
+      "name": "Gan Ainm / The Stormy Night / Paddy Cronin's",
+      "url": "https://open.spotify.com/track/4IsFOllla28RTBpOp2FRgO"
+    },
+    {
+      "album": {
+        "name": "Ceol & Cuimhne (Music & Memory)",
+        "url": "https://open.spotify.com/album/7quUNhhoH6QdgepIxWKOCv"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9ada",
+          "url": "https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 277746,
       "name": "Gan ainm/The stormy night/Paddy Cronin's",
       "url": "https://open.spotify.com/track/0TV55v5AijvhZ3TdDvnJgR"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/4AImfr97hklSUt6PrFhwrh"
+      },
+      "artists": [
+        {
+          "name": "Oige",
+          "url": "https://open.spotify.com/artist/1DjvIbQK1vNuJOy25Y0w7g"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Girls Put the Fags Out: Ashplant - Red Haired Lass.",
+      "url": "https://open.spotify.com/track/04JYZ3q9FOCb9wZ2b9qX2l"
     },
     {
       "album": {
@@ -465,7 +649,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201533,
       "name": "Girls Put the Fags Out: Ashplant - Red Haired Lass.",
       "url": "https://open.spotify.com/track/41cWFTmNsCD9fYepvrK3rW"
@@ -513,7 +697,7 @@
     {
       "album": {
         "name": "Wooden Nickels",
-        "url": "https://open.spotify.com/album/2wVPCnqgiRIChDqUH9jeIa"
+        "url": "https://open.spotify.com/album/3gQy6X7TuRab6r0VdzW6ra"
       },
       "artists": [
         {
@@ -532,6 +716,32 @@
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208697,
+      "name": "Goodbye Girls I'm Going to Boston",
+      "url": "https://open.spotify.com/track/2bgqrasCfNCP9B2MY8J4iz"
+    },
+    {
+      "album": {
+        "name": "Wooden Nickels",
+        "url": "https://open.spotify.com/album/2wVPCnqgiRIChDqUH9jeIa"
+      },
+      "artists": [
+        {
+          "name": "Laura Feddersen",
+          "url": "https://open.spotify.com/artist/5C0s1exsc0UT1MytdU7kKZ"
+        },
+        {
+          "name": "Joel Wennerstrom",
+          "url": "https://open.spotify.com/artist/0CS4kanxTgf7zAq0dxBBhl"
+        },
+        {
+          "name": "Owen Marshall",
+          "url": "https://open.spotify.com/artist/1fhC0AGIoLHS9qd0GszMDI"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 208697,
       "name": "Goodbye Girls I'm Going to Boston",
       "url": "https://open.spotify.com/track/4CH9ggXUaWwkvcGoQATrmO"
@@ -557,10 +767,28 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233573,
       "name": "Hardiman The Fiddler",
       "url": "https://open.spotify.com/track/0JJZfZebDAcmBT7Y1kcBtx"
+    },
+    {
+      "album": {
+        "name": "Six Days In Down",
+        "url": "https://open.spotify.com/album/3rUkCKi7QubHYkrdhSzCjF"
+      },
+      "artists": [
+        {
+          "name": "Bob Brozman, John McSherry & D\u00f3nal O\u2019Connor",
+          "url": "https://open.spotify.com/artist/5wVFg1a2Ijgy6BZH3DnjQE"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233573,
+      "name": "Hardiman The Fiddler",
+      "url": "https://open.spotify.com/track/2OAVXyAahuRTwTs1zzHh9p"
     },
     {
       "album": {
@@ -618,6 +846,24 @@
     },
     {
       "album": {
+        "name": "Irish Traditional Fiddle Music - Reels and Jigs",
+        "url": "https://open.spotify.com/album/6uI2reVtNsqZitFIiQ8r4e"
+      },
+      "artists": [
+        {
+          "name": "Kilfenora Fiddle Ceili Band",
+          "url": "https://open.spotify.com/artist/008wJbpZnkHRPcykr2hUye"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171680,
+      "name": "Kilfenora Reels: Connemara Stocking - The Westmeath Hunt - A Fair Wind",
+      "url": "https://open.spotify.com/track/7BCAaDDuesyBhgQwKpJmnN"
+    },
+    {
+      "album": {
         "name": "Irish Traditional Fiddle Music (Digitally Remastered)",
         "url": "https://open.spotify.com/album/7rQX0gyAWCCgLxW98U1C2p"
       },
@@ -629,7 +875,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 171682,
       "name": "Kilfenora Reels: Connemara Stocking - The Westmeath Hunt - A Fair Wind",
       "url": "https://open.spotify.com/track/0760mgHmuy6RoYgEYgEaki"
@@ -647,10 +893,28 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258673,
       "name": "Lady Montgomery: Lady Montgomery / Mutts Favourite / Up Da Stroods Da Sailor Goes",
       "url": "https://open.spotify.com/track/33XkqtATDmL4irlRL4UtCY"
+    },
+    {
+      "album": {
+        "name": "Live at Celtic Connections",
+        "url": "https://open.spotify.com/album/0QJNK2vCzSjCjzRWrciTH7"
+      },
+      "artists": [
+        {
+          "name": "Session A9",
+          "url": "https://open.spotify.com/artist/4Ct4nuuRWcidF89g3fihxa"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258673,
+      "name": "Lady Montgomery: Lady Montgomery / Mutts Favourite / Up Da Stroods Da Sailor Goes",
+      "url": "https://open.spotify.com/track/4c3SxYBZhankLRE0Z5GJwQ"
     },
     {
       "album": {
@@ -701,10 +965,28 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194933,
       "name": "Last Nights Fun",
       "url": "https://open.spotify.com/track/1vuy2weMPn1fCsqvpzzY1M"
+    },
+    {
+      "album": {
+        "name": "Playing with fire",
+        "url": "https://open.spotify.com/album/1w9wITxDg8Ld4uLGRYCnbx"
+      },
+      "artists": [
+        {
+          "name": "Dervish",
+          "url": "https://open.spotify.com/artist/08DRTASY1wyduMevINkClA"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194933,
+      "name": "Last Nights Fun",
+      "url": "https://open.spotify.com/track/7nrfzw5nDPdtLBEwpBWi4E"
     },
     {
       "album": {
@@ -787,7 +1069,7 @@
     {
       "album": {
         "name": "Down the Line",
-        "url": "https://open.spotify.com/album/4BPjPP2T4DW4lk5gHHsJcf"
+        "url": "https://open.spotify.com/album/2CcYzfVX4bPO2vFgOe9Ac0"
       },
       "artists": [
         {
@@ -800,7 +1082,43 @@
       "date_removed": null,
       "duration_ms": 152160,
       "name": "Lucy Campbell's / The Flogging (Reels)",
+      "url": "https://open.spotify.com/track/3REVXft7xiqwFBLhdFa1ux"
+    },
+    {
+      "album": {
+        "name": "Down the Line",
+        "url": "https://open.spotify.com/album/4BPjPP2T4DW4lk5gHHsJcf"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Tourish",
+          "url": "https://open.spotify.com/artist/7JgJRLk3nWbYCeMyzSXXMj"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 152160,
+      "name": "Lucy Campbell's / The Flogging (Reels)",
       "url": "https://open.spotify.com/track/6qjF0LNDQu7JN4A1LCgnlG"
+    },
+    {
+      "album": {
+        "name": "The \u00d3 Riada Collection: \u00d3 Riada Sa Gaiety",
+        "url": "https://open.spotify.com/album/0QQsqD5aa1kIQd9lgY4620"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n \u00d3 Riada",
+          "url": "https://open.spotify.com/artist/1Q30Up3KFXXsjwKw9EXrlp"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208533,
+      "name": "Marcshlua U\u00ed N\u00e9ill (O'Neill's Cavalry March)",
+      "url": "https://open.spotify.com/track/6rBpay8He9Yamxl2j3PZNo"
     },
     {
       "album": {
@@ -815,7 +1133,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209160,
       "name": "Marcshlua U\u00ed N\u00e9ill (O'Neill's Cavalry March)",
       "url": "https://open.spotify.com/track/0yuJx3DLCeiKwmblrXJPPX"
@@ -849,7 +1167,7 @@
     {
       "album": {
         "name": "Midsummer's Night",
-        "url": "https://open.spotify.com/album/7xcdotuMtylVy2N6XPdoJ2"
+        "url": "https://open.spotify.com/album/5bawZAo1wLfiCW0rxaJxXu"
       },
       "artists": [
         {
@@ -860,9 +1178,45 @@
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 399800,
+      "name": "Midsummer's Night",
+      "url": "https://open.spotify.com/track/3LpKYuHhzUHoVpq2jhDuUV"
+    },
+    {
+      "album": {
+        "name": "Midsummer's Night",
+        "url": "https://open.spotify.com/album/7xcdotuMtylVy2N6XPdoJ2"
+      },
+      "artists": [
+        {
+          "name": "Dervish",
+          "url": "https://open.spotify.com/artist/08DRTASY1wyduMevINkClA"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 399813,
       "name": "Midsummer's Night",
       "url": "https://open.spotify.com/track/3C4majxDsONz0cwkkTnnkw"
+    },
+    {
+      "album": {
+        "name": "Down the Line",
+        "url": "https://open.spotify.com/album/2CcYzfVX4bPO2vFgOe9Ac0"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Tourish",
+          "url": "https://open.spotify.com/artist/7JgJRLk3nWbYCeMyzSXXMj"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Molly B\u00e1n / Flowers of Edinburgh / Famous Ballymote",
+      "url": "https://open.spotify.com/track/2ERAwOjZfux9fbdABom50A"
     },
     {
       "album": {
@@ -877,7 +1231,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208000,
       "name": "Molly B\u00e1n / Flowers of Edinburgh / Famous Ballymote",
       "url": "https://open.spotify.com/track/39YDPbenTXsY93zKizoqvn"
@@ -913,10 +1267,46 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295253,
       "name": "Poirt: Delia Keane's/ the Horse's Leotard/ Se\u00e1n Bu\u00ed/ the Dawn Chorus",
       "url": "https://open.spotify.com/track/4xMIrCA6Lqs5kRlVBmC7eB"
+    },
+    {
+      "album": {
+        "name": "Inn\u00e9 Am\u00e1rach",
+        "url": "https://open.spotify.com/album/2pP4o0xgCTMyRQftQk5Ikk"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9ada",
+          "url": "https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295253,
+      "name": "Poirt: Delia Keane's/ the Horse's Leotard/ Se\u00e1n Bu\u00ed/ the Dawn Chorus",
+      "url": "https://open.spotify.com/track/6AXL9fFoqoXLkro46Asher"
+    },
+    {
+      "album": {
+        "name": "Lovers' Well",
+        "url": "https://open.spotify.com/album/05sncEZS2MAzfnKnHO4YKm"
+      },
+      "artists": [
+        {
+          "name": "Matt & Shannon Heaton",
+          "url": "https://open.spotify.com/artist/1OTFAVOGCIOly2qrmIWnJ6"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Poll Halfpenny",
+      "url": "https://open.spotify.com/track/4N4mtq9VrJh7mEYcLvz3xD"
     },
     {
       "album": {
@@ -931,10 +1321,28 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197400,
       "name": "Poll Halfpenny",
       "url": "https://open.spotify.com/track/7cvqwSOqtiyVCaIEa6eM6P"
+    },
+    {
+      "album": {
+        "name": "In Spite of the Storm",
+        "url": "https://open.spotify.com/album/3v4WQbWHDSyhTNztSsyHBz"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9ada",
+          "url": "https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Reels: Dinny O\u2019Brien\u2019s / The Sweetheart Reel / Paddy Kenny\u2019s",
+      "url": "https://open.spotify.com/track/3jR8Im8j8hlP24L6Fqe4cj"
     },
     {
       "album": {
@@ -949,7 +1357,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236133,
       "name": "Reels: Dinny O\u2019Brien\u2019s / The Sweetheart Reel / Paddy Kenny\u2019s",
       "url": "https://open.spotify.com/track/5ALXCNEPR26rnNcdfKgn1z"
@@ -1029,7 +1437,7 @@
     {
       "album": {
         "name": "Bundle And Go",
-        "url": "https://open.spotify.com/album/4XT5jo6QonCnx7hIH9iqQY"
+        "url": "https://open.spotify.com/album/0D33Hb2cWuuD2bhxVY9VGL"
       },
       "artists": [
         {
@@ -1040,6 +1448,24 @@
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137093,
+      "name": "Roaring Mary / Stormy Weather",
+      "url": "https://open.spotify.com/track/1La2rKoNWzTT4KD5qlz1Sn"
+    },
+    {
+      "album": {
+        "name": "Bundle And Go",
+        "url": "https://open.spotify.com/album/4XT5jo6QonCnx7hIH9iqQY"
+      },
+      "artists": [
+        {
+          "name": "John Doherty",
+          "url": "https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 137093,
       "name": "Roaring Mary / Stormy Weather",
       "url": "https://open.spotify.com/track/1ObSUAb8X6yH2rnJruvltj"
@@ -1069,7 +1495,7 @@
     {
       "album": {
         "name": "Ceol & Cuimhne (Music & Memory)",
-        "url": "https://open.spotify.com/album/7quUNhhoH6QdgepIxWKOCv"
+        "url": "https://open.spotify.com/album/1y6gUYBfHfPgJYccX7t83s"
       },
       "artists": [
         {
@@ -1080,6 +1506,24 @@
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 250160,
+      "name": "R\u00edl Liatroma / The Green Cockade / The Mourne Mountains",
+      "url": "https://open.spotify.com/track/30vvDys9XzFytCWmQw2kO1"
+    },
+    {
+      "album": {
+        "name": "Ceol & Cuimhne (Music & Memory)",
+        "url": "https://open.spotify.com/album/7quUNhhoH6QdgepIxWKOCv"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9ada",
+          "url": "https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 250160,
       "name": "R\u00edl Liatroma/The Green Cockade/The Mourne Mountains",
       "url": "https://open.spotify.com/track/1Vc39YjnHm0bHtMjiDu6kY"
@@ -1141,7 +1585,7 @@
     {
       "album": {
         "name": "Ten Thousand Miles",
-        "url": "https://open.spotify.com/album/18Sw7E8tqhuNfWRPoBJzKL"
+        "url": "https://open.spotify.com/album/6N3rs8d37FFcmLhSDicbbd"
       },
       "artists": [
         {
@@ -1152,6 +1596,24 @@
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 222772,
+      "name": "She Hasn't the Thing She Thought She Had / Denis Murphy's / Abbey's Green Isle",
+      "url": "https://open.spotify.com/track/3Erps4RNubE4Ts78nA9eti"
+    },
+    {
+      "album": {
+        "name": "Ten Thousand Miles",
+        "url": "https://open.spotify.com/album/18Sw7E8tqhuNfWRPoBJzKL"
+      },
+      "artists": [
+        {
+          "name": "Dan\u00fa",
+          "url": "https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 222772,
       "name": "She Hasn't the Thing She Thought She Had / Denis Murphy's / Abbey's Green Isle",
       "url": "https://open.spotify.com/track/4b1WBCojHWnAPbBbCUSJTE"
@@ -1266,8 +1728,8 @@
     },
     {
       "album": {
-        "name": "Shanachie Presents Irish Celebration",
-        "url": "https://open.spotify.com/album/2Iq0yw8BcWB90t62OtEx1w"
+        "name": "The Road Less Traveled",
+        "url": "https://open.spotify.com/album/0PTsZuI7tIuwXlRUrUx6SR"
       },
       "artists": [
         {
@@ -1280,7 +1742,43 @@
       "date_removed": null,
       "duration_ms": 222826,
       "name": "The Fairy Reel / The Old Torn Petticoat / Our House at Home",
+      "url": "https://open.spotify.com/track/0aw7GoN4XeQsxguXiDxmdk"
+    },
+    {
+      "album": {
+        "name": "Shanachie Presents Irish Celebration",
+        "url": "https://open.spotify.com/album/2Iq0yw8BcWB90t62OtEx1w"
+      },
+      "artists": [
+        {
+          "name": "Dan\u00fa",
+          "url": "https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222826,
+      "name": "The Fairy Reel / The Old Torn Petticoat / Our House at Home",
       "url": "https://open.spotify.com/track/1Dfh3b5KH6rs6bj5zOpK4M"
+    },
+    {
+      "album": {
+        "name": "The Spanish Cloak: The Best of The Fureys",
+        "url": "https://open.spotify.com/album/2bu7GBQrndxPZ4DAuMB2cV"
+      },
+      "artists": [
+        {
+          "name": "Finbar and Eddie Furey",
+          "url": "https://open.spotify.com/artist/3ZZiWJXPplvxSxYgzHTTl0"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431893,
+      "name": "The Fox Chase",
+      "url": "https://open.spotify.com/track/0Hotw6uKhCN1Qixt5bMSlK"
     },
     {
       "album": {
@@ -1295,7 +1793,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 431893,
       "name": "The Fox Chase",
       "url": "https://open.spotify.com/track/397k1c9L1ywksIZ3jCJse3"
@@ -1357,10 +1855,36 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 360653,
       "name": "The Green Hills of Tyrol / The Fermoy Lassies / The Pinch of Snuff [Reels]",
       "url": "https://open.spotify.com/track/12bh7TbqCq2rhQrJUjuDar"
+    },
+    {
+      "album": {
+        "name": "Absolutely Irish",
+        "url": "https://open.spotify.com/album/19Dk328QA9GwJJaVECMNqE"
+      },
+      "artists": [
+        {
+          "name": "Eileen Ivers",
+          "url": "https://open.spotify.com/artist/3vmYFRcOyIX8AcH3fy1anH"
+        },
+        {
+          "name": "Semus Egan",
+          "url": "https://open.spotify.com/artist/2gA1psPXyxyQpwCppQW8Y0"
+        },
+        {
+          "name": "John Doyle",
+          "url": "https://open.spotify.com/artist/3a1QidCLKC1IuMfGKY58kC"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360653,
+      "name": "The Green Hills of Tyrol / The Fermoy Lassies / The Pinch of Snuff [Reels]",
+      "url": "https://open.spotify.com/track/4XfE1tQqpr11yXt9nipbZk"
     },
     {
       "album": {
@@ -1383,7 +1907,7 @@
     {
       "album": {
         "name": "Wired",
-        "url": "https://open.spotify.com/album/6bgnhYLY74r16gEyPJrTx3"
+        "url": "https://open.spotify.com/album/0mvalBzGImgKtH9BP71h95"
       },
       "artists": [
         {
@@ -1394,6 +1918,24 @@
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 258373,
+      "name": "The Hillsbrook Reels",
+      "url": "https://open.spotify.com/track/68TAV3FX665WLaLG9s1LPp"
+    },
+    {
+      "album": {
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/6bgnhYLY74r16gEyPJrTx3"
+      },
+      "artists": [
+        {
+          "name": "Michael McGoldrick",
+          "url": "https://open.spotify.com/artist/6XLzyxxr88YdGmrCKrFI74"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 258373,
       "name": "The Hillsbrook Reels (Spike Island Lassies/Skyedance/Merry Harrier's Reel/Lady Gordon's)",
       "url": "https://open.spotify.com/track/5c8OuT4LQt9uVzRwMA5k6P"
@@ -1441,7 +1983,7 @@
     {
       "album": {
         "name": "The Gloaming 3",
-        "url": "https://open.spotify.com/album/1GWCQhAMOQ6oDaZZ7gQ4K6"
+        "url": "https://open.spotify.com/album/0i0MY1PC7Zp6d2R2w9XpuV"
       },
       "artists": [
         {
@@ -1452,6 +1994,24 @@
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 413373,
+      "name": "The Lobster",
+      "url": "https://open.spotify.com/track/2HuM4u9jZHiHi0GuJpTTjc"
+    },
+    {
+      "album": {
+        "name": "The Gloaming 3",
+        "url": "https://open.spotify.com/album/1GWCQhAMOQ6oDaZZ7gQ4K6"
+      },
+      "artists": [
+        {
+          "name": "The Gloaming",
+          "url": "https://open.spotify.com/artist/4fQbIxjM2vH6YF4OsWlaGT"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 413373,
       "name": "The Lobster",
       "url": "https://open.spotify.com/track/5cHh5QK7QgXK669vYZOO7z"
@@ -1649,7 +2209,7 @@
     {
       "album": {
         "name": "The Chieftains 1",
-        "url": "https://open.spotify.com/album/5kwAsNK7ha3AK5dCAyyjEs"
+        "url": "https://open.spotify.com/album/7id2ew7OGhTvm1YIZHlu14"
       },
       "artists": [
         {
@@ -1660,6 +2220,24 @@
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163466,
+      "name": "The Walls of Liscarroll (Jig)",
+      "url": "https://open.spotify.com/track/7uTMMxIG7S6CtNlSShD9Qb"
+    },
+    {
+      "album": {
+        "name": "The Chieftains 1",
+        "url": "https://open.spotify.com/album/5kwAsNK7ha3AK5dCAyyjEs"
+      },
+      "artists": [
+        {
+          "name": "The Chieftains",
+          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 163526,
       "name": "The Walls of Liscarroll Jig",
       "url": "https://open.spotify.com/track/1tzAzy6DtJiS0gP7szseoA"
@@ -1684,6 +2262,32 @@
     },
     {
       "album": {
+        "name": "The Mark Radcliffe Folk Sessions: Mcgoldrick Mccusker Doyle",
+        "url": "https://open.spotify.com/album/6L04gkgSxKGZD90iZrA9hi"
+      },
+      "artists": [
+        {
+          "name": "Michael McGoldrick",
+          "url": "https://open.spotify.com/artist/6XLzyxxr88YdGmrCKrFI74"
+        },
+        {
+          "name": "John Doyle",
+          "url": "https://open.spotify.com/artist/3a1QidCLKC1IuMfGKY58kC"
+        },
+        {
+          "name": "John McCusker",
+          "url": "https://open.spotify.com/artist/48TAnd5kMPfKUdzFjRMITI"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294528,
+      "name": "Wee Michael's March / Frank's Reel - Live",
+      "url": "https://open.spotify.com/track/4GWJ2YTQHE0KbNDgls2pAi"
+    },
+    {
+      "album": {
         "name": "The Mark Radcliffe Folk Sessions: McGoldrick McCusker Doyle",
         "url": "https://open.spotify.com/album/4KJi4YO8zhHtu3fjkdSmlL"
       },
@@ -1703,7 +2307,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 294528,
       "name": "Wee Michael's March / Frank's Reel - Live",
       "url": "https://open.spotify.com/track/6l82Qy6UP49Z7NBh6UAMkf"
@@ -1725,10 +2329,32 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197000,
       "name": "Young Tom Ennis",
       "url": "https://open.spotify.com/track/1xFkHZexkiOKuldYGAX7eu"
+    },
+    {
+      "album": {
+        "name": "I gCnoc Na Gra\u00ed",
+        "url": "https://open.spotify.com/album/0M6T36GQGzhrlk89SINXvG"
+      },
+      "artists": [
+        {
+          "name": "Noel Hill",
+          "url": "https://open.spotify.com/artist/3mOxdrvnnFAGKWE29vW7qx"
+        },
+        {
+          "name": "Tony MacMahon",
+          "url": "https://open.spotify.com/artist/1suQ05WMwsctRnmYZrh9CG"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Young Tom Ennis",
+      "url": "https://open.spotify.com/track/2sNmaCsnkMHeuG4NcVEz3z"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9HwI3Crikcm"

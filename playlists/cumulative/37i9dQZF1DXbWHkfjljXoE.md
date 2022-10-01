@@ -4,7 +4,7 @@
 
 > Remembering the voices that have always spoken truth to power.
 
-41 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/7vAfmpBAVQyXweFVmlW8iX)
+44 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/7vAfmpBAVQyXweFVmlW8iX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [If There Is No Struggle, There Is No Progress](https://open.spotify.com/track/6JyNfCuQaYkMcXxNSGtGRt) | [Ossie Davis](https://open.spotify.com/artist/0WNkWajvv5wCm04A2JwDHL) | [A Voice Ringing O'er the Gale! The Oratory of Frederick Douglass Read by Ossie Davis](https://open.spotify.com/album/5vcMF8ImXKc8J4CYNexMKz) | 12:46 | 2021-04-16 |  |
 | [Last Speech](https://open.spotify.com/track/3PWTko96IQ2lNlUpzufFRT) | [Malcolm X](https://open.spotify.com/artist/2IsulP0BplLNJn8BGsvUQo) | [Speeches By Malcom X \- The Ultimate Collection](https://open.spotify.com/album/0K7r0Jn2cl3evFj6MFAK2c) | 14:03 | 2021-04-16 |  |
 | [Lift Every Voice and Sing](https://open.spotify.com/track/6utcrEbz9W9cFoha3ouoc2) | [The Boys Choir Of Harlem](https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11) | [We Shall Overcome](https://open.spotify.com/album/7cklzk697oyuNTu9QJadxB) | 5:30 | 2021-04-16 |  |
-| [My Beliefs](https://open.spotify.com/track/079pZO9Yzp8zyXf9j8JLK3) | [Assata Shakur](https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew) | [The Vinyl Project](https://open.spotify.com/album/0LIGpl05li5brnrlNOGstL) | 0:30 | 2021-04-16 |  |
+| [My Beliefs](https://open.spotify.com/track/079pZO9Yzp8zyXf9j8JLK3) | [Assata Shakur](https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew) | [The Vinyl Project](https://open.spotify.com/album/0LIGpl05li5brnrlNOGstL) | 0:30 | 2021-04-16 | 2022-07-29 |
+| [My Beliefs](https://open.spotify.com/track/4iuf8G1xTIy9GxebzDTOvm) | [Assata Shakur](https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew) | [The Vinyl Project](https://open.spotify.com/album/2lfolXtk5xklnxieg24LQR) | 0:30 | 2021-04-16 |  |
 | [My Petition](https://open.spotify.com/track/2op7tTCjyyDTP1nMGoB7aC) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 4:11 | 2021-04-16 |  |
 | [Mystery of Iniquity \- Live](https://open.spotify.com/track/5KZwRD3KklSP73jnLoNWtF) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 5:10 | 2021-04-16 |  |
 | [On Becoming An Activist](https://open.spotify.com/track/0lyAZ6lmJKcmJRZGDxGAaw) | [Angela Davis](https://open.spotify.com/artist/4LsP9Fcfyln6GOh8GwYDkT) | [The Prison Industrial Complex](https://open.spotify.com/album/4CAWyoeSPevGr4NyTD9U3U) | 3:36 | 2021-04-16 |  |
@@ -43,8 +44,10 @@
 | [The Rose That Grew From Concrete](https://open.spotify.com/track/6Kf5cdx2MmkN8Wo43xGHIf) | [Nikki Giovanni](https://open.spotify.com/artist/06rw1GLIJu1xfIgO6iI7RG) | [The Rose That Grew From Concrete](https://open.spotify.com/album/17v0WKUfqS4lRiWslYyVWh) | 2:35 | 2021-04-16 |  |
 | [We Are One \(feat\. A More Perfect Union\)](https://open.spotify.com/track/2DrtkKqEMnMsskLzl2QeoR) | [Barack Obama](https://open.spotify.com/artist/4FySKEW0F2fAmS8Jc5ClRv) | [Hope, Change and History \(Barack Obama's Greatest Speeches including Inaugural Oath and Address\)](https://open.spotify.com/album/4iwrI3d40QAX8ufR6ltAHO) | 4:38 | 2021-04-16 |  |
 | [We Shall Overcome](https://open.spotify.com/track/5pTwWOOMfTOU2FOw89U5ua) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Sings the Best\-Loved Hymns of Dr\. Martin Luther King, Jr.](https://open.spotify.com/album/7vbdNHLadnywl3ofFp0nIE) | 2:47 | 2021-04-16 |  |
-| [What's Going On](https://open.spotify.com/track/34b3a3Pz9Jlz0092LMyNAB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 3:52 | 2021-04-16 |  |
-| [What's Happening Brother](https://open.spotify.com/track/3B1K9cOissM5S7zUBwd8TZ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 2:43 | 2021-04-16 |  |
+| [What's Going On](https://open.spotify.com/track/34b3a3Pz9Jlz0092LMyNAB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 3:52 | 2021-04-16 | 2022-07-29 |
+| [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2021-04-16 |  |
+| [What's Happening Brother](https://open.spotify.com/track/3B1K9cOissM5S7zUBwd8TZ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 2:43 | 2021-04-16 | 2022-07-29 |
+| [What's Happening Brother](https://open.spotify.com/track/4ihykcy9d9SSC5qxHIhPcf) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 2:43 | 2021-04-16 |  |
 | [When Ure Heart Turns Cold](https://open.spotify.com/track/2xCCw5DcCQ0QVfjCfiTyBT) | [Sonia Sanchez](https://open.spotify.com/artist/0hvH9P1nlB5xrNdlXwZ22P) | [The Rose That Grew From Concrete](https://open.spotify.com/album/17v0WKUfqS4lRiWslYyVWh) | 1:37 | 2021-04-16 |  |
 | [Why are the Panthers So Provocative?](https://open.spotify.com/track/2fq0KcqINDwPWoTICTdmxA) | [Huey P\. Newton](https://open.spotify.com/artist/2SMi8AArIjUwlhY9TVxkZ7) | [Huey Newton Speaks](https://open.spotify.com/album/4yOtfYeRNDMJ3RRTWZAQnN) | 1:29 | 2021-04-16 |  |
 | [Why? \(The King of Love Is Dead\) \- Live at Westbury Music Fair, Westbury, NY \- April 1968](https://open.spotify.com/track/4gmeLpDeLk9Y2pTWJPjiG2) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 12:51 | 2021-04-16 |  |

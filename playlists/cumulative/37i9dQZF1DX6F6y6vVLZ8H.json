@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A collection of songs from <a href=\"spotify:user:nytrvduf711vc7ja3kv9vwgnm\">Tony Hawk's Pro Skater 1 + 2</a>.",
+  "description": "A collection of songs from Tony Hawk's Pro Skater 1 + 2.",
   "name": "Tony Hawk's Pro Skater 1 + 2",
   "published_playlist_ids": [
     "3gnvN3gU2eit5kuCl7Hk1j"
@@ -81,10 +81,36 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233239,
       "name": "Bass",
       "url": "https://open.spotify.com/track/22ws6uOt1pfpG1fP8I0QGo"
+    },
+    {
+      "album": {
+        "name": "Special Occasion",
+        "url": "https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233239,
+      "name": "Bass (feat. Tech N9ne & Hopsin)",
+      "url": "https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s"
     },
     {
       "album": {
@@ -117,10 +143,28 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205015,
       "name": "bloody valentine",
       "url": "https://open.spotify.com/track/1bWEngw5tAF7vWByrf5Oy5"
+    },
+    {
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205158,
+      "name": "bloody valentine",
+      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
     },
     {
       "album": {
@@ -135,10 +179,28 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186069,
       "name": "Bomb Drop",
       "url": "https://open.spotify.com/track/1MAnAUtRTzqnviymxYHTAg"
+    },
+    {
+      "album": {
+        "name": "Sound the Alarm",
+        "url": "https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186069,
+      "name": "Bomb Drop",
+      "url": "https://open.spotify.com/track/1U9DTcVgCPu7GEZXMeQ4Uu"
     },
     {
       "album": {
@@ -160,6 +222,24 @@
     },
     {
       "album": {
+        "name": "Transpira\u00e7\u00e3o Cont\u00ednua Prolongada - Edi\u00e7\u00e3o Comemorativa",
+        "url": "https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178893,
+      "name": "Confisco",
+      "url": "https://open.spotify.com/track/2vV3fHWrEIdDBygY35PyuY"
+    },
+    {
+      "album": {
         "name": "A Arte De Charlie Brown Jr.",
         "url": "https://open.spotify.com/album/2Ov5ciTOEZcvCNZQKtiye4"
       },
@@ -171,7 +251,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178893,
       "name": "Confisco",
       "url": "https://open.spotify.com/track/68uBfK67y4ZKD45qHJYaw7"
@@ -430,6 +510,24 @@
     },
     {
       "album": {
+        "name": "Positive Rising (Pt. 1)",
+        "url": "https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "IN-TO-IT",
+      "url": "https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX"
+    },
+    {
+      "album": {
         "name": "IN-TO-IT",
         "url": "https://open.spotify.com/album/1jjrbaOJ59IHj9fxaDy0pI"
       },
@@ -441,7 +539,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 196413,
       "name": "IN-TO-IT",
       "url": "https://open.spotify.com/track/1h2nlMzL1hFRaSMKuUHaDB"
@@ -592,6 +690,24 @@
     },
     {
       "album": {
+        "name": "+ One",
+        "url": "https://open.spotify.com/album/7gBLLGdZzX15mOMVkKxLvS"
+      },
+      "artists": [
+        {
+          "name": "Pkew Pkew Pkew",
+          "url": "https://open.spotify.com/artist/2wLjuls619sr3fihBDQigt"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127986,
+      "name": "Mid 20's Skateboarder",
+      "url": "https://open.spotify.com/track/46W2vQzqR6cfTdzBfC1KQK"
+    },
+    {
+      "album": {
         "name": "Pkew Pkew Pkew",
         "url": "https://open.spotify.com/album/2tFF5agrKKsDEtnh8gg1JD"
       },
@@ -603,7 +719,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127986,
       "name": "Mid 20's Skateboarder",
       "url": "https://open.spotify.com/track/6NiVbUwxuTETC56The3Sup"
@@ -621,10 +737,28 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153400,
       "name": "Misery Guts",
       "url": "https://open.spotify.com/track/3Tfq8Ba1jAFipLb4HLgt6x"
+    },
+    {
+      "album": {
+        "name": "The Best of Luck Club",
+        "url": "https://open.spotify.com/album/5YCf7fOpsfKgB5f3XFLjh8"
+      },
+      "artists": [
+        {
+          "name": "Alex Lahey",
+          "url": "https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153400,
+      "name": "Misery Guts",
+      "url": "https://open.spotify.com/track/4nFEpqglSpknKNaGLT8jeX"
     },
     {
       "album": {
@@ -665,7 +799,7 @@
     {
       "album": {
         "name": "Naughty By Nature",
-        "url": "https://open.spotify.com/album/7f2uv1aSmzTMlPXDFiZCra"
+        "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
       },
       "artists": [
         {
@@ -676,6 +810,24 @@
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 227506,
+      "name": "Pin the Tail on the Donkey",
+      "url": "https://open.spotify.com/track/3z0i5xf1iiEoiuhkTPKp3w"
+    },
+    {
+      "album": {
+        "name": "Naughty By Nature",
+        "url": "https://open.spotify.com/album/7f2uv1aSmzTMlPXDFiZCra"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "date_added": "2020-05-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 227506,
       "name": "Pin the Tail on the Donkey",
       "url": "https://open.spotify.com/track/5G1ExEKtOyNbF9pIzSR98C"
@@ -707,6 +859,10 @@
         {
           "name": "Spilt Milk",
           "url": "https://open.spotify.com/artist/5a4YbQRezrArmu3VxdMGao"
+        },
+        {
+          "name": "Relaye",
+          "url": "https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya"
         }
       ],
       "date_added": "2020-07-28",
@@ -715,6 +871,24 @@
       "duration_ms": 154434,
       "name": "Run It up Pt. II",
       "url": "https://open.spotify.com/track/16oNPQ2sVbzZyAscp4SFHD"
+    },
+    {
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Same In The End",
+      "url": "https://open.spotify.com/track/3kGt9uxpJzKTxwp2uJHrU5"
     },
     {
       "album": {
@@ -729,7 +903,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156506,
       "name": "Same In The End",
       "url": "https://open.spotify.com/track/4B6dMwXS6q8pw1HBWV8Cc8"
@@ -801,10 +975,28 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191216,
       "name": "Slow Learner",
       "url": "https://open.spotify.com/track/3anIPGbdjxjkbwtHoBG4W4"
+    },
+    {
+      "album": {
+        "name": "Street Worms",
+        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191216,
+      "name": "Slow Learner",
+      "url": "https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD"
     },
     {
       "album": {

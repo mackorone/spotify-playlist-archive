@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "Blade",
+        "url": "https://open.spotify.com/album/3mfFOwMkEYMwZqKwu7su28"
+      },
+      "artists": [
+        {
+          "name": "Fox Beach",
+          "url": "https://open.spotify.com/artist/3oscL02LJvKEkbxByDKRGs"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Blade",
+      "url": "https://open.spotify.com/track/2xfuUnHrsftleiNvhxrBis"
+    },
+    {
+      "album": {
         "name": "Blink",
         "url": "https://open.spotify.com/album/5dLDAqx33v36RkZ7cg81fl"
       },
@@ -67,10 +85,54 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 201739,
       "name": "Blink",
       "url": "https://open.spotify.com/track/3ivU4AKYS5NgBpodGp61IQ"
+    },
+    {
+      "album": {
+        "name": "Blow The Socket",
+        "url": "https://open.spotify.com/album/6Vg0yJzjpsJdwlrAN0dyzh"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        {
+          "name": "PAV4N",
+          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192068,
+      "name": "Blow The Socket",
+      "url": "https://open.spotify.com/track/3o9c2W2OrQe4i1KE0QjQdW"
+    },
+    {
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/0UCf4BfEcqY7uQlpVdFFRQ"
+      },
+      "artists": [
+        {
+          "name": "Boges",
+          "url": "https://open.spotify.com/artist/2Wkblvn5eq5592TmfNSATt"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5wJd3MxskA8fWPxlgWzmWM"
     },
     {
       "album": {
@@ -115,10 +177,50 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 213517,
       "name": "Bussin Bussin (feat. JV Rhymes)",
       "url": "https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t Wait (feat. Tatiana Hazel)",
+        "url": "https://open.spotify.com/album/52E6cNhQu9YtNb1x6qP9vf"
+      },
+      "artists": [
+        {
+          "name": "DJ Topgun",
+          "url": "https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2"
+        },
+        {
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211935,
+      "name": "Can\u2019t Wait (feat. Tatiana Hazel)",
+      "url": "https://open.spotify.com/track/6zKYgILhhx9vYGa4imIvFm"
+    },
+    {
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4X8VkITNuqIpWDWWKjBu3B"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261950,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/1hHtStAWuaS1iCBZCdU44x"
     },
     {
       "album": {
@@ -141,7 +243,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 235636,
       "name": "Cold Comfort (feat. Andrew Paley) - OMAS Remix",
       "url": "https://open.spotify.com/track/0frbjoMyGqqUoPrrplSJAX"
@@ -167,7 +269,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 169081,
       "name": "Colors",
       "url": "https://open.spotify.com/track/6O8f0nQc4KniCyqoUFcwJz"
@@ -255,7 +357,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 157142,
       "name": "Don't Wanna Wait - VIP Mix",
       "url": "https://open.spotify.com/track/6BRq5B5uUrcP5cRtgX5cuk"
@@ -277,7 +379,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 214500,
       "name": "Donk Alert",
       "url": "https://open.spotify.com/track/5xvGFPucysPs9keOdFnz6B"
@@ -295,7 +397,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 169654,
       "name": "DROP",
       "url": "https://open.spotify.com/track/7xN35VVLctNoKT3A4khKqE"
@@ -313,7 +415,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 164160,
       "name": "El Pana Dero",
       "url": "https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT"
@@ -335,7 +437,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 225449,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/25tekS8txsCQov85px1xm2"
@@ -382,6 +484,24 @@
     },
     {
       "album": {
+        "name": "Feels Like",
+        "url": "https://open.spotify.com/album/0VH6K3eQTPE3sdFAbNnW65"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206160,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/2dJC7TpwGn8b2ricS0nnZV"
+    },
+    {
+      "album": {
         "name": "Forever With U",
         "url": "https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ"
       },
@@ -393,7 +513,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 124845,
       "name": "Forever With U",
       "url": "https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT"
@@ -415,6 +535,24 @@
       "duration_ms": 164765,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/4VyBfTg5LqHqB4tPLXbK0U"
+    },
+    {
+      "album": {
+        "name": "Frenzy",
+        "url": "https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo"
+      },
+      "artists": [
+        {
+          "name": "Ivoryghost",
+          "url": "https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198753,
+      "name": "Frenzy",
+      "url": "https://open.spotify.com/track/7aPb8EasDwT3CetqJPtZF6"
     },
     {
       "album": {
@@ -463,6 +601,32 @@
       "duration_ms": 129229,
       "name": "GAWT DAT",
       "url": "https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1"
+    },
+    {
+      "album": {
+        "name": "H8 December",
+        "url": "https://open.spotify.com/album/7uyYsla4oPYWFRWwHYJ71S"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "Mackenzie Sol",
+          "url": "https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140147,
+      "name": "H8 December",
+      "url": "https://open.spotify.com/track/2GmduVx3DDAyqMys6xgqem"
     },
     {
       "album": {
@@ -524,6 +688,24 @@
     },
     {
       "album": {
+        "name": "A Slushii Summer",
+        "url": "https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "I Don't Miss U",
+      "url": "https://open.spotify.com/track/5yHpXftp1WadoINgFucZTz"
+    },
+    {
+      "album": {
         "name": "I Want You (Feat. Sai Sen & SBF)",
         "url": "https://open.spotify.com/album/67B3KMyswV6p4zF49Sns8Y"
       },
@@ -561,7 +743,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 174000,
       "name": "Incorrect",
       "url": "https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u"
@@ -601,10 +783,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 198620,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/0piqEtzcndLn6q4FTZMYGB"
+    },
+    {
+      "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/7EXcj1UAHyOotIw8GSziCp"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Like I Used To",
+      "url": "https://open.spotify.com/track/6zBmmiGwTPmiYS6Xz3rAm3"
     },
     {
       "album": {
@@ -623,6 +823,28 @@
       "duration_ms": 216052,
       "name": "Like It How It Is",
       "url": "https://open.spotify.com/track/2RisShAmmnAgsYcI659wgv"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/6mhUBbGECknvUeH5TzmrCi"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "SAYMYNAME",
+          "url": "https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0jpJNvfr7oBTn5AQnpjEoC"
     },
     {
       "album": {
@@ -677,7 +899,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 218720,
       "name": "Make Up Your Mind (feat. Jaden Michaels)",
       "url": "https://open.spotify.com/track/4wVC0NP6WG1sTj29sIb6sR"
@@ -699,7 +921,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 251511,
       "name": "Make Up Your Mind (feat. Jaden Michaels) - VIP Mix",
       "url": "https://open.spotify.com/track/5FNGDkVvtmSFpk3oE0JUF5"
@@ -729,10 +951,36 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 201230,
       "name": "Mawlee (feat. Young Buck & DJ Afterthought) - Dr. Fresch Remix",
       "url": "https://open.spotify.com/track/7wawZoPGDr6N559kjYJ8Ug"
+    },
+    {
+      "album": {
+        "name": "Mawlee (feat. Young Buck & DJ Afterthought) [RIOT TEN VIP Mix]",
+        "url": "https://open.spotify.com/album/307ezARBk8h7JbrIPvMeSu"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "name": "DJ Afterthought",
+          "url": "https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206857,
+      "name": "Mawlee (feat. Young Buck & DJ Afterthought) - RIOT TEN VIP Mix",
+      "url": "https://open.spotify.com/track/43885roVl0jIEIpWT1yzyP"
     },
     {
       "album": {
@@ -827,7 +1075,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 207187,
       "name": "Music Means Love Forever",
       "url": "https://open.spotify.com/track/4LlhYmenqKC0boXvDpl6vt"
@@ -845,7 +1093,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 165000,
       "name": "Next Track",
       "url": "https://open.spotify.com/track/1q6EXjWwI7PSqG2QOZXRev"
@@ -875,7 +1123,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 168281,
       "name": "No Beef - R3HAB Remix",
       "url": "https://open.spotify.com/track/7JlyO7PxFXc1rV4NJQceHa"
@@ -901,7 +1149,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 203438,
       "name": "No Beef - Steve Aoki's 11 Years Later Remix",
       "url": "https://open.spotify.com/track/03PNqjZycgvVlRqSXEhM57"
@@ -977,7 +1225,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 133168,
       "name": "Oro Negro",
       "url": "https://open.spotify.com/track/47CgO81InO20CWqKR7bfWC"
@@ -1021,7 +1269,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 220082,
       "name": "Patience (feat. Kayla Rose)",
       "url": "https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox"
@@ -1087,7 +1335,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 129600,
       "name": "Pill",
       "url": "https://open.spotify.com/track/5qa0Vd1RbFfryPALhL1d3x"
@@ -1143,6 +1391,32 @@
       "duration_ms": 200016,
       "name": "Pompeii (feat. Crooked Bangs)",
       "url": "https://open.spotify.com/track/1lh1f7hKVPSX70kBb6Uf4v"
+    },
+    {
+      "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/7uulMJZsnWA6PS32T4tGpO"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Nitro Fun",
+          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
+        },
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170040,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/2K1613LBzxXXXlJGunZcLd"
     },
     {
       "album": {
@@ -1208,6 +1482,24 @@
     },
     {
       "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/1yr7m2ScfY46QpjJacjdKG"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178501,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/6ApteRcCdPgoSlE5jCYWxs"
+    },
+    {
+      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/5v7v1enr2SRCVNyeGUCF4y"
       },
@@ -1241,10 +1533,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 221647,
       "name": "Stars Don't Shine (feat. Global Dan)",
       "url": "https://open.spotify.com/track/0Bz4zF649klc9hMb9xtj16"
+    },
+    {
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/3raiGz0JFTWpnzvMgJtnC2"
+      },
+      "artists": [
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        },
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/0oHEiGSJjfLROTq55TEoFl"
     },
     {
       "album": {
@@ -1310,6 +1624,28 @@
     },
     {
       "album": {
+        "name": "A Slushii Summer",
+        "url": "https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Love Jesse",
+          "url": "https://open.spotify.com/artist/1PrmIUrwSolIGJfWzJ1qD5"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160201,
+      "name": "Summer Lasts Forever (feat. Love Jesse)",
+      "url": "https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk"
+    },
+    {
+      "album": {
         "name": "Summertime in New York",
         "url": "https://open.spotify.com/album/4heCdWP7dkEcGtHWQUfXMF"
       },
@@ -1321,7 +1657,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 199750,
       "name": "Summertime in New York",
       "url": "https://open.spotify.com/track/6kBvishfePtr8auksmpGUn"
@@ -1346,6 +1682,28 @@
     },
     {
       "album": {
+        "name": "Take My Breath Away (feat. Linney)",
+        "url": "https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240444,
+      "name": "Take My Breath Away (feat. Linney)",
+      "url": "https://open.spotify.com/track/4MrSl40iewpWmkq0GOi849"
+    },
+    {
+      "album": {
         "name": "Tear You Apart (feat. Aaron Gillespie)",
         "url": "https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r"
       },
@@ -1361,10 +1719,94 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 143180,
       "name": "Tear You Apart (feat. Aaron Gillespie)",
       "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
+    },
+    {
+      "album": {
+        "name": "Return To Form",
+        "url": "https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX"
+      },
+      "artists": [
+        {
+          "name": "StayLoose",
+          "url": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/5gCKPDM4n94TD4c0D8fxJj"
+    },
+    {
+      "album": {
+        "name": "The Whistle",
+        "url": "https://open.spotify.com/album/6Ml1rV2N0McOkkfUU8k7iR"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "DJ Aligator",
+          "url": "https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "The Whistle",
+      "url": "https://open.spotify.com/track/0nYD5euxX3xsIe9bda0Fqg"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/6Q7CghzgduIYq5exyNO2Pv"
+      },
+      "artists": [
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/08J3WyZe6XG53cL8OW3ZnU"
+    },
+    {
+      "album": {
+        "name": "Tuxedo (feat. 24hrs)",
+        "url": "https://open.spotify.com/album/3fRXsweRm7Z2fVxlTzM4tk"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166696,
+      "name": "Tuxedo (feat. 24hrs)",
+      "url": "https://open.spotify.com/track/4Aps6ZUREBf9WKAOhfjDS0"
     },
     {
       "album": {
@@ -1416,6 +1858,54 @@
     },
     {
       "album": {
+        "name": "Villainy (feat. Gold & Mikey Rotten)",
+        "url": "https://open.spotify.com/album/7I439tCjMMzzWE1bauLG06"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Dr. Ozi",
+          "url": "https://open.spotify.com/artist/2tKDLqWxsyXDmWoA4tHspF"
+        },
+        {
+          "name": "Gold",
+          "url": "https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H"
+        },
+        {
+          "name": "Mikey Rotten",
+          "url": "https://open.spotify.com/artist/1zHT9y9IMhDCl0j6TSkZ1m"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Villainy (feat. Gold & Mikey Rotten)",
+      "url": "https://open.spotify.com/track/3279d3UVvnvJGhZOHj5Mtq"
+    },
+    {
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/4oDhPuAO99SV2eccvGKO3w"
+      },
+      "artists": [
+        {
+          "name": "aboywithabag",
+          "url": "https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Wait For You - Radio Edit",
+      "url": "https://open.spotify.com/track/1Mge9Dsm61dHkXVQkLY2Es"
+    },
+    {
+      "album": {
         "name": "Waiting For The Day (feat. Kyle Reynolds)",
         "url": "https://open.spotify.com/album/1yKCAwWiURqdUyA7yi7yHu"
       },
@@ -1464,6 +1954,32 @@
     },
     {
       "album": {
+        "name": "We\u2019re Falling (feat. sapientdream)",
+        "url": "https://open.spotify.com/album/1rrrcWXR4L1LPOaDgAg1ks"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+        },
+        {
+          "name": "sapientdream",
+          "url": "https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174677,
+      "name": "We\u2019re Falling (feat. sapientdream)",
+      "url": "https://open.spotify.com/track/3kaVh7zUaVT87qnHngdnCF"
+    },
+    {
+      "album": {
         "name": "Wild Nights",
         "url": "https://open.spotify.com/album/3eh0EMLQ9M42KHXZ6If1bw"
       },
@@ -1497,7 +2013,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 240000,
       "name": "Wild Things",
       "url": "https://open.spotify.com/track/7KRW2oPclZY26GJCa8zYQG"
@@ -1523,6 +2039,32 @@
       "duration_ms": 218095,
       "name": "Woke Up Feeling Good (feat. Savage)",
       "url": "https://open.spotify.com/track/6y2CAqnt5ZyrwOC7NDoWGw"
+    },
+    {
+      "album": {
+        "name": "Young & Lit (feat. Bok Nero)",
+        "url": "https://open.spotify.com/album/0cwp9pwywIQAjMfIuezSJM"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        },
+        {
+          "name": "Softest Hard",
+          "url": "https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189595,
+      "name": "Young & Lit (feat. Bok Nero)",
+      "url": "https://open.spotify.com/track/6KnBrpwDJZgMAIXXyRFkEN"
     }
   ],
   "url": "https://open.spotify.com/playlist/6Gp3E89xD6vRQtuAKFizMo"

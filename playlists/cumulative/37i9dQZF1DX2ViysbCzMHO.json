@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 212741,
       "name": "27",
       "url": "https://open.spotify.com/track/4YvNZIRILOrJNuMqBwdxkC"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-07-26",
       "duration_ms": 169976,
       "name": "ABCDEFU - Live Acoustic",
       "url": "https://open.spotify.com/track/11oLOD6csB1XCKLxAgDnG7"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-08-01",
       "duration_ms": 153249,
       "name": "Again - Stripped Bare",
       "url": "https://open.spotify.com/track/1bhOH57HFef45IWSAcqC6G"
@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "As You Leave (undone)",
+        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "As You Leave (undone)",
+      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
+    },
+    {
+      "album": {
         "name": "At the End of a Bar (Acoustic)",
         "url": "https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th"
       },
@@ -264,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Babies (Acoustic)",
+        "url": "https://open.spotify.com/album/2waRF5MY9lsGtncXxvrXfp"
+      },
+      "artists": [
+        {
+          "name": "Kasey Tyndall",
+          "url": "https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 177106,
+      "name": "Babies - Acoustic",
+      "url": "https://open.spotify.com/track/3M2I0rIaPF8vuEMjVpIMrF"
+    },
+    {
+      "album": {
         "name": "Bar Friends (Acoustic)",
         "url": "https://open.spotify.com/album/0ihzfb4aNvUcjehS3Fr8es"
       },
@@ -275,7 +311,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 180136,
       "name": "Bar Friends - Acoustic",
       "url": "https://open.spotify.com/track/2F6WS0ge5MpaMlOiIXOwUG"
@@ -297,7 +333,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-22",
       "duration_ms": 237532,
       "name": "Best Of Me (feat. Dallas Smith) - Live Acoustic",
       "url": "https://open.spotify.com/track/595uX2pBVg3T7twSbuWiFE"
@@ -333,7 +369,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 250733,
       "name": "Best Shot - Spotify Singles",
       "url": "https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w"
@@ -351,10 +387,46 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204004,
       "name": "Better Off Gone (Acoustic Sessions)",
       "url": "https://open.spotify.com/track/3KJsNDJeH0GF0XJs0U0tl1"
+    },
+    {
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V"
+      },
+      "artists": [
+        {
+          "name": "Logan Mize",
+          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204004,
+      "name": "Better Off Gone (Acoustic Sessions)",
+      "url": "https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw"
+    },
+    {
+      "album": {
+        "name": "Better With A Broken Heart (Acoustic Live In Studio)",
+        "url": "https://open.spotify.com/album/0A5ZUUP4O7l9r6CzJKtDXn"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180657,
+      "name": "Better With A Broken Heart - Acoustic Live In Studio",
+      "url": "https://open.spotify.com/track/5T1HjQ6lefBwhauvA9TozO"
     },
     {
       "album": {
@@ -423,7 +495,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 200757,
       "name": "Break My Heart Again - Live Acoustic",
       "url": "https://open.spotify.com/track/6oYagjihsxITllcT5VS6DY"
@@ -459,7 +531,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 189672,
       "name": "Broken Up - Acoustic",
       "url": "https://open.spotify.com/track/0XKrC5ZTJUDjWfn98GNB0s"
@@ -503,6 +575,24 @@
       "duration_ms": 170755,
       "name": "Buy Dirt - Alternate Version",
       "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
+    },
+    {
+      "album": {
+        "name": "Can't Nobody (Acoustic)",
+        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-23",
+      "duration_ms": 204358,
+      "name": "Can't Nobody - Acoustic",
+      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
     },
     {
       "album": {
@@ -557,10 +647,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204146,
       "name": "Cool - Acoustic",
       "url": "https://open.spotify.com/track/1q1pEif83MuO9ViKMY3jax"
+    },
+    {
+      "album": {
+        "name": "Don't Come Lookin' (Live Acoustic)",
+        "url": "https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215337,
+      "name": "Don't Come Lookin' - Live Acoustic",
+      "url": "https://open.spotify.com/track/0lkuEYkTZSSLqWOACTGO20"
     },
     {
       "album": {
@@ -579,7 +687,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-01",
       "duration_ms": 160761,
       "name": "Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line) - Acoustic",
       "url": "https://open.spotify.com/track/5WlaHL9HnkhRMrVkvsLcd5"
@@ -615,7 +723,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-22",
       "duration_ms": 209802,
       "name": "Drinking to the Broken Hearts - Piano Version",
       "url": "https://open.spotify.com/track/3LNvApdP3ORvOyYvnYTSxM"
@@ -781,7 +889,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 232706,
       "name": "First Goodbye",
       "url": "https://open.spotify.com/track/61x7KwsjSYc5dXFhJ23sS6"
@@ -799,7 +907,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 190190,
       "name": "Forever and Always (Acoustic)",
       "url": "https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31"
@@ -817,7 +925,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-07-27",
       "duration_ms": 178072,
       "name": "Forever and Always - Acoustic Version",
       "url": "https://open.spotify.com/track/2xBs8cDJEAtpostbqtcAk6"
@@ -835,7 +943,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 223968,
       "name": "Front Seat - Acoustic",
       "url": "https://open.spotify.com/track/3GLE1aZvXO7vSFLQNDbSpC"
@@ -875,7 +983,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 233577,
       "name": "GIRL - Acoustic",
       "url": "https://open.spotify.com/track/611tozIA4qliEKm6puczXi"
@@ -911,7 +1019,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-07-29",
       "duration_ms": 174830,
       "name": "Girlfriend - Acoustic",
       "url": "https://open.spotify.com/track/50ZUmhK9HlAcErRiStCLqw"
@@ -965,7 +1073,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 181359,
       "name": "Good Day - Acoustic",
       "url": "https://open.spotify.com/track/5vlkwSSNljB7vmnBFwYWrw"
@@ -987,6 +1095,24 @@
       "duration_ms": 192668,
       "name": "Growing Old With You - First Dance Version",
       "url": "https://open.spotify.com/track/1qVLRuFLEzl2hcC6lqLMuf"
+    },
+    {
+      "album": {
+        "name": "Growing Up (Acoustic)",
+        "url": "https://open.spotify.com/album/1WYMSj0rZC9flgjqreuf7M"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 151828,
+      "name": "Growing Up (Are You Happy) - Acoustic",
+      "url": "https://open.spotify.com/track/0Lt8VWHBGhXj0DlqjDwvVC"
     },
     {
       "album": {
@@ -1048,6 +1174,24 @@
     },
     {
       "album": {
+        "name": "Hell Of A Way To Go (Acoustic)",
+        "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173126,
+      "name": "Hell Of A Way To Go - Acoustic",
+      "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
+    },
+    {
+      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/3WA8FUqjTvP8QxIKgbQdwK"
       },
@@ -1071,6 +1215,28 @@
     {
       "album": {
         "name": "The Acoustic Sessions",
+        "url": "https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        },
+        {
+          "name": "Charles Kelley",
+          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198026,
+      "name": "Here Tonight - The Acoustic Sessions",
+      "url": "https://open.spotify.com/track/0cNzDnav21HiLyYDvldKUO"
+    },
+    {
+      "album": {
+        "name": "The Acoustic Sessions",
         "url": "https://open.spotify.com/album/1oXbidU3bE1qpD2WnqSOHI"
       },
       "artists": [
@@ -1085,7 +1251,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198026,
       "name": "Here Tonight - The Acoustic Sessions",
       "url": "https://open.spotify.com/track/7bmjlgvHRIgLC2ihSTIRJv"
@@ -1128,6 +1294,24 @@
     },
     {
       "album": {
+        "name": "Originals",
+        "url": "https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C"
+      },
+      "artists": [
+        {
+          "name": "Music Travel Love",
+          "url": "https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205498,
+      "name": "Hold onto Me",
+      "url": "https://open.spotify.com/track/0a45Bcf67CvGVCIaiydEzq"
+    },
+    {
+      "album": {
         "name": "Hold Onto Me",
         "url": "https://open.spotify.com/album/11YRGrT490YxDDTm26dHAT"
       },
@@ -1139,7 +1323,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205498,
       "name": "Hold Onto Me",
       "url": "https://open.spotify.com/track/46lQ3fRXyOaugGZkeFr6Gd"
@@ -1164,6 +1348,24 @@
     },
     {
       "album": {
+        "name": "Hood of That Car (Piano Version)",
+        "url": "https://open.spotify.com/album/12nCYe2HpuY6UY5Brn9gWu"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208240,
+      "name": "Hood of That Car - Piano Version",
+      "url": "https://open.spotify.com/track/7LMR7luX7Mf9YPsOX8hLvK"
+    },
+    {
+      "album": {
         "name": "Hope It's Hot Out (Acoustic)",
         "url": "https://open.spotify.com/album/6PIh55HBPHm7iFyODh5ZLk"
       },
@@ -1175,7 +1377,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 167833,
       "name": "Hope It's Hot Out - Acoustic",
       "url": "https://open.spotify.com/track/2JrieR1DBfhGK2G4zTyeXj"
@@ -1215,7 +1417,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 179908,
       "name": "I Didn't Love You",
       "url": "https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7"
@@ -1251,7 +1453,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195966,
       "name": "I Hope You\u2019re Happy Now - Live",
       "url": "https://open.spotify.com/track/7dHIJjEVtekWBZr16Q2owe"
@@ -1269,7 +1471,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-26",
       "duration_ms": 262367,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/5dJayBRoblzjYfmJSmjAdE"
@@ -1381,7 +1583,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 228191,
       "name": "If I'm Not In Hell",
       "url": "https://open.spotify.com/track/12hS8rEX9hfUDzIPQHUCSf"
@@ -1504,6 +1706,24 @@
     },
     {
       "album": {
+        "name": "Acoustic Sessions EP",
+        "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170953,
+      "name": "Last Cigarette - Acoustic",
+      "url": "https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6"
+    },
+    {
+      "album": {
         "name": "Led Myself On (Acoustic)",
         "url": "https://open.spotify.com/album/4sZn99yH1cxhm9a76aO6C9"
       },
@@ -1533,7 +1753,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-27",
       "duration_ms": 191973,
       "name": "Lessons (Acoustic)",
       "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
@@ -1663,7 +1883,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-24",
       "duration_ms": 160875,
       "name": "Love Makes You Blind - Acoustic Version",
       "url": "https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il"
@@ -1706,6 +1926,24 @@
     },
     {
       "album": {
+        "name": "Magic (Acoustic Live In Studio)",
+        "url": "https://open.spotify.com/album/7jxeRus7q2xwuLCaDEWUAf"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 180410,
+      "name": "Magic - Acoustic Live In Studio",
+      "url": "https://open.spotify.com/track/0otRit89LPUUlSOzlxVYyZ"
+    },
+    {
+      "album": {
         "name": "Memorize You (Acoustic)",
         "url": "https://open.spotify.com/album/27n9Nh4PEeY6Wwf1mvl8JL"
       },
@@ -1717,7 +1955,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 196707,
       "name": "Memorize You - Acoustic",
       "url": "https://open.spotify.com/track/3iQRMV1RML1TBMioordUI5"
@@ -1753,10 +1991,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214160,
       "name": "More Hearts Than Mine",
       "url": "https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz"
+    },
+    {
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214786,
+      "name": "More Hearts Than Mine",
+      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
     },
     {
       "album": {
@@ -1789,7 +2045,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-07-23",
       "duration_ms": 185616,
       "name": "Nashville Or Nothing - Stripped",
       "url": "https://open.spotify.com/track/2SujI6xuygJQ2fjJIwqjyS"
@@ -1847,7 +2103,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208400,
       "name": "New Wings",
       "url": "https://open.spotify.com/track/5S74K9DFZmkMYhr32h7Ica"
@@ -1865,7 +2121,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 163774,
       "name": "Next Girl - Live",
       "url": "https://open.spotify.com/track/2ooUIGpVzp1ShWDUnc1CPa"
@@ -1883,7 +2139,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 255986,
       "name": "No Daylight",
       "url": "https://open.spotify.com/track/1TPLR8pO3aE6KnG2Wj7SmO"
@@ -1919,7 +2175,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 164234,
       "name": "Not Supposed To Know Each Other (Sad Version)",
       "url": "https://open.spotify.com/track/6v6niH1eUT1B58fX1wTn4l"
@@ -1937,7 +2193,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 181692,
       "name": "Nothing's Better (stripped)",
       "url": "https://open.spotify.com/track/7LrZr7EXh5KRqE9s6Tl1Te"
@@ -1955,7 +2211,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-08",
       "duration_ms": 218653,
       "name": "One Of These Days - sad piano version",
       "url": "https://open.spotify.com/track/6y9Zf5yNGmLPOQhjUuAAP9"
@@ -1973,7 +2229,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-08-13",
       "duration_ms": 204900,
       "name": "One Percent (Acoustic)",
       "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
@@ -1991,7 +2247,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-07-25",
       "duration_ms": 155000,
       "name": "Only Us - Acoustic",
       "url": "https://open.spotify.com/track/51pGduBpukl8Oy2qUEOAqS"
@@ -2045,10 +2301,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205306,
       "name": "Prayed for You - Stripped",
       "url": "https://open.spotify.com/track/4E0CDL8y82NHasSj2fH0D7"
+    },
+    {
+      "album": {
+        "name": "Prayed For You (Wedding Version)",
+        "url": "https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205306,
+      "name": "Prayed For You - Wedding Version",
+      "url": "https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX"
     },
     {
       "album": {
@@ -2243,7 +2517,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 191400,
       "name": "Some Girls - Acoustic",
       "url": "https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2"
@@ -2315,7 +2589,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 192020,
       "name": "Something Sexy (Stripped)",
       "url": "https://open.spotify.com/track/7ahB6NaGsY42NEiLQEgLiw"
@@ -2351,7 +2625,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 196591,
       "name": "Son Of A (Acoustic)",
       "url": "https://open.spotify.com/track/6dUVnXkXzVlv9UfxRoJtYN"
@@ -2466,6 +2740,28 @@
     },
     {
       "album": {
+        "name": "Take It Slow (Acoustic)",
+        "url": "https://open.spotify.com/album/2Obkgz1PdZMe3CouNqslwU"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        },
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153320,
+      "name": "Take It Slow - Acoustic",
+      "url": "https://open.spotify.com/track/5JTGEkYHojEAd0ODBAE1qo"
+    },
+    {
+      "album": {
         "name": "Take My Name (Wedding Version)",
         "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
       },
@@ -2513,7 +2809,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-07-29",
       "duration_ms": 155370,
       "name": "Thank God We Broke Up - Acoustic",
       "url": "https://open.spotify.com/track/3RJIISr228jsDUnhEDRp5S"
@@ -2571,7 +2867,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201931,
       "name": "The Bullet - Acoustic Version",
       "url": "https://open.spotify.com/track/6h8eR0E639sq08smLG7SYb"
@@ -2607,7 +2903,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 198897,
       "name": "The Middle - Acoustic",
       "url": "https://open.spotify.com/track/6DLprBjko8crRbx7n9LuSG"
@@ -2625,10 +2921,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188571,
       "name": "Therapy (Rainy Days Version)",
       "url": "https://open.spotify.com/track/0V8s9vPRwAFxcImLRSjoGD"
+    },
+    {
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203373,
+      "name": "Things A Man Oughta Know",
+      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
     },
     {
       "album": {
@@ -2643,7 +2957,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206320,
       "name": "Things A Man Oughta Know",
       "url": "https://open.spotify.com/track/7cwKO3SvjCpTyLiIWfnxpx"
@@ -2705,7 +3019,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 172663,
       "name": "Thought This Through",
       "url": "https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK"
@@ -2731,7 +3045,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195947,
       "name": "Tired of Flying",
       "url": "https://open.spotify.com/track/0KwQzDrdpYsXLPsEJ0d5bj"
@@ -2775,6 +3089,24 @@
     {
       "album": {
         "name": "Under My Skin (Stripped)",
+        "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185110,
+      "name": "Under My Skin - Stripped",
+      "url": "https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg"
+    },
+    {
+      "album": {
+        "name": "Under My Skin (Stripped)",
         "url": "https://open.spotify.com/album/7216gXKQDpH8s38HJasmhS"
       },
       "artists": [
@@ -2785,7 +3117,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185110,
       "name": "Under My Skin - Stripped",
       "url": "https://open.spotify.com/track/5jZgXhm2cSQmOTDJQENojy"
@@ -2829,6 +3161,24 @@
     {
       "album": {
         "name": "Country Again (Side A)",
+        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172586,
+      "name": "Want It Again",
+      "url": "https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ"
+    },
+    {
+      "album": {
+        "name": "Country Again (Side A)",
         "url": "https://open.spotify.com/album/54gUAvhpOHFDhHGAINyogO"
       },
       "artists": [
@@ -2839,7 +3189,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172586,
       "name": "Want It Again",
       "url": "https://open.spotify.com/track/7KRcMPOGQA0WOw0T8qeXD7"
@@ -2864,6 +3214,24 @@
     },
     {
       "album": {
+        "name": "Live from Layman",
+        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
+      },
+      "artists": [
+        {
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Waves (Live)",
+      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
+    },
+    {
+      "album": {
         "name": "What A Song Can Do (Stripped Down)",
         "url": "https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd"
       },
@@ -2882,6 +3250,24 @@
     },
     {
       "album": {
+        "name": "WHAT I HAVE",
+        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178681,
+      "name": "WHAT I HAVE",
+      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
+    },
+    {
+      "album": {
         "name": "What If I Never Get Over You (Piano Version)",
         "url": "https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib"
       },
@@ -2893,7 +3279,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 204639,
       "name": "What If I Never Get Over You - Piano Version",
       "url": "https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr"
@@ -2911,7 +3297,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 164949,
       "name": "What If I'm Right (Stripped)",
       "url": "https://open.spotify.com/track/4VQo86DajWMXAJVkcurzC9"
@@ -3008,6 +3394,42 @@
     },
     {
       "album": {
+        "name": "Whiskey On You (Acoustic)",
+        "url": "https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179530,
+      "name": "Whiskey On You - Acoustic",
+      "url": "https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj"
+    },
+    {
+      "album": {
+        "name": "Why I Called",
+        "url": "https://open.spotify.com/album/2UoDJFsF8SQngbTJhks8kf"
+      },
+      "artists": [
+        {
+          "name": "Lathan Bryant",
+          "url": "https://open.spotify.com/artist/19kwPHar3aRaydbCozFr5d"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 283714,
+      "name": "Why I Called",
+      "url": "https://open.spotify.com/track/4ea0sVdiH8GrFgm5yvMvKZ"
+    },
+    {
+      "album": {
         "name": "Wild as Her (feat. Carter Faith) [Acoustic One-Take]",
         "url": "https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf"
       },
@@ -3041,7 +3463,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-07-28",
       "duration_ms": 181621,
       "name": "Wild As Her - Stripped",
       "url": "https://open.spotify.com/track/3Lcsy5potXX21nHDO0OGMH"
@@ -3066,6 +3488,46 @@
     },
     {
       "album": {
+        "name": "Wild Palomino",
+        "url": "https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198514,
+      "name": "Wild Palomino",
+      "url": "https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0"
+    },
+    {
+      "album": {
+        "name": "Acoustic Sessions EP",
+        "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251170,
+      "name": "Wilder Days - Acoustic",
+      "url": "https://open.spotify.com/track/7dkCnDAjnTNTCvpb9xMHXU"
+    },
+    {
+      "album": {
         "name": "Wildfire (Acoustic)",
         "url": "https://open.spotify.com/album/46tIToUxEQ6TN29LG7KPDW"
       },
@@ -3077,7 +3539,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 173790,
       "name": "Wildfire - Acoustic",
       "url": "https://open.spotify.com/track/3NxGlVBbrjPw3jRdhLdsZI"
@@ -3099,6 +3561,24 @@
       "duration_ms": 295000,
       "name": "Woman Of My Word",
       "url": "https://open.spotify.com/track/6F9sPxH3E2o3orwHljR43X"
+    },
+    {
+      "album": {
+        "name": "You (Acoustic)",
+        "url": "https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203373,
+      "name": "You - Acoustic",
+      "url": "https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ"
     },
     {
       "album": {

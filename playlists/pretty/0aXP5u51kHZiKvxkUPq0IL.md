@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0aXP5u51kHZiKvxkUPq0IL.md) - [plain]
 
 > Score your day with some signature indie ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291 likes - 57 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 314 likes - 57 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,6 +64,6 @@ pretty - [cumulative](/playlists/cumulative/0aXP5u51kHZiKvxkUPq0IL.md) - [plain]
 | 54 | [Step](https://open.spotify.com/track/78J9MBkAoqfvyeEpQKJDzD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn) | 4:11 |
 | 55 | [No One's Gonna Love You](https://open.spotify.com/track/3LeNQIGi0zwmQm8WShZB95) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/4a1jgSYZGMTR6Yp6IiSkbO) | 3:37 |
 | 56 | [West Coast](https://open.spotify.com/track/1AtnxUR7yOlRsfjzF2kpuv) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Nighttiming](https://open.spotify.com/album/3nBX2HMsJZlhcPxdqu2Wjy) | 3:32 |
-| 57 | [California \- Live at The Troubador, West Hollywood, CA \- 2001](https://open.spotify.com/track/4l7vH6zMLfz2P3F5ufpc55) | [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [The Guest](https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD) | 3:19 |
+| 57 | [California \- Live at The Troubador, West Hollywood, CA \- Dec, 2001](https://open.spotify.com/track/4l7vH6zMLfz2P3F5ufpc55) | [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [The Guest \(Expanded Edition\)](https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD) | 3:19 |
 
 Snapshot ID: `MTEwLDEzN2M2NDFjZjBkZTU0MjkyNDM1MjE0YzZiZDIzNzFkY2VmNmZlM2M=`

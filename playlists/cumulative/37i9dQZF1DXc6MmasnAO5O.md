@@ -2,7 +2,7 @@
 
 ### [Wax Motif's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DXc6MmasnAO5O)
 
-> <a href ="spotify:artist:7zm3aSdmGiOkTt0aZFSO8R">Wax Motif</a> transports us to a house\-filled rave.
+> <a href="spotify:artist:7zm3aSdmGiOkTt0aZFSO8R">Wax Motif</a> transports us to a house\-filled rave.
 
 24 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/1ZdXW0l6r9bA4AYdc9xJ6A)
 

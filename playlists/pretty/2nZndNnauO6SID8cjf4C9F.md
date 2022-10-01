@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nZndNnauO6SID8cjf4C9F.md) - [plain]
 
 > MMG top picks chosen by Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,118 likes - 40 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,119 likes - 40 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 255493,
       "name": "Back In Black",
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 355400,
       "name": "Bohemian Rhapsody",
       "url": "https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w"
@@ -153,7 +153,7 @@
     {
       "album": {
         "name": "Blow By Blow",
-        "url": "https://open.spotify.com/album/3PZSoJCzPos29legd35FAu"
+        "url": "https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u"
       },
       "artists": [
         {
@@ -164,6 +164,24 @@
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 342066,
+      "name": "Cause We've Ended as Lovers",
+      "url": "https://open.spotify.com/track/4zoQ3EqopTIGmK2c2rPV5t"
+    },
+    {
+      "album": {
+        "name": "Blow By Blow",
+        "url": "https://open.spotify.com/album/3PZSoJCzPos29legd35FAu"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 342333,
       "name": "Cause We've Ended as Lovers",
       "url": "https://open.spotify.com/track/5AICUm2wDa8bSu2HFRyMyU"
@@ -253,10 +271,28 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 102133,
       "name": "Eruption",
       "url": "https://open.spotify.com/track/24GaspdcJWLts2R1wurDfW"
+    },
+    {
+      "album": {
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102080,
+      "name": "Eruption - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2tAeN2TKlQLOoSPXtARzBV"
     },
     {
       "album": {
@@ -379,7 +415,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 314560,
       "name": "Hangar 18",
       "url": "https://open.spotify.com/track/0KAaslGdPc5I6WxmKe3whe"
@@ -423,7 +459,7 @@
     {
       "album": {
         "name": "Boston",
-        "url": "https://open.spotify.com/album/01OahkTPRCleDjobtRk7ST"
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
       "artists": [
         {
@@ -434,6 +470,24 @@
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 251733,
+      "name": "Hitch a Ride",
+      "url": "https://open.spotify.com/track/0870QNicMawQH2cnzBVZ3P"
+    },
+    {
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/01OahkTPRCleDjobtRk7ST"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 251733,
       "name": "Hitch a Ride",
       "url": "https://open.spotify.com/track/3tG9WbDurTwCl0Y66G4kHb"
@@ -577,7 +631,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 619263,
       "name": "Maggot Brain",
       "url": "https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V"
@@ -667,7 +721,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-27",
       "duration_ms": 442160,
       "name": "Rice Pudding",
       "url": "https://open.spotify.com/track/4hQFPRgDFU8M5AmDAGq02d"
@@ -721,7 +775,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-22",
       "duration_ms": 61640,
       "name": "Spanish Fly - 2015 Remaster",
       "url": "https://open.spotify.com/track/3rUHyuFsFizq8gIQO0z2jH"
@@ -757,7 +811,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 284480,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
@@ -919,7 +973,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 492493,
       "name": "The Width of a Circle - 2015 Remaster",
       "url": "https://open.spotify.com/track/2o9VAWKD7yvnyrBRw9tzgH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 
 > Feel 'New Establish Style Tempo' in here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,427 likes - 74 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,486 likes - 74 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 | 38 | [I’m Sorry](https://open.spotify.com/track/0VP5SEopXAVGMbyeZgLQNr) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [FACE](https://open.spotify.com/album/1vUXzz3aDo87yJD55O4ohV) | 3:43 |
 | 39 | [Hello Hello](https://open.spotify.com/track/4oXd3QeFNHDE9AvIoYDhu8) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [THE SECOND MINI ALBUM Hello](https://open.spotify.com/album/1MbaIRobEFpVKwERqfZMKO) | 3:21 |
 | 40 | [EMOTION](https://open.spotify.com/track/1uTan6HW4hpzjIj4pCvmnQ) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Q is.](https://open.spotify.com/album/1yEqdlEIUIU2SBrsenDYIv) | 4:00 |
-| 41 | [Pretty](https://open.spotify.com/track/2zrjUMPxZP12xRIcHkZbPN) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ), [YOOARA](https://open.spotify.com/artist/5iAn0QrNJEo8uYvHPfdYzi) | [THE 3rd MINI ALBUM / Sleep Talking](https://open.spotify.com/album/4RH9G7CTNObHGVty9cHkPH) | 3:17 |
+| 41 | [Pretty \(feat.YOOARA \(HELLOVENUS\)\)](https://open.spotify.com/track/2zrjUMPxZP12xRIcHkZbPN) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ), [YOOARA](https://open.spotify.com/artist/5iAn0QrNJEo8uYvHPfdYzi) | [THE 3rd MINI ALBUM / Sleep Talking](https://open.spotify.com/album/4RH9G7CTNObHGVty9cHkPH) | 3:17 |
 | 42 | [Special message from BAEKHO](https://open.spotify.com/track/1m6QuuLaNPLhB2PDgp9xyD) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Romanticize \- Special Message](https://open.spotify.com/album/659HbB1fY1fl4eQzmHhIEr) | 0:23 |
-| 43 | [Daybreak](https://open.spotify.com/track/0hK90i73D6LlCXrSIVw70e) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 5th Mini Album 'CANVAS'](https://open.spotify.com/album/2kol4AtxVszuo0MJoqoJ5R) | 3:41 |
+| 43 | [Daybreak \(Minhyun&JR\)](https://open.spotify.com/track/0hK90i73D6LlCXrSIVw70e) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 5th Mini Album 'CANVAS'](https://open.spotify.com/album/2kol4AtxVszuo0MJoqoJ5R) | 3:41 |
 | 44 | [ONE TWO THREE](https://open.spotify.com/track/3RUQVCoM6AZh7eJcZS8Mgk) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r) | 3:23 |
 | 45 | [Best Summer \(with Spoonz\)](https://open.spotify.com/track/04P2jFQ31gFglK4vYwYUJA) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Best Summer \(with Spoonz\)](https://open.spotify.com/album/0G5AtGOvDgO9or0J9sj9kp) | 3:34 |
 | 46 | [LOVE ME](https://open.spotify.com/track/0KgTsGLSsbCL69K91pCQ9k) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r) | 3:03 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 | 58 | [If we](https://open.spotify.com/track/5WmjItNSNET1ftW4xczaPl) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r) | 3:07 |
 | 59 | [Trust me](https://open.spotify.com/track/2Z3x2LnzzZY5saqV3MncTr) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r) | 3:21 |
 | 60 | [A scene without you](https://open.spotify.com/track/5JQnOzMgCr6sbBMnTPonsv) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Special Single ‘I’m Bad’](https://open.spotify.com/album/7jlzbojtyoNJ5p73AD72Qt) | 3:45 |
-| 61 | [A little bit more...](https://open.spotify.com/track/3g9pvozCNKJZ9i8bo6zmMq) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ), [Yoon Han \(Pop Pianist\)](https://open.spotify.com/artist/5bRCVFekTRnptEuJ0ZxTtf) | [THE SECOND MINI ALBUM Hello](https://open.spotify.com/album/1MbaIRobEFpVKwERqfZMKO) | 3:49 |
+| 61 | [A little bit more..\. \(feat.Yoon Han \(Pop Pianist\)\)](https://open.spotify.com/track/3g9pvozCNKJZ9i8bo6zmMq) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ), [Yoon Han \(Pop Pianist\)](https://open.spotify.com/artist/5bRCVFekTRnptEuJ0ZxTtf) | [THE SECOND MINI ALBUM Hello](https://open.spotify.com/album/1MbaIRobEFpVKwERqfZMKO) | 3:49 |
 | 62 | [Good Bye Bye](https://open.spotify.com/track/7pzSzXBmYzO7qTKODtFDeL) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:27 |
-| 63 | [Nanananamida](https://open.spotify.com/track/3s0R32RLmGDGgodudUulDt) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Bridge the World](https://open.spotify.com/album/7DZjjPhb4umCBM6k5dfL8y) | 4:00 |
+| 63 | [NA.NA.NA.涙](https://open.spotify.com/track/699Ha1qP9mDY9tkaRtIAyd) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Bridge the World](https://open.spotify.com/album/639mTWGqnCvPZ4KCXiQXHi) | 3:59 |
 | 64 | [Special message from REN](https://open.spotify.com/track/3j6pWe4oN2ZqlMUk5KwWFT) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Romanticize \- Special Message](https://open.spotify.com/album/659HbB1fY1fl4eQzmHhIEr) | 0:22 |
 | 65 | [Call me back](https://open.spotify.com/track/23Im9O9sLsXEEntsJdoTRq) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r) | 3:09 |
 | 66 | [Look \(a starlight night\)](https://open.spotify.com/track/6CWDoW2Q4CvUHz4K30OyRa) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 5th Mini Album 'CANVAS'](https://open.spotify.com/album/2kol4AtxVszuo0MJoqoJ5R) | 4:00 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 | 73 | [Beautiful Ghost](https://open.spotify.com/track/61WM2WWXd8nlMkh3JiCrrG) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [THE 3rd MINI ALBUM / Sleep Talking](https://open.spotify.com/album/4RH9G7CTNObHGVty9cHkPH) | 4:06 |
 | 74 | [FACE](https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:40 |
 
-Snapshot ID: `MTY0NzQ5OTg2NCwwMDAwMDAwNzAwMDAwMTdmOTZhNGU4NDgwMDAwMDE3OGM1NDk4NjY4`
+Snapshot ID: `MTY0NzQ5OTg2NCwwMDAwMDAwMDY4ZjJhZTBkZDFlZmUzZGUzNTVkZDVkZjBhZThlMzQ4`

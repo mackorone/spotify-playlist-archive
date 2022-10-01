@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Rock Around The Clock",
+        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129893,
+      "name": "(We're Gonna) Rock Around The Clock",
+      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
+    },
+    {
+      "album": {
         "name": "Cruising Klassiker",
         "url": "https://open.spotify.com/album/53WS8rHtBrU1UI24xK9Uzp"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 131160,
       "name": "(We're Gonna) Rock Around The Clock",
       "url": "https://open.spotify.com/track/4MnHCHPnGoEZ383MK4uG5s"
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144392,
       "name": "A-V8 Boogie",
       "url": "https://open.spotify.com/track/40Cm3xxLnHUK8y2TVF4Jyp"
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127626,
       "name": "American Music",
       "url": "https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g"
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 160466,
       "name": "Another Sunday Morning",
       "url": "https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0"
@@ -109,10 +127,46 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-29",
       "duration_ms": 149933,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/6vkuJbGjyjnSQReeaCh8wT"
+    },
+    {
+      "album": {
+        "name": "Rockin' With Danny And The Juniors (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq"
+      },
+      "artists": [
+        {
+          "name": "Danny & The Juniors",
+          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150866,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
+    },
+    {
+      "album": {
+        "name": "Baby Come Back",
+        "url": "https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L"
+      },
+      "artists": [
+        {
+          "name": "TT Grace",
+          "url": "https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 201667,
+      "name": "Baby Come Back",
+      "url": "https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0"
     },
     {
       "album": {
@@ -127,10 +181,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 201667,
       "name": "Baby Come Back",
       "url": "https://open.spotify.com/track/6qY22D1gFh5rPHQR5gL4OA"
+    },
+    {
+      "album": {
+        "name": "Forever Blue",
+        "url": "https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174466,
+      "name": "Baby Did A Bad Bad Thing",
+      "url": "https://open.spotify.com/track/116Qy7Q95zaZgVUc5Z03wp"
     },
     {
       "album": {
@@ -145,7 +217,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-24",
       "duration_ms": 176000,
       "name": "Baby Did A Bad Bad Thing - Remastered",
       "url": "https://open.spotify.com/track/7ohJuvtlKjKKaimEcvWfh1"
@@ -163,10 +235,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 167600,
       "name": "Baby I Don't Care",
       "url": "https://open.spotify.com/track/55YNkWt5V10Sg5dNzT2OKF"
+    },
+    {
+      "album": {
+        "name": "Face It",
+        "url": "https://open.spotify.com/album/10OMUhwFGYP9es5wBaeS5B"
+      },
+      "artists": [
+        {
+          "name": "Mr. Breathless",
+          "url": "https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-17",
+      "duration_ms": 168373,
+      "name": "Baby I Don't Care",
+      "url": "https://open.spotify.com/track/04YEUXO7f7Bmbuilnwv0rA"
     },
     {
       "album": {
@@ -199,7 +289,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": "2022-07-23",
       "duration_ms": 181453,
       "name": "Backseat Education",
       "url": "https://open.spotify.com/track/426grzmxP94D7gBldxqv1A"
@@ -253,7 +343,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-27",
       "duration_ms": 185845,
       "name": "Big Boys",
       "url": "https://open.spotify.com/track/44ljyjfLTjjS3XuzoFh3Z5"
@@ -271,7 +361,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-07-28",
       "duration_ms": 96895,
       "name": "Bip Bop Boom",
       "url": "https://open.spotify.com/track/55jx8TvooUxHC1vqdJ3tVw"
@@ -289,7 +379,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 129026,
       "name": "Black Slacks",
       "url": "https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga"
@@ -325,10 +415,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-25",
       "duration_ms": 140196,
       "name": "Bless My Soul With Rock'n'Roll",
       "url": "https://open.spotify.com/track/47Kzl2db8dVG89s4P4RNMZ"
+    },
+    {
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "album": {
@@ -343,7 +451,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-24",
       "duration_ms": 140066,
       "name": "Blue Suede Shoes - Rerecorded",
       "url": "https://open.spotify.com/track/54ZYZamhvPMDMngC7RqHAE"
@@ -361,7 +469,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-08-04",
       "duration_ms": 142560,
       "name": "Bluejean Bop",
       "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
@@ -379,7 +487,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183573,
       "name": "Born to Rock",
       "url": "https://open.spotify.com/track/6YT4nf1aNlJrKiTSsrqaaz"
@@ -423,6 +531,24 @@
     {
       "album": {
         "name": "Bip Bop Boom!",
+        "url": "https://open.spotify.com/album/5p5AoSQkBhNtmWYESALu5x"
+      },
+      "artists": [
+        {
+          "name": "Emmy Lou and The Rhythm Boys",
+          "url": "https://open.spotify.com/artist/0VAO3FEhPxiR9e1nAlFzbr"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172293,
+      "name": "Can\u00b4t Get It out of My Mind",
+      "url": "https://open.spotify.com/track/56ViwfGK5zU5UoUXup1Lqv"
+    },
+    {
+      "album": {
+        "name": "Bip Bop Boom!",
         "url": "https://open.spotify.com/album/4E35ZgomU7H1ktEB1GtWba"
       },
       "artists": [
@@ -433,7 +559,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172293,
       "name": "Can\u00b4t Get It Out of My Mind",
       "url": "https://open.spotify.com/track/5Z1sGA3c1XbY1Qu8Ku9Yz1"
@@ -476,6 +602,24 @@
     },
     {
       "album": {
+        "name": "Chantilly Lace",
+        "url": "https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS"
+      },
+      "artists": [
+        {
+          "name": "The Big Bopper",
+          "url": "https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145266,
+      "name": "Chantilly Lace",
+      "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
+    },
+    {
+      "album": {
         "name": "Checkered Flag",
         "url": "https://open.spotify.com/album/3iHXkPhhKnv84UDbYjFRwA"
       },
@@ -487,10 +631,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245175,
       "name": "Checkered Flag",
       "url": "https://open.spotify.com/track/1KWpWBABJT2glaEEuyICIx"
+    },
+    {
+      "album": {
+        "name": "Gotta Have the Rumble",
+        "url": "https://open.spotify.com/album/6Y4c5dgnOrQjzWM9NrKguN"
+      },
+      "artists": [
+        {
+          "name": "Brian Setzer",
+          "url": "https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245175,
+      "name": "Checkered Flag",
+      "url": "https://open.spotify.com/track/5ZGBKoa6sydhYUMiv4g1a4"
     },
     {
       "album": {
@@ -505,10 +667,46 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175679,
       "name": "Chevy 55",
       "url": "https://open.spotify.com/track/2ZIRhZgebost1ImAJfk5Fh"
+    },
+    {
+      "album": {
+        "name": "In the Mood",
+        "url": "https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu"
+      },
+      "artists": [
+        {
+          "name": "The Playtones",
+          "url": "https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175679,
+      "name": "Chevy 55",
+      "url": "https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu"
+    },
+    {
+      "album": {
+        "name": "Come on Little Mama / Where'd You Stay Last Night",
+        "url": "https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY"
+      },
+      "artists": [
+        {
+          "name": "Ray Harris",
+          "url": "https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138813,
+      "name": "Come on Little Mama",
+      "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
     },
     {
       "album": {
@@ -541,7 +739,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-19",
       "duration_ms": 149159,
       "name": "Daddy Cool / The Girl Can't Help It",
       "url": "https://open.spotify.com/track/10b9TrZBf0uP1EtAZHcKNh"
@@ -559,10 +757,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 133693,
       "name": "Debt With the Devil",
       "url": "https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q"
+    },
+    {
+      "album": {
+        "name": "Kim Lenz And Her Jaguars",
+        "url": "https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL"
+      },
+      "artists": [
+        {
+          "name": "Kim Lenz & Her Jaguars",
+          "url": "https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157426,
+      "name": "Devil On My Shoulder",
+      "url": "https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu"
     },
     {
       "album": {
@@ -617,7 +833,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-26",
       "duration_ms": 132400,
       "name": "Drinking Wine Spo-Dee-O-Dee - Single Version",
       "url": "https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm"
@@ -635,7 +851,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-26",
       "duration_ms": 127239,
       "name": "Drugstore Rock and Roll",
       "url": "https://open.spotify.com/track/3QfhbXUTf5hlFAEbn0jbeP"
@@ -653,7 +869,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-28",
       "duration_ms": 154680,
       "name": "Evelina",
       "url": "https://open.spotify.com/track/4Lz9MQ6Je5niOfsT6xLVKO"
@@ -689,7 +905,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 133009,
       "name": "Everybody's Trying to Be My Baby",
       "url": "https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8"
@@ -707,7 +923,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-28",
       "duration_ms": 149053,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/1R5aCMXj3rYVL1tAaKF9Ra"
@@ -743,10 +959,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": "2022-07-25",
       "duration_ms": 161508,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7yCG9FU5CGdghkdX5xPYIw"
+    },
+    {
+      "album": {
+        "name": "Tarpaper Sky",
+        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163306,
+      "name": "Frankie Please",
+      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
     },
     {
       "album": {
@@ -761,7 +995,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163306,
       "name": "Frankie Please",
       "url": "https://open.spotify.com/track/7iL3tEPfvqOnZ6glFtWhRm"
@@ -779,10 +1013,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/3KB1Z1mQulL4SdJTmrbTyO"
+    },
+    {
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132970,
+      "name": "Get Rhythm",
+      "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
     },
     {
       "album": {
@@ -801,7 +1057,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 126500,
       "name": "Go Go Go",
       "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
@@ -819,10 +1075,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127386,
       "name": "Good Golly Miss Molly",
       "url": "https://open.spotify.com/track/1fMMRoalpb7E8m5FsAta2y"
+    },
+    {
+      "album": {
+        "name": "Good Golly!",
+        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129132,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
     },
     {
       "album": {
@@ -837,7 +1111,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 234293,
       "name": "Goodbye Forever",
       "url": "https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ"
@@ -855,7 +1129,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 141853,
       "name": "Gotta Lot Of Rhythm In My Soul",
       "url": "https://open.spotify.com/track/7aZiLidYjoelX6E3nfpDM7"
@@ -891,10 +1165,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 138840,
       "name": "Hello Mary Lou",
       "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
+    },
+    {
+      "album": {
+        "name": "Help Me Out",
+        "url": "https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc"
+      },
+      "artists": [
+        {
+          "name": "The Hotlips",
+          "url": "https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179338,
+      "name": "Help Me Out",
+      "url": "https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE"
     },
     {
       "album": {
@@ -945,7 +1237,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 129493,
       "name": "Hip Shakin' Baby",
       "url": "https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx"
@@ -970,6 +1262,24 @@
     },
     {
       "album": {
+        "name": "Gene Vincent And The Blue Caps",
+        "url": "https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135373,
+      "name": "Hold Me, Hug Me, Rock Me",
+      "url": "https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd"
+    },
+    {
+      "album": {
         "name": "Gene Vincent And His Blue Caps",
         "url": "https://open.spotify.com/album/0S5EEOJz0QJs16V3Z3uTyF"
       },
@@ -981,7 +1291,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-27",
       "duration_ms": 135373,
       "name": "Hold Me, Hug Me, Rock Me - 2002 Digital Remaster",
       "url": "https://open.spotify.com/track/07dubfnUuwhOfV84rJ5EuO"
@@ -999,7 +1309,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 183373,
       "name": "Honky Tonk Train",
       "url": "https://open.spotify.com/track/0SPKGaIJFH7ReMd0fcRoJg"
@@ -1035,7 +1345,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214066,
       "name": "I Got My Eyes On You",
       "url": "https://open.spotify.com/track/059NFe0ekQGQTL3i8TYttr"
@@ -1053,7 +1363,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": "2022-07-25",
       "duration_ms": 173004,
       "name": "I Had A Real Good Time",
       "url": "https://open.spotify.com/track/0i5krOajl7V5Str18ABwZU"
@@ -1071,7 +1381,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 121760,
       "name": "I'm Coming Home",
       "url": "https://open.spotify.com/track/1m1p15XpCQLXkq04yym3xu"
@@ -1089,7 +1399,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 118512,
       "name": "I'm Gonna Get You",
       "url": "https://open.spotify.com/track/1GgwGCiITPzjzziSVLQK0H"
@@ -1125,7 +1435,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 179400,
       "name": "Johnny Got A Boom Boom",
       "url": "https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e"
@@ -1179,7 +1489,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189320,
       "name": "King Of Love",
       "url": "https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN"
@@ -1197,7 +1507,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-07-25",
       "duration_ms": 149000,
       "name": "Leave a Happy Fool Alone",
       "url": "https://open.spotify.com/track/1Icn8VCDRRGZfTUOp0s3xS"
@@ -1251,7 +1561,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 167132,
       "name": "Little Ol\u00b4 You",
       "url": "https://open.spotify.com/track/37VsUa27pO3zKLjGH3fbXv"
@@ -1269,10 +1579,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 128280,
       "name": "Long Tall Sally",
       "url": "https://open.spotify.com/track/1q7njNe2QfE0xbZMtTOT2m"
+    },
+    {
+      "album": {
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127426,
+      "name": "Long Tall Sally (The Thing)",
+      "url": "https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t"
     },
     {
       "album": {
@@ -1287,7 +1615,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 166000,
       "name": "Mac Attack",
       "url": "https://open.spotify.com/track/59wegmikZsRULAIESThR9H"
@@ -1323,7 +1651,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217792,
       "name": "Meet Me After Midnight",
       "url": "https://open.spotify.com/track/5v4QQoNX0XbEkOblrMYc88"
@@ -1341,7 +1669,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186413,
       "name": "Midnight Dynamos",
       "url": "https://open.spotify.com/track/0AX3dBr7hRTDjy1O2s4N6u"
@@ -1363,6 +1691,24 @@
       "duration_ms": 146728,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/3iUS5pEe8CinR7KiQn8LNm"
+    },
+    {
+      "album": {
+        "name": "Like, Mann: Carl Mann Sings",
+        "url": "https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ"
+      },
+      "artists": [
+        {
+          "name": "Carl Mann",
+          "url": "https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146728,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH"
     },
     {
       "album": {
@@ -1399,7 +1745,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165293,
       "name": "My Little Sister Gotta Motorbike",
       "url": "https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY"
@@ -1417,10 +1763,46 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": "2022-07-24",
       "duration_ms": 214346,
       "name": "Nathalie",
       "url": "https://open.spotify.com/track/48zoQZk5Vc4Y71SvvJuyLm"
+    },
+    {
+      "album": {
+        "name": "Rockin' The Joint",
+        "url": "https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138986,
+      "name": "New Rock The Joint",
+      "url": "https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5"
+    },
+    {
+      "album": {
+        "name": "Signs & Signifiers",
+        "url": "https://open.spotify.com/album/4TcPbpUi60PaJ2QX5scH69"
+      },
+      "artists": [
+        {
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151493,
+      "name": "North Side Gal",
+      "url": "https://open.spotify.com/track/6VqC5gNL532RfgdlGzNAv0"
     },
     {
       "album": {
@@ -1435,10 +1817,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-29",
       "duration_ms": 151493,
       "name": "North Side Gal",
       "url": "https://open.spotify.com/track/7bZkuSIYH7j85RBu6Y4gTe"
+    },
+    {
+      "album": {
+        "name": "Stockholm Blue",
+        "url": "https://open.spotify.com/album/7xFg94LOru7QaN5couhbh1"
+      },
+      "artists": [
+        {
+          "name": "Lee Ericson",
+          "url": "https://open.spotify.com/artist/4i9dZAd8B1gXWY8iyPdgnY"
+        },
+        {
+          "name": "The Kingbees",
+          "url": "https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 210186,
+      "name": "Northern Girl",
+      "url": "https://open.spotify.com/track/3ddovtNdDK3nrseLGpI4hV"
     },
     {
       "album": {
@@ -1457,10 +1861,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 211948,
       "name": "Northern Girl",
       "url": "https://open.spotify.com/track/6gldKmiWRakgio6WSudzq2"
+    },
+    {
+      "album": {
+        "name": "Nola",
+        "url": "https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC"
+      },
+      "artists": [
+        {
+          "name": "The Buckaroos",
+          "url": "https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139173,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i"
     },
     {
       "album": {
@@ -1475,10 +1897,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 139173,
       "name": "Once More",
       "url": "https://open.spotify.com/track/7My40AGXwPAULqqRBzvb4R"
+    },
+    {
+      "album": {
+        "name": "Buddy Knox",
+        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
+      },
+      "artists": [
+        {
+          "name": "Buddy Knox",
+          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135173,
+      "name": "Party Doll",
+      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
     },
     {
       "album": {
@@ -1529,7 +1969,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187866,
       "name": "Really Rockabilly",
       "url": "https://open.spotify.com/track/3VZ59HoBq4xF4yPYJMM770"
@@ -1547,10 +1987,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145426,
       "name": "Rebel Rouser",
       "url": "https://open.spotify.com/track/0Efs1YYiqSm9hDbCEt7tmp"
+    },
+    {
+      "album": {
+        "name": "Twangin' The Golden Hits",
+        "url": "https://open.spotify.com/album/5Q1rt5amRpPHzxAQnJkmd0"
+      },
+      "artists": [
+        {
+          "name": "Duane Eddy",
+          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153933,
+      "name": "Rebel Rouser",
+      "url": "https://open.spotify.com/track/7jZwak3w1Sbwkb8aqusUwi"
     },
     {
       "album": {
@@ -1565,10 +2023,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": "2022-07-28",
       "duration_ms": 155609,
       "name": "Red Cadillac And A Black Moustache",
       "url": "https://open.spotify.com/track/3GehJ8OZucZbEYmoB8fFRb"
+    },
+    {
+      "album": {
+        "name": "The Sun Records Sound of Billy Lee Riley (20 Rockabilly Originals)",
+        "url": "https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149584,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
     },
     {
       "album": {
@@ -1583,10 +2059,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 149705,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/024xjVutLFgK3gInQCJxGj"
+    },
+    {
+      "album": {
+        "name": "Red Hot / Pearly Lee",
+        "url": "https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-29",
+      "duration_ms": 149705,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
     },
     {
       "album": {
@@ -1609,6 +2103,24 @@
     {
       "album": {
         "name": "Rock In Threes!",
+        "url": "https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD"
+      },
+      "artists": [
+        {
+          "name": "Black Raven",
+          "url": "https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185986,
+      "name": "Red Light (Spells Danger)",
+      "url": "https://open.spotify.com/track/0Ujsx46cUBEIgt1rwLl6Wc"
+    },
+    {
+      "album": {
+        "name": "Rock In Threes!",
         "url": "https://open.spotify.com/album/6WndJ7LmJSgozZcKFUVhC6"
       },
       "artists": [
@@ -1619,7 +2131,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-27",
       "duration_ms": 185986,
       "name": "Red Light (Spells Danger)",
       "url": "https://open.spotify.com/track/3fxkvUbO7w8CvHIGm4jnag"
@@ -1637,7 +2149,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 135666,
       "name": "Redneck Rock",
       "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
@@ -1655,7 +2167,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 231586,
       "name": "Rich Little Bitch",
       "url": "https://open.spotify.com/track/12680M4NXeEB27oywHfCxg"
@@ -1698,6 +2210,24 @@
     },
     {
       "album": {
+        "name": "That'll Be The Day",
+        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138066,
+      "name": "Rock Around With Ollie Vee - Alternate Version",
+      "url": "https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv"
+    },
+    {
+      "album": {
         "name": "Memorial Collection",
         "url": "https://open.spotify.com/album/5UQXhyOJrvqoNC5WE3tGEp"
       },
@@ -1709,7 +2239,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": "2022-07-21",
       "duration_ms": 131826,
       "name": "Rock Around With Ollie Vee - Single Version",
       "url": "https://open.spotify.com/track/1hcs4ZGMVsnKgBRawd1cCA"
@@ -1763,7 +2293,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 121253,
       "name": "Rock-a-Cha",
       "url": "https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK"
@@ -1781,7 +2311,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 193053,
       "name": "Rockabilly Banjo",
       "url": "https://open.spotify.com/track/0WmZudZaLf7WYOMFD2GGZk"
@@ -1799,7 +2329,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-29",
       "duration_ms": 200146,
       "name": "Rockabilly Blues (Texas 1955)",
       "url": "https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum"
@@ -1817,7 +2347,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-07-25",
       "duration_ms": 116426,
       "name": "Rockabilly Music",
       "url": "https://open.spotify.com/track/19BdP6aAgXHPLIciPpp2se"
@@ -1835,7 +2365,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": "2022-07-23",
       "duration_ms": 149293,
       "name": "Rockabilly Rebel",
       "url": "https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT"
@@ -1853,7 +2383,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167040,
       "name": "Rockabilly Rebel",
       "url": "https://open.spotify.com/track/47fBL9Hqjq2kFIrg8c1wQi"
@@ -1871,7 +2401,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-28",
       "duration_ms": 163960,
       "name": "Rockabilly Rebel",
       "url": "https://open.spotify.com/track/6kSXIXxIv6edvYm7cRV4Jz"
@@ -1889,10 +2419,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 214400,
       "name": "Rocket to the Moon",
       "url": "https://open.spotify.com/track/7E1XmqVGR1GfAPa6LYEYM0"
+    },
+    {
+      "album": {
+        "name": "Rockin' the Night Away",
+        "url": "https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ"
+      },
+      "artists": [
+        {
+          "name": "The Jetaways",
+          "url": "https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "Rockin' the Night Away",
+      "url": "https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs"
     },
     {
       "album": {
@@ -1907,10 +2455,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173866,
       "name": "Rockin' The Night Away",
       "url": "https://open.spotify.com/track/7fnlgiottlzCU3Q42ClGza"
+    },
+    {
+      "album": {
+        "name": "The Lennerockers and Friends",
+        "url": "https://open.spotify.com/album/5isCgworJE2qqtIyx4K4Vr"
+      },
+      "artists": [
+        {
+          "name": "The Lennerockers",
+          "url": "https://open.spotify.com/artist/4vc23SWZ3Lws9afk9sJun9"
+        },
+        {
+          "name": "Freddie Fingers Lee",
+          "url": "https://open.spotify.com/artist/0zbAwBACoFK4620DPiqRnz"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207040,
+      "name": "Rocky Road Blues",
+      "url": "https://open.spotify.com/track/3BnAAC5tXSJgv2FnQdB0Fx"
     },
     {
       "album": {
@@ -1929,7 +2499,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 207040,
       "name": "Rocky Road Blues",
       "url": "https://open.spotify.com/track/42hJcIKQ1OEeriwE9ERDJr"
@@ -1983,10 +2553,46 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195066,
       "name": "Stray Cat Strut",
       "url": "https://open.spotify.com/track/6prmiVokCCQB1VAYhq5TGJ"
+    },
+    {
+      "album": {
+        "name": "Built For Speed",
+        "url": "https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1"
+      },
+      "artists": [
+        {
+          "name": "Stray Cats",
+          "url": "https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Stray Cat Strut",
+      "url": "https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho"
+    },
+    {
+      "album": {
+        "name": "12 Of His Biggest Hits",
+        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119360,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/3oAWTk92mZBxKBOKf8mR5v"
     },
     {
       "album": {
@@ -2001,7 +2607,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 120000,
       "name": "Summertime Blues",
       "url": "https://open.spotify.com/track/2wwRSaZgshcHSvGzWryUIi"
@@ -2019,7 +2625,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217853,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w"
@@ -2037,10 +2643,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 165586,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0Y1BHJjQjDhTnKCAsUEmGJ"
+    },
+    {
+      "album": {
+        "name": "Mayhem",
+        "url": "https://open.spotify.com/album/6QLKR2LZaSZzZuZpiosZNR"
+      },
+      "artists": [
+        {
+          "name": "Imelda May",
+          "url": "https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/71iCLishjeRC9YLVf9BVIb"
     },
     {
       "album": {
@@ -2062,6 +2686,24 @@
     },
     {
       "album": {
+        "name": "That'll Be The Day",
+        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150133,
+      "name": "That'll Be The Day",
+      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
+    },
+    {
+      "album": {
         "name": "Cruising Klassiker",
         "url": "https://open.spotify.com/album/53WS8rHtBrU1UI24xK9Uzp"
       },
@@ -2073,7 +2715,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136560,
       "name": "That'll Be The Day",
       "url": "https://open.spotify.com/track/5Y9RqvAKUyLfEPWCjAqjsO"
@@ -2109,10 +2751,64 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144106,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/0JLR1Y2HdwzNrt3UTqujwg"
+    },
+    {
+      "album": {
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144226,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
+    },
+    {
+      "album": {
+        "name": "Strike!",
+        "url": "https://open.spotify.com/album/6fCk4dWzSKBJeIC3RKSxF7"
+      },
+      "artists": [
+        {
+          "name": "The Baseballs",
+          "url": "https://open.spotify.com/artist/3Ek1EdkcbRFvSDJj9j5JXQ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/6evNakVewSYjoUmEIEEHLi"
+    },
+    {
+      "album": {
+        "name": "Strike!",
+        "url": "https://open.spotify.com/album/5uXZ0RyZE3IGWz4ZEHUZG9"
+      },
+      "artists": [
+        {
+          "name": "The Baseballs",
+          "url": "https://open.spotify.com/artist/3Ek1EdkcbRFvSDJj9j5JXQ"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 187533,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/0BGFXKfJ8Dpjxfn86HLhYz"
     },
     {
       "album": {
@@ -2181,10 +2877,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-26",
       "duration_ms": 171266,
       "name": "When I See Ya!",
       "url": "https://open.spotify.com/track/1Xc4ZsXxe2qHaulqzVYFE7"
+    },
+    {
+      "album": {
+        "name": "Original Golden Hits - Volume 1 (Vol. 1)",
+        "url": "https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173158,
+      "name": "Whole Lot Of Shakin' Going On - Single Version",
+      "url": "https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG"
     },
     {
       "album": {
@@ -2199,7 +2913,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173158,
       "name": "Whole Lotta Shakin' Going On",
       "url": "https://open.spotify.com/track/19J1kwHa3sgxLwaWDleGhd"
@@ -2217,7 +2931,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 109500,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
@@ -2235,7 +2949,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": "2022-07-23",
       "duration_ms": 181493,
       "name": "Wild Saxophone",
       "url": "https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU"
@@ -2271,10 +2985,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": "2022-07-28",
       "duration_ms": 151320,
       "name": "You Broke Another Heart",
       "url": "https://open.spotify.com/track/2aTgrEUkUqkQq2XOTiCoez"
+    },
+    {
+      "album": {
+        "name": "Roc-a-Chicka",
+        "url": "https://open.spotify.com/album/41jsKm2FwTATMyvBavVhd4"
+      },
+      "artists": [
+        {
+          "name": "Cherry Tess & Her Rhythm Sparks",
+          "url": "https://open.spotify.com/artist/70B6oN2soVeM03ahxSnfFF"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 135480,
+      "name": "You're Driving Me Mad",
+      "url": "https://open.spotify.com/track/2TwEZhNZIBQMEaENJvvrIc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0xLQsW8b5Zx"

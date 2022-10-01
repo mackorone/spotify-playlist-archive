@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212669,
+      "name": "At Least We Tried",
+      "url": "https://open.spotify.com/track/6vykq1FmiHr7e5CPyPyHX4"
+    },
+    {
+      "album": {
         "name": "All Your Fault: Pt. 1",
         "url": "https://open.spotify.com/album/2rBHhp9tNShxTb529Hi5AS"
       },
@@ -636,6 +654,28 @@
     },
     {
       "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "Fate (feat. Amber Mark)",
+      "url": "https://open.spotify.com/track/5ARNp5KHWr4CW8icZuOtSg"
+    },
+    {
+      "album": {
         "name": "Lady Like (Deluxe)",
         "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
       },
@@ -932,6 +972,28 @@
     },
     {
       "album": {
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202372,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y"
+    },
+    {
+      "album": {
         "name": "Courage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc"
       },
@@ -1182,6 +1244,24 @@
     },
     {
       "album": {
+        "name": "PIECES",
+        "url": "https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166680,
+      "name": "PIECES",
+      "url": "https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6"
+    },
+    {
+      "album": {
         "name": "PWR RNGR ft. Mick Jenkins",
         "url": "https://open.spotify.com/album/7uOvw6gOJyngV3LoPynY4p"
       },
@@ -1201,24 +1281,6 @@
       "duration_ms": 216195,
       "name": "PWR RNGR ft. Mick Jenkins",
       "url": "https://open.spotify.com/track/6QOlPC9Mwf6SEjq5LHD9Y4"
-    },
-    {
-      "album": {
-        "name": "1212",
-        "url": "https://open.spotify.com/album/0VL0WIykCkgOboLrdL8iM8"
-      },
-      "artists": [
-        {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
-        }
-      ],
-      "date_added": "2021-12-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 226080,
-      "name": "Ready for Love",
-      "url": "https://open.spotify.com/track/0pm2Rm1YKgBQecvDw6c2Mm"
     },
     {
       "album": {
@@ -1439,10 +1501,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 214213,
       "name": "The Long Way Out",
       "url": "https://open.spotify.com/track/4QPI8lcujq9ZguPjx1fONP"
+    },
+    {
+      "album": {
+        "name": "Denial",
+        "url": "https://open.spotify.com/album/1fPgAKSCrUoxkezdx7Hv6C"
+      },
+      "artists": [
+        {
+          "name": "Evan Konrad",
+          "url": "https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214396,
+      "name": "The Long Way Out",
+      "url": "https://open.spotify.com/track/7jyFsn0Q15HCZSHgAUMLuG"
     },
     {
       "album": {
@@ -1609,6 +1689,24 @@
       "duration_ms": 193466,
       "name": "World We Created",
       "url": "https://open.spotify.com/track/51Ful1v7b81FchIFFTAQ05"
+    },
+    {
+      "album": {
+        "name": "1212",
+        "url": "https://open.spotify.com/album/0VL0WIykCkgOboLrdL8iM8"
+      },
+      "artists": [
+        {
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+        }
+      ],
+      "date_added": "2021-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226080,
+      "name": "\u6211\u611b",
+      "url": "https://open.spotify.com/track/0pm2Rm1YKgBQecvDw6c2Mm"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFHZvY2t6fRcn"

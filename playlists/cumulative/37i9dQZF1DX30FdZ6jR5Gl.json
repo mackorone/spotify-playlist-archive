@@ -361,7 +361,7 @@
     {
       "album": {
         "name": "Notes on a Scandal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5ncAuRqCBvL9m94F30FTEc"
+        "url": "https://open.spotify.com/album/08FMYTikWTv7UBhetbZuw7"
       },
       "artists": [
         {
@@ -372,6 +372,24 @@
       "date_added": "2020-05-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202840,
+      "name": "I Knew Her",
+      "url": "https://open.spotify.com/track/2gTc0Vgo3Lg8erahaCwVjm"
+    },
+    {
+      "album": {
+        "name": "Notes on a Scandal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ncAuRqCBvL9m94F30FTEc"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 202840,
       "name": "I Knew Her",
       "url": "https://open.spotify.com/track/5cDIQncK7a2TsiEPWymeyk"
@@ -1004,6 +1022,24 @@
     },
     {
       "album": {
+        "name": "The Truman Show (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2uMsRKnaZ0Iy9wVI4F0X8a"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111831,
+      "name": "Truman Sleeps",
+      "url": "https://open.spotify.com/track/4N7h4IHWRaJCOo1VFdTMHV"
+    },
+    {
+      "album": {
         "name": "The Truman Show",
         "url": "https://open.spotify.com/album/5Lmt26Q6HEdagwj7AqaBv3"
       },
@@ -1019,7 +1055,7 @@
       ],
       "date_added": "2020-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 111831,
       "name": "Truman Sleeps",
       "url": "https://open.spotify.com/track/5GdsFfVUUnRvSk3kXu0P5O"

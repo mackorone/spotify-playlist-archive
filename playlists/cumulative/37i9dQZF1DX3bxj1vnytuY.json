@@ -56,6 +56,24 @@
     },
     {
       "album": {
+        "name": "Gardens Of Eden",
+        "url": "https://open.spotify.com/album/61068yXj9KdR7pzL36kBia"
+      },
+      "artists": [
+        {
+          "name": "Arrab",
+          "url": "https://open.spotify.com/artist/1L0yRmW7xOjMFqed4wtcp3"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525619,
+      "name": "Amal",
+      "url": "https://open.spotify.com/track/30ChfPsn6LEcXGZPnWG5yh"
+    },
+    {
+      "album": {
         "name": "Gardens of Eden",
         "url": "https://open.spotify.com/album/0ht36Zhz7lluBt8vBWJRVZ"
       },
@@ -67,7 +85,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 525619,
       "name": "Amal",
       "url": "https://open.spotify.com/track/6mbaDJR50wBfd2LuXTKSd2"
@@ -147,10 +165,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191924,
       "name": "Asha",
       "url": "https://open.spotify.com/track/2ZmIfaJcHO5GAmyDfJ538p"
+    },
+    {
+      "album": {
+        "name": "Asha",
+        "url": "https://open.spotify.com/album/6kztPrG9kzsEPT9UvQ6tdC"
+      },
+      "artists": [
+        {
+          "name": "Davuiside",
+          "url": "https://open.spotify.com/artist/76f3kykMC0OdbzXU02T1QV"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191924,
+      "name": "Asha",
+      "url": "https://open.spotify.com/track/2gQmFeK3xvZVVbfdYXftld"
     },
     {
       "album": {
@@ -169,10 +205,36 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 384237,
       "name": "Aslaf",
       "url": "https://open.spotify.com/track/29kOMrezSzRfTQqj4QhGsk"
+    },
+    {
+      "album": {
+        "name": "Ayessi Remixes",
+        "url": "https://open.spotify.com/album/2EPzcPRlQi389PMXYiymoI"
+      },
+      "artists": [
+        {
+          "name": "KEENE",
+          "url": "https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+        },
+        {
+          "name": "Philou Louzolo",
+          "url": "https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435806,
+      "name": "Ayessi - Philou Louzolo Remix",
+      "url": "https://open.spotify.com/track/3igI5hy1FFGsIPrD8Nu3Bg"
     },
     {
       "album": {
@@ -275,10 +337,76 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229000,
       "name": "Birdcall",
       "url": "https://open.spotify.com/track/46wxNcRKABQBQwVQrgkl8l"
+    },
+    {
+      "album": {
+        "name": "Birdcall",
+        "url": "https://open.spotify.com/album/1edvx2phtAODVo2MmZKmw4"
+      },
+      "artists": [
+        {
+          "name": "Panuma",
+          "url": "https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Birdcall",
+      "url": "https://open.spotify.com/track/53IT9veqMzZwnBv2SpdRHB"
+    },
+    {
+      "album": {
+        "name": "Borealis",
+        "url": "https://open.spotify.com/album/7GJzsBX2cIrYaZbwtOjlbM"
+      },
+      "artists": [
+        {
+          "name": "Idrissi",
+          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
+        },
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Borealis",
+      "url": "https://open.spotify.com/track/7opM0UdIFdCMbSOCIibLAr"
+    },
+    {
+      "album": {
+        "name": "Buya",
+        "url": "https://open.spotify.com/album/2ivPFRRQwivgwnh9QqfOqE"
+      },
+      "artists": [
+        {
+          "name": "Chris IDH",
+          "url": "https://open.spotify.com/artist/2z7bVSNugoW687HxM4eSa9"
+        },
+        {
+          "name": "Kwezi",
+          "url": "https://open.spotify.com/artist/5tuitM1t2STg0mAoCxIpZp"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492750,
+      "name": "Buya",
+      "url": "https://open.spotify.com/track/5yXoXL2SrjM0XjFyGWPVkY"
     },
     {
       "album": {
@@ -411,7 +539,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 446280,
       "name": "Cumb\u00e9 - Cuzco Mix",
       "url": "https://open.spotify.com/track/6XUrR2Es01NOJxDueRRJSC"
@@ -463,10 +591,40 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 318720,
       "name": "Demedin mi ? - Billy Esteban Remix",
       "url": "https://open.spotify.com/track/6JoBxTueW3TfrpydG0SQhY"
+    },
+    {
+      "album": {
+        "name": "Ethno Trip With Billy Esteban & Friends",
+        "url": "https://open.spotify.com/album/7f87jFF0mzBbf0sT9gK99I"
+      },
+      "artists": [
+        {
+          "name": "Aliye Mutlu",
+          "url": "https://open.spotify.com/artist/4d6HLW1woZHaPab3eJpiyA"
+        },
+        {
+          "name": "Majnoon",
+          "url": "https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h"
+        },
+        {
+          "name": "Erdi Arslan",
+          "url": "https://open.spotify.com/artist/1m7nqWkenNyuzsBFWpNmth"
+        },
+        {
+          "name": "Billy Esteban",
+          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318720,
+      "name": "Demedin Mi? - Billy Esteban Remix",
+      "url": "https://open.spotify.com/track/1rtMK3g4NIHtcNMG4B7xS5"
     },
     {
       "album": {
@@ -515,6 +673,24 @@
     {
       "album": {
         "name": "Kemet Deep Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/0P4IX6KeVNUXFNz4uNgCWC"
+      },
+      "artists": [
+        {
+          "name": "Hyenah",
+          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 395663,
+      "name": "Dodoma",
+      "url": "https://open.spotify.com/track/1eult54nuGwQsIfPL2rZOh"
+    },
+    {
+      "album": {
+        "name": "Kemet Deep Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/7Djcq0KMBZlfMbva2PBla2"
       },
       "artists": [
@@ -525,7 +701,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 395663,
       "name": "Dodoma",
       "url": "https://open.spotify.com/track/4d7iVgX5u3NxBM1pa72xh3"
@@ -569,6 +745,24 @@
       "duration_ms": 304426,
       "name": "Endless History",
       "url": "https://open.spotify.com/track/5OhycGO6E8HwsbtOPeCRxI"
+    },
+    {
+      "album": {
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "album": {
@@ -653,6 +847,28 @@
     {
       "album": {
         "name": "Fidale (I Feel)",
+        "url": "https://open.spotify.com/album/3Jbfc8oozmmj4SZ57eMSGE"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Zigan Aldi",
+          "url": "https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284309,
+      "name": "Fidale (I Feel) - Vocal Version",
+      "url": "https://open.spotify.com/track/2lpsHgTJaQ75uU24WzjsFx"
+    },
+    {
+      "album": {
+        "name": "Fidale (I Feel)",
         "url": "https://open.spotify.com/album/7slMAeG3JZAQKYO16H6ViD"
       },
       "artists": [
@@ -667,7 +883,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 284309,
       "name": "Fidale (I Feel) - Vocal Version",
       "url": "https://open.spotify.com/track/7xrUhbMPCC6yBiok3Pb1Ej"
@@ -685,7 +901,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 411132,
       "name": "Flow - Sunset Mix",
       "url": "https://open.spotify.com/track/1QpU3A0dkKVJhI3o6xYBok"
@@ -873,6 +1089,28 @@
     {
       "album": {
         "name": "Sunset Camel Ride",
+        "url": "https://open.spotify.com/album/0unnaPO0z2hR4CwThvoPfO"
+      },
+      "artists": [
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Riyozaki",
+          "url": "https://open.spotify.com/artist/7qg9gHUnigBkCn6BdAcJ8v"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355259,
+      "name": "Hwel El Wed",
+      "url": "https://open.spotify.com/track/33dEnbTEFdh7ucUqN5FcEI"
+    },
+    {
+      "album": {
+        "name": "Sunset Camel Ride",
         "url": "https://open.spotify.com/album/7ycoYy6SuUF7ltb6glLAcX"
       },
       "artists": [
@@ -887,7 +1125,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 355259,
       "name": "Hwel El Wed",
       "url": "https://open.spotify.com/track/5N3GclOh3EfQR0l5fPwZI6"
@@ -1166,6 +1404,28 @@
     },
     {
       "album": {
+        "name": "Ghouroub",
+        "url": "https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423870,
+      "name": "L'ame",
+      "url": "https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU"
+    },
+    {
+      "album": {
         "name": "Lima",
         "url": "https://open.spotify.com/album/794vccfp05jLVlOB3Pw7pI"
       },
@@ -1177,7 +1437,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 212988,
       "name": "Lima",
       "url": "https://open.spotify.com/track/2ilC4aW81hmv8S1xd3DNcm"
@@ -1313,7 +1573,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 426475,
       "name": "Milima",
       "url": "https://open.spotify.com/track/26xLSnIiAcqaH2VrgUvbpf"
@@ -1459,7 +1719,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 435187,
       "name": "OUD",
       "url": "https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl"
@@ -1584,6 +1844,28 @@
     },
     {
       "album": {
+        "name": "Ethno World 2",
+        "url": "https://open.spotify.com/album/5pdUgjwzDl9iEOR32qh0YC"
+      },
+      "artists": [
+        {
+          "name": "Jack Essek",
+          "url": "https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453596,
+      "name": "Reshetka",
+      "url": "https://open.spotify.com/track/0MmGBtEVw3COl2ElmvJVy3"
+    },
+    {
+      "album": {
         "name": "Aciga Vurma",
         "url": "https://open.spotify.com/album/5M4YENiQ2zMfMtxyHWVJV7"
       },
@@ -1599,7 +1881,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 453596,
       "name": "Reshetka",
       "url": "https://open.spotify.com/track/5OOsTNjddctg0r1N1AtGSi"
@@ -1617,10 +1899,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 318545,
       "name": "Sabali",
       "url": "https://open.spotify.com/track/0qGPPBNHicENPAfFKBxii2"
+    },
+    {
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/3b5IdXSse2wu3lDfWgHNu8"
+      },
+      "artists": [
+        {
+          "name": "Professor",
+          "url": "https://open.spotify.com/artist/6CVlmc2tvzoff758MgvAT5"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318545,
+      "name": "Sabali",
+      "url": "https://open.spotify.com/track/7pSCO1Uf22BPMvFSzSiFmw"
     },
     {
       "album": {
@@ -1639,10 +1939,32 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 454296,
       "name": "Sajanna",
       "url": "https://open.spotify.com/track/42lUfNanMpFhibe2lNGqpA"
+    },
+    {
+      "album": {
+        "name": "Ethno World 2",
+        "url": "https://open.spotify.com/album/5pdUgjwzDl9iEOR32qh0YC"
+      },
+      "artists": [
+        {
+          "name": "Jack Essek",
+          "url": "https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454296,
+      "name": "Sajanna",
+      "url": "https://open.spotify.com/track/4aXBbgkj3wdit5Dq2FCo1v"
     },
     {
       "album": {
@@ -1796,6 +2118,32 @@
     },
     {
       "album": {
+        "name": "Siento Libre",
+        "url": "https://open.spotify.com/album/4QU4ftKLTB3zVOMk7yqFQA"
+      },
+      "artists": [
+        {
+          "name": "Virak",
+          "url": "https://open.spotify.com/artist/7gEgxCJulGmrl6vAa39NcK"
+        },
+        {
+          "name": "Tcks",
+          "url": "https://open.spotify.com/artist/1oNQhBscjoXDBZBKy9DKIb"
+        },
+        {
+          "name": "Junior Jack",
+          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419304,
+      "name": "Siento Libre - Extended Mix",
+      "url": "https://open.spotify.com/track/2rymUsZWzkAM9mJTECevbH"
+    },
+    {
+      "album": {
         "name": "Son Mansour",
         "url": "https://open.spotify.com/album/5nUNmXQJPXLXTMYDU56zQP"
       },
@@ -1807,7 +2155,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 344187,
       "name": "Son Mansour",
       "url": "https://open.spotify.com/track/1oS4FFInuBOkj92do6lsU3"
@@ -1905,7 +2253,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 400169,
       "name": "The Call",
       "url": "https://open.spotify.com/track/2HGPDuJuzcZcwWUbQBTtHO"
@@ -1923,7 +2271,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 274889,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o"
@@ -1985,10 +2333,40 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 499000,
       "name": "The Lamp",
       "url": "https://open.spotify.com/track/4dIrJCIZr1IVzpYPXhYtO8"
+    },
+    {
+      "album": {
+        "name": "Tolo",
+        "url": "https://open.spotify.com/album/732vlGVmJhgDRwLjWce1qv"
+      },
+      "artists": [
+        {
+          "name": "Jalal Ramdani",
+          "url": "https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu"
+        },
+        {
+          "name": "Miishu",
+          "url": "https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf"
+        },
+        {
+          "name": "Ahmed Sosso",
+          "url": "https://open.spotify.com/artist/09jtkgopdNOFuQKcOPPdeP"
+        },
+        {
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397979,
+      "name": "Tolo - FNX Omar Remix",
+      "url": "https://open.spotify.com/track/7jlACTUszk1RZEmLOYVvVc"
     },
     {
       "album": {
@@ -2134,6 +2512,28 @@
     },
     {
       "album": {
+        "name": "Ghouroub",
+        "url": "https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423414,
+      "name": "Ya Dam3i",
+      "url": "https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG"
+    },
+    {
+      "album": {
         "name": "Ya Rayt (Shkoon Remix)",
         "url": "https://open.spotify.com/album/5aBPfggkU1oEEA36MJ3yEg"
       },
@@ -2166,7 +2566,7 @@
         },
         {
           "name": "Farasha",
-          "url": "https://open.spotify.com/artist/1Qk832rj0IX2RhEKz4mko3"
+          "url": "https://open.spotify.com/artist/7zVycMpyEHdrwttDN91Emr"
         },
         {
           "name": "Yahya",
@@ -2183,7 +2583,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 262372,
       "name": "Ya Sidi - Valeron Remix",
       "url": "https://open.spotify.com/track/1j19dP73P1n6LJ8bgVyr9T"
@@ -2249,10 +2649,6 @@
         {
           "name": "SOULFLVR",
           "url": "https://open.spotify.com/artist/0RLZB5HrhRKqAY9iFm6mmx"
-        },
-        {
-          "name": "YACHTSOUL",
-          "url": "https://open.spotify.com/artist/0KNTQVSWRSk7OOS68HYH1O"
         }
       ],
       "date_added": "2022-04-13",

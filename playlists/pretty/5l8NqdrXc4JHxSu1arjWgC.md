@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,556 likes - 647 songs - 1 day 19 hr 31 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,683 likes - 652 songs - 1 day 19 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,7 +240,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 230 | [Dig, Lazarus, Dig!!!](https://open.spotify.com/track/35KhiTHl9m38DWgRLudDuF) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Dig, Lazarus, Dig!!!](https://open.spotify.com/album/6Ctfs0lQ8K44Q0EfSCeYuy) | 4:11 |
 | 231 | [Animal Bar](https://open.spotify.com/track/5vCK2zLPho1HZ9jTBNzMQ3) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 5:25 |
 | 232 | [Steady, As She Goes](https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb) | 3:35 |
-| 233 | [Once in a Lifetime \- Live](https://open.spotify.com/track/019KRrap2TW8ASDAWbe6OU) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 5:25 |
+| 233 | [Once in a Lifetime \- Live](https://open.spotify.com/track/019KRrap2TW8ASDAWbe6OU) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 5:25 |
 | 234 | [Before Your Very Eyes...](https://open.spotify.com/track/4wmSIyL4v3td5czmaaTyuR) | [Atoms For Peace](https://open.spotify.com/artist/7tA9Eeeb68kkiG9Nrvuzmi) | [AMOK](https://open.spotify.com/album/6dJZDZMNdBPZrJcNv57bEq) | 5:47 |
 | 235 | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/track/5zZWKugaE2ZmnZN77HVfUH) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Slaves](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/album/1QwJwcvJ9wiYfGxwk6YZOy) | 3:41 |
 | 236 | [Sick Again \- 1993 Remaster](https://open.spotify.com/track/49u4hT2jJx1l4u5UeUFMZs) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(1994 Remaster\)](https://open.spotify.com/album/1lZahjeu4AhPkg9JARZr5F) | 4:42 |
@@ -406,7 +406,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 396 | [Zero \- Remastered 2012](https://open.spotify.com/track/4YFcGTdgmEuw8xTO4XrxbB) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 2:40 |
 | 397 | [Wot's...Uh the Deal](https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 5:09 |
 | 398 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 |
-| 399 | [Would?](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 |
+| 399 | [Would? \(2022 Remaster\)](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 |
 | 400 | [Not The News](https://open.spotify.com/track/7ypjELqhyUT3BBCws8kzKN) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/1g4vEVvVVFvFju0gS0DMbh) | 3:57 |
 | 401 | [Help Me Stranger](https://open.spotify.com/track/4psuSgzXAkabslCkqWHoO6) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Help Us Stranger](https://open.spotify.com/album/12rfrkN4eZOpmJUmVzE84M) | 3:36 |
 | 402 | [Toreador](https://open.spotify.com/track/18fszHHqwRGC4oEO7U7IfN) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Himalayan](https://open.spotify.com/album/4XWbfiTYAP828RXQmkEkUd) | 4:00 |
@@ -485,7 +485,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 475 | [3's & 7's](https://open.spotify.com/track/63wsuMhok6GgcBRd2strGk) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL) | 3:34 |
 | 476 | [Everything You’ve Come To Expect](https://open.spotify.com/track/01M9XvRcT8hEOf6NOLBHew) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:13 |
 | 477 | [Amethyst Realm](https://open.spotify.com/track/7IPmmOkhYE1gJWMZQGBsCt) | [The Claypool Lennon Delirium](https://open.spotify.com/artist/2yUsje7CszKGu4g1f4ih3b) | [South Of Reality](https://open.spotify.com/album/7ErIX3vunFAfsNJ8nAKkVo) | 7:47 |
-| 478 | [Apeman \- 2014 Remastered Version](https://open.spotify.com/track/1NXUWyPJk5kO6DQJ5t7bDu) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola vs\. Powerman and the Moneygoround, Pt\. One + Percy](https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse) | 3:53 |
+| 478 | [Apeman \- 2014 Remastered Version](https://open.spotify.com/track/1NXUWyPJk5kO6DQJ5t7bDu) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola vs\. Powerman and the Moneygoround, Pt\. One + Percy \(Super Deluxe\)](https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse) | 3:53 |
 | 479 | [Comfort Zone](https://open.spotify.com/track/3V1sRkYY4jtSSiXoFTOPZj) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Manic Candid Episode](https://open.spotify.com/album/54R5CTHFKYvlFXL3nYjyvI) | 3:59 |
 | 480 | [My Name Is Ruin](https://open.spotify.com/track/2KPewERHYuJsAZAMmuJTKB) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [Savage \(Songs from a Broken World\)](https://open.spotify.com/album/3kMfsD07Q32HRWKRrpcexr) | 6:17 |
 | 481 | [Love Is Lost](https://open.spotify.com/track/6c2N8YRRqjtevGfIJovXGP) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Next Day](https://open.spotify.com/album/16F7X7WOFZhMwQNsMil7lq) | 3:57 |
@@ -655,5 +655,10 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 645 | [Seven Days](https://open.spotify.com/track/2Wmm4aEFUISjdmVuy7VGL0) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:38 |
 | 646 | [Hey Now! \- Remastered](https://open.spotify.com/track/4FDEDR99kqoGZOV88Wpnpg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 5:41 |
 | 647 | [Near Wild Heaven](https://open.spotify.com/track/378HOooPNo6LRIfVHb15nW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:19 |
+| 648 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 |
+| 649 | [I Don't Remember](https://open.spotify.com/track/6m3yuXdLzDTgwJ1y1VnNaH) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 3: Melt \(Remastered Version\)](https://open.spotify.com/album/0LF0vWmmKRVPXoikpNkO5W) | 4:42 |
+| 650 | [The Getaway](https://open.spotify.com/track/6v4T1yS6LCRPMHE4zrgfKU) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [The Getaway](https://open.spotify.com/album/0XXzAo1VN3kdJmt1Z8YA14) | 3:05 |
+| 651 | [You Make Loving Fun \- 2004 Remaster](https://open.spotify.com/track/28H3wOEKsaEa8NBEYCLl4j) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:33 |
+| 652 | [Second Hand News \- 2004 Remaster](https://open.spotify.com/track/0hlniElQOr5tvSKBaSpAQi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 2:56 |
 
-Snapshot ID: `MTY3MCwzYjBhYTZmMzUzNjMwMGMyN2JmMjlkZjIzNmE2MTdlOGMyMDk2NTQ1`
+Snapshot ID: `MTY3NSw3MWVmNjdmZTgyMzQ2ZjZjZTU3NDIyMDI1MzliMzkyNmM4NGJjMWZl`

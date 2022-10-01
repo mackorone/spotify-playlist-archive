@@ -4,7 +4,7 @@
 
 > Un viaje musical por nuestras raíces prehispánicas.
 
-30 songs - 1 hr 35 min - [published](https://open.spotify.com/playlist/4QOnv5baycvRj0tvTJSHgZ)
+31 songs - 1 hr 38 min - [published](https://open.spotify.com/playlist/4QOnv5baycvRj0tvTJSHgZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Flauta Azteca\-Teponaztli \- Cascabeles y Sonajas](https://open.spotify.com/track/4IHCFpAEZnjoMSX3O7JhrW) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Música Prehispánica y Mestiza de México](https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs) | 1:08 | 2021-09-09 |  |
 | [Flauta Grande de Colima y Caracol Azteca](https://open.spotify.com/track/0tGIHFgNu2kKuyWcJE5gug) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Música Prehispánica y Mestiza de México](https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs) | 0:52 | 2021-09-09 |  |
 | [Icnocuicatl](https://open.spotify.com/track/5ZqKUtJ6NADj7Y82skZgb0) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Tree Of Life](https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU) | 3:15 | 2021-09-09 |  |
-| [Jajvel](https://open.spotify.com/track/26yDq0F8D1NIBr6s133aMM) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Slajem K’op](https://open.spotify.com/artist/4O3aVR4zj02Tm65QmHQQsv) | [K'op Kuxul](https://open.spotify.com/album/5gkAiy0mlD7bchVoHVAjFr) | 3:25 | 2021-09-09 |  |
+| [Jajvel](https://open.spotify.com/track/3xxs8YXrqQW2lILPeQ9Pxz) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Slajem K'op](https://open.spotify.com/artist/0tfqvpIPdZzRdu8fcCedMb) | [K'op Kuxul](https://open.spotify.com/album/4fh1lwgtTR6adLCmxv2kjB) | 3:25 | 2021-09-09 |  |
+| [Jajvel](https://open.spotify.com/track/26yDq0F8D1NIBr6s133aMM) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Slajem K’op](https://open.spotify.com/artist/4O3aVR4zj02Tm65QmHQQsv) | [K'op Kuxul](https://open.spotify.com/album/5gkAiy0mlD7bchVoHVAjFr) | 3:25 | 2021-09-09 | 2022-07-29 |
 | [Josefinita](https://open.spotify.com/track/60astfFM5obtdfz8eDCZpS) | [Rocío Próspero](https://open.spotify.com/artist/3JqlpG9b1OkK1pCnLnxN4l) | [Antología de la Música P'urhepecha, Vol\. VII](https://open.spotify.com/album/7wVegPHZRBSdENMJWRg6tc) | 2:33 | 2021-09-09 |  |
 | [Juego de Pelota](https://open.spotify.com/track/3DJjJNBcBbUjEKwy4HOIIQ) | [Ehecatl](https://open.spotify.com/artist/0U9dywhQ4PRbBn82jXGy15) | [Flauta Indígena de México](https://open.spotify.com/album/4o3JpQsSZ4aIqegl1V2XBH) | 3:45 | 2021-09-09 |  |
 | [La Cusinela](https://open.spotify.com/track/3wafR8MqQB6Yk0XYDA9k05) | [Huichol Musical](https://open.spotify.com/artist/1gxAFRyAsrlZu5Pty5t5gO) | [Desde México "Sonido Huichol"](https://open.spotify.com/album/6VnlvZ1oTEyLXixqCvsjYd) | 3:21 | 2021-09-09 |  |
@@ -29,7 +30,7 @@
 | [Nightingale\. Music for the Moon and Stars.](https://open.spotify.com/track/0yP6HplG4dzIFpM9pbcdGe) | [Xavier Quijas Yxayotl](https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f) | [Codex \- Music of Ancient Mexico](https://open.spotify.com/album/1gKi3KeZeazp6ZkfF9J8Kl) | 3:47 | 2021-09-09 |  |
 | [Ofrenda a Huitzilopoxtli](https://open.spotify.com/track/5tJWeSXyV9qzCbIPkKcrBh) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:16 | 2021-09-09 |  |
 | [Ritual Consagrado a los Dioses](https://open.spotify.com/track/5rvaAQ4KccKBQX3DgW5z8T) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Música Prehispánica y Mestiza de México](https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs) | 2:33 | 2021-09-09 |  |
-| [Ritual Consagrado a los Dioses](https://open.spotify.com/track/5nA2Us56gdVsctPVi9k5nB) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:35 | 2021-09-09 | 2022-07-17 |
+| [Ritual Consagrado a los Dioses](https://open.spotify.com/track/5nA2Us56gdVsctPVi9k5nB) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:35 | 2021-09-09 |  |
 | [Suite al Culto Solar \- In Altepetl Tonal](https://open.spotify.com/track/71QCom1QzTOtxQdyBII4Ii) | [Luis Perez](https://open.spotify.com/artist/7jDLx2fin0vmknY3hIS1tS) | [Ipan In Xiktli Metztli \(México Mágico Cósmico, en el Ombligo de la Luna\)](https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N) | 3:20 | 2021-09-09 |  |
 | [Suite al Culto Solar \- Xochiyaoyoloh](https://open.spotify.com/track/1Z3pQdIz4n1aqKqWXncPGT) | [Luis Perez](https://open.spotify.com/artist/7jDLx2fin0vmknY3hIS1tS) | [Ipan In Xiktli Metztli \(México Mágico Cósmico, en el Ombligo de la Luna\)](https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N) | 5:35 | 2021-09-09 |  |
 | [Tezcatlipoca Y Fuego](https://open.spotify.com/track/6WORAZYFYHHT6iRzoVW2Pk) | [Xavier Quijas Yxayotl](https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f) | [Aztec Dances](https://open.spotify.com/album/19Ae9UiDrpjn15PFMKN1bd) | 6:22 | 2021-09-09 |  |

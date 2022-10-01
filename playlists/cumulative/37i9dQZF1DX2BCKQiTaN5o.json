@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Ready to Love",
+        "url": "https://open.spotify.com/album/7AZN4LMRjQMi5boyWFgPFv"
+      },
+      "artists": [
+        {
+          "name": "The Bonfyre",
+          "url": "https://open.spotify.com/artist/4oIGrMYn1N1xPNYVXcaEZJ"
+        }
+      ],
+      "date_added": "2020-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157940,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/4pQbnbI736qzbR6lUNlaSW"
+    },
+    {
+      "album": {
         "name": "Ready To Love",
         "url": "https://open.spotify.com/album/5Kmuhk7kKQkobguAK3VyLf"
       },
@@ -77,7 +95,7 @@
       ],
       "date_added": "2020-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157940,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/5z9SJ1K7B7cSlnmNp3DMjV"
@@ -139,7 +157,7 @@
     {
       "album": {
         "name": "Kanye West Presents Good Music Cruel Summer",
-        "url": "https://open.spotify.com/album/0A3g19AGFd9Qe3rAIkP8e0"
+        "url": "https://open.spotify.com/album/6ijvs54NaN3QNdXFVFtVOM"
       },
       "artists": [
         {
@@ -158,6 +176,32 @@
       "date_added": "2020-01-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 293506,
+      "name": "Clique - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/6vqQUjmJiz12gLkvh9bqzF"
+    },
+    {
+      "album": {
+        "name": "Kanye West Presents Good Music Cruel Summer",
+        "url": "https://open.spotify.com/album/0A3g19AGFd9Qe3rAIkP8e0"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2020-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 293533,
       "name": "Clique - Album Version (Edited)",
       "url": "https://open.spotify.com/track/7fuuAPjPDyLGyFaJEkSxAb"
@@ -332,6 +376,24 @@
     },
     {
       "album": {
+        "name": "PINK PLANET",
+        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "date_added": "2020-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1"
+    },
+    {
+      "album": {
         "name": "Honesty",
         "url": "https://open.spotify.com/album/3TTHQTyBu7n3f48pwBtMDu"
       },
@@ -343,7 +405,7 @@
       ],
       "date_added": "2020-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189000,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/2B1JaRSd7T7YP90n6sCh9I"
@@ -524,6 +586,28 @@
     },
     {
       "album": {
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2020-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "Show Me Love (feat. Miguel)",
+      "url": "https://open.spotify.com/track/31dgrKXIJ7FCxlENs8uxuo"
+    },
+    {
+      "album": {
         "name": "Show Me Love (feat. Miguel)",
         "url": "https://open.spotify.com/album/0iHBfyXdfH9Fpeh8BPsVJP"
       },
@@ -539,7 +623,7 @@
       ],
       "date_added": "2020-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194997,
       "name": "Show Me Love (feat. Miguel)",
       "url": "https://open.spotify.com/track/0XPlSuCVQ1nOhzTpFgnDSz"

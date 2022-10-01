@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 
 > Eagles at their best\. Explore their deep catalog as a band and as solo artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 68 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,056 likes - 68 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 | 35 | [On the Border \- 2013 Remaster](https://open.spotify.com/track/4ks6ecD50moKz0FD5dJKFJ) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 4:23 |
 | 36 | [Funk \#48](https://open.spotify.com/track/14R4uuf0SMjNmfLfHvMLZJ) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Yer' Album](https://open.spotify.com/album/5rsl1kj0N1N7yKQcBsjmMK) | 2:46 |
 | 37 | [The Best of My Love \- 2013 Remaster](https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:34 |
-| 38 | [Taking You Home](https://open.spotify.com/track/114ZIcx0S3gJkZmT3wmGte) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Inside Job](https://open.spotify.com/album/6joEVcRAygVpcDBWh7extk) | 5:31 |
+| 38 | [Taking You Home](https://open.spotify.com/track/2Ro4mKGAO5zgfwZmThAWhj) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Soft Rock For Kids](https://open.spotify.com/album/3TdyAkbn8phqy6xoCx6tXu) | 5:31 |
 | 39 | [After the Thrill Is Gone \- 2013 Remaster](https://open.spotify.com/track/73gx888k1raTwjFeuqIV5D) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 3:56 |
 | 40 | [Just Can't Be](https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 4:58 |
 | 41 | [Try and Love Again \- 2013 Remaster](https://open.spotify.com/track/3ULgE72PnMaeV6lzA0G6Jv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 5:11 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 | 67 | [The Radio Song](https://open.spotify.com/track/4pOy712tjNNZxIhX5VllU6) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Got Any Gum?](https://open.spotify.com/album/6Is4r41K1zGhe0dOYhoAZV) | 3:31 |
 | 68 | [Ol' 55 \- 2013 Remaster](https://open.spotify.com/track/0pH4QNsSphVLCy9zjPzqiP) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:21 |
 
-Snapshot ID: `MTY1Nzg5NDQyMSwwMDAwMDAwMjAwMDAwMTgyMDIzNTQyMGUwMDAwMDE4MWQzZDcxNjk3`
+Snapshot ID: `MTY1Nzg5NDQyMSwwMDAwMDAwMDEyMGMwMWQzYWU3OGYyMzFlZjE2NmIyNzA0YmQzYjlm`

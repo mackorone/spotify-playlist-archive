@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/722UH6DU3oigTYKBnfBZSy.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 421 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 420 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/722UH6DU3oigTYKBnfBZSy.md) - [plain]
 | 37 | [I've Never Been To Me](https://open.spotify.com/track/5D1ke8QuVinJEZJ0AZZtxD) | [Charlene](https://open.spotify.com/artist/6V3LuodmG70Gbx6FvEWPo8) | [80s Mania](https://open.spotify.com/album/5hgzC9IxDx8wcos3LTGrCh) | 4:00 |
 | 38 | ['65 Love Affair](https://open.spotify.com/track/5nBp8F6tekSrnFg8G2Pvug) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Radio Hits Of the '80s](https://open.spotify.com/album/4OhFkx7dTPfj0BXerfldyk) | 3:39 |
 | 39 | [Heat Of The Moment](https://open.spotify.com/track/2IcvvNK6aZ1uMwTAz5zXJx) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Heat Of The Moment: The Very Best Of Asia](https://open.spotify.com/album/39fq7lGlkLiOdYrQrukMfs) | 3:52 |
-| 40 | [Take It Easy On Me \- Remastered](https://open.spotify.com/track/5p0Et9J14mQUaqZsNiFlsY) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Time Exposure \(Remastered\)](https://open.spotify.com/album/76BubGTTioRfDDSyzPpnVM) | 3:47 |
+| 40 | [Take It Easy On Me \- Remastered 2010](https://open.spotify.com/track/5p0Et9J14mQUaqZsNiFlsY) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Time Exposure \(Remastered 2010\)](https://open.spotify.com/album/76BubGTTioRfDDSyzPpnVM) | 3:47 |
 | 41 | [Pac\-Man Fever](https://open.spotify.com/track/0ezj1tzoEWr8Vp20hozP3h) | [Buckner & Garcia](https://open.spotify.com/artist/3byVCnJiYgvRU7y5VsMHJI) | [80s Mania](https://open.spotify.com/album/5hgzC9IxDx8wcos3LTGrCh) | 3:49 |
 | 42 | [That Girl](https://open.spotify.com/track/41R8wVfgdViMGnjId2xDMp) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/6QnqUBcQocB0U3nl8eBVjm) | 5:13 |
 | 43 | [Private Eyes](https://open.spotify.com/track/098DRq2EpYSun5kAj7NfWa) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Greatest Hits\-\-Rock 'n' Soul, Part 1](https://open.spotify.com/album/0BxQmgBw5pRSPqExqEkxnl) | 3:28 |

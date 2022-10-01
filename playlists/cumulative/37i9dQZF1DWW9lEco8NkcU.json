@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-19",
   "description": "what are they doing up there? ",
   "name": "pov: u borrowed an alien's headphones",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4PfWRrDI4cIak7lFqMsyAv"
+  ],
   "tracks": [
     {
       "album": {
@@ -234,6 +236,24 @@
     },
     {
       "album": {
+        "name": "Song of the Second Moon",
+        "url": "https://open.spotify.com/album/5dBwLiLUoJf84L8awVQVrv"
+      },
+      "artists": [
+        {
+          "name": "Kid Baltan",
+          "url": "https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180630,
+      "name": "Colonel Bogey",
+      "url": "https://open.spotify.com/track/52Bcd2F0Su27o4vVMf7jDl"
+    },
+    {
+      "album": {
         "name": "Song of the Second Moon / Colonel Bogey",
         "url": "https://open.spotify.com/album/3PA3rCX6GDqOicEPliFq3X"
       },
@@ -245,7 +265,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180630,
       "name": "Colonel Bogey - Remastered",
       "url": "https://open.spotify.com/track/7KrYXHCXK7UvtntZYteI49"
@@ -494,6 +514,28 @@
     },
     {
       "album": {
+        "name": "Sakuraza",
+        "url": "https://open.spotify.com/album/75nKCPFv0OkSZIFKrGzd61"
+      },
+      "artists": [
+        {
+          "name": "Jim O'Rourke",
+          "url": "https://open.spotify.com/artist/46urSPEzIrRVqKqciwOq2f"
+        },
+        {
+          "name": "Elliott Sharp",
+          "url": "https://open.spotify.com/artist/17PS6mukckWnUN4DwilBBs"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214722,
+      "name": "Kola Superdeep Borehole",
+      "url": "https://open.spotify.com/track/4hQMZNO2nuQJUtSAolZg2p"
+    },
+    {
+      "album": {
         "name": "The Camera System",
         "url": "https://open.spotify.com/album/4cQFAMNyfivmXqBJm8NhiP"
       },
@@ -513,7 +555,7 @@
     {
       "album": {
         "name": "Pur Cosy Tales",
-        "url": "https://open.spotify.com/album/1TuJ0mhO78q85SWSSv5rUo"
+        "url": "https://open.spotify.com/album/1zlKJ0b68J7ng6marNz5VW"
       },
       "artists": [
         {
@@ -526,7 +568,43 @@
       "date_removed": null,
       "duration_ms": 157826,
       "name": "Lovejoy",
+      "url": "https://open.spotify.com/track/1nZARe7MuRKn3G7HyKN6pJ"
+    },
+    {
+      "album": {
+        "name": "Pur Cosy Tales",
+        "url": "https://open.spotify.com/album/1TuJ0mhO78q85SWSSv5rUo"
+      },
+      "artists": [
+        {
+          "name": "Kyler",
+          "url": "https://open.spotify.com/artist/1CgrV85eyFoPFLr3rQbt6g"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157826,
+      "name": "Lovejoy",
       "url": "https://open.spotify.com/track/4lZUUWMIdQPHxC2DltZRps"
+    },
+    {
+      "album": {
+        "name": "Where the Sands Turn to Gold",
+        "url": "https://open.spotify.com/album/4v867iqLmmDXh3gvmhwmeA"
+      },
+      "artists": [
+        {
+          "name": "Azusa Plane",
+          "url": "https://open.spotify.com/artist/1exN8SH7Aw6NLkjgFGAncB"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91120,
+      "name": "Me and Wayne Rogers",
+      "url": "https://open.spotify.com/track/4hv71vgTltTUMqlaaTr3Lz"
     },
     {
       "album": {
@@ -566,6 +644,42 @@
     },
     {
       "album": {
+        "name": "Biometry",
+        "url": "https://open.spotify.com/album/2uO6KUfzsYkPungJkiB1Ij"
+      },
+      "artists": [
+        {
+          "name": "Der Zyklus",
+          "url": "https://open.spotify.com/artist/3oMzxer7m75NN19ckIWSn8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140360,
+      "name": "Optical Fingerprint Correlation",
+      "url": "https://open.spotify.com/track/4zzI44kiZ39QgSM3ZZHJe8"
+    },
+    {
+      "album": {
+        "name": "Aquarealm",
+        "url": "https://open.spotify.com/album/2b2NKMGXqjTtRkHQVXjkBS"
+      },
+      "artists": [
+        {
+          "name": "X.Y.R.",
+          "url": "https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249906,
+      "name": "Oxygen Waltz",
+      "url": "https://open.spotify.com/track/1HQxnecMK8hRxIZ5MjlXJh"
+    },
+    {
+      "album": {
         "name": "Aquarealm",
         "url": "https://open.spotify.com/album/5lb8k3A7i5h38XOLRJDWk1"
       },
@@ -577,7 +691,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249906,
       "name": "Oxygen Waltz",
       "url": "https://open.spotify.com/track/1V5exmHKBu3jmBrhchf8hC"
@@ -621,7 +735,7 @@
     {
       "album": {
         "name": "Pur Cosy Tales",
-        "url": "https://open.spotify.com/album/1TuJ0mhO78q85SWSSv5rUo"
+        "url": "https://open.spotify.com/album/1zlKJ0b68J7ng6marNz5VW"
       },
       "artists": [
         {
@@ -634,7 +748,7 @@
       "date_removed": null,
       "duration_ms": 101826,
       "name": "Pilgrim Rise",
-      "url": "https://open.spotify.com/track/4lRDY4JZluZgCbeLknOKUz"
+      "url": "https://open.spotify.com/track/4CCa2mGbuWkFQhMmnlNlaa"
     },
     {
       "album": {
@@ -649,7 +763,43 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 101826,
+      "name": "Pilgrim Rise",
+      "url": "https://open.spotify.com/track/4lRDY4JZluZgCbeLknOKUz"
+    },
+    {
+      "album": {
+        "name": "Pur Cosy Tales",
+        "url": "https://open.spotify.com/album/1zlKJ0b68J7ng6marNz5VW"
+      },
+      "artists": [
+        {
+          "name": "Kyler",
+          "url": "https://open.spotify.com/artist/1CgrV85eyFoPFLr3rQbt6g"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 95920,
+      "name": "Pocherasy Limaf",
+      "url": "https://open.spotify.com/track/1VHp9nGWHzha1cgPtew7Rx"
+    },
+    {
+      "album": {
+        "name": "Pur Cosy Tales",
+        "url": "https://open.spotify.com/album/1TuJ0mhO78q85SWSSv5rUo"
+      },
+      "artists": [
+        {
+          "name": "Kyler",
+          "url": "https://open.spotify.com/artist/1CgrV85eyFoPFLr3rQbt6g"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 95920,
       "name": "Pocherasy Limaf",
       "url": "https://open.spotify.com/track/4ILeezHjOUT08nUL00NxZk"
@@ -764,6 +914,24 @@
     },
     {
       "album": {
+        "name": "Song of the Second Moon",
+        "url": "https://open.spotify.com/album/5dBwLiLUoJf84L8awVQVrv"
+      },
+      "artists": [
+        {
+          "name": "Kid Baltan",
+          "url": "https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188203,
+      "name": "Song of the Second Moon",
+      "url": "https://open.spotify.com/track/07Y2a4zGLw0w7prWbZl0uJ"
+    },
+    {
+      "album": {
         "name": "Song of the Second Moon / Colonel Bogey",
         "url": "https://open.spotify.com/album/3PA3rCX6GDqOicEPliFq3X"
       },
@@ -775,7 +943,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188203,
       "name": "Song of the Second Moon - Remastered",
       "url": "https://open.spotify.com/track/5CwRXBo1Ms45mWvnD33w2W"
@@ -927,6 +1095,24 @@
     {
       "album": {
         "name": "Nymph Tones",
+        "url": "https://open.spotify.com/album/5vEMPjJgxW0rb2Z52FRdhK"
+      },
+      "artists": [
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Water Fairy Moon",
+      "url": "https://open.spotify.com/track/2XKiW8QkcpWExtzFP6uba5"
+    },
+    {
+      "album": {
+        "name": "Nymph Tones",
         "url": "https://open.spotify.com/album/77rg7n08qydML6kMXvOw1c"
       },
       "artists": [
@@ -937,7 +1123,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 178000,
       "name": "Water Fairy Moon",
       "url": "https://open.spotify.com/track/4L5zE3VJSKi6ERhsjrS2Xk"

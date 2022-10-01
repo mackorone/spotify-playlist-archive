@@ -4,7 +4,7 @@
 
 > Sing along to these tunes about everything you can find on the farm.
 
-58 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/5uvSbxeDW7jtSCQFDcy7oO)
+61 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/5uvSbxeDW7jtSCQFDcy7oO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Harvest Time](https://open.spotify.com/track/0GVreI7DlV8wpF3a1fRYfe) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Harvest Time](https://open.spotify.com/album/7Ib2xPIkvqDayE6em6wR8q) | 2:38 | 2022-04-01 |  |
 | [Horses](https://open.spotify.com/track/5JDnPTV3q2KJiCDNtrejhU) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [Blippi Essentials](https://open.spotify.com/album/0nQmUSkS86JEi9B3aJiioI) | 3:16 | 2022-04-01 |  |
 | [I Had a Rooster](https://open.spotify.com/track/0uxH8cSDBvej4mSLFFWdUR) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Wake Up & Sing](https://open.spotify.com/album/6evNOZ98sURuV5qRsRGjcr) | 3:21 | 2022-04-01 |  |
-| [I Know A Chicken](https://open.spotify.com/track/2OC9dapu1bUyi520cEI7Kb) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [The Best of The Laurie Berkner Band](https://open.spotify.com/album/7elEglYu8DF6c62vrwQNHB) | 3:14 | 2022-04-01 |  |
+| [I Know A Chicken](https://open.spotify.com/track/2OC9dapu1bUyi520cEI7Kb) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [The Best of The Laurie Berkner Band](https://open.spotify.com/album/7elEglYu8DF6c62vrwQNHB) | 3:14 | 2022-04-01 | 2022-07-29 |
+| [I Know A Chicken](https://open.spotify.com/track/3g1mTMwdLnJWsVBq2Od3h9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 3:14 | 2022-07-25 |  |
 | [I Love My Rooster](https://open.spotify.com/track/7j3j9wSsct8yaCZI1NO9A8) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Whaddaya Think Of That?](https://open.spotify.com/album/43laH3uvyD7glYUOQ6RnjB) | 3:29 | 2022-04-01 |  |
 | [I Want to Be a Farmer](https://open.spotify.com/track/1Zbl3DsQZRPz3R7ejbjyO2) | [Annie Bryant](https://open.spotify.com/artist/7KrMi53LSKwwERJT7MPG4c) | [Listen to the Land: Stories & Songs for Children](https://open.spotify.com/album/2sfmOcEMBkHf2Ikk0nQvVi) | 2:12 | 2022-04-01 |  |
 | [Itty Bitty Bunnies](https://open.spotify.com/track/3FaLk0urfu7o860VXKNPBo) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Itty Bitty Bunnies](https://open.spotify.com/album/4515BwXjUQszIKnQ1IX85r) | 1:53 | 2022-04-01 |  |
@@ -59,12 +60,14 @@
 | [The Scarecrow Song](https://open.spotify.com/track/0P5xO1ryLq5VINGHO2jejo) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR) | [Nature With Me](https://open.spotify.com/album/194T0fURuku2acIhl62a6S) | 1:50 | 2022-04-01 |  |
 | [This Little Pig Went to Market](https://open.spotify.com/track/4kQSQibvlnU5nKGXYxmTfI) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Best Kids Songs](https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU) | 1:33 | 2022-04-01 |  |
 | [This Little Piggy](https://open.spotify.com/track/0Dj0uuiaI5F9OGMARaWUqz) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs, Vol\. 2](https://open.spotify.com/album/0Dke1pYG9ej0mSl7VyTBUP) | 1:37 | 2022-04-01 |  |
-| [Three Little Pigs](https://open.spotify.com/track/6tvZ0W9XvXEKpQsk4P5vro) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 5](https://open.spotify.com/album/5mhJUvMa9NTf9USkLEpq0T) | 3:09 | 2022-04-01 |  |
+| [This Little Piggy \- Stayed Home](https://open.spotify.com/track/4nzjdxV6af7H9OwUvE36Kj) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Counting with Animals](https://open.spotify.com/album/0SrUMzeeXRctzQupylcVDo) | 2:00 | 2022-07-25 |  |
+| [Three Little Pigs](https://open.spotify.com/track/6tvZ0W9XvXEKpQsk4P5vro) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 5](https://open.spotify.com/album/5mhJUvMa9NTf9USkLEpq0T) | 3:09 | 2022-04-01 |  |
 | [Tractors on a Farm](https://open.spotify.com/track/3GbgiHl3jMiJ3Fslof7TaM) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol.3](https://open.spotify.com/album/7EF9MW7H4kwbfyCZCgGHdP) | 2:01 | 2022-04-01 |  |
 | [Tractors on the Farm](https://open.spotify.com/track/2XZ1gABmVN1Zpf0xh2sZ7j) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Excavator & More Vehicle Songs for Kids](https://open.spotify.com/album/101RHMWjHd66NDuVSM2oKx) | 2:03 | 2022-04-01 |  |
 | [Walking on the Farm](https://open.spotify.com/track/7xIXuKIBQE2w8l8eVTcCFJ) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR), [Emma Hutchinson](https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya) | [Nature With Me](https://open.spotify.com/album/194T0fURuku2acIhl62a6S) | 1:17 | 2022-04-01 |  |
 | [Welcome to the Farm](https://open.spotify.com/track/68P5gou9qhS2MN8XVgwfiQ) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Welcome to the Farm](https://open.spotify.com/album/6oqzcaAeYCC4YOAvV4elIp) | 2:02 | 2022-04-01 |  |
 | [Who Took The Cookie? \(On The Farm\)](https://open.spotify.com/track/1n5XK1mgYshYtKeuaXadZK) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Circletime Songs for Kids](https://open.spotify.com/album/5WFZO3IUfgvbMGLns5mnDr) | 2:10 | 2022-04-01 |  |
-| [Working on the Farm](https://open.spotify.com/track/06HgOwvBfxzUC0VVyNaOMO) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Working on the Farm](https://open.spotify.com/album/5FuEOoSK6p139wV3fegYhZ) | 3:21 | 2022-04-01 |  |
+| [Working on the Farm](https://open.spotify.com/track/4BfoIFogAKmdWLFkV6ZEoJ) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Working on the Farm](https://open.spotify.com/album/4PdFGvFiInP9D3ee5Ip7Yl) | 3:21 | 2022-07-25 |  |
+| [Working on the Farm](https://open.spotify.com/track/06HgOwvBfxzUC0VVyNaOMO) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Working on the Farm](https://open.spotify.com/album/5FuEOoSK6p139wV3fegYhZ) | 3:21 | 2022-04-01 | 2022-08-27 |
 
 \*This playlist was first scraped on 2022-06-05. Prior content cannot be recovered.

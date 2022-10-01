@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ByLkBLDx1AS5yXJuBTyCd.md) - [plain]
 
 > Travel the world through sound – with indie and traditional folk and acoustic from across the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 122 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

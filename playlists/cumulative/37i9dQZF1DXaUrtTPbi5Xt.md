@@ -4,7 +4,7 @@
 
 > ¡Y así suena..\. Julión Álvarez Y Su Norteño Banda!
 
-50 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/4oSA5mxBShTlqn9EK0pLuB)
+51 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/4oSA5mxBShTlqn9EK0pLuB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Pongámonos De Acuerdo](https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:41 | 2022-06-20 |  |
 | [Que Daría](https://open.spotify.com/track/6gNBwxKKovpw87Tt2ihzCY) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:32 | 2022-06-20 |  |
 | [Que Ganas](https://open.spotify.com/track/5pXuclm5K7goAcENkqoanP) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:43 | 2022-06-20 |  |
+| [Que Te Vaya Bien](https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Que Te Vaya Bien](https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW) | 2:31 | 2022-08-19 |  |
 | [Santos Cantú](https://open.spotify.com/track/3kXtpdPc6w5PdTDL33RHDl) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corridos](https://open.spotify.com/album/0dAb8o8AA2xIaFrXJ0skzy) | 2:55 | 2022-06-20 |  |
 | [Soy Lo Que Quiero](https://open.spotify.com/track/3VbHdz58hxx360GxEaXVGd) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 1:58 | 2022-06-20 |  |
 | [También Las Lluvias Se Van](https://open.spotify.com/track/2Z1wqCtbXDQ65LUah6m35g) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 2:38 | 2022-06-20 |  |

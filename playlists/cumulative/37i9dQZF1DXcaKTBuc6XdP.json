@@ -300,6 +300,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Collection",
+        "url": "https://open.spotify.com/album/5sDGZt6F7nKvUpigtTSepn"
+      },
+      "artists": [
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317113,
+      "name": "Here I Am To Worship",
+      "url": "https://open.spotify.com/track/0uOd48gTo5pVFzk6Yrba6Y"
+    },
+    {
+      "album": {
         "name": "In Christ Alone",
         "url": "https://open.spotify.com/album/0v4hMZok1tOdMGPRlcKXOC"
       },
@@ -311,7 +329,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 316866,
       "name": "Here I Am To Worship - Mission Worship - In Christ Alone Album Version",
       "url": "https://open.spotify.com/track/6CWg6OxlJE72TOLNja5vqh"
@@ -329,10 +347,28 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199440,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/56Dfc7SRXmLVUH2Dx4Soa2"
+    },
+    {
+      "album": {
+        "name": "The Art of Translation",
+        "url": "https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w"
+      },
+      "artists": [
+        {
+          "name": "Grits",
+          "url": "https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q"
     },
     {
       "album": {
@@ -502,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Sonicpraise",
+        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
+      },
+      "artists": [
+        {
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381600,
+      "name": "Lord I Lift Your Name on High",
+      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
+    },
+    {
+      "album": {
         "name": "SonicPraise",
         "url": "https://open.spotify.com/album/2v1fOkMUrvzIeGPqAtAxN0"
       },
@@ -513,7 +567,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 381600,
       "name": "Lord I Lift Your Name On High",
       "url": "https://open.spotify.com/track/4YGyH585tBURMPnryf3OpV"
@@ -618,6 +672,24 @@
     },
     {
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
+    },
+    {
+      "album": {
         "name": "More Than Good Enough",
         "url": "https://open.spotify.com/album/46FVrs8EC3twbTNHVWCLVt"
       },
@@ -629,7 +701,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223688,
       "name": "More Than Good Enough",
       "url": "https://open.spotify.com/track/4nZN50JWs7JTQxbW3PXNKV"
@@ -749,10 +821,32 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233173,
       "name": "Ooh Ahh (My Life Be Like) (feat. Toby Mac)",
       "url": "https://open.spotify.com/track/2cGJxXXIBrxMhk2fWUJTLs"
+    },
+    {
+      "album": {
+        "name": "The Art of Translation",
+        "url": "https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w"
+      },
+      "artists": [
+        {
+          "name": "Grits",
+          "url": "https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "Ooh Ahh (My Life Be Like) [feat. Tobymac]",
+      "url": "https://open.spotify.com/track/1KBN9lYx9QkfUJC3NSXlhQ"
     },
     {
       "album": {
@@ -829,7 +923,7 @@
     {
       "album": {
         "name": "How Could I Be Silent",
-        "url": "https://open.spotify.com/album/5WDL5SKUnD01m3oEHGSJ4A"
+        "url": "https://open.spotify.com/album/5MQxNJ9Fg8AyhHmHf4VUdY"
       },
       "artists": [
         {
@@ -842,7 +936,43 @@
       "date_removed": null,
       "duration_ms": 212520,
       "name": "Signs",
+      "url": "https://open.spotify.com/track/2iLIzTOmpyPv24l0mfdhLA"
+    },
+    {
+      "album": {
+        "name": "How Could I Be Silent",
+        "url": "https://open.spotify.com/album/5WDL5SKUnD01m3oEHGSJ4A"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212520,
+      "name": "Signs",
       "url": "https://open.spotify.com/track/7Jsgkhp3pASBzaqb4vI9nW"
+    },
+    {
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/27wNCWjZQneJ6SFvCWpUJc"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "date_added": "2021-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184733,
+      "name": "Start a Fire",
+      "url": "https://open.spotify.com/track/4jdQaEDZ4y3x54FzxnfYAQ"
     },
     {
       "album": {
@@ -857,7 +987,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184733,
       "name": "Start A Fire",
       "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"

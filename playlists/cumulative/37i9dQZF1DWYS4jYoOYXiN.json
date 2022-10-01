@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Take A Trip Pussy Cat",
+        "url": "https://open.spotify.com/album/1bWv91UnA3Yue0fUCRouVg"
+      },
+      "artists": [
+        {
+          "name": "The Latin Blues Band",
+          "url": "https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W"
+        },
+        {
+          "name": "Luis Aviles",
+          "url": "https://open.spotify.com/artist/0Gn61gQpTFRbP9l6lyEy49"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214520,
+      "name": "(I'll Be A) Happy Man",
+      "url": "https://open.spotify.com/track/5LuzVIV75d9eaSeJfOfTJK"
+    },
+    {
+      "album": {
         "name": "Acid",
         "url": "https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn"
       },
@@ -19,7 +41,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 168093,
       "name": "A Deeper Shade Of Soul",
       "url": "https://open.spotify.com/track/3IdSUJXeJ2stlXftRNOh2e"
@@ -55,10 +77,28 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237944,
       "name": "Afro Shingaling",
       "url": "https://open.spotify.com/track/3DkeQ5mpbIPGBuGQ4DAcXg"
+    },
+    {
+      "album": {
+        "name": "Camel Walk",
+        "url": "https://open.spotify.com/album/2Gx9abfQOdoIMggiAxDUof"
+      },
+      "artists": [
+        {
+          "name": "The Latinaires",
+          "url": "https://open.spotify.com/artist/4sTXPMY0WxaeBKN4HAXLIj"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237944,
+      "name": "Afro-Shingaling",
+      "url": "https://open.spotify.com/track/62Ppkk5aUAfSfewhZY1CC8"
     },
     {
       "album": {
@@ -73,7 +113,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 446400,
       "name": "Amor Verdadero",
       "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
@@ -91,10 +131,32 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 218346,
       "name": "Arrecotin Arrecotan",
       "url": "https://open.spotify.com/track/0Fhj9gmYf0BR5aHI2TPhfU"
+    },
+    {
+      "album": {
+        "name": "Con Todos los Hierros: Everything But The Kitchen Sink",
+        "url": "https://open.spotify.com/album/4VXR5GVsHxY0dXM0XwK9rX"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        },
+        {
+          "name": "Cortijo Y Su Combo",
+          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-06",
+      "duration_ms": 216360,
+      "name": "Arrecot\u00edn Arrecot\u00e1n",
+      "url": "https://open.spotify.com/track/4YvQolXPImTRwrhG40hqsf"
     },
     {
       "album": {
@@ -109,10 +171,28 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 205333,
       "name": "Ay Que Rico",
       "url": "https://open.spotify.com/track/3BlTWnOYhEitWEEuoExGQq"
+    },
+    {
+      "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/1KZtrO0xrq8lzs8SFBNMg6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "Ay Qu\u00e9 Rico",
+      "url": "https://open.spotify.com/track/5RQpdEGQXehE1P95XzghLf"
     },
     {
       "album": {
@@ -127,7 +207,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-27",
       "duration_ms": 328026,
       "name": "Baby Boogaloo",
       "url": "https://open.spotify.com/track/0ICpJmbN1nZi6LnJtTKcC8"
@@ -145,7 +225,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 167933,
       "name": "Bad Breath",
       "url": "https://open.spotify.com/track/50PULwtJCTv0EjRsP27MDt"
@@ -163,10 +243,28 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247480,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4WHenMegy6rIakCNg98Vxf"
+    },
+    {
+      "album": {
+        "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
+        "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246600,
+      "name": "Bang! Bang!",
+      "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
     },
     {
       "album": {
@@ -181,7 +279,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 331868,
       "name": "Boogaloo Blues",
       "url": "https://open.spotify.com/track/7wLdPTpjA6xOluKGOFBrmR"
@@ -199,7 +297,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 411680,
       "name": "Boogaloo Blues",
       "url": "https://open.spotify.com/track/48pCzNTXLLKneVT6Uel2oT"
@@ -293,7 +391,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 211400,
       "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
       "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
@@ -311,7 +409,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-23",
       "duration_ms": 241257,
       "name": "Cisco Kid",
       "url": "https://open.spotify.com/track/2yOmmzUMk6b9KuTNdI5RnP"
@@ -329,7 +427,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 344960,
       "name": "Cloud Nine",
       "url": "https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK"
@@ -365,7 +463,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 180386,
       "name": "Come And Get It",
       "url": "https://open.spotify.com/track/647gi4v4E8zPT0GdiR8MxL"
@@ -383,7 +481,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 182053,
       "name": "Come and Get It",
       "url": "https://open.spotify.com/track/0Zqpc4C25DtWg7Fmhb0g63"
@@ -517,10 +615,32 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 321120,
       "name": "Eso Se Baila Asi",
       "url": "https://open.spotify.com/track/71pNDcd8132efh1p56PwUP"
+    },
+    {
+      "album": {
+        "name": "The Hustler",
+        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317813,
+      "name": "Eso Se Baila As\u00ed",
+      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
     },
     {
       "album": {
@@ -560,6 +680,24 @@
     },
     {
       "album": {
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165213,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
+    },
+    {
+      "album": {
         "name": "La Lupe - Greatest Hits",
         "url": "https://open.spotify.com/album/03MZq6wqB3UwHpLa5kmCHJ"
       },
@@ -571,7 +709,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165813,
       "name": "Fever",
       "url": "https://open.spotify.com/track/78RPkU9Tb9mc3CrT1b4Uxt"
@@ -607,10 +745,32 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 196600,
       "name": "Grazin' In The Grass",
       "url": "https://open.spotify.com/track/039Mx8o4AA0xbVsd99L8FV"
+    },
+    {
+      "album": {
+        "name": "Orchestra Harlow Presenta a Ismael Miranda",
+        "url": "https://open.spotify.com/album/3YIcRu0JUrtqcXQUoLjoy4"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Harlow",
+          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
+        },
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "Grazin' In The Grass",
+      "url": "https://open.spotify.com/track/071QzNfV4nNVuCbBZ598uC"
     },
     {
       "album": {
@@ -669,7 +829,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": "2022-07-24",
       "duration_ms": 119253,
       "name": "Guajira Soul",
       "url": "https://open.spotify.com/track/03HV6ASLKmzXDm68IynJ7R"
@@ -691,7 +851,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 338520,
       "name": "Guarar\u00e9",
       "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
@@ -709,10 +869,28 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 246173,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY"
+    },
+    {
+      "album": {
+        "name": "Under The Streetlamps: Anthology 1967-72",
+        "url": "https://open.spotify.com/album/678pt0QZ8mwQakkZRuuzQq"
+      },
+      "artists": [
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246173,
+      "name": "Gypsy Woman - Demo Version",
+      "url": "https://open.spotify.com/track/17v2ohSG0hO8u2AjKaU6MR"
     },
     {
       "album": {
@@ -727,7 +905,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": "2022-07-23",
       "duration_ms": 265080,
       "name": "I Like It Like That",
       "url": "https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU"
@@ -752,6 +930,24 @@
     },
     {
       "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
+      },
+      "artists": [
+        {
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265080,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq"
+    },
+    {
+      "album": {
         "name": "Take A Trip Pussycat (feat. Luis Aviles)",
         "url": "https://open.spotify.com/album/6MlF1GxkWZWvqxiz5QrdDJ"
       },
@@ -767,7 +963,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214520,
       "name": "I'll Be A Happy Man",
       "url": "https://open.spotify.com/track/2P5nMi24nyYcd7roZt5HDK"
@@ -785,10 +981,28 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176146,
       "name": "It's Not What You Say",
       "url": "https://open.spotify.com/track/2e5coCHCulu84SddM2ripp"
+    },
+    {
+      "album": {
+        "name": "...Y Que Calvos",
+        "url": "https://open.spotify.com/album/7o2KhBaz9BqbFyNPwEWWHZ"
+      },
+      "artists": [
+        {
+          "name": "Los Calvos",
+          "url": "https://open.spotify.com/artist/7EysVBxbAXcaVkrvgZ3a2z"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212257,
+      "name": "Jos\u00e9",
+      "url": "https://open.spotify.com/track/09T4yz1emL9O1yt3txtUKy"
     },
     {
       "album": {
@@ -803,7 +1017,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212257,
       "name": "Jos\u00e9",
       "url": "https://open.spotify.com/track/7yMjkYSTGoqFPsMYd8qi2Q"
@@ -897,7 +1111,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": "2022-07-28",
       "duration_ms": 214986,
       "name": "Lookie, Lookie",
       "url": "https://open.spotify.com/track/0xSaQcf3Yhi8AfiRna5OoU"
@@ -915,7 +1129,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-24",
       "duration_ms": 215829,
       "name": "Mambo Rock",
       "url": "https://open.spotify.com/track/5WlSFezblkdRb9PxagXagR"
@@ -931,9 +1145,9 @@
           "url": "https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL"
         }
       ],
-      "date_added": "2022-04-09",
+      "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 247053,
       "name": "Marilu",
       "url": "https://open.spotify.com/track/0fkWQUZ8Rhh99dNDAIT5Q1"
@@ -951,7 +1165,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247053,
       "name": "Marilu",
       "url": "https://open.spotify.com/track/65BjrUvYlKkptBynsmDC8K"
@@ -969,7 +1183,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-07-29",
       "duration_ms": 324800,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/7uOddHRjCk9KE6hDgGB0NG"
@@ -987,10 +1201,28 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-27",
       "duration_ms": 325920,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/6JK8oqoNElXD0MIvrol3BQ"
+    },
+    {
+      "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
+      },
+      "artists": [
+        {
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325920,
+      "name": "Micaela - Live",
+      "url": "https://open.spotify.com/track/2FQNKdVthiJDP3OhFQNaP8"
     },
     {
       "album": {
@@ -1005,7 +1237,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194173,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/2nwZM9xPnqYCq21bizt772"
@@ -1023,7 +1255,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 152090,
       "name": "Para Ti Mi Boogaloo",
       "url": "https://open.spotify.com/track/5rBWWgbrC2Wx77o2Nv8OyK"
@@ -1081,7 +1313,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228598,
       "name": "Pow Wow",
       "url": "https://open.spotify.com/track/33iZ7YZRt32eqtsRIEe7yj"
@@ -1103,7 +1335,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 213426,
       "name": "Pow Wow",
       "url": "https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13"
@@ -1139,10 +1371,28 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-28",
       "duration_ms": 194653,
       "name": "Que Se Sepa",
       "url": "https://open.spotify.com/track/3QmiOzBxGmXf0GNzjArrw3"
+    },
+    {
+      "album": {
+        "name": "Apollo Sound 5",
+        "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196226,
+      "name": "Que Se Sepa",
+      "url": "https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln"
     },
     {
       "album": {
@@ -1175,7 +1425,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 167533,
       "name": "Right On",
       "url": "https://open.spotify.com/track/4V0PNNaNA9PgFC3zVlw8no"
@@ -1211,7 +1461,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 236796,
       "name": "Sabre Olvidar",
       "url": "https://open.spotify.com/track/6PIJEKugYG10SjXzGnWZ32"
@@ -1251,7 +1501,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 510400,
       "name": "Son Cuero Y Boogaloo",
       "url": "https://open.spotify.com/track/3yGmOWLc5eScSOv84vs6dm"
@@ -1269,10 +1519,28 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281426,
       "name": "Summertime Blues",
       "url": "https://open.spotify.com/track/1e6jHVb4C6ehwXrMgqBk47"
+    },
+    {
+      "album": {
+        "name": "Psychedelic Goes Latin",
+        "url": "https://open.spotify.com/album/2SOvavOrKySlz9Zet58rCC"
+      },
+      "artists": [
+        {
+          "name": "The Lebron Brothers Orchestra",
+          "url": "https://open.spotify.com/artist/6zb5tBPPvk4nRXW33IqztD"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284440,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/0ODEACdZ8xmsxosolVPkkI"
     },
     {
       "album": {
@@ -1287,10 +1555,28 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 452373,
       "name": "That's How Rumors Start",
       "url": "https://open.spotify.com/track/4HbyfigTHGdBuBaD1GsmKe"
+    },
+    {
+      "album": {
+        "name": "Joey",
+        "url": "https://open.spotify.com/album/2N69ERhN11ludnptsYs16c"
+      },
+      "artists": [
+        {
+          "name": "Joey Pastrana and His Orchestra",
+          "url": "https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452373,
+      "name": "That's How Rumors Start",
+      "url": "https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv"
     },
     {
       "album": {
@@ -1305,7 +1591,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 299373,
       "name": "Tiempo Pa\u2019 Matar",
       "url": "https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8"
@@ -1323,7 +1609,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 217364,
       "name": "Tihuanaco",
       "url": "https://open.spotify.com/track/0w1Zn7sPlkIbA9RZ1aLkgF"
@@ -1341,7 +1627,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": "2022-07-29",
       "duration_ms": 145933,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/4c0LhycLJw7zE7UhkEzZkw"
@@ -1359,7 +1645,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 237386,
       "name": "TP Treat",
       "url": "https://open.spotify.com/track/3trVLunsgJ5zojYzNMIg66"
@@ -1377,7 +1663,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 148866,
       "name": "Uptight (Everything's Alright)",
       "url": "https://open.spotify.com/track/4okBgDaUxKi8bNihP3PYSK"
@@ -1395,7 +1681,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194293,
       "name": "Watermelon Man",
       "url": "https://open.spotify.com/track/2PyL58MwWwSFs5f4R2QJm1"
@@ -1413,7 +1699,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 195133,
       "name": "Watermelon Man",
       "url": "https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x"
@@ -1453,7 +1739,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-26",
       "duration_ms": 182240,
       "name": "We Got Latin Soul",
       "url": "https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv"
@@ -1471,7 +1757,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 375026,
       "name": "You Gotta Love Me",
       "url": "https://open.spotify.com/track/2G0CLkfLw9TSsKQbnp3aqu"
@@ -1489,7 +1775,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 200240,
       "name": "You're Moving Much Too Fast",
       "url": "https://open.spotify.com/track/0CHCDzy0qWlTClcArjpxhG"

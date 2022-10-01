@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Troubles in Paradise",
+        "url": "https://open.spotify.com/album/0cAmbOsbe0cOyxbF1M7D1H"
+      },
+      "artists": [
+        {
+          "name": "Johnny Maestro",
+          "url": "https://open.spotify.com/artist/1pXoY8oTJtPVGsrB4jmCRw"
+        },
+        {
+          "name": "The Crests",
+          "url": "https://open.spotify.com/artist/64vw6q9ZBTop3Tf2ol1x4U"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "16 Candles",
+      "url": "https://open.spotify.com/track/4ht9nNdPiJbbBhwUvPf4Lg"
+    },
+    {
+      "album": {
         "name": "Jukebox One Hit Wonders",
         "url": "https://open.spotify.com/album/7DtncHfVoKT9zAuP5s6FHE"
       },
@@ -19,7 +41,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172460,
       "name": "16 Candles",
       "url": "https://open.spotify.com/track/4FgGZFdLekTIjocfAu9Mxd"
@@ -37,7 +59,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147563,
       "name": "A Casual Look",
       "url": "https://open.spotify.com/track/5AEQIUw4f0Sbpjm5HFFLD5"
@@ -55,7 +77,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 148040,
       "name": "A Thousand Miles Away",
       "url": "https://open.spotify.com/track/6ofvy4eMivKYNRi4EaDlsF"
@@ -73,7 +95,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-07-28",
       "duration_ms": 158160,
       "name": "At My Front Door",
       "url": "https://open.spotify.com/track/3htl5DFdHgU4Essw0aKS62"
@@ -181,7 +203,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 152600,
       "name": "Chapel of Dreams",
       "url": "https://open.spotify.com/track/3HgV08D7OOay214URalpnZ"
@@ -217,10 +239,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160467,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4eRdlW0SvlRpq285jI9uf5"
+    },
+    {
+      "album": {
+        "name": "Come Go With Me: The Best Of The Del-Vikings",
+        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162293,
+      "name": "Come Go With Me",
+      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
     },
     {
       "album": {
@@ -253,7 +293,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 138213,
       "name": "Could This Be Magic",
       "url": "https://open.spotify.com/track/4OkVQKZpYeuZaCJ7pjNGMc"
@@ -271,7 +311,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188000,
       "name": "Crying In The Chapel",
       "url": "https://open.spotify.com/track/35vjuw2ttf6OL5vFXY9w5v"
@@ -293,7 +333,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 174200,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
@@ -311,7 +351,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146560,
       "name": "Devil or Angel - 2007 Remaster",
       "url": "https://open.spotify.com/track/1YKj6Yx5bHj15lThWYkKCz"
@@ -333,6 +373,24 @@
       "duration_ms": 139746,
       "name": "Don't Ask Me to Be Lonely",
       "url": "https://open.spotify.com/track/0AFnv5nhaov4aiWyl81Yb6"
+    },
+    {
+      "album": {
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "Down in Mexico",
+      "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
     },
     {
       "album": {
@@ -365,10 +423,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178000,
       "name": "Earth Angel",
       "url": "https://open.spotify.com/track/75Mwp7YsQRk0ZBq1lOdL2T"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Penguins",
+        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "Earth Angel (Will You Be Mine)",
+      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
     },
     {
       "album": {
@@ -477,7 +553,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 152200,
       "name": "Heartaches",
       "url": "https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS"
@@ -495,10 +571,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 106760,
       "name": "Hey Senorita",
       "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
+    },
+    {
+      "album": {
+        "name": "Flamingo Serenade",
+        "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
+      },
+      "artists": [
+        {
+          "name": "The Flamingos",
+          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202773,
+      "name": "I Only Have Eyes for You",
+      "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
     },
     {
       "album": {
@@ -513,7 +607,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203000,
       "name": "I Only Have Eyes For You - Single Version",
       "url": "https://open.spotify.com/track/3pHKy8Vmwi52p7V9ADdmTU"
@@ -567,7 +661,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 192066,
       "name": "I'm On The Outside (Looking In)",
       "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
@@ -585,7 +679,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": "2022-09-03",
       "duration_ms": 185333,
       "name": "In the Still of the Night",
       "url": "https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy"
@@ -603,10 +697,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163533,
       "name": "Life Is but a Dream",
       "url": "https://open.spotify.com/track/6CJnPLGcsyFErEoJb6gHFK"
+    },
+    {
+      "album": {
+        "name": "The Harptones",
+        "url": "https://open.spotify.com/album/3cqvDBd8s4jYbSugoY73AF"
+      },
+      "artists": [
+        {
+          "name": "The Harptones",
+          "url": "https://open.spotify.com/artist/3ldj7TJdwN9Ei96ZIUU3M7"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163746,
+      "name": "Life Is but a Dream",
+      "url": "https://open.spotify.com/track/7pihvWmEVo5J2PcxvP6T4f"
     },
     {
       "album": {
@@ -621,10 +733,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 129333,
       "name": "Little Darlin'",
       "url": "https://open.spotify.com/track/0f7JTPN46BnWiRGb5A1fft"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Diamonds",
+        "url": "https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM"
+      },
+      "artists": [
+        {
+          "name": "The Diamonds",
+          "url": "https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129333,
+      "name": "Little Darlin'",
+      "url": "https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl"
     },
     {
       "album": {
@@ -639,7 +769,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 192106,
       "name": "Little Girl of Mine",
       "url": "https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN"
@@ -657,7 +787,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-07-28",
       "duration_ms": 138814,
       "name": "Look into My Eyes",
       "url": "https://open.spotify.com/track/4VcYXEr0gaRPK9V5KDDjX7"
@@ -675,10 +805,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 112200,
       "name": "Love Potion No. 9",
       "url": "https://open.spotify.com/track/4Frd6VT1lsdjiwfAQaSldS"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Clovers (Love Potion No. 9)",
+        "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
+      },
+      "artists": [
+        {
+          "name": "The Clovers",
+          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113200,
+      "name": "Love Potion No. 9 - Remastered / Single Version",
+      "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
     },
     {
       "album": {
@@ -729,10 +877,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170000,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN"
+    },
+    {
+      "album": {
+        "name": "Presenting the Jive Five",
+        "url": "https://open.spotify.com/album/38QUQ8y53mMhnpd4Yv07CI"
+      },
+      "artists": [
+        {
+          "name": "The Jive Five",
+          "url": "https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154466,
+      "name": "My True Story",
+      "url": "https://open.spotify.com/track/1zfxyezgvocPSjSVup5ND4"
     },
     {
       "album": {
@@ -747,7 +913,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155960,
       "name": "My True Story - Digitally Remastered",
       "url": "https://open.spotify.com/track/3V3FNxI4qfqtJUN6NYfE81"
@@ -765,7 +931,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 176493,
       "name": "Oh What A Nite",
       "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
@@ -783,7 +949,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 148932,
       "name": "Peanuts",
       "url": "https://open.spotify.com/track/6ry1RZr2O3f1SziP3Vs6kJ"
@@ -837,10 +1003,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-07-21",
       "duration_ms": 145866,
       "name": "Sh-Boom",
       "url": "https://open.spotify.com/track/7Hi0AyrsS4KSkVotGRI2gk"
+    },
+    {
+      "album": {
+        "name": "Doo Wop Classics, Vol. 6",
+        "url": "https://open.spotify.com/album/6bT7ES8R1gu7H9c5jMNFaX"
+      },
+      "artists": [
+        {
+          "name": "The Chords",
+          "url": "https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147266,
+      "name": "Sh-Boom",
+      "url": "https://open.spotify.com/track/6ZKB999ZdaFVgrYWvxkl49"
     },
     {
       "album": {
@@ -855,7 +1039,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169226,
       "name": "Shop Around",
       "url": "https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy"
@@ -873,10 +1057,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166530,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/5P9EI5iZRctJ0QcarKmraH"
+    },
+    {
+      "album": {
+        "name": "Presenting The Rays",
+        "url": "https://open.spotify.com/album/32Jl14rurUEKvm8iRuDqoS"
+      },
+      "artists": [
+        {
+          "name": "The Rays",
+          "url": "https://open.spotify.com/artist/3owdLGoMpuTwee9KIh1Ibv"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166586,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/4YSdo81Wt11kR7M1zc94vD"
     },
     {
       "album": {
@@ -891,10 +1093,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 156893,
       "name": "Since I Don't Have You",
       "url": "https://open.spotify.com/track/5zgzOyEZPoeQwmXFzW0bPn"
+    },
+    {
+      "album": {
+        "name": "The Skyliners",
+        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
+      },
+      "artists": [
+        {
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158840,
+      "name": "Since I Don't Have You (Alternative Take)",
+      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
     },
     {
       "album": {
@@ -909,10 +1129,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188733,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/0a80x0s1pnRabaBIZgIZoT"
+    },
+    {
+      "album": {
+        "name": "The Best Of Bobby Lester And The Moonglows",
+        "url": "https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8"
+      },
+      "artists": [
+        {
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg"
     },
     {
       "album": {
@@ -945,7 +1183,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 141583,
       "name": "Speedoo",
       "url": "https://open.spotify.com/track/4UGr3S283MmxmRIq83xoWq"
@@ -1003,6 +1241,24 @@
       "duration_ms": 138440,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
+    },
+    {
+      "album": {
+        "name": "Wimoweh!!! - The Best Of The Tokens",
+        "url": "https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0"
+      },
+      "artists": [
+        {
+          "name": "The Tokens",
+          "url": "https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162093,
+      "name": "The Lion Sleeps Tonight (Wimoweh)",
+      "url": "https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi"
     },
     {
       "album": {
@@ -1089,7 +1345,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 177893,
       "name": "When You Dance",
       "url": "https://open.spotify.com/track/4rXndJbjTYZ4ISX3pBGxfL"
@@ -1107,10 +1363,72 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146173,
       "name": "Whispering Bells",
       "url": "https://open.spotify.com/track/0VRJtAPuTBrYTfAjVp7HD9"
+    },
+    {
+      "album": {
+        "name": "Come Go With Me: The Best Of The Del-Vikings",
+        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        },
+        {
+          "name": "Krips Johnson",
+          "url": "https://open.spotify.com/artist/1HaB4OY2BLW2ve9FHAwMRZ"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144266,
+      "name": "Whispering Bells",
+      "url": "https://open.spotify.com/track/3HYOGLROB66y1gFYxZyWhs"
+    },
+    {
+      "album": {
+        "name": "The Best Of Frankie Lymon & The Teenagers",
+        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lymon",
+          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
+        },
+        {
+          "name": "The Teenagers",
+          "url": "https://open.spotify.com/artist/1Crbmyf2bkbeOvckSlQFng"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139666,
+      "name": "Why Do Fools Fall in Love",
+      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
+    },
+    {
+      "album": {
+        "name": "Essential Classics, Vol. 84: Frankie Lymon (Remastered 2022)",
+        "url": "https://open.spotify.com/album/4QsBxPnLNULZRDrYPsKWX2"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lymon",
+          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 140746,
+      "name": "Why Do Fools Fall in Love (Remastered 2022)",
+      "url": "https://open.spotify.com/track/7nlPZ4gBK2JCRPuhmi3aOE"
     },
     {
       "album": {
@@ -1125,7 +1443,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 139800,
       "name": "Why Do Fools Fall In Love? - Single Version",
       "url": "https://open.spotify.com/track/0QlHvmgHQ66FFaSbKkVYJM"
@@ -1179,7 +1497,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-09-09",
       "duration_ms": 149586,
       "name": "Zoom Zoom Zoom",
       "url": "https://open.spotify.com/track/6xLW0o4fWTYbslOIDaJBOw"

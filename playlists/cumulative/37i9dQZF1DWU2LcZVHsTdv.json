@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The country way of testifying. Cover: Madeline Edwards",
+  "description": "The country way of testifying. Cover: Zach Williams",
   "name": "Country by the Grace of God",
   "published_playlist_ids": [
     "6cE3SvtvS08f7zxJyG9uyM"
@@ -234,6 +234,42 @@
     },
     {
       "album": {
+        "name": "Big Tent Revival",
+        "url": "https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218773,
+      "name": "Big Tent Revival",
+      "url": "https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs"
+    },
+    {
+      "album": {
+        "name": "Blessed Beyond Believin'",
+        "url": "https://open.spotify.com/album/3TFEza0C8FxbxxAKMPC0X8"
+      },
+      "artists": [
+        {
+          "name": "Eric Burgett",
+          "url": "https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229389,
+      "name": "Blessed Beyond Believin'",
+      "url": "https://open.spotify.com/track/5KisXZeI0uzWFyYBHoexy1"
+    },
+    {
+      "album": {
         "name": "Blessed Beyond Believin'",
         "url": "https://open.spotify.com/album/68GS4wGbEr9qpkNjidH1eS"
       },
@@ -245,7 +281,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-04",
       "duration_ms": 229389,
       "name": "Blessed Beyond Believin'",
       "url": "https://open.spotify.com/track/7Jl0CPkdNrarmkBt6QJwUI"
@@ -343,10 +379,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195907,
       "name": "Chain Breaker",
       "url": "https://open.spotify.com/track/7IkdKPflK8lzgRs6cXChz4"
+    },
+    {
+      "album": {
+        "name": "Chain Breaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "Chain Breaker",
+      "url": "https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB"
     },
     {
       "album": {
@@ -361,10 +415,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261813,
       "name": "Changed",
       "url": "https://open.spotify.com/track/5lgFs35aqgh22XECp44NEQ"
+    },
+    {
+      "album": {
+        "name": "Changed",
+        "url": "https://open.spotify.com/album/3UFdvzvKR3spzlCkVpcqKb"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262226,
+      "name": "Changed",
+      "url": "https://open.spotify.com/track/7ClZTubD4KudpEuBysLMUI"
     },
     {
       "album": {
@@ -405,6 +477,42 @@
       "duration_ms": 223448,
       "name": "Church In A Chevy",
       "url": "https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF"
+    },
+    {
+      "album": {
+        "name": "Churches and Bars",
+        "url": "https://open.spotify.com/album/5TcFStrKOcmhxwrqihFBqa"
+      },
+      "artists": [
+        {
+          "name": "Bear Bailey",
+          "url": "https://open.spotify.com/artist/6zoVsozlr1uPCNFXAloDPz"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198142,
+      "name": "Churches and Bars",
+      "url": "https://open.spotify.com/track/5rdrGT068PeZfY1J32mcDn"
+    },
+    {
+      "album": {
+        "name": "We Were Cowboys",
+        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224160,
+      "name": "Country Boy's Prayer",
+      "url": "https://open.spotify.com/track/2Pnw07JGKNZYta0UrHox5X"
     },
     {
       "album": {
@@ -498,6 +606,24 @@
     },
     {
       "album": {
+        "name": "Frayed At Both Ends",
+        "url": "https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lewis",
+          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257785,
+      "name": "Everybody Talks To God",
+      "url": "https://open.spotify.com/track/4nQ4Ea34XihpPFnJeyoOZ9"
+    },
+    {
+      "album": {
         "name": "Everybody Talks To God",
         "url": "https://open.spotify.com/album/3InfLUe6iHsB6bx05pg9dL"
       },
@@ -509,7 +635,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257785,
       "name": "Everybody Talks To God",
       "url": "https://open.spotify.com/track/78NoI7XWKDtir8JvnonJ2y"
@@ -618,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Here On Earth (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/5kNJYMb1mTyoqKx1tBTt53"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221666,
+      "name": "God Moves The Pen",
+      "url": "https://open.spotify.com/track/5OVyTSbqz288MkNbZf15rY"
+    },
+    {
+      "album": {
         "name": "God Moves The Pen",
         "url": "https://open.spotify.com/album/2tWnJPE54AM7uJiZHaHSfo"
       },
@@ -629,7 +773,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221666,
       "name": "God Moves The Pen",
       "url": "https://open.spotify.com/track/5vGfLxG7TJ0rzKvTPvwwCL"
@@ -792,6 +936,24 @@
     },
     {
       "album": {
+        "name": "Heart of God",
+        "url": "https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233146,
+      "name": "Heart of God",
+      "url": "https://open.spotify.com/track/6BhXU6XZMOZ4wz3tUcgkai"
+    },
+    {
+      "album": {
         "name": "Heaven Down Here",
         "url": "https://open.spotify.com/album/4XMV3levyftRwrDmyxJBzD"
       },
@@ -839,10 +1001,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261200,
       "name": "Here On Earth",
       "url": "https://open.spotify.com/track/0iMtc3As4fLUymohJSVjw8"
+    },
+    {
+      "album": {
+        "name": "Here On Earth",
+        "url": "https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261200,
+      "name": "Here On Earth",
+      "url": "https://open.spotify.com/track/6oARVUWXiWceOYeijMwcvw"
     },
     {
       "album": {
@@ -886,6 +1066,32 @@
     },
     {
       "album": {
+        "name": "Hold Together",
+        "url": "https://open.spotify.com/album/7erbvztzF5K8So7dme7oKk"
+      },
+      "artists": [
+        {
+          "name": "Shadowlands",
+          "url": "https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe"
+        },
+        {
+          "name": "Luke Laird",
+          "url": "https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI"
+        },
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212279,
+      "name": "Hold Together",
+      "url": "https://open.spotify.com/track/2XCcWKqWhTcEIIioskq3bi"
+    },
+    {
+      "album": {
         "name": "Rubberband",
         "url": "https://open.spotify.com/album/3vyIhKkksVFjHYy5HDsB1b"
       },
@@ -915,10 +1121,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257360,
       "name": "Humble And Kind",
       "url": "https://open.spotify.com/track/3Rkk851fZjIsglV2jbBPDd"
+    },
+    {
+      "album": {
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
       "album": {
@@ -1056,6 +1280,28 @@
     },
     {
       "album": {
+        "name": "In Jesus Name (God of Possible) (feat. Cheyenne Mitchell)",
+        "url": "https://open.spotify.com/album/5ttyBlOTlDg70uUEVeW7tE"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        },
+        {
+          "name": "Cheyenne Mitchell",
+          "url": "https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217714,
+      "name": "In Jesus Name (God of Possible) (feat.Cheyenne Mitchell)",
+      "url": "https://open.spotify.com/track/4pTaWYq66mOLpjGkqTpjsF"
+    },
+    {
+      "album": {
         "name": "In Our Blood",
         "url": "https://open.spotify.com/album/3b5D7JEovpIaebGbOdJTBX"
       },
@@ -1075,6 +1321,28 @@
       "duration_ms": 173000,
       "name": "In Our Blood",
       "url": "https://open.spotify.com/track/5Ut5HJUIE93J1bH1u5kGn3"
+    },
+    {
+      "album": {
+        "name": "A Hundred Highways",
+        "url": "https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        },
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214733,
+      "name": "Jesus' Fault",
+      "url": "https://open.spotify.com/track/0ds10Mj5flvO73afTrACqj"
     },
     {
       "album": {
@@ -1151,6 +1419,24 @@
     {
       "album": {
         "name": "Long Black Train",
+        "url": "https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250626,
+      "name": "Long Black Train",
+      "url": "https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED"
+    },
+    {
+      "album": {
+        "name": "Long Black Train",
         "url": "https://open.spotify.com/album/1jledek9KEGKEpa9KsuvkT"
       },
       "artists": [
@@ -1161,10 +1447,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250626,
       "name": "Long Black Train",
       "url": "https://open.spotify.com/track/4qRY8LbGGsy9L5GETfi8li"
+    },
+    {
+      "album": {
+        "name": "Lookin' for You",
+        "url": "https://open.spotify.com/album/4RKHZ5tvicbNXz4EXbiARq"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225933,
+      "name": "Lookin' for You",
+      "url": "https://open.spotify.com/track/7nDImE3NrWzpmOb3r2oV50"
     },
     {
       "album": {
@@ -1284,6 +1588,24 @@
     },
     {
       "album": {
+        "name": "More Than Me",
+        "url": "https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "More Than Me",
+      "url": "https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6"
+    },
+    {
+      "album": {
         "name": "My Jesus",
         "url": "https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG"
       },
@@ -1313,10 +1635,50 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250760,
       "name": "Nearer My God To Thee",
       "url": "https://open.spotify.com/track/4YEc0qCOtR53aduLgURSVT"
+    },
+    {
+      "album": {
+        "name": "Gospel",
+        "url": "https://open.spotify.com/album/6q5STzEtZOcixjE2lCthgv"
+      },
+      "artists": [
+        {
+          "name": "Chris Else",
+          "url": "https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250760,
+      "name": "Nearer My God to Thee",
+      "url": "https://open.spotify.com/track/7klN6mE79nMKS3sP3RWcf3"
+    },
+    {
+      "album": {
+        "name": "Ol' Church Hymn",
+        "url": "https://open.spotify.com/album/0WNfWSVgvNxqD2OYbWdOvA"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        },
+        {
+          "name": "Chapel Hart",
+          "url": "https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211013,
+      "name": "Ol' Church Hymn",
+      "url": "https://open.spotify.com/track/6YlQYcJCm0XLkpA3flcbaD"
     },
     {
       "album": {
@@ -1349,10 +1711,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244266,
       "name": "Outskirts of Heaven",
       "url": "https://open.spotify.com/track/2B8a2NDUrIGYzrb1JbhBdk"
+    },
+    {
+      "album": {
+        "name": "See You Try",
+        "url": "https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP"
+      },
+      "artists": [
+        {
+          "name": "Craig Campbell",
+          "url": "https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244266,
+      "name": "Outskirts of Heaven",
+      "url": "https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF"
     },
     {
       "album": {
@@ -1622,6 +2002,24 @@
     },
     {
       "album": {
+        "name": "Southern Gospel",
+        "url": "https://open.spotify.com/album/37ANr5ghqad7jp86QiVZVc"
+      },
+      "artists": [
+        {
+          "name": "The Swon Brothers",
+          "url": "https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210698,
+      "name": "Southern Gospel",
+      "url": "https://open.spotify.com/track/04gSahNsdUScq5mdvGVU9T"
+    },
+    {
+      "album": {
         "name": "Here And Now (Deluxe)",
         "url": "https://open.spotify.com/album/1KElY4EWWoOIQeYfpUbJrM"
       },
@@ -1651,10 +2049,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293933,
       "name": "Sunday Drive",
       "url": "https://open.spotify.com/track/2GOncX7Qsx9Y2haYlfi0J5"
+    },
+    {
+      "album": {
+        "name": "Sunday Drive",
+        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293933,
+      "name": "Sunday Drive",
+      "url": "https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf"
     },
     {
       "album": {
@@ -1691,6 +2107,28 @@
       "duration_ms": 187386,
       "name": "Talking To God",
       "url": "https://open.spotify.com/track/1lNiLFaSGw8AFdp4zfMvuf"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
       "album": {
@@ -1759,10 +2197,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204573,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/2y4pN2wraqU3JOJbv68EiR"
+    },
+    {
+      "album": {
+        "name": "One On One",
+        "url": "https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr"
+      },
+      "artists": [
+        {
+          "name": "Gary LeVox",
+          "url": "https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204573,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/6j5M0J8g1pfRnJ9wWwrvFP"
     },
     {
       "album": {
@@ -1781,6 +2237,24 @@
       "duration_ms": 269320,
       "name": "The Heaven I'm Headed To",
       "url": "https://open.spotify.com/track/48TO77FBMrQl7hU1aGGwm5"
+    },
+    {
+      "album": {
+        "name": "Unwanted Man",
+        "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219529,
+      "name": "The Old Man Said",
+      "url": "https://open.spotify.com/track/11YK2L3U5Yr4SepKwX1yiE"
     },
     {
       "album": {
@@ -1874,6 +2348,24 @@
     },
     {
       "album": {
+        "name": "There Is A God",
+        "url": "https://open.spotify.com/album/3KuhM2LBOgo9kFpOVKL1zp"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254880,
+      "name": "There Is A God",
+      "url": "https://open.spotify.com/track/057ssHCqyYBRcQ6J860Kwi"
+    },
+    {
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/05XWUOLckWAk8WqIWZ18IV"
       },
@@ -1885,7 +2377,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256906,
       "name": "There Is a God",
       "url": "https://open.spotify.com/track/3SLY4MLhH8MkkZPAH4s00F"
@@ -1903,10 +2395,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225694,
       "name": "Thought About You",
       "url": "https://open.spotify.com/track/7kCXmYJeltdnCMMsfwaCsf"
+    },
+    {
+      "album": {
+        "name": "Here On Earth (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/5kNJYMb1mTyoqKx1tBTt53"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226266,
+      "name": "Thought About You",
+      "url": "https://open.spotify.com/track/6CWzNUUmNLpiBMyR5cMzJK"
     },
     {
       "album": {
@@ -1939,10 +2449,64 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201240,
       "name": "Three Wooden Crosses",
       "url": "https://open.spotify.com/track/3y1celx9jzjsbfI9T3hmvw"
+    },
+    {
+      "album": {
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201266,
+      "name": "Three Wooden Crosses",
+      "url": "https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6"
+    },
+    {
+      "album": {
+        "name": "Three Wooden Crosses (The Bootlegger Sessions)",
+        "url": "https://open.spotify.com/album/29Zi5oXaoj4XnTKw4gvE1d"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194778,
+      "name": "Three Wooden Crosses - The Bootlegger Sessions",
+      "url": "https://open.spotify.com/track/2mhU8jchJbM4u164c2CQ1z"
+    },
+    {
+      "album": {
+        "name": "Love and War",
+        "url": "https://open.spotify.com/album/43xH1kPS7aNKc2WJtUHRAs"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229338,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/1IO13V09b01gLSbmZJZ9dM"
     },
     {
       "album": {
@@ -1957,7 +2521,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229345,
       "name": "Today",
       "url": "https://open.spotify.com/track/1PB1crNoxv0Jezj0Y8LqO0"
@@ -2005,6 +2569,24 @@
     {
       "album": {
         "name": "Never Gets Old",
+        "url": "https://open.spotify.com/album/4E9ZzEudunTKLXzj9xCYYa"
+      },
+      "artists": [
+        {
+          "name": "Joe Nichols",
+          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206453,
+      "name": "We All Carry Something",
+      "url": "https://open.spotify.com/track/0M07TE03OtknRNCKJ15Rvf"
+    },
+    {
+      "album": {
+        "name": "Never Gets Old",
         "url": "https://open.spotify.com/album/7h9Y1JOLH3VJyeDfwbbKqQ"
       },
       "artists": [
@@ -2015,7 +2597,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206866,
       "name": "We All Carry Something",
       "url": "https://open.spotify.com/track/6uEZirSx14Fo2WOqJCdE0c"
@@ -2073,10 +2655,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249613,
       "name": "Where I Find God",
       "url": "https://open.spotify.com/track/6eQePEKwbt1y9CkCE6faYi"
+    },
+    {
+      "album": {
+        "name": "Stack of Records",
+        "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "Where I Find God",
+      "url": "https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa"
     },
     {
       "album": {
@@ -2197,6 +2797,24 @@
       "duration_ms": 170869,
       "name": "You and Jesus",
       "url": "https://open.spotify.com/track/1ld8koVn05PexXTMlV6Vym"
+    },
+    {
+      "album": {
+        "name": "New Creation (Deluxe)",
+        "url": "https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176099,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT"
     },
     {
       "album": {

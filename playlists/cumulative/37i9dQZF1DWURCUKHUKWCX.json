@@ -45,6 +45,24 @@
     {
       "album": {
         "name": "ask the river",
+        "url": "https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179493,
+      "name": "a gift",
+      "url": "https://open.spotify.com/track/1CmQKnFJKWTesGSSQ2noNL"
+    },
+    {
+      "album": {
+        "name": "ask the river",
         "url": "https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a"
       },
       "artists": [
@@ -55,7 +73,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179493,
       "name": "a gift",
       "url": "https://open.spotify.com/track/3t9TjrFxUNKOUDvItLsTEo"
@@ -98,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224991,
+      "name": "All Clear",
+      "url": "https://open.spotify.com/track/1gLsIbGueJZ3GFeE8W9PnC"
+    },
+    {
+      "album": {
         "name": "All Clear",
         "url": "https://open.spotify.com/album/1MZ1vm0zHq7Q2jCMhz1A7R"
       },
@@ -109,7 +145,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224991,
       "name": "All Clear",
       "url": "https://open.spotify.com/track/6kwPQEP7rHdubkgDvVhNOf"
@@ -260,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180061,
+      "name": "At Dawn",
+      "url": "https://open.spotify.com/track/55H4GT7iLma7fJyBhS7o4R"
+    },
+    {
+      "album": {
         "name": "At Dawn",
         "url": "https://open.spotify.com/album/6FIqEmWuczU1JgLbbIVJBv"
       },
@@ -271,7 +325,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180061,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/6JOoavIQalujOEbpyN7ofg"
@@ -311,6 +365,28 @@
       "duration_ms": 281803,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/6k72nrGlCMKzs5TZXUF9Gp"
+    },
+    {
+      "album": {
+        "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
+        "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
+      },
+      "artists": [
+        {
+          "name": "Sigvaldi Kaldal\u00f3ns",
+          "url": "https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216213,
+      "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
     },
     {
       "album": {
@@ -623,10 +699,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204845,
       "name": "Duvet",
       "url": "https://open.spotify.com/track/1mJ7C0gZp95ZPqYrnYnliU"
+    },
+    {
+      "album": {
+        "name": "Svalbard",
+        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Andy Barlow",
+          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204845,
+      "name": "Duvet",
+      "url": "https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG"
     },
     {
       "album": {
@@ -699,10 +797,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133608,
       "name": "Es",
       "url": "https://open.spotify.com/track/0MgO8jBw4PScHUQbR4ZxeF"
+    },
+    {
+      "album": {
+        "name": "Es",
+        "url": "https://open.spotify.com/album/7nAb18ah0Pey9BZVS2uvbE"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133608,
+      "name": "Es",
+      "url": "https://open.spotify.com/track/4u5cedyEcb8mWnD764OELD"
     },
     {
       "album": {
@@ -963,10 +1079,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273600,
       "name": "I wanted you to know (on Yamaha Upright, 1981)",
       "url": "https://open.spotify.com/track/1WQiXGnr4RwC4C8jBEhIB5"
+    },
+    {
+      "album": {
+        "name": "Correlations (on 11 pianos)",
+        "url": "https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273600,
+      "name": "I wanted you to know (on Yamaha Upright, 1981)",
+      "url": "https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB"
     },
     {
       "album": {
@@ -1061,10 +1195,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218160,
       "name": "Last to Let Go - Daigo Hanada Rework",
       "url": "https://open.spotify.com/track/3baIpuf7biyuTFM32j0Coe"
+    },
+    {
+      "album": {
+        "name": "Last to Let Go (Daigo Hanada Rework)",
+        "url": "https://open.spotify.com/album/6Klc4LbsQR8EOqxiSkglNK"
+      },
+      "artists": [
+        {
+          "name": "Richard Luke",
+          "url": "https://open.spotify.com/artist/6d6LoDu28FVz8DRGehoClE"
+        },
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "Last to Let Go - Daigo Hanada Rework",
+      "url": "https://open.spotify.com/track/5GN6PZdeSyRREY9EbxlaHL"
     },
     {
       "album": {
@@ -1155,10 +1311,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218132,
       "name": "Look Inside Yourself",
       "url": "https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU"
+    },
+    {
+      "album": {
+        "name": "L.I.Y.",
+        "url": "https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218133,
+      "name": "Look Inside Yourself",
+      "url": "https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK"
     },
     {
       "album": {
@@ -1324,6 +1498,24 @@
     },
     {
       "album": {
+        "name": "Naar Huis",
+        "url": "https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv"
+      },
+      "artists": [
+        {
+          "name": "Doeke",
+          "url": "https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165247,
+      "name": "Morgen",
+      "url": "https://open.spotify.com/track/111fM0tqZiGJyt123R6WNt"
+    },
+    {
+      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/61KSoFutstVwhqyoAxfdKj"
       },
@@ -1335,7 +1527,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165247,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/43g9xRCsD9ez3qzVLRdFeX"
@@ -1357,6 +1549,32 @@
       "duration_ms": 158500,
       "name": "Mrs. Potter's Garden",
       "url": "https://open.spotify.com/track/4hRULDo9fR449jPin3MmIg"
+    },
+    {
+      "album": {
+        "name": "Muku",
+        "url": "https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Muku",
+      "url": "https://open.spotify.com/track/2QEkXcyjvIWgFsbc1amx4Y"
     },
     {
       "album": {
@@ -1415,6 +1633,24 @@
     {
       "album": {
         "name": "Nocturnes op.3",
+        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154714,
+      "name": "Nocturnes op.3",
+      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
+    },
+    {
+      "album": {
+        "name": "Nocturnes op.3",
         "url": "https://open.spotify.com/album/1eFpKpEOeJK8fR1gtd6HaE"
       },
       "artists": [
@@ -1425,10 +1661,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154714,
       "name": "Nocturnes op.3",
       "url": "https://open.spotify.com/track/589UW75kHbBNDPERjvGUDo"
+    },
+    {
+      "album": {
+        "name": "nocturnes",
+        "url": "https://open.spotify.com/album/2j2NwlIlBlZVID0DtzUmA4"
+      },
+      "artists": [
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/22YHMfh0wfdnA8yum2Z3fV"
     },
     {
       "album": {
@@ -1443,7 +1697,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191906,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/2Mu8WX2LlDIGl8Ea2C6lF8"
@@ -1522,6 +1776,150 @@
     },
     {
       "album": {
+        "name": "Evermore (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/1h1ZsE5v8PlJhtbXODCYCS"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 198897,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/2rOzjds76jtdjSwQbIfuc6"
+    },
+    {
+      "album": {
+        "name": "Songbird (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/5Rq6irAvLNj36yBD7bY9t0"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 198897,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/4mFBL9WVfRZsOC8PKcjCva"
+    },
+    {
+      "album": {
+        "name": "Still Life (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/2HBQlWRHDJqUlr1iUX22iu"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 198897,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/5hyeuyL8PXCMoFlwXixGjI"
+    },
+    {
+      "album": {
+        "name": "Canyons (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/5m8TJspnBZjuJRalHDeioI"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 198897,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/6ZQ7FcPjetnVnS5uU0gZ2d"
+    },
+    {
+      "album": {
+        "name": "Papillon (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/1ABCgTKvrHDqtaQJoVL8LB"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 198897,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/6ukVwqW1apM0LMTHxoCiZm"
+    },
+    {
+      "album": {
+        "name": "Hope, Ascending (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/7gOdkCD1pDOKqF7Khofniy"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-05",
+      "duration_ms": 198897,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/79UTVXirLKGg722iyWAlLh"
+    },
+    {
+      "album": {
+        "name": "One Look (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/05Mf7iiPdcr8UH5URzCUfC"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 198897,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/7jooXsI76dcqjmcU9QV8K7"
+    },
+    {
+      "album": {
+        "name": "Broken Sunsets (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/7yHAslL1t5N3qvhq9rmZp3"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198897,
+      "name": "One Look - Solo Piano Version",
+      "url": "https://open.spotify.com/track/7mzLAlrL1lNSqXxzg4e5nD"
+    },
+    {
+      "album": {
         "name": "Gravity (Special Edition)",
         "url": "https://open.spotify.com/album/0lDH51Xy10a1fXsRMAyufW"
       },
@@ -1587,10 +1985,54 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 433293,
       "name": "Opus 20",
       "url": "https://open.spotify.com/track/1BDEDuqxCvqGMda7R2VBI0"
+    },
+    {
+      "album": {
+        "name": "Piano Solos, Vol 2",
+        "url": "https://open.spotify.com/album/4ptXbWijlr47UVw4jiXNtF"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433293,
+      "name": "Opus 20",
+      "url": "https://open.spotify.com/track/7927IbXHiYrlZkAikPsi3X"
+    },
+    {
+      "album": {
+        "name": "Friedman: Piano Transcriptions",
+        "url": "https://open.spotify.com/album/4L8tF28TUH4Ude4IEhMH1b"
+      },
+      "artists": [
+        {
+          "name": "Ignaz Friedman",
+          "url": "https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg"
+        },
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Joseph Banowetz",
+          "url": "https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251733,
+      "name": "Orfeo ed Euridice, Act II: Dance of the Blessed Spirits, \"M\u00e9lodie\" (arr. I. Friedman for piano)",
+      "url": "https://open.spotify.com/track/3xIu6hYXz0gTjJtmGu60M8"
     },
     {
       "album": {
@@ -1609,7 +2051,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251733,
       "name": "Orfeo ed Euridice, Wq. 30: Danse des champs-elys\u00e9es \"M\u00e9lodie\" (Arr. I. Friedman for Piano)",
       "url": "https://open.spotify.com/track/0DG5cVgVt7821x2rAv0ny2"
@@ -1667,10 +2109,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197506,
       "name": "Playful (variation)",
       "url": "https://open.spotify.com/track/1I4cxChIWYjvltRLmCkSzS"
+    },
+    {
+      "album": {
+        "name": "Correlations B-Sides (on Yamaha Upright, 1981)",
+        "url": "https://open.spotify.com/album/2G4IIha9htug2thniT54uy"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197506,
+      "name": "Playful (variation)",
+      "url": "https://open.spotify.com/track/2vrY8qX7KWe8RGNQYLVix5"
     },
     {
       "album": {
@@ -1800,6 +2260,24 @@
     },
     {
       "album": {
+        "name": "re:member",
+        "url": "https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131923,
+      "name": "saman",
+      "url": "https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr"
+    },
+    {
+      "album": {
         "name": "saman",
         "url": "https://open.spotify.com/album/4vBnwCup5n0lu4I8Az6lrS"
       },
@@ -1811,7 +2289,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 131923,
       "name": "saman",
       "url": "https://open.spotify.com/track/7iiOQHrIPuafVip6E9hIqZ"
@@ -1941,10 +2419,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202977,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/0zJmKWFxWOw61bWy8HWnPt"
+    },
+    {
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202977,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu"
     },
     {
       "album": {
@@ -1963,6 +2459,42 @@
       "duration_ms": 139316,
       "name": "Story of You",
       "url": "https://open.spotify.com/track/2NYXYakw0PmjrRr91V3jk3"
+    },
+    {
+      "album": {
+        "name": "Summer 1987.",
+        "url": "https://open.spotify.com/album/4DXELJ6zegvkSUFDmYKKRv"
+      },
+      "artists": [
+        {
+          "name": "Christian.",
+          "url": "https://open.spotify.com/artist/0pwpSckn3W7W3TSeAYZevV"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179062,
+      "name": "Summer 1987.",
+      "url": "https://open.spotify.com/track/2k7pE7D98DMSXaLc57tsG1"
+    },
+    {
+      "album": {
+        "name": "Gjeilo: Sun Prelude",
+        "url": "https://open.spotify.com/album/2j5otpbzoJX9uB9pD7jdzK"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154040,
+      "name": "Sun Prelude",
+      "url": "https://open.spotify.com/track/07RjQvhbiROEpMtNyNE08U"
     },
     {
       "album": {
@@ -2115,6 +2647,24 @@
     {
       "album": {
         "name": "Transience",
+        "url": "https://open.spotify.com/album/2AL2HensOEJzbPA6rsfJIE"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179482,
+      "name": "Transience",
+      "url": "https://open.spotify.com/track/3EyDeYw7ezBw4u0WIFI10y"
+    },
+    {
+      "album": {
+        "name": "Transience",
         "url": "https://open.spotify.com/album/5KKSxCujaeW9FTT9Q0jZxA"
       },
       "artists": [
@@ -2125,10 +2675,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179482,
       "name": "Transience",
       "url": "https://open.spotify.com/track/7065v1WsWaUVaH0ZPRwhkC"
+    },
+    {
+      "album": {
+        "name": "Transparency",
+        "url": "https://open.spotify.com/album/10mnMUjzyNxneRsoHzah7q"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "Transparency",
+      "url": "https://open.spotify.com/track/7sQnDcPTyqL2RwtHr2GvR9"
     },
     {
       "album": {
@@ -2143,10 +2711,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159000,
       "name": "Triptych 1 for Piano",
       "url": "https://open.spotify.com/track/2YAjAXgl0GVtuZ6uDH6aWl"
+    },
+    {
+      "album": {
+        "name": "Triptych 1 for Piano",
+        "url": "https://open.spotify.com/album/7lqhbSElKknWLrKgU5G4G6"
+      },
+      "artists": [
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Triptych 1 for Piano",
+      "url": "https://open.spotify.com/track/4hz99c39SOIMCng7b7j4Wd"
     },
     {
       "album": {

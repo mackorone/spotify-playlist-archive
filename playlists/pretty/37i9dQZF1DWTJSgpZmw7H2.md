@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJSgpZmw7H2.md) - [plain]
 
 > Learn French with a collection of audio courses that will take you from beginner lessons to advanced conversations and even French literature appreciation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,993 likes - 472 songs - 1 day 21 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,710 likes - 472 songs - 1 day 21 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,14 +198,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJSgpZmw7H2.md) - [plain]
 | 188 | [More Adverbs](https://open.spotify.com/track/2u4L5h1a3TBRbvuHPjwWLF) | [Penton Overseas, Inc](https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw) | [VocabuLearn® Word Boosters French](https://open.spotify.com/album/5AkgYp1jfRbC4kNcpUudMU) | 2:51 |
 | 189 | [Travel Terms](https://open.spotify.com/track/3NA2MBHwsASdLJaTfEvBFG) | [Penton Overseas, Inc](https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw) | [VocabuLearn® Word Boosters French](https://open.spotify.com/album/5AkgYp1jfRbC4kNcpUudMU) | 1:57 |
 | 190 | [More Expressions](https://open.spotify.com/track/5g7lS6ehiJcL57OZZhqy3H) | [Penton Overseas, Inc](https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw) | [VocabuLearn® Word Boosters French](https://open.spotify.com/album/5AkgYp1jfRbC4kNcpUudMU) | 4:41 |
-| 191 | [Greetings](https://open.spotify.com/track/3LPzq1BLX8EpCu446T4jW0) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/3mjZQy37Mkohf3rilgootk) | 1:57 |
-| 192 | [Personal Information](https://open.spotify.com/track/3rfSVrhvboi23vA3TEkAQi) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/3mjZQy37Mkohf3rilgootk) | 3:11 |
-| 193 | [Help & Directions](https://open.spotify.com/track/3cI4Uv5ghLndbvtWzs1tbn) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/3mjZQy37Mkohf3rilgootk) | 3:41 |
-| 194 | [Well Wishes](https://open.spotify.com/track/0bbaURdKeq1ZIWI32S8Zb1) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/3mjZQy37Mkohf3rilgootk) | 2:12 |
-| 195 | [Restaurants](https://open.spotify.com/track/36YgmNUQR3CgyxlYhpYEuh) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/3mjZQy37Mkohf3rilgootk) | 2:16 |
-| 196 | [Shopping](https://open.spotify.com/track/1bwMqOkPniudpSXgy6wBD3) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/3mjZQy37Mkohf3rilgootk) | 3:15 |
-| 197 | [Pick Up Lines](https://open.spotify.com/track/56S4waY4dAmIueRpMgWo1R) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/3mjZQy37Mkohf3rilgootk) | 3:00 |
-| 198 | [Swearing](https://open.spotify.com/track/6IVN7sYAmcfQuLvPHdQ39n) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/3mjZQy37Mkohf3rilgootk) | 2:17 |
+| 191 | [Greetings](https://open.spotify.com/track/7lf9J3VOXltJRDrDTjG25V) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/4y6omZjIspxi2U2zDyyFOk) | 1:54 |
+| 192 | [Personal Information](https://open.spotify.com/track/3N5hdNmDgf5KXOEswnflDf) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/4y6omZjIspxi2U2zDyyFOk) | 3:08 |
+| 193 | [Help & Directions](https://open.spotify.com/track/4pTlwZiY99A1p9Tv28d7i3) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/4y6omZjIspxi2U2zDyyFOk) | 3:38 |
+| 194 | [Well Wishes](https://open.spotify.com/track/6gWr4QtyGRF2uMTz0y5dAw) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/4y6omZjIspxi2U2zDyyFOk) | 2:09 |
+| 195 | [Restaurants](https://open.spotify.com/track/4TgW58Pbp320ZPzS8OkXRA) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/4y6omZjIspxi2U2zDyyFOk) | 2:13 |
+| 196 | [Shopping](https://open.spotify.com/track/6mKjbhcx1JVsEF8bZATfl1) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/4y6omZjIspxi2U2zDyyFOk) | 3:13 |
+| 197 | [Pick Up Lines](https://open.spotify.com/track/5eSGQBe0zOi0xopMSbc4jn) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/4y6omZjIspxi2U2zDyyFOk) | 2:57 |
+| 198 | [Swearing](https://open.spotify.com/track/02tjO3yxq2VzYrZgHLVYFP) | [Not Lost in Translation](https://open.spotify.com/artist/28ws78D1q6UtVK4GtirutY) | [English to French \- Useful Phrases](https://open.spotify.com/album/4y6omZjIspxi2U2zDyyFOk) | 2:17 |
 | 199 | [Expressions, Dialogue and Useful Words](https://open.spotify.com/track/0bikjB1KgVVhlHkknwsvPV) | [Complete Language Lessons](https://open.spotify.com/artist/3sp7NtPgyjKKqYobNw8q6B) | [Learn French \- Easily, Effectively, and Fluently](https://open.spotify.com/album/4a7T5DHTA8ovVIoxoBimXv) | 26:01 |
 | 200 | [Lexical Drills](https://open.spotify.com/track/17bfT5cjmpNgVTROR9AhWC) | [Complete Language Lessons](https://open.spotify.com/artist/3sp7NtPgyjKKqYobNw8q6B) | [Learn French \- Easily, Effectively, and Fluently](https://open.spotify.com/album/4a7T5DHTA8ovVIoxoBimXv) | 21:05 |
 | 201 | [Noun\-marker: Definite Article: le, la, etc.](https://open.spotify.com/track/4GJR1grhI24dlQW0j689e7) | [Complete Language Lessons](https://open.spotify.com/artist/3sp7NtPgyjKKqYobNw8q6B) | [Learn French \- Easily, Effectively, and Fluently](https://open.spotify.com/album/4a7T5DHTA8ovVIoxoBimXv) | 30:36 |
@@ -481,4 +481,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJSgpZmw7H2.md) - [plain]
 | 471 | [Verlaine](https://open.spotify.com/track/4JpqixxCcDjCQiEDnHuZuj) | [Armand Bégué](https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c), [Louise Bégué](https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm) | [Speak and Read French, Part 3: French Literature](https://open.spotify.com/album/3mOTDKUTAomSRSKtS2cBhv) | 1:06 |
 | 472 | [Baudelaire](https://open.spotify.com/track/45gRfu45Bn6FX49CC3ATdH) | [Armand Bégué](https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c), [Louise Bégué](https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm) | [Speak and Read French, Part 3: French Literature](https://open.spotify.com/album/3mOTDKUTAomSRSKtS2cBhv) | 5:19 |
 
-Snapshot ID: `MTU2ODAxODQyNiwwMDAwMDAxNjAwMDAwMTVkZWM2MTkxYzAwMDAwMDE2ZDE1MmU2YmM0`
+Snapshot ID: `MTUwMjkwOTQwMywwMDAwMDAwMDBhYTk2YjNkNjNjNzlhZDIwZWUxOTdiNDQwMjY5Mzg5`

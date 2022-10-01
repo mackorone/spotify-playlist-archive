@@ -4,7 +4,7 @@
 
 > Sing along to these Vacation Bible School favorites.
 
-51 songs - 2 hr 22 min - [published](https://open.spotify.com/playlist/2adYLpKvmJNTalGkrBN10n)
+52 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/2adYLpKvmJNTalGkrBN10n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Pray About Everything](https://open.spotify.com/track/4Jkr7Mv2yQZETKEBPPUiKg) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Favorite VBS Songs for Families, Vol\. 6: Sing 'Em Again](https://open.spotify.com/album/20U438HAaAvBqTcv8inGIu) | 1:47 | 2021-07-12 |  |
 | [Rise And Shine \(Arky, Arky\)](https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Action Bible Songs](https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv) | 2:07 | 2021-07-12 |  |
 | [Shine on Me](https://open.spotify.com/track/4BRBmHtO07inUwhHdDf1rj) | [Lifeway Kids Worship](https://open.spotify.com/artist/6FIaadxhvDeZI4RAd06Dnx) | [Top 50 Kids Worship Songs](https://open.spotify.com/album/0lwbmIkQfmO0X6SdqqdVlf) | 3:04 | 2021-07-12 |  |
-| [Thankful \(2008 Power Lab\)](https://open.spotify.com/track/675TauoqieTeZa84RcrjqF) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 2](https://open.spotify.com/album/60r0h1NtCCYTuwo3w4QPGd) | 2:09 | 2021-07-12 |  |
+| [Thankful \(1 Thessalonians 5:18\)](https://open.spotify.com/track/2ZYzNXfjzCkSF5JXZ1FtSt) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 2](https://open.spotify.com/album/4NOTJI12t7ChdjTOGj5Xk4) | 2:09 | 2021-07-12 |  |
+| [Thankful \(2008 Power Lab\)](https://open.spotify.com/track/675TauoqieTeZa84RcrjqF) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 2](https://open.spotify.com/album/60r0h1NtCCYTuwo3w4QPGd) | 2:09 | 2021-07-12 | 2022-07-29 |
 | [The B\-I\-B\-L\-E](https://open.spotify.com/track/4E4MObyroJFHO9BxIMCkOS) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats \(For Little Feets\)](https://open.spotify.com/album/3QfyerJxzTL9NXo79cXrOw) | 2:50 | 2021-07-12 |  |
 | [The Discovery \(Lead to the Savior\)](https://open.spotify.com/track/1iu5Tq82zHXQH64VzaUTII) | [Lifeway Kids Worship](https://open.spotify.com/artist/6FIaadxhvDeZI4RAd06Dnx) | [2021 CentriKid](https://open.spotify.com/album/2xSxfUjkTeWrYPIrr4T8RL) | 3:21 | 2021-07-12 |  |
 | [The Doxology](https://open.spotify.com/track/5wWO82mAloRy9RZdYXjoer) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Go Mongolia!](https://open.spotify.com/album/256mv49bBlxqH68aSx92n9) | 2:54 | 2021-07-12 |  |

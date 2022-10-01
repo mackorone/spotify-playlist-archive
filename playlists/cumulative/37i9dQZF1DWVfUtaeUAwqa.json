@@ -293,7 +293,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 182360,
       "name": "Dixie",
       "url": "https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP"
@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
+        "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
+      },
+      "artists": [
+        {
+          "name": "George Lewis",
+          "url": "https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "Down by the Riverside",
+      "url": "https://open.spotify.com/track/1BHMpKJngIU4iWpzZIj7hm"
+    },
+    {
+      "album": {
         "name": "50th Anniversary Collection",
         "url": "https://open.spotify.com/album/1rPqLl1oKzFbHAfweVzcGs"
       },
@@ -329,7 +347,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174893,
       "name": "Down By the Riverside",
       "url": "https://open.spotify.com/track/75SK3djaJssHR9TTHTv7wI"
@@ -408,6 +426,24 @@
     },
     {
       "album": {
+        "name": "Presenting Eddie Condon",
+        "url": "https://open.spotify.com/album/7h3lmjqS435xPobsUcIcRC"
+      },
+      "artists": [
+        {
+          "name": "Eddie Condon",
+          "url": "https://open.spotify.com/artist/1YaB5mqH5zlJqvJaKIsBrS"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217520,
+      "name": "I'm Gonna Stomp, Mr Henry Lee",
+      "url": "https://open.spotify.com/track/7bKWw5CgBrV8mkkjJ23Fxf"
+    },
+    {
+      "album": {
         "name": "Eddie Condon",
         "url": "https://open.spotify.com/album/6zCjaiz6yCujSEdBV0EWg2"
       },
@@ -419,7 +455,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217533,
       "name": "I'm Gonna Stomp, Mr. Henry Lee",
       "url": "https://open.spotify.com/track/7h2QMRQZbt7VtcHh3VLT1X"
@@ -437,7 +473,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 188160,
       "name": "In The Good Old Summertime",
       "url": "https://open.spotify.com/track/7eb2OuqP9Ejwbqmv4m6HEz"
@@ -498,6 +534,24 @@
     },
     {
       "album": {
+        "name": "Pete Fountain Presents The Best Of Dixieland: Al Hirt",
+        "url": "https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "Jazz Me Blues",
+      "url": "https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB"
+    },
+    {
+      "album": {
         "name": "New Orleans Jazz Essentials",
         "url": "https://open.spotify.com/album/7jV0x57NJgGCvYPp3uF6jL"
       },
@@ -513,7 +567,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216733,
       "name": "Jazz Me Blues",
       "url": "https://open.spotify.com/track/6j5bXgdIfn2Z4uIcNiFuR7"
@@ -603,10 +657,28 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173320,
       "name": "New Orleans Shout",
       "url": "https://open.spotify.com/track/2YenaygbL5I0ARYgRkaFtj"
+    },
+    {
+      "album": {
+        "name": "I Must Have It",
+        "url": "https://open.spotify.com/album/6ZdBK9AQtlbIFhf2tszKY8"
+      },
+      "artists": [
+        {
+          "name": "Bourbon Street Jazzband",
+          "url": "https://open.spotify.com/artist/2SvsDVaQnwhr8da9LPepJO"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175626,
+      "name": "New Orleans Shout",
+      "url": "https://open.spotify.com/track/5Pcr62bLUsT3KIotsiafwB"
     },
     {
       "album": {
@@ -799,10 +871,28 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183600,
       "name": "Savoy Blues",
       "url": "https://open.spotify.com/track/39ymSz3zpOv4ucyFbhEheL"
+    },
+    {
+      "album": {
+        "name": "Kid Ory New Orleans Jazz Man",
+        "url": "https://open.spotify.com/album/4WDAhCf6ihX5PBZwpadK9Z"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory's Creole Jazz Band",
+          "url": "https://open.spotify.com/artist/2BHUVGNVyL4P9boK9roEZZ"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "Savoy Blues",
+      "url": "https://open.spotify.com/track/5LmttN1s1QbpLBVVCInT1N"
     },
     {
       "album": {
@@ -835,7 +925,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-19",
       "duration_ms": 189074,
       "name": "Semper Fidelis",
       "url": "https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG"
@@ -1037,10 +1127,28 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 272826,
       "name": "Walkin' The Dog",
       "url": "https://open.spotify.com/track/0C2NDJZaUiHmpTzgZ50ZA2"
+    },
+    {
+      "album": {
+        "name": "Jazz Foundations Vol. 25",
+        "url": "https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn"
+      },
+      "artists": [
+        {
+          "name": "Edmond Hall",
+          "url": "https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274808,
+      "name": "Walkin' The Dog",
+      "url": "https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL"
     },
     {
       "album": {

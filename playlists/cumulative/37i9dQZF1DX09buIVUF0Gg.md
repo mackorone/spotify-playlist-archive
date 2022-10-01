@@ -4,7 +4,7 @@
 
 > For time with family + friends.
 
-35 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/1i17XwBqCrC6tVU9jaq6Dt)
+36 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/1i17XwBqCrC6tVU9jaq6Dt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [I Wanna Thank You](https://open.spotify.com/track/6VS8OqAY0yOQPQeMPjK60X) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Greatest Slow Jams](https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG) | 5:20 | 2021-11-24 |  |
 | [It Don't Have to Change \(feat\. The Stephens Family\)](https://open.spotify.com/track/3e1PfBYUcfikMd2oyhBKKl) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [The Stephens Family](https://open.spotify.com/artist/59moiRYKUncTrjFOOPy0YN) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 3:23 | 2021-11-24 |  |
 | [Jesus Is Love](https://open.spotify.com/track/52i3VeUFbCRk3z8YgBFM7N) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Best Of Lionel Richie 20th Century Masters The Millennium Collection](https://open.spotify.com/album/6UaOmeGGHUSHyy3F4ngAwa) | 6:06 | 2021-11-24 |  |
-| [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-11-24 |  |
+| [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 | 2021-11-24 |  |
+| [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-11-24 | 2022-07-29 |
 | [Lord, We Thank You](https://open.spotify.com/track/2k2Ug3702qWJxFO9jwlVb4) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [The Mississippi Mass Choir](https://open.spotify.com/album/0k4D7v1TImrWqiZCPzpvDw) | 6:44 | 2021-11-24 |  |
 | [Love](https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 5:04 | 2021-11-24 |  |
 | [My Tribute / Bless His Holy Name / How Great Is Our God \- My Tribute Medley](https://open.spotify.com/track/2bHFrxFb9Gjf8gl5tYk7UL) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [The Power Of One](https://open.spotify.com/album/3RhvKY1NOvbqT2xsa24PWe) | 10:10 | 2021-11-24 |  |

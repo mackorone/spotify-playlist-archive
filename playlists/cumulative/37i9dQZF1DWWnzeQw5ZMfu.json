@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. Cover: Miley Cyrus.",
+  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
   "name": "Pop Live",
   "published_playlist_ids": [
     "1gnHrTzwOKwLkCguLOL3Ry"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235520,
       "name": "(Everything I Do) I Do It For You - Live At Sydney Opera House / 2013",
       "url": "https://open.spotify.com/track/0R7UmDZ9MP9LOiWdv4fDIK"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 226849,
       "name": "7 rings - live",
       "url": "https://open.spotify.com/track/6va6SjWz457IOZidBppAhz"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 376365,
       "name": "All Night Long (All Night) - Live",
       "url": "https://open.spotify.com/track/26DAOgxkcKLSKdoHvHoAcn"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262173,
       "name": "Alone - Live",
       "url": "https://open.spotify.com/track/4gLEaNDI7wk8SJNqyprEAd"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-22",
       "duration_ms": 278026,
       "name": "Always Be My Baby - Live at the Tokyo Dome",
       "url": "https://open.spotify.com/track/58QgGWqvercpslOCOlxyEr"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 270840,
       "name": "Animals - Live In Manchester",
       "url": "https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230226,
       "name": "Because Of You - Nissan Live Sets At Yahoo! Music",
       "url": "https://open.spotify.com/track/4zPZeYuv4HBlZITBgBzjBS"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 225047,
       "name": "Before You Go - Live from Brixton Academy, London, 2019",
       "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Live from Sydney",
+        "url": "https://open.spotify.com/album/623a0m3oqPh5SzrTOPxudd"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-16",
+      "duration_ms": 366320,
+      "name": "Breathe Me",
+      "url": "https://open.spotify.com/track/6LuJxDGp0ASyAlSZN64bR0"
+    },
+    {
+      "album": {
         "name": "Lady Croissant (Live)",
         "url": "https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H"
       },
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 352333,
       "name": "Breathe Me - Live",
       "url": "https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 209306,
       "name": "Budapest - Live from Spotify Stockholm",
       "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
@@ -379,10 +397,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 441666,
       "name": "Crazy - Live",
       "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
+    },
+    {
+      "album": {
+        "name": "HOMECOMING: THE LIVE ALBUM",
+        "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167347,
+      "name": "Crazy In Love - Homecoming Live",
+      "url": "https://open.spotify.com/track/10OaEuICuFoKLq48NoMblA"
     },
     {
       "album": {
@@ -415,7 +451,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 210268,
       "name": "DDU-DU DDU-DU - Live",
       "url": "https://open.spotify.com/track/437Wn1icOBdhQaVnpJpl0F"
@@ -433,10 +469,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 165872,
       "name": "Diva - Homecoming Live",
       "url": "https://open.spotify.com/track/7eOG24Nx7j4nI3f9nOZTOi"
+    },
+    {
+      "album": {
+        "name": "Farewell to the World [(Live at Sydney Opera House) [2006 - Remaster]]",
+        "url": "https://open.spotify.com/album/4BmEyUsrfPzLHV2vR5tgra"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382746,
+      "name": "Don't Dream It's Over (Live at Sydney Opera House) - 2006 - Remaster",
+      "url": "https://open.spotify.com/track/60OquKw8DFe1lHZxF4Gt6j"
     },
     {
       "album": {
@@ -451,7 +505,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 382746,
       "name": "Don't Dream It's Over - Live at Sydney Opera House / 2006 Remaster",
       "url": "https://open.spotify.com/track/0c0cetOXVz74DlhVCMoc7P"
@@ -473,7 +527,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251165,
       "name": "Don't Go Breaking My Heart - Live at Live Aid, Wembley Stadium, 13th July 1985",
       "url": "https://open.spotify.com/track/5LDbaK02vE0NI0h04kqHCP"
@@ -491,7 +545,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 336080,
       "name": "Don't Let The Sun Go Down On Me - Live From Moscow / 1979",
       "url": "https://open.spotify.com/track/0mkikbv3LQNTOuQuwuxNIs"
@@ -513,7 +567,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 207253,
       "name": "Don't Take The Money (feat. Lorde) - MTV Unplugged",
       "url": "https://open.spotify.com/track/25wTebB8ECapFHWRPywpYR"
@@ -531,7 +585,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 239066,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/0AQ7KFLa7POKk4gBKKYyr0"
@@ -549,7 +603,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 444960,
       "name": "Easy - Live In Paris",
       "url": "https://open.spotify.com/track/04ItQxnUp22G4cpXfsS269"
@@ -567,7 +621,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 239733,
       "name": "Emotions - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
       "url": "https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1"
@@ -603,10 +657,40 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 138146,
       "name": "Endless Love - Live In Paris",
       "url": "https://open.spotify.com/track/44pRfHnmboXkuPfbzOGYS3"
+    },
+    {
+      "album": {
+        "name": "Live In Berlin",
+        "url": "https://open.spotify.com/album/6adPwMLvUlBuL6WfExnCUu"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        },
+        {
+          "name": "Royal Philharmonic Concert Orchestra",
+          "url": "https://open.spotify.com/artist/0KF6aZe84u9WE8JaLdvLLY"
+        },
+        {
+          "name": "Steven Mercurio",
+          "url": "https://open.spotify.com/artist/1tVeyHElHwol59M1EPwQHD"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278840,
+      "name": "Englishman In New York - Live In Berlin/2010",
+      "url": "https://open.spotify.com/track/5VaWlp54HTo03meWB9l5bx"
     },
     {
       "album": {
@@ -633,7 +717,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 278840,
       "name": "Englishman In New York - Live In Berlin/2010",
       "url": "https://open.spotify.com/track/6zP4H5KoDZHNUaF1UVAXmD"
@@ -669,7 +753,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183000,
       "name": "Evergreen (Love Theme from \"A Star Is Born\") - Live",
       "url": "https://open.spotify.com/track/6P9X7AlQzsCvAL8J9fTfnP"
@@ -687,10 +771,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 424148,
       "name": "Every Time You Go Away - Live at Live Aid, Wembley Stadium, 13th July 1985",
       "url": "https://open.spotify.com/track/0EmusWHa1oo4iRe1OqgOqH"
+    },
+    {
+      "album": {
+        "name": "Paul Young at Live Aid (Live at Wembley Stadium, 13th July 1985)",
+        "url": "https://open.spotify.com/album/16Zjv01t1RghPzjvADyi1N"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 424148,
+      "name": "Every Time You Go Away - Live at Wembley Stadium, 13th July 1985",
+      "url": "https://open.spotify.com/track/3cgvF740F4AtDbZ1c5oBeT"
     },
     {
       "album": {
@@ -741,7 +843,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": "2022-08-19",
       "duration_ms": 284360,
       "name": "Fallin' - Live at Metropolis Studios, New York, NY - May 2013",
       "url": "https://open.spotify.com/track/3pTHh8iYearZ6hCWvLvbX9"
@@ -759,7 +861,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": "2022-07-29",
       "duration_ms": 312211,
       "name": "Fastlove - Live",
       "url": "https://open.spotify.com/track/2cM4093hKmkWTF0Rc5OdJa"
@@ -777,7 +879,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267263,
       "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
       "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
@@ -803,10 +905,54 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215173,
       "name": "Fields Of Gold - Live In Berlin/2010",
       "url": "https://open.spotify.com/track/4jvjN7ew31DR6VazusgnyJ"
+    },
+    {
+      "album": {
+        "name": "Live In Berlin",
+        "url": "https://open.spotify.com/album/6adPwMLvUlBuL6WfExnCUu"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Royal Philharmonic Concert Orchestra",
+          "url": "https://open.spotify.com/artist/0KF6aZe84u9WE8JaLdvLLY"
+        },
+        {
+          "name": "Steven Mercurio",
+          "url": "https://open.spotify.com/artist/1tVeyHElHwol59M1EPwQHD"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "Fields Of Gold - Live In Berlin/2010",
+      "url": "https://open.spotify.com/track/6zaIkr8o1DVxBIr4rgrvXC"
+    },
+    {
+      "album": {
+        "name": "Footloose (Live at John F. Kennedy Stadium, 13th July 1985)",
+        "url": "https://open.spotify.com/album/3YjGruzbQxfOVRre3ZaFFZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254341,
+      "name": "Footloose - Live at John F. Kennedy Stadium, 13th July 1985",
+      "url": "https://open.spotify.com/track/1wM7Y8fdOTJD9ZaHHfi1MS"
     },
     {
       "album": {
@@ -821,7 +967,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254341,
       "name": "Footloose - Live at Live Aid, John F. Kennedy Stadium, 13th July 1985",
       "url": "https://open.spotify.com/track/4Y5QFo0iMJ7j1zpzVjGt9D"
@@ -839,7 +985,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 304973,
       "name": "For the First Time - Live At The Aviva Stadium, Dublin",
       "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
@@ -861,6 +1007,24 @@
       "duration_ms": 343933,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
+    },
+    {
+      "album": {
+        "name": "HOMECOMING: THE LIVE ALBUM",
+        "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262831,
+      "name": "Formation - Homecoming Live",
+      "url": "https://open.spotify.com/track/6oHexA34fw1WfswjIEA1hd"
     },
     {
       "album": {
@@ -893,7 +1057,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 160400,
       "name": "Ghost - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
@@ -929,10 +1093,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 441141,
       "name": "Go West - Live at Live 8, Red Square, Moscow, 2nd July 2005",
       "url": "https://open.spotify.com/track/2lCnjCnm8j3zV342OCBqOI"
+    },
+    {
+      "album": {
+        "name": "k bye for now (swt live)",
+        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213068,
+      "name": "god is a woman - live",
+      "url": "https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI"
     },
     {
       "album": {
@@ -1005,7 +1187,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 272466,
       "name": "Guilty (feat. Barry Gibb) - Live Duet With Barry Gibb",
       "url": "https://open.spotify.com/track/2f7wiqS80eqRzDlXT8BI6G"
@@ -1023,7 +1205,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 248572,
       "name": "Havana - Live",
       "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
@@ -1041,7 +1223,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293893,
       "name": "Heaven - Live At Sydney Opera House / 2013",
       "url": "https://open.spotify.com/track/7GqC52l5QiBdUjju5hzeOL"
@@ -1059,7 +1241,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 339531,
       "name": "Heaven Is a Place On Earth (Live at Indigo at the O2, London, 13/10/2017)",
       "url": "https://open.spotify.com/track/1Iw1FOdlNmchEKpqXn2i2r"
@@ -1077,7 +1259,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-25",
       "duration_ms": 319466,
       "name": "Heaven Is a Place on Earth - Live",
       "url": "https://open.spotify.com/track/6AcjVaDQwP51RqKnqbLU2u"
@@ -1099,10 +1281,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 436026,
       "name": "Hips Don't Lie (feat. Wyclef Jean) - Live - December 2006",
       "url": "https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ"
+    },
+    {
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180346,
+      "name": "Hopelessly Devoted To You - Live",
+      "url": "https://open.spotify.com/track/1rR0eM3h07YkHcIUb8lcp6"
     },
     {
       "album": {
@@ -1117,7 +1317,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 289200,
       "name": "How Am I Supposed To Live Without You - Bolton Live! Royal Albert Hall, London",
       "url": "https://open.spotify.com/track/6gwepzUdnGY46ZWtQ4iayD"
@@ -1153,7 +1353,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-29",
       "duration_ms": 240813,
       "name": "How Will I Know - Live from The Brit Awards",
       "url": "https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp"
@@ -1171,7 +1371,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 590120,
       "name": "Hung Up - Live",
       "url": "https://open.spotify.com/track/3ZjFsZkqkLlbzncALtnQLf"
@@ -1189,7 +1389,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 354240,
       "name": "Hunting High And Low - Live",
       "url": "https://open.spotify.com/track/6jeiWSS6Esw9HSIGF7of2A"
@@ -1211,6 +1411,24 @@
       "duration_ms": 202833,
       "name": "Hurts So Good - Live From The Studio",
       "url": "https://open.spotify.com/track/0uXrseeLQkcjiI1QAmHVPm"
+    },
+    {
+      "album": {
+        "name": "Hurts So Good (Live From The Studio)",
+        "url": "https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202833,
+      "name": "Hurts So Good - Live From The Studio",
+      "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
     },
     {
       "album": {
@@ -1261,7 +1479,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 250586,
       "name": "I Kissed A Girl - Live At MTV Unplugged, 2009",
       "url": "https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz"
@@ -1279,7 +1497,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 495360,
       "name": "I Knew I Loved You - Live",
       "url": "https://open.spotify.com/track/5DPHFR4RnZfNdrxkqvvPtb"
@@ -1297,7 +1515,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 285930,
       "name": "I See Fire - Live and in Session",
       "url": "https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7"
@@ -1387,14 +1605,14 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 243813,
       "name": "I'll Be There - Live at the Forum, 1972",
       "url": "https://open.spotify.com/track/5rIrLR37OB9G6906Cfbnpy"
     },
     {
       "album": {
-        "name": "A new day - Live in Las Vegas",
+        "name": "A New Day...Live In Las Vegas",
         "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
       },
       "artists": [
@@ -1423,7 +1641,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 235013,
       "name": "I'm Every Woman - Live from The Concert for a New South Africa",
       "url": "https://open.spotify.com/track/0onkIMPgaJDynd4x2tSpjS"
@@ -1459,7 +1677,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 319333,
       "name": "If Tomorrow Never Comes - Live",
       "url": "https://open.spotify.com/track/1S4KezCGidaJcFqdeh42SI"
@@ -1477,7 +1695,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 164051,
       "name": "ilomilo - Live From The Film - Billie Eilish: The World\u2019s A Little Blurry",
       "url": "https://open.spotify.com/track/4EYiIACD4vGzOmiKYzRdkW"
@@ -1513,7 +1731,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 335280,
       "name": "Invisible Touch - Live From Rome,Italy/2007",
       "url": "https://open.spotify.com/track/1ygrMXJcb4AmvBJK6pXZlt"
@@ -1549,7 +1767,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 303266,
       "name": "It's a Heartache - Live",
       "url": "https://open.spotify.com/track/3P27MyEhhROcnoFnZ9WeGG"
@@ -1567,10 +1785,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241293,
       "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA - June 18, 1988",
       "url": "https://open.spotify.com/track/5poxEW2Xw9UDv4jhHdqGCG"
+    },
+    {
+      "album": {
+        "name": "101",
+        "url": "https://open.spotify.com/album/5BeufSLtuFnIP808stSFjg"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241360,
+      "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA, 18/6/1988",
+      "url": "https://open.spotify.com/track/19dqbkqEgpgUZsh7FXftIs"
     },
     {
       "album": {
@@ -1585,7 +1821,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 267066,
       "name": "Kiss You - Live Version From The Motion Picture \"One Direction: This Is Us\"",
       "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
@@ -1603,7 +1839,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 311027,
       "name": "Land Of Confusion - Live From Helsinki,Finland/2007",
       "url": "https://open.spotify.com/track/79q1innJON7NybaUwagqpv"
@@ -1625,7 +1861,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 486889,
       "name": "Latch - Live From Madison Square Garden",
       "url": "https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ"
@@ -1643,7 +1879,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 273541,
       "name": "Leave a Light on (Live at Indigo at the O2, London, 13/10/2017)",
       "url": "https://open.spotify.com/track/41jjFXH6MJ0taltgtXXsP6"
@@ -1661,7 +1897,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 273541,
       "name": "Leave a Light on (Live at Indigo at the O2, London, 13/10/2017)",
       "url": "https://open.spotify.com/track/4NCZKdCLPo7ZJ9R2xueItL"
@@ -1679,7 +1915,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 266253,
       "name": "Leave a Light On - Live",
       "url": "https://open.spotify.com/track/0GZSiQsxGMGzMXgqGoYu0d"
@@ -1705,7 +1941,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 260269,
       "name": "Leave The Door Open - Live",
       "url": "https://open.spotify.com/track/3XFY3bKOme4E3QhJqHS1Pi"
@@ -1741,7 +1977,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-26",
       "duration_ms": 316192,
       "name": "Let's Get It Started - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",
       "url": "https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno"
@@ -1759,7 +1995,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 433613,
       "name": "Life Is A Rollercoaster - Live",
       "url": "https://open.spotify.com/track/7zuIBCPM49C9pzm5p7R5N2"
@@ -1831,7 +2067,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 374201,
       "name": "Love Is All Around - Live at Live 8, Murrayfield Stadium, Edinburgh, 6th July 2004",
       "url": "https://open.spotify.com/track/5U76VjqWelcbPZ89mpkyqt"
@@ -1853,10 +2089,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 200826,
       "name": "Lucky (feat. Colbie Caillat) - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
       "url": "https://open.spotify.com/track/7FMqPuhsyqfA65Mw0QgU1i"
+    },
+    {
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274200,
+      "name": "Magic - Live",
+      "url": "https://open.spotify.com/track/14d4L1iSXXkgO1jJ8zu9M7"
     },
     {
       "album": {
@@ -1889,7 +2143,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232200,
       "name": "Make You Feel My Love (Live at Hotel Cafe)",
       "url": "https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn"
@@ -1907,7 +2161,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-07-21",
       "duration_ms": 317596,
       "name": "Mama - Live From Istanbul, Turkey / 1997",
       "url": "https://open.spotify.com/track/5VALtlFvT3u0zcn4YqVxWE"
@@ -1943,7 +2197,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 262533,
       "name": "Maps - Live In Manchester",
       "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
@@ -1961,7 +2215,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 213026,
       "name": "ME! - Live From Paris",
       "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
@@ -1979,7 +2233,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 215040,
       "name": "Mercy - Acoustic Version",
       "url": "https://open.spotify.com/track/2j1fnJeu1aGvqbwZBpdrEF"
@@ -1997,7 +2251,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-08-11",
       "duration_ms": 262864,
       "name": "Mercy - Live",
       "url": "https://open.spotify.com/track/4Q52hekxZoN7n4NO94IAJW"
@@ -2015,7 +2269,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-24",
       "duration_ms": 299573,
       "name": "Moves Like Jagger - Live In Manchester",
       "url": "https://open.spotify.com/track/6EvFLeZ3aUYoagV6K92cqq"
@@ -2033,7 +2287,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-29",
       "duration_ms": 299573,
       "name": "Moves Like Jagger - Live In Manchester",
       "url": "https://open.spotify.com/track/7cRALp7nd7xwj75UAHx8Sr"
@@ -2051,10 +2305,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 226226,
       "name": "My Love Is Your Love - Live from Late Show with David Letterman",
       "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
+    },
+    {
+      "album": {
+        "name": "BADLANDS (Live From Webster Hall)",
+        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199829,
+      "name": "New Americana - Live From Webster Hall",
+      "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
     },
     {
       "album": {
@@ -2087,7 +2359,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 369973,
       "name": "No One - Live at Metropolis Studios, New York, NY - May 2013",
       "url": "https://open.spotify.com/track/0BleHROB2SxV7jv9dOQr7J"
@@ -2105,7 +2377,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 233416,
       "name": "no tears left to cry - live",
       "url": "https://open.spotify.com/track/32VSdGCv8wkAjUkVha9YBf"
@@ -2141,7 +2413,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2022-08-19",
       "duration_ms": 195967,
       "name": "Parting Glass - Live at Wembley Stadium",
       "url": "https://open.spotify.com/track/74sKqdbIzz8Q5k1uFGQIW7"
@@ -2159,10 +2431,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 420791,
       "name": "Party In The USA - Live",
       "url": "https://open.spotify.com/track/5awub9b8qfJEAhJXhkiWez"
+    },
+    {
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 283240,
+      "name": "Physical - Live",
+      "url": "https://open.spotify.com/track/2yT82AafNlbpU7EAZkMQbw"
     },
     {
       "album": {
@@ -2213,7 +2503,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-08-10",
       "duration_ms": 197996,
       "name": "Roman Holiday - Live From Webster Hall",
       "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
@@ -2249,7 +2539,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-28",
       "duration_ms": 365463,
       "name": "Say What You Want - Live at Live 8, Murrayfield Stadium, Edinburgh, 6th July 2004",
       "url": "https://open.spotify.com/track/7ADkVByaUB0j5xC9tC0HkZ"
@@ -2303,7 +2593,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 340880,
       "name": "She Wolf - El Dorado World Tour Live",
       "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
@@ -2339,7 +2629,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 319401,
       "name": "Sing - Live and in Session",
       "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
@@ -2357,7 +2647,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": "2022-07-21",
       "duration_ms": 266461,
       "name": "Sisters Are Doin' It for Themselves - Live at Live 8, Hyde Park, London, 2nd July 2005",
       "url": "https://open.spotify.com/track/1Z8ebfG3iPccjrgeqV9G8h"
@@ -2375,7 +2665,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221694,
       "name": "Slave to Love - Live at Live Aid, Wembley Stadium, 13th July 1985",
       "url": "https://open.spotify.com/track/12tg7YyxM5PWXz66U2kyrU"
@@ -2411,7 +2701,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 319226,
       "name": "Slow Dancing in a Burning Room - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/4OT8GH9u9Gx7ydJ49ULunN"
@@ -2429,10 +2719,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256800,
       "name": "Smooth Operator - Live",
       "url": "https://open.spotify.com/track/1ztxPjZDC6K616WTPMzsaz"
+    },
+    {
+      "album": {
+        "name": "Lovers Live",
+        "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256800,
+      "name": "Smooth Operator - Live",
+      "url": "https://open.spotify.com/track/5nHNgVNXzsZLLBz29tfjkB"
     },
     {
       "album": {
@@ -2447,7 +2755,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 303200,
       "name": "Sorry - Live",
       "url": "https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1"
@@ -2501,7 +2809,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-09-26",
       "duration_ms": 374506,
       "name": "Stronger - Live",
       "url": "https://open.spotify.com/track/5V858ZgvMgpdHJdmeeWJs4"
@@ -2519,7 +2827,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 260373,
       "name": "Stuck On You - Live",
       "url": "https://open.spotify.com/track/5ZWJNYYqwDMpO2NuEwFAKd"
@@ -2545,7 +2853,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228333,
       "name": "Sweet Dreams (Are Made Of This) - Live",
       "url": "https://open.spotify.com/track/6Ee0yGNdvKIqOcq6ua5zwz"
@@ -2567,6 +2875,24 @@
       "duration_ms": 265520,
       "name": "Take A Chance On Me - Live",
       "url": "https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions London",
+        "url": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246493,
+      "name": "Take Me to Church - Live From Spotify London",
+      "url": "https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi"
     },
     {
       "album": {
@@ -2617,7 +2943,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 342586,
       "name": "Take On Me - Live",
       "url": "https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5"
@@ -2635,7 +2961,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-21",
       "duration_ms": 291515,
       "name": "Take Your Mama - Live at Live 8, Hyde Park, London, 2nd July 2005",
       "url": "https://open.spotify.com/track/7igDjypA2A9moTbMPzB54A"
@@ -2653,7 +2979,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 389728,
       "name": "thank u, next - live",
       "url": "https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ"
@@ -2671,7 +2997,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 248394,
       "name": "The A Team - Live and in Session",
       "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
@@ -2696,6 +3022,24 @@
     },
     {
       "album": {
+        "name": "The Man (Live From Paris)",
+        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219385,
+      "name": "The Man - Live From Paris",
+      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
+    },
+    {
+      "album": {
         "name": "#3 Deluxe Version",
         "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
@@ -2707,7 +3051,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 295613,
       "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
       "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
@@ -2725,7 +3069,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 285466,
       "name": "The Power Of Love - Live \u00e0 Paris",
       "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
@@ -2743,7 +3087,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-10-01",
       "duration_ms": 256740,
       "name": "Treat You Better - Live",
       "url": "https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si"
@@ -2761,7 +3105,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 358546,
       "name": "True - Live from the N.E.C.",
       "url": "https://open.spotify.com/track/0B8dJbFyc2SZgiolBwNQsM"
@@ -2779,7 +3123,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 363613,
       "name": "Up Where We Belong - Live",
       "url": "https://open.spotify.com/track/0FpkKD9MzzOmYPUB15S4lz"
@@ -2887,7 +3231,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 314733,
       "name": "West End Girls - Live at the O2 Arena, London - 21 December 2009",
       "url": "https://open.spotify.com/track/4nKfwUyunCQQEp0ljZ2H0I"
@@ -2905,7 +3249,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219240,
       "name": "What's Love Got to Do with It - Live in Arnhem",
       "url": "https://open.spotify.com/track/5s0b3c1FUhcXkqn2r6Lqm5"
@@ -2923,7 +3267,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256240,
       "name": "When A Man Loves A Woman - Bolton Live! Royal Albert Hall, London",
       "url": "https://open.spotify.com/track/1NaVUGFvEIRDODWvkMNb6e"
@@ -2977,7 +3321,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229360,
       "name": "Wisemen - Live in Ireland",
       "url": "https://open.spotify.com/track/7Juq8RQj5P0cexLR6NsFOk"
@@ -3021,6 +3365,24 @@
       "duration_ms": 313036,
       "name": "Wrecking Ball X Nothing Compares 2 U - Live",
       "url": "https://open.spotify.com/track/5ZhDyMdMJrcbkpHcOaGsmn"
+    },
+    {
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 210480,
+      "name": "Xanadu - Live",
+      "url": "https://open.spotify.com/track/3j32B9KLYeELoCvvyhVunF"
     },
     {
       "album": {
@@ -3089,7 +3451,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 203960,
       "name": "You Need To Calm Down - Live From Paris",
       "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
@@ -3132,6 +3494,24 @@
     },
     {
       "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231493,
+      "name": "You're The One That I Want - Live",
+      "url": "https://open.spotify.com/track/7vCqjFCrn2070QxxM8G7V4"
+    },
+    {
+      "album": {
         "name": "Live Aid (Live, 13th July 1985)",
         "url": "https://open.spotify.com/album/5Ke7S3qdSjC6on0xfVkAss"
       },
@@ -3143,7 +3523,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 280743,
       "name": "Your Love Is King - Live at Live Aid, Wembley Stadium, 13th July 1985",
       "url": "https://open.spotify.com/track/0jkicPAjQnmOb9kKH9rmzP"

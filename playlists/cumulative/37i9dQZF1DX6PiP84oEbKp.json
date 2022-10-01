@@ -121,10 +121,28 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183653,
       "name": "Boy Or Girl Colour",
       "url": "https://open.spotify.com/track/2P65xZN3MzNxxMBoKJEIye"
+    },
+    {
+      "album": {
+        "name": "Helpful Songs for Little People",
+        "url": "https://open.spotify.com/album/7jOW68jFVaqKI68MI0esza"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183653,
+      "name": "Boy or Girl Colour",
+      "url": "https://open.spotify.com/track/4t0917UONxsUhyiQvjIeEE"
     },
     {
       "album": {
@@ -555,6 +573,24 @@
     {
       "album": {
         "name": "You Could Draw the Album Art!",
+        "url": "https://open.spotify.com/album/6JCPj80o5nfJcHvn4wdvyw"
+      },
+      "artists": [
+        {
+          "name": "Ants on a Log",
+          "url": "https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76933,
+      "name": "Some Girls Have Short Hair",
+      "url": "https://open.spotify.com/track/0uaEO7D5FuGAOj8GeWGLFp"
+    },
+    {
+      "album": {
+        "name": "You Could Draw the Album Art!",
         "url": "https://open.spotify.com/album/6fAkgy3mHYCHSIuLqacj82"
       },
       "artists": [
@@ -565,7 +601,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 76933,
       "name": "Some Girls Have Short Hair",
       "url": "https://open.spotify.com/track/1n9inNjAfarRPFsSw3ErCm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,748 likes - 68 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,831 likes - 68 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 16 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2JPjsCvn379yvhrQ3Mdlfv) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 5:15 |
 | 17 | [Ding Dong Merrily On High](https://open.spotify.com/track/51VCb04kTqUOziuk2kviK5) | [Michiko Mullins](https://open.spotify.com/artist/0kZcnLHQCIufaWOKpac6ZG) | [Light The Candles](https://open.spotify.com/album/1iAiCpBrkkToAoC7CU1Ed9) | 2:03 |
 | 18 | [Seven Joys Of Mary](https://open.spotify.com/track/6O289GwYiOa3i3AKU0EQwW) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:24 |
-| 19 | [Away In a Manger](https://open.spotify.com/track/2YC7fbZ4bjW4Qz9AKq3Vnk) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [Away In a Manger](https://open.spotify.com/album/0mFZZGJ78iYuhRxqGAZsUL) | 3:30 |
+| 19 | [Away in a Manger](https://open.spotify.com/track/3RJt5eBJWOoK75KbPgbSoY) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [Away in a Manger](https://open.spotify.com/album/4YRAwgogHUJ5PHPDqKd9Iy) | 3:30 |
 | 20 | [The Christmas Waltz](https://open.spotify.com/track/1mo1GHuFkrf5HbmsIAFE9A) | [Wolfgang Hesse](https://open.spotify.com/artist/0DA4ip8spL0eleah5T7Xoz) | [Wolfgang Hesse](https://open.spotify.com/album/7LQuSNfNniF4uHmJxC1ruS) | 3:00 |
 | 21 | [Sussex Carol](https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:25 |
 | 22 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/35gC0HgthUIWZKj2gtLLD2) | [Eden Parks](https://open.spotify.com/artist/4s4Bb2TBJLW89tZOV5pz8G) | [Advent](https://open.spotify.com/album/2Jxr4H0uHLKyfTcJT0fRvK) | 3:20 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 25 | [What Child Is This \(arr\. piano\)](https://open.spotify.com/track/3LTwW4H05C3VeuxxQr4mh6) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [What Child Is This? \(arr\. Piano\) / The Christmas Song \(arr\. Piano\)](https://open.spotify.com/album/3ENsfMFIOKEoW5VOMo8NCl) | 2:52 |
 | 26 | [Please Come Home for Christmas](https://open.spotify.com/track/53ke8sTyEWjVjiBoE8kbkS) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 3:34 |
 | 27 | [Deck The Halls](https://open.spotify.com/track/6tSvntSFjdODPTKX8G3FEi) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Christmas Lullabies](https://open.spotify.com/album/3RUWlYDyNsSqVAka080J39) | 1:23 |
-| 28 | [To Us Is Given](https://open.spotify.com/track/33hWpBOw3qZwyT9sE6OV6B) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/5T2hscHPXLF86mRk8VjumS) | 3:32 |
+| 28 | [To Us Is Given](https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9) | 3:32 |
 | 29 | [As With Gladness Men Of Old](https://open.spotify.com/track/2siSp0ase32wv1pzn71Guo) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 2:24 |
 | 30 | [All I Want for Christmas Is You](https://open.spotify.com/track/44UxMZm026GEwmv3kLwJO8) | [Carina Sanches Fajardo](https://open.spotify.com/artist/2vkFC7073df7wWAdbdKZHe) | [All I Want for Christmas Is You](https://open.spotify.com/album/0DbmJx7EbFtHvX7DVnpwTJ) | 3:36 |
 | 31 | [Where Are You Christmas](https://open.spotify.com/track/04Fl4gn9cyoDvQeHOBHBvW) | [Ahron Kupner](https://open.spotify.com/artist/4tnxMzWhSfJZz0M37uFkIo) | [Where Are You Christmas](https://open.spotify.com/album/3qMN27V0Wr8ahOp6fkMa4U) | 4:19 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 67 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/0wPujtWCbSrEy5eylY7SAn) | [Kevin Duncan](https://open.spotify.com/artist/2Kg6QagAYT2ttYNxWnlADj) | [Christmas at the Piano](https://open.spotify.com/album/3YrqmcMeScUTkGq0wGT5IE) | 2:38 |
 | 68 | [Star Of The East](https://open.spotify.com/track/4TYn4M3KJyug0LjSgSuTIe) | [Lillith Love](https://open.spotify.com/artist/5HzezX7WHyXZ7pDUCgb3ZU) | [Where Are You, Christmas?](https://open.spotify.com/album/4es25LjvggwFaLP3ZDvb60) | 1:54 |
 
-Snapshot ID: `MTY1NjY4MTk5MywwMDAwMDA1ZjAwMDAwMTgxYjlmMTE0MjUwMDAwMDE3Y2M3OTQ3Njgz`
+Snapshot ID: `MTY1NjY4MTk5MywwMDAwMDAwMDkzZmFmYjRlYzE4MTNjYjYwM2U3YmEwYzMxNGI4NWE0`

@@ -4,7 +4,7 @@
 
 > everyone has left and it's just you and your love dancing in the living room
 
-122 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/08aK71TJp2LJgwdm9FvJgw)
+124 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/08aK71TJp2LJgwdm9FvJgw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [It Had To Be You](https://open.spotify.com/track/7bovsmBZdn12ZjvVCH7WIy) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Easy Does It](https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR) | 3:39 | 2022-02-17 |  |
 | [It's So Peaceful In The Country](https://open.spotify.com/track/6f3l2qKZV3adliVZjsBgn3) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [The Rockin' Chair Lady](https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC) | 3:16 | 2022-02-17 |  |
 | [Jim](https://open.spotify.com/track/1cxBehMLI8smC0EAx0I0Ut) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 5:54 | 2022-02-17 |  |
-| [Lazy](https://open.spotify.com/track/6NFdXjbL4KX7gVT6xINF3P) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [Deluxe: I Wanna Be Loved By You](https://open.spotify.com/album/0SH5DsuoVpQfEULF6NGFsa) | 3:33 | 2022-02-17 |  |
+| [Lazy](https://open.spotify.com/track/6NFdXjbL4KX7gVT6xINF3P) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [Deluxe: I Wanna Be Loved By You](https://open.spotify.com/album/0SH5DsuoVpQfEULF6NGFsa) | 3:33 | 2022-02-17 | 2022-07-29 |
+| [Lazy](https://open.spotify.com/track/6zgmftTQSNQPuU0UI98UVD) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [The Very Best Of Marilyn Monroe](https://open.spotify.com/album/3F8TaBY2U0Vy6VBqBfNjdz) | 3:38 | 2022-06-17 |  |
 | [Like Someone In Love](https://open.spotify.com/track/1HvJHT7HO6l8fvZ7AFd6SV) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Whisper For You](https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7) | 4:30 | 2022-02-17 |  |
 | [Love For Sale](https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 3:51 | 2022-06-02 |  |
 | [Lover Man \(Oh Where Can You Be\)](https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:46 | 2022-02-17 |  |
@@ -122,7 +123,8 @@
 | [Try Your Wings](https://open.spotify.com/track/4ILOGFnSMDzbtn0zXMCFwW) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Whisper For You](https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7) | 3:23 | 2022-02-17 |  |
 | [Two Sleepy People](https://open.spotify.com/track/6Q1VnirK7zQeJs37siT92V) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 2:50 | 2022-06-17 |  |
 | [What a Difference a Day Makes](https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Winners](https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr) | 3:36 | 2022-06-02 |  |
-| [What Is There To Say](https://open.spotify.com/track/0WD1FrPUZVXk3S3QeTvhKl) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Complete Gus Wildi Recordings](https://open.spotify.com/album/3mglYkqFkapisfgT6NXNxH) | 2:50 | 2022-02-17 |  |
+| [What Is There to Say](https://open.spotify.com/track/5iOc7ArRS1yRIbwkHAZYne) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:49 | 2022-06-17 |  |
+| [What Is There To Say](https://open.spotify.com/track/0WD1FrPUZVXk3S3QeTvhKl) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Complete Gus Wildi Recordings](https://open.spotify.com/album/3mglYkqFkapisfgT6NXNxH) | 2:50 | 2022-02-17 | 2022-07-29 |
 | [What's New](https://open.spotify.com/track/6iUmixPxVD6SacLhATYace) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:01 | 2022-02-17 |  |
 | [When Sunny Gets Blue \- Remastered](https://open.spotify.com/track/3T4bj6wgXWe5K6vKp3JbLl) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Guess Who I Saw Today: Nancy Wilson Sings Of Lost Love](https://open.spotify.com/album/7fGdb78uJ9pBSj65kTXDBz) | 2:58 | 2022-02-17 |  |
 | [Willow Weep For Me](https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:06 | 2022-02-17 |  |

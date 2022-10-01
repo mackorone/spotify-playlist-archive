@@ -80,6 +80,64 @@
     },
     {
       "album": {
+        "name": "Eternal Tragedy",
+        "url": "https://open.spotify.com/album/19OBmkcKc23HOAsFlFEXfP"
+      },
+      "artists": [
+        {
+          "name": "Aki Hata",
+          "url": "https://open.spotify.com/artist/2BcuB8z8yMBCNCm1WnTke7"
+        },
+        {
+          "name": "SHIROU-TSUKIHIKO",
+          "url": "https://open.spotify.com/artist/4n1KlS8mTIqsBCFImc5fvb"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333146,
+      "name": "Eternal Tragedy",
+      "url": "https://open.spotify.com/track/3pDJKWyX0dCRnbv1wktSqu"
+    },
+    {
+      "album": {
+        "name": "Flying underwater - KAIKO Garden Vol.03 -",
+        "url": "https://open.spotify.com/album/50rtMfiW00oAFOREkPNaux"
+      },
+      "artists": [
+        {
+          "name": "Aki Hata",
+          "url": "https://open.spotify.com/artist/2BcuB8z8yMBCNCm1WnTke7"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210742,
+      "name": "Flying underwater",
+      "url": "https://open.spotify.com/track/5MYFcGMjfYCrqsgw7nZcHr"
+    },
+    {
+      "album": {
+        "name": "sphere",
+        "url": "https://open.spotify.com/album/3JCMIhHXXqsrRnNPGFfWNU"
+      },
+      "artists": [
+        {
+          "name": "Sphere",
+          "url": "https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260546,
+      "name": "Future Stream",
+      "url": "https://open.spotify.com/track/6UdqfaKd83bFRoTi6EVhPL"
+    },
+    {
+      "album": {
         "name": "Future Stream",
         "url": "https://open.spotify.com/album/2oPq8FUYfqFdjsJ295oc5T"
       },
@@ -91,7 +149,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262520,
       "name": "Future Stream",
       "url": "https://open.spotify.com/track/7qpd7gpBM11o7fRSmJ1i4y"
@@ -206,6 +264,24 @@
     },
     {
       "album": {
+        "name": "Name of the mirror - KAIKO Garden Vol.05 -",
+        "url": "https://open.spotify.com/album/4uakqrl9w5wVfDBWbCth4f"
+      },
+      "artists": [
+        {
+          "name": "Aki Hata",
+          "url": "https://open.spotify.com/artist/2BcuB8z8yMBCNCm1WnTke7"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212415,
+      "name": "See you on Brown Street",
+      "url": "https://open.spotify.com/track/3dmTVfo6kIZIREDhc6ATiq"
+    },
+    {
+      "album": {
         "name": "\u03bc's Complete BEST BOX (Chapter.08)",
         "url": "https://open.spotify.com/album/0QSPYBVhpK1CgN0kFKPqEb"
       },
@@ -271,10 +347,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266373,
       "name": "Super Noisy Nova",
       "url": "https://open.spotify.com/track/5bGen5PODN5GNE8TmkFF27"
+    },
+    {
+      "album": {
+        "name": "sphere",
+        "url": "https://open.spotify.com/album/3JCMIhHXXqsrRnNPGFfWNU"
+      },
+      "artists": [
+        {
+          "name": "Sphere",
+          "url": "https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266546,
+      "name": "Super Noisy Nova",
+      "url": "https://open.spotify.com/track/07LDwVVQNX4pkwrnC01zL9"
     },
     {
       "album": {
@@ -327,10 +421,48 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211960,
       "name": "\u3059\u30fc\u3071\u30fc\u2606\u3042\u3075\u3047\u304f\u3057\u3087\u3093",
       "url": "https://open.spotify.com/track/2CiHVrvqFtoySSKNJ96ttF"
+    },
+    {
+      "album": {
+        "name": "\u3059\u30fc\u3071\u30fc\u2606\u3042\u3075\u3047\u304f\u3057\u3087\u3093",
+        "url": "https://open.spotify.com/album/1aS3QRVZ9o88S4sO1xS6bw"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u6797\u307f\u306a\u5b9f",
+          "url": "https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz"
+        },
+        {
+          "name": "Miyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/7CvaCbO8PdEISO5PuVzp3u"
+        },
+        {
+          "name": "Faylan",
+          "url": "https://open.spotify.com/artist/2yGZV8ZFKaoOxtvL4aUAIO"
+        },
+        {
+          "name": "\u7f8e\u90f7\u3042\u304d",
+          "url": "https://open.spotify.com/artist/4qEleN0MdPvcOOyiOqRBjy"
+        },
+        {
+          "name": "yozuca*",
+          "url": "https://open.spotify.com/artist/4VjL4soNJonIpplG1GOCvh"
+        },
+        {
+          "name": "rino",
+          "url": "https://open.spotify.com/artist/62EyAYQ2AnBGw5BSWe48dW"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211960,
+      "name": "\u3059\u30fc\u3071\u30fc\u2606\u3042\u3075\u3047\u304f\u3057\u3087\u3093",
+      "url": "https://open.spotify.com/track/320unxHvAM7fZWXGC1ecEg"
     },
     {
       "album": {
@@ -381,10 +513,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247706,
       "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30cf\u30c3\u30d4\u30fc",
       "url": "https://open.spotify.com/track/3jPCPEwTmiQT97V247njPu"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
+        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
+      },
+      "artists": [
+        {
+          "name": "\u308f\u304b\u30fb\u3075\u3046\u308a\u30fb\u3059\u306a\u304a from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/0xzkx0ukfziouCZGRJ54Tx"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248253,
+      "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30cf\u30c3\u30d4\u30fc",
+      "url": "https://open.spotify.com/track/3mqrEi3pYXH9YqO0AHr2fn"
     },
     {
       "album": {
@@ -425,7 +575,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212415,
       "name": "\u30d6\u30e9\u30a6\u30f3\u901a\u308a\u3067\u5f85\u3063\u3066\u307e\u3059",
       "url": "https://open.spotify.com/track/1EFbe8ZhODX4dzYiA1pBqj"
@@ -540,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Sincerely",
+        "url": "https://open.spotify.com/album/2BKu5vTHvDmpXf4iN1v0R1"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u90f7\u3042\u304d",
+          "url": "https://open.spotify.com/artist/4qEleN0MdPvcOOyiOqRBjy"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274226,
+      "name": "\u541b\u304c\u7a7a\u3060\u3063\u305f",
+      "url": "https://open.spotify.com/track/6bg06pwmfEEkmaBvdVd5Oq"
+    },
+    {
+      "album": {
         "name": "\u541b\u304c\u7a7a\u3060\u3063\u305f",
         "url": "https://open.spotify.com/album/7vOQOuquDPta18B4L4gM9g"
       },
@@ -551,10 +719,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275906,
       "name": "\u541b\u304c\u7a7a\u3060\u3063\u305f",
       "url": "https://open.spotify.com/track/5voDYmclvvv2JlUEsucJQz"
+    },
+    {
+      "album": {
+        "name": "\u541b\u306b\u30eb\u30e0\u30a6\u30e0",
+        "url": "https://open.spotify.com/album/3cJMk0NmanyEf2bFn5bHxq"
+      },
+      "artists": [
+        {
+          "name": "\u71e6\u9ce5\u30ce\u30e0",
+          "url": "https://open.spotify.com/artist/47dWUegQfMWoEuh9lLfIhi"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201911,
+      "name": "\u541b\u306b\u30eb\u30e0\u30a6\u30e0",
+      "url": "https://open.spotify.com/track/1Ed3Or8b2EYNzW07i8pZL8"
     },
     {
       "album": {
@@ -569,7 +755,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201911,
       "name": "\u541b\u306b\u30eb\u30e0\u30a6\u30e0",
       "url": "https://open.spotify.com/track/2MstFZHU6vlFT1XXepJK1g"
@@ -713,7 +899,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210742,
       "name": "\u6c34\u4e2d\u98db\u884c",
       "url": "https://open.spotify.com/track/2OytQYY4XxAspxnMf22AOK"
@@ -735,7 +921,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 333146,
       "name": "\u6c38\u9060\u7121\u60e8",
       "url": "https://open.spotify.com/track/3MWMvlodomBHhf4Z0XXHnU"
@@ -833,7 +1019,7 @@
     {
       "album": {
         "name": "\u873f\u8712 on and on and",
-        "url": "https://open.spotify.com/album/72nNEQncy3ZQgoyltEsBha"
+        "url": "https://open.spotify.com/album/5tCDKOjAmQHBbXBY0ULfP2"
       },
       "artists": [
         {
@@ -844,6 +1030,24 @@
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 300506,
+      "name": "\u873f\u8712 on and on and",
+      "url": "https://open.spotify.com/track/2HLPuvybdx0NHKGTzRZHce"
+    },
+    {
+      "album": {
+        "name": "\u873f\u8712 on and on and",
+        "url": "https://open.spotify.com/album/72nNEQncy3ZQgoyltEsBha"
+      },
+      "artists": [
+        {
+          "name": "Aki Hata",
+          "url": "https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 300506,
       "name": "\u873f\u8712 on and on and",
       "url": "https://open.spotify.com/track/2nKOj62YYsOMtVHmz1Somg"

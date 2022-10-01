@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/52JrW4dL2mDe1Dneq0vH1I.md) - [plain]
 
 > Missa inte Rodriguez på Flamingo\-scenen på FREDAG / 15.00
 
-[Spotify](https://open.spotify.com/user/spotify) - 37 likes - 10 songs - 36 min 21 sec
+[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 10 songs - 36 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

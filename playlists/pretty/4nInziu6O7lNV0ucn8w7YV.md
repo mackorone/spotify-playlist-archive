@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nInziu6O7lNV0ucn8w7YV.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 822 likes - 147 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 821 likes - 147 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/4nInziu6O7lNV0ucn8w7YV.md) - [plain]
 | 69 | [Beg for Broken Legs](https://open.spotify.com/track/0lztt0DNz7dMgQgjyX9RdB) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Tomorrowland](https://open.spotify.com/album/6CLQcABwkoZVV3NeYZQ8De) | 4:24 |
 | 70 | [Belly Belly Nice](https://open.spotify.com/track/4aY4LmsgKlxzFOAxBgXrP2) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Away From The World \(Expanded Edition\)](https://open.spotify.com/album/04BQ4QR7qPqhoFjJJVaGwn) | 3:53 |
 | 71 | [Pontoon](https://open.spotify.com/track/2pnmi9VUgtiEnP1iAi2xfx) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pontoon](https://open.spotify.com/album/2KUJPVmfzU7kuO2i1Pnv5d) | 3:34 |
-| 72 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It](https://open.spotify.com/album/5hf74KpfuwSJXVs85k3dVI) | 2:35 |
+| 72 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/album/5hf74KpfuwSJXVs85k3dVI) | 2:35 |
 | 73 | [Blue](https://open.spotify.com/track/00wRLONfS2OOn3Jd8RwoIo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/4l74hbWS9uJmGe4npUbsR5) | 3:12 |
 | 74 | [Mercy.1](https://open.spotify.com/track/3r1UjRriw7QrVGllTK9UdA) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Kanye West Presents Good Music Cruel Summer](https://open.spotify.com/album/4mRsD4Nprcd0l50Z9sgjLc) | 5:26 |
 | 75 | [Youth In Trouble](https://open.spotify.com/track/1Nj1Zvj3NUYHsCgfWcJnho) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX) | [Pacifica](https://open.spotify.com/album/4Oi8N1LSurN9LGnD8NJrjK) | 6:19 |

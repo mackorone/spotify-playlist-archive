@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Lower East Side",
+        "url": "https://open.spotify.com/album/3Ri754L0sioGyPUkRONKFl"
+      },
+      "artists": [
+        {
+          "name": "Warzone",
+          "url": "https://open.spotify.com/artist/7cvibKo9n0RsgKaW4p4RVO"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135813,
+      "name": "Always - A Friend For Life",
+      "url": "https://open.spotify.com/track/4eKXxBigaMftkFQQphl1eO"
+    },
+    {
+      "album": {
         "name": "The Victory Years",
         "url": "https://open.spotify.com/album/0k2JyzHuoT8gyidouFzMhj"
       },
@@ -19,10 +37,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 135093,
       "name": "Always a Friend for Life",
       "url": "https://open.spotify.com/track/07jyJOIEqrz3sYofOLZBs5"
+    },
+    {
+      "album": {
+        "name": "Death Knows Your Name",
+        "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
+      },
+      "artists": [
+        {
+          "name": "The Hope Conspiracy",
+          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220413,
+      "name": "Animal Farm",
+      "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
     },
     {
       "album": {
@@ -37,7 +73,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220413,
       "name": "Animal Farm",
       "url": "https://open.spotify.com/track/7z6t9FzbkML9y9iIxqqldr"
@@ -55,7 +91,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 108279,
       "name": "Blindfold",
       "url": "https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq"
@@ -73,10 +109,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147186,
       "name": "Blistered",
       "url": "https://open.spotify.com/track/0qFcZFSH5P6gT5FnPvCQ7X"
+    },
+    {
+      "album": {
+        "name": "In This Defiance",
+        "url": "https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH"
+      },
+      "artists": [
+        {
+          "name": "Strife",
+          "url": "https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147186,
+      "name": "Blistered",
+      "url": "https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn"
     },
     {
       "album": {
@@ -109,7 +163,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 124373,
       "name": "Break Down the Walls",
       "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
@@ -135,6 +189,24 @@
     {
       "album": {
         "name": "For Those Who Were Crucified",
+        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
+      },
+      "artists": [
+        {
+          "name": "All Out War",
+          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116173,
+      "name": "Burning Season",
+      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
+    },
+    {
+      "album": {
+        "name": "For Those Who Were Crucified",
         "url": "https://open.spotify.com/album/14szCHGSO6q7uVAwG13krS"
       },
       "artists": [
@@ -145,7 +217,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-29",
       "duration_ms": 116173,
       "name": "Burning Season",
       "url": "https://open.spotify.com/track/5wWmLdIYzxdh3mlkHwBVog"
@@ -163,10 +235,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153586,
       "name": "Caboose",
       "url": "https://open.spotify.com/track/4XetuNNt2wx5lkZGS4L5r5"
+    },
+    {
+      "album": {
+        "name": "Progression Through Unlearning",
+        "url": "https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu"
+      },
+      "artists": [
+        {
+          "name": "Snapcase",
+          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153586,
+      "name": "Caboose",
+      "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
     },
     {
       "album": {
@@ -199,7 +289,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-29",
       "duration_ms": 155693,
       "name": "Chain Letter",
       "url": "https://open.spotify.com/track/7lF14EmytH8hkPGRX8Iu8Z"
@@ -217,10 +307,46 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203440,
       "name": "Chasing the Dragon",
       "url": "https://open.spotify.com/track/2NaSdkhNfzrCFd0p5vKspk"
+    },
+    {
+      "album": {
+        "name": "Everything You Know",
+        "url": "https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx"
+      },
+      "artists": [
+        {
+          "name": "Wisdom In Chains",
+          "url": "https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "Chasing the Dragon",
+      "url": "https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy"
+    },
+    {
+      "album": {
+        "name": "Set Your Goals",
+        "url": "https://open.spotify.com/album/5iQwtthhrBr9UIPD717vda"
+      },
+      "artists": [
+        {
+          "name": "CIV",
+          "url": "https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 148880,
+      "name": "Choices Made",
+      "url": "https://open.spotify.com/track/0r4jDnFTGZCwXiUiiPx7WL"
     },
     {
       "album": {
@@ -235,7 +361,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 148880,
       "name": "Choices Made",
       "url": "https://open.spotify.com/track/6RwlqbbXVy8DjRmTgxxRx5"
@@ -325,7 +451,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 172426,
       "name": "Few and Far Between",
       "url": "https://open.spotify.com/track/3DNCnnOLmDRtm3WHId4Gib"
@@ -343,10 +469,46 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231600,
       "name": "Firestorm",
       "url": "https://open.spotify.com/track/3JqjchQJTcGGcFKG7z91TV"
+    },
+    {
+      "album": {
+        "name": "Forever True (1991-2001)",
+        "url": "https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231600,
+      "name": "Firestorm",
+      "url": "https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M"
+    },
+    {
+      "album": {
+        "name": "Warriors (Tour Edition)",
+        "url": "https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP"
+      },
+      "artists": [
+        {
+          "name": "Agnostic Front",
+          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142586,
+      "name": "For My Family",
+      "url": "https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi"
     },
     {
       "album": {
@@ -361,7 +523,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142586,
       "name": "For My Family",
       "url": "https://open.spotify.com/track/7Dj01umonxmUOIHKdusZi7"
@@ -379,7 +541,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-07-29",
       "duration_ms": 166190,
       "name": "Get It Away",
       "url": "https://open.spotify.com/track/4G3XY6LeHc54ZEmHw5qNWE"
@@ -415,10 +577,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 78099,
       "name": "Glue",
       "url": "https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp"
+    },
+    {
+      "album": {
+        "name": "Gomorrah's Season Ends",
+        "url": "https://open.spotify.com/album/05mqPyEEjTfvM3TDWkt11k"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-27",
+      "duration_ms": 209160,
+      "name": "Gomorrah's Season Ends",
+      "url": "https://open.spotify.com/track/3FUkmuhMgkxwvYuV8lvGwU"
     },
     {
       "album": {
@@ -433,7 +613,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209160,
       "name": "Gomorrah's Season Ends",
       "url": "https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v"
@@ -469,10 +649,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 146813,
       "name": "Gravity Wins Again",
       "url": "https://open.spotify.com/track/6BtPf07BVx4QNWvopvOyW6"
+    },
+    {
+      "album": {
+        "name": "Hail Destroyer",
+        "url": "https://open.spotify.com/album/4zR3343ue909iFnr6odhK3"
+      },
+      "artists": [
+        {
+          "name": "Cancer Bats",
+          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "Hail Destroyer",
+      "url": "https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II"
     },
     {
       "album": {
@@ -487,7 +685,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196680,
       "name": "Hail Destroyer",
       "url": "https://open.spotify.com/track/6ltuf6egc9J496H2JyvSq7"
@@ -559,7 +757,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-07-29",
       "duration_ms": 217506,
       "name": "In The Blood",
       "url": "https://open.spotify.com/track/1xeq7bGqYQr89IH2dUwnJf"
@@ -613,7 +811,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 238333,
       "name": "Let's Pretend",
       "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
@@ -639,7 +837,7 @@
     {
       "album": {
         "name": "Cognicide",
-        "url": "https://open.spotify.com/album/0ntgF7tlzWN25NCm7gClry"
+        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
       },
       "artists": [
         {
@@ -650,6 +848,24 @@
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 97266,
+      "name": "Mailer, Meet Jim",
+      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
+    },
+    {
+      "album": {
+        "name": "Cognicide",
+        "url": "https://open.spotify.com/album/0ntgF7tlzWN25NCm7gClry"
+      },
+      "artists": [
+        {
+          "name": "Western Addiction",
+          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 97266,
       "name": "Mailer, Meet Jim",
       "url": "https://open.spotify.com/track/0m0u9JlTnOUm4RdHWV8L73"
@@ -721,7 +937,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 125746,
       "name": "Over the Years",
       "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
@@ -793,7 +1009,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": "2022-07-25",
       "duration_ms": 159066,
       "name": "Ransom Note",
       "url": "https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ"
@@ -811,10 +1027,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 114680,
       "name": "River Runs Red",
       "url": "https://open.spotify.com/track/0j9sdD1cyPToHd3bkhuMG4"
+    },
+    {
+      "album": {
+        "name": "The Wounds That Never Heal",
+        "url": "https://open.spotify.com/album/1ThgJjKDqz4c91Ete5sZKf"
+      },
+      "artists": [
+        {
+          "name": "Stigmata",
+          "url": "https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263013,
+      "name": "Save Us",
+      "url": "https://open.spotify.com/track/2GCFX4cNARwJkNEG6NqnoM"
     },
     {
       "album": {
@@ -829,7 +1063,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263013,
       "name": "Save Us",
       "url": "https://open.spotify.com/track/4wFOby3D08M6keJ3FH6roi"
@@ -847,10 +1081,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165720,
       "name": "Scratch The Surface",
       "url": "https://open.spotify.com/track/6ukEuZo9JvnltTgSqnnAVp"
+    },
+    {
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165720,
+      "name": "Scratch the Surface",
+      "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
     },
     {
       "album": {
@@ -883,10 +1135,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 220453,
       "name": "Shark Ethic",
       "url": "https://open.spotify.com/track/5o4ZaZnfWGRr7GWXU4LsXm"
+    },
+    {
+      "album": {
+        "name": "Merciless",
+        "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
+      },
+      "artists": [
+        {
+          "name": "Most Precious Blood",
+          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220453,
+      "name": "Shark Ethic",
+      "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
     },
     {
       "album": {
@@ -901,7 +1171,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": null,
       "duration_ms": 53168,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
@@ -962,6 +1232,24 @@
     },
     {
       "album": {
+        "name": "Scratch the Surface",
+        "url": "https://open.spotify.com/album/64ZNLvblppwORqskxoMbG1"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189026,
+      "name": "Step Down",
+      "url": "https://open.spotify.com/track/6DE037vHREtIRYjqzZ8fkf"
+    },
+    {
+      "album": {
         "name": "Scratch The Surface",
         "url": "https://open.spotify.com/album/76TWjo9O40anFFnKtyACcd"
       },
@@ -973,7 +1261,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190266,
       "name": "Step Down",
       "url": "https://open.spotify.com/track/2t4jzAAzlt4BasOuHPrJ0k"
@@ -995,6 +1283,24 @@
       "duration_ms": 114026,
       "name": "Strength Through Unity",
       "url": "https://open.spotify.com/track/4k1avYF42hK2l4iKprwzij"
+    },
+    {
+      "album": {
+        "name": "Haterz Be Damned: New, Old & Rare",
+        "url": "https://open.spotify.com/album/7cTQVE19wRopoVrkumYTvi"
+      },
+      "artists": [
+        {
+          "name": "25 Ta Life",
+          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 114027,
+      "name": "Strength Thru Unity",
+      "url": "https://open.spotify.com/track/4OJZM33D5Z4XO6KhGp3Wva"
     },
     {
       "album": {
@@ -1045,10 +1351,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 236746,
       "name": "The Disconnect",
       "url": "https://open.spotify.com/track/5JI4HbkaBL3ueJ2sXur0b3"
+    },
+    {
+      "album": {
+        "name": "The Current Will Carry Us",
+        "url": "https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236746,
+      "name": "The Disconnect",
+      "url": "https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD"
     },
     {
       "album": {
@@ -1063,10 +1387,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156693,
       "name": "Thorn In My Side",
       "url": "https://open.spotify.com/track/2H7ECJNsqQDxOlisHd5n6k"
+    },
+    {
+      "album": {
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156693,
+      "name": "Thorn In My Side",
+      "url": "https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO"
     },
     {
       "album": {
@@ -1099,10 +1441,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-24",
       "duration_ms": 139186,
       "name": "United Kids",
       "url": "https://open.spotify.com/track/0QT6JDL8cgndqsY0rXQwdY"
+    },
+    {
+      "album": {
+        "name": "Voice of Rebellion",
+        "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
+      },
+      "artists": [
+        {
+          "name": "Pro-Pain",
+          "url": "https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241343,
+      "name": "Voice of Rebellion",
+      "url": "https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y"
     },
     {
       "album": {
@@ -1117,7 +1477,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 245346,
       "name": "Voice Of Rebellion",
       "url": "https://open.spotify.com/track/410ldNJYa6aMrvHDKOUHKG"
@@ -1135,10 +1495,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197226,
       "name": "Wake the Dead",
       "url": "https://open.spotify.com/track/0Ux0LyZRoLFiXfyKZtt6IE"
+    },
+    {
+      "album": {
+        "name": "Wake The Dead",
+        "url": "https://open.spotify.com/album/4Vj1dLfWkEUm16doIG5Z1z"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "Wake The Dead",
+      "url": "https://open.spotify.com/track/58U3KUbCdpTEoZtGNnQBOa"
     },
     {
       "album": {

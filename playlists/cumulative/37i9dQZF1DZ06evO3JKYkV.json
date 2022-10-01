@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 440333,
       "name": "#13",
       "url": "https://open.spotify.com/track/7c4lnS1bSj4fRJWAQ8D54R"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": "2022-09-28",
       "duration_ms": 125106,
       "name": "#17",
       "url": "https://open.spotify.com/track/5Ae091FBx68ZZ6JrCue7XI"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": "2022-09-30",
       "duration_ms": 357533,
       "name": "#19",
       "url": "https://open.spotify.com/track/4rBDwVatn86sMwFiSv5a89"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 531426,
       "name": "#7",
       "url": "https://open.spotify.com/track/4Rjz6GjnEtG9upOBj6vGKK"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-30",
       "duration_ms": 414706,
       "name": "#9",
       "url": "https://open.spotify.com/track/6AiDG8KtDJX9ZZS8fSxWjT"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 268813,
       "name": "4 bit 9d api+e+6 [126.26]",
       "url": "https://open.spotify.com/track/3NK7KFnTh3rKCgUvsKIDfi"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": "2022-08-03",
       "duration_ms": 455000,
       "name": "Actium",
       "url": "https://open.spotify.com/track/78w0l5CJ3VwtXKBpRCktwa"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 286293,
       "name": "Analogue Bubblebath",
       "url": "https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1"
@@ -404,6 +404,24 @@
     },
     {
       "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 360200,
+      "name": "CIRCLONT6A [141.98][syrobonkus mix]",
+      "url": "https://open.spotify.com/track/0Zn4jYnGokSATIvpNLJAGd"
+    },
+    {
+      "album": {
         "name": "Drukqs",
         "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
       },
@@ -433,7 +451,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-09-21",
       "duration_ms": 344666,
       "name": "Come On You Slags",
       "url": "https://open.spotify.com/track/1e3b0rN8vtP5q6ZCoLy5Ym"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 292200,
       "name": "Girl Boy (NLS Mix)",
       "url": "https://open.spotify.com/track/33ccBrtEr6MniK1HgLT4z1"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-09-01",
       "duration_ms": 122466,
       "name": "Goon Gumpas",
       "url": "https://open.spotify.com/track/72tmERTlZn90IJ0px2B38Q"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-30",
       "duration_ms": 367053,
       "name": "Icct Hedral",
       "url": "https://open.spotify.com/track/74i6T5ax1LB1gBVhLg6q9d"
@@ -764,6 +782,24 @@
     },
     {
       "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 213706,
+      "name": "Logan Rock Witch",
+      "url": "https://open.spotify.com/track/6y8jQsfUEPZuhcxpHzk0zn"
+    },
+    {
+      "album": {
         "name": "Girl/Boy EP",
         "url": "https://open.spotify.com/album/2Y34XFg6QPoAmbM1ClS3Hk"
       },
@@ -775,7 +811,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-09-22",
       "duration_ms": 248933,
       "name": "Milk Man",
       "url": "https://open.spotify.com/track/5b1uULGkmUg8M6pFvQIUlO"
@@ -829,7 +865,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-26",
       "duration_ms": 490413,
       "name": "Mt Saint Michel + Saint Michaels Mount",
       "url": "https://open.spotify.com/track/27oZwWrAt3WJwZGqSIrvq1"
@@ -865,10 +901,28 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-08-18",
       "duration_ms": 205186,
       "name": "Nanou2",
       "url": "https://open.spotify.com/track/6Wei2NUSG66WzLiqSuQAy5"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 292480,
+      "name": "Omgyjya-Switch7",
+      "url": "https://open.spotify.com/track/5XgWTzM9N81tXJH7cFWkba"
     },
     {
       "album": {
@@ -901,7 +955,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 271293,
       "name": "Pancake Lizard",
       "url": "https://open.spotify.com/track/3Z7wJtqMNc3q7ukYplaCa9"
@@ -919,10 +973,46 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 258973,
       "name": "PAPAT4 [155][pineal mix]",
       "url": "https://open.spotify.com/track/2MmI2fOFAYnOJcMyWkn1js"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-21",
+      "duration_ms": 185093,
+      "name": "Peek 82454201",
+      "url": "https://open.spotify.com/track/4KzwoaaI2oyx5sib9D93w0"
+    },
+    {
+      "album": {
+        "name": "Xylem Tube EP",
+        "url": "https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286506,
+      "name": "Polynomial-C",
+      "url": "https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF"
     },
     {
       "album": {
@@ -937,7 +1027,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 286506,
       "name": "Polynomial-C",
       "url": "https://open.spotify.com/track/3iHGhKJc0OR5m37pVyRLrQ"
@@ -1009,7 +1099,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 213900,
       "name": "Slo Bird Whistle - Peel Session",
       "url": "https://open.spotify.com/track/3bQOgK2jol0IYuI01Aa7dO"
@@ -1027,7 +1117,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 365373,
       "name": "Start As You Mean To Go On",
       "url": "https://open.spotify.com/track/7F1YDlmTRGuOqmdDUElHfm"
@@ -1117,7 +1207,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 258959,
       "name": "Wax The Nip",
       "url": "https://open.spotify.com/track/0c1b3R5dLgliHXXGLErT2O"

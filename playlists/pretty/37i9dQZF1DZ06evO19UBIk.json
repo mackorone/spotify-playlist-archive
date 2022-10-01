@@ -1,15 +1,15 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 550670,
+  "num_followers": 560634,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc2MzYwMjEsMDAwMDAwMDBlNmI4OTg1MDQ1ZDY0MmIzZGE3YTU2Nzg4NjU1OGRmNA==",
+  "snapshot_id": "Mjc3NDI0MDksMDAwMDAwMDA1NmNhYzdjYmU2NjYzMjNhN2FhMzFiNzcxNzIzZmUyMw==",
   "tracks": [
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
-      "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "Break on Through (To the Other Side)",
-      "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM"
-    },
-    {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "Break on Through (To the Other Side)",
+      "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM"
+    },
+    {
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
@@ -89,23 +89,7 @@
       "url": "https://open.spotify.com/track/6DmfWj5kOa1fX8AwN9byOn"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
-      "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 429760,
-      "name": "Light My Fire",
-      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
-    },
-    {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "The Soft Parade",
         "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
@@ -121,7 +105,23 @@
       "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 429760,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5piJiL6aRhvrKBa9YuEfS9"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/67HxeUADW4H3ERfaPW59ma"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
@@ -180,12 +180,12 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 703373,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK"
+      "duration_ms": 213000,
+      "name": "Soul Kitchen",
+      "url": "https://open.spotify.com/track/2Xdc6qyaFBJZ8QW1KhpVci"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Bangarang EP",
         "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
@@ -229,71 +229,7 @@
       "url": "https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
-      "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "Waiting for the Sun",
-      "url": "https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh"
-    },
-    {
-      "added_at": "2022-07-18 16:21:15",
-      "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Soul Kitchen",
-      "url": "https://open.spotify.com/track/2Xdc6qyaFBJZ8QW1KhpVci"
-    },
-    {
-      "added_at": "2022-07-18 16:21:15",
-      "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Five to One",
-      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
-    },
-    {
-      "added_at": "2022-07-18 16:21:15",
-      "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 659266,
-      "name": "When the Music's Over",
-      "url": "https://open.spotify.com/track/42dsUTJpzMWUJfEkzsbKWl"
-    },
-    {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
@@ -309,7 +245,7 @@
       "url": "https://open.spotify.com/track/2g3JAKjKruTL40VffoGLmg"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
@@ -325,7 +261,7 @@
       "url": "https://open.spotify.com/track/0gWvVB4bGvADocoPMEDy3K"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
@@ -341,7 +277,71 @@
       "url": "https://open.spotify.com/track/5Q2Im8o4RthlAMkvUMYwGj"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 659266,
+      "name": "When the Music's Over",
+      "url": "https://open.spotify.com/track/42dsUTJpzMWUJfEkzsbKWl"
+    },
+    {
+      "added_at": "2022-09-30 13:29:06",
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Waiting for the Sun",
+      "url": "https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh"
+    },
+    {
+      "added_at": "2022-09-30 13:29:06",
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 703373,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK"
+    },
+    {
+      "added_at": "2022-09-30 13:29:06",
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Five to One",
+      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
+    },
+    {
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/4WFVX3E568hdAixIj3U222"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
@@ -384,12 +384,12 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 212426,
-      "name": "Back Door Man",
-      "url": "https://open.spotify.com/track/03By6gD02qhtvIQiK8KidK"
+      "duration_ms": 197400,
+      "name": "Alabama Song (Whisky Bar)",
+      "url": "https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
@@ -405,7 +405,23 @@
       "url": "https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
+      "album": {
+        "name": "The Very Best of the Doors",
+        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 378480,
+      "name": "Gloria - Live; 2007 Remaster",
+      "url": "https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP"
+    },
+    {
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Riders On The Storm (Fredwreck Remix)",
         "url": "https://open.spotify.com/album/4Amv0hrD1UuVHSnexg1iqP"
@@ -441,23 +457,7 @@
       "url": "https://open.spotify.com/track/0RcYEWXtbu4ehdv1tiBOi0"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
-      "album": {
-        "name": "The Very Best of the Doors",
-        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 378480,
-      "name": "Gloria - Live; 2007 Remaster",
-      "url": "https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP"
-    },
-    {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "The Soft Parade",
         "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
@@ -489,23 +489,7 @@
       "url": "https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
-      "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "Spanish Caravan",
-      "url": "https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B"
-    },
-    {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
@@ -521,7 +505,23 @@
       "url": "https://open.spotify.com/track/6PtRNOkuXALHwogMnc9NCx"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 178306,
+      "name": "Spanish Caravan",
+      "url": "https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B"
+    },
+    {
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/5onlaW8X1ps8VS4DhxpFom"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "The Soft Parade",
         "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
@@ -553,39 +553,7 @@
       "url": "https://open.spotify.com/track/5QTKB8UOaBO9zvWr6ap05R"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
-      "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 253973,
-      "name": "The WASP (Texas Radio and the Big Beat)",
-      "url": "https://open.spotify.com/track/6ieXnWm8uineF8k9Ugn5DG"
-    },
-    {
-      "added_at": "2022-07-18 16:21:15",
-      "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 234440,
-      "name": "Not to Touch the Earth",
-      "url": "https://open.spotify.com/track/4CyqGx74ElL4WC5TaEbx0x"
-    },
-    {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "An American Prayer",
         "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
@@ -605,7 +573,23 @@
       "url": "https://open.spotify.com/track/5XTdMVT5i5qcfyTXWxhxVZ"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 253973,
+      "name": "The WASP (Texas Radio and the Big Beat)",
+      "url": "https://open.spotify.com/track/6ieXnWm8uineF8k9Ugn5DG"
+    },
+    {
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "American Nights - In Concert",
         "url": "https://open.spotify.com/album/7teTxSPnJrpRoi7BxJ9qTC"
@@ -621,10 +605,10 @@
       "url": "https://open.spotify.com/track/4HaOHPT5aUiqUnvXTA2BDz"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
-        "name": "Spirits (Live 1972)",
-        "url": "https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw"
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
       },
       "artists": [
         {
@@ -632,28 +616,12 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 546304,
-      "name": "Ships With Sails - Live 1972",
-      "url": "https://open.spotify.com/track/0hwYcIHthQpv0jl9tfYjZ3"
+      "duration_ms": 175826,
+      "name": "Wishful Sinful",
+      "url": "https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
-      "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "The Unknown Soldier",
-      "url": "https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT"
-    },
-    {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "An American Prayer",
         "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
@@ -673,23 +641,7 @@
       "url": "https://open.spotify.com/track/6U65Pc0A2qHYwJoU1OLgH0"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
-      "album": {
-        "name": "Live in New York",
-        "url": "https://open.spotify.com/album/4mKRzTeNQCK5bhFKK0LD1k"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 384293,
-      "name": "Little Red Rooster - Live at the Felt Forum, New York City, January 17, 1970, First Show",
-      "url": "https://open.spotify.com/track/6fOON6KOenBSu0yhXZ3XMH"
-    },
-    {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Spirits (Live 1972)",
         "url": "https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw"
@@ -705,10 +657,10 @@
       "url": "https://open.spotify.com/track/5BGonwlaXEj4OhWm7jc1fm"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
       "artists": [
         {
@@ -716,15 +668,15 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 175826,
-      "name": "Wishful Sinful",
-      "url": "https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7"
+      "duration_ms": 199426,
+      "name": "Summer's Almost Gone",
+      "url": "https://open.spotify.com/track/657O4nJxZktsNDvBimhZ0i"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
-        "name": "L.A. Woman (50th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5zJ5Hz4a5OACoowuL3x86m"
+        "name": "Live in New York",
+        "url": "https://open.spotify.com/album/4mKRzTeNQCK5bhFKK0LD1k"
       },
       "artists": [
         {
@@ -732,12 +684,28 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 279532,
-      "name": "Rock Me Baby - L.A. Woman Sessions",
-      "url": "https://open.spotify.com/track/0I060wAAVjhFv28hJ5rpGZ"
+      "duration_ms": 384293,
+      "name": "Little Red Rooster - Live at the Felt Forum, New York City, January 17, 1970, First Show",
+      "url": "https://open.spotify.com/track/6fOON6KOenBSu0yhXZ3XMH"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
+      "album": {
+        "name": "Absolutely Live",
+        "url": "https://open.spotify.com/album/0BgWlAKJAn8VQKRKIdx9ul"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 362693,
+      "name": "Who Do You Love - Live",
+      "url": "https://open.spotify.com/track/4qNwlHuX0fsUggSaJkNf2q"
+    },
+    {
+      "added_at": "2022-09-30 13:29:06",
       "album": {
         "name": "Spirits (Live 1972)",
         "url": "https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw"
@@ -748,15 +716,15 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 328515,
-      "name": "I'm Horny, I'm Stoned - Live 1972",
-      "url": "https://open.spotify.com/track/5RUXlzEc2NuaQ3QryvY1rY"
+      "duration_ms": 546304,
+      "name": "Ships With Sails - Live 1972",
+      "url": "https://open.spotify.com/track/0hwYcIHthQpv0jl9tfYjZ3"
     },
     {
-      "added_at": "2022-07-18 16:21:15",
+      "added_at": "2022-09-30 13:29:06",
       "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
       "artists": [
         {
@@ -764,9 +732,29 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 287600,
-      "name": "Shaman's Blues",
-      "url": "https://open.spotify.com/track/4MSGvOyqjifxU0TtDxhQil"
+      "duration_ms": 201106,
+      "name": "The Unknown Soldier",
+      "url": "https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT"
+    },
+    {
+      "added_at": "2022-09-30 13:29:06",
+      "album": {
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+      },
+      "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 67880,
+      "name": "Black Polished Chrome",
+      "url": "https://open.spotify.com/track/2txVWU6tG6NdEyTnm1P1WQ"
     }
   ],
   "unique_name": "This Is The Doors",

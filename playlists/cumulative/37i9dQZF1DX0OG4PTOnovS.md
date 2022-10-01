@@ -4,7 +4,7 @@
 
 > The whole family can worship together with these upbeat, inspirational songs.
 
-62 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/4ouO9TGcvdiRiB4W0BQXPr)
+65 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/4ouO9TGcvdiRiB4W0BQXPr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [All The Things](https://open.spotify.com/track/4VJDD8PDFTjzxaVohUBggh) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [All The Things](https://open.spotify.com/album/07ztb4D77ZUFdMJ2NpVNoo) | 3:07 | 2021-12-17 |  |
 | [Brave \- Brave](https://open.spotify.com/track/4IpWEf6JwSGVSW3nC1SG10) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63) | [Brave Performance Tracks](https://open.spotify.com/album/38i0L7rD9dn8eW9LlBXjvc) | 3:28 | 2021-12-17 |  |
 | [Child of Heaven](https://open.spotify.com/track/5GV87c79eNOampknUGegJy) | [Calling Glory](https://open.spotify.com/artist/77Ide50jAEqgy2kRn2Nmc0) | [Child of Heaven](https://open.spotify.com/album/3xXBX5TzjyCNiVeFyZhb5o) | 3:57 | 2021-12-17 |  |
-| [Deep Cries Out](https://open.spotify.com/track/6PCTbGecSbQlHp7CD4taCd) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/4gddrbOk9PpDAsZeJ2jSxg) | 5:05 | 2021-12-17 |  |
+| [Deep Cries Out](https://open.spotify.com/track/6vGaIY7HYRoYvl30oMg3G2) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/0E5j1NrkMsc3SN85dzlRg8) | 5:05 | 2022-03-07 |  |
+| [Deep Cries Out](https://open.spotify.com/track/6PCTbGecSbQlHp7CD4taCd) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/4gddrbOk9PpDAsZeJ2jSxg) | 5:05 | 2021-12-17 | 2022-07-29 |
 | [Every Move I Make](https://open.spotify.com/track/0NTEoSJBIDdO168fF00X0g) | [Christ Music Kids](https://open.spotify.com/artist/4tQcEEa8IYf1YuWsYvyQEi) | [I am a Friend of God](https://open.spotify.com/album/26WTWtUvwVAGt6NZJq7JmM) | 3:15 | 2021-12-17 |  |
 | [Fear Get Out of Here](https://open.spotify.com/track/4eBEZDnYDOrCJqBLg6JobM) | [Orange Kids Music](https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu) | [All Good](https://open.spotify.com/album/1vVS1HB8nkk0jn2rcyfHdS) | 2:40 | 2021-12-17 |  |
 | [For Your Glory](https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Undefeated](https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I) | 3:30 | 2021-12-17 |  |
@@ -59,7 +60,8 @@
 | [Superhero \- Live](https://open.spotify.com/track/7blZ34IQJjSf3J12eu3pGe) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Jesus Is My Super Hero \(Live\)](https://open.spotify.com/album/1K0Zez4ioepzv2iBbljsNN) | 3:04 | 2021-12-17 |  |
 | [Superstar](https://open.spotify.com/track/38yBdl8SibnoA4k3QvguyF) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats 2](https://open.spotify.com/album/3IQHCaiHxWtPXnNJA9uIy0) | 3:08 | 2021-12-17 |  |
 | [The Ten Commandment Boogie](https://open.spotify.com/track/5WdmalqYXxJV2rAHZJuxe8) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats \(For Little Feets\)](https://open.spotify.com/album/3QfyerJxzTL9NXo79cXrOw) | 3:00 | 2021-12-17 |  |
-| [This Is Amazing Grace](https://open.spotify.com/track/7kpOTgyNhIVVdg3a3jvnGQ) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/4gddrbOk9PpDAsZeJ2jSxg) | 5:16 | 2021-12-17 |  |
+| [This Is Amazing Grace](https://open.spotify.com/track/1EkYmRwXsNydkeC7N49AV3) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/0E5j1NrkMsc3SN85dzlRg8) | 5:16 | 2022-03-07 |  |
+| [This Is Amazing Grace](https://open.spotify.com/track/7kpOTgyNhIVVdg3a3jvnGQ) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/4gddrbOk9PpDAsZeJ2jSxg) | 5:16 | 2021-12-17 | 2022-07-29 |
 | [This is Amazing Grace](https://open.spotify.com/track/6saLHwRKrJIleVAizsRhoV) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63), [Ian Escalante](https://open.spotify.com/artist/4VdTEoEk67dYLvPALOIXIT) | [Brave](https://open.spotify.com/album/1JM1e0eP26O8eXfLJxYOom) | 4:34 | 2021-12-17 |  |
 | [This Is Living](https://open.spotify.com/track/6TCk1yecQRDU5sXG3vjTYj) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [This Is Living](https://open.spotify.com/album/7h7W5MDYWmSYGSAag53umc) | 3:30 | 2021-12-17 |  |
 | [This Little Light \(feat\. Steve Fee & Mr\. Versee\)](https://open.spotify.com/track/433p6oT8N4lPDXT9BDXFIP) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb), [Steve Fee](https://open.spotify.com/artist/6eZldvfMSClBVZpjoMR69J), [Mr\. Versee](https://open.spotify.com/artist/4zArOIcHI8sTPqbYz9WlDV) | [Living Inside Out](https://open.spotify.com/album/4R5xmXeQwIbwMd9OVRV8mm) | 3:19 | 2021-12-17 |  |
@@ -67,7 +69,8 @@
 | [Who You Say I Am](https://open.spotify.com/track/3jrixwz5amaMkV4CXDmxpV) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Can You Believe It!?](https://open.spotify.com/album/1fsVpCIerFhDqPnwQEABi0) | 3:59 | 2021-12-17 |  |
 | [Won't Worry 'Bout a Thing](https://open.spotify.com/track/3mPmfPjzuhXovhiNOvenUv) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Favorite Songs from Shipwrecked: Rescued by Jesus](https://open.spotify.com/album/0MZdGDnF1aFBgbCowm2Fj0) | 3:17 | 2021-12-17 |  |
 | [You Are My All In All](https://open.spotify.com/track/7otvN0P4iAuRa2dLv5XGEr) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Trading My Sorrows](https://open.spotify.com/album/1lWuBzzz2U7qLHmO0tnugB) | 4:04 | 2021-12-17 |  |
-| [You Make Me Brave](https://open.spotify.com/track/5yv7dwLuopHQcakKw1pmHo) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/4gddrbOk9PpDAsZeJ2jSxg) | 4:27 | 2021-12-17 |  |
+| [You Make Me Brave](https://open.spotify.com/track/46FLvXFCkkUdPWQcA6xU6G) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/0E5j1NrkMsc3SN85dzlRg8) | 4:26 | 2022-03-07 |  |
+| [You Make Me Brave](https://open.spotify.com/track/5yv7dwLuopHQcakKw1pmHo) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/4gddrbOk9PpDAsZeJ2jSxg) | 4:27 | 2021-12-17 | 2022-07-29 |
 | [You're The Fire](https://open.spotify.com/track/5hfm2iPY9Jvm3SPKdB093b) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Victory \- EP](https://open.spotify.com/album/7y53FcW8JJUrFFOyh3C86H) | 2:55 | 2021-12-17 |  |
 | [Your Grace Is Enough](https://open.spotify.com/track/1JExwazB69I9eaa75UQAYJ) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [From The Inside Out For Kids](https://open.spotify.com/album/4y3m1W01TTK2nT2i2ViRtD) | 3:54 | 2021-12-17 |  |
 

@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Manzana de Metal",
+        "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
+      },
+      "artists": [
+        {
+          "name": "Altocamet",
+          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263173,
+      "name": "Atl\u00e1ntico",
+      "url": "https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga"
+    },
+    {
+      "album": {
         "name": "Manzana De Metal",
         "url": "https://open.spotify.com/album/3NzIeLgS5p4zsUe57ySoPj"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263187,
       "name": "Atl\u00e1ntico",
       "url": "https://open.spotify.com/track/5SBHe1oW1CsVw1hQp28bTy"
@@ -91,10 +109,28 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 143866,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/1lVcT97quQcEDjLY8KbcUm"
+    },
+    {
+      "album": {
+        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
+        "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
+      },
+      "artists": [
+        {
+          "name": "Jaime Sin Tierra",
+          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143866,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4"
     },
     {
       "album": {
@@ -207,7 +243,7 @@
     {
       "album": {
         "name": "Cabeza",
-        "url": "https://open.spotify.com/album/30McmK2Ryuw8kg427h39pf"
+        "url": "https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F"
       },
       "artists": [
         {
@@ -220,7 +256,43 @@
       "date_removed": null,
       "duration_ms": 240333,
       "name": "Lo Que Se Ve No Es Lo Real",
+      "url": "https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt"
+    },
+    {
+      "album": {
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/30McmK2Ryuw8kg427h39pf"
+      },
+      "artists": [
+        {
+          "name": "Pez",
+          "url": "https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240333,
+      "name": "Lo Que Se Ve No Es Lo Real",
       "url": "https://open.spotify.com/track/3dz2hN0enx1NSqmkEwNXgI"
+    },
+    {
+      "album": {
+        "name": "Nada Es Exacto Salvo la Medida de los Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM"
+      },
+      "artists": [
+        {
+          "name": "Altocamet",
+          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318453,
+      "name": "Manzana de Metal",
+      "url": "https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE"
     },
     {
       "album": {
@@ -235,10 +307,32 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 319120,
       "name": "Manzana De Metal",
       "url": "https://open.spotify.com/track/438wP6tJqpmSBLyJ1sK6k0"
+    },
+    {
+      "album": {
+        "name": "Colores Santos",
+        "url": "https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        },
+        {
+          "name": "Daniel Melero",
+          "url": "https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262386,
+      "name": "Marea de Venus",
+      "url": "https://open.spotify.com/track/0SPPSkIttUSFTmHbyLmLUG"
     },
     {
       "album": {
@@ -257,7 +351,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262386,
       "name": "Marea de Venus",
       "url": "https://open.spotify.com/track/7okWsNhHC4LEaK9jqnSK9V"
@@ -275,10 +369,46 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 282600,
       "name": "Marmota",
       "url": "https://open.spotify.com/track/2uBslBzniJrOGbVBuUeFjB"
+    },
+    {
+      "album": {
+        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
+        "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
+      },
+      "artists": [
+        {
+          "name": "Jaime Sin Tierra",
+          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282600,
+      "name": "Marmota",
+      "url": "https://open.spotify.com/track/60i7zzErAk7saXLo9YVHpL"
+    },
+    {
+      "album": {
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Mate",
+      "url": "https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w"
     },
     {
       "album": {
@@ -293,7 +423,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191000,
       "name": "Mate",
       "url": "https://open.spotify.com/track/38qMdBT2CM35RT35f5FOUE"
@@ -405,10 +535,32 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 323640,
       "name": "Pudo Ser",
       "url": "https://open.spotify.com/track/26lEheREspOWbnNdHyXYp9"
+    },
+    {
+      "album": {
+        "name": "Colores Santos",
+        "url": "https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        },
+        {
+          "name": "Daniel Melero",
+          "url": "https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323640,
+      "name": "Pudo Ser",
+      "url": "https://open.spotify.com/track/7wpwbzqjAsqqsrgps37ugy"
     },
     {
       "album": {
@@ -441,10 +593,28 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 202800,
       "name": "Remisero",
       "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
+    },
+    {
+      "album": {
+        "name": "Megaton",
+        "url": "https://open.spotify.com/album/5OEbnIMia7htVVS2xscmg6"
+      },
+      "artists": [
+        {
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267839,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/7sUYCPMAKQFGn05M7bpTMz"
     },
     {
       "album": {
@@ -459,7 +629,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269240,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c"
@@ -585,10 +755,28 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 318906,
       "name": "Travesia",
       "url": "https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G"
+    },
+    {
+      "album": {
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140960,
+      "name": "Trece",
+      "url": "https://open.spotify.com/track/5aVlOkWLnXtFGeoTQxv48E"
     },
     {
       "album": {
@@ -603,7 +791,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141000,
       "name": "Trece",
       "url": "https://open.spotify.com/track/485OU7VBMjCAAFL2JYAsoH"
@@ -647,6 +835,24 @@
     {
       "album": {
         "name": "Modelo 96",
+        "url": "https://open.spotify.com/album/2ZwjZRXvyLPqhXLM4vkB5b"
+      },
+      "artists": [
+        {
+          "name": "DDT(Demonios De Tasmania)",
+          "url": "https://open.spotify.com/artist/69jW8iAEWLTAcx7K21bY6v"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203612,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/6cXpVhsp9Ssfg9XuoqwjRK"
+    },
+    {
+      "album": {
+        "name": "Modelo 96",
         "url": "https://open.spotify.com/album/2uGNKMnLRyyBPNFh7X1qho"
       },
       "artists": [
@@ -657,7 +863,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203640,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/1OsyjumiWfSmFY8XQqNxAo"

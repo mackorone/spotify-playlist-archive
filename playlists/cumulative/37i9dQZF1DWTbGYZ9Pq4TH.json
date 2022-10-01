@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 230693,
       "name": "22 settembre",
       "url": "https://open.spotify.com/track/15RRpHBNzv0gvjIry4jyOs"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 320546,
       "name": "A modo tuo",
       "url": "https://open.spotify.com/track/26BnLngCCgaDTtbnOe155S"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 264240,
       "name": "A Te",
       "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-23",
       "duration_ms": 205880,
       "name": "A un isolato da te",
       "url": "https://open.spotify.com/track/78flPZdW6F2pNfIkVVKCRI"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 211736,
       "name": "Accetto Miracoli",
       "url": "https://open.spotify.com/track/22wcpWIq8EUqcFoF6wD0gg"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 282360,
       "name": "Acqua e Sale",
       "url": "https://open.spotify.com/track/2k5XUNGw2nD3qTl9C208Qr"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 306000,
       "name": "Almeno Tu Nell'universo - Original Version",
       "url": "https://open.spotify.com/track/1gIDTn5bujBLjE5OPRW03Y"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-26",
       "duration_ms": 315786,
       "name": "Amici mai",
       "url": "https://open.spotify.com/track/1MHJZhEo79mKEK349W188E"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 348640,
       "name": "Amore bello",
       "url": "https://open.spotify.com/track/3R8BUVpkyfkDBeXQAFH1mw"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239693,
       "name": "Anche Fragile",
       "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 278160,
       "name": "Baciami Ancora",
       "url": "https://open.spotify.com/track/36UJ6MVWrKm2mTXpHovbkc"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-07-22",
       "duration_ms": 359160,
       "name": "Basta cosi' - With Elisa",
       "url": "https://open.spotify.com/track/2493A7OGenXVtLT1hfels3"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 274973,
       "name": "Bella senz'anima",
       "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Cascare nei tuoi occhi",
+      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
+    },
+    {
+      "album": {
         "name": "Chiamami Ancora Amore",
         "url": "https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253986,
       "name": "Chiamami Ancora Amore",
       "url": "https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 239906,
       "name": "Chiaro Di Luna",
       "url": "https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx"
@@ -401,7 +419,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": "2022-07-29",
       "duration_ms": 242826,
       "name": "Chiss\u00e0 se lo sai",
       "url": "https://open.spotify.com/track/3zfu6purzESVP3pVQ7RyRP"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254226,
       "name": "Ci Sarai",
       "url": "https://open.spotify.com/track/6iLvjH0HEU71q31DAfKt10"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 253733,
       "name": "Come Nelle Favole",
       "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
@@ -459,7 +477,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 209460,
       "name": "Come neve",
       "url": "https://open.spotify.com/track/7flx8835YXeRbhFBGaZ42g"
@@ -477,7 +495,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 300306,
       "name": "Come saprei",
       "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
@@ -495,7 +513,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": "2022-07-28",
       "duration_ms": 217173,
       "name": "Come Una Favola",
       "url": "https://open.spotify.com/track/2BxhBg9c6sKXOZRUgJotU8"
@@ -535,10 +553,28 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 203573,
       "name": "Complici",
       "url": "https://open.spotify.com/track/3tzjCVLS3cs28nkeKPTeNT"
+    },
+    {
+      "album": {
+        "name": "Concedimi",
+        "url": "https://open.spotify.com/album/3aunYOAreqjC6cdHn6iOaJ"
+      },
+      "artists": [
+        {
+          "name": "Matteo Romano",
+          "url": "https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189320,
+      "name": "Concedimi",
+      "url": "https://open.spotify.com/track/0pFjYM7JdNJhjuooMgesks"
     },
     {
       "album": {
@@ -560,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+      },
+      "artists": [
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169306,
+      "name": "Cosa mi manchi a fare",
+      "url": "https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q"
+    },
+    {
+      "album": {
         "name": "Zero Gravity",
         "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
       },
@@ -571,7 +625,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 209400,
       "name": "D'improvviso",
       "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
@@ -589,7 +643,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 208466,
       "name": "Dedicato A Te",
       "url": "https://open.spotify.com/track/4DxU9yKktJVQXhcLxjh67j"
@@ -607,7 +661,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 185503,
       "name": "Destri",
       "url": "https://open.spotify.com/track/0WBg2If3H9nN9RFl2xO2SZ"
@@ -629,6 +683,24 @@
       "duration_ms": 201546,
       "name": "Domenica",
       "url": "https://open.spotify.com/track/2tVNMtgZ2CQpTx7vgcuTkL"
+    },
+    {
+      "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "album": {
@@ -679,7 +751,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-27",
       "duration_ms": 203378,
       "name": "E Ti Vengo A Cercare",
       "url": "https://open.spotify.com/track/4QqvBU7TPHHCFnZpo1WJOr"
@@ -722,6 +794,24 @@
     },
     {
       "album": {
+        "name": "Mentre Tutto Scorre (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178226,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg"
+    },
+    {
+      "album": {
         "name": "Una storia semplice (Deluxe Edition)",
         "url": "https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo"
       },
@@ -733,7 +823,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 179893,
       "name": "Estate",
       "url": "https://open.spotify.com/track/5PWWPmpN5ZNTck8ccaMmxQ"
@@ -751,10 +841,28 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 186147,
       "name": "Estate",
       "url": "https://open.spotify.com/track/7AKMq2HTg8FQs9LE0v9uoy"
+    },
+    {
+      "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193624,
+      "name": "Faccio un casino",
+      "url": "https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0"
     },
     {
       "album": {
@@ -769,7 +877,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216140,
       "name": "Fai rumore",
       "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
@@ -787,10 +895,28 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233666,
       "name": "Fiore Di Maggio",
       "url": "https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX"
+    },
+    {
+      "album": {
+        "name": "Supereroe",
+        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209179,
+      "name": "Fuoco e benzina",
+      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
     },
     {
       "album": {
@@ -805,7 +931,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235693,
       "name": "Giudizi universali",
       "url": "https://open.spotify.com/track/5bOE9NDX7dO6q7ZzGKXhiT"
@@ -827,7 +953,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266746,
       "name": "Gli ostacoli del cuore - feat. Ligabue",
       "url": "https://open.spotify.com/track/2BpBgGDyko7wzwIXSxjiUB"
@@ -863,7 +989,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": "2022-07-25",
       "duration_ms": 165511,
       "name": "Guardami amore",
       "url": "https://open.spotify.com/track/0UmmSFh7Kpk50unE55OdOm"
@@ -881,7 +1007,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 286146,
       "name": "Ho messo via",
       "url": "https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5"
@@ -903,7 +1029,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": "2022-07-29",
       "duration_ms": 227466,
       "name": "Hola (I Say) (feat. Tom Walker)",
       "url": "https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi"
@@ -928,6 +1054,46 @@
     },
     {
       "album": {
+        "name": "Il bacio di Klimt",
+        "url": "https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Aloia",
+          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Il bacio di Klimt",
+      "url": "https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF"
+    },
+    {
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "NSTASIA",
+          "url": "https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186213,
+      "name": "IL CIELO NELLA STANZA (feat. NSTASIA)",
+      "url": "https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad"
+    },
+    {
+      "album": {
         "name": "Fatti sentire ancora",
         "url": "https://open.spotify.com/album/79DqfTYT6oweCZwWPOfQOR"
       },
@@ -943,7 +1109,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 224893,
       "name": "Il coraggio di andare (feat. Biagio Antonacci)",
       "url": "https://open.spotify.com/track/7Imr3iWPjlPs208jw92W5J"
@@ -979,7 +1145,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": "2022-07-26",
       "duration_ms": 217640,
       "name": "Il mio giorno pi\u00f9 bello nel mondo",
       "url": "https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c"
@@ -1015,7 +1181,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-07-25",
       "duration_ms": 228600,
       "name": "Il Regalo Pi\u00f9 Grande",
       "url": "https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f"
@@ -1033,7 +1199,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 225386,
       "name": "In Mezzo A Questo Inverno",
       "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
@@ -1073,10 +1239,46 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 296040,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/713hKoyY39jOdW6aEfFd8A"
+    },
+    {
+      "album": {
+        "name": "Iperbole",
+        "url": "https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG"
+      },
+      "artists": [
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296040,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
+    },
+    {
+      "album": {
+        "name": "Mi Fai Stare Bene",
+        "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
+      },
+      "artists": [
+        {
+          "name": "Biagio Antonacci",
+          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238413,
+      "name": "Iris (Tra Le Tue Poesie)",
+      "url": "https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX"
     },
     {
       "album": {
@@ -1091,7 +1293,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238413,
       "name": "Iris (Tra Le Tue Poesie)",
       "url": "https://open.spotify.com/track/5LGWbFTVLPEvuvkwy9nXiv"
@@ -1149,7 +1351,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 263173,
       "name": "L'amore conta",
       "url": "https://open.spotify.com/track/1ms3QC6CO8vN4100SgrG70"
@@ -1185,10 +1387,28 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 247533,
       "name": "L'Emozione Non Ha voce (Io Non So Parlar D'Amore)",
       "url": "https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs"
+    },
+    {
+      "album": {
+        "name": "La Finestra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214520,
+      "name": "L'Immenso",
+      "url": "https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9"
     },
     {
       "album": {
@@ -1203,7 +1423,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 217613,
       "name": "L'immenso",
       "url": "https://open.spotify.com/track/3NNJzRvSDVuXgJ36TOE3QO"
@@ -1275,7 +1495,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-28",
       "duration_ms": 221866,
       "name": "La differenza",
       "url": "https://open.spotify.com/track/4NYQscGbPD7Xn9Z5W1wNio"
@@ -1311,7 +1531,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 226533,
       "name": "La Fine",
       "url": "https://open.spotify.com/track/7eEthuNKSBZ6ipfmG5mjuJ"
@@ -1329,10 +1549,28 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": "2022-07-28",
       "duration_ms": 198974,
       "name": "LA MIA ULTIMA STORIA",
       "url": "https://open.spotify.com/track/5JYMRX7TnPrEYkmwKOMmVD"
+    },
+    {
+      "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222786,
+      "name": "La musica non c'\u00e8",
+      "url": "https://open.spotify.com/track/7MMJa7cjMadOSR6CFWvB1x"
     },
     {
       "album": {
@@ -1347,7 +1585,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 182133,
       "name": "La nostra relazione",
       "url": "https://open.spotify.com/track/3aG9QxO3O3w1qYVJAxdw5R"
@@ -1365,7 +1603,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 217786,
       "name": "La prima cosa bella",
       "url": "https://open.spotify.com/track/4VbK4kLSKzJ5sgsdZWmAJ9"
@@ -1383,7 +1621,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-29",
       "duration_ms": 238360,
       "name": "La prima volta",
       "url": "https://open.spotify.com/track/3kIxACxR2tDPtKCWWa16lq"
@@ -1408,6 +1646,60 @@
     },
     {
       "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207802,
+      "name": "La storia infinita",
+      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
+    },
+    {
+      "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "La tua canzone",
+      "url": "https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"
+    },
+    {
+      "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177266,
+      "name": "Le luci della citt\u00e0",
+      "url": "https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m"
+    },
+    {
+      "album": {
         "name": "Il Primo Bacio Sulla Luna",
         "url": "https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8"
       },
@@ -1419,7 +1711,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": "2022-07-24",
       "duration_ms": 284906,
       "name": "Le Sei E Ventisei",
       "url": "https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG"
@@ -1437,7 +1729,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-28",
       "duration_ms": 225976,
       "name": "Le tasche piene di sassi",
       "url": "https://open.spotify.com/track/7FJ2MZUK52QYeARaSird6m"
@@ -1455,7 +1747,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 264533,
       "name": "Luce (Tramonti a Nord Est)",
       "url": "https://open.spotify.com/track/09g4hFrDdBK3J52I3InPgl"
@@ -1477,6 +1769,28 @@
       "duration_ms": 242973,
       "name": "L\u2019Amore \u00c8 Una Cosa Semplice",
       "url": "https://open.spotify.com/track/7b0qDOmCeqHIAsGK7j0MbI"
+    },
+    {
+      "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221631,
+      "name": "MADAME - L'anima (feat. Madame)",
+      "url": "https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi"
     },
     {
       "album": {
@@ -1527,10 +1841,28 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241040,
       "name": "Meraviglioso",
       "url": "https://open.spotify.com/track/1G0KxTR1thsm3VOtMdOlF5"
+    },
+    {
+      "album": {
+        "name": "San Siro Live (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243453,
+      "name": "Meraviglioso - Live",
+      "url": "https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA"
     },
     {
       "album": {
@@ -1545,7 +1877,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237205,
       "name": "Meraviglioso amore mio",
       "url": "https://open.spotify.com/track/5jbljhnrUPo1kzJXkyoOm0"
@@ -1563,7 +1895,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-09-21",
       "duration_ms": 271320,
       "name": "Mi Fido Di Te",
       "url": "https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0"
@@ -1588,6 +1920,24 @@
     },
     {
       "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g"
+      },
+      "artists": [
+        {
+          "name": "Lortex",
+          "url": "https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174725,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm"
+    },
+    {
+      "album": {
         "name": "Scriver\u00f2 il tuo nome (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1z6nJ51MGl9ObiNBnW944Y"
       },
@@ -1599,7 +1949,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-22",
       "duration_ms": 170426,
       "name": "Migliore",
       "url": "https://open.spotify.com/track/1V5Fgni6jJx2V4cuHXb5Cz"
@@ -1617,7 +1967,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 336960,
       "name": "Mille giorni di te e di me",
       "url": "https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr"
@@ -1635,7 +1985,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 283893,
       "name": "Minuetto",
       "url": "https://open.spotify.com/track/5UKMdUAChYAllKDye6qDGb"
@@ -1657,10 +2007,28 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-25",
       "duration_ms": 191866,
       "name": "Motivo (feat. Coez)",
       "url": "https://open.spotify.com/track/6SZMYfcEOgv7a7fhArmrQQ"
+    },
+    {
+      "album": {
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205253,
+      "name": "Niente Canzoni D'Amore",
+      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
     },
     {
       "album": {
@@ -1675,7 +2043,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-24",
       "duration_ms": 233466,
       "name": "Noi casomai",
       "url": "https://open.spotify.com/track/6wJ4kGBnctTHgftMhmuaTg"
@@ -1693,7 +2061,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-29",
       "duration_ms": 223560,
       "name": "Noi due nel mondo e nell'anima",
       "url": "https://open.spotify.com/track/1GFzFvjy10d71MDMypiqCy"
@@ -1729,7 +2097,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-29",
       "duration_ms": 248546,
       "name": "Non ci facciamo compagnia",
       "url": "https://open.spotify.com/track/2Ap7Olfl8xOv2Ync3Wv7Yr"
@@ -1747,7 +2115,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-07-26",
       "duration_ms": 208280,
       "name": "Non \u00e8 detto",
       "url": "https://open.spotify.com/track/3nxrxtgsYnkn9CxY3klBxk"
@@ -1783,7 +2151,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228986,
       "name": "Oggi Sono Io",
       "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
@@ -1801,7 +2169,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-26",
       "duration_ms": 270003,
       "name": "Oro",
       "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
@@ -1819,7 +2187,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-28",
       "duration_ms": 213200,
       "name": "Per uno come me",
       "url": "https://open.spotify.com/track/0izGL1EhHAt9Rkc6cmwi4G"
@@ -1837,7 +2205,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 251533,
       "name": "Perdere l'amore",
       "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
@@ -1859,7 +2227,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 221920,
       "name": "Piccola anima (feat. Elisa)",
       "url": "https://open.spotify.com/track/0vJ1F4W4FZ9lNGxGwyJZZp"
@@ -1877,10 +2245,28 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 232666,
       "name": "Piccola Stella",
       "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
+    },
+    {
+      "album": {
+        "name": "Possibili Scenari",
+        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293960,
+      "name": "Poetica",
+      "url": "https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"
     },
     {
       "album": {
@@ -1899,7 +2285,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-29",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Posso (feat. Max Gazz\u00e9)",
       "url": "https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6"
@@ -1917,7 +2303,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239066,
       "name": "Quando nasce un amore",
       "url": "https://open.spotify.com/track/42QwfNehRxZzLhQCh7Jfkr"
@@ -1935,7 +2321,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217493,
       "name": "Quel posto che non c'\u00e8",
       "url": "https://open.spotify.com/track/2k2EIHQn1xrJU85BLNqnBC"
@@ -1953,10 +2339,28 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 241760,
       "name": "Quel sorriso in volto",
       "url": "https://open.spotify.com/track/6oDAlwyZAHxi47aAJ6Kvw7"
+    },
+    {
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
+      },
+      "artists": [
+        {
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249417,
+      "name": "Questa nostra stupida canzone d'amore",
+      "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
     },
     {
       "album": {
@@ -1989,7 +2393,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 243624,
       "name": "Rapide",
       "url": "https://open.spotify.com/track/2cf1g08CvDuhwXFqxjetQi"
@@ -2007,7 +2411,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 205914,
       "name": "Ricordami",
       "url": "https://open.spotify.com/track/6Vw7SyOg1BcWvGpyPzWgEa"
@@ -2025,7 +2429,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 315160,
       "name": "Ricordati di me",
       "url": "https://open.spotify.com/track/4zb0g3sxejRXrx3SPVcOHU"
@@ -2043,7 +2447,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 214733,
       "name": "Ridere",
       "url": "https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"
@@ -2061,7 +2465,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 334773,
       "name": "Ridere di te",
       "url": "https://open.spotify.com/track/5YBseYFfboIucgnDKQcNpn"
@@ -2079,7 +2483,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 240738,
       "name": "Rondini Al Guinzaglio",
       "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
@@ -2097,7 +2501,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-07-29",
       "duration_ms": 230933,
       "name": "Sale, amore e vento",
       "url": "https://open.spotify.com/track/5CUA4D216X2XJtk6ePncXS"
@@ -2122,6 +2526,24 @@
     },
     {
       "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214926,
+      "name": "Scrivile Scemo",
+      "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
+    },
+    {
+      "album": {
         "name": "Biagio Antonacci",
         "url": "https://open.spotify.com/album/7neucB0mGnAkrD5Bp0M0MA"
       },
@@ -2133,7 +2555,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-25",
       "duration_ms": 293666,
       "name": "Se Io, Se Lei",
       "url": "https://open.spotify.com/track/1c7PV7wDi6qGqAdBRQ2rbX"
@@ -2151,7 +2573,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 202533,
       "name": "Se Piovesse Il Tuo Nome",
       "url": "https://open.spotify.com/track/7oETr2afFHIzjDIOpm4zPJ"
@@ -2169,7 +2591,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-07-25",
       "duration_ms": 279973,
       "name": "Se stiamo insieme",
       "url": "https://open.spotify.com/track/3V2TMVsl5LlDvEVff9hw31"
@@ -2205,7 +2627,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293284,
       "name": "Sei bellissima - 2016 Remaster",
       "url": "https://open.spotify.com/track/4l0uiCBOrYciJROo2VW6ft"
@@ -2223,7 +2645,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270346,
       "name": "Sei nell'anima",
       "url": "https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8"
@@ -2241,7 +2663,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 228080,
       "name": "Sei Un Pensiero Speciale",
       "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
@@ -2259,10 +2681,28 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 203306,
       "name": "Sempre e per sempre",
       "url": "https://open.spotify.com/track/5K8tLt1YQiLALZGwcErrjH"
+    },
+    {
+      "album": {
+        "name": "Polaroid 2.0",
+        "url": "https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz"
+      },
+      "artists": [
+        {
+          "name": "Carl Brave x Franco126",
+          "url": "https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190451,
+      "name": "Sempre In Due",
+      "url": "https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk"
     },
     {
       "album": {
@@ -2295,7 +2735,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": "2022-07-21",
       "duration_ms": 218426,
       "name": "Siamo",
       "url": "https://open.spotify.com/track/7jkZflOcHyeFz0xzaOZRHw"
@@ -2331,10 +2771,28 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-21",
       "duration_ms": 220653,
       "name": "Solo3min",
       "url": "https://open.spotify.com/track/7wd4HV7CA1T5PZeJjfa5ez"
+    },
+    {
+      "album": {
+        "name": "Sorriso (Milano Dateo)",
+        "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
+      },
+      "artists": [
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177145,
+      "name": "Sorriso (Milano Dateo)",
+      "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
     },
     {
       "album": {
@@ -2349,7 +2807,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-07-22",
       "duration_ms": 363933,
       "name": "Sotto Il Segno Dei Pesci",
       "url": "https://open.spotify.com/track/3IFdrW5sJVJ6FIWzUruQcE"
@@ -2367,10 +2825,32 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-28",
       "duration_ms": 320627,
       "name": "Stammi Vicino",
       "url": "https://open.spotify.com/track/1KR1qEkaX8PIHXBYfSOpr1"
+    },
+    {
+      "album": {
+        "name": "Stanza Singola",
+        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
+      },
+      "artists": [
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196615,
+      "name": "Stanza Singola (feat. Tommaso Paradiso)",
+      "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
     },
     {
       "album": {
@@ -2385,7 +2865,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 219706,
       "name": "Stringimi Pi\u00f9 Forte",
       "url": "https://open.spotify.com/track/3L1uLi5dUwHXyPr1qdFTOS"
@@ -2403,7 +2883,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 172200,
       "name": "Superclassico",
       "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
@@ -2439,7 +2919,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-22",
+      "date_removed": null,
       "duration_ms": 234250,
       "name": "Ti dedico il silenzio",
       "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
@@ -2457,7 +2937,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": "2022-07-26",
       "duration_ms": 169520,
       "name": "Ti ho voluto bene veramente",
       "url": "https://open.spotify.com/track/3z5eL4hQXaBWxSWZUTwI4e"
@@ -2493,7 +2973,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-27",
       "duration_ms": 241466,
       "name": "Ti sposer\u00f2 perch\u00e9",
       "url": "https://open.spotify.com/track/0Jp3BOdSROQLzAnfUGl8ce"
@@ -2515,7 +2995,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267666,
       "name": "Ti vorrei sollevare - With Giuliano Sangiorgi",
       "url": "https://open.spotify.com/track/26DAbhgVoOIPBCfDxyP7xN"
@@ -2533,10 +3013,28 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-22",
       "duration_ms": 251413,
       "name": "Tu",
       "url": "https://open.spotify.com/track/0ZZsGEpFws0EDn7Kos1U2z"
+    },
+    {
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C"
+      },
+      "artists": [
+        {
+          "name": "Umberto Tozzi",
+          "url": "https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251413,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA"
     },
     {
       "album": {
@@ -2551,7 +3049,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 207346,
       "name": "Tua Per Sempre",
       "url": "https://open.spotify.com/track/7a6b81vuhd20Fx4C7EQoZ9"
@@ -2569,7 +3067,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 240240,
       "name": "Un attimo ancora",
       "url": "https://open.spotify.com/track/3lj6yA3gqDanIeNPGbMYRG"
@@ -2605,7 +3103,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 236586,
       "name": "Un'emozione per sempre",
       "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
@@ -2623,7 +3121,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 271376,
       "name": "Una Canzone D'Amore Buttata Via",
       "url": "https://open.spotify.com/track/3hV8uIYz5D5orhpgqixZHj"
@@ -2641,7 +3139,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193573,
       "name": "Una canzone per te",
       "url": "https://open.spotify.com/track/6nxwXubrJ26ZTYrgbNHtvX"
@@ -2659,7 +3157,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 211093,
       "name": "Una finestra tra le stelle",
       "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
@@ -2677,7 +3175,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-09-26",
       "duration_ms": 176373,
       "name": "Una Su 1.000.000",
       "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
@@ -2717,7 +3215,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 241440,
       "name": "Vattene amore (feat. Amedeo Minghi)",
       "url": "https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L"
@@ -2743,7 +3241,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 222047,
       "name": "Venere e Marte (feat. Marco Mengoni, Frah Quintale)",
       "url": "https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps"
@@ -2761,7 +3259,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 253626,
       "name": "Vieni A Vedere Perch\u00e8",
       "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
@@ -2797,10 +3295,28 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-07-24",
       "duration_ms": 231373,
       "name": "Vivimi",
       "url": "https://open.spotify.com/track/20jSmgTANwSWWv9YfFdnNn"
+    },
+    {
+      "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203872,
+      "name": "\u00c8 sempre bello",
+      "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTbGYZ9Pq4TH"

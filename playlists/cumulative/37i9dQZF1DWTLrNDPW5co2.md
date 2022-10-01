@@ -2,9 +2,9 @@
 
 ### [Club Resistance](https://open.spotify.com/playlist/37i9dQZF1DWTLrNDPW5co2)
 
-> Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: I.JORDAN
+> Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: TAAHLIAH
 
-80 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
+85 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Brave](https://open.spotify.com/track/6pVWyzDnj5gazL2QpZN9Qv) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Angelica](https://open.spotify.com/album/2FRhqyhCl2pz7Bx7IiugOI) | 3:04 | 2021-10-15 | 2022-07-15 |
 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 | 2021-10-15 |  |
 | [Chaos in the Distance](https://open.spotify.com/track/2dNYZepmpo2RrnytcoZTrW) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Chaos in the Distance](https://open.spotify.com/album/2n9l0wW4X2UI1jWyipbkxF) | 6:12 | 2021-10-15 | 2022-06-04 |
-| [Cocky](https://open.spotify.com/track/6g2iUBWLQbCFVMqtTaFPhh) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/34CRtqpBcQQzhYfZbkHy3l) | 4:50 | 2021-10-15 |  |
+| [Cocky](https://open.spotify.com/track/108H1bXtmIVHFkh2geKFt9) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/6n9US7BwG1k1A9AEX6DFie) | 4:50 | 2022-07-14 |  |
+| [Cocky](https://open.spotify.com/track/6g2iUBWLQbCFVMqtTaFPhh) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/34CRtqpBcQQzhYfZbkHy3l) | 4:50 | 2021-10-15 | 2022-07-29 |
 | [Come Back](https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi) | 4:37 | 2021-10-15 |  |
 | [Come For Me](https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Come For Me](https://open.spotify.com/album/71IsFudXm4rDy0Q2rrqhUC) | 3:44 | 2022-07-14 |  |
 | [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-07-14 |  |
@@ -43,10 +44,12 @@
 | [Harmonic Frequencies](https://open.spotify.com/track/2U2dlU4ELCrmUOnojBsMcT) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/4KI8PM8G8iT5tc2yAz3PBl) | 4:10 | 2021-10-15 |  |
 | [He Is the Voice I Hear](https://open.spotify.com/track/0bC0IHtRUfM82mozT9cjCh) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [He Is the Voice I Hear](https://open.spotify.com/album/76LFRQ0iWwIJLvdyxL6CzK) | 10:29 | 2021-10-15 |  |
 | [Hip Hop Spa](https://open.spotify.com/track/4pA0yTeV9l0aSwXX593ZBN) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Genre\-Specific Xperience](https://open.spotify.com/album/3SHUtCuskxWnDgBHhupzaF) | 4:24 | 2021-10-15 |  |
-| [Human Sound](https://open.spotify.com/track/51wGOeZ7ma3shFJf1Qgs7E) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 5:26 | 2022-06-03 |  |
+| [Human Sound](https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:26 | 2022-07-14 |  |
+| [Human Sound](https://open.spotify.com/track/51wGOeZ7ma3shFJf1Qgs7E) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 5:26 | 2022-06-03 | 2022-07-29 |
 | [ICU \(feat\. Nomi Ruiz\)](https://open.spotify.com/track/2qT5wU3DiOItGKaLK0EHWT) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S), [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Muvaland](https://open.spotify.com/album/0dJgQS7Aj49uuvGMZTvF14) | 3:08 | 2021-10-15 |  |
 | [If You Were Mine](https://open.spotify.com/track/7d5CdPCDQdFgG580YM2yhU) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [If You Were Mine](https://open.spotify.com/album/5kerw9tRpakleiSbiSvUnI) | 3:19 | 2022-06-03 |  |
-| [Immaterial](https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:52 | 2021-10-15 |  |
+| [Immaterial](https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:52 | 2021-10-15 | 2022-07-29 |
+| [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2022-07-14 |  |
 | [IN IN IN](https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/37g7rTlnjZwOK0S3GOKPO3) | 3:17 | 2021-10-15 |  |
 | [Inside Your Head](https://open.spotify.com/track/6iRSsdRMHkkJfAqT4Zg5oM) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Inside Your Head](https://open.spotify.com/album/3PnWelLCKVI3bDKqtndeiO) | 4:13 | 2021-10-15 |  |
 | [Let A Bitch Know](https://open.spotify.com/track/3cuC10phh07XQrztcNWreU) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [Let A Bitch Know](https://open.spotify.com/album/7MrGtbX1GlNUU3a3uYm4qc) | 5:29 | 2021-10-15 |  |
@@ -65,7 +68,8 @@
 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 | 2022-07-14 |  |
 | [Neverland](https://open.spotify.com/track/3NwKONlygiXJU6G2u6b7iq) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Neverland](https://open.spotify.com/album/1z8kbd29vvgGVkjaxss02U) | 3:21 | 2021-10-15 |  |
 | [Night Creature](https://open.spotify.com/track/3qEel6r284fp9ti2CYuO12) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu) | 3:31 | 2022-06-03 |  |
-| [No Idol \- Remix](https://open.spotify.com/track/3x15lvHEgJoj7XhRV5aXCo) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/0Ooq11mWBxMx34PbeorVkz) | 2:36 | 2021-10-15 |  |
+| [No Idol \- Remix](https://open.spotify.com/track/1eRLxk3ZvgJFsH2wJFcyGq) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/6ODJBf2C5LXJGIcB9QHU7p) | 2:36 | 2022-07-14 |  |
+| [No Idol \- Remix](https://open.spotify.com/track/3x15lvHEgJoj7XhRV5aXCo) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/0Ooq11mWBxMx34PbeorVkz) | 2:36 | 2021-10-15 | 2022-07-29 |
 | [Obliterate](https://open.spotify.com/track/12bWYZA94k9TyxAVQ5aBQ5) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [To Breathe Underwater](https://open.spotify.com/album/2lL7bjuc1QrmCYFuJb1fng) | 3:33 | 2021-10-15 |  |
 | [Peanut Power](https://open.spotify.com/track/5LA74AduqAq7wVQYB8zYGY) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Melbourne Street](https://open.spotify.com/album/62kIRslwee4b9HnwS74GTS) | 4:54 | 2021-10-15 |  |
 | [Prada](https://open.spotify.com/track/7I8UTLiBA1ptFm04WulwhH) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 2:43 | 2022-06-03 |  |
@@ -86,7 +90,8 @@
 | [Trust](https://open.spotify.com/track/2FfIlhqu5PONOnlXoRatom) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Trust](https://open.spotify.com/album/0fLTZ5thAE6uMVd1GrT2Pa) | 3:57 | 2022-06-03 |  |
 | [U4IA \(feat\. Bklava\) \- Edit](https://open.spotify.com/track/7mS1KYt6hQWYQNYggiuaFD) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [U4IA \(feat\. Bklava\)](https://open.spotify.com/album/5ZcKJtwiFSO19THcNAnCRh) | 2:30 | 2021-10-15 |  |
 | [Uyang'khumbula](https://open.spotify.com/track/06RtgiZpMOkPpVevTWdKFh) | [Faka](https://open.spotify.com/artist/7qnN27UrAjCwesCsBHeadM) | [Amaqhawe](https://open.spotify.com/album/6cA5w26FmQnhw9i9YH8vOq) | 5:54 | 2021-10-15 |  |
-| [Watch](https://open.spotify.com/track/7dXD5KXxYVTpAv6Bcsp85c) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq) | 2:28 | 2021-10-15 |  |
+| [Watch](https://open.spotify.com/track/6BTaOTV4R07QunBda62fR7) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:28 | 2022-07-14 |  |
+| [Watch](https://open.spotify.com/track/7dXD5KXxYVTpAv6Bcsp85c) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq) | 2:28 | 2021-10-15 | 2022-07-29 |
 | [You Should Run](https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [You Should Run](https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY) | 4:59 | 2021-10-15 | 2022-06-04 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

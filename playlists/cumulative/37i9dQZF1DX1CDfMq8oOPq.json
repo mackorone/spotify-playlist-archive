@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Fenda",
+  "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Mc Luanna",
   "name": "Baby Hair",
   "published_playlist_ids": [
     "3rwwZkx8eAvX3Q2DGPIL7D"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Cuca",
+        "url": "https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK"
+      },
+      "artists": [
+        {
+          "name": "Ashira",
+          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "A Cuca",
+      "url": "https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh"
+    },
     {
       "album": {
         "name": "Meu Santo \u00c9 Forte",
@@ -23,7 +41,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 192128,
       "name": "Afreket\u00ea",
       "url": "https://open.spotify.com/track/6KG9pXyveLUvV1ff5iuAAe"
@@ -470,6 +488,28 @@
     },
     {
       "album": {
+        "name": "Florescer",
+        "url": "https://open.spotify.com/album/1NJsjzZ2AZBFCPCOeVyb7x"
+      },
+      "artists": [
+        {
+          "name": "Mayarah Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/2FmV8Y424XsncsEO9ztY3p"
+        },
+        {
+          "name": "Blood Beatz",
+          "url": "https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288068,
+      "name": "Florescer",
+      "url": "https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F"
+    },
+    {
+      "album": {
         "name": "FLOW",
         "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
       },
@@ -507,10 +547,36 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152625,
       "name": "FREESTYLE DAS FAIXA ROSA",
       "url": "https://open.spotify.com/track/1lx5dn3ESLOPPhEQ0G6TgB"
+    },
+    {
+      "album": {
+        "name": "FEBRE AMARELA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL"
+      },
+      "artists": [
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "FREESTYLE DAS FAIXA ROSA",
+      "url": "https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK"
     },
     {
       "album": {
@@ -533,6 +599,32 @@
       "duration_ms": 235350,
       "name": "Girlgang",
       "url": "https://open.spotify.com/track/6b9BbNiHZkmGCXkSzTls5I"
+    },
+    {
+      "album": {
+        "name": "Gloss da Fenty",
+        "url": "https://open.spotify.com/album/6CeFh6CSzKy1bc26R0155q"
+      },
+      "artists": [
+        {
+          "name": "ADH4RAA",
+          "url": "https://open.spotify.com/artist/5b6HkQI2FG6VyL7ZnK9t1e"
+        },
+        {
+          "name": "Ayla On The Beat",
+          "url": "https://open.spotify.com/artist/6k595dcIJDVjfgANp2VgTV"
+        },
+        {
+          "name": "Xavier2bit",
+          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150009,
+      "name": "Gloss da Fenty",
+      "url": "https://open.spotify.com/track/0DjukObSYMD9NkhKJlB01i"
     },
     {
       "album": {
@@ -655,6 +747,32 @@
       "duration_ms": 163400,
       "name": "Lambe L\u00e1",
       "url": "https://open.spotify.com/track/2tgTqKVSIgg1Jhgv8d6iYg"
+    },
+    {
+      "album": {
+        "name": "Levado",
+        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Rennan Guerra",
+          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
+        },
+        {
+          "name": "Patrick Laplan",
+          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175922,
+      "name": "Levado",
+      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
     },
     {
       "album": {
@@ -921,7 +1039,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 182916,
       "name": "Muito Calma",
       "url": "https://open.spotify.com/track/484fU778Jn6fDeULn8idei"
@@ -973,6 +1091,28 @@
       "duration_ms": 224841,
       "name": "N.I.N.A",
       "url": "https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Nega",
+        "url": "https://open.spotify.com/album/5MAC86ryol0sVYG9YbGgCP"
+      },
+      "artists": [
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        },
+        {
+          "name": "Gu$t",
+          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184329,
+      "name": "N\u00e3o Nega",
+      "url": "https://open.spotify.com/track/4CO98RpRzRzK2V5sOFS01G"
     },
     {
       "album": {
@@ -1116,6 +1256,24 @@
     },
     {
       "album": {
+        "name": "Porta Mala",
+        "url": "https://open.spotify.com/album/6PRJZZi5iupZTLCklur4bs"
+      },
+      "artists": [
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 121704,
+      "name": "Porta Malas",
+      "url": "https://open.spotify.com/track/4oYbNX6n4aVdyNrLalcjo4"
+    },
+    {
+      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -1252,6 +1410,28 @@
     },
     {
       "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marcos Beatman",
+          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196165,
+      "name": "Rotina",
+      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
+    },
+    {
+      "album": {
         "name": "Black Queen Vol. 1",
         "url": "https://open.spotify.com/album/5xcl6VWdjYK4OGaPNCFFP1"
       },
@@ -1293,7 +1473,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 178321,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/1vQXkWFnyhotk8WhS7gRxA"
@@ -1366,6 +1546,24 @@
     },
     {
       "album": {
+        "name": "Sinal",
+        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 173023,
+      "name": "Sinal",
+      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
+    },
+    {
+      "album": {
         "name": "Affair",
         "url": "https://open.spotify.com/album/2hS0idBDjAAlWgY47HYA90"
       },
@@ -1377,7 +1575,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173023,
       "name": "Sinal",
       "url": "https://open.spotify.com/track/3c61X2aLcCAVMMQV1YzSfH"
@@ -1465,7 +1663,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 218978,
       "name": "Susuave",
       "url": "https://open.spotify.com/track/5Gy7iZkGRIY8zUYXzuuvi3"
@@ -1557,7 +1755,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 180145,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7kuYGMg1bWRI9qhAh1sAWq"

@@ -8,6 +8,36 @@
   "tracks": [
     {
       "album": {
+        "name": "The Greatest Story Ever Told",
+        "url": "https://open.spotify.com/album/4dlnbBnFH9CE6sbyrPP2aR"
+      },
+      "artists": [
+        {
+          "name": "David Banner",
+          "url": "https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 247453,
+      "name": "9MM",
+      "url": "https://open.spotify.com/track/2K6FYgz38Kzih6BGJzfD0H"
+    },
+    {
+      "album": {
         "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
@@ -250,6 +280,28 @@
     },
     {
       "album": {
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 202680,
+      "name": "Boss' Life",
+      "url": "https://open.spotify.com/track/4UprL40OVADveANAtCNrIa"
+    },
+    {
+      "album": {
         "name": "X (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
@@ -331,7 +383,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 192666,
       "name": "Crank It Up (feat. Akon)",
       "url": "https://open.spotify.com/track/4PQA5I8Qf99He3SBKtl4Tf"
@@ -444,6 +496,24 @@
     },
     {
       "album": {
+        "name": "Enjoy That",
+        "url": "https://open.spotify.com/album/3pk4icDs1qwl90Q2ZYPMqT"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183206,
+      "name": "Enjoy That",
+      "url": "https://open.spotify.com/track/0siwM0v8NJkkKKtCT2r3Em"
+    },
+    {
+      "album": {
         "name": "Konvicted (Complete Edition)",
         "url": "https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq"
       },
@@ -513,7 +583,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 221327,
       "name": "GET MONEY",
       "url": "https://open.spotify.com/track/7LUYiyveoCa10mdkdFW7gZ"
@@ -828,6 +898,24 @@
     },
     {
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235066,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/0YUrjFy4qFKOO5NhM9tYdV"
+    },
+    {
+      "album": {
         "name": "Trouble Deluxe Edition",
         "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
       },
@@ -839,7 +927,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 235066,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/48EQasc6XD0pOQtkIOWqOC"
@@ -1219,7 +1307,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 241253,
       "name": "Snitch",
       "url": "https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr"

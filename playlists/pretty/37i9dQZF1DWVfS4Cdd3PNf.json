@@ -1,15 +1,51 @@
 {
   "description": "Masterpieces from the world of opera.",
-  "num_followers": 278537,
+  "num_followers": 286951,
   "original_name": "Opera Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE1MzMwNywwMDAwMDAyMDAwMDAwMTgyMTFhMzhlMGUwMDAwMDE4MjExYTM3MWVj",
+  "snapshot_id": "MTY2MTUwNTA5OSwwMDAwMDAwMGI5OWI2Y2Y5MTIzNTZlNjEwOGEwMWM0ZDAxY2U1MDQw",
   "tracks": [
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Ileana Cotrubas",
+          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Chor der Bayerischen Staatsoper M\u00fcnchen",
+          "url": "https://open.spotify.com/artist/2WQOMWyQxqfd96VyU943Tx"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "La traviata / Act I: Libiamo ne'lieti calici",
+      "url": "https://open.spotify.com/track/41ujv4mhxlqR8nlnieDpDp"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Handel: Serse",
         "url": "https://open.spotify.com/album/6FY272Qml0eSe5h27jCBRp"
@@ -29,10 +65,10 @@
       "url": "https://open.spotify.com/track/4fBqGaGJfEqTQDX4d7Hcil"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Puccini: Turandot",
-        "url": "https://open.spotify.com/album/28hZY8nX3wrBlK8x2VhYaI"
+        "url": "https://open.spotify.com/album/4MgEjX6gD7TJcgr47E4RTZ"
       },
       "artists": [
         {
@@ -70,49 +106,13 @@
       ],
       "duration_ms": 402040,
       "name": "Turandot / Act 3: Nessun dorma!",
-      "url": "https://open.spotify.com/track/2JKNdozl7hsO6sf9k5xMvK"
+      "url": "https://open.spotify.com/track/3b9Dae2aPvOGKNOcdhj9CP"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
-      "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/4oqJ13EemIRGsK7u5JIJef"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Ileana Cotrubas",
-          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Chor der Bayerischen Staatsoper M\u00fcnchen",
-          "url": "https://open.spotify.com/artist/2WQOMWyQxqfd96VyU943Tx"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Carlos Kleiber",
-          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "La Traviata / Act 1: \"Libiamo ne'lieti calici\"",
-      "url": "https://open.spotify.com/track/3jQa7pofP3CHRTt4Xnoyt6"
-    },
-    {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Bellini: Norma",
-        "url": "https://open.spotify.com/album/5SjygiAMvX6s4YR2pyc15g"
+        "url": "https://open.spotify.com/album/7JKla9omQOeaZNra867BwK"
       },
       "artists": [
         {
@@ -137,11 +137,11 @@
         }
       ],
       "duration_ms": 390253,
-      "name": "Norma - Critical Edition by Maurizio Biondi and Riccardo Minasi / Act 1 Scene 1: \"Casta Diva\"",
-      "url": "https://open.spotify.com/track/48qAOahd28j6zuPAWSLZ4K"
+      "name": "Norma / Act 1 Scene 1: \"Casta Diva\" (Critical Ed. Maurizio Biondi and Riccardo Minasi)",
+      "url": "https://open.spotify.com/track/0l0e0M0j3T92RnVjka2UQ4"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Puccini: Madama Butterfly",
         "url": "https://open.spotify.com/album/23W9Axn8o18Lyz7twID47Q"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/5E7gz5CbmUBNerBQg19ULz"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "In War & Peace - Harmony through Music",
         "url": "https://open.spotify.com/album/1TjvQpGgD9gaEQbUt5inKM"
@@ -197,10 +197,10 @@
       "url": "https://open.spotify.com/track/2Sbb5o2R6zci4L0xEQhsvK"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Donizetti: L'Elisir d'Amore (2 CDs)",
-        "url": "https://open.spotify.com/album/1knmiJCcDVovnjyo1dY2qz"
+        "name": "Donizetti: L'Elisir d'Amore",
+        "url": "https://open.spotify.com/album/2Kk7UPCVSqtXh815i9ngqQ"
       },
       "artists": [
         {
@@ -224,47 +224,15 @@
           "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
         }
       ],
-      "duration_ms": 398750,
+      "duration_ms": 400506,
       "name": "L'elisir d'amore / Act 2: \"Una furtiva lagrima...Eccola!\"",
-      "url": "https://open.spotify.com/track/16YfaD63RVPaKesYdFEZVn"
+      "url": "https://open.spotify.com/track/1aedGJcS0OmGSzzO5iskIV"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Puccini: Tosca",
-        "url": "https://open.spotify.com/album/3kFpsCEldNRgpQTzc2iXFy"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Leontyne Price",
-          "url": "https://open.spotify.com/artist/3Qh7r2c4JWTmRLH3swU9dC"
-        },
-        {
-          "name": "Giuseppe Taddei",
-          "url": "https://open.spotify.com/artist/1sWPJ06Ed62WqGtrPUY4fa"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
-        }
-      ],
-      "duration_ms": 285733,
-      "name": "Tosca / Act 2: \"Vissi d'arte, vissi d'amore\"",
-      "url": "https://open.spotify.com/track/1bqrhbmSzItIFGal27ErSU"
-    },
-    {
-      "added_at": "2022-07-04 13:34:04",
-      "album": {
-        "name": "The Art Of Ren\u00e9e Fleming",
-        "url": "https://open.spotify.com/album/31bA5djbrOQ3Q5RPBSm3P9"
+        "name": "Opera Chill & Relax",
+        "url": "https://open.spotify.com/album/0kUiwKyKt3FOXFIGII0y2K"
       },
       "artists": [
         {
@@ -284,156 +252,12 @@
           "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
         }
       ],
-      "duration_ms": 169253,
+      "duration_ms": 169880,
       "name": "Gianni Schicchi: \"O mio babbino caro\"",
-      "url": "https://open.spotify.com/track/51Fi8flrG3IHrFeU4G198k"
+      "url": "https://open.spotify.com/track/4ErQ9so16QNxy0srB7vJE7"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
-      "album": {
-        "name": "Purcell: Dido & Aeneas",
-        "url": "https://open.spotify.com/album/42KkKtXPMnnsO6W1OS3DO1"
-      },
-      "artists": [
-        {
-          "name": "Henry Purcell",
-          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
-        },
-        {
-          "name": "Catherine Bott",
-          "url": "https://open.spotify.com/artist/7KRp4uySSbnML3PBKpcZp2"
-        },
-        {
-          "name": "Academy of Ancient Music",
-          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
-        },
-        {
-          "name": "Christopher Hogwood",
-          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Dido and Aeneas, Z.626 / Act 3: \"Thy Hand Belinda - When I Am Laid In Earth\"",
-      "url": "https://open.spotify.com/track/5qMrDH1pbfgDcLU3dH3B0j"
-    },
-    {
-      "added_at": "2022-07-04 13:34:04",
-      "album": {
-        "name": "Handel: Giulio Cesare in Egitto (Julius Caesar) (Sung in English)",
-        "url": "https://open.spotify.com/album/4RHx6lA24JoSylb2kGaNFc"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Dame Janet Baker",
-          "url": "https://open.spotify.com/artist/4ThA3BeHNucwqI7wKyKS8h"
-        },
-        {
-          "name": "English National Opera Orchestra",
-          "url": "https://open.spotify.com/artist/2G9HzF9PZnA1JONaC5SvmA"
-        },
-        {
-          "name": "Sir Charles Mackerras",
-          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
-        },
-        {
-          "name": "Christopher Booth-Jones",
-          "url": "https://open.spotify.com/artist/7vrXctbQaY1POkNdhwy7bI"
-        },
-        {
-          "name": "Sarah Walker",
-          "url": "https://open.spotify.com/artist/2JxDAansDComA20jQwvdpd"
-        },
-        {
-          "name": "Della Jones",
-          "url": "https://open.spotify.com/artist/6AGV38GTVJ2SckQrhN0mav"
-        },
-        {
-          "name": "Valerie Masterson",
-          "url": "https://open.spotify.com/artist/1godYJmIid3ZStYD02whcg"
-        },
-        {
-          "name": "James Bowman",
-          "url": "https://open.spotify.com/artist/4xxFcRBOp4jUE3tFHEEYeN"
-        },
-        {
-          "name": "John Tomlinson",
-          "url": "https://open.spotify.com/artist/0uSSjCzPnKz5vFfiHL2Mx7"
-        },
-        {
-          "name": "David James",
-          "url": "https://open.spotify.com/artist/3IuaZcLJ7Y43k5rF4EtP5U"
-        },
-        {
-          "name": "English National Opera Chorus",
-          "url": "https://open.spotify.com/artist/7sZOACwTuMdMnuaiVUUUPi"
-        }
-      ],
-      "duration_ms": 410906,
-      "name": "Giulio Cesare in Egitto, HWV 17, Act III Scene 1: Flow, my tears (Cleopatra) [Sung in English]",
-      "url": "https://open.spotify.com/track/1zKQKNPDDsyXKZOM1u70dC"
-    },
-    {
-      "added_at": "2022-07-04 13:34:04",
-      "album": {
-        "name": "Puccini: Madama Butterfly, SC 74 / Act 2: Addio fiorito asil",
-        "url": "https://open.spotify.com/album/0fG8aswgbMfsUXBbANeBx7"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Freddie De Tommaso",
-          "url": "https://open.spotify.com/artist/4leT3QmSGt6qmfuwvrIB2o"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Paolo Arrivabeni",
-          "url": "https://open.spotify.com/artist/3tgA6pEg6pWJPz2EeDEOkJ"
-        }
-      ],
-      "duration_ms": 127426,
-      "name": "Madama Butterfly, SC 74 / Act 2: Addio fiorito asil",
-      "url": "https://open.spotify.com/track/0X0XYtZ3Ldihq2HccbVUTE"
-    },
-    {
-      "added_at": "2022-07-04 13:34:04",
-      "album": {
-        "name": "Leoncavallo: Pagliacci",
-        "url": "https://open.spotify.com/album/5btOhOSp8wd1mNrcU4gzwA"
-      },
-      "artists": [
-        {
-          "name": "Ruggero Leoncavallo",
-          "url": "https://open.spotify.com/artist/72auy9NefUbGecYVrTiPzq"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "National Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
-        },
-        {
-          "name": "Giuseppe Patan\u00e8",
-          "url": "https://open.spotify.com/artist/5ZJ9PMKBpN56YhrhFzAR5o"
-        }
-      ],
-      "duration_ms": 248306,
-      "name": "Pagliacci / Act 1: \"Recitar!...Vesti la giubba\"",
-      "url": "https://open.spotify.com/track/2aALCCCqOJRFZyC7bU5prS"
-    },
-    {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Mattei, Peter: Great Baritone Arias",
         "url": "https://open.spotify.com/album/0G2GNH7l5xr3JdESHgJI0z"
@@ -461,7 +285,151 @@
       "url": "https://open.spotify.com/track/5p4BRlcUzvRpApjjEFAtUq"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Puccini: Tosca",
+        "url": "https://open.spotify.com/album/2oEn5IklXZ1V64HTAW2XBF"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Leontyne Price",
+          "url": "https://open.spotify.com/artist/3Qh7r2c4JWTmRLH3swU9dC"
+        },
+        {
+          "name": "Giuseppe Taddei",
+          "url": "https://open.spotify.com/artist/1sWPJ06Ed62WqGtrPUY4fa"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "duration_ms": 285733,
+      "name": "Tosca / Act 2: \"Vissi d'arte, vissi d'amore\"",
+      "url": "https://open.spotify.com/track/7llzoWbL1ToAHq9IL3F84D"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Purcell: Dido and Aeneas",
+        "url": "https://open.spotify.com/album/5TT52YrUqYmYuKbnyRq1Yh"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Catherine Bott",
+          "url": "https://open.spotify.com/artist/7KRp4uySSbnML3PBKpcZp2"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Dido and Aeneas / Act 3: \"Thy Hand Belinda - When I Am Laid In Earth\"",
+      "url": "https://open.spotify.com/track/7zY5vYh9YGBwU63IacQpn4"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Handel: Julius Caesar",
+        "url": "https://open.spotify.com/album/6WQlPuzGHzA1viZ7GICO0K"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+        },
+        {
+          "name": "English National Opera Orchestra",
+          "url": "https://open.spotify.com/artist/2G9HzF9PZnA1JONaC5SvmA"
+        },
+        {
+          "name": "Valerie Masterson",
+          "url": "https://open.spotify.com/artist/1godYJmIid3ZStYD02whcg"
+        }
+      ],
+      "duration_ms": 410906,
+      "name": "Julius Caesar, HWV 17, Act III Scene 1: Flow, my tears (Cleopatra)",
+      "url": "https://open.spotify.com/track/4s4te4NrRBGBcQpzYMx8ER"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Puccini: Madama Butterfly, SC 74 / Act 2: Addio fiorito asil",
+        "url": "https://open.spotify.com/album/0fG8aswgbMfsUXBbANeBx7"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Freddie De Tommaso",
+          "url": "https://open.spotify.com/artist/4leT3QmSGt6qmfuwvrIB2o"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Paolo Arrivabeni",
+          "url": "https://open.spotify.com/artist/3tgA6pEg6pWJPz2EeDEOkJ"
+        }
+      ],
+      "duration_ms": 127426,
+      "name": "Madama Butterfly, SC 74 / Act 2: Addio fiorito asil",
+      "url": "https://open.spotify.com/track/0X0XYtZ3Ldihq2HccbVUTE"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Mascagni: Cavalleria Rusticana/Leoncavallo: Pagliacci",
+        "url": "https://open.spotify.com/album/0MkD4EFygmHlaZKjUBeOom"
+      },
+      "artists": [
+        {
+          "name": "Ruggero Leoncavallo",
+          "url": "https://open.spotify.com/artist/72auy9NefUbGecYVrTiPzq"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Giuseppe Patan\u00e8",
+          "url": "https://open.spotify.com/artist/5ZJ9PMKBpN56YhrhFzAR5o"
+        }
+      ],
+      "duration_ms": 248306,
+      "name": "Pagliacci / Act 1: \"Recitar!...Vesti la giubba\"",
+      "url": "https://open.spotify.com/track/1gcF7SWXRSlceY4AadLGN8"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Mozart Collection",
         "url": "https://open.spotify.com/album/1j4ex40BEDd4jWIKPkg69n"
@@ -493,7 +461,7 @@
       "url": "https://open.spotify.com/track/2YGtQqSZ6a4VNPN1Xlnd2m"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Mozart, Righini, Salieri: Arie di bravura",
         "url": "https://open.spotify.com/album/3Doh2VTKh0wy8mZgLONkkp"
@@ -521,7 +489,7 @@
       "url": "https://open.spotify.com/track/2IRMCtPrxmJwpyfCF8WcJA"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "The Verdi Album",
         "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
@@ -549,10 +517,10 @@
       "url": "https://open.spotify.com/track/0OVK1MteIBXXJARVHFFhXY"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Gershwin: Porgy & Bess",
-        "url": "https://open.spotify.com/album/0xbkChTlXqCrTyrqWhHIpO"
+        "url": "https://open.spotify.com/album/2nwluoF8qE0pVipfDzn8Yj"
       },
       "artists": [
         {
@@ -602,222 +570,10 @@
       ],
       "duration_ms": 525933,
       "name": "Porgy and Bess / Act 1: \"Summertime\"",
-      "url": "https://open.spotify.com/track/09P0pg2kSumSWT45Mt6gec"
+      "url": "https://open.spotify.com/track/6KPHeapd7OZ6W0jEoOWT6L"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
-      "album": {
-        "name": "Tchaikovsky: Eugene Onegin (2 CDs)",
-        "url": "https://open.spotify.com/album/3yd64wWaaqIWm2cyddgm3I"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Nuccia Focile",
-          "url": "https://open.spotify.com/artist/2xVLSKZo9dAu6iRznWTCxS"
-        },
-        {
-          "name": "Orchestre de Paris",
-          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
-        },
-        {
-          "name": "Semyon Bychkov",
-          "url": "https://open.spotify.com/artist/6qg886AZaBjnfRF5tEs4Ht"
-        }
-      ],
-      "duration_ms": 797000,
-      "name": "Eugene Onegin, Op.24, TH.5 / Act 1: Letter scene. \"Puskai pogilabnu ya, no pryezhde\"",
-      "url": "https://open.spotify.com/track/3y1RbjgLqkkJG4ufFnQKG1"
-    },
-    {
-      "added_at": "2022-07-04 13:34:04",
-      "album": {
-        "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
-        "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Lise Davidsen",
-          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
-        }
-      ],
-      "duration_ms": 221186,
-      "name": "Tannh\u00e4user, WWV 70 / Act 2: \"Dich, teure Halle, gr\u00fc\u00df ich wieder\"",
-      "url": "https://open.spotify.com/track/5dBHELm9dGc3kKsPeYIYKd"
-    },
-    {
-      "added_at": "2022-07-04 13:34:04",
-      "album": {
-        "name": "Puccini: La Boh\u00e8me",
-        "url": "https://open.spotify.com/album/0mQwpPb5qDSfrjiNP6irhR"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Jos\u00e9 Carreras",
-          "url": "https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15"
-        },
-        {
-          "name": "Katia Ricciarelli",
-          "url": "https://open.spotify.com/artist/23g65hwLAhIc38UPUsqNtc"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 261160,
-      "name": "La Boh\u00e8me / Act 1: \"O soave fanciulla\"",
-      "url": "https://open.spotify.com/track/07k71c8312GKekT3pdz5Cj"
-    },
-    {
-      "added_at": "2022-07-04 13:34:04",
-      "album": {
-        "name": "Delibes: Lakm\u00e9",
-        "url": "https://open.spotify.com/album/1OkIJrmqYJWvXBATovPo4c"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Delibes",
-          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
-        },
-        {
-          "name": "Dame Joan Sutherland",
-          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
-        },
-        {
-          "name": "Jane Berbi\u00e9",
-          "url": "https://open.spotify.com/artist/1efWjOuWWOJNgDzmBoC01L"
-        },
-        {
-          "name": "Orchestre National de l'Op\u00e9ra de Monte-Carlo",
-          "url": "https://open.spotify.com/artist/2EIsRuqHyxuYU1b3Ja3U8U"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "duration_ms": 358733,
-      "name": "Lakm\u00e9 / Act 1: \"Viens, Mallika, ... D\u00f4me \u00e9pais\"",
-      "url": "https://open.spotify.com/track/5LtpsvfOBVOywy3DUhNPAC"
-    },
-    {
-      "added_at": "2022-07-04 13:34:04",
-      "album": {
-        "name": "Bryn Terfel sings Favourites",
-        "url": "https://open.spotify.com/album/3dG8ccV6L4jIaFfVzSa9nh"
-      },
-      "artists": [
-        {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
-        },
-        {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Barry Wordsworth",
-          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "Carmen / Act 2: Toreador Song: \"Votre toast, je peux vous le rendre\" (from Carmen / Act 2)",
-      "url": "https://open.spotify.com/track/0BcbSvjOZ9dUDmXAcnqmeO"
-    },
-    {
-      "added_at": "2022-07-04 13:34:04",
-      "album": {
-        "name": "Pure - Maria Callas",
-        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
-      },
-      "artists": [
-        {
-          "name": "Umberto Giordano",
-          "url": "https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 295626,
-      "name": "Giordano: Andrea Ch\u00e9nier, Act 3: \"La mamma morta\" (Maddalena)",
-      "url": "https://open.spotify.com/track/36soyVMvHB2FRb0DgLr9ll"
-    },
-    {
-      "added_at": "2022-07-04 13:34:04",
-      "album": {
-        "name": "Joseph Calleja - Verdi",
-        "url": "https://open.spotify.com/album/66mi5SLOo2p9uJX09GSHVu"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Joseph Calleja",
-          "url": "https://open.spotify.com/artist/30btg3WkeQgKssm3aPPE4W"
-        },
-        {
-          "name": "Angela Gheorghiu",
-          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
-        },
-        {
-          "name": "Apollo Voices",
-          "url": "https://open.spotify.com/artist/2qzv3PmWtIAcLFAWVsrw0N"
-        },
-        {
-          "name": "Orquestra de la Comunitat Valenciana",
-          "url": "https://open.spotify.com/artist/3XAv09eczjHpjjuvFzjz1K"
-        },
-        {
-          "name": "Ram\u00f3n Tebar",
-          "url": "https://open.spotify.com/artist/0N6Dg3OhvkCrH9AHgJfAnm"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "Il Trovatore / Act 3: \"Di quella pira\"",
-      "url": "https://open.spotify.com/track/0BrFvLsC8ydsHIz6jghMPo"
-    },
-    {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Bizet : Carmen",
         "url": "https://open.spotify.com/album/249X9ZjhWATM2KlkcCh9pt"
@@ -849,7 +605,247 @@
       "url": "https://open.spotify.com/track/3pzBD8BVdrv7VJ7glRYshl"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Ponchielli: La Gioconda, Op. 9: Cielo e mar!",
+        "url": "https://open.spotify.com/album/24TYduhdTOGrp1VWmXHGta"
+      },
+      "artists": [
+        {
+          "name": "Amilcare Ponchielli",
+          "url": "https://open.spotify.com/artist/088fpww3Ae4U9cMZv5O6m8"
+        },
+        {
+          "name": "Jonathan Tetelman",
+          "url": "https://open.spotify.com/artist/1R6qryuCn32Ig78bYV3uJU"
+        },
+        {
+          "name": "Orquesta Filarm\u00f3nica de Gran Canaria",
+          "url": "https://open.spotify.com/artist/18SImxY1TMmfrgVa867t7P"
+        },
+        {
+          "name": "Karel Mark Chichon",
+          "url": "https://open.spotify.com/artist/6hV2oGgCMVh3zPuyPIvHpq"
+        }
+      ],
+      "duration_ms": 263986,
+      "name": "La Gioconda, Op. 9: Cielo e mar!",
+      "url": "https://open.spotify.com/track/11y8qjbqbXbE6T6kbbY98I"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Tchaikovsky: Eugene Onegin",
+        "url": "https://open.spotify.com/album/1hMep0rGLmY9o6rUsrVHYB"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Nuccia Focile",
+          "url": "https://open.spotify.com/artist/2xVLSKZo9dAu6iRznWTCxS"
+        },
+        {
+          "name": "Orchestre de Paris",
+          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
+        },
+        {
+          "name": "Semyon Bychkov",
+          "url": "https://open.spotify.com/artist/6qg886AZaBjnfRF5tEs4Ht"
+        }
+      ],
+      "duration_ms": 797000,
+      "name": "Eugene Onegin, Op. 24, TH.5 / Act 1: Letter scene. \"Puskai pogilabnu ya, no pryezhde\"",
+      "url": "https://open.spotify.com/track/2EWOmTryJH9gIZ49WW7CsY"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
+        "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Lise Davidsen",
+          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "duration_ms": 221186,
+      "name": "Tannh\u00e4user, WWV 70 / Act 2: \"Dich, teure Halle, gr\u00fc\u00df ich wieder\"",
+      "url": "https://open.spotify.com/track/5dBHELm9dGc3kKsPeYIYKd"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Puccini: La Boh\u00e8me",
+        "url": "https://open.spotify.com/album/0mQwpPb5qDSfrjiNP6irhR"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Jos\u00e9 Carreras",
+          "url": "https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15"
+        },
+        {
+          "name": "Katia Ricciarelli",
+          "url": "https://open.spotify.com/artist/23g65hwLAhIc38UPUsqNtc"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 261160,
+      "name": "La Boh\u00e8me / Act 1: \"O soave fanciulla\"",
+      "url": "https://open.spotify.com/track/07k71c8312GKekT3pdz5Cj"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Delibes: Lakm\u00e9 - Highlights",
+        "url": "https://open.spotify.com/album/24bFwfNtVEaZ8woEuvqPyw"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "Jane Berbi\u00e9",
+          "url": "https://open.spotify.com/artist/1efWjOuWWOJNgDzmBoC01L"
+        },
+        {
+          "name": "Orchestre National de l'Op\u00e9ra de Monte-Carlo",
+          "url": "https://open.spotify.com/artist/2EIsRuqHyxuYU1b3Ja3U8U"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "duration_ms": 363493,
+      "name": "Lakm\u00e9 / Act 1: \"Viens, Mallika, ... D\u00f4me \u00e9pais\" (Flower Duet)",
+      "url": "https://open.spotify.com/track/4L2D6eUEQOdvAyjc0khFAW"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Bryn Terfel sings Favourites",
+        "url": "https://open.spotify.com/album/1wGcoG3Pm8s1E7hl5MNJYD"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "Carmen / Act II: Toreador Song: \"Votre toast, je peux vous le rendre\" (from Carmen / Act 2)",
+      "url": "https://open.spotify.com/track/4GtwsI12udoBup7wWj7uEa"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+      },
+      "artists": [
+        {
+          "name": "Umberto Giordano",
+          "url": "https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "duration_ms": 295626,
+      "name": "Giordano: Andrea Ch\u00e9nier, Act 3: \"La mamma morta\" (Maddalena)",
+      "url": "https://open.spotify.com/track/36soyVMvHB2FRb0DgLr9ll"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Joseph Calleja - Verdi",
+        "url": "https://open.spotify.com/album/3JDE8sJk4RWe6LS7LRbaVm"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Joseph Calleja",
+          "url": "https://open.spotify.com/artist/30btg3WkeQgKssm3aPPE4W"
+        },
+        {
+          "name": "Angela Gheorghiu",
+          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
+        },
+        {
+          "name": "Apollo Voices",
+          "url": "https://open.spotify.com/artist/2qzv3PmWtIAcLFAWVsrw0N"
+        },
+        {
+          "name": "Orquestra de la Comunitat Valenciana",
+          "url": "https://open.spotify.com/artist/3XAv09eczjHpjjuvFzjz1K"
+        },
+        {
+          "name": "Ram\u00f3n Tebar",
+          "url": "https://open.spotify.com/artist/0N6Dg3OhvkCrH9AHgJfAnm"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "Il Trovatore / Act 3: \"Di quella pira\"",
+      "url": "https://open.spotify.com/track/0rzDX4x0oSI2Gs3mPEvoIl"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Gluck: Orfeo ed Euridice",
         "url": "https://open.spotify.com/album/1WbfUsKlz4KDPMKCLYkhDr"
@@ -877,10 +873,10 @@
       "url": "https://open.spotify.com/track/2Yi7qbnLkyfgLNjscJt5dU"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Puccini: Manon Lescaut / Act 2, \"In quelle trine morbide\"",
-        "url": "https://open.spotify.com/album/0wfeJTcBKXv6dklNZycWPc"
+        "name": "Verismo",
+        "url": "https://open.spotify.com/album/2eNDxlVOu7zEr3r3qBHiSZ"
       },
       "artists": [
         {
@@ -901,14 +897,14 @@
         }
       ],
       "duration_ms": 167786,
-      "name": "Manon Lescaut / Act 2: \"In quelle trine morbide\"",
-      "url": "https://open.spotify.com/track/2ItBFk9uQHqPyANx8rEUr2"
+      "name": "Manon Lescaut / Act II: \"In quelle trine morbide\"",
+      "url": "https://open.spotify.com/track/3nbcin8kl89hboxQBKaLR0"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Rossini: P\u00e9ch\u00e9s de vieillesse / Vol. III, Tirana pour deux voix (Les amants de S\u00e9ville)",
-        "url": "https://open.spotify.com/album/5hiEihP2oH5THxsXey0XDh"
+        "name": "Treasures Of Bel Canto",
+        "url": "https://open.spotify.com/album/6ZbpGBraLpLWQob0t8nWNu"
       },
       "artists": [
         {
@@ -934,13 +930,13 @@
       ],
       "duration_ms": 268880,
       "name": "P\u00e9ch\u00e9s de vieillesse / Vol. III: Tirana pour deux voix (Les amants de S\u00e9ville)",
-      "url": "https://open.spotify.com/track/5X6bt0reZfHUAn0KpBrArf"
+      "url": "https://open.spotify.com/track/543q4AaOPCHO4XkRnqdq7H"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Arias",
-        "url": "https://open.spotify.com/album/2VCnL88q9TjA8C2xQon4jl"
+        "url": "https://open.spotify.com/album/54lNbesx2bw7HraNASuHBK"
       },
       "artists": [
         {
@@ -962,10 +958,10 @@
       ],
       "duration_ms": 278693,
       "name": "La Boh\u00e8me / Act 1: \"S\u00ec. Mi chiamano Mim\u00ec\"",
-      "url": "https://open.spotify.com/track/6s4xgBaxucbNcyVsFmMClO"
+      "url": "https://open.spotify.com/track/6Y0zSUxBvofKQsdLDPwEJ0"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Leh\u00e1r: Die Lustige Witwe",
         "url": "https://open.spotify.com/album/3kxyL2TTETS7NVOpvhHVyD"
@@ -997,7 +993,7 @@
       "url": "https://open.spotify.com/track/4fIx0q4mrpO6Q2FVspeLCr"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Verismo Recital",
         "url": "https://open.spotify.com/album/3xyaZbKM44Fpn5y5Sh76P3"
@@ -1025,7 +1021,7 @@
       "url": "https://open.spotify.com/track/47KC5PP73D2eqdmnaLPAOy"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Wagner: Lohengrin",
         "url": "https://open.spotify.com/album/60op9CfRD0ehAq8PR5i9sG"
@@ -1077,10 +1073,10 @@
       "url": "https://open.spotify.com/track/2LNFlLZW1tug0TS6xGEVIt"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Jan\u00e1cek: Jenufa (2 CDs)",
-        "url": "https://open.spotify.com/album/2fKPmOuYcrYIUcL20AhqF5"
+        "name": "Jan\u00e1cek: Jenufa",
+        "url": "https://open.spotify.com/album/63U7XshJIou5TN8HcxYrK1"
       },
       "artists": [
         {
@@ -1102,10 +1098,10 @@
       ],
       "duration_ms": 227893,
       "name": "Jenufa / Act 2: Co chvila ... co chvila",
-      "url": "https://open.spotify.com/track/4D7a9OjZ7WjCenCyoYTd6o"
+      "url": "https://open.spotify.com/track/7yNPM54qUND5OGfFh5btnn"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Korngold: Die tote Stadt",
         "url": "https://open.spotify.com/album/5rdIMi9GuZDB8NB5W3rO4V"
@@ -1169,7 +1165,7 @@
       "url": "https://open.spotify.com/track/47xZ59XjNaGgnmWy2X1WUL"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Rossini: Opera Arias & Duets (Live)",
         "url": "https://open.spotify.com/album/2aSmY8RlsBN5SXFA4smjTo"
@@ -1197,7 +1193,7 @@
       "url": "https://open.spotify.com/track/4dE0YDyMRnZg6Xr4TpqWj1"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "John Adams: The Death Of Klinghoffer",
         "url": "https://open.spotify.com/album/79BL8ogezvJYVXJuqA4RK4"
@@ -1225,7 +1221,7 @@
       "url": "https://open.spotify.com/track/5L9bEvb3CdE9LQWe5hAhD2"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Offenbach : Les Contes d'Hoffmann",
         "url": "https://open.spotify.com/album/56Ec9i5h2Hfuf362HZtCNm"
@@ -1265,10 +1261,10 @@
       "url": "https://open.spotify.com/track/6pDSf6GQH4LbBWT1mQIUN1"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Smetana: Bartered Bride (The) (Sung in English)",
-        "url": "https://open.spotify.com/album/7mpM5cKjNg0ipwDK6CCxCd"
+        "name": "Smetana: The Bartered Bride",
+        "url": "https://open.spotify.com/album/19JUaauHL7ICfCkvUpVI7L"
       },
       "artists": [
         {
@@ -1276,76 +1272,24 @@
           "url": "https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4"
         },
         {
-          "name": "Neal Davies",
-          "url": "https://open.spotify.com/artist/4VRMPNDeWr74fkFciEKRJz"
-        },
-        {
-          "name": "Yvette Bonner",
-          "url": "https://open.spotify.com/artist/0H61kJFYywaym5Cj2FFVx9"
-        },
-        {
-          "name": "Kit Hesketh-Harvey",
-          "url": "https://open.spotify.com/artist/6X9FOxDBP6xcEN4b1dAuPA"
-        },
-        {
-          "name": "Louis Hill",
-          "url": "https://open.spotify.com/artist/1cSBApFajJnXaE1kCXO2HU"
-        },
-        {
-          "name": "Ravi Shar",
-          "url": "https://open.spotify.com/artist/5PB6m9kMaHdxihida12VcX"
-        },
-        {
-          "name": "Royal Opera House Chorus, Covent Garden",
-          "url": "https://open.spotify.com/artist/36aSkq1idIPPSw3mXXrAS5"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
           "name": "Sir Charles Mackerras",
           "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
         },
         {
-          "name": "Yvonne Howard",
-          "url": "https://open.spotify.com/artist/23hUoIzRGQxiDhzLbhDk8I"
+          "name": "Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h"
         },
         {
-          "name": "Susan Gritton",
-          "url": "https://open.spotify.com/artist/1YMbB0JFvwgDiQAWAOT4t3"
-        },
-        {
-          "name": "Geoffrey Moses",
-          "url": "https://open.spotify.com/artist/5OtMxlHTdxqYV85A8kCD1G"
-        },
-        {
-          "name": "Diana Montague",
-          "url": "https://open.spotify.com/artist/3RQI3hr5BUJmd5q8PgWYF7"
-        },
-        {
-          "name": "Timothy Robinson",
-          "url": "https://open.spotify.com/artist/1GsTYnEhohijcX3NlYLHcO"
-        },
-        {
-          "name": "Paul Charles Clarke",
-          "url": "https://open.spotify.com/artist/3hsDRa0XuW4troMPfqZEih"
-        },
-        {
-          "name": "Peter Rose",
-          "url": "https://open.spotify.com/artist/0l7JsNAhrrXcyOoELlkV35"
-        },
-        {
-          "name": "Robin Leggate",
-          "url": "https://open.spotify.com/artist/12wGKL6pMuRYJk0MclJjXQ"
+          "name": "The Royal Opera Chorus",
+          "url": "https://open.spotify.com/artist/2z0JrVyvxj5UxuM1Xv6Uj4"
         }
       ],
-      "duration_ms": 280080,
-      "name": "The Bartered Bride, JB 1:100, B. 131, Act I Scene 5: Introduction. Polka - Take your partners for the polka (Chorus)",
-      "url": "https://open.spotify.com/track/79bTPqLKtFMo01nbx1d7eU"
+      "duration_ms": 279800,
+      "name": "The Bartered Bride, Act I Scene V: Introduction. Polka",
+      "url": "https://open.spotify.com/track/6AvtenMXMuwN6OuOV8nyCo"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Aniara",
         "url": "https://open.spotify.com/album/1fbOKMrgb1xV2it4nE41jm"
@@ -1405,7 +1349,7 @@
       "url": "https://open.spotify.com/track/2VxItoS2Zw3hytTbVkle85"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Verdi: Il trovatore",
         "url": "https://open.spotify.com/album/3nCdoWqnKIfNN9dSatN6Oz"
@@ -1433,7 +1377,7 @@
       "url": "https://open.spotify.com/track/3rczjlfY4MKNVMIadbegbb"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Hindemith: Mathis der Maler",
         "url": "https://open.spotify.com/album/4iyUA3vI0tgOE4TK9ru3vG"
@@ -1461,7 +1405,7 @@
       "url": "https://open.spotify.com/track/6cBuuO6BUacsua6WC6LAaw"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Sallinen, A.: Kullervo [Opera]",
         "url": "https://open.spotify.com/album/5QYavFMVaKkY9EALfp51AK"
@@ -1541,7 +1485,7 @@
       "url": "https://open.spotify.com/track/11jAVzBi6jVe6iLhl0vzLk"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Rautavaara: Thomas",
         "url": "https://open.spotify.com/album/6BjR51UJYGtOmpPJSqxIFn"
@@ -1613,10 +1557,10 @@
       "url": "https://open.spotify.com/track/78NkLB4BpbghyGHGScMFLv"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Berlioz: Les Troyens",
-        "url": "https://open.spotify.com/album/578TLRGeb4VctpZU35nO72"
+        "url": "https://open.spotify.com/album/77h7EMsE8fLfwUvKZIA2ym"
       },
       "artists": [
         {
@@ -1624,20 +1568,20 @@
           "url": "https://open.spotify.com/artist/11T8SOX82xraocZzUXzkvM"
         },
         {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        },
-        {
           "name": "London Symphony Orchestra",
           "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
         }
       ],
       "duration_ms": 335200,
-      "name": "Les Troyens: Act V, No. 38 - \u201cVallon Sonore\u201d",
-      "url": "https://open.spotify.com/track/6TrMyihTNbTPJ8qBejNtQB"
+      "name": "Les Troyens, Op. 29, H 133, Act V: No. 38. \"Vallon sonore\"",
+      "url": "https://open.spotify.com/track/1inCGcskZI0yUF82Zer4Gc"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Mozart: Opera Arias",
         "url": "https://open.spotify.com/album/4BN1xVL7bW9ZLAssqaipoS"
@@ -1661,10 +1605,10 @@
       "url": "https://open.spotify.com/track/3y6uXIq7vXLGCxeWo2QaPm"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Revive",
-        "url": "https://open.spotify.com/album/1JFsYGPqYRYOcCkUSQEg2U"
+        "url": "https://open.spotify.com/album/4bvFkEAecUwDkqSEs3DZem"
       },
       "artists": [
         {
@@ -1686,10 +1630,10 @@
       ],
       "duration_ms": 218400,
       "name": "Cavalleria rusticana: \"Voi lo sapete, o mamma\"",
-      "url": "https://open.spotify.com/track/4ug5ayQ3HypdIZ93uALBOp"
+      "url": "https://open.spotify.com/track/6tEZyaOnTWUby6MvelM4CU"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Les Huguenots",
         "url": "https://open.spotify.com/album/7bPFB7jlFO4KBqbsWI76im"
@@ -1737,7 +1681,7 @@
       "url": "https://open.spotify.com/track/1AYBkVyiXRRGKjOmBStqLZ"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Gounod : Faust",
         "url": "https://open.spotify.com/album/2TAI2w0u49GhuJkpvyfUYw"
@@ -1761,7 +1705,7 @@
       "url": "https://open.spotify.com/track/4L67mAp4vqOiYVZ2eS7HE3"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Mozart",
         "url": "https://open.spotify.com/album/1j249fgrNlKHwLKbtdACaN"
@@ -1785,7 +1729,7 @@
       "url": "https://open.spotify.com/track/3Om5wgsfqIvLcW9H0x2dda"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Britten: The Turn of the Screw",
         "url": "https://open.spotify.com/album/6MHQpyl25sWoTdltZvY12M"
@@ -1813,10 +1757,10 @@
       "url": "https://open.spotify.com/track/4XDXB2H7R1Y9KmPk6i8BDY"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Wagner: Tannh\u00e4user (3 CDs)",
-        "url": "https://open.spotify.com/album/23EJ6Oz2CZ6QnR51pVtGX4"
+        "name": "Wagner: Tannh\u00e4user",
+        "url": "https://open.spotify.com/album/1umB3IftinbHoxykB0V2Nz"
       },
       "artists": [
         {
@@ -1837,11 +1781,11 @@
         }
       ],
       "duration_ms": 180640,
-      "name": "Tannh\u00e4user - Paris Version / Act 3: \"O du, mein holder Abendstern\"",
-      "url": "https://open.spotify.com/track/5AS3cYrpHIKpRvFzmUHmqU"
+      "name": "Tannh\u00e4user - Paris Version / Act III: O du, mein holder Abendstern",
+      "url": "https://open.spotify.com/track/5ki0dDFazDqshp9Sxyivac"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Pfitzner: Palestrina",
         "url": "https://open.spotify.com/album/5kwKr1x9HxhUAsjZq3XhRG"
@@ -1889,10 +1833,10 @@
       "url": "https://open.spotify.com/track/1obP7HZZhatjkyNDqbRxUa"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Strauss: Der Rosenkavalier",
-        "url": "https://open.spotify.com/album/07kvh8Z09LCHdswSxtcG7C"
+        "name": "R. Strauss: Der Rosenkavalier",
+        "url": "https://open.spotify.com/album/3bSDEcml0EqzlG9RyKWaD0"
       },
       "artists": [
         {
@@ -1922,13 +1866,13 @@
       ],
       "duration_ms": 279733,
       "name": "Strauss, R: Der Rosenkavalier, Op. 59, Act III: \"Marie Theres'! Hab' mir's gelobt\" (Octavian, Marschallin, Sophie)",
-      "url": "https://open.spotify.com/track/1nRIjsw3aKbIYu3pOrHSUp"
+      "url": "https://open.spotify.com/track/59w9mpBDn2pR9UplDThR7i"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Bart\u00f3k: Bluebeard's Castle",
-        "url": "https://open.spotify.com/album/0M0LNoDZgxqsykEkaw9vh4"
+        "url": "https://open.spotify.com/album/23YHlrLdUDW02JIqK294r7"
       },
       "artists": [
         {
@@ -1936,31 +1880,31 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Elena Zhidkova",
-          "url": "https://open.spotify.com/artist/4SkbIWpZC7fDtiZkG2cid6"
-        },
-        {
-          "name": "Willard White",
-          "url": "https://open.spotify.com/artist/4vteTJJmyFSu91w1rxv1Xv"
-        },
-        {
           "name": "Valery Gergiev",
           "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
         },
         {
+          "name": "Elenz Zhidkova",
+          "url": "https://open.spotify.com/artist/3aPS5Zev3oT0AVgwgjc0aL"
+        },
+        {
           "name": "London Symphony Orchestra",
           "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Willard White",
+          "url": "https://open.spotify.com/artist/4vteTJJmyFSu91w1rxv1Xv"
         }
       ],
       "duration_ms": 365933,
       "name": "Bluebeard's Castle: VI. Fifth Door - Bluebeard's Vast and Beautiful Kingdom",
-      "url": "https://open.spotify.com/track/49pAuEJm2xIu6vfLYP2g29"
+      "url": "https://open.spotify.com/track/4Vd3XrtbTMUDTT7UYc0o1F"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Debussy: Pell\u00e9as et M\u00e9lisande (2 CDs)",
-        "url": "https://open.spotify.com/album/3hkGqNxVFh2aDHTd10eFeT"
+        "name": "Debussy: Pell\u00e9as et M\u00e9lisande",
+        "url": "https://open.spotify.com/album/7h03UB8HnlFcANOzvXzVGp"
       },
       "artists": [
         {
@@ -1985,14 +1929,14 @@
         }
       ],
       "duration_ms": 359666,
-      "name": "Pell\u00e9as et M\u00e9lisande, L.88 / Act 3: \"Mes longs cheveux descendent\"",
-      "url": "https://open.spotify.com/track/43dsFFyq7JYPN8SJygpweE"
+      "name": "Pell\u00e9as et M\u00e9lisande, L. 88 / Act III: \"Mes longs cheveux descendent\"",
+      "url": "https://open.spotify.com/track/3tI4bQdZlg0y5zXgNmXzXy"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Wagner: Die Meistersinger Von Nurnberg (4 CDs)",
-        "url": "https://open.spotify.com/album/0T8wemZrsXL34Z3ommBEop"
+        "name": "Wagner: Die Meistersinger Von Nurnberg",
+        "url": "https://open.spotify.com/album/7wXUNOmQNXT2xXGYPlFWgw"
       },
       "artists": [
         {
@@ -2012,8 +1956,8 @@
           "url": "https://open.spotify.com/artist/0saY1OFASKxGUfEYwQyze5"
         },
         {
-          "name": "Adolfo Dallapozza",
-          "url": "https://open.spotify.com/artist/1fvL0ghWjPbbEnq27aDYkM"
+          "name": "Adolf Dallapozza",
+          "url": "https://open.spotify.com/artist/6WZlfAgMSCZf82BsdqFA9f"
         },
         {
           "name": "Julia Hamari",
@@ -2028,12 +1972,12 @@
           "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
         }
       ],
-      "duration_ms": 299305,
+      "duration_ms": 299333,
       "name": "Die Meistersinger von N\u00fcrnberg, WWV 96 / Act 3: \"Selig, wie die Sonne\"",
-      "url": "https://open.spotify.com/track/6RuqArvzxOB22IZk5IA086"
+      "url": "https://open.spotify.com/track/0chObh71oD0pYijuxNSU5S"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Mozart: Idomeneo",
         "url": "https://open.spotify.com/album/59Hf5d60yBOOCW1wAYdUYf"
@@ -2061,10 +2005,10 @@
       "url": "https://open.spotify.com/track/2Z088O7SZC87DBKZvChCFi"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Wagner: Der fliegende Holl\u00e4nder",
-        "url": "https://open.spotify.com/album/2UyLLzksAXiGW36AFPtndD"
+        "name": "Wagner: Der fliegende Holl\u00e4nder (Live)",
+        "url": "https://open.spotify.com/album/0zfpXA2Qm9aGnhTBfuYsrz"
       },
       "artists": [
         {
@@ -2072,12 +2016,12 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Anja Kampe",
-          "url": "https://open.spotify.com/artist/0UKLFKhxyicHinwgTW2KWd"
-        },
-        {
           "name": "Royal Concertgebouw Orchestra",
           "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Anja Kampe",
+          "url": "https://open.spotify.com/artist/0UKLFKhxyicHinwgTW2KWd"
         },
         {
           "name": "Andris Nelsons",
@@ -2085,14 +2029,14 @@
         }
       ],
       "duration_ms": 419573,
-      "name": "Der fliegende Hollander: Act II Scene 4: Johohoe! Traft ihr das Schiff im Meere an (Senta)",
-      "url": "https://open.spotify.com/track/72WfkUI9gFPplj31KxHRfc"
+      "name": "Wagner: Der fliegende Holl\u00e4nder, WWV 63, Act 2: \"Johohoe! Traft ihr das Schiff im Meere an\" (Senta, Chorus) - Live",
+      "url": "https://open.spotify.com/track/1e4TxTGrRwuZqiquUkcxq9"
     },
     {
-      "added_at": "2022-07-04 13:34:04",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Prokofiev: Betrothal in a Monastery",
-        "url": "https://open.spotify.com/album/3UAQoJ37E7jtmMfVX1h9dx"
+        "name": "Prokofiev: Betrothal in a Monastery, Op. 86",
+        "url": "https://open.spotify.com/album/68u2i5065IWlAQSDB68tYt"
       },
       "artists": [
         {
@@ -2100,29 +2044,21 @@
           "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
         },
         {
-          "name": "Mira Mendelson-Prokofieva",
-          "url": "https://open.spotify.com/artist/307ubugm9ICFuz0r0XkvHN"
-        },
-        {
-          "name": "Richard Brinsley Sheridan",
-          "url": "https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64"
-        },
-        {
           "name": "Anatoly Mishchevsky",
-          "url": "https://open.spotify.com/artist/3xqxSstnKs8RLZb2FIkOXp"
+          "url": "https://open.spotify.com/artist/4JBFuBl7EpzvXZrcF70QFd"
         },
         {
           "name": "Kemal Abdullayev",
-          "url": "https://open.spotify.com/artist/0Dy2FZWDvZAwNollbgHpxD"
+          "url": "https://open.spotify.com/artist/0N0tTsKVeftHfUtfB8G5Ep"
         },
         {
-          "name": "Orchestra of the Stanislavski and Nemirovich-Danchenko Music Theatre",
-          "url": "https://open.spotify.com/artist/1dYnXQBvvsneGYJ1USaNHm"
+          "name": "Stanislavsky and Nemirovich-Danchenko Moscow Music Theatre Orchestra",
+          "url": "https://open.spotify.com/artist/07T4KuhCZwUsHrtHjKIsAS"
         }
       ],
       "duration_ms": 199160,
-      "name": "Betrothal in a Monastery, Op. 86, Act I, Tableau 1, Scene 8: \"\u0414\u0440\u0443\u0437\u044c\u044f, \u0443\u0445\u043e\u0434\u0438\u0442\u0435\"",
-      "url": "https://open.spotify.com/track/4gSReSG7whtyRzI2pEHNeE"
+      "name": "Betrothal in a Monastery, Op. 86, Act I Tableau 1 Scene 8: \"Druzya, ukhodite\"",
+      "url": "https://open.spotify.com/track/1GhIGedE1Jf8IkmmBHoYH7"
     }
   ],
   "unique_name": "Opera Classics",

@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes from “Teasing Master Takagi\-san”! 劇場版公開記念『からかい上手の高木さん』プレイリスト！　©S.Y,S/TKGM 2022
 
-43 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/4Z1Mu7UqKoVkx9pVfH1vVA)
+49 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/4Z1Mu7UqKoVkx9pVfH1vVA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,16 +17,21 @@
 | [ありがとう](https://open.spotify.com/track/6vh4m5T5KMFxdKegDeXnm4) | [高木さん\(CV:高橋李依\)](https://open.spotify.com/artist/1R0fW14xdvdhRIJs7WPIGP) | [からかい上手の高木さん2 Cover song collection](https://open.spotify.com/album/6ZkiAyyK8QnvWwIfTdhndY) | 5:59 | 2022-06-09 |  |
 | [からかい上手の高木さん](https://open.spotify.com/track/4F6QMnvOcXkoNfdVpuP3u5) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [劇場版「からかい上手の高木さん」Music Collection](https://open.spotify.com/album/3V0WZDH9H2lLq5GgAwJNdO) | 3:16 | 2022-06-09 |  |
 | [こっちは?](https://open.spotify.com/track/0nFa4HB48O8LQvh0HpL2LJ) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「からかい上手の高木さん2」Music Collection](https://open.spotify.com/album/3hn37dAULrRJk0MAmEJno7) | 1:50 | 2022-06-09 |  |
-| [はじまりの夏](https://open.spotify.com/track/09Rc6m5pUc3Qmg3qmERjpz) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [Island Memories](https://open.spotify.com/album/2A5iZYQxCQ4TvPqG3AjGzO) | 4:19 | 2022-06-09 |  |
-| [まっすぐ](https://open.spotify.com/track/38zG3Jxz9MfYVZ8W3RblXn) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [まっすぐ](https://open.spotify.com/album/3bCnQ4OC3O9eiZSC51eW0b) | 4:30 | 2022-06-09 |  |
-| [まっすぐ \- ラララver.](https://open.spotify.com/track/7FL5RYGxLFnutvqHTAHcTY) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [まっすぐ \(ラララver.\)](https://open.spotify.com/album/3GeheFPA0ZFbzFAXDsHRu8) | 1:34 | 2022-06-09 |  |
+| [はじまりの夏](https://open.spotify.com/track/09Rc6m5pUc3Qmg3qmERjpz) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [Island Memories](https://open.spotify.com/album/2A5iZYQxCQ4TvPqG3AjGzO) | 4:19 | 2022-06-09 | 2022-07-29 |
+| [はじまりの夏](https://open.spotify.com/track/4VaE6Cp8cVhuHyNkm4G3aV) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [はじまりの夏](https://open.spotify.com/album/1otLxro2YK1NXLtZWmKKQe) | 4:19 | 2022-06-09 |  |
+| [まっすぐ](https://open.spotify.com/track/38zG3Jxz9MfYVZ8W3RblXn) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [まっすぐ](https://open.spotify.com/album/3bCnQ4OC3O9eiZSC51eW0b) | 4:30 | 2022-06-09 | 2022-07-29 |
+| [まっすぐ](https://open.spotify.com/track/5m4PEhF3oHe4YCly9ZtiKj) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [まっすぐ](https://open.spotify.com/album/5Fc7AAzEbUixFoS0LtsBMd) | 4:30 | 2022-06-09 |  |
+| [まっすぐ \- ラララver.](https://open.spotify.com/track/5fV4ZmidaZKFrEinff4QZE) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [まっすぐ \(ラララver.\)](https://open.spotify.com/album/5oTcqsAWAFds0nQfK7dha2) | 1:34 | 2022-06-09 |  |
+| [まっすぐ \- ラララver.](https://open.spotify.com/track/7FL5RYGxLFnutvqHTAHcTY) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [まっすぐ \(ラララver.\)](https://open.spotify.com/album/3GeheFPA0ZFbzFAXDsHRu8) | 1:34 | 2022-06-09 | 2022-07-29 |
 | [やさしい気持ち](https://open.spotify.com/track/5aaGjAEUGl8VkHnxEIoMWv) | [高木さん\(CV:高橋李依\)](https://open.spotify.com/artist/1R0fW14xdvdhRIJs7WPIGP) | [からかい上手の高木さん2 Cover song collection](https://open.spotify.com/album/6ZkiAyyK8QnvWwIfTdhndY) | 3:05 | 2022-06-09 |  |
 | [キセキ](https://open.spotify.com/track/26coSq3Zo1bjPlyFVgwc11) | [高木さん\(CV:高橋李依\)](https://open.spotify.com/artist/1R0fW14xdvdhRIJs7WPIGP) | [からかい上手の高木さん2 Cover song collection](https://open.spotify.com/album/6ZkiAyyK8QnvWwIfTdhndY) | 4:30 | 2022-06-09 |  |
-| [サンタになりたい](https://open.spotify.com/track/7rLcsWvwvY4veaaxX0AVRE) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [サンタになりたい](https://open.spotify.com/album/5ikaZleIZErtAzbav5BVSL) | 5:15 | 2022-06-09 |  |
+| [サンタになりたい](https://open.spotify.com/track/6P9ZbYwrzOy4wpkVcvCirx) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [サンタになりたい](https://open.spotify.com/album/4wn67RjuMGLgCU8m73GmXA) | 5:15 | 2022-06-09 |  |
+| [サンタになりたい](https://open.spotify.com/track/7rLcsWvwvY4veaaxX0AVRE) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [サンタになりたい](https://open.spotify.com/album/5ikaZleIZErtAzbav5BVSL) | 5:15 | 2022-06-09 | 2022-07-29 |
 | [ゼロセンチメートル](https://open.spotify.com/track/57Rys1jLTXO8aRIbQzPNSj) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [ゼロセンチメートル \(アニメ盤\)](https://open.spotify.com/album/6McHWyYc2zOcMIz00mrr5z) | 4:06 | 2022-06-09 |  |
 | [チョキ作戦](https://open.spotify.com/track/4TYE8Zf3UaBDvoWQUcXP9u) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [劇場版「からかい上手の高木さん」Music Collection](https://open.spotify.com/album/3V0WZDH9H2lLq5GgAwJNdO) | 2:21 | 2022-06-09 |  |
 | [ハナと高木さんと西片](https://open.spotify.com/track/6xompzP6z5fvNTveqp0ujN) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [劇場版「からかい上手の高木さん」Music Collection](https://open.spotify.com/album/3V0WZDH9H2lLq5GgAwJNdO) | 1:39 | 2022-06-09 |  |
-| [ハマボウの花](https://open.spotify.com/track/21W7mvJhA86fMwhxY9knlk) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [Island Memories](https://open.spotify.com/album/2A5iZYQxCQ4TvPqG3AjGzO) | 4:57 | 2022-06-09 |  |
+| [ハマボウの花](https://open.spotify.com/track/21W7mvJhA86fMwhxY9knlk) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [Island Memories](https://open.spotify.com/album/2A5iZYQxCQ4TvPqG3AjGzO) | 4:57 | 2022-06-09 | 2022-07-29 |
+| [ハマボウの花](https://open.spotify.com/track/6Hr0IUGvPeFeZ90yB2g4KS) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [ハマボウの花](https://open.spotify.com/album/1LfiJLnf2tWsfXmcndyW0H) | 4:57 | 2022-06-09 |  |
 | [ミナとユカリとサナエ](https://open.spotify.com/track/2Ly3H3owLAkXbgi0m3ZgCu) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [からかい上手の高木さん Music Collection](https://open.spotify.com/album/2jQkaKjHsrjfaxaKL9Kq8q) | 1:04 | 2022-06-09 |  |
 | [ミナとユカリとサナエのネコ救出](https://open.spotify.com/track/11z77tAmrlauznGIFhtOGF) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「からかい上手の高木さん3」Music Collection](https://open.spotify.com/album/055mAm94nzaNyYig1Luxrg) | 2:20 | 2022-06-09 |  |
 | [ロミ代とジュリ夫\(本番\)](https://open.spotify.com/track/6UVpYyBlTeUsq7OIZfemTy) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ「からかい上手の高木さん3」Music Collection](https://open.spotify.com/album/055mAm94nzaNyYig1Luxrg) | 3:08 | 2022-06-09 |  |
@@ -48,7 +53,8 @@
 | [雨のち晴れ](https://open.spotify.com/track/3CNQB19ERlfKgGt2StbAun) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [劇場版「からかい上手の高木さん」Music Collection](https://open.spotify.com/album/3V0WZDH9H2lLq5GgAwJNdO) | 3:31 | 2022-06-09 |  |
 | [青春したい](https://open.spotify.com/track/33gkpY4vMAQTk3LwYj6A8e) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [からかい上手の高木さん Music Collection](https://open.spotify.com/album/2jQkaKjHsrjfaxaKL9Kq8q) | 1:18 | 2022-06-09 |  |
 | [風吹けば恋](https://open.spotify.com/track/7j59Ah5wGFh0WwK1z2o1UX) | [高木さん\(CV:高橋李依\)](https://open.spotify.com/artist/1R0fW14xdvdhRIJs7WPIGP) | [からかい上手の高木さん Cover song collection](https://open.spotify.com/album/6G6yyzmoEPUpacTNxTjnaO) | 3:42 | 2022-06-09 |  |
-| [風見鶏を見つけて](https://open.spotify.com/track/1kf8x5NVOJgbggFeJgxZZX) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [風見鶏を見つけて](https://open.spotify.com/album/7Gnl5AteCupc1HseLqgEtP) | 5:07 | 2022-06-09 |  |
+| [風見鶏を見つけて](https://open.spotify.com/track/1D6gC3w9QMdYOXu2B9g2oE) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [風見鶏を見つけて](https://open.spotify.com/album/17ULC3MIHmbLWuOjcbTb1p) | 5:07 | 2022-06-09 |  |
+| [風見鶏を見つけて](https://open.spotify.com/track/1kf8x5NVOJgbggFeJgxZZX) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [風見鶏を見つけて](https://open.spotify.com/album/7Gnl5AteCupc1HseLqgEtP) | 5:07 | 2022-06-09 | 2022-07-29 |
 | [高木さんから西片へ](https://open.spotify.com/track/5FrCBRXgj0rcojx8eEVGrL) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [劇場版「からかい上手の高木さん」Music Collection](https://open.spotify.com/album/3V0WZDH9H2lLq5GgAwJNdO) | 2:43 | 2022-06-09 |  |
 | [高木さんと西片の学校](https://open.spotify.com/track/4SEichjACxYuCPS73pnSyB) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [からかい上手の高木さん Music Collection](https://open.spotify.com/album/2jQkaKjHsrjfaxaKL9Kq8q) | 1:30 | 2022-06-09 |  |
 

@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Bring on Christmas Day",
+        "url": "https://open.spotify.com/album/40jWI7gm77i5F32eXQiIwK"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228860,
+      "name": "Bring on Christmas Day",
+      "url": "https://open.spotify.com/track/4aBOiLLaZesaTEYPItY8A9"
+    },
+    {
+      "album": {
         "name": "Candlelight Processional",
         "url": "https://open.spotify.com/album/0avfdTE7RNtvrH1E56vfTy"
       },
@@ -192,6 +210,24 @@
     },
     {
       "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Miles Goodman",
+          "url": "https://open.spotify.com/artist/6EO3sg6d03gDegWGl2eILt"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57160,
+      "name": "Christmas Morning",
+      "url": "https://open.spotify.com/track/2L2PfoLfYE2a5ExqfymzLF"
+    },
+    {
+      "album": {
         "name": "The Muppets Christmas Carol",
         "url": "https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4"
       },
@@ -203,7 +239,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 57160,
       "name": "Christmas Morning",
       "url": "https://open.spotify.com/track/3GID4s7AqCNCWureohDnZ9"
@@ -495,6 +531,28 @@
       "duration_ms": 151293,
       "name": "Holidays At Home",
       "url": "https://open.spotify.com/track/6FQSGMx4izRscahI2z0YVl"
+    },
+    {
+      "album": {
+        "name": "Home for the Holidays with DCappella",
+        "url": "https://open.spotify.com/album/3FHCtrY8Pu5KfPfvNSMmcZ"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156360,
+      "name": "Home for Christmas",
+      "url": "https://open.spotify.com/track/1dQj0qJwCccf6b9f7zJST5"
     },
     {
       "album": {
@@ -847,10 +905,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162752,
       "name": "Love Runs Deeper - Disney supporting Make-A-Wish",
       "url": "https://open.spotify.com/track/18AKQ0fflzM3vHjlUDh7jA"
+    },
+    {
+      "album": {
+        "name": "Still Rising - The Collection",
+        "url": "https://open.spotify.com/album/3a36uEHK11iZOzaVXTYh50"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162752,
+      "name": "Love Runs Deeper - Disney supporting Make-A-Wish",
+      "url": "https://open.spotify.com/track/4rZM46K4uu9rTAwkS5KSNr"
     },
     {
       "album": {
@@ -865,10 +945,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193200,
       "name": "Marley and Marley",
       "url": "https://open.spotify.com/track/2u0sdhSUMf0JgY1Hc7np4Y"
+    },
+    {
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Marley and Marley",
+          "url": "https://open.spotify.com/artist/51BfdWypRDtOOb3qqHUmc9"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Marley and Marley",
+      "url": "https://open.spotify.com/track/65kJ7r3yumBXKRutWhfMLo"
     },
     {
       "album": {
@@ -1169,10 +1267,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147400,
       "name": "Scrooge",
       "url": "https://open.spotify.com/track/7xdU07TVdbK1XJOiFkcH1X"
+    },
+    {
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "The Muppet Cast",
+          "url": "https://open.spotify.com/artist/0xbgjlBWqSP2hP54ZgjLEW"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147426,
+      "name": "Scrooge",
+      "url": "https://open.spotify.com/track/5qzKbcG0u62q0e8FYyny4s"
     },
     {
       "album": {
@@ -1254,6 +1370,24 @@
     },
     {
       "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Scrooge",
+          "url": "https://open.spotify.com/artist/2kXLMOzLGIsJunZCUFwKh7"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136840,
+      "name": "Thankful Heart",
+      "url": "https://open.spotify.com/track/10gNJKknyceHIU2jEwUq1t"
+    },
+    {
+      "album": {
         "name": "The Muppets Christmas Carol",
         "url": "https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4"
       },
@@ -1265,7 +1399,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136840,
       "name": "Thankful Heart",
       "url": "https://open.spotify.com/track/5bha8vGIy6f9Ph7t0nApno"
@@ -1397,10 +1531,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141426,
       "name": "The Santa Wrap",
       "url": "https://open.spotify.com/track/1Msh8qZfJ708O9BfVwem5Y"
+    },
+    {
+      "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+      },
+      "artists": [
+        {
+          "name": "Rayvon",
+          "url": "https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141426,
+      "name": "The Santa Wrap",
+      "url": "https://open.spotify.com/track/4CqPPBjuIaxn0pPoZ6XsMO"
     },
     {
       "album": {
@@ -1493,6 +1645,24 @@
       "duration_ms": 140533,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/5u3rdVDkGiRlmKZ773xte4"
+    },
+    {
+      "album": {
+        "name": "What Christmas Means to Me",
+        "url": "https://open.spotify.com/album/1RcoVRUDGhepaBcxeEp4A0"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191933,
+      "name": "What Christmas Means to Me",
+      "url": "https://open.spotify.com/track/1ZRq7JZzM3Q26xweRKz0SF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 
 > bangers
 
-[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,380 likes - 245 songs - 15 hr 15 min
+[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,254 likes - 245 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 | 19 | [All of Me \(feat\. Logic, ROZES\)](https://open.spotify.com/track/2HiH7eMk9aokfnIEFzWiMq) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Brighter Future \(Deluxe Version\)](https://open.spotify.com/album/6punqpyqDTjScawBMFRwuY) | 3:48 |
 | 20 | [Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Sundress](https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl) | 2:38 |
 | 21 | [Another Day in Paradise](https://open.spotify.com/track/4gHSezW5CHZCvjAUjF2pd5) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Change of Scenery](https://open.spotify.com/album/4Rp02sRtYz5Kp9qHP4VcxQ) | 4:15 |
-| 22 | [Girl at Coachella \- with Matoma & MAGIC! feat\. DRAM](https://open.spotify.com/track/5BquXRbtTX3jaSXsfudsdm) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Girl At Coachella \(with Matoma & MAGIC! feat\. DRAM\)](https://open.spotify.com/album/0nHav4ho0ar4ZVve8H5xZn) | 3:22 |
+| 22 | [Girl at Coachella \- with Matoma & MAGIC! feat\. DRAM](https://open.spotify.com/track/5BquXRbtTX3jaSXsfudsdm) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Girl At Coachella \(with Matoma & MAGIC! feat\. DRAM\)](https://open.spotify.com/album/0nHav4ho0ar4ZVve8H5xZn) | 3:22 |
 | 23 | [Aftergold \(feat\. Tove Styrke\)](https://open.spotify.com/track/1wPRqq1czM3ny6189e56mq) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Aftergold](https://open.spotify.com/album/0UNXK41aoqUDhSayFVKchE) | 3:11 |
 | 24 | [Pay the Man](https://open.spotify.com/track/5EeZuhVQdnUkpCiknMTeoP) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 3:53 |
 | 25 | [Love Is Alive](https://open.spotify.com/track/1hSuulO4BKSmYe0aSWROPM) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Love Is Alive](https://open.spotify.com/album/5GH8Szn1e0Wb8RRriOoGGp) | 2:50 |
@@ -158,7 +158,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 | 148 | [Bambi](https://open.spotify.com/track/5dmPNuHmRRJuHmJTDa7NuJ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bambi](https://open.spotify.com/album/6tGEWfRhonWuuQikgOnYhN) | 3:14 |
 | 149 | [Cold Cold Man](https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:50 |
 | 150 | [Borderline](https://open.spotify.com/track/3O8X1DE9btbzy4UH9cSX9a) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Borderline](https://open.spotify.com/album/5zGidcaAvNahQrYhyQwAQn) | 4:34 |
-| 151 | [Loving Is Easy](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 |
+| 151 | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 |
 | 152 | [Let Her Go](https://open.spotify.com/track/7KmawNv6JUgZ54gSyVF6VQ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/1l9d1Zj9Iv2eOcdObVhdMy) | 3:02 |
 | 153 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
 | 154 | [Homage](https://open.spotify.com/track/7pegxVesMmE2qK0o58xoFG) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/1qMDN9zRQreK81cJ9G1hed) | 2:57 |

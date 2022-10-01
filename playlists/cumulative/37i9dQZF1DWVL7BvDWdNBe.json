@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Platinum - A Life In Music",
+        "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131866,
+      "name": "Good Rockin' Tonight",
+      "url": "https://open.spotify.com/track/5yZQXR98v0kvhYQ7Adn8PK"
+    },
+    {
+      "album": {
         "name": "Bossa Nova Baby: The Ultimate Elvis Presley Party Album",
         "url": "https://open.spotify.com/album/5m21mnF0TmFzG9EevImho6"
       },
@@ -221,7 +239,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 132400,
       "name": "Good Rockin' Tonight",
       "url": "https://open.spotify.com/track/7cJNO7Q8CiF1H65WVnSIfg"
@@ -545,10 +563,28 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149520,
       "name": "Too Much Monkey Business",
       "url": "https://open.spotify.com/track/4g3pTaJtVbkXU0FuxpDbrb"
+    },
+    {
+      "album": {
+        "name": "Elvis Sings Flaming Star",
+        "url": "https://open.spotify.com/album/3xHHQWEtennMsfZ65t9Brv"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150666,
+      "name": "Too Much Monkey Business",
+      "url": "https://open.spotify.com/track/7cHRosCDDl7qhHxkSpcTtH"
     },
     {
       "album": {

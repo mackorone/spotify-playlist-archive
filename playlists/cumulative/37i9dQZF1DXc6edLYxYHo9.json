@@ -75,10 +75,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206271,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/3BaDbRcCoK46B2ifLj6mcx"
+    },
+    {
+      "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206271,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I"
     },
     {
       "album": {
@@ -845,7 +863,7 @@
     {
       "album": {
         "name": "A Gangsta\u2019s Pain: Reloaded",
-        "url": "https://open.spotify.com/album/78L6XKTChkf0M5SK3oogk3"
+        "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
       },
       "artists": [
         {
@@ -856,6 +874,24 @@
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 165772,
+      "name": "Scorpio",
+      "url": "https://open.spotify.com/track/0BFGDkrXAneskCJdudSCro"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain: Reloaded",
+        "url": "https://open.spotify.com/album/78L6XKTChkf0M5SK3oogk3"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 165772,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/0LlFMKD7MAHwOqkIBsHui6"

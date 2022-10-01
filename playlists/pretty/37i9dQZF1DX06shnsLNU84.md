@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06shnsLNU84.md) - [plain]
 
 > Enjoy the JTBC drama 'Thirty\-Nine' OSTs in a different way with the special contents\. You can watch this drama on Netflix as well\. \(JTBC 드라마 '서른, 아홉'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요\. 넷플릭스에서도 서른, 아홉을 감상하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,877 likes - 37 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,228 likes - 37 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06shnsLNU84.md) - [plain]
 | 36 | [And next year, Spring](https://open.spotify.com/track/6rVXtzh6bvvRb7fj5pMLRD) | [권영찬](https://open.spotify.com/artist/4ZfOBmLAMXyn48SfyNJilP) | [Thirty\-nine \(Original Television Soundtrack\)](https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX) | 2:02 |
 | 37 | [Three friends](https://open.spotify.com/track/6KxKEWaMOf94M8SVQZrqV8) | [전진희](https://open.spotify.com/artist/55SXjFwttf52nY0wdI8fhP) | [Thirty\-nine \(Original Television Soundtrack\)](https://open.spotify.com/album/5Yzizi5UyQRoR6bbtF7rMX) | 1:55 |
 
-Snapshot ID: `MTY0OTgyNzUyNiwwMDAwMDAwNTAwMDAwMTgwMjE2MjM1YmMwMDAwMDE3ZjUwMmMyNjk5`
+Snapshot ID: `MTY0OTgyNzUyNiwwMDAwMDAwMGYxYmFkZjI5OWFiMGVmNWViOGI5NGQ1NDkxYjZlOTA2`

@@ -8,8 +8,8 @@
   "tracks": [
     {
       "album": {
-        "name": "Cheyenne",
-        "url": "https://open.spotify.com/album/6WaHxmvk6V6ePqcM8hCXqT"
+        "name": "Everything Is 4",
+        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
       },
       "artists": [
         {
@@ -22,7 +22,43 @@
       "date_removed": null,
       "duration_ms": 215107,
       "name": "Cheyenne",
+      "url": "https://open.spotify.com/track/3EofjRgUI1WrzqqtLb8NoF"
+    },
+    {
+      "album": {
+        "name": "Cheyenne",
+        "url": "https://open.spotify.com/album/6WaHxmvk6V6ePqcM8hCXqT"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215107,
+      "name": "Cheyenne",
       "url": "https://open.spotify.com/track/6nZqNGBqtyulnTY4wULhuo"
+    },
+    {
+      "album": {
+        "name": "D.A.N.C.E",
+        "url": "https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211880,
+      "name": "D.A.N.C.E - Radio Edit",
+      "url": "https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk"
     },
     {
       "album": {
@@ -37,10 +73,32 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209986,
       "name": "D.A.N.C.E.",
       "url": "https://open.spotify.com/track/2hQCzcb3qyZirWzOD5Yzoj"
+    },
+    {
+      "album": {
+        "name": "Uptown Special",
+        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Kevin Parker",
+          "url": "https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298133,
+      "name": "Daffodils (feat. Kevin Parker)",
+      "url": "https://open.spotify.com/track/1v0ufp7FLTFcykUGOmFZKa"
     },
     {
       "album": {
@@ -59,7 +117,7 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298133,
       "name": "Daffodils (feat. Kevin Parker)",
       "url": "https://open.spotify.com/track/46moTNsGydR2SEgHZuRe8R"
@@ -95,10 +153,32 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 376600,
       "name": "Feelin - Original Mix",
       "url": "https://open.spotify.com/track/744oWcHqeWsMPqmw0Kk3nT"
+    },
+    {
+      "album": {
+        "name": "Foreign Language (Remixes)",
+        "url": "https://open.spotify.com/album/13vTyQaEtmVgYKrFthfNnx"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Jess",
+          "url": "https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376600,
+      "name": "Feelin - Original Mix",
+      "url": "https://open.spotify.com/track/6XLSATCZY8hLodpoQrfx27"
     },
     {
       "album": {
@@ -113,10 +193,28 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244291,
       "name": "Fiona Coyne",
       "url": "https://open.spotify.com/track/1sH2GeOsLFEw714Otu8P9i"
+    },
+    {
+      "album": {
+        "name": "Prom King",
+        "url": "https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv"
+      },
+      "artists": [
+        {
+          "name": "Skylar Spence",
+          "url": "https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249319,
+      "name": "Fiona Coyne",
+      "url": "https://open.spotify.com/track/6XkEIIZs0oMUNwaVwHXSZ0"
     },
     {
       "album": {
@@ -157,10 +255,28 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 664573,
       "name": "Go Bang",
       "url": "https://open.spotify.com/track/0wbRhTLKXL8z844Pd8rNAM"
+    },
+    {
+      "album": {
+        "name": "Go Bang",
+        "url": "https://open.spotify.com/album/6Cd6ifsiUF0A2PVr8aJTeX"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 664573,
+      "name": "Go Bang",
+      "url": "https://open.spotify.com/track/5bnBF6QS1kZj3WOVZ8KqOB"
     },
     {
       "album": {
@@ -187,7 +303,7 @@
     {
       "album": {
         "name": "Hey",
-        "url": "https://open.spotify.com/album/7fK59Ubv7AUucw9U8L5SGX"
+        "url": "https://open.spotify.com/album/4Z3yXN8bWZM65730wraat5"
       },
       "artists": [
         {
@@ -198,6 +314,24 @@
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 266010,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/43x1xTN8fjSGS9BZe4yfBM"
+    },
+    {
+      "album": {
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/7fK59Ubv7AUucw9U8L5SGX"
+      },
+      "artists": [
+        {
+          "name": "Nightriders",
+          "url": "https://open.spotify.com/artist/13eyxWyCnb7bOEoBORUKuo"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 266010,
       "name": "Hey - Original Mix",
       "url": "https://open.spotify.com/track/5iY5fRAjXygxGXSrdMaClO"
@@ -215,10 +349,28 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222440,
       "name": "I Won't Let You Down",
       "url": "https://open.spotify.com/track/1uyA02kTVSUeUTR9xmOGJd"
+    },
+    {
+      "album": {
+        "name": "Hungry Ghosts",
+        "url": "https://open.spotify.com/album/36WLicHKpbEZ4CDR1KxZEW"
+      },
+      "artists": [
+        {
+          "name": "OK Go",
+          "url": "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222440,
+      "name": "I Won't Let You Down",
+      "url": "https://open.spotify.com/track/5v2snXqNEVtKxsJy5YBVfV"
     },
     {
       "album": {
@@ -237,10 +389,54 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250653,
       "name": "Love Like Mine",
       "url": "https://open.spotify.com/track/1swbYtByg6K6pDdYDEUnZg"
+    },
+    {
+      "album": {
+        "name": "All Possible Futures",
+        "url": "https://open.spotify.com/album/7iWI0ecSGNNUbVKzyyElgg"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Cleopold",
+          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250644,
+      "name": "Love Like Mine (feat. Cleopold)",
+      "url": "https://open.spotify.com/track/6Thav39y9X5FrJNuh8MDRZ"
+    },
+    {
+      "album": {
+        "name": "Casablanca Reworks",
+        "url": "https://open.spotify.com/album/754XEdGEvq4MzdghPJxBfx"
+      },
+      "artists": [
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        },
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287466,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/1zczShrEjQLIsXgty7XFFE"
     },
     {
       "album": {
@@ -259,7 +455,7 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 287466,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/3ts2Jf6VO1kQ6KOQWH9nCK"
@@ -284,6 +480,24 @@
     },
     {
       "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204811,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
+    },
+    {
+      "album": {
         "name": "My Type",
         "url": "https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE"
       },
@@ -295,10 +509,28 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206393,
       "name": "My Type",
       "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI"
+    },
+    {
+      "album": {
+        "name": "Nighttiming",
+        "url": "https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg"
+      },
+      "artists": [
+        {
+          "name": "Coconut Records",
+          "url": "https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168492,
+      "name": "Nighttiming",
+      "url": "https://open.spotify.com/track/1jbrKpiTZ5jSblBypybUmV"
     },
     {
       "album": {
@@ -313,7 +545,7 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170501,
       "name": "Nighttiming",
       "url": "https://open.spotify.com/track/0kubWs4WUDYh1nBI4PJrBK"
@@ -331,10 +563,54 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195088,
       "name": "NRG - Radio Edit",
       "url": "https://open.spotify.com/track/36nTD6zQ5mHJNCl2cD86dI"
+    },
+    {
+      "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/6ZutbrcxBGepaw53OpKJo8"
+      },
+      "artists": [
+        {
+          "name": "Duck Sauce",
+          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195088,
+      "name": "NRG - Radio Edit",
+      "url": "https://open.spotify.com/track/7HwPsSt2Pjs5sKIdBfCSkx"
+    },
+    {
+      "album": {
+        "name": "Tuxedo",
+        "url": "https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d"
+      },
+      "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/19w0peKzUE7Ih1E0FGdaXO"
     },
     {
       "album": {
@@ -349,7 +625,7 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252663,
       "name": "Number One",
       "url": "https://open.spotify.com/track/3ZzTbMLFg8ZHOkTozvuMWq"
@@ -455,7 +731,7 @@
     {
       "album": {
         "name": "Cupid Deluxe",
-        "url": "https://open.spotify.com/album/3KIRi1cU8yt3w7xhmiyehM"
+        "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
       },
       "artists": [
         {
@@ -466,6 +742,24 @@
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 256693,
+      "name": "Uncle ACE",
+      "url": "https://open.spotify.com/track/0Cn4UhpHhgf88eWaS9nn5u"
+    },
+    {
+      "album": {
+        "name": "Cupid Deluxe",
+        "url": "https://open.spotify.com/album/3KIRi1cU8yt3w7xhmiyehM"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 256693,
       "name": "Uncle ACE",
       "url": "https://open.spotify.com/track/4JgqbL6hsmhM1PdOFxrH1S"

@@ -244,6 +244,24 @@
     },
     {
       "album": {
+        "name": "IFHJ",
+        "url": "https://open.spotify.com/album/2PBAoczL4wDcwup5IF0yeN"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156273,
+      "name": "IFHJ",
+      "url": "https://open.spotify.com/track/4QdTBFM7VsIu84jfCxVMsv"
+    },
+    {
+      "album": {
         "name": "De Eerste Date",
         "url": "https://open.spotify.com/album/0M2THL33puKb2LJ4lvRrJj"
       },
@@ -453,7 +471,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 199512,
       "name": "Sniper (Remix) (feat. BKO, Jairzinho & Sevn Alias)",
       "url": "https://open.spotify.com/track/07AhIz1LUHR1U4aTbOYSJQ"

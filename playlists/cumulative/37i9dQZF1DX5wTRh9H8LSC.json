@@ -63,7 +63,7 @@
     {
       "album": {
         "name": "WARNING",
-        "url": "https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR"
+        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
       },
       "artists": [
         {
@@ -71,12 +71,12 @@
           "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
         }
       ],
-      "date_added": "2022-03-11",
+      "date_added": "2022-07-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 112361,
       "name": "ADDICT",
-      "url": "https://open.spotify.com/track/4SKDBovL7V7JzFz4BtAaUd"
+      "url": "https://open.spotify.com/track/2k75ZjRth50bLdyjFpAv7f"
     },
     {
       "album": {
@@ -91,7 +91,43 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 112361,
+      "name": "ADDICT",
+      "url": "https://open.spotify.com/track/4SKDBovL7V7JzFz4BtAaUd"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199320,
+      "name": "Black Pearl",
+      "url": "https://open.spotify.com/track/5SEh5ElnuNTz6zn8Th5pP9"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 199320,
       "name": "Black Pearl",
       "url": "https://open.spotify.com/track/6f5h8n8UR4fsz8LjCkAOFy"
@@ -167,6 +203,24 @@
       "duration_ms": 195040,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217353,
+      "name": "Curve \uace1\uc120",
+      "url": "https://open.spotify.com/track/0dxN4KBx1LIneaq3Idtl3X"
     },
     {
       "album": {
@@ -391,6 +445,42 @@
     {
       "album": {
         "name": "WARNING",
+        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92351,
+      "name": "Secret Tape \ube44\ubc00\ud14c\uc774\ud504",
+      "url": "https://open.spotify.com/track/2shjrcZS945n1zu1EaeOrH"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91"
+    },
+    {
+      "album": {
+        "name": "WARNING",
         "url": "https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR"
       },
       "artists": [
@@ -401,7 +491,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199133,
       "name": "Siren",
       "url": "https://open.spotify.com/track/6ySoz8mujfiQS37xjEEZCv"
@@ -557,7 +647,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217353,
       "name": "\uace1\uc120",
       "url": "https://open.spotify.com/track/4F0zJatuBIKVCaezK26Uvo"
@@ -659,7 +749,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 92351,
       "name": "\ube44\ubc00\ud14c\uc774\ud504",
       "url": "https://open.spotify.com/track/2g5Tbu6EbZz9pT3ku8JXfc"

@@ -4,7 +4,7 @@
 
 > Spellistan att ta fram när det är dags för dans runt midsommarstången.
 
-25 songs - 40 min 2 sec - [published](https://open.spotify.com/playlist/0lIXv1qFSfUJEx5MIkPUsH)
+27 songs - 42 min 17 sec - [published](https://open.spotify.com/playlist/0lIXv1qFSfUJEx5MIkPUsH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,11 +23,13 @@
 | [Känner du Lotta](https://open.spotify.com/track/2ShziL2WfIGm6HVa6JykMU) | [Barnens favoriter](https://open.spotify.com/artist/7uFKjNp91YjtXbNQTdNQlW) | [Barnens favoriter 7](https://open.spotify.com/album/77hch7Cxx55ZVlfcJR8sBW) | 1:59 | 2019-06-19 |  |
 | [Morsgrisar är vi allihopa](https://open.spotify.com/track/3Vx96sIMEH0U9xovRyAvAh) | [Hoppabandet](https://open.spotify.com/artist/1AAYMFzUoflV61SWKt11mv) | [Jänta Och Jag Barnsånger](https://open.spotify.com/album/0zqcliNhJNmQDGI3r8Ws9o) | 0:55 | 2019-06-19 |  |
 | [Opp och hoppa, sitt ej och dra dig](https://open.spotify.com/track/3eh3zxibGqNiZE0EWOTxQt) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 0:46 | 2019-06-19 |  |
-| [Prästens lilla kråka](https://open.spotify.com/track/6LpaK9bPNf6YR3aKvTnQB7) | [Lilian Bokestig](https://open.spotify.com/artist/4gGXmFMnH9pQxFUPxjUu4e) | [Barnplaneten \- Tuta och kör: Barnmusik med fart](https://open.spotify.com/album/1cZFgIIPIdbUL7xGi9aOjV) | 0:51 | 2019-06-19 |  |
+| [Prästens lilla kråka](https://open.spotify.com/track/6FDARjuebXcy08AMLLftRk) | [Lilian Bokestig](https://open.spotify.com/artist/4gGXmFMnH9pQxFUPxjUu4e) | [Prästens lilla kråka](https://open.spotify.com/album/1dnxxDSjSURbR8TlgaOx7E) | 0:51 | 2019-06-19 |  |
+| [Prästens lilla kråka](https://open.spotify.com/track/6LpaK9bPNf6YR3aKvTnQB7) | [Lilian Bokestig](https://open.spotify.com/artist/4gGXmFMnH9pQxFUPxjUu4e) | [Barnplaneten \- Tuta och kör: Barnmusik med fart](https://open.spotify.com/album/1cZFgIIPIdbUL7xGi9aOjV) | 0:51 | 2019-06-19 | 2022-07-29 |
 | [Ritsch ratsch filibom](https://open.spotify.com/track/6JB4uUbg9ro29Q7xm4QUS8) | [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Bästa lekarna](https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1) | 1:15 | 2019-06-19 |  |
 | [Sju vackra flickor i en ring](https://open.spotify.com/track/1UljTZNjOmmVenXCaaPEwf) | [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Bästa lekarna](https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1) | 1:53 | 2019-06-19 |  |
 | [Små fåglarna i skogen](https://open.spotify.com/track/0SLD0Zb0sIWpVtDLE0sal8) | [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Bästa lekarna](https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1) | 1:34 | 2019-06-19 |  |
-| [Små grodorna](https://open.spotify.com/track/4Hy7ldDPMMQNbhhdnVk7EJ) | [Lärk Mårten](https://open.spotify.com/artist/0WelSiYwiTNzCcK4rOyfWk) | [Barnplaneten \- Älskade barnvisor och ramsor för alla barn](https://open.spotify.com/album/6OpSgsAbbbuCPmPN24r0kX) | 1:22 | 2019-06-19 |  |
+| [Små grodorna](https://open.spotify.com/track/4Hy7ldDPMMQNbhhdnVk7EJ) | [Lärk Mårten](https://open.spotify.com/artist/0WelSiYwiTNzCcK4rOyfWk) | [Barnplaneten \- Älskade barnvisor och ramsor för alla barn](https://open.spotify.com/album/6OpSgsAbbbuCPmPN24r0kX) | 1:22 | 2019-06-19 | 2022-07-29 |
+| [Små grodorna](https://open.spotify.com/track/7FqTiv9gX26hiCjoRyBTdd) | [Lärk Mårten](https://open.spotify.com/artist/0WelSiYwiTNzCcK4rOyfWk) | [Små grodorna](https://open.spotify.com/album/4EuCKwPUyNchi0gIrDef83) | 1:22 | 2019-06-19 |  |
 | [Sommar, Sommar, Sommar](https://open.spotify.com/track/1YwMkRv4pQwJcDLNQ86p6g) | [Radions Underhallningsorkester](https://open.spotify.com/artist/7ekQSEOZHUS6bUkOqBTDwh) | [Sommar](https://open.spotify.com/album/7oc5uzYL2PcG9yXihY8fB6) | 0:44 | 2019-06-19 |  |
 | [Så går vi runt en enebärabuske \- Instrumental](https://open.spotify.com/track/0mOZVrJKspRSr2gySLuoiT) | [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Bästa lekarna](https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1) | 3:46 | 2019-06-19 |  |
 | [Tre små gummor](https://open.spotify.com/track/3x53A20DcZX6AlXBqkbqos) | [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Midsommar \- Dans runt stången](https://open.spotify.com/album/4qACfKqnm0xTbXU6Qg2Rzi) | 2:02 | 2019-06-19 |  |

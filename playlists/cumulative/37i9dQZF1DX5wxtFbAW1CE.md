@@ -4,11 +4,12 @@
 
 > Soothing songs for family yoga time.
 
-202 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/6vVBPBjLNPSY1UgPYvJnVN)
+207 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/6vVBPBjLNPSY1UgPYvJnVN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\[Nowhere\]](https://open.spotify.com/track/1KR69UXMtGLsKvtwyBTny4) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/4ewVQNBZP2p3sekqciKE6r) | 2:08 | 2021-05-14 |  |
+| [\[Nowhere\]](https://open.spotify.com/track/1KR69UXMtGLsKvtwyBTny4) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/4ewVQNBZP2p3sekqciKE6r) | 2:08 | 2021-05-14 | 2022-07-29 |
+| [\[Nowhere\]](https://open.spotify.com/track/24JJbx6jhyzsEyobFgpNZu) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 2:08 | 2021-05-14 |  |
 | [A Quiet Winter Dawn](https://open.spotify.com/track/4OXU8reFNYCiCjeRvaXSiJ) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [A Quiet Winter Dawn](https://open.spotify.com/album/1lT7LO9nv5fREUSSip6aWl) | 3:26 | 2021-05-14 |  |
 | [A Traveller](https://open.spotify.com/track/7vIqj1nTYsnTgbJ7ArZP9f) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [I’ve Seen You](https://open.spotify.com/album/4Zwsz5fduoJIAElKW4tugw) | 2:58 | 2021-05-14 |  |
 | [Aberdeen](https://open.spotify.com/track/2Wy7h9LuSEmhapUh3RWrC2) | [Bridge Dwellers](https://open.spotify.com/artist/2R7EEwkeG8KGbXRqQwC2EB) | [Aberdeen](https://open.spotify.com/album/3CLyLs90ir4VUkYlyFDg6B) | 3:16 | 2021-05-14 |  |
@@ -50,7 +51,8 @@
 | [Chasing Love](https://open.spotify.com/track/5HCMc28iow2u67EgxHejfZ) | [Mondbery](https://open.spotify.com/artist/3Ao4LdOPmNHIsDq8Y5gTmh) | [Chasing Love](https://open.spotify.com/album/3r9LKZab8u1XmEJbxQjSjV) | 2:11 | 2021-05-14 |  |
 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 | 2021-05-14 |  |
 | [Closed Captions](https://open.spotify.com/track/3K3mUDPEx0sbqBWDMPmaWM) | [Broken Legacy](https://open.spotify.com/artist/3hG7itMdTJT8vc0JYh771M) | [Closed Captions](https://open.spotify.com/album/7yxynO2PaBolNG90xpL0W6) | 2:54 | 2021-05-14 |  |
-| [Cold Spring](https://open.spotify.com/track/1WwjE3IGXk54dNBRKZAXz3) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Volume One](https://open.spotify.com/album/3BBl14XBVh0vHf1bXF3vWi) | 2:04 | 2021-05-14 |  |
+| [Cold Spring](https://open.spotify.com/track/1WwjE3IGXk54dNBRKZAXz3) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Volume One](https://open.spotify.com/album/3BBl14XBVh0vHf1bXF3vWi) | 2:04 | 2021-05-14 | 2022-07-29 |
+| [Cold Spring](https://open.spotify.com/track/5qzs925pSB9rD5v8tdu9CZ) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Volume One](https://open.spotify.com/album/4lnx4Xq7hxsOFltbRZ12fr) | 2:04 | 2021-05-14 |  |
 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 | 2021-05-14 |  |
 | [Cosmogyral](https://open.spotify.com/track/4WT82kpk9JXBnyN564LZS4) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Cosmogyral](https://open.spotify.com/album/0ZgO9uGL5SY607snj6pG5f) | 3:19 | 2021-05-14 |  |
 | [Cresta](https://open.spotify.com/track/7eTXi3I6cgzkuRtIdCrcet) | [Micaela De León](https://open.spotify.com/artist/501O6IotIJIxYTcT7TXzNc) | [Cresta](https://open.spotify.com/album/6qoFofPnuZ9xuh3OSArwfP) | 2:34 | 2021-05-14 |  |
@@ -75,7 +77,8 @@
 | [Euphrosyne](https://open.spotify.com/track/7arWoSrPeW1uiCGbCu0Igm) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Euphrosyne](https://open.spotify.com/album/7BlXg4aB6bpzIsYP5wqrVT) | 2:39 | 2021-05-14 |  |
 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 | 2021-05-14 |  |
 | [Family Dawn](https://open.spotify.com/track/2Gdybo91D2AszWaPKGLrul) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Personal Experiences](https://open.spotify.com/album/6gIXWTlb5DKqNAf4aTAfDw) | 3:48 | 2021-05-14 |  |
-| [Finistère](https://open.spotify.com/track/0Qp6bdPb0XxwGCW2TDzL9d) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Finistère](https://open.spotify.com/album/4lwNTmD62b3cssnfE0G1yr) | 2:21 | 2021-05-14 |  |
+| [Finistère](https://open.spotify.com/track/0Qp6bdPb0XxwGCW2TDzL9d) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Finistère](https://open.spotify.com/album/4lwNTmD62b3cssnfE0G1yr) | 2:21 | 2021-05-14 | 2022-07-29 |
+| [Finistère](https://open.spotify.com/track/14eatj3LOOiVomamOwczLf) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Finistère](https://open.spotify.com/album/39MfK6NqI34RT34rwvHn2I) | 2:21 | 2021-05-14 |  |
 | [Floating](https://open.spotify.com/track/4BoKls3fZWdNJLgpoG8xcM) | [Seismic Shift](https://open.spotify.com/artist/3anH6IjogfsbzwaSRB8Kd6) | [Floating](https://open.spotify.com/album/0o9kQDuxYaAtzhUd5IruW9) | 2:25 | 2021-05-14 |  |
 | [Floating in Peace](https://open.spotify.com/track/1jgUHGVhDm1Gt3kO3crdM3) | [Astra Terra](https://open.spotify.com/artist/6vbjBakhgHWeNAEBG6Ew0l) | [Floating in Peace](https://open.spotify.com/album/5QbhuNYS0gJ1aQmV1iWpCq) | 3:18 | 2021-05-14 |  |
 | [Fragments](https://open.spotify.com/track/5Bbx68rBmBmLOCEsOhGnOK) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Cogitatio](https://open.spotify.com/album/2HQRJotVw8nb5RoxhPYSfR) | 3:00 | 2021-05-14 |  |
@@ -174,7 +177,8 @@
 | [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 | 2021-05-14 |  |
 | [Soft Soul](https://open.spotify.com/track/7Ic3ORg6yG4XbqdfdxyOCM) | [Ella Drake](https://open.spotify.com/artist/0O76d5oDfMqnPoxRN29bpx) | [Newborn](https://open.spotify.com/album/6hSiNwlyOFDSpS3Xl28zU8) | 2:56 | 2021-05-14 |  |
 | [Soon my dear](https://open.spotify.com/track/5g7NMH1xXhjZsjqz268Vny) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [Soon my dear](https://open.spotify.com/album/5iZNSYBVqRXKoa5oAhhZlD) | 3:13 | 2021-05-14 |  |
-| [Soul Blanket](https://open.spotify.com/track/44McOkwrQvgCzDxd5NZV6a) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/1flvmX3ZrUV6I4XPXugSJ6) | 4:01 | 2021-05-14 |  |
+| [Soul Blanket](https://open.spotify.com/track/44McOkwrQvgCzDxd5NZV6a) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/1flvmX3ZrUV6I4XPXugSJ6) | 4:01 | 2021-05-14 | 2022-07-29 |
+| [Soul Blanket](https://open.spotify.com/track/7xgCM9MkPIJ0MWFJqGGKQD) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/0FQWkQhEOXL0IuICFw4XaE) | 4:01 | 2021-05-14 |  |
 | [Spaces](https://open.spotify.com/track/3ihG28Sd7TNFsUQ7pu7f7P) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [Mountains](https://open.spotify.com/album/57R4gLdl1jbaEZuyYzhI3n) | 3:25 | 2021-05-14 |  |
 | [Spirituality](https://open.spotify.com/track/2kYSO6JCH0Nboi3QSOWhBe) | [Waht Poo](https://open.spotify.com/artist/6l00nLjNeQr1VaeP4FvsKY) | [Spirituality](https://open.spotify.com/album/2O7UPaFijmHBKYrbhO1qRk) | 3:03 | 2021-05-14 |  |
 | [Springtime Bird](https://open.spotify.com/track/3VW0JyEfyYHqmhiZORcdTr) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Harmonic Waves](https://open.spotify.com/album/3oCRkrg7AL8r5rMfGVPU2t) | 3:21 | 2021-05-14 |  |
@@ -189,7 +193,8 @@
 | [The Ocean & Us](https://open.spotify.com/track/5StOuyfvLFhbPfaMmsuDMc) | [Topi Anoz/Ohn Lee](https://open.spotify.com/artist/3ZBmxMD8g2rMip2PRs8fm7) | [The Ocean & Us](https://open.spotify.com/album/1cLNLtJ8coZVxb3DDfkFSh) | 2:53 | 2021-05-14 |  |
 | [The Return Home](https://open.spotify.com/track/2oBeDHORDq9ZeQnuygW7jZ) | [Daniel Kadawatha](https://open.spotify.com/artist/2eDGCAUPtznGnGKQ2uP3GZ) | [Through Changing Forms](https://open.spotify.com/album/119PlPHpuUWF8DYrQrjVHe) | 2:48 | 2021-05-14 |  |
 | [The Return of the Buffalo](https://open.spotify.com/track/2tLK0fPZP7NQywcF4PIxZf) | [Liwia Antas](https://open.spotify.com/artist/2vDjp8PFFifCgAE0MZkHap) | [The Return of the Buffalo](https://open.spotify.com/album/1JwY4OFmAFOVJ17vT0L9wF) | 4:02 | 2021-05-14 |  |
-| [Threads](https://open.spotify.com/track/30VnmNoXmeNMlDR6MxLP5U) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 3:12 | 2021-05-14 |  |
+| [Threads](https://open.spotify.com/track/30VnmNoXmeNMlDR6MxLP5U) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 3:12 | 2021-05-14 | 2022-07-29 |
+| [Threads](https://open.spotify.com/track/5ASmAe7WcZaLVx6KcCqhW0) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 3:12 | 2021-05-14 |  |
 | [Tierra Seca](https://open.spotify.com/track/24UEuFqJCnwE0Gqka5c3qZ) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Semillero](https://open.spotify.com/album/4wXMtPpipCgbiz8kyYR2dx) | 3:51 | 2021-05-14 |  |
 | [Timeless](https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Timeless](https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh) | 3:01 | 2021-05-14 |  |
 | [Transcend](https://open.spotify.com/track/2UGEJYn55BJANAwjEqn6mX) | [Ee Ve](https://open.spotify.com/artist/18NItzXyxJgwcsJ6skOoPb) | [Transcend](https://open.spotify.com/album/12DfL5OyYopS4UqF8AgCyq) | 4:03 | 2021-05-14 |  |

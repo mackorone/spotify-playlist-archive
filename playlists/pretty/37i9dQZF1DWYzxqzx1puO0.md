@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzxqzx1puO0.md) - [plain]
 
 > Big rave tunes from Calvin's very own Love Regenerator project and many more house and techno belters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,619 likes - 42 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,163 likes - 42 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzxqzx1puO0.md) - [plain]
 | 26 | [Peace Love Happiness \[edit\]](https://open.spotify.com/track/1hY95zr4OUT7s1UqS5rarV) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Love Regenerator 3](https://open.spotify.com/album/1OwHR43fxoRcLkWov9MBm1) | 3:25 |
 | 27 | [Joys](https://open.spotify.com/track/2owws8NRqfPUdIn3Uag7Yp) | [Roberto Surace](https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G) | [Joys](https://open.spotify.com/album/5dwpmQPOTG6rm25LfSXOR0) | 2:15 |
 | 28 | [All the Ladies](https://open.spotify.com/track/4gH12KjwxV1h5z3Lq5OdJN) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [All the Ladies](https://open.spotify.com/album/1w1UECYYfHeqLXGUuWR9Mg) | 4:07 |
-| 29 | [Pool Party Music](https://open.spotify.com/track/0PPpehRoJCBZYmZSUEJcot) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Pool Party Music](https://open.spotify.com/album/6D0804q8EoEHqWUH3wGGxF) | 6:07 |
+| 29 | [Pool Party Music](https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:07 |
 | 30 | [Fairytale Frequency](https://open.spotify.com/track/537AcknNyv4DBFuzqmuX7T) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Fairytale Frequency](https://open.spotify.com/album/2RbCaNWmCTsUrYuchl4w8e) | 6:55 |
 | 31 | [Sunday Shoutin'](https://open.spotify.com/track/1MAUToc4QgydiyYWDjIR4t) | [Johnny Corporate](https://open.spotify.com/artist/6A0j8wMkDZSYmChVs9m9e2) | [Sunday Shoutin'](https://open.spotify.com/album/6lVlnT7XfB5u4yU1rjjuGS) | 8:35 |
 | 32 | [Music Please \- Edit](https://open.spotify.com/track/1b3nC8sQaNWkHJPAYhZgl1) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Music Please](https://open.spotify.com/album/0OZ6qxEjSJCK8pjWWFRct7) | 2:50 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzxqzx1puO0.md) - [plain]
 | 41 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 |
 | 42 | [DT64](https://open.spotify.com/track/5z7VT7KoeFLT1rjeyDzdMI) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [DT64](https://open.spotify.com/album/5R39eASkg4TLhHvfi54Wwh) | 6:57 |
 
-Snapshot ID: `MTU5MzYwNjExOSwwMDAwMDAwNTAwMDAwMTczMGE1M2EwZWYwMDAwMDE3MzA2ZDRiOGZi`
+Snapshot ID: `MTU5MzYwNjExOSwwMDAwMDAwMGU3ZTIwYmI0ZDFhZmMwYzgwODI1NGE4NmM0OTVkMzRk`

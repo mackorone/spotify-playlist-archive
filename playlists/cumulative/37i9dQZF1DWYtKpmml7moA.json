@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 238176,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262170,
       "name": "Carnival Horns",
       "url": "https://open.spotify.com/track/6QkMomU6O9OQ0ZXtY4kAz7"
@@ -247,10 +247,50 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 209666,
       "name": "Foundation",
       "url": "https://open.spotify.com/track/10h9F7m8cUY6XGJzhvtZb2"
+    },
+    {
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/14qvzwfUMd2XYhmAZUwvbW"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Jemere Morgan",
+          "url": "https://open.spotify.com/artist/7t3wkXOe1VYGzhIbhSPEV3"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247591,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/2ys6cWKndwCetchUXyNE2M"
+    },
+    {
+      "album": {
+        "name": "Travel Light",
+        "url": "https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y"
+      },
+      "artists": [
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207987,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV"
     },
     {
       "album": {
@@ -295,6 +335,28 @@
     {
       "album": {
         "name": "Father Of Asahd",
+        "url": "https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 197833,
+      "name": "Holy Ground (feat. Buju Banton)",
+      "url": "https://open.spotify.com/track/1LZPELQqai6rO6JgvZtElr"
+    },
+    {
+      "album": {
+        "name": "Father Of Asahd",
         "url": "https://open.spotify.com/album/4vuV7xWL4TDaaO412nbhuK"
       },
       "artists": [
@@ -309,7 +371,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197833,
       "name": "Holy Ground (feat. Buju Banton)",
       "url": "https://open.spotify.com/track/4aYeO2glQUKMbHnuvlnceE"
@@ -378,6 +440,28 @@
     },
     {
       "album": {
+        "name": "Late at Night (feat. Lila Ik\u00e9)",
+        "url": "https://open.spotify.com/album/3ZQBxCfUR9vLLT2sTV5Q1w"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231881,
+      "name": "Late at Night (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/36VvwmbsehGcneBMNgd2N1"
+    },
+    {
+      "album": {
         "name": "Reggae Gold 2019",
         "url": "https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6"
       },
@@ -389,10 +473,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 203392,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/07kZfWFKcU7spoxuTEudtS"
+    },
+    {
+      "album": {
+        "name": "Stony Hill",
+        "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240293,
+      "name": "Living It Up",
+      "url": "https://open.spotify.com/track/0Xd3LUIjRESt5rSAGzvAvA"
     },
     {
       "album": {
@@ -407,7 +509,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240346,
       "name": "Living It Up",
       "url": "https://open.spotify.com/track/6JKDAb81DiChlgYbTAuYNe"
@@ -425,7 +527,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Longing For",
       "url": "https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ"
@@ -461,7 +563,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 207000,
       "name": "Love Overdue",
       "url": "https://open.spotify.com/track/0ClaCaTK8BdOSsP4FZbkio"
@@ -479,7 +581,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 246817,
       "name": "Lovely State Of Mind",
       "url": "https://open.spotify.com/track/5Lpkr4t5096HDHqJYiNnJy"
@@ -541,6 +643,24 @@
       "duration_ms": 254965,
       "name": "My Kinda Girl",
       "url": "https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG"
+    },
+    {
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw"
     },
     {
       "album": {
@@ -639,6 +759,24 @@
     {
       "album": {
         "name": "Lily of da Valley",
+        "url": "https://open.spotify.com/album/4fFTF01yyYfAbsI0ktBb7H"
+      },
+      "artists": [
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/27yBUDE0EBDxQUkg72uL49"
+    },
+    {
+      "album": {
+        "name": "Lily of da Valley",
         "url": "https://open.spotify.com/album/3JAvtVbq8XLocOQl3CzOwE"
       },
       "artists": [
@@ -649,7 +787,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249066,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/78aaIdueQSjI00fWUMAqna"
@@ -667,7 +805,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 211441,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/6hydRG0XlZXxgJL4DASSFp"
@@ -777,10 +915,46 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191480,
       "name": "Show Love",
       "url": "https://open.spotify.com/track/7rBsbIiiDGljVGGPFUA9Pf"
+    },
+    {
+      "album": {
+        "name": "Hybrid",
+        "url": "https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192044,
+      "name": "Show Love",
+      "url": "https://open.spotify.com/track/62juTEt71fT3Ni8jaFynPm"
+    },
+    {
+      "album": {
+        "name": "Chronology",
+        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252125,
+      "name": "Skankin' Sweet",
+      "url": "https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE"
     },
     {
       "album": {
@@ -795,10 +969,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252125,
       "name": "Skankin' Sweet",
       "url": "https://open.spotify.com/track/5W4pbLaMo6B64C80vUiAYV"
+    },
+    {
+      "album": {
+        "name": "The ExPerience",
+        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219478,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/0k5s9BlyIUaHK1Fa7DVTyY"
     },
     {
       "album": {
@@ -813,7 +1005,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219478,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/7eEDoWPornYISopnmFstst"
@@ -831,10 +1023,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201522,
       "name": "Stars Align",
       "url": "https://open.spotify.com/track/01zjFKZ2qDYDXJsNSmVm0i"
+    },
+    {
+      "album": {
+        "name": "The ExPerience",
+        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201522,
+      "name": "Stars Align",
+      "url": "https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh"
     },
     {
       "album": {
@@ -849,7 +1059,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 172066,
       "name": "Still I Wonder",
       "url": "https://open.spotify.com/track/1KTO0B48WH9AwjgbenacjP"
@@ -875,6 +1085,24 @@
     {
       "album": {
         "name": "Superstar b/w Superdub",
+        "url": "https://open.spotify.com/album/3NX2wOljjGOxUbcz7aIGMh"
+      },
+      "artists": [
+        {
+          "name": "Hollie Cook",
+          "url": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 245678,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/11SeVWsf1VtRsrZJNfrOuv"
+    },
+    {
+      "album": {
+        "name": "Superstar b/w Superdub",
         "url": "https://open.spotify.com/album/2DXIS3dIsWYQQFZDpMU5pu"
       },
       "artists": [
@@ -885,10 +1113,80 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245678,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/4xaHi2hhM0b5EuJuOTO6eX"
+    },
+    {
+      "album": {
+        "name": "Ten Cane Row (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209586,
+      "name": "Ten Cane Row (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+    },
+    {
+      "album": {
+        "name": "The Kalling",
+        "url": "https://open.spotify.com/album/18rl0ZOdnxZHr3uFqUZaZQ"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213977,
+      "name": "The Kalling",
+      "url": "https://open.spotify.com/track/71FgWYL9m6vSypm6FzUVJv"
+    },
+    {
+      "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/015atHfkTckCacqwdccLZn"
+      },
+      "artists": [
+        {
+          "name": "Bitty McLean",
+          "url": "https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238253,
+      "name": "The real thing",
+      "url": "https://open.spotify.com/track/46PucNRuGWY4BjIZhGOqjf"
     },
     {
       "album": {
@@ -1013,7 +1311,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt"
@@ -1039,6 +1337,24 @@
     {
       "album": {
         "name": "Welcome to Jamrock",
+        "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213200,
+      "name": "Welcome To Jamrock",
+      "url": "https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG"
+    },
+    {
+      "album": {
+        "name": "Welcome to Jamrock",
         "url": "https://open.spotify.com/album/6tqa7pPWXrtdGVFqZx3b1j"
       },
       "artists": [
@@ -1049,7 +1365,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 213200,
       "name": "Welcome To Jamrock",
       "url": "https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg"
@@ -1067,7 +1383,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 225506,
       "name": "Youth Dem Cold",
       "url": "https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg"

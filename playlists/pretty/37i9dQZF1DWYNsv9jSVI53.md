@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 
 > The official playlist for Russian Doll on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,311 likes - 26 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,666 likes - 26 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gotta Get Up \- Remastered](https://open.spotify.com/track/1W6Ey5cxf0eljSaZnNVO5c) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/4s2hhmQizU4FHtRU7dDzHP) | 2:23 |
+| 1 | [Gotta Get Up](https://open.spotify.com/track/6fvIzrJ6boUDFF19fH4S2s) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB) | 2:24 |
 | 2 | [Personal Jesus \- Original Single Version](https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:44 |
 | 3 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 |
 | 4 | [Mother](https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig](https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW) | 3:24 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 | 16 | [Alan's Elevator](https://open.spotify.com/track/3aSIYlOsdQvGiP9f7t4Uyn) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32), [Judy Kang](https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 0:34 |
 | 17 | [Hungarian Rhapsody No\. 2 in D minor, S.359 No\. 2 \(Corresponds with piano versionNo\. 2 in C sharp minor\) \- Orch\. Doppler \- Excerpt](https://open.spotify.com/track/53hzDAws6V4cRsEU0OAEAX) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Gewandhausorchester](https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa), [Kurt Masur](https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn) | [50 Classical Music Favorites](https://open.spotify.com/album/3ahByf8mq73nZP5fINhDPc) | 4:54 |
 | 18 | [21 Hungarian Dances, WoO 1: Hungarian Dance No\. 2 in D Minor](https://open.spotify.com/track/1SXmebxfqeJpb8LY4btqGH) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Trio Artemis](https://open.spotify.com/artist/3663dB3Dg9xe5AvNnkdmnh) | [Voyage Nostalgique: Bizet: Carmen, Habanera "L'amour est un oiseau rebelle" \- Fauré: Dolly Suite, Op\. 56 \- Offenbach: Can Can \- Grieg: Anitra's Dance \- Adler: Hernandos Hideaway \- Mancini: Moon River \- Londonderry Air](https://open.spotify.com/album/746svkf81wYR28APmoq7Ej) | 3:05 |
-| 19 | [Hungarian Rhapsody No\. 5 in E Minor, S\. 244 Heroïde\-Elégiaque](https://open.spotify.com/track/4zzXiqmLNrCxkzXYcFL4uA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Roberto Szidon](https://open.spotify.com/artist/2r7hc4YRv3IfDLWllWCCdB) | [Classical for Work: Liszt](https://open.spotify.com/album/717aBZvT30BzLfrBD0BEBn) | 10:18 |
+| 19 | [Hungarian Rhapsody No\. 5 in E Minor, S\. 244 Heroïde\-Elégiaque](https://open.spotify.com/track/4tavlmxcVaiA60aH1WRsxg) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Roberto Szidon](https://open.spotify.com/artist/2r7hc4YRv3IfDLWllWCCdB) | [Liszt: Hungarian Rhapsodies](https://open.spotify.com/album/22b9GAtLuUYiHaZf0y60Iq) | 10:18 |
 | 20 | [I Found out Too Late](https://open.spotify.com/track/6r3CX3IURhy9i4ZxkOpzJB) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [I've Got Mine You Better Get Yours](https://open.spotify.com/album/3Y0cqHUAQskSOoRptoycHq) | 2:41 |
 | 21 | [The Thin Ice](https://open.spotify.com/track/62zuXt6X5B6YQOBNFV2eXG) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 2:26 |
 | 22 | [Runnin' with the Devil](https://open.spotify.com/track/46FW5ZZ6fOF1WpMTEOVEHX) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Best of Volume 1](https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St) | 3:36 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNsv9jSVI53.md) - [plain]
 | 25 | [Showtime](https://open.spotify.com/track/7ld59FzTeRSyR58BSOilTs) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 1:31 |
 | 26 | [Dream Mother](https://open.spotify.com/track/5SLfUZcKNs3Ab2F1BOjQXr) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 1:46 |
 
-Snapshot ID: `MTY1MTE2NjY2NSwwMDAwMDAwNDAwMDAwMTgwNzEzM2RiMDYwMDAwMDE4MDQyZmE0ZDc1`
+Snapshot ID: `MTY1MTE2NjY2NSwwMDAwMDAwMDQxYWIzMTE4NzQzYmNkMzk5ZTYxMDgwMzFhMTg1MTIw`

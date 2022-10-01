@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The ultimate classical playlist for yoga, meditation and daily mindfulness.",
-  "name": "Classical Yoga",
+  "description": "The ultimate classical playlist for post-workout stretching, meditation and mindfulness.",
+  "name": "Classical Cooldown",
   "published_playlist_ids": [
     "6WzOVMHapSVAlzMq8XAa77"
   ],
@@ -23,15 +23,67 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 77093,
       "name": "12 Pieces for Children: No. 6, My Darling and Marjan (Variation)",
       "url": "https://open.spotify.com/track/2WARGxFEK8D6Rm2NWnp2YZ"
     },
     {
       "album": {
+        "name": "Komitas: Piano & Chamber Music",
+        "url": "https://open.spotify.com/album/4NNceaCDBc6rblTqB98d8C"
+      },
+      "artists": [
+        {
+          "name": "Komitas",
+          "url": "https://open.spotify.com/artist/4Yiwp7GT4REEHykKPHSWv3"
+        },
+        {
+          "name": "Mikael Ayrapetyan",
+          "url": "https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77093,
+      "name": "12 Pieces for Children: No. 6, My Darling and Marjan (Variation)",
+      "url": "https://open.spotify.com/track/6DkXwtgHlaT8PzGWU82O4I"
+    },
+    {
+      "album": {
         "name": "Ustvolskaya, Silvestrov & Kancheli: Works for Piano & Orchestra",
         "url": "https://open.spotify.com/album/3IyVSzyvWxYTkIN8nxXAcz"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Elisaveta Blumina",
+          "url": "https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g"
+        },
+        {
+          "name": "Stuttgart Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF"
+        },
+        {
+          "name": "Thomas Sanderling",
+          "url": "https://open.spotify.com/artist/3S55Z8j2m8fHa1L2axqywa"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 336520,
+      "name": "4 Postludes for Piano & String Orchestra: No. 1, Larghetto - Andante",
+      "url": "https://open.spotify.com/track/5qOdrz6UTrLXlzqGn1b7cD"
+    },
+    {
+      "album": {
+        "name": "Ustvolskaya, Silvestrov & Kancheli: Works for Piano & Orchestra",
+        "url": "https://open.spotify.com/album/56kiotGWV3BT7x39WeAr4H"
       },
       "artists": [
         {
@@ -55,13 +107,43 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 336520,
-      "name": "4 Postludes for Piano & String Orchestra: No. 1, Larghetto - Andante",
-      "url": "https://open.spotify.com/track/5qOdrz6UTrLXlzqGn1b7cD"
+      "name": "4 Postludes for Piano & String Orchestra: No. 1. Larghetto - Andante",
+      "url": "https://open.spotify.com/track/71FqqOSUSVjaM4ZT3Ugj83"
     },
     {
       "album": {
         "name": "Ustvolskaya, Silvestrov & Kancheli: Works for Piano & Orchestra",
         "url": "https://open.spotify.com/album/3IyVSzyvWxYTkIN8nxXAcz"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Elisaveta Blumina",
+          "url": "https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g"
+        },
+        {
+          "name": "Stuttgart Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF"
+        },
+        {
+          "name": "Thomas Sanderling",
+          "url": "https://open.spotify.com/artist/3S55Z8j2m8fHa1L2axqywa"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218066,
+      "name": "4 Postludes for Piano & String Orchestra: No. 2, Moderato, con moto poco rubato",
+      "url": "https://open.spotify.com/track/7cL8pzBjyUUgJvQgHJjV9V"
+    },
+    {
+      "album": {
+        "name": "Ustvolskaya, Silvestrov & Kancheli: Works for Piano & Orchestra",
+        "url": "https://open.spotify.com/album/56kiotGWV3BT7x39WeAr4H"
       },
       "artists": [
         {
@@ -85,8 +167,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 218066,
-      "name": "4 Postludes for Piano & String Orchestra: No. 2, Moderato, con moto poco rubato",
-      "url": "https://open.spotify.com/track/7cL8pzBjyUUgJvQgHJjV9V"
+      "name": "4 Postludes for Piano & String Orchestra: No. 2. Moderato, con moto (poco rubato)",
+      "url": "https://open.spotify.com/track/7efNxVhbP88l8aAikotLCB"
     },
     {
       "album": {
@@ -113,10 +195,40 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170346,
       "name": "4 Postludes for Piano & String Orchestra: No. 3, Larghetto, con moto poco rubato",
       "url": "https://open.spotify.com/track/7EIdLojjYniqWmDTB3yWXP"
+    },
+    {
+      "album": {
+        "name": "Ustvolskaya, Silvestrov & Kancheli: Works for Piano & Orchestra",
+        "url": "https://open.spotify.com/album/56kiotGWV3BT7x39WeAr4H"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Elisaveta Blumina",
+          "url": "https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g"
+        },
+        {
+          "name": "Stuttgart Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF"
+        },
+        {
+          "name": "Thomas Sanderling",
+          "url": "https://open.spotify.com/artist/3S55Z8j2m8fHa1L2axqywa"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170346,
+      "name": "4 Postludes for Piano & String Orchestra: No. 3. Larghetto, con moto (poco rubato)",
+      "url": "https://open.spotify.com/track/7mscpSLUS0t80ZXjnQ3MtM"
     },
     {
       "album": {
@@ -135,10 +247,32 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 73000,
       "name": "8 Miniatures: No. 4, \u2014",
       "url": "https://open.spotify.com/track/5CLMzteopjs2PT0fVeD3G5"
+    },
+    {
+      "album": {
+        "name": "A Hundred Years of British Piano Miniatures",
+        "url": "https://open.spotify.com/album/0PwC5fdWWy7N6uZZyrEkiy"
+      },
+      "artists": [
+        {
+          "name": "David Power",
+          "url": "https://open.spotify.com/artist/29v25Z7ORYm1CTQGboUAp7"
+        },
+        {
+          "name": "Duncan Honeybourne",
+          "url": "https://open.spotify.com/artist/0EWVTiMmGeJ7I4wymz5XST"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73000,
+      "name": "8 Miniatures: No. 4, \u2014",
+      "url": "https://open.spotify.com/track/5NCAB704hqjV03b4UcNmda"
     },
     {
       "album": {
@@ -157,10 +291,32 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 96333,
       "name": "8 Norwegian Folk Tunes, Op. 70: No. 2, Um morgon tidleg \"Um morgon tidleg p\u00e5 h\u00f8gste nut\"",
       "url": "https://open.spotify.com/track/38wOo372GR73kzKJJ77Cc2"
+    },
+    {
+      "album": {
+        "name": "Kvandal: Complete Works for Solo Piano",
+        "url": "https://open.spotify.com/album/3UWIf4RkDckggS5pkfzmi9"
+      },
+      "artists": [
+        {
+          "name": "Johan Kvandal",
+          "url": "https://open.spotify.com/artist/5Pod14R8rXwlW13GpvTG6Q"
+        },
+        {
+          "name": "Joachim Knoph",
+          "url": "https://open.spotify.com/artist/1wuIOgNE6mJIvoRdsnRst1"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96333,
+      "name": "8 Norwegian Folk Tunes, Op. 70: No. 2, Um morgon tidleg \"Um morgon tidleg p\u00e5 h\u00f8gste nut\"",
+      "url": "https://open.spotify.com/track/4FLtKRreqGXZNZFs0XKdvH"
     },
     {
       "album": {
@@ -241,7 +397,7 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 537426,
       "name": "Barber: Adagio for Strings, Op. 11",
       "url": "https://open.spotify.com/track/1CSaCKPIp2yCIDL3t7Fyau"
@@ -333,7 +489,7 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 421560,
       "name": "Crisantemi for string orchestra",
       "url": "https://open.spotify.com/track/0ObV8vQoB8SJLf6vGv4xhB"
@@ -403,7 +559,7 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 248692,
       "name": "Flj\u00f3tav\u00edk",
       "url": "https://open.spotify.com/track/3VgLfRnAgjDX7GuUWmCAgp"
@@ -447,7 +603,7 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 205866,
       "name": "Gymnop\u00e9die No. 1",
       "url": "https://open.spotify.com/track/5NGtFXVpXSvwunEIGeviY3"
@@ -465,7 +621,7 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 371365,
       "name": "Illuminations",
       "url": "https://open.spotify.com/track/1n1TxkLPI0xJFcCjhiZcnz"
@@ -483,10 +639,28 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 108333,
       "name": "Janus",
       "url": "https://open.spotify.com/track/0PvUuDCK1XwYtcGapGGq1p"
+    },
+    {
+      "album": {
+        "name": "The Light Between Oceans (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1uPAxbU4uJHQpTUJsEiNgr"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108333,
+      "name": "Janus",
+      "url": "https://open.spotify.com/track/0T6iG7zZ3nkarBYQG1BI7t"
     },
     {
       "album": {
@@ -531,10 +705,32 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177226,
       "name": "Melodies of the Upper Worlds (Arr. M. Ayrapetyan for Piano): XIII. To Proclaim in the Morning About Your Mercy",
       "url": "https://open.spotify.com/track/4us41JLDICJX3YWZgz9Whp"
+    },
+    {
+      "album": {
+        "name": "HaSulam: Melodies of the Upper Worlds (Arr. M. Ayrapetyan for Piano)",
+        "url": "https://open.spotify.com/album/6nybFTSCWQaoxsttSOtfWA"
+      },
+      "artists": [
+        {
+          "name": "Baal HaSulam",
+          "url": "https://open.spotify.com/artist/34xHYsUFQlep5vsB3iWc3r"
+        },
+        {
+          "name": "Mikael Ayrapetyan",
+          "url": "https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177226,
+      "name": "Melodies of the Upper Worlds (Arr. M. Ayrapetyan for Piano): XIII. To Proclaim in the Morning About Your Mercy",
+      "url": "https://open.spotify.com/track/7qfUR1g5efZUh7Vf3fY8fh"
     },
     {
       "album": {
@@ -553,7 +749,7 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227146,
       "name": "Menuet in G minor HWV 434/4",
       "url": "https://open.spotify.com/track/7xvK3BbE1vDxRThN7SgNB6"
@@ -579,7 +775,7 @@
     {
       "album": {
         "name": "Mikael Ayrapetyan: A Whole in Twelve",
-        "url": "https://open.spotify.com/album/5WSD1JJ2w5DtTEizmK8rRX"
+        "url": "https://open.spotify.com/album/3FJdQ1kYZ2WGZuFxyQoKqD"
       },
       "artists": [
         {
@@ -590,6 +786,24 @@
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 306373,
+      "name": "Miniatures for Piano \"A Whole in Twelve\": No. 2, The Lady Plays",
+      "url": "https://open.spotify.com/track/1WNtzJMk8btkBW7NbmyCFr"
+    },
+    {
+      "album": {
+        "name": "Mikael Ayrapetyan: A Whole in Twelve",
+        "url": "https://open.spotify.com/album/5WSD1JJ2w5DtTEizmK8rRX"
+      },
+      "artists": [
+        {
+          "name": "Mikael Ayrapetyan",
+          "url": "https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 306373,
       "name": "Miniatures for Piano \"A Whole in Twelve\": No. 2, The Lady Plays",
       "url": "https://open.spotify.com/track/7yoIfC6aoV6VRWZQPsA42S"
@@ -655,10 +869,32 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155586,
       "name": "Naive Music: No. 2, Nocturne",
       "url": "https://open.spotify.com/track/1D1PqVxn8ZzeMA66T7mS1o"
+    },
+    {
+      "album": {
+        "name": "Silvestrov: Piano Music",
+        "url": "https://open.spotify.com/album/0MF4s1iTa2la59V01TGEgW"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Elisaveta Blumina",
+          "url": "https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Naive Music: No. 2. Nocturne",
+      "url": "https://open.spotify.com/track/1Px3T30V89JCSKZkgyAb4W"
     },
     {
       "album": {
@@ -745,6 +981,32 @@
     {
       "album": {
         "name": "Friedman: Piano Transcriptions",
+        "url": "https://open.spotify.com/album/4L8tF28TUH4Ude4IEhMH1b"
+      },
+      "artists": [
+        {
+          "name": "Ignaz Friedman",
+          "url": "https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg"
+        },
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Joseph Banowetz",
+          "url": "https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251733,
+      "name": "Orfeo ed Euridice, Act II: Dance of the Blessed Spirits, \"M\u00e9lodie\" (arr. I. Friedman for piano)",
+      "url": "https://open.spotify.com/track/3xIu6hYXz0gTjJtmGu60M8"
+    },
+    {
+      "album": {
+        "name": "Friedman: Piano Transcriptions",
         "url": "https://open.spotify.com/album/0nSivM2elIAkluEDaG7GWQ"
       },
       "artists": [
@@ -759,7 +1021,7 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251733,
       "name": "Orfeo ed Euridice, Wq. 30: Danse des champs-elys\u00e9es \"M\u00e9lodie\" (Arr. I. Friedman for Piano)",
       "url": "https://open.spotify.com/track/0DG5cVgVt7821x2rAv0ny2"
@@ -837,10 +1099,32 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248880,
       "name": "Piano Sonata No. 9: II. Lento",
       "url": "https://open.spotify.com/track/13N9Wd7JX346ZZqUwTxkwo"
+    },
+    {
+      "album": {
+        "name": "Lebanese Piano Music",
+        "url": "https://open.spotify.com/album/6C6FXqvkxp62ZmImOXuHPz"
+      },
+      "artists": [
+        {
+          "name": "Anis Fuleihan",
+          "url": "https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E"
+        },
+        {
+          "name": "Tatiana Primak-Khoury",
+          "url": "https://open.spotify.com/artist/1erZzEQ3UqiP7kNDe2rQy6"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248880,
+      "name": "Piano Sonata No. 9: II. Lento",
+      "url": "https://open.spotify.com/track/28E9jz4D9f3j4pkLo67ZFe"
     },
     {
       "album": {
@@ -863,7 +1147,7 @@
     {
       "album": {
         "name": "A Hundred Years of British Piano Miniatures",
-        "url": "https://open.spotify.com/album/7J7DL6tzBzbYVYlsFbnH8h"
+        "url": "https://open.spotify.com/album/0PwC5fdWWy7N6uZZyrEkiy"
       },
       "artists": [
         {
@@ -880,7 +1164,47 @@
       "date_removed": null,
       "duration_ms": 169933,
       "name": "Quavers",
+      "url": "https://open.spotify.com/track/31cXSScPQ2Cw4DiXwCQnZq"
+    },
+    {
+      "album": {
+        "name": "A Hundred Years of British Piano Miniatures",
+        "url": "https://open.spotify.com/album/7J7DL6tzBzbYVYlsFbnH8h"
+      },
+      "artists": [
+        {
+          "name": "Howard Skempton",
+          "url": "https://open.spotify.com/artist/6YDIJAK6v8fMuaRtf3zBp9"
+        },
+        {
+          "name": "Duncan Honeybourne",
+          "url": "https://open.spotify.com/artist/0EWVTiMmGeJ7I4wymz5XST"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169933,
+      "name": "Quavers",
       "url": "https://open.spotify.com/track/3kJhsi6YxbOXE3WRAPVqsN"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5BvQCAdlTeCpshkRFORsWY"
+      },
+      "artists": [
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334798,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5EjEo7s2rLHcMZz0BxhOPm"
     },
     {
       "album": {
@@ -899,7 +1223,7 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 257000,
       "name": "R\u00eaverie, L. 68: R\u00eaverie",
       "url": "https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J"
@@ -929,7 +1253,7 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 208040,
       "name": "Saint-Sa\u00ebns / Transcr. Vidal: Le carnaval des animaux, R. 125: XIII. Le cygne",
       "url": "https://open.spotify.com/track/08h8ICqh9extUqzotddLRQ"
@@ -947,10 +1271,28 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266186,
       "name": "sans titre - andante",
       "url": "https://open.spotify.com/track/7J0MD3GP9XcUkXKf8iwhPk"
+    },
+    {
+      "album": {
+        "name": "eviction sessions",
+        "url": "https://open.spotify.com/album/0ERUs6siaB59eOoKcUviBd"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266186,
+      "name": "sans titre - andante",
+      "url": "https://open.spotify.com/track/7m1PPd6nk5SiPBL0n4ox3i"
     },
     {
       "album": {
@@ -1043,10 +1385,32 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157133,
       "name": "Siete canciones populares espa\u00f1olas: 5. Nana",
       "url": "https://open.spotify.com/track/1haBgdlDn0dEwvUU1G5y5h"
+    },
+    {
+      "album": {
+        "name": "In Circles",
+        "url": "https://open.spotify.com/album/1aLtpH1mDZ3vmzRgCo5B3q"
+      },
+      "artists": [
+        {
+          "name": "Manuel de Falla",
+          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
+        },
+        {
+          "name": "Amy Dickson",
+          "url": "https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157133,
+      "name": "Siete canciones populares espa\u00f1olas: No. 5 Nana",
+      "url": "https://open.spotify.com/track/61GAxGT5YJyTPvYxtMN5Q7"
     },
     {
       "album": {
@@ -1083,7 +1447,7 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 163293,
       "name": "Sonata in D Minor, K. 32",
       "url": "https://open.spotify.com/track/1aiFOWKIFMFh4QZxgAAZH2"
@@ -1134,6 +1498,28 @@
     },
     {
       "album": {
+        "name": "Handel: Suites for Keyboard",
+        "url": "https://open.spotify.com/album/1G20CpIz40I0ZzXDH4EIcy"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Daria van den Bercken",
+          "url": "https://open.spotify.com/artist/3Go8ibBvGVTcWQfLcjnyU9"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227146,
+      "name": "Suite in B-Flat Major, HWV 434: IV. Menuet",
+      "url": "https://open.spotify.com/track/5oS0VZUU9W2P4XjQfWhRM3"
+    },
+    {
+      "album": {
         "name": "Relaxing Classical Piano",
         "url": "https://open.spotify.com/album/0c9Gu8sIJ3EHmXRuKKUfD1"
       },
@@ -1153,7 +1539,7 @@
     {
       "album": {
         "name": "Too Soon",
-        "url": "https://open.spotify.com/album/5kkUYXyrANeClclVI4nQow"
+        "url": "https://open.spotify.com/album/0AxbzEy4aIzEiY7zaUbMhb"
       },
       "artists": [
         {
@@ -1164,6 +1550,24 @@
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 243012,
+      "name": "Too Soon",
+      "url": "https://open.spotify.com/track/4tHgc1wzy1DovlUbgyb0kt"
+    },
+    {
+      "album": {
+        "name": "Too Soon",
+        "url": "https://open.spotify.com/album/5kkUYXyrANeClclVI4nQow"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "date_added": "2021-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 243014,
       "name": "Too Soon",
       "url": "https://open.spotify.com/track/1nqFHztC0sDmMVqxksjNVL"
@@ -1203,7 +1607,7 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 128013,
       "name": "Tune from the Film by Lana Gogoberidze: When Almonds Blossomed",
       "url": "https://open.spotify.com/track/0vqNv43ZdOMGwq6ZZiRBEH"

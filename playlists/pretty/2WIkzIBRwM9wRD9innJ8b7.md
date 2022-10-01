@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2WIkzIBRwM9wRD9innJ8b7.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 20 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 20 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/2WIkzIBRwM9wRD9innJ8b7.md) - [plain]
 | 2 | [Lose Yourself to Dance \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:53 |
 | 3 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3) | 3:06 |
 | 4 | [\#thatPOWER](https://open.spotify.com/track/6LuHcIZmMG5LU2hiqxscNb) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [\#thatPOWER](https://open.spotify.com/album/40BoIHtXbP5fv64atFHvwG) | 4:40 |
-| 5 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It](https://open.spotify.com/album/5hf74KpfuwSJXVs85k3dVI) | 2:35 |
+| 5 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/3VZQshi4COChhXaz7cLP02) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/album/5hf74KpfuwSJXVs85k3dVI) | 2:35 |
 | 6 | [Radioactive](https://open.spotify.com/track/6h1Wkcm9qz79Xt1Qnp4n4A) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Continued Silence EP](https://open.spotify.com/album/0lW1cNfQfZDndoQ8ej2TSP) | 3:08 |
 | 7 | [Come & Get It](https://open.spotify.com/track/7Gkphzdh5ouurEt7JT49Yu) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Come & Get It](https://open.spotify.com/album/3tzEqPHGtSXywFQoAtYMia) | 3:51 |
 | 8 | [Feel This Moment \(feat\. Christina Aguilera\)](https://open.spotify.com/track/4yOn1TEcfsKHUJCL2h1r8I) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Global Warming](https://open.spotify.com/album/4aawyAB9vmqN3uQ7FjRGTy) | 3:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fmNiEOXSfBfurQwf4gG5L.md) - [plain]
 
 > Take a look back on some of the year's top tracks in roots music\. We'll be adding more of your favorites throughout December\. \#SpotifyFolk2016
 
-[Spotify](https://open.spotify.com/user/spotify) - 294 likes - 94 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 291 likes - 94 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/0fmNiEOXSfBfurQwf4gG5L.md) - [plain]
 | 26 | [The River Will](https://open.spotify.com/track/45c0mWD8NzAIUbLwAd03Gj) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Fern Girl and Ice Man](https://open.spotify.com/album/3FX9ygnFTCdOIOgCmC4wVt) | 4:57 |
 | 27 | [We Can Never Go Back \(Acoustic\)](https://open.spotify.com/track/1YWBgzh7cbxhJlvWMB2erZ) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 4:09 |
 | 28 | [Songbird](https://open.spotify.com/track/2yERH02YKybagXQYIFKqfD) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [Here the Blue River](https://open.spotify.com/album/76EZTx8BZtBU0zHA2u7Ald) | 4:02 |
-| 29 | [Playing Old Games](https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1) | [Erin Rae and the Meanwhiles](https://open.spotify.com/artist/1F6SXx16NcfbanBYeBfWdQ), [Pete Lindberg](https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6) | [Playing Old Games](https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP) | 3:29 |
+| 29 | [Playing Old Games](https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Pete Lindberg](https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6) | [Playing Old Games](https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP) | 3:29 |
 | 30 | [Library Magic](https://open.spotify.com/track/4HjEsfSpWo8gvZMr9SA3a1) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:13 |
 | 31 | [The 4:19](https://open.spotify.com/track/0FHSOOb34ctc7agp7nqioE) | [Lewis & Leigh](https://open.spotify.com/artist/4B2rbEj97bSOuTPsw9px2A) | [The 4:19](https://open.spotify.com/album/5jsNb1D19GN2Tq1knvypfa) | 3:33 |
 | 32 | [Seasons of Love](https://open.spotify.com/track/03DZkKIhcVC15HLLetNtSJ) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Seasons of Love](https://open.spotify.com/album/3hBdINe1hWEu0rks4OF97A) | 4:44 |

@@ -2,8 +2,64 @@
   "date_first_scraped": "2022-07-19",
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
   "name": "Afro Throwback",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3PGD42xzaSO4O5kpwimiJs"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "1er Gaou",
+        "url": "https://open.spotify.com/album/4WxLFmBpRfwn2Xa38W6Juj"
+      },
+      "artists": [
+        {
+          "name": "Magic System",
+          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295146,
+      "name": "1er Gaou",
+      "url": "https://open.spotify.com/track/6eqqWm2LkDweTHhz1u5KKo"
+    },
+    {
+      "album": {
+        "name": "Aben Wo Aha",
+        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310666,
+      "name": "Aben Wo Aha",
+      "url": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm"
+    },
+    {
+      "album": {
+        "name": "Aben Wa Ha",
+        "url": "https://open.spotify.com/album/6xFIOw6oitS4vkTK6q41Sd"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 312706,
+      "name": "Aben Wo Aha",
+      "url": "https://open.spotify.com/track/0r6z4y1ipgGloVF3ZPSfZ7"
+    },
     {
       "album": {
         "name": "Adonai (Remix) [feat. Castro]",
@@ -39,7 +95,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283920,
       "name": "Africa Money",
       "url": "https://open.spotify.com/track/6zhfuaevbv2CGBmvLv11l6"
@@ -57,10 +113,32 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260986,
       "name": "African Queen",
       "url": "https://open.spotify.com/track/7FkT43Ziw1twchabx7AfOJ"
+    },
+    {
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262986,
+      "name": "African Queen",
+      "url": "https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP"
     },
     {
       "album": {
@@ -79,7 +157,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 300721,
       "name": "Ahayede",
       "url": "https://open.spotify.com/track/0YcLMyZGhtAx1qYgQPbPkJ"
@@ -141,10 +219,46 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271786,
       "name": "Alingo",
       "url": "https://open.spotify.com/track/3ADcRFFSfs9aoakp9xKCtf"
+    },
+    {
+      "album": {
+        "name": "Alkayida (Boy Abre)",
+        "url": "https://open.spotify.com/album/3ejLKMcv8zl0FKgv1QBzGn"
+      },
+      "artists": [
+        {
+          "name": "Guru",
+          "url": "https://open.spotify.com/artist/1c9Ya9GKcFOLh4gixxivdk"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218032,
+      "name": "Alkayida (Boy Abre)",
+      "url": "https://open.spotify.com/track/7xAHWYJhJQLM83eDaerhS2"
+    },
+    {
+      "album": {
+        "name": "Alkayida (Boys Abre)",
+        "url": "https://open.spotify.com/album/3hBDd8jdTb6jCaX8QENZRR"
+      },
+      "artists": [
+        {
+          "name": "Guru Nkz",
+          "url": "https://open.spotify.com/artist/02erLj5S8dJEjZyFYug3Ck"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218122,
+      "name": "Alkayida (Boys Abre)",
+      "url": "https://open.spotify.com/track/6poPF57AAibYYvIHaujZjt"
     },
     {
       "album": {
@@ -159,10 +273,64 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-22",
       "duration_ms": 242448,
       "name": "Amorawa - Bonus Track",
       "url": "https://open.spotify.com/track/1XD2smsByGKUCgHhyZyVtF"
+    },
+    {
+      "album": {
+        "name": "T.I.N.A.",
+        "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
+      },
+      "artists": [
+        {
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222750,
+      "name": "Antenna - UK Club Mix",
+      "url": "https://open.spotify.com/track/6NeLjyLTlygTDu34MdolgQ"
+    },
+    {
+      "album": {
+        "name": "Progress",
+        "url": "https://open.spotify.com/album/5Tq5ATKhOia0vW66dX8syT"
+      },
+      "artists": [
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 304226,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g"
+    },
+    {
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
     },
     {
       "album": {
@@ -177,7 +345,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235308,
       "name": "Aye",
       "url": "https://open.spotify.com/track/6KjIPqQlgf2jetOWtF6Zs8"
@@ -217,7 +385,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170605,
       "name": "Azonto",
       "url": "https://open.spotify.com/track/26ThJZpkEnjEXfrvzFvn9D"
@@ -257,7 +425,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 254458,
       "name": "Baba God (feat. Sk)",
       "url": "https://open.spotify.com/track/2DFOj2Uu3q3MQ2l4z5fQaS"
@@ -282,8 +450,74 @@
     },
     {
       "album": {
+        "name": "Bae (feat. Afro B)",
+        "url": "https://open.spotify.com/album/0ae2TKUu1qAZ18GYdrJdNB"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203964,
+      "name": "Bae (feat. Afro B)",
+      "url": "https://open.spotify.com/track/0XAebEOKmFP0QjVplewqbE"
+    },
+    {
+      "album": {
+        "name": "Full Vim",
+        "url": "https://open.spotify.com/album/0DTMTBEMABaQYdkPCGYnFu"
+      },
+      "artists": [
+        {
+          "name": "Mista Silva",
+          "url": "https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5"
+        },
+        {
+          "name": "Skob",
+          "url": "https://open.spotify.com/artist/3Pyjqc00tBElP4O9VUpyNY"
+        },
+        {
+          "name": "Kwamz N Flava",
+          "url": "https://open.spotify.com/artist/4xvJi4sfP4v2ab7nH3utp8"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260257,
+      "name": "Boom Boom Tah",
+      "url": "https://open.spotify.com/track/1urrkZaxQUFsoQD54wvjY3"
+    },
+    {
+      "album": {
         "name": "Best Of Wande Coal",
         "url": "https://open.spotify.com/album/6SThqj5TS5t7ekYnq4vbE7"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225933,
+      "name": "Bumper To Bumper",
+      "url": "https://open.spotify.com/track/07ANhZt44fsOCbHYq3MYPc"
+    },
+    {
+      "album": {
+        "name": "Best Of Wande Coal",
+        "url": "https://open.spotify.com/album/42byhYQHESB4Gix7pRmf66"
       },
       "artists": [
         {
@@ -296,7 +530,25 @@
       "date_removed": null,
       "duration_ms": 225933,
       "name": "Bumper To Bumper",
-      "url": "https://open.spotify.com/track/07ANhZt44fsOCbHYq3MYPc"
+      "url": "https://open.spotify.com/track/0J3cH1cBxloV2cwQzvgnNS"
+    },
+    {
+      "album": {
+        "name": "Bundelele",
+        "url": "https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5"
+      },
+      "artists": [
+        {
+          "name": "Awilo Longomba",
+          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205970,
+      "name": "Bundelele",
+      "url": "https://open.spotify.com/track/6VtdRYA62JdfnYFlsAqjpT"
     },
     {
       "album": {
@@ -315,10 +567,32 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246832,
       "name": "Caro",
       "url": "https://open.spotify.com/track/75u7OvDfLHg0574MoNQhyd"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246832,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/7vECrNzGTrvUSAl2pT9Oft"
     },
     {
       "album": {
@@ -363,10 +637,36 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 272195,
       "name": "Chop My Money - Remix",
       "url": "https://open.spotify.com/track/7DgGvLVviQRVyc4xy4CWjQ"
+    },
+    {
+      "album": {
+        "name": "Chop My Money",
+        "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272297,
+      "name": "Chop My Money - Remix",
+      "url": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
     },
     {
       "album": {
@@ -381,7 +681,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 329560,
       "name": "Couper d\u00e9caler",
       "url": "https://open.spotify.com/track/6YrUPrGLY5CzrgyleP5kgG"
@@ -399,10 +699,50 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250250,
       "name": "Dami Duro",
       "url": "https://open.spotify.com/track/02zOOqmlnTCtLPg98cTqPw"
+    },
+    {
+      "album": {
+        "name": "Dami Duro",
+        "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250257,
+      "name": "Dami Duro",
+      "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
+    },
+    {
+      "album": {
+        "name": "Dance for Me",
+        "url": "https://open.spotify.com/album/2H9HAxeTHIQ66FHVoBjWME"
+      },
+      "artists": [
+        {
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204173,
+      "name": "Dance for Me",
+      "url": "https://open.spotify.com/track/1XgfWBcj0E8cKSo8Hj2F4P"
     },
     {
       "album": {
@@ -421,7 +761,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204173,
       "name": "Dance For Me (Eugy X Mr Eazi)",
       "url": "https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z"
@@ -439,10 +779,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281413,
       "name": "Do Me",
       "url": "https://open.spotify.com/track/6WfqEHQO707lT1WgwYnOVC"
+    },
+    {
+      "album": {
+        "name": "Gameover (Deluxe)",
+        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281359,
+      "name": "Do Me - Deluxe",
+      "url": "https://open.spotify.com/track/0amjxUztXizZbRwGer8o34"
     },
     {
       "album": {
@@ -457,10 +815,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 279353,
       "name": "Don't Dull",
       "url": "https://open.spotify.com/track/6C6xlP5zYRhYSNI5ORl6Wd"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279353,
+      "name": "Don't Dull",
+      "url": "https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v"
     },
     {
       "album": {
@@ -510,6 +886,46 @@
     },
     {
       "album": {
+        "name": "Afrikan New Style",
+        "url": "https://open.spotify.com/album/4WC1cBieMiYoc3enDfIi5u"
+      },
+      "artists": [
+        {
+          "name": "Jessy Matador",
+          "url": "https://open.spotify.com/artist/7kg2IelllVmw7WcnSFtlXR"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "D\u00e9cal\u00e9 Gwada",
+      "url": "https://open.spotify.com/track/6m9geVsbI6BsPZ6CESmK3c"
+    },
+    {
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        },
+        {
+          "name": "J. Martins",
+          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264092,
+      "name": "E No Easy",
+      "url": "https://open.spotify.com/track/2eBFbJrTEIWVnqsVRWOgVN"
+    },
+    {
+      "album": {
         "name": "Danger",
         "url": "https://open.spotify.com/album/0QD5tgva79HHdRl79AJMSU"
       },
@@ -521,7 +937,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267426,
       "name": "E No Easy Ft. J.Martins",
       "url": "https://open.spotify.com/track/6VAiSBmVmsCPtcx5K1wAp5"
@@ -573,7 +989,7 @@
       },
       "artists": [
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
@@ -583,6 +999,42 @@
       "duration_ms": 160000,
       "name": "Final (Baba Nla)",
       "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
+    },
+    {
+      "album": {
+        "name": "YBNL",
+        "url": "https://open.spotify.com/album/0mBEVecZUhNn4sD2nHvJTX"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "First of All",
+      "url": "https://open.spotify.com/track/6aWJGYvtifenSm5hYVYqii"
+    },
+    {
+      "album": {
+        "name": "Gobe",
+        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229668,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
     },
     {
       "album": {
@@ -597,10 +1049,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238228,
       "name": "Gobe",
       "url": "https://open.spotify.com/track/6vZyBHBd2evVUqX2USFcdm"
+    },
+    {
+      "album": {
+        "name": "Gongo Aso",
+        "url": "https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex"
+      },
+      "artists": [
+        {
+          "name": "9ice",
+          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216267,
+      "name": "Gongo Aso",
+      "url": "https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl"
     },
     {
       "album": {
@@ -615,10 +1085,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224306,
       "name": "Gongo Aso",
       "url": "https://open.spotify.com/track/5JEw4FrNlWmHxgBkw0jbEj"
+    },
+    {
+      "album": {
+        "name": "After the Storm",
+        "url": "https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229093,
+      "name": "Hol' It",
+      "url": "https://open.spotify.com/track/1BQHtfaLM0aLBYChMtDGTv"
     },
     {
       "album": {
@@ -633,7 +1121,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229093,
       "name": "Hol' it",
       "url": "https://open.spotify.com/track/7AJcPmSg6OhbdTkOSXQ8YO"
@@ -651,10 +1139,46 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261642,
       "name": "Holla At Your Boy",
       "url": "https://open.spotify.com/track/04spFw8MYyF8JtnziscOM7"
+    },
+    {
+      "album": {
+        "name": "In My World",
+        "url": "https://open.spotify.com/album/117J6DzOZv8mSiJW94pxvv"
+      },
+      "artists": [
+        {
+          "name": "Victizzle",
+          "url": "https://open.spotify.com/artist/26ysY3T9kQzZGDsESHl7fS"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 296000,
+      "name": "I Sing Feat. Utter Once & Muyiwa",
+      "url": "https://open.spotify.com/track/33qUqDe23SGvprJxf8YisA"
+    },
+    {
+      "album": {
+        "name": "Igwe",
+        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
+      },
+      "artists": [
+        {
+          "name": "Midnight Crew",
+          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312556,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
     },
     {
       "album": {
@@ -669,7 +1193,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 311693,
       "name": "Igwe",
       "url": "https://open.spotify.com/track/3sIofHrXIc1o5OFkP9Kk6N"
@@ -687,10 +1211,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236012,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/39USJOEHwUIgKzuU9tdanx"
+    },
+    {
+      "album": {
+        "name": "King Of Queens",
+        "url": "https://open.spotify.com/album/7E7V1otMAFHxxrpfAWg1Rn"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236012,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/7pG2mohladBSpE6CqxFik5"
     },
     {
       "album": {
@@ -864,6 +1406,42 @@
     },
     {
       "album": {
+        "name": "Carnival Street Bangers",
+        "url": "https://open.spotify.com/album/70OAlH98XNE9wJKBBjftGY"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 258000,
+      "name": "Mo Gbono Feli Feli",
+      "url": "https://open.spotify.com/track/15aJ5bXwxMiTQCqCZrJtAA"
+    },
+    {
+      "album": {
+        "name": "D'banj Essentials",
+        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258013,
+      "name": "Mo Gbono Feli Feli",
+      "url": "https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y"
+    },
+    {
+      "album": {
         "name": "Move Back",
         "url": "https://open.spotify.com/album/32SvtOKJRz8UBI6ndreZp3"
       },
@@ -883,6 +1461,24 @@
     {
       "album": {
         "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218174,
+      "name": "No Lele",
+      "url": "https://open.spotify.com/track/4cKNCruCZcXEfiIKEG6m7b"
+    },
+    {
+      "album": {
+        "name": "Superstar",
         "url": "https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo"
       },
       "artists": [
@@ -893,7 +1489,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218174,
       "name": "No Lele",
       "url": "https://open.spotify.com/track/57Gu531HyBd4QmPsQXl165"
@@ -911,10 +1507,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268346,
       "name": "No One Like You",
       "url": "https://open.spotify.com/track/6sPLOg4DTfBf1bQIclHzVh"
+    },
+    {
+      "album": {
+        "name": "Gameover (Deluxe)",
+        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268318,
+      "name": "No One Like You - Deluxe",
+      "url": "https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4"
     },
     {
       "album": {
@@ -929,10 +1543,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262347,
       "name": "Nwa Baby (Ashawo Remix)",
       "url": "https://open.spotify.com/track/1noPA8QfOmSEurS2PekBsp"
+    },
+    {
+      "album": {
+        "name": "Nwa Baby (Ashawo Remix)",
+        "url": "https://open.spotify.com/album/1oUpWwSxEMQNea1eHCLcmy"
+      },
+      "artists": [
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257880,
+      "name": "Nwa Baby - Ashawo Remix",
+      "url": "https://open.spotify.com/track/3yLliVuAdxCnXwqSJgF3TX"
     },
     {
       "album": {
@@ -965,7 +1597,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 233080,
       "name": "Odo",
       "url": "https://open.spotify.com/track/4kbszKEvLCtJ020xd0OVDX"
@@ -983,10 +1615,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245386,
       "name": "Ogologomma",
       "url": "https://open.spotify.com/track/4N0eXQWmjj8NJvItIbzO94"
+    },
+    {
+      "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245420,
+      "name": "Ogologomma",
+      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
     },
     {
       "album": {
@@ -1049,6 +1699,24 @@
     {
       "album": {
         "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212005,
+      "name": "Pakurumo",
+      "url": "https://open.spotify.com/track/2EahSgwzCKSvJMM2BOzDDu"
+    },
+    {
+      "album": {
+        "name": "Superstar",
         "url": "https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo"
       },
       "artists": [
@@ -1059,7 +1727,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212005,
       "name": "Pakurumo",
       "url": "https://open.spotify.com/track/5YgyvTZmdkIfFOnj8ri8mZ"
@@ -1095,10 +1763,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192720,
       "name": "Personally",
       "url": "https://open.spotify.com/track/6v3t7pht6XNt5Wq7co40DM"
+    },
+    {
+      "album": {
+        "name": "Double Trouble",
+        "url": "https://open.spotify.com/album/27Jz5SHt1hamUx7fD9A6VC"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192885,
+      "name": "Personally - Bonus",
+      "url": "https://open.spotify.com/track/3uaObCyjKCjktezgA5MBX1"
     },
     {
       "album": {
@@ -1113,7 +1799,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 292813,
       "name": "Premier Gaou",
       "url": "https://open.spotify.com/track/2JOO9SzSalKixThDuSAtwY"
@@ -1175,10 +1861,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208873,
       "name": "Shake Body",
       "url": "https://open.spotify.com/track/0RTKzoAF6R3YoHrdBjmmtJ"
+    },
+    {
+      "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/3YwLRle9LoE8tOO3AU5oU3"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Shake Body",
+      "url": "https://open.spotify.com/track/4btYeVhPo0QIbUxySZGjba"
     },
     {
       "album": {
@@ -1201,7 +1905,7 @@
     {
       "album": {
         "name": "Best Of Davido",
-        "url": "https://open.spotify.com/album/4DtzXzSepr3TRnxA89QV8U"
+        "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
       },
       "artists": [
         {
@@ -1214,7 +1918,47 @@
       "date_removed": null,
       "duration_ms": 190295,
       "name": "Skelewu",
+      "url": "https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU"
+    },
+    {
+      "album": {
+        "name": "Best Of Davido",
+        "url": "https://open.spotify.com/album/4DtzXzSepr3TRnxA89QV8U"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190295,
+      "name": "Skelewu",
       "url": "https://open.spotify.com/track/2WLpYiWNYtHeS5izWhrh6Q"
+    },
+    {
+      "album": {
+        "name": "Skin Tight",
+        "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248626,
+      "name": "Skin Tight",
+      "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
     },
     {
       "album": {
@@ -1233,7 +1977,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248626,
       "name": "Skin Tight (feat. Efya)",
       "url": "https://open.spotify.com/track/7vpMQ2vmU6O2qFG7aNKwiL"
@@ -1249,7 +1993,7 @@
           "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
@@ -1259,6 +2003,24 @@
       "duration_ms": 261546,
       "name": "Slow Down (feat. Wiz Kid)",
       "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
+    },
+    {
+      "album": {
+        "name": "On A Spaceship",
+        "url": "https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218866,
+      "name": "Soke",
+      "url": "https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol"
     },
     {
       "album": {
@@ -1273,7 +2035,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218866,
       "name": "Soke",
       "url": "https://open.spotify.com/track/5odE6ttDuVxOebSaXsjTVz"
@@ -1349,7 +2111,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188817,
       "name": "Tease Me / Bad Guys",
       "url": "https://open.spotify.com/track/0c5mtgPNP2jBk9fdVtZ3lf"
@@ -1454,6 +2216,42 @@
     },
     {
       "album": {
+        "name": "Waist & Power",
+        "url": "https://open.spotify.com/album/2yoVgfL21I1DRDSFuoqjMn"
+      },
+      "artists": [
+        {
+          "name": "4x4",
+          "url": "https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305669,
+      "name": "Waist & Power",
+      "url": "https://open.spotify.com/track/6mtHjfaPzBND2HS2c0UsU3"
+    },
+    {
+      "album": {
+        "name": "Bo Wonsem Ma Me",
+        "url": "https://open.spotify.com/album/2TfKtb6WTtOybgGAwWPL7p"
+      },
+      "artists": [
+        {
+          "name": "Eazzy",
+          "url": "https://open.spotify.com/artist/0kLj779fKzLC2dxFJjsVXm"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213119,
+      "name": "Wengeze",
+      "url": "https://open.spotify.com/track/1zWSf29jBrScFFxwhr1OLa"
+    },
+    {
+      "album": {
         "name": "DeYaaa",
         "url": "https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp"
       },
@@ -1483,10 +2281,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 255712,
       "name": "Yahooze",
       "url": "https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg"
+    },
+    {
+      "album": {
+        "name": "Olu Maintain",
+        "url": "https://open.spotify.com/album/2mUdcVpvhrP28q8jHnWdVx"
+      },
+      "artists": [
+        {
+          "name": "Olu Maintain",
+          "url": "https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255744,
+      "name": "Yahooze",
+      "url": "https://open.spotify.com/track/4vu5c3to9ytYGmEIMpWw4q"
     },
     {
       "album": {
@@ -1501,10 +2317,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247432,
       "name": "Yes/No",
       "url": "https://open.spotify.com/track/0ZaMQuEmdsGaKQOXtiqrHn"
+    },
+    {
+      "album": {
+        "name": "R & BW",
+        "url": "https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt"
+      },
+      "artists": [
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247453,
+      "name": "Yes/No",
+      "url": "https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD"
     },
     {
       "album": {
@@ -1526,6 +2360,24 @@
     },
     {
       "album": {
+        "name": "Selection",
+        "url": "https://open.spotify.com/album/6vgavmu9XaTbGvnZ7FnTco"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1dATrNO6y7LHKgZ2DhYQsh"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "You Bad",
+      "url": "https://open.spotify.com/track/73t8wajskCvkLtnw7Xvmk7"
+    },
+    {
+      "album": {
         "name": "51 Lex Records Presents Carnizelas Vol.2",
         "url": "https://open.spotify.com/album/7m0aN5VlRJypUuyeczLGh9"
       },
@@ -1537,7 +2389,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 248000,
       "name": "You Bad",
       "url": "https://open.spotify.com/track/0hjNPLAN4ZRG57yqOvCL02"

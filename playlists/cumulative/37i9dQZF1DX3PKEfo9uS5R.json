@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/23cnPYmXMtcwd6pD5Oglhq"
+      },
+      "artists": [
+        {
+          "name": "mirzo",
+          "url": "https://open.spotify.com/artist/7ruFe6EwetUwY0gZuTUAQr"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243798,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1FsSDC4CIumtj3E2eXAEOv"
+    },
+    {
+      "album": {
         "name": "Compose Yourself",
         "url": "https://open.spotify.com/album/53t4xsId26JE5HRAkUSVxo"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 164265,
       "name": "Ap\u00e9ritif",
       "url": "https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 179750,
       "name": "Biscuit",
       "url": "https://open.spotify.com/track/5cPmiWqjOg48GPxBdKjzGo"
@@ -570,6 +588,24 @@
     },
     {
       "album": {
+        "name": "Dreamscape",
+        "url": "https://open.spotify.com/album/0zZCLYy5ZUvqgFUfp9LcVd"
+      },
+      "artists": [
+        {
+          "name": "David Dumeau",
+          "url": "https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Dreamscape",
+      "url": "https://open.spotify.com/track/6YHhIKNyqtWN0jHqvsrf10"
+    },
+    {
+      "album": {
         "name": "Picturesque",
         "url": "https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe"
       },
@@ -725,7 +761,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-05",
       "duration_ms": 207631,
       "name": "Fragmented Memories",
       "url": "https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj"
@@ -743,10 +779,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 158584,
       "name": "Free Range",
       "url": "https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv"
+    },
+    {
+      "album": {
+        "name": "Gardient heaven",
+        "url": "https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8"
+      },
+      "artists": [
+        {
+          "name": "YAN KAL",
+          "url": "https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152396,
+      "name": "Gardient heaven",
+      "url": "https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK"
     },
     {
       "album": {
@@ -1013,7 +1067,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-22",
       "duration_ms": 190173,
       "name": "How We Do It",
       "url": "https://open.spotify.com/track/7Fangq5H3r0uFVnBmtjqPB"
@@ -1060,6 +1114,24 @@
     },
     {
       "album": {
+        "name": "Outside My Window",
+        "url": "https://open.spotify.com/album/4LbymBMUIVzLVYePiouiVh"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268124,
+      "name": "I Wish We Had More Time",
+      "url": "https://open.spotify.com/track/71F5R77kgxulxZTtgzli7j"
+    },
+    {
+      "album": {
         "name": "I've Got The Feeling",
         "url": "https://open.spotify.com/album/5HPOU4FAiniS1VDgx3BQw1"
       },
@@ -1075,6 +1147,24 @@
       "duration_ms": 151512,
       "name": "I've Got The Feeling",
       "url": "https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC"
+    },
+    {
+      "album": {
+        "name": "Ibittsa",
+        "url": "https://open.spotify.com/album/6GVsl5RdQPKlGEvUYbETI9"
+      },
+      "artists": [
+        {
+          "name": "Lil Harry",
+          "url": "https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237490,
+      "name": "Ibittsa",
+      "url": "https://open.spotify.com/track/6icxpvjxlKDbj62NO4Uq3F"
     },
     {
       "album": {
@@ -1096,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "Deep House Lounge (Flawless Vibes)",
+        "url": "https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ"
+      },
+      "artists": [
+        {
+          "name": "Milous",
+          "url": "https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171578,
+      "name": "Kayser",
+      "url": "https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo"
+    },
+    {
+      "album": {
         "name": "Kayser",
         "url": "https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2"
       },
@@ -1107,10 +1215,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 171578,
       "name": "Kayser",
       "url": "https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu"
+    },
+    {
+      "album": {
+        "name": "Keep Your Cool",
+        "url": "https://open.spotify.com/album/0UuYZvNcoHQ6oBOkQKTpxW"
+      },
+      "artists": [
+        {
+          "name": "Stenkil",
+          "url": "https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199322,
+      "name": "Keep Your Cool",
+      "url": "https://open.spotify.com/track/2XRPJw4krhDLWjen7Z9wr0"
     },
     {
       "album": {
@@ -1294,6 +1420,24 @@
     },
     {
       "album": {
+        "name": "Melted Ice Cream",
+        "url": "https://open.spotify.com/album/6uUx9zYBBOl9VUFMUJvd67"
+      },
+      "artists": [
+        {
+          "name": "JAS \u00dc RAGY",
+          "url": "https://open.spotify.com/artist/7b2TMfZW8CqOmhlCbPD7Y6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191816,
+      "name": "Melted Ice Cream",
+      "url": "https://open.spotify.com/track/0XY7kMJEAKm0f3hzgUPFFA"
+    },
+    {
+      "album": {
         "name": "Mermaid",
         "url": "https://open.spotify.com/album/6s4ly0ToaV0tE2A3hdKWbV"
       },
@@ -1309,6 +1453,28 @@
       "duration_ms": 159403,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/0mMHRtKs72ns7zPDNaZzPY"
+    },
+    {
+      "album": {
+        "name": "Mirror Of Erised",
+        "url": "https://open.spotify.com/album/4Z59SWLNVf31yAhuhzQ7FH"
+      },
+      "artists": [
+        {
+          "name": "Heard Right",
+          "url": "https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl"
+        },
+        {
+          "name": "Meeting Molly",
+          "url": "https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Mirror Of Erised",
+      "url": "https://open.spotify.com/track/3o9Er7gZnrvh6wHRiv7xac"
     },
     {
       "album": {
@@ -1618,6 +1784,28 @@
     },
     {
       "album": {
+        "name": "Pura Vida",
+        "url": "https://open.spotify.com/album/2e6h8LOHJXlvZhYh5g0umK"
+      },
+      "artists": [
+        {
+          "name": "TRE",
+          "url": "https://open.spotify.com/artist/6v7EqgcUdy2NR48iflzHgK"
+        },
+        {
+          "name": "Julia Thomsen",
+          "url": "https://open.spotify.com/artist/5r0183a5eBJthIj3EYtHnE"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190956,
+      "name": "Pura Vida",
+      "url": "https://open.spotify.com/track/4lMqdKJtrBGRLkif2MMjXe"
+    },
+    {
+      "album": {
         "name": "Retreat",
         "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
       },
@@ -1687,6 +1875,24 @@
       "duration_ms": 190458,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2ebN0r76upG4bTetGQk996"
+    },
+    {
+      "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/4LOia9loCga2tcDc8HQU5J"
+      },
+      "artists": [
+        {
+          "name": "Egelloc",
+          "url": "https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/6jHI5mf1ahYvoSwx0tdbNB"
     },
     {
       "album": {
@@ -1899,10 +2105,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 232582,
       "name": "Storm Trap",
       "url": "https://open.spotify.com/track/5R6je2hMSX75YAKP5t4CvE"
+    },
+    {
+      "album": {
+        "name": "Sumatra",
+        "url": "https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2"
+      },
+      "artists": [
+        {
+          "name": "Bonsaye",
+          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197047,
+      "name": "Sumatra",
+      "url": "https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3"
     },
     {
       "album": {

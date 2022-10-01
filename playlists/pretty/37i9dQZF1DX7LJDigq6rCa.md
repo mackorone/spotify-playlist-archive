@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 
 > This playlist will sing your little ones to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,967 likes - 78 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,128 likes - 78 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 | 3 | [Rasung Consciousness](https://open.spotify.com/track/1IfsSgpOy1pLK7NfxMkn0k) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Lullaby Moods](https://open.spotify.com/album/7kD4T5Fl7A9YaSeDqxRLh9) | 2:20 |
 | 4 | [Jupiter](https://open.spotify.com/track/2dwO1dTgjx6bDIxHldwFGT) | [The Boy And The String Machine](https://open.spotify.com/artist/6vCDShB6lc6Ew6geXGjVNS) | [Astral Melody](https://open.spotify.com/album/1AMZ0gxW0txUGy754Kz7d2) | 3:39 |
 | 5 | [Violin Lullaby](https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Sleep Well](https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx) | 2:26 |
-| 6 | [Peaceful Steps](https://open.spotify.com/track/0uQp5uVoeiERuDd9ld0eqw) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [My Promise](https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm) | 3:22 |
+| 6 | [Peaceful Steps](https://open.spotify.com/track/0aYMZokpkck2E0q0tahWXX) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 3:22 |
 | 7 | [O Mio Babbino Caro](https://open.spotify.com/track/4cQ6f17oa7CaMuuoumZdSV) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [L'Orchestra Nazionale di Mendoni](https://open.spotify.com/artist/42xl6CZP3xDMz2eLWRWx2w) | [Variations](https://open.spotify.com/album/2XzIVL7OmXQWpwdZDh7eqj) | 2:49 |
 | 8 | [The Deepest Well](https://open.spotify.com/track/2PGA57Sy2RDLAnO7azTXUS) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Older](https://open.spotify.com/album/3MFF1D8Z2a2XVXXG8TbUDS) | 3:14 |
 | 9 | [Serenity](https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va) | [Eva Slott](https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe) | [Serenity](https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm) | 2:19 |
-| 10 | [The Young Sabina](https://open.spotify.com/track/5EhmLz25rdgm13G1C3KQ8J) | [Jaque Di Palma](https://open.spotify.com/artist/79s3DecSnPM2nyQQcQGkzI) | [Colourized](https://open.spotify.com/album/0RXsR74e19cBK3VBFCn58U) | 2:47 |
+| 10 | [The Young Sabina](https://open.spotify.com/track/7xh2WWxh8qgGNnovjO9hyp) | [Jaque Di Palma](https://open.spotify.com/artist/79s3DecSnPM2nyQQcQGkzI) | [Colourized](https://open.spotify.com/album/61Pe4Z2dyXFVnwCy3B6uLr) | 2:47 |
 | 11 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
 | 12 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
 | 13 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
@@ -28,21 +28,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 | 18 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 |
 | 19 | [Holding on to Forever](https://open.spotify.com/track/0CYn7dOi4SC9Eyd7CUpAd2) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Holding on to Forever](https://open.spotify.com/album/5amcCjE91x6i7liBT9IwMr) | 2:05 |
 | 20 | [Slowly Relaxing](https://open.spotify.com/track/19iBXrL3jjNmm4oDaozXWA) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Peace](https://open.spotify.com/album/7wEhjeiksV9gginrs9wlHu) | 3:21 |
-| 21 | [Small Strokes](https://open.spotify.com/track/3O9oF9EmLGiBEz1nOtADYO) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [The Wood Painter](https://open.spotify.com/album/6WQcSbDE7CnNFLIv5BFWao) | 2:14 |
+| 21 | [Small Strokes](https://open.spotify.com/track/1eakqecyY7opzEJvYp713Q) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [The Wood Painter](https://open.spotify.com/album/3OR1YYYlVNBhwp3zWnLhD3) | 2:14 |
 | 22 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 |
-| 23 | [First Flower](https://open.spotify.com/track/2xrzeCo6r8L31gYS0GmmEK) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO) | 3:32 |
-| 24 | [Time For Reflection](https://open.spotify.com/track/68wRmxabhpvkIQZIRpIFHT) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Time For Reflection](https://open.spotify.com/album/3jn32u4R1RnnPEdQB8ZAk9) | 3:25 |
-| 25 | [Dandelions](https://open.spotify.com/track/65qU5EsQb12UUdUFCH7FBY) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO) | 3:52 |
-| 26 | [Hopefull](https://open.spotify.com/track/3T9YBqJEpy7IZsIo89SYVm) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Hopefull](https://open.spotify.com/album/4bpCA9wD3IapewaQ7clEMm) | 4:18 |
-| 27 | [Olvidado](https://open.spotify.com/track/0p4IWEs8ZHhcFdXuy5SYL2) | [Piano Pacifico](https://open.spotify.com/artist/2wuUrp6l6k3yscNZNUFUpJ) | [Luna Mágica](https://open.spotify.com/album/4RO63cpWlUOBZCnGo5VRKa) | 2:32 |
+| 23 | [First Flower](https://open.spotify.com/track/1qjLzirZt50H0f2vFYKRg9) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/4z5M2r9PDsE5jz72rYMjvz) | 3:32 |
+| 24 | [Time For Reflection](https://open.spotify.com/track/35UsABanHui5IxzRVDTbhv) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Time For Reflection](https://open.spotify.com/album/5OewMGijMVWGyfH9NjBcsn) | 3:25 |
+| 25 | [Dandelions](https://open.spotify.com/track/5x5FiSc99Lmplte6KTyk9N) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/4z5M2r9PDsE5jz72rYMjvz) | 3:52 |
+| 26 | [Hopefull](https://open.spotify.com/track/1pMY02UghJHHv0DXv0ZmmK) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 4:18 |
+| 27 | [Olvidado](https://open.spotify.com/track/18OvtoBWwAfDbrhUyIjMdN) | [Piano Pacifico](https://open.spotify.com/artist/2wuUrp6l6k3yscNZNUFUpJ) | [Luna Mágica](https://open.spotify.com/album/6zkPu70oUFPTGpiKAdS4MZ) | 2:32 |
 | 28 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 |
-| 29 | [Purple Heart](https://open.spotify.com/track/41hfLPgLlHIBPaiPw2q8tV) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Purple Heart](https://open.spotify.com/album/3eQzl4B4D6gS5gCkaEU4vL) | 3:38 |
-| 30 | [Going Home](https://open.spotify.com/track/0EK2R1LzlH51tRFWAmodXo) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Time For Reflection](https://open.spotify.com/album/3jn32u4R1RnnPEdQB8ZAk9) | 2:54 |
+| 29 | [Purple Heart](https://open.spotify.com/track/2anhOZpTaoB2Ej5ULsHZ5Q) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Rikyu Garden](https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52) | 3:38 |
+| 30 | [Going Home](https://open.spotify.com/track/0qRGPTsjcMT9EpxgMTOl1P) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Rikyu Garden](https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52) | 2:54 |
 | 31 | [Quiet Dreams](https://open.spotify.com/track/6jJkW2RUsOHCe4hiIk1tED) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Quiet Dreams](https://open.spotify.com/album/5Xxn5Iuq8NGJ3pYzMxov60) | 3:24 |
 | 32 | [Purple](https://open.spotify.com/track/5C0SsvmgrhMkqwdvhc4jEC) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Colors](https://open.spotify.com/album/7Dt87s0vmIHISzEMTuDAbE) | 3:28 |
 | 33 | [Heading West](https://open.spotify.com/track/1KDGb7d3PHIOI6bLWgLFfV) | [Luna Meguise](https://open.spotify.com/artist/44iKmwaKZGgsGDVVzjKIMV) | [Heading West](https://open.spotify.com/album/5JvZw6XCzqzELAYzeBRCIp) | 2:37 |
 | 34 | [Princess Elvira](https://open.spotify.com/track/4H157dvrPw2S3W8tMiOQVr) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Princess Elvira](https://open.spotify.com/album/1POQKpuewoZ12enSJ4m9am) | 2:12 |
-| 35 | [Summer Waltz / The Drive](https://open.spotify.com/track/2x3uxrOfrB4vIqZV5KEpsO) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Breathe In \(Drake Doremus' Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1A4UZZrTRzh0kgVIMtqIMj) | 1:30 |
+| 35 | [Summer Waltz / The Drive](https://open.spotify.com/track/3Og6m4ltVGu3OteMm1Qw5F) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Breathe In \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5cvhwLaFo0osyZmxdTvis2) | 1:29 |
 | 36 | [Light Path](https://open.spotify.com/track/4QtIwLatqBQlnCuG3dpsRS) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [Signposts](https://open.spotify.com/album/2bcgoq2uMCrvBdtucSYwad) | 3:18 |
 | 37 | [Lily's Cradle](https://open.spotify.com/track/4UlarjdicLUPbdssOxWbYX) | [Benette](https://open.spotify.com/artist/6HXMmF2G7ZYNyT0J1FAyan) | [Lily's Cradle](https://open.spotify.com/album/13dJnhdlZ7i32fxPeKvuKm) | 2:41 |
 | 38 | [Scintilla](https://open.spotify.com/track/69sPwFCc8ztlWFMQJnuS3n) | [Mino Monterosso](https://open.spotify.com/artist/528WOUREknwtSsfI7Nj7Zl) | [Scintilla](https://open.spotify.com/album/2Gwv9ptZ8XEK95Gk7M0LNf) | 2:34 |
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 | 41 | [Time to Sleep](https://open.spotify.com/track/0KROBK9hvzlu00YdbFqoyG) | [Cody Butler](https://open.spotify.com/artist/1T8pzECy5NTerwI3ohlMu6) | [Time to Sleep](https://open.spotify.com/album/4SY6S0ZqVZ9BFDKjXkw6hF) | 2:49 |
 | 42 | [Sleep](https://open.spotify.com/track/5i7aUTyYoyCpYXcj9yyKxc) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Sleep](https://open.spotify.com/album/1tFb4gpyJ8AxTbAyvgMOob) | 2:49 |
 | 43 | [](https://open.spotify.com/track/54MQc7UtIAogdoU5h0KNOP) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5AsILdoHhA7WdqUtPDtnoX) | 0:00 |
-| 44 | [Aoi](https://open.spotify.com/track/7LW1LiX6gMkHpwCXlaq63g) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Sapphire](https://open.spotify.com/album/51sf1gfgOSgcF4AK5qJ4jK) | 2:07 |
+| 44 | [Aoi](https://open.spotify.com/track/3uRiUTLcITvlfgTzXxewIy) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Sapphire](https://open.spotify.com/album/0VbeTe0lGt64zxB9nP4OqW) | 2:07 |
 | 45 | [Holding Hands](https://open.spotify.com/track/6n0dkxJ2LkKmoViiGm6lAR) | [Bruno Joel](https://open.spotify.com/artist/3YojgmGKYcr1V6480v3qwy) | [Holding Hands](https://open.spotify.com/album/60yiaR6a8WLSMuUE3KUsjC) | 2:45 |
 | 46 | [Chiudete Gli Occhi](https://open.spotify.com/track/1pFCkU2BQHr0mJIj05KXSD) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Chiudete gli occhi](https://open.spotify.com/album/1BHrWvwKscYtked2P5mFPt) | 3:52 |
-| 47 | [Hello from the Edge of the Earth](https://open.spotify.com/track/4enSqzRLAs0h7s4n50uMAj) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Hundreds of Days](https://open.spotify.com/album/3IWrNOSIxzGobh8I70rBpm) | 3:34 |
+| 47 | [Hello from the Edge of the Earth](https://open.spotify.com/track/0NxlgdHCjvD0FeTzRP9HQd) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Hundreds of Days](https://open.spotify.com/album/3htG3vw3Y9SZuoKFEvQ9FI) | 3:34 |
 | 48 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 |
 | 49 | [Zhenya](https://open.spotify.com/track/09z4NnaPxtbPsMoKHDaoIy) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Zhenya](https://open.spotify.com/album/3uNqo97i4YJVzvo9r25Smo) | 3:22 |
 | 50 | [Notte](https://open.spotify.com/track/3sAJq6EDW2iNSJnHwLzSqV) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Notte](https://open.spotify.com/album/5uTX4Gl0qEqf444613cBbn) | 3:19 |
-| 51 | [Chalets](https://open.spotify.com/track/6t3FJ7d30iGl0fSePKZh1O) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [The Wood Painter](https://open.spotify.com/album/6WQcSbDE7CnNFLIv5BFWao) | 1:24 |
+| 51 | [Chalets](https://open.spotify.com/track/1BDm3GIPagVvet40fFKg8K) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [The Wood Painter](https://open.spotify.com/album/3OR1YYYlVNBhwp3zWnLhD3) | 1:36 |
 | 52 | [Nocturne](https://open.spotify.com/track/6eBlT3u2zNEsuOFL6e6uIR) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Nocturne](https://open.spotify.com/album/0r8EWo5tLMJoOLNhystGx1) | 3:26 |
 | 53 | [Adelita de Tarrega Large Reverb](https://open.spotify.com/track/2Db1pHzdBSdFIz8y7eAQwb) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Cinema Latino Vol\. 2](https://open.spotify.com/album/1FajCPj6rryb58KTupNivW) | 2:24 |
 | 54 | [Castor](https://open.spotify.com/track/7urR40aaLV1jRneNj2ykva) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Castor / Pollux](https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t) | 2:48 |
@@ -85,6 +85,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 | 75 | [Golden Slumbers](https://open.spotify.com/track/553aXMKRk0Kh41QpvbuuFt) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6) | [Plays McCartney](https://open.spotify.com/album/7Fo8n4zfC54z0Yjgv8qVKY) | 2:43 |
 | 76 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 |
 | 77 | [Ave Nocturne](https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 3:24 |
-| 78 | [Judith](https://open.spotify.com/track/6GsOj1QAdG1XIhbFilnj77) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Omkuld](https://open.spotify.com/album/3R8LbIPY4wuop5VHWEWrGk) | 2:55 |
+| 78 | [Judith](https://open.spotify.com/track/7jZ3B5pFQUy1CUgC0GIzyb) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Omkuld](https://open.spotify.com/album/3nz0L887xLbp5O6NqDzYgr) | 2:55 |
 
-Snapshot ID: `MTU4MzQ4Nzg4OCwwMDAwMDAwMjAwMDAwMTZlMTdjNjYxOGQwMDAwMDE3MGFmM2JhYjU1`
+Snapshot ID: `MTU3MjM1NjkwNywwMDAwMDAwMGY5NDJiMzI1MDFmYjQzYzg2MTIxMjA5OGM3ZDU4OWQ2`

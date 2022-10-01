@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Groove to music from your Netflix Kids favorites, such as The Sea Beast.",
+  "description": "Groove to music from your Netflix Kids favorites, such as Ivy + Bean.",
   "name": "Netflix Kids Official Playlist",
   "published_playlist_ids": [
     "4OwNQpd4CKtVZ6h2qFxFa1"
@@ -77,10 +77,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230434,
       "name": "Always",
       "url": "https://open.spotify.com/track/5H6Ams75Ab5rob7lfVx6LK"
+    },
+    {
+      "album": {
+        "name": "Feel The Beat (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2vywm8aptsSE8OakDQIpY4"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230434,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7rhF6rGZYiPEIXuJir5ATl"
     },
     {
       "album": {
@@ -153,10 +171,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149838,
       "name": "Best Day Ever",
       "url": "https://open.spotify.com/track/4yYrFMKjLBVEXF7Psy36LB"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149840,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/2JSd29ATGEql12Ecx0UTnA"
     },
     {
       "album": {
@@ -240,7 +276,7 @@
     },
     {
       "album": {
-        "name": "Cocomelon Kids Hits, Vol. 2",
+        "name": "CoComelon Kids Hits, Vol. 2",
         "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
       },
       "artists": [
@@ -258,7 +294,7 @@
     },
     {
       "album": {
-        "name": "Cocomelon Kids Hits, Vol. 2",
+        "name": "CoComelon Kids Hits, Vol. 2",
         "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
       },
       "artists": [
@@ -365,6 +401,24 @@
       "duration_ms": 130504,
       "name": "Full Speed Fun",
       "url": "https://open.spotify.com/track/34f9yqSTA9dkoyjmfwOSNF"
+    },
+    {
+      "album": {
+        "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6gZ3zzVuQzN7UkjKeZBJRk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Get Along",
+      "url": "https://open.spotify.com/track/0iEyU8xE61ICnyQ4fjZpL8"
     },
     {
       "album": {
@@ -498,6 +552,28 @@
     },
     {
       "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        },
+        {
+          "name": "Branch",
+          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134493,
+      "name": "Hair In The Air (Trolls: The Beat Goes On Theme)",
+      "url": "https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC"
+    },
+    {
+      "album": {
         "name": "DreamWorks Trolls - The Beat Goes On! (Music From Season 1)",
         "url": "https://open.spotify.com/album/74G7ktttrog53aefGFcf41"
       },
@@ -513,7 +589,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134500,
       "name": "Hair In The Air (Trolls: The Beat Goes On Theme)",
       "url": "https://open.spotify.com/track/2GMgGGx83x0QtJ2Q0qK0Vf"
@@ -542,7 +618,7 @@
     },
     {
       "album": {
-        "name": "Cocomelon Essentials",
+        "name": "CoComelon Essentials",
         "url": "https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz"
       },
       "artists": [
@@ -707,10 +783,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173773,
       "name": "I'll Always Love You",
       "url": "https://open.spotify.com/track/5rpvjntUS4tjEOFRGJr7d9"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 3",
+        "url": "https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        },
+        {
+          "name": "Winter River",
+          "url": "https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173773,
+      "name": "I'll Always Love You",
+      "url": "https://open.spotify.com/track/6xY7CmImqIfHHlesaUg2oO"
     },
     {
       "album": {
@@ -790,6 +888,24 @@
     },
     {
       "album": {
+        "name": "Thai Cave Rescue (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3VcxoYyUcIPoZU1yIVQvhi"
+      },
+      "artists": [
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250555,
+      "name": "Keep Holding On - Hybrid Version",
+      "url": "https://open.spotify.com/track/2u66zu5KxLUmINS2sCMpGH"
+    },
+    {
+      "album": {
         "name": "A Week Away (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
       },
@@ -839,10 +955,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203773,
       "name": "Let\u2019s Move! Dance Party",
       "url": "https://open.spotify.com/track/2qPEiuO3w4iho9YY8B0KMW"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 2",
+        "url": "https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Let\u2019s Move! Dance Party",
+      "url": "https://open.spotify.com/track/78VhKIYlWIn72RqRSY85kM"
     },
     {
       "album": {
@@ -1112,6 +1246,24 @@
     },
     {
       "album": {
+        "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6gZ3zzVuQzN7UkjKeZBJRk"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158167,
+      "name": "Rules R Made 2 B Broken",
+      "url": "https://open.spotify.com/track/5wX68SsEADVhUjFdEyTOAd"
+    },
+    {
+      "album": {
         "name": "Vivo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk"
       },
@@ -1217,10 +1369,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161025,
       "name": "The Gratitude Attitude",
       "url": "https://open.spotify.com/track/2BGfPHga1Kr75ew5NDqGKb"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 3",
+        "url": "https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161025,
+      "name": "The Gratitude Attitude",
+      "url": "https://open.spotify.com/track/2DoZ8rKC6xZRfFU9w3EDGJ"
     },
     {
       "album": {
@@ -1336,6 +1506,28 @@
     },
     {
       "album": {
+        "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6gZ3zzVuQzN7UkjKeZBJRk"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        },
+        {
+          "name": "HARLOE",
+          "url": "https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150800,
+      "name": "Two Left Feet",
+      "url": "https://open.spotify.com/track/70FZ0JbtD0BmEB3ekr8rcd"
+    },
+    {
+      "album": {
         "name": "StoryBots Dinosaurs Songs",
         "url": "https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK"
       },
@@ -1430,7 +1622,7 @@
     },
     {
       "album": {
-        "name": "Cocomelon Kids Hits, Vol. 1",
+        "name": "CoComelon Kids Hits, Vol. 1",
         "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
       },
       "artists": [

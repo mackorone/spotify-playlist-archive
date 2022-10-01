@@ -4,7 +4,7 @@
 
 > <a href="http://casaum.org/">Casa 1</a> recommends songs from LBT women \(lesbians, bi and trans\)\. \| Cover:  Ventura Profana
 
-50 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/5vDUfBtAHRwJD6jYMYd1zW)
+54 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/5vDUfBtAHRwJD6jYMYd1zW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,11 +24,13 @@
 | [Felicidade](https://open.spotify.com/track/4u0emMk7ppDIqRfeEbYJ36) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:31 | 2022-03-08 |  |
 | [Foi Mal](https://open.spotify.com/track/4hMjHubjzbhbJ7yOcYJQgP) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Foi Mal](https://open.spotify.com/album/3lyJq0y5LfHEXycMqzsKoB) | 2:45 | 2022-03-08 |  |
 | [Francamente](https://open.spotify.com/track/3vmArANivBdKrVTk31MuNC) | [Maluria](https://open.spotify.com/artist/7JBLPessKgwsHZFOHpPgKk) | [Francamente](https://open.spotify.com/album/1onP44DuGC2RTz4u0zJSjK) | 2:41 | 2022-03-08 |  |
-| [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 | 2022-03-08 |  |
+| [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 | 2022-03-08 | 2022-07-29 |
+| [Fullgás](https://open.spotify.com/track/42ChWRndfQZ4AdoUXylEF1) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Mulheres da MPB](https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B) | 4:07 | 2022-03-08 |  |
 | [Garganta](https://open.spotify.com/track/7ggsCVhoqrOJOyDXDvWBlB) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Ana Carolina](https://open.spotify.com/album/4cLlfzzQAr7ZXIIv2OG2xG) | 3:35 | 2022-03-08 |  |
 | [Isso É Fundo De Quintal](https://open.spotify.com/track/3UDX9t8WuQ0jYjt80gcdKN) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Leci Brandão](https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6) | 3:48 | 2022-03-08 |  |
 | [Lamento de Força Travesti](https://open.spotify.com/track/2Ul6uDCXoEQNpZ417lxcxW) | [Renna](https://open.spotify.com/artist/2FzvCkPajfas2wwFVKVKjn), [Gabi Benedita](https://open.spotify.com/artist/2BoOcwBm55BOC1IaRIVoOs), [Letícia Coelho](https://open.spotify.com/artist/0Cw72Fmn9WVO8yEm7aby9L) | [Lamento de Força Travesti](https://open.spotify.com/album/2TK83D9uz49cEsxjLbkeaK) | 4:07 | 2022-03-08 |  |
-| [Malandragem](https://open.spotify.com/track/2Ktn7Hg3jocizpfzYJKLty) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller \(1994\)](https://open.spotify.com/album/3JGRDTWHXpXNfoAPglI7Tr) | 4:10 | 2022-03-08 |  |
+| [Malandragem](https://open.spotify.com/track/1EQ0RjamZKJhSUZmV8uBVs) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:10 | 2022-03-08 |  |
+| [Malandragem](https://open.spotify.com/track/2Ktn7Hg3jocizpfzYJKLty) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller \(1994\)](https://open.spotify.com/album/3JGRDTWHXpXNfoAPglI7Tr) | 4:10 | 2022-03-08 | 2022-07-29 |
 | [Maresia \- Ao Vivo](https://open.spotify.com/track/37Z5WN0siOyxgTl5h1dk8J) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 4:11 | 2022-03-08 |  |
 | [Mulher](https://open.spotify.com/track/2ufmiGf9zDBGQduFiZxmPs) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Mulher](https://open.spotify.com/album/0vFncbf40Go3GXJ9DQX3Ky) | 6:20 | 2022-03-08 |  |
 | [Mulheres \- Ao Vivo](https://open.spotify.com/track/7tf5FipBCRrNi1FKkVXJl4) | [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU) | [Doralyce no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/6hYNf67Kld5mMAonGFhDxx) | 3:20 | 2022-03-08 |  |
@@ -53,10 +55,12 @@
 | [Sinal de Fumaça](https://open.spotify.com/track/3tsbkFwqwPBG4DYWvyzLEg) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Varrendo a Lua \(Deluxe Edition\)](https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ) | 4:03 | 2022-03-08 |  |
 | [Solta na Vida](https://open.spotify.com/track/2t3AEtcowZSSSs8SK0DSSb) | [Ellen Oléria](https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B) | [Afrofuturista](https://open.spotify.com/album/3gSFsmka0DgSlOHj5bqRvi) | 5:19 | 2022-03-08 |  |
 | [Stereo \- Ao Vivo](https://open.spotify.com/track/6ELz4VKQ30jkp3uOZXkPis) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB) | [Noite Preta Ao Vivo](https://open.spotify.com/album/4wLDFVDOFuOyXnf8jGT3HR) | 4:11 | 2022-03-08 |  |
-| [Swing da Cor](https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:35 | 2022-03-08 |  |
+| [Swing da Cor](https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:35 | 2022-03-08 | 2022-07-29 |
+| [Swing da Cor](https://open.spotify.com/track/4QvN1r5iloT7eKvx6mjNdq) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Daniela Mercury](https://open.spotify.com/album/0nTyaheFM5NuVVNrC74yJA) | 3:39 | 2022-03-08 |  |
 | [Todxs Putxs](https://open.spotify.com/track/6nwlb4lBpiWSycx0Pq5LPP) | [Ekena](https://open.spotify.com/artist/25epDJS6g5Qp9VwVw2gtQZ) | [Nó](https://open.spotify.com/album/1JCDCeKGs8BTJROLdcCeoj) | 6:23 | 2022-03-08 |  |
 | [Tudo Diferente](https://open.spotify.com/track/383DJSY68n0evEG7Y0q2KN) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:37 | 2022-03-08 |  |
-| [Tô Voltando](https://open.spotify.com/track/7rVvt8t21yAfgo4e4Cxj05) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Pedaços](https://open.spotify.com/album/3Kio2MgcyFofAVIDz06sSj) | 3:58 | 2022-03-08 |  |
+| [Tô Voltando](https://open.spotify.com/track/5uC78PdEHcsrwCYRL8qhCO) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Bis](https://open.spotify.com/album/2Awa8CKAgEIDldae3BeqmP) | 3:57 | 2022-03-08 |  |
+| [Tô Voltando](https://open.spotify.com/track/7rVvt8t21yAfgo4e4Cxj05) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Pedaços](https://open.spotify.com/album/3Kio2MgcyFofAVIDz06sSj) | 3:58 | 2022-03-08 | 2022-07-29 |
 | [X](https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:46 | 2022-03-08 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

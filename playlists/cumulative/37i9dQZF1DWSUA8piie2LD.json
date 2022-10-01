@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The smoothest of smooth jazz for your romantic evening.",
+  "description": "The smoothest of smooth Jazz for your romantic evening.",
   "name": "Romantic Smooth Jazz",
   "published_playlist_ids": [
     "22cH7NuF0ONCHdq6lheKJc"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 308826,
       "name": "A Summer Night's Dream",
       "url": "https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 313066,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238053,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 249080,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/26aIRsulO2zbcUSB1a2Sb8"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 272613,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/7FApprsHm8hTyI7Ks4I1AX"
@@ -247,6 +247,24 @@
     {
       "album": {
         "name": "Hardcastle 2",
+        "url": "https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "Bird Island",
+      "url": "https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM"
+    },
+    {
+      "album": {
+        "name": "Hardcastle 2",
         "url": "https://open.spotify.com/album/2qSKvHHykvwH4ND8WrUqVq"
       },
       "artists": [
@@ -257,10 +275,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-29",
       "duration_ms": 268452,
       "name": "Bird Island",
       "url": "https://open.spotify.com/track/7Hum40xexcHsivuPoY1Bhq"
+    },
+    {
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314312,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
     },
     {
       "album": {
@@ -275,7 +311,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 314312,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
@@ -293,7 +329,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 295800,
       "name": "Blue Touch",
       "url": "https://open.spotify.com/track/1f0Jry39WffW5ydai7egP7"
@@ -311,7 +347,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 250746,
       "name": "Blue Water",
       "url": "https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9"
@@ -387,10 +423,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254746,
       "name": "Can't Tell You Why",
       "url": "https://open.spotify.com/track/1BwNfHaT60LY3jf1zVLdZB"
+    },
+    {
+      "album": {
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254746,
+      "name": "Can't Tell You Why",
+      "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
     },
     {
       "album": {
@@ -423,7 +477,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 366506,
       "name": "Chillaxin",
       "url": "https://open.spotify.com/track/46XKawW6tKQkWU2AoRa75H"
@@ -495,7 +549,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 297680,
       "name": "Deep Time",
       "url": "https://open.spotify.com/track/0sKDIso6qLwCOvRUNbEXnn"
@@ -549,7 +603,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 319640,
       "name": "East Bay",
       "url": "https://open.spotify.com/track/08gYiRzOnUUbc3JubLhyHH"
@@ -585,7 +639,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 257666,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/5ptws9ZfMhiK0EEEKlDKHD"
@@ -621,7 +675,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 270866,
       "name": "Fiona's Song",
       "url": "https://open.spotify.com/track/3u3nv5xPUKAkaP6ERwNZuQ"
@@ -661,7 +715,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-08-12",
       "duration_ms": 289800,
       "name": "Forever And A Day",
       "url": "https://open.spotify.com/track/6P6HGa4StPd1NcPmBBR4b9"
@@ -751,7 +805,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 280240,
       "name": "Grover's Groove",
       "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
@@ -787,7 +841,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 280868,
       "name": "I Just Can't Let Go",
       "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
@@ -831,7 +885,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 310680,
       "name": "I'll Be Good To You",
       "url": "https://open.spotify.com/track/4wE13YUYdrl7PXcxN4HSOS"
@@ -849,7 +903,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 256573,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/3XFn9NRxNPvuzFn5FYn7SZ"
@@ -867,7 +921,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 269453,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/7dTrU26wEI2BTGZ5vb0HCy"
@@ -921,7 +975,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 276226,
       "name": "If Only For One Night",
       "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
@@ -957,7 +1011,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 251960,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
@@ -993,7 +1047,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 289866,
       "name": "Just Between Us",
       "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
@@ -1029,7 +1083,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 354680,
       "name": "Knock Knock! Who's There?",
       "url": "https://open.spotify.com/track/1ePXj7BA3wvZSV9QmVGizx"
@@ -1047,7 +1101,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-31",
       "duration_ms": 312013,
       "name": "Lampin' It",
       "url": "https://open.spotify.com/track/3l5g5qN2NqywbkQ0Uo48Oq"
@@ -1101,7 +1155,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 246237,
       "name": "Let It Shine",
       "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
@@ -1119,10 +1173,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 272773,
       "name": "Let's Get Close",
       "url": "https://open.spotify.com/track/2obxF2oBpRKwlzx8FQOpaP"
+    },
+    {
+      "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275773,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
     },
     {
       "album": {
@@ -1137,7 +1209,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275773,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
@@ -1155,7 +1227,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 271533,
       "name": "Livin' Large",
       "url": "https://open.spotify.com/track/5j9emKRjqGaJzwGZZbNO7X"
@@ -1173,10 +1245,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 300560,
       "name": "Love Won't Let Me Wait",
       "url": "https://open.spotify.com/track/24yX1Ck7PUFLhUuROkv6Kl"
+    },
+    {
+      "album": {
+        "name": "Seven Large",
+        "url": "https://open.spotify.com/album/1jqCVKzF972INDR51m9NUR"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300560,
+      "name": "Love Won't Let Me Wait",
+      "url": "https://open.spotify.com/track/3jHXbXBwZ9O1YMVsSfXuee"
     },
     {
       "album": {
@@ -1303,7 +1393,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 227800,
       "name": "Mercy Mercy Me",
       "url": "https://open.spotify.com/track/4YeGkQu0dICvyAlvDsw6ib"
@@ -1321,7 +1411,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 289826,
       "name": "Midnight In Manhattan",
       "url": "https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM"
@@ -1357,7 +1447,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 256506,
       "name": "Missing in Venice",
       "url": "https://open.spotify.com/track/18PwsjZKbuoC3pBRhywxlf"
@@ -1393,7 +1483,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 263400,
       "name": "Nice And Easy",
       "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
@@ -1411,7 +1501,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 238293,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
@@ -1465,7 +1555,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 271880,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i"
@@ -1577,7 +1667,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 265893,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
@@ -1595,7 +1685,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 224626,
       "name": "Personal Touch",
       "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
@@ -1631,10 +1721,32 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226159,
       "name": "Puerto Banus",
       "url": "https://open.spotify.com/track/5aWFVn8VxQcoV5QtjFrZ28"
+    },
+    {
+      "album": {
+        "name": "The Jazzmasters 4",
+        "url": "https://open.spotify.com/album/2rQtSRZcfqYN8UzvXo9tBW"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        },
+        {
+          "name": "The Jazzmasters",
+          "url": "https://open.spotify.com/artist/66YzLGFlfe2aBpyH5Y13dB"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 224266,
+      "name": "Puerto Banus",
+      "url": "https://open.spotify.com/track/4pFIja5qZFrSt2H38xitfu"
     },
     {
       "album": {
@@ -1667,10 +1779,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293613,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/13XQpSrDR5iE5DQsjW97wA"
+    },
+    {
+      "album": {
+        "name": "Seven Large",
+        "url": "https://open.spotify.com/album/1jqCVKzF972INDR51m9NUR"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326053,
+      "name": "S7ven Large",
+      "url": "https://open.spotify.com/track/2kPNYomaQbtevw21YarPiu"
     },
     {
       "album": {
@@ -1685,7 +1815,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 326053,
       "name": "S7ven Large",
       "url": "https://open.spotify.com/track/4Z5POTHvTHixnu18pDPjGB"
@@ -1703,7 +1833,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 322634,
       "name": "Sandcastles",
       "url": "https://open.spotify.com/track/6SifyVtX5a35JoYXlh26Yy"
@@ -1729,7 +1859,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 317066,
       "name": "Secrets Told",
       "url": "https://open.spotify.com/track/5lj52TLx3oa8qoVdTCpvZH"
@@ -1747,7 +1877,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 274013,
       "name": "Send One Your Love",
       "url": "https://open.spotify.com/track/1RMGbJnIQY6QhlqxKH8Fxf"
@@ -1783,10 +1913,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 333146,
       "name": "September Morning",
       "url": "https://open.spotify.com/track/1ZrJNBoVTmr9oApvJPZ25Z"
+    },
+    {
+      "album": {
+        "name": "Cover to Cover",
+        "url": "https://open.spotify.com/album/0xxiiLV2wZraHsNUnROvyW"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Shelbi",
+      "url": "https://open.spotify.com/track/3THBbgiNAp43CpeU5knmFn"
     },
     {
       "album": {
@@ -1801,7 +1949,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 242012,
       "name": "Shelbi",
       "url": "https://open.spotify.com/track/6rsEUK5SHTPTI7lBAC40Cz"
@@ -1945,7 +2093,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 265146,
       "name": "Soul Kisses",
       "url": "https://open.spotify.com/track/4aQGzTppXF0C7qn0eXTMLh"
@@ -1963,7 +2111,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 253053,
       "name": "Still Lovin' You",
       "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
@@ -2107,10 +2255,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270400,
       "name": "The Lady In My Life",
       "url": "https://open.spotify.com/track/3T6oXUTD0BKKpCFw6ZLQgs"
+    },
+    {
+      "album": {
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270400,
+      "name": "The Lady In My Life",
+      "url": "https://open.spotify.com/track/7r5B5N1ijHZuDSqNdoYPnK"
     },
     {
       "album": {
@@ -2125,7 +2291,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-21",
       "duration_ms": 222853,
       "name": "The Last Kiss",
       "url": "https://open.spotify.com/track/3nzFxR6SXAMnAnrRv37GvP"
@@ -2161,7 +2327,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 302506,
       "name": "This Time Around",
       "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"

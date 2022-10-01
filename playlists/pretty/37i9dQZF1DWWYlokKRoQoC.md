@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYlokKRoQoC.md) - [plain]
 
 > Celebrating the life and legacy of the songwriting legend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,913 likes - 94 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,111 likes - 94 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYlokKRoQoC.md) - [plain]
 | 28 | [Sam Stone](https://open.spotify.com/track/4BIej0swGWja46j5B7l4s1) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 4:16 |
 | 29 | [Six O'Clock News](https://open.spotify.com/track/0FAFmU0CdwFScNZcg7HjNO) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 2:51 |
 | 30 | [Knockin' on Your Screen Door](https://open.spotify.com/track/2BrJD5vKA2nv5fqBTqkPlZ) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 2:19 |
-| 31 | [Lake Marie](https://open.spotify.com/track/0tEjTLnTwbf1I7z3cow9qy) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Lost Dogs & Mixed Blessings](https://open.spotify.com/album/2W4N5sTgM3qbYYPA2teW4e) | 6:00 |
+| 31 | [Lake Marie](https://open.spotify.com/track/5KB869ycQ5H23d7N8u0mor) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Lost Dogs + Mixed Blessings](https://open.spotify.com/album/0fxX7wTVTsz4oSfzZw8TKG) | 6:00 |
 | 32 | [Please Don't Bury Me](https://open.spotify.com/track/4R248BfIOimjxJ7hjPJ5lB) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Souvenirs](https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE) | 3:06 |
 | 33 | [Long Monday](https://open.spotify.com/track/5mQsvob7sHv2vRhRkTXOvl) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Fair and Square](https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ) | 3:22 |
 | 34 | [Grandpa Was a Carpenter](https://open.spotify.com/track/1hqGLaotgP0ehqsSnjRfwR) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Souvenirs](https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE) | 2:52 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYlokKRoQoC.md) - [plain]
 | 38 | [Bear Creek Blues](https://open.spotify.com/track/5Tt4oMn44RjRkzBFdvOH7A) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Fair and Square](https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ) | 4:45 |
 | 39 | [Christmas in Prison](https://open.spotify.com/track/47zzGSaqmo9KuSLEGXnsZ2) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Sweet Revenge](https://open.spotify.com/album/7eTnSXnD9wlvizElNtq2aK) | 3:13 |
 | 40 | [Dim Lights, Thick Smoke, And Loud, Loud Music \(feat\. Amanda Shires\)](https://open.spotify.com/track/1y286kkcOI8kBCvlWFJsnW) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [For Better, Or Worse](https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT) | 2:58 |
-| 41 | [Some Humans Ain't Human](https://open.spotify.com/track/6aBV71st4wUG22f6z6eLey) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [American Folk \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5OmGs0KA0MeJMcP2zbN06L) | 7:00 |
+| 41 | [Some Humans Ain't Human](https://open.spotify.com/track/3SoIk5HRZ8jTwW6NmpWTOJ) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Fair and Square](https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ) | 7:03 |
 | 42 | [The Ways of a Woman in Love](https://open.spotify.com/track/5roLsOuQDdWzdDYonQZNrn) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Ways of a Woman in Love](https://open.spotify.com/album/6lSGX9XwWhQDb6RgN3pdTe) | 1:36 |
 | 43 | [\(We're Not\) The Jet Set \(feat\. Iris DeMent\)](https://open.spotify.com/track/04UYdVTRzJGtJ5gUxIDDJX) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [In Spite of Ourselves](https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5) | 2:36 |
 | 44 | [The Late John Garfield Blues](https://open.spotify.com/track/6xMIOFYN7OcKeRRJlWcUVX) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Souvenirs](https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE) | 3:46 |
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYlokKRoQoC.md) - [plain]
 | 86 | [Blue Umbrella](https://open.spotify.com/track/6PtnW1nlfStSr2W5KxXnil) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Singing Mailman Delivers](https://open.spotify.com/album/569ly0dw4OcEFcXQcivUMY) | 2:31 |
 | 87 | [Your Flag Decal Won't Get You into Heaven Anymore \(Live\)](https://open.spotify.com/track/2BgIwINSnhNLTLwgFlaBsv) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Singing Mailman Delivers](https://open.spotify.com/album/569ly0dw4OcEFcXQcivUMY) | 3:12 |
 | 88 | [Spanish Pipedream \- Live](https://open.spotify.com/track/5snFZw8fw9iv7MWF0Jwoyy) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [In Person & On Stage \(Live\)](https://open.spotify.com/album/2skV2PixT8oIPKoc100Tro) | 3:34 |
-| 89 | [Pistol Packin' Mama](https://open.spotify.com/track/1Zzew0Zr3nS0s5kV9poyvj) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Mac Wiseman](https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly) | [Standard Songs for Average People](https://open.spotify.com/album/5iSZe9tL5GRhzJYtuiaTQX) | 2:43 |
-| 90 | [Christmas In Prison](https://open.spotify.com/track/25z8giKBoUbu99BAZha3UA) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [A John Prine Christmas](https://open.spotify.com/album/0334eprllGwHX6smvyb3Ox) | 4:00 |
+| 89 | [Pistol Packin' Mama](https://open.spotify.com/track/08xZC2eNhxgpW0sesoIJEF) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Mac Wiseman](https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly) | [Standard Songs for Average People](https://open.spotify.com/album/0JafNTEJPn2G6iDbxyY1h4) | 2:43 |
+| 90 | [Christmas in Prison \(Live\)](https://open.spotify.com/track/6YkcuKacLTyK6X64j3y242) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [A John Prine Christmas](https://open.spotify.com/album/51feGjlV8hDiJ4U7XO9Kcb) | 4:00 |
 | 91 | [Jesus, The Missing Years](https://open.spotify.com/track/21Zn4iMPBEuGtukbb1KpGz) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Missing Years](https://open.spotify.com/album/0Z7pWwWanmkAagklXFp8ch) | 5:57 |
 | 92 | [You Got Gold](https://open.spotify.com/track/2uzKH20V5pwuUGdPN7xbAb) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Missing Years](https://open.spotify.com/album/0Z7pWwWanmkAagklXFp8ch) | 4:38 |
 | 93 | [Souvenirs \- Live](https://open.spotify.com/track/3EfjcUzovzECxN7OYOk8CW) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine \(Live\)](https://open.spotify.com/album/5WNkdBedxiVxtWZH1xkYoQ) | 3:33 |
 | 94 | [Living in the Future \- Live](https://open.spotify.com/track/1rv6XgCscmrysVUX5IRz4n) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine \(Live\)](https://open.spotify.com/album/5WNkdBedxiVxtWZH1xkYoQ) | 3:45 |
 
-Snapshot ID: `MTYzMzY2NzA2MywwMDAwMDAyMzAwMDAwMTdjNWUyNTIwMGEwMDAwMDE2ZmNhMjY5Mjc3`
+Snapshot ID: `MTYzMzY2NzA2MywwMDAwMDAwMDI0ZTJkZDc1MzEyN2YzMDJmZTE0MGI0NzMxYWI3OWZi`

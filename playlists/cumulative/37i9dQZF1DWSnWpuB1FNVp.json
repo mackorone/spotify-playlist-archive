@@ -559,7 +559,7 @@
     {
       "album": {
         "name": "Rema",
-        "url": "https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8"
+        "url": "https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf"
       },
       "artists": [
         {
@@ -570,6 +570,24 @@
       "date_added": "2019-08-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201693,
+      "name": "Iron Man",
+      "url": "https://open.spotify.com/track/2hsknXtgTWBG29t8I9S9Sb"
+    },
+    {
+      "album": {
+        "name": "Rema",
+        "url": "https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2019-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 201693,
       "name": "Iron Man",
       "url": "https://open.spotify.com/track/5bGMedm8ohIGxe8pLRv7E3"
@@ -757,7 +775,7 @@
     {
       "album": {
         "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS"
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
       },
       "artists": [
         {
@@ -768,6 +786,24 @@
       "date_added": "2019-08-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 265920,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
+    },
+    {
+      "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2019-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 265920,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw"

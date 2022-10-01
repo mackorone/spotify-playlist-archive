@@ -59,10 +59,28 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187293,
       "name": "Broken Things",
       "url": "https://open.spotify.com/track/2SRmoMTKQPwqySNCq0eANT"
+    },
+    {
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187293,
+      "name": "Broken Things",
+      "url": "https://open.spotify.com/track/4v8GJxLdvUiN7R31cKcmNL"
     },
     {
       "album": {
@@ -77,10 +95,28 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244786,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO"
+    },
+    {
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244786,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn"
     },
     {
       "album": {
@@ -113,10 +149,28 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255160,
       "name": "Come To the Table",
       "url": "https://open.spotify.com/track/1Y5YioVHxFvkyGlryt0x6O"
+    },
+    {
+      "album": {
+        "name": "Something Different (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255160,
+      "name": "Come To the Table",
+      "url": "https://open.spotify.com/track/2gdSplXjHbjMMfLcwl3Nku"
     },
     {
       "album": {
@@ -153,10 +207,68 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293331,
       "name": "Death Was Arrested",
       "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
+    },
+    {
+      "album": {
+        "name": "Death Was Arrested (feat. Seth Condrey)",
+        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295306,
+      "name": "Death Was Arrested (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/5LsV4IGh2PIaTlsNNFeBAE"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-15",
+      "duration_ms": 197946,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/3wfoaC3ApX2Yf30b7Q7P2q"
     },
     {
       "album": {
@@ -171,10 +283,28 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197946,
       "name": "Different",
       "url": "https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf"
+    },
+    {
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255160,
+      "name": "Even If",
+      "url": "https://open.spotify.com/track/1zNkDuAsIpMf9vAMxeZ8Ih"
     },
     {
       "album": {
@@ -189,7 +319,7 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255160,
       "name": "Even If",
       "url": "https://open.spotify.com/track/787cootcZRw5Xr47Of97AN"
@@ -214,6 +344,24 @@
     },
     {
       "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/4TisM8f1MV8XSE7U5iQ69I"
+      },
+      "artists": [
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234306,
+      "name": "God Help Me",
+      "url": "https://open.spotify.com/track/0cm4XRYfCCXbIejiqBEu6z"
+    },
+    {
+      "album": {
         "name": "God Help Me",
         "url": "https://open.spotify.com/album/1fZOXs2yJjDcIwuHP0GuTP"
       },
@@ -225,7 +373,7 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234306,
       "name": "God Help Me",
       "url": "https://open.spotify.com/track/75OmU3YjGaRYaFKBV7QNCu"
@@ -483,7 +631,7 @@
     {
       "album": {
         "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
       "artists": [
         {
@@ -494,6 +642,24 @@
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209466,
+      "name": "O' Lord - Radio Version",
+      "url": "https://open.spotify.com/track/5HJE36rtLTdGhDdBmZGtsD"
+    },
+    {
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 209466,
       "name": "O'Lord",
       "url": "https://open.spotify.com/track/7ormr6Rpxnt5OfMbxXFdtz"
@@ -547,10 +713,28 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194089,
       "name": "Only King Forever",
       "url": "https://open.spotify.com/track/64pS588WuEzMEctlYNdTsa"
+    },
+    {
+      "album": {
+        "name": "Only King Forever (Radio Edit)",
+        "url": "https://open.spotify.com/album/0rjYP0Y2vzChSAtvrc55se"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194089,
+      "name": "Only King Forever - Radio Edit",
+      "url": "https://open.spotify.com/track/4HDYbkvdaLwVX2xFHicNsr"
     },
     {
       "album": {
@@ -569,10 +753,32 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 486944,
       "name": "Peace Be Still (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/6zvSkAEtFZIJD7kVeo5by4"
+    },
+    {
+      "album": {
+        "name": "All The Earth (Live)",
+        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486944,
+      "name": "Peace Be Still - Live",
+      "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
     },
     {
       "album": {
@@ -623,10 +829,28 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232240,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/4la4a8jNTsnVKKmQAzPPPU"
+    },
+    {
+      "album": {
+        "name": "Shattered",
+        "url": "https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232240,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6IDublzxvKOiKi8ZmlPHOL"
     },
     {
       "album": {
@@ -641,10 +865,28 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 331124,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/7rKCmo4SZhKubupJdsuM5S"
+    },
+    {
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
     },
     {
       "album": {
@@ -675,8 +917,8 @@
           "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
         },
         {
-          "name": "Benjamin Hastings",
-          "url": "https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
       "date_added": "2018-04-30",
@@ -725,7 +967,7 @@
     {
       "album": {
         "name": "The Cross Has the Final Word",
-        "url": "https://open.spotify.com/album/4PgSt6SIFRa5ZlI0Gecupc"
+        "url": "https://open.spotify.com/album/4uhp1XazR7Ri0JmW1d0L00"
       },
       "artists": [
         {
@@ -746,7 +988,51 @@
       "date_removed": null,
       "duration_ms": 221026,
       "name": "The Cross Has the Final Word",
+      "url": "https://open.spotify.com/track/0LPiTwaf28kZyrDTQPjuV3"
+    },
+    {
+      "album": {
+        "name": "The Cross Has the Final Word",
+        "url": "https://open.spotify.com/album/4PgSt6SIFRa5ZlI0Gecupc"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        },
+        {
+          "name": "Michael Tait",
+          "url": "https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW"
+        },
+        {
+          "name": "Peter Furler",
+          "url": "https://open.spotify.com/artist/6xShY4pstJdzVCrWyeqbCL"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221026,
+      "name": "The Cross Has the Final Word",
       "url": "https://open.spotify.com/track/4y3p79cjP9po2t8kjudQ8B"
+    },
+    {
+      "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/3LtLDNvbhbUcwAsGZ6KK1O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254262,
+      "name": "The Gospel",
+      "url": "https://open.spotify.com/track/04sHEjOqkVXL0XjEoGXzhV"
     },
     {
       "album": {
@@ -761,7 +1047,7 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254262,
       "name": "The Gospel",
       "url": "https://open.spotify.com/track/1RCZprFcpw8u89pVBN90tv"
@@ -873,10 +1159,28 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216773,
       "name": "Witness",
       "url": "https://open.spotify.com/track/4hDnCCb9SM1Xn4QqxccB87"
+    },
+    {
+      "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216786,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/0hpamcpE91qnJXjryv4EIP"
     },
     {
       "album": {
@@ -931,10 +1235,28 @@
       ],
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217736,
       "name": "You're Gonna Be OK (Radio Version)",
       "url": "https://open.spotify.com/track/1Hg95lzRByeo6EngOEW6UV"
+    },
+    {
+      "album": {
+        "name": "You're Gonna Be OK (Radio Version)",
+        "url": "https://open.spotify.com/album/042O956okRqRTqSr6Owa6J"
+      },
+      "artists": [
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217736,
+      "name": "You're Gonna Be OK - Radio Version",
+      "url": "https://open.spotify.com/track/2bU8srYdcvGhJ9G0MtyLF3"
     },
     {
       "album": {

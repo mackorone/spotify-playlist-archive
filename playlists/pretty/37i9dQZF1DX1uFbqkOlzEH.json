@@ -1,18 +1,38 @@
 {
   "description": "Crush on Crush's K-R&B and musics.",
-  "num_followers": 62350,
+  "num_followers": 65677,
   "original_name": "This Is Crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwOTA2MTUxMywwMDAwMDAwMzAwMDAwMTc2YTM4YTM3Y2YwMDAwMDE3NTQ1NGNmM2Qx",
+  "snapshot_id": "MTY2NDQyMTM1NCwwMDAwMDAwMDRlZjZlMWEwNGZiYWNiMmU2MTFiYjQ3MDllMTZjZTgy",
   "tracks": [
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
+      "album": {
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 177302,
+      "name": "Rush Hour (Feat. j-hope of BTS)",
+      "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
+    },
+    {
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "with HER",
-        "url": "https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv"
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
       "artists": [
         {
@@ -26,10 +46,10 @@
       ],
       "duration_ms": 211346,
       "name": "Let Me Go (with TAEYEON)",
-      "url": "https://open.spotify.com/track/23y3tFEhkTzBT46gRU6tjv"
+      "url": "https://open.spotify.com/track/0W1BHowUDWND1AIQU6nUbD"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Sweet Love (She is My Type\u2661 X Crush)",
         "url": "https://open.spotify.com/album/67ePLSZ390IdSZcQnY7Gm2"
@@ -45,10 +65,10 @@
       "url": "https://open.spotify.com/track/6pdQ3ZOlqKj6j2Kh0FptOD"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/373skeKue6OMBOlTPuqbKG"
+        "url": "https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS"
       },
       "artists": [
         {
@@ -58,10 +78,10 @@
       ],
       "duration_ms": 227583,
       "name": "Beautiful",
-      "url": "https://open.spotify.com/track/7i6FTYnqGAy7ICUB8bkPoh"
+      "url": "https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "I Wanna Be Yours",
         "url": "https://open.spotify.com/album/4OyXl2VWIP5hzOMog09KcK"
@@ -101,10 +121,10 @@
       "url": "https://open.spotify.com/track/7fF6u8BlXiA3bJKDuJMKRR"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "homemade 1",
-        "url": "https://open.spotify.com/album/75yTA2QkJzFi33JRw1q7El"
+        "url": "https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6"
       },
       "artists": [
         {
@@ -117,14 +137,14 @@
         }
       ],
       "duration_ms": 199266,
-      "name": "Mayday (Feat. Joy)",
-      "url": "https://open.spotify.com/track/3k7ikTNf1Ms0ZfTsoe9Blk"
+      "name": "Mayday (feat. \uc870\uc774)",
+      "url": "https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "with HER",
-        "url": "https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv"
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
       "artists": [
         {
@@ -138,13 +158,13 @@
       ],
       "duration_ms": 182440,
       "name": "Tip Toe (with LeeHi)",
-      "url": "https://open.spotify.com/track/04GMTDh38zAopujOw8NJy7"
+      "url": "https://open.spotify.com/track/5j8lKQIjPgPSmYHr6F2InN"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/5iqfGbG2zpIih56ptL9OUV"
+        "url": "https://open.spotify.com/album/2t3uzrkNH5XOfgfe5bnTEE"
       },
       "artists": [
         {
@@ -154,13 +174,13 @@
       ],
       "duration_ms": 221909,
       "name": "Let Us Go",
-      "url": "https://open.spotify.com/track/2y3Z9MQdgoENX8FtIVI40H"
+      "url": "https://open.spotify.com/track/3RhwOffN5GMvTZZ7ZYXTQk"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
-        "name": "NAPPA \ub098\ube60",
-        "url": "https://open.spotify.com/album/7jpFBDXV2iuM58UEwYaWdL"
+        "name": "\ub098\ube60",
+        "url": "https://open.spotify.com/album/0N2V8U3Xiu4nh5GNpFZXMe"
       },
       "artists": [
         {
@@ -169,14 +189,14 @@
         }
       ],
       "duration_ms": 194040,
-      "name": "NAPPA \ub098\ube60",
-      "url": "https://open.spotify.com/track/6uinpqa2nfwWmlj0lOgAf0"
+      "name": "\ub098\ube60",
+      "url": "https://open.spotify.com/track/0iMGUZgpleuOUgZffF3ni2"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "OHIO",
-        "url": "https://open.spotify.com/album/2Ke29I5mu2kcbyPD9S9Q2M"
+        "url": "https://open.spotify.com/album/6YDUI1teaFvtuVxu3Zta3E"
       },
       "artists": [
         {
@@ -186,13 +206,13 @@
       ],
       "duration_ms": 194520,
       "name": "OHIO",
-      "url": "https://open.spotify.com/track/3fxIgoqvwprUbhV1XEHrG5"
+      "url": "https://open.spotify.com/track/4TWC6urKN2gbD5pgvCYL64"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "SOFA",
-        "url": "https://open.spotify.com/album/1YYWg0LPED9oCGJ4CQvS6g"
+        "url": "https://open.spotify.com/album/7krvtQD2rv7PGdRaLLPW3P"
       },
       "artists": [
         {
@@ -202,13 +222,13 @@
       ],
       "duration_ms": 229573,
       "name": "SOFA",
-      "url": "https://open.spotify.com/track/1QFMj5GGXMY7K30dlpAs7j"
+      "url": "https://open.spotify.com/track/3dbyyPqdnNZkvPr7PptIRJ"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Don't Forget",
-        "url": "https://open.spotify.com/album/6u8tXdoDibVxopDgwNY4MG"
+        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
       },
       "artists": [
         {
@@ -222,13 +242,13 @@
       ],
       "duration_ms": 219106,
       "name": "Don\u2019t Forget",
-      "url": "https://open.spotify.com/track/1TM0n3pwhDOPZhmhDRpOLS"
+      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "From Midnight To Sunrise",
-        "url": "https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8"
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
       },
       "artists": [
         {
@@ -241,14 +261,14 @@
         }
       ],
       "duration_ms": 201600,
-      "name": "Wake Up (Feat. DEAN)",
-      "url": "https://open.spotify.com/track/3Ss6FCrnIZdQHWA09hy236"
+      "name": "Wake Up (feat. DEAN)",
+      "url": "https://open.spotify.com/track/6ttHs2fIX0XM2qkEMGhLkA"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "H.A.L.F (Have.A.Little.Fun)",
-        "url": "https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv"
+        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
       },
       "artists": [
         {
@@ -262,13 +282,13 @@
       ],
       "duration_ms": 216113,
       "name": "party (SHUT DOWN)",
-      "url": "https://open.spotify.com/track/1XiRSYNZaDunJcZYlC1dU3"
+      "url": "https://open.spotify.com/track/1ihIXI2MVklmJdPvIUxExZ"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Crush on You",
-        "url": "https://open.spotify.com/album/5cM3mwkY2LtliHAxEpErpf"
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
       "artists": [
         {
@@ -278,13 +298,13 @@
       ],
       "duration_ms": 263644,
       "name": "Sometimes",
-      "url": "https://open.spotify.com/track/12XPa1Q3JzQchPjmRxPjXg"
+      "url": "https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "with HER",
-        "url": "https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv"
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
       "artists": [
         {
@@ -298,13 +318,13 @@
       ],
       "duration_ms": 210133,
       "name": "Love Encore (with Lee Sora)",
-      "url": "https://open.spotify.com/track/3aOfUJ7IUbVDa3X5pAshOv"
+      "url": "https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Digital Lover",
-        "url": "https://open.spotify.com/album/78VRAWVEX64RXlTGh4Svvw"
+        "url": "https://open.spotify.com/album/7klzlbNznXMdwZz44NCLbn"
       },
       "artists": [
         {
@@ -314,13 +334,13 @@
       ],
       "duration_ms": 228120,
       "name": "Digital Lover",
-      "url": "https://open.spotify.com/track/1euQy247tdsVmxcGEuL8mO"
+      "url": "https://open.spotify.com/track/2JQSAFArplm8OdYCV6Nr0u"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "BERMUDA TRIANGLE",
-        "url": "https://open.spotify.com/album/1xy6B6nLYoyUdcAcJT7zcj"
+        "url": "https://open.spotify.com/album/7BUHltdya9h5Qv0qI2xvhX"
       },
       "artists": [
         {
@@ -338,13 +358,13 @@
       ],
       "duration_ms": 207026,
       "name": "BERMUDA TRIANGLE",
-      "url": "https://open.spotify.com/track/2UKT6K3gydaJ8MGDgeQtQz"
+      "url": "https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
-        "name": "NAPPA \ub098\ube60",
-        "url": "https://open.spotify.com/album/7jpFBDXV2iuM58UEwYaWdL"
+        "name": "\ub098\ube60",
+        "url": "https://open.spotify.com/album/0N2V8U3Xiu4nh5GNpFZXMe"
       },
       "artists": [
         {
@@ -361,14 +381,14 @@
         }
       ],
       "duration_ms": 283626,
-      "name": "Lookin 4 (Feat. Joyce Wrice, Devin Morrison)",
-      "url": "https://open.spotify.com/track/6cjqrltcgMe98n6tcEF8Uu"
+      "name": "Lookin 4 (feat. Joyce Wrice & Devin Morrison)",
+      "url": "https://open.spotify.com/track/0yVJJiOpOkXd9b8fIM6Mny"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "From Midnight To Sunrise",
-        "url": "https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8"
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
       },
       "artists": [
         {
@@ -378,13 +398,13 @@
       ],
       "duration_ms": 264666,
       "name": "Alone",
-      "url": "https://open.spotify.com/track/1pMJC3hRbJGIs3Qz6gjssl"
+      "url": "https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Oasis",
-        "url": "https://open.spotify.com/album/1TGQ6CdCdURHbPjvichfY1"
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
       },
       "artists": [
         {
@@ -394,13 +414,13 @@
       ],
       "duration_ms": 160443,
       "name": "You and I",
-      "url": "https://open.spotify.com/track/3sAxSK47Z6nfIzPmiM9pmv"
+      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "OHIO",
-        "url": "https://open.spotify.com/album/2Ke29I5mu2kcbyPD9S9Q2M"
+        "url": "https://open.spotify.com/album/6YDUI1teaFvtuVxu3Zta3E"
       },
       "artists": [
         {
@@ -413,11 +433,11 @@
         }
       ],
       "duration_ms": 194813,
-      "name": "Let Me (Feat. Devin Morrison)",
-      "url": "https://open.spotify.com/track/3ss4NZbRQcmLqNSwoModv0"
+      "name": "Let Me (feat. Devin Morrison)",
+      "url": "https://open.spotify.com/track/29TkQHDepjKZq3YB3v0R0M"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 11",
         "url": "https://open.spotify.com/album/3sW5PYJ95dBTCl1ozYPPAl"
@@ -433,10 +453,10 @@
       "url": "https://open.spotify.com/track/7swBBMpW5XH6M3NTklhvUX"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Lay Your Head on Me",
-        "url": "https://open.spotify.com/album/1WjDLK8q9K46V78cODlWjx"
+        "url": "https://open.spotify.com/album/3PrNEdp1ddGqaQiboDir4A"
       },
       "artists": [
         {
@@ -446,13 +466,13 @@
       ],
       "duration_ms": 181256,
       "name": "Lay Your Head on Me",
-      "url": "https://open.spotify.com/track/1EmkjyCz5BoYwhuDmLVFh4"
+      "url": "https://open.spotify.com/track/2TkHnzYwHEoTVgoyqf6UJ2"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Crush on You",
-        "url": "https://open.spotify.com/album/5cM3mwkY2LtliHAxEpErpf"
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
       "artists": [
         {
@@ -466,13 +486,13 @@
       ],
       "duration_ms": 222860,
       "name": "Hug Me",
-      "url": "https://open.spotify.com/track/49xEpMDDtfMdaMF4G6bilS"
+      "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Oasis",
-        "url": "https://open.spotify.com/album/1TGQ6CdCdURHbPjvichfY1"
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
       },
       "artists": [
         {
@@ -486,13 +506,13 @@
       ],
       "duration_ms": 191278,
       "name": "Oasis",
-      "url": "https://open.spotify.com/track/4sa8O4AwMja6r1Enu35Fmz"
+      "url": "https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Young",
-        "url": "https://open.spotify.com/album/2nfFUxmneuGdBk4Drs0jve"
+        "url": "https://open.spotify.com/album/0fT1WF1nu9VnqaZxkowFpl"
       },
       "artists": [
         {
@@ -505,14 +525,14 @@
         }
       ],
       "duration_ms": 192630,
-      "name": "Just (From Young)",
-      "url": "https://open.spotify.com/track/6vs7hcMDl4l6BQKL9KE9pd"
+      "name": "Just",
+      "url": "https://open.spotify.com/track/2QG6SmPx2pBkZiKjT70piL"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Outside",
-        "url": "https://open.spotify.com/album/111iI9zmGaHJ3hQQdMtce4"
+        "url": "https://open.spotify.com/album/6yNxmnFeE9GmZmagxzaKAK"
       },
       "artists": [
         {
@@ -526,13 +546,13 @@
       ],
       "duration_ms": 257467,
       "name": "Outside",
-      "url": "https://open.spotify.com/track/7DhWwKcr6LnCcTkGEDxF3A"
+      "url": "https://open.spotify.com/track/7rtIE6rmLN2FxMvL0cXBdm"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Crush on You",
-        "url": "https://open.spotify.com/album/5cM3mwkY2LtliHAxEpErpf"
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
       "artists": [
         {
@@ -550,13 +570,13 @@
       ],
       "duration_ms": 235720,
       "name": "Give It to Me",
-      "url": "https://open.spotify.com/track/6y19Jueb3zVv2YsyEfNZ8H"
+      "url": "https://open.spotify.com/track/4w7P5OaLfcinkb0RTMNxqh"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "with HER",
-        "url": "https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv"
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
       "artists": [
         {
@@ -564,19 +584,19 @@
           "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         },
         {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+          "name": "Yoonmirae",
+          "url": "https://open.spotify.com/artist/359Ac8v6hlOZDy96lnkYg5"
         }
       ],
       "duration_ms": 272560,
-      "name": "Step By Step (with yoonmirae)",
-      "url": "https://open.spotify.com/track/1erAIak2Dinmt4xitfLEqw"
+      "name": "Step By Step (with Yoonmirae)",
+      "url": "https://open.spotify.com/track/4yAfDvCKM0liEAC3M6eJBL"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Outside",
-        "url": "https://open.spotify.com/album/111iI9zmGaHJ3hQQdMtce4"
+        "url": "https://open.spotify.com/album/6yNxmnFeE9GmZmagxzaKAK"
       },
       "artists": [
         {
@@ -590,13 +610,13 @@
       ],
       "duration_ms": 218139,
       "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/7F9gR7qPem6WPhoPnJT1Ay"
+      "url": "https://open.spotify.com/track/2HQMSfC1BeXwwCR3YJhroA"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "From Midnight To Sunrise",
-        "url": "https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8"
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
       },
       "artists": [
         {
@@ -606,13 +626,13 @@
       ],
       "duration_ms": 178706,
       "name": "From Midnight To Sunrise",
-      "url": "https://open.spotify.com/track/4FNuxqo1l5v5ILy9w4XdWk"
+      "url": "https://open.spotify.com/track/3fm7b31sx02dMYHNjl92vD"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Crush on You",
-        "url": "https://open.spotify.com/album/5cM3mwkY2LtliHAxEpErpf"
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
       "artists": [
         {
@@ -626,13 +646,13 @@
       ],
       "duration_ms": 218886,
       "name": "Whatever You Do",
-      "url": "https://open.spotify.com/track/2Z2hLQ6RxA4sVZ9rCJGsmv"
+      "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "From Midnight To Sunrise",
-        "url": "https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8"
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
       },
       "artists": [
         {
@@ -642,13 +662,13 @@
       ],
       "duration_ms": 268266,
       "name": "With You",
-      "url": "https://open.spotify.com/track/0IUxpCllVJHWGI7DOobP4l"
+      "url": "https://open.spotify.com/track/0dZztq6ZQZEUKQHRN2geTL"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
-        "name": "Stevie Wonderlust (From Finding Heroes: Geek Tour Special)",
-        "url": "https://open.spotify.com/album/1Jo1KROOSDKSwP0mn0BioM"
+        "name": "Finding Heroes: Geek Tour Special",
+        "url": "https://open.spotify.com/album/6Hzo7H6uWYkLL52vlJ32UW"
       },
       "artists": [
         {
@@ -661,14 +681,14 @@
         }
       ],
       "duration_ms": 153920,
-      "name": "Stevie Wonderlust (From Finding Heroes: Geek Tour Special)",
-      "url": "https://open.spotify.com/track/5r7hf1fZOTalt5DaAIcfEf"
+      "name": "Stevie Wonderlust",
+      "url": "https://open.spotify.com/track/2K7Lwi53oVZiXGuK2HrHAS"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "none",
-        "url": "https://open.spotify.com/album/2Cdj6ueAoLmNgI9AH5j5NF"
+        "url": "https://open.spotify.com/album/5keHOA8Q1rS1VIao9fQIs4"
       },
       "artists": [
         {
@@ -678,13 +698,13 @@
       ],
       "duration_ms": 219077,
       "name": "none",
-      "url": "https://open.spotify.com/track/0qVmnY53N0Qkb9YdOy4owI"
+      "url": "https://open.spotify.com/track/4wfIo76rs0RYlbgAX0FPIt"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
-        "name": "Begin Again Korea Episode.10 (Original Television Soundtrack) [Live]",
-        "url": "https://open.spotify.com/album/2Wy3SFlvm29GzOcbNczLWV"
+        "name": "Begin Again Korea, Episode. 10 (Original Television Soundtrack) (Live)",
+        "url": "https://open.spotify.com/album/1GrNKv6qqmXfbBTdILPwwf"
       },
       "artists": [
         {
@@ -693,14 +713,14 @@
         }
       ],
       "duration_ms": 292405,
-      "name": "End of a day (From The Original TV Show \"Begin Again Korea\") - Live",
-      "url": "https://open.spotify.com/track/4s9G0ApVwrNfuGgDZYfKqp"
+      "name": "End of a day (From The Original TV Show \"Begin Again Korea\") (Live)",
+      "url": "https://open.spotify.com/track/0Nicbvl7GW0TWXn9V47oty"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "From Midnight To Sunrise",
-        "url": "https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8"
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
       },
       "artists": [
         {
@@ -713,14 +733,14 @@
         }
       ],
       "duration_ms": 223213,
-      "name": "Nighty Night \uc798\uc790 (Feat. Zion.T)",
-      "url": "https://open.spotify.com/track/27lq49cT4kZPmP1yEmBdbh"
+      "name": "Nighty Night (feat. Zion.T)",
+      "url": "https://open.spotify.com/track/4UW2LiHJa6nsazFCc8p8OH"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "wonderlost",
-        "url": "https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au"
+        "url": "https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr"
       },
       "artists": [
         {
@@ -734,13 +754,13 @@
       ],
       "duration_ms": 223780,
       "name": "Chill",
-      "url": "https://open.spotify.com/track/3wQX0pnRgzLSI1r4rD8pcV"
+      "url": "https://open.spotify.com/track/0ysA3RnV8LmuXHewl7KSXi"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "wonderlost",
-        "url": "https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au"
+        "url": "https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr"
       },
       "artists": [
         {
@@ -758,13 +778,13 @@
       ],
       "duration_ms": 230019,
       "name": "Endorphin",
-      "url": "https://open.spotify.com/track/3VZEykkQLXEsaGaO9eFJOp"
+      "url": "https://open.spotify.com/track/0ijGd41XHxvKGWlc1XSbwS"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "wonderlost",
-        "url": "https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au"
+        "url": "https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr"
       },
       "artists": [
         {
@@ -778,13 +798,13 @@
       ],
       "duration_ms": 218096,
       "name": "Cereal",
-      "url": "https://open.spotify.com/track/4G5SXAQyz9D75KmKTLbI0X"
+      "url": "https://open.spotify.com/track/3AjWddhlSnA3PO8DQYXgSD"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "HEADLINER",
-        "url": "https://open.spotify.com/album/5dTxoZoYAzvuMFQQ0lkGIW"
+        "url": "https://open.spotify.com/album/3kTOoinuKb8RNCNJnp9Qvq"
       },
       "artists": [
         {
@@ -798,13 +818,13 @@
       ],
       "duration_ms": 246946,
       "name": "DARLING",
-      "url": "https://open.spotify.com/track/3cmZtFjPjx4zM4nsfSZZEh"
+      "url": "https://open.spotify.com/track/67Nn0OgNZ31s7iEx9UmpEO"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "wonderlost",
-        "url": "https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au"
+        "url": "https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr"
       },
       "artists": [
         {
@@ -818,13 +838,13 @@
       ],
       "duration_ms": 250965,
       "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/7zZnCBlFyAESht9EYLC08n"
+      "url": "https://open.spotify.com/track/2qjBt9S1s6wo07iQeJ4phD"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "with HER",
-        "url": "https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv"
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
       "artists": [
         {
@@ -838,13 +858,13 @@
       ],
       "duration_ms": 208786,
       "name": "She Said (with BIBI)",
-      "url": "https://open.spotify.com/track/1yrGwTuSYORDMD7kIvAKNK"
+      "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Late Autumn",
-        "url": "https://open.spotify.com/album/7Au2CdpPmTnTWWeEvNHOne"
+        "url": "https://open.spotify.com/album/72657rD0E5qtjgwNi0R5Nm"
       },
       "artists": [
         {
@@ -858,13 +878,13 @@
       ],
       "duration_ms": 213053,
       "name": "Late Autumn",
-      "url": "https://open.spotify.com/track/4TRFsBJDCxXfeOBxW9Z0WQ"
+      "url": "https://open.spotify.com/track/2qTAE4kS2ea1CYF9ND7tMn"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "wonderlust",
-        "url": "https://open.spotify.com/album/3XZotbSFs8wTKR6tNCZ8rF"
+        "url": "https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj"
       },
       "artists": [
         {
@@ -874,10 +894,10 @@
       ],
       "duration_ms": 128886,
       "name": "wanderlust",
-      "url": "https://open.spotify.com/track/1OqUHRSeEAqGexeUIxD3Cw"
+      "url": "https://open.spotify.com/track/1YDRBnkxAr2AQjSbC3DKsL"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Sun And Moon",
         "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
@@ -893,11 +913,11 @@
         }
       ],
       "duration_ms": 207493,
-      "name": "Make Up",
+      "name": "Make Up (Feat. Crush)",
       "url": "https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
@@ -921,10 +941,10 @@
       "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "wonderlust",
-        "url": "https://open.spotify.com/album/3XZotbSFs8wTKR6tNCZ8rF"
+        "url": "https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj"
       },
       "artists": [
         {
@@ -934,13 +954,13 @@
       ],
       "duration_ms": 143858,
       "name": "2411",
-      "url": "https://open.spotify.com/track/5Nf0kax3dsrNjsYQB8tyQS"
+      "url": "https://open.spotify.com/track/7187aqQ77ROGubLXO9Jv36"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/46paHZ8Md6AICwfjybLjOM"
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/2t3uzrkNH5XOfgfe5bnTEE"
       },
       "artists": [
         {
@@ -950,13 +970,13 @@
       ],
       "duration_ms": 221909,
       "name": "Let Us Go",
-      "url": "https://open.spotify.com/track/0FdsSbg6VINuk5FLKtUl7n"
+      "url": "https://open.spotify.com/track/3RhwOffN5GMvTZZ7ZYXTQk"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "wonderlust",
-        "url": "https://open.spotify.com/album/3XZotbSFs8wTKR6tNCZ8rF"
+        "url": "https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj"
       },
       "artists": [
         {
@@ -966,13 +986,13 @@
       ],
       "duration_ms": 137574,
       "name": "nostalgia",
-      "url": "https://open.spotify.com/track/5dbgWha65b85KWSMAn1Uj8"
+      "url": "https://open.spotify.com/track/0hTCnNS4OR0ATtCWMMv62y"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "\uc720\ud50c\ub798\uc26c",
-        "url": "https://open.spotify.com/album/7dtLwIwPbLtiUuM58dG5Z7"
+        "url": "https://open.spotify.com/album/3gBVwZjW9Db4zUN8HQI8qn"
       },
       "artists": [
         {
@@ -1018,13 +1038,13 @@
       ],
       "duration_ms": 231679,
       "name": "\ub180\uba74 \ubb50\ud574?",
-      "url": "https://open.spotify.com/track/1HNMxlYsCrpS7sLq3SnUq0"
+      "url": "https://open.spotify.com/track/54BUmWA6AIml1x6EiSgkTf"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "wonderlust",
-        "url": "https://open.spotify.com/album/3XZotbSFs8wTKR6tNCZ8rF"
+        "url": "https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj"
       },
       "artists": [
         {
@@ -1034,13 +1054,13 @@
       ],
       "duration_ms": 231571,
       "name": "fall",
-      "url": "https://open.spotify.com/track/28rrN7Ld05dEpnzfbveu0A"
+      "url": "https://open.spotify.com/track/01jZKFyNcPRUP2gX9zxScj"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "wonderlust",
-        "url": "https://open.spotify.com/album/3XZotbSFs8wTKR6tNCZ8rF"
+        "url": "https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj"
       },
       "artists": [
         {
@@ -1050,13 +1070,13 @@
       ],
       "duration_ms": 178335,
       "name": "like my father",
-      "url": "https://open.spotify.com/track/6GeVqwTaiSsvfyVhfclU2E"
+      "url": "https://open.spotify.com/track/6R9kPPbdTesxID7CtCAfvC"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/0KxKWeGiXcAECXkvlN63Mv"
+        "url": "https://open.spotify.com/album/7aZr4nLYyiFx9WUrV2q4PX"
       },
       "artists": [
         {
@@ -1066,13 +1086,13 @@
       ],
       "duration_ms": 237411,
       "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/431fVJWWDSPmpdcNhmNQ3u"
+      "url": "https://open.spotify.com/track/18rxYVdlKgiVG3tCBVIsI3"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "be by my side",
-        "url": "https://open.spotify.com/album/3DFNDBh4qyk0vvYcihdqVA"
+        "url": "https://open.spotify.com/album/6Fhp3DHf8QeJ77Buf1KLjA"
       },
       "artists": [
         {
@@ -1082,13 +1102,13 @@
       ],
       "duration_ms": 213320,
       "name": "be by my side",
-      "url": "https://open.spotify.com/track/61nHajLq0uUI8khXsfxvQI"
+      "url": "https://open.spotify.com/track/1K3N3pF1uu1WPRD2QFEz06"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "sleepless in __________",
-        "url": "https://open.spotify.com/album/0ku3S11VuwERVu81G7m0jv"
+        "url": "https://open.spotify.com/album/7o6XSnYarIzPrpzvVivrcl"
       },
       "artists": [
         {
@@ -1101,14 +1121,14 @@
         }
       ],
       "duration_ms": 250758,
-      "name": "Lovedrunk",
-      "url": "https://open.spotify.com/track/2nRm7BbBcpVaInDBCag61K"
+      "name": "Lovedrunk (Feat. Crush)",
+      "url": "https://open.spotify.com/track/5b2suopDXFPLXl3NKOTJjY"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "wonderlost",
-        "url": "https://open.spotify.com/album/0m1VgiXSKGsTCMD9XEX9au"
+        "url": "https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr"
       },
       "artists": [
         {
@@ -1126,10 +1146,10 @@
       ],
       "duration_ms": 228454,
       "name": "RYO",
-      "url": "https://open.spotify.com/track/5o4rQTBC4vrQxaUGHYJLK3"
+      "url": "https://open.spotify.com/track/2Q5sIXWWw3llIfo7GnHhoJ"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Starry Night - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W"
@@ -1149,7 +1169,7 @@
       "url": "https://open.spotify.com/track/1CyH9zoX9abqsa3xPrVUsn"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "The Movie Star",
         "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
@@ -1169,10 +1189,10 @@
       "url": "https://open.spotify.com/track/5lCmjWsUj5khGm16MUhsWS"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Sunshine",
-        "url": "https://open.spotify.com/album/6kqBCAcmJtniQdJY0F8pr0"
+        "url": "https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr"
       },
       "artists": [
         {
@@ -1184,15 +1204,15 @@
           "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 195943,
+      "duration_ms": 195942,
       "name": "Sunshine",
-      "url": "https://open.spotify.com/track/6ioaDimY5lmeAl5gBh0imb"
+      "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "SKIP",
-        "url": "https://open.spotify.com/album/205oCY2wQQXgKVF26cBU11"
+        "url": "https://open.spotify.com/album/7JuGow8RykbNm3WxWNeeRi"
       },
       "artists": [
         {
@@ -1206,13 +1226,13 @@
       ],
       "duration_ms": 218360,
       "name": "SKIP",
-      "url": "https://open.spotify.com/track/2yO7xf5zYOTnahSmYTRhLC"
+      "url": "https://open.spotify.com/track/4OWJIjuq5xtDlbCvg2bH3u"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/6Sd2Vxt7NeEfS82UYbToqf"
+        "name": "OFF DUTY",
+        "url": "https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun"
       },
       "artists": [
         {
@@ -1228,15 +1248,15 @@
           "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 258185,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0q7JdAn2mQ20GjAIdKqIjX"
+      "duration_ms": 263333,
+      "name": "Blue (Feat. Crush, SOLE)",
+      "url": "https://open.spotify.com/track/54p0ofXg6V75CJcYiVVdre"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
-        "name": "Begin Again Korea Episode.10 (Original Television Soundtrack) [Live]",
-        "url": "https://open.spotify.com/album/2Wy3SFlvm29GzOcbNczLWV"
+        "name": "Begin Again Korea, Episode. 10 (Original Television Soundtrack) (Live)",
+        "url": "https://open.spotify.com/album/1GrNKv6qqmXfbBTdILPwwf"
       },
       "artists": [
         {
@@ -1245,14 +1265,14 @@
         }
       ],
       "duration_ms": 313840,
-      "name": "You in my arms (From The Original TV Show \"Begin Again Korea\") - Live",
-      "url": "https://open.spotify.com/track/3dA3EVZKyoeH5RG5esZLhR"
+      "name": "You in my arms (From The Original TV Show \"Begin Again Korea\") (Live)",
+      "url": "https://open.spotify.com/track/3R1pb4dWmpMLqxfrwMep2u"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "\uc5b4\ub514 \uac08\ub798",
-        "url": "https://open.spotify.com/album/3JdK31l6qcLrk7Cug2iuM1"
+        "url": "https://open.spotify.com/album/241C7eIjOPWZZFp3WJM6mY"
       },
       "artists": [
         {
@@ -1270,10 +1290,10 @@
       ],
       "duration_ms": 212493,
       "name": "Where We Go?",
-      "url": "https://open.spotify.com/track/1TeEUA7ZY4uyZ97iHBn9N6"
+      "url": "https://open.spotify.com/track/7mvLke5LPlrARps4NEraHi"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "It's alright This is love (Original Television Soundtrack) Vol. 1",
         "url": "https://open.spotify.com/album/6QW5oofVFc5T7zAdCJEHd0"
@@ -1293,10 +1313,10 @@
       "url": "https://open.spotify.com/track/06qX0YB7c6ePHglG14TN39"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
-        "name": "DAWNDIDIDAWN",
-        "url": "https://open.spotify.com/album/0HyKwRk4xvspJHZdT0eiDb"
+        "name": "\ub358\ub514\ub9ac\ub358",
+        "url": "https://open.spotify.com/album/4SNTdJEmWAbPVmqSApkOAd"
       },
       "artists": [
         {
@@ -1309,14 +1329,14 @@
         }
       ],
       "duration_ms": 193693,
-      "name": "Still (Feat. Crush)",
-      "url": "https://open.spotify.com/track/0PiRlZ1bf5nzeuCsAmjJnM"
+      "name": "Still (feat. Crush)",
+      "url": "https://open.spotify.com/track/6YqCGn0NH9OpMFUFiFWHdc"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "From Midnight To Sunrise",
-        "url": "https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8"
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
       },
       "artists": [
         {
@@ -1329,11 +1349,11 @@
         }
       ],
       "duration_ms": 196133,
-      "name": "Tiki-Taka \ud2f0\uaca9\ud0dc\uaca9 (Feat. DPR LIVE)",
-      "url": "https://open.spotify.com/track/2mHOUqoE9d1Iwj5zQWQ1K2"
+      "name": "Tiki-Taka (feat. DPR LIVE)",
+      "url": "https://open.spotify.com/track/2j4yzg8wYCZjM17oyhX5rl"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "I Wanna Be - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
@@ -1353,7 +1373,7 @@
       "url": "https://open.spotify.com/track/5eaoYciatDXxcxIoGwc0dh"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "I AM SAM",
         "url": "https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D"
@@ -1373,10 +1393,10 @@
       "url": "https://open.spotify.com/track/39EXwHjKDUVjvBu6Pv5SiH"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Interlude",
-        "url": "https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS"
+        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
       },
       "artists": [
         {
@@ -1386,10 +1406,10 @@
       ],
       "duration_ms": 213958,
       "name": "In The Air",
-      "url": "https://open.spotify.com/track/5bFC14jb6kByq9TvbMbXUc"
+      "url": "https://open.spotify.com/track/5B2VhCVKO43v2P9r83mYZ6"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "CLAASSIC",
         "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
@@ -1409,10 +1429,10 @@
       "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Da Capo",
-        "url": "https://open.spotify.com/album/1ac4LAkzA5YUGVrEvxdoh9"
+        "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
       "artists": [
         {
@@ -1432,12 +1452,12 @@
           "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 262478,
-      "name": "Life is Beautiful",
-      "url": "https://open.spotify.com/track/5ECfpZMZiM2DMJag83DQuo"
+      "duration_ms": 262480,
+      "name": "Life is Beautiful (With Dynamicduo & Zion T & Crush)",
+      "url": "https://open.spotify.com/track/7gFWkMwPIAXn1rr3JyFKjG"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "ordinary.",
         "url": "https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k"
@@ -1457,14 +1477,14 @@
         }
       ],
       "duration_ms": 241127,
-      "name": "Blue Hawaii (Prod. by 0channel)",
+      "name": "Blue Hawaii (feat. Crush, PENOMECO) (Prod. by 0channel)",
       "url": "https://open.spotify.com/track/1UHBO2hljyZzjaGeGGJrKF"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "FL1P",
-        "url": "https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2"
+        "url": "https://open.spotify.com/album/7w63fdS1eYzjuK5LAIsO7q"
       },
       "artists": [
         {
@@ -1476,15 +1496,15 @@
           "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 198184,
-      "name": "VANESSA",
-      "url": "https://open.spotify.com/track/4NvhecSbk6nWAZFKBIyJQv"
+      "duration_ms": 198218,
+      "name": "VANESSA (Prod. by BOYCOLD)",
+      "url": "https://open.spotify.com/track/28WYTneXOyFfbWbSizxiUQ"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Interlude",
-        "url": "https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS"
+        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
       },
       "artists": [
         {
@@ -1494,10 +1514,10 @@
       ],
       "duration_ms": 221834,
       "name": "woo ah",
-      "url": "https://open.spotify.com/track/5iOAtCkFtfPZoMeMbhMIY0"
+      "url": "https://open.spotify.com/track/2wRxlESh8Y8rzhbnX0i3Lc"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Garden",
         "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
@@ -1517,10 +1537,10 @@
       "url": "https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
-        "name": "No Open Flames",
-        "url": "https://open.spotify.com/album/1426VraRvdBSqtGRfkcKze"
+        "name": "make her dance",
+        "url": "https://open.spotify.com/album/61J3JZ2qxT6N1TM3OzS1hD"
       },
       "artists": [
         {
@@ -1536,15 +1556,15 @@
           "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 170840,
+      "duration_ms": 170868,
       "name": "make her dance",
-      "url": "https://open.spotify.com/track/0Z5c1dNvB3pJclMafFOz2N"
+      "url": "https://open.spotify.com/track/2IEaghW8CpyLlyQYvBxXEu"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "OFF DUTY",
-        "url": "https://open.spotify.com/album/7qbL1d3qCCzRIBJUTYjNLI"
+        "url": "https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun"
       },
       "artists": [
         {
@@ -1561,14 +1581,14 @@
         }
       ],
       "duration_ms": 263333,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1stebKrxPzXNCNUhhVWdrb"
+      "name": "Blue (Feat. Crush, SOLE)",
+      "url": "https://open.spotify.com/track/54p0ofXg6V75CJcYiVVdre"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Interlude",
-        "url": "https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS"
+        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
       },
       "artists": [
         {
@@ -1582,13 +1602,13 @@
       ],
       "duration_ms": 223618,
       "name": "9 to 5",
-      "url": "https://open.spotify.com/track/06H9FY5GKrrj8crtIyNEhA"
+      "url": "https://open.spotify.com/track/0y15HgYhQXacBM1up5Th7h"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/6ZOOniV66m11wsEYkHQMoP"
+        "url": "https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn"
       },
       "artists": [
         {
@@ -1600,15 +1620,15 @@
           "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 191626,
-      "name": "Yummy",
-      "url": "https://open.spotify.com/track/153rTJUFTyA3BaRz642mzY"
+      "duration_ms": 191660,
+      "name": "Yummy (Prod. by Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/6EHY1kVGeoghDbj77BwMnq"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "LIME",
-        "url": "https://open.spotify.com/album/3w4IbinRZCEaM3encTxOHJ"
+        "url": "https://open.spotify.com/album/0upFLpD2srO2KXYskkGMjK"
       },
       "artists": [
         {
@@ -1620,15 +1640,15 @@
           "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 198086,
+      "duration_ms": 198031,
       "name": "CORONA",
-      "url": "https://open.spotify.com/track/0Gl26CYRYO06tZCK8TgRpV"
+      "url": "https://open.spotify.com/track/2A0zjBk2FMsPCYQCYGuEyE"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Red Light",
-        "url": "https://open.spotify.com/album/0JkkZr1XfIfy7J1vO9O77t"
+        "url": "https://open.spotify.com/album/0kNBVdH0reEe7q623EYijH"
       },
       "artists": [
         {
@@ -1642,10 +1662,10 @@
       ],
       "duration_ms": 211856,
       "name": "Two melodies",
-      "url": "https://open.spotify.com/track/45WL8J05TjpjKSpKYhG495"
+      "url": "https://open.spotify.com/track/1oTdXaj3rG7ZM4gbdvjqb3"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/0H9qbHCWJRmKAhERqM5X9G"
@@ -1661,11 +1681,11 @@
         }
       ],
       "duration_ms": 220758,
-      "name": "Love Story",
+      "name": "Love Story (Feat. CRUSH)",
       "url": "https://open.spotify.com/track/5rUZeNNC4R65U6UeElMoss"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "LOCOMOTIVE",
         "url": "https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG"
@@ -1681,14 +1701,14 @@
         }
       ],
       "duration_ms": 160496,
-      "name": "Hands Up (feat. Crush)",
+      "name": "Hands Up (feat.Crush)",
       "url": "https://open.spotify.com/track/09wfkAhMl4TP9LL4o3OmqR"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Your Dog Loves You",
-        "url": "https://open.spotify.com/album/2K7FTCPLGWfJbJiZnmADOR"
+        "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
       },
       "artists": [
         {
@@ -1701,14 +1721,14 @@
         }
       ],
       "duration_ms": 270003,
-      "name": "Your Dog Loves You",
-      "url": "https://open.spotify.com/track/3GpGhXS8jJMRXJLOXwaJeO"
+      "name": "Your Dog Loves You (Feat. Crush)",
+      "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Interlude",
-        "url": "https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS"
+        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
       },
       "artists": [
         {
@@ -1722,13 +1742,13 @@
       ],
       "duration_ms": 194960,
       "name": "Castaway",
-      "url": "https://open.spotify.com/track/4mPlvNApEXUR6UbNcQj0AY"
+      "url": "https://open.spotify.com/track/0asJ8jxqqNFT5Fxr5vNSPt"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Call Me Gray",
-        "url": "https://open.spotify.com/album/0jwKufwplmqcfVNSFdm5co"
+        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
       },
       "artists": [
         {
@@ -1746,13 +1766,13 @@
       ],
       "duration_ms": 273267,
       "name": "Dream Chaser",
-      "url": "https://open.spotify.com/track/0xhgq74P8mfT91TWat0fZV"
+      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "MINE",
-        "url": "https://open.spotify.com/album/2EfPiIZp7oNTA9TvzaN7GC"
+        "url": "https://open.spotify.com/album/5pc6YYy9r4HvLGSUVJsDGX"
       },
       "artists": [
         {
@@ -1766,13 +1786,13 @@
       ],
       "duration_ms": 187350,
       "name": "Believe",
-      "url": "https://open.spotify.com/track/6zgIrAa5fKNLlL6Vli3PzD"
+      "url": "https://open.spotify.com/track/5qhkoCQh3lAEc83xsAuUWZ"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Interlude",
-        "url": "https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS"
+        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
       },
       "artists": [
         {
@@ -1782,13 +1802,13 @@
       ],
       "duration_ms": 185324,
       "name": "Dust",
-      "url": "https://open.spotify.com/track/75mdXrYqhqmf5XFJSnMxI5"
+      "url": "https://open.spotify.com/track/5b9gVrIq1nnl4RRtZmrjex"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "WALKIN', Vol.2",
-        "url": "https://open.spotify.com/album/0w3HKEdCt5hUS9TBB8mt3H"
+        "url": "https://open.spotify.com/album/2CPepitv0LvH8IqvIAu5Uc"
       },
       "artists": [
         {
@@ -1802,13 +1822,13 @@
       ],
       "duration_ms": 214815,
       "name": "STRANGER",
-      "url": "https://open.spotify.com/track/52TDpfJK1GCK5Nu1YoQ3oL"
+      "url": "https://open.spotify.com/track/3gziQHcM73LBhVJboeUSAE"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
-        "name": "Two Melodies",
-        "url": "https://open.spotify.com/album/2RwYATmMmwDAR86tV4ltu4"
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/0kNBVdH0reEe7q623EYijH"
       },
       "artists": [
         {
@@ -1822,13 +1842,13 @@
       ],
       "duration_ms": 211856,
       "name": "Two melodies",
-      "url": "https://open.spotify.com/track/2YGYsp5qY6nrwZWiRezCq1"
+      "url": "https://open.spotify.com/track/1oTdXaj3rG7ZM4gbdvjqb3"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "now or never",
-        "url": "https://open.spotify.com/album/7FaaYhJqVfE15xNzuYqW0d"
+        "url": "https://open.spotify.com/album/6nRBeA1WJxTtFIsNBPHcAK"
       },
       "artists": [
         {
@@ -1845,14 +1865,14 @@
         }
       ],
       "duration_ms": 216900,
-      "name": "now or never",
-      "url": "https://open.spotify.com/track/1qFrNC7XieiqlbqCQt7HZ8"
+      "name": "now or never (ft. Crush, Woo)",
+      "url": "https://open.spotify.com/track/4CuTK78BracgjHgUq8F2o0"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
-        "name": "Luckynumbers",
-        "url": "https://open.spotify.com/album/0N8zvUXI9292Lm0rqx8Sbj"
+        "name": "LUCKYNUMBERS",
+        "url": "https://open.spotify.com/album/4I0RE0MF6b3Hw4Z0iWosxF"
       },
       "artists": [
         {
@@ -1869,11 +1889,11 @@
         }
       ],
       "duration_ms": 294320,
-      "name": "Life Is Good",
-      "url": "https://open.spotify.com/track/7gRVrDCQcoEnHrPxdblf6I"
+      "name": "Life Is Good (Feat. Crush, DJ Friz)",
+      "url": "https://open.spotify.com/track/5Ajbredt2EjaNBJ3uqls6A"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Clock Out",
         "url": "https://open.spotify.com/album/6EGUu4CDVbPr0YAggnmVSG"
@@ -1884,44 +1904,36 @@
           "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
         },
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
           "name": "Crush",
           "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
       "duration_ms": 229693,
-      "name": "Clock Out",
+      "name": "Clock Out (Feat. Jay Park, Crush)",
       "url": "https://open.spotify.com/track/3rpVUtSmM78lWeJSMQLCSw"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "YDG Series VOL.1 JAJAJA",
-        "url": "https://open.spotify.com/album/1aCovYVqK73mXeAA3aZSEj"
+        "url": "https://open.spotify.com/album/48MgR9JfXENJEeAlErD0xG"
       },
       "artists": [
         {
           "name": "YDG",
           "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
       "duration_ms": 222587,
-      "name": "JAJAJA (feat. Dynamicduo, Crush)",
-      "url": "https://open.spotify.com/track/1YgCNd0v734B3WrBFML74c"
+      "name": "JAJAJA (Feat. Dynamic Duo, Crush)",
+      "url": "https://open.spotify.com/track/73ykl9w6imcwZzHerpr3UZ"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "4 the Youth",
         "url": "https://open.spotify.com/album/4S4oCOWlvUSiYWwKBk7bbE"
@@ -1945,7 +1957,7 @@
       "url": "https://open.spotify.com/track/3WwccpehsAfh3FL85CFCpb"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "XIX",
         "url": "https://open.spotify.com/album/1u6A9D6lnJ3RT1wRjVRueH"
@@ -1961,14 +1973,14 @@
         }
       ],
       "duration_ms": 209312,
-      "name": "Domino",
+      "name": "Domino (feat. Crush) (Prod. Crush, Gxxd)",
       "url": "https://open.spotify.com/track/5IMS0D9wJu1U91O73sFqT1"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "highfiVe",
-        "url": "https://open.spotify.com/album/1mO8asyLRCJZ6I09wMNs5j"
+        "url": "https://open.spotify.com/album/1Sgh4Ol7jqp3s3E8KmGYRY"
       },
       "artists": [
         {
@@ -1977,7 +1989,7 @@
         },
         {
           "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+          "url": "https://open.spotify.com/artist/2nv1iHUnYCudHQxDUlglpx"
         },
         {
           "name": "Boi B",
@@ -1988,12 +2000,12 @@
           "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 241586,
+      "duration_ms": 241656,
       "name": "highfiVe",
-      "url": "https://open.spotify.com/track/6pnn1CdUNjy2iEXr5wouyr"
+      "url": "https://open.spotify.com/track/406Ot9eId70MKTtSOjxepe"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "hightechnology",
         "url": "https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER"
@@ -2013,11 +2025,11 @@
         }
       ],
       "duration_ms": 237893,
-      "name": "Peace (Prod. By Cosmic Boy)",
+      "name": "Peace (Prod. By Cosmic Boy) (Feat. Crush, Choi LB)",
       "url": "https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd"
     },
     {
-      "added_at": "2020-12-27 09:31:53",
+      "added_at": "2022-09-29 03:15:54",
       "album": {
         "name": "Mask Singer 64th (Live Version)",
         "url": "https://open.spotify.com/album/0GTENfEeLNiEAqynhk8oRN"

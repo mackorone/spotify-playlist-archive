@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "Akhiyaan",
+        "url": "https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191868,
+      "name": "Akhiyaan",
+      "url": "https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz"
+    },
+    {
+      "album": {
         "name": "Andhere Mein",
         "url": "https://open.spotify.com/album/2HtdxEULBFqcHLKGTnMjZJ"
       },
@@ -85,7 +103,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 153103,
       "name": "Attachments",
       "url": "https://open.spotify.com/track/4EN7HF6MEsbwZzI75pz8HY"
@@ -176,6 +194,28 @@
     },
     {
       "album": {
+        "name": "Kishore Lofi Hits",
+        "url": "https://open.spotify.com/album/6Dt5yv5Aaiqvnjij64thgs"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 180062,
+      "name": "Bheegi Bheegi Raaton Mein Lofi",
+      "url": "https://open.spotify.com/track/5co7ap758xj69lICJoLyjg"
+    },
+    {
+      "album": {
         "name": "Bheegi Si Bhaagi Si (Lofi Flip)",
         "url": "https://open.spotify.com/album/1NsWZDKI3671SS425q0G53"
       },
@@ -185,8 +225,8 @@
           "url": "https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb"
         },
         {
-          "name": "SD Style",
-          "url": "https://open.spotify.com/artist/4tFwABaA0JsE8Or3mOPWq7"
+          "name": "Sd Style",
+          "url": "https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X"
         },
         {
           "name": "Mohit Chauhan",
@@ -262,6 +302,36 @@
     },
     {
       "album": {
+        "name": "Bulleya (Lofi Flip)",
+        "url": "https://open.spotify.com/album/1hFnubioESvCLAnGhKGv7S"
+      },
+      "artists": [
+        {
+          "name": "Kedrock",
+          "url": "https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb"
+        },
+        {
+          "name": "Sd Style",
+          "url": "https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X"
+        },
+        {
+          "name": "Amit Mishra",
+          "url": "https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Bulleya - Lofi Flip",
+      "url": "https://open.spotify.com/track/1zrCQPL78lQEDvDTeA5thf"
+    },
+    {
+      "album": {
         "name": "Chaap Tilak (Lofi Version)",
         "url": "https://open.spotify.com/album/0STXXZ9vbuxSm85BIbwoQ1"
       },
@@ -284,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Lofi Songs",
+        "url": "https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe"
+      },
+      "artists": [
+        {
+          "name": "Vivek Singh",
+          "url": "https://open.spotify.com/artist/7gFl0ms1U5iXPZbcpLyEeO"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135262,
+      "name": "Chand Si Mehbooba Ho Meri - LoFi",
+      "url": "https://open.spotify.com/track/2xI3g0jrV6NfTXQeqlFtdw"
+    },
+    {
+      "album": {
         "name": "LoFi Songs",
         "url": "https://open.spotify.com/album/6mfaRl7OwzCuWPlbkpQgzl"
       },
@@ -299,7 +387,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135262,
       "name": "Chand Si Mehbooba Ho Meri - LoFi",
       "url": "https://open.spotify.com/track/73JCURIJgi9pVYN1uBoUtJ"
@@ -419,7 +507,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 186570,
       "name": "Duur",
       "url": "https://open.spotify.com/track/12GcQC9YI2VWwPGxnmrSlJ"
@@ -444,6 +532,28 @@
     },
     {
       "album": {
+        "name": "Lofi Chill Mix",
+        "url": "https://open.spotify.com/album/08jWY4k9XmTk5msKl2COHc"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158728,
+      "name": "Ek Ladki Ko Dekha Toh Aisa Laga - LoFi",
+      "url": "https://open.spotify.com/track/43jB9FPXf9b9XS87zoqRkW"
+    },
+    {
+      "album": {
         "name": "LoFi Chill Mix",
         "url": "https://open.spotify.com/album/2ZiupxFOzfx1kPvhb5Q9M2"
       },
@@ -463,7 +573,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158728,
       "name": "Ek Ladki Ko Dekha Toh Aisa Laga - LoFi",
       "url": "https://open.spotify.com/track/2vzrEt4eg3GUNizcpIbiDR"
@@ -559,7 +669,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 206181,
       "name": "Habit - Chill Mix",
       "url": "https://open.spotify.com/track/2V7vcrIWa5FlFB3dcxg32F"
@@ -611,6 +721,32 @@
       "duration_ms": 313040,
       "name": "Hawayein - Lofi Flip",
       "url": "https://open.spotify.com/track/5w1MhmSc5S5iHnhy4s3fFb"
+    },
+    {
+      "album": {
+        "name": "Heartless (Lofi Flip)",
+        "url": "https://open.spotify.com/album/1LhGFokP6agAxIFMLb2n84"
+      },
+      "artists": [
+        {
+          "name": "Silent Ocean",
+          "url": "https://open.spotify.com/artist/1rpoUNG0STk0Vw4BNVaP17"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225522,
+      "name": "Heartless - Lofi Flip",
+      "url": "https://open.spotify.com/track/3umwWCeZn5TrYw8PMDaL8w"
     },
     {
       "album": {
@@ -757,6 +893,70 @@
       "duration_ms": 280909,
       "name": "Ishq Bina (Lofi Mix)",
       "url": "https://open.spotify.com/track/0N6mvG0jEqPg4EA0tVMmu0"
+    },
+    {
+      "album": {
+        "name": "Jab Koi Baat (Lo Fi Remix)",
+        "url": "https://open.spotify.com/album/4uWsVMoBpLwF6J5R0Mwvde"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Shirley Setia",
+          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        },
+        {
+          "name": "Mann Taneja",
+          "url": "https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178311,
+      "name": "Jab Koi Baat - Lo Fi Remix",
+      "url": "https://open.spotify.com/track/1Gjh1WdtpHd4mDsB3x66fT"
+    },
+    {
+      "album": {
+        "name": "Janam Janam (Lofi Flip)",
+        "url": "https://open.spotify.com/album/2GW1v9NIKNwPyjLnzuafwp"
+      },
+      "artists": [
+        {
+          "name": "SPECRO",
+          "url": "https://open.spotify.com/artist/6QFIeCy0b6WNxqnKKAeX6m"
+        },
+        {
+          "name": "SKETCH",
+          "url": "https://open.spotify.com/artist/2lDRRSO8ARhYWSE5hkxCb3"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151968,
+      "name": "Janam Janam - Lofi Flip",
+      "url": "https://open.spotify.com/track/1VlaAFoLyWmNH0YrOWx7Eg"
     },
     {
       "album": {
@@ -998,6 +1198,28 @@
     },
     {
       "album": {
+        "name": "Lonely in paradise",
+        "url": "https://open.spotify.com/album/5xRQCfq7q2MsmezPMS3CG2"
+      },
+      "artists": [
+        {
+          "name": "Maadi",
+          "url": "https://open.spotify.com/artist/4PmtD2gc8C6qQQG4frPoZa"
+        },
+        {
+          "name": "Mallick",
+          "url": "https://open.spotify.com/artist/2woBuZJnX4r3ATlUWbqiYf"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 162879,
+      "name": "Lonely in paradise",
+      "url": "https://open.spotify.com/track/36Px2wBsQ26O2ynTIFJgFk"
+    },
+    {
+      "album": {
         "name": "Main Nahi Jaunga (Lo-Fi Remix)",
         "url": "https://open.spotify.com/album/7dBU6fZJM3RXFzqxudpbYz"
       },
@@ -1099,10 +1321,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 168000,
       "name": "Mauja - Lo-Fi Remix",
       "url": "https://open.spotify.com/track/0c0ZHK1tVRHAAtaL6yVDws"
+    },
+    {
+      "album": {
+        "name": "Lofi Songs",
+        "url": "https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe"
+      },
+      "artists": [
+        {
+          "name": "Roop Kumar Rathod",
+          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160308,
+      "name": "Maula Mere Maula - LoFi",
+      "url": "https://open.spotify.com/track/71bQbiRCT5Tvfbk1CWsmLq"
     },
     {
       "album": {
@@ -1121,7 +1361,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160308,
       "name": "Maula Mere Maula - LoFi",
       "url": "https://open.spotify.com/track/5VgQWJz5ralJIxwK9moarb"
@@ -1338,6 +1578,24 @@
     },
     {
       "album": {
+        "name": "Kishore Lofi Hits",
+        "url": "https://open.spotify.com/album/6Dt5yv5Aaiqvnjij64thgs"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 254040,
+      "name": "Musafir Hoon Yaaron Lofi",
+      "url": "https://open.spotify.com/track/36fDdNFK8n1ZpLsh6qL2qL"
+    },
+    {
+      "album": {
         "name": "Muskurane (Lofi Flip)",
         "url": "https://open.spotify.com/album/1b4fZJ8UejFoBP1pvyiVn2"
       },
@@ -1504,6 +1762,24 @@
     },
     {
       "album": {
+        "name": "Kishore Lofi Hits",
+        "url": "https://open.spotify.com/album/6Dt5yv5Aaiqvnjij64thgs"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 238196,
+      "name": "Pyar Deewana Hota Hai Lofi",
+      "url": "https://open.spotify.com/track/0Fhnev50VYRIcul8c1flwM"
+    },
+    {
+      "album": {
         "name": "Raanjhanaa (Lofi Flip)",
         "url": "https://open.spotify.com/album/2wMqpfs8Jdxh6ouQdHM5et"
       },
@@ -1561,6 +1837,36 @@
     {
       "album": {
         "name": "Raataan Lambiyan (Lofi Flip)",
+        "url": "https://open.spotify.com/album/1KzxrSuL48KeQ9DcIJG1NP"
+      },
+      "artists": [
+        {
+          "name": "Bhumik Raj",
+          "url": "https://open.spotify.com/artist/5pcqn5mDxT6XKUBwSm2n8N"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207407,
+      "name": "Raataan Lambiyan - Lofi Flip",
+      "url": "https://open.spotify.com/track/4sYhlBegTN5xUeWLIiUctQ"
+    },
+    {
+      "album": {
+        "name": "Raataan Lambiyan (Lofi Flip)",
         "url": "https://open.spotify.com/album/3OUKtiq2Djj7KZXxw04CdM"
       },
       "artists": [
@@ -1587,6 +1893,28 @@
       "duration_ms": 230360,
       "name": "Raataan Lambiyan - Lofi Flip",
       "url": "https://open.spotify.com/track/47GoImoZiTI32p1t4H4b7h"
+    },
+    {
+      "album": {
+        "name": "Ramta Jogi (Lofi Mix)",
+        "url": "https://open.spotify.com/album/0SnXCRZxLd8nVCvUgpsyP5"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288857,
+      "name": "Ramta Jogi (Lofi Mix)",
+      "url": "https://open.spotify.com/track/2bOnZfgZ3ABaJJrNZ9fZfA"
     },
     {
       "album": {
@@ -1713,10 +2041,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 195428,
       "name": "Saari Raat Ni Sona - Lofi",
       "url": "https://open.spotify.com/track/0pjuZ5AmtQ5u5IGl0kKLAJ"
+    },
+    {
+      "album": {
+        "name": "Lofi Chill Mix",
+        "url": "https://open.spotify.com/album/08jWY4k9XmTk5msKl2COHc"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235004,
+      "name": "Sach Keh Raha Hai - LoFi Flip",
+      "url": "https://open.spotify.com/track/5GMPpal6pGenvOslNXNjH5"
     },
     {
       "album": {
@@ -1735,10 +2081,36 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235004,
       "name": "Sach Keh Raha Hai - LoFi Flip",
       "url": "https://open.spotify.com/track/6J7iYotjFbV1pIi3aM7zVq"
+    },
+    {
+      "album": {
+        "name": "Saddiyan",
+        "url": "https://open.spotify.com/album/6g27JelkjIlYYVfGY3Jbaq"
+      },
+      "artists": [
+        {
+          "name": "Soch",
+          "url": "https://open.spotify.com/artist/31y8hJ1vq1z54EPBOFdfRJ"
+        },
+        {
+          "name": "Rabi Ahmed",
+          "url": "https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn"
+        },
+        {
+          "name": "Adnan Dhool",
+          "url": "https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Saddiyan",
+      "url": "https://open.spotify.com/track/0qoORzqrSxpIvREz58ugkW"
     },
     {
       "album": {
@@ -1861,7 +2233,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 233571,
       "name": "Shaam",
       "url": "https://open.spotify.com/track/5m1qKweCBR2Hx4l7WlVAsM"
@@ -1891,6 +2263,28 @@
       "duration_ms": 208000,
       "name": "Shayad - Lofi Flip",
       "url": "https://open.spotify.com/track/0s8Ht3XaHDQuDjLnK3xVMW"
+    },
+    {
+      "album": {
+        "name": "Siyah",
+        "url": "https://open.spotify.com/album/15xc5hGNYM8h7JSzosKzt3"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "BAIG",
+          "url": "https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171290,
+      "name": "Siyah",
+      "url": "https://open.spotify.com/track/4tkk65MyQNzYOQKgVbLCZ3"
     },
     {
       "album": {
@@ -2088,6 +2482,28 @@
     },
     {
       "album": {
+        "name": "Tere Liye (Lofi Mix)",
+        "url": "https://open.spotify.com/album/4ktgEGNiSSqiDGWH1XQM28"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Tere Liye (Lofi Mix)",
+      "url": "https://open.spotify.com/track/2bYHZFQGqyxC886xCL1uIg"
+    },
+    {
+      "album": {
         "name": "Teri Deewani (Lofi Flip)",
         "url": "https://open.spotify.com/album/7slPAEKXiHSCOOQc6WhkoO"
       },
@@ -2121,10 +2537,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243000,
       "name": "Teri Ore (Lo-Fi Flip)",
       "url": "https://open.spotify.com/track/05R5NzVM92huBXaszuXSZH"
+    },
+    {
+      "album": {
+        "name": "Teri Ore (Lo-Fi Flip)",
+        "url": "https://open.spotify.com/album/4DOaTZd7ucNOhADvgLjfMX"
+      },
+      "artists": [
+        {
+          "name": "VIBIE",
+          "url": "https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Teri Ore (Lo-Fi Flip)",
+      "url": "https://open.spotify.com/track/2KOqnHlrLtl0ZXatUjnTz2"
     },
     {
       "album": {
@@ -2416,6 +2850,36 @@
     },
     {
       "album": {
+        "name": "Tum Se (Lofi Flip)",
+        "url": "https://open.spotify.com/album/1s5x0QWaB28d7xa6EeSndJ"
+      },
+      "artists": [
+        {
+          "name": "SPECRO",
+          "url": "https://open.spotify.com/artist/6QFIeCy0b6WNxqnKKAeX6m"
+        },
+        {
+          "name": "SKETCH",
+          "url": "https://open.spotify.com/artist/2lDRRSO8ARhYWSE5hkxCb3"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Samuel - Akanksha",
+          "url": "https://open.spotify.com/artist/6WUmSdK54UdDxfhPJmbmaJ"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268640,
+      "name": "Tum Se - Lofi Flip",
+      "url": "https://open.spotify.com/track/6RMtC6AAvpG2eMLkaBH0dd"
+    },
+    {
+      "album": {
         "name": "Tum Se Hi (From \"Love In Lo-Fi Volume 1\")",
         "url": "https://open.spotify.com/album/3Z95v823ua3af0zD7EwodF"
       },
@@ -2530,6 +2994,24 @@
     },
     {
       "album": {
+        "name": "Lofi Songs",
+        "url": "https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe"
+      },
+      "artists": [
+        {
+          "name": "Poorvesh Dave",
+          "url": "https://open.spotify.com/artist/3U4ZRBChsjzagb4wcEXutU"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141955,
+      "name": "Woh Lamhe Woh Baatein - LoFi",
+      "url": "https://open.spotify.com/track/0nBF9RgXqVi1oiQL6JSigs"
+    },
+    {
+      "album": {
         "name": "LoFi Songs",
         "url": "https://open.spotify.com/album/6mfaRl7OwzCuWPlbkpQgzl"
       },
@@ -2545,7 +3027,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141955,
       "name": "Woh Lamhe Woh Baatein - LoFi",
       "url": "https://open.spotify.com/track/4YcGrrbJ5of8MHzLFRPNRb"

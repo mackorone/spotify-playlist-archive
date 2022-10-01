@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/653U7cDBXXkPZ07Xk8kxL6.md) - [plain]
 
 > As one of the most widely beloved entertainers of all\-time, Michael Jackson made an unforgettable imprint on popular music\. Here is a collection of some of his best tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,473 likes - 27 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,471 likes - 27 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

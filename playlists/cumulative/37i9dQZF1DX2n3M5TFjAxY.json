@@ -253,10 +253,28 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 333306,
       "name": "Asmar",
       "url": "https://open.spotify.com/track/2Fp144BJRrhBCVqPrvMiEL"
+    },
+    {
+      "album": {
+        "name": "Asmar",
+        "url": "https://open.spotify.com/album/11g6WESfbVfC5wM14lb6L4"
+      },
+      "artists": [
+        {
+          "name": "Samira Tawfik",
+          "url": "https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333374,
+      "name": "Asmar",
+      "url": "https://open.spotify.com/track/0w1UvLilct9BzMVNWH2kkm"
     },
     {
       "album": {

@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 174467,
       "name": "Dime Dime",
       "url": "https://open.spotify.com/track/4kNTujhP4ZNfK2W93XyOma"
@@ -1041,6 +1041,24 @@
       "duration_ms": 165773,
       "name": "Husn Nawabi",
       "url": "https://open.spotify.com/track/3TPw0Ycu40YKYCZB59zhjA"
+    },
+    {
+      "album": {
+        "name": "I JUST WANT MONEY",
+        "url": "https://open.spotify.com/album/7h0jsIr2WAYUVmc0g49IpR"
+      },
+      "artists": [
+        {
+          "name": "Twinjabi",
+          "url": "https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207908,
+      "name": "I JUST WANT MONEY",
+      "url": "https://open.spotify.com/track/4PphpJYOOGClMpYZHgkyMc"
     },
     {
       "album": {
@@ -1556,6 +1574,24 @@
     },
     {
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170387,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"
+    },
+    {
+      "album": {
         "name": "NO LOVE",
         "url": "https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT"
       },
@@ -1567,7 +1603,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 170387,
       "name": "NO LOVE",
       "url": "https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC"
@@ -1685,6 +1721,28 @@
       "duration_ms": 145631,
       "name": "Para Rum Pa",
       "url": "https://open.spotify.com/track/3D5w9GsRZBPw8F5t6e6BhU"
+    },
+    {
+      "album": {
+        "name": "Pardesi",
+        "url": "https://open.spotify.com/album/0wCSc43ppzINWPUnJEyzsu"
+      },
+      "artists": [
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        },
+        {
+          "name": "Jay Psar",
+          "url": "https://open.spotify.com/artist/2FXSYpIIZhJ260UvGZN8wr"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Pardesi",
+      "url": "https://open.spotify.com/track/0azDXr0cxe2lePuQgsSxRa"
     },
     {
       "album": {
@@ -2340,6 +2398,24 @@
     },
     {
       "album": {
+        "name": "Tropical Hills",
+        "url": "https://open.spotify.com/album/5yVJx2QgjQZ7HcDchYRDpv"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Khan",
+          "url": "https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127417,
+      "name": "Tropical Hills",
+      "url": "https://open.spotify.com/track/3Xehu9k1QGMPfG0nUOgJUf"
+    },
+    {
+      "album": {
         "name": "The Carnival",
         "url": "https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM"
       },
@@ -2601,6 +2677,24 @@
       "duration_ms": 194857,
       "name": "Ykwim",
       "url": "https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/1iDJsBJEJSMUqutPcRsauk"
+      },
+      "artists": [
+        {
+          "name": "Khanvict",
+          "url": "https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197872,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1E3uueAFlrPTWaInzUUHtg"
     },
     {
       "album": {

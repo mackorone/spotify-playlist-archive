@@ -669,7 +669,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 210190,
       "name": "Mary La Orgullosa",
       "url": "https://open.spotify.com/track/3o8rROZqS9uyZqr7MR0jgz"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 212741,
       "name": "Que Le Pasa A Lupita",
       "url": "https://open.spotify.com/track/0xfwBfJ0N4nxOMJONjFnAt"
@@ -911,10 +911,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 188040,
       "name": "Rabia Y Dolor",
       "url": "https://open.spotify.com/track/1K2Ohi9UBIbuMjBUcwNiu2"
+    },
+    {
+      "album": {
+        "name": "Chacaloza Forever",
+        "url": "https://open.spotify.com/album/3IuGQUoSuQIGbbrBaD3bpI"
+      },
+      "artists": [
+        {
+          "name": "Banda La Chacaloza De Jerez Zacatecas",
+          "url": "https://open.spotify.com/artist/6mAjeRwULfOM15lFmbpVqU"
+        },
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/5sau3wdX63rYl0nrDNY6Qb"
     },
     {
       "album": {

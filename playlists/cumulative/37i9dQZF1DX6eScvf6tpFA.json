@@ -378,6 +378,24 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/7neio4srvDRACrUSTdpMMf"
+      },
+      "artists": [
+        {
+          "name": "Lotic",
+          "url": "https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327533,
+      "name": "Come Unto Me",
+      "url": "https://open.spotify.com/track/5pyaHaySKoujQJPepKrzJG"
+    },
+    {
+      "album": {
         "name": "Come Unto Me",
         "url": "https://open.spotify.com/album/7im2ggXam5d2J2Oj7KPB6Z"
       },
@@ -389,7 +407,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 327533,
       "name": "Come Unto Me",
       "url": "https://open.spotify.com/track/7KkfYszsJqO6HflwlDJEWJ"
@@ -1384,7 +1402,7 @@
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 125272,
+      "duration_ms": 125312,
       "name": "Pedi",
       "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
     },
@@ -1521,10 +1539,32 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190560,
       "name": "Quarantine Thick",
       "url": "https://open.spotify.com/track/4GbfUgXhZxY43dYyKhsfwC"
+    },
+    {
+      "album": {
+        "name": "So Help Me God!",
+        "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190378,
+      "name": "Quarantine Thick (feat. Latto)",
+      "url": "https://open.spotify.com/track/4JfCA7yaiEORC7NcKBS9nk"
     },
     {
       "album": {
@@ -1710,6 +1750,42 @@
     },
     {
       "album": {
+        "name": "Queen Of Pop",
+        "url": "https://open.spotify.com/album/04OoSxx5A0j1Nk5UJfjaFS"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 147748,
+      "name": "Spread That Puss",
+      "url": "https://open.spotify.com/track/4o2SgZjUWdy78MldvkYFd1"
+    },
+    {
+      "album": {
+        "name": "Queen of Pop",
+        "url": "https://open.spotify.com/album/69Zb4HWI0aANun26JLN0Rf"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147748,
+      "name": "Spread That Puss",
+      "url": "https://open.spotify.com/track/6Fq0oSeE0vod2UfW86H2we"
+    },
+    {
+      "album": {
         "name": "Spread That Puss",
         "url": "https://open.spotify.com/album/0gLzh0qmiZh928mKBzWLKN"
       },
@@ -1721,7 +1797,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147806,
       "name": "Spread That Puss",
       "url": "https://open.spotify.com/track/3snk3DKrjHBu2TMdYYXhah"
@@ -1863,6 +1939,28 @@
     {
       "album": {
         "name": "Taste Up",
+        "url": "https://open.spotify.com/album/7eAuFVm0hFYmP84GkKT2Fo"
+      },
+      "artists": [
+        {
+          "name": "Buke & Gase",
+          "url": "https://open.spotify.com/artist/7rkeuiwd38oOVhBvOtLL1P"
+        },
+        {
+          "name": "Rahrah Gabor",
+          "url": "https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "Taste Up",
+      "url": "https://open.spotify.com/track/4We1YBTHU615rLxbRiloX7"
+    },
+    {
+      "album": {
+        "name": "Taste Up",
         "url": "https://open.spotify.com/album/0HpBu4TslwDf3dRFSJ1zaG"
       },
       "artists": [
@@ -1877,7 +1975,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 117000,
       "name": "Taste Up",
       "url": "https://open.spotify.com/track/7mXTlAnsYMjPVBpoXmDTBG"
@@ -2001,10 +2099,32 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189375,
       "name": "TOMYBAE",
       "url": "https://open.spotify.com/track/2rFuds1CD7ShZU1nVCkr11"
+    },
+    {
+      "album": {
+        "name": "TOMYBAE",
+        "url": "https://open.spotify.com/album/7Ck9eaiColPrrSefyMQMvh"
+      },
+      "artists": [
+        {
+          "name": "Merca Bae",
+          "url": "https://open.spotify.com/artist/7tNlqSl7RogtzMsEA20byE"
+        },
+        {
+          "name": "Tomasa del Real",
+          "url": "https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189375,
+      "name": "TOMYBAE",
+      "url": "https://open.spotify.com/track/30RUT7ewpDfCuMLxJXqUjA"
     },
     {
       "album": {

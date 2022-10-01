@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Danny Ocean.",
+  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Abel Pintos",
   "name": "Enamor\u00e1ndose",
   "published_playlist_ids": [
     "1AAjF0AYqsSQNvAOQluejC"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 214500,
       "name": "Canci\u00f3n Sin Nombre Numero 477",
       "url": "https://open.spotify.com/track/6By9OQDpPYsAlZDW0OZ7tQ"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 183240,
       "name": "Chica Ideal",
       "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
@@ -509,10 +509,50 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164380,
       "name": "Con la Falta Que Me Haces",
       "url": "https://open.spotify.com/track/04HbA6XyuQ5MduWJUPmwiP"
+    },
+    {
+      "album": {
+        "name": "20 -- 21",
+        "url": "https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164380,
+      "name": "Con la Falta Que Me Haces",
+      "url": "https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208600,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
     },
     {
       "album": {
@@ -770,6 +810,24 @@
     },
     {
       "album": {
+        "name": "ANASTASIA",
+        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182764,
+      "name": "D\u00cdA DEL AMOR",
+      "url": "https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU"
+    },
+    {
+      "album": {
         "name": "El Amor en Mi Vida",
         "url": "https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1"
       },
@@ -879,6 +937,24 @@
       "duration_ms": 203946,
       "name": "En Coma",
       "url": "https://open.spotify.com/track/7hPB9qxK37bIzhltHlD5gv"
+    },
+    {
+      "album": {
+        "name": "Enti\u00e9ndelo",
+        "url": "https://open.spotify.com/album/6SZQatuIqnVNMGojwai7ls"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Enti\u00e9ndelo",
+      "url": "https://open.spotify.com/track/69QB9IQdyxt48WwcomJAmZ"
     },
     {
       "album": {
@@ -1427,10 +1503,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151453,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1An91dzcVTS96yP3a7F495"
+    },
+    {
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151586,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/6no81SKcduoJ0L8AoO4PP7"
     },
     {
       "album": {
@@ -1799,7 +1893,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
@@ -1828,6 +1922,24 @@
     },
     {
       "album": {
+        "name": "20 -- 21",
+        "url": "https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186870,
+      "name": "Pero Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/30brAfx64jxQMeUNUgDFaj"
+    },
+    {
+      "album": {
         "name": "Pero Te Conoc\u00ed",
         "url": "https://open.spotify.com/album/7nv6eLXbM7wGEXmjwh2djL"
       },
@@ -1839,7 +1951,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186870,
       "name": "Pero Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/3GoZFM9oqXO68BQXBA1Czv"
@@ -1901,10 +2013,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200114,
       "name": "Por Tu Amor - Si Fuera M\u00eda",
       "url": "https://open.spotify.com/track/1cYKJBDFOlT6a1vhjY4ygo"
+    },
+    {
+      "album": {
+        "name": "Si Fuera M\u00eda - EP",
+        "url": "https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200114,
+      "name": "Por Tu Amor - Si Fuera M\u00eda",
+      "url": "https://open.spotify.com/track/5qELKdEhxaAjYKROyf52C8"
     },
     {
       "album": {
@@ -1963,7 +2093,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-03",
       "duration_ms": 226775,
       "name": "Qu\u00e9 Pena",
       "url": "https://open.spotify.com/track/7C4VynskxHgu4EvyudDZCC"
@@ -2079,7 +2209,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 182018,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/2DElz2QWtR8ME3VTXsOlWN"
@@ -2373,7 +2503,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 194836,
       "name": "Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/1z48NPFPNJEV4UAg83OFd2"
@@ -2413,6 +2543,28 @@
       "duration_ms": 210000,
       "name": "Te Quiero X Eso",
       "url": "https://open.spotify.com/track/6MXtWx5mWkj8XJaEqouzCW"
+    },
+    {
+      "album": {
+        "name": "Tu Despertador",
+        "url": "https://open.spotify.com/album/59YFx65z9ZB7oXbNdyzZDr"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198701,
+      "name": "Tu Despertador",
+      "url": "https://open.spotify.com/track/6fWNrtEd8z5ONHUCCiOuBS"
     },
     {
       "album": {
@@ -2532,6 +2684,24 @@
     },
     {
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217609,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu"
+    },
+    {
+      "album": {
         "name": "Una y Mil Veces",
         "url": "https://open.spotify.com/album/7xuDqWQI5vAlFPd2DDXpBb"
       },
@@ -2565,6 +2735,24 @@
       "duration_ms": 189653,
       "name": "Uno M\u00e1s Uno",
       "url": "https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT"
+    },
+    {
+      "album": {
+        "name": "Valen M\u00e1s",
+        "url": "https://open.spotify.com/album/0XGzR9YQlMgHYlUEvD1clh"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "Valen M\u00e1s",
+      "url": "https://open.spotify.com/track/6zLhpwZfSmKXx3qCEYFmOa"
     },
     {
       "album": {

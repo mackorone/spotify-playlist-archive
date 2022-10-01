@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 
 > Classic drinking singalongs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,196 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,944 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Whiskey, You're the Devil](https://open.spotify.com/track/0P5FfbpcyEFyobEz0JjBI8) | [The Poxy Boggards](https://open.spotify.com/artist/02AfNHKlkhaU7geymsecab) | [Lager Than Life](https://open.spotify.com/album/2nhNtr88ndAe4xUDQZBjE0) | 2:28 |
 | 2 | [On the One Road](https://open.spotify.com/track/3axEGZqZ54eYrGIOnuYz0m) | [The Wolfe Tones](https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau) | [Let The People Sing](https://open.spotify.com/album/68z5Mo8YEeiwdF5SItYJ2R) | 3:03 |
 | 3 | [Come In](https://open.spotify.com/track/7sh6OSr12B46LMMivpecZQ) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [The Unicorn, the Continuing Story](https://open.spotify.com/album/1nut3Nd912SzSxWHRCfAUg) | 3:01 |
-| 4 | [Molly Malone](https://open.spotify.com/track/7gV15ft4DZydpfAgYnakST) | [Johnny Logan & Friends](https://open.spotify.com/artist/0T2vuEBLAy5QdxWqm6GQY6) | [The Irish Connection](https://open.spotify.com/album/4sHCKXPUThL5qMqSEEVU6M) | 3:06 |
+| 4 | [Molly Malone](https://open.spotify.com/track/4AyeGAsIJ4OJdgCGEKUUsV) | [Johnny Logan & Friends](https://open.spotify.com/artist/0T2vuEBLAy5QdxWqm6GQY6) | [The Irish Connection](https://open.spotify.com/album/5QFGKq3F7nwj615jRrOcTC) | 3:06 |
 | 5 | [I’ll Tell Me Ma / Belle of Belfast](https://open.spotify.com/track/1WcklIWVoLkVm0q027D8gv) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [The Irish Rovers 50 Years \- Vol\. 1](https://open.spotify.com/album/4myZOIXY0re1KKU0JHbhSa) | 2:34 |
 | 6 | [Chandelier Shop](https://open.spotify.com/track/2jAK341dCn9QlgevdIbUSq) | [The Kilkennys](https://open.spotify.com/artist/13BdFViz8xaH8K47sWS6ge) | [Best Irish Pub Songs](https://open.spotify.com/album/0rKyyZCL9D8rKwfgw1UvzO) | 1:36 |
 | 7 | [Seven Drunken Nights](https://open.spotify.com/track/27PnrVPaf1MOe5wCrd3sTL) | [Celtic Thunder](https://open.spotify.com/artist/0DZ5n0r1P0ZjKbjPdbN4wr) | [Ireland](https://open.spotify.com/album/1k9gCmDz4ymNH150iKY9ns) | 4:00 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 21 | [Paddle Me Own Canoe](https://open.spotify.com/track/4ayxeG7J8CyT0Bwb8bHIXb) | [Waxies Dargle](https://open.spotify.com/artist/6XyWSrfIUyLVu2htZ0w8VH) | [Irish Drinking Songs](https://open.spotify.com/album/2QYhhgP7i8J6mbANcKCeCv) | 2:45 |
 | 22 | [Right All Right](https://open.spotify.com/track/3MElOn9Ko2hmAEJPWfRiJM) | [The Dublin City Ramblers](https://open.spotify.com/artist/6nXiCNSYAvQcYAXcJBN6l0) | [Dublin City Ramblers Live](https://open.spotify.com/album/7sKrNQxfZf5sualwihNKrl) | 2:56 |
 | 23 | [The Hills Of Connemara](https://open.spotify.com/track/4M8zr3pKrz1FUBi3RNieBP) | [O'Farrell Family Band](https://open.spotify.com/artist/6Hohm0fm6UXAB5GXHTD9hO) | [Irish Drinking Songs](https://open.spotify.com/album/1hmercrTNWytDLvN94nWcU) | 2:22 |
-| 24 | [Haul Away Joe](https://open.spotify.com/track/7CobtZOm94AIBw0s7SaR9Y) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Between Wind and Water](https://open.spotify.com/album/5PrpOX9INU0u2p7KPvx9Me) | 2:58 |
+| 24 | [Haul Away Joe](https://open.spotify.com/track/7kXxpqMNTR0PdvwXZr3j3m) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Between Wind And Water](https://open.spotify.com/album/0czdThetfLyCdGpAF2dRqR) | 2:56 |
 | 25 | [The Leaving Of Liverpool](https://open.spotify.com/track/2pCyH8KbetD97EnYWwMgyU) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 3:40 |
 | 26 | [Dirty Old Town](https://open.spotify.com/track/426iqvsLVSgvInJiS9zQv4) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a), [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [Definitive Pub Songs Collection](https://open.spotify.com/album/0LUkfcP3XT922V0uhE3SDQ) | 3:32 |
 | 27 | [Lily The Pink](https://open.spotify.com/track/2XXFwUTAOjRdPOzhFmiqfx) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [The Best Of The Irish Rovers](https://open.spotify.com/album/7eR6s2Ag147H5yHOG1CwDV) | 3:21 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 30 | [Rambling Irishman](https://open.spotify.com/track/1AUDL7ApnjcteAIxE3vXJ6) | [John McCutcheon](https://open.spotify.com/artist/0TzlaraGqiaAfTjqTh96dc) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 5:22 |
 | 31 | [Johnny Jump Up/Morrison's Jig](https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 5:00 |
 | 32 | [The Rocky Road To Dublin](https://open.spotify.com/track/2AMHDHBuhSvcEhbv5IVSB1) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [The High Kings](https://open.spotify.com/album/4EDaQ3qQ8vglXgSi5sQm2A) | 3:16 |
-| 33 | [The Pub With No Beer](https://open.spotify.com/track/097q9aY8tuIVKaBvk0LuyV) | [The Dublin City Ramblers](https://open.spotify.com/artist/6nXiCNSYAvQcYAXcJBN6l0) | [Our Best Irish Pub Songs](https://open.spotify.com/album/7xVuNlRglrMfgOnEr3aUZt) | 2:34 |
+| 33 | [The Pub with No Beer](https://open.spotify.com/track/5zZthzbOkBkz2gfwxoTpSP) | [Drinking Songs](https://open.spotify.com/artist/4qcIdXhkdYXAaybMaVjpvU) | [Original Irish Drinking Songs](https://open.spotify.com/album/5r8OT9nU29Yx4jHkecubAk) | 2:35 |
 | 34 | [The Big Strong Man](https://open.spotify.com/track/2LDt5lclWiStgzcN2ckBUL) | [The Wolfe Tones](https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau) | [25th Anniversary](https://open.spotify.com/album/7fTHb1SDietYPoesmOnDNh) | 2:09 |
 | 35 | [If You're Irish, Come Into The Parlour](https://open.spotify.com/track/79IbAhRoFA8wbUhHWcDjv3) | [Barnbrack](https://open.spotify.com/artist/26arTXI1Jz3lUeDQ2IQjCe) | [101 Beautiful Irish Ballads](https://open.spotify.com/album/6MfSQtS9WRNQTUl7jHcXQh) | 1:42 |
 | 36 | [Muirsheen Durkin](https://open.spotify.com/track/7DkDrVprJzciRxztQ7UG1I) | [The Blarney Lads](https://open.spotify.com/artist/0NVUu7IN9htn2Ak7CY8mCL) | [Molly Malone: 20 Traditional Irish Favorites for St\. Patrick's Day](https://open.spotify.com/album/1NrHPStocUvzCEV4lTJCRr) | 2:08 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 43 | [The Juice of the Barley](https://open.spotify.com/track/1EZn4pTrt4lpUDA13KC5eF) | [Carlyle Fraser](https://open.spotify.com/artist/62ejG7Vlm6nVGATCU4lTta) | [Pint of Ale](https://open.spotify.com/album/3s5NJhXY65FVmv1P4QNAPa) | 3:06 |
 | 44 | [Water Is Alright In Tay](https://open.spotify.com/track/1Of1mLn6DhF77g8zSAkypB) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz) | [Flowers In the Valley](https://open.spotify.com/album/7qjs8c7X5g1EU0vVvcE8ot) | 1:52 |
 | 45 | [The Sick Note](https://open.spotify.com/track/3NhPGycrrCPH9HqZjpdrlA) | [Con O'Brien](https://open.spotify.com/artist/0GUFH5LfWWYiWtEn0CflP9) | [Our Songs 6](https://open.spotify.com/album/5GYFKVrwJqiTysbo6XgMbR) | 2:59 |
-| 46 | [The Irish Rover](https://open.spotify.com/track/5cmgKb5oNvCQXXh94YBOhy) | [Johnny Logan](https://open.spotify.com/artist/27rXetqqGSi2spXzggwehc), [Friends](https://open.spotify.com/artist/76JUQKPJSC9OkcCGQ2cmuR) | [Our Best Irish Pub Songs](https://open.spotify.com/album/7xVuNlRglrMfgOnEr3aUZt) | 3:47 |
+| 46 | [The Irish Rover](https://open.spotify.com/track/0wR22IagjH4rTSKjZWEN0f) | [Johnny Logan & Friends](https://open.spotify.com/artist/0T2vuEBLAy5QdxWqm6GQY6) | [The Irish Connection](https://open.spotify.com/album/5QFGKq3F7nwj615jRrOcTC) | 3:46 |
 | 47 | [Finnegan's Wake](https://open.spotify.com/track/7BFOwBx6CvCNrA2gHI93NI) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a), [Ronnie Drew](https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2) | [Definitive Pub Songs Collection](https://open.spotify.com/album/0LUkfcP3XT922V0uhE3SDQ) | 2:28 |
 | 48 | [Isn't It Grand, Boys \(with Tommy Makem\)](https://open.spotify.com/track/3JVpkxPJNIwRi4wTHAalHi) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz), [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Isn't It Grand Boys](https://open.spotify.com/album/5lakEd1iRGCoGWrbvi3057) | 2:58 |
 | 49 | [The Liar](https://open.spotify.com/track/3rPa6TTClkapOPHbRgyLj4) | [Seamus Kennedy](https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf) | [In Concert](https://open.spotify.com/album/34A2WmhLw962dn3IysrNe3) | 3:45 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 54 | [Weile Waila](https://open.spotify.com/track/64z9LKRYWUSO8JSrVDyyLY) | [Ronnie Drew](https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2) | [Definitivo Canzoni da Pub](https://open.spotify.com/album/3t2hKKngI5tbpFmO17h7ty) | 2:24 |
 | 55 | [Seven Old Ladies](https://open.spotify.com/track/1cd92x1tprkEPp1bxaLuCq) | [Foster & Allen](https://open.spotify.com/artist/53UCUopHRBowldiFYqYdzA) | [Irish Drinking Songs \- 50 Pub Favorites from Ireland](https://open.spotify.com/album/4Fvg4bfehK0QOsnHRkSMVQ) | 4:34 |
 
-Snapshot ID: `MTY0NzQ0MzI4NCwwMDAwMDAwNjAwMDAwMTdmOTM0NTkzODkwMDAwMDE3MGU1YjI0ZGQ2`
+Snapshot ID: `MTY0NzQ0MzI4NCwwMDAwMDAwMDY2YzcwMGIxY2FlZDJhZjI2YjQxNDE2ZTM4MzE0NWUz`

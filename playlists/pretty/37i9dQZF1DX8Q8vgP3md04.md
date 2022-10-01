@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,051 likes - 54 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,751 likes - 54 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 2 | [Birabiroye](https://open.spotify.com/track/63CHnczvavEof74GIzfmp5) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:49 |
 | 3 | [123](https://open.spotify.com/track/1ndWXkJUryhxsTjyMWL58l) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Asira Andu Getsoche](https://open.spotify.com/album/27bquKGjQcjSFpBk5ybE3H) | 4:33 |
 | 4 | [Keteraraw Mado](https://open.spotify.com/track/3BxMUw1RudApjSG9emnP5K) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 6:22 |
-| 5 | [Maalan Jiraa](https://open.spotify.com/track/145cR7hHK6yfZFWgKdKqEn) | [Helen Berhe](https://open.spotify.com/artist/7DVyaUx8Tu6oGmbDTSXPBO) | [Siiyaadee](https://open.spotify.com/album/0NESdLGWsLfnD8ZJm9Hurc) | 5:30 |
+| 5 | [Maalan Jira](https://open.spotify.com/track/3X7RnmGwyfOy2Qr5nn1u1i) | [Hachalu Hundessa](https://open.spotify.com/artist/1mIFOiMXZXNcpi2E651Rwx) | [Maalan Jira](https://open.spotify.com/album/3QNhcBBhUy4FqN1wHnfRE5) | 5:30 |
 | 6 | [Nigerewa](https://open.spotify.com/track/3DvQz7jA79KweYLM4yRQJ8) | [Amanuel Yemane](https://open.spotify.com/artist/34vR4pOtaY9230Nmc1BKP8) | [Habesha](https://open.spotify.com/album/7xeGTsVCULFt42tcgv85zK) | 4:57 |
 | 7 | [Lingerish](https://open.spotify.com/track/3bGYH5jipEhhVSQtCek73t) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Reflection](https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE) | 4:19 |
 | 8 | [Yebet Sira](https://open.spotify.com/track/7uhafRBxioI4l74qEluOo6) | [Bisrat Surafel](https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH) | [Kal Bekal](https://open.spotify.com/album/0pwi6ih9AabLeTFP8qjy9l) | 4:35 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 13 | [Mar Eske Tuwaf \(Fiqir Eske Meqabir\)](https://open.spotify.com/track/7aRNqr3q0Cg064SNLUpX37) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 7:25 |
 | 14 | [Tefa Yemileyen](https://open.spotify.com/track/7FTywuxqZm5nFhoZGP0xn2) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Keras Gar Negeger](https://open.spotify.com/album/6AxXfgZACYYxYWdp6mwBr2) | 5:02 |
 | 15 | [Bado](https://open.spotify.com/track/6DJRq42LKg4I0z0BWFPQZA) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:13 |
-| 16 | [Mulatu](https://open.spotify.com/track/0LhzIa0cXP8DJEs1nOCXZG) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/70dZnG0Bfa3a0GZKGzhTaa) | 6:20 |
+| 16 | [Mulatu](https://open.spotify.com/track/5dkCbFyJIZmaRst8E2eggt) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX) | 6:20 |
 | 17 | [Betam New Emewodish](https://open.spotify.com/track/0ETljDqCA6av5aVfQen31X) | [Dawit Tsige](https://open.spotify.com/artist/1RGs3nQP5xobRjF7Kl00kJ) | [Betam New Emiwodish](https://open.spotify.com/album/1q9LnwtvnZa3dEMPYxmpkQ) | 5:38 |
 | 18 | [Gudaye Nesh](https://open.spotify.com/track/6QVMCGAzom2PygQBzcjlZs) | [Wondimu Jira](https://open.spotify.com/artist/0xksnjOFGOdADTRV5cKcV4) | [Ethiopian Slow Romantic Collection \- Vol.2](https://open.spotify.com/album/2PPPjvJCXafChPiOItKfip) | 4:30 |
 | 19 | [Dèra](https://open.spotify.com/track/2IIb271RwaISQdftWsD7HT) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:23 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 38 | ['Sey](https://open.spotify.com/track/6q26FbrCmwzSr869JeYXaT) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | ['Sey](https://open.spotify.com/album/2n1YBeI82wlaiLQkg1POZ0) | 4:45 |
 | 39 | [Tilobign](https://open.spotify.com/track/57eim2kUA5BYD7m6fdLeDM) | [Rahel Getu](https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ) | [Tilobign](https://open.spotify.com/album/0r806TJjYUw4g4d5LEoSh9) | 4:55 |
 | 40 | [Ena](https://open.spotify.com/track/3lDh5FFo45l6iPMQ223yn0) | [Muluken Dawit](https://open.spotify.com/artist/2zUgHt41Ctg8PSdKvqBRwV) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:42 |
-| 41 | [Disc 1: Sitalekish Des Alishign \(A\. Agonafir\)](https://open.spotify.com/track/6Hux3tjwWhozjKoOajz9nb) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [The Ethiopian Millennium Collection \- 6\-cd Box Set](https://open.spotify.com/album/1tIZbl4nLZZlj9nhb4PCc4) | 5:04 |
+| 41 | [Sitalekish Des Alishign](https://open.spotify.com/track/2UMLCweE5NvY4sdeJCaFFX) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [Hidden Beauty](https://open.spotify.com/album/2HPUUWewF1dWh0IXbP6LUh) | 5:05 |
 | 42 | [Ayeneye](https://open.spotify.com/track/4wSz0N4SCEwdHolekBUdmv) | [Hayleyesus Feyssa](https://open.spotify.com/artist/4jYB05zmRJeaMatlpZTn9i) | [Yeaddis Ken Tsehay](https://open.spotify.com/album/77Nr43rl51Q1PsN78MlhCF) | 7:02 |
 | 43 | [Mengedegna](https://open.spotify.com/track/6FLzUgglQPqA78lKior10y) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:15 |
 | 44 | [Yebleniloo](https://open.spotify.com/track/5Jl2tQyJUmFJRcdAtLrbfo) | [Selamawit Yohannes](https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8) | [Yebleniloo](https://open.spotify.com/album/7xF9to8GK2yUYND3JRZBMa) | 4:51 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 49 | [Ethiopia](https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 6:37 |
 | 50 | [Chall Zendero](https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r) | [Dawit Tsige](https://open.spotify.com/artist/0er7UYZjJL3ack3JOGzq5q) | [Yene Zema](https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf) | 3:52 |
 | 51 | [Kenat Wediya](https://open.spotify.com/track/4iKrEZyjF2JcC5AukB2rBF) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 4:54 |
-| 52 | [Lijay](https://open.spotify.com/track/57BxU4uqdbl6TITWtnQDMw) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Lijay](https://open.spotify.com/album/2z3hyHFNHnQ3h9R36uUvzO) | 5:24 |
+| 52 | [Lijay](https://open.spotify.com/track/38F1nH0CSPLuWYJXa2GWzl) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX) | 5:24 |
 | 53 | [Shelter](https://open.spotify.com/track/5hiih9ZGthFog3buukf7Ss) | [Yohana](https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG) | [Shelter](https://open.spotify.com/album/1aDK3U8NLFyi5zBYLRFxUK) | 4:19 |
-| 54 | [Weni](https://open.spotify.com/track/6p6EtFi1gebyBR0gkXYEbS) | [Timnit Welday](https://open.spotify.com/artist/5zLVjV7HLXnaNAmR4ilnRm) | [Weni](https://open.spotify.com/album/7vdf2o4j9g5Yq6U1yxTJ5c) | 4:21 |
+| 54 | [Welday Weni](https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz) | [Liham Melody](https://open.spotify.com/artist/4mgP2hXsnULBqWou6ld9rQ) | [Welday Weni](https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z) | 4:25 |
 
-Snapshot ID: `MTU5NTMyNjkyMywwMDAwMDAwOTAwMDAwMTczNzBlNTAzZmQwMDAwMDE3MGM0YWY2MjY4`
+Snapshot ID: `MTU5NTMyNjkyMywwMDAwMDAwMGYyNDBlOTBiMTdiY2Y2MjlmMDJlZTUwNzU1OGNhNWM2`

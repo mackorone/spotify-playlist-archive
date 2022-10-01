@@ -8,10 +8,14 @@
   "tracks": [
     {
       "album": {
-        "name": "Horriya",
-        "url": "https://open.spotify.com/album/4B3ki4TlrteTDeDem5R7OI"
+        "name": "Buddhattitude Horrya",
+        "url": "https://open.spotify.com/album/39LpsyUElYlGzLmRQJU4k2"
       },
       "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
         {
           "name": "Buddhattitude",
           "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
@@ -20,9 +24,9 @@
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 244293,
+      "duration_ms": 244400,
       "name": "Amon Ra",
-      "url": "https://open.spotify.com/track/5G1h1so2Hh2NJMn2KfGp8j"
+      "url": "https://open.spotify.com/track/0loYWxAfmNvI0RVIwBAMDg"
     },
     {
       "album": {
@@ -37,7 +41,47 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244293,
+      "name": "Amon Ra",
+      "url": "https://open.spotify.com/track/5G1h1so2Hh2NJMn2KfGp8j"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude Horrya",
+        "url": "https://open.spotify.com/album/39LpsyUElYlGzLmRQJU4k2"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 290532,
+      "name": "Back to Marrakech",
+      "url": "https://open.spotify.com/track/3JbLisvckoTIFwjYOeND0m"
+    },
+    {
+      "album": {
+        "name": "Horriya",
+        "url": "https://open.spotify.com/album/4B3ki4TlrteTDeDem5R7OI"
+      },
+      "artists": [
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 290480,
       "name": "Back to Marrakech",
       "url": "https://open.spotify.com/track/1e2k8HCh3YVZMyM3nGfvEU"
@@ -156,6 +200,24 @@
     },
     {
       "album": {
+        "name": "Universal Sound of Buddha Bar",
+        "url": "https://open.spotify.com/album/0xOngzQjGI9flWLq1Akhk1"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233776,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4RJaUuF4ffF7i2wzrJLvyR"
+    },
+    {
+      "album": {
         "name": "Buddhattitude Best Of",
         "url": "https://open.spotify.com/album/7zW3XXUjC2FeasKd4NQGhM"
       },
@@ -167,7 +229,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225373,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3PuPUsDKtao10gqUJF5gRU"
@@ -214,6 +276,24 @@
     },
     {
       "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251333,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
+      "album": {
         "name": "The Best Of Sade",
         "url": "https://open.spotify.com/album/4tYiiSjPEguQYzSMne1HfX"
       },
@@ -225,10 +305,36 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250933,
       "name": "Kiss of Love",
       "url": "https://open.spotify.com/track/0rRLM4kWgMqoBtCHNdS0VX"
+    },
+    {
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242096,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
     },
     {
       "album": {
@@ -251,7 +357,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
@@ -287,10 +393,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220400,
       "name": "Mavinga",
       "url": "https://open.spotify.com/track/25ePJQLoXy4iTdhwYFH6Uo"
+    },
+    {
+      "album": {
+        "name": "Soul of Africa",
+        "url": "https://open.spotify.com/album/1gXlHPuQjK7K2nVuTTSoUk"
+      },
+      "artists": [
+        {
+          "name": "Lulendo",
+          "url": "https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Mavinga",
+      "url": "https://open.spotify.com/track/6gFV9RfdDkn8OoS79XcbH4"
     },
     {
       "album": {
@@ -339,7 +463,7 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
@@ -356,6 +480,28 @@
     },
     {
       "album": {
+        "name": "Buddhattitude Horrya",
+        "url": "https://open.spotify.com/album/39LpsyUElYlGzLmRQJU4k2"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275065,
+      "name": "Oriental Feeling",
+      "url": "https://open.spotify.com/track/4NMsfeOsV8zOOzeSUiu4Lx"
+    },
+    {
+      "album": {
         "name": "Horriya",
         "url": "https://open.spotify.com/album/4B3ki4TlrteTDeDem5R7OI"
       },
@@ -367,7 +513,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275000,
       "name": "Oriental Feeling",
       "url": "https://open.spotify.com/track/4IkYn8LncFHDUk2XuQbHxG"
@@ -429,7 +575,7 @@
     {
       "album": {
         "name": "Buddhattitude Alaafiya",
-        "url": "https://open.spotify.com/album/0V2Z3yJd3Ah8g9BQIIlcIG"
+        "url": "https://open.spotify.com/album/3xOkcS62gUvFJDcdJd9oeD"
       },
       "artists": [
         {
@@ -440,6 +586,24 @@
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 329065,
+      "name": "Sundown in Madagaskar",
+      "url": "https://open.spotify.com/track/39jK30ioiRz6QPTdVqPJUz"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude Alaafiya",
+        "url": "https://open.spotify.com/album/0V2Z3yJd3Ah8g9BQIIlcIG"
+      },
+      "artists": [
+        {
+          "name": "African Tribal Orchestra",
+          "url": "https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 329066,
       "name": "Sundown in Madagaskar",
       "url": "https://open.spotify.com/track/0JNtTOu0D2Jh6DuirdsDMy"
@@ -529,10 +693,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 434906,
       "name": "Tibetology",
       "url": "https://open.spotify.com/track/27B8fO1LVObBxWl0nIkLpR"
+    },
+    {
+      "album": {
+        "name": "Buddhatitude Best Of : Buddha-Bar Spa Music Collection",
+        "url": "https://open.spotify.com/album/3aTqPNpm4bOjazeBcJTpLg"
+      },
+      "artists": [
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434906,
+      "name": "Tibetology",
+      "url": "https://open.spotify.com/track/4tWEQyP7inHCgr5fjCQEg6"
     },
     {
       "album": {
@@ -547,10 +729,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254786,
       "name": "Under the Ocean",
       "url": "https://open.spotify.com/track/0IUfTNfxRme2djKnw3jLg5"
+    },
+    {
+      "album": {
+        "name": "Buddhatitude Best Of : Buddha-Bar Spa Music Collection",
+        "url": "https://open.spotify.com/album/3aTqPNpm4bOjazeBcJTpLg"
+      },
+      "artists": [
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254786,
+      "name": "Under the Ocean",
+      "url": "https://open.spotify.com/track/4yXuHnDBrKFpBHyJunB4zM"
     },
     {
       "album": {
@@ -565,10 +765,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 346906,
       "name": "Welcome to Africa",
       "url": "https://open.spotify.com/track/6s2a0YXofZiN66QdMLg1R5"
+    },
+    {
+      "album": {
+        "name": "African Dream Lounge - Volume 2",
+        "url": "https://open.spotify.com/album/32ylYbjhA0LV88jVRIOsyx"
+      },
+      "artists": [
+        {
+          "name": "African Tribal Orchestra",
+          "url": "https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349026,
+      "name": "Welcome To Africa",
+      "url": "https://open.spotify.com/track/2zKX7B5GyI813KejUGLIdL"
     },
     {
       "album": {

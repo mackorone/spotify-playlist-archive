@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXc3wUzQ4Nr1.md) - [plain]
 
 > Global superstar DJ <a href="spotify:artist:5ChF3i92IPZHduM7jN3dpg">Nicky Romero</a> takes us to the main stage with his uplifting mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,542 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,983 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXc3wUzQ4Nr1.md) - [plain]
 | 18 | [Be Alright \- Mixed](https://open.spotify.com/track/5MWX68GhtTVt1MKdYbhXPX) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Timmo Hendriks](https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3) | [Be Alright \(Mixed\)](https://open.spotify.com/album/60sxahxIs1KPiSxFbRYMUR) | 3:11 |
 | 19 | [Ups & Downs \- Extended Mix \- Mixed](https://open.spotify.com/track/4mTl4ecEEWbSEipNrBwQEQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Ups & Downs \- Extended Mix \(Mixed\)](https://open.spotify.com/album/7MFc8E3pzaQYhQjRAkdTnL) | 3:03 |
 
-Snapshot ID: `MTYzOTc1NDUwMywwMDAwMDAwNTAwMDAwMTdkYzhmYzE3MGQwMDAwMDE3ZGE1MWVjNDRi`
+Snapshot ID: `MTYzOTc1NDUwMywwMDAwMDAwMDkzNzUwMzg5MWEyNDUzNTA4MWNhYTRlOWNjNDAwZTYx`

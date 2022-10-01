@@ -1,15 +1,63 @@
 {
-  "description": "Napoli e il meglio della scena campana. Cover: SLF",
-  "num_followers": 133041,
+  "description": "Il meglio da Napoli e dalla scena campana. Cover: Geolier, Luch\u00e8",
+  "num_followers": 138819,
   "original_name": "Int 'o Rione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgzNjA2MCwwMDAwMDE3ODAwMDAwMTgxZmViYWJkZWMwMDAwMDE4MWQ0MjAxMjc1",
+  "snapshot_id": "MTY2NDQ4ODg2MCwwMDAwMDAwMDk0ZmExMmQ4YTYzN2QzZWYzMDMwYmZhZDk4OTcyNjI0",
   "tracks": [
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 177504,
+      "name": "Fake (con Geolier & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/0xKBCd6EttVyRv1Sdgo9PX"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Sul'A Mia (feat. Enzo Dong)",
+        "url": "https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "Enzo Dong",
+          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Sul'A Mia (feat. Enzo Dong)",
+      "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
       "album": {
         "name": "MILLIONAIRE (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/0AFuYaehOV5NKGPvmxc4t2"
@@ -41,27 +89,127 @@
       "url": "https://open.spotify.com/track/3EWOOws0Ssrzo3vVFKn5M2"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Che Stai Dicenn (feat. Paky)",
-        "url": "https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY"
+        "name": "La Notte di San Lorenzo",
+        "url": "https://open.spotify.com/album/2GdSyJJhZiVTauVviRoycI"
       },
       "artists": [
         {
           "name": "Luch\u00e8",
           "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
         }
       ],
-      "duration_ms": 187680,
-      "name": "Che Stai Dicenn (feat. Paky)",
-      "url": "https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm"
+      "duration_ms": 188888,
+      "name": "La Notte di San Lorenzo",
+      "url": "https://open.spotify.com/track/79Fh7hxRa2QDiLN3VMrFjL"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "SOMEBODY",
+        "url": "https://open.spotify.com/album/08H4mUl6AWTV51W1bRkPmp"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "SOMEBODY",
+      "url": "https://open.spotify.com/track/1z4ijeGJocaJ7Uw0LC8VHw"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "P Secondigliano (2020 Remaster)",
+        "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "P Secondigliano - 2020 Remaster",
+      "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "999",
+        "url": "https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz"
+      },
+      "artists": [
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "LIBERATO",
+        "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
+      },
+      "artists": [
+        {
+          "name": "LIBERATO",
+          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
+        }
+      ],
+      "duration_ms": 241995,
+      "name": "TU T'E SCURDAT' 'E ME",
+      "url": "https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Montana",
+        "url": "https://open.spotify.com/album/0wfHDwNuPkzAdbcbSK8p8U"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "duration_ms": 172394,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/3TNxFSgZDfY5ZkVRDtYlw2"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Scale (con Luch\u00e8)",
+      "url": "https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
       "album": {
         "name": "Cuore",
         "url": "https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY"
@@ -85,31 +233,103 @@
       "url": "https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Sul'A Mia (feat. Enzo Dong)",
-        "url": "https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn"
+        "name": "VIENI",
+        "url": "https://open.spotify.com/album/0sgWDwkBePNAxRQsYniAiY"
       },
       "artists": [
         {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        },
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        },
-        {
-          "name": "Enzo Dong",
-          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Sul'A Mia (feat. Enzo Dong)",
-      "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
+      "duration_ms": 141000,
+      "name": "VIENI",
+      "url": "https://open.spotify.com/track/6ga53DHuFADei7Y0onoWUd"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "WE THE SQUAD Vol. 1",
+        "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
+      },
+      "artists": [
+        {
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "CADILLAC (feat. MV Killa, Geolier, Tony Effe)",
+      "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Che Stai Dicenn (feat. Paky)",
+        "url": "https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "Che Stai Dicenn (feat. Paky)",
+      "url": "https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/2jAiCu51wRIF6CcQqgTpkK"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn"
+        }
+      ],
+      "duration_ms": 177669,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/4lgfhjnm922y6kGBAqKhaU"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "AMMOR MIJ",
+        "url": "https://open.spotify.com/album/0QZ00E9iR0fIunn67EqPos"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        }
+      ],
+      "duration_ms": 185819,
+      "name": "O' CIEL PARL",
+      "url": "https://open.spotify.com/track/7I0YF083HMLrLVhEo3zp8B"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
       "album": {
         "name": "LIBERATO II",
         "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
@@ -125,10 +345,70 @@
       "url": "https://open.spotify.com/track/60NC3OqjiISKBYbscb8vW3"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "WE THE SQUAD Vol. 1",
-        "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 165721,
+      "name": "Password",
+      "url": "https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "SUL IJ E TE",
+        "url": "https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS"
+      },
+      "artists": [
+        {
+          "name": "VTR",
+          "url": "https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1"
+        },
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        }
+      ],
+      "duration_ms": 136721,
+      "name": "SUL IJ E TE",
+      "url": "https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "anice",
+          "url": "https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad"
+        }
+      ],
+      "duration_ms": 183532,
+      "name": "Dedication (con Geolier & anice)",
+      "url": "https://open.spotify.com/track/24xrkSLeA7Y6Ypb4ZSXwJ2"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "WE THE SQUAD Vol. 1 (SUMMER EDITION)",
+        "url": "https://open.spotify.com/album/0Nq6NPJOm3pNG20k5ZY3yk"
       },
       "artists": [
         {
@@ -152,48 +432,68 @@
           "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
         }
       ],
-      "duration_ms": 174883,
-      "name": "BEST FRIENDS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
-      "url": "https://open.spotify.com/track/2s8Y2ksyWf6xsh2O6CLZzF"
+      "duration_ms": 211200,
+      "name": "MALA (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
+      "url": "https://open.spotify.com/track/0nJNtKjTDOr3uZeRH9ue8W"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "999",
-        "url": "https://open.spotify.com/album/22oy1c4fMawK7VbulvH89W"
+        "name": "AMBIZIONE",
+        "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
       },
       "artists": [
         {
-          "name": "Nt\u00f2",
-          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         }
       ],
-      "duration_ms": 204521,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0tHNfx3jrnG65IiGj9PP4L"
+      "duration_ms": 163749,
+      "name": "Jump (feat. Lazza)",
+      "url": "https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Salvatore",
-        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc"
       },
       "artists": [
         {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         },
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 189720,
-      "name": "Comandamento (feat. Geolier)",
-      "url": "https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh"
+      "duration_ms": 210493,
+      "name": "Over (feat. Geolier)",
+      "url": "https://open.spotify.com/track/6URgRkWHKc7SJpC1NSVBrP"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "OMBRELLO",
+        "url": "https://open.spotify.com/album/4lsRAH0c7Bi7mFSRReZQMk"
+      },
+      "artists": [
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "duration_ms": 189620,
+      "name": "OMBRELLO",
+      "url": "https://open.spotify.com/track/7yxJ1UAV4FrpGsOiQrp1WV"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
       "album": {
         "name": "Rubrica",
         "url": "https://open.spotify.com/album/4Cd8ymdLbKpXM6vxwVpc5F"
@@ -217,99 +517,47 @@
       "url": "https://open.spotify.com/track/6n4lKgcmZ61fbAsBtliX3D"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Dove Volano Le Aquile",
-        "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
+        "name": "Cuore Rotto",
+        "url": "https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Noisys",
+          "url": "https://open.spotify.com/artist/6H5GGtS0sPeHTZjS5q70D7"
         }
       ],
-      "duration_ms": 165721,
-      "name": "Password",
-      "url": "https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr"
+      "duration_ms": 166725,
+      "name": "Cuore Rotto",
+      "url": "https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "AMBIZIONE",
-        "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
+        "name": "Baby \u00e8 tutt' normal'",
+        "url": "https://open.spotify.com/album/0xMBNHOzQCDrNiqeAJRlBI"
       },
       "artists": [
-        {
-          "name": "Lele Blade",
-          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 163749,
-      "name": "Jump (feat. Lazza)",
-      "url": "https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "Black Pulcinella",
-        "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
-      },
-      "artists": [
-        {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 192146,
-      "name": "Desaparecidos (feat. Geolier)",
-      "url": "https://open.spotify.com/track/1kcwsO1ptrEMXsHtcIGPjI"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "SUL IJ E TE",
-        "url": "https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS"
-      },
-      "artists": [
-        {
-          "name": "VTR",
-          "url": "https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1"
-        },
         {
           "name": "O'Tsunami",
           "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
-        }
-      ],
-      "duration_ms": 136721,
-      "name": "SUL IJ E TE",
-      "url": "https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "OMBRELLO",
-        "url": "https://open.spotify.com/album/4lsRAH0c7Bi7mFSRReZQMk"
-      },
-      "artists": [
+        },
         {
-          "name": "Nicola Siciliano",
-          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "LOWA",
+          "url": "https://open.spotify.com/artist/50s5PUzlEIuQz606N3hSM1"
         }
       ],
-      "duration_ms": 189620,
-      "name": "OMBRELLO",
-      "url": "https://open.spotify.com/track/7yxJ1UAV4FrpGsOiQrp1WV"
+      "duration_ms": 163000,
+      "name": "Baby \u00e8 tutt' normal'",
+      "url": "https://open.spotify.com/track/4jZ86LWK5gWKmPvFT8vjfF"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
@@ -341,407 +589,7 @@
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "Dove Volano Le Aquile",
-        "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Over (feat. Geolier)",
-      "url": "https://open.spotify.com/track/1ma63HYdwGlXmVhrQdgnTW"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "Parln e me",
-        "url": "https://open.spotify.com/album/5jDlmOcNuu9f7134Q3wg2i"
-      },
-      "artists": [
-        {
-          "name": "Lil Tony",
-          "url": "https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ"
-        },
-        {
-          "name": "Kid Lost",
-          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
-        },
-        {
-          "name": "Sam Beats Baby",
-          "url": "https://open.spotify.com/artist/1fphGmGC35v82kdBFDbmNf"
-        }
-      ],
-      "duration_ms": 155736,
-      "name": "Parln e me",
-      "url": "https://open.spotify.com/track/42K8rB0IhO0NzPTZNm7QNq"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/1BrNHEZf356zG7iflh8C8U"
-      },
-      "artists": [
-        {
-          "name": "Samurai Jay",
-          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
-        },
-        {
-          "name": "DANI",
-          "url": "https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0DHxikaj0fk6gKkOwd2sMo"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "AMMOR MIJ",
-        "url": "https://open.spotify.com/album/0QZ00E9iR0fIunn67EqPos"
-      },
-      "artists": [
-        {
-          "name": "VMonster",
-          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
-        }
-      ],
-      "duration_ms": 185819,
-      "name": "O' CIEL PARL",
-      "url": "https://open.spotify.com/track/7I0YF083HMLrLVhEo3zp8B"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "LIBERATO II",
-        "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
-      },
-      "artists": [
-        {
-          "name": "LIBERATO",
-          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
-        }
-      ],
-      "duration_ms": 207741,
-      "name": "NUNNEOVER",
-      "url": "https://open.spotify.com/track/2zS0OYlDeXF6iNLougbIFL"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/3xNjmCh8NTA9WuO8EkHo1R"
-      },
-      "artists": [
-        {
-          "name": "GELO",
-          "url": "https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn"
-        }
-      ],
-      "duration_ms": 178316,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/5yTqoZ6nhOv21jNHFfwsBV"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "NO MONEY MORE LOVE",
-        "url": "https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l"
-      },
-      "artists": [
-        {
-          "name": "J Lord",
-          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
-        },
-        {
-          "name": "Vale pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Catene (feat. Vale Pain)",
-      "url": "https://open.spotify.com/track/5Q3mrwEwMxlHmphyJn5aQz"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "Dove Volano Le Aquile",
-        "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "CoCo",
-          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
-        }
-      ],
-      "duration_ms": 227005,
-      "name": "No Love (feat. CoCo)",
-      "url": "https://open.spotify.com/track/3EtI6sLY2w2l4oCQ1JSI5m"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "AMBIZIONE",
-        "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
-      },
-      "artists": [
-        {
-          "name": "Lele Blade",
-          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
-        },
-        {
-          "name": "Vale Lambo",
-          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
-        }
-      ],
-      "duration_ms": 120483,
-      "name": "So Fresh So Clean (feat. Vale Lambo)",
-      "url": "https://open.spotify.com/track/3SJNxU9GNf8MnNRW4G6b6s"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "WE THE SQUAD Vol. 1",
-        "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
-      },
-      "artists": [
-        {
-          "name": "SLF",
-          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
-        },
-        {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
-        },
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "Lele Blade",
-          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
-        },
-        {
-          "name": "Vale Lambo",
-          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "DREAM TEAM (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
-      "url": "https://open.spotify.com/track/0KoBFeJ2R330pyRn1DuXde"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "Hablan De Mi (Italian Remix)",
-        "url": "https://open.spotify.com/album/0aQXInlM4AiI6fBMUZcaJh"
-      },
-      "artists": [
-        {
-          "name": "O'Tsunami",
-          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
-        },
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        }
-      ],
-      "duration_ms": 128315,
-      "name": "Hablan De Mi - Italian Remix",
-      "url": "https://open.spotify.com/track/0UZKdNZkW6s9b2iesaTPYD"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "LIBERATO",
-        "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
-      },
-      "artists": [
-        {
-          "name": "LIBERATO",
-          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
-        }
-      ],
-      "duration_ms": 241995,
-      "name": "TU T'E SCURDAT' 'E ME",
-      "url": "https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "Black Pulcinella",
-        "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
-      },
-      "artists": [
-        {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        },
-        {
-          "name": "Enzo Dong",
-          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
-        },
-        {
-          "name": "endly",
-          "url": "https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI"
-        }
-      ],
-      "duration_ms": 189100,
-      "name": "Revenge (feat. Enzo Dong)",
-      "url": "https://open.spotify.com/track/5juO5QlcUYCwDEm8KG7V1x"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "'O NOMME",
-        "url": "https://open.spotify.com/album/0PWAS2mH0qvRuT5Pos0Q5Q"
-      },
-      "artists": [
-        {
-          "name": "Big Effe",
-          "url": "https://open.spotify.com/artist/5w0y7r1VtKCnWjnsyM4Inm"
-        }
-      ],
-      "duration_ms": 120121,
-      "name": "'O NOMME",
-      "url": "https://open.spotify.com/track/7vTtjwKa63wPERKQ3B7mlE"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "NO MONEY MORE LOVE",
-        "url": "https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l"
-      },
-      "artists": [
-        {
-          "name": "J Lord",
-          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
-        },
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Pelle D'Oca (feat. Massimo Pericolo)",
-      "url": "https://open.spotify.com/track/3pnXrY3E0rP0cJ0KKzil0w"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "Rivoluzione",
-        "url": "https://open.spotify.com/album/2vjQGNiqEcvNyvTPAlotQ2"
-      },
-      "artists": [
-        {
-          "name": "Rocco Hunt",
-          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
-        }
-      ],
-      "duration_ms": 148875,
-      "name": "Te penso ancora",
-      "url": "https://open.spotify.com/track/1nt9UH3Bzu3wMCgE0LudzZ"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "CAGN MARCIA",
-        "url": "https://open.spotify.com/album/6UUanP6HccbSotdKp4IzZd"
-      },
-      "artists": [
-        {
-          "name": "Vettosi",
-          "url": "https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg"
-        },
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        }
-      ],
-      "duration_ms": 144631,
-      "name": "CAGN MARCIA",
-      "url": "https://open.spotify.com/track/3CLP2Ui5lPjUpYh6dpQXVK"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "DIOSA (feat. Peppe Soks) [Remix]",
-        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
-      },
-      "artists": [
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        },
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        }
-      ],
-      "duration_ms": 143641,
-      "name": "DIOSA (feat. Peppe Soks) - Remix",
-      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "WE THE SQUAD Vol. 1",
-        "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
-      },
-      "artists": [
-        {
-          "name": "SLF",
-          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
-        },
-        {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "CADILLAC (feat. MV Killa, Geolier, Tony Effe)",
-      "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "Cuore Rotto",
-        "url": "https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY"
-      },
-      "artists": [
-        {
-          "name": "Noisys",
-          "url": "https://open.spotify.com/artist/6H5GGtS0sPeHTZjS5q70D7"
-        }
-      ],
-      "duration_ms": 166725,
-      "name": "Cuore Rotto",
-      "url": "https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
         "name": "OBE",
         "url": "https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj"
@@ -761,59 +609,39 @@
       "url": "https://open.spotify.com/track/6sCcJIxOPP7GIKFGzDnYDu"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Black Pulcinella",
-        "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
+        "name": "LIBERATO II",
+        "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
       },
       "artists": [
         {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        },
+          "name": "LIBERATO",
+          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
+        }
+      ],
+      "duration_ms": 207741,
+      "name": "NUNNEOVER",
+      "url": "https://open.spotify.com/track/2zS0OYlDeXF6iNLougbIFL"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Rivoluzione",
+        "url": "https://open.spotify.com/album/4Im07AiNZRmx2o0jGgEsal"
+      },
+      "artists": [
         {
           "name": "Rocco Hunt",
           "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
         }
       ],
-      "duration_ms": 204735,
-      "name": "Emirates (feat. Rocco Hunt)",
-      "url": "https://open.spotify.com/track/0qDJ4qOa1xisB7oMmJhD2n"
+      "duration_ms": 148875,
+      "name": "Te penso ancora",
+      "url": "https://open.spotify.com/track/34ki4KNkR0lZmCDOASSLpx"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "Doje Vote",
-        "url": "https://open.spotify.com/album/2cgmzVomHZo5fH1A1O2WIW"
-      },
-      "artists": [
-        {
-          "name": "Nt\u00f2",
-          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
-        }
-      ],
-      "duration_ms": 171233,
-      "name": "Doje Vote",
-      "url": "https://open.spotify.com/track/6PupByuUnrfNgW1XowhNe7"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "UEUE",
-        "url": "https://open.spotify.com/album/2XCdtqGGbxzFq6OVg5jVK9"
-      },
-      "artists": [
-        {
-          "name": "Capozanarky",
-          "url": "https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "UEUE",
-      "url": "https://open.spotify.com/track/5Vq17WvWaqM8B6dj0qGFkB"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
         "name": "Topless",
         "url": "https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X"
@@ -837,99 +665,27 @@
       "url": "https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "GAS",
-        "url": "https://open.spotify.com/album/7ciK8kJ0K7fExA4VtiXLYQ"
+        "name": "Hablan De Mi (Italian Remix)",
+        "url": "https://open.spotify.com/album/0aQXInlM4AiI6fBMUZcaJh"
       },
       "artists": [
         {
-          "name": "Hosawa",
-          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
         },
         {
-          "name": "emvnuel",
-          "url": "https://open.spotify.com/artist/6rGb0Db2lSQVMVWuSwzQBj"
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
         }
       ],
-      "duration_ms": 145257,
-      "name": "GAS",
-      "url": "https://open.spotify.com/track/6351T1EhGpm7IAnsmXplnn"
+      "duration_ms": 128315,
+      "name": "Hablan De Mi - Italian Remix",
+      "url": "https://open.spotify.com/track/0UZKdNZkW6s9b2iesaTPYD"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU"
-      },
-      "artists": [
-        {
-          "name": "Nicola Siciliano",
-          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
-        }
-      ],
-      "duration_ms": 188469,
-      "name": "RUN",
-      "url": "https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "RFTS 3: Transalp (Freestyle)",
-        "url": "https://open.spotify.com/album/421OGAOihQdZuiXiVoCVV5"
-      },
-      "artists": [
-        {
-          "name": "Vale Lambo",
-          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
-        }
-      ],
-      "duration_ms": 128274,
-      "name": "RFTS 3: Transalp (Freestyle)",
-      "url": "https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "LIBERATO",
-        "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
-      },
-      "artists": [
-        {
-          "name": "LIBERATO",
-          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
-        }
-      ],
-      "duration_ms": 306260,
-      "name": "ME STAJE APPENNENN' AM\u00d2",
-      "url": "https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
-      "album": {
-        "name": "MIRANAPOLI !",
-        "url": "https://open.spotify.com/album/7Lpk370d7OaHa0L3SluvvS"
-      },
-      "artists": [
-        {
-          "name": "Voga",
-          "url": "https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i"
-        },
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
-        }
-      ],
-      "duration_ms": 220372,
-      "name": "MIRANAPOLI !",
-      "url": "https://open.spotify.com/track/0uguXoThv1UhkGHHZAsNcq"
-    },
-    {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
         "name": "Aggio Perzo 'o Suonno (feat. Coez, prod. TY1)",
         "url": "https://open.spotify.com/album/23GqccME4E9ej9vaBVzKSY"
@@ -953,7 +709,99 @@
       "url": "https://open.spotify.com/track/2rfVX4zjVnfUOr1k3txKNG"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "PNT #1 - Punti di vista",
+        "url": "https://open.spotify.com/album/12jRhgG3sfQQtIgjVYfSaB"
+      },
+      "artists": [
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        },
+        {
+          "name": "LilTony",
+          "url": "https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh"
+        },
+        {
+          "name": "808s",
+          "url": "https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys"
+        }
+      ],
+      "duration_ms": 143714,
+      "name": "PNT #1 - Punti di vista",
+      "url": "https://open.spotify.com/track/3396cbLW7mZiwppmUBGVSR"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Mi Regalo Mas Bonito (con Peppe Soks & O'Tsunami) [Remix]",
+        "url": "https://open.spotify.com/album/2aKR0fJ0eCxMGstVCRnpNh"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "ARMS",
+          "url": "https://open.spotify.com/artist/3IXlXWmJSpytr7musHXIzI"
+        }
+      ],
+      "duration_ms": 141869,
+      "name": "Mi Regalo Mas Bonito (con Peppe Soks & O'Tsunami) - Remix",
+      "url": "https://open.spotify.com/track/1YbkSzTkIpQ743BrmdT1wH"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "MIRANAPOLI !",
+        "url": "https://open.spotify.com/album/7Lpk370d7OaHa0L3SluvvS"
+      },
+      "artists": [
+        {
+          "name": "Voga",
+          "url": "https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        }
+      ],
+      "duration_ms": 220372,
+      "name": "MIRANAPOLI !",
+      "url": "https://open.spotify.com/track/0uguXoThv1UhkGHHZAsNcq"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU"
+      },
+      "artists": [
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "duration_ms": 188469,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
       "album": {
         "name": "Potere",
         "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
@@ -969,7 +817,7 @@
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
         "name": "TU",
         "url": "https://open.spotify.com/album/2rxzfBscfDgh4Uzl6vifIr"
@@ -989,7 +837,23 @@
       "url": "https://open.spotify.com/track/3UqlUOFqUvP79SS5tj2LSg"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "TUTT E SBAGL",
+        "url": "https://open.spotify.com/album/2DkCCRODSWiDkQxXS9Hyx7"
+      },
+      "artists": [
+        {
+          "name": "Armouann",
+          "url": "https://open.spotify.com/artist/4CKFSinEpu2Pap0R3aw5q6"
+        }
+      ],
+      "duration_ms": 161212,
+      "name": "TUTT E SBAGL",
+      "url": "https://open.spotify.com/track/0buNokncaTlwjJR0LPOnG4"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
       "album": {
         "name": "Ammor Malat",
         "url": "https://open.spotify.com/album/0pLAW1kmhZ5qiaYLy7e7Fe"
@@ -1009,20 +873,148 @@
       "url": "https://open.spotify.com/track/10B0i3T2S9gyKWGgA80zd4"
     },
     {
-      "added_at": "2022-07-14 22:01:00",
+      "added_at": "2022-09-29 22:01:00",
       "album": {
-        "name": "Penzier",
-        "url": "https://open.spotify.com/album/4o6BO1Zqqk9lnSXLBPk3bG"
+        "name": "LIBERATO",
+        "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
       },
       "artists": [
         {
-          "name": "Priore",
-          "url": "https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro"
+          "name": "LIBERATO",
+          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
         }
       ],
-      "duration_ms": 164651,
-      "name": "Penzier",
-      "url": "https://open.spotify.com/track/4CFL4pIRkUkO8hkUQsP6xz"
+      "duration_ms": 306260,
+      "name": "ME STAJE APPENNENN' AM\u00d2",
+      "url": "https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "NO MONEY MORE LOVE",
+        "url": "https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l"
+      },
+      "artists": [
+        {
+          "name": "J Lord",
+          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Pelle D'Oca (feat. Massimo Pericolo)",
+      "url": "https://open.spotify.com/track/3pnXrY3E0rP0cJ0KKzil0w"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/69WeTXYxLFMrOKrCgYqTlR"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        }
+      ],
+      "duration_ms": 186988,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Chiamm'm",
+        "url": "https://open.spotify.com/album/416Zpbe6xnUU2mZn8HRyek"
+      },
+      "artists": [
+        {
+          "name": "Southboy",
+          "url": "https://open.spotify.com/artist/5d4A9NzErxmra8zPzo2ckE"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        }
+      ],
+      "duration_ms": 130826,
+      "name": "Chiamm'm",
+      "url": "https://open.spotify.com/track/6kf8m42FQ1YB4KZOXdsnCo"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/7a33VKOjd8l4uSyci8lsEl"
+      },
+      "artists": [
+        {
+          "name": "Moderup",
+          "url": "https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ"
+        }
+      ],
+      "duration_ms": 137475,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/6h3Ygm8pThn9j2UYNfNuq6"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Doje Vote",
+        "url": "https://open.spotify.com/album/2cgmzVomHZo5fH1A1O2WIW"
+      },
+      "artists": [
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
+        }
+      ],
+      "duration_ms": 171233,
+      "name": "Doje Vote",
+      "url": "https://open.spotify.com/track/6PupByuUnrfNgW1XowhNe7"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Black Pulcinella",
+        "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
+      },
+      "artists": [
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        },
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "duration_ms": 204735,
+      "name": "Emirates (feat. Rocco Hunt)",
+      "url": "https://open.spotify.com/track/0qDJ4qOa1xisB7oMmJhD2n"
+    },
+    {
+      "added_at": "2022-09-29 22:01:00",
+      "album": {
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/4rLBnUhWRXUg8s1OOsWxNw"
+      },
+      "artists": [
+        {
+          "name": "Guerra",
+          "url": "https://open.spotify.com/artist/4kEZMl8mZ5WX2fAQq6feTC"
+        }
+      ],
+      "duration_ms": 174875,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/63WzPPR8lS0ibJeZvngg9A"
     }
   ],
   "unique_name": "Int 'o Rione",

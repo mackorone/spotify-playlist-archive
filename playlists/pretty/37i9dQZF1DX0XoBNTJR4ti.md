@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XoBNTJR4ti.md) - [plain]
 
 > A collection of family\-friendly stories in five minutes or less.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,753 likes - 35 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,104 likes - 35 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Grandpa Pig's Greenhouse](https://open.spotify.com/track/5dtUmR3YwpQ8OK4pKri9Zg) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Grandpa Pig's Greenhouse](https://open.spotify.com/album/0INJJ0vLQXZpUclqlbSUgB) | 4:52 |
 | 2 | [Fox In Socks \- Fast Version](https://open.spotify.com/track/5ofJLCVuxIwH0dCUDbMBvD) | [Dr\. Seuss](https://open.spotify.com/artist/4mi47OiK1uIz0TygMvYgW2) | [Dr\. Seuss Presents Fox In Sox, Horton Hatches the Egg & Other Stories](https://open.spotify.com/album/60hEQENR7JBkF1G69v0AkT) | 3:43 |
-| 3 | [Humpty Dumpty](https://open.spotify.com/track/50EoKRgVWV8U4pQ04EK4hO) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Kids Storytime with Pancake Manor](https://open.spotify.com/album/01vsNBdsUB3dvH8Coqltrm) | 3:56 |
+| 3 | [Humpty Dumpty](https://open.spotify.com/track/1YBWnB0xyRVMFwqtd7shN3) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Kids Storytime with Pancake Manor](https://open.spotify.com/album/2jmaIV7Hxl2K7hayGzGRLx) | 3:56 |
 | 4 | [Aladdin And His Wonderful Lamp](https://open.spotify.com/track/3m4MxkeYXuRxUMldItsi4S) | [Fairy Tales](https://open.spotify.com/artist/1NyKett1dn0nNoZMNTTShB) | [Bedtime Stories](https://open.spotify.com/album/05XRi68zVYcNjLOkDC7FSl) | 3:35 |
 | 5 | [The Tortoise and the Hare](https://open.spotify.com/track/73yeCECLym0lytowUjWvn7) | [The Ultimate Storyteller](https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5) | [Ultimate Kids Stories Vol\. 2](https://open.spotify.com/album/3ySFiawXRQ9lOTptuQI4gQ) | 1:13 |
 | 6 | [The Market](https://open.spotify.com/track/4G2Qswzk6xldWWX5sGQXId) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [The Market](https://open.spotify.com/album/3B8mE99K2j8RAlYXZw4fMg) | 4:51 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XoBNTJR4ti.md) - [plain]
 | 12 | [Talent Day](https://open.spotify.com/track/2LLlH12XHOZjv9gFA9ibax) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Talent Day](https://open.spotify.com/album/0lJqL5GWW0JF9ptafbhBKC) | 4:40 |
 | 13 | [Sleeping Beauty](https://open.spotify.com/track/7aqZyEaametOI8ZKTYGhql) | [The Ultimate Storyteller](https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5) | [Ultimate Kids Fairy Tales Vol\. 2](https://open.spotify.com/album/2WEOAXPbDiAhGp6eBg7Bem) | 2:51 |
 | 14 | [Eat Your Vegetables! \- Story](https://open.spotify.com/track/4DD2o7YxJUTgN2oikRdhL2) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Story Time with Little Baby Bum, Vol\. 1](https://open.spotify.com/album/3e7dcDIRVZFdXHrFR6psl9) | 3:14 |
-| 15 | [Goldilocks](https://open.spotify.com/track/4w6TCD2TZnAKjlvZiXmnII) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Kids Storytime with Pancake Manor](https://open.spotify.com/album/01vsNBdsUB3dvH8Coqltrm) | 4:06 |
+| 15 | [Goldilocks](https://open.spotify.com/track/2wmO0cO96FvkiqhS3mpewh) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Kids Storytime with Pancake Manor](https://open.spotify.com/album/2jmaIV7Hxl2K7hayGzGRLx) | 4:06 |
 | 16 | [Champion Daddy Pig](https://open.spotify.com/track/5iMgLwRqO1EpALBabpQmvp) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Champion Daddy Pig](https://open.spotify.com/album/4drhK7QL3MvfBRd2WRuvIL) | 4:40 |
 | 17 | [Rapunzel](https://open.spotify.com/track/0rOgThYi39qOzEiWL8lCHD) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [157 Kids Best Songs And Stories](https://open.spotify.com/album/36giPQAFtuqJjEhLEWHD0e) | 4:46 |
 | 18 | [Mandy Mouse](https://open.spotify.com/track/3plR4Br6f2QpxnPaQokXzH) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Mandy Mouse](https://open.spotify.com/album/5WYoSMuqhb4P5IhLoxQN9Z) | 4:45 |
@@ -42,6 +42,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XoBNTJR4ti.md) - [plain]
 | 32 | [The Tale of Two Bad Mice by Beatrix Potter](https://open.spotify.com/track/43yWk7ICZ39NDXa6XD89Jy) | [Nicki White](https://open.spotify.com/artist/4VDyrc6J8Q3hyDX8QFu0BN) | [Bedtime Music and Stories](https://open.spotify.com/album/2J98ZqbfftUsN4bHkABOz4) | 5:04 |
 | 33 | [Princess and the Pea](https://open.spotify.com/track/17ALnKIuxnxeiqzLYQScJw) | [Grover](https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn) | [Sesame Street: The Sesame Street Fairy Tale Album](https://open.spotify.com/album/0hqmmMhV62n51CaXNYO7sS) | 5:00 |
 | 34 | [The Gingerbread Man \(Story\)](https://open.spotify.com/track/4y6kx6DmTICA1ejeGrXmWn) | [Kidzone](https://open.spotify.com/artist/6i1qu6ITcSL2Ss6qr7Nzkn) | [Children's Songs & Stories, Vol\. 3](https://open.spotify.com/album/3wO7waw9AjjdmbeRtbPrSB) | 4:11 |
-| 35 | [The Paper Bag Princess](https://open.spotify.com/track/4Wf8T4ploXSXPDnrXjIMoY) | [Robert Munsch](https://open.spotify.com/artist/2Dzn2ANNU5Ft9r3htzo6ZN) | [Love You Forever: The Best Of Robert Munsch](https://open.spotify.com/album/1mQk59N5wkGNsNMiYgI3G9) | 4:15 |
+| 35 | [The Paper Bag Princess](https://open.spotify.com/track/6jV89Vk3lDlpEdSsxSkuT7) | [Robert Munsch](https://open.spotify.com/artist/2Dzn2ANNU5Ft9r3htzo6ZN) | [Love You Forever: The Best Of Robert Munsch](https://open.spotify.com/album/4ognI8DTCx12FeCi09K2ei) | 4:15 |
 
-Snapshot ID: `MTYzODU2MzIxNCwwMDAwMDAwOTAwMDAwMTdkODFmYTczZGEwMDAwMDE3OGY1OGJmMzQ0`
+Snapshot ID: `MTYzODU2MzIxNCwwMDAwMDAwMDExNjM0MTk0MWFlM2UyZGQxZmRlNmQ3MDMwMWYyMDIx`

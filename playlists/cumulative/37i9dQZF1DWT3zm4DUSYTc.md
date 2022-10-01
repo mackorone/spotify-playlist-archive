@@ -4,7 +4,7 @@
 
 > Peaceful tracks for the whole family.
 
-195 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/70JlTcW90vM4eY1bmvDf6c)
+199 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/70JlTcW90vM4eY1bmvDf6c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Calm Dreams](https://open.spotify.com/track/6nlpDEKjy3VecZrhmaCV27) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Serenities](https://open.spotify.com/album/0wtat5gtD4pBOzLTJVBEIg) | 3:50 | 2021-12-17 |  |
 | [Catharsis](https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb) | [Zzeta](https://open.spotify.com/artist/2App8sL5EXUqCRCqYYiZIr) | [Catharsis](https://open.spotify.com/album/2BsvG13W1rHgl5sawsazjf) | 2:46 | 2021-12-17 |  |
 | [Celestial](https://open.spotify.com/track/4alwurSGuv4U63w9549o1s) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Diamond Dust](https://open.spotify.com/album/1vqX5sa60aQWxIwEAOjgUg) | 3:16 | 2021-12-17 |  |
-| [Coast](https://open.spotify.com/track/5qvo43hXyTAY1YN0pWtPil) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Coast](https://open.spotify.com/album/3CUZFecDhE3yQ1gy5mo6Wn) | 6:13 | 2021-12-17 |  |
+| [Coast](https://open.spotify.com/track/1aCoMulG9sc93W4kn9i1yf) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Sunset](https://open.spotify.com/album/6OdEUJfbi8EzUJ3i5HZ3bZ) | 6:13 | 2021-12-17 |  |
+| [Coast](https://open.spotify.com/track/5qvo43hXyTAY1YN0pWtPil) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Coast](https://open.spotify.com/album/3CUZFecDhE3yQ1gy5mo6Wn) | 6:13 | 2021-12-17 | 2022-07-29 |
 | [Colors](https://open.spotify.com/track/1DuxD8wBMdWvovBVcYkWwN) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Resilience](https://open.spotify.com/album/0yJC30cj8WL90J2Din78qZ) | 4:04 | 2021-12-17 |  |
 | [Compassion](https://open.spotify.com/track/6nnm67RIWF9sSl0mGY3PHM) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [Compassion](https://open.spotify.com/album/1IfpD8bKAkrP3nSuvzz0uV) | 2:35 | 2021-12-17 |  |
 | [Connection](https://open.spotify.com/track/5BDIKKycvDRRpJGG76cg0n) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Connection](https://open.spotify.com/album/4IFgc3WJUTL09xNye07t89) | 2:24 | 2021-12-17 |  |
@@ -79,7 +80,8 @@
 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2021-12-17 |  |
 | [Green Leaves](https://open.spotify.com/track/6BVWlugjV9uuDGA0SvD0R5) | [Sounds of Love](https://open.spotify.com/artist/02yy9jEW0aHrT2MIb2IN0h) | [Rest](https://open.spotify.com/album/7gijYHP7M2rWUjC8N8m5Rq) | 3:21 | 2021-12-17 |  |
 | [Hanami](https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:05 | 2021-12-17 |  |
-| [Hibernation](https://open.spotify.com/track/1mYTROYR85RaiaVEtQztis) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5yEAkgLUufqQRCqwAbsS1R) | 3:36 | 2021-12-17 |  |
+| [Hibernation](https://open.spotify.com/track/1mYTROYR85RaiaVEtQztis) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5yEAkgLUufqQRCqwAbsS1R) | 3:36 | 2021-12-17 | 2022-07-29 |
+| [Hibernation](https://open.spotify.com/track/7AcNOiZhA5jRxCp5c3wOyz) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5dVDeiMsoSUGb0KJhXnpmi) | 3:36 | 2021-12-17 |  |
 | [Huitussi](https://open.spotify.com/track/5gDjNqBVupjXg9FpgVQ68c) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Huitussi](https://open.spotify.com/album/64u7zy3JliXzjqK9T3H4Zd) | 2:57 | 2021-12-17 |  |
 | [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 3:10 | 2021-12-17 |  |
 | [Hypnosis](https://open.spotify.com/track/6xhwbnVSG3DeLM6oZau2Mr) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [The Minimalist](https://open.spotify.com/album/2XtO4MwzBtukUmgMEWZ33M) | 3:12 | 2021-12-17 |  |
@@ -114,7 +116,8 @@
 | [Moment of Clarity](https://open.spotify.com/track/1h7XRTgZYY0TYDjYDnLfju) | [Light Bin](https://open.spotify.com/artist/1Zwtu3gCjyYVvEZZXbzucG) | [Moment of Clarity](https://open.spotify.com/album/2jdTmcYye9EjeUiSNScJZC) | 2:21 | 2021-12-17 |  |
 | [Moments](https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Moments](https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs) | 3:24 | 2021-12-17 |  |
 | [Morze Bałtyckie](https://open.spotify.com/track/1cpOnZ05SwPJ2uy2vIAqy4) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Morze Bałtyckie](https://open.spotify.com/album/0BBQJZf1gXSob0ie1QzSr8) | 3:01 | 2021-12-17 |  |
-| [Moving Silence](https://open.spotify.com/track/08Mk6wrJu3giNbV2oy6Vv8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/2Ia4VJbjtQYzwdLa2yD8nW) | 2:05 | 2021-12-17 |  |
+| [Moving Silence](https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx) | 2:04 | 2021-12-17 |  |
+| [Moving Silence](https://open.spotify.com/track/08Mk6wrJu3giNbV2oy6Vv8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/2Ia4VJbjtQYzwdLa2yD8nW) | 2:05 | 2021-12-17 | 2022-07-29 |
 | [My Horizon](https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [One Sense](https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT) | 3:05 | 2021-12-17 |  |
 | [Neda](https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Neda](https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw) | 2:35 | 2021-12-17 |  |
 | [Nefelibata](https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Nefelibata](https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn) | 3:00 | 2021-12-17 |  |
@@ -172,7 +175,8 @@
 | [Stories](https://open.spotify.com/track/0ETgVH10Y5yiljMWO5kNtV) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Stories](https://open.spotify.com/album/6rxRh7wYIckgED89wMQwE5) | 2:52 | 2021-12-17 |  |
 | [Stratus](https://open.spotify.com/track/72FRs65Zmikn6KvZG3kolE) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Cotton](https://open.spotify.com/album/2jd08QhDM85KldC8tjagjI) | 4:07 | 2021-12-17 |  |
 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 | 2021-12-17 |  |
-| [Suffer Well](https://open.spotify.com/track/7sja76lX8ntiFjv7iDxX5d) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:32 | 2021-12-17 |  |
+| [Suffer Well](https://open.spotify.com/track/31inlxQZ2PUHNM78dssqkF) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:32 | 2021-12-17 |  |
+| [Suffer Well](https://open.spotify.com/track/7sja76lX8ntiFjv7iDxX5d) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:32 | 2021-12-17 | 2022-07-29 |
 | [Suilven](https://open.spotify.com/track/3mNYWG8IAA5pCcPzuZ3jnU) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [Suilven](https://open.spotify.com/album/1NNcF0tflr5jmYMRO1EoTE) | 3:58 | 2021-12-17 |  |
 | [Sunset](https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0) | [Vera Martin](https://open.spotify.com/artist/0niimfX9PMavXj1AWDcAjs) | [Sunset](https://open.spotify.com/album/2dPiwfhNgVCS1AHPcNkRsd) | 3:21 | 2021-12-17 |  |
 | [Supernova](https://open.spotify.com/track/5KBswDWzbvbe6o0cyQA788) | [Adrian Coly](https://open.spotify.com/artist/2XnemPdUKzthyhXV9k8rpF) | [Supernova](https://open.spotify.com/album/0sXoCL4yCSEwhfCBym7xnS) | 2:20 | 2021-12-17 |  |

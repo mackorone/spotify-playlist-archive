@@ -4,7 +4,7 @@
 
 > Worship songs for the whole family.
 
-57 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/2uH4DsnGfE4NtZg4sRySa3)
+59 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/2uH4DsnGfE4NtZg4sRySa3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\(Don't You Know\) It's Time To Praise The Lord](https://open.spotify.com/track/3jdRHx3dv2Rg4Ywdm3SGvj) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 0:59 | 2022-04-12 |  |
 | [Awesome God](https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Worship For Your Family \(Yellow\)](https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA) | 3:14 | 2022-04-12 |  |
 | [Awesome God \(Your Voice\) \- Kids Version](https://open.spotify.com/track/0cmSswi24ufP4W1eqBRyoN) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Here I Am To Worship For Kids](https://open.spotify.com/album/2XZz6o7NDi2NsTpuN6qjHX) | 4:26 | 2022-04-12 |  |
-| [Be Still \(Psalm 46:10\)](https://open.spotify.com/track/0Ie6BTfYSyMcvl845hGr94) | [Seeds Family Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [When You Lie Down: Lullabies & Scripture Songs, Vol\. 10](https://open.spotify.com/album/1nmoMC8L1uRXQIlD3k5q4k) | 4:02 | 2022-04-12 |  |
+| [Be Still \(Psalm 46:10\)](https://open.spotify.com/track/0Ie6BTfYSyMcvl845hGr94) | [Seeds Lullabies](https://open.spotify.com/artist/7wcNLUZ3LAHgSP4eIIX1oM) | [When You Lie Down: Lullabies & Scripture Songs, Vol\. 10](https://open.spotify.com/album/1nmoMC8L1uRXQIlD3k5q4k) | 4:02 | 2022-04-12 |  |
 | [Blessed Be Your Name](https://open.spotify.com/track/1QctzVu5HOS1wJounaXEmb) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 25 Kids' Praise Songs 2012](https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ) | 3:40 | 2022-04-12 |  |
 | [Blessed Be Your Name](https://open.spotify.com/track/3yJIV1U93Bpgw2cRZ6VUiw) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 3:42 | 2022-04-12 |  |
 | [Books of the Bible \(New Testament\)](https://open.spotify.com/track/5fa31FMLK0fKw4JOlTW3Hc) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:14 | 2022-04-12 |  |
@@ -34,7 +34,8 @@
 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:06 | 2022-04-12 |  |
 | [I've Got Peace Like A River](https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [100 Singalong Songs For Kids](https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F) | 1:34 | 2022-04-12 |  |
 | [If You're Saved and You Know It](https://open.spotify.com/track/4fBymO23KqavJifkRrMQDE) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Toddler 1 Minute Bible Songs](https://open.spotify.com/album/6gZct2nbpNAPIHQiozAjx5) | 1:04 | 2022-04-12 |  |
-| [Jesus Loves Me](https://open.spotify.com/track/18vX3PoNMD7zeSIzjON4FL) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Hillsong Kids Ultimate](https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu) | 3:50 | 2022-04-12 |  |
+| [Jesus Loves Me](https://open.spotify.com/track/18vX3PoNMD7zeSIzjON4FL) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Hillsong Kids Ultimate](https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu) | 3:50 | 2022-04-12 | 2022-07-29 |
+| [Jesus Loves Me \- Live](https://open.spotify.com/track/4KFRVbD0sRACaDbkqTY9kB) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Supernatural \(Live\)](https://open.spotify.com/album/7BnWLTNaXiigS3PYhybwM5) | 3:49 | 2022-04-12 |  |
 | [John 3:16](https://open.spotify.com/track/4OzzLRZuqPSIr5fBxD9sfV) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Toddler 1 Minute Bible Songs](https://open.spotify.com/album/6gZct2nbpNAPIHQiozAjx5) | 1:08 | 2022-04-12 |  |
 | [King Of Me](https://open.spotify.com/track/03UpQxGiMEmoMK9cQSheaK) | [Rend Co\. Kids](https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK), [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [King Of Me](https://open.spotify.com/album/7jZ2YQQcGMOJWDRv1C55Wz) | 2:17 | 2022-04-12 |  |
 | [Let It Rise](https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 25 Kids' Praise Songs 2012](https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ) | 3:33 | 2022-04-12 |  |
@@ -57,7 +58,8 @@
 | [The Ten Commandments](https://open.spotify.com/track/3gDgLB3yCTirBi4yFa5y64) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [The Ten Commandments](https://open.spotify.com/album/2ucvPEJdeiyUbnvqecfyu6) | 3:31 | 2022-04-12 |  |
 | [The Wages and The Gift \(Romans 3:23 & 6:23\)](https://open.spotify.com/track/66FICekGoTUgxZtJjJmMaG) | [Seeds Family Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Seeds of Character \(Vol\. 6\)](https://open.spotify.com/album/6b1JxuC35XDHlwsMitTzt2) | 3:12 | 2022-04-12 |  |
 | [This Little Light of Mine](https://open.spotify.com/track/75JqUtlGJZXysWPR57rvSJ) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Pop Praise: Celebrate](https://open.spotify.com/album/6y5JEipzGCoFRLPFZZFcy7) | 2:14 | 2022-04-12 |  |
-| [Trust And Obey](https://open.spotify.com/track/2jAYGmSsoIUfmRGhF3XPSm) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Hillsong Kids Ultimate](https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu) | 4:33 | 2022-04-12 |  |
+| [Trust And Obey](https://open.spotify.com/track/2jAYGmSsoIUfmRGhF3XPSm) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Hillsong Kids Ultimate](https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu) | 4:33 | 2022-04-12 | 2022-07-29 |
+| [Trust And Obey \- Live](https://open.spotify.com/track/0Ac4TPAa7Iq7og4xjxAG23) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Follow You \(Live\)](https://open.spotify.com/album/4M3zJtG4vtJLB22AG3ZUGH) | 4:30 | 2022-04-12 |  |
 | [Whatever You Do \(Colossians 3:17,23\)](https://open.spotify.com/track/1En87DDfDeheilBsDG0V8d) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Sing the Bible, Vol\. 4](https://open.spotify.com/album/1vSzE4ClIzrmKFtKZr7Ni3) | 3:42 | 2022-04-12 |  |
 | [Wherever Whatever](https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb) | [I Count on You](https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY) | 2:30 | 2022-04-12 |  |
 | [Who Built The Ark?](https://open.spotify.com/track/0fShOGDZo8zR5IbxWzUPIZ) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 2:26 | 2022-04-12 |  |

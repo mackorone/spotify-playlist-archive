@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2JskSjr3Rl0LAv05L0hjV4.md) - [plain]
 
 > Let these singers tug on your heartstrings with their amazing vocal performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 25 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 72 likes - 25 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

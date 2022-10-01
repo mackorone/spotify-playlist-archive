@@ -4,7 +4,7 @@
 
 > Celebrating South Asian Heritage Month with Divine's favourite tracks by South Asian creators.
 
-125 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
+127 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Baller](https://open.spotify.com/track/7ecil8YftFlihyxZPe66tk) | [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Lit Happu](https://open.spotify.com/artist/0z6H0b4Jvoti5MtOvXQR5l) | [Chaand Paar](https://open.spotify.com/album/5n1hD5KEXWdbeQQY9Rl4aY) | 2:56 | 2022-04-07 | 2022-06-03 |
 | [Bandish](https://open.spotify.com/track/0LAQGavx2bOA6zx63c1oPw) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Bandish](https://open.spotify.com/album/0BKQwNIOay1F9kt9iEYsI0) | 4:52 | 2021-12-03 | 2022-07-19 |
 | [Basti Ka Hasti](https://open.spotify.com/track/3k9PtGmPNnQtt32TKWm6f3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 3:15 | 2022-02-21 | 2022-06-17 |
-| [Big Fax](https://open.spotify.com/track/1K2hdKCErRLLIhVZVHjJ7s) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Big Fax \- Single](https://open.spotify.com/album/4uVbUiZKHCaXYqpkdwsMgH) | 3:01 | 2022-07-18 |  |
+| [Big Fax](https://open.spotify.com/track/1K2hdKCErRLLIhVZVHjJ7s) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Big Fax \- Single](https://open.spotify.com/album/4uVbUiZKHCaXYqpkdwsMgH) | 3:01 | 2022-07-18 | 2022-07-29 |
+| [Big Fax](https://open.spotify.com/track/2S02LvvwUmD4I4AIdpWNFR) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Big Fax \- Single](https://open.spotify.com/album/6EQ7LfsOrORHDDcM3chntZ) | 3:01 | 2022-07-18 |  |
 | [Bindis and Bangles](https://open.spotify.com/track/4ayoGc9wRRbOUowta8OrYZ) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Bindis and Bangles](https://open.spotify.com/album/6mKpIIUMij8TpG1mQm91Si) | 3:19 | 2021-12-03 | 2022-07-19 |
 | [Bitch I'm Back](https://open.spotify.com/track/2mKvEIvd912eg3FZ8WamMS) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2021-12-03 | 2022-07-19 |
 | [Blowing Up](https://open.spotify.com/track/3Oh2FwWbnKIAyUE2gToFYu) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Blowing Up](https://open.spotify.com/album/0nzNYneCXJhO6OZQLHROri) | 4:07 | 2022-07-18 |  |
@@ -96,7 +97,8 @@
 | [Nazar](https://open.spotify.com/track/0U1CGHIqvoWbgCX5x4tKs6) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Nazar](https://open.spotify.com/album/0Dhgn3D9EJgpOvqsNMfnM6) | 5:00 | 2022-07-18 |  |
 | [Neeye Oli](https://open.spotify.com/track/5qX9iF6UmV0cypQgeu4ujh) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Made in Jaffna](https://open.spotify.com/album/4fzYyzg0c0c6pFXHOnCVjO) | 3:57 | 2022-07-18 |  |
 | [No Competition](https://open.spotify.com/track/0kCdXeYJS3wyhcvOonRmeg) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [No Competition](https://open.spotify.com/album/1GevUNaMdstuVEgnRpzhe1) | 3:25 | 2021-12-03 | 2022-07-19 |
-| [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-05-19 |  |
+| [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-07-18 |  |
+| [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-05-19 | 2022-09-04 |
 | [Notorious](https://open.spotify.com/track/0e9DDb2TnNwSv8lV1EpMuD) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/253mOxWcguZZ8DyhCl5rQ5) | 3:00 | 2021-12-03 | 2022-07-19 |
 | [On My Way](https://open.spotify.com/track/00qW70gFKPL4vetGsJ44gB) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js), [M.E.E.Z](https://open.spotify.com/artist/0EApWAg3HC8VBdCKKGxapM) | [On My Way](https://open.spotify.com/album/3swSYkClej6IgR1AWPpzbS) | 3:31 | 2022-02-24 | 2022-04-08 |
 | [Oorukaaran](https://open.spotify.com/track/72OE3wxjzKlgiqYyKxmJxo) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [ERA](https://open.spotify.com/artist/2CRQKvuqKw8euASgmEJE6p), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Oorukaaran](https://open.spotify.com/album/46Mi0QEBqykFh6kwkZ6qxs) | 2:38 | 2022-07-18 |  |

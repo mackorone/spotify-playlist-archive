@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
+  "description": "A compilation of the all-time biggest hits in Country Music. Cover: George Strait",
   "name": "Country's Greatest Hits",
   "published_playlist_ids": [
     "6DZgMLSuA1tQ7AmQ8iik18"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178600,
       "name": "A Good Hearted Woman",
       "url": "https://open.spotify.com/track/1B3wswoDyVdEbWO9lmEzSk"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174826,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/4NRFiS0pHjTFDjOm1LWTZj"
@@ -329,10 +329,28 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 219160,
       "name": "Burnin' It Down",
       "url": "https://open.spotify.com/track/5HJqpDspKDKwQpLjvkcIsD"
+    },
+    {
+      "album": {
+        "name": "Carrying Your Love With Me",
+        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232426,
+      "name": "Carrying Your Love With Me",
+      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
     },
     {
       "album": {
@@ -383,10 +401,28 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181666,
       "name": "Coal Miner's Daughter",
       "url": "https://open.spotify.com/track/1em1d8w28YNTYz5U3NNFc1"
+    },
+    {
+      "album": {
+        "name": "Coal Miner's Daughter",
+        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
     },
     {
       "album": {
@@ -473,7 +509,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 222920,
       "name": "Cry Myself To Sleep",
       "url": "https://open.spotify.com/track/1CKNO5Wge4h8ua5hLH4FGj"
@@ -653,10 +689,28 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-27",
       "duration_ms": 174666,
       "name": "Fightin Side Of Me",
       "url": "https://open.spotify.com/track/0CQuh4fFCMG2OMKkixs7iu"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits - Finest Performances",
+        "url": "https://open.spotify.com/album/15bCIHfExC17px6iAMdtCi"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "Fightin Side Of Me",
+      "url": "https://open.spotify.com/track/3gP4z9Muyf51JdDyN91upf"
     },
     {
       "album": {
@@ -689,7 +743,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 227786,
       "name": "For the Good Times",
       "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
@@ -912,6 +966,24 @@
     },
     {
       "album": {
+        "name": "Pure Country",
+        "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "I Cross My Heart - Pure Country Soundtrack Version",
+      "url": "https://open.spotify.com/track/6FHXJu99aQAUnivEjPhuUR"
+    },
+    {
+      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -945,7 +1017,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 210772,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
@@ -1017,7 +1089,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210800,
       "name": "I'll Get Over You - Remastered",
       "url": "https://open.spotify.com/track/5cc4xKRM4dHZ6aVYbGKmdc"
@@ -1035,7 +1107,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 222160,
       "name": "I've Come To Expect It From You",
       "url": "https://open.spotify.com/track/5YF3AYlj9vO5DWiFEYUzb5"
@@ -1053,7 +1125,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163733,
       "name": "If We Make It Through December",
       "url": "https://open.spotify.com/track/4sTlOOWxFx5dR7SZmi7S79"
@@ -1071,7 +1143,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133400,
       "name": "Is Anybody Goin' to San Antone",
       "url": "https://open.spotify.com/track/2hbrah0o7ppR1HeQkDvLhj"
@@ -1113,7 +1185,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153866,
-      "name": "It Wasn't God Who Made Honky Tonk Angels - Single Version",
+      "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
       "url": "https://open.spotify.com/track/1zJRHhb8yN2LyVfNhmlhH0"
     },
     {
@@ -1151,7 +1223,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 235920,
       "name": "It's Just a Matter of Time",
       "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
@@ -1299,7 +1371,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220200,
       "name": "Lesson In Leavin'",
       "url": "https://open.spotify.com/track/0xo5dRgtkZlR2zNJwSYB37"
@@ -1324,6 +1396,24 @@
     },
     {
       "album": {
+        "name": "Lost In The Fifties Tonight",
+        "url": "https://open.spotify.com/album/3s9Hu6hCMFAMbRPb93mBaG"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258346,
+      "name": "Lost In The Fifties Tonight",
+      "url": "https://open.spotify.com/track/1p7hfw8melMsCbaaX36C0v"
+    },
+    {
+      "album": {
         "name": "The Essential Ronnie Milsap",
         "url": "https://open.spotify.com/album/16GtIUhmqYMj82brhEkmyB"
       },
@@ -1335,7 +1425,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257293,
       "name": "Lost in the Fifties Tonight (In the Still of the Night)",
       "url": "https://open.spotify.com/track/7bYICZH0hucp3PofTniuEL"
@@ -1513,7 +1603,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-07-28",
       "duration_ms": 161786,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/5Rl7ck3xLYBNDef6QgAIA4"
@@ -1621,7 +1711,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212706,
       "name": "Party Time",
       "url": "https://open.spotify.com/track/6hlvRaZM1U279W3rVkQ9qY"
@@ -1801,10 +1891,28 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 243706,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/6DEaND0SHv3sC11xobZLiy"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/0xxE726J8JTLgjqwvYVOTb"
+      },
+      "artists": [
+        {
+          "name": "Red Sovine",
+          "url": "https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299746,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/50hbhWWZ5b36hC6x7dh4bP"
     },
     {
       "album": {
@@ -1819,7 +1927,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 299933,
       "name": "Teddy Bear",
       "url": "https://open.spotify.com/track/7wGVwtR6rmGxoU0j261yKj"
@@ -1837,7 +1945,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 196746,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
@@ -1855,7 +1963,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 201493,
       "name": "That's What I Love About Sunday",
       "url": "https://open.spotify.com/track/1fmi1hOBtH8xfUiWz4LVtE"
@@ -1945,7 +2053,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-07-28",
       "duration_ms": 141773,
       "name": "There Won't Be Anymore",
       "url": "https://open.spotify.com/track/3RRKZ8a8SCtiPZ5qdK2Hos"
@@ -1963,7 +2071,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 202786,
       "name": "Thinkin' of a Rendezvous - Single Version",
       "url": "https://open.spotify.com/track/4bZkWUNAkyQuB5WS7XdGMj"
@@ -1985,7 +2093,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 220906,
       "name": "This Is How We Roll",
       "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
@@ -2075,7 +2183,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
@@ -2093,7 +2201,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 235426,
       "name": "Watching You",
       "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
@@ -2201,7 +2309,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167840,
       "name": "XXX's And OOO's (An American Girl)",
       "url": "https://open.spotify.com/track/7b05yUcjnxPDUhWNL4nE3K"

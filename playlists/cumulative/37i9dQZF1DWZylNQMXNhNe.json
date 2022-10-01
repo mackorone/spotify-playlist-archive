@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Kika Boom",
+  "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Thiago Pantale\u00e3o",
   "name": "AUGE",
   "published_playlist_ids": [
     "5WRCap7Po4seHkP0oCl5pD"
@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Apollo 11",
+        "url": "https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193640,
+      "name": "Apollo 11",
+      "url": "https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC"
+    },
+    {
+      "album": {
         "name": "111 DELUXE",
         "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
       },
@@ -55,14 +73,36 @@
         {
           "name": "POCAH",
           "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Mc Mayara",
+          "url": "https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe"
         }
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 146543,
-      "name": "Bandida",
+      "name": "Bandida (feat. Mc Mayara)",
       "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
+    },
+    {
+      "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174753,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb"
     },
     {
       "album": {
@@ -77,7 +117,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174753,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1gjKagIlUT6u2giC5NJTyF"
@@ -111,6 +151,28 @@
       "duration_ms": 149514,
       "name": "Barbie (feat. Danny Bond)",
       "url": "https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4"
+    },
+    {
+      "album": {
+        "name": "BICHO SOLTO!!!",
+        "url": "https://open.spotify.com/album/4OXl5ItBNYKMZ1uvQiVwY2"
+      },
+      "artists": [
+        {
+          "name": "Davi Sabbag",
+          "url": "https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8"
+        },
+        {
+          "name": "Pedrowl",
+          "url": "https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "BICHO SOLTO!!!",
+      "url": "https://open.spotify.com/track/2WRe2rOyy3SuKVyL7btTAB"
     },
     {
       "album": {
@@ -150,6 +212,46 @@
     },
     {
       "album": {
+        "name": "Brazindia",
+        "url": "https://open.spotify.com/album/4Lb1jAAYAPSy5hoexNgJoQ"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        },
+        {
+          "name": "Sushant Divgikar",
+          "url": "https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Brazindia",
+      "url": "https://open.spotify.com/track/1WientaXF0b6Q8mPN9dvrU"
+    },
+    {
+      "album": {
+        "name": "BRINCA COM A...",
+        "url": "https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182709,
+      "name": "BRINCA COM A...",
+      "url": "https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW"
+    },
+    {
+      "album": {
         "name": "Bumbum Check",
         "url": "https://open.spotify.com/album/6MDj1MOMSs5N34VtAyxzjy"
       },
@@ -173,6 +275,24 @@
       "duration_ms": 141187,
       "name": "Bumbum Check",
       "url": "https://open.spotify.com/track/07q51cMw9IyDfZ7Jk08S6z"
+    },
+    {
+      "album": {
+        "name": "CACHORRINHAS",
+        "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134936,
+      "name": "CACHORRINHAS",
+      "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
     },
     {
       "album": {
@@ -209,7 +329,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 101617,
       "name": "Cavalona",
       "url": "https://open.spotify.com/track/6rgyzu6AxYyx7Fa9qAxN8W"
@@ -297,6 +417,28 @@
     {
       "album": {
         "name": "Follow Me",
+        "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177564,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
+    },
+    {
+      "album": {
+        "name": "Follow Me",
         "url": "https://open.spotify.com/album/4SB9fBomwBWpM0Zqz75Y1V"
       },
       "artists": [
@@ -311,7 +453,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177564,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0b8RxOVECQKVtkkdi47Cvk"
@@ -351,6 +493,24 @@
       "duration_ms": 138694,
       "name": "Je ne sais quoi",
       "url": "https://open.spotify.com/track/789gHumetKnbAJhFMBjMWj"
+    },
+    {
+      "album": {
+        "name": "Fim do Mundo",
+        "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135001,
+      "name": "LAMBO",
+      "url": "https://open.spotify.com/track/5IVndtDa35XdYbAoDBPtLw"
     },
     {
       "album": {
@@ -431,10 +591,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 164680,
       "name": "LOKA",
       "url": "https://open.spotify.com/track/43NHBt78BqJq6Rw27pRGIo"
+    },
+    {
+      "album": {
+        "name": "I AM PABLLO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135260,
+      "name": "Lovezinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/0UHnBCzJ7EYsdkApglyqf6"
     },
     {
       "album": {
@@ -453,7 +635,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135260,
       "name": "Lovezinho - Live",
       "url": "https://open.spotify.com/track/4ieaVMtWEqO8uBimFeOwbj"
@@ -497,6 +679,24 @@
     {
       "album": {
         "name": "ALEGORIA",
+        "url": "https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145979,
+      "name": "MIL GRAU",
+      "url": "https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ"
+    },
+    {
+      "album": {
+        "name": "ALEGORIA",
         "url": "https://open.spotify.com/album/6kAhfgYBxtIQcI2AfMn2nq"
       },
       "artists": [
@@ -507,7 +707,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145979,
       "name": "MIL GRAU",
       "url": "https://open.spotify.com/track/4BkjISAYyQ6OMnEpzpQxgA"
@@ -555,7 +755,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 246506,
       "name": "Necomancia",
       "url": "https://open.spotify.com/track/7rugGx6BTUaqjTvaoEIDAb"
@@ -679,7 +879,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 149387,
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/1aZLYlrxEvqhaUoNTimiDQ"
@@ -715,7 +915,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 163725,
       "name": "Periferia",
       "url": "https://open.spotify.com/track/3tEdTu6qhlIqgqu261plPu"
@@ -795,7 +995,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 47088,
       "name": "S2",
       "url": "https://open.spotify.com/track/3rg977NzneilMptUTSIakF"
@@ -824,6 +1024,32 @@
     },
     {
       "album": {
+        "name": "Borogod\u00f3 pt.1",
+        "url": "https://open.spotify.com/album/0KOlWmzLOTtPnmM8WAA5t2"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "S\u00f3cia",
+      "url": "https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M"
+    },
+    {
+      "album": {
         "name": "TAQUEI",
         "url": "https://open.spotify.com/album/5XMPCF2nDlIVcULGoXzgJv"
       },
@@ -842,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "Fim das Tentativas",
+        "url": "https://open.spotify.com/album/6kQlwMSjHVBlS6Rr7LH40z"
+      },
+      "artists": [
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188226,
+      "name": "Tarde D+",
+      "url": "https://open.spotify.com/track/1oUEVYaAihtqWsWFJjuitL"
+    },
+    {
+      "album": {
         "name": "Epica",
         "url": "https://open.spotify.com/album/4HAsgqQ8DFhc0X9SBmTbNg"
       },
@@ -853,7 +1097,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 178739,
       "name": "Tcheca",
       "url": "https://open.spotify.com/track/7aUZM3W6RA8k47eqP985Kc"
@@ -926,6 +1170,28 @@
     },
     {
       "album": {
+        "name": "I AM PABLLO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154280,
+      "name": "Trago Seu Amor de Volta - Ao Vivo",
+      "url": "https://open.spotify.com/track/21AFVwyji9hdtWqlekS4Xx"
+    },
+    {
+      "album": {
         "name": "Trago Seu Amor de Volta (Live)",
         "url": "https://open.spotify.com/album/6Jumv2GusuTde8ydN1GQDu"
       },
@@ -941,7 +1207,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154280,
       "name": "Trago Seu Amor de Volta - Live",
       "url": "https://open.spotify.com/track/7rEOv1xp3UiE22Ewpq1SAK"
@@ -959,10 +1225,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 132983,
       "name": "Triste com T",
       "url": "https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP"
+    },
+    {
+      "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132983,
+      "name": "Triste com T",
+      "url": "https://open.spotify.com/track/34mhUL0A8oPJbg1DWe1HMK"
     },
     {
       "album": {
@@ -1021,7 +1305,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 133894,
       "name": "Vem Pra Tribo",
       "url": "https://open.spotify.com/track/1fEa0FwCrA9oLH6d4XbqPv"
@@ -1123,6 +1407,24 @@
       "duration_ms": 166555,
       "name": "YOU BETTA",
       "url": "https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT"
+    },
+    {
+      "album": {
+        "name": "Z\u00edper",
+        "url": "https://open.spotify.com/album/4ifNouvRUwabWCgJPZfE1E"
+      },
+      "artists": [
+        {
+          "name": "VILLA",
+          "url": "https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 146285,
+      "name": "Z\u00edper",
+      "url": "https://open.spotify.com/track/5O2eZhQrkzwGzxM6vVBiOZ"
     },
     {
       "album": {

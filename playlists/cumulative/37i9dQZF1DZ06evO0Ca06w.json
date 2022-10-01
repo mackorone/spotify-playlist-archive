@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-07-29",
       "duration_ms": 346800,
       "name": "African Sunset",
       "url": "https://open.spotify.com/track/5426Q6firRdP2b7VI2puMZ"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 168600,
       "name": "Cannon (Mbayi, Mbayi)",
       "url": "https://open.spotify.com/track/0RDh1WoJ0FJwkkVvHK5DS7"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 153800,
       "name": "Down on the Corner - Remastered",
       "url": "https://open.spotify.com/track/6CbmJUrKZKdZ2jlSfPFlGe"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 188573,
       "name": "For What It's Worth - Remastered",
       "url": "https://open.spotify.com/track/4pVVy9TaURIiDdj5gMcIrx"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 176453,
       "name": "Forbidden Games",
       "url": "https://open.spotify.com/track/6zOvv7Y1bNWJixUEG3YTUS"
@@ -408,6 +408,32 @@
     },
     {
       "album": {
+        "name": "Hi-A Ma (Pata Pata)",
+        "url": "https://open.spotify.com/album/5Amv5HoKf4X4dK1J9aDAYp"
+      },
+      "artists": [
+        {
+          "name": "Milk & Sugar",
+          "url": "https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171372,
+      "name": "Hi-a Ma (Pata Pata) - Milk & Sugar Video Version",
+      "url": "https://open.spotify.com/track/0B0lVj4UILHSOYKN7XhNTo"
+    },
+    {
+      "album": {
         "name": "Hi-a Ma (Pata Pata)",
         "url": "https://open.spotify.com/album/69k9WbNpGrVcoz6DNkj9Ys"
       },
@@ -427,7 +453,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 171560,
       "name": "Hi-a Ma (Pata Pata) - Radio Version",
       "url": "https://open.spotify.com/track/5Ihhlizj6aZEfT8ajxgNj5"
@@ -471,6 +497,24 @@
       "duration_ms": 118040,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/0WT7CNoRIPectt3LqFgVi2"
+    },
+    {
+      "album": {
+        "name": "Goodbye to Africa",
+        "url": "https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 119066,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/4PL3oMRQTbUIoxVbGr2hNM"
     },
     {
       "album": {
@@ -601,7 +645,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-10-01",
       "duration_ms": 147760,
       "name": "Intandane",
       "url": "https://open.spotify.com/track/2jMbbolEHHIzHlqg0ZNpiT"
@@ -637,10 +681,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 215133,
       "name": "Jeux interdits",
       "url": "https://open.spotify.com/track/57QccwMwQcTKWjqpVwloTu"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba et Bongi",
+        "url": "https://open.spotify.com/album/5YajkUlkBaW8J3nas4Mggf"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215133,
+      "name": "Jeux interdits",
+      "url": "https://open.spotify.com/track/5acbmHpQoANVHSfdD0DdF1"
     },
     {
       "album": {
@@ -655,7 +717,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 178836,
       "name": "Jol'inkomo - Mono Version",
       "url": "https://open.spotify.com/track/5FTTPWCrARiEajTfdzr4D9"
@@ -691,7 +753,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-24",
+      "date_removed": "2022-09-29",
       "duration_ms": 261537,
       "name": "Knona",
       "url": "https://open.spotify.com/track/0HRJPL72vbCbQ1cKSOxqKI"
@@ -817,10 +879,32 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": "2022-09-30",
       "duration_ms": 207066,
       "name": "Love Tastes Like Strawberries",
       "url": "https://open.spotify.com/track/69ZOZ1T8cNSrX6yKYz2ONd"
+    },
+    {
+      "album": {
+        "name": "Goodbye to Africa",
+        "url": "https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "The Manhattan Brothers",
+          "url": "https://open.spotify.com/artist/6vWVrEnSxmxEvsf3twelL3"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 171734,
+      "name": "Lovely Lies",
+      "url": "https://open.spotify.com/track/40QjcUEa7yLtGZgzBS6HdJ"
     },
     {
       "album": {
@@ -893,28 +977,10 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 192156,
       "name": "Malcolm X",
       "url": "https://open.spotify.com/track/2TPP0cnifrOvXNiEYHaTGP"
-    },
-    {
-      "album": {
-        "name": "The Guinea Years",
-        "url": "https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "date_added": "2021-12-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216266,
-      "name": "Malouyame",
-      "url": "https://open.spotify.com/track/2gVuAsynd1TbaZSDVgtGXx"
     },
     {
       "album": {
@@ -965,7 +1031,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": "2022-10-01",
       "duration_ms": 156709,
       "name": "Maria Fulo - Mono Version",
       "url": "https://open.spotify.com/track/1to6aqYV55jNN85KDELPkz"
@@ -1019,7 +1085,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 202426,
       "name": "Mbube",
       "url": "https://open.spotify.com/track/2z3Zy3WnBBbHeXTBTdvJjd"
@@ -1037,7 +1103,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-31",
       "duration_ms": 217840,
       "name": "Measure the Valleys - Remastered",
       "url": "https://open.spotify.com/track/5ucsFiqcQQTi8huqxnQ0ME"
@@ -1062,6 +1128,28 @@
     },
     {
       "album": {
+        "name": "Goodbye to Africa",
+        "url": "https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "The Skylarks",
+          "url": "https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 165209,
+      "name": "Miriam's Goodbye to Africa",
+      "url": "https://open.spotify.com/track/4mlNdCgMVZVRvywKJja2Cs"
+    },
+    {
+      "album": {
         "name": "A Promise",
         "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
       },
@@ -1080,6 +1168,24 @@
     },
     {
       "album": {
+        "name": "The Guinea Years",
+        "url": "https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "Mo\u00f4louyame",
+      "url": "https://open.spotify.com/track/2gVuAsynd1TbaZSDVgtGXx"
+    },
+    {
+      "album": {
         "name": "An Evening With Belafonte/Makeba",
         "url": "https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc"
       },
@@ -1095,7 +1201,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 195120,
       "name": "My Angel (Malaika)",
       "url": "https://open.spotify.com/track/0eP52OQtijQQzZBXDc923Z"
@@ -1207,7 +1313,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 180174,
       "name": "Pata Pata - Stereo Version",
       "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
@@ -1225,7 +1331,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-07-31",
       "duration_ms": 229533,
       "name": "Pata Pata 2000",
       "url": "https://open.spotify.com/track/3Q6teQgxvr6a2qZUvEOglf"
@@ -1247,7 +1353,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 255760,
       "name": "Pata-Pata (feat. Miriam Makeba)",
       "url": "https://open.spotify.com/track/3BcQp5aLCDx1XdHmB6pyjE"
@@ -1283,7 +1389,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-10-01",
       "duration_ms": 240600,
       "name": "Quit It",
       "url": "https://open.spotify.com/track/5M2RyoYc95uC79sFUp2EJ1"
@@ -1395,7 +1501,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-30",
       "duration_ms": 164386,
       "name": "Suliram",
       "url": "https://open.spotify.com/track/3hMPRSk1vOYvMhTcCIqXMQ"
@@ -1435,7 +1541,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-07-27",
       "duration_ms": 264613,
       "name": "Thank You Mama",
       "url": "https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw"
@@ -1453,7 +1559,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-27",
       "duration_ms": 153373,
       "name": "The Click Song",
       "url": "https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8"
@@ -1489,7 +1595,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 300573,
       "name": "The Lion Cries - Mbube",
       "url": "https://open.spotify.com/track/6YQouQ4X59d2yc0ij92JY6"
@@ -1525,10 +1631,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-09-17",
       "duration_ms": 228360,
       "name": "The Naughty Little Flea",
       "url": "https://open.spotify.com/track/3uPYm2dlE3PIvEmHjZkdrP"
+    },
+    {
+      "album": {
+        "name": "Goodbye to Africa",
+        "url": "https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 229041,
+      "name": "The Naughty Little Flea",
+      "url": "https://open.spotify.com/track/0xOsFeKE4n4qRk5GorMshu"
     },
     {
       "album": {
@@ -1543,7 +1667,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-13",
+      "date_removed": "2022-07-31",
       "duration_ms": 155280,
       "name": "The Retreat Song",
       "url": "https://open.spotify.com/track/4kIwxBe9M8RfGM8BlRg3Ka"
@@ -1677,7 +1801,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 257040,
       "name": "Welela",
       "url": "https://open.spotify.com/track/0HE2ZkTS8s2T8bDKyQncNT"
@@ -1767,7 +1891,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": "2022-08-16",
       "duration_ms": 171001,
       "name": "Yetentu Tizaleny - Mono Version",
       "url": "https://open.spotify.com/track/1EUh45Yap9LpQ7kLbCaTSw"

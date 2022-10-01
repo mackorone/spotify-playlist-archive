@@ -139,7 +139,7 @@
     {
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2VaAyaBAQAqVsodcz3iebX"
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
       },
       "artists": [
         {
@@ -152,7 +152,43 @@
       "date_removed": null,
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2VaAyaBAQAqVsodcz3iebX"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/20sa61LS3BS3dhOmedmC1A"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F"
     },
     {
       "album": {
@@ -712,6 +748,24 @@
     },
     {
       "album": {
+        "name": "Peque\u00f1a TANDA",
+        "url": "https://open.spotify.com/album/09LCtK37hO7jgJKZujJnx6"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236106,
+      "name": "Lo Calore",
+      "url": "https://open.spotify.com/track/32D2o3kZvXFO5M1KcPSNhi"
+    },
+    {
+      "album": {
         "name": "Lo Calore",
         "url": "https://open.spotify.com/album/2kbryqpDcmiro6AORkdNYC"
       },
@@ -723,7 +777,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236106,
       "name": "Lo Calore",
       "url": "https://open.spotify.com/track/4MNEidJajMDoyP8EXwnF7j"
@@ -763,10 +817,32 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208710,
       "name": "Los Fugaces",
       "url": "https://open.spotify.com/track/1pmz5PiqPyhAWbRN5sSwpg"
+    },
+    {
+      "album": {
+        "name": "Peque\u00f1a TANDA",
+        "url": "https://open.spotify.com/album/09LCtK37hO7jgJKZujJnx6"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208710,
+      "name": "Los Fugaces",
+      "url": "https://open.spotify.com/track/1xA9Z23LI0asrMZ7JwoyTK"
     },
     {
       "album": {
@@ -1154,6 +1230,24 @@
     },
     {
       "album": {
+        "name": "Singles 2019-2021",
+        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/00VFW0mnvoFYLVhrhFsk7y"
+    },
+    {
+      "album": {
         "name": "Siento",
         "url": "https://open.spotify.com/album/08dn0Fi95hgdzUJmFgzRat"
       },
@@ -1165,7 +1259,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210500,
       "name": "Siento",
       "url": "https://open.spotify.com/track/0WFqLLU1eofNctXNVjzuIX"
@@ -1360,6 +1454,28 @@
     },
     {
       "album": {
+        "name": "Lugares Imaginarios",
+        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Verde Nocturno",
+      "url": "https://open.spotify.com/track/5H94pF1K97qxrx0h7EfPrY"
+    },
+    {
+      "album": {
         "name": "Verde Nocturno",
         "url": "https://open.spotify.com/album/7zFM5PeNi4RbgiVcuDjxO0"
       },
@@ -1375,7 +1491,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194000,
       "name": "Verde Nocturno",
       "url": "https://open.spotify.com/track/5jf5mhtgQ3uaLE8wv3Xg0K"

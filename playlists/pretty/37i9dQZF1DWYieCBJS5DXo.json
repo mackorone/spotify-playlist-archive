@@ -1,12 +1,12 @@
 {
   "description": "Serving up your favorite songs about snacks!",
-  "num_followers": 783,
+  "num_followers": 1002,
   "original_name": "Snack Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDU3NjQ2MywwMDAwMDAwYjAwMDAwMTdjOTQ1OTc1NTEwMDAwMDE3NmUzYzQyY2Vk",
+  "snapshot_id": "MTYzNDU3NjQ2MywwMDAwMDAwMGE4OWVmOTk2MDUyZjYxNGRiNzE4NTdhYThlYWI5MmY3",
   "tracks": [
     {
       "added_at": "2021-01-08 21:58:43",
@@ -27,8 +27,8 @@
     {
       "added_at": "2021-01-08 21:58:43",
       "album": {
-        "name": "Pineapple",
-        "url": "https://open.spotify.com/album/4itSGSv8rIQLUjvv9CC5kd"
+        "name": "Snakes Alive (It's Fleabite 5)",
+        "url": "https://open.spotify.com/album/4sOTyPW3UH85SwPM8jzk2w"
       },
       "artists": [
         {
@@ -40,9 +40,9 @@
           "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
         }
       ],
-      "duration_ms": 161133,
+      "duration_ms": 162248,
       "name": "Pineapple",
-      "url": "https://open.spotify.com/track/4Iiq7AOeBXdRcjbrjUpIWb"
+      "url": "https://open.spotify.com/track/391UWftWHqUopTUSkBm8zS"
     },
     {
       "added_at": "2021-01-08 21:58:43",
@@ -320,7 +320,7 @@
       "added_at": "2021-01-08 21:58:43",
       "album": {
         "name": "Action Packed",
-        "url": "https://open.spotify.com/album/0X4VrPqOCHipLq95zbcJG0"
+        "url": "https://open.spotify.com/album/4jHqXFTP4MNYDlLDF8hvup"
       },
       "artists": [
         {
@@ -330,7 +330,7 @@
       ],
       "duration_ms": 108120,
       "name": "Snappy Snacks",
-      "url": "https://open.spotify.com/track/3gOr8uAaAQXesKnbA0jjDl"
+      "url": "https://open.spotify.com/track/0Mh5zappoVaOF7vVG0yRq6"
     },
     {
       "added_at": "2021-01-08 21:58:43",
@@ -484,7 +484,7 @@
       "added_at": "2021-01-08 21:58:43",
       "album": {
         "name": "Little Steps Big Adventures",
-        "url": "https://open.spotify.com/album/0xiG2oOtHBERV0uaAEmXWx"
+        "url": "https://open.spotify.com/album/40hZGwdhnrfNcfE6HqWjte"
       },
       "artists": [
         {
@@ -494,7 +494,7 @@
       ],
       "duration_ms": 115576,
       "name": "Banana Smoothie",
-      "url": "https://open.spotify.com/track/5LlVAYaSDv0WXFr5OKgZQD"
+      "url": "https://open.spotify.com/track/1Al2jgJACkcRYqJ4hgtegt"
     },
     {
       "added_at": "2021-01-08 21:58:43",

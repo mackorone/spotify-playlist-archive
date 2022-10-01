@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTThV2562fDa.md) - [plain]
 
 > Enjoy the soundtracks of the Netflix original Korean drama Squid Game\. \(전세계를 강타한 넷플릭스 오리지널 한국 드라마 오징어게임의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,241 likes - 24 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,707 likes - 24 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Flower Blooms](https://open.spotify.com/track/4gh3sdFa9cJTDPmKDBLSgq) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 3:40 |
-| 2 | [Squid Game \(Let's Play\)](https://open.spotify.com/track/3kewDExeHWRPVAUzYd1lTG) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/44PmiYzFsLXaXSzMZaRZQc) | 2:32 |
+| 2 | [Squid Game \(Let's Play\)](https://open.spotify.com/track/75pquWTQ3292AqzMsaik85) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 2:32 |
 | 3 | [Way Back Then \- Squid Game Remix](https://open.spotify.com/track/2RkXXzAPSfzmgoUtPZjV4D) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 2:45 |
 | 4 | [Squid Game \- acapella](https://open.spotify.com/track/2m8bm1uurVnU0lJwsahu7j) | [MayTree](https://open.spotify.com/artist/2UYUqsriy4DXV3VhrrprSs) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 1:40 |
 | 5 | [Way Back then](https://open.spotify.com/track/1QZlW9PmwtZtHKraGG1JdB) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:31 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTThV2562fDa.md) - [plain]
 | 23 | [Dawn](https://open.spotify.com/track/3x5kegiXk53hWQiK1jraV3) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 6:41 |
 | 24 | [Let’s Go Out Tonight](https://open.spotify.com/track/3UGvD1GlibzODZGxddpzAl) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:27 |
 
-Snapshot ID: `MTY0MzE2MTc1MCwwMDAwMDAyNzAwMDAwMTdlOTQxMjhkNzEwMDAwMDE3ZGI3NjlkMzdm`
+Snapshot ID: `MTY0MzE2MTc1MCwwMDAwMDAwMDI5ZDlmOTcyOGQ1ZDhjNzcyNmEwZjZjNjM5YmJmY2Fm`

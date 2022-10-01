@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2f4rXblveCedKdU2adFgC8.md) - [plain]
 
 > Live large, run hard\. Score your workout with some epic action movie soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696 likes - 46 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 695 likes - 46 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

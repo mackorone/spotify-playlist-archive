@@ -297,7 +297,7 @@
     {
       "album": {
         "name": "Orphan Offering",
-        "url": "https://open.spotify.com/album/0xLVuelF4HRJCKrrucxIx1"
+        "url": "https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk"
       },
       "artists": [
         {
@@ -310,7 +310,43 @@
       "date_removed": null,
       "duration_ms": 289989,
       "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/1dXlL3tfVDrcYykineKTJv"
+    },
+    {
+      "album": {
+        "name": "Orphan Offering",
+        "url": "https://open.spotify.com/album/0xLVuelF4HRJCKrrucxIx1"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289989,
+      "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/7JV6GAMwFGsVFD8ilBuAjF"
+    },
+    {
+      "album": {
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201612,
+      "name": "Future People",
+      "url": "https://open.spotify.com/track/7uuoh2lEaGcbNpbKCvzawf"
     },
     {
       "album": {
@@ -325,7 +361,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201613,
       "name": "Future People",
       "url": "https://open.spotify.com/track/4zmJhhKDBdRceqXvfhvQay"
@@ -477,10 +513,28 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194320,
       "name": "Mind on Fire",
       "url": "https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C"
+    },
+    {
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194320,
+      "name": "Mind on Fire",
+      "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
     },
     {
       "album": {
@@ -623,10 +677,28 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238560,
       "name": "River",
       "url": "https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c"
+    },
+    {
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "album": {
@@ -666,6 +738,24 @@
     },
     {
       "album": {
+        "name": "Blackbirds",
+        "url": "https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254093,
+      "name": "Strange Fruit",
+      "url": "https://open.spotify.com/track/1iklCTpvEXh6NUiwBaAouo"
+    },
+    {
+      "album": {
         "name": "Strange Fruit",
         "url": "https://open.spotify.com/album/03eO08yzfWAMWFtiNZtI6Z"
       },
@@ -677,7 +767,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254093,
       "name": "Strange Fruit",
       "url": "https://open.spotify.com/track/52l6GPIMJWIZhW2a2JRpDX"
@@ -721,7 +811,7 @@
     {
       "album": {
         "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW"
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
       "artists": [
         {
@@ -732,6 +822,24 @@
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 133184,
+      "name": "The Devil's Tongue",
+      "url": "https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx"
+    },
+    {
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 133184,
       "name": "The Devil's Tongue",
       "url": "https://open.spotify.com/track/3yhRyEojpXrExN24ypYPET"
@@ -749,10 +857,28 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 338226,
       "name": "The Healing - Live",
       "url": "https://open.spotify.com/track/6dw30khcpmcf4Uw4KZqETY"
+    },
+    {
+      "album": {
+        "name": "Live North America 2016",
+        "url": "https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338226,
+      "name": "The Healing - Live",
+      "url": "https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg"
     },
     {
       "album": {
@@ -803,10 +929,28 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 416560,
       "name": "Things Have Changed",
       "url": "https://open.spotify.com/track/08aZMbV00fxoxzosGLr3cq"
+    },
+    {
+      "album": {
+        "name": "Things Have Changed",
+        "url": "https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416560,
+      "name": "Things Have Changed",
+      "url": "https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r"
     },
     {
       "album": {
@@ -839,10 +983,46 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159440,
       "name": "To The River",
       "url": "https://open.spotify.com/track/6IilBPSQRNOljG6S2i7Sxd"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/7uSbBFPjRdHap3xlxiroxS"
+      },
+      "artists": [
+        {
+          "name": "ALA.NI",
+          "url": "https://open.spotify.com/artist/3BCNtA8XR8vzu0uTMdMJrF"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159440,
+      "name": "To the River",
+      "url": "https://open.spotify.com/track/6RObl56H8PxTiLAn16VCdK"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/40lgy95tfZX8pXHOsQdQkZ"
+      },
+      "artists": [
+        {
+          "name": "ALA.NI",
+          "url": "https://open.spotify.com/artist/3BCNtA8XR8vzu0uTMdMJrF"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 160440,
+      "name": "To the River",
+      "url": "https://open.spotify.com/track/3ughINQrsoRqW1V7VSfF3p"
     },
     {
       "album": {
@@ -905,10 +1085,28 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260826,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/28nqpiowjT5oo14H1n6cD7"
+    },
+    {
+      "album": {
+        "name": "Silhouette of Sirens",
+        "url": "https://open.spotify.com/album/4bNh7neA8Y3AvF0XT6Gjyb"
+      },
+      "artists": [
+        {
+          "name": "Chastity Brown",
+          "url": "https://open.spotify.com/artist/6vRqjrYlvurWLEwRKvTdEw"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260826,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/7EMGv3hF9J8j8mx5kxNOFt"
     },
     {
       "album": {
@@ -975,7 +1173,7 @@
     {
       "album": {
         "name": "Witness",
-        "url": "https://open.spotify.com/album/5sirXG61pe7mBq8g6IlNxG"
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
       },
       "artists": [
         {
@@ -986,6 +1184,24 @@
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177005,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/7qk0JiIuL72IDeADaj1nSY"
+    },
+    {
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/5sirXG61pe7mBq8g6IlNxG"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 177586,
       "name": "Witness",
       "url": "https://open.spotify.com/track/5EZSZuOQLCuZ050rIY4djw"
@@ -1021,10 +1237,28 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240726,
       "name": "Working Poor",
       "url": "https://open.spotify.com/track/0VkC3l2KtVSBhYMr1O5SMa"
+    },
+    {
+      "album": {
+        "name": "The Last Days of Oakland",
+        "url": "https://open.spotify.com/album/5XgUtV3205kTcgoSLNf8ix"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240726,
+      "name": "Working Poor",
+      "url": "https://open.spotify.com/track/1bUh3o9tJiX9ylkQyc1bw4"
     },
     {
       "album": {

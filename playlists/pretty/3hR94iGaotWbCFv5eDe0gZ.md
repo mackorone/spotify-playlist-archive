@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3hR94iGaotWbCFv5eDe0gZ.md) - [plain]
 
 > Shady Records top picks chosen by Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91 likes - 41 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 92 likes - 41 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

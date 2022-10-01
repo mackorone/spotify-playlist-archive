@@ -81,10 +81,32 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220540,
       "name": "Achfa",
       "url": "https://open.spotify.com/track/5SHMbXzrzJBmCY49BozjTT"
+    },
+    {
+      "album": {
+        "name": "Achfa",
+        "url": "https://open.spotify.com/album/6OOqXK1DmU094IBelKPdha"
+      },
+      "artists": [
+        {
+          "name": "Fouzi Torino",
+          "url": "https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv"
+        },
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220540,
+      "name": "Achfa",
+      "url": "https://open.spotify.com/track/5t1doPqDqgFotgdXezDeea"
     },
     {
       "album": {
@@ -103,7 +125,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 392333,
       "name": "Adieu c'est fini",
       "url": "https://open.spotify.com/track/0dKRDmt9mpBhmhWsp1dpxU"
@@ -147,6 +169,46 @@
       "duration_ms": 207975,
       "name": "Ana & Rasi",
       "url": "https://open.spotify.com/track/5lEg43432gVU8BzwIJULVO"
+    },
+    {
+      "album": {
+        "name": "Anta",
+        "url": "https://open.spotify.com/album/4vPYDw5xJNhJwqFDDJXyfY"
+      },
+      "artists": [
+        {
+          "name": "Rima Yussef",
+          "url": "https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl"
+        },
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 163404,
+      "name": "Anta",
+      "url": "https://open.spotify.com/track/3SaJambg6zRQ6MWf2pOAC9"
+    },
+    {
+      "album": {
+        "name": "Arghane Manine",
+        "url": "https://open.spotify.com/album/6x5dQHzmvNohax3P2kqLHP"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 300186,
+      "name": "Arghane Manine",
+      "url": "https://open.spotify.com/track/1WiTAUE8gMPKRTuE4zt4vc"
     },
     {
       "album": {
@@ -299,7 +361,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 240000,
       "name": "Courage",
       "url": "https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp"
@@ -477,7 +539,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 202267,
       "name": "Faillite",
       "url": "https://open.spotify.com/track/19uf48N6aaHgupOuQgJEhT"
@@ -532,6 +594,46 @@
     },
     {
       "album": {
+        "name": "GHAZALI",
+        "url": "https://open.spotify.com/album/6q4ADoh3h7OHkFJsCFcx6l"
+      },
+      "artists": [
+        {
+          "name": "MOUHAMED GRINE",
+          "url": "https://open.spotify.com/artist/5Sj8EjR3eENxsr4Tgv9OGh"
+        },
+        {
+          "name": "Mouh Milano",
+          "url": "https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "GHAZALI",
+      "url": "https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA"
+    },
+    {
+      "album": {
+        "name": "Ghouyoum",
+        "url": "https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 172861,
+      "name": "Ghouyoum",
+      "url": "https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7"
+    },
+    {
+      "album": {
         "name": "Harba II",
         "url": "https://open.spotify.com/album/5zaQM2mwAYci2aCZKLvTjq"
       },
@@ -551,6 +653,42 @@
       "duration_ms": 202057,
       "name": "Harba II",
       "url": "https://open.spotify.com/track/33xn4wz62RtdIyR1sx8BJa"
+    },
+    {
+      "album": {
+        "name": "Hinata",
+        "url": "https://open.spotify.com/album/2xE8FXQ3WU30oqhV1H7Q4p"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175304,
+      "name": "Hinata",
+      "url": "https://open.spotify.com/track/5lugweLS17EVHmhXuNZOrC"
+    },
+    {
+      "album": {
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/12cEHJk2Xga5QRVh7M8l1G"
+      },
+      "artists": [
+        {
+          "name": "Fyanso",
+          "url": "https://open.spotify.com/artist/28I9J1TfdmN27XgRPhnmQe"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 194181,
+      "name": "Juliana",
+      "url": "https://open.spotify.com/track/1nnTJkIOWw6GAdsQapQgsD"
     },
     {
       "album": {
@@ -642,6 +780,28 @@
     },
     {
       "album": {
+        "name": "LA FIN",
+        "url": "https://open.spotify.com/album/6WbcUioeZ8btnVMNbAyjtD"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        },
+        {
+          "name": "Mezyane",
+          "url": "https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186976,
+      "name": "LA FIN",
+      "url": "https://open.spotify.com/track/3tYu6F0oRwqVq1TNMYU2Qe"
+    },
+    {
+      "album": {
         "name": "Lafin",
         "url": "https://open.spotify.com/album/5nigUBL4IEyCYrpz7eLRxf"
       },
@@ -657,7 +817,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186976,
       "name": "Lafin",
       "url": "https://open.spotify.com/track/0tTiPBBmQO7MGMghD2MxLw"
@@ -719,6 +879,28 @@
     {
       "album": {
         "name": "Mali Mali",
+        "url": "https://open.spotify.com/album/3Y8J4MzMdcCLeG5x7LroyP"
+      },
+      "artists": [
+        {
+          "name": "Fouzi Torino",
+          "url": "https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv"
+        },
+        {
+          "name": "Nassi",
+          "url": "https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222752,
+      "name": "Mali Mali",
+      "url": "https://open.spotify.com/track/706oWNT12qKmhjMjnxcDkx"
+    },
+    {
+      "album": {
+        "name": "Mali Mali",
         "url": "https://open.spotify.com/album/1KGDcuZAQLkzBnxBdPpuSG"
       },
       "artists": [
@@ -733,7 +915,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224744,
       "name": "Mali Mali",
       "url": "https://open.spotify.com/track/7hwSdPkjoyg7JrjriaoFZ2"
@@ -802,6 +984,46 @@
     },
     {
       "album": {
+        "name": "Mazalna",
+        "url": "https://open.spotify.com/album/7s17EGV44M0Iqg69rvp0Gz"
+      },
+      "artists": [
+        {
+          "name": "Fouzi Torino",
+          "url": "https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv"
+        },
+        {
+          "name": "Wail TK",
+          "url": "https://open.spotify.com/artist/5D78FFjYhggANtY0i28S8a"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202638,
+      "name": "Mazalna",
+      "url": "https://open.spotify.com/track/4QPdk05lc3sm8yDgKuIKI3"
+    },
+    {
+      "album": {
+        "name": "Mazalni",
+        "url": "https://open.spotify.com/album/2be1DLBmI7MFfY4Gm92i77"
+      },
+      "artists": [
+        {
+          "name": "Djalil Palermo",
+          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260209,
+      "name": "Mazalni",
+      "url": "https://open.spotify.com/track/4Mi1B4Sc3u5zkLaEB7PETp"
+    },
+    {
+      "album": {
         "name": "Mazalni Kima Bakri",
         "url": "https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg"
       },
@@ -842,6 +1064,28 @@
     },
     {
       "album": {
+        "name": "Cheb Khaled",
+        "url": "https://open.spotify.com/album/07qAVChyoX0i1O5L5dv7GJ"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        },
+        {
+          "name": "Sidney Samson",
+          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 242000,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/7xE1TaILTJl91YvQdVB54i"
+    },
+    {
+      "album": {
         "name": "Nad El Borkan",
         "url": "https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU"
       },
@@ -871,7 +1115,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 206314,
       "name": "Nar El Hob",
       "url": "https://open.spotify.com/track/5nL8YdzlpRDrX5ge6YYC2b"
@@ -997,8 +1241,8 @@
           "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
         },
         {
-          "name": "Nadir Ben",
-          "url": "https://open.spotify.com/artist/1hWMrdBS24eKrWxyg85Zb2"
+          "name": "Nadirben",
+          "url": "https://open.spotify.com/artist/6zqHGUcxVpqdd2aP3513d3"
         },
         {
           "name": "Lakero",
@@ -1011,6 +1255,24 @@
       "duration_ms": 175200,
       "name": "Oran Marseille",
       "url": "https://open.spotify.com/track/0Ye58r1DvVAIR2JMpNEu8B"
+    },
+    {
+      "album": {
+        "name": "Oublie-moi",
+        "url": "https://open.spotify.com/album/4hS1lDUpq5UXLapDgD9MFY"
+      },
+      "artists": [
+        {
+          "name": "Emkal",
+          "url": "https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181289,
+      "name": "Oublie-moi",
+      "url": "https://open.spotify.com/track/19EZ9PFgJM0xh2Ruld9z2F"
     },
     {
       "album": {
@@ -1047,7 +1309,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 190099,
       "name": "Prblms",
       "url": "https://open.spotify.com/track/4Nm7SrYl6iaJ2wP1qLging"
@@ -1192,6 +1454,28 @@
     },
     {
       "album": {
+        "name": "Trigue Lycee (Remix)",
+        "url": "https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185192,
+      "name": "Trigue Lycee - Remix",
+      "url": "https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG"
+    },
+    {
+      "album": {
         "name": "Wahran",
         "url": "https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl"
       },
@@ -1207,6 +1491,24 @@
       "duration_ms": 231114,
       "name": "Wahran",
       "url": "https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc"
+    },
+    {
+      "album": {
+        "name": "Wahrani",
+        "url": "https://open.spotify.com/album/3OTzJwXAHgnBasbmvb2Zep"
+      },
+      "artists": [
+        {
+          "name": "Anas",
+          "url": "https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163227,
+      "name": "Wahrani",
+      "url": "https://open.spotify.com/track/5gTsNTIQ17LSYHvkqXHwwO"
     },
     {
       "album": {
@@ -1257,10 +1559,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224427,
       "name": "YA SAMRA",
       "url": "https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3"
+    },
+    {
+      "album": {
+        "name": "Ya Samra Hobek welali jamra",
+        "url": "https://open.spotify.com/album/2vtIO9E8hCsEOhOoty8OHL"
+      },
+      "artists": [
+        {
+          "name": "Yacine Tigre",
+          "url": "https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224104,
+      "name": "Ya Samra Hobek welali jamra",
+      "url": "https://open.spotify.com/track/442IWFKIrGrHTVjIrfc3YR"
     },
     {
       "album": {
@@ -1351,7 +1671,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 239903,
       "name": "Zo3ama",
       "url": "https://open.spotify.com/track/4nkTyblMWmFkGuNWGUUlED"

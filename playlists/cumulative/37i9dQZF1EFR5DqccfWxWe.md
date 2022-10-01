@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-150 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/2TdbwmoFce85jK5SsbDqkQ)
+152 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/2TdbwmoFce85jK5SsbDqkQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Amor Enemigo](https://open.spotify.com/track/09ShSF60AV1k3q4cuK9W4f) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 3:23 | 2022-06-04 |  |
 | [Aquí Estoy Yo](https://open.spotify.com/track/7KOVMFhDDBPUqRwmfVOCgn) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:55 | 2022-06-04 |  |
 | [Back In The City](https://open.spotify.com/track/7iKLFfnQULROZ7XRxG6ive) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [\#ELDISCO](https://open.spotify.com/album/3RSownGSkhJPRmzLddzsUd) | 3:21 | 2022-06-04 |  |
+| [Baila Baila](https://open.spotify.com/track/1ZYzJ6gpIaTY7SGlXXg3dS) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 3:13 | 2022-08-04 |  |
 | [Bailar Contigo](https://open.spotify.com/track/1VeJWYnGSbHVhQyhSVq4ge) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Jen](https://open.spotify.com/album/5MFFnpG6N8RIIdC5GSQ5w4) | 4:28 | 2022-06-04 |  |
 | [Bandida](https://open.spotify.com/track/4GengTJ0IhkOctS5g3NOvN) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:05 | 2022-06-04 |  |
 | [Beautiful That Way \- La vita è bella](https://open.spotify.com/track/6pld6uZGfUFBvCRZnAZRJl) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Grande amore \(Japan Version\)](https://open.spotify.com/album/3hvvfvxZwOT7zyAjz0dn3P) | 3:43 | 2022-06-04 |  |
@@ -66,6 +67,7 @@
 | [Encanto Del Caribe \- Live From San Cristobal Castle, Puerto Rico/2011](https://open.spotify.com/track/2x2rUw7tAYyLxBuU8oBCHD) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Encanto Del Caribe Arthur Hanlon & Friends \(Live From San Cristobal Castle, Puerto Rico/2011\)](https://open.spotify.com/album/6N4p9bLZ6AB0Kilc9jZLHk) | 3:54 | 2022-06-04 |  |
 | [Encontrei](https://open.spotify.com/track/0IsDPloVKxEerfg2agbXdE) | [Marina Elali](https://open.spotify.com/artist/77Wl6L20WG41VO6pqpHrkL) | [Novelas](https://open.spotify.com/album/1W9H44bGFEzck4PlrmKq9q) | 4:13 | 2022-06-04 |  |
 | [Es Natural](https://open.spotify.com/track/6oh2qSjZeP7TPWp2Ehh5MM) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:55 | 2022-06-04 |  |
+| [Este Fuego \- De La Telenovela "Fuego Ardiente"](https://open.spotify.com/track/761N0nQAx5t2td96kc3T51) | [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Este Fuego \(De La Telenovela "Fuego Ardiente"\)](https://open.spotify.com/album/7IW4bOn7VYTxOsiUop7RbZ) | 2:55 | 2022-08-04 |  |
 | [Eternal Love](https://open.spotify.com/track/4GUQAABjI1c4XbRXo8wFL5) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 5:03 | 2022-06-04 |  |
 | [Expectations](https://open.spotify.com/track/09BuyKc8fA1eK8MMhxKiUV) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 3:08 | 2022-06-04 |  |
 | [Fantasize \(feat\. Cecile\) \- Vocal Club Mix](https://open.spotify.com/track/1b7mHh72iJHnRtKuth5anA) | [Rob Mello](https://open.spotify.com/artist/2Cf5htut80RUyUxD6QXtFX), [Cecile](https://open.spotify.com/artist/66RCMcPCPiqbG1N3UfokUQ) | [Fantasize \(feat\. Cecile\)](https://open.spotify.com/album/14fkh0mWVPaPCsvL61EuXu) | 7:45 | 2022-06-04 |  |
@@ -136,7 +138,7 @@
 | [Soy Lo Que Soy](https://open.spotify.com/track/24w6O9gs7felE9pcmOjf3g) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU) | [Soy Lo Que Soy](https://open.spotify.com/album/7orMhgDujvSpM5DPbI2RVT) | 3:06 | 2022-06-04 |  |
 | [Stay](https://open.spotify.com/track/1jgBn5AgZuUx1RjUaUSmr4) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Passion Like Fire](https://open.spotify.com/album/3XgBuJztzOQIdaT41cnC0Y) | 3:33 | 2022-06-04 |  |
 | [Stay Down](https://open.spotify.com/track/5UgJuYz8s1LcZDNmKWMCuj) | [seglartone](https://open.spotify.com/artist/3msHBLh5Ywqug7WNIZdVdI), [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [Locals Only Sound](https://open.spotify.com/artist/0FiWU7d449v3BcyuBhIOEh) | [Stay Down](https://open.spotify.com/album/5HKceUlfPrLY4si2DtdijC) | 3:21 | 2022-06-04 |  |
-| [Sueñalo](https://open.spotify.com/track/4K14C25LGafAgxuOb6tsV2) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:39 | 2022-06-04 |  |
+| [Sueñalo](https://open.spotify.com/track/4K14C25LGafAgxuOb6tsV2) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:39 | 2022-06-04 | 2022-07-28 |
 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 | 2022-06-04 |  |
 | [Tanto Tanto](https://open.spotify.com/track/6crP0sQtEHyFFKHP2MsqJm) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:08 | 2022-06-04 |  |
 | [Taxi Man](https://open.spotify.com/track/4KuQ7E0uIKWqVCOtI2zxmU) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/5EkUotvrlGXnq8rdkT1Pju) | 4:12 | 2022-06-04 |  |

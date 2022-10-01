@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Finest collection of Tamil Music from the past 5 years\nCover : Vikram",
+  "description": "Finest collection of Tamil Music from the past 5 years\nCover : Vendhu Thanindhathu Kaadu",
   "name": "Kollywood Cream",
   "published_playlist_ids": [
     "69GF5UsinX4QRifDXRVvJk"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 267203,
       "name": "Bujji (From \"Jagame Thandhiram\")",
       "url": "https://open.spotify.com/track/6rJhjykEkCqm3H64uALhhf"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 195709,
       "name": "Don'u Don'u Don'u - The Don's Romance",
       "url": "https://open.spotify.com/track/2kbxGCtWSV0f1ON720Bd4O"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 333600,
       "name": "Ennamo Yeadho",
       "url": "https://open.spotify.com/track/25SOVnk2agskqzqeKPcx2Q"
@@ -553,10 +553,32 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240169,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/6OcZhL1AbSmtC0OtlT8zmq"
+    },
+    {
+      "album": {
+        "name": "High On Love (From \"Pyaar Prema Kaadhal\" Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qfJM2g8OTCB9CGzwKb6kT"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240169,
+      "name": "High On Love",
+      "url": "https://open.spotify.com/track/6kekHWEQ4SyMe5EjYAlveP"
     },
     {
       "album": {
@@ -637,7 +659,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 218915,
       "name": "Jigidi Killaadi (From \"Pattas\")",
       "url": "https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B"
@@ -659,10 +681,58 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 208064,
       "name": "Jolly O Gymkhana (From \"Beast\")",
       "url": "https://open.spotify.com/track/6lpbzOMBOYHRsp6WEMvRvn"
+    },
+    {
+      "album": {
+        "name": "Kaadhal En Kaviye (From \"Salmon 3D\")",
+        "url": "https://open.spotify.com/album/2Ys8XveN5alui1GxnO9JDK"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311558,
+      "name": "Kaadhal En Kaviye - From \"Salmon 3D\"",
+      "url": "https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ"
+    },
+    {
+      "album": {
+        "name": "Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Silambarasan TR",
+          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Kaalathukkum Nee Venum",
+      "url": "https://open.spotify.com/track/0aQLKZl2mXdJHpxDteJdNo"
     },
     {
       "album": {
@@ -820,6 +890,72 @@
     },
     {
       "album": {
+        "name": "Sita Ramam (Tamil) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/61k6yRsDzYJwMQWsaZV2Q9"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 232513,
+      "name": "Kannukkulle",
+      "url": "https://open.spotify.com/track/2neYlVaQCfZfhbMPSmJjp1"
+    },
+    {
+      "album": {
+        "name": "Sita Ramam (Tamil) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/61k6yRsDzYJwMQWsaZV2Q9"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218808,
+      "name": "Kurumugil",
+      "url": "https://open.spotify.com/track/1xtlT8C62HToUvB0xmwvyi"
+    },
+    {
+      "album": {
+        "name": "Life of Pazham (From \"Thiruchitrambalam\")",
+        "url": "https://open.spotify.com/album/5jZCyxy9WjBt4EjVaX6akb"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234514,
+      "name": "Life of Pazham (From \"Thiruchitrambalam\")",
+      "url": "https://open.spotify.com/track/6A6mDExVoAEJmc5JyVSQeK"
+    },
+    {
+      "album": {
         "name": "Vikram (Original Background Score)",
         "url": "https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx"
       },
@@ -835,6 +971,28 @@
       "duration_ms": 156330,
       "name": "Lokiverse - Background Score",
       "url": "https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf"
+    },
+    {
+      "album": {
+        "name": "Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Madhushree",
+          "url": "https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245365,
+      "name": "Mallipoo",
+      "url": "https://open.spotify.com/track/3i7qScF9Oyp31O9bAutJez"
     },
     {
       "album": {
@@ -857,10 +1015,32 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 260698,
       "name": "Mangalyam",
       "url": "https://open.spotify.com/track/7n5Jcqw85WSfJHrMXsk5N2"
+    },
+    {
+      "album": {
+        "name": "Marakkuma Nenjam (From \"Vendhu Thanindhathu Kaadu\")",
+        "url": "https://open.spotify.com/album/27abynwxVqQdw5HxC54tHJ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Thamarai",
+          "url": "https://open.spotify.com/artist/6z3KmBBSYseegqLrRZXZxe"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258319,
+      "name": "Marakkuma Nenjam - From \"Vendhu Thanindhathu Kaadu\"",
+      "url": "https://open.spotify.com/track/4Jr0O3zgoKEk71sIlABkLp"
     },
     {
       "album": {
@@ -901,10 +1081,54 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 92250,
       "name": "Master the Blaster (From \"Master\")",
       "url": "https://open.spotify.com/track/2cVJDlu9jmkPUeuJxA6v8i"
+    },
+    {
+      "album": {
+        "name": "Mayakkama Kalakkama (From \"Thiruchitrambalam\")",
+        "url": "https://open.spotify.com/album/30uPDcAcvwpfMV36F2BE2X"
+      },
+      "artists": [
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142258,
+      "name": "Mayakkama Kalakkama (From \"Thiruchitrambalam\")",
+      "url": "https://open.spotify.com/track/2kOH2QZB7F7I1iVXqwKuBF"
+    },
+    {
+      "album": {
+        "name": "Megham Karukatha (From \"Thiruchitrambalam\")",
+        "url": "https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y"
+      },
+      "artists": [
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290400,
+      "name": "Megham Karukatha (From \"Thiruchitrambalam\")",
+      "url": "https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi"
     },
     {
       "album": {
@@ -1059,7 +1283,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 214495,
       "name": "Naattu Koothu (From \"Rrr\")",
       "url": "https://open.spotify.com/track/61LeFCT6Nnkv55AiSgZCre"
@@ -1169,7 +1393,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 223271,
       "name": "Oo Solriya Oo Oo Solriya",
       "url": "https://open.spotify.com/track/28fPIWqAfqoEEGSb0rA4LZ"
@@ -1271,6 +1495,32 @@
       "duration_ms": 202857,
       "name": "Po Urave",
       "url": "https://open.spotify.com/track/0QcpmVsHY4b4aI8fn0QJo5"
+    },
+    {
+      "album": {
+        "name": "Ponni Nadhi (From \"Ponniyin Selvan Part -1\") [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6uoefjrPMaieH3pKqBYDeM"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "A. R. Reihana",
+          "url": "https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh"
+        },
+        {
+          "name": "Bamba Bakya",
+          "url": "https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290526,
+      "name": "Ponni Nadhi (From \"Ponniyin Selvan Part -1\") - Tamil",
+      "url": "https://open.spotify.com/track/1uJ2czshFLqimctgvsxfv2"
     },
     {
       "album": {
@@ -1395,7 +1645,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 224016,
       "name": "Saami Saami",
       "url": "https://open.spotify.com/track/397k2vS0xPDxKKVXV46KtV"
@@ -1461,7 +1711,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 106495,
       "name": "Sandhanam Theme - Background Score",
       "url": "https://open.spotify.com/track/525NKU3UFgZQtCXWBWE0al"
@@ -1575,7 +1825,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 226584,
       "name": "Summa Surrunu (From \"Etharkkum Thunindhavan\")",
       "url": "https://open.spotify.com/track/0sjg2rWD3IcQK07HOBw5Dq"
@@ -1597,7 +1847,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 212727,
       "name": "Takkunu Takkunu - From \"Mr. Local\"",
       "url": "https://open.spotify.com/track/4FL8i7miD18FuMN08XGKcM"
@@ -1641,7 +1891,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 228214,
       "name": "Thaarame Thaarame",
       "url": "https://open.spotify.com/track/1hhLL2eWsnPtYCdDjbiRIU"
@@ -1667,7 +1917,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 268055,
       "name": "Thalli Pogathey",
       "url": "https://open.spotify.com/track/6wBXSf1chpnyXGOSvANs0a"
@@ -1689,6 +1939,28 @@
       "duration_ms": 262539,
       "name": "Thangamey",
       "url": "https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r"
+    },
+    {
+      "album": {
+        "name": "Thenmozhi (From \"Thiruchitrambalam\")",
+        "url": "https://open.spotify.com/album/209RZfNZtgSqyavgunoMvr"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173225,
+      "name": "Thenmozhi (From \"Thiruchitrambalam\")",
+      "url": "https://open.spotify.com/track/1Nr46gjiP50uPsz30gYhAd"
     },
     {
       "album": {
@@ -1729,7 +2001,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 283929,
       "name": "Thumbi Thullal",
       "url": "https://open.spotify.com/track/7tvDj0JY0HBSikV4mR7VE9"
@@ -1851,7 +2123,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 313333,
       "name": "Uyir Urugudhey",
       "url": "https://open.spotify.com/track/66rGA1vJn4xCuNCyPFeLoz"
@@ -1869,7 +2141,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-23",
       "duration_ms": 246725,
       "name": "Vaadi Pulla Vaadi - From \"Meesaya Murukku\"",
       "url": "https://open.spotify.com/track/5gBa7yfdEUKrpJbhAygKRs"
@@ -1913,7 +2185,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 209500,
       "name": "Vaathi Raid",
       "url": "https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB"
@@ -2049,7 +2321,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-25",
       "duration_ms": 198250,
       "name": "Yaen Ennai Pirindhaai - Male",
       "url": "https://open.spotify.com/track/2GYzXSeNa3Y0BfIfS1VJj3"

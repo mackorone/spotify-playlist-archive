@@ -898,6 +898,24 @@
     },
     {
       "album": {
+        "name": "Soft Rock For Kids",
+        "url": "https://open.spotify.com/album/3TdyAkbn8phqy6xoCx6tXu"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331600,
+      "name": "Taking You Home",
+      "url": "https://open.spotify.com/track/2Ro4mKGAO5zgfwZmThAWhj"
+    },
+    {
+      "album": {
         "name": "Inside Job",
         "url": "https://open.spotify.com/album/6joEVcRAygVpcDBWh7extk"
       },
@@ -909,7 +927,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 331666,
       "name": "Taking You Home",
       "url": "https://open.spotify.com/track/114ZIcx0S3gJkZmT3wmGte"

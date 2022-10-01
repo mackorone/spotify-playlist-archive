@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 
 > Lo\-Fi, Beats, for Study and Focus\. Relax...
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,801 likes - 102 songs - 4 hr 8 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,808 likes - 102 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 | 67 | [Tao](https://open.spotify.com/track/7waqmvXl5m9TFtDwugLDXR) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Tao](https://open.spotify.com/album/5vRtaMXCXj99iyABRzqWIe) | 1:55 |
 | 68 | [Lately](https://open.spotify.com/track/7kL6qZLyNX7KLdQ7L0IaV3) | [Dan Smiff](https://open.spotify.com/artist/4795rPkYTu5gQCv5bl3i02) | [Lately](https://open.spotify.com/album/7rR51LywqmbeaPTApnIKN5) | 2:39 |
 | 69 | [Brothers](https://open.spotify.com/track/2s7E7JiZ71SP7ibKn4vk6M) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN), [Hideout Earth](https://open.spotify.com/artist/08gMDF8W2RdCiP8QlSywbw) | [Brothers](https://open.spotify.com/album/0Ktpw3wOf7mn5OG8COOEr7) | 2:10 |
-| 70 | [Lo Vas A Olvidar \(Lofi Version\)](https://open.spotify.com/track/66fe50KmWTDtv1f77LvRrf) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [LatinoFi](https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo) | [Lo Vas A Olvidar \(Lofi Version\)](https://open.spotify.com/album/3YSvxk5IFIp9RDGiexU0Ow) | 2:00 |
+| 70 | [Lo Vas A Olvidar \(Lofi Version\)](https://open.spotify.com/track/66fe50KmWTDtv1f77LvRrf) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [LatinoFi](https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo), [lofi.remixes](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [Lo Vas A Olvidar \(Lofi Version\)](https://open.spotify.com/album/3YSvxk5IFIp9RDGiexU0Ow) | 2:00 |
 | 71 | [feels like flying](https://open.spotify.com/track/2o30g8Q6jQGn9CqINWbdh4) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [feels like flying](https://open.spotify.com/album/0Wf8uXVb4g2QXuXNKsmjjJ) | 2:25 |
 | 72 | [Rukha](https://open.spotify.com/track/04BWj45gyWRfU997vnklqd) | [Grabbeltonn](https://open.spotify.com/artist/5MBxUkmVbZj0Yq9grVNAc9) | [Rukha](https://open.spotify.com/album/4nhp1eTaJD7pwhJha7DmNk) | 2:33 |
 | 73 | [winter in rio](https://open.spotify.com/track/2FKsGoYghIBDdxsXXBIfJg) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/7brRaqvhSGMhAV5cCRb3LQ) | 1:40 |

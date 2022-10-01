@@ -548,6 +548,28 @@
     },
     {
       "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2021-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462560,
+      "name": "I'm Fallin (feat. RY X)",
+      "url": "https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY"
+    },
+    {
+      "album": {
         "name": "I'm Fallin'",
         "url": "https://open.spotify.com/album/4W6NBbRRnv1Fj2l02L5twL"
       },
@@ -563,7 +585,7 @@
       ],
       "date_added": "2021-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 462560,
       "name": "I'm Fallin'",
       "url": "https://open.spotify.com/track/4MDkxQH2Dzwt4p4KOI4Cuk"
@@ -649,7 +671,7 @@
     {
       "album": {
         "name": "Far Away From Home",
-        "url": "https://open.spotify.com/album/4YYZbwLZKs2K3DXZZU9iBc"
+        "url": "https://open.spotify.com/album/1mhvj8JNl8A9L2C413NDna"
       },
       "artists": [
         {
@@ -664,6 +686,28 @@
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 343602,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0iTS5BHhn9GlONBcNTH63u"
+    },
+    {
+      "album": {
+        "name": "Far Away From Home",
+        "url": "https://open.spotify.com/album/4YYZbwLZKs2K3DXZZU9iBc"
+      },
+      "artists": [
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        },
+        {
+          "name": "DJ Bucks",
+          "url": "https://open.spotify.com/artist/541TdTVsd11rQV6CLPiB4J"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 343602,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/3QsofJutkp6Kgz9ejHkMrI"

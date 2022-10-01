@@ -9,6 +9,24 @@
     {
       "album": {
         "name": "Rough Guide to Indian Classical Music",
+        "url": "https://open.spotify.com/album/4YHYezIazOcE2FNuQr0APX"
+      },
+      "artists": [
+        {
+          "name": "Pandit Brij Bhushan Kabra, Pandit Hariprasad Chaurasia & Pandit Shivkumar Sharma",
+          "url": "https://open.spotify.com/artist/6MqnhMsiafcPAePqc1e22r"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374173,
+      "name": "Ahir Bhairav",
+      "url": "https://open.spotify.com/track/1rAHJIHBTMxk5B30UzvIAZ"
+    },
+    {
+      "album": {
+        "name": "Rough Guide to Indian Classical Music",
         "url": "https://open.spotify.com/album/3hqdUUtLEQmxorRMI5hE0l"
       },
       "artists": [
@@ -19,14 +37,14 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 374173,
       "name": "Ahir Bhairav",
       "url": "https://open.spotify.com/track/3JLewKQMn2Xo9MPTFOTyFC"
     },
     {
       "album": {
-        "name": "Shades of Sarode (with Salar Nader on tabla)",
+        "name": "Shades of Sarode",
         "url": "https://open.spotify.com/album/2vLucVPJLppDLgSDgXEGuT"
       },
       "artists": [
@@ -484,6 +502,28 @@
     },
     {
       "album": {
+        "name": "Rag Miya Ki Todi & Rag Bilaskhani Todi",
+        "url": "https://open.spotify.com/album/0mWUzMcScanLQDYIEKGMIu"
+      },
+      "artists": [
+        {
+          "name": "Imrat Khan",
+          "url": "https://open.spotify.com/artist/6htMUYjAgIpH7DRgN2I3yg"
+        },
+        {
+          "name": "Shafaatullah Khan",
+          "url": "https://open.spotify.com/artist/1JrHhcIQYFXGvjITblw4Mp"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2294000,
+      "name": "Rag Miya Ki Todi",
+      "url": "https://open.spotify.com/track/1swbYA2tiIOZTRpqCfsQLv"
+    },
+    {
+      "album": {
         "name": "Rag Jhinjhoti & Rag Pilu",
         "url": "https://open.spotify.com/album/2qDsr02ZOG72aLQ6HIJOZO"
       },
@@ -743,7 +783,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 2294000,
       "name": "R\u0101g M\u012by\u0101 k\u012b Tod\u012b",
       "url": "https://open.spotify.com/track/3fTFxU65ADeMwBgyVX97YI"

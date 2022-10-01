@@ -103,6 +103,24 @@
     {
       "album": {
         "name": "I Was Arthur",
+        "url": "https://open.spotify.com/album/414Z4UXOjGS0AdGEbPeJQw"
+      },
+      "artists": [
+        {
+          "name": "August Wilhelmsson",
+          "url": "https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131400,
+      "name": "Above It All",
+      "url": "https://open.spotify.com/track/4BPjphA5WmmKaJk66jF3oB"
+    },
+    {
+      "album": {
+        "name": "I Was Arthur",
         "url": "https://open.spotify.com/album/37lG6j92FSavjmG8anuy8a"
       },
       "artists": [
@@ -113,7 +131,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 131416,
       "name": "Above It All",
       "url": "https://open.spotify.com/track/3uJhBCgvI4Gmkfoz7R5Be8"
@@ -196,6 +214,24 @@
     },
     {
       "album": {
+        "name": "Anagram",
+        "url": "https://open.spotify.com/album/3EMafNmPdqTVmiESnJAwOp"
+      },
+      "artists": [
+        {
+          "name": "Imala Zir",
+          "url": "https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148089,
+      "name": "Anagram",
+      "url": "https://open.spotify.com/track/2XLdNfDhWJwViR3wiq8NrA"
+    },
+    {
+      "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/0qZ6LUWpJC4lrQrEDoUeHH"
       },
@@ -207,10 +243,46 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 352357,
       "name": "Angel's Flight",
       "url": "https://open.spotify.com/track/1tCPxwo9ll7rxCxaEBq06f"
+    },
+    {
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352357,
+      "name": "Angel's Flight",
+      "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
+    },
+    {
+      "album": {
+        "name": "Annica",
+        "url": "https://open.spotify.com/album/2vhMintpHbPM31rf7gYBcW"
+      },
+      "artists": [
+        {
+          "name": "Harlan Silverman",
+          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "Annica",
+      "url": "https://open.spotify.com/track/7IuVGIs20WQmT5FLp49NLz"
     },
     {
       "album": {
@@ -268,6 +340,24 @@
     },
     {
       "album": {
+        "name": "Starlight Passage",
+        "url": "https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc"
+      },
+      "artists": [
+        {
+          "name": "Starlight Passage",
+          "url": "https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148301,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO"
+    },
+    {
+      "album": {
         "name": "Arkade Destinations Tulum",
         "url": "https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR"
       },
@@ -304,6 +394,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM"
+      },
+      "artists": [
+        {
+          "name": "Teset",
+          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276960,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1ajC1DxUxfRTyzhpOcrHd4"
+    },
+    {
+      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/74AP9PqF7MTlqiRy9oXiPd"
       },
@@ -319,6 +427,24 @@
       "duration_ms": 116000,
       "name": "Blur",
       "url": "https://open.spotify.com/track/7eHDn7TyswvJIfxWGtIYKk"
+    },
+    {
+      "album": {
+        "name": "crestline",
+        "url": "https://open.spotify.com/album/0uQHf0jM3WV0yLSoS9x2tj"
+      },
+      "artists": [
+        {
+          "name": "Electric Rivers",
+          "url": "https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171087,
+      "name": "both sides of the coin",
+      "url": "https://open.spotify.com/track/1chT7Yo3zSvjFPRQ20fWFH"
     },
     {
       "album": {
@@ -340,6 +466,24 @@
     },
     {
       "album": {
+        "name": "Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148546,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA"
+    },
+    {
+      "album": {
         "name": "Klassik Lounge Nightflight Vol.05 (compiled by DJ Nartak)",
         "url": "https://open.spotify.com/album/39VIYItsoIbn6fGVUEi09F"
       },
@@ -351,7 +495,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150546,
       "name": "Candles",
       "url": "https://open.spotify.com/track/7qH6ICtmf08M8l3bvM27Gc"
@@ -409,6 +553,46 @@
       "duration_ms": 166956,
       "name": "chilling by your bedside.",
       "url": "https://open.spotify.com/track/7LKRv9zrKDrLOO8jcFPQxA"
+    },
+    {
+      "album": {
+        "name": "Closed for Renovations",
+        "url": "https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw"
+      },
+      "artists": [
+        {
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163978,
+      "name": "Closed for Renovations",
+      "url": "https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG"
+    },
+    {
+      "album": {
+        "name": "Collapse Into Light",
+        "url": "https://open.spotify.com/album/0rUgWKzUwGMo0XAHN6R2eY"
+      },
+      "artists": [
+        {
+          "name": "Evin Iris",
+          "url": "https://open.spotify.com/artist/0H11IrXWhpptE27M8Xll9w"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Collapse Into Light",
+      "url": "https://open.spotify.com/track/3jP962JoLAn9p4wCDdx4My"
     },
     {
       "album": {
@@ -517,10 +701,46 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199422,
       "name": "Day One",
       "url": "https://open.spotify.com/track/1ClIKr4uKzosk6FOpHwLJM"
+    },
+    {
+      "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199422,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/4WmB04GBqS4xPMYN9dHgBw"
+    },
+    {
+      "album": {
+        "name": "deep wild",
+        "url": "https://open.spotify.com/album/5YRoRvEeZSXtUDNQ2aGRSh"
+      },
+      "artists": [
+        {
+          "name": "Far & Beyond",
+          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152883,
+      "name": "deep wild",
+      "url": "https://open.spotify.com/track/138ntruMbI8Yp3FRYH1qm5"
     },
     {
       "album": {
@@ -557,6 +777,42 @@
       "duration_ms": 159500,
       "name": "Dreamscapes",
       "url": "https://open.spotify.com/track/0lWWho4vGcKfIX8kA8YmAy"
+    },
+    {
+      "album": {
+        "name": "Star Crossed / Dust",
+        "url": "https://open.spotify.com/album/3hT3xJbL4UjJMET6CvbcKc"
+      },
+      "artists": [
+        {
+          "name": "Sync Zephyr",
+          "url": "https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212330,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/4fqzVh6YXqskezIs862H6d"
+    },
+    {
+      "album": {
+        "name": "efflorescence",
+        "url": "https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr"
+      },
+      "artists": [
+        {
+          "name": "Far & Beyond",
+          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "efflorescence",
+      "url": "https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc"
     },
     {
       "album": {
@@ -731,6 +987,24 @@
     {
       "album": {
         "name": "The Theory of Everything (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123157,
+      "name": "Forces of Attraction",
+      "url": "https://open.spotify.com/track/4NpX4g7sdnZtgteu1m2m3S"
+    },
+    {
+      "album": {
+        "name": "The Theory of Everything (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2R2FZbfCSFBb1piR159xN0"
       },
       "artists": [
@@ -741,7 +1015,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 123157,
       "name": "Forces of Attraction",
       "url": "https://open.spotify.com/track/6YjNHauEMtw8cWsOnoBUf3"
@@ -843,6 +1117,24 @@
     {
       "album": {
         "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191529,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2"
+    },
+    {
+      "album": {
+        "name": "For Ever",
         "url": "https://open.spotify.com/album/1VZxGX1lzF1QjY5QofhC5r"
       },
       "artists": [
@@ -853,7 +1145,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191529,
       "name": "Happy Man",
       "url": "https://open.spotify.com/track/5nF6drlQTtXc5iThQoyONB"
@@ -896,6 +1188,24 @@
     },
     {
       "album": {
+        "name": "Hypnagogia Well",
+        "url": "https://open.spotify.com/album/5QULT8EPM4qXnA8hAQmbJL"
+      },
+      "artists": [
+        {
+          "name": "Monocle Twins",
+          "url": "https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Hypnagogia Well",
+      "url": "https://open.spotify.com/track/2jpL7mFOMzRnbaSj790BfQ"
+    },
+    {
+      "album": {
         "name": "Late Night Tales: Khruangbin",
         "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
       },
@@ -915,6 +1225,24 @@
     {
       "album": {
         "name": "Chillhop Essentials Spring 2019",
+        "url": "https://open.spotify.com/album/1vV4Hl5uDdMtKdKChSkjLG"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Fish",
+          "url": "https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "i wish it would never stop snowing",
+      "url": "https://open.spotify.com/track/0jDYc3XRkTaEi5zycl5E1G"
+    },
+    {
+      "album": {
+        "name": "Chillhop Essentials Spring 2019",
         "url": "https://open.spotify.com/album/0FBkB6e7deadNGBxQCpQc0"
       },
       "artists": [
@@ -925,10 +1253,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196500,
       "name": "i wish it would never stop snowing",
       "url": "https://open.spotify.com/track/5nKSxq2yNgQLtgzqJxPn41"
+    },
+    {
+      "album": {
+        "name": "India",
+        "url": "https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd"
+      },
+      "artists": [
+        {
+          "name": "EarthLife",
+          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535370,
+      "name": "India",
+      "url": "https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8"
     },
     {
       "album": {
@@ -943,7 +1289,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 535370,
       "name": "India - Original Mix",
       "url": "https://open.spotify.com/track/4k919G9E096WoXenUv0Hdi"
@@ -961,10 +1307,46 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127920,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0bXpmJyHHYPk6QBFj25bYF"
+    },
+    {
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127920,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
+    },
+    {
+      "album": {
+        "name": "Chillhop Daydreams 2",
+        "url": "https://open.spotify.com/album/3bh5l0g7pcX9eKNywTuIvd"
+      },
+      "artists": [
+        {
+          "name": "G Mills",
+          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Iridescence",
+      "url": "https://open.spotify.com/track/3RvJhKWy33BYK1aHgJ6NlO"
     },
     {
       "album": {
@@ -979,7 +1361,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171750,
       "name": "Iridescence",
       "url": "https://open.spotify.com/track/6NplMK5VZVFTTr2NrGoeHj"
@@ -1015,10 +1397,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 277559,
       "name": "L",
       "url": "https://open.spotify.com/track/4yX50PMifhGzVEo1wv3guc"
+    },
+    {
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277559,
+      "name": "L",
+      "url": "https://open.spotify.com/track/6brTu7TkwXtFMjQgcxkMA4"
     },
     {
       "album": {
@@ -1059,6 +1459,24 @@
       "duration_ms": 196500,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/2PdsoiM7FtggHQTYicpQMi"
+    },
+    {
+      "album": {
+        "name": "Look At The Stars",
+        "url": "https://open.spotify.com/album/1zq2gcTCCKtXMsF9qg8xvR"
+      },
+      "artists": [
+        {
+          "name": "The Purple Stripe",
+          "url": "https://open.spotify.com/artist/4XIkeyeO2tENGL73fDZS1A"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216315,
+      "name": "Look At The Stars",
+      "url": "https://open.spotify.com/track/4YhxXaf6Qrn5DrmgEfhwLH"
     },
     {
       "album": {
@@ -1145,10 +1563,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241114,
       "name": "Mauer Blues",
       "url": "https://open.spotify.com/track/1NqGRBFJXZKeQDlenJSMbs"
+    },
+    {
+      "album": {
+        "name": "By the Deep Sea",
+        "url": "https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241114,
+      "name": "Mauer Blues",
+      "url": "https://open.spotify.com/track/1lLuJ1PTq8wXAorPqHwMOd"
     },
     {
       "album": {
@@ -1203,10 +1639,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295853,
       "name": "Monsters Theme",
       "url": "https://open.spotify.com/track/1ZF7dgpDrpruRFeS2EXlFk"
+    },
+    {
+      "album": {
+        "name": "Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295853,
+      "name": "Monsters Theme",
+      "url": "https://open.spotify.com/track/6aiR4OPo4GSpsiRzuubaZg"
     },
     {
       "album": {
@@ -1243,6 +1697,24 @@
       "duration_ms": 287520,
       "name": "Nothing It Can",
       "url": "https://open.spotify.com/track/4ecwrnFDSJLlLyZlEH7YGK"
+    },
+    {
+      "album": {
+        "name": "Nuraghe",
+        "url": "https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4"
+      },
+      "artists": [
+        {
+          "name": "PLACID",
+          "url": "https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150306,
+      "name": "Nuraghe",
+      "url": "https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju"
     },
     {
       "album": {
@@ -1319,6 +1791,24 @@
     {
       "album": {
         "name": "Domicile",
+        "url": "https://open.spotify.com/album/3WU8Qb7Biyfi8BOeK0M3JG"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323573,
+      "name": "Our Distance",
+      "url": "https://open.spotify.com/track/4FEcEOyyGbPR1cnYMBTRfO"
+    },
+    {
+      "album": {
+        "name": "Domicile",
         "url": "https://open.spotify.com/album/4OJBymBLVo6PpdaFDkGopP"
       },
       "artists": [
@@ -1329,7 +1819,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 323573,
       "name": "Our Distance",
       "url": "https://open.spotify.com/track/4PNoSnnJGeLmxOs8K0jvJC"
@@ -1355,6 +1845,24 @@
     {
       "album": {
         "name": "Residuum",
+        "url": "https://open.spotify.com/album/1KcRjaSyfxRWSV8vjJvgIR"
+      },
+      "artists": [
+        {
+          "name": "Silver Maple",
+          "url": "https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163150,
+      "name": "Particle Emission",
+      "url": "https://open.spotify.com/track/7svM6oRnsecnQd30A6prDc"
+    },
+    {
+      "album": {
+        "name": "Residuum",
         "url": "https://open.spotify.com/album/27HGND1rcDXj1Yrjywg2Lf"
       },
       "artists": [
@@ -1365,7 +1873,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163156,
       "name": "Particle Emission",
       "url": "https://open.spotify.com/track/7Gkse5oUgdsjBeVQn980ce"
@@ -1480,6 +1988,24 @@
     },
     {
       "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383513,
+      "name": "S.T.A.Y.",
+      "url": "https://open.spotify.com/track/6GUq9y0Iy5QrAuPYxTrFp2"
+    },
+    {
+      "album": {
         "name": "Interstellar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3N8fGhRcHWqyy0SfWa92H0"
       },
@@ -1491,7 +2017,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 383513,
       "name": "S.T.A.Y.",
       "url": "https://open.spotify.com/track/780LdT9wWORqCCUUiLfRvi"
@@ -1603,10 +2129,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298333,
       "name": "So We Won't Forget",
       "url": "https://open.spotify.com/track/1sL0oHu8NCQpImkjxkoVXj"
+    },
+    {
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298333,
+      "name": "So We Won't Forget",
+      "url": "https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy"
     },
     {
       "album": {
@@ -1675,10 +2219,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168648,
       "name": "Stay Near",
       "url": "https://open.spotify.com/track/0ZQEigvvONyBFp7cYWv2Xy"
+    },
+    {
+      "album": {
+        "name": "Sjangeli",
+        "url": "https://open.spotify.com/album/2m7iZ2BHRYm8Et8ah0Qdgb"
+      },
+      "artists": [
+        {
+          "name": "Luwaks",
+          "url": "https://open.spotify.com/artist/74m92HtAJpU0X1B8h54RIr"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168648,
+      "name": "Stay Near",
+      "url": "https://open.spotify.com/track/0bDLgavXGx0Nskjydn1NpF"
     },
     {
       "album": {
@@ -1737,6 +2299,24 @@
     {
       "album": {
         "name": "North Pole",
+        "url": "https://open.spotify.com/album/2tCFpKgvx1HO064rFnKSDo"
+      },
+      "artists": [
+        {
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1uiU2DsVH9AIGo1JUl9tMg"
+    },
+    {
+      "album": {
+        "name": "North Pole",
         "url": "https://open.spotify.com/album/5O8TzNyhGK7xTMN0kccpiX"
       },
       "artists": [
@@ -1747,7 +2327,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176000,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/69ScUfmrwMZgyqb0XRGw12"
@@ -1808,6 +2388,24 @@
     },
     {
       "album": {
+        "name": "alternative universe",
+        "url": "https://open.spotify.com/album/5fC4bXk6Eo7PNikqtqU53T"
+      },
+      "artists": [
+        {
+          "name": "cloudcrush",
+          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188371,
+      "name": "two",
+      "url": "https://open.spotify.com/track/39xRHgkRG13GJYOw8sOaQJ"
+    },
+    {
+      "album": {
         "name": "Temporis",
         "url": "https://open.spotify.com/album/0uEoafTA875Dqw6hJDlrJ5"
       },
@@ -1848,6 +2446,24 @@
     },
     {
       "album": {
+        "name": "Waiting for the Sunrise",
+        "url": "https://open.spotify.com/album/4tE7BUhKkN8i5Bp4FQGGtB"
+      },
+      "artists": [
+        {
+          "name": "Across The Great Valley",
+          "url": "https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174654,
+      "name": "Waiting for the Sunrise",
+      "url": "https://open.spotify.com/track/7wH5Ck2MRPWwwunLeMjg9f"
+    },
+    {
+      "album": {
         "name": "Loom",
         "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
       },
@@ -1881,6 +2497,24 @@
       "duration_ms": 142000,
       "name": "Winter Sun",
       "url": "https://open.spotify.com/track/6xcD8EbsvMep9ULtidHI2j"
+    },
+    {
+      "album": {
+        "name": "With Resolve",
+        "url": "https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ"
+      },
+      "artists": [
+        {
+          "name": "Jacob Yoffee",
+          "url": "https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129761,
+      "name": "With Resolve",
+      "url": "https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ"
     },
     {
       "album": {

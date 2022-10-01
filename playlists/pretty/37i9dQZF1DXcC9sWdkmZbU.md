@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Worship songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,998 likes - 57 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,306 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jesus Loves Me](https://open.spotify.com/track/18vX3PoNMD7zeSIzjON4FL) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Hillsong Kids Ultimate](https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu) | 3:50 |
+| 1 | [Jesus Loves Me \- Live](https://open.spotify.com/track/4KFRVbD0sRACaDbkqTY9kB) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Supernatural \(Live\)](https://open.spotify.com/album/7BnWLTNaXiigS3PYhybwM5) | 3:49 |
 | 2 | [King Of Me](https://open.spotify.com/track/03UpQxGiMEmoMK9cQSheaK) | [Rend Co\. Kids](https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK), [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [King Of Me](https://open.spotify.com/album/7jZ2YQQcGMOJWDRv1C55Wz) | 2:17 |
 | 3 | [The Blessing](https://open.spotify.com/track/62MIyeR42atsXPWWSon90Q) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Living Color](https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf) | 4:27 |
 | 4 | [Sing](https://open.spotify.com/track/5HGzHGgejsuTy8Q7EC5zrF) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Creation Songs](https://open.spotify.com/album/7cvbJNwioCCK1x07dZJzt4) | 3:50 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 19 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:06 |
 | 20 | [Every Move I Make](https://open.spotify.com/track/4WG8pqpoKbhT3av6DFEhWK) | [I Could Sing Kids Performers](https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02) | [I Could Sing Of Your Love Forever Kids](https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj) | 3:05 |
 | 21 | [The Lord Is My Shepherd \(Psalm 23:1\)](https://open.spotify.com/track/1yjzLKL3Oa2UEnMLoYIa0X) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:30 |
-| 22 | [Trust And Obey](https://open.spotify.com/track/2jAYGmSsoIUfmRGhF3XPSm) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Hillsong Kids Ultimate](https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu) | 4:33 |
+| 22 | [Trust And Obey \- Live](https://open.spotify.com/track/0Ac4TPAa7Iq7og4xjxAG23) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Follow You \(Live\)](https://open.spotify.com/album/4M3zJtG4vtJLB22AG3ZUGH) | 4:30 |
 | 23 | [You Know Everything \(Psalm 139\) \- Live](https://open.spotify.com/track/6en45FpokCU2UHfZqtfKeY) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in The Word \(Live\)](https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ) | 3:28 |
 | 24 | [See A Victory](https://open.spotify.com/track/5cNG0V1wLEVJlq8CPzEXwH) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [Living Color](https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf) | 3:58 |
 | 25 | [God Is for Me](https://open.spotify.com/track/4iOtTdKbyUQubznmPCV7BM) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Pop Praise: Celebrate](https://open.spotify.com/album/6y5JEipzGCoFRLPFZZFcy7) | 2:49 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 31 | [If You're Saved and You Know It](https://open.spotify.com/track/4fBymO23KqavJifkRrMQDE) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Toddler 1 Minute Bible Songs](https://open.spotify.com/album/6gZct2nbpNAPIHQiozAjx5) | 1:04 |
 | 32 | [I Am the Way \(John 14:6\)](https://open.spotify.com/track/76VHEBR3LQ6zYUg0fF09Hd) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:21 |
 | 33 | [He Is the Light](https://open.spotify.com/track/7Bi1ZbcjXppd20X6IyldE7) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Pop Praise: Jump for Joy](https://open.spotify.com/album/6RHcD6hREYs81gJahZIn1y) | 2:44 |
-| 34 | [Be Still \(Psalm 46:10\)](https://open.spotify.com/track/0Ie6BTfYSyMcvl845hGr94) | [Seeds Family Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [When You Lie Down: Lullabies & Scripture Songs, Vol\. 10](https://open.spotify.com/album/1nmoMC8L1uRXQIlD3k5q4k) | 4:02 |
+| 34 | [Be Still \(Psalm 46:10\)](https://open.spotify.com/track/0Ie6BTfYSyMcvl845hGr94) | [Seeds Lullabies](https://open.spotify.com/artist/7wcNLUZ3LAHgSP4eIIX1oM) | [When You Lie Down: Lullabies & Scripture Songs, Vol\. 10](https://open.spotify.com/album/1nmoMC8L1uRXQIlD3k5q4k) | 4:02 |
 | 35 | [Even When](https://open.spotify.com/track/3UbecA1E2TzGHRGsEoK89U) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [Even When](https://open.spotify.com/album/3EdWMarhtXqqaoZSso2TTn) | 3:27 |
 | 36 | [Your Ways \(Isaiah 55\) \- Live](https://open.spotify.com/track/3jmXhvsA6Y9SQX5HohC26n) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Your Ways \(Isaiah 55\) \[Live\]](https://open.spotify.com/album/6h3ij29LgLW3qannd61h1Q) | 4:02 |
 | 37 | [Masterpiece \(Ephesians 2:8\-10\)](https://open.spotify.com/track/5QvDM6ME84IIuvnGSVbntV) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Masterpiece](https://open.spotify.com/album/1MgJtpyHdmAytGnSaYW08a) | 3:58 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 56 | [Let Your Light Shine \(Matthew 5:14,16 Berean\)](https://open.spotify.com/track/6N1V1o6ZZ9aWJFn3r6wgfl) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Let Your Light Shine](https://open.spotify.com/album/5z8Ma2gz6h4sIH4Rj2jwiw) | 3:06 |
 | 57 | [Blessed Be Your Name](https://open.spotify.com/track/3yJIV1U93Bpgw2cRZ6VUiw) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 3:42 |
 
-Snapshot ID: `MTY0OTc3NzU2MywwMDAwMDAwODAwMDAwMTgwMWU2N2Q1ZjYwMDAwMDE3ZjZhNmNmNzI5`
+Snapshot ID: `MTY0OTc3NzU2MywwMDAwMDAwMDhmNmU4NDRjYmIxMDZhZDZjZTY4YmQxYjRlMTg2OTVk`

@@ -664,6 +664,24 @@
     },
     {
       "album": {
+        "name": "Christmas Meets Jazz",
+        "url": "https://open.spotify.com/album/4DIxYBpOVMQGxK8BKYrUgJ"
+      },
+      "artists": [
+        {
+          "name": "Kazumi Tateishi Trio",
+          "url": "https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290693,
+      "name": "Jolly Old Saint Nicholas",
+      "url": "https://open.spotify.com/track/3rEK1zgBRES9twQz0Cqqi5"
+    },
+    {
+      "album": {
         "name": "Christmas meets Jazz",
         "url": "https://open.spotify.com/album/2VsPkNzP7Cur70oIqATTPA"
       },
@@ -675,7 +693,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 290693,
       "name": "Jolly Old Saint Nicholas",
       "url": "https://open.spotify.com/track/50mhd6xVp1pfSxLbV1G9Kl"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 147584,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/1QtANQCg5sUog4R0fBCToN"
@@ -1161,10 +1179,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 144933,
       "name": "What Child Is This",
       "url": "https://open.spotify.com/track/0LP2DlqqEH5Lo0ujWdHkUD"
+    },
+    {
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144933,
+      "name": "What Child Is This",
+      "url": "https://open.spotify.com/track/1KYp6R9KfYSna86gFkIhq0"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Spooky sounds from your favorite horror features on Netflix.",
+  "description": "Spooky sounds from your favorite horror features on Netflix. Cover: Devil in Ohio. ",
   "name": "Netflix and Chills",
   "published_playlist_ids": [
     "4bN0zeSuBKVuYpNOMsD9q1"
@@ -32,7 +32,7 @@
       "artists": [
         {
           "name": "Kilo Kish",
-          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
+          "url": "https://open.spotify.com/artist/0Ib2a1F7sq1OTrYSoVIsIX"
         }
       ],
       "date_added": "2021-10-25",
@@ -72,7 +72,7 @@
         },
         {
           "name": "Mez",
-          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+          "url": "https://open.spotify.com/artist/0bhPk5CgDr787krAWB8CEO"
         },
         {
           "name": "Jorge Lendeborg, Jr.",
@@ -147,6 +147,24 @@
     {
       "album": {
         "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
+        "url": "https://open.spotify.com/album/1IHrpPROMXGwIryFdC93sN"
+      },
+      "artists": [
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
+      "url": "https://open.spotify.com/track/28qQYsp1hPSe0FkvygCiyt"
+    },
+    {
+      "album": {
+        "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
         "url": "https://open.spotify.com/album/5KYAFaZYTJygT3fDNswDp3"
       },
       "artists": [
@@ -157,7 +175,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169506,
       "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
       "url": "https://open.spotify.com/track/31mIUfv7vmIhSoD5krSCUZ"
@@ -348,6 +366,42 @@
     },
     {
       "album": {
+        "name": "Devil in Ohio (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6NGsQGLhikXABCBVJypLiH"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193892,
+      "name": "Lessons of the Fire (from the Netflix Series \"Devil In Ohio\")",
+      "url": "https://open.spotify.com/track/7uCoscfmQbuG1NBfyeaYvy"
+    },
+    {
+      "album": {
+        "name": "Locke & Key (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe"
+      },
+      "artists": [
+        {
+          "name": "Torin Borrowdale",
+          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142944,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/3IcAhCG7vhl5d1hIABoiyF"
+    },
+    {
+      "album": {
         "name": "Locke & Key (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/70imhSWOEIsbf9HREtSVbB"
       },
@@ -359,7 +413,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142944,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4BxIJSZ9HlozFVCSUvjqpX"
@@ -377,10 +431,28 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 64398,
       "name": "Locke & Key - Main Titles",
       "url": "https://open.spotify.com/track/1Zjd1tlVgJQqauMsiyk3an"
+    },
+    {
+      "album": {
+        "name": "Locke & Key (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe"
+      },
+      "artists": [
+        {
+          "name": "Torin Borrowdale",
+          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64398,
+      "name": "Locke & Key - Main Titles",
+      "url": "https://open.spotify.com/track/5c9Qhu3OKFm8hN2iOON1cG"
     },
     {
       "album": {
@@ -537,7 +609,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 160416,
       "name": "Straight To Hell (from Netflix's \"Chilling Adventures of Sabrina\u201d)",
       "url": "https://open.spotify.com/track/3TsnZQm78Idawqs1KtOas4"

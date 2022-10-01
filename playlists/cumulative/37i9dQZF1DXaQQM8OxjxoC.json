@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Hungarian Dances / Waltzes, Op. 39",
+        "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "10 Hungarian Dances, Woo 1 (Version For Piano): No. 4 In F Sharp Minor",
+      "url": "https://open.spotify.com/track/0A9rjOWKFp0IUndLB3KlJV"
+    },
+    {
+      "album": {
         "name": "Brahms: 10 Hungarian Dances, WoO 1 - 16 Waltzes, Op. 39",
         "url": "https://open.spotify.com/album/5yoNIkA6zarAzdsdSInJkm"
       },
@@ -23,10 +45,32 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310000,
       "name": "10 Hungarian Dances, WoO 1: No. 4 in F-Sharp Minor",
       "url": "https://open.spotify.com/track/0XLOrNI6wslByDrTfl0i30"
+    },
+    {
+      "album": {
+        "name": "Brahms: Waltzes / Cadenzas / Die Schone Magelone",
+        "url": "https://open.spotify.com/album/68eCLrmTo4kplm2mMASwW2"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52200,
+      "name": "16 Waltzes, Op. 39 (1867 version): No. 3 in G-Sharp Minor",
+      "url": "https://open.spotify.com/track/5eqhhghDRfP4hVqBTTxUv5"
     },
     {
       "album": {
@@ -45,7 +89,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 52200,
       "name": "16 Waltzes, Op. 39 (Version for Solo Piano): No. 3 in G-Sharp Minor",
       "url": "https://open.spotify.com/track/1uglW1nOWySXp1z4F13aMJ"
@@ -93,10 +137,62 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135773,
       "name": "21 Hungarian Dances for Orchestra, WoO 1: No. 5, Allegro (Arr. A. Parlow)",
       "url": "https://open.spotify.com/track/0wFibsNqjFTgiGTAbbPbYZ"
+    },
+    {
+      "album": {
+        "name": "Brahms: Symphony No. 2 / Hungarian Dances",
+        "url": "https://open.spotify.com/album/1UyRLftqwqtalk4uAoyyEO"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196520,
+      "name": "21 Hungarian Dances, WoO 1 (version for orchestra): Hungarian Dance No. 1 in G Minor (orch. J. Brahms)",
+      "url": "https://open.spotify.com/track/6mClSrzoDMpCnadkfaSf4O"
+    },
+    {
+      "album": {
+        "name": "Brahms: Hungarian Dances Nos. 1-21",
+        "url": "https://open.spotify.com/album/31hBRlHbV3BCy32YGp17cq"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Budapest Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/4yrzlxPNm4ulLRpn5wmEAX"
+        },
+        {
+          "name": "Istvan Bogar",
+          "url": "https://open.spotify.com/artist/7MxI8yN75pzWBKhpQ4mar1"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135773,
+      "name": "21 Hungarian Dances, WoO 1 (version for orchestra): Hungarian Dance No. 5 (orch. Schmeling)",
+      "url": "https://open.spotify.com/track/2SvULYdmPes23yZQYeLkXV"
     },
     {
       "album": {
@@ -119,10 +215,32 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196520,
       "name": "21 Hungarian Dances, WoO 1: Hungarian Dance No. 1 in G Minor (Orch. J. Brahms)",
       "url": "https://open.spotify.com/track/5I279GctETJUA1wesvdTzB"
+    },
+    {
+      "album": {
+        "name": "Brahms: Variations Opp. 9, 24 And 35",
+        "url": "https://open.spotify.com/album/2MQTdlbz46O4H3VrINtDaB"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 813000,
+      "name": "28 Variations On A Theme By Paganini, Op. 35: Book 1",
+      "url": "https://open.spotify.com/track/35RIyPjkmK0AzsGHrXyWo5"
     },
     {
       "album": {
@@ -141,7 +259,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 813000,
       "name": "28 Variations on a Theme by Paganini, Op. 35: Book 1 (1)",
       "url": "https://open.spotify.com/track/6rc4kqdHfZpUYnTpTiLuIi"
@@ -192,6 +310,28 @@
     },
     {
       "album": {
+        "name": "Work From Home Brahms & Liszt",
+        "url": "https://open.spotify.com/album/7jLXjNiQpAppnvDyQzUdmr"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Arturo Benedetti Michelangeli",
+          "url": "https://open.spotify.com/artist/0eQTutigtSNq6DmsYU9hPS"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567533,
+      "name": "4 Ballades, Op. 10: No. 4 In B",
+      "url": "https://open.spotify.com/track/2wcqhYITSlQzZ8dqw6n9VQ"
+    },
+    {
+      "album": {
         "name": "Brahms: 4 Ballades / Schubert: Sonata D537 / Beethoven: Sonata No.4",
         "url": "https://open.spotify.com/album/0Gz278qr2WMAzDHWWe61hz"
       },
@@ -207,7 +347,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 571000,
       "name": "4 Ballades, Op.10: No.4 In B",
       "url": "https://open.spotify.com/track/6Mrw09XkGLb1nFtTOI3gJn"
@@ -347,10 +487,66 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 563773,
       "name": "Academic Festival Overture, Op. 80",
       "url": "https://open.spotify.com/track/2luhnBAxsk3TYQa8yzP0Yz"
+    },
+    {
+      "album": {
+        "name": "Brahms: The Symphonies",
+        "url": "https://open.spotify.com/album/23OHNMF9FpIqDppmvoUpuy"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563773,
+      "name": "Academic Festival Overture, Op. 80",
+      "url": "https://open.spotify.com/track/3Z3dDd0kDRH7rx3UoYSapq"
+    },
+    {
+      "album": {
+        "name": "Brahms: Motets",
+        "url": "https://open.spotify.com/album/2cdCNpaN87PSD0Oukqh8Mt"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Matthew Morley",
+          "url": "https://open.spotify.com/artist/7Gx0lRtgJ94IA5y0oMfGPm"
+        },
+        {
+          "name": "St. Bride's Church Choir, Fleet Street",
+          "url": "https://open.spotify.com/artist/3UWDC3o8WGKn8mE1tbacMC"
+        },
+        {
+          "name": "Robert Jones",
+          "url": "https://open.spotify.com/artist/7eMMRGqgtvBvvlnLgD7U5L"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213226,
+      "name": "Ave Maria, Op. 12",
+      "url": "https://open.spotify.com/track/2pMyynynAu7zqkq9NLnrCC"
     },
     {
       "album": {
@@ -377,7 +573,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213226,
       "name": "Ave Maria, Op. 12",
       "url": "https://open.spotify.com/track/6zLNcp4EaU2otIot2xTHfu"
@@ -406,7 +602,7 @@
     },
     {
       "album": {
-        "name": "Brahms: Double Concerto & Clarinet Quintet, Op.115",
+        "name": "Brahms: Double Concerto, Op. 102 & Clarinet Quintet, Op. 115",
         "url": "https://open.spotify.com/album/7sWossih935oGlyNqT9Mgv"
       },
       "artists": [
@@ -533,10 +729,36 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 327240,
       "name": "Cello Sonata No. 1 in E Minor, Op. 38: II. Allegretto quasi menuetto",
       "url": "https://open.spotify.com/track/6mvKSN02UiIn7823PEljzN"
+    },
+    {
+      "album": {
+        "name": "Brahms: Cello Sonatas Opp. 38, 78 and 99",
+        "url": "https://open.spotify.com/album/59NM6NCPSdynX2kzTwJsPq"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Maria Kliegel",
+          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "name": "Kristin Merscher",
+          "url": "https://open.spotify.com/artist/5TFRDFXpRjT5suDvJVNHzH"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327240,
+      "name": "Cello Sonata No. 1 in E Minor, Op. 38: II. Allegretto quasi menuetto",
+      "url": "https://open.spotify.com/track/7xVtNzQhUKsRnfAeiSgpaf"
     },
     {
       "album": {
@@ -559,10 +781,36 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 508320,
       "name": "Cello Sonata No. 2 in F Major, Op. 99: I. Allegro vivace",
       "url": "https://open.spotify.com/track/60EoYu8hFutKtd1qikgjIl"
+    },
+    {
+      "album": {
+        "name": "Brahms: Cello Sonatas Opp. 38, 78 and 99",
+        "url": "https://open.spotify.com/album/59NM6NCPSdynX2kzTwJsPq"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Maria Kliegel",
+          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "name": "Kristin Merscher",
+          "url": "https://open.spotify.com/artist/5TFRDFXpRjT5suDvJVNHzH"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508320,
+      "name": "Cello Sonata No. 2 in F Major, Op. 99: I. Allegro vivace",
+      "url": "https://open.spotify.com/track/7eIsKNIATFVGvxCFQKGTPk"
     },
     {
       "album": {
@@ -589,6 +837,66 @@
       "duration_ms": 468000,
       "name": "Clarinet Sonata No. 1 in F Minor, Op. 120: I. Allegro appassionato (Arr. for Viola and Piano)",
       "url": "https://open.spotify.com/track/7wZtpgqPJk2UYhOmLJDLMF"
+    },
+    {
+      "album": {
+        "name": "Brahms: Clarinet Trio in A Minor, Op. 114: I. Allegro",
+        "url": "https://open.spotify.com/album/67VKbmP2eGc7npbd3F2e5j"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Andreas Ottensamer",
+          "url": "https://open.spotify.com/artist/2ArlRtVzTxoRTY58C8kA0T"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459213,
+      "name": "Clarinet Trio in A Minor, Op. 114: I. Allegro",
+      "url": "https://open.spotify.com/track/3XscpxBMDGN1Jhm9ZL3Wsg"
+    },
+    {
+      "album": {
+        "name": "Rachmaninoff & Brahms",
+        "url": "https://open.spotify.com/album/2TmNwznrmQXjSqx4SPOb1e"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Andreas Ottensamer",
+          "url": "https://open.spotify.com/artist/2ArlRtVzTxoRTY58C8kA0T"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261173,
+      "name": "Clarinet Trio in A Minor, Op. 114: IV. Allegro",
+      "url": "https://open.spotify.com/track/4nb7T8NQsLEkk7jCUkwSSi"
     },
     {
       "album": {
@@ -619,10 +927,44 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 497626,
       "name": "Concerto for Violin & Cello in A Minor, Op. 102: II. Andante",
       "url": "https://open.spotify.com/track/5D8SJIqlYXEB7NkvNj70nB"
+    },
+    {
+      "album": {
+        "name": "Brahms: Double Concerto / Schumann: Cello Concerto in A Minor",
+        "url": "https://open.spotify.com/album/366sJxNB8iraMkQ2LDGN9U"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Maria Kliegel",
+          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "name": "RT\u00c9 National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1UKYHr4TXjVaLFkQ0Y0Frq"
+        },
+        {
+          "name": "Andrew Constantine",
+          "url": "https://open.spotify.com/artist/1xe4z9gCgtk5L1Y8o6N5fw"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497626,
+      "name": "Double Concerto for Violin and Cello in A Minor, Op. 102: II. Andante",
+      "url": "https://open.spotify.com/track/2jSIuEsMFzwTqDyUJw4kpL"
     },
     {
       "album": {
@@ -739,10 +1081,40 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310133,
       "name": "Geistliches Lied, Op. 30",
       "url": "https://open.spotify.com/track/3a9rwEwEzo19D22HxWL0UI"
+    },
+    {
+      "album": {
+        "name": "Brahms: Motets",
+        "url": "https://open.spotify.com/album/2cdCNpaN87PSD0Oukqh8Mt"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Matthew Morley",
+          "url": "https://open.spotify.com/artist/7Gx0lRtgJ94IA5y0oMfGPm"
+        },
+        {
+          "name": "St. Bride's Church Choir, Fleet Street",
+          "url": "https://open.spotify.com/artist/3UWDC3o8WGKn8mE1tbacMC"
+        },
+        {
+          "name": "Robert Jones",
+          "url": "https://open.spotify.com/artist/7eMMRGqgtvBvvlnLgD7U5L"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310133,
+      "name": "Geistliches Lied, Op. 30",
+      "url": "https://open.spotify.com/track/7LWfB3q9ipoapyjW7idMFU"
     },
     {
       "album": {
@@ -765,10 +1137,114 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 663093,
       "name": "Klavierquintett f-Moll, Op. 34: I. Allegro non troppo",
       "url": "https://open.spotify.com/track/5KzT1ckNXsMnQnMm5HhnwK"
+    },
+    {
+      "album": {
+        "name": "Schumann, R. / Brahms: Piano Quintets",
+        "url": "https://open.spotify.com/album/6pfFQwCDgMB5V4G3bssG5x"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 663093,
+      "name": "Klavierquintett f-Moll, Op. 34: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/6cK2sQLGGz2v8cH3p4GwTQ"
+    },
+    {
+      "album": {
+        "name": "Life and Works: Brahms",
+        "url": "https://open.spotify.com/album/1sb2BhiYmWFNHVTwUGSfRk"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Siepmann",
+          "url": "https://open.spotify.com/artist/3ITUyK8dCUQZjxuaEfdms4"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370200,
+      "name": "Life and Works of Brahms: Trio for Horn, Violin and Piano, Op. 40 (Finale)",
+      "url": "https://open.spotify.com/track/6K1cvpap1qFshpHqumus59"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano Concerto No. 2 in B-Flat Major, Op. 83: II. Allegro appassionato",
+        "url": "https://open.spotify.com/album/3HJz48CDqO9HQuKqjS5aMt"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        },
+        {
+          "name": "Frankfurt Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
+        },
+        {
+          "name": "Horst Stein",
+          "url": "https://open.spotify.com/artist/3U3J7QBEVYXjfoKsNPjFiU"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553226,
+      "name": "Piano Concerto No. 2 in B-Flat Major, Op. 83: II. Allegro appassionato",
+      "url": "https://open.spotify.com/track/17L8jD7jtYGCn3v6b1tlxT"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano Concerto No. 2 / Schumann, R.: Introduction and Allegro Appassinato, Op. 92",
+        "url": "https://open.spotify.com/album/1cLiskJFAdt3EWk2SLXsDx"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        },
+        {
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 703853,
+      "name": "Piano Concerto No. 2 in B-Flat Major, Op. 83: III. Andante",
+      "url": "https://open.spotify.com/track/1qHfFpgL18LsdVCRBecBS2"
     },
     {
       "album": {
@@ -795,7 +1271,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 707733,
       "name": "Piano Concerto No. 2 in B-Flat Major, Op. 83: III. Andante",
       "url": "https://open.spotify.com/track/3h8CKzcmlrpiUpnbPSXxOJ"
@@ -821,10 +1297,36 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 640070,
       "name": "Piano Quintet in F Minor, Op. 34: IV. Finale (Poco sostenuto - Allegro non troppo)",
       "url": "https://open.spotify.com/track/2UENo0p6aHd5zfHmysz8Ks"
+    },
+    {
+      "album": {
+        "name": "Brahms: String Quartets & Piano Quintet",
+        "url": "https://open.spotify.com/album/5w26O4luj61UJ6FxHYgrgA"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Belcea Quartet",
+          "url": "https://open.spotify.com/artist/3w7DwDLRBfI6SfZnLVj7AB"
+        },
+        {
+          "name": "Till Fellner",
+          "url": "https://open.spotify.com/artist/2jvnRRcqUcbBaIFTUajl9V"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 640093,
+      "name": "Piano Quintet in F Minor, Op. 34: IV. Finale (Poco sostenuto - Allegro non troppo)",
+      "url": "https://open.spotify.com/track/3aQlVwIL7gwVnaIoSEpg0a"
     },
     {
       "album": {
@@ -843,10 +1345,32 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 398533,
       "name": "Piano Trio No. 1 in B Major, Op. 8: II. Scherzo - Allegro molto",
       "url": "https://open.spotify.com/track/2WJKa6EhaPklraQRNhAVNL"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano Trios Nos. 1 and 2",
+        "url": "https://open.spotify.com/album/0rjSpkVUOnqeKdxN79f0Mw"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Vienna Piano Trio",
+          "url": "https://open.spotify.com/artist/4djoug6i6Z2jtif3jgxZOE"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398533,
+      "name": "Piano Trio No. 1 in B Major, Op. 8: II. Scherzo - Allegro molto",
+      "url": "https://open.spotify.com/track/2fVZ7fi3S5S5FVMSO09TjZ"
     },
     {
       "album": {
@@ -877,7 +1401,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 809333,
       "name": "Rhapsody for Alto, Chorus, and Orchestra, Op. 53",
       "url": "https://open.spotify.com/track/4tjIbkMKbXPtXiBPlhqGft"
@@ -955,10 +1479,40 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1029160,
       "name": "Schicksalslied, Op. 54",
       "url": "https://open.spotify.com/track/48mwYgHplAN2ivt8BsXlc5"
+    },
+    {
+      "album": {
+        "name": "Brahms: Works for Chorus & Orchestra",
+        "url": "https://open.spotify.com/album/3sGSqNLCwZo59I1slXC5au"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "San Francisco Symphony Chorus",
+          "url": "https://open.spotify.com/artist/5lByk1u1t6mtgI2cuLyMso"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 1029160,
+      "name": "Schicksalslied, Op. 54",
+      "url": "https://open.spotify.com/track/6u4fX2ADbEwD8n13r2bZbp"
     },
     {
       "album": {
@@ -985,10 +1539,40 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1068013,
       "name": "Schicksalslied, Op. 54",
       "url": "https://open.spotify.com/track/1fjBlkuL0IBxsKuX4Xwngj"
+    },
+    {
+      "album": {
+        "name": "Brahms: Choral Music",
+        "url": "https://open.spotify.com/album/294JM4t58yhaVcI0f6wutm"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Warsaw Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/47gaWDKsDnCPtFbboN9Kvl"
+        },
+        {
+          "name": "Warsaw Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1068013,
+      "name": "Schicksalslied, Op. 54",
+      "url": "https://open.spotify.com/track/5r6LVGIncSFDqyV9iB2dw5"
     },
     {
       "album": {
@@ -1085,10 +1669,36 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 978893,
       "name": "Symphony No. 1 in C Minor, Op. 68: I. Un poco sostenuto - Allegro",
       "url": "https://open.spotify.com/track/0czHKM9saTQt7dhxxTitzi"
+    },
+    {
+      "album": {
+        "name": "Brahms: Symphony No. 1 / Tragic Overture / Academic Festival Overture",
+        "url": "https://open.spotify.com/album/2iF4wVy2x7tRTtlwej32t4"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 978893,
+      "name": "Symphony No. 1 in C Minor, Op. 68: I. Un poco sostenuto - Allegro",
+      "url": "https://open.spotify.com/track/5jHcSC5n3RgYNUO1IA4B6h"
     },
     {
       "album": {
@@ -1144,6 +1754,32 @@
     },
     {
       "album": {
+        "name": "Brahms : Symphony No. 2",
+        "url": "https://open.spotify.com/album/28ClTTfoUpB4q31omNoFy6"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Philharmonia Hungarica",
+          "url": "https://open.spotify.com/artist/1SCBA01kEf7DRpas7zk8Uv"
+        },
+        {
+          "name": "Libor Pe\u0161ek",
+          "url": "https://open.spotify.com/artist/0f4gYAcahUX8MaZxWQ2PG4"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 932000,
+      "name": "Symphony No. 2 in D Major, Op. 73: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/03JZxSO8iUAFcRcktZi2ua"
+    },
+    {
+      "album": {
         "name": "Brahms: Symphony No. 2",
         "url": "https://open.spotify.com/album/7AqAxSkaUYSRMw7qc2AsLt"
       },
@@ -1159,7 +1795,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 931026,
       "name": "Symphony No. 2 In D Major, Op. 73: I. Allegro Non Troppo",
       "url": "https://open.spotify.com/track/33dv8eRSzgTvDjInhEqzT0"
@@ -1237,10 +1873,36 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 767000,
       "name": "Symphony No. 4 in E Minor, Op. 98: I. Allegro non troppo",
       "url": "https://open.spotify.com/track/66A3B9VPxD0oCDsMAl5DXU"
+    },
+    {
+      "album": {
+        "name": "Brahms: Symphony No. 4 / Hungarian Dances Nos. 2, 4-9",
+        "url": "https://open.spotify.com/album/6ERw8AlVmHobT5xVkvgMr4"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 767000,
+      "name": "Symphony No. 4 in E Minor, Op. 98: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/6L7BMIjE0ruiOSC3ZLX0Om"
     },
     {
       "album": {
@@ -1263,10 +1925,36 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 844826,
       "name": "Tragic Overture, Op. 81: Allegro non troppo",
       "url": "https://open.spotify.com/track/26Lw3J0gIf1s0L1wa00hcL"
+    },
+    {
+      "album": {
+        "name": "Brahms: Symphony No. 1 / Tragic Overture / Academic Festival Overture",
+        "url": "https://open.spotify.com/album/2iF4wVy2x7tRTtlwej32t4"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 844826,
+      "name": "Tragic Overture, Op. 81: Allegro non troppo",
+      "url": "https://open.spotify.com/track/34fK2CZySXJ8b20Hyql4nd"
     },
     {
       "album": {
@@ -1293,7 +1981,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 368920,
       "name": "Trio for Violin, Horn & Piano in E-Flat Major, Op. 40: IV. Allegro con brio",
       "url": "https://open.spotify.com/track/4C8GfF3LOnJEiwIqQpG6mI"
@@ -1323,7 +2011,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 480373,
       "name": "Trio in A minor for clarinet/viola, cello and piano, Op. 114: I. Allegro",
       "url": "https://open.spotify.com/track/7docq1VLmM6j5ZAU8m6y75"
@@ -1365,7 +2053,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 353906,
       "name": "Two Songs, Op. 91: Geistliches Wiegenlied",
       "url": "https://open.spotify.com/track/2VhyrhMr3r7zJ96FMJx0Xg"
@@ -1391,10 +2079,36 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 128293,
       "name": "Variations on a Theme by Haydn, Op. 56a \"St. Anthony Variations\": I. Theme. Andante",
       "url": "https://open.spotify.com/track/09L1nthrjq6ePkvXB7S8n1"
+    },
+    {
+      "album": {
+        "name": "Brahms: Symphony No. 3 / Haydn Variations",
+        "url": "https://open.spotify.com/album/2U008dr0zOLARUw2bT2Tnm"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128293,
+      "name": "Variations on a Theme by Haydn, Op. 56a, \"St. Anthony Variations\": Thema, \"Chorale St. Antoni\": Andante",
+      "url": "https://open.spotify.com/track/6JbnqGLPU6kKD3gMame9NJ"
     },
     {
       "album": {
@@ -1420,8 +2134,8 @@
     },
     {
       "album": {
-        "name": "Brahms & Bruch: Violin Concertos",
-        "url": "https://open.spotify.com/album/71hNSc8CAFUw9806SSV6UH"
+        "name": "Brahms / Bruch: Violin Concertos",
+        "url": "https://open.spotify.com/album/4al7WuQ6iw4RlvMFbGYlyN"
       },
       "artists": [
         {
@@ -1433,20 +2147,20 @@
           "url": "https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj"
         },
         {
-          "name": "Slovensk\u00e1 filharm\u00f3nia",
-          "url": "https://open.spotify.com/artist/4wSFB6PPPhJ0Q2aYU9j4Jj"
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
         },
         {
           "name": "Stephen Gunzenhauser",
           "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
         }
       ],
-      "date_added": "2021-06-28",
+      "date_added": "2022-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 534666,
       "name": "Violin Concerto in D Major, Op. 77: II. Adagio",
-      "url": "https://open.spotify.com/track/68kVIdztYpDlOmhjhgY14u"
+      "url": "https://open.spotify.com/track/2Yphkf0HchaNstIIKf3MQ7"
     },
     {
       "album": {
@@ -1473,7 +2187,67 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 534666,
+      "name": "Violin Concerto in D Major, Op. 77: II. Adagio",
+      "url": "https://open.spotify.com/track/68kVIdztYpDlOmhjhgY14u"
+    },
+    {
+      "album": {
+        "name": "Brahms / Bruch: Violin Concertos",
+        "url": "https://open.spotify.com/album/4al7WuQ6iw4RlvMFbGYlyN"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Takako Nishizaki",
+          "url": "https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Stephen Gunzenhauser",
+          "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 510000,
+      "name": "Violin Concerto in D Major, Op. 77: III. Allegro giocoso, ma non troppo vivace",
+      "url": "https://open.spotify.com/track/3lcxhqs8AdAYpP9lyrvi4d"
+    },
+    {
+      "album": {
+        "name": "Brahms & Bruch: Violin Concertos",
+        "url": "https://open.spotify.com/album/71hNSc8CAFUw9806SSV6UH"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Takako Nishizaki",
+          "url": "https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj"
+        },
+        {
+          "name": "Slovensk\u00e1 filharm\u00f3nia",
+          "url": "https://open.spotify.com/artist/4wSFB6PPPhJ0Q2aYU9j4Jj"
+        },
+        {
+          "name": "Stephen Gunzenhauser",
+          "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 510000,
       "name": "Violin Concerto in D Major, Op. 77: III. Allegro giocoso, ma non troppo vivace",
       "url": "https://open.spotify.com/track/7ecsRd9KSnTIsKEmXUldJW"
@@ -1499,7 +2273,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 658080,
       "name": "Violin Sonata No. 1 in G Major, Op. 78 \"Regen\": Vivace ma non troppo",
       "url": "https://open.spotify.com/track/6wIrYtBvgfbTqK2A9EsMWa"
@@ -1507,7 +2281,7 @@
     {
       "album": {
         "name": "Brahms: Violin Sonatas Nos. 1-3, Opp. 78, 100 and 108",
-        "url": "https://open.spotify.com/album/1ncbtB3eEftUje1E8DScov"
+        "url": "https://open.spotify.com/album/1GdppnWjYz74M3mgcG6Cno"
       },
       "artists": [
         {
@@ -1523,12 +2297,12 @@
           "url": "https://open.spotify.com/artist/3ign9P0e3deW95GcSEhCBU"
         }
       ],
-      "date_added": "2021-06-28",
+      "date_added": "2022-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 314280,
-      "name": "Violin Sonata No. 3 in D Minor, Op. 108: Adagio",
-      "url": "https://open.spotify.com/track/0V9NVXuNSzno8MsxmQSAgs"
+      "duration_ms": 658080,
+      "name": "Violin Sonata No. 1 in G Major, Op. 78: Vivace ma non troppo",
+      "url": "https://open.spotify.com/track/2g4oiN0n2AcIoYPyxyOnTL"
     },
     {
       "album": {
@@ -1551,10 +2325,88 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 314280,
+      "name": "Violin Sonata No. 3 in D Minor, Op. 108: Adagio",
+      "url": "https://open.spotify.com/track/0V9NVXuNSzno8MsxmQSAgs"
+    },
+    {
+      "album": {
+        "name": "Brahms: Violin Sonatas Nos. 1-3, Opp. 78, 100 and 108",
+        "url": "https://open.spotify.com/album/1GdppnWjYz74M3mgcG6Cno"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Alexander Peskanov",
+          "url": "https://open.spotify.com/artist/3ign9P0e3deW95GcSEhCBU"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 314280,
+      "name": "Violin Sonata No. 3 in D Minor, Op. 108: Adagio",
+      "url": "https://open.spotify.com/track/3YJPZ6X05hk3HP9O35ozgf"
+    },
+    {
+      "album": {
+        "name": "Brahms: Violin Sonatas Nos. 1-3, Opp. 78, 100 and 108",
+        "url": "https://open.spotify.com/album/1ncbtB3eEftUje1E8DScov"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Alexander Peskanov",
+          "url": "https://open.spotify.com/artist/3ign9P0e3deW95GcSEhCBU"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 492840,
       "name": "Violin Sonata No. 3 in D Minor, Op. 108: Allegro",
       "url": "https://open.spotify.com/track/6MFMd0RLKC8MMZi7CZ0wai"
+    },
+    {
+      "album": {
+        "name": "Brahms: Violin Sonatas Nos. 1-3, Opp. 78, 100 and 108",
+        "url": "https://open.spotify.com/album/1GdppnWjYz74M3mgcG6Cno"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Alexander Peskanov",
+          "url": "https://open.spotify.com/artist/3ign9P0e3deW95GcSEhCBU"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492840,
+      "name": "Violin Sonata No. 3 in D Minor, Op. 108: Allegro",
+      "url": "https://open.spotify.com/track/6XFWv2NGUsS4YdeUTmMDP0"
     },
     {
       "album": {
@@ -1579,7 +2431,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148000,
-      "name": "Wiegenlied, Op.49, No.4",
+      "name": "Wiegenlied, Op. 49, No. 4",
       "url": "https://open.spotify.com/track/4Z9cXGgviHafSAd7KzxABm"
     }
   ],

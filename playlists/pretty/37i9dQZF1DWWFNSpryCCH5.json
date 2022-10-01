@@ -1,13 +1,73 @@
 {
   "description": "Revive aquellas grandes canciones desenchufadas.",
-  "num_followers": 1041082,
+  "num_followers": 1048779,
   "original_name": "Grandes Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE5MzM3NCwwMDAwMDAwMDVhMDYxMThmODA5MzQwOGM4YjRmODNjOTJhYzgwZTc2",
+  "snapshot_id": "MTYxMjk5MTc2NywwMDAwMDAwMGZiMGU2YjZjYWM5MGU5MWVjMzAzODU3Njg3ZmM0Njkx",
   "tracks": [
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 243040,
+      "name": "Labios Rotos - En Vivo",
+      "url": "https://open.spotify.com/track/1nULBrlzWatdcjA2ZctIMv"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 305120,
+      "name": "Prometiste",
+      "url": "https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Unplugged (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H"
+    },
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
@@ -27,42 +87,6 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "La Ley MTV Unplugged",
-        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        },
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 328906,
-      "name": "El Duelo (feat. Ely Guerra)",
-      "url": "https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/0FP3X2Uw9eE3cQwNvEjouI"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 225986,
-      "name": "La Camisa Negra - MTV Unplugged",
-      "url": "https://open.spotify.com/track/6ZLoPT28XlFtfrlrYqYHBY"
     },
     {
       "added_at": "2021-02-10 21:16:07",
@@ -91,94 +115,6 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Se Me Olvid\u00f3 Otra Vez - Unplugged",
-      "url": "https://open.spotify.com/track/6k2AsDKvvip54F59DIn1Mv"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Sue\u00f1os (with Julieta Venegas) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "El regreso",
-        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "Para no olvidar - En directo 2005",
-      "url": "https://open.spotify.com/track/3lp6PxDzfI5P4Ge3V1fKdi"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 312442,
-      "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
-      "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -188,25 +124,41 @@
           "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
         }
       ],
-      "duration_ms": 298800,
-      "name": "Fuera de m\u00ed",
-      "url": "https://open.spotify.com/track/5XH286garUg3tcciTKR50O"
+      "duration_ms": 288066,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
     },
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "Un Segundo MTV Unplugged",
-        "url": "https://open.spotify.com/album/560jtpKSOE6SAcEdiK60En"
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 305280,
-      "name": "Eres - MTV Unplugged",
-      "url": "https://open.spotify.com/track/6fKT4AyoqVEqerghyYpuGr"
+      "duration_ms": 247000,
+      "name": "Te Para 3 - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged: Con El Alma Desnuda",
+        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 298546,
+      "name": "La Chica De Humo - MTV Unplugged",
+      "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
     },
     {
       "added_at": "2021-02-10 21:16:07",
@@ -227,94 +179,18 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "Conexi\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/52uu18bfye1mBlXUbYzETg"
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
       "artists": [
         {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 287840,
-      "name": "Un A\u00f1o M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/3uZQDEq3fzevuqFjQVOIPi"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Pablo Albor\u00e1n Spotify Sessions",
-        "url": "https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 266104,
-      "name": "Pasos de cero - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Julieta Venegas - MTV Unplugged",
-        "url": "https://open.spotify.com/album/3pC4FW5E8fptaThnG7WHjU"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 282733,
-      "name": "Eres para M\u00ed - Unplugged (En Vivo)",
-      "url": "https://open.spotify.com/track/6QIcOeKxG3vWu5TraR7sqD"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Tour 2007",
-        "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 324826,
-      "name": "La chispa adecuada - Live",
-      "url": "https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Desde Adentro - Impuesto de Fe (En Vivo)",
-        "url": "https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 163186,
-      "name": "Irresponsables - En Vivo",
-      "url": "https://open.spotify.com/track/17ZUhkTEK46wyeWm4A71Ja"
+      "duration_ms": 226626,
+      "name": "So\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
     },
     {
       "added_at": "2021-02-10 21:16:07",
@@ -339,6 +215,38 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
+        "name": "Unplugged (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "About A Girl",
+      "url": "https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -346,199 +254,15 @@
         {
           "name": "La Ley",
           "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 288066,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         },
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 237873,
-      "name": "De Nada Sirve",
-      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "Un Misil En Mi Placard - MTV Unplugged",
-      "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged: Con El Alma Desnuda",
-        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 298546,
-      "name": "La Chica De Humo - MTV Unplugged",
-      "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Tour Americano 14/15",
-        "url": "https://open.spotify.com/album/1raRxblTKBGTQ0q0qZSn3o"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 420465,
-      "name": "La Flaca",
-      "url": "https://open.spotify.com/track/3yGoV8L7vjF5OVKv9KPMkG"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged: El Desconecte",
-        "url": "https://open.spotify.com/album/5ceBnTwI1hUewZEwYnTc7z"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 313400,
-      "name": "Hit Me - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3vKCtmzGnf87XsILKozKVX"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Putita (En Vivo)",
-        "url": "https://open.spotify.com/album/3C0JntgCNROuxKbNiUPMJ6"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "Putita - En Vivo",
-      "url": "https://open.spotify.com/track/43r48Z870l22Azz0WbdvNo"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Estrella De Mar",
-        "url": "https://open.spotify.com/album/61ubSwllNCZJux3IG7G83T"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        },
-        {
-          "name": "Beto Cuevas",
-          "url": "https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL"
-        }
-      ],
-      "duration_ms": 245520,
-      "name": "Te necesito - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/61ZvRYNgX7WliB1kgQB32a"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Live 2010 - Zenith Paris, 22.03.10",
-        "url": "https://open.spotify.com/album/4rDXelyOv9EN1Zz1spMhP2"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 295093,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/1P6p83zUu3kQoOktOcMpfh"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Standard Version)",
-        "url": "https://open.spotify.com/album/7HvlcB4kC6QivGpN7ABaVP"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 226652,
-      "name": "So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/46UhTfdy7LhAFK8BalnJid"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Shakira MTV Unplugged",
-        "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Inevitable - En Vivo",
-      "url": "https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "Rezo Por Vos - Live",
-      "url": "https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2"
+      "duration_ms": 328906,
+      "name": "El Duelo (feat. Ely Guerra)",
+      "url": "https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8"
     },
     {
       "added_at": "2021-02-10 21:16:07",
@@ -555,246 +279,6 @@
       "duration_ms": 522000,
       "name": "En la Ciudad de la Furia - MTV Unplugged",
       "url": "https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged: Con El Alma Desnuda",
-        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        },
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 281013,
-      "name": "Toda La Vida - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3ldtYU2YTeuwWYkMFicLxW"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Julieta Venegas - MTV Unplugged",
-        "url": "https://open.spotify.com/album/3pC4FW5E8fptaThnG7WHjU"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "Andar Conmigo (Unplugged) (En Vivo)",
-      "url": "https://open.spotify.com/track/4gCqWOCTXd5pd5xsU8eBGv"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Pepe Aguilar MTV Unplugged [(MTV Unplugged) [En Vivo]]",
-        "url": "https://open.spotify.com/album/4H1UMurbDPzRjrRA5l0nNp"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Melissa",
-          "url": "https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 305120,
-      "name": "Prometiste - MTV Unplugged [En Vivo]",
-      "url": "https://open.spotify.com/track/4UuVcf9nvpqyPsOk0P9oBH"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 324773,
-      "name": "Si t\u00fa no vuelves - MTV Unplugged",
-      "url": "https://open.spotify.com/track/0L5sYIDHdhnwtJE0xB0JKV"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Un Segundo MTV Unplugged",
-        "url": "https://open.spotify.com/album/560jtpKSOE6SAcEdiK60En"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 490973,
-      "name": "Volver A Comenzar - MTV Unplugged",
-      "url": "https://open.spotify.com/track/6krt3757ORUUW0YvlvlTJK"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Amor Completo (Cap\u00edtulo II/En Vivo, Desde El Lunario del Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/3WyzzIAD5VEDXdK4njtj4N"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Amor Completo - En Vivo, Desde El Lunario del Auditorio Nacional",
-      "url": "https://open.spotify.com/track/0wDZ5TPc6PUgYq3IuCbafB"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Standard Version)",
-        "url": "https://open.spotify.com/album/7HvlcB4kC6QivGpN7ABaVP"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 243094,
-      "name": "Labios Rotos",
-      "url": "https://open.spotify.com/track/2DWzn0kVcV9iKkiiee4rRE"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Ghost Stories Live 2014",
-        "url": "https://open.spotify.com/album/1hNS0RsxPTFjmKXCgmjSLS"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 292146,
-      "name": "Magic - Live at the Enmore Theatre, Sydney",
-      "url": "https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Te Para 3 - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Rock En Tu Idioma Sinf\u00f3nico, Vol.2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1VdXpzYXEl3GZwghlc1icV"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 270413,
-      "name": "Bolero Falaz - Versi\u00f3n Sinf\u00f3nico [En Vivo]",
-      "url": "https://open.spotify.com/track/2TOmFExFE2wDiCfcurgbBJ"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 414333,
-      "name": "El baile y el salon - Unplugged",
-      "url": "https://open.spotify.com/track/3k64ZLozksTCtXL4JtD80L"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Los Tres MTV Unplugged",
-        "url": "https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 278066,
-      "name": "He Barrido el Sol - Unplugged Version",
-      "url": "https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/17ixV4uTZRqattFeU4h8th"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 267466,
-      "name": "I'll Always Be Right There - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/0IKMxnXUBEe81fZbVUrlRy"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Luna - En Vivo",
-      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
     },
     {
       "added_at": "2021-02-10 21:16:07",
@@ -819,34 +303,126 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 255133,
-      "name": "Mar\u00eda - Unplugged",
-      "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
+      "duration_ms": 280400,
+      "name": "Luna - En Vivo",
+      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
     },
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "Panda MTV Unplugged (Live)",
-        "url": "https://open.spotify.com/album/1vtmvP6HpYWljDR2vplT3b"
+        "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
       "artists": [
         {
-          "name": "PXNDX",
-          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 238841,
-      "name": "Los Malaventurados No Lloran - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1Qm69nuJeRLCmu4c5MnplS"
+      "duration_ms": 312442,
+      "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
+      "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 237873,
+      "name": "De Nada Sirve",
+      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Sue\u00f1os (with Julieta Venegas) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 274586,
+      "name": "Un Misil En Mi Placard - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg"
+      },
+      "artists": [
+        {
+          "name": "10,000 Maniacs",
+          "url": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Because the Night - Live Unplugged",
+      "url": "https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq"
     },
     {
       "added_at": "2021-02-10 21:16:07",
@@ -871,18 +447,442 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "Here We Kum (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3Q9jipuRZvFyyS4sZSoaMn"
+        "name": "MTV Unplugged - Summer Solstice",
+        "url": "https://open.spotify.com/album/55SHqC4ZxSnT0wWQgg9eOY"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 253906,
+      "name": "Take On Me - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7htt7UuxHL5wneOcMWJP5E"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/3bH8PZsfbCRIoeNiFm7JmU"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Se Me Olvid\u00f3 Otra Vez - Unplugged",
+      "url": "https://open.spotify.com/track/6k2AsDKvvip54F59DIn1Mv"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged: Con El Alma Desnuda",
+        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        },
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 281013,
+      "name": "Toda La Vida - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3ldtYU2YTeuwWYkMFicLxW"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Estrella De Mar",
+        "url": "https://open.spotify.com/album/61ubSwllNCZJux3IG7G83T"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        },
+        {
+          "name": "Beto Cuevas",
+          "url": "https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL"
+        }
+      ],
+      "duration_ms": 245520,
+      "name": "Te necesito - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/61ZvRYNgX7WliB1kgQB32a"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "La Ley MTV Unplugged",
+        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 298800,
+      "name": "Fuera de m\u00ed",
+      "url": "https://open.spotify.com/track/5XH286garUg3tcciTKR50O"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 227466,
+      "name": "The Man Who Sold The World - Live Version",
+      "url": "https://open.spotify.com/track/1XnPVbzLhuBv0sHaCTgyoi"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "Linger - Acoustic Version",
+      "url": "https://open.spotify.com/track/4oGuHZ966kmCmt3DRVxjXw"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/22MrOvzmcn6WeE4v6Ua6dj"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 243941,
+      "name": "I'm Yours - Live on HSN Live",
+      "url": "https://open.spotify.com/track/1j5cGcXWdHKTPQ2XgXODJI"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Conexi\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/5NxW0Aim29Q9jWXoqA2WYB"
+      },
+      "artists": [
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Un A\u00f1o M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/2qz2TwDrWbDKK4rdHkV66V"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "You Learn - Live / Unplugged",
+      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 231874,
+      "name": "\u00daltimos D\u00edas - En Vivo",
+      "url": "https://open.spotify.com/track/47NLimerGALH038upaVAwD"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Ghost Stories Live 2014",
+        "url": "https://open.spotify.com/album/1hNS0RsxPTFjmKXCgmjSLS"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 292146,
+      "name": "Magic - Live at the Enmore Theatre, Sydney",
+      "url": "https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "El regreso",
+        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "Para no olvidar - En directo 2005",
+      "url": "https://open.spotify.com/track/3lp6PxDzfI5P4Ge3V1fKdi"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 324773,
+      "name": "Si t\u00fa no vuelves - MTV Unplugged",
+      "url": "https://open.spotify.com/track/0L5sYIDHdhnwtJE0xB0JKV"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "duration_ms": 282733,
+      "name": "Eres para M\u00ed (with La Mala Rodr\u00edguez) - Unplugged (En Vivo)",
+      "url": "https://open.spotify.com/track/1gL4YEW5qp6mv2aku06a06"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Rock 'N' Roll All Nite - Live",
+      "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "Rezo Por Vos - Live",
+      "url": "https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Un Segundo MTV Unplugged",
+        "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 305280,
+      "name": "Eres - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7stJkVkDr8fn52qR2HL2I0"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged: El Desconecte",
+        "url": "https://open.spotify.com/album/5ceBnTwI1hUewZEwYnTc7z"
       },
       "artists": [
         {
           "name": "Molotov",
           "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 283333,
-      "name": "Here We Kum - MTV Unplugged",
-      "url": "https://open.spotify.com/track/4W2MGgZyieERJLtTrzW5cz"
+      "duration_ms": 313400,
+      "name": "Hit Me - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3vKCtmzGnf87XsILKozKVX"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Pearl Jam Twenty Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 339960,
+      "name": "Black - Kaufman Astoria Studios - MTV Unplugged - New York, NY 3/16/1992",
+      "url": "https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Here Without You (Acoustic)",
+        "url": "https://open.spotify.com/album/4flaMBqrWP26gwhRRxbq7e"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 232973,
+      "name": "Here Without You - Acoustic",
+      "url": "https://open.spotify.com/track/2HIU8kiFo9sB5ih05q8wgP"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/081klksuaEwHIzuHGCks5p"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 267626,
+      "name": "I'll Always Be Right There - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/2z1HcH3hHiuo9nN3Jy7HEM"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Shakira MTV Unplugged",
+        "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Inevitable - En Vivo",
+      "url": "https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
+        "name": "Los Tres MTV Unplugged",
+        "url": "https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 278066,
+      "name": "He Barrido el Sol - Unplugged Version",
+      "url": "https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz"
     }
   ],
   "unique_name": "Grandes Unplugged",

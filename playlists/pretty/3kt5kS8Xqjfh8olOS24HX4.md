@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kt5kS8Xqjfh8olOS24HX4.md) - [plain]
 
 > Get your sparklers out for this patriotic blend of folk, pop, and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 35 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 58 likes - 35 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

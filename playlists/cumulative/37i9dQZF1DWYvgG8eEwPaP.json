@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "Miss Pooja - Kudi Punjab Di",
+        "url": "https://open.spotify.com/album/5MV1TtROzY1r75MunvHdeY"
+      },
+      "artists": [
+        {
+          "name": "Miss Pooja",
+          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
+        }
+      ],
+      "date_added": "2019-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Baari Baari Barsi",
+      "url": "https://open.spotify.com/track/2xCdRazgyBUYtPtEaxrFw3"
+    },
+    {
+      "album": {
         "name": "Baari Baari Barsi",
         "url": "https://open.spotify.com/album/6n1Ut1hOzm9i2TFfEziYGQ"
       },
@@ -45,7 +63,7 @@
       ],
       "date_added": "2019-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221500,
       "name": "Baari Baari Barsi",
       "url": "https://open.spotify.com/track/60Ne3aGDgfPayz36USh52x"
@@ -96,6 +114,42 @@
     },
     {
       "album": {
+        "name": "Ishq Garaari",
+        "url": "https://open.spotify.com/album/4BLtAkUxm6i28Nfmy9MKzs"
+      },
+      "artists": [
+        {
+          "name": "Miss Pooja",
+          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
+        }
+      ],
+      "date_added": "2019-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185620,
+      "name": "Bima Karvalo Jaan Da",
+      "url": "https://open.spotify.com/track/3551XCfyJxPxF8CJOpMr1x"
+    },
+    {
+      "album": {
+        "name": "Ishq Garaari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6UcmGe2HS6mKrPQ59QNDU5"
+      },
+      "artists": [
+        {
+          "name": "Miss Pooja",
+          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
+        }
+      ],
+      "date_added": "2019-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 185652,
+      "name": "Bima Karvalo Jaan Da",
+      "url": "https://open.spotify.com/track/1xPbA8SwKFVatyH6ZlL1hW"
+    },
+    {
+      "album": {
         "name": "Ishq Garaari (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0E3MzPed0qjRl1nDsSfLfH"
       },
@@ -107,7 +161,7 @@
       ],
       "date_added": "2019-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185678,
       "name": "Bima Karvalo Jaan Da",
       "url": "https://open.spotify.com/track/1yZYTLyxkFIO36sOciszWZ"
@@ -129,6 +183,28 @@
       "duration_ms": 426386,
       "name": "Boliyan",
       "url": "https://open.spotify.com/track/5FEeDDrfetiUrWDTT6pI1K"
+    },
+    {
+      "album": {
+        "name": "Echoes from Concerts Around the World",
+        "url": "https://open.spotify.com/album/6H41S3gR08WIQ8bT33SqoH"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        },
+        {
+          "name": "Chitra Singh",
+          "url": "https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo"
+        }
+      ],
+      "date_added": "2019-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446840,
+      "name": "Boliyan",
+      "url": "https://open.spotify.com/track/07lOAKy8MyhUrwUgti4R4l"
     },
     {
       "album": {
@@ -165,7 +241,7 @@
       ],
       "date_added": "2019-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 446840,
       "name": "Boliyan Punjabi Folk - Original",
       "url": "https://open.spotify.com/track/3EMia99ufXkqIuf50FcdO9"
@@ -183,10 +259,28 @@
       ],
       "date_added": "2019-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256508,
       "name": "Bulley Shah (From \"Hey Soniye\")",
       "url": "https://open.spotify.com/track/7coAqNcFx6Z733SiOe7TvW"
+    },
+    {
+      "album": {
+        "name": "Hey Soniye",
+        "url": "https://open.spotify.com/album/5A7GfTsFQTO3yiOeJUC9HP"
+      },
+      "artists": [
+        {
+          "name": "Silinder Pardesi",
+          "url": "https://open.spotify.com/artist/7DAQ0MYm1LQ00GbF7OrtZO"
+        }
+      ],
+      "date_added": "2019-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259972,
+      "name": "Bulley Shah - Unplugged",
+      "url": "https://open.spotify.com/track/4BlL9VYXAYuXc1vNpz6Dc6"
     },
     {
       "album": {
@@ -205,10 +299,32 @@
       ],
       "date_added": "2019-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 350266,
       "name": "Chaa Da Cup",
       "url": "https://open.spotify.com/track/2MselOrG2fXw4Xn892BjEd"
+    },
+    {
+      "album": {
+        "name": "Chah Da Cup 2",
+        "url": "https://open.spotify.com/album/23iXMTjeU5SFld7PiX3Nnd"
+      },
+      "artists": [
+        {
+          "name": "Babu Chandigarhia",
+          "url": "https://open.spotify.com/artist/2chDSHehyzR81P7jIxq2nB"
+        },
+        {
+          "name": "Miss Pooja",
+          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
+        }
+      ],
+      "date_added": "2019-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350266,
+      "name": "Chah Da Cup, Pt. 2",
+      "url": "https://open.spotify.com/track/0FfqoDtNVC7pSoyVz9MvaL"
     },
     {
       "album": {
@@ -231,6 +347,28 @@
     {
       "album": {
         "name": "Desi Jatt",
+        "url": "https://open.spotify.com/album/7f8hL1HTI0j1J5DrAObD4v"
+      },
+      "artists": [
+        {
+          "name": "Harjeet Heera",
+          "url": "https://open.spotify.com/artist/4ij4nj6ZPn7T4FFE9knGCI"
+        },
+        {
+          "name": "Miss Pooja",
+          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
+        }
+      ],
+      "date_added": "2019-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269813,
+      "name": "Desi Jatt",
+      "url": "https://open.spotify.com/track/5xC73xyQ9Wiyn7IphIepjQ"
+    },
+    {
+      "album": {
+        "name": "Desi Jatt",
         "url": "https://open.spotify.com/album/2T5qWHzjDyn8Ha3qUvLVbj"
       },
       "artists": [
@@ -245,7 +383,7 @@
       ],
       "date_added": "2019-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269813,
       "name": "Desi Jatt",
       "url": "https://open.spotify.com/track/02utvJ5kGIQJbOJdK3WxDF"
@@ -333,10 +471,32 @@
       ],
       "date_added": "2019-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194500,
       "name": "Jeeeju",
       "url": "https://open.spotify.com/track/2X0CK20cwcI3S8ClixLVH4"
+    },
+    {
+      "album": {
+        "name": "Jeeeju - Single",
+        "url": "https://open.spotify.com/album/3cXErCpIhNdqibrsVyPBTm"
+      },
+      "artists": [
+        {
+          "name": "Miss Pooja",
+          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
+        },
+        {
+          "name": "Harish Verma",
+          "url": "https://open.spotify.com/artist/6JfYDFQWMlAMizvlVIMdFX"
+        }
+      ],
+      "date_added": "2019-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Jeeeju",
+      "url": "https://open.spotify.com/track/1X0JotKLOpb3sC89s620aK"
     },
     {
       "album": {
@@ -428,6 +588,24 @@
     },
     {
       "album": {
+        "name": "The Biggest Desi Hits, Vol.1",
+        "url": "https://open.spotify.com/album/4sLPyGhZ7aSuX5o7NJEdmy"
+      },
+      "artists": [
+        {
+          "name": "Miss Pooja",
+          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
+        }
+      ],
+      "date_added": "2019-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206173,
+      "name": "Miss Pooja Boliyan",
+      "url": "https://open.spotify.com/track/5WBWieyRiaNL3c8hJe9o0m"
+    },
+    {
+      "album": {
         "name": "Miss Pooja Live Concert",
         "url": "https://open.spotify.com/album/4GY1LddIWZ7m4Ku06PcN5W"
       },
@@ -443,7 +621,7 @@
       ],
       "date_added": "2019-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204173,
       "name": "Miss Pooja Boliyan",
       "url": "https://open.spotify.com/track/63WDd7WkGGL9U6J8Twv8sp"
@@ -579,10 +757,54 @@
       ],
       "date_added": "2019-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205924,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/133oRYe55wNjNVFsB6fpcM"
+    },
+    {
+      "album": {
+        "name": "Painkiller - Single",
+        "url": "https://open.spotify.com/album/5xnkPSxaEFhsc2pu019e66"
+      },
+      "artists": [
+        {
+          "name": "Miss Pooja",
+          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
+        },
+        {
+          "name": "Fateh",
+          "url": "https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP"
+        }
+      ],
+      "date_added": "2019-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205975,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/2a7Mun0qIv8Xr0raXZwAP7"
+    },
+    {
+      "album": {
+        "name": "Shartan (Seeti Maar Ke)",
+        "url": "https://open.spotify.com/album/0D6ZUI004iUbOCzeOPDWX6"
+      },
+      "artists": [
+        {
+          "name": "Geeta Zaildar",
+          "url": "https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a"
+        },
+        {
+          "name": "Miss Pooja",
+          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
+        }
+      ],
+      "date_added": "2019-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288866,
+      "name": "Seeti Maar Ke",
+      "url": "https://open.spotify.com/track/5NiLpcsWJnKqftntyvyyEV"
     },
     {
       "album": {
@@ -601,7 +823,7 @@
       ],
       "date_added": "2019-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 288866,
       "name": "Seeti Maar Ke",
       "url": "https://open.spotify.com/track/7Lxu1B5i37iGvdHzyKdAGy"

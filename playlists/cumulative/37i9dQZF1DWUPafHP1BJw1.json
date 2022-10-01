@@ -93,6 +93,24 @@
     {
       "album": {
         "name": "Pop Goes Classical",
+        "url": "https://open.spotify.com/album/20Et1l6jsJdticffIphZQP"
+      },
+      "artists": [
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP"
+    },
+    {
+      "album": {
+        "name": "Pop Goes Classical",
         "url": "https://open.spotify.com/album/58i8rbysdhVemJzgFtP5Bo"
       },
       "artists": [
@@ -103,7 +121,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198053,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/364awD0WkGUrHqvV92NLvd"
@@ -285,14 +303,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 331757,
       "name": "Bastille: The Piano Tribute Medley",
       "url": "https://open.spotify.com/track/72VAb7qicZRp0ZL0JKir20"
     },
     {
       "album": {
-        "name": "90s Piano Covers",
+        "name": "Bastille: The Piano Tribute Medley",
+        "url": "https://open.spotify.com/album/2MhY3eaXyskSe0CpHl4kOw"
+      },
+      "artists": [
+        {
+          "name": "Costantino Carrara",
+          "url": "https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331757,
+      "name": "Bastille: The Piano Tribute Medley",
+      "url": "https://open.spotify.com/track/7LVIdIAod9vKTGui5KU60K"
+    },
+    {
+      "album": {
+        "name": "90s Piano Covers (Vol. 1)",
         "url": "https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped"
       },
       "artists": [
@@ -513,10 +549,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202946,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/6MtZj0BUdsC03AD40hkEGe"
+    },
+    {
+      "album": {
+        "name": "Simply Three",
+        "url": "https://open.spotify.com/album/5PQfgKvAKCS4UodD41FAfb"
+      },
+      "artists": [
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202946,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/6YQcHXmPKwghGkWUZdKPDG"
     },
     {
       "album": {
@@ -671,6 +725,24 @@
     {
       "album": {
         "name": "Don't Start Now (Piano Arrangement)",
+        "url": "https://open.spotify.com/album/2ukWfzXS1vRh3elja259of"
+      },
+      "artists": [
+        {
+          "name": "Costantino Carrara",
+          "url": "https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Don't Start Now - Piano Arrangement",
+      "url": "https://open.spotify.com/track/25whEqyIHgzfvnfwORMgUv"
+    },
+    {
+      "album": {
+        "name": "Don't Start Now (Piano Arrangement)",
         "url": "https://open.spotify.com/album/25cZqm0GvwFkEQq8CEgKPL"
       },
       "artists": [
@@ -681,7 +753,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161250,
       "name": "Don't Start Now - Piano Arrangement",
       "url": "https://open.spotify.com/track/645iSJrCsQZMgLoMqdGkI0"
@@ -1132,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "IDOL",
+        "url": "https://open.spotify.com/album/0LzZLzIcCZmQNb63bH81Rj"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221680,
+      "name": "IDOL",
+      "url": "https://open.spotify.com/track/40THRMzCNR75ta2uRvcVlS"
+    },
+    {
+      "album": {
         "name": "Imagine What a Wonderful World",
         "url": "https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC"
       },
@@ -1208,6 +1298,50 @@
     },
     {
       "album": {
+        "name": "Let's Get Loud",
+        "url": "https://open.spotify.com/album/3fX7jccVdL4ZuYkJ806fIR"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227124,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/3ujhnUL6rvA8CTGTj2qc3F"
+    },
+    {
+      "album": {
+        "name": "Explosive (Deluxe)",
+        "url": "https://open.spotify.com/album/1BOjQtnxLLlJupPGOKEeck"
+      },
+      "artists": [
+        {
+          "name": "David Garrett",
+          "url": "https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Franck van der Heijden",
+          "url": "https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186426,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/1crphtLmE5qben7biopmp3"
+    },
+    {
+      "album": {
         "name": "Explosive (Deluxe)",
         "url": "https://open.spotify.com/album/2492Jm7yo7tF41MO9xjGgU"
       },
@@ -1227,7 +1361,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186426,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/5dECb0YYO0GHu3AWNqfrIM"
@@ -1445,6 +1579,24 @@
     {
       "album": {
         "name": "Inquisition Symphony",
+        "url": "https://open.spotify.com/album/6leqa6QQESn76w64IdN9yQ"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285533,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/3uErbNGaNIPJkRlMrLxR9Z"
+    },
+    {
+      "album": {
+        "name": "Inquisition Symphony",
         "url": "https://open.spotify.com/album/43ZBK0wkWhW6v5Pdx7ht6d"
       },
       "artists": [
@@ -1455,7 +1607,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285533,
       "name": "Nothing Else Matters - Instrumental Version",
       "url": "https://open.spotify.com/track/3RxE3PASwabEJSolUs1hh0"
@@ -1695,10 +1847,46 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160496,
       "name": "Shake It Off (Originally Performed by Taylor Swift)",
       "url": "https://open.spotify.com/track/4gcQGnyJYyxlbTtO8Qx9Dy"
+    },
+    {
+      "album": {
+        "name": "Shake It Off (Originally Performed by Taylor Swift)",
+        "url": "https://open.spotify.com/album/6fsnME3JizGwIc7MgPwxNO"
+      },
+      "artists": [
+        {
+          "name": "Sean Redmond",
+          "url": "https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Shake It Off (Originally Performed by Taylor Swift)",
+      "url": "https://open.spotify.com/track/5lZKq1z5jpVu7ha6zklvXS"
+    },
+    {
+      "album": {
+        "name": "Shallow (Piano Version)",
+        "url": "https://open.spotify.com/album/0VmNjm95rxyjhzwJiT3bhE"
+      },
+      "artists": [
+        {
+          "name": "Dan Evmark",
+          "url": "https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258531,
+      "name": "Shallow - Piano Version",
+      "url": "https://open.spotify.com/track/2TVtbMZR9r2nxI7XAnhxbF"
     },
     {
       "album": {
@@ -1713,7 +1901,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258531,
       "name": "Shallow Day",
       "url": "https://open.spotify.com/track/275wgtKr7leG3bk8dKmeSa"
@@ -1870,6 +2058,28 @@
     },
     {
       "album": {
+        "name": "Song 2 (Woo Hoo)",
+        "url": "https://open.spotify.com/album/6Hb2alu2sB62badqv0pC1F"
+      },
+      "artists": [
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        },
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115682,
+      "name": "Song 2 (Woo Hoo)",
+      "url": "https://open.spotify.com/track/1AftiFHwqBqCwlVinYwPmK"
+    },
+    {
+      "album": {
         "name": "Sour Times",
         "url": "https://open.spotify.com/album/2qOwHnB9gPok5Bp5qLtBef"
       },
@@ -1969,10 +2179,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 278400,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/0i75xg1hBO4BQuivKkGio1"
+    },
+    {
+      "album": {
+        "name": "Fuzzbox",
+        "url": "https://open.spotify.com/album/6obah2tloYKurr25coxtTm"
+      },
+      "artists": [
+        {
+          "name": "The Section Quartet",
+          "url": "https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/7A4dZr5uXjb8qggBoAJttJ"
     },
     {
       "album": {
@@ -1995,6 +2223,24 @@
     {
       "album": {
         "name": "Volume 2",
+        "url": "https://open.spotify.com/album/4zXRI1N7np71w5xqGmP0on"
+      },
+      "artists": [
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250600,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/3hWJYwHivHN8TTNS4AAaCO"
+    },
+    {
+      "album": {
+        "name": "Volume 2",
         "url": "https://open.spotify.com/album/1OruJmAvXK5Pa3BawvswSJ"
       },
       "artists": [
@@ -2005,7 +2251,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250600,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/5xEBEZi40MdHruE01O3ws6"
@@ -2077,10 +2323,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226622,
       "name": "Titanium",
       "url": "https://open.spotify.com/track/0upg8RVqoy93lgnKweJIgL"
+    },
+    {
+      "album": {
+        "name": "Electric Air",
+        "url": "https://open.spotify.com/album/6G1BNEaFS6wJ1dPB5qMY4h"
+      },
+      "artists": [
+        {
+          "name": "Eklipse",
+          "url": "https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226626,
+      "name": "Titanium - David Guetta",
+      "url": "https://open.spotify.com/track/4X54FzF8cMJVMdMTpg79zE"
     },
     {
       "album": {
@@ -2299,6 +2563,24 @@
       "duration_ms": 208663,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L"
+    },
+    {
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/1hsrPDPkjpeHlI6Tf5tALg"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/3lIwgE7hC7X6kbRH3zKYsv"
     },
     {
       "album": {

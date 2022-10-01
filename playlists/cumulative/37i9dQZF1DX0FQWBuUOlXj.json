@@ -63,7 +63,7 @@
     {
       "album": {
         "name": "This Time of the Year",
-        "url": "https://open.spotify.com/album/2lEZnRnI0UAmOJUb4ImFvA"
+        "url": "https://open.spotify.com/album/6iSbi6bADvBlVS5vsc4hap"
       },
       "artists": [
         {
@@ -74,6 +74,24 @@
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229860,
+      "name": "Back to the Beginning",
+      "url": "https://open.spotify.com/track/0vyNxE8W1tkbOA9s64UfGa"
+    },
+    {
+      "album": {
+        "name": "This Time of the Year",
+        "url": "https://open.spotify.com/album/2lEZnRnI0UAmOJUb4ImFvA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Espe",
+          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 229860,
       "name": "Back to the Beginning",
       "url": "https://open.spotify.com/track/4g374m0wawUeanQ9iov9jI"
@@ -293,10 +311,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256120,
       "name": "Into My Arms",
       "url": "https://open.spotify.com/track/0dDDB5Y0USPabzqBmajLJr"
+    },
+    {
+      "album": {
+        "name": "The Boatman's Call (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256120,
+      "name": "Into My Arms - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj"
     },
     {
       "album": {
@@ -391,7 +427,7 @@
     {
       "album": {
         "name": "Echo",
-        "url": "https://open.spotify.com/album/6KF7nebjXfMqnli4lIg0mH"
+        "url": "https://open.spotify.com/album/2EPjdx6A66QkuM2UQYYIcK"
       },
       "artists": [
         {
@@ -402,6 +438,24 @@
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 295486,
+      "name": "Little Piece of Nothing",
+      "url": "https://open.spotify.com/track/5Kdg1xQa6pQACBTxRa2faR"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6KF7nebjXfMqnli4lIg0mH"
+      },
+      "artists": [
+        {
+          "name": "Dave Thomas Junior",
+          "url": "https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 295486,
       "name": "Little Piece of Nothing",
       "url": "https://open.spotify.com/track/71hPJJ106daQSnIY34YCg5"

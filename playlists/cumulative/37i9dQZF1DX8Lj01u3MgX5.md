@@ -4,14 +4,15 @@
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-69 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/50QR79j8k5LtNRr6rof7wE)
+72 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/50QR79j8k5LtNRr6rof7wE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Addicted To Love](https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu), [Eric 'ET' Thorngren](https://open.spotify.com/artist/0tO3KaRy0ZACd8XJYT3IX2) | [Riptide](https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd) | 6:03 | 2020-04-13 |  |
 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2020-04-13 |  |
 | [All and All](https://open.spotify.com/track/5d7k3UJrfQx6OI5cWpXZ2a) | [Joyce Sims](https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ) | [Come into My Life: The Very Best of Joyce Sims](https://open.spotify.com/album/73n6TRu2pLwThwpXZiIxdP) | 6:07 | 2020-04-13 |  |
-| [Always Something There to Remind Me](https://open.spotify.com/track/0KlJjhnfwAnPacNd7EH45J) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Burning Bridges](https://open.spotify.com/album/6yRpzEmRaZbj1tFD0zYLe8) | 3:38 | 2020-04-13 |  |
+| [Always Something There to Remind Me](https://open.spotify.com/track/0KlJjhnfwAnPacNd7EH45J) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Burning Bridges](https://open.spotify.com/album/6yRpzEmRaZbj1tFD0zYLe8) | 3:38 | 2020-04-13 | 2022-07-29 |
+| [Always Something There to Remind Me \- 2018 Remaster](https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Naked Eyes](https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR) | 3:39 | 2020-04-13 |  |
 | [Another Man](https://open.spotify.com/track/0TLc72T6smUYgFQu1aDnSg) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Another Man](https://open.spotify.com/album/6uLppwZoewGnsXUMLpRFsf) | 6:54 | 2020-04-13 |  |
 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 | 2020-04-13 |  |
 | [Bang Zoom \(Let's Go\-Go\)](https://open.spotify.com/track/2AGmw3ewDomsRH8soSFpbS) | [The Real Roxanne](https://open.spotify.com/artist/0tWFCFuGxmuWwPL8PUHCU5) | [The Real Roxanne](https://open.spotify.com/album/1GaU037lWFDr9qu19zDuIk) | 5:57 | 2020-04-13 |  |
@@ -22,7 +23,8 @@
 | [Broken Wings](https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Welcome To The Real World](https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl) | 5:43 | 2020-04-13 |  |
 | [Buffalo Stance](https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Raw Like Sushi](https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp) | 5:42 | 2020-04-13 |  |
 | [Candy \- 7" Version](https://open.spotify.com/track/69ZLdWrVMACjGIhEiZqGXa) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [The Definitive Collection](https://open.spotify.com/album/0ewrF9ttoNB8FhDmWLDJzA) | 4:23 | 2020-04-13 |  |
-| [Catch the Beat](https://open.spotify.com/track/7oZj6gZcrVGAJbzi4gBeRs) | [T Ski Valley](https://open.spotify.com/artist/47x2rDU1uWPgGvJPIyeRhz) | [Catch the Beat \- The Remixes](https://open.spotify.com/album/2WRGAMcEiXQQTkl7n9sjLM) | 9:26 | 2020-04-13 |  |
+| [Catch the Beat](https://open.spotify.com/track/0vMntO9rkwRldkCzz2Hvox) | [T Ski Valley](https://open.spotify.com/artist/47x2rDU1uWPgGvJPIyeRhz) | [Catch the Beat \- The Remixes](https://open.spotify.com/album/0i26p28XsE9uakMDsL829o) | 9:26 | 2020-04-13 |  |
+| [Catch the Beat](https://open.spotify.com/track/7oZj6gZcrVGAJbzi4gBeRs) | [T Ski Valley](https://open.spotify.com/artist/47x2rDU1uWPgGvJPIyeRhz) | [Catch the Beat \- The Remixes](https://open.spotify.com/album/2WRGAMcEiXQQTkl7n9sjLM) | 9:26 | 2020-04-13 | 2022-07-29 |
 | [Centipede](https://open.spotify.com/track/7dox9B92nanss0YuviceR9) | [Rebbie Jackson](https://open.spotify.com/artist/4FRnFYyWy6yzCXQySCsOfb) | [Centipede \(Expanded Edition\)](https://open.spotify.com/album/6C6oHGqPx7vey5ZD2XHFl9) | 4:30 | 2020-04-13 |  |
 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 | 2020-04-13 |  |
 | [Cool It Now](https://open.spotify.com/track/5LkcAjqj5NOctNGi2qUjlw) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [New Edition](https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc) | 5:47 | 2020-04-13 |  |
@@ -43,7 +45,8 @@
 | [Everywhere](https://open.spotify.com/track/1prZ0pr6XoRCxcrC3MCL0M) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:42 | 2020-04-13 |  |
 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 | 2020-04-13 |  |
 | [Fake](https://open.spotify.com/track/3wN45r0Lz73AQcuvY2pdVe) | [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [Hearsay](https://open.spotify.com/album/5K4obZM7WvlNQ5B9CJ6KgA) | 3:55 | 2020-04-13 |  |
-| [Forget Me Nots](https://open.spotify.com/track/7vuSGejUXpD365Nl9tyehq) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/73TPk27H5MBU6flqQ1lr09) | 4:35 | 2020-04-13 |  |
+| [Forget Me Nots](https://open.spotify.com/track/7vuSGejUXpD365Nl9tyehq) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/73TPk27H5MBU6flqQ1lr09) | 4:35 | 2020-04-13 | 2022-07-29 |
+| [Forget Me Nots \- Remastered](https://open.spotify.com/track/4UQH52FfgGpzDShKDbBvEA) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 4:44 | 2020-04-13 |  |
 | [Found a Cure](https://open.spotify.com/track/1gND1zOlYtYgXdhRmpIOGJ) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 7:01 | 2020-04-13 |  |
 | [Freaks Come Out at Night](https://open.spotify.com/track/1JKJZLqLUh0vlemaD3IfLe) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Escape \(Expanded Edition\)](https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU) | 4:44 | 2020-04-13 |  |
 | [Funky Sensation](https://open.spotify.com/track/3SHKFKCccGc2gZkI7G1hMZ) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Funky Sensation \(MAW Mix\)](https://open.spotify.com/album/3xur0MAndcfC6MxQUa9o60) | 6:38 | 2020-04-13 |  |

@@ -405,7 +405,7 @@
       },
       "artists": [
         {
-          "name": "Franz Joseph Haydn",
+          "name": "Joseph Haydn",
           "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
@@ -427,7 +427,7 @@
       },
       "artists": [
         {
-          "name": "Franz Joseph Haydn",
+          "name": "Joseph Haydn",
           "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
@@ -875,7 +875,7 @@
     {
       "album": {
         "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
-        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
+        "url": "https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY"
       },
       "artists": [
         {
@@ -898,6 +898,36 @@
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 151506,
+      "name": "Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 151506,
       "name": "Spring 1 - 2012",
       "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
@@ -1178,6 +1208,32 @@
     },
     {
       "album": {
+        "name": "You Oughta Know",
+        "url": "https://open.spotify.com/album/7eMwL8nKcoYE8AYFO7LTuO"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        },
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        },
+        {
+          "name": "Kroma Strings",
+          "url": "https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248995,
+      "name": "You Oughta Know",
+      "url": "https://open.spotify.com/track/1dUpj0vJ2mMPZC9P3jecyq"
+    },
+    {
+      "album": {
         "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
@@ -1219,7 +1275,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247243,
       "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
       "url": "https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2"

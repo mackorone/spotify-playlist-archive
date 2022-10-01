@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Built On Glass",
+        "url": "https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367871,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/4SuwafV4Ell3N4unnIzJSI"
+    },
+    {
+      "album": {
         "name": "Built on Glass",
         "url": "https://open.spotify.com/album/68ax7q14w23UTJGKnqXvO0"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 367871,
       "name": "1998",
       "url": "https://open.spotify.com/track/7JCgI5ahfb83lreqUu0d16"
@@ -37,10 +55,28 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 384423,
       "name": "808 PM At the Beach",
       "url": "https://open.spotify.com/track/4Hb4nttqTI6Nc1IG2hvgyB"
+    },
+    {
+      "album": {
+        "name": "Part IV",
+        "url": "https://open.spotify.com/album/4zgA8bqaYJLSrMOn3MkxyU"
+      },
+      "artists": [
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384423,
+      "name": "808 PM At The Beach - Original Mix",
+      "url": "https://open.spotify.com/track/332axSkCygFiO7rlQ9TYiC"
     },
     {
       "album": {
@@ -73,10 +109,28 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171653,
       "name": "Angels",
       "url": "https://open.spotify.com/track/1zuKjpp4t7BS8JPKi6mkQr"
+    },
+    {
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171653,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
     },
     {
       "album": {
@@ -113,10 +167,46 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246153,
       "name": "Blame",
       "url": "https://open.spotify.com/track/0AYgkxCmka1W9MU4jX8xEf"
+    },
+    {
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/7sgjuijoXgthRExQdEC5SZ"
+      },
+      "artists": [
+        {
+          "name": "Tropics",
+          "url": "https://open.spotify.com/artist/0d00ssafltw8HYv2zxe4fD"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246153,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/1k3toTRu7ak8fNqiDdpRn0"
+    },
+    {
+      "album": {
+        "name": "BTSTU (Edit)",
+        "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "BTSTU - Edit",
+      "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
     },
     {
       "album": {
@@ -131,7 +221,7 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210000,
       "name": "BTSTU - Edit",
       "url": "https://open.spotify.com/track/2NRRrr8ylDK38KD3Ffbw4K"
@@ -149,10 +239,28 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201946,
       "name": "Crystalised",
       "url": "https://open.spotify.com/track/1nmCmB3qdXrzxFhvLJuhuB"
+    },
+    {
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201946,
+      "name": "Crystalised",
+      "url": "https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS"
     },
     {
       "album": {
@@ -167,10 +275,28 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183609,
       "name": "Cyanide Sisters",
       "url": "https://open.spotify.com/track/3CwK0oEtu9bCl0R5nuMzjx"
+    },
+    {
+      "album": {
+        "name": "Cyanide Sisters EP",
+        "url": "https://open.spotify.com/album/1BejCdTWzMNr1PKoozBx52"
+      },
+      "artists": [
+        {
+          "name": "Com Truise",
+          "url": "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183609,
+      "name": "Cyanide Sisters",
+      "url": "https://open.spotify.com/track/655RseUuyYprKIoC0mrNSF"
     },
     {
       "album": {
@@ -193,6 +319,28 @@
     {
       "album": {
         "name": "Lockjaw",
+        "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221894,
+      "name": "Drop The Game",
+      "url": "https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA"
+    },
+    {
+      "album": {
+        "name": "Lockjaw",
         "url": "https://open.spotify.com/album/3iiYLxi349roViLyQJcCh3"
       },
       "artists": [
@@ -207,10 +355,32 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221894,
       "name": "Drop the Game",
       "url": "https://open.spotify.com/track/4KtrE35pTuqwNc22QP58RT"
+    },
+    {
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/5QyUeIHvdbk6XEZZPVAF67"
+      },
+      "artists": [
+        {
+          "name": "Goldroom",
+          "url": "https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl"
+        },
+        {
+          "name": "Chela",
+          "url": "https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Fifteen",
+      "url": "https://open.spotify.com/track/1OlwtyN0NVdM09ZShssxn0"
     },
     {
       "album": {
@@ -229,10 +399,28 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 300000,
       "name": "Fifteen",
       "url": "https://open.spotify.com/track/5nUedhPTdQT1F1tunbMHQj"
+    },
+    {
+      "album": {
+        "name": "Built On Glass",
+        "url": "https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285290,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/03qDVofuUUQSsSQCLWX0eF"
     },
     {
       "album": {
@@ -247,7 +435,7 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285290,
       "name": "Gold",
       "url": "https://open.spotify.com/track/1oPenAfTz9oa1RWNBGy0tO"
@@ -313,6 +501,24 @@
     {
       "album": {
         "name": "World, You Need a Change of Mind",
+        "url": "https://open.spotify.com/album/3Z10TDlk4DiFPeNvOj1VXz"
+      },
+      "artists": [
+        {
+          "name": "Kindness",
+          "url": "https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217253,
+      "name": "House",
+      "url": "https://open.spotify.com/track/6V7P3GMwJ4qwczOs87AGpn"
+    },
+    {
+      "album": {
+        "name": "World, You Need a Change of Mind",
         "url": "https://open.spotify.com/album/5dVgaWc2WdCC6i4EcA2Bgr"
       },
       "artists": [
@@ -323,7 +529,7 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217253,
       "name": "House",
       "url": "https://open.spotify.com/track/7drqcBBZwddPvFkHbvnCeM"
@@ -341,10 +547,32 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176741,
       "name": "Human (Marian Hill Remix)",
       "url": "https://open.spotify.com/track/4AUb7wCCzRnSyteo1an2zy"
+    },
+    {
+      "album": {
+        "name": "Human (Marian Hill Remix)",
+        "url": "https://open.spotify.com/album/3JL6GleyK6aRvBS2iJfJdn"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        },
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176741,
+      "name": "Human - Marian Hill Remix",
+      "url": "https://open.spotify.com/track/545N4UQoXPVZkEsvPnO0bV"
     },
     {
       "album": {
@@ -359,10 +587,46 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127920,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0DAsxISzun85PbsqAfIzeC"
+    },
+    {
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127920,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
+    },
+    {
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "album": {
@@ -377,7 +641,7 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245880,
       "name": "It All Feels Right",
       "url": "https://open.spotify.com/track/3FCmZ3ONp13Wn083Fl2K3H"
@@ -421,6 +685,24 @@
     {
       "album": {
         "name": "In Our Heads",
+        "url": "https://open.spotify.com/album/0m9sCcxZ4yjQM4OedG9p8M"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239426,
+      "name": "Look At Where We Are",
+      "url": "https://open.spotify.com/track/34bsOr1ZzOGJpKefz2cu0F"
+    },
+    {
+      "album": {
+        "name": "In Our Heads",
         "url": "https://open.spotify.com/album/31UV1XHUWAUfKH8vQQ0DD0"
       },
       "artists": [
@@ -431,7 +713,7 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239426,
       "name": "Look At Where We Are",
       "url": "https://open.spotify.com/track/3a4o1Yj1j7fATDxFSBgUYe"
@@ -489,10 +771,46 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262978,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/18xNqodg6oEu0udVDNUoMa"
+    },
+    {
+      "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262990,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
+    },
+    {
+      "album": {
+        "name": "Thinking In Textures",
+        "url": "https://open.spotify.com/album/1lqdYmOceSVAulxV7YuD7L"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221533,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/2xD7RvKFJl52xyds3wQFXQ"
     },
     {
       "album": {
@@ -507,7 +825,7 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221533,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/4URU1lRXhWwZIXuxKI1SuH"
@@ -543,10 +861,28 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298853,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/06d5qOLownLafrcQ8CvZU2"
+    },
+    {
+      "album": {
+        "name": "LP1",
+        "url": "https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298853,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/4SMtnpWk1iFjunTtVpeR2y"
     },
     {
       "album": {
@@ -561,10 +897,28 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 264485,
       "name": "Permission to Love",
       "url": "https://open.spotify.com/track/0agehDrq7ZHos1Di3Gv4Co"
+    },
+    {
+      "album": {
+        "name": "Permission To Love",
+        "url": "https://open.spotify.com/album/5XS3fM0wq5jHOOd0JNt97o"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264485,
+      "name": "Permission To Love",
+      "url": "https://open.spotify.com/track/13V90m5e1r9MEPZJS1LFGH"
     },
     {
       "album": {
@@ -605,10 +959,32 @@
       ],
       "date_added": "2015-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191855,
       "name": "Remember Me In Every Cloud Of Gold",
       "url": "https://open.spotify.com/track/3MKwthwXWWInikFeoS9GGg"
+    },
+    {
+      "album": {
+        "name": "Gold Coast (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2O8mk6LRxv8ud1WynNWIm3"
+      },
+      "artists": [
+        {
+          "name": "Kwamie Liv",
+          "url": "https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg"
+        },
+        {
+          "name": "Angelo Badalamenti",
+          "url": "https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190960,
+      "name": "Remember Me in Every Cloud of Gold",
+      "url": "https://open.spotify.com/track/2no2tImTgO1fcjerEu32fz"
     },
     {
       "album": {
@@ -623,10 +999,28 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258346,
       "name": "Rescue Song - RAC Remix",
       "url": "https://open.spotify.com/track/2iyoXHUqtsTXG4GM2R1k5w"
+    },
+    {
+      "album": {
+        "name": "Celeste & Jesse Forever (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VdAef77FiETO9PzZXFQtd"
+      },
+      "artists": [
+        {
+          "name": "Mr Little Jeans",
+          "url": "https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258346,
+      "name": "Rescue Song - RAC Remix",
+      "url": "https://open.spotify.com/track/5i8aQj9qpEpCQ5jZySGW0y"
     },
     {
       "album": {
@@ -659,10 +1053,50 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203813,
       "name": "Second Heartbeat",
       "url": "https://open.spotify.com/track/6iHZhajiVDNtVy4v359h8r"
+    },
+    {
+      "album": {
+        "name": "Timeshare",
+        "url": "https://open.spotify.com/album/19jxHIdlNZMQsH75bdmfrx"
+      },
+      "artists": [
+        {
+          "name": "Shy Girls",
+          "url": "https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203813,
+      "name": "Second Heartbeat",
+      "url": "https://open.spotify.com/track/6jaPKumSw8PgxZVeR7Q9Hm"
+    },
+    {
+      "album": {
+        "name": "Rapor - EP",
+        "url": "https://open.spotify.com/album/6tkk2qyztgTxXaW4GBS4SA"
+      },
+      "artists": [
+        {
+          "name": "Active Child",
+          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248666,
+      "name": "Silhouette (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/0Yp73Qo0CoR2P9kceNC46y"
     },
     {
       "album": {
@@ -681,10 +1115,28 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248666,
       "name": "Silhouette (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/6cqfP4ADnaZJuwvIHEBc7W"
+    },
+    {
+      "album": {
+        "name": "Girl/Sleep Sound",
+        "url": "https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383309,
+      "name": "Sleep Sound",
+      "url": "https://open.spotify.com/track/4aNm6woQfV9XRkCmk51GSX"
     },
     {
       "album": {
@@ -699,7 +1151,7 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 383309,
       "name": "Sleep Sound",
       "url": "https://open.spotify.com/track/6YPQGcqfMXZbQaz6l30uBJ"
@@ -717,10 +1169,28 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230146,
       "name": "So Good at Being in Trouble",
       "url": "https://open.spotify.com/track/0LPODKihyn7XCxFevkE3KY"
+    },
+    {
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230146,
+      "name": "So Good At Being in Trouble",
+      "url": "https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp"
     },
     {
       "album": {
@@ -865,10 +1335,50 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 264120,
       "name": "Trials of the Past",
       "url": "https://open.spotify.com/track/0SGccA9exVTuzQY7jwbASF"
+    },
+    {
+      "album": {
+        "name": "SBTRKT (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264120,
+      "name": "Trials of the Past",
+      "url": "https://open.spotify.com/track/5xi6Afh939cKw8InioiS7z"
+    },
+    {
+      "album": {
+        "name": "Vamala",
+        "url": "https://open.spotify.com/album/0prekEhpni2bQrCo94LiGu"
+      },
+      "artists": [
+        {
+          "name": "CHAMPS",
+          "url": "https://open.spotify.com/artist/5laHtB7O6FKKRzLQOKOMEE"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227933,
+      "name": "Vamala",
+      "url": "https://open.spotify.com/track/6JoGWAUNqQg9rYz3xDGIbu"
     },
     {
       "album": {
@@ -883,10 +1393,28 @@
       ],
       "date_added": "2015-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227933,
       "name": "Vamala",
       "url": "https://open.spotify.com/track/76KR6XoydBtDrNx87WtyyO"
+    },
+    {
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6nsfc35nraXUM16JFTeoyX"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204736,
+      "name": "Water Me",
+      "url": "https://open.spotify.com/track/0M1SmRsFdGbZPhUR7p7QpC"
     },
     {
       "album": {
@@ -901,7 +1429,7 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204736,
       "name": "Water Me",
       "url": "https://open.spotify.com/track/60MP5Sx3e6OGVEBEDfKREv"
@@ -927,6 +1455,24 @@
     {
       "album": {
         "name": "\"What Is This Heart?\" (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf"
+      },
+      "artists": [
+        {
+          "name": "How To Dress Well",
+          "url": "https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378253,
+      "name": "Words I Don't Remember",
+      "url": "https://open.spotify.com/track/69tms8bn7pYZck6hJw6X1e"
+    },
+    {
+      "album": {
+        "name": "\"What Is This Heart?\" (Deluxe Edition)",
         "url": "https://open.spotify.com/album/329XZJQ2x2nRNhly1itL49"
       },
       "artists": [
@@ -937,7 +1483,7 @@
       ],
       "date_added": "2015-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 378253,
       "name": "Words I Don't Remember",
       "url": "https://open.spotify.com/track/7nhjDgfLkE6qedDaZnRKyp"

@@ -1,0 +1,30 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaiDZ16BA15.md) - [plain](/playlists/plain/37i9dQZF1DWZaiDZ16BA15) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZaiDZ16BA15)
+
+### [Giolì & Assia's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWZaiDZ16BA15)
+
+> Italian duo <a href="spotify:artist:6mM9a86Nrw0y7f9MaJGbpU">Giolì & Assia</a> deliver a mix featuring tracks from their most recent album and deep, melodic selections.
+
+[Spotify](https://open.spotify.com/user/spotify) - 2,046 likes - 18 songs - 1 hr 16 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Playing Chess \(Prelude\)](https://open.spotify.com/track/2pP3PPZ2tiXDX6ifjTEB0X) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ) | 1:16 |
+| 2 | [Playing Chess \- Mixed](https://open.spotify.com/track/6dTXkqYUn2guNpC83JML9g) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Playing Chess \(Mixed\)](https://open.spotify.com/album/0rr8n4nWYMbJBFJF6TjQ0g) | 3:41 |
+| 3 | [Transparent \- Mixed](https://open.spotify.com/track/2qPuHzvZkF9w1gixNFgdBq) | [Ziger](https://open.spotify.com/artist/33L8FupX5olugmSnrRpYUQ) | [Transparent \(Mixed\)](https://open.spotify.com/album/0C0xvs9FJ8XiEcW0N2fRuc) | 4:42 |
+| 4 | [Keia \- Modeplex Remix \- Mixed](https://open.spotify.com/track/4X5wslsbAuXiW5QppGrWU1) | [Artaria](https://open.spotify.com/artist/54LH798QKraEZosT57zMqU), [Modeplex](https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU) | [Keia \- Modeplex Remix \(Mixed\)](https://open.spotify.com/album/2zEcR5TZtB6kM5fKoHsd8L) | 5:12 |
+| 5 | [Silence \- Mixed](https://open.spotify.com/track/2U69avfzYJVrOYuOSezvhj) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Silence \(Mixed\)](https://open.spotify.com/album/19al8GSDYh710jgWe2jJiO) | 3:27 |
+| 6 | [Terra \- &lez Interpretation \- Mixed](https://open.spotify.com/track/4qnALa0js1kpUZHsjRkrL1) | [Klaus](https://open.spotify.com/artist/0TtgAlKNutf5UgUpo6z3wT), [&lez](https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq) | [Terra \- &lez Interpretation \(Mixed\)](https://open.spotify.com/album/2kRp3nr8baD5wEd9O1s8iq) | 6:30 |
+| 7 | [Kakaramba \- Cabasa Tribe Remix \- Mixed](https://open.spotify.com/track/4tjDMsODSyFwNAIy9Wvtrr) | [Milkoeh](https://open.spotify.com/artist/5ohfiqQjV311dQdfpgzYak), [Tick Tock](https://open.spotify.com/artist/4HSLzKb8RzSBc6z7hvenm9), [B'Utiza](https://open.spotify.com/artist/52AxxPFLWcF8qLAxCOekmE), [Cabasa Tribe](https://open.spotify.com/artist/2GVXCkaensOw92z6rev9Ok) | [Kakaramba \- Cabasa Tribe Remix \(Mixed\)](https://open.spotify.com/album/3c8E2Zzdu1Rm7gTGWOojbj) | 4:10 |
+| 8 | [The Akan \- Mixed](https://open.spotify.com/track/3FBsODMByNGh4BRIbT4rXj) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [The Akan \(Mixed\)](https://open.spotify.com/album/79QnKOq6WMeWNOFmguP4PL) | 4:26 |
+| 9 | [Woza \- Nitefreak Remix \- Mixed](https://open.spotify.com/track/1KvJJ2MZmRiSrHGv2OsEgo) | [Afro Exotiq](https://open.spotify.com/artist/1u42YFJFM9CC3bhfoB0suE), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Woza \- Nitefreak Remix \(Mixed\)](https://open.spotify.com/album/4Jfq3RfOPmqJaiGcg32ou2) | 4:09 |
+| 10 | [Lost \- Zakente Remix \- Mixed](https://open.spotify.com/track/45K4y0mwWVBMw5Te1NASrm) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Zakente](https://open.spotify.com/artist/5onJRnzNCch9amHkNIr8Bd) | [Lost \- Zakente Remix \(Mixed\)](https://open.spotify.com/album/3E6bbzRbsVGt6FKe1AOElV) | 3:29 |
+| 11 | [Salut \- Mixed](https://open.spotify.com/track/7Dz4Bh89CDCeiwnMU5NI5r) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [Salut \(Mixed\)](https://open.spotify.com/album/26mHKw4uEvVMNTCGqWyt4e) | 4:41 |
+| 12 | [Twisted Voice \- Mixed](https://open.spotify.com/track/2fBOXC2ljrXzwx8PByAnVg) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Twisted Voice \(Mixed\)](https://open.spotify.com/album/1tVGkZsXyhMo1IRSmBr1Gd) | 4:55 |
+| 13 | [Shooting In My Chest \- Mixed](https://open.spotify.com/track/5yZ3dNhYcDTSG33MI3oaUG) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Shooting In My Chest \(Mixed\)](https://open.spotify.com/album/72nmTewrokp0ijGZtMRZIK) | 3:36 |
+| 14 | [Angel 1 \- Mixed](https://open.spotify.com/track/2RqveOt4w375IIRUNJKOzf) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Angel 1 \(Mixed\)](https://open.spotify.com/album/1LlT7FLWh7fAEosERc8HvC) | 4:41 |
+| 15 | [Blame on Me \- Club Edit \- Mixed](https://open.spotify.com/track/3SvVIhOlmW9SPlR7KXbGZN) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Hang Massive](https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl) | [Blame on Me \- Club Edit \(Mixed\)](https://open.spotify.com/album/3jC8nr4gZnrurwPIwZVZAS) | 4:06 |
+| 16 | [Berserk \- Mixed](https://open.spotify.com/track/0n2wdvzINVDHNGhZK3pdTg) | [Santiago Luna](https://open.spotify.com/artist/4aM2sMXNqhsSKd0w89gOP8) | [Berserk \(Mixed\)](https://open.spotify.com/album/27dVFuvMjaqL5VPloK0ttx) | 5:36 |
+| 17 | [Hela \- Mixed](https://open.spotify.com/track/7JJ6NykhLd1aYbYKTfVg4F) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Hela \(Mixed\)](https://open.spotify.com/album/6ygiIWvvJmTSUeqnzveu5s) | 4:05 |
+| 18 | [Fire Hell and Holy Water \- Mixed](https://open.spotify.com/track/745qUk66s5pDjIgdqRMO8Y) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water \(Mixed\)](https://open.spotify.com/album/5oIrhfrHjMRvPwpC0u3CyO) | 3:29 |
+
+Snapshot ID: `MTY2MzgzMjI3MiwwMDAwMDAwMGFlODhlNWM3MjAxOGM4ZmY1YmExOWU0M2U1Mjg3ZWUy`

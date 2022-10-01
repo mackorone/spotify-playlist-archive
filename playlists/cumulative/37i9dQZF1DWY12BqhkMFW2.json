@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 278480,
       "name": "'Til My Baby Comes Home",
       "url": "https://open.spotify.com/track/33LLMc7LEuf4tc8h0NzhvC"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 215852,
       "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
       "url": "https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 185356,
       "name": "Angel",
       "url": "https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 331133,
       "name": "As",
       "url": "https://open.spotify.com/track/750vuAyjSZGt53r570s8ML"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236666,
       "name": "Can't Hide Love - Live At The Jazz Cafe, London/1995",
       "url": "https://open.spotify.com/track/3o9PU86yJAeojzW69KdLh6"
@@ -153,10 +153,28 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 382333,
       "name": "Feel Like Makin' Love",
       "url": "https://open.spotify.com/track/5ZbY8J67Qsv6Kko2tZOf5Z"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382333,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z"
     },
     {
       "album": {
@@ -269,7 +287,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 319200,
       "name": "How Sweet It Is (To Be Loved By You)",
       "url": "https://open.spotify.com/track/2fdv8or6lmHe5KLTUvaJCD"
@@ -287,10 +305,28 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 390426,
       "name": "I Love You More Than You'll Ever Know",
       "url": "https://open.spotify.com/track/5JEju6tjLsd0qbiWfGxAky"
+    },
+    {
+      "album": {
+        "name": "I Missed Us",
+        "url": "https://open.spotify.com/album/11nfQrY5KJRrnqSyvR3Fn8"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309800,
+      "name": "If Only You Knew",
+      "url": "https://open.spotify.com/track/5G9j51Sxq2YjpNxeRkpcnJ"
     },
     {
       "album": {
@@ -305,7 +341,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310573,
       "name": "If Only You Knew",
       "url": "https://open.spotify.com/track/0gulcKLqxL9snU2S31Lucp"
@@ -327,6 +363,46 @@
       "duration_ms": 231506,
       "name": "If You Want Me to Stay",
       "url": "https://open.spotify.com/track/2gM3JL6l1INKPh0vf0c8I7"
+    },
+    {
+      "album": {
+        "name": "It Never Rains (In SoCal)",
+        "url": "https://open.spotify.com/album/4PwGMRB8IwASSkiRC44c8s"
+      },
+      "artists": [
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "It Never Rains (In SoCal)",
+      "url": "https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG"
+    },
+    {
+      "album": {
+        "name": "The Score (Expanded Edition)",
+        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298773,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
     },
     {
       "album": {
@@ -359,7 +435,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 373626,
       "name": "Lately",
       "url": "https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK"
@@ -399,7 +475,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270733,
       "name": "Love Changes (feat. Mary J. Blige)",
       "url": "https://open.spotify.com/track/7q83jvO3GjbyS7FnHoM1f2"
@@ -417,7 +493,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 257720,
       "name": "Love Don't Live Here Anymore",
       "url": "https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u"
@@ -435,7 +511,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 232273,
       "name": "Love Is Stronger Than Pride",
       "url": "https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX"
@@ -453,7 +529,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 290426,
       "name": "Love Me in a Special Way",
       "url": "https://open.spotify.com/track/4tQXXFad6eReU2jDjE9UuP"
@@ -471,7 +547,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-28",
       "duration_ms": 233813,
       "name": "Love Won't Let Me Wait",
       "url": "https://open.spotify.com/track/2QLX7wEeFwt3icCHi041CJ"
@@ -500,6 +576,24 @@
     },
     {
       "album": {
+        "name": "Million",
+        "url": "https://open.spotify.com/album/47KopnVrimQ96IMZqMU6EU"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271493,
+      "name": "Million",
+      "url": "https://open.spotify.com/track/1Ktsil4bC4hYRWlqMG4qK3"
+    },
+    {
+      "album": {
         "name": "My Baby Just Cares For Me",
         "url": "https://open.spotify.com/album/5fYri3Kh8tttIo9JQdZ4bc"
       },
@@ -511,7 +605,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 238600,
       "name": "My Baby Just Cares For Me",
       "url": "https://open.spotify.com/track/409B7nrhzDZGm4vVpNkoNu"
@@ -533,7 +627,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266760,
       "name": "My First Love",
       "url": "https://open.spotify.com/track/5j5v5wfw1O7g5iLCq10wAP"
@@ -551,10 +645,28 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201266,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/5UzPW8HC6slxstdRbV3Kcp"
+    },
+    {
+      "album": {
+        "name": "Sketches Of A Man",
+        "url": "https://open.spotify.com/album/7JmLvvLBFLczkeKOuEmeiH"
+      },
+      "artists": [
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201266,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/6zteCNciM9nCkDUa86oH3R"
     },
     {
       "album": {
@@ -577,6 +689,24 @@
     {
       "album": {
         "name": "Go",
+        "url": "https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 311533,
+      "name": "Right And A Wrong Way",
+      "url": "https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH"
+    },
+    {
+      "album": {
+        "name": "Go",
         "url": "https://open.spotify.com/album/2TIjGXdwqGxaTBaQP5VxpT"
       },
       "artists": [
@@ -587,7 +717,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 311533,
       "name": "Right And A Wrong Way",
       "url": "https://open.spotify.com/track/2met1tFe07C9au1j8llxq8"
@@ -623,7 +753,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 259000,
       "name": "Send One Your Love",
       "url": "https://open.spotify.com/track/50UvGURiUkyAsWuAxXFclv"
@@ -659,7 +789,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 322360,
       "name": "Since I Lost My Baby",
       "url": "https://open.spotify.com/track/4s4B4L94OJcz66RJpuqfjy"
@@ -681,7 +811,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 283093,
       "name": "Slow Jam (feat. Monica)",
       "url": "https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf"
@@ -721,10 +851,32 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 329464,
       "name": "Song For You",
       "url": "https://open.spotify.com/track/3v5YKvxegZyG6TJwK1loMA"
+    },
+    {
+      "album": {
+        "name": "The Best Of Will Downing: The Millennium Collection - 20th Century Masters",
+        "url": "https://open.spotify.com/album/25s9D0Llmg6ZSvFCK9MDAM"
+      },
+      "artists": [
+        {
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+        },
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "Stop, Look, Listen To Your Heart",
+      "url": "https://open.spotify.com/track/1IDqjd1izHqfglec625jgJ"
     },
     {
       "album": {
@@ -743,7 +895,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221493,
       "name": "Stop, Look, Listen To Your Heart",
       "url": "https://open.spotify.com/track/375jahpbHbxrCsuxMURdEm"
@@ -761,7 +913,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 402586,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/2alDGjN4yjJgkSSeoCCGae"
@@ -779,7 +931,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 192220,
       "name": "sweet thing",
       "url": "https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0"
@@ -839,7 +991,7 @@
     {
       "album": {
         "name": "Enter The Dru",
-        "url": "https://open.spotify.com/album/1kbWhB5qEyUDaHPtXYiA2m"
+        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
       },
       "artists": [
         {
@@ -850,6 +1002,24 @@
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 335866,
+      "name": "The Love We Had (Stays On My Mind)",
+      "url": "https://open.spotify.com/track/1c5933EOm7iYCsbVLHNxq7"
+    },
+    {
+      "album": {
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/1kbWhB5qEyUDaHPtXYiA2m"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 335866,
       "name": "The Love We Had (Stays On My Mind)",
       "url": "https://open.spotify.com/track/3PaovpaWAYcNH6CCBXFfR5"
@@ -901,7 +1071,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 221969,
       "name": "Untitled (How Does It Feel)",
       "url": "https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi"
@@ -919,7 +1089,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": "2022-07-26",
       "duration_ms": 334693,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3evLDlldkPh1TO9XDrNFv1"
@@ -941,7 +1111,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 349760,
       "name": "What You Won't Do For Love",
       "url": "https://open.spotify.com/track/5X3012Ox7FlfpxsiTHuy0o"
@@ -959,10 +1129,28 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 281559,
       "name": "What's Going On - Live At Spotify, NY/2012",
       "url": "https://open.spotify.com/track/0lgnI9taHYt4AJlISFD5wv"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/4SciWnD9PHmrHe2dnw916K"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281559,
+      "name": "What's Going On - Live At Spotify, NY/2012",
+      "url": "https://open.spotify.com/track/4fw9tzAk23Os1aeHVfvPeE"
     },
     {
       "album": {
@@ -977,7 +1165,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-25",
       "duration_ms": 252133,
       "name": "Where Is The Love",
       "url": "https://open.spotify.com/track/505dB7vz9ou2Soj29y7ESw"
@@ -1013,10 +1201,46 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 296066,
       "name": "Yearning For Your Love",
       "url": "https://open.spotify.com/track/1KcxXt4Jy9Az9Wizs5Z6pF"
+    },
+    {
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296066,
+      "name": "Yearning For Your Love",
+      "url": "https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1IUpkbo5AN4rZqzyPppbg7"
+      },
+      "artists": [
+        {
+          "name": "Guordan Banks",
+          "url": "https://open.spotify.com/artist/4lwPGsAG5qnfn1JOtESnYZ"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247884,
+      "name": "Yesterday - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/55BnnFc5P6bpgsZtzPXahA"
     },
     {
       "album": {
@@ -1031,7 +1255,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 238693,
       "name": "You And I",
       "url": "https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap"

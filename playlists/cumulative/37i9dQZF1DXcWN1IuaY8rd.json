@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Iroirotoiro",
+        "url": "https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm"
+      },
+      "artists": [
+        {
+          "name": "KANKAKU PIERO",
+          "url": "https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177106,
+      "name": "Harukamirai",
+      "url": "https://open.spotify.com/track/2vDPSojrX4aL7aiCPD7kja"
+    },
+    {
+      "album": {
         "name": "JUSTadICE",
         "url": "https://open.spotify.com/album/5vtry7e8VNfajQeMQZt1tE"
       },
@@ -264,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Rakugakipeiji",
+        "url": "https://open.spotify.com/album/4cbsfB7a5stVuI42pImJkS"
+      },
+      "artists": [
+        {
+          "name": "KANKAKU PIERO",
+          "url": "https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203495,
+      "name": "Rakugakipeiji",
+      "url": "https://open.spotify.com/track/0vIVLPuiWbtufH0lnkY1Zn"
+    },
+    {
+      "album": {
         "name": "RiGHT NOW",
         "url": "https://open.spotify.com/album/3CDr5PP8emblEqbOdfcCtE"
       },
@@ -365,7 +401,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176200,
       "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
       "url": "https://open.spotify.com/track/7m7uFwvYtrtHZb2Qw6nT2u"
@@ -617,7 +653,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205610,
       "name": "\u843d\u66f8\u304d\u30da\u30a4\u30b8",
       "url": "https://open.spotify.com/track/7lP713bUiokrSjRcztjzgp"

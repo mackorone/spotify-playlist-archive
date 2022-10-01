@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Penggalan lagu lama dari kancah musik independen. Cover: The Sastro",
+  "description": "Penggalan lagu lama dari kancah musik independen. Cover: Bangkutaman",
   "name": "Memorindie",
   "published_playlist_ids": [
     "5N2buI7pPNVlHhACwo8R0D"
@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "a Thousand Miles from the Atmosphere",
+        "url": "https://open.spotify.com/album/2UHFzT9qA6tnmQjAaAPqo2"
+      },
+      "artists": [
+        {
+          "name": "LastElise",
+          "url": "https://open.spotify.com/artist/79sjdrTXc4buTUKgEuspYl"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197521,
+      "name": "a Thousand Miles from the Atmosphere",
+      "url": "https://open.spotify.com/track/43wDwERxDlI7shRV8siX07"
+    },
+    {
+      "album": {
         "name": "Ketika La La La",
         "url": "https://open.spotify.com/album/1heP6tMSv3osMfEx4btHFd"
       },
@@ -116,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Love and Turbo Action",
+        "url": "https://open.spotify.com/album/5Npg1T6dJZa81yj1cQaGFt"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Electric",
+          "url": "https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219560,
+      "name": "Am I Robot?",
+      "url": "https://open.spotify.com/track/2l8AE5XXmRW3jSPBjvlXA1"
+    },
+    {
+      "album": {
         "name": "Love And Turbo Action",
         "url": "https://open.spotify.com/album/10Mz59hmubT7MRukNG29OA"
       },
@@ -127,7 +163,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219560,
       "name": "Am I Robot?",
       "url": "https://open.spotify.com/track/5ctYnyGG80tnqygzIAAVhD"
@@ -185,6 +221,24 @@
       "duration_ms": 218333,
       "name": "Apple (Suicide On Your Stereo Set)",
       "url": "https://open.spotify.com/track/2YsfSIc88U6nIqWqDTxiDG"
+    },
+    {
+      "album": {
+        "name": "Slow Mo Smile",
+        "url": "https://open.spotify.com/album/7ailqk7fkSCCwVuiuRlWyh"
+      },
+      "artists": [
+        {
+          "name": "Bottlesmoker",
+          "url": "https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296019,
+      "name": "Before Circus Over",
+      "url": "https://open.spotify.com/track/6zMoDgj2JvpUiT7KtGK2HJ"
     },
     {
       "album": {
@@ -336,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Funny Little Dream",
+        "url": "https://open.spotify.com/album/29AM4873XavAXXXvr446D0"
+      },
+      "artists": [
+        {
+          "name": "Funny Little Dream",
+          "url": "https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190981,
+      "name": "Funny Little Dream",
+      "url": "https://open.spotify.com/track/6c9Migc6BSfWp1pMIr7DuM"
+    },
+    {
+      "album": {
         "name": "V2.05",
         "url": "https://open.spotify.com/album/72g5NvgwUJDA45iqYPltFG"
       },
@@ -444,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Love Among the Ruins",
+        "url": "https://open.spotify.com/album/0284ZoFuKRZAHPAVwKtOGo"
+      },
+      "artists": [
+        {
+          "name": "Bangkutaman",
+          "url": "https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206561,
+      "name": "Kabut",
+      "url": "https://open.spotify.com/track/7Id4XS3OoIh7XpMf7mwBya"
+    },
+    {
+      "album": {
         "name": "Kelopak Angsa (Remastered)",
         "url": "https://open.spotify.com/album/4LLtGY51tbEFAxAT82dAjb"
       },
@@ -477,6 +567,42 @@
       "duration_ms": 255564,
       "name": "Kisah Dari Selatan Jakarta",
       "url": "https://open.spotify.com/track/20qm0yBgr7ylY91vKp7SpY"
+    },
+    {
+      "album": {
+        "name": "Kissh Kissh (Accoustic Version)",
+        "url": "https://open.spotify.com/album/0MBi0mMMAW1YoPWyLAtNGl"
+      },
+      "artists": [
+        {
+          "name": "Baby Eats Crackers",
+          "url": "https://open.spotify.com/artist/5ToCo2V5mapXG8lnr9mV3e"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196336,
+      "name": "Kissh Kissh (Accoustic Version)",
+      "url": "https://open.spotify.com/track/2MuNPjvtdsIIX46Felbx82"
+    },
+    {
+      "album": {
+        "name": "Cerah Berawan",
+        "url": "https://open.spotify.com/album/3mXgaM6h0ZysTtrEahbhUF"
+      },
+      "artists": [
+        {
+          "name": "whisperdesire",
+          "url": "https://open.spotify.com/artist/0jSvusx01G0VWBt14G0AEK"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283480,
+      "name": "Kita Akan Bertemu di Sana",
+      "url": "https://open.spotify.com/track/67WXgb9g8eZARad1QRMMpQ"
     },
     {
       "album": {
@@ -531,6 +657,24 @@
       "duration_ms": 349893,
       "name": "Kuning",
       "url": "https://open.spotify.com/track/5vIXRsAZwa8uvXBhTNWTiK"
+    },
+    {
+      "album": {
+        "name": "Lagu Hujan",
+        "url": "https://open.spotify.com/album/4hRM7gpvEqDhwq8zFqz4lt"
+      },
+      "artists": [
+        {
+          "name": "Koil",
+          "url": "https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238503,
+      "name": "Lagu Hujan",
+      "url": "https://open.spotify.com/track/176hBOHzslVQTEF7VFmASt"
     },
     {
       "album": {
@@ -934,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "Mind Thieves",
+        "url": "https://open.spotify.com/album/10u0ZDzXKtAUOrzuoZtk8z"
+      },
+      "artists": [
+        {
+          "name": "Dried Cassava",
+          "url": "https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307973,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/6Sqy4qSkZwHvbQlOmqCGe2"
+    },
+    {
+      "album": {
         "name": "Kilas Balik",
         "url": "https://open.spotify.com/album/4dAo8QjTz9yvUGPgUUBn8p"
       },
@@ -1057,6 +1219,24 @@
       "duration_ms": 322257,
       "name": "Rasuna",
       "url": "https://open.spotify.com/track/53osj6QMqLcS0hri9bcrsz"
+    },
+    {
+      "album": {
+        "name": "Tinkerwish",
+        "url": "https://open.spotify.com/album/2Rh5YARuoxIx4DIyeYPDMA"
+      },
+      "artists": [
+        {
+          "name": "Santamonica",
+          "url": "https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Ribbons and Tie",
+      "url": "https://open.spotify.com/track/6cX2vLd8kzTXkWUp7MUT8B"
     },
     {
       "album": {
@@ -1230,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Garage of the Soul",
+        "url": "https://open.spotify.com/album/4WNPu3Ook98eQCR5HB4HWW"
+      },
+      "artists": [
+        {
+          "name": "Bangkutaman",
+          "url": "https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223066,
+      "name": "She Burns the Disco",
+      "url": "https://open.spotify.com/track/745CC7dQTxGJgTyZPpNjSs"
+    },
+    {
+      "album": {
         "name": "Pieces Of The World",
         "url": "https://open.spotify.com/album/6tDKVE1hkmrXUD87JJe0F7"
       },
@@ -1335,10 +1533,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310253,
       "name": "Suburban Love",
       "url": "https://open.spotify.com/track/5idywMLoczcnF9P3w26bTq"
+    },
+    {
+      "album": {
+        "name": "Room for Outside EP",
+        "url": "https://open.spotify.com/album/1pMz5XuqVY07Hhg96cZdlH"
+      },
+      "artists": [
+        {
+          "name": "Lipstik Lipsing",
+          "url": "https://open.spotify.com/artist/4TjOT7gITmHkn7X0NUEPhc"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310253,
+      "name": "Suburban Love",
+      "url": "https://open.spotify.com/track/7yaIMTgpZ6LeYERcEfdjoU"
     },
     {
       "album": {
@@ -1519,6 +1735,24 @@
       "duration_ms": 283880,
       "name": "Waking Hour",
       "url": "https://open.spotify.com/track/0cs8SUKFfyO9yUPlVCY6oh"
+    },
+    {
+      "album": {
+        "name": "Nowhere to Go",
+        "url": "https://open.spotify.com/album/5TE09M0eIZSl83RGPrusxU"
+      },
+      "artists": [
+        {
+          "name": "Endah N Rhesa",
+          "url": "https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271653,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/2XWsariqeTCH61B53r8yA3"
     },
     {
       "album": {

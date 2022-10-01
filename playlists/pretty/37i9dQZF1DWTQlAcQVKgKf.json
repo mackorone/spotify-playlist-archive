@@ -1,15 +1,95 @@
 {
   "description": "The sexy queen! Check out HyunA's music.",
-  "num_followers": 52271,
+  "num_followers": 53915,
   "original_name": "This Is HyunA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMTE3ODk2MywwMDAwMDAwNDAwMDAwMTdiYzlkN2I4NzUwMDAwMDE3NzQ3ZGZhNmFh",
+  "snapshot_id": "MTY2MDA2MzYzMiwwMDAwMDAwMGJhYzYzMjk4MGVkYzljODhhZWRhMzNhYWMyYzljZmZj",
   "tracks": [
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
+      "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 168462,
+      "name": "Nabillera",
+      "url": "https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N"
+    },
+    {
+      "added_at": "2022-08-09 16:47:12",
+      "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 161539,
+      "name": "Bad Dog",
+      "url": "https://open.spotify.com/track/3e7f4ve2p94f8O1BlaiiLq"
+    },
+    {
+      "added_at": "2022-08-09 16:47:12",
+      "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 156836,
+      "name": "Picasso & Fernande Olivier",
+      "url": "https://open.spotify.com/track/2np36jtqZyvS4QJDgUOwOp"
+    },
+    {
+      "added_at": "2022-08-09 16:47:12",
+      "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 220527,
+      "name": "whatever",
+      "url": "https://open.spotify.com/track/4PLjGWQEcNihvnTGCAXKn6"
+    },
+    {
+      "added_at": "2022-08-09 16:47:12",
+      "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 210887,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/1lsgh9qpdgKSIy77a3pZ3n"
+    },
+    {
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "1+1=1",
         "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
@@ -25,7 +105,7 @@
       "url": "https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "1+1=1",
         "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
@@ -41,7 +121,7 @@
       "url": "https://open.spotify.com/track/5YNHcGVvP7lZ6D4qzyePff"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "1+1=1",
         "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
@@ -57,7 +137,7 @@
       "url": "https://open.spotify.com/track/57hrHYEy9vLkpzgLtPIXfC"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "1+1=1",
         "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
@@ -73,10 +153,10 @@
       "url": "https://open.spotify.com/track/5l6IltuCt6Ex7XP3dG47o1"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
-        "name": "I\u2019m Not Cool",
-        "url": "https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW"
+        "name": "I'm Not Cool",
+        "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
       },
       "artists": [
         {
@@ -86,10 +166,10 @@
       ],
       "duration_ms": 174173,
       "name": "I'm Not Cool",
-      "url": "https://open.spotify.com/track/7xTOqnsOV6qHBPWoCWpzGM"
+      "url": "https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "I'm Not Cool",
         "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
@@ -105,7 +185,7 @@
       "url": "https://open.spotify.com/track/52bSWMZoUoWlQMlV7q5Dqn"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "I'm Not Cool",
         "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
@@ -121,7 +201,7 @@
       "url": "https://open.spotify.com/track/2btctSpZ72GyaNgF5bhlBM"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "I'm Not Cool",
         "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
@@ -141,7 +221,7 @@
       "url": "https://open.spotify.com/track/24UUm3hRRZvyPyasjgtHQ0"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "I'm Not Cool",
         "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
@@ -157,10 +237,10 @@
       "url": "https://open.spotify.com/track/7zswEelYoepv2FYsDaGhUD"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
-        "name": "I\u2019m Not Cool",
-        "url": "https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW"
+        "name": "I'm Not Cool",
+        "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
       },
       "artists": [
         {
@@ -170,13 +250,13 @@
       ],
       "duration_ms": 185400,
       "name": "GOOD GIRL",
-      "url": "https://open.spotify.com/track/5iMcihnPLMICfFhg3H694w"
+      "url": "https://open.spotify.com/track/52bSWMZoUoWlQMlV7q5Dqn"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
-        "name": "I\u2019m Not Cool",
-        "url": "https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW"
+        "name": "I'm Not Cool",
+        "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
       },
       "artists": [
         {
@@ -186,13 +266,13 @@
       ],
       "duration_ms": 190146,
       "name": "Show Window",
-      "url": "https://open.spotify.com/track/7KRsFDEkmdEZLpGR9BIs0Z"
+      "url": "https://open.spotify.com/track/2btctSpZ72GyaNgF5bhlBM"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
-        "name": "I\u2019m Not Cool",
-        "url": "https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW"
+        "name": "I'm Not Cool",
+        "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
       },
       "artists": [
         {
@@ -206,13 +286,13 @@
       ],
       "duration_ms": 209560,
       "name": "Party, Feel, Love (Feat. DAWN)",
-      "url": "https://open.spotify.com/track/2qR6lpnGS9AldPdElbzJ53"
+      "url": "https://open.spotify.com/track/24UUm3hRRZvyPyasjgtHQ0"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "FLOWER SHOWER",
-        "url": "https://open.spotify.com/album/2SUtN48rlxa2SfTtffOnlR"
+        "url": "https://open.spotify.com/album/6WEd55Evvtz5ZTMogdK8Uu"
       },
       "artists": [
         {
@@ -222,10 +302,10 @@
       ],
       "duration_ms": 188373,
       "name": "FLOWER SHOWER",
-      "url": "https://open.spotify.com/track/3wljaQ1KBCAMnPxCPDEUsC"
+      "url": "https://open.spotify.com/track/7sjnURvuXBKEdM3fw698iq"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Lip & Hip",
         "url": "https://open.spotify.com/album/01Dv8rPO2AvHogy6uDkb1t"
@@ -241,7 +321,7 @@
       "url": "https://open.spotify.com/track/5C2d3tz8WACjmw7T6TthQ2"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A+",
         "url": "https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw"
@@ -257,11 +337,11 @@
         }
       ],
       "duration_ms": 202546,
-      "name": "Cause I'm God Girl",
+      "name": "Cause I'm God Girl (Feat. Il Hoon Jung Of BTOB)",
       "url": "https://open.spotify.com/track/0AgMJriVSGWjN8WLaCqnDv"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A Talk",
         "url": "https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ"
@@ -277,7 +357,7 @@
       "url": "https://open.spotify.com/track/1kPJiJ3N8cuw5Kzev8Ilu0"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Bubble Pop!",
         "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
@@ -293,7 +373,7 @@
       "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Following",
         "url": "https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU"
@@ -309,7 +389,7 @@
       "url": "https://open.spotify.com/track/5kFakScPV7ZWXStUSvQmxA"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A`wesome",
         "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
@@ -325,7 +405,7 @@
       "url": "https://open.spotify.com/track/6Wqmn89a8tItOh3NLEhNTD"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Melting",
         "url": "https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg"
@@ -345,7 +425,7 @@
       "url": "https://open.spotify.com/track/6TBGYsimcC1FarPc0I7AYN"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/0qtB7YKqjdu1F9uwKgE29L"
@@ -365,7 +445,7 @@
       "url": "https://open.spotify.com/track/6kFDvPj3FVpQ90HZ5PacxE"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Following",
         "url": "https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU"
@@ -374,6 +454,10 @@
         {
           "name": "HyunA",
           "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "E",
+          "url": "https://open.spotify.com/artist/45tZVD9vAd4R6zl9D82kmt"
         }
       ],
       "duration_ms": 221586,
@@ -381,7 +465,7 @@
       "url": "https://open.spotify.com/track/6NJi9S8CKN0QsQGGt4lBBZ"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Following",
         "url": "https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU"
@@ -390,6 +474,10 @@
         {
           "name": "HyunA",
           "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "WOOSEOK",
+          "url": "https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V"
         }
       ],
       "duration_ms": 188610,
@@ -397,7 +485,7 @@
       "url": "https://open.spotify.com/track/2UGoqqdJAcOUSvTxMZKON2"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Following",
         "url": "https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU"
@@ -413,7 +501,7 @@
       "url": "https://open.spotify.com/track/5k1N6WChLzBUVScS3YJdO0"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Following",
         "url": "https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU"
@@ -429,7 +517,7 @@
       "url": "https://open.spotify.com/track/2NtHzG5UFl9s7plYUeYuHm"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A`wesome",
         "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
@@ -445,7 +533,7 @@
       "url": "https://open.spotify.com/track/5yuqTx5EOPGE0p5MOx0LHY"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A`wesome",
         "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
@@ -461,7 +549,7 @@
       "url": "https://open.spotify.com/track/3Ozahr3GUVyWS4K9AvRXpY"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A`wesome",
         "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
@@ -477,11 +565,11 @@
         }
       ],
       "duration_ms": 211071,
-      "name": "Morning glory",
+      "name": "Morning glory (Feat. Isle Qim)",
       "url": "https://open.spotify.com/track/7jaMOoks3YLbOoQxYLUJTo"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A`wesome",
         "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
@@ -497,7 +585,7 @@
       "url": "https://open.spotify.com/track/5YLnTUkaycgu2u8CvQRWSm"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A`wesome",
         "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
@@ -513,11 +601,11 @@
         }
       ],
       "duration_ms": 234140,
-      "name": "Wolf",
+      "name": "Wolf (Feat. HANHAE)",
       "url": "https://open.spotify.com/track/4sK554bQI0vLKWS2jEmpi7"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Together Forever Vol. 1",
         "url": "https://open.spotify.com/album/18GvXb9JVpiUVzh6848Blb"
@@ -537,7 +625,7 @@
       "url": "https://open.spotify.com/track/35FuyotQe6ViXcpbAw2MXW"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A+",
         "url": "https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw"
@@ -553,11 +641,11 @@
         }
       ],
       "duration_ms": 196826,
-      "name": "Ice Ice",
+      "name": "Ice Ice (Feat. Ji Dam Yook)",
       "url": "https://open.spotify.com/track/142KEuaZKcjpSqYybDu68D"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A+",
         "url": "https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw"
@@ -573,11 +661,11 @@
         }
       ],
       "duration_ms": 202840,
-      "name": "Get Outta My House",
+      "name": "Get Outta My House (Feat. Jung Yeol Kwon)",
       "url": "https://open.spotify.com/track/3IH4uDZKlyodQsR1e9RDjj"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A+",
         "url": "https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw"
@@ -593,7 +681,7 @@
       "url": "https://open.spotify.com/track/3PtpqAHDppoQ4EPaQmqExM"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A Talk",
         "url": "https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ"
@@ -609,7 +697,7 @@
       "url": "https://open.spotify.com/track/3LhzNNohNcHfnR36wjKP1M"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A Talk",
         "url": "https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ"
@@ -621,11 +709,11 @@
         }
       ],
       "duration_ms": 191399,
-      "name": "FRENCH KISS",
+      "name": "French Kiss",
       "url": "https://open.spotify.com/track/2b7Kon2nTvTDOX4CQ7sFPL"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A Talk",
         "url": "https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ"
@@ -636,7 +724,7 @@
           "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
         },
         {
-          "name": "LE",
+          "name": "ELLY",
           "url": "https://open.spotify.com/artist/5h0QnpgJxd77A8UXYrcvhy"
         }
       ],
@@ -645,7 +733,7 @@
       "url": "https://open.spotify.com/track/4FNEiAZkTqkdCgcUtBVu9E"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Melting",
         "url": "https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg"
@@ -661,7 +749,7 @@
       "url": "https://open.spotify.com/track/0Rne9W9aSoVYl520FvfS30"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Melting",
         "url": "https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg"
@@ -681,7 +769,7 @@
       "url": "https://open.spotify.com/track/4U3gbP0ZUXE9k2YZGE2TMH"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Melting",
         "url": "https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg"
@@ -697,7 +785,7 @@
       "url": "https://open.spotify.com/track/4EcjIKnQJSnOW7GIIMSTo7"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Melting",
         "url": "https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg"
@@ -717,7 +805,7 @@
       "url": "https://open.spotify.com/track/4AdkEHvkrZhDZevj7OBSqv"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Bubble Pop!",
         "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
@@ -733,7 +821,7 @@
       "url": "https://open.spotify.com/track/07IQN32qgj9aIwoHYqpA60"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Bubble Pop!",
         "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
@@ -749,11 +837,11 @@
         }
       ],
       "duration_ms": 203232,
-      "name": "Downtown",
+      "name": "Downtown (Feat. Ji Yoon Jun)",
       "url": "https://open.spotify.com/track/1HVlIvJ0FyvUYf9KARjTkT"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Bubble Pop!",
         "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
@@ -764,16 +852,20 @@
           "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
         },
         {
-          "name": "Jun Hyung Yong & G.NA",
-          "url": "https://open.spotify.com/artist/2oKtZK7dMGUxwOaXZmi6AI"
+          "name": "G.NA",
+          "url": "https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA"
+        },
+        {
+          "name": "Yong Jun Hyung",
+          "url": "https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo"
         }
       ],
       "duration_ms": 227448,
-      "name": "A Bitter Day",
+      "name": "A Bitter Day (Feat. Jun Hyung Yong & G.NA)",
       "url": "https://open.spotify.com/track/0qjtg6cadlTcAT2Ox5lpcM"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Bubble Pop!",
         "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
@@ -789,11 +881,11 @@
         }
       ],
       "duration_ms": 204982,
-      "name": "Just Follow",
+      "name": "Just Follow (Feat. DOK2)",
       "url": "https://open.spotify.com/track/5oiAchP69eu8pbWbeIDwrG"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "A Bitter Day",
         "url": "https://open.spotify.com/album/1uU6hbNWGtlMj2Iscurkdf"
@@ -804,8 +896,12 @@
           "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
         },
         {
-          "name": "Jun Hyung Yong & G.NA",
-          "url": "https://open.spotify.com/artist/2oKtZK7dMGUxwOaXZmi6AI"
+          "name": "G.NA",
+          "url": "https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA"
+        },
+        {
+          "name": "Yong Jun Hyung",
+          "url": "https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo"
         }
       ],
       "duration_ms": 227448,
@@ -813,7 +909,7 @@
       "url": "https://open.spotify.com/track/5uBQ2wFMlFrM3AGp7fJ4dw"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/6pS98dlal9tYQYw5udDskl"
@@ -829,11 +925,11 @@
         }
       ],
       "duration_ms": 225776,
-      "name": "Player (feat.HYUNA)",
+      "name": "Player (Feat. HYUNA)",
       "url": "https://open.spotify.com/track/2lj0NyS3hDxtHZuCdo2eEF"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/7rxIGZnWtFAmEP0LAGMF3E"
@@ -849,7 +945,7 @@
       "url": "https://open.spotify.com/track/7ehFSpcDs3PBExiLPwXQP9"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Act. 7",
         "url": "https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B"
@@ -865,7 +961,7 @@
       "url": "https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Hot Issue",
         "url": "https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62"
@@ -881,7 +977,7 @@
       "url": "https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "4minute WORLD",
         "url": "https://open.spotify.com/album/3uI4TkXyzJKZEWeKXbB9PG"
@@ -897,7 +993,7 @@
       "url": "https://open.spotify.com/track/4zPF7ERedaIZGDIxnE1KVH"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Volume Up",
         "url": "https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT"
@@ -913,7 +1009,7 @@
       "url": "https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Name is 4minute",
         "url": "https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU"
@@ -929,7 +1025,7 @@
       "url": "https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/1Q3gr1hcLVJBVnyeqrRHhc"
@@ -945,7 +1041,7 @@
       "url": "https://open.spotify.com/track/0qYMhsxFi4fBHRDorVMBPq"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Heart To Heart",
         "url": "https://open.spotify.com/album/5EshYYiAPgdUAA1gsYA2UH"
@@ -961,7 +1057,7 @@
       "url": "https://open.spotify.com/track/2Vs5y1cLMIbZHUy3E3dhS9"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Personal Taste (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6yG5uMF6dK0xar9DgCkf62"
@@ -977,7 +1073,7 @@
       "url": "https://open.spotify.com/track/1ewy5akEgeJObkXlDLFhzf"
     },
     {
-      "added_at": "2021-09-09 09:16:03",
+      "added_at": "2022-08-09 16:47:12",
       "album": {
         "name": "Is It Poppin'?",
         "url": "https://open.spotify.com/album/1nu4yFtuXNSumMMUdOTq3y"

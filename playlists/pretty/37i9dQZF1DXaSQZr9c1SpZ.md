@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSQZr9c1SpZ.md) - [plain](/playlists/plain/37i9dQZF1DXaSQZr9c1SpZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaSQZr9c1SpZ)
 
-### [This Is Bon Iver](https://open.spotify.com/playlist/37i9dQZF1DXaSQZr9c1SpZ)
+### [This Is Bon Iver \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaSQZr9c1SpZ)
 
 > The best of Bon Iver, and a bit more of founder Justin Vernon's other projects.
 

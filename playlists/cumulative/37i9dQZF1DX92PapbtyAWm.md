@@ -2,9 +2,9 @@
 
 ### [MOTi's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX92PapbtyAWm)
 
-> <a href ="spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W">MOTi</a> shares his favourite bangers in his DJ mix.
+> <a href="spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W">MOTi</a> shares his favorite bangers in his DJ mix.
 
-19 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/4Bn8UTRHEfiy2KpyqfKCBv)
+20 songs - 1 hr 3 min - [published](https://open.spotify.com/playlist/4Bn8UTRHEfiy2KpyqfKCBv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Free \- Mixed](https://open.spotify.com/track/7qV1VyRZ2uJ5Xoiru8oBn8) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Free](https://open.spotify.com/album/7uuICMRAxSROica2i6o2wb) | 4:06 | 2021-09-29 |  |
 | [Hooked \- Mixed](https://open.spotify.com/track/1BaheyYTtJPgyqmxOL87NF) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Hooked](https://open.spotify.com/album/0sBoIrpCePSBepYHDzCsuy) | 4:23 | 2021-09-29 |  |
 | [I'm A Mess \- Mixed](https://open.spotify.com/track/5OxCdWg5QB97ONf34Hn3Pj) | [Ciava](https://open.spotify.com/artist/290rcOYpPjREBuJeZwsk3K) | [I'm A Mess](https://open.spotify.com/album/3mYkNOB9TbU6Pxqp1AXCMp) | 2:49 | 2021-09-29 |  |
-| [In My Head \(On My Mind\) \- Mixed](https://open.spotify.com/track/6cCXDSnvBgc0Iqg2kfC7XM) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [In My Head \(On My Mind\)](https://open.spotify.com/album/2vgp0a4YuG9VqqoAdNzJca) | 2:26 | 2021-09-29 |  |
+| [In My Head \(On My Mind\) \- Mixed](https://open.spotify.com/track/1EiDdfA6PZmaVAEN8RgeSa) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [In My Head \(On My Mind\)](https://open.spotify.com/album/6rqmkoGeFkxESqTSKtzfcu) | 2:26 | 2021-09-29 |  |
+| [In My Head \(On My Mind\) \- Mixed](https://open.spotify.com/track/6cCXDSnvBgc0Iqg2kfC7XM) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [In My Head \(On My Mind\)](https://open.spotify.com/album/2vgp0a4YuG9VqqoAdNzJca) | 2:26 | 2021-09-29 | 2022-07-29 |
 | [In Particular \- Mixed](https://open.spotify.com/track/0Y9JhUOOl0NHGrQ6nWzZry) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Æmes](https://open.spotify.com/artist/4NoraKWvrUYQlP0r6Q7IRt) | [In Particular](https://open.spotify.com/album/1sje9RZfo4Lv4KDtM7ccpZ) | 2:48 | 2021-09-29 |  |
 | [Keep Me \- Mixed](https://open.spotify.com/track/1u8GyMJ6np9wb5QDm8MlaW) | [H4LL](https://open.spotify.com/artist/0UoU8WgQtWblyOaZRoKvuY) | [Keep Me](https://open.spotify.com/album/1B6KmjfepHjwW3ZyTum7XR) | 3:24 | 2021-09-29 |  |
 | [Lose Control \- Mixed](https://open.spotify.com/track/1F21kPIHyZQidyxSSIKYc7) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Lose Control](https://open.spotify.com/album/5jY12xfbfQK2l9nDHwC91K) | 3:50 | 2021-09-29 |  |

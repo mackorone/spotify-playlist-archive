@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2EaYMuzaVSdPjJOqg77E2E.md) - [plain]
 
 > Det finns hur många drottningar av Sverige som helst\. Vi har samlat 100 av dem i en spellista, där du hör regenter från igår, idag och i morrn\. Låt dig imponeras och inspireras!
 
-[Spotify](https://open.spotify.com/user/spotify) - 425 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

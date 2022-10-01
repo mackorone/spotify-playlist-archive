@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,587 likes - 93 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,509 likes - 93 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Selva nocturna](https://open.spotify.com/track/5f1PPtMvE0uXPSOOgFwnzW) | [Oriqi Soundhealing](https://open.spotify.com/artist/04CPMYxePrUcNhtu2kX91q) | [Selva nocturna](https://open.spotify.com/album/4f4vh8OJYWqFjjoqFwyN1z) | 6:10 |
-| 2 | [Kalimba & Bubbles](https://open.spotify.com/track/7HbowHc0rHx93ycFoVTcSU) | [Auditory Illusion](https://open.spotify.com/artist/0PcmyVVqlElhJJmIziMjy5) | [Kalimba & Bubbles](https://open.spotify.com/album/5zbLxw4mvPTQLvEQ1Ccvsz) | 3:41 |
-| 3 | [Repose Toi](https://open.spotify.com/track/6TJ1gmfooHOwVXF3yHQyQZ) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Repose Toi](https://open.spotify.com/album/7bS3pq64j7MRvdyPJd0Npp) | 2:58 |
-| 4 | [Spiritual Bowls](https://open.spotify.com/track/7yb3y3PY6fxWwH4IJaBDBv) | [Mantratown](https://open.spotify.com/artist/2OWl1TNy7Drnvhb2Gso2CV) | [Spiritual Bowls](https://open.spotify.com/album/5K2boNHVqwPsO7IdovXZdt) | 3:48 |
-| 5 | [Sound of Sarvastivada \(Sound Bath\)](https://open.spotify.com/track/5WnYwONaiD9U262drLfcLv) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Zen Gaya](https://open.spotify.com/album/2jGEItbwzeGSiVvU9lfKnf) | 2:34 |
-| 6 | [Prosper](https://open.spotify.com/track/7cEjzxbTY9yOsVspJOpwme) | [Molecular Vibrations](https://open.spotify.com/artist/4oi9xtPzHVnS747jFmAftH) | [Prosper Sound Bath](https://open.spotify.com/album/3JrUh1u6YcICQ6Lfx0CE2m) | 3:29 |
+| 1 | [Sound of Sarvastivada \(Sound Bath\)](https://open.spotify.com/track/5WnYwONaiD9U262drLfcLv) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Zen Gaya](https://open.spotify.com/album/2jGEItbwzeGSiVvU9lfKnf) | 2:34 |
+| 2 | [Prosper](https://open.spotify.com/track/7cEjzxbTY9yOsVspJOpwme) | [Molecular Vibrations](https://open.spotify.com/artist/4oi9xtPzHVnS747jFmAftH) | [Prosper Sound Bath](https://open.spotify.com/album/3JrUh1u6YcICQ6Lfx0CE2m) | 3:29 |
+| 3 | [Crystal Lake](https://open.spotify.com/track/6e3ygSWFzpBenGaZ29CrlJ) | [Jarra](https://open.spotify.com/artist/3Cz7AqV45zqiyWoFaXrS69) | [Crystal Lake](https://open.spotify.com/album/7z0C3ZalO7w8XKPfEkfwCx) | 3:53 |
+| 4 | [Kalimba & Bubbles](https://open.spotify.com/track/7HbowHc0rHx93ycFoVTcSU) | [Auditory Illusion](https://open.spotify.com/artist/0PcmyVVqlElhJJmIziMjy5) | [Kalimba & Bubbles](https://open.spotify.com/album/5zbLxw4mvPTQLvEQ1Ccvsz) | 3:41 |
+| 5 | [Repose Toi](https://open.spotify.com/track/6TJ1gmfooHOwVXF3yHQyQZ) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Repose Toi](https://open.spotify.com/album/7bS3pq64j7MRvdyPJd0Npp) | 2:58 |
+| 6 | [Spiritual Bowls](https://open.spotify.com/track/7yb3y3PY6fxWwH4IJaBDBv) | [Mantratown](https://open.spotify.com/artist/2OWl1TNy7Drnvhb2Gso2CV) | [Spiritual Bowls](https://open.spotify.com/album/5K2boNHVqwPsO7IdovXZdt) | 3:48 |
 | 7 | [Bells And Bowls \(Sound Bath\)](https://open.spotify.com/track/1mdZ5UDRrnO90fYjcanj2Y) | [Tibetanian](https://open.spotify.com/artist/2w4slIer7XY7fDEehJLONJ) | [Tibetan Bowls](https://open.spotify.com/album/5BFMmN1aL37Zd8NMZWqSzs) | 2:44 |
 | 8 | [Pacifiquement](https://open.spotify.com/track/3ODp59g4fuL0KsTvKB1atC) | [Maiken Jokum](https://open.spotify.com/artist/3k6qLcyKmWGoOQfK8Uskvy) | [Pacifiquement](https://open.spotify.com/album/430ttSN75LpAVHMszOujl6) | 3:24 |
-| 9 | [Crystal Lake](https://open.spotify.com/track/6e3ygSWFzpBenGaZ29CrlJ) | [Jarra](https://open.spotify.com/artist/3Cz7AqV45zqiyWoFaXrS69) | [Crystal Lake](https://open.spotify.com/album/7z0C3ZalO7w8XKPfEkfwCx) | 3:53 |
-| 10 | [Himalayan Healing](https://open.spotify.com/track/5VmzqruF6oSepIWbQ2kgRG) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Himalayan Healing](https://open.spotify.com/album/1PhSIQx53zfpwkUhwnAtXI) | 3:03 |
-| 11 | [Dream Fountain](https://open.spotify.com/track/3mJS7piKK2rjjJsodqDge2) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Dream Fountain](https://open.spotify.com/album/2SLsIU2EdI4yDwFk2ypT22) | 2:38 |
+| 9 | [Himalayan Healing](https://open.spotify.com/track/5VmzqruF6oSepIWbQ2kgRG) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Himalayan Healing](https://open.spotify.com/album/1PhSIQx53zfpwkUhwnAtXI) | 3:03 |
+| 10 | [Dream Fountain](https://open.spotify.com/track/3mJS7piKK2rjjJsodqDge2) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Dream Fountain](https://open.spotify.com/album/2SLsIU2EdI4yDwFk2ypT22) | 2:38 |
+| 11 | [Selva nocturna](https://open.spotify.com/track/5f1PPtMvE0uXPSOOgFwnzW) | [Oriqi Soundhealing](https://open.spotify.com/artist/04CPMYxePrUcNhtu2kX91q) | [Selva nocturna](https://open.spotify.com/album/4f4vh8OJYWqFjjoqFwyN1z) | 6:10 |
 | 12 | [Bodhisattva \(Sound Bath\)](https://open.spotify.com/track/1VpB6JKz3hN1sAZVLtgVie) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/1ebhcZPcYlwJ7uQhIn3YvT) | 3:28 |
 | 13 | [Singing Bowl, Cymbals, & Rain](https://open.spotify.com/track/2okKxzaXlXDjIhGvZj57oq) | [Cosmic Nirvana](https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO) | [Handpan Rain](https://open.spotify.com/album/6ewhW60VWUoZc46s3bczJB) | 3:34 |
 | 14 | [Connect with Your Soul](https://open.spotify.com/track/4bV2KhDgzfehStxbfJV9mJ) | [Jasmine Soft](https://open.spotify.com/artist/1VK5l4RiFvFSypcRxg8a0l) | [Tam Tam Gong Bath: Pure Healing Meditation](https://open.spotify.com/album/6oF7GoyOelYXe2G7tykDZS) | 5:32 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 92 | [Lullaby](https://open.spotify.com/track/5vjsIox5BJAP1YIERBLdfn) | [Alain Presencer](https://open.spotify.com/artist/1TFojWUtNPFxCm61M7TJMT) | [Singing Bowls of Tibet](https://open.spotify.com/album/1Xm1grJslIgHqR3hqe3FQk) | 2:48 |
 | 93 | [Echos Of Angels](https://open.spotify.com/track/21CRn1nc9hSAlCZomJrNhn) | [Crystal Voices](https://open.spotify.com/artist/1jFFGDV4GwVwWres1suUPC) | [Crystal Voices: The Harmonic Vibrations Of Crystal Singing Bowls](https://open.spotify.com/album/6k4BaemsQh3Aih4F2z1itg) | 4:32 |
 
-Snapshot ID: `MTY1Nzg5MjA0NCwwMDAwMDAxNjAwMDAwMTgyMDIxMGZmMDgwMDAwMDE4MWZkMWQ2ZDNh`
+Snapshot ID: `MTY2MDEzMDM5NiwwMDAwMDAwMDAzNDI3NmE5OWVkODA4MGM2YTFjNGE3ODIyZmQ1YTEy`

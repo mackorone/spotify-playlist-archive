@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYjHx7A35pj.md) - [plain]
 
 > <a href="http://casaum.org/">Casa 1</a> recommends songs from LBT women \(lesbians, bi and trans\)\. \| Cover:  Ventura Profana
 
-[Spotify](https://open.spotify.com/user/spotify) - 137 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 206 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYjHx7A35pj.md) - [plain]
 | 3 | [Resplandescente](https://open.spotify.com/track/1Qsujm4AeX5SJiWaINneFQ) | [Ventura Profana](https://open.spotify.com/artist/5OtKmdYx2SsAzr6RjrwAip), [Podeserdesligado](https://open.spotify.com/artist/3UiYxofVeRJ0fFkYbdljwG) | [Resplandescente](https://open.spotify.com/album/1tInVt9Pz2JeqiwrHlujz7) | 5:08 |
 | 4 | [Deus É Travesti](https://open.spotify.com/track/5UYLVuUy0r0htgKYEjkXRt) | [Alice Guél](https://open.spotify.com/artist/64voDtcB8UgIPjcHeR37xN) | [Deus É Travesti](https://open.spotify.com/album/4jIW6pHwiP1lrVfmJutiel) | 4:06 |
 | 5 | [Busca Implacável](https://open.spotify.com/track/5YYkq6B7VKAnCG7KBavhW4) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf), [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [Casulo](https://open.spotify.com/album/3vw9NeHgpbpHjc0Wxy78dl) | 4:08 |
-| 6 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 |
+| 6 | [Fullgás](https://open.spotify.com/track/42ChWRndfQZ4AdoUXylEF1) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Mulheres da MPB](https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B) | 4:07 |
 | 7 | [Foi Mal](https://open.spotify.com/track/4hMjHubjzbhbJ7yOcYJQgP) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Foi Mal](https://open.spotify.com/album/3lyJq0y5LfHEXycMqzsKoB) | 2:45 |
 | 8 | [Lamento de Força Travesti](https://open.spotify.com/track/2Ul6uDCXoEQNpZ417lxcxW) | [Renna](https://open.spotify.com/artist/2FzvCkPajfas2wwFVKVKjn), [Gabi Benedita](https://open.spotify.com/artist/2BoOcwBm55BOC1IaRIVoOs), [Letícia Coelho](https://open.spotify.com/artist/0Cw72Fmn9WVO8yEm7aby9L) | [Lamento de Força Travesti](https://open.spotify.com/album/2TK83D9uz49cEsxjLbkeaK) | 4:07 |
 | 9 | [Solta na Vida](https://open.spotify.com/track/2t3AEtcowZSSSs8SK0DSSb) | [Ellen Oléria](https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B) | [Afrofuturista](https://open.spotify.com/album/3gSFsmka0DgSlOHj5bqRvi) | 5:19 |
 | 10 | [Amor Verdade](https://open.spotify.com/track/6LPvDoyXpThibOnu4677uB) | [Maria Beraldo](https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW) | [Cavala](https://open.spotify.com/album/2VW7FzFPVuGetRhV8J7jt9) | 2:21 |
-| 11 | [Swing da Cor](https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:35 |
-| 12 | [Tô Voltando](https://open.spotify.com/track/7rVvt8t21yAfgo4e4Cxj05) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Pedaços](https://open.spotify.com/album/3Kio2MgcyFofAVIDz06sSj) | 3:58 |
+| 11 | [Swing da Cor](https://open.spotify.com/track/4QvN1r5iloT7eKvx6mjNdq) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Daniela Mercury](https://open.spotify.com/album/0nTyaheFM5NuVVNrC74yJA) | 3:39 |
+| 12 | [Tô Voltando](https://open.spotify.com/track/5uC78PdEHcsrwCYRL8qhCO) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Bis](https://open.spotify.com/album/2Awa8CKAgEIDldae3BeqmP) | 3:57 |
 | 13 | [Isso É Fundo De Quintal](https://open.spotify.com/track/3UDX9t8WuQ0jYjt80gcdKN) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Leci Brandão](https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6) | 3:48 |
 | 14 | [Cabide](https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Menino do Rio](https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO) | 2:33 |
 | 15 | [Olhos Coloridos](https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá \- 1982](https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol) | 4:27 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYjHx7A35pj.md) - [plain]
 | 17 | [A Mim E A Mais Ninguém](https://open.spotify.com/track/0DJvmpvbh1BBBYjAj89XfK) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [Angela Roro](https://open.spotify.com/album/5b9KqfZmD65KQNs6vD4VBd) | 3:05 |
 | 18 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
 | 19 | [Garganta](https://open.spotify.com/track/7ggsCVhoqrOJOyDXDvWBlB) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Ana Carolina](https://open.spotify.com/album/4cLlfzzQAr7ZXIIv2OG2xG) | 3:35 |
-| 20 | [Malandragem](https://open.spotify.com/track/2Ktn7Hg3jocizpfzYJKLty) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller \(1994\)](https://open.spotify.com/album/3JGRDTWHXpXNfoAPglI7Tr) | 4:10 |
+| 20 | [Malandragem](https://open.spotify.com/track/1EQ0RjamZKJhSUZmV8uBVs) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:10 |
 | 21 | [Maresia \- Ao Vivo](https://open.spotify.com/track/37Z5WN0siOyxgTl5h1dk8J) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 4:11 |
 | 22 | [Sinal de Fumaça](https://open.spotify.com/track/3tsbkFwqwPBG4DYWvyzLEg) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Varrendo a Lua \(Deluxe Edition\)](https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ) | 4:03 |
 | 23 | [Catedral](https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9) | [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Zélia Duncan](https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYjHx7A35pj.md) - [plain]
 | 49 | [Demais pra Você](https://open.spotify.com/track/1b1kyDwLDfU89YSYTSZw1u) | [Rafa Bebiano](https://open.spotify.com/artist/04Rb8FMdiPjqcHJVl3VysK) | [Demais pra Você](https://open.spotify.com/album/6FmG4yFefTuGJZohMBB0rP) | 3:49 |
 | 50 | [Todxs Putxs](https://open.spotify.com/track/6nwlb4lBpiWSycx0Pq5LPP) | [Ekena](https://open.spotify.com/artist/25epDJS6g5Qp9VwVw2gtQZ) | [Nó](https://open.spotify.com/album/1JCDCeKGs8BTJROLdcCeoj) | 6:23 |
 
-Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMjAwMDAwMTdmNjdlNWZkMGIwMDAwMDE3ZjQxNWJmNDhi`
+Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMDI0MGUxMzllY2I2Y2JmNTdkYjZlNmNlOTNkOWYxYWI5`

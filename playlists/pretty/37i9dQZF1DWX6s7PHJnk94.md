@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6s7PHJnk94.md) - [plain]
 
 > Spellistan att ta fram när det är dags för dans runt midsommarstången.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,437 likes - 25 songs - 40 min 2 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,422 likes - 25 songs - 40 min 2 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Små grodorna](https://open.spotify.com/track/4Hy7ldDPMMQNbhhdnVk7EJ) | [Lärk Mårten](https://open.spotify.com/artist/0WelSiYwiTNzCcK4rOyfWk) | [Barnplaneten \- Älskade barnvisor och ramsor för alla barn](https://open.spotify.com/album/6OpSgsAbbbuCPmPN24r0kX) | 1:22 |
+| 1 | [Små grodorna](https://open.spotify.com/track/7FqTiv9gX26hiCjoRyBTdd) | [Lärk Mårten](https://open.spotify.com/artist/0WelSiYwiTNzCcK4rOyfWk) | [Små grodorna](https://open.spotify.com/album/4EuCKwPUyNchi0gIrDef83) | 1:22 |
 | 2 | [Jungfru, jungfru, jungfru, jungfru kär](https://open.spotify.com/track/0c74ZBuBLDM8EPeqKboz66) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 2:03 |
 | 3 | [Vi äro musikanter](https://open.spotify.com/track/0uTImG08eijXTtYyG8kisA) | [Studio children's choir](https://open.spotify.com/artist/6ixhu6XdTXY2x8UM5OitjC), [Stefan Forssen](https://open.spotify.com/artist/1SN4JCbIf9XUOpdZIuzCIc) | [Barnens första sånger](https://open.spotify.com/album/6wpWG93I5KEEHfIehhFVmM) | 0:46 |
-| 4 | [Prästens lilla kråka](https://open.spotify.com/track/6LpaK9bPNf6YR3aKvTnQB7) | [Lilian Bokestig](https://open.spotify.com/artist/4gGXmFMnH9pQxFUPxjUu4e) | [Barnplaneten \- Tuta och kör: Barnmusik med fart](https://open.spotify.com/album/1cZFgIIPIdbUL7xGi9aOjV) | 0:51 |
+| 4 | [Prästens lilla kråka](https://open.spotify.com/track/6FDARjuebXcy08AMLLftRk) | [Lilian Bokestig](https://open.spotify.com/artist/4gGXmFMnH9pQxFUPxjUu4e) | [Prästens lilla kråka](https://open.spotify.com/album/1dnxxDSjSURbR8TlgaOx7E) | 0:51 |
 | 5 | [Jänta å Jag](https://open.spotify.com/track/3aeTU8sHA9dz7tJbywoIfO) | [Hoppabandet](https://open.spotify.com/artist/1AAYMFzUoflV61SWKt11mv) | [Jänta Och Jag Barnsånger](https://open.spotify.com/album/0zqcliNhJNmQDGI3r8Ws9o) | 1:56 |
 | 6 | [Ritsch ratsch filibom](https://open.spotify.com/track/6JB4uUbg9ro29Q7xm4QUS8) | [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Bästa lekarna](https://open.spotify.com/album/33TGbTLQiPsKVY7ryNrIx1) | 1:15 |
 | 7 | [Tre små gummor](https://open.spotify.com/track/3x53A20DcZX6AlXBqkbqos) | [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Midsommar \- Dans runt stången](https://open.spotify.com/album/4qACfKqnm0xTbXU6Qg2Rzi) | 2:02 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6s7PHJnk94.md) - [plain]
 | 24 | [Opp och hoppa, sitt ej och dra dig](https://open.spotify.com/track/3eh3zxibGqNiZE0EWOTxQt) | [Erik Östs Spelmanslag](https://open.spotify.com/artist/5zImwYZ9YokHaIotFl5uff), [Bosse Larsson](https://open.spotify.com/artist/0kegLHgjdILMMhITTyenhi) | [Dans kring midsommarstången](https://open.spotify.com/album/1iP4uhhlm9NZhfG0zY70RG) | 0:46 |
 | 25 | [Uppå källarbacken](https://open.spotify.com/track/68sx2L7W1EHJbWflGm3zcG) | [Lily Berglund](https://open.spotify.com/artist/4Nyl3xHIedqFlfgIoTfK4n) | [Musik vi minns](https://open.spotify.com/album/4WlO54WIrNqdNeS5TZnfBT) | 2:38 |
 
-Snapshot ID: `MTU2NzY3NjE3NiwwMDAwMDAwYzAwMDAwMTZiNmYxYzZhNGUwMDAwMDE2ZDAwYzgxNzVm`
+Snapshot ID: `MTY2NDIwMDMxOCwwMDAwMDAwMDAzMGVhMzAzMzFlYjQ4YzQwNDJlYzIzNGI5ZDliZTVk`

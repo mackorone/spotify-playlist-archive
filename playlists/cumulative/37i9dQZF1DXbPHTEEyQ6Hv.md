@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-89 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/2x7sSOhmPXaV5o4uGuTeqA)
+91 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/2x7sSOhmPXaV5o4uGuTeqA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [As With Gladness Men Of Old](https://open.spotify.com/track/2siSp0ase32wv1pzn71Guo) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 2:24 | 2021-12-14 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/69C3A0dq8UX5dHXUJSOt9i) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [We Wish You a Merry Christmas](https://open.spotify.com/album/42t7HKc7aXEIvrC0X0T5O8) | 2:05 | 2021-12-14 |  |
 | [Ave Maria](https://open.spotify.com/track/6Tyy9nh85UalAVhoASgamI) | [Sonya O'Malley](https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE) | [Ave Maria](https://open.spotify.com/album/3xL4julwGjP4cAZCwpbYmD) | 2:41 | 2021-12-14 |  |
-| [Away In a Manger](https://open.spotify.com/track/2YC7fbZ4bjW4Qz9AKq3Vnk) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [Away In a Manger](https://open.spotify.com/album/0mFZZGJ78iYuhRxqGAZsUL) | 3:30 | 2021-12-14 |  |
+| [Away In a Manger](https://open.spotify.com/track/2YC7fbZ4bjW4Qz9AKq3Vnk) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [Away In a Manger](https://open.spotify.com/album/0mFZZGJ78iYuhRxqGAZsUL) | 3:30 | 2021-12-14 | 2022-07-29 |
+| [Away in a Manger](https://open.spotify.com/track/3RJt5eBJWOoK75KbPgbSoY) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [Away in a Manger](https://open.spotify.com/album/4YRAwgogHUJ5PHPDqKd9Iy) | 3:30 | 2022-07-01 |  |
 | [Before The Morning](https://open.spotify.com/track/2UULAbBdnQNgf6qu5N009c) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Grown Up Christmas List](https://open.spotify.com/album/2NJT9pepsjSIrnG3Y3HpcE) | 2:30 | 2021-12-14 |  |
 | [Blue Christmas](https://open.spotify.com/track/2QbWGtwuWcx7xblTgVQZeL) | [Linda Smuģe](https://open.spotify.com/artist/6LoUigEkesA4Bg7e248z15) | [Blue Christmas](https://open.spotify.com/album/4BfLDXV5kFmdlUBGUddaXx) | 2:31 | 2021-12-14 |  |
 | [Christmas Peace](https://open.spotify.com/track/5Jxv7KoYizZe91nA4PpaDY) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [The Joy of Christmas](https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD) | 2:54 | 2021-12-14 |  |
@@ -90,7 +91,8 @@
 | [The Night Before Christmas](https://open.spotify.com/track/40BxkceWiGC2D37Iv3PqQS) | [Marvin Simmons](https://open.spotify.com/artist/6K3rVk2qB0yKO8ToZnovWf) | [It's Christmas Every Day](https://open.spotify.com/album/3lHNVUvVKOZvjuA6VkpCIN) | 2:36 | 2021-12-14 |  |
 | [The Prayer](https://open.spotify.com/track/6NbF82CkLv5mtx9bTvF59B) | [Mira Sorentido](https://open.spotify.com/artist/3Ig5M58nRVrph2yIHV5DLa) | [The Prayer](https://open.spotify.com/album/4hM0rDr8vSfrwe1OrkcEZ4) | 4:38 | 2021-12-14 |  |
 | [The Wassail Song \(Here We Come A\-Caroling\)](https://open.spotify.com/track/6s762qoRM0crwCOU63DLd6) | [Brad Jacobsen](https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s) | [Deck the Halls \~ Solo Piano Christmas](https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2) | 3:54 | 2021-12-14 |  |
-| [To Us Is Given](https://open.spotify.com/track/33hWpBOw3qZwyT9sE6OV6B) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/5T2hscHPXLF86mRk8VjumS) | 3:32 | 2021-12-14 |  |
+| [To Us Is Given](https://open.spotify.com/track/33hWpBOw3qZwyT9sE6OV6B) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/5T2hscHPXLF86mRk8VjumS) | 3:32 | 2021-12-14 | 2022-07-29 |
+| [To Us Is Given](https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9) | 3:32 | 2022-07-01 |  |
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/625f1LxHYvd5ZU5gzq6cSO) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [We Wish You a Merry Christmas](https://open.spotify.com/album/42t7HKc7aXEIvrC0X0T5O8) | 1:28 | 2021-12-14 |  |
 | [What Child Is This \(arr\. piano\)](https://open.spotify.com/track/3LTwW4H05C3VeuxxQr4mh6) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [What Child Is This? \(arr\. Piano\) / The Christmas Song \(arr\. Piano\)](https://open.spotify.com/album/3ENsfMFIOKEoW5VOMo8NCl) | 2:52 | 2021-12-14 |  |
 | [When A Child Is Born](https://open.spotify.com/track/4FQ6j6YcjQKT08yvKugxRL) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [When A Child Is Born](https://open.spotify.com/album/4q8idsrmhuID1ffZYIxYkS) | 2:30 | 2021-12-14 |  |

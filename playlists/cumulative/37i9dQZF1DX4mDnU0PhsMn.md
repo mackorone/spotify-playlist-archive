@@ -4,7 +4,7 @@
 
 > Add these kid\-friendly stories to your family's bedtime routine!
 
-21 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/3KNIbm1pruvOAr2PRYpsiZ)
+22 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/3KNIbm1pruvOAr2PRYpsiZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alice in Wonderland \(Part 2\)](https://open.spotify.com/track/6uCInBbNnevl9qzjAoOi5P) | [Bedtime Relaxation](https://open.spotify.com/artist/1Kk8SaMtzNguy3NDUI6kPw) | [Alice in Wonderland](https://open.spotify.com/album/1pSSIgkdjuOmF9AUmtI76k) | 15:24 | 2021-04-22 |  |
 | [Cinderella](https://open.spotify.com/track/7rB0zASw3E1WSA8RCBWXRk) | [Janiee James](https://open.spotify.com/artist/4wmqwgqoTjQcKTapdaMwz5) | [25 Bedtime Stories for Kids](https://open.spotify.com/album/79YPuS2utWMv270kNBX4i6) | 15:40 | 2021-04-22 |  |
 | [Getting Ready For Bed \- Story](https://open.spotify.com/track/0HsvvS1E3p3LDDmc80gnfz) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Story Time with Little Baby Bum, Vol\. 1](https://open.spotify.com/album/3e7dcDIRVZFdXHrFR6psl9) | 3:14 | 2021-04-22 |  |
+| [Getting Ready For Bed \- Story](https://open.spotify.com/track/260NPvLARzURbD7MFUGIu0) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Story Time with Little Baby Bum, Vol\. 1](https://open.spotify.com/album/1GHo6KlmEFUER7cCpvO0rv) | 3:14 | 2021-04-22 | 2022-09-03 |
 | [Goldilocks and the Three Bears \(Story\)](https://open.spotify.com/track/1Ir4YxNcWk99poVotx2E4t) | [Stories For Toddlers](https://open.spotify.com/artist/7cIXL5JyiArbs8waV8VORf) | [Bedtime for Little Ones](https://open.spotify.com/album/630H45p90O4dvVeRZShsRn) | 5:54 | 2021-04-22 |  |
 | [Green Eggs And Ham](https://open.spotify.com/track/6Ea1FU45HZRpJKfOLHiAzS) | [Dr\. Seuss](https://open.spotify.com/artist/4mi47OiK1uIz0TygMvYgW2) | [Dr\. Seuss Presents Green Eggs & Ham, Yertle The Turtle & Other Stories](https://open.spotify.com/album/0UbpYOdPqLgYk31aCt3K3X) | 7:22 | 2021-04-22 |  |
 | [Jack And The Beanstalk \(Story\)](https://open.spotify.com/track/2ZvvSsOGT525mutZ8E5QNY) | [Stories For Toddlers](https://open.spotify.com/artist/7cIXL5JyiArbs8waV8VORf) | [20 Short Stories For Children](https://open.spotify.com/album/0uBlUZotf91jnF1RZRFWon) | 6:04 | 2021-04-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gO3SN574Ui.md) - [plain]
 
 > <a href="spotify:artist:0P2bZXPyjHYRW4guHVAFl1">ARMNHMR</a> Duo brings us a mix full of energy and heart\-pounding drops that will get you moving!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,412 likes - 30 songs - 59 min 6 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,825 likes - 30 songs - 59 min 6 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gO3SN574Ui.md) - [plain]
 | 29 | [Thicc Boi \- Mixed](https://open.spotify.com/track/1DDKVGvGoSvVJnk9GPm3oY) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Thicc Boi \(Mixed\)](https://open.spotify.com/album/6YiD64DlKn2r62cB1isrJ9) | 0:34 |
 | 30 | [Falling Apart \- Mixed](https://open.spotify.com/track/1wXh0quNe8SILSow1SdsWc) | [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [Falling Apart \(Mixed\)](https://open.spotify.com/album/5Lu5u0WFUcXftpbxltH4dg) | 3:51 |
 
-Snapshot ID: `MTY1MjQ1MzYzNywwMDAwMDAwODAwMDAwMTgwYmRlOTdmNDYwMDAwMDE3ZmQxOWEyMjBm`
+Snapshot ID: `MTY1MjQ1MzYzNywwMDAwMDAwMDMyMzUxNjAzN2IyYTNlYjdmNzBlMzQxMDVmNDQ3N2Nm`

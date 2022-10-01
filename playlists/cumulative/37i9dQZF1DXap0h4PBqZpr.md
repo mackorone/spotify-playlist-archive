@@ -4,11 +4,12 @@
 
 > Fina selección musical por el legendario ídolo del Rock Latinoamericano.
 
-29 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/3q7UsHyJJBn4WNXvV4nmyX)
+32 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/3q7UsHyJJBn4WNXvV4nmyX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A la Casa](https://open.spotify.com/track/3SWMtEAUQfAkKRC3pr5YIm) | [Vandera](https://open.spotify.com/artist/7IxhhJ4I8RdyL9CIkdMnA0) | [Banda Original de Sonido de una Película Inconclusa](https://open.spotify.com/album/7IWVvSmWVIsxxytBXBuG71) | 2:52 | 2020-01-15 |  |
+| [A la Casa](https://open.spotify.com/track/3SWMtEAUQfAkKRC3pr5YIm) | [Vandera](https://open.spotify.com/artist/7IxhhJ4I8RdyL9CIkdMnA0) | [Banda Original de Sonido de una Película Inconclusa](https://open.spotify.com/album/7IWVvSmWVIsxxytBXBuG71) | 2:52 | 2020-01-15 | 2022-07-29 |
+| [A la Casa](https://open.spotify.com/track/6eRqbPMbeQPl1oFkzB0Iyu) | [Vandera](https://open.spotify.com/artist/7IxhhJ4I8RdyL9CIkdMnA0) | [Banda Original de Sonido de una Película Inconclusa](https://open.spotify.com/album/1PPOOd78QBuKbY5CaaVUn4) | 2:52 | 2020-01-15 |  |
 | [A Minha Menina](https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og) | 4:44 | 2020-01-15 |  |
 | [Abre](https://open.spotify.com/track/4qIt6yKdk0YGPxDWoQrFUG) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abre](https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb) | 6:42 | 2020-01-15 |  |
 | [Ah Te Vi Entre Las Luces](https://open.spotify.com/track/3uZfEOQOiAmHXDV02FZM4e) | [La Maquina De Hacer Pájaros](https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h) | [La Máquina De Hacer Pájaros](https://open.spotify.com/album/4uXadaCsBVwLK6s5V14Kjw) | 11:10 | 2020-01-15 |  |
@@ -20,7 +21,8 @@
 | [Déjate Caer](https://open.spotify.com/track/1xtBatmC1muBOY1RnUvP8Z) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La Espada & la Pared](https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0) | 3:22 | 2020-01-15 |  |
 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 | 2020-01-15 |  |
 | [Hipercandombe](https://open.spotify.com/track/0h9QE6kspuK23cB8AYwmjZ) | [La Maquina De Hacer Pájaros](https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h) | [Peliculas](https://open.spotify.com/album/6hlwylwLskentQQsbTKpcj) | 4:30 | 2020-01-15 |  |
-| [Instituciones](https://open.spotify.com/track/4lbb8zGHPUwWNQkzBBYrl3) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Sí o Sí \- Diario del Rock Argentino \- Sui Generis](https://open.spotify.com/album/5XBgXYEw2flQFZDW1I8lFS) | 4:48 | 2020-01-15 |  |
+| [Instituciones](https://open.spotify.com/track/4lbb8zGHPUwWNQkzBBYrl3) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Sí o Sí \- Diario del Rock Argentino \- Sui Generis](https://open.spotify.com/album/5XBgXYEw2flQFZDW1I8lFS) | 4:48 | 2020-01-15 | 2022-09-10 |
+| [Instituciones](https://open.spotify.com/track/0RPoVlxtkhJPaeeCNHTy85) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Pequenas Anécdotas Sobre Las Instituciones](https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1) | 4:51 | 2020-01-15 |  |
 | [Jugo de Tomate](https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 2:46 | 2020-01-15 |  |
 | [La Balsa](https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:56 | 2020-01-15 |  |
 | [La Conferencia Secreta Del Toto's Bar/Mi Tía Clementina](https://open.spotify.com/track/76dkZsVQGxoXpzxo4IUCQp) | [Los Shakers](https://open.spotify.com/artist/5iObuPpXhQnJ40Pk2Ydkwr) | [La Conferencia Secreta Del Toto'S Bar](https://open.spotify.com/album/5XxBTFDzd16rHMG8x0sBgS) | 5:07 | 2020-01-15 |  |
@@ -34,7 +36,8 @@
 | [Perdida](https://open.spotify.com/track/7CmSrCIwDdWRYCcnNADtRq) | [Killer Burritos](https://open.spotify.com/artist/44HbZgVV4ohYTXfuQIf4Kn) | [Perdida](https://open.spotify.com/album/0AheFDMTdp9vr7Hv1Z3tXZ) | 5:00 | 2020-01-15 |  |
 | [Perdonado \(Niño Condenado\)](https://open.spotify.com/track/4K5ZDxu6eeAXUXhbkJRXXA) | [Invisible](https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1) | [El Jardin de los Presentes](https://open.spotify.com/album/0lbpA4dCZfaNhy6LZrGDvJ) | 7:04 | 2020-01-15 |  |
 | [Presente \(El Momento en Que Estás\)](https://open.spotify.com/track/4bFUkfOd1ZGrCaszcsBP2L) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Caliente](https://open.spotify.com/album/2G0N5Sy48qkoWxCH8t4dIv) | 3:14 | 2020-01-15 |  |
-| [Sandwiches de Miga](https://open.spotify.com/track/3aPQy0EeOdeR3DGXsF2qoz) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/0Wo1WKPuu11lJ68YhOO85X) | 3:00 | 2020-01-15 |  |
+| [Sandwiches de Miga](https://open.spotify.com/track/004G9E3EZhxxn5aE9yEQqx) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/3TIorpubpykzUFdUNBLOdp) | 3:00 | 2020-01-15 |  |
+| [Sandwiches de Miga](https://open.spotify.com/track/3aPQy0EeOdeR3DGXsF2qoz) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/0Wo1WKPuu11lJ68YhOO85X) | 3:00 | 2020-01-15 | 2022-07-29 |
 | [Trola Cocacola](https://open.spotify.com/track/4Ax9I3G5qyoMS2ix5RLIIZ) | [Gonzalo Aloras](https://open.spotify.com/artist/68ylNUXfCMZfmd9bBx8Knh) | [Algo Vuela](https://open.spotify.com/album/0b0XfV0pXrjBzYSEsUIxtd) | 2:43 | 2020-01-15 |  |
 | [Yendo De La Cama Al Living](https://open.spotify.com/track/13tz2i3p3x2dMK9906nVFk) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Pubis Angelical / Yendo De La Cama Al Living](https://open.spotify.com/album/1oZU9a9rdlLV2AB0OCocTZ) | 4:45 | 2020-01-15 |  |
 

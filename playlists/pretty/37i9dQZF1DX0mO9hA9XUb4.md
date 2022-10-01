@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mO9hA9XUb4.md) - [plain]
 
 > a musical love letter to fearless immigrant daughters\. to diaspora children showing up and taking names\. to the firsts, but not the lasts\. to queer & multilingual & proudly Asian American Pacific Islanders, Rina said it best, we out here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,476 likes - 43 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,788 likes - 43 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mO9hA9XUb4.md) - [plain]
 | 19 | [Freedun](https://open.spotify.com/track/6AawG8z80kmCNAwQjsISI8) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [AIM \(Deluxe\)](https://open.spotify.com/album/7sZqZpGN6leR2PncwkuaUc) | 4:42 |
 | 20 | [Ol' Dude](https://open.spotify.com/track/4LYQZVXSnW7IZYmyaW32U5) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [Ol' Dude](https://open.spotify.com/album/6qZ81JK9kCmzJZR0lNTjHL) | 2:57 |
 | 21 | [Comic Sans \(feat\. Jack Harlow\)](https://open.spotify.com/track/2dQn5I17lUiQ8ZpjqMh3TU) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 2:32 |
-| 22 | [RUNAWAY](https://open.spotify.com/track/3sVhlEsPFzrHD6b6kiOtDM) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [RUNAWAY](https://open.spotify.com/album/0UF11gV73DufP2QSgL7553) | 2:44 |
+| 22 | [RUNAWAY](https://open.spotify.com/track/5XX6yZbIiKGhPmgDazBNhN) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [RUNAWAY](https://open.spotify.com/album/5Yl0liNZMlc6C1aAH6KXoh) | 2:44 |
 | 23 | [PSYCHO HOLE](https://open.spotify.com/track/3tpn9S7AZdy9MjmRX69xND) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [PSYCHO HOLE](https://open.spotify.com/album/3wuSvuTGQbfQrvTG4MTsir) | 3:45 |
-| 24 | [Ladke](https://open.spotify.com/track/2eNTpPmJhxKbULrc0BtbRj) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Ladke](https://open.spotify.com/album/5JoeYlEhBE7R1LOQUG1Uqr) | 2:32 |
+| 24 | [Ladke](https://open.spotify.com/track/17hbpd8PHheADKIJF6U7YK) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Ladke](https://open.spotify.com/album/4Uh9XqmhAOByEFxoM5zJ4q) | 2:32 |
 | 25 | [Be Free](https://open.spotify.com/track/5wfU3eM43UptY57VigdHzh) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Kuthu Fire](https://open.spotify.com/album/22N9hU678amR5NiwIIlnEy) | 3:27 |
 | 26 | [MAKE IT MINE](https://open.spotify.com/track/4WnxgTTFsaJ7Fhh4CQbevQ) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [MAKE IT MINE](https://open.spotify.com/album/1P02N6AY2tk7mKlU5tjANK) | 2:10 |
 | 27 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mO9hA9XUb4.md) - [plain]
 | 30 | [Bad Habits](https://open.spotify.com/track/4paOi2D1A1pS5bPugSfUg7) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Bad Habits](https://open.spotify.com/album/4qKIwcoyB91GMyy9431kaf) | 3:47 |
 | 31 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 |
 | 32 | [See U Never](https://open.spotify.com/track/5nPdol1JZWJqG4OSHVzSCF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [See U Never](https://open.spotify.com/album/3ZqxhYWOhGEXYrYUkuflL0) | 3:41 |
-| 33 | [No Fire](https://open.spotify.com/track/7ng8M65zraeczfUW3r9DQM) | [Sofya Wang](https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx) | [No Fire](https://open.spotify.com/album/3U2gwkS3N72ELWDqVky9pQ) | 3:13 |
+| 33 | [No Fire](https://open.spotify.com/track/1wv18B6Z3Sc82PTwsthRKq) | [Sofya Wang](https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx) | [No Fire](https://open.spotify.com/album/1RqgwCz5bFe7FAZSpeB1we) | 3:13 |
 | 34 | [Let Me Be Your Girl](https://open.spotify.com/track/7yg0qtS3Ny9ib9FFc9OuId) | [Rachael Yamagata](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) | [Tightrope Walker](https://open.spotify.com/album/1m8boVg3zd9sXFLlMYKMy4) | 4:48 |
 | 35 | [KARMA](https://open.spotify.com/track/4wK7cKpXBSTuXPmWKG1pTg) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [KARMA](https://open.spotify.com/album/6ooIqBUjoxd1MAzRfF4SGj) | 2:48 |
 | 36 | [Kamali](https://open.spotify.com/track/6vwAUOhw6l1fSAbLjHZBo0) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 3:12 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mO9hA9XUb4.md) - [plain]
 | 42 | [Far Away](https://open.spotify.com/track/0Y4xg5612xZ3vAgWEkMjw3) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Far Away](https://open.spotify.com/album/6SqaQ1JdHWMK2BJQcrXWYq) | 3:05 |
 | 43 | [Lost In Japan](https://open.spotify.com/track/2wEYhUrt3xrxWkHeAIYd6S) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Lost In Japan](https://open.spotify.com/album/1rJzWVqveYf67JtkrqBHQM) | 3:01 |
 
-Snapshot ID: `MTY1MTQ2NDAwMCwwMDAwMDAwMjAwMDAwMTgwODJlY2QyOTkwMDAwMDE4MDcyMThiMmVj`
+Snapshot ID: `MTY1MTQ2NDAwMCwwMDAwMDAwMDdhMTQzZWMyZjc4ZDFkYTU3MDM4ODdkNTUyYjNkNmRk`

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 260533,
       "name": "Admira",
       "url": "https://open.spotify.com/track/6HO2ROQ6hKTq7vE6Ct6PWe"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 475866,
       "name": "Aguanieve con zapateado",
       "url": "https://open.spotify.com/track/0jVhDPNjp3MPLoCsbL2KeQ"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176000,
       "name": "Alma llanera",
       "url": "https://open.spotify.com/track/48m0gwQmAHivelgzmYMMqS"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 524426,
       "name": "Alma M\u00eda / T\u00fa Me Acostumbraste / Soledad y El Mar",
       "url": "https://open.spotify.com/track/124vsf2K6vyoMkF0PGRVeg"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 128332,
       "name": "Amigos De Mi Tierra",
       "url": "https://open.spotify.com/track/1hYYQhiocd86kxKlX5GQCn"
@@ -109,10 +109,46 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-24",
       "duration_ms": 119506,
       "name": "Aschun Sapich (Venadito)",
       "url": "https://open.spotify.com/track/6zkBpaLEV5WxizGYHuJ0v2"
+    },
+    {
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/75GiM4BTQMPiLXCgmRkt0V"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 222537,
+      "name": "Ay Mi Jalisco",
+      "url": "https://open.spotify.com/track/4wJz1PoI9BBCe7FT2QnNTz"
+    },
+    {
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222537,
+      "name": "Ay Mi Jalisco",
+      "url": "https://open.spotify.com/track/7zci0JLmmXSr19dcfGLtjg"
     },
     {
       "album": {
@@ -127,7 +163,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224306,
       "name": "Ay Mi Jalisco",
       "url": "https://open.spotify.com/track/2V5jUSIKVka3budELTVmzx"
@@ -145,7 +181,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 224653,
       "name": "Bacanda",
       "url": "https://open.spotify.com/track/3hqT0Wwk1Ss6tYRnzRIabZ"
@@ -163,7 +199,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 279933,
       "name": "Balaju",
       "url": "https://open.spotify.com/track/4UL0MbWeDm53tXTRbKpsH6"
@@ -199,7 +235,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175025,
       "name": "Caballo viejo",
       "url": "https://open.spotify.com/track/0wF83CAN1oR2bj3W42wMT3"
@@ -289,7 +325,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 118093,
       "name": "Carrizo Verde (Son Pascola)",
       "url": "https://open.spotify.com/track/4DnJkZIvf6y1sQRCFFy3Hl"
@@ -347,10 +383,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-15",
       "duration_ms": 101280,
       "name": "Corpus (Cuerpo)",
       "url": "https://open.spotify.com/track/3oPi04eaahmVpe7l3qJfMN"
+    },
+    {
+      "album": {
+        "name": "La Rebeldia Musical del Ritmo",
+        "url": "https://open.spotify.com/album/1tGVTMHakfHLQNLrEh7sfV"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Juarez",
+          "url": "https://open.spotify.com/artist/6XSj3Dm16umMhjSz4xZM1Z"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272440,
+      "name": "Cumbia Regional",
+      "url": "https://open.spotify.com/track/3L2lIepoCGE1G2TJgBecsu"
     },
     {
       "album": {
@@ -365,7 +419,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 272440,
       "name": "Cumbia Regional",
       "url": "https://open.spotify.com/track/6qsdPuKGDgJ6iYYnicK07R"
@@ -383,7 +437,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-24",
       "duration_ms": 111586,
       "name": "Curuch Sapich (Pescadito)",
       "url": "https://open.spotify.com/track/1GnMdWm4Nm06ZsJXtifzr3"
@@ -401,7 +455,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 180053,
       "name": "De Puro Costa Chica",
       "url": "https://open.spotify.com/track/2y4bAUKRPPcK2neVusHt7h"
@@ -423,7 +477,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 249933,
       "name": "D\u00e9cimas de la Mujer Inconforme",
       "url": "https://open.spotify.com/track/6LcS3P5PzKONqzZHAyGXBp"
@@ -445,7 +499,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 104080,
       "name": "El Aguanieve",
       "url": "https://open.spotify.com/track/5UROQBAMVLIdzaBCpIPhib"
@@ -463,7 +517,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 149533,
       "name": "El Apasionado",
       "url": "https://open.spotify.com/track/3IgsKmEmsJaVU6CRi6wLSy"
@@ -521,7 +575,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 146466,
       "name": "El Becerro",
       "url": "https://open.spotify.com/track/4TPnAtKvr96oVGlwsNcVeP"
@@ -539,7 +593,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-25",
       "duration_ms": 140733,
       "name": "El Becerro",
       "url": "https://open.spotify.com/track/0x652noStcfw4y5xMv9Se3"
@@ -557,7 +611,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238680,
       "name": "El Becerro (Son Abaje\u00f1o)",
       "url": "https://open.spotify.com/track/0Tz9uyjGx5tUp8dhDqTuuh"
@@ -575,7 +629,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 147240,
       "name": "El Bejuquito",
       "url": "https://open.spotify.com/track/54u2C0vQJqIT4YBJ91FTCA"
@@ -593,7 +647,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 232013,
       "name": "El Buscapi\u00e9s",
       "url": "https://open.spotify.com/track/4OjiKHi02I3rc51cRHtCpu"
@@ -611,7 +665,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 159293,
       "name": "El Buscapi\u00e9s",
       "url": "https://open.spotify.com/track/3Wtc4Ty0B9H1go1g2hN4VX"
@@ -629,7 +683,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 254328,
       "name": "El Buscapi\u00e9s",
       "url": "https://open.spotify.com/track/5CXOuxksaSgUuueD7NHusC"
@@ -647,7 +701,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 345589,
       "name": "El Butaquito",
       "url": "https://open.spotify.com/track/0nbFaZNPKPRpppEiwz4VqJ"
@@ -665,7 +719,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 212800,
       "name": "El Cabrito",
       "url": "https://open.spotify.com/track/2J6V2DCT6yQvv8JfQraaTT"
@@ -687,6 +741,24 @@
       "duration_ms": 163293,
       "name": "El Caim\u00e1n",
       "url": "https://open.spotify.com/track/1RKjseuafURXmk0SlwXlV2"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Sinaloense",
+        "url": "https://open.spotify.com/album/2ajqOoN16GTLE6jRZuzyk7"
+      },
+      "artists": [
+        {
+          "name": "Banda De El Recodo De Cruz Lizarraga",
+          "url": "https://open.spotify.com/artist/3oWmjvaXrbEjmIXWcupBVO"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178693,
+      "name": "El Capiro",
+      "url": "https://open.spotify.com/track/7AvyNkfIIJ2r41fPkF0i15"
     },
     {
       "album": {
@@ -737,7 +809,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 322013,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/4MXIyrc1Rhik0590znz7Uh"
@@ -795,7 +867,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-29",
       "duration_ms": 394760,
       "name": "El Cascabel - Huye Animalito",
       "url": "https://open.spotify.com/track/53M0XqadCCHdgImSZFhSkn"
@@ -831,7 +903,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 448594,
       "name": "El Coco",
       "url": "https://open.spotify.com/track/7L6ZRp5kA1hcdKMDIdLkky"
@@ -885,7 +957,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 221773,
       "name": "El Conejo",
       "url": "https://open.spotify.com/track/3MTHnar4lbXsFVe8mIt9nh"
@@ -903,7 +975,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215440,
       "name": "El c\u00f3ndor pasa",
       "url": "https://open.spotify.com/track/4qjnOWrAhJqKhQUupxBhz2"
@@ -939,7 +1011,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 471330,
       "name": "El Fandanguito",
       "url": "https://open.spotify.com/track/4NJaGilXDNL8NCOXJa9cCt"
@@ -957,7 +1029,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 270440,
       "name": "El Fandanguito",
       "url": "https://open.spotify.com/track/6EdcxGwl6uLIVePKLHcdDG"
@@ -1011,7 +1083,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 194026,
       "name": "El Gallito",
       "url": "https://open.spotify.com/track/6DMceI5zXuDAoeXzBIFVbK"
@@ -1029,7 +1101,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 213373,
       "name": "El Gallo",
       "url": "https://open.spotify.com/track/1NbCEauPX0GLztVXJIEZOa"
@@ -1065,7 +1137,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 119426,
       "name": "El Gavilancillo",
       "url": "https://open.spotify.com/track/1ZS0CskocYT7X5z1W18SsD"
@@ -1083,10 +1155,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-27",
       "duration_ms": 175346,
       "name": "El gavilancillo",
       "url": "https://open.spotify.com/track/2w6ThSkW7iJEwBC99tS8SK"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica de America",
+        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175346,
+      "name": "El gavilancillo",
+      "url": "https://open.spotify.com/track/4U6MUfvFvZ6XPoi4pFI0FA"
     },
     {
       "album": {
@@ -1119,7 +1209,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-26",
       "duration_ms": 210466,
       "name": "El Gusto Apatzingane\u00f1o",
       "url": "https://open.spotify.com/track/46GjwhmVDzGEHETjk1B2uf"
@@ -1137,7 +1227,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 115466,
       "name": "El Gusto Pasajero",
       "url": "https://open.spotify.com/track/5WdnFzijulI18AUrOxdLc1"
@@ -1155,7 +1245,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 134720,
       "name": "El Jabal\u00ed (Son Abaje\u00f1o)",
       "url": "https://open.spotify.com/track/10ycDz8kNJZDMZYlCWdK1U"
@@ -1191,7 +1281,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 203506,
       "name": "El Jilguerillo",
       "url": "https://open.spotify.com/track/3Jgw1lcmFFbpPZpYukjfSc"
@@ -1209,7 +1299,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 210133,
       "name": "El Llorar",
       "url": "https://open.spotify.com/track/1VUDBxgRLzX8F06MQwXynF"
@@ -1227,7 +1317,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242746,
       "name": "El Llorar (Son Huasteco)",
       "url": "https://open.spotify.com/track/3rrfvFUPM4KgVZPl1MLGfg"
@@ -1263,7 +1353,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 123040,
       "name": "El Pajarillo",
       "url": "https://open.spotify.com/track/2AHDjrL74WPoEodxZEvsYp"
@@ -1353,7 +1443,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 187093,
       "name": "El Pich\u00f3n",
       "url": "https://open.spotify.com/track/1B52QpIqIC7eEMFO1tdrPx"
@@ -1371,7 +1461,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 316192,
       "name": "El P\u00e1jaro Carpintero",
       "url": "https://open.spotify.com/track/4a3ArpVInNo4w0KBGnTwa9"
@@ -1389,7 +1479,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 389840,
       "name": "El P\u00e1jaro Cu",
       "url": "https://open.spotify.com/track/3yeRYUKLmckkoJbaxiVayS"
@@ -1411,7 +1501,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 270826,
       "name": "El P\u00e1jaro C\u00fa",
       "url": "https://open.spotify.com/track/298zEQucoUuyyzzIzCoJx5"
@@ -1429,7 +1519,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 263400,
       "name": "El P\u00e1jaro C\u00fa",
       "url": "https://open.spotify.com/track/1eBFU0my2BJVxbQTF0qKin"
@@ -1465,7 +1555,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 173360,
       "name": "El que Se Vende (Son Abaje\u00f1o)",
       "url": "https://open.spotify.com/track/3Tr3mHv4Z2Hqy4FbUGokUt"
@@ -1519,7 +1609,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 147240,
       "name": "El Rel\u00e1mpago (Son de Tierra Caliente)",
       "url": "https://open.spotify.com/track/4UWCKryF1rZEzGexx6GsYl"
@@ -1537,7 +1627,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 241066,
       "name": "El Sacamand\u00fa",
       "url": "https://open.spotify.com/track/135Ns5af7wyS7pOgeBRxJv"
@@ -1555,7 +1645,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263293,
       "name": "El Sacamand\u00fa (Son Huasteco)",
       "url": "https://open.spotify.com/track/2iwjDABsti32fWbd0Q9Tcz"
@@ -1573,7 +1663,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 175666,
       "name": "El San Lorenzo",
       "url": "https://open.spotify.com/track/4MaXb0dSrT9UoUy6Fz905W"
@@ -1591,7 +1681,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-29",
       "duration_ms": 177000,
       "name": "El Sapo",
       "url": "https://open.spotify.com/track/1QqUyjBpCHtDlJ3xzRuS6O"
@@ -1616,6 +1706,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica Sinaloense",
+        "url": "https://open.spotify.com/album/2ajqOoN16GTLE6jRZuzyk7"
+      },
+      "artists": [
+        {
+          "name": "Banda De El Recodo De Cruz Lizarraga",
+          "url": "https://open.spotify.com/artist/3oWmjvaXrbEjmIXWcupBVO"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143973,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/6cLjCmWAZGIIllDyz1BT8X"
+    },
+    {
+      "album": {
         "name": "Musica Sinaloense",
         "url": "https://open.spotify.com/album/7CrUqPqYF4KprBzHTmhLap"
       },
@@ -1627,7 +1735,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 143973,
       "name": "El Sinaloense",
       "url": "https://open.spotify.com/track/1ECzxDvDfEa2ZIOO1XuAAu"
@@ -1689,7 +1797,7 @@
     {
       "album": {
         "name": "Sones",
-        "url": "https://open.spotify.com/album/2RaQU2q7TBvbtSyIa6Zk8O"
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
       },
       "artists": [
         {
@@ -1700,9 +1808,27 @@
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 176613,
+      "duration_ms": 174550,
       "name": "El Son De La Negra",
-      "url": "https://open.spotify.com/track/6TzvMaAygkvbHGLNttsT3m"
+      "url": "https://open.spotify.com/track/4I01jcR9FIT0IfGQ1Oyznj"
+    },
+    {
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/75GiM4BTQMPiLXCgmRkt0V"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 174550,
+      "name": "El Son De La Negra",
+      "url": "https://open.spotify.com/track/55E7EwrH84QpmJ9McoZSVT"
     },
     {
       "album": {
@@ -1717,7 +1843,61 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176613,
+      "name": "El Son De La Negra",
+      "url": "https://open.spotify.com/track/6TzvMaAygkvbHGLNttsT3m"
+    },
+    {
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/75GiM4BTQMPiLXCgmRkt0V"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 203049,
+      "name": "El Son Del Cuatro",
+      "url": "https://open.spotify.com/track/1rmxsmJ9Ic1FO20MZSMQnG"
+    },
+    {
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 203049,
+      "name": "El Son Del Cuatro",
+      "url": "https://open.spotify.com/track/5BpjKRLu7k2aRCkN7Viq8r"
+    },
+    {
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/2RaQU2q7TBvbtSyIa6Zk8O"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 205080,
       "name": "El Son Del Cuatro",
       "url": "https://open.spotify.com/track/2FSvKmZRD4XxfJCpHxiJ1I"
@@ -1753,7 +1933,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 310333,
       "name": "El Son Sin Fin",
       "url": "https://open.spotify.com/track/1kCInQhhkACpGpbJqfrkHx"
@@ -1771,7 +1951,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 155146,
       "name": "El Tecolotito",
       "url": "https://open.spotify.com/track/6xP9xZLp8dbctaZ1owXMRI"
@@ -1807,7 +1987,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 373746,
       "name": "El Torito",
       "url": "https://open.spotify.com/track/44HEaq5zNPgE23cW5FJiGU"
@@ -1847,7 +2027,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-23",
       "duration_ms": 259466,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/7L1D5AQy5iESjIvtB9BjMM"
@@ -1865,7 +2045,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 266426,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/1JTziXssbbznJHPRLtDSO2"
@@ -1901,7 +2081,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 272733,
       "name": "El Toro Rab\u00f3n",
       "url": "https://open.spotify.com/track/46r6tTAAyXtYDpTmepyR04"
@@ -1919,10 +2099,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200506,
       "name": "El Toro Sacamand\u00fa",
       "url": "https://open.spotify.com/track/1bHHMLqT1LiKNKa71fvFrc"
+    },
+    {
+      "album": {
+        "name": "Las Ma\u00f1anitas",
+        "url": "https://open.spotify.com/album/6cGMHg7ykaPoGdCWFfBvEW"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201680,
+      "name": "El toro viejo",
+      "url": "https://open.spotify.com/track/2ylZf2S54qXZtWn8sogpdz"
     },
     {
       "album": {
@@ -1937,7 +2135,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 201680,
       "name": "El toro viejo",
       "url": "https://open.spotify.com/track/53ocVd5ZVdwpwHCRuTF33k"
@@ -2009,7 +2207,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 303920,
       "name": "Fandanguito",
       "url": "https://open.spotify.com/track/0h6LsWwxFhS8xiHnD87zE5"
@@ -2027,7 +2225,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-23",
       "duration_ms": 170533,
       "name": "Fina estampa",
       "url": "https://open.spotify.com/track/2fK6E0yVCoGDCJGF22Rez4"
@@ -2045,10 +2243,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224722,
       "name": "Flor de Pi\u00f1a",
       "url": "https://open.spotify.com/track/4Gi4t7VTmsarbId2oEYZkj"
+    },
+    {
+      "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224722,
+      "name": "Flor de Pi\u00f1a",
+      "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
     },
     {
       "album": {
@@ -2063,7 +2279,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-29",
       "duration_ms": 179173,
       "name": "Griseyda Am\u00e1",
       "url": "https://open.spotify.com/track/7gzdEOhMLcWcdedH81juIZ"
@@ -2081,7 +2297,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281666,
       "name": "Guigu Bicu",
       "url": "https://open.spotify.com/track/1HvwMj3WDvoaEAvgbc9fxV"
@@ -2125,7 +2341,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-27",
       "duration_ms": 120200,
       "name": "Imperio Purepecha (Imperio Tarasco)",
       "url": "https://open.spotify.com/track/1Yq1BSqOVGQfoDjPB7DNRk"
@@ -2143,7 +2359,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-27",
       "duration_ms": 187226,
       "name": "Inchatirucua (Atardecer)",
       "url": "https://open.spotify.com/track/0oxZmangnMSkDHnlCpRxup"
@@ -2161,10 +2377,46 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 240093,
       "name": "Jalisco / Gavilan Gavilancillo",
       "url": "https://open.spotify.com/track/6AHbfS0ehecuTt3A2jeuwU"
+    },
+    {
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/75GiM4BTQMPiLXCgmRkt0V"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
+      "duration_ms": 238027,
+      "name": "Jalisco / Gavil\u00e1n Gavilancillo",
+      "url": "https://open.spotify.com/track/0p5jgH0OWQq6nvnVi2VUPK"
+    },
+    {
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238027,
+      "name": "Jalisco / Gavil\u00e1n Gavilancillo",
+      "url": "https://open.spotify.com/track/32FRz61j2oNJNHkyjJJXRI"
     },
     {
       "album": {
@@ -2179,7 +2431,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 198226,
       "name": "Janitzio",
       "url": "https://open.spotify.com/track/0k4Ygc4kQsuu0RmNe5bD0C"
@@ -2215,7 +2467,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 168533,
       "name": "Jar\u00e1cuaro",
       "url": "https://open.spotify.com/track/3x4ZEftGdbn5FWzRZhwLGh"
@@ -2251,7 +2503,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144840,
       "name": "Jucheti Consuelito (Pirecua Abaje\u00f1a)",
       "url": "https://open.spotify.com/track/7bql0y8CbucdE3skAHQ45l"
@@ -2269,7 +2521,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-24",
       "duration_ms": 141693,
       "name": "Juniombo Llum (5 De Junio)",
       "url": "https://open.spotify.com/track/2evH3QyeRw0xNDFEEyzrAf"
@@ -2305,7 +2557,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 169133,
       "name": "La Ara\u00f1a",
       "url": "https://open.spotify.com/track/0qmJebeCyMlgrLZi24pGWV"
@@ -2377,10 +2629,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168133,
       "name": "La culebra",
       "url": "https://open.spotify.com/track/016mZY6rUT28ICQJvpuybK"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica de America",
+        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168133,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/335MnaMIi8Gz61nxR9nWMW"
     },
     {
       "album": {
@@ -2435,7 +2705,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 390693,
       "name": "La Guacamaya",
       "url": "https://open.spotify.com/track/0hw9IsHkhqFvGQvkWxUh3U"
@@ -2489,7 +2759,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 291273,
       "name": "La Guacamaya",
       "url": "https://open.spotify.com/track/5flKJUDQifLITSlZnpRgzs"
@@ -2525,7 +2795,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 283600,
       "name": "La Huasanga",
       "url": "https://open.spotify.com/track/79Kd8uSsEh5kY4lU10yMMt"
@@ -2543,7 +2813,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 204306,
       "name": "La Huasanga (Son Huasteco)",
       "url": "https://open.spotify.com/track/6GvO6gAwo8ePHxkXQoKJPT"
@@ -2579,7 +2849,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-08-01",
       "duration_ms": 219000,
       "name": "La India",
       "url": "https://open.spotify.com/track/33QJXFqLwaIDmvysDdybQ4"
@@ -2597,7 +2867,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 313813,
       "name": "La Indita (Son Jarocho)",
       "url": "https://open.spotify.com/track/4RsEqrpsKPjeMDit2YKhsH"
@@ -2651,7 +2921,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 129506,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/0Reqr9CLnQsG9ItvOXa9V3"
@@ -2676,6 +2946,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica de America",
+        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154933,
+      "name": "La madrugada",
+      "url": "https://open.spotify.com/track/3iVOFoZX8f0KNaVxdWrYPJ"
+    },
+    {
+      "album": {
         "name": "Peerless 80 Aniversario - 24 Exitos",
         "url": "https://open.spotify.com/album/4LnVq0V93CA5eievIW2Kmo"
       },
@@ -2687,7 +2975,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154933,
       "name": "La madrugada",
       "url": "https://open.spotify.com/track/5Mkl4L2n1Bq2A8kTnKghiU"
@@ -2723,7 +3011,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-05",
       "duration_ms": 158733,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/1bAly1V5h0kfQmW4Gkjpg5"
@@ -2741,7 +3029,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 261839,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/0EESVjJrpQB6DYWr3JjxlD"
@@ -2759,7 +3047,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-12",
       "duration_ms": 205573,
       "name": "La Malague\u00f1a (Son Huasteco)",
       "url": "https://open.spotify.com/track/5IIHg8ybNSQNLWkxPPnjZO"
@@ -2795,7 +3083,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 264040,
       "name": "La Mariquita",
       "url": "https://open.spotify.com/track/3c3bXKcY7zOfR67EauUlLq"
@@ -2813,7 +3101,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 242333,
       "name": "La Mariquita",
       "url": "https://open.spotify.com/track/2patPkEu6eX1pnxUjldkms"
@@ -2831,7 +3119,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "La Martiniana",
       "url": "https://open.spotify.com/track/49r5rgPMzqsmv6UzjIkiZs"
@@ -2849,7 +3137,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 260533,
       "name": "La Martiniana",
       "url": "https://open.spotify.com/track/7K7EWrOeHoTtt9Z1OoO76m"
@@ -2885,7 +3173,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 286120,
       "name": "La Martiniana",
       "url": "https://open.spotify.com/track/4Xm5JGCRXahrMUaoIhWNcU"
@@ -2925,7 +3213,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 212280,
       "name": "La Morena",
       "url": "https://open.spotify.com/track/72FuLOI8lu55H2DMbUhV53"
@@ -2961,7 +3249,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 126080,
       "name": "La Pag\u00fcinita (Son Istme\u00f1o)",
       "url": "https://open.spotify.com/track/0wFpiwjo0aXkKxw4uicovp"
@@ -3015,7 +3303,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 308640,
       "name": "La Petenera",
       "url": "https://open.spotify.com/track/4P8TMzodqPySaMcZ2rUzls"
@@ -3033,7 +3321,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 209226,
       "name": "La Petenera",
       "url": "https://open.spotify.com/track/4WeazL7v9t7yHAUF7TgGnG"
@@ -3051,7 +3339,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 170080,
       "name": "La Petenera (Son Istme\u00f1o)",
       "url": "https://open.spotify.com/track/1ED45vsegct59tYlvwdyiG"
@@ -3105,7 +3393,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 177133,
       "name": "La Pichacua",
       "url": "https://open.spotify.com/track/7sWYjGHqt6V6f0DjwsKNH5"
@@ -3123,7 +3411,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 104080,
       "name": "La Puerca",
       "url": "https://open.spotify.com/track/2W1TwTLYg8ZwTFjWH1HFpC"
@@ -3141,7 +3429,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-27",
       "duration_ms": 172653,
       "name": "La Reginita",
       "url": "https://open.spotify.com/track/6BQDCJuzfv7ATcbKI1tzzW"
@@ -3159,7 +3447,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-25",
       "duration_ms": 288000,
       "name": "La Rema",
       "url": "https://open.spotify.com/track/3ssYU02y49tGj5rBtGl1t2"
@@ -3195,7 +3483,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 230466,
       "name": "La Sandunga",
       "url": "https://open.spotify.com/track/1vSnJpV79YE1zGbl6eNkEl"
@@ -3249,7 +3537,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 230826,
       "name": "La Tarasca",
       "url": "https://open.spotify.com/track/7uYIxMrqy8EKUx3E1B8sg2"
@@ -3267,7 +3555,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-28",
       "duration_ms": 250666,
       "name": "La Tortolita",
       "url": "https://open.spotify.com/track/6uwztRjxBgGbj9YqkTDHq1"
@@ -3357,7 +3645,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-08-02",
       "duration_ms": 190400,
       "name": "La Venadita",
       "url": "https://open.spotify.com/track/7Ch9cochgWu7HIqbDosUZb"
@@ -3375,7 +3663,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 268160,
       "name": "La Virgen Tendi\u00f3 su Manto en la Tierra del Placer",
       "url": "https://open.spotify.com/track/3g19UYWWWW7ZSLi8Xd5xmC"
@@ -3393,7 +3681,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": "2022-07-22",
       "duration_ms": 202400,
       "name": "Lago Azul",
       "url": "https://open.spotify.com/track/5AQpXtws2qGlVmpvlSyY8O"
@@ -3411,7 +3699,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 140960,
       "name": "Las Naguas Blancas",
       "url": "https://open.spotify.com/track/1DmFSS0SEQwcrDSqifpV6O"
@@ -3429,7 +3717,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 242533,
       "name": "Las Poblanitas",
       "url": "https://open.spotify.com/track/1oNR9SbLESfv3oyh9CHNfQ"
@@ -3447,7 +3735,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 195386,
       "name": "Llamarada",
       "url": "https://open.spotify.com/track/4Yqw2t1mCvklza4IOVj5ry"
@@ -3469,10 +3757,46 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246160,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/4tlqYj5LHUpXNBN1F0Iw5p"
+    },
+    {
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329795,
+      "name": "Los Arrieros",
+      "url": "https://open.spotify.com/track/1ssjjs8NrGWc8hZdV1zQaL"
+    },
+    {
+      "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/75GiM4BTQMPiLXCgmRkt0V"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 329795,
+      "name": "Los Arrieros",
+      "url": "https://open.spotify.com/track/4cf8cxoaXQQ93zgkgpuKYy"
     },
     {
       "album": {
@@ -3487,7 +3811,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 331773,
       "name": "Los Arrieros",
       "url": "https://open.spotify.com/track/4Seesrap9woDkQq3Q3g3ZX"
@@ -3509,7 +3833,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 219293,
       "name": "Los Chiles Verdes",
       "url": "https://open.spotify.com/track/7k3Jl6Rxv66MgtdSP17y7k"
@@ -3527,7 +3851,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 126480,
       "name": "Los Once Pueblos",
       "url": "https://open.spotify.com/track/2N8wA0N7dCJ7acA9PRshnD"
@@ -3567,7 +3891,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 195955,
       "name": "Luz de Luna",
       "url": "https://open.spotify.com/track/5kHPdfmR7uZldnkINhKgZ3"
@@ -3603,7 +3927,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-13",
       "duration_ms": 227666,
       "name": "Maria",
       "url": "https://open.spotify.com/track/6t0HP22IT4zsv2W5HLWgrT"
@@ -3621,7 +3945,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 294093,
       "name": "Mar\u00eda Cirila (Son Jarocho)",
       "url": "https://open.spotify.com/track/2YmREdUeF3772HiHmY1MND"
@@ -3639,7 +3963,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 181533,
       "name": "Mar\u00eda Cumb\u00e9 o Maracumb\u00e9 (Son Guerrerense)",
       "url": "https://open.spotify.com/track/41ztvbvseXJEMLeZ8DBIQs"
@@ -3679,7 +4003,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252080,
       "name": "Mexicana Hermosa",
       "url": "https://open.spotify.com/track/2jHnuEYl7x1EtG4NGDDkdN"
@@ -3697,7 +4021,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 215893,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/6vYyt9OYS6HBT6wI3JP52s"
@@ -3719,7 +4043,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251511,
       "name": "Mi Tierra Veracruzana",
       "url": "https://open.spotify.com/track/2VhXTSo5qSsvoLWn0haQcv"
@@ -3763,7 +4087,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227960,
       "name": "Nada Es Verdad",
       "url": "https://open.spotify.com/track/5inReP5WF9HH5X7ff0I6uk"
@@ -3799,7 +4123,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 260986,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/4j4MtOK7RSOVPi1LKwb9Zu"
@@ -3821,7 +4145,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236426,
       "name": "Para Qu\u00e9 Sufrir - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/2xEIpRFqAt31N3gZ3TqOBM"
@@ -3839,7 +4163,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 179106,
       "name": "Pescador, Pescador",
       "url": "https://open.spotify.com/track/1oSQePxu82vTxv9M9T1Rui"
@@ -3893,7 +4217,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 487967,
       "name": "Popurr\u00ed Danzones",
       "url": "https://open.spotify.com/track/7pRPlktJgojwhC0n1CCMtY"
@@ -3911,7 +4235,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 165906,
       "name": "Popurr\u00ed de Sones / Huapango de Moncayo / Tavo Rivera / Guadalajara / Juan Colorado",
       "url": "https://open.spotify.com/track/3JQ7VHzXjdr99GP0bQ47s5"
@@ -3947,7 +4271,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 170453,
       "name": "Qu\u00e9 Lindo Es Michoac\u00e1n",
       "url": "https://open.spotify.com/track/74eQMyOMHmbZDFAcKtxant"
@@ -3965,7 +4289,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 188720,
       "name": "Ra Bacheeza",
       "url": "https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd"
@@ -4019,7 +4343,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226003,
       "name": "Rema, Rema",
       "url": "https://open.spotify.com/track/1DJkfFqYJdToCPbJH2cQhS"
@@ -4055,7 +4379,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 134773,
       "name": "San Juan Juriticua (Dia De San Juan)",
       "url": "https://open.spotify.com/track/14srRvCrXl9VnBisc6xF2F"
@@ -4073,7 +4397,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 240813,
       "name": "Santa Clara Del Cobre",
       "url": "https://open.spotify.com/track/2zhbqrp12lsyS7Fx9815PD"
@@ -4113,7 +4437,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285520,
       "name": "Sembrando Flores",
       "url": "https://open.spotify.com/track/6H8R62wUNjDdRBgsF9DXxg"
@@ -4185,7 +4509,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 190933,
       "name": "Sollozando",
       "url": "https://open.spotify.com/track/4RriRBwXoJgdx0VkyBdKtU"
@@ -4239,7 +4563,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 397360,
       "name": "Son para Alfa Rios",
       "url": "https://open.spotify.com/track/3xli3AzcMClTYV6slo4TzJ"
@@ -4257,7 +4581,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 328440,
       "name": "Son Paulina",
       "url": "https://open.spotify.com/track/7ptdYS4bjjMcse2S7Yu24q"
@@ -4275,10 +4599,28 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 222408,
       "name": "Soy Lo Prohibido",
       "url": "https://open.spotify.com/track/1H2RA34tLUKVImXt1wMT1x"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica de America",
+        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "Tecalitl\u00e1n",
+      "url": "https://open.spotify.com/track/1HNSDDyd03NzyopKAMjkU0"
     },
     {
       "album": {
@@ -4293,7 +4635,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187040,
       "name": "Tecalitl\u00e1n",
       "url": "https://open.spotify.com/track/1Y9uK9gneUrzl3LagDtkHw"
@@ -4311,7 +4653,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 118973,
       "name": "Tor Temben Mari (Toro de Once)",
       "url": "https://open.spotify.com/track/62emEW3js9cZu1owJKR3Rd"
@@ -4329,10 +4671,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 147040,
       "name": "Torito",
       "url": "https://open.spotify.com/track/4qBhxDZa7jZG0eZD3zlVfH"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Sinaloense",
+        "url": "https://open.spotify.com/album/2ajqOoN16GTLE6jRZuzyk7"
+      },
+      "artists": [
+        {
+          "name": "Banda De El Recodo De Cruz Lizarraga",
+          "url": "https://open.spotify.com/artist/3oWmjvaXrbEjmIXWcupBVO"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133840,
+      "name": "Toro Viejo",
+      "url": "https://open.spotify.com/track/4fj83XabZRpYHLgo8bIcxo"
     },
     {
       "album": {
@@ -4347,7 +4707,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 133840,
       "name": "Toro Viejo",
       "url": "https://open.spotify.com/track/6gJHTLBIuB5qcQkZiR30Ap"
@@ -4383,7 +4743,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-07",
       "duration_ms": 114640,
       "name": "Tzitzik Canela (Flor De Canela)",
       "url": "https://open.spotify.com/track/3fcp0vGkNvc6chTPAg35Oh"
@@ -4401,7 +4761,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 142640,
       "name": "Tzitzik Janik (Flor De Lluvia)",
       "url": "https://open.spotify.com/track/3oWeJMi53Dcsa7MgvZIln5"
@@ -4485,7 +4845,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 231266,
       "name": "Vieju Lucuuxhu",
       "url": "https://open.spotify.com/track/38Ig8AM6T635aBdXd0VFlk"
@@ -4521,7 +4881,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 267026,
       "name": "Virginia Que Si - En Vivo",
       "url": "https://open.spotify.com/track/6TVTaugec2ljpFh49YiLlP"
@@ -4543,7 +4903,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 124466,
       "name": "Vi\u00f1uete",
       "url": "https://open.spotify.com/track/1F4PeWLQxZGSWCVwzTX1lM"
@@ -4583,7 +4943,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 369800,
       "name": "Ya No Vivo por Vivir",
       "url": "https://open.spotify.com/track/1LCBtJO4NjHMnora7VBn62"
@@ -4601,7 +4961,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-23",
       "duration_ms": 260533,
       "name": "Zirahu\u00e9n",
       "url": "https://open.spotify.com/track/0Em8w9tBq5E1eLIL4bSHCi"

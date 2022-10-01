@@ -49,7 +49,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 275716,
       "name": "A Million Dreams (Instrumental Guitar)",
       "url": "https://open.spotify.com/track/4z1f1DsQ0maBnbJfMitsF7"
@@ -142,6 +142,28 @@
     },
     {
       "album": {
+        "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
+        "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
+      },
+      "artists": [
+        {
+          "name": "Sigvaldi Kaldal\u00f3ns",
+          "url": "https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217906,
+      "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Grand Piano",
+      "url": "https://open.spotify.com/track/11MJZb67EZgtwAeXLbHyft"
+    },
+    {
+      "album": {
         "name": "Fantasia on Greensleeves",
         "url": "https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV"
       },
@@ -217,10 +239,62 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190226,
       "name": "Cavalleria rusticana: Intermezzo",
       "url": "https://open.spotify.com/track/0jCUsXFEzEhQco9mH0VTHf"
+    },
+    {
+      "album": {
+        "name": "Mascagni: Cavalleria Rusticana/Leoncavallo: Pagliacci",
+        "url": "https://open.spotify.com/album/0MkD4EFygmHlaZKjUBeOom"
+      },
+      "artists": [
+        {
+          "name": "Pietro Mascagni",
+          "url": "https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Gianandrea Gavazzeni",
+          "url": "https://open.spotify.com/artist/3dUXTzPxjC0mgZbxieKQLF"
+        },
+        {
+          "name": "Giuseppe Patan\u00e8",
+          "url": "https://open.spotify.com/artist/5ZJ9PMKBpN56YhrhFzAR5o"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190226,
+      "name": "Cavalleria rusticana: Intermezzo",
+      "url": "https://open.spotify.com/track/2ejVc73K8orfIk9W2uZKlg"
+    },
+    {
+      "album": {
+        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
+        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151480,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta"
     },
     {
       "album": {
@@ -239,7 +313,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152280,
       "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B"
@@ -269,10 +343,40 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 308426,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
       "url": "https://open.spotify.com/track/42LRjYQYJeogQINxQo0BcJ"
+    },
+    {
+      "album": {
+        "name": "Born in the 1600s: Vivaldi",
+        "url": "https://open.spotify.com/album/1sw3vQbpQFMl536wB1pO2F"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Eduardo Fernandez",
+          "url": "https://open.spotify.com/artist/2nZNjnN8m5yQHvatKBCHIf"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "George Malcolm",
+          "url": "https://open.spotify.com/artist/5ccyh1kIfmtUfJf4d5wchx"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309466,
+      "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
+      "url": "https://open.spotify.com/track/5GnRdw3oNKF8Mz6gdEcQLK"
     },
     {
       "album": {
@@ -321,6 +425,58 @@
       "duration_ms": 176518,
       "name": "Dolly, Op. 56: 1. Berceuse",
       "url": "https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P"
+    },
+    {
+      "album": {
+        "name": "Masterpieces in Miniature",
+        "url": "https://open.spotify.com/album/05Eck7k66jfjQEs0NGVPHj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385857,
+      "name": "Faur\u00e9: Pavane, Op. 50",
+      "url": "https://open.spotify.com/track/4CZq7M6hBTg77Qhp3TJHdN"
+    },
+    {
+      "album": {
+        "name": "Flower Duet (Goldmund Rework)",
+        "url": "https://open.spotify.com/album/38RHDC1MzoEZa5xaDMggAY"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        },
+        {
+          "name": "Scott Moore",
+          "url": "https://open.spotify.com/artist/3k5d36mzom5r3bYb2ZBI3E"
+        },
+        {
+          "name": "Emily Pisaturo",
+          "url": "https://open.spotify.com/artist/2s0fOzYaGHBDTbKTmY1rLm"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167432,
+      "name": "Flower Duet - Goldmund Rework",
+      "url": "https://open.spotify.com/track/3x5EerSpxWhkSvLKQ87U2S"
     },
     {
       "album": {
@@ -399,7 +555,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 206451,
       "name": "Hallelujah - Instrumental",
       "url": "https://open.spotify.com/track/09gkpMLFgqUxr4i4mmhmtQ"
@@ -469,10 +625,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 359213,
       "name": "I giorni",
       "url": "https://open.spotify.com/track/46g8ENyqfzLrkbr88aoVMG"
+    },
+    {
+      "album": {
+        "name": "I Giorni",
+        "url": "https://open.spotify.com/album/5P6Z5FDdLweX6oXp38nFHl"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359213,
+      "name": "I Giorni",
+      "url": "https://open.spotify.com/track/6TCX42krn2Hq8vqCuEIkrh"
     },
     {
       "album": {
@@ -495,7 +669,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 297000,
       "name": "Lakm\u00e9 / Act 1: \"Sous le d\u00f4me \u00e9pais\" (Flower Duet)",
       "url": "https://open.spotify.com/track/2YWM7FYspCbkM6xfo1v6gO"
@@ -565,7 +739,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 233706,
       "name": "Maestro",
       "url": "https://open.spotify.com/track/4SimUIFxXh5N6VsF33oMo7"
@@ -587,6 +761,36 @@
       "duration_ms": 169466,
       "name": "Main Title (The Notebook)",
       "url": "https://open.spotify.com/track/06xNkl12TrxwGYrwTGlUUd"
+    },
+    {
+      "album": {
+        "name": "Mozart: Violin Concerto No. 1, K. 207 - Adagio, K. 261 & Sinfonia concertante, K. 364",
+        "url": "https://open.spotify.com/album/2etuXogtzIC3rFVC5XOrhS"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493600,
+      "name": "Mozart: Violin Concerto No. 1 in B-Flat Major, K. 207: II. Adagio",
+      "url": "https://open.spotify.com/track/2njjANJvIaOCyIy9OisgqS"
     },
     {
       "album": {
@@ -642,6 +846,32 @@
     },
     {
       "album": {
+        "name": "Mozart: Eine Kleine Nachtmusik etc.",
+        "url": "https://open.spotify.com/album/5YCuibCDJrkVcS3UOAYqr9"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301586,
+      "name": "Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon",
+      "url": "https://open.spotify.com/track/1Mse9NKBbEASi50CQ4aYhr"
+    },
+    {
+      "album": {
         "name": "Mozart: Academy in Concert",
         "url": "https://open.spotify.com/album/7GpLAOdLQp3wejURBwC144"
       },
@@ -661,7 +891,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 301586,
       "name": "Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon",
       "url": "https://open.spotify.com/track/7B4HbpZCSfLzKGapKzlUPD"
@@ -687,7 +917,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 385866,
       "name": "Pavane, Op. 50",
       "url": "https://open.spotify.com/track/2kzJk1fFlxwavj3TcCHcqk"
@@ -705,7 +935,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 259250,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa"
@@ -831,6 +1061,36 @@
     {
       "album": {
         "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151506,
+      "name": "Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
         "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
       },
       "artists": [
@@ -853,7 +1113,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151506,
       "name": "Spring 1 - 2012",
       "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
@@ -937,7 +1197,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 493600,
       "name": "Violin Concerto No. 1 in B Flat Major, K.207: II. Adagio",
       "url": "https://open.spotify.com/track/2w8uZRqEyvSkDe57hwWl82"

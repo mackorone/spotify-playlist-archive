@@ -1,12 +1,12 @@
 {
   "description": "Chill to the familiar classical pieces featured in award-winning films.",
-  "num_followers": 322750,
+  "num_followers": 329579,
   "original_name": "Classical Moments in Movies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcxNzc2NCwwMDAwMDAxMzAwMDAwMTgxZjdhZGIxMGMwMDAwMDE2ZDE1MmVmZTVl",
+  "snapshot_id": "MTY2Mzc0ODk1OCwwMDAwMDAwMDA2OTcxMmJiMjkyMTkwMDQ5YzFmZDAxZjIzNDYzY2Y0",
   "tracks": [
     {
       "added_at": "2022-07-13 13:09:24",
@@ -35,8 +35,8 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "The Truman Show",
-        "url": "https://open.spotify.com/album/5Lmt26Q6HEdagwj7AqaBv3"
+        "name": "Rubinstein Collection, Vol. 44: All Chopin: Piano Concertos Nos. 1/2; Trois nouvelles etudes, Op. posth.",
+        "url": "https://open.spotify.com/album/5pvXSio4z7B7gkN1fMH2kr"
       },
       "artists": [
         {
@@ -46,11 +46,19 @@
         {
           "name": "Arthur Rubinstein",
           "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+        },
+        {
+          "name": "Stanis\u0142aw Skrowaczewski",
+          "url": "https://open.spotify.com/artist/0VmiaOzhvopQVjmAhjDQTw"
+        },
+        {
+          "name": "The New Symphony Orchestra Of London",
+          "url": "https://open.spotify.com/artist/2tXt8tQb1z7e9xrx5RWKie"
         }
       ],
-      "duration_ms": 645893,
-      "name": "Romance-Larghetto",
-      "url": "https://open.spotify.com/track/1yAvn8CD3gA8qyP6ZWwzdu"
+      "duration_ms": 646000,
+      "name": "Piano Concerto No. 1 in E Minor, Op. 11: II. Romance. Larghetto",
+      "url": "https://open.spotify.com/track/31WC5psMchxL8LHUjfyi0f"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -79,50 +87,6 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Vivaldi: The Complete Viola d'amore Concertos",
-        "url": "https://open.spotify.com/album/0UULSPbk6SQlN7rNeThI1F"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Rachel Barton Pine",
-          "url": "https://open.spotify.com/artist/4st8QHJeSvWO1D4OPUgFaf"
-        },
-        {
-          "name": "Ars Antigua",
-          "url": "https://open.spotify.com/artist/6o674M7Z1UpS2xRo157aY4"
-        }
-      ],
-      "duration_ms": 190029,
-      "name": "Viola d'amore Concerto in A Minor, RV 397: I. Vivace",
-      "url": "https://open.spotify.com/track/73WeT74sA6tnCl9VtgPbq4"
-    },
-    {
-      "added_at": "2022-07-13 13:09:24",
-      "album": {
-        "name": "Shine - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/2YNx1I2IrSFxI1Tq4F5TXy"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Wilhelm Kempff",
-          "url": "https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj"
-        }
-      ],
-      "duration_ms": 92666,
-      "name": "Kinderszenen, Op.15: 10. Fast zu ernst",
-      "url": "https://open.spotify.com/track/6l6gch6dBX1VWdIVTaGGpr"
-    },
-    {
-      "added_at": "2022-07-13 13:09:24",
-      "album": {
         "name": "Strauss, J.: An der sch\u00f6nen blauen Donau (The Blue Danube)",
         "url": "https://open.spotify.com/album/4Hq6U8NMSqCCXKIxTtO2uX"
       },
@@ -147,18 +111,42 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "The Chorus [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/4e3TLpoJx9IZQcgTrqO4cm"
+        "name": "Schumann: Kinderszenen; Kreisleriana; Waldszenen",
+        "url": "https://open.spotify.com/album/7f9V9jwebM6tVDpItA1O8m"
       },
       "artists": [
         {
-          "name": "Les Choristes",
-          "url": "https://open.spotify.com/artist/6s1VTGxfEMRIsYyOJbd6VN"
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Wilhelm Kempff",
+          "url": "https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj"
         }
       ],
-      "duration_ms": 136800,
+      "duration_ms": 98573,
+      "name": "Kinderszenen, Op. 15: No. 10 Fast zu ernst",
+      "url": "https://open.spotify.com/track/4x6N6LIKIiab4gV4cdbtPZ"
+    },
+    {
+      "added_at": "2022-07-13 13:09:24",
+      "album": {
+        "name": "The Chorus (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4VVDHVgGIOh68k2VRq9tq0"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coulais",
+          "url": "https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R"
+        },
+        {
+          "name": "Les Petits Chanteurs de Saint-Marc",
+          "url": "https://open.spotify.com/artist/026nk210FPO26xMwpoew70"
+        }
+      ],
+      "duration_ms": 139773,
       "name": "Vois sur ton chemin",
-      "url": "https://open.spotify.com/track/3I5MKaK5Xy9K5Rmj3vbpbP"
+      "url": "https://open.spotify.com/track/6Q00zs8KvmXWdwlHD7PZZ2"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -179,6 +167,30 @@
       "duration_ms": 244066,
       "name": "Nocturne, B. 49: Lento con gran espressione in C-Sharp Minor",
       "url": "https://open.spotify.com/track/664fcA80WZzNL7uJWcCkLe"
+    },
+    {
+      "added_at": "2022-07-13 13:09:24",
+      "album": {
+        "name": "Classical Music: 50 of the Best Film Classics",
+        "url": "https://open.spotify.com/album/4RqJLaVkFhOYsn72FUS2iQ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "James DePreist",
+          "url": "https://open.spotify.com/artist/6dg4xqm9InvCIZwVil23Yg"
+        }
+      ],
+      "duration_ms": 639986,
+      "name": "Symphony No. 5 in C-Sharp Minor: IV. Adagietto: Sehr langsam (Death in Venice)",
+      "url": "https://open.spotify.com/track/0AyL01xejvrvvS0qqLODgr"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -251,32 +263,32 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Classical Music: 50 of the Best Film Classics",
-        "url": "https://open.spotify.com/album/4RqJLaVkFhOYsn72FUS2iQ"
+        "name": "Vivaldi: The Complete Viola d'amore Concertos",
+        "url": "https://open.spotify.com/album/0UULSPbk6SQlN7rNeThI1F"
       },
       "artists": [
         {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Rachel Barton Pine",
+          "url": "https://open.spotify.com/artist/4st8QHJeSvWO1D4OPUgFaf"
         },
         {
-          "name": "James DePreist",
-          "url": "https://open.spotify.com/artist/6dg4xqm9InvCIZwVil23Yg"
+          "name": "Ars Antigua",
+          "url": "https://open.spotify.com/artist/6o674M7Z1UpS2xRo157aY4"
         }
       ],
-      "duration_ms": 639986,
-      "name": "Symphony No. 5 in C-Sharp Minor: IV. Adagietto: Sehr langsam (Death in Venice)",
-      "url": "https://open.spotify.com/track/0AyL01xejvrvvS0qqLODgr"
+      "duration_ms": 190029,
+      "name": "Viola d'amore Concerto in A Minor, RV 397: I. Vivace",
+      "url": "https://open.spotify.com/track/73WeT74sA6tnCl9VtgPbq4"
     },
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
         "name": "Sleep (Remixes)",
-        "url": "https://open.spotify.com/album/3tkmx5kgYKo7RjPyB5vZTm"
+        "url": "https://open.spotify.com/album/6pBq7xlUDUChkJZmy4jqD0"
       },
       "artists": [
         {
@@ -298,7 +310,7 @@
       ],
       "duration_ms": 202724,
       "name": "Dream 13 - Short Edit",
-      "url": "https://open.spotify.com/track/7jOQz0twc8MXAMib4iIy7u"
+      "url": "https://open.spotify.com/track/7GwO8RkgIDNEVov1qgZ04S"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -327,40 +339,8 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "100 Greatest Film Themes",
-        "url": "https://open.spotify.com/album/6cvLnRWPmgOv9Ty7hitQDC"
-      },
-      "artists": [
-        {
-          "name": "The City of Prague Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Waltz No. 2 From Jazz Suite No. 2 (From \"Eyes Wide Shut\")",
-      "url": "https://open.spotify.com/track/7sgPwxEjXmgT3uEreh8b0I"
-    },
-    {
-      "added_at": "2022-07-13 13:09:24",
-      "album": {
-        "name": "Graz",
-        "url": "https://open.spotify.com/album/6zg9Xz3Xi9a3dIbyRDjJux"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 165557,
-      "name": "Because This Must Be",
-      "url": "https://open.spotify.com/track/4CJUL27qGiX5MfHFcFpr38"
-    },
-    {
-      "added_at": "2022-07-13 13:09:24",
-      "album": {
-        "name": "The King's Speech OST",
-        "url": "https://open.spotify.com/album/44jCEaOBXfvbmTDMXLphji"
+        "name": "Classical Music for the Background: Beethoven",
+        "url": "https://open.spotify.com/album/0vwqo5xb7ODEgPpUCUtOl6"
       },
       "artists": [
         {
@@ -378,7 +358,47 @@
       ],
       "duration_ms": 302986,
       "name": "Speaking Unto Nations (Beethoven Symphony no 7 - II )",
-      "url": "https://open.spotify.com/track/4EcOBeGY1r0j26Z8FJ1nVZ"
+      "url": "https://open.spotify.com/track/5THoAOnIv5KNZkmQMpSvmJ"
+    },
+    {
+      "added_at": "2022-07-13 13:09:24",
+      "album": {
+        "name": "Shostakovich: Symphony No. 11 \"The Year 1905\", Jazz Suites & Tahiti Trot",
+        "url": "https://open.spotify.com/album/6xHabLzu9ggPHPEPOoQ3jh"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Mariss Jansons",
+          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "Shostakovich: Suite for Jazz Orchestra No. 2, Op. 50b: No. 2, Waltz",
+      "url": "https://open.spotify.com/track/05WDqLHKcWYpxSoQu9LU3x"
+    },
+    {
+      "added_at": "2022-07-13 13:09:24",
+      "album": {
+        "name": "Graz",
+        "url": "https://open.spotify.com/album/6zg9Xz3Xi9a3dIbyRDjJux"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 165557,
+      "name": "Because This Must Be",
+      "url": "https://open.spotify.com/track/4CJUL27qGiX5MfHFcFpr38"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -407,8 +427,8 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Purcell: Music for Queen Mary, Come ye Sons of Art",
-        "url": "https://open.spotify.com/album/59IXibPF6cZcudHdvvskrK"
+        "name": "Purcell: Musique pour les fun\u00e9railles de la Reine Mary",
+        "url": "https://open.spotify.com/album/19MO8SGru79gzjbvc141oL"
       },
       "artists": [
         {
@@ -430,7 +450,7 @@
       ],
       "duration_ms": 137466,
       "name": "Purcell: March and Canzona for Queen Mary's Funeral, Z. 860: March",
-      "url": "https://open.spotify.com/track/2RRVXJFJ6zl7eePo8k815C"
+      "url": "https://open.spotify.com/track/56DNA8j0EiyV7o8wA9HAEJ"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -459,34 +479,18 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Out Of Africa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2b5Qm8CTQ1k4nFc6b1TRiL"
+        "name": "Out Of Africa",
+        "url": "https://open.spotify.com/album/5ppl86U4zfpfE72zidbDiK"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "John Berry",
-          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
-        },
-        {
           "name": "John Barry",
           "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
-        },
-        {
-          "name": "Joel McNeely",
-          "url": "https://open.spotify.com/artist/59UCaDN9qLklKVTxSiEyMV"
-        },
-        {
-          "name": "Royal Scottish National Orchestra",
-          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
         }
       ],
       "duration_ms": 462640,
-      "name": "Mozart: Clarinet Concerto In A Major, K622 (Adagio)",
-      "url": "https://open.spotify.com/track/5FCllSZdOJMcgmFCnAwOBT"
+      "name": "Mozart: Clarinet Concerto In A major, K622 (Adagio)",
+      "url": "https://open.spotify.com/track/665XLDRwQueQYBn4cnyxWW"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -548,17 +552,17 @@
       "added_at": "2022-07-13 13:09:24",
       "album": {
         "name": "Domo 10th Anniversary Collection",
-        "url": "https://open.spotify.com/album/6QZaUK1IkuoD1qnsOly6G8"
+        "url": "https://open.spotify.com/album/0XMXhVnnv6mMooaF4Nq5dU"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "Steve Anderson",
+          "url": "https://open.spotify.com/artist/2FbZlUT418wQoIZ3IFTKeJ"
         }
       ],
       "duration_ms": 243440,
-      "name": "Sicilienne",
-      "url": "https://open.spotify.com/track/1jFBb7pXaEgUcyGXwZ858V"
+      "name": "Sicilienne, Op. 78",
+      "url": "https://open.spotify.com/track/2Pue7ub5VbWjvJgAvKKaql"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -583,8 +587,8 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Birdman (Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu's Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0eRiJ8ukd6cl89RCJZHXZX"
+        "name": "Mahler: Song Cycles",
+        "url": "https://open.spotify.com/album/0ofJuid6jQ2ebqrUsNznGZ"
       },
       "artists": [
         {
@@ -596,17 +600,17 @@
           "url": "https://open.spotify.com/artist/5HRZLLjW8jC4Kqte3nptim"
         },
         {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        },
-        {
           "name": "Wiener Philharmoniker",
           "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
         }
       ],
       "duration_ms": 422000,
-      "name": "R\u00fcckert-Lieder: No. 3, Ich bin der Welt abhanden gekommen",
-      "url": "https://open.spotify.com/track/25iYMuutdrsscCNgOFe4Rj"
+      "name": "R\u00fcckert-Lieder: Ich bin der Welt abhanden gekommen",
+      "url": "https://open.spotify.com/track/1SKqoOM0KO1ABXDzal9TNn"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -629,14 +633,14 @@
         }
       ],
       "duration_ms": 61800,
-      "name": "12 Concerti grossi, Op.6 - Concerto grosso in Bb major, Op. 6, No. 7: 1. Largo",
+      "name": "12 Concerti grossi, Op. 6 - Concerto grosso in Bb major, Op. 6, No. 7: 1. Largo",
       "url": "https://open.spotify.com/track/4OGTVs4LxxryHbBoStJbrQ"
     },
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Amadeus (Music From The 1999 Stage Play)",
-        "url": "https://open.spotify.com/album/14M8paWxq3o3z3oBHFhFAA"
+        "name": "Mozart: The Piano Concertos (12 CDs, Vol.7 of 45)",
+        "url": "https://open.spotify.com/album/5lUTbzh2eLh6Ubs6I9BOpM"
       },
       "artists": [
         {
@@ -656,15 +660,15 @@
           "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
         }
       ],
-      "duration_ms": 714640,
-      "name": "Piano Concerto No.22 in E flat, K.482: 3. Allegro - Andante cantabile - Tempo I",
-      "url": "https://open.spotify.com/track/0S3k6lXXM0Hpg6kJXCpwuf"
+      "duration_ms": 714000,
+      "name": "Piano Concerto No. 22 in E flat, K.482: 3. Allegro - Andante cantabile - Tempo I",
+      "url": "https://open.spotify.com/track/4CCRGZiVKshOiQhDtoZOGc"
     },
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Cinema Paradiso",
-        "url": "https://open.spotify.com/album/1slMqlxO5G9o4e9JjkEwoU"
+        "name": "Nuovo Cinema Paradiso (Original Motion Picture Soundtrack) [Remastered Edition]",
+        "url": "https://open.spotify.com/album/0O1LCjDQ6gFjaLG05xj0xH"
       },
       "artists": [
         {
@@ -672,29 +676,37 @@
           "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
         }
       ],
-      "duration_ms": 178466,
-      "name": "Cinema Paradiso",
-      "url": "https://open.spotify.com/track/7mQpHyD51jOr6zouLaFbZy"
+      "duration_ms": 178666,
+      "name": "Nuovo Cinema Paradiso",
+      "url": "https://open.spotify.com/track/4xx3UI7cLCk1awQPAPLeHj"
     },
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
         "name": "First Loves",
-        "url": "https://open.spotify.com/album/2S7mUjPWQlzSKDFFftp1DX"
+        "url": "https://open.spotify.com/album/1BLyjZFBAXvox8xhwVfRhC"
       },
       "artists": [
+        {
+          "name": "Tim Fain",
+          "url": "https://open.spotify.com/artist/57kiTKiEiK5gi3Q9AqziAP"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
         {
           "name": "Pyotr Ilyich Tchaikovsky, Tim Fain",
           "url": "https://open.spotify.com/artist/5jX6mgYZWNPBlFRs5eozfU"
         },
         {
-          "name": "Tim Fain & Robert Koenig",
-          "url": "https://open.spotify.com/artist/40jjoMA3aECNkDM2VP8E7r"
+          "name": "Robert Koenig",
+          "url": "https://open.spotify.com/artist/341WcirhxlVkGhNh57R9hB"
         }
       ],
       "duration_ms": 326746,
       "name": "Swan Lake, Op. 20",
-      "url": "https://open.spotify.com/track/6eXn2jNKMVgBcdEQ46QTMa"
+      "url": "https://open.spotify.com/track/4X8337xyAGtHW3A1IoPydh"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -764,17 +776,17 @@
       "added_at": "2022-07-13 13:09:24",
       "album": {
         "name": "Children Of Men (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/6hEwNvle4Cp2f4aczNl9lT"
+        "url": "https://open.spotify.com/album/3ZoSfZo1yWlUk0E8uCSt1m"
       },
       "artists": [
         {
-          "name": "John Tavener",
-          "url": "https://open.spotify.com/artist/45ff9QmiC1LkmDPk5TBN21"
+          "name": "Filharmonie Brno",
+          "url": "https://open.spotify.com/artist/7wkqgHCWQh885KiCSUvqH5"
         }
       ],
       "duration_ms": 200080,
       "name": "The Lamb (For String Orchestra)",
-      "url": "https://open.spotify.com/track/5Ctje9srugvwbYZGgZxarl"
+      "url": "https://open.spotify.com/track/5BTKOw2T18rGBgcS0kCljX"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -827,8 +839,8 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "LIBERAL ARTS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6B7XfEz7Wze5QwWLxeOjBr"
+        "name": "Wagner: Favourite Overtures",
+        "url": "https://open.spotify.com/album/0m413Z0vCr1rGicFapjOHl"
       },
       "artists": [
         {
@@ -836,47 +848,23 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Chicago Symphony Orchestra & Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0IQjbEdmKvd85b0Oq8QsIU"
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
         }
       ],
-      "duration_ms": 892440,
-      "name": "Overture [Tannh\u00e4user]",
-      "url": "https://open.spotify.com/track/2ZaVOtRQtkZ1mUVWglMNws"
+      "duration_ms": 901000,
+      "name": "Tannh\u00e4user, WWV 70: Overture",
+      "url": "https://open.spotify.com/track/4bNA3GC1mRWmLcstK5ItjC"
     },
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Hilary and Jackie - Music from the Motion Picture",
-        "url": "https://open.spotify.com/album/44ZMwqsabZ7nSkGw8RtVuG"
-      },
-      "artists": [
-        {
-          "name": "Edward Elgar",
-          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        },
-        {
-          "name": "Jacqueline du Pr\u00e9",
-          "url": "https://open.spotify.com/artist/5VRErWhTZd0si1lqt1DwoW"
-        },
-        {
-          "name": "Philadelphia Orchestra",
-          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
-        }
-      ],
-      "duration_ms": 351466,
-      "name": "Cello Concerto in E Minor, Op. 85: III. Adagio",
-      "url": "https://open.spotify.com/track/0rIac8mqqnUu7g200X3zP2"
-    },
-    {
-      "added_at": "2022-07-13 13:09:24",
-      "album": {
-        "name": "Marie Heurtin (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/68g5837zUWymdaJzdg65o5"
+        "name": "Chants d'est (Sur le sentier recouvert)",
+        "url": "https://open.spotify.com/album/4790r376zIb4jFS7rEuvHR"
       },
       "artists": [
         {
@@ -884,21 +872,17 @@
           "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
         },
         {
-          "name": "Sonia Wieder-Atherton",
-          "url": "https://open.spotify.com/artist/3N8YdPe3Zl8SGUxhsQdM7F"
+          "name": "Franck Krawczyk",
+          "url": "https://open.spotify.com/artist/0ipMyMU3JIur63pY3inuZx"
         },
         {
           "name": "Sinfonia Varsovia",
           "url": "https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk"
-        },
-        {
-          "name": "Christophe Mangou",
-          "url": "https://open.spotify.com/artist/1mrQ1QsrPyGdH4MOVCQjxx"
         }
       ],
-      "duration_ms": 232066,
-      "name": "Vespers opus 37: Nunc dimittis",
-      "url": "https://open.spotify.com/track/1xNiNZZbXVCK1h1VLjb6gz"
+      "duration_ms": 228733,
+      "name": "Vespers, Op. 37: Nunc dimittis",
+      "url": "https://open.spotify.com/track/24OHApVHAq9Wv1yOPRronC"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -951,8 +935,8 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Ocean's Eleven (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2DJNWr05IjdfLzH0tjUrs1"
+        "name": "Debussy: Greatest Hits",
+        "url": "https://open.spotify.com/album/29YTaazNt7syTiaNwbUVfo"
       },
       "artists": [
         {
@@ -960,43 +944,27 @@
           "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
         },
         {
+          "name": "Eugene Ormandy",
+          "url": "https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv"
+        },
+        {
           "name": "Philadelphia Orchestra",
           "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
         },
         {
-          "name": "Eugene Ormandy",
-          "url": "https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv"
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         }
       ],
-      "duration_ms": 300226,
-      "name": "Claire de Lune",
-      "url": "https://open.spotify.com/track/3Vo5NwAezmRMP2aH2xQVm1"
+      "duration_ms": 301906,
+      "name": "Suite bergamasque, L. 75: No. 3, Clair de lune (Arr. L. Caillet for Orchestra)",
+      "url": "https://open.spotify.com/track/3sWbPGkJwBEB7JFgFzMPci"
     },
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Bach in Brazil (Original Motion Picture Soundtrack) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/2zGISf05E8GXJM9Hm9FkGj"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gilvan de Oliveira",
-          "url": "https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Die Gitarrenprobe (Arr. After Jesus bleibet meine Freude, BWV 147) - Arr. By Gilvan De Oliveira",
-      "url": "https://open.spotify.com/track/21Lig0KA3GHOQiT2KITjau"
-    },
-    {
-      "added_at": "2022-07-13 13:09:24",
-      "album": {
-        "name": "The Man Who Wasn't There - OST",
-        "url": "https://open.spotify.com/album/7H3fSDgC1GRIX3MQG0Pu1M"
+        "name": "Beethoven: Piano Trio in B flat; Piano Trio in D",
+        "url": "https://open.spotify.com/album/2dr8n9IlN6fFfsp5JqjcD1"
       },
       "artists": [
         {
@@ -1008,9 +976,37 @@
           "url": "https://open.spotify.com/artist/5pAFKhoqlYPpCSiTOjh9Bz"
         }
       ],
-      "duration_ms": 808626,
-      "name": "Piano Trio No.7 in B Flat, Op.97 \"Archduke\": 3. Andante cantabile, ma per\u00f2 con moto - Poco pi\u00f9 adagio - 1979 Recording",
-      "url": "https://open.spotify.com/track/5hhzZtsoIWhRoh61kPazsu"
+      "duration_ms": 823000,
+      "name": "Piano Trio No.7 in B Flat, Op.97 \"Archduke\": 3. Andante cantabile, ma per\u00f2 con moto - Poco pi\u00f9 adagio",
+      "url": "https://open.spotify.com/track/2Ka83rJxXeZAls9j2ppmUI"
+    },
+    {
+      "added_at": "2022-07-13 13:09:24",
+      "album": {
+        "name": "Hilary and Jackie - Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/44ZMwqsabZ7nSkGw8RtVuG"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Jacqueline du Pr\u00e9",
+          "url": "https://open.spotify.com/artist/5VRErWhTZd0si1lqt1DwoW"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        }
+      ],
+      "duration_ms": 351466,
+      "name": "Cello Concerto in E Minor, Op. 85: III. Adagio",
+      "url": "https://open.spotify.com/track/0rIac8mqqnUu7g200X3zP2"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -1039,8 +1035,8 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Quartet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/487bgtwxgqP1XquwIJfbhD"
+        "name": "Saint-Sa\u00ebns: Le Carnaval des Animaux; Pha\u00e9ton; Danse Macabre etc.",
+        "url": "https://open.spotify.com/album/6i0HvFnPJrXbbEk3JhNxRQ"
       },
       "artists": [
         {
@@ -1068,25 +1064,33 @@
           "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
         }
       ],
-      "duration_ms": 167601,
+      "duration_ms": 165306,
       "name": "Le Carnaval des Animaux, R. 125: 13. Le Cygne",
-      "url": "https://open.spotify.com/track/1m0qiTPNvlgLRyFuOzExJ9"
+      "url": "https://open.spotify.com/track/5Aa3InQJHLUtSvTDtXXMsW"
     },
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Metro Manila (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2Y2sDqEdBHIirjjapqWFjB"
+        "name": "Lyric and Coloratura Arias",
+        "url": "https://open.spotify.com/album/2FJtdO13XdtncsnpzWZOAt"
       },
       "artists": [
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         }
       ],
-      "duration_ms": 285952,
-      "name": "Ebben Ne Andr\u00f2 Lontrana",
-      "url": "https://open.spotify.com/track/7l489KoYGJ9bISQRX8rNmE"
+      "duration_ms": 292533,
+      "name": "La Wally (1997 Digital Remaster): Ebben?...Ne andr\u00f2 lontana",
+      "url": "https://open.spotify.com/track/21GgDK5XhuAyUoenrKeTey"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -1140,7 +1144,7 @@
       "added_at": "2022-07-13 13:09:24",
       "album": {
         "name": "Taking Sides - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1mUc19perrQ1ChJHuJvHH8"
+        "url": "https://open.spotify.com/album/5oh39TIPFKof30KjcTYTdv"
       },
       "artists": [
         {
@@ -1158,23 +1162,51 @@
       ],
       "duration_ms": 702000,
       "name": "String Quintet in C, D.956: 2. Adagio",
-      "url": "https://open.spotify.com/track/6eLTtJwnAvjpkQ8lhUftQs"
+      "url": "https://open.spotify.com/track/3szUg4bG6SfY2YQVO6ettf"
     },
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "The Good Shepherd (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lPyI7zaiFZ1GzP6ktlh8j"
+        "name": "Arvo P\u00e4rt: Te Deum",
+        "url": "https://open.spotify.com/album/0pPXmjmIGwCtIBWiOXO71k"
       },
       "artists": [
         {
           "name": "Arvo P\u00e4rt",
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        },
+        {
+          "name": "Tallin Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/4usHIsx5A139Rw4cZVfPuu"
         }
       ],
-      "duration_ms": 332839,
+      "duration_ms": 346733,
       "name": "Silouans Song",
-      "url": "https://open.spotify.com/track/2xPwUJ02U0lAPPIrF5Nr8Z"
+      "url": "https://open.spotify.com/track/4C2YTs1QwX1V8Xv5xn9fkF"
+    },
+    {
+      "added_at": "2022-07-13 13:09:24",
+      "album": {
+        "name": "Bach in Brazil (Original Motion Picture Soundtrack) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/2zGISf05E8GXJM9Hm9FkGj"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gilvan de Oliveira",
+          "url": "https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Die Gitarrenprobe (Arr. After Jesus bleibet meine Freude, BWV 147) - Arr. By Gilvan De Oliveira",
+      "url": "https://open.spotify.com/track/21Lig0KA3GHOQiT2KITjau"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -1223,21 +1255,13 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "The Shawshank Redemption",
-        "url": "https://open.spotify.com/album/5ucvCY0hFIAL95DVKohEiB"
+        "name": "Mozart: Le nozze di Figaro",
+        "url": "https://open.spotify.com/album/3SGy6bH6yAXXXdEqTqI1s8"
       },
       "artists": [
         {
           "name": "Wolfgang Amadeus Mozart",
           "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Deutsche Oper, Berlin",
-          "url": "https://open.spotify.com/artist/2HvrBSbyQEdpD6pzbh0azy"
-        },
-        {
-          "name": "Karl B\u00f6hm",
-          "url": "https://open.spotify.com/artist/3fyr5uksidSlLzsUjRIz5A"
         },
         {
           "name": "Edith Mathis",
@@ -1246,11 +1270,19 @@
         {
           "name": "Gundula Janowitz",
           "url": "https://open.spotify.com/artist/2VMPE6OWfNkGhnPe4KFLgX"
+        },
+        {
+          "name": "Orchester der Deutschen Oper Berlin",
+          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
+        },
+        {
+          "name": "Karl B\u00f6hm",
+          "url": "https://open.spotify.com/artist/3fyr5uksidSlLzsUjRIz5A"
         }
       ],
-      "duration_ms": 212426,
-      "name": "The Marriage of Figaro / \"Duettino\" Sull 'Aria",
-      "url": "https://open.spotify.com/track/4CZWCG1KOEZPGdQqDL85VF"
+      "duration_ms": 210533,
+      "name": "Le nozze di Figaro, K. 492 / Act 3: \"Sull\u2019aria ... Che soave zeffiretto\"",
+      "url": "https://open.spotify.com/track/7oMlqOqSLszoitbRQTKAen"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -1283,8 +1315,8 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Fantasia 2000 (An Original Walt Disney Records Soundtrack)",
-        "url": "https://open.spotify.com/album/2lNb9KPnZFxjFf3PWunSzl"
+        "name": "Fantasia 2000",
+        "url": "https://open.spotify.com/album/2whukRzuzg6VUBKkcEKfJp"
       },
       "artists": [
         {
@@ -1298,13 +1330,13 @@
       ],
       "duration_ms": 553106,
       "name": "Firebird Suite - 1919 Version",
-      "url": "https://open.spotify.com/track/0hs1sHdXt60LfeGONDNOVy"
+      "url": "https://open.spotify.com/track/5aME3xBO6g6nfBXThdtJwD"
     },
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Shutter Island [Music From The Motion Picture]",
-        "url": "https://open.spotify.com/album/2I0wGJYHfI70MEvivAEEYm"
+        "name": "Penderecki: Symphony No. 3 / Threnody",
+        "url": "https://open.spotify.com/album/1ob9Al3GJ59ZYnvS6fgCze"
       },
       "artists": [
         {
@@ -1312,33 +1344,41 @@
           "url": "https://open.spotify.com/artist/0qEO82Hj3SvjoNyEfKpRku"
         },
         {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
-        },
-        {
           "name": "Polish National Radio Symphony Orchestra",
           "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
         }
       ],
-      "duration_ms": 406240,
-      "name": "Symphony #3: Passacaglia - Allegro Moderato",
-      "url": "https://open.spotify.com/track/1KYmJQOEotLxPUo8oz9UPH"
+      "duration_ms": 406706,
+      "name": "Symphony No. 3: Passacaglia - Allegro moderato",
+      "url": "https://open.spotify.com/track/22QDTO46bo3W6pJ7AZhHmS"
     },
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Mother Night (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0E1kYFfgAPmXBrdlWl0gcG"
+        "name": "P\u00e4rt: Fratres",
+        "url": "https://open.spotify.com/album/5TbnUMlEWev7DgrX8RaxR1"
       },
       "artists": [
         {
           "name": "Arvo P\u00e4rt",
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Tasmin Little",
+          "url": "https://open.spotify.com/artist/0yB2SgzCCYb9uhjd4BG4pP"
+        },
+        {
+          "name": "Martin Roscoe",
+          "url": "https://open.spotify.com/artist/1OBvHJmcD6MzAWSIIErwPM"
         }
       ],
-      "duration_ms": 677000,
-      "name": "Fratres",
-      "url": "https://open.spotify.com/track/2ux87ulIxFZMgr7843eoJt"
+      "duration_ms": 681680,
+      "name": "P\u00e4rt: Fratres (1980 Version for Violin and Piano)",
+      "url": "https://open.spotify.com/track/2qfEeaErLJNO6OKZSdXfsh"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -1359,8 +1399,8 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Before Sunrise, Before Sunset, Before Midnight (Bandes originales des films de Richard Linklater)",
-        "url": "https://open.spotify.com/album/1C5ACPgVgu75yVWBQgByjT"
+        "name": "Purcell: Dido and Aeneas",
+        "url": "https://open.spotify.com/album/7jVOb1LO22X5POgSSWZ69K"
       },
       "artists": [
         {
@@ -1368,13 +1408,25 @@
           "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
         },
         {
+          "name": "Kym Amps",
+          "url": "https://open.spotify.com/artist/56oDszbm45yCU64AkDCjST"
+        },
+        {
+          "name": "David van Asch",
+          "url": "https://open.spotify.com/artist/1pkHduzgfdb8ahbhAFZQl3"
+        },
+        {
+          "name": "Anna Crookes",
+          "url": "https://open.spotify.com/artist/3rHaFUOEX0zmjTCpz2ldCj"
+        },
+        {
           "name": "The Scholars Baroque Ensemble",
           "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
         }
       ],
-      "duration_ms": 116240,
-      "name": "Dido and \u00c6neas: \"Ouverture\"",
-      "url": "https://open.spotify.com/track/7r1FbJGYzoUyIAUggSXrX4"
+      "duration_ms": 116893,
+      "name": "Dido and Aeneas, Z. 626: Overture",
+      "url": "https://open.spotify.com/track/6JZJWX8IkHG4FLIJKQi170"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -1395,30 +1447,34 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Philadelphia - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/5HL1JjJ2aiKNfsZ29YWyiM"
+        "name": "Lyric and Coloratura Arias",
+        "url": "https://open.spotify.com/album/2FJtdO13XdtncsnpzWZOAt"
       },
       "artists": [
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         }
       ],
-      "duration_ms": 288333,
-      "name": "La Mamma Morta",
-      "url": "https://open.spotify.com/track/43jjInKl4TphmijDQAUWRo"
+      "duration_ms": 292600,
+      "name": "Andrea Chenier (1997 Digital Remaster): La mamma morta",
+      "url": "https://open.spotify.com/track/2rnCae7ZO9bIfQFscasS3q"
     },
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
         "name": "The Grand Budapest Hotel (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4JSC6btqLvqKRnW4It66pQ"
+        "url": "https://open.spotify.com/album/6IV7472Hni7A1ENilCManS"
       },
       "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
         {
           "name": "Siefried Behrend & DZO Chamber Orchestra",
           "url": "https://open.spotify.com/artist/5aWIdTpNaFybJHwpFY7ybR"
@@ -1426,7 +1482,7 @@
       ],
       "duration_ms": 172506,
       "name": "Concerto For Lute And Plucked Strings I. Moderato",
-      "url": "https://open.spotify.com/track/1aC7xHBDNOiQOhbVAbBpbB"
+      "url": "https://open.spotify.com/track/4zEL1eaFu2zz2xrZ2yXdu6"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -1480,17 +1536,9 @@
       "added_at": "2022-07-13 13:09:24",
       "album": {
         "name": "Captain Corelli's Mandolin -Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/0BL18V7f0uTGcIrs7vupQO"
+        "url": "https://open.spotify.com/album/32gSHgSXx9oU5nwtgaGvcA"
       },
       "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Norbert Schultze",
-          "url": "https://open.spotify.com/artist/1Twd7CTT4zCSwndStUqk4N"
-        },
         {
           "name": "La Scala",
           "url": "https://open.spotify.com/artist/6oZI9eICogpYD87Vim2953"
@@ -1500,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/1KHulTpYUzjm1KKlJxUw20"
         }
       ],
-      "duration_ms": 188466,
+      "duration_ms": 187786,
       "name": "Act 3 [Rigoletto} - Lili Marlene",
-      "url": "https://open.spotify.com/track/5OjnpfLUTRdpmcZr2BPQqw"
+      "url": "https://open.spotify.com/track/6OHwbpm1yXEC5zUvTjsXyU"
     },
     {
       "added_at": "2022-07-13 13:09:24",

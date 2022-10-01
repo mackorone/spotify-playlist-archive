@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 155401,
       "name": "All That I Said",
       "url": "https://open.spotify.com/track/2HuCVtmbXGPjWrCbnhElDf"
@@ -109,10 +109,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221073,
       "name": "Anillos",
       "url": "https://open.spotify.com/track/644bhHV45EGGVGFVKLMZDp"
+    },
+    {
+      "album": {
+        "name": "Selvas",
+        "url": "https://open.spotify.com/album/317wmYxchAqBSLCOfU4sLW"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221073,
+      "name": "Anillos",
+      "url": "https://open.spotify.com/track/7pEgYtpi1NfpJy1fa94ReI"
     },
     {
       "album": {
@@ -135,6 +153,24 @@
     {
       "album": {
         "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254993,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
+    },
+    {
+      "album": {
+        "name": "Norte",
         "url": "https://open.spotify.com/album/44PzN4pk8LjK4uuV9QScD7"
       },
       "artists": [
@@ -145,7 +181,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 254993,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4DfVAYN8VThaZCkobv0HJV"
@@ -163,7 +199,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-24",
       "duration_ms": 254993,
       "name": "Azul",
       "url": "https://open.spotify.com/track/757yZPKy3bOwaU78ixYjp0"
@@ -257,7 +293,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 181786,
       "name": "CAVIAR",
       "url": "https://open.spotify.com/track/7jQ0ac6EcFNXxm0obXOFWb"
@@ -297,10 +333,46 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184150,
       "name": "CLEAN BABY",
       "url": "https://open.spotify.com/track/2UJB85xPW6zSouCxaH9t30"
+    },
+    {
+      "album": {
+        "name": "CLEAN BABY",
+        "url": "https://open.spotify.com/album/5VzoByWr9exzILjqYGPS2F"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184150,
+      "name": "CLEAN BABY",
+      "url": "https://open.spotify.com/track/2enQxKJL5ZTGoU3U8ri85A"
+    },
+    {
+      "album": {
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/77e8Fef7cxAiWngOEq8enQ"
+      },
+      "artists": [
+        {
+          "name": "REYNA",
+          "url": "https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200520,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/2OmMwHDXy86Y9qPvRqiFMA"
     },
     {
       "album": {
@@ -315,7 +387,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200520,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/3nkC0uQZyp5wY0zp8hIkBL"
@@ -369,7 +441,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194742,
       "name": "Disculpa",
       "url": "https://open.spotify.com/track/5OqYL1EiGTxt5TWdbPbSPP"
@@ -403,6 +475,24 @@
     {
       "album": {
         "name": "Domingo",
+        "url": "https://open.spotify.com/album/0X5fYJ9gerPTJdq9IbPusv"
+      },
+      "artists": [
+        {
+          "name": "Poi mp3",
+          "url": "https://open.spotify.com/artist/56SYLoTCr6PLgLAdzuyzz8"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206538,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/4CzodxFbkgVXNt7OXiy3Qc"
+    },
+    {
+      "album": {
+        "name": "Domingo",
         "url": "https://open.spotify.com/album/01kTCGJItkwSIK8jYMRxDV"
       },
       "artists": [
@@ -413,7 +503,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206538,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/5FgyIF4AvesAj5xws4gpdv"
@@ -431,10 +521,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255597,
       "name": "Dung Ding Dang",
       "url": "https://open.spotify.com/track/1ydRx4MddIKUmOg9yiMmOY"
+    },
+    {
+      "album": {
+        "name": "Estereomance",
+        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
+      },
+      "artists": [
+        {
+          "name": "Estereomance",
+          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255597,
+      "name": "Dung Ding Dang",
+      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
     },
     {
       "album": {
@@ -623,7 +731,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 134500,
       "name": "Girasol",
       "url": "https://open.spotify.com/track/0BizsPV9e8BDWoKS3hPk3M"
@@ -720,6 +828,24 @@
     },
     {
       "album": {
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3"
+      },
+      "artists": [
+        {
+          "name": "Katz\u00f9 Oso",
+          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Honeydew",
+      "url": "https://open.spotify.com/track/7vvn5rvFxxfBDoftYZbwCg"
+    },
+    {
+      "album": {
         "name": "I've Seen Better Days",
         "url": "https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL"
       },
@@ -771,7 +897,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 222226,
       "name": "IN MY ROOM!",
       "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
@@ -789,7 +915,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 172037,
       "name": "Incendio",
       "url": "https://open.spotify.com/track/0TJJXZHUu2qqwCCQzgRhHm"
@@ -865,10 +991,28 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": "2022-07-23",
       "duration_ms": 187826,
       "name": "kiss u better",
       "url": "https://open.spotify.com/track/5yCJKdBWx1fVLUK6XhetGm"
+    },
+    {
+      "album": {
+        "name": "kiss u better",
+        "url": "https://open.spotify.com/album/0hF3HodPikSBNy4dMGVSOf"
+      },
+      "artists": [
+        {
+          "name": "Katz\u00f9 Oso",
+          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "kiss u better",
+      "url": "https://open.spotify.com/track/7ghyfzs27FAYNaP7sO8FnS"
     },
     {
       "album": {
@@ -887,10 +1031,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269640,
       "name": "La Ciudad",
       "url": "https://open.spotify.com/track/4bFRgmXMPWco67L7ykl9jg"
+    },
+    {
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245373,
+      "name": "La Magia",
+      "url": "https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy"
     },
     {
       "album": {
@@ -905,7 +1067,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-28",
       "duration_ms": 245373,
       "name": "La Magia",
       "url": "https://open.spotify.com/track/57Vhb1eZdgfknw62XCJ65F"
@@ -923,7 +1085,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 245373,
       "name": "La Magia",
       "url": "https://open.spotify.com/track/6NALumxGj6tUkYdk5HYpla"
@@ -981,7 +1143,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222466,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/4Qj4s4DZCwH3hAbva1cxPm"
@@ -999,7 +1161,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 143893,
       "name": "LUV",
       "url": "https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz"
@@ -1017,7 +1179,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 143893,
       "name": "LUV",
       "url": "https://open.spotify.com/track/3m3oDsKM7j7BubMBReepya"
@@ -1061,6 +1223,28 @@
       "duration_ms": 163423,
       "name": "Marte",
       "url": "https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID"
+    },
+    {
+      "album": {
+        "name": "me perdono",
+        "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
+      },
+      "artists": [
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212685,
+      "name": "me perdono",
+      "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
     },
     {
       "album": {
@@ -1119,6 +1303,24 @@
     {
       "album": {
         "name": "Morena",
+        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271162,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
+    },
+    {
+      "album": {
+        "name": "Morena",
         "url": "https://open.spotify.com/album/15OOEJpcF1XAp89086m4VV"
       },
       "artists": [
@@ -1129,10 +1331,32 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271162,
       "name": "Morena",
       "url": "https://open.spotify.com/track/6bbjdL68XBl5KUCObsHgjh"
+    },
+    {
+      "album": {
+        "name": "muero x ti",
+        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237564,
+      "name": "muero x ti",
+      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
     },
     {
       "album": {
@@ -1151,7 +1375,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237564,
       "name": "muero x ti",
       "url": "https://open.spotify.com/track/195jacyDVOr5rZ0A1bewsX"
@@ -1209,7 +1433,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 117639,
       "name": "New Lane",
       "url": "https://open.spotify.com/track/2vO9Ha3zfJ7MXRLsfHyI7q"
@@ -1307,7 +1531,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 233491,
       "name": "Our Devices Own",
       "url": "https://open.spotify.com/track/0PhdahpDZ1bTXo7KyByzNj"
@@ -1361,10 +1585,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194976,
       "name": "Park Ave",
       "url": "https://open.spotify.com/track/3PwZAzJ9NiYojvVC2WyxMX"
+    },
+    {
+      "album": {
+        "name": "Colour",
+        "url": "https://open.spotify.com/album/3j6l2AzsdJYRtNJqNx5JCo"
+      },
+      "artists": [
+        {
+          "name": "Katz\u00f9 Oso",
+          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 194976,
+      "name": "Park Ave",
+      "url": "https://open.spotify.com/track/3U6dS9TILCdKqIhqURcmzU"
     },
     {
       "album": {
@@ -1549,7 +1791,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199375,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/5SCfCT6p0jWAgsXoY8iES1"
@@ -1715,10 +1957,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 152680,
       "name": "Sugarbaby",
       "url": "https://open.spotify.com/track/0RqNKk4AsheWCb5YuDVI1I"
+    },
+    {
+      "album": {
+        "name": "Sugarbaby",
+        "url": "https://open.spotify.com/album/10HAYqpjDPleULre8nXrl8"
+      },
+      "artists": [
+        {
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152680,
+      "name": "Sugarbaby",
+      "url": "https://open.spotify.com/track/5SWV7wIgPfqhBVdbcCENXI"
     },
     {
       "album": {
@@ -1885,7 +2145,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 289218,
       "name": "Till I Find You",
       "url": "https://open.spotify.com/track/1Fa7tOXu7RX2TjPOzUG3za"
@@ -2051,7 +2311,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153132,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/7cwy2dah2hIrFVfvX3a7zO"
@@ -2077,6 +2337,28 @@
     {
       "album": {
         "name": "\u00bfPa Qu\u00e9?",
+        "url": "https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        },
+        {
+          "name": "Ch\u00f8by",
+          "url": "https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "\u00bfPa Qu\u00e9?",
+      "url": "https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO"
+    },
+    {
+      "album": {
+        "name": "\u00bfPa Qu\u00e9?",
         "url": "https://open.spotify.com/album/4qwDq324z7bZ2IZ9Rq5hM1"
       },
       "artists": [
@@ -2091,7 +2373,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202500,
       "name": "\u00bfPa Qu\u00e9?",
       "url": "https://open.spotify.com/track/6lOYaF4qJxk3woJ0YVCVgu"

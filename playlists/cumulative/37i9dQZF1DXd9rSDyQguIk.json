@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-09-11",
       "duration_ms": 210493,
       "name": "Ain't Got Nobody",
       "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-26",
       "duration_ms": 216200,
       "name": "All Your Love - Stereo Album Version",
       "url": "https://open.spotify.com/track/6LNgMe8d3Y8xxzJWFqpcRN"
@@ -193,7 +193,7 @@
     {
       "album": {
         "name": "The Pious Bird of Good Omen",
-        "url": "https://open.spotify.com/album/2vykpF7BFnflpzjTCG52FU"
+        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
       },
       "artists": [
         {
@@ -204,6 +204,24 @@
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172693,
+      "name": "Black Magic Woman - 2018 Master",
+      "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
+    },
+    {
+      "album": {
+        "name": "The Pious Bird of Good Omen",
+        "url": "https://open.spotify.com/album/2vykpF7BFnflpzjTCG52FU"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2018-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 172693,
       "name": "Black Magic Woman - 2018 Remaster",
       "url": "https://open.spotify.com/track/7rea8oiI7zkZI5dbigK06f"
@@ -239,10 +257,28 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189506,
       "name": "Boogie Chillen",
       "url": "https://open.spotify.com/track/5oyKFxTeInGiLn7MVTqmMR"
+    },
+    {
+      "album": {
+        "name": "King Of The Boogie",
+        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2020-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189640,
+      "name": "Boogie Chillen",
+      "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
     },
     {
       "album": {
@@ -275,7 +311,7 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 167040,
       "name": "Born Under A Bad Sign",
       "url": "https://open.spotify.com/track/01UTGeKaSANZCXxkAu6vPY"
@@ -311,7 +347,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 183026,
       "name": "Call It Stormy Monday",
       "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
@@ -329,7 +365,7 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183026,
       "name": "Call It Stormy Monday (But Tuesday Is Just As Bad)",
       "url": "https://open.spotify.com/track/2N3ppRkdOeZ75RwEqSz7nu"
@@ -355,7 +391,7 @@
     {
       "album": {
         "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
@@ -366,6 +402,24 @@
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
+    },
+    {
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "date_added": "2018-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 319360,
       "name": "Cold, Cold Feeling",
       "url": "https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf"
@@ -426,6 +480,24 @@
     },
     {
       "album": {
+        "name": "Heart & Soul: A Retrospective",
+        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2018-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "Do Right Woman, Do Right Man",
+      "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
+    },
+    {
+      "album": {
         "name": "Tell Mama The Complete Muscle Shoals Sessions (Remastered Reissue)",
         "url": "https://open.spotify.com/album/6c9t2iV2bpOMWqCc06dI99"
       },
@@ -437,7 +509,7 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181306,
       "name": "Do Right Woman, Do Right Man",
       "url": "https://open.spotify.com/track/1BtXmDNtpBY71E8hLzTYpG"
@@ -455,7 +527,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156893,
       "name": "Don't Start Me To Talkin'",
       "url": "https://open.spotify.com/track/1f9FEeBWZkuT4ItJZwsJ2l"
@@ -513,7 +585,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-31",
       "duration_ms": 215800,
       "name": "Give Me Back My Wig",
       "url": "https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb"
@@ -531,7 +603,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 214520,
       "name": "Give Me Back My Wig - Remastered",
       "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
@@ -603,7 +675,7 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-28",
       "duration_ms": 412960,
       "name": "Have You Ever Loved A Woman? - 40th Anniversary Version / 2010 Remastered",
       "url": "https://open.spotify.com/track/4ZPulVXS8LmmcWlmM82mpC"
@@ -621,7 +693,7 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188240,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/0RYe9pP6Fa3jzEh1n0RZou"
@@ -639,10 +711,28 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181000,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/21qlCjNYLq9jPRR15v4Jyo"
+    },
+    {
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2018-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
     },
     {
       "album": {
@@ -711,10 +801,28 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164546,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/51tJjIf9azRnA6om4BcfNm"
+    },
+    {
+      "album": {
+        "name": "Bo Diddley",
+        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "date_added": "2018-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164546,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
     },
     {
       "album": {
@@ -819,7 +927,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-27",
       "duration_ms": 167226,
       "name": "Let The Good Times Roll",
       "url": "https://open.spotify.com/track/50y6y3iwBlKKev2U4a6GK5"
@@ -971,6 +1079,24 @@
     {
       "album": {
         "name": "The Son Seals Blues Band",
+        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "date_added": "2018-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362400,
+      "name": "Now That I'm Down",
+      "url": "https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4"
+    },
+    {
+      "album": {
+        "name": "The Son Seals Blues Band",
         "url": "https://open.spotify.com/album/3y3AIABlmCoUuSyVC8vqpY"
       },
       "artists": [
@@ -981,7 +1107,7 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 362400,
       "name": "Now That I'm Down",
       "url": "https://open.spotify.com/track/6eIJfQX1WPU2iOFe1x605S"
@@ -1089,7 +1215,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 367533,
       "name": "Sadie",
       "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
@@ -1169,7 +1295,7 @@
     {
       "album": {
         "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/7yf03jHwu4ony0nlnNOIPS"
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
       "artists": [
         {
@@ -1182,7 +1308,43 @@
       "date_removed": null,
       "duration_ms": 188400,
       "name": "Smokestack Lightnin'",
+      "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
+    },
+    {
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/7yf03jHwu4ony0nlnNOIPS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2018-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188400,
+      "name": "Smokestack Lightnin'",
       "url": "https://open.spotify.com/track/35ydSuNJn9z4eTjhWp2xUJ"
+    },
+    {
+      "album": {
+        "name": "Somebody Loan Me A Dime",
+        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "date_added": "2018-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "Somebody Loan Me A Dime",
+      "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
     },
     {
       "album": {
@@ -1197,10 +1359,28 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179693,
       "name": "Somebody Loan Me A Dime",
       "url": "https://open.spotify.com/track/71zy5nvPveBvRVhR5IduJW"
+    },
+    {
+      "album": {
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2020-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431853,
+      "name": "Stone Crazy",
+      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
     },
     {
       "album": {
@@ -1215,7 +1395,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-21",
       "duration_ms": 433306,
       "name": "Stone Crazy",
       "url": "https://open.spotify.com/track/0hORgg6aV6GgDn5VQfZpcl"
@@ -1233,7 +1413,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 434693,
       "name": "Stone Crazy",
       "url": "https://open.spotify.com/track/3FVpPBl3Jbd5TRLUFZamO9"
@@ -1323,7 +1503,7 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-02",
       "duration_ms": 180453,
       "name": "The Things That I Used To Do",
       "url": "https://open.spotify.com/track/3NWDb3bbMBTArBblzG4jMX"
@@ -1341,10 +1521,28 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 324266,
       "name": "The Thrill Is Gone",
       "url": "https://open.spotify.com/track/4VCl2a5JvdrEx6PL2P29ty"
+    },
+    {
+      "album": {
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2018-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324733,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM"
     },
     {
       "album": {
@@ -1395,10 +1593,28 @@
       ],
       "date_added": "2020-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 259760,
       "name": "Two Bugs And A Roach",
       "url": "https://open.spotify.com/track/3W5Hyy46oXDZQtRnTv6Lsh"
+    },
+    {
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "date_added": "2020-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259760,
+      "name": "Two Bugs and a Roach",
+      "url": "https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw"
     },
     {
       "album": {
@@ -1485,10 +1701,28 @@
       ],
       "date_added": "2018-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 316666,
       "name": "You Don't Want Me",
       "url": "https://open.spotify.com/track/1bMCiGzKRJwmYkxtSBsTSM"
+    },
+    {
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "date_added": "2018-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd9rSDyQguIk"

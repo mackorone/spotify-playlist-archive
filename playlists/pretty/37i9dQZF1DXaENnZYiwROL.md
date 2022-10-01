@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaENnZYiwROL.md) - [plain]
 
 > Enjoy the OSTs of Disney+'s   original drama "Rookie Cops" along with Spotify\-exclusive audio content\. \(디즈니+의 오리지널 드라마 "너와 나의 경찰수업"의 OST들을 스포티파이 독점 오디오 컨텐츠와 함께 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,506 likes - 61 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,270 likes - 61 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaENnZYiwROL.md) - [plain]
 | 60 | [The Spy pt.3](https://open.spotify.com/track/6vc4WNnYBNnAD8eOXmQ1bs) | [SIM HYUNG BO](https://open.spotify.com/artist/7lEkKQxh1pV4egBViI9D1g) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 2:07 |
 | 61 | [Staring](https://open.spotify.com/track/5sSiKopJa3UBpqF08dLPLx) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Go Eun Jeong](https://open.spotify.com/artist/0XyPKaUvTcHkObgvFX72il) | [Rookie Cops \(Original Television Soundtrack\)](https://open.spotify.com/album/3spwTR4Shxlt9aqnPaKObr) | 2:44 |
 
-Snapshot ID: `MTY0NzQyMzM0MSwwMDAwMDAwOTAwMDAwMTdmOTIxNTQzZTAwMDAwMDE3ZWM1MmNhOTE3`
+Snapshot ID: `MTY0NzQyMzM0MSwwMDAwMDAwMDY3NTViNzkzYTZhN2NiMTBmMmE5MTE4ZjVkZDUyZmM0`

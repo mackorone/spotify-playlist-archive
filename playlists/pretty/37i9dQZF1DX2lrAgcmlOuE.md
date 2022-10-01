@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lrAgcmlOuE.md) - [plain](/playlists/plain/37i9dQZF1DX2lrAgcmlOuE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2lrAgcmlOuE)
 
-### [Hardwell's DJ Mix: Rebels Never Die ](https://open.spotify.com/playlist/37i9dQZF1DX2lrAgcmlOuE)
+### [Hardwell DJ Mix: Rebels Never Die ](https://open.spotify.com/playlist/37i9dQZF1DX2lrAgcmlOuE)
 
 > The superstar DJ & Producer <a href="spotify:artist:6BrvowZBreEkXzJQMpL174">Hardwell</a> delivers a headlining mix to get us pumping through summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,760 likes - 14 songs - 59 min 52 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,536 likes - 14 songs - 59 min 52 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lrAgcmlOuE.md) - [plain]
 | 13 | [Dreaming \- Mixed](https://open.spotify.com/track/4aisBWmi2wJeb2OZl3zpV9) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Dreaming \(Mixed\)](https://open.spotify.com/album/3TQUdOCRQkLw7vizXZ4P0S) | 2:59 |
 | 14 | [Eyes Wide Shut \- Mixed](https://open.spotify.com/track/7CA0vPBKpOC1V0VtKYr7fl) | [GIFTBACK](https://open.spotify.com/artist/5xq3ihm7aONcolMTWXKltB), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa) | [Eyes Wide Shut \(Mixed\)](https://open.spotify.com/album/5nMQh9nqZxpO5yQ0mkfON3) | 3:18 |
 
-Snapshot ID: `MTY1NzEzMjE0NSwwMDAwMDAwYTAwMDAwMTgxZDRjNWRiMTEwMDAwMDE4MWI1OGFhNGI0`
+Snapshot ID: `MTY1ODkzOTM2OCwwMDAwMDAwMDk5NDVjYmY3NzNhY2I2MDdmYTYwNzI1ZmIyYWRkZTgy`

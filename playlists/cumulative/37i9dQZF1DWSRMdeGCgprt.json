@@ -48,6 +48,32 @@
     },
     {
       "album": {
+        "name": "telefone",
+        "url": "https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Raury",
+          "url": "https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ"
+        },
+        {
+          "name": "Cam O'bi",
+          "url": "https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Diddy Bop",
+      "url": "https://open.spotify.com/track/3M0XJE3zuyOKksK7wIOxNN"
+    },
+    {
+      "album": {
         "name": "Telefone",
         "url": "https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz"
       },
@@ -67,7 +93,7 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 208000,
       "name": "Diddy Bop (feat. Cam O'bi & Raury)",
       "url": "https://open.spotify.com/track/6JvfBzqZmSiEG5MjM7OcSY"
@@ -89,10 +115,32 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213700,
       "name": "Don't Care",
       "url": "https://open.spotify.com/track/46rZy9ZED6Tz5SxA8C0qt6"
+    },
+    {
+      "album": {
+        "name": "Different Waters",
+        "url": "https://open.spotify.com/album/77WZ1J2FUsry4UiyasJ8c5"
+      },
+      "artists": [
+        {
+          "name": "Coely",
+          "url": "https://open.spotify.com/artist/2DzbXUAn0DiYqcgu2wDfaf"
+        },
+        {
+          "name": "DVTCH NORRIS",
+          "url": "https://open.spotify.com/artist/0j0HOVpdJ2XuGIkfWhEdtz"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Don't Care",
+      "url": "https://open.spotify.com/track/2obzETB8ZNaHhTGhnbAqJF"
     },
     {
       "album": {
@@ -119,6 +167,24 @@
     {
       "album": {
         "name": "Last Daze Of Summer",
+        "url": "https://open.spotify.com/album/43s6lCKf5fKnM9xPNQQzeI"
+      },
+      "artists": [
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Flexin",
+      "url": "https://open.spotify.com/track/2XW0n3POGQ9D2no2dBZgRO"
+    },
+    {
+      "album": {
+        "name": "Last Daze Of Summer",
         "url": "https://open.spotify.com/album/4SVyTuwC7UYjXK46AAkr1t"
       },
       "artists": [
@@ -129,7 +195,7 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196800,
       "name": "Flexin",
       "url": "https://open.spotify.com/track/4ZzVCjVBqXPpHF4rmTCgUZ"
@@ -147,10 +213,54 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 299012,
       "name": "Free Your Dreams",
       "url": "https://open.spotify.com/track/178AbRn6r8VfoXkQoM7Fxd"
+    },
+    {
+      "album": {
+        "name": "Journey to Golden",
+        "url": "https://open.spotify.com/album/6rW9csriPeZWsegHMOhpAh"
+      },
+      "artists": [
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+        },
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299012,
+      "name": "Free Your Dreams",
+      "url": "https://open.spotify.com/track/5PnU3hbaqWlZDRib6iXcH2"
+    },
+    {
+      "album": {
+        "name": "Journey To Golden",
+        "url": "https://open.spotify.com/album/2FzgU4cRVqYl6yrsj9Ya5z"
+      },
+      "artists": [
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+        },
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 299012,
+      "name": "Free Your Dreams",
+      "url": "https://open.spotify.com/track/7zTnlgGkXV0RucjuPmbn44"
     },
     {
       "album": {
@@ -165,10 +275,28 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201463,
       "name": "Frustrated",
       "url": "https://open.spotify.com/track/1N5j9dRZ3foNWwU4Zp0pbq"
+    },
+    {
+      "album": {
+        "name": "Frustrated",
+        "url": "https://open.spotify.com/album/0ewxQHdl5Jc5VVsBbyh3nZ"
+      },
+      "artists": [
+        {
+          "name": "R.LUM.R",
+          "url": "https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201463,
+      "name": "Frustrated",
+      "url": "https://open.spotify.com/track/5Ny3wPkBqfpmDxuifn4s8s"
     },
     {
       "album": {
@@ -183,10 +311,28 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159011,
       "name": "Good As Hell",
       "url": "https://open.spotify.com/track/6uAm7pG66O1XesXS9bpHSF"
+    },
+    {
+      "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159735,
+      "name": "Good as Hell",
+      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
     },
     {
       "album": {
@@ -249,6 +395,24 @@
     {
       "album": {
         "name": "In Another Life",
+        "url": "https://open.spotify.com/album/1vqLH6G459w4pRGElplhkV"
+      },
+      "artists": [
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179631,
+      "name": "I Really Don't Care",
+      "url": "https://open.spotify.com/track/0oF0fJdtqJE9g1MJwnE6dU"
+    },
+    {
+      "album": {
+        "name": "In Another Life",
         "url": "https://open.spotify.com/album/6InQseLVCMxyyoC7a6Y1mq"
       },
       "artists": [
@@ -259,7 +423,7 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179631,
       "name": "I Really Don't Care",
       "url": "https://open.spotify.com/track/1KHdXgBdPvihVRLO1EM25z"
@@ -361,10 +525,28 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229403,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1ejUDxhwETwwVwbWMtWzpf"
+    },
+    {
+      "album": {
+        "name": "Durand Jones & The Indications (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229403,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
     },
     {
       "album": {
@@ -383,10 +565,32 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198870,
       "name": "Suite Poetry",
       "url": "https://open.spotify.com/track/5GmAHtgv8Fc01WQ4jqxIEM"
+    },
+    {
+      "album": {
+        "name": "Headnod Suite",
+        "url": "https://open.spotify.com/album/7FuXUobpTFPSCldrdU1jaL"
+      },
+      "artists": [
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Jessica Care Moore",
+          "url": "https://open.spotify.com/artist/4kjUXLlk49BHRmOMJmGKdj"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198870,
+      "name": "Suite Poetry",
+      "url": "https://open.spotify.com/track/713k05dVPAnEyh6LsCoejl"
     },
     {
       "album": {
@@ -448,6 +652,24 @@
     },
     {
       "album": {
+        "name": "Bad Ass and Blind",
+        "url": "https://open.spotify.com/album/0NtTUwDr61O8PFNUFSrmKz"
+      },
+      "artists": [
+        {
+          "name": "Raul Mid\u00f3n",
+          "url": "https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222492,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/02o0U7KH4t9oPUObu3e38c"
+    },
+    {
+      "album": {
         "name": "You & I - Single",
         "url": "https://open.spotify.com/album/4AiJfNbX8sldC5hdsFEH5n"
       },
@@ -459,7 +681,7 @@
       ],
       "date_added": "2017-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222492,
       "name": "You & I",
       "url": "https://open.spotify.com/track/7KY97KMRanwxknttWwDJFG"

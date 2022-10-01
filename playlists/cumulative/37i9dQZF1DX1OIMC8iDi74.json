@@ -63,10 +63,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 210253,
       "name": "All Through the Night",
       "url": "https://open.spotify.com/track/5MLNm8nsvpCWJ2YpurIGLp"
+    },
+    {
+      "album": {
+        "name": "Angels Landing",
+        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Angels Landing",
+      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
     },
     {
       "album": {
@@ -133,6 +155,28 @@
     {
       "album": {
         "name": "Arena",
+        "url": "https://open.spotify.com/album/5eXLDkcVPBPQUSL24oedCO"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Arena",
+      "url": "https://open.spotify.com/track/1i0cgkisuJoGZOzdupqf1v"
+    },
+    {
+      "album": {
+        "name": "Arena",
         "url": "https://open.spotify.com/album/0LxtnMt80YF21NGZio7OLR"
       },
       "artists": [
@@ -147,7 +191,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": "2022-08-25",
       "duration_ms": 206400,
       "name": "Arena",
       "url": "https://open.spotify.com/track/5qBcafzXycpvGKiKCfTQjd"
@@ -373,7 +417,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 193714,
       "name": "Blame (Tim Gunter Remix)",
       "url": "https://open.spotify.com/track/4wzHOPBchA7Ab5wOmBHkiO"
@@ -417,7 +461,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155129,
       "name": "Blinker",
       "url": "https://open.spotify.com/track/0KrMPgjnEpeV19n7liI59i"
@@ -631,7 +675,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 118522,
       "name": "Chicken Wang (feat. Diplo, Snappy Jit)",
       "url": "https://open.spotify.com/track/0cl5BEHLkh9BmJG2ElaUPK"
@@ -675,7 +719,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 178333,
       "name": "Coming Over (feat. James Hersey)",
       "url": "https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9"
@@ -829,7 +873,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 245090,
       "name": "Do or Die (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN"
@@ -869,10 +913,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152000,
       "name": "Dojo (feat. TroyBoi)",
       "url": "https://open.spotify.com/track/3BtWcgc7ZrtpYWu2eP2rHu"
+    },
+    {
+      "album": {
+        "name": "Law of Automata: Valid",
+        "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
+      },
+      "artists": [
+        {
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 152000,
+      "name": "Dojo (feat. TroyBoi)",
+      "url": "https://open.spotify.com/track/4u4qWIezCZStrTvpQJGIBM"
     },
     {
       "album": {
@@ -931,7 +997,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Dum Dee Dum",
       "url": "https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT"
@@ -1081,7 +1147,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181388,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/1apKTl69lh4dXHcUOZer8l"
@@ -1323,7 +1389,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243354,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq"
@@ -1341,7 +1407,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 249600,
       "name": "Flying Spaghetti Monster",
       "url": "https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a"
@@ -1417,7 +1483,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 173871,
       "name": "Friday Night\u202c\u202c\u202c",
       "url": "https://open.spotify.com/track/78zc6DT7A2ccehmIqef9mT"
@@ -1541,6 +1607,28 @@
     {
       "album": {
         "name": "Kid Calamity",
+        "url": "https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3"
+      },
+      "artists": [
+        {
+          "name": "Oski",
+          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
+        },
+        {
+          "name": "The Arcturians",
+          "url": "https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Go My Way",
+      "url": "https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv"
+    },
+    {
+      "album": {
+        "name": "Kid Calamity",
         "url": "https://open.spotify.com/album/4I1tlO8XZZTnydjNrv0m45"
       },
       "artists": [
@@ -1555,10 +1643,32 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233600,
       "name": "Go My Way",
       "url": "https://open.spotify.com/track/7baJMiTsqpoQwPOjM7ZlRE"
+    },
+    {
+      "album": {
+        "name": "HOMETOWN HEROES",
+        "url": "https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carmack",
+          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
+        },
+        {
+          "name": "Dilip",
+          "url": "https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270422,
+      "name": "GOD (MUSIC)",
+      "url": "https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm"
     },
     {
       "album": {
@@ -1643,6 +1753,42 @@
       "duration_ms": 224210,
       "name": "GUD VIBRATIONS",
       "url": "https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp"
+    },
+    {
+      "album": {
+        "name": "Hand Up (Bass Boosted)",
+        "url": "https://open.spotify.com/album/3FG9e1U0UNXbdldsKDIiB3"
+      },
+      "artists": [
+        {
+          "name": "Dj Usman Bhatti",
+          "url": "https://open.spotify.com/artist/30XLmryZsOeVFMw4TgzQgs"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191239,
+      "name": "Hand Up (Bass Boosted)",
+      "url": "https://open.spotify.com/track/04ZjdN8uiiBAKrFHeSl4jD"
+    },
+    {
+      "album": {
+        "name": "Hand Up (Bass Boosted)",
+        "url": "https://open.spotify.com/album/0XLpFgXsDAGM9TNfv0WTMx"
+      },
+      "artists": [
+        {
+          "name": "Dj Usman Bhatti",
+          "url": "https://open.spotify.com/artist/30XLmryZsOeVFMw4TgzQgs"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 191239,
+      "name": "Hand Up (Bass Boosted)",
+      "url": "https://open.spotify.com/track/7JrU79bMAVliipuAnrppw3"
     },
     {
       "album": {
@@ -2055,7 +2201,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 168641,
       "name": "In My Room (feat. Ty Dolla $ign & Tyga)",
       "url": "https://open.spotify.com/track/4lqEFIB9YZl8BwR99L5H3b"
@@ -2500,6 +2646,24 @@
     },
     {
       "album": {
+        "name": "CHAOS",
+        "url": "https://open.spotify.com/album/7AL5AHfLrkfHJZJwdP8yTx"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carmack",
+          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "MAKE ME DANCE",
+      "url": "https://open.spotify.com/track/3at6CHKoGRGh5dzee3jREt"
+    },
+    {
+      "album": {
         "name": "Marrakech",
         "url": "https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv"
       },
@@ -2551,10 +2715,58 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 198000,
       "name": "Matangi",
       "url": "https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk"
+    },
+    {
+      "album": {
+        "name": "Matangi",
+        "url": "https://open.spotify.com/album/4fX5bMmqyLK0q71CbTKvPz"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Matangi",
+      "url": "https://open.spotify.com/track/6tNgb8wC2bRSUDkb3biccy"
+    },
+    {
+      "album": {
+        "name": "Mawlee (feat. Young Buck & DJ Afterthought) [RIOT TEN VIP Mix]",
+        "url": "https://open.spotify.com/album/307ezARBk8h7JbrIPvMeSu"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "name": "DJ Afterthought",
+          "url": "https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206857,
+      "name": "Mawlee (feat. Young Buck & DJ Afterthought) - RIOT TEN VIP Mix",
+      "url": "https://open.spotify.com/track/43885roVl0jIEIpWT1yzyP"
     },
     {
       "album": {
@@ -2689,7 +2901,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 178333,
       "name": "Mumbai Mode",
       "url": "https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW"
@@ -2845,7 +3057,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 178285,
       "name": "No Chill",
       "url": "https://open.spotify.com/track/46VgwcEKnjPCcSEsJ5fWY2"
@@ -2927,6 +3139,28 @@
     {
       "album": {
         "name": "NO TOMORROW",
+        "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
+      },
+      "artists": [
+        {
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174334,
+      "name": "NO TOMORROW",
+      "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
+    },
+    {
+      "album": {
+        "name": "NO TOMORROW",
         "url": "https://open.spotify.com/album/4v7TAHvOlgbPlwojDlcyi3"
       },
       "artists": [
@@ -2941,7 +3175,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174341,
       "name": "NO TOMORROW",
       "url": "https://open.spotify.com/track/0dLHJRrBKfLM3OwLHvrmEd"
@@ -3075,7 +3309,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 171884,
       "name": "Out of Order",
       "url": "https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa"
@@ -3199,7 +3433,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141349,
       "name": "q-edits #2",
       "url": "https://open.spotify.com/track/13YU8o2EdM9XZk8EU35YHQ"
@@ -3261,7 +3495,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 121007,
       "name": "Red Ish",
       "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
@@ -3297,7 +3531,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 225230,
       "name": "REDloop",
       "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
@@ -3403,7 +3637,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 139153,
       "name": "Run Around",
       "url": "https://open.spotify.com/track/1RXh1aAInzM41tTIMwLMxX"
@@ -3521,7 +3755,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166821,
       "name": "Sense",
       "url": "https://open.spotify.com/track/3mAHtO5lWZmVmZ898Vp3mB"
@@ -3573,7 +3807,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 215040,
       "name": "Shadow (feat. Calivania)",
       "url": "https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn"
@@ -3595,6 +3829,32 @@
       "duration_ms": 217787,
       "name": "Shiawase",
       "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
+    },
+    {
+      "album": {
+        "name": "Sable Valley Summer Vol. 3",
+        "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Silo (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
     },
     {
       "album": {
@@ -3785,6 +4045,28 @@
     {
       "album": {
         "name": "STAY STRONG",
+        "url": "https://open.spotify.com/album/7vJgxUNPVdsN2dRSkJNhbD"
+      },
+      "artists": [
+        {
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183816,
+      "name": "STAY STRONG",
+      "url": "https://open.spotify.com/track/0zQEGtey6NFC8f8rKUAAf9"
+    },
+    {
+      "album": {
+        "name": "STAY STRONG",
         "url": "https://open.spotify.com/album/2x211pbSpVexGZvTsAtSaD"
       },
       "artists": [
@@ -3799,7 +4081,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183823,
       "name": "STAY STRONG",
       "url": "https://open.spotify.com/track/3aPaa10F8G5yzzh9Eb6ayQ"
@@ -3904,6 +4186,28 @@
     },
     {
       "album": {
+        "name": "Take My Breath Away (feat. Linney)",
+        "url": "https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240444,
+      "name": "Take My Breath Away (feat. Linney)",
+      "url": "https://open.spotify.com/track/4MrSl40iewpWmkq0GOi849"
+    },
+    {
+      "album": {
         "name": "Dark Night Sweet Light",
         "url": "https://open.spotify.com/album/63QhLHzzhbhBPZIVLGcqe5"
       },
@@ -3927,10 +4231,40 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235186,
       "name": "The Buzz (feat. Big K.R.I.T., Mataya & Young Tapz) - Bonus Track",
       "url": "https://open.spotify.com/track/6aCxdt2bMItKgGKoznDppY"
+    },
+    {
+      "album": {
+        "name": "Dark Night Sweet Light",
+        "url": "https://open.spotify.com/album/0SZr5zdYHQyvyaZu4g6zeF"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Mataya",
+          "url": "https://open.spotify.com/artist/6JW55AQgf9M9SZgzZou2NQ"
+        },
+        {
+          "name": "Young Tapz",
+          "url": "https://open.spotify.com/artist/0MH2SnPBynNlz9HRqC84ZK"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235186,
+      "name": "The Buzz - Bonus Track",
+      "url": "https://open.spotify.com/track/6HDUnr41uGjxhMTzI1Hjmt"
     },
     {
       "album": {
@@ -3945,7 +4279,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 229850,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp"
@@ -4163,7 +4497,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 189184,
       "name": "TRIBAL HIT",
       "url": "https://open.spotify.com/track/38baA0WZfWLpm3lyyr3IIs"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWISLnAIWyCZ.md) - [plain]
 
 > 60 best recorded and engineered classical recordings to <a href="spotify:user:spotify:playlist:37i9dQZF1DWZtZ8vUCzche">test your headphones</a> or speakers with\.  Enjoy your best seat in legendary concert halls and recording studios around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,352 likes - 60 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,518 likes - 60 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWISLnAIWyCZ.md) - [plain]
 | 59 | [Weather One](https://open.spotify.com/track/3nOHdE2kXV78JXkkjKM8yS) | [Michael Gordon](https://open.spotify.com/artist/69Qu66Y6G07dk23Ld2ym1F) | [Weather](https://open.spotify.com/album/1dBWNdGSJtM0XVP1b78oR4) | 20:33 |
 | 60 | [Mahler: Das Lied von der Erde: VI\. Der Abschied](https://open.spotify.com/track/0Pyu7ePGJfkU1ch6YOQzbk) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Otto Klemperer](https://open.spotify.com/artist/2ljDHW0zt90SrHDwjVIGXs), [Fritz Wunderlich](https://open.spotify.com/artist/3jp4zawfeVYVpSzO2Yujbv), [Christa Ludwig](https://open.spotify.com/artist/1Jgntox16Lhl0bFoRhV3Ar), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [New Philharmonia Orchestra](https://open.spotify.com/artist/11vpC3XmFb1LIP2ugl96lZ) | [Mahler: Das Lied von der Erde](https://open.spotify.com/album/6L2aMLoVV2UxQSmVwVPDlX) | 29:32 |
 
-Snapshot ID: `MTU4MzQ4NzgzNiwwMDAwMDAwODAwMDAwMTVmY2EwMzVlMmIwMDAwMDE3MGFmM2FlMjRm`
+Snapshot ID: `MTY1ODc1MjIxMywwMDAwMDAwOTAwMDAwMTgyMzU1NjIzNzcwMDAwMDE3MGFmM2FlMjRm`

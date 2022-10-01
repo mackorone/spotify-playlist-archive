@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Story Time with Little Baby Bum, Vol. 1",
+        "url": "https://open.spotify.com/album/1GHo6KlmEFUER7cCpvO0rv"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 194012,
+      "name": "Eat Your Vegetables! - Story",
+      "url": "https://open.spotify.com/track/7xNsgiWVy4XZeLayzRgHi5"
+    },
+    {
+      "album": {
         "name": "Dr. Seuss Presents Fox In Sox, Horton Hatches the Egg & Other Stories",
         "url": "https://open.spotify.com/album/60hEQENR7JBkF1G69v0AkT"
       },
@@ -117,7 +135,7 @@
     {
       "album": {
         "name": "Kids Storytime with Pancake Manor",
-        "url": "https://open.spotify.com/album/01vsNBdsUB3dvH8Coqltrm"
+        "url": "https://open.spotify.com/album/2jmaIV7Hxl2K7hayGzGRLx"
       },
       "artists": [
         {
@@ -128,6 +146,24 @@
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Goldilocks",
+      "url": "https://open.spotify.com/track/2wmO0cO96FvkiqhS3mpewh"
+    },
+    {
+      "album": {
+        "name": "Kids Storytime with Pancake Manor",
+        "url": "https://open.spotify.com/album/01vsNBdsUB3dvH8Coqltrm"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 246000,
       "name": "Goldilocks",
       "url": "https://open.spotify.com/track/4w6TCD2TZnAKjlvZiXmnII"
@@ -171,7 +207,7 @@
     {
       "album": {
         "name": "Kids Storytime with Pancake Manor",
-        "url": "https://open.spotify.com/album/01vsNBdsUB3dvH8Coqltrm"
+        "url": "https://open.spotify.com/album/2jmaIV7Hxl2K7hayGzGRLx"
       },
       "artists": [
         {
@@ -182,6 +218,24 @@
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236831,
+      "name": "Humpty Dumpty",
+      "url": "https://open.spotify.com/track/1YBWnB0xyRVMFwqtd7shN3"
+    },
+    {
+      "album": {
+        "name": "Kids Storytime with Pancake Manor",
+        "url": "https://open.spotify.com/album/01vsNBdsUB3dvH8Coqltrm"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 236831,
       "name": "Humpty Dumpty",
       "url": "https://open.spotify.com/track/50EoKRgVWV8U4pQ04EK4hO"
@@ -505,10 +559,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255280,
       "name": "The Paper Bag Princess",
       "url": "https://open.spotify.com/track/4Wf8T4ploXSXPDnrXjIMoY"
+    },
+    {
+      "album": {
+        "name": "Love You Forever: The Best Of Robert Munsch",
+        "url": "https://open.spotify.com/album/4ognI8DTCx12FeCi09K2ei"
+      },
+      "artists": [
+        {
+          "name": "Robert Munsch",
+          "url": "https://open.spotify.com/artist/2Dzn2ANNU5Ft9r3htzo6ZN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255280,
+      "name": "The Paper Bag Princess",
+      "url": "https://open.spotify.com/track/6jV89Vk3lDlpEdSsxSkuT7"
     },
     {
       "album": {

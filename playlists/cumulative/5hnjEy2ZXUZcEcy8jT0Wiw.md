@@ -4,7 +4,7 @@
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-337 songs - 23 hr 34 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
+338 songs - 23 hr 38 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [boo hast](https://open.spotify.com/track/2lsib3FZBij9lm3nOCfaet) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [boo hast](https://open.spotify.com/album/1rgBam0I15qlgcQZ4KqcHQ) | 3:13 | 2022-05-13 |  |
 | [Bootes Void](https://open.spotify.com/track/2LefwxTF9NPJsxLHa0a2If) | [Leaving the Sequence](https://open.spotify.com/artist/5bn0DJ7Z4weRoxVKlS0YcF) | [Bootes Void](https://open.spotify.com/album/2lc1BwFDujTcQYmAlDCvSx) | 5:43 | 2019-07-15 |  |
 | [Breakout](https://open.spotify.com/track/3AtbsatcYEInwPnZHSyDJT) | [Sonic Gap](https://open.spotify.com/artist/6QRr0IwTkKmxqIv5jPAEwq) | [Connect](https://open.spotify.com/album/11bK1YRV9yaJc9LHvLrVpB) | 3:22 | 2019-11-04 |  |
-| [Breath of a Serpent](https://open.spotify.com/track/4mvJuUedjCOL6fFp3inK2R) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Katana Zero \(Original Soundtrack\)](https://open.spotify.com/album/23KCp1w3aJeKdMrqcyodWK) | 3:36 | 2019-07-16 |  |
+| [Breath of a Serpent](https://open.spotify.com/track/4mvJuUedjCOL6fFp3inK2R) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Katana Zero \(Original Soundtrack\)](https://open.spotify.com/album/23KCp1w3aJeKdMrqcyodWK) | 3:36 | 2019-07-16 |  |
 | [Broken Code](https://open.spotify.com/track/40sd0tXSVdqpa798CSaMf3) | [Runaway Droid](https://open.spotify.com/artist/3Ek1ULLo4QcO4JKEelaedq) | [Broken Code](https://open.spotify.com/album/3u40k84n7WxKvMmYFyenBF) | 4:52 | 2019-07-29 |  |
 | [Brutalsm](https://open.spotify.com/track/6z6vdov8QZhflkP6izAvj5) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Brutalsm](https://open.spotify.com/album/14ZbuLvCkn2adjLHCDNof7) | 3:35 | 2020-12-17 |  |
 | [Bullet](https://open.spotify.com/track/0zMwLH0vIzOvTWm041OsLW) | [Neon Insect](https://open.spotify.com/artist/2OaZ2i7rxpvuat6iIk4Aph) | [Abatron \(Original Soundtrack\)](https://open.spotify.com/album/4F2lRmpP96ELMeWQl7RH8e) | 2:11 | 2019-07-15 |  |
@@ -92,7 +92,7 @@
 | [Disco Hunt](https://open.spotify.com/track/0nfaoATlkfTA6NtPP5uYmB) | [Vincenzo Salvia](https://open.spotify.com/artist/0B1OIGHmTqq2gEn4IMaEci) | [Nightdrive to the Disco](https://open.spotify.com/album/70kLDT2qPMhkTBqvzmjw5W) | 4:22 | 2019-07-15 |  |
 | [Dream FX](https://open.spotify.com/track/03dim3IEyLQGzKq8Yu641y) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Exile](https://open.spotify.com/album/2FObixyCMUYQoTdp2INbNv) | 3:12 | 2020-01-15 |  |
 | [Drive](https://open.spotify.com/track/5rnRpNFJkv9h9hVUDhMfXw) | [Hyper](https://open.spotify.com/artist/6DFJfhZxwWe1yKQvRDJmdl) | [Cyberpunk EP](https://open.spotify.com/album/7i8tKtIKPpKUo8LfilzRFc) | 3:24 | 2019-07-15 |  |
-| [Driving Force: Neon Fog](https://open.spotify.com/track/6muN7HQBqTiicVPFwiZpcU) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Bill Kiley](https://open.spotify.com/artist/6jYO2wnv847jRUsA7dciSs) | [Katana Zero \(Original Soundtrack\)](https://open.spotify.com/album/23KCp1w3aJeKdMrqcyodWK) | 4:16 | 2019-07-16 |  |
+| [Driving Force: Neon Fog](https://open.spotify.com/track/6muN7HQBqTiicVPFwiZpcU) | [Bill Kiley](https://open.spotify.com/artist/6jYO2wnv847jRUsA7dciSs) | [Katana Zero \(Original Soundtrack\)](https://open.spotify.com/album/23KCp1w3aJeKdMrqcyodWK) | 4:16 | 2019-07-16 |  |
 | [Earth, Air, Fire, Water](https://open.spotify.com/track/5qML6ln3xCocNbXVjP2ObA) | [BurningTapes](https://open.spotify.com/artist/5R7JYYZqQqt8M35dBOAX3v) | [Black Lake](https://open.spotify.com/album/7xfRndE4SdMcDEy00x9cBz) | 3:13 | 2019-07-15 |  |
 | [ED\-209](https://open.spotify.com/track/3jf1bjkG966JKlimfvPxxW) | [Dark Smoke Signal](https://open.spotify.com/artist/58bgh5AlgD5jEKBJlt9hs5) | [ED\-209](https://open.spotify.com/album/5MPCzk98Geo0eczersCQid) | 3:42 | 2019-07-15 |  |
 | [Electra Complex](https://open.spotify.com/track/6XgFH5rZAzFSWnGbT5Vjmr) | [Levinsky](https://open.spotify.com/artist/7dmwNthcqddweKKje88z55) | [Electra Complex](https://open.spotify.com/album/0KIwTGDM4xQfk4CF0TcrhV) | 4:45 | 2019-07-16 |  |
@@ -244,6 +244,7 @@
 | [Robo Sapiens](https://open.spotify.com/track/16DHGCBRqsJlJn2f62l2Gz) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Androids Anonymous](https://open.spotify.com/album/5UKblNtIsmZVDtsrOHTqn8) | 3:33 | 2020-12-07\* | 2020-12-15 |
 | [Runaway](https://open.spotify.com/track/0RLwGBV2JbR3ZVAcCyt29H) | [Starunner](https://open.spotify.com/artist/0QJ0LfgErdcNtOQndH1m80) | [Be Kind Rewind](https://open.spotify.com/album/1FXZi6FQNDCHr66BchnyVH) | 4:23 | 2019-07-19 |  |
 | [Samurai Cyberpunk](https://open.spotify.com/track/2lWT0z0Clbh9lBFklgvLln) | [Shredder 1984](https://open.spotify.com/artist/1OnOuA3QcYGa4rAWtu8GrQ) | [Dystopian Future](https://open.spotify.com/album/2lUz6Pdbdct8tG24oT6mvJ) | 3:12 | 2019-07-15 |  |
+| [save states](https://open.spotify.com/track/1UOTXqK4T6hseoOkDjksH6) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [save states](https://open.spotify.com/album/7g3kpYucY8onA8SRCvdqzl) | 3:45 | 2022-08-01 |  |
 | [Second Chances](https://open.spotify.com/track/7LHiyNIttVYA73cAfATD1L) | [Turbo Vice](https://open.spotify.com/artist/2LCKyAC0HIYvaIAC38ViVz) | [Second Chances](https://open.spotify.com/album/5MYzwP7mt0rjIZeFY2Cra5) | 4:37 | 2019-07-26 |  |
 | [Shadow Instinct](https://open.spotify.com/track/7nSx56wdGScR60FyLvyDh7) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Shadow Instinct](https://open.spotify.com/album/7e1OeT8afjO22h6Gq7pk1y) | 3:33 | 2021-03-12 |  |
 | [Shoot Out at Flamingo Plaza](https://open.spotify.com/track/2enOJAgl6pGw127ke87deb) | [Flamingo Jones](https://open.spotify.com/artist/2wgA99jSrhAvb4YCx4maGH) | [Flight of the Flamingo EP](https://open.spotify.com/album/037fAl7EYH5KfwGQkJaHF4) | 3:37 | 2019-09-04 |  |

@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-50 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/0Ij2p11ySRhLverD0eg7Nv)
+52 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/0Ij2p11ySRhLverD0eg7Nv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Bridge Over Troubled Water](https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:54 | 2022-01-21 |  |
 | [Cecilia](https://open.spotify.com/track/47t7MRzHXJ3mnL3TjN6a8J) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Cecilia](https://open.spotify.com/album/5ruxIkJ6nUwvGo30icvE1k) | 2:29 | 2022-01-21 |  |
 | [Cecilia](https://open.spotify.com/track/7x5NXd6osgF8sJajvXsPlv) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba) | 2:11 | 2022-01-21 |  |
-| [Diamonds on the Soles of Her Shoes](https://open.spotify.com/track/44SAkadYZkexOZgNiVtJr3) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 5:46 | 2022-01-21 |  |
+| [Diamonds on the Soles of Her Shoes](https://open.spotify.com/track/44SAkadYZkexOZgNiVtJr3) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 5:46 | 2022-01-21 | 2022-09-25 |
+| [Diamonds On The Soles Of Her Shoes](https://open.spotify.com/track/1YFcnho5vA5BVQqQ5f8ACM) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA), [Joe McBride](https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs) | [Ladysmith Black Mambazo & Friends](https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG) | 5:42 | 2022-01-21 |  |
 | [Diamonds On The Soles Of Her Shoes \- The Voice Performance](https://open.spotify.com/track/0vlV9EHERw2dRYiuhQNPJB) | [Joshua Davis](https://open.spotify.com/artist/6Z3gpcNJMzjr9Lv7UbxQhZ), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [The Complete Season 8 Collection \(The Voice Performance\)](https://open.spotify.com/album/6MppBBhapzHLawPrAnVVxx) | 3:04 | 2022-01-21 |  |
 | [Father And Daughter](https://open.spotify.com/track/25WfFQsSVUK2m5BmFt0msP) | [Luke Brindley](https://open.spotify.com/artist/2ZIfzZFZfjiX3YhNMOKLob) | [A Few Favorites](https://open.spotify.com/album/14CIeW2Q2kXJTncsOfjulm) | 3:04 | 2022-01-21 |  |
 | [Graceland](https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Maybe A Moment / Graceland](https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW) | 3:14 | 2022-01-21 |  |
@@ -52,7 +53,8 @@
 | [The Boxer \- 2002 Remaster](https://open.spotify.com/track/2xchn60m6hRjWwpb7tGvpU) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Roses in the Snow \(Deluxe Edition\)](https://open.spotify.com/album/2LSEEOLu3PSt0T30n0Vg9O) | 3:16 | 2022-01-21 |  |
 | [The Boy in the Bubble](https://open.spotify.com/track/2jaGBhiiQ0xKzdtdNmPnVW) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 4:29 | 2022-01-21 |  |
 | [The Boy In The Bubble](https://open.spotify.com/track/6HbzXpxktedPYENs26EPcX) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Scratch My Back \(Special Edition\)](https://open.spotify.com/album/0l6BrfQ8TdAcRjOVgzP8nN) | 4:24 | 2022-01-21 |  |
-| [The Only Living Boy in New York \- 2013 Remaster](https://open.spotify.com/track/5Clm0mhhfATh2cIA7cmjb0) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Worldwide \(Deluxe Edition\)](https://open.spotify.com/album/4Wa2TFzTioLOelZXDgv1qh) | 4:13 | 2022-01-21 |  |
+| [The Only Living Boy in New York \- 2013 Remaster](https://open.spotify.com/track/4wof51y8scLARPRCWlvAs4) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Worldwide \(Deluxe Edition\)](https://open.spotify.com/album/2nFNWf97kAuw1hgSitgcMk) | 4:13 | 2022-01-21 |  |
+| [The Only Living Boy in New York \- 2013 Remaster](https://open.spotify.com/track/5Clm0mhhfATh2cIA7cmjb0) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Worldwide \(Deluxe Edition\)](https://open.spotify.com/album/4Wa2TFzTioLOelZXDgv1qh) | 4:13 | 2022-01-21 | 2022-07-29 |
 | [The Only Living Boy in New York \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6PAAYRbXQd9nPTz4vi7bIB) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Spotify Singles](https://open.spotify.com/album/23eXBuGFc0aHSnDhYXaAZk) | 4:00 | 2022-01-21 |  |
 | [The Sound of Silence](https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:08 | 2022-01-21 |  |
 | [The Sound of Silence](https://open.spotify.com/track/0ZFeVCKCMCXUQ1TKVd2azW) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Sound of Silence](https://open.spotify.com/album/2d5CHsmyOYGqfjDaPrdEzc) | 3:32 | 2022-01-21 |  |

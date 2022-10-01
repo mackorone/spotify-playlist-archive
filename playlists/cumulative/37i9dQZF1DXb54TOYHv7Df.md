@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb54TOYHv7Df.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb54TOYHv7Df) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb54TOYHv7Df)
 
-### [Summer Hits of the 00s](https://open.spotify.com/playlist/37i9dQZF1DXb54TOYHv7Df)
+### [Summer Hits of the 00s \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXb54TOYHv7Df)
 
 > Songs from the 00s that made you sing and dance all summer long.
 

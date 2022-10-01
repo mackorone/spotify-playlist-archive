@@ -72,6 +72,40 @@
     },
     {
       "album": {
+        "name": "Herbert von Karajan - Adagio",
+        "url": "https://open.spotify.com/album/7EvQTMFbqvXw3GSo5F9SZ1"
+      },
+      "artists": [
+        {
+          "name": "Remo Giazotto",
+          "url": "https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL"
+        },
+        {
+          "name": "Leon Spierer",
+          "url": "https://open.spotify.com/artist/3Fh9zNaErzNE0uHLwrsION"
+        },
+        {
+          "name": "David Bell",
+          "url": "https://open.spotify.com/artist/29BEmD7wvKp6F5GTCcejY3"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 706000,
+      "name": "Adagio for Strings and Organ in G Minor",
+      "url": "https://open.spotify.com/track/7BmRd83zm8CHffrAPe2ZR7"
+    },
+    {
+      "album": {
         "name": "Albinoni: Adagio in G minor / Pachelbel: Canon",
         "url": "https://open.spotify.com/album/1WuKnZDy27KDdLr96p0D8A"
       },
@@ -99,7 +133,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 708933,
       "name": "Adagio for Strings and Organ in G Minor",
       "url": "https://open.spotify.com/track/7bvuOKIFqMyRSkLozmaoRg"
@@ -158,6 +192,32 @@
     },
     {
       "album": {
+        "name": "Respighi: Ancient Airs and Dances",
+        "url": "https://open.spotify.com/album/51NWJo4TldHNNT4gHNN48I"
+      },
+      "artists": [
+        {
+          "name": "Ottorino Respighi",
+          "url": "https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183266,
+      "name": "Ancient Airs And Dances, Suite No.3, P. 172: 3. Siciliana",
+      "url": "https://open.spotify.com/track/1htHR9FmSnAu3N2JM1zm9J"
+    },
+    {
+      "album": {
         "name": "Music to Awake Enthusiasm",
         "url": "https://open.spotify.com/album/7lHJbscWTneHFFDCGdwQra"
       },
@@ -177,7 +237,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184248,
       "name": "Ancient Airs and Dances: Suite III, Siciliana",
       "url": "https://open.spotify.com/track/54lJBbBjMshjZtym5S1j2V"
@@ -555,7 +615,7 @@
       },
       "artists": [
         {
-          "name": "Franz Joseph Haydn",
+          "name": "Joseph Haydn",
           "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
@@ -627,10 +687,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 140413,
       "name": "Kingdom Dance",
       "url": "https://open.spotify.com/track/0KbACwf5LFPSQqJJ3LNQXs"
+    },
+    {
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140413,
+      "name": "Kingdom Dance - From \"Tangled\"/Score",
+      "url": "https://open.spotify.com/track/0jkGkwy510cvhy0jYPFme4"
     },
     {
       "album": {
@@ -926,6 +1004,36 @@
     },
     {
       "album": {
+        "name": "Raymonda, Op. 57: Pr\u00e9lude et la Romanesca",
+        "url": "https://open.spotify.com/album/0PQ1N6Tq2RA7UzBiUXPIZe"
+      },
+      "artists": [
+        {
+          "name": "Alexander Glazunov",
+          "url": "https://open.spotify.com/artist/78t7WfwhjZLkDHN5QKwS5u"
+        },
+        {
+          "name": "Xavier De Maistre",
+          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
+        },
+        {
+          "name": "Nathalie Stutzmann",
+          "url": "https://open.spotify.com/artist/01nToDFj9swyFm6Pm3H2EL"
+        },
+        {
+          "name": "WDR Sinfonieorchester",
+          "url": "https://open.spotify.com/artist/3QFf9QniZrojhI4UtZPQ97"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Raymonda, Op. 57: Pr\u00e9lude et la Romanesca",
+      "url": "https://open.spotify.com/track/6rQKvS3JdNeFI7dJg3YKBH"
+    },
+    {
+      "album": {
         "name": "In A Time Lapse",
         "url": "https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG"
       },
@@ -1135,6 +1243,36 @@
     {
       "album": {
         "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151506,
+      "name": "Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
         "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
       },
       "artists": [
@@ -1157,7 +1295,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151506,
       "name": "Spring 1 - 2012",
       "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
@@ -1179,10 +1317,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 277720,
       "name": "Suite No. 3 in D Major, BWV 1068: II. Air",
       "url": "https://open.spotify.com/track/5NX38moHuIqulZhJjVAK2g"
+    },
+    {
+      "album": {
+        "name": "Bach: Orchestral Suites",
+        "url": "https://open.spotify.com/album/2hepGgEkxWLHtT5R3yJqxu"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Freiburger Barockorchester",
+          "url": "https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277720,
+      "name": "Suite No. 3 in D Major, BWV 1068: Suite No. 3 in D Major, BWV 1068: II. Air",
+      "url": "https://open.spotify.com/track/3P15Mx8jlZd6CPrf9rGXBV"
     },
     {
       "album": {
@@ -1311,10 +1471,66 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 197705,
       "name": "The Phantom of the Opera: Overture",
       "url": "https://open.spotify.com/track/7mZFYTDSIvDPBY8w0EJMUc"
+    },
+    {
+      "album": {
+        "name": "The Phantom of the Opera: Overture",
+        "url": "https://open.spotify.com/album/0oMltgMweWTGOBQPhuDU9j"
+      },
+      "artists": [
+        {
+          "name": "Prague Cello Quartet",
+          "url": "https://open.spotify.com/artist/5GeMh4YY04Q71E55hL6D9A"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199124,
+      "name": "The Phantom of the Opera: Overture",
+      "url": "https://open.spotify.com/track/3vLa18ko8VtiSh32m6ceP5"
+    },
+    {
+      "album": {
+        "name": "this is what love is",
+        "url": "https://open.spotify.com/album/5KAMiXABUYhHcV15pfJ4w4"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        },
+        {
+          "name": "James Southall",
+          "url": "https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc"
+        },
+        {
+          "name": "Thomas Gould",
+          "url": "https://open.spotify.com/artist/1Oc8xcaNIQngZs5Daw0zFk"
+        },
+        {
+          "name": "David O\u2019Leary",
+          "url": "https://open.spotify.com/artist/3kuJnjb3NR5NO0iptFuchB"
+        },
+        {
+          "name": "Rachel Roberts",
+          "url": "https://open.spotify.com/artist/1kO1prL8GSAOJYecFt0pzw"
+        },
+        {
+          "name": "Richard Harwood",
+          "url": "https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180180,
+      "name": "this is what love is",
+      "url": "https://open.spotify.com/track/2lVIRDMd7dgwMAwzM824Dz"
     },
     {
       "album": {
@@ -1367,6 +1583,36 @@
     {
       "album": {
         "name": "Bach, J.S.: Violin Concertos, Bwv 1041-1043 and Bwv 1052",
+        "url": "https://open.spotify.com/album/3gVdwF8NhsO0Eb6UcqWcHN"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Kolja Blacher",
+          "url": "https://open.spotify.com/artist/6FkucmNzQ3NTwLS9lmNVRc"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201133,
+      "name": "Violin Concerto in A Minor, BWV 1041: I. Allegro",
+      "url": "https://open.spotify.com/track/4Qme5WqyFjuvWpclAajLWu"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Violin Concertos, Bwv 1041-1043 and Bwv 1052",
         "url": "https://open.spotify.com/album/1YfZfKtrtT0d8pMhtnqw8r"
       },
       "artists": [
@@ -1389,7 +1635,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201133,
       "name": "Violin Concerto in A Minor, BWV 1041: I. Allegro",
       "url": "https://open.spotify.com/track/5Tfe8u2Y3kjfozLD6tZdxP"

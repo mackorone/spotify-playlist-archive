@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1W2XJETQjFYdzT4GuhBHmS.md) - [plain]
 
 > This playlist is perfect for when you've got a fever..\. and the only prescription is more banjo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 334 likes - 37 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 333 likes - 37 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

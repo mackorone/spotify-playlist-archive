@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "92982",
+        "url": "https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427346,
+      "name": "92982.3",
+      "url": "https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1"
+    },
+    {
+      "album": {
         "name": "Under The Sun",
         "url": "https://open.spotify.com/album/39OlksvQLqQOOOctXERwmK"
       },
@@ -268,6 +286,24 @@
     },
     {
       "album": {
+        "name": "Astrosat",
+        "url": "https://open.spotify.com/album/3P1lcWQ2sc7RGGiY4nQuL1"
+      },
+      "artists": [
+        {
+          "name": "Applefish",
+          "url": "https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/1DgRiSsSduNYi6zS9pCOf7"
+    },
+    {
+      "album": {
         "name": "Andromeda",
         "url": "https://open.spotify.com/album/3640RzzgIrciQFKtFLICEP"
       },
@@ -279,7 +315,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 255000,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/5URyPQ8YrT1Ne2vKP2pqO5"
@@ -333,10 +369,46 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 300000,
       "name": "Astrosat",
       "url": "https://open.spotify.com/track/4e64RbgVywOCPpXv5vswj2"
+    },
+    {
+      "album": {
+        "name": "Astrosat",
+        "url": "https://open.spotify.com/album/3P1lcWQ2sc7RGGiY4nQuL1"
+      },
+      "artists": [
+        {
+          "name": "Applefish",
+          "url": "https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Astrosat",
+      "url": "https://open.spotify.com/track/7Bp6FeyuwmUlM7atMBag1A"
+    },
+    {
+      "album": {
+        "name": "Atomos",
+        "url": "https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z"
+      },
+      "artists": [
+        {
+          "name": "A Winged Victory for the Sullen",
+          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469213,
+      "name": "Atomos VII",
+      "url": "https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO"
     },
     {
       "album": {
@@ -351,7 +423,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 471645,
       "name": "Atomos VII",
       "url": "https://open.spotify.com/track/1NO5mFfik5T0LLsoiJsbE7"
@@ -369,10 +441,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 328493,
       "name": "Be Still",
       "url": "https://open.spotify.com/track/5HVHnoZniuyJeO9j3FvTVk"
+    },
+    {
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/71o5rJ09vTQMQghsbbQ0mC"
+      },
+      "artists": [
+        {
+          "name": "Ex Confusion",
+          "url": "https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328493,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/5qFU0eRQlMkT5AfdiOdno8"
     },
     {
       "album": {
@@ -395,6 +485,24 @@
     {
       "album": {
         "name": "Orchid",
+        "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
+      },
+      "artists": [
+        {
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 618240,
+      "name": "Bhakti",
+      "url": "https://open.spotify.com/track/0CNpKC19EvV9cYeSCJD8YW"
+    },
+    {
+      "album": {
+        "name": "Orchid",
         "url": "https://open.spotify.com/album/14sn0IU3GveZS7XNzPhVhd"
       },
       "artists": [
@@ -405,7 +513,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 618240,
       "name": "Bhakti",
       "url": "https://open.spotify.com/track/44tHSayEL4rW64qonY0odi"
@@ -449,6 +557,28 @@
       "duration_ms": 208040,
       "name": "Boreal Kiss Pt. 1",
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
+    },
+    {
+      "album": {
+        "name": "Small Lights",
+        "url": "https://open.spotify.com/album/5TzC5ApNzngIspcRD7heNL"
+      },
+      "artists": [
+        {
+          "name": "Rhucle",
+          "url": "https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl"
+        },
+        {
+          "name": "No Death",
+          "url": "https://open.spotify.com/artist/75HAJoZ2A5TotYPFSYgCnP"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Ceramic Bubbles - No Death Remix",
+      "url": "https://open.spotify.com/track/0efbgQ82IjFjgDsr5vBckW"
     },
     {
       "album": {
@@ -581,6 +711,24 @@
     {
       "album": {
         "name": "The Disintegration Loops (Remastered)",
+        "url": "https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3815786,
+      "name": "dlp 1.1",
+      "url": "https://open.spotify.com/track/10SeyQmuBIVJmbZYYJs07W"
+    },
+    {
+      "album": {
+        "name": "The Disintegration Loops (Remastered)",
         "url": "https://open.spotify.com/album/1xVP4eFcagXNtQMvEXfyeV"
       },
       "artists": [
@@ -591,7 +739,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 3815786,
       "name": "dlp 1.1",
       "url": "https://open.spotify.com/track/31FiS1jMI38kYfC8ey358W"
@@ -609,10 +757,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 717720,
       "name": "dlp 1.3",
       "url": "https://open.spotify.com/track/0DsKfyDPVSfJPWb3Jno6WC"
+    },
+    {
+      "album": {
+        "name": "The Disintegration Loops IV (Remastered)",
+        "url": "https://open.spotify.com/album/4Vs8o9MQur5NHGGr5kqXn6"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 717720,
+      "name": "dlp 1.3",
+      "url": "https://open.spotify.com/track/3hFipULsVstcUDjujwyNr5"
     },
     {
       "album": {
@@ -869,6 +1035,24 @@
     {
       "album": {
         "name": "Does It Look Like I'm Here?",
+        "url": "https://open.spotify.com/album/69mR7YiwQTw7nvlFKBOp7Y"
+      },
+      "artists": [
+        {
+          "name": "Emeralds",
+          "url": "https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250003,
+      "name": "Goes By",
+      "url": "https://open.spotify.com/track/2Paw6rRs12mZ6AfIhuP9Un"
+    },
+    {
+      "album": {
+        "name": "Does It Look Like I'm Here?",
         "url": "https://open.spotify.com/album/0c0XkZh9vWXg473nchoArI"
       },
       "artists": [
@@ -879,7 +1063,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252000,
       "name": "Goes By",
       "url": "https://open.spotify.com/track/6aoYsC8vQmVBQQoE1OOC7d"
@@ -959,6 +1143,32 @@
     {
       "album": {
         "name": "Illusion Of Time (Teodor Wolgers Rework)",
+        "url": "https://open.spotify.com/album/2gb12OlBnALWWT4tuNSfK9"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215946,
+      "name": "Illusion Of Time - Teodor Wolgers Rework",
+      "url": "https://open.spotify.com/track/3svg12xf0NinRluooXoVfF"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Time (Teodor Wolgers Rework)",
         "url": "https://open.spotify.com/album/0yF4JzJ0a96qaWLLhE9zcp"
       },
       "artists": [
@@ -977,7 +1187,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215946,
       "name": "Illusion Of Time - Teodor Wolgers Rework",
       "url": "https://open.spotify.com/track/6uZ7HlryD5c0IU65ANbaj2"
@@ -1075,6 +1285,24 @@
     {
       "album": {
         "name": "At the Dam",
+        "url": "https://open.spotify.com/album/2PLJneMiP3ADrN6hD9hfjL"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357333,
+      "name": "Jimmy V",
+      "url": "https://open.spotify.com/track/4R8lTXhSoaNPtbda76jSWh"
+    },
+    {
+      "album": {
+        "name": "At the Dam",
         "url": "https://open.spotify.com/album/21WPKbevLh1bhIEWwx7Z5r"
       },
       "artists": [
@@ -1085,7 +1313,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 357333,
       "name": "Jimmy V",
       "url": "https://open.spotify.com/track/4tm5s2BzVorHwmxTbnhM3i"
@@ -1303,6 +1531,24 @@
     {
       "album": {
         "name": "Mother Earth's Plantasia",
+        "url": "https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv"
+      },
+      "artists": [
+        {
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242630,
+      "name": "Ode to an African Violet",
+      "url": "https://open.spotify.com/track/3XJYJVFiiC785DuFqVdhbQ"
+    },
+    {
+      "album": {
+        "name": "Mother Earth's Plantasia",
         "url": "https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG"
       },
       "artists": [
@@ -1313,7 +1559,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242630,
       "name": "Ode to an African Violet",
       "url": "https://open.spotify.com/track/3Zrlem2yff4LUlcIz6TWvl"
@@ -1371,6 +1617,42 @@
       "duration_ms": 410120,
       "name": "On the Other Ocean",
       "url": "https://open.spotify.com/track/46UxS78qOWfuMhXEVN3dYb"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209502,
+      "name": "Only in the Dark",
+      "url": "https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD"
+    },
+    {
+      "album": {
+        "name": "Gravity (Special Edition)",
+        "url": "https://open.spotify.com/album/0lDH51Xy10a1fXsRMAyufW"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209502,
+      "name": "Only in the Dark",
+      "url": "https://open.spotify.com/track/7MenFyNgpOMMPFmbrvJZqX"
     },
     {
       "album": {
@@ -1504,6 +1786,24 @@
     },
     {
       "album": {
+        "name": "Beat",
+        "url": "https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC"
+      },
+      "artists": [
+        {
+          "name": "Bowery Electric",
+          "url": "https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1001200,
+      "name": "Postscript",
+      "url": "https://open.spotify.com/track/3g1hBwztBeoT9dK9w16ENA"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: Electrosonic",
         "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
       },
@@ -1523,7 +1823,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 105466,
       "name": "Quest",
       "url": "https://open.spotify.com/track/4flhWFm1w51Rm3dwQneAyW"
@@ -1669,10 +1969,48 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 315720,
       "name": "Space 11 (Invisible Pages Over)",
       "url": "https://open.spotify.com/track/786FgaRDsjLgvViIu30sam"
+    },
+    {
+      "album": {
+        "name": "From Sleep",
+        "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata Resnick",
+          "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315720,
+      "name": "Space 11 (Invisible Pages Over)",
+      "url": "https://open.spotify.com/track/7uLFKKT99gXzjLhsOoDKwg"
     },
     {
       "album": {
@@ -1687,10 +2025,46 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 400626,
       "name": "Stave Peak",
       "url": "https://open.spotify.com/track/1Y315hvTFn1VMon294Tn7y"
+    },
+    {
+      "album": {
+        "name": "Coast / Range / Arc",
+        "url": "https://open.spotify.com/album/7mPWzggbkjqPQM9tDQa64s"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400626,
+      "name": "Stave Peak",
+      "url": "https://open.spotify.com/track/1zkg1Iy9lFRF5ZQHMEiR9y"
+    },
+    {
+      "album": {
+        "name": "EARS",
+        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184586,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
     },
     {
       "album": {
@@ -1705,7 +2079,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184586,
       "name": "Stratus",
       "url": "https://open.spotify.com/track/7G0celL82dCIDYjUxdPyoG"
@@ -1723,10 +2097,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230759,
       "name": "Submersible",
       "url": "https://open.spotify.com/track/157hM4Kifc9ZeVR3IxOmKh"
+    },
+    {
+      "album": {
+        "name": "Replica",
+        "url": "https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230759,
+      "name": "Submersible",
+      "url": "https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq"
     },
     {
       "album": {
@@ -1828,6 +2220,24 @@
     },
     {
       "album": {
+        "name": "Carte-De-Visite",
+        "url": "https://open.spotify.com/album/3CtKKr1sTyL4XYLsYjw95A"
+      },
+      "artists": [
+        {
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225586,
+      "name": "The Mouthchew, Pt. 2",
+      "url": "https://open.spotify.com/track/0QWg9GVhRxE2r72Tw7PIzF"
+    },
+    {
+      "album": {
         "name": "Hidden World",
         "url": "https://open.spotify.com/album/32RJs9ul4l3ZrfCNKvU8Hl"
       },
@@ -1869,6 +2279,24 @@
     {
       "album": {
         "name": "The Expanding Universe",
+        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390720,
+      "name": "The Unquestioned Answer",
+      "url": "https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg"
+    },
+    {
+      "album": {
+        "name": "The Expanding Universe",
         "url": "https://open.spotify.com/album/2rD0SKiBImTKNhRtRVLsdU"
       },
       "artists": [
@@ -1879,7 +2307,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 390720,
       "name": "The Unquestioned Answer",
       "url": "https://open.spotify.com/track/5ftgOffbWhT3hYtQXNEPou"
@@ -1959,6 +2387,24 @@
     {
       "album": {
         "name": "Tomorrow Was the Golden Age",
+        "url": "https://open.spotify.com/album/37FqMp9hRz4bgkvp3x0Tz3"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355523,
+      "name": "TWTGA",
+      "url": "https://open.spotify.com/track/1iVAwCYuzG82TcremyxhCf"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Was the Golden Age",
         "url": "https://open.spotify.com/album/4gsrQjP1ahrsA4kvXQsVyr"
       },
       "artists": [
@@ -1969,7 +2415,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 355523,
       "name": "TWTGA",
       "url": "https://open.spotify.com/track/4ljALrblJ6OyrXFH0PzXwK"
@@ -2012,6 +2458,24 @@
     },
     {
       "album": {
+        "name": "AIDOL (O.S.T.)",
+        "url": "https://open.spotify.com/album/0gJcfpCTgTeNnWiDO587T7"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Lek",
+          "url": "https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "Unreal",
+      "url": "https://open.spotify.com/track/3HNd6shi5OkaFn0PftmnaP"
+    },
+    {
+      "album": {
         "name": "AIDOL (OST)",
         "url": "https://open.spotify.com/album/3w0DWCRJXBcB0aCgeOJ7LX"
       },
@@ -2023,7 +2487,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174000,
       "name": "Unreal",
       "url": "https://open.spotify.com/track/3liR99bvHUIbDZv1bWKJNd"

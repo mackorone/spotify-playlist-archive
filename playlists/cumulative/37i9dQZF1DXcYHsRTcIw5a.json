@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Glad Sounds",
+        "url": "https://open.spotify.com/album/5HX8xcXRhKcrQCWzv3eoLT"
+      },
+      "artists": [
+        {
+          "name": "Gladstone Anderson",
+          "url": "https://open.spotify.com/artist/3Z3kWa8uItZfj3a6prijGz"
+        },
+        {
+          "name": "Lynn Taitt",
+          "url": "https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy"
+        },
+        {
+          "name": "The Jets",
+          "url": "https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132506,
+      "name": "A.B.C. Rocksteady",
+      "url": "https://open.spotify.com/track/5woVKCevHAbyVp2vPPISH9"
+    },
+    {
+      "album": {
         "name": "Glad Sounds (feat. Lynn Taitt & The Jets)",
         "url": "https://open.spotify.com/album/0qGBRlIqZtqN9bNEXVWDIO"
       },
@@ -23,7 +49,7 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 132506,
       "name": "A.B.C. Rocksteady",
       "url": "https://open.spotify.com/track/0oqZTFzrWuJyJBOyx2FS3j"
@@ -41,10 +67,46 @@
       ],
       "date_added": "2018-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165333,
       "name": "Always Together",
       "url": "https://open.spotify.com/track/5W9dL3ClViC6jwcCO69woz"
+    },
+    {
+      "album": {
+        "name": "Collector's Edition: Rare Reggae From Studio One",
+        "url": "https://open.spotify.com/album/3FkTrxRbPBGXrf2y3VlFbc"
+      },
+      "artists": [
+        {
+          "name": "Bob Andy & Marcia Griffiths",
+          "url": "https://open.spotify.com/artist/7q5akGSVEfg0j8IxgbdLN3"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Always Together",
+      "url": "https://open.spotify.com/track/5sNukxsSD2RkxS4tVGsUY7"
+    },
+    {
+      "album": {
+        "name": "Celebrating Jamaica 50: The History of Reggae",
+        "url": "https://open.spotify.com/album/5EeBMrKxZEkVcr00cNgZM2"
+      },
+      "artists": [
+        {
+          "name": "The Jamaicans",
+          "url": "https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180558,
+      "name": "Baba Boom Time",
+      "url": "https://open.spotify.com/track/7aPjIs1vrygEAGgODAo6Ca"
     },
     {
       "album": {
@@ -59,7 +121,7 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180558,
       "name": "Baba Boom Time - Original",
       "url": "https://open.spotify.com/track/3GRuCJ60jozCdIYrdbnu8K"
@@ -77,10 +139,28 @@
       ],
       "date_added": "2018-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 314093,
       "name": "Baby Why",
       "url": "https://open.spotify.com/track/5ySuxlxlQ9IwoOQR1iPLIS"
+    },
+    {
+      "album": {
+        "name": "What Kind of World",
+        "url": "https://open.spotify.com/album/76PUXnKLSKNPLih9haUnau"
+      },
+      "artists": [
+        {
+          "name": "The Cables",
+          "url": "https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314093,
+      "name": "Baby Why",
+      "url": "https://open.spotify.com/track/7lTLHyXU0OvDf0Es0PffpS"
     },
     {
       "album": {
@@ -107,6 +187,24 @@
     {
       "album": {
         "name": "Night Food",
+        "url": "https://open.spotify.com/album/4ZOQeByfXd1iAgmMk8xpYN"
+      },
+      "artists": [
+        {
+          "name": "The Heptones",
+          "url": "https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211466,
+      "name": "Book Of Rules",
+      "url": "https://open.spotify.com/track/4PKri4OX2AB2RXj95Y9ZgB"
+    },
+    {
+      "album": {
+        "name": "Night Food",
         "url": "https://open.spotify.com/album/0pCUQIGfNzmCGjgYR6iahT"
       },
       "artists": [
@@ -117,7 +215,7 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211466,
       "name": "Book Of Rules",
       "url": "https://open.spotify.com/track/6ObB3ZyEvBhS63dnJq8Usl"
@@ -189,10 +287,28 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135960,
       "name": "Everybody Needs Love",
       "url": "https://open.spotify.com/track/3NkNPO35ZtRaNHqBY2fj1y"
+    },
+    {
+      "album": {
+        "name": "Unearthed Gold of Rocksteady Vol. 2",
+        "url": "https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t"
+      },
+      "artists": [
+        {
+          "name": "Slim Smith",
+          "url": "https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135960,
+      "name": "Everybody Needs Love",
+      "url": "https://open.spotify.com/track/5H0CQe9x3iuI4cTPwMfASQ"
     },
     {
       "album": {
@@ -243,10 +359,28 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167600,
       "name": "Freedom Street",
       "url": "https://open.spotify.com/track/3K0hfF6eN8gX08YGcoiC0S"
+    },
+    {
+      "album": {
+        "name": "The Ken Boothe Collection: Eighteen Classic Songs",
+        "url": "https://open.spotify.com/album/12NP8Zg49uP77ozUUSTe99"
+      },
+      "artists": [
+        {
+          "name": "Ken Boothe",
+          "url": "https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "Freedom Street",
+      "url": "https://open.spotify.com/track/6LbChaXJgm1NmTmWEBoKjg"
     },
     {
       "album": {
@@ -261,10 +395,28 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206173,
       "name": "Have Some Mercy",
       "url": "https://open.spotify.com/track/4vHht02zVM8vnK8I3gwhX7"
+    },
+    {
+      "album": {
+        "name": "Delroy Wilson's Big Hits",
+        "url": "https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM"
+      },
+      "artists": [
+        {
+          "name": "Delroy Wilson",
+          "url": "https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206173,
+      "name": "Have Some Mercy",
+      "url": "https://open.spotify.com/track/6P4TFTWjdO5iXr8EfQVjqz"
     },
     {
       "album": {
@@ -279,10 +431,28 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167173,
       "name": "Hold Them",
       "url": "https://open.spotify.com/track/3xSaSNc8AdF0P6MCiYL1Me"
+    },
+    {
+      "album": {
+        "name": "Unearthed Gold of Rocksteady Vol. 2",
+        "url": "https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t"
+      },
+      "artists": [
+        {
+          "name": "Roy Shirley",
+          "url": "https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167173,
+      "name": "Hold Them",
+      "url": "https://open.spotify.com/track/5iyyttRc4xFRhKzAu02mtw"
     },
     {
       "album": {
@@ -298,9 +468,27 @@
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 188440,
+      "duration_ms": 193416,
       "name": "How Long Will It Take",
       "url": "https://open.spotify.com/track/6qV95w6RYTspqNEZEIL8rh"
+    },
+    {
+      "album": {
+        "name": "The Trojan: Rocksteady Collection",
+        "url": "https://open.spotify.com/album/5qyd5jrhsQhtwyxSZbI9k8"
+      },
+      "artists": [
+        {
+          "name": "Derrick Morgan",
+          "url": "https://open.spotify.com/artist/2RM3xqQNdhZknQBsyQl3ZM"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139786,
+      "name": "I Want to Go Home",
+      "url": "https://open.spotify.com/track/2nlZ72XBv9MQOUKbIaBoiq"
     },
     {
       "album": {
@@ -315,7 +503,7 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141453,
       "name": "I Want to Go Home",
       "url": "https://open.spotify.com/track/4c3P8eBnCdNp5yHhVNKEN7"
@@ -358,6 +546,24 @@
     },
     {
       "album": {
+        "name": "A Declaration of Dub",
+        "url": "https://open.spotify.com/album/3L1Yh24pd0uYbvCgkuIpaW"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259066,
+      "name": "Inna Mi Yard",
+      "url": "https://open.spotify.com/track/2JrbA3gMvQEhVG9HbTI02w"
+    },
+    {
+      "album": {
         "name": "King Tubby And Bredrins",
         "url": "https://open.spotify.com/album/0yPvFl4yWaxnLPPWimWTeB"
       },
@@ -369,7 +575,7 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262000,
       "name": "Inna My Yard",
       "url": "https://open.spotify.com/track/5JgdhMhhYq6fuBPia5wbck"
@@ -430,6 +636,24 @@
     },
     {
       "album": {
+        "name": "Give and Take - The Best of The Pioneers",
+        "url": "https://open.spotify.com/album/5TwvKc49ROXhjd3oha206q"
+      },
+      "artists": [
+        {
+          "name": "The Pioneers",
+          "url": "https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187373,
+      "name": "Let Your Yeah Be Yeah",
+      "url": "https://open.spotify.com/track/2Dm6EGLAZLjk0iBIdUN9qp"
+    },
+    {
+      "album": {
         "name": "Reggae Chartbusters, Vol. 3",
         "url": "https://open.spotify.com/album/0G8x45X2PtcB0w0FedVoN9"
       },
@@ -441,7 +665,7 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188480,
       "name": "Let Your Yeah Be Yeah",
       "url": "https://open.spotify.com/track/0FIHZ7phD18PjIP3zcV5K6"
@@ -459,10 +683,46 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165160,
       "name": "Little Boy Blue",
       "url": "https://open.spotify.com/track/0LtwkkHxMWPt5LEZa4sBn1"
+    },
+    {
+      "album": {
+        "name": "The Vintage Series",
+        "url": "https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD"
+      },
+      "artists": [
+        {
+          "name": "Pat Kelly",
+          "url": "https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166186,
+      "name": "Little Boy Blue",
+      "url": "https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn"
+    },
+    {
+      "album": {
+        "name": "Jamaican Rock Steady Party",
+        "url": "https://open.spotify.com/album/4UGon6PLiaTnceOnsT1uM3"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Charmers",
+          "url": "https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122773,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3TeLqdhzHB9cuFbaKlNvgm"
     },
     {
       "album": {
@@ -477,7 +737,7 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 122773,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/6vGhyZvt0jbLb06wrFnB3K"
@@ -567,10 +827,28 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233813,
       "name": "Never Found a Girl",
       "url": "https://open.spotify.com/track/7JeKEYyHe1D7IseeOrPSeH"
+    },
+    {
+      "album": {
+        "name": "Trojan Lovers Collection",
+        "url": "https://open.spotify.com/album/5EuOQL9gsUcmO3khx4JSCG"
+      },
+      "artists": [
+        {
+          "name": "Cornell Campbell",
+          "url": "https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Never Found a Girl",
+      "url": "https://open.spotify.com/track/5OUARD27TGfCPSnuJh9xo7"
     },
     {
       "album": {
@@ -628,6 +906,42 @@
     },
     {
       "album": {
+        "name": "Legend Platinum Edition",
+        "url": "https://open.spotify.com/album/5Y9KBlTlXLCviXp1HIrjZu"
+      },
+      "artists": [
+        {
+          "name": "Slim Smith",
+          "url": "https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 157973,
+      "name": "People Get Ready",
+      "url": "https://open.spotify.com/track/3KdUOpPFiJ3FuIclPtEZ2P"
+    },
+    {
+      "album": {
+        "name": "Out Of Love / People Get Ready",
+        "url": "https://open.spotify.com/album/2m3g4OamUO3OUGH26mrnVn"
+      },
+      "artists": [
+        {
+          "name": "Slim Smith",
+          "url": "https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157973,
+      "name": "People Get Ready",
+      "url": "https://open.spotify.com/track/5g99otFnQZ541aIfHBJWq9"
+    },
+    {
+      "album": {
         "name": "Attack Collection Volume 1",
         "url": "https://open.spotify.com/album/0vLxE4Gvj0kddD1sm4Gb7S"
       },
@@ -643,7 +957,7 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157973,
       "name": "People Get Ready",
       "url": "https://open.spotify.com/track/2iTCSbVD34S00OVlQDqU5j"
@@ -668,6 +982,24 @@
     },
     {
       "album": {
+        "name": "Essential Ska Masters",
+        "url": "https://open.spotify.com/album/4rThjBhFQlgVBhYyky2gTz"
+      },
+      "artists": [
+        {
+          "name": "The Silvertones",
+          "url": "https://open.spotify.com/artist/2i7lcqmkXenSMNTeXdAsPZ"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/39RGl1mXtFTjwcyHnbDRUr"
+    },
+    {
+      "album": {
         "name": "Mod - The Ultimate '60s Collection",
         "url": "https://open.spotify.com/album/2MEq1nNZ8eurpIdY1Yr1h1"
       },
@@ -679,7 +1011,7 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169333,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/4JQpitLVXqnPGKFKaOI4kW"
@@ -715,10 +1047,28 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255266,
       "name": "Rivers Of Babylon",
       "url": "https://open.spotify.com/track/00OWEz3Z4t6EPZsh7Hi4Fk"
+    },
+    {
+      "album": {
+        "name": "Rivers of Babylon: The Best of The Melodians 1967-1973",
+        "url": "https://open.spotify.com/album/3Jh8nwkZZXaTPXWRaFm4yu"
+      },
+      "artists": [
+        {
+          "name": "The Melodians",
+          "url": "https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257265,
+      "name": "Rivers of Babylon - Long Version",
+      "url": "https://open.spotify.com/track/3Q6QQMARzPG55AeV62WQ6S"
     },
     {
       "album": {
@@ -733,7 +1083,7 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156840,
       "name": "Rock Steady",
       "url": "https://open.spotify.com/track/0QnfRr36zan90XcQ2Ezewz"
@@ -791,10 +1141,46 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193026,
       "name": "Sound And Pressure",
       "url": "https://open.spotify.com/track/45ecSLdO5jx4b7jQeCpq5c"
+    },
+    {
+      "album": {
+        "name": "Take It Easy",
+        "url": "https://open.spotify.com/album/0df5wnsgG6FBXXmq4DXe1h"
+      },
+      "artists": [
+        {
+          "name": "Hopeton Lewis",
+          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Sound and Pressure",
+      "url": "https://open.spotify.com/track/0gOB0LAnmJK0IzPudWzi2p"
+    },
+    {
+      "album": {
+        "name": "K-Town Showdown",
+        "url": "https://open.spotify.com/album/4jMuTSL7ETQxrHxNmtfhK0"
+      },
+      "artists": [
+        {
+          "name": "The Aggrovators",
+          "url": "https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159026,
+      "name": "Steady Rock",
+      "url": "https://open.spotify.com/track/4qabPWXYmTgayl0IFZmIpQ"
     },
     {
       "album": {
@@ -834,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "The Loser / Now We Know",
+        "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
+      },
+      "artists": [
+        {
+          "name": "Derrick Harriott",
+          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218653,
+      "name": "The Loser",
+      "url": "https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu"
+    },
+    {
+      "album": {
         "name": "A Place Called Jamaica",
         "url": "https://open.spotify.com/album/0iLSbiSs1GJKuEwoeu69KP"
       },
@@ -845,7 +1249,7 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221053,
       "name": "The Loser",
       "url": "https://open.spotify.com/track/3mL3yUVgAajzONDlP0BbDW"
@@ -871,6 +1275,28 @@
     {
       "album": {
         "name": "Rock Steady Greatest Hits",
+        "url": "https://open.spotify.com/album/1wFh18B1EcUfc6CHFZ1cta"
+      },
+      "artists": [
+        {
+          "name": "Lynn Taitt",
+          "url": "https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy"
+        },
+        {
+          "name": "The Jets",
+          "url": "https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160546,
+      "name": "To Sir with Love",
+      "url": "https://open.spotify.com/track/0g2ommIQUwilxSkTNrEmMZ"
+    },
+    {
+      "album": {
+        "name": "Rock Steady Greatest Hits",
         "url": "https://open.spotify.com/album/1uclMYfjo5gowsgDgjMxTS"
       },
       "artists": [
@@ -885,10 +1311,46 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160546,
       "name": "To Sir With Love",
       "url": "https://open.spotify.com/track/3z2MqPZ6G0HodVUV5uQgit"
+    },
+    {
+      "album": {
+        "name": "Sound Box Essentials Platinum Edition",
+        "url": "https://open.spotify.com/album/4KIvEfnzVKA52aeoL7vyPJ"
+      },
+      "artists": [
+        {
+          "name": "Ken Parker",
+          "url": "https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 135000,
+      "name": "True True True",
+      "url": "https://open.spotify.com/track/308obIx1tvqzAU4zaug0Ok"
+    },
+    {
+      "album": {
+        "name": "Sound Box Essentials (Platinum Edition)",
+        "url": "https://open.spotify.com/album/1y0DtuLTm22u30LBrgQfmh"
+      },
+      "artists": [
+        {
+          "name": "Ken Parker",
+          "url": "https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "True True True",
+      "url": "https://open.spotify.com/track/5lhweqIsmtQFNkCkj23nbs"
     },
     {
       "album": {
@@ -903,10 +1365,28 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135000,
       "name": "True True True",
       "url": "https://open.spotify.com/track/6CucZ6tVBv8720etCZ1sOn"
+    },
+    {
+      "album": {
+        "name": "Cultural Things",
+        "url": "https://open.spotify.com/album/0oAZsRHJCvTBgfIIKPQmDO"
+      },
+      "artists": [
+        {
+          "name": "The Tennors",
+          "url": "https://open.spotify.com/artist/55bKEFzORmQDLwL57O3Zz4"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145373,
+      "name": "Weather Report",
+      "url": "https://open.spotify.com/track/2PqKhhwvTagEwlueJYwXa1"
     },
     {
       "album": {
@@ -921,7 +1401,7 @@
       ],
       "date_added": "2014-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 148333,
       "name": "Weather Report",
       "url": "https://open.spotify.com/track/6eLgESGhZxeCMyA939t1RF"

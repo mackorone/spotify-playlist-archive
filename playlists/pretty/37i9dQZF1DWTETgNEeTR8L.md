@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTETgNEeTR8L.md) - [plain]
 
 > Techno legend <a href="spotify:artist:1btv9qmIpbp7q1ixCYNdHu">Adam Beyer</a> delivers a stunning masterpiece.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,763 likes - 15 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,373 likes - 15 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTETgNEeTR8L.md) - [plain]
 | 14 | [Pragmatic \- Mixed](https://open.spotify.com/track/7mC5cwc1o9ojFb9WDz2oNc) | [Mark Reeve](https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ) | [Pragmatic \(Mixed\)](https://open.spotify.com/album/2hhHZvWEaKwj5GJmnPcOuX) | 4:58 |
 | 15 | [Love Story \- Mixed](https://open.spotify.com/track/0oIjwVA8JyWm8whin2LKFe) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Love Story \(Mixed\)](https://open.spotify.com/album/7GydBOTngWDQ1eqQaWrOlD) | 6:04 |
 
-Snapshot ID: `MTYzMjkyMzUwNSwwMDAwMDAwMjAwMDAwMTdjMzFkMzUzODgwMDAwMDE3YzE3ZmU2M2Nk`
+Snapshot ID: `MTYzMjkyMzUwNSwwMDAwMDAwMDUyZmI0ZTBkOWI5NDM0MGMyOWNhZWJiNDhjMzEwNTg1`

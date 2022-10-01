@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 
 > The official playlist for After Life, curated by Ricky Gervais\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,937 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,187 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 | 9 | [Lady Marmalade](https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Best Of Patti Labelle](https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub) | 3:55 |
 | 10 | [Will You Ever Love Yourself?](https://open.spotify.com/track/4R3GdFZdmY2ase6ULLCVtW) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 5:46 |
 | 11 | [A Gallant Gentleman](https://open.spotify.com/track/7MZM9KhwGQG8QJ4BycsnQn) | [We Lost The Sea](https://open.spotify.com/artist/7GVByFFfFJYCzK4d8ZyL6s) | [Departure Songs](https://open.spotify.com/album/2qYkNaEeAbiarc0rwkjkh3) | 6:04 |
-| 12 | [Into My Arms](https://open.spotify.com/track/0dDDB5Y0USPabzqBmajLJr) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(Remastered\)](https://open.spotify.com/album/4ij84pOJd9kY2uNdT2dOH1) | 4:16 |
+| 12 | [Into My Arms \- 2011 Remastered Version](https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 4:16 |
 | 13 | [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 |
 | 14 | [Then the Quiet Explosion](https://open.spotify.com/track/1e0dFIlrgHaD5a2ud2AXEQ) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Oblivion Hymns](https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn) | 6:43 |
 | 15 | [Together Alone](https://open.spotify.com/track/5vsM2dLOcZRljhNgGj10lm) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Departure Songs](https://open.spotify.com/album/1F2MQNCmYXDcZyJVdbhNw9) | 7:08 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 | 27 | [So Amazing](https://open.spotify.com/track/2BABTeUx608FA8b47bDuLK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 3:42 |
 | 28 | [Can You Hear Me \- 2016 Remaster](https://open.spotify.com/track/0iWHMJwpVl46UJ2KZ2IEKt) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Young Americans \(2016 Remaster\)](https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P) | 5:08 |
 | 29 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 |
-| 30 | [Little Piece of Nothing](https://open.spotify.com/track/71hPJJ106daQSnIY34YCg5) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Echo](https://open.spotify.com/album/6KF7nebjXfMqnli4lIg0mH) | 4:55 |
+| 30 | [Little Piece of Nothing](https://open.spotify.com/track/5Kdg1xQa6pQACBTxRa2faR) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Echo](https://open.spotify.com/album/2EPjdx6A66QkuM2UQYYIcK) | 4:55 |
 | 31 | [Send in the Clowns](https://open.spotify.com/track/3evTbfCtMxbUwTQIn7QOcG) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judith](https://open.spotify.com/album/2P9EqaNiGfiYweANVtt0Ry) | 4:00 |
 | 32 | [And So It Goes](https://open.spotify.com/track/1u7kQUb3lQcpHaYRfia13A) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 3:37 |
 | 33 | [Three Times A Lady](https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Natural High](https://open.spotify.com/album/01xiIydpf1MyOg7DWDRF2N) | 6:38 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 | 35 | [Silence \(feat\. Dave Thomas Junior\)](https://open.spotify.com/track/3R0Et3SS6eO5VgpZGpnTaU) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Past.Present.Future.](https://open.spotify.com/album/2MhMiuJX4tsAFaQDkzPauF) | 3:29 |
 | 36 | [The Only Thing \- Live](https://open.spotify.com/track/1VBhcNMKyc1G9CsUOujGno) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell Live](https://open.spotify.com/album/3xuObdpsMyG6pInICz9M2I) | 5:41 |
 | 37 | [The Things We Do For Love](https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Deceptive Bends](https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4) | 3:27 |
-| 38 | [Back to the Beginning](https://open.spotify.com/track/4g374m0wawUeanQ9iov9jI) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [This Time of the Year](https://open.spotify.com/album/2lEZnRnI0UAmOJUb4ImFvA) | 3:49 |
+| 38 | [Back to the Beginning](https://open.spotify.com/track/0vyNxE8W1tkbOA9s64UfGa) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [This Time of the Year](https://open.spotify.com/album/6iSbi6bADvBlVS5vsc4hap) | 3:49 |
 | 39 | [Not Dark Yet](https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Time Out Of Mind](https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt) | 6:27 |
 | 40 | [For My Sister](https://open.spotify.com/track/1CULWWJfT5Oo0Bh4gko7ZS) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Mysterium](https://open.spotify.com/album/46Ky1123o1MoI4tTCeIEdp) | 6:24 |
 | 41 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 | 49 | [Mandolin Wind](https://open.spotify.com/track/4sWZwY8RQfK6Fc2pYC7tN1) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:36 |
 | 50 | [From Both Sides Now](https://open.spotify.com/track/4e6Y85KHKWhn9EdguhfB6l) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [David Jaggs](https://open.spotify.com/artist/2M6D03CV5HO5J5lqOnNQRJ) | [Solo](https://open.spotify.com/album/6TKewkXqDeg8q2lqzNXTmZ) | 3:09 |
 
-Snapshot ID: `MTY0MjA5OTUzOCwwMDAwMDAwMjAwMDAwMTdlNTRjMjdiNTQwMDAwMDE3ZTU0YjlhNWJk`
+Snapshot ID: `MTY0MjA5OTUzOCwwMDAwMDAwMDQ0NGZiNDgyNjE1OWE5YzZkNTMyYjgxMzAzZjBkNzA0`

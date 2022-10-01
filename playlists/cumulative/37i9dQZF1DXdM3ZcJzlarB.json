@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Bells In The City",
+        "url": "https://open.spotify.com/album/5UUaiaa10XXSAPvXFS81bg"
+      },
+      "artists": [
+        {
+          "name": "Maxi Degrassi",
+          "url": "https://open.spotify.com/artist/2MrE6u1IaGHEFGayZkxpGD"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393945,
+      "name": "Bells In The City",
+      "url": "https://open.spotify.com/track/51ZPZgUzbjwTgQwsEWJIqo"
+    },
+    {
+      "album": {
         "name": "Bells In The City EP",
         "url": "https://open.spotify.com/album/0wpoF3SrFhEziktsJMvKEO"
       },
@@ -127,7 +145,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 393945,
       "name": "Bells In The City - Original Mix",
       "url": "https://open.spotify.com/track/1waXr3hfD2ClJweduv16v8"
@@ -170,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Technical Progress, Vol. 7 (Compiled by Stergios Sigma & Mike T)",
+        "url": "https://open.spotify.com/album/2FAhMFku8qW0Jv3THYvpvj"
+      },
+      "artists": [
+        {
+          "name": "Govinda (Arg)",
+          "url": "https://open.spotify.com/artist/7EY8b86otBMRZ54VaOBSyA"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534193,
+      "name": "Desde El Oceano",
+      "url": "https://open.spotify.com/track/43DCA32pZIcXt1OY1YvyCi"
+    },
+    {
+      "album": {
         "name": "Stay Home, Vol. 017",
         "url": "https://open.spotify.com/album/0YJk6w2qDhT9P1yA2PJNsZ"
       },
@@ -181,7 +217,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 534205,
       "name": "Desde El Oceano",
       "url": "https://open.spotify.com/track/4RvnwukV6qD5L5PsQDib4C"
@@ -414,6 +450,24 @@
     },
     {
       "album": {
+        "name": "Winter Collection",
+        "url": "https://open.spotify.com/album/5bhBstQAQQiL1NDHyxSpYo"
+      },
+      "artists": [
+        {
+          "name": "Artfaq",
+          "url": "https://open.spotify.com/artist/4xsjxIpPpmPiqV9gxdN9TZ"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491803,
+      "name": "Lost Cosmonaut",
+      "url": "https://open.spotify.com/track/3u1A7jr8nNyGrLIT786EDX"
+    },
+    {
+      "album": {
         "name": "The Soundgarden Winter Collection",
         "url": "https://open.spotify.com/album/3tevMtF2CvFb2WX3Jzq3zZ"
       },
@@ -425,7 +479,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 491803,
       "name": "Lost Cosmonaut",
       "url": "https://open.spotify.com/track/6GXwg3PikKgwpeXo3LVolR"
@@ -559,10 +613,46 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 520000,
       "name": "Narita",
       "url": "https://open.spotify.com/track/0Za0MXHa0bDwaNcki0Xbf4"
+    },
+    {
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/0LOdLAhSPFpwUXF19fkJf6"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Rada",
+          "url": "https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520000,
+      "name": "Narita",
+      "url": "https://open.spotify.com/track/3kkBObalFK4ZYbpK1V1aNb"
+    },
+    {
+      "album": {
+        "name": "Nebular, Pt. 2",
+        "url": "https://open.spotify.com/album/79nnBKVydX1ltc3Tbz2Cae"
+      },
+      "artists": [
+        {
+          "name": "Lucas Rossi",
+          "url": "https://open.spotify.com/artist/75eXDT5WblPtDKGRL8E1cq"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512953,
+      "name": "Nebular",
+      "url": "https://open.spotify.com/track/05nEbg3N4biefeiuId2rRp"
     },
     {
       "album": {
@@ -577,7 +667,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 512954,
       "name": "Nebular",
       "url": "https://open.spotify.com/track/3U73eYzHzimwCEJ0bTlJ8U"
@@ -800,6 +890,24 @@
     },
     {
       "album": {
+        "name": "Winter Collection",
+        "url": "https://open.spotify.com/album/5bhBstQAQQiL1NDHyxSpYo"
+      },
+      "artists": [
+        {
+          "name": "Nico Szabo",
+          "url": "https://open.spotify.com/artist/0Vw8wTJPM8hzOHwqAjsFri"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 523880,
+      "name": "Stampi",
+      "url": "https://open.spotify.com/track/25CLjHvR3WwX1WZdLsh8Iv"
+    },
+    {
+      "album": {
         "name": "The Soundgarden Winter Collection",
         "url": "https://open.spotify.com/album/3tevMtF2CvFb2WX3Jzq3zZ"
       },
@@ -811,7 +919,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 523880,
       "name": "Stampi",
       "url": "https://open.spotify.com/track/5B3FNvNReTQF1iJYN9TfOL"
@@ -841,7 +949,7 @@
     {
       "album": {
         "name": "Stranded Mind",
-        "url": "https://open.spotify.com/album/0Dgv6pJlmf2S1rb26Krobm"
+        "url": "https://open.spotify.com/album/1PiycNuMNREvJyVPgt7pBN"
       },
       "artists": [
         {
@@ -852,6 +960,24 @@
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 537523,
+      "name": "Stranded Mind - Extended Mix",
+      "url": "https://open.spotify.com/track/0Nno4cLqFzPgcMFbCpdDqE"
+    },
+    {
+      "album": {
+        "name": "Stranded Mind",
+        "url": "https://open.spotify.com/album/0Dgv6pJlmf2S1rb26Krobm"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Sellares",
+          "url": "https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 537523,
       "name": "Stranded Mind - Extended Mix",
       "url": "https://open.spotify.com/track/4NHeX2RTbtVCJtbbdHqBv6"
@@ -899,7 +1025,7 @@
     {
       "album": {
         "name": "Crabo",
-        "url": "https://open.spotify.com/album/1UVqmzod2ZtvMO83PQQAEC"
+        "url": "https://open.spotify.com/album/5mhP51VoWxehN7sgn1Ko8n"
       },
       "artists": [
         {
@@ -910,6 +1036,24 @@
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 558556,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3tdRR98vlJ1Vr6apFjPQoJ"
+    },
+    {
+      "album": {
+        "name": "Crabo",
+        "url": "https://open.spotify.com/album/1UVqmzod2ZtvMO83PQQAEC"
+      },
+      "artists": [
+        {
+          "name": "Emi Galvan",
+          "url": "https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 558556,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/4j0qHgFJYumy5NDvaDbdl3"
@@ -934,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "Voltaire EP",
+        "url": "https://open.spotify.com/album/1XPSLd8egeo4SE72lE2yjn"
+      },
+      "artists": [
+        {
+          "name": "Analog Jungs",
+          "url": "https://open.spotify.com/artist/7xsRDdsB4gzJqlbMiuowa1"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 641311,
+      "name": "Voltaire",
+      "url": "https://open.spotify.com/track/2qNyupNqF0BTrEXAu8DWwy"
+    },
+    {
+      "album": {
         "name": "Voltaire",
         "url": "https://open.spotify.com/album/1fLFRG742JTDx3eilXsbnM"
       },
@@ -945,7 +1107,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 641311,
       "name": "Voltaire",
       "url": "https://open.spotify.com/track/6RhZ3wEOHmJpZGuXhfl2HJ"

@@ -1,12 +1,12 @@
 {
-  "description": "In partnership with <a href =\"https://goldhouse.org/\">Gold House</a>, we are excited to announce our first Gold House Future Music Guild artists: Anik Khan, Ruby Ibarra & thuy.",
-  "num_followers": 110794,
+  "description": "In partnership with <a href=\"https://goldhouse.org/\">Gold House</a>, we are excited to announce our first Gold House Future Music Guild artists: Anik Khan, Ruby Ibarra & thuy.",
+  "num_followers": 110431,
   "original_name": "Gold Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzYzNjIyOSwwMDAwMDAwYTAwMDAwMTgxZjJkMThmOWIwMDAwMDE3ZmFkMWI0YThh",
+  "snapshot_id": "MTY2MDU4MDMwOCwwMDAwMDAwMDE3YzU3ODk4OTFiZTNjMzIyOGQ5OTc4ZWMwZWNiNTUz",
   "tracks": [
     {
       "added_at": "2022-07-12 14:30:28",
@@ -108,12 +108,12 @@
           "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         },
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
           "name": "Jung Kook",
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
       "duration_ms": 154486,
@@ -228,7 +228,7 @@
       "added_at": "2022-07-12 14:30:28",
       "album": {
         "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
+        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
       "artists": [
         {
@@ -242,7 +242,7 @@
       ],
       "duration_ms": 174646,
       "name": "That That (prod. & feat. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa"
+      "url": "https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz"
     },
     {
       "added_at": "2022-07-12 14:30:28",
@@ -516,16 +516,16 @@
           "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
         },
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        },
-        {
           "name": "Topher Ngo",
           "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
         },
         {
           "name": "Grayson Villanueva",
           "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
         }
       ],
       "duration_ms": 199906,

@@ -4,7 +4,7 @@
 
 > Spend an afternoon jamming to this curated playlist of all Asian and Pacific Islander musicians across genres and geographies!
 
-40 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/0wchqQtZZgd5ObhZrlv8DX)
+41 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/0wchqQtZZgd5ObhZrlv8DX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [My Type](https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:06 | 2022-05-02 |  |
 | [Native Tongue](https://open.spotify.com/track/3pe88vNQ5MWgSXOA1a2xcc) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g), [Pasefika Vitoria Choir](https://open.spotify.com/artist/1lm9HeVotNqu7h0Kv14oKO) | [Native Tongue](https://open.spotify.com/album/4eIPiC26JL1CijhjXwlFzs) | 3:49 | 2022-05-02 |  |
 | [O Vai \(Who Am I\)](https://open.spotify.com/track/35rxZp3ZdbxMrPaV2x7DBw) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Vaiteani](https://open.spotify.com/artist/4lQP2uFkQMLlWxTfNrqEkP) | [O Vai \(Who Am I\)](https://open.spotify.com/album/1i0oXRu3T8To32BOAB4hde) | 2:28 | 2022-05-02 |  |
-| [Once](https://open.spotify.com/track/75Exrl1RCc2FK509PXW4sP) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Blastoma](https://open.spotify.com/album/5V2DfUqYqHvK4W2CCmPgnf) | 5:11 | 2022-05-02 |  |
+| [Once](https://open.spotify.com/track/5J3Cw72OU3NmFwUsuUyR4T) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Blastoma](https://open.spotify.com/album/6AQhXXnBFP6OoTkLa7Yv41) | 5:11 | 2022-05-02 |  |
+| [Once](https://open.spotify.com/track/75Exrl1RCc2FK509PXW4sP) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Blastoma](https://open.spotify.com/album/5V2DfUqYqHvK4W2CCmPgnf) | 5:11 | 2022-05-02 | 2022-08-13 |
 | [Pears](https://open.spotify.com/track/06nKF46jG8p1zwyP4ziAyG) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Pears](https://open.spotify.com/album/4XedVnZRFfk9n7uX601gvb) | 2:21 | 2022-05-02 |  |
 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 | 2022-05-02 |  |
 | [Raiments](https://open.spotify.com/track/5IpcpeWGJl0BGb7Ke3zrS9) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Parted Plains](https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq) | 3:23 | 2022-05-02 |  |

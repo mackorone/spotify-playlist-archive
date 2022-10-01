@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 137806,
       "name": "100 Racks",
       "url": "https://open.spotify.com/track/5IfwLTsi9cTRETcOiUXlUT"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 217714,
       "name": "100%",
       "url": "https://open.spotify.com/track/7JxWbvwYU4AXYRktOMm7Iz"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 207659,
       "name": "All That",
       "url": "https://open.spotify.com/track/0MOIWQBitEDoLyFX2jOaW9"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 128000,
       "name": "Back on Smoke",
       "url": "https://open.spotify.com/track/05veVlexxRBQslZSFIak3E"
@@ -166,6 +166,28 @@
     },
     {
       "album": {
+        "name": "Sickers the Great",
+        "url": "https://open.spotify.com/album/3KJ0X6kMxWFavb2uF4XsTx"
+      },
+      "artists": [
+        {
+          "name": "Grim Sickers",
+          "url": "https://open.spotify.com/artist/1pNDEbhb6K2TLS3vftZ3Y2"
+        },
+        {
+          "name": "Eyez",
+          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 138000,
+      "name": "Bare Tings",
+      "url": "https://open.spotify.com/track/1j54kWzGkq1kFH7Lv7wReH"
+    },
+    {
+      "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/44gaZMHNpJfq0E0Gkm1gvJ"
       },
@@ -225,7 +247,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 163750,
       "name": "Black",
       "url": "https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7"
@@ -267,7 +289,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 223267,
       "name": "Bongo",
       "url": "https://open.spotify.com/track/0etdWLl7RNJclZq28dY02I"
@@ -319,7 +341,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 158678,
       "name": "Boxing Bars (Remix feat. Big Zuu & Grim Sickers)",
       "url": "https://open.spotify.com/track/7lMeAOB0F0qAUE3128KOWx"
@@ -337,7 +359,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 96000,
       "name": "Boys on the Block",
       "url": "https://open.spotify.com/track/2yemLqJDs4N8iJJRbI4gRf"
@@ -403,7 +425,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 158275,
       "name": "Cammy Riddem (Freestyle)",
       "url": "https://open.spotify.com/track/3vgH1IHRM2nRGquC9Cp4jr"
@@ -523,7 +545,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 164571,
       "name": "Contraband",
       "url": "https://open.spotify.com/track/5wZihzdTR5Nvyy472Gc50T"
@@ -559,7 +581,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 156402,
       "name": "Dark Place",
       "url": "https://open.spotify.com/track/6y9kBTORlnSmlGQuWDnfgw"
@@ -581,7 +603,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 156000,
       "name": "DFKM",
       "url": "https://open.spotify.com/track/1uCyxo7OivhyURv4SvsxZE"
@@ -610,6 +632,28 @@
     },
     {
       "album": {
+        "name": "E3 AF",
+        "url": "https://open.spotify.com/album/78prqMEFoQ6AKyDN8DEtqI"
+      },
+      "artists": [
+        {
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        },
+        {
+          "name": "Ocean Wisdom",
+          "url": "https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211986,
+      "name": "Don't Be Dumb",
+      "url": "https://open.spotify.com/track/77bDkxiH9316mW6JGYNoon"
+    },
+    {
+      "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/1xRJ7rrSQPfzpVilOHFUjk"
       },
@@ -625,7 +669,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 211986,
       "name": "Don't Be Dumb (feat. Ocean Wisdom)",
       "url": "https://open.spotify.com/track/5eYejhDxYEqdYjMwhvtSQh"
@@ -669,7 +713,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-28",
       "duration_ms": 152571,
       "name": "Don't Just Sit There. Do Something.",
       "url": "https://open.spotify.com/track/6VefUTmD784n5iXInixIAf"
@@ -687,7 +731,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 141020,
       "name": "Don't Sleep",
       "url": "https://open.spotify.com/track/70dAhHaNpyVSpiIaikbo2p"
@@ -731,7 +775,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-09-29",
       "duration_ms": 183000,
       "name": "Dumping Again",
       "url": "https://open.spotify.com/track/6bWVnf258N4eOn1NcOZFhs"
@@ -815,7 +859,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 248208,
       "name": "Family Tree",
       "url": "https://open.spotify.com/track/1JOCfN5bxdlFekB1v2w7Y8"
@@ -907,7 +951,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 219744,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/2LIKvtk4WZ53cLhvNqtXpQ"
@@ -1119,7 +1163,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 198857,
       "name": "Jeepers Creepers",
       "url": "https://open.spotify.com/track/4j5BmxZJQvCD0atkWP08Qt"
@@ -1193,7 +1237,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-23",
       "duration_ms": 198000,
       "name": "K*rn",
       "url": "https://open.spotify.com/track/0ptWFGCXdksi9j9kDoJIgU"
@@ -1237,7 +1281,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 210857,
       "name": "Knock Your Block Off",
       "url": "https://open.spotify.com/track/69B4JVH2U2atBaGXc8OoQA"
@@ -1255,7 +1299,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 176666,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/77LsuMlSF5GzvxOZ6avewo"
@@ -1337,7 +1381,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 199111,
       "name": "London",
       "url": "https://open.spotify.com/track/2LnJh6Bp0Zh3Ai2OodKTrC"
@@ -1355,7 +1399,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-25",
       "duration_ms": 165217,
       "name": "Madting",
       "url": "https://open.spotify.com/track/03bBwosyRW1VGrBKG48p0Y"
@@ -1409,7 +1453,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 260571,
       "name": "Major Muzik Rally",
       "url": "https://open.spotify.com/track/6ajG49hmFc3vVJGfMUSPAe"
@@ -1583,7 +1627,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 180000,
       "name": "Near Miss",
       "url": "https://open.spotify.com/track/4OaLrBxY19DiGln2iqYqsY"
@@ -1601,7 +1645,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 146687,
       "name": "Nephilim",
       "url": "https://open.spotify.com/track/6eDgwvaUiQVi1uFZcx9kJD"
@@ -1675,7 +1719,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209142,
       "name": "NRG",
       "url": "https://open.spotify.com/track/2ypOFH2T7DZ0pHJUxklMK5"
@@ -1763,7 +1807,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 141441,
       "name": "Only One King",
       "url": "https://open.spotify.com/track/4Wq7oaaCrcUVcZ7cyrKoXb"
@@ -1833,7 +1877,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145653,
       "name": "Profit (More)",
       "url": "https://open.spotify.com/track/3DwnYtA5fUNFbUeaDNJsTI"
@@ -1877,7 +1921,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 230000,
       "name": "Put the Word Out",
       "url": "https://open.spotify.com/track/044n83TLJ3mFlxyUs5OlAT"
@@ -1981,7 +2025,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 151731,
       "name": "Secret Weapon",
       "url": "https://open.spotify.com/track/57Tnn5sO97YrAxiz32QQ7L"
@@ -2041,7 +2085,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Sezzin",
       "url": "https://open.spotify.com/track/2nAh4L1Hcrjpw9xqinWTjA"
@@ -2085,7 +2129,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 141000,
       "name": "Simon Said",
       "url": "https://open.spotify.com/track/6Auf3MaXotpL6jmQvKOLWi"
@@ -2103,7 +2147,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 205723,
       "name": "SKR",
       "url": "https://open.spotify.com/track/1HyfQyAbqE7AmlA8LX17A0"
@@ -2143,7 +2187,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 229456,
       "name": "Slice of the Pie",
       "url": "https://open.spotify.com/track/484PQkrz1cx6S5AlPzpjkT"
@@ -2227,7 +2271,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 158896,
       "name": "Strikers",
       "url": "https://open.spotify.com/track/501jg5Jz0pypePHWkEsHIH"
@@ -2283,7 +2327,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 197142,
       "name": "Syernide X Tommy",
       "url": "https://open.spotify.com/track/3wpoEuxukllVmHiEQzk6Zr"
@@ -2331,7 +2375,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 150831,
       "name": "THE ANTHEM",
       "url": "https://open.spotify.com/track/3KUymGuQtU6O46WNgy68gc"
@@ -2379,7 +2423,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 178638,
       "name": "This Year",
       "url": "https://open.spotify.com/track/5XGGP9WDvBAXlyf7r3g3Tu"
@@ -2397,7 +2441,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 150857,
       "name": "Top Boy Spitter (Never Been)",
       "url": "https://open.spotify.com/track/56bdSTAkeOIIuPLWTjwqPk"
@@ -2441,7 +2485,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 228927,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0D33xYNKDKQ7HIbDKkPOFy"
@@ -2551,7 +2595,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 231000,
       "name": "What You Do",
       "url": "https://open.spotify.com/track/2YkCoUQiNP7Dg5mxPujNZJ"
@@ -2573,7 +2617,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 131351,
       "name": "Winner Stays On",
       "url": "https://open.spotify.com/track/49tdf0N31dYg8aVyMvP31S"

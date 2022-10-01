@@ -9,7 +9,7 @@
     {
       "album": {
         "name": "Danzones Y Cha Cha Cha",
-        "url": "https://open.spotify.com/album/0bGpvpljxG2PqOoNOBVHEg"
+        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
       },
       "artists": [
         {
@@ -20,6 +20,24 @@
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 313253,
+      "name": "Acayucan",
+      "url": "https://open.spotify.com/track/1J30Fv6OF4KDDYIfhHUcua"
+    },
+    {
+      "album": {
+        "name": "Danzones Y Cha Cha Cha",
+        "url": "https://open.spotify.com/album/0bGpvpljxG2PqOoNOBVHEg"
+      },
+      "artists": [
+        {
+          "name": "Orquesta de Mexico de Pedro Mendoza",
+          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 313253,
       "name": "Acayucan",
       "url": "https://open.spotify.com/track/3PCNF4KDXhnyU1ggCeiCCg"
@@ -95,10 +113,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136053,
       "name": "Almendra",
       "url": "https://open.spotify.com/track/3dyieFHwCxBsoKvxpH4wXD"
+    },
+    {
+      "album": {
+        "name": "Danzones Con Marimba, Vol. 1",
+        "url": "https://open.spotify.com/album/7gJ1UlYDnHKPSEqrsdW2wV"
+      },
+      "artists": [
+        {
+          "name": "Marimba Diosa del Sur",
+          "url": "https://open.spotify.com/artist/33acB0ZZj42gHp6jiY0AiW"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136228,
+      "name": "Almendra",
+      "url": "https://open.spotify.com/track/09ijF559zM8MW5QNkyo7sO"
     },
     {
       "album": {
@@ -113,10 +149,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275573,
       "name": "Amor Perdido",
       "url": "https://open.spotify.com/track/32RNo0HNgA47nmrdTJId3z"
+    },
+    {
+      "album": {
+        "name": "Danzones a la Manera del Campeon, Vol. 1",
+        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
+      },
+      "artists": [
+        {
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275879,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/2gSZ9m946bHN9NeHITL5rf"
     },
     {
       "album": {
@@ -149,10 +203,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175560,
       "name": "Blanca Estela",
       "url": "https://open.spotify.com/track/0qz1hyIJ7sg4TdWiCeeSIG"
+    },
+    {
+      "album": {
+        "name": "Danzones a la Mexicana",
+        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175777,
+      "name": "Blanca Estela",
+      "url": "https://open.spotify.com/track/4a8VEqxbq7hm7bkdneKIGD"
     },
     {
       "album": {
@@ -203,10 +275,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221946,
       "name": "Campanario",
       "url": "https://open.spotify.com/track/2Ef9EH3dPNxi39C4OVWN14"
+    },
+    {
+      "album": {
+        "name": "Algo Nuevo en Danzon",
+        "url": "https://open.spotify.com/album/7ACakhlXywfd8Uvv2HAOEP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222197,
+      "name": "Campanario",
+      "url": "https://open.spotify.com/track/2zPOyiVqfcMmTyG3hi5Sen"
     },
     {
       "album": {
@@ -257,10 +347,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212200,
       "name": "Cerezo Rosa",
       "url": "https://open.spotify.com/track/2MnmVmfn7EL6HScnKERYih"
+    },
+    {
+      "album": {
+        "name": "Danzones Y Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
+      },
+      "artists": [
+        {
+          "name": "Orquesta de Mexico de Pedro Mendoza",
+          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212200,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/4Zip0vQNnq7iMX99cqQK9R"
     },
     {
       "album": {
@@ -329,10 +437,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178626,
       "name": "Donde Estas Corazon",
       "url": "https://open.spotify.com/track/5iLTJuWTZvkL71t6iu1nvA"
+    },
+    {
+      "album": {
+        "name": "Danzones Y Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
+      },
+      "artists": [
+        {
+          "name": "Orquesta de Mexico de Pedro Mendoza",
+          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178626,
+      "name": "Donde Estas Corazon",
+      "url": "https://open.spotify.com/track/6t8FrQomRssRv71KTqjkj6"
     },
     {
       "album": {
@@ -409,7 +535,7 @@
     {
       "album": {
         "name": "Cl\u00e1sicos en Danz\u00f3n",
-        "url": "https://open.spotify.com/album/6ubF08SYcKcxTmJ5nNKXdZ"
+        "url": "https://open.spotify.com/album/1oO1wKwoQXZW5j7fNiD3v9"
       },
       "artists": [
         {
@@ -420,6 +546,24 @@
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194220,
+      "name": "El Barbero de Sevilla",
+      "url": "https://open.spotify.com/track/3fHna2OnxnhamZeobDbAED"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e1sicos en Danz\u00f3n",
+        "url": "https://open.spotify.com/album/6ubF08SYcKcxTmJ5nNKXdZ"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 194880,
       "name": "El Barbero de Sevilla",
       "url": "https://open.spotify.com/track/5krG6p2GgNmtL3QRHkFh6H"
@@ -437,10 +581,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188093,
       "name": "El Bodeguero",
       "url": "https://open.spotify.com/track/7C9rkMT0wQdIh908Fta1ja"
+    },
+    {
+      "album": {
+        "name": "That Cuban Cha Cha",
+        "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Arag\u00f3n",
+          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "El Bodeguero",
+      "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
     },
     {
       "album": {
@@ -463,7 +625,7 @@
     {
       "album": {
         "name": "Cl\u00e1sicos en Danz\u00f3n",
-        "url": "https://open.spotify.com/album/6ubF08SYcKcxTmJ5nNKXdZ"
+        "url": "https://open.spotify.com/album/1oO1wKwoQXZW5j7fNiD3v9"
       },
       "artists": [
         {
@@ -474,6 +636,24 @@
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163186,
+      "name": "El Danubio Azul",
+      "url": "https://open.spotify.com/track/6OeP7ycmBYPJ0Fy5I4Wpze"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e1sicos en Danz\u00f3n",
+        "url": "https://open.spotify.com/album/6ubF08SYcKcxTmJ5nNKXdZ"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 163920,
       "name": "El Danubio Azul",
       "url": "https://open.spotify.com/track/73D2vtsHQpMIJ0wytDcJ5m"
@@ -509,10 +689,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228346,
       "name": "El Pichi",
       "url": "https://open.spotify.com/track/252hbSH2zoO89vqdImTY3u"
+    },
+    {
+      "album": {
+        "name": "Danzones a la Manera del Campeon, Vol. 1",
+        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
+      },
+      "artists": [
+        {
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228623,
+      "name": "El Pichi",
+      "url": "https://open.spotify.com/track/4e0wbKqTO69IAbfqMxdApQ"
     },
     {
       "album": {
@@ -534,6 +732,24 @@
     },
     {
       "album": {
+        "name": "Danzon Cubano, Vol. I",
+        "url": "https://open.spotify.com/album/5DRDkmsYbw7aQ9P4CWfOCa"
+      },
+      "artists": [
+        {
+          "name": "Mariano Merceron",
+          "url": "https://open.spotify.com/artist/7vgusS7tDPWgOQsZsfuBx0"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186644,
+      "name": "Emilio Amarra A Tu Perro",
+      "url": "https://open.spotify.com/track/5IT4KXtDnBXfW0ZJ8gAYTC"
+    },
+    {
+      "album": {
         "name": "Danzones a la Manera de\u2026",
         "url": "https://open.spotify.com/album/3ngpT93EMI6n13fBSXfxNE"
       },
@@ -545,7 +761,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187346,
       "name": "Emilio Amarra a Tu Perro",
       "url": "https://open.spotify.com/track/0KorSUZwr4dJfy3KoWI6Hs"
@@ -575,7 +791,7 @@
     {
       "album": {
         "name": "Danzon",
-        "url": "https://open.spotify.com/album/2WGwtXwx2bOeK9Lla7N6Zz"
+        "url": "https://open.spotify.com/album/3qVi26P9QDNh5YlBaF6aEI"
       },
       "artists": [
         {
@@ -586,6 +802,24 @@
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196053,
+      "name": "Floresita",
+      "url": "https://open.spotify.com/track/68oyMk9WvPVRIVSAWa5V7G"
+    },
+    {
+      "album": {
+        "name": "Danzon",
+        "url": "https://open.spotify.com/album/2WGwtXwx2bOeK9Lla7N6Zz"
+      },
+      "artists": [
+        {
+          "name": "Merceron y Acerina",
+          "url": "https://open.spotify.com/artist/4uUwbi4eyZLxoR2J8v2Ja3"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 196053,
       "name": "Floresita",
       "url": "https://open.spotify.com/track/6zso1wxcxBMmkmDPMREHta"
@@ -705,10 +939,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 140040,
       "name": "Juarez",
       "url": "https://open.spotify.com/track/1sl81nhbhO05CCfu0IrDwv"
+    },
+    {
+      "album": {
+        "name": "Danzones a la Mexicana",
+        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140225,
+      "name": "Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/3RlRPLi8qkxiFDfWejKENv"
     },
     {
       "album": {
@@ -723,10 +975,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 115856,
       "name": "Ju\u00e1rez No Debio Morir",
       "url": "https://open.spotify.com/track/52b7R5G5LLaxCHC2MhAK1E"
+    },
+    {
+      "album": {
+        "name": "Photograph",
+        "url": "https://open.spotify.com/album/0U3vkKfqKfL2qwIeIDuhAu"
+      },
+      "artists": [
+        {
+          "name": "Acerina Danzones Clasicos",
+          "url": "https://open.spotify.com/artist/2LoK59Px8zPQ22MdDbvZ6m"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115919,
+      "name": "Ju\u00e1rez No Debio Morir",
+      "url": "https://open.spotify.com/track/1vGFJE6X3Gcm0JSlofUqM6"
     },
     {
       "album": {
@@ -867,10 +1137,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204840,
       "name": "Maria",
       "url": "https://open.spotify.com/track/4Gb5o4wUhZnFAmDvZYtmL5"
+    },
+    {
+      "album": {
+        "name": "Danzones Y Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
+      },
+      "artists": [
+        {
+          "name": "Orquesta de Mexico de Pedro Mendoza",
+          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204840,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6ftTw3iQQs4aUYAADPhJjc"
     },
     {
       "album": {
@@ -896,6 +1184,24 @@
     },
     {
       "album": {
+        "name": "Danzon Cubano, Vol. I",
+        "url": "https://open.spotify.com/album/5DRDkmsYbw7aQ9P4CWfOCa"
+      },
+      "artists": [
+        {
+          "name": "Mariano Merceron",
+          "url": "https://open.spotify.com/artist/7vgusS7tDPWgOQsZsfuBx0"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206837,
+      "name": "Mi Amigo Pancho",
+      "url": "https://open.spotify.com/track/40KxEG2XjtDbXnDwwmS1dc"
+    },
+    {
+      "album": {
         "name": "Danzones a la Manera de\u2026",
         "url": "https://open.spotify.com/album/3ngpT93EMI6n13fBSXfxNE"
       },
@@ -907,7 +1213,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208586,
       "name": "Mi Amigo Pancho",
       "url": "https://open.spotify.com/track/2BIoh39KRQ9nV6AoT1ivLA"
@@ -961,10 +1267,46 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187861,
       "name": "Moliendo Cafe",
       "url": "https://open.spotify.com/track/2zVjGGILg03f8JGhDk5Rng"
+    },
+    {
+      "album": {
+        "name": "Moliendo Caf\u00e9",
+        "url": "https://open.spotify.com/album/1HXvBAMUIJYDXtB9prveKb"
+      },
+      "artists": [
+        {
+          "name": "Ramon Marquez",
+          "url": "https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187861,
+      "name": "Moliendo Caf\u00e9",
+      "url": "https://open.spotify.com/track/1mRo2DqYRkchxYHMg6ng2u"
+    },
+    {
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135053,
+      "name": "Murmurando (Whispering)",
+      "url": "https://open.spotify.com/track/4dyo74hkzmo3r263Cjiw82"
     },
     {
       "album": {
@@ -979,7 +1321,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135413,
       "name": "Murmurando (Whispering)",
       "url": "https://open.spotify.com/track/3xNPnrFHpxDIRjRekKOVHa"
@@ -1019,7 +1361,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183193,
       "name": "Nereidas",
       "url": "https://open.spotify.com/track/0LhhWkkz7pORVQegxOs0mH"
@@ -1037,10 +1379,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254640,
       "name": "Nereidas",
       "url": "https://open.spotify.com/track/3mceH7jxn3fLm2TNlgEdev"
+    },
+    {
+      "album": {
+        "name": "Danzones a la Manera del Campeon, Vol. 1",
+        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
+      },
+      "artists": [
+        {
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254928,
+      "name": "Nereidas",
+      "url": "https://open.spotify.com/track/4ptiME8Nk1VTqW5I5rGwEC"
     },
     {
       "album": {
@@ -1059,6 +1419,24 @@
       "duration_ms": 250800,
       "name": "Nereidas",
       "url": "https://open.spotify.com/track/1K8dbgWWPoEdB6OP5bfHt0"
+    },
+    {
+      "album": {
+        "name": "El Danz\u00f3n Nunca Muere",
+        "url": "https://open.spotify.com/album/3qJpBRCr2V3XDEQ4TlOHOi"
+      },
+      "artists": [
+        {
+          "name": "Los Mejores Danzones De Todos Los Tiempos",
+          "url": "https://open.spotify.com/artist/4jY7nNhjSj8d39IhJjjEMm"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185893,
+      "name": "Nereidas",
+      "url": "https://open.spotify.com/track/5Ef5cRtJtPQ3Pvw9rNXqVf"
     },
     {
       "album": {
@@ -1091,10 +1469,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189853,
       "name": "Palillos Chinos",
       "url": "https://open.spotify.com/track/7zmzRJZkigPvpsWYcpAy4i"
+    },
+    {
+      "album": {
+        "name": "Danzones a la Manera del Campeon, Vol. 1",
+        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
+      },
+      "artists": [
+        {
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Palillos Chinos",
+      "url": "https://open.spotify.com/track/68HJErw94TSvoBPiddSnwo"
     },
     {
       "album": {
@@ -1117,7 +1513,7 @@
     {
       "album": {
         "name": "Danzones Y Cha Cha Cha",
-        "url": "https://open.spotify.com/album/0bGpvpljxG2PqOoNOBVHEg"
+        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
       },
       "artists": [
         {
@@ -1128,6 +1524,24 @@
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 189266,
+      "name": "Popurri Cha Cha Cha",
+      "url": "https://open.spotify.com/track/2OmOONZmSrUjePmpBVvUzX"
+    },
+    {
+      "album": {
+        "name": "Danzones Y Cha Cha Cha",
+        "url": "https://open.spotify.com/album/0bGpvpljxG2PqOoNOBVHEg"
+      },
+      "artists": [
+        {
+          "name": "Orquesta de Mexico de Pedro Mendoza",
+          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 189266,
       "name": "Popurri Cha Cha Cha",
       "url": "https://open.spotify.com/track/48Hr5za5XPJEft6Of6qzjF"
@@ -1171,7 +1585,7 @@
     {
       "album": {
         "name": "Danzones Y Cha Cha Cha",
-        "url": "https://open.spotify.com/album/0bGpvpljxG2PqOoNOBVHEg"
+        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
       },
       "artists": [
         {
@@ -1182,6 +1596,24 @@
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226066,
+      "name": "Pulque Para Dos",
+      "url": "https://open.spotify.com/track/0asAw2SlEosgffdp0Fn6F9"
+    },
+    {
+      "album": {
+        "name": "Danzones Y Cha Cha Cha",
+        "url": "https://open.spotify.com/album/0bGpvpljxG2PqOoNOBVHEg"
+      },
+      "artists": [
+        {
+          "name": "Orquesta de Mexico de Pedro Mendoza",
+          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 226066,
       "name": "Pulque Para Dos",
       "url": "https://open.spotify.com/track/2lNKGpcLEcKQTnZWw8vJ2n"
@@ -1229,7 +1661,7 @@
     {
       "album": {
         "name": "Danzones Salon Mexico",
-        "url": "https://open.spotify.com/album/4uQ6VZhOnPZ798doK6TtVg"
+        "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
       },
       "artists": [
         {
@@ -1240,6 +1672,24 @@
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 155297,
+      "name": "Salon de Mexico",
+      "url": "https://open.spotify.com/track/2WbErabj0cRWagyYlnRY3G"
+    },
+    {
+      "album": {
+        "name": "Danzones Salon Mexico",
+        "url": "https://open.spotify.com/album/4uQ6VZhOnPZ798doK6TtVg"
+      },
+      "artists": [
+        {
+          "name": "Los Mejores Danzones",
+          "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 155324,
       "name": "Salon de Mexico",
       "url": "https://open.spotify.com/track/0oqJ9Rgy6mg5Ykz7Vg9zBd"
@@ -1257,7 +1707,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151800,
       "name": "Salon Mexico",
       "url": "https://open.spotify.com/track/6ZRobcGbkJbosTV8Yr030Y"
@@ -1304,8 +1754,44 @@
     },
     {
       "album": {
+        "name": "Danzones a la Mexicana",
+        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152006,
+      "name": "Sal\u00f3n M\u00e9xico",
+      "url": "https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5"
+    },
+    {
+      "album": {
         "name": "Danzon",
         "url": "https://open.spotify.com/album/2WGwtXwx2bOeK9Lla7N6Zz"
+      },
+      "artists": [
+        {
+          "name": "Merceron y Acerina",
+          "url": "https://open.spotify.com/artist/4uUwbi4eyZLxoR2J8v2Ja3"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155626,
+      "name": "Sal\u00f3n M\u00e9xico",
+      "url": "https://open.spotify.com/track/3b38BVytB50h8EQ1acowuh"
+    },
+    {
+      "album": {
+        "name": "Danzon",
+        "url": "https://open.spotify.com/album/3qVi26P9QDNh5YlBaF6aEI"
       },
       "artists": [
         {
@@ -1318,7 +1804,7 @@
       "date_removed": null,
       "duration_ms": 155626,
       "name": "Sal\u00f3n M\u00e9xico",
-      "url": "https://open.spotify.com/track/3b38BVytB50h8EQ1acowuh"
+      "url": "https://open.spotify.com/track/7tvWmweE1xabukzh9urQQv"
     },
     {
       "album": {
@@ -1333,10 +1819,46 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188880,
       "name": "Telefono a Larga Distancia",
       "url": "https://open.spotify.com/track/7sdJhepFnk4GOMn26IMBu9"
+    },
+    {
+      "album": {
+        "name": "Mis Danzones Favoritos",
+        "url": "https://open.spotify.com/album/2z7IE1mfHDEqWcRTlTKgU8"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189178,
+      "name": "Tel\u00e9fono a Larga Distancia",
+      "url": "https://open.spotify.com/track/1i3TNrkFQvNbLkIJaoPGr2"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa"
+      },
+      "artists": [
+        {
+          "name": "Los Aragon",
+          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130002,
+      "name": "Tema De Lara",
+      "url": "https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb"
     },
     {
       "album": {
@@ -1351,7 +1873,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 130832,
       "name": "Tema De Lara",
       "url": "https://open.spotify.com/track/5lllbN4RocBXGlzIYSPnpg"
@@ -1387,10 +1909,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251306,
       "name": "Zacatlan",
       "url": "https://open.spotify.com/track/00zayjNlBvbji1RnvxOs25"
+    },
+    {
+      "album": {
+        "name": "Danzones a la Manera del Campeon, Vol. 1",
+        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
+      },
+      "artists": [
+        {
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251585,
+      "name": "Zacatlan",
+      "url": "https://open.spotify.com/track/1O6WPRh15WrrE01jmvDToB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaEjxFSjeD5H"

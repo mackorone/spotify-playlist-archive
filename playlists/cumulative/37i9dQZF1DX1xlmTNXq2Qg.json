@@ -27,6 +27,24 @@
     {
       "album": {
         "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234818,
+      "name": "13",
+      "url": "https://open.spotify.com/track/0WOvSEVpUGkNufX0w0M06F"
+    },
+    {
+      "album": {
+        "name": "LANY",
         "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
       },
       "artists": [
@@ -37,7 +55,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234818,
       "name": "13",
       "url": "https://open.spotify.com/track/3zgs1f6Tj0mn29qTXJuhSY"
@@ -116,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Congrats",
+        "url": "https://open.spotify.com/album/0URAkeg7psYrEr9Qj0KTIL"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217470,
+      "name": "Congrats",
+      "url": "https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD"
+    },
+    {
+      "album": {
         "name": "cowboy in LA",
         "url": "https://open.spotify.com/album/2cUg7ckSqDt8gXp9tmfdZ5"
       },
@@ -127,10 +163,46 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213800,
       "name": "cowboy in LA",
       "url": "https://open.spotify.com/track/0E6uWutxRjIDhleURR92do"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "cowboy in LA",
+      "url": "https://open.spotify.com/track/22ZcJxQkzIL6EU692kAFWY"
+    },
+    {
+      "album": {
+        "name": "kinda",
+        "url": "https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189010,
+      "name": "current location",
+      "url": "https://open.spotify.com/track/3g6nGCEj7NK0KabxlfL9co"
     },
     {
       "album": {
@@ -145,7 +217,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189010,
       "name": "current location",
       "url": "https://open.spotify.com/track/5vqpqBAB8L9NyhLZo0ZKie"
@@ -189,6 +261,24 @@
     {
       "album": {
         "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249379,
+      "name": "Good Girls",
+      "url": "https://open.spotify.com/track/2kMKmb60xVUIWW2Out8ypz"
+    },
+    {
+      "album": {
+        "name": "LANY",
         "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
       },
       "artists": [
@@ -199,10 +289,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249379,
       "name": "Good Girls",
       "url": "https://open.spotify.com/track/3jhligm7HycklC8M3CcXnM"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224933,
+      "name": "good guys",
+      "url": "https://open.spotify.com/track/2jNyJzHvoLSuI7CWAhsdhn"
     },
     {
       "album": {
@@ -217,7 +325,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224994,
       "name": "good guys",
       "url": "https://open.spotify.com/track/3c7peg169veVaJRzlbCaKw"
@@ -253,10 +361,46 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 346797,
       "name": "Hericane",
       "url": "https://open.spotify.com/track/0TQwHViH6PeO7zUxH6EAT3"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346797,
+      "name": "Hericane",
+      "url": "https://open.spotify.com/track/4bU5xCQQiURmotfz9ohUNo"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216749,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/2N5AA16n90ZDksRqGID3kM"
     },
     {
       "album": {
@@ -271,7 +415,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216749,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/6f6YWK6F4uOXvxnVTg8CoH"
@@ -347,10 +491,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203842,
       "name": "if this is the last time",
       "url": "https://open.spotify.com/track/2ccNaerby1wXA993dY6XsR"
+    },
+    {
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203853,
+      "name": "if this is the last time",
+      "url": "https://open.spotify.com/track/3bsRMvQja4huvPWo1S5ONc"
     },
     {
       "album": {
@@ -383,10 +545,46 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211149,
       "name": "ILYSB",
       "url": "https://open.spotify.com/track/0dPBlz8N0veeceejtuvpPz"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211149,
+      "name": "ILYSB",
+      "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
+    },
+    {
+      "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244820,
+      "name": "ILYSB - STRIPPED",
+      "url": "https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H"
     },
     {
       "album": {
@@ -401,7 +599,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244820,
       "name": "ILYSB - STRIPPED",
       "url": "https://open.spotify.com/track/7j4IOedQQtMpSHEvyXZsHI"
@@ -419,10 +617,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228301,
       "name": "It Was Love",
       "url": "https://open.spotify.com/track/3ChWkuO3jUggiTTpAMbkyh"
+    },
+    {
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228301,
+      "name": "It Was Love",
+      "url": "https://open.spotify.com/track/3Qqsr0Xu0Ts6AaC1XqMFC8"
     },
     {
       "album": {
@@ -455,10 +671,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198533,
       "name": "like you lots",
       "url": "https://open.spotify.com/track/25KwUCiGvdCP3Xy3waYffE"
+    },
+    {
+      "album": {
+        "name": "kinda",
+        "url": "https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 198533,
+      "name": "like you lots",
+      "url": "https://open.spotify.com/track/4eTVMSVtVJWlvGk8hzGC9q"
     },
     {
       "album": {
@@ -513,10 +747,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232853,
       "name": "Mean It",
       "url": "https://open.spotify.com/track/3GRSqlALWISqLeNncZMbpX"
+    },
+    {
+      "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232853,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/3uc8AGNL0KbvISIrjnfRvN"
     },
     {
       "album": {
@@ -579,6 +835,24 @@
     {
       "album": {
         "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 232319,
+      "name": "Pancakes",
+      "url": "https://open.spotify.com/track/2Br251pz4tr0L5FOuf6Fyx"
+    },
+    {
+      "album": {
+        "name": "LANY",
         "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
       },
       "artists": [
@@ -589,7 +863,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232319,
       "name": "Pancakes",
       "url": "https://open.spotify.com/track/5zZ4EPA81iTmQ8K6LwaU1r"
@@ -723,6 +997,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3iw65zUPsMXmVRnuzJJUtR"
       },
       "artists": [
@@ -733,7 +1025,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 319750,
       "name": "Sign Of The Times - Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1Ot2Go1a9Qryw4DfV9DsNL"
@@ -781,6 +1073,24 @@
     {
       "album": {
         "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203650,
+      "name": "Super Far",
+      "url": "https://open.spotify.com/track/15ahYSiHAIMxAnujlXVtta"
+    },
+    {
+      "album": {
+        "name": "LANY",
         "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
       },
       "artists": [
@@ -791,7 +1101,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203650,
       "name": "Super Far",
       "url": "https://open.spotify.com/track/74ODGXs4byLTRdnKGM4s6E"
@@ -817,6 +1127,24 @@
     {
       "album": {
         "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236693,
+      "name": "The Breakup",
+      "url": "https://open.spotify.com/track/42MrgSLArhLVJMJXVJbZjZ"
+    },
+    {
+      "album": {
+        "name": "LANY",
         "url": "https://open.spotify.com/album/2hVTFTbeg9QhXGZAY99oRa"
       },
       "artists": [
@@ -827,7 +1155,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236693,
       "name": "The Breakup",
       "url": "https://open.spotify.com/track/6sxTH1KkX0gdAVWLjleobR"
@@ -971,10 +1299,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216180,
       "name": "WHERE THE HELL ARE MY FRIENDS",
       "url": "https://open.spotify.com/track/4TA2nSix6i8K2VV9wt6rUn"
+    },
+    {
+      "album": {
+        "name": "kinda",
+        "url": "https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217024,
+      "name": "WHERE THE HELL ARE MY FRIENDS",
+      "url": "https://open.spotify.com/track/1Ey2bSPiqNR4wDFpjInp9X"
     },
     {
       "album": {
@@ -996,6 +1342,24 @@
     },
     {
       "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274013,
+      "name": "you!",
+      "url": "https://open.spotify.com/track/1vg0ZHaTvBwlNxLxyYrEvP"
+    },
+    {
+      "album": {
         "name": "you!",
         "url": "https://open.spotify.com/album/5Ob72SRWEGd36eRlASw6k2"
       },
@@ -1007,7 +1371,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274013,
       "name": "you!",
       "url": "https://open.spotify.com/track/4lSMKPkbZOAYPw3zxJ2eAF"

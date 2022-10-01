@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/665gwFk3RaSHbgiimtgok0.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,494 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,484 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 |
 | 2 | [Foolish](https://open.spotify.com/track/2FbD2sqUmAdjqqCBp0mn2g) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/3dAdilu5vv6ThGzgNwUlK3) | 3:47 |
-| 3 | [Hot In Herre](https://open.spotify.com/track/0oXuKhuNkXiZtuoxrdt3Ca) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville \(Explicit Version\)](https://open.spotify.com/album/502wXEj9iWWdqaAi0CO75M) | 3:48 |
-| 4 | [Dilemma](https://open.spotify.com/track/4nthV2eZAXnt4yiJMocLkG) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville \(Explicit Version\)](https://open.spotify.com/album/502wXEj9iWWdqaAi0CO75M) | 4:49 |
+| 3 | [Hot In Herre](https://open.spotify.com/track/0oXuKhuNkXiZtuoxrdt3Ca) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville \(Explicit Version\)](https://open.spotify.com/album/502wXEj9iWWdqaAi0CO75M) | 3:47 |
+| 4 | [Dilemma](https://open.spotify.com/track/4nthV2eZAXnt4yiJMocLkG) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville \(Explicit Version\)](https://open.spotify.com/album/502wXEj9iWWdqaAi0CO75M) | 4:48 |
 | 5 | [Wherever You Will Go](https://open.spotify.com/track/37qI0mchgzUSeUhPiwUWPY) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 3:29 |
 | 6 | [A Thousand Miles \- Single Version](https://open.spotify.com/track/6t6rudGjkLftasgUiSGcPN) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [A Thousand Miles \(Enhanced\)](https://open.spotify.com/album/2LRcfTB3ZI7xHDyu1HseQg) | 3:57 |
 | 7 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |

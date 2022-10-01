@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lwxXvReaux.md) - [plain]
 
 > Classic rock combined a guitar\-driven sound with a particular era\. This playlist delivers classic rock tracks for the entire workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,807 likes - 97 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,809 likes - 97 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

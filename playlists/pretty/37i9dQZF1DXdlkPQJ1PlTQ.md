@@ -2,11 +2,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlkPQJ1PlTQ.md) - [plain]
 
 ### [Best Podcasts of the Month](https://open.spotify.com/playlist/37i9dQZF1DXdlkPQJ1PlTQ)
 
-> June's must\-hear episodes, hand\-picked by Spotify editors
+> July's must\-hear episodes, hand\-picked by Spotify Podcast Editorial
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,255 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 76,804 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTY1NjM0NTQ5OCwwMDAwMDA1YTAwMDAwMTgxYTVlMjkxYTYwMDAwMDE4MGZiOWM3Yzdj`
+Snapshot ID: `MTY1ODg2Njk5MCwwMDAwMDAwMDE0NmYwZjZhNzkwZmZjODk1OTQ4YWZkMzk1NTU0YzU3`

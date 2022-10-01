@@ -4,7 +4,7 @@
 
 > The official playlist for The Pentaverate\. Watch now on Netflix.
 
-18 songs - 1 hr 24 min - [published](https://open.spotify.com/playlist/2ejXzKudn1N4saUgHzbyKX)
+19 songs - 1 hr 31 min - [published](https://open.spotify.com/playlist/2ejXzKudn1N4saUgHzbyKX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [America \- From "The Jazz Singer" Soundtrack](https://open.spotify.com/track/6OG7D7kfDJcB9bDmTPO0NS) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [All\-Time Greatest Hits](https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp) | 4:18 | 2022-05-05 |  |
 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 | 2022-05-05 |  |
 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 | 2022-05-05 |  |
-| [Darkest Light \- Remastered](https://open.spotify.com/track/0JZfM89NMAgYtSA49Uq7Lg) | [Lafayette Afro Rock Band](https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s) | [Afro Funk Explosion](https://open.spotify.com/album/2rxEWIUzPiZjmPEAsWPDKi) | 6:24 | 2022-05-05 |  |
+| [Darkest Light \- Remastered](https://open.spotify.com/track/0JZfM89NMAgYtSA49Uq7Lg) | [Lafayette Afro Rock Band](https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s) | [Afro Funk Explosion](https://open.spotify.com/album/2rxEWIUzPiZjmPEAsWPDKi) | 6:24 | 2022-05-05 | 2022-07-29 |
+| [Darkest Light \- Remastered](https://open.spotify.com/track/6NQa29zjyhcL1duAf45yG8) | [Lafayette Afro Rock Band](https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s) | [Malik](https://open.spotify.com/album/06ShCVJczYncEWk3LjJ2Vd) | 6:25 | 2022-05-05 |  |
 | [Feelin' Down](https://open.spotify.com/track/0XQdgdjf7p750Up6Hph4B5) | [21st Century Sound Movement](https://open.spotify.com/artist/08aYNTyFcs9pziuHzGICoA) | [Local Customs: Cavern Sound](https://open.spotify.com/album/6mjkrUpqmsVkG13fUDcIp8) | 2:32 | 2022-05-05 |  |
 | [For the Love of Money](https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 7:19 | 2022-05-05 |  |
 | [Grazing In The Grass](https://open.spotify.com/track/2P6Buc8kWRgShx7aHIadqu) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [The Promise Of A Future](https://open.spotify.com/album/21YlyIf7r7nQGypMvogt2D) | 2:37 | 2022-05-05 |  |

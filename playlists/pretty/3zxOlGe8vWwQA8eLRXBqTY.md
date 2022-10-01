@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3zxOlGe8vWwQA8eLRXBqTY.md) - [plain]
 
 > Missa inte Alicia Keys på Flamingo\-scenen på LÖRDAG / 22.20
 
-[Spotify](https://open.spotify.com/user/spotify) - 72 likes - 10 songs - 39 min 39 sec
+[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 10 songs - 39 min 39 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

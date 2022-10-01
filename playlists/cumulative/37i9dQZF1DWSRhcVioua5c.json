@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 149680,
       "name": "Adi\u00f3s Amor M\u00edo",
       "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Los Del Portezuelo",
+        "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Al So\u00f1arte",
+      "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
+    },
+    {
+      "album": {
         "name": "Los del Portezuelo",
         "url": "https://open.spotify.com/album/4i8hRtGYy0U3gbrBT9twWN"
       },
@@ -95,7 +113,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203333,
       "name": "Al So\u00f1arte",
       "url": "https://open.spotify.com/track/68PxuWmNJwzHbyic110KB2"
@@ -113,7 +131,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 211410,
       "name": "Amarte Sin Piedad",
       "url": "https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8"
@@ -131,7 +149,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 133546,
       "name": "Amor de Papel",
       "url": "https://open.spotify.com/track/3vfumP2by7vcgQsEdWEurh"
@@ -149,10 +167,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195266,
       "name": "Amor Salvaje",
       "url": "https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6"
+    },
+    {
+      "album": {
+        "name": "Amor Salvaje",
+        "url": "https://open.spotify.com/album/6GtBjRg2ZceYWVd7KJjSG7"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195266,
+      "name": "Amor Salvaje",
+      "url": "https://open.spotify.com/track/3uXcL2mkNMUB8aK26xA0jE"
     },
     {
       "album": {
@@ -185,7 +221,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209288,
       "name": "Ang\u00e9lica",
       "url": "https://open.spotify.com/track/22MtFu7CYyj0pPjEFHOSgG"
@@ -207,7 +243,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 275563,
       "name": "Ansiado Encuentro",
       "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
@@ -225,7 +261,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-09-02",
       "duration_ms": 263993,
       "name": "Antes De Ti",
       "url": "https://open.spotify.com/track/4lCExNr3B8tP17auPWB9Le"
@@ -243,7 +279,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 170000,
       "name": "Asuntos Pendientes",
       "url": "https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2"
@@ -261,7 +297,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194325,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/2RNfWFgY8Zd2ipPGtKAtPv"
@@ -279,10 +315,54 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209293,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/01yql5Z187oXNK51jhbPJZ"
+    },
+    {
+      "album": {
+        "name": "Reevoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209293,
+      "name": "Aventura (feat. Marcela Morelo)",
+      "url": "https://open.spotify.com/track/6qkS2ebQrNmSznA50ODfxs"
+    },
+    {
+      "album": {
+        "name": "Ahyre",
+        "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236612,
+      "name": "Bellasombra",
+      "url": "https://open.spotify.com/track/5YJstLbbwtemVuiGJjNRvl"
     },
     {
       "album": {
@@ -301,7 +381,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236612,
       "name": "Bellasombra",
       "url": "https://open.spotify.com/track/5Z9PtTGYTjD4dMixvahify"
@@ -337,7 +417,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205914,
       "name": "Cambiar de Vida",
       "url": "https://open.spotify.com/track/5yPlkOfkgo7ez90r5XDUkV"
@@ -359,7 +439,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 206963,
       "name": "Cambiar de Vida (feat. Jorge Rojas)",
       "url": "https://open.spotify.com/track/3U7gSN4ucI87n6A7dYkGnK"
@@ -417,10 +497,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217680,
       "name": "Corazon Sin Tiempo",
       "url": "https://open.spotify.com/track/53RwZihlGifcbyR5bhkNvz"
+    },
+    {
+      "album": {
+        "name": "Corazon Sin Tiempo",
+        "url": "https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217680,
+      "name": "Corazon Sin Tiempo",
+      "url": "https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85"
     },
     {
       "album": {
@@ -469,7 +567,7 @@
       },
       "artists": [
         {
-          "name": "Sele Vera y Los Pampas",
+          "name": "Sele Vera y Pampas de Bariloche",
           "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
@@ -677,10 +775,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221985,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3wo5ZlsWZNVAeemkiel7Ds"
+    },
+    {
+      "album": {
+        "name": "Mejor Que Nunca",
+        "url": "https://open.spotify.com/album/0MIp2J88uFC5z0y00SmmdT"
+      },
+      "artists": [
+        {
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221986,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/4fhQ48hixjThGi2za030We"
     },
     {
       "album": {
@@ -699,10 +815,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242840,
       "name": "Fabula De Amor",
       "url": "https://open.spotify.com/track/0lww1e8bH0k8JUXB2rPvIp"
+    },
+    {
+      "album": {
+        "name": "Grito Chayero",
+        "url": "https://open.spotify.com/album/0Q5etdp3c84hBS4RgfPv4O"
+      },
+      "artists": [
+        {
+          "name": "Sergio Galleguillo Y Los Amigos",
+          "url": "https://open.spotify.com/artist/4RWsSjLE6TMBwdYzHj2NiO"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242840,
+      "name": "Fabula De Amor",
+      "url": "https://open.spotify.com/track/7KAX0hjF1ieKr0k5rSPDNH"
     },
     {
       "album": {
@@ -761,7 +895,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 319116,
       "name": "Gotas de Amor",
       "url": "https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD"
@@ -819,7 +953,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 241477,
       "name": "La Desamorada",
       "url": "https://open.spotify.com/track/4d1wSBlKUlfRQIaPw9Qt0x"
@@ -855,10 +989,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162093,
       "name": "La Flor Azul",
       "url": "https://open.spotify.com/track/0ETzFaHMsT2MdaEgOQzn4J"
+    },
+    {
+      "album": {
+        "name": "Desde Adentro",
+        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162093,
+      "name": "La Flor Azul",
+      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
     },
     {
       "album": {
@@ -881,6 +1033,24 @@
     {
       "album": {
         "name": "La Ley Y La Trampa",
+        "url": "https://open.spotify.com/album/1iBOBHP4VTGUKplKdtXot4"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168840,
+      "name": "La Ley Y La Trampa",
+      "url": "https://open.spotify.com/track/0L5wghl5RSXbOInxDhHAUU"
+    },
+    {
+      "album": {
+        "name": "La Ley Y La Trampa",
         "url": "https://open.spotify.com/album/4u22Umljn6A5UYjDfQSOjc"
       },
       "artists": [
@@ -891,7 +1061,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168840,
       "name": "La Ley Y La Trampa",
       "url": "https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28"
@@ -909,10 +1079,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222565,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/113QNBn4EGOGo2uGNCa1J3"
+    },
+    {
+      "album": {
+        "name": "Ahyre",
+        "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222565,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/5m3SdNod7s5n2vFkQiJqYF"
     },
     {
       "album": {
@@ -935,6 +1123,24 @@
     {
       "album": {
         "name": "Poncho",
+        "url": "https://open.spotify.com/album/2LqkMvdnxBpqdOwGXPMdP3"
+      },
+      "artists": [
+        {
+          "name": "Canto 4",
+          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195059,
+      "name": "La So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5irK16GrbSb7eSKzvrbJiZ"
+    },
+    {
+      "album": {
+        "name": "Poncho",
         "url": "https://open.spotify.com/album/2793DUGV2AqWDV7cB5Vdbk"
       },
       "artists": [
@@ -945,7 +1151,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195059,
       "name": "La So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/5lChWpKVL0eYsxP8An5qSt"
@@ -971,6 +1177,24 @@
     {
       "album": {
         "name": "Somos",
+        "url": "https://open.spotify.com/album/4LTyGdxfClwg3KKJjBAqV3"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 260040,
+      "name": "Me Duele Todav\u00eda",
+      "url": "https://open.spotify.com/track/2vFUcGJIhcGnNS8Gnu135v"
+    },
+    {
+      "album": {
+        "name": "Somos",
         "url": "https://open.spotify.com/album/1qPBq548Pj3HuUHFQFb9yo"
       },
       "artists": [
@@ -981,10 +1205,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 260040,
       "name": "Me Duele Todav\u00eda",
       "url": "https://open.spotify.com/track/6i5qAQLGfjLR0FKmt0pwLV"
+    },
+    {
+      "album": {
+        "name": "Mi Loco Amor",
+        "url": "https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213705,
+      "name": "Mi Loco Amor",
+      "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"
     },
     {
       "album": {
@@ -1057,10 +1299,32 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248226,
       "name": "No Dejare de Amarte",
       "url": "https://open.spotify.com/track/7nkSHwvJvfrfsj6HOLcsbG"
+    },
+    {
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/3ecNmYNuN7GXoCP064taCu"
+      },
+      "artists": [
+        {
+          "name": "Roxana Carabajal",
+          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248240,
+      "name": "No Dejare de Amarte",
+      "url": "https://open.spotify.com/track/6xLJsgn7TFJmzmhaoTPOcp"
     },
     {
       "album": {
@@ -1075,7 +1339,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 214466,
       "name": "No Me Canso de Amar",
       "url": "https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF"
@@ -1093,10 +1357,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234866,
       "name": "No Me Olvides",
       "url": "https://open.spotify.com/track/2gxrZW6Isa0sVMgm8D22GM"
+    },
+    {
+      "album": {
+        "name": "Reevoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "No Me Olvides",
+      "url": "https://open.spotify.com/track/5OJAOB8Pe0IZOeGGjerPkE"
     },
     {
       "album": {
@@ -1275,6 +1557,24 @@
     {
       "album": {
         "name": "Somos",
+        "url": "https://open.spotify.com/album/4LTyGdxfClwg3KKJjBAqV3"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Para Que Nunca Me Dejes",
+      "url": "https://open.spotify.com/track/3h6h3alpLmhiI9U7DdODhp"
+    },
+    {
+      "album": {
+        "name": "Somos",
         "url": "https://open.spotify.com/album/1qPBq548Pj3HuUHFQFb9yo"
       },
       "artists": [
@@ -1285,7 +1585,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 179800,
       "name": "Para Que Nunca Me Dejes",
       "url": "https://open.spotify.com/track/4EnERmX4p8Ks97KhdJadLo"
@@ -1339,7 +1639,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-08-19",
       "duration_ms": 184659,
       "name": "Quiero Saber Si Me Extra\u00f1as",
       "url": "https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy"
@@ -1375,7 +1675,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-19",
       "duration_ms": 208410,
       "name": "Quiz\u00e1s Me Perd\u00ed",
       "url": "https://open.spotify.com/track/6sHneNrLrkrGHss9P6X11i"
@@ -1411,7 +1711,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-19",
       "duration_ms": 217000,
       "name": "Respuesta",
       "url": "https://open.spotify.com/track/6G63kmxKv6dvQBzAKkauq6"
@@ -1437,6 +1737,24 @@
     {
       "album": {
         "name": "Retiro al Norte",
+        "url": "https://open.spotify.com/album/0aPTD6OKAie96jT6q8qFYf"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213533,
+      "name": "Rubia Morena",
+      "url": "https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f"
+    },
+    {
+      "album": {
+        "name": "Retiro al Norte",
         "url": "https://open.spotify.com/album/2TfWQ8NSRoz9tTp6BnhSwL"
       },
       "artists": [
@@ -1447,7 +1765,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213533,
       "name": "Rubia Morena",
       "url": "https://open.spotify.com/track/4jcKjV0v7vaFTmBKaWIZjK"
@@ -1465,10 +1783,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 758954,
       "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
       "url": "https://open.spotify.com/track/0c8rvSf2HvDWmb1Mo0LK33"
+    },
+    {
+      "album": {
+        "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
+        "url": "https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 758954,
+      "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
+      "url": "https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd"
     },
     {
       "album": {
@@ -1483,10 +1819,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226750,
       "name": "Si la Vieras",
       "url": "https://open.spotify.com/track/3HZz8dFHhpg1yZ7R9Az0Ye"
+    },
+    {
+      "album": {
+        "name": "Si La Vieras",
+        "url": "https://open.spotify.com/album/4RcPHUbcXSib4fo1c6h522"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226750,
+      "name": "Si La Vieras",
+      "url": "https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d"
     },
     {
       "album": {
@@ -1501,10 +1855,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 313080,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/3RwDtnK03C9b7aAMlSVpgj"
+    },
+    {
+      "album": {
+        "name": "Codigo de Barro",
+        "url": "https://open.spotify.com/album/0K93fTicVZxSDToZ0wwQDL"
+      },
+      "artists": [
+        {
+          "name": "Los Huayra",
+          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313080,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5OHJKDaqEWl4t5aCilj3aQ"
     },
     {
       "album": {
@@ -1591,7 +1963,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 246741,
       "name": "Tan Lejos de Mi",
       "url": "https://open.spotify.com/track/1ryLI4hIaYrhhUnJsGNyru"
@@ -1603,7 +1975,7 @@
       },
       "artists": [
         {
-          "name": "Sele Vera y Los Pampas",
+          "name": "Sele Vera y Pampas de Bariloche",
           "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
@@ -1627,10 +1999,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180362,
       "name": "Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/4VBU0MiVxJuypbNGJeTVCx"
+    },
+    {
+      "album": {
+        "name": "Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180362,
+      "name": "Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB"
     },
     {
       "album": {
@@ -1667,7 +2057,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 239365,
       "name": "Todo Ser\u00e1 Mejor",
       "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
@@ -1703,7 +2093,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 159146,
       "name": "Tu Amor Es Todo",
       "url": "https://open.spotify.com/track/5EYOGXsbLkBPKqEH5TrHxk"
@@ -1739,7 +2129,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 195746,
       "name": "Un Adi\u00f3s",
       "url": "https://open.spotify.com/track/56zrEOWE31bRjS8yp7onRZ"
@@ -1775,7 +2165,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174888,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/4UjDVvkhkQ8QtC5BtfWQvr"
@@ -1855,10 +2245,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210506,
       "name": "Zamba de Amor en Vuelo",
       "url": "https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Mi...",
+        "url": "https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn"
+      },
+      "artists": [
+        {
+          "name": "Tamara Castro",
+          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "Zamba de Amor en Vuelo",
+      "url": "https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy"
     },
     {
       "album": {
@@ -1881,6 +2289,24 @@
     {
       "album": {
         "name": "Zamba para Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/0Yu1ZRD84F4phx551aEUl5"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234347,
+      "name": "Zamba para Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1XojvsvPtUsG4SqgHiGiGX"
+    },
+    {
+      "album": {
+        "name": "Zamba para Decir Adi\u00f3s",
         "url": "https://open.spotify.com/album/2mv60g9gXQFuCr6gp3aG0N"
       },
       "artists": [
@@ -1891,7 +2317,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234347,
       "name": "Zamba para Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/58ovR1eDL61corweuS4h40"
@@ -1927,10 +2353,46 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 272240,
       "name": "Zamba y Acuarela",
       "url": "https://open.spotify.com/track/1X2Z8Js9G8YmXIbrwSIptK"
+    },
+    {
+      "album": {
+        "name": "El Principio del Final",
+        "url": "https://open.spotify.com/album/2ww3i7PqUVMM4JmokgyRb5"
+      },
+      "artists": [
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272240,
+      "name": "Zamba y Acuarela",
+      "url": "https://open.spotify.com/track/4M7ODmOvmSny2kBEOgp2cX"
+    },
+    {
+      "album": {
+        "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
+        "url": "https://open.spotify.com/album/475rRqqrmSGkwYYJFcOUaz"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446264,
+      "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
+      "url": "https://open.spotify.com/track/4fGfiuxECgwNDL8cTC9SOT"
     },
     {
       "album": {
@@ -1945,7 +2407,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 446264,
       "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
       "url": "https://open.spotify.com/track/6vGgOdL3ouVHmuw8U7oA2v"

@@ -8,21 +8,21 @@
   "tracks": [
     {
       "album": {
-        "name": "Birthday Gift",
-        "url": "https://open.spotify.com/album/2Ff32hV23ytsfAScLNmA1a"
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/1uz1ah9nwO6YjBh3GvloWt"
       },
       "artists": [
         {
-          "name": "Grady Guan",
-          "url": "https://open.spotify.com/artist/2aFNEQB9JnQ171stH9Ljh5"
+          "name": "Boon Hui Lu",
+          "url": "https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4"
         }
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 234545,
-      "name": "Birthday Gift",
-      "url": "https://open.spotify.com/track/4xDPYSavntN5EiS193bT7u"
+      "duration_ms": 215680,
+      "name": "Be Your Sunshine",
+      "url": "https://open.spotify.com/track/4Z0x5o2SW2hm2BbvAejbuy"
     },
     {
       "album": {
@@ -66,43 +66,7 @@
     },
     {
       "album": {
-        "name": "Seize the Day",
-        "url": "https://open.spotify.com/album/4CYcwzTRls3Y7R46k3o0YL"
-      },
-      "artists": [
-        {
-          "name": "Miu Chu",
-          "url": "https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz"
-        }
-      ],
-      "date_added": "2021-01-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220042,
-      "name": "Step to the Future",
-      "url": "https://open.spotify.com/track/4crWpdF3o7qmSkuIvXvNK4"
-    },
-    {
-      "album": {
-        "name": "IDoL",
-        "url": "https://open.spotify.com/album/3dmVl22su4arme3pS6SaIq"
-      },
-      "artists": [
-        {
-          "name": "ALEX CHOU",
-          "url": "https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq"
-        }
-      ],
-      "date_added": "2022-01-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 259030,
-      "name": "The Love Letter - We Best Love Series <Fighting Mr.2nd> Theme Song",
-      "url": "https://open.spotify.com/track/3mrY1hCbYFriwOsnScycT5"
-    },
-    {
-      "album": {
-        "name": "We Will",
+        "name": "\u4e00\u5b9a\u6703",
         "url": "https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb"
       },
       "artists": [
@@ -115,7 +79,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207266,
-      "name": "We Will",
+      "name": "\u4e00\u5b9a\u6703",
       "url": "https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi"
     },
     {
@@ -185,7 +149,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215179,
       "name": "\u505a\u4f60\u7684\u592a\u967d",
       "url": "https://open.spotify.com/track/1qy3NaGcXDrPv9BcAqLH7B"
@@ -243,6 +207,24 @@
       "duration_ms": 250020,
       "name": "\u5206\u624b\u653e\u624b - WBL\u7cfb\u5217\u5f71\u96c6\u7b2c\u4e00\u5b63<\u6c38\u9060\u7684\u7b2c\u4e00\u540d>\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/36aoTpIIIJ3XAl6GrcHo5f"
+    },
+    {
+      "album": {
+        "name": "IDoL",
+        "url": "https://open.spotify.com/album/3dmVl22su4arme3pS6SaIq"
+      },
+      "artists": [
+        {
+          "name": "ALEX CHOU",
+          "url": "https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259030,
+      "name": "\u552f\u4e00\u5beb\u904e\u7684\u60c5\u66f8 - WBL\u7cfb\u5217\u5f71\u96c6\u7b2c\u4e8c\u5b63\u300a\u7b2c\u4e8c\u540d\u7684\u9006\u8972\u300b\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/3mrY1hCbYFriwOsnScycT5"
     },
     {
       "album": {
@@ -473,10 +455,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283915,
       "name": "\u6211\u4e0d\u8981\u591a\u5e78\u798f",
       "url": "https://open.spotify.com/track/0IPp0VMV7ixMXRv5m5GeLW"
+    },
+    {
+      "album": {
+        "name": "\u8c22\u8c22 \u9676\u6676\u83b9",
+        "url": "https://open.spotify.com/album/79UqqqP4ZzWwOd8RcvADEO"
+      },
+      "artists": [
+        {
+          "name": "\u9676\u6676\u83b9",
+          "url": "https://open.spotify.com/artist/1nLHiAOrjLbc0Pju8elCu0"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283915,
+      "name": "\u6211\u4e0d\u8981\u591a\u5e78\u798f",
+      "url": "https://open.spotify.com/track/3pMq5G7JOQsToNVIIgUWny"
     },
     {
       "album": {
@@ -495,6 +495,24 @@
       "duration_ms": 218579,
       "name": "\u65b0\u7684\u7a31\u8b02",
       "url": "https://open.spotify.com/track/539jeCHS4RMsyO0wPbq9do"
+    },
+    {
+      "album": {
+        "name": "\u4f86\u65e5\u65b9\u9577",
+        "url": "https://open.spotify.com/album/4CYcwzTRls3Y7R46k3o0YL"
+      },
+      "artists": [
+        {
+          "name": "Miu Chu",
+          "url": "https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz"
+        }
+      ],
+      "date_added": "2021-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220042,
+      "name": "\u6628\u5929\u7684\u81ea\u5df1",
+      "url": "https://open.spotify.com/track/4crWpdF3o7qmSkuIvXvNK4"
     },
     {
       "album": {
@@ -553,6 +571,24 @@
       "duration_ms": 183342,
       "name": "\u6a4b\u6881",
       "url": "https://open.spotify.com/track/1KJeufGyEEg1eSIVXMd76I"
+    },
+    {
+      "album": {
+        "name": "\u751f\u65e5\u79ae\u72692020",
+        "url": "https://open.spotify.com/album/2Ff32hV23ytsfAScLNmA1a"
+      },
+      "artists": [
+        {
+          "name": "Grady Guan",
+          "url": "https://open.spotify.com/artist/2aFNEQB9JnQ171stH9Ljh5"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234545,
+      "name": "\u751f\u65e5\u79ae\u72692020",
+      "url": "https://open.spotify.com/track/4xDPYSavntN5EiS193bT7u"
     },
     {
       "album": {

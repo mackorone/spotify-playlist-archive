@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Instrumental, ambient music to awaken your imagination.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,568 likes - 40 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,705 likes - 40 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Berceuse](https://open.spotify.com/track/4W11ykVxHguZTyd30ckgLh) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Piano](https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I) | 2:07 |
 | 2 | [Empty City](https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Empty City](https://open.spotify.com/album/62uP1pylQLNpVpphnniEFh) | 3:16 |
 | 3 | [Late](https://open.spotify.com/track/4U8rS9Zwponx3RtzspiQFx) | [Henning Schmiedt](https://open.spotify.com/artist/6uxRam7lWu9wC6VLWC7hav) | [Late](https://open.spotify.com/album/2oaXu9YZPKsSuNOvBkAnGe) | 2:59 |
-| 4 | [Don't Let Go](https://open.spotify.com/track/4aCGM7iDwSQuG5ZKKeEboq) | [Alice In Winter](https://open.spotify.com/artist/6GT9NGuY5ABje2cz3AN5in) | [Don't Let Go](https://open.spotify.com/album/3jlFNZvuhHiY5RJEMNp1BP) | 4:06 |
-| 5 | [Finding solace in the stars](https://open.spotify.com/track/3RF3QEGZwyQFHl6KICwnN5) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [VOISART](https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE) | [Finding solace in the stars](https://open.spotify.com/album/17twwmQ7sZhUQ4rG5Eg71h) | 2:58 |
+| 4 | [Don't Let Go](https://open.spotify.com/track/6Hd9NrmQESrXDeKrUljmkh) | [Alice In Winter](https://open.spotify.com/artist/6GT9NGuY5ABje2cz3AN5in) | [Don't Let Go](https://open.spotify.com/album/3Oq4xEC1Pw02QzHxNUsaWB) | 4:06 |
+| 5 | [Finding solace in the stars](https://open.spotify.com/track/41i2D4bw19DJy331n7d2cj) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [VOISART](https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE) | [Finding solace in the stars](https://open.spotify.com/album/3BvgQP7CmrTLG3CplyXcZF) | 2:58 |
 | 6 | [Bristol](https://open.spotify.com/track/4qw82RcMFJYUS974Fy1fPY) | [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp), [Mara Simpson](https://open.spotify.com/artist/1qn02YVZeKMegZimHpELHH) | [Ciara](https://open.spotify.com/album/5yULnACBq3ExHSl3ppyFz6) | 3:50 |
 | 7 | [Don't Go](https://open.spotify.com/track/31SPIpjKb1YlvY6FDCBUrm) | [Chris Coleman](https://open.spotify.com/artist/2mXB4WRGKaH89fJFSyK4M8) | [Don't Go](https://open.spotify.com/album/2DkwNU0M0BUVh9qPA0CBmf) | 2:54 |
 | 8 | [Psychogeography](https://open.spotify.com/track/5rGghULRHdt40jvMnpDubb) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 6:53 |
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 17 | [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 |
 | 18 | [Coriolis Effect](https://open.spotify.com/track/2wDk4PaXp0B54NFLRPgXHF) | [Kyle Preston](https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8) | [Coriolis Effect](https://open.spotify.com/album/6acfVndNASRtb9S6aTUB53) | 2:08 |
 | 19 | [Sandlóa](https://open.spotify.com/track/0ONcTpuI4HC0nOGCbPjGsa) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Sandlóa](https://open.spotify.com/album/5bxoucRv54ThMvQ2kAZSgF) | 3:35 |
-| 20 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 |
+| 20 | [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 |
 | 21 | [Remember](https://open.spotify.com/track/5hv1LvnQTAoaZX3GZHRu6P) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Remember](https://open.spotify.com/album/4ZLxgffaJyuk8zyo2WaK6E) | 4:19 |
 | 22 | [Evening Star \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/21Xawha6x2vBekNwyCzMZw) | [Frances Shelley](https://open.spotify.com/artist/0oUU96ZHc648yvAP9JrQ9d), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Evening Star \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/5EVLlgLBEpVKPuu9LOGeN3) | 4:14 |
 | 23 | [Season Shifting \- Robert Lippok Rework](https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Robert Lippok](https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF) | [Post\-Svalbard](https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk) | 4:30 |
 | 24 | [Lantern \- Piano Version](https://open.spotify.com/track/5OvddxZcyHH4sjqjstniOz) | [Adam Weikert](https://open.spotify.com/artist/5pEHqtXbBd0rRjhcSItosL) | [Lantern](https://open.spotify.com/album/2N7PeDMcJbAcdth49YY8qa) | 3:15 |
-| 25 | [Mayday](https://open.spotify.com/track/5b6rOFv35qB3NUWAzHzX6s) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO) | [Mayday](https://open.spotify.com/album/7nAz8DbeMfEydzNvktje9E) | 3:13 |
+| 25 | [Mayday](https://open.spotify.com/track/2GeZQx0L3RpCEMsSo3iVdp) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO) | [May Day](https://open.spotify.com/album/5xtqIfLqO7eokuv2QJSoDx) | 3:13 |
 | 26 | [Partisans](https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Partisans](https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde) | 3:56 |
 | 27 | [The Garden](https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH) | [Doug Kaufman](https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ) | [Elva](https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs) | 2:56 |
 | 28 | [Melancolía](https://open.spotify.com/track/6V9deghaQxd0mLGzGgOSgK) | [Adrián Rodríguez van der Spoel](https://open.spotify.com/artist/5DmGOYzTUmwcfPju2x4maF), [Música Temprana](https://open.spotify.com/artist/5sHRR0jXu19AfU1e48wCFr) | [Melancolía](https://open.spotify.com/album/2mNBRfA9Zdyq5hmBasAUNT) | 3:00 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 35 | [Azure](https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Azure](https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo) | 3:12 |
 | 36 | [Lichtspiel III: Symphonie Diagonale](https://open.spotify.com/track/07zPNPfmvyzo5kS5jUUoSl) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Lichtspiel III: Symphonie Diagonale](https://open.spotify.com/album/3fFIE42yygMv0goOLgnTsb) | 3:56 |
 | 37 | [To Ourselves](https://open.spotify.com/track/4K1LYV02moMXdlsp63IxI8) | [Jon Notar](https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX) | [To Ourselves](https://open.spotify.com/album/4etqTS2Mu9WRjjaWvWJBFA) | 4:28 |
-| 38 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw) | 5:34 |
-| 39 | [Søndermarken \- Video Edit](https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/3K2dpXIQseN96P9cRJLonX) | 4:10 |
+| 38 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 5:34 |
+| 39 | [Søndermarken \(Video Edit\)](https://open.spotify.com/track/6nr8pvjY7kvf0dVclOzNuj) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/4Fhv8iZsFv6ZRFNjbmOeSC) | 4:10 |
 | 40 | [Meridian](https://open.spotify.com/track/2ioJiNmf15qbpAtkhHOgDo) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Meridian](https://open.spotify.com/album/1V4hDoIl6B2J7cScpBkLJu) | 3:33 |
 
-Snapshot ID: `MTY1NzcwMDU3MiwwMDAwMDAwYTAwMDAwMTgxZjZhNzVlYzMwMDAwMDE4MWRlMTgxNzQ3`
+Snapshot ID: `MTY1NzcwMDU3MiwwMDAwMDAwMGI4YjE3M2YyOTY0MWFhZjVlYTNmMGIyMmRkMWU3NjU5`

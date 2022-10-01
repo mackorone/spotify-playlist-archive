@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/2UwTnYkh7zZjMY6NEQdP95.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 429 likes - 40 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 431 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Get Lucky \(feat\. Pharrell Williams & Nile Rodgers\)](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 6:09 |
 | 2 | [Summertime \- Single Edit](https://open.spotify.com/track/1Ckd4d6vkhvOp5HlAc5Ie2) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [The Very Best Of D.J\. Jazzy Jeff & The Fresh Prince](https://open.spotify.com/album/5N9QAscaF9QeZS0a4ZcnwG) | 3:57 |
-| 3 | [Heatwave \(feat\. Ms\. D\)](https://open.spotify.com/track/5RT0e9PkjBtmvqQzNbe1vA) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Ms D](https://open.spotify.com/artist/0vLuSGSqHYveeNnOt3HwWF) | [Heatwave \(feat\. Ms D\)](https://open.spotify.com/album/5LRkBRz9MpwAfzXTYUdEyA) | 3:14 |
+| 3 | [Heatwave \(feat\. Ms\. D\)](https://open.spotify.com/track/5RT0e9PkjBtmvqQzNbe1vA) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Heatwave \(feat\. Ms D\)](https://open.spotify.com/album/5LRkBRz9MpwAfzXTYUdEyA) | 3:14 |
 | 4 | [Ignition \- Remix](https://open.spotify.com/track/2hqRLc2aF5XWLnwYBK9beW) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [R & B Summertime](https://open.spotify.com/album/0H0jl7fe4jV2sZtYcqZbrY) | 3:06 |
 | 5 | [Sunny Road](https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp) | 3:04 |
 | 6 | [Summer Wine](https://open.spotify.com/track/7zmVAVcT1oho7iWJGpApkE) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2), [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [Nancy & Lee](https://open.spotify.com/album/7I7z6Lfwyc1nghsFImEhYq) | 4:16 |

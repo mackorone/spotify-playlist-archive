@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 
 > Celebrating 50 years of the original artists, songs, and recordings from the iconic 1969 Woodstock Music Festival
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,816 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,574 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 | 33 | [Feelin' Alright \- Live At Woodstock 1969](https://open.spotify.com/track/3SfuiaNcH3gMwBf9VsMrU5) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Live At Woodstock](https://open.spotify.com/album/3yESavW302DoWwXPn6r4xW) | 5:23 |
 | 34 | [Just Like A Woman \- Live At Woodstock 1969](https://open.spotify.com/track/7KeaMIjw9tZbTn0s1jmBal) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Live At Woodstock](https://open.spotify.com/album/3yESavW302DoWwXPn6r4xW) | 6:23 |
 | 35 | [With A Little Help From My Friends \- Live At Woodstock 1969](https://open.spotify.com/track/1GUy6zvGXalO0RqI07ESvj) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Live At Woodstock](https://open.spotify.com/album/3yESavW302DoWwXPn6r4xW) | 8:06 |
-| 36 | [I'm Going Home \- Live at Woodstock](https://open.spotify.com/track/6gOm4w7mbeIsouBWpRc9Qj) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Goin' Home!](https://open.spotify.com/album/2J1Z2Ty5Jz2OjvekrAwnVd) | 9:31 |
+| 36 | [I'm Going Home \- Live at Woodstock](https://open.spotify.com/track/3ZWnDoJGBgFErNgccN9gMj) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Goin' Home!](https://open.spotify.com/album/22PaF4yYYiTjFpDgeN7zLX) | 9:31 |
 | 37 | [What's Wrong \- Live at Woodstock 1969 Version](https://open.spotify.com/track/1FGolefVk3rQ2Vo4KvyGwb) | [Sweetwater](https://open.spotify.com/artist/6f1OLKvr06mLIFI4UQaV8o) | [Cycles:The Reprise Collection](https://open.spotify.com/album/6PDqW000XWsUb9Mlqe5phc) | 10:23 |
 | 38 | [More and More \- Live at Woodstock](https://open.spotify.com/track/76ANjVKK4QGkDzEIrnzC7d) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [Live at Woodstock](https://open.spotify.com/album/39u1Cmgnxje992ji09FYun) | 3:04 |
 | 39 | [Waiting To Take You Away \- Live at Woodstock, Bethel, NY \- August 1969](https://open.spotify.com/track/1EzOhQiEtUYq8QtWVi1QVG) | [Mountain](https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE) | [Live: The Road Goes Ever On](https://open.spotify.com/album/73Lij8gmkU5zjhlrBh220A) | 4:39 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 | 68 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
 | 69 | [Helplessly Hoping \- 2005 Remaster](https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 2:37 |
 | 70 | [Guinnevere \- 2005 Remaster](https://open.spotify.com/track/3CZ4BXMk4xpCJcWeowNERh) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 4:37 |
-| 71 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
-| 72 | [Pinball Wizard \- Remixed Studio Version](https://open.spotify.com/track/1lZD4bW0ttt10jAtDmJ2E6) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Andy Macpherson](https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5), [Jon Astley](https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I) | [Tommy](https://open.spotify.com/album/4lzu0HmhbocnBCQQDHiL40) | 3:01 |
+| 71 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
+| 72 | [Pinball Wizard](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 3:00 |
 | 73 | [I Can't Explain \- Mono Version](https://open.spotify.com/track/4B3gkbr7aGC2sujjgivK0s) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 2:05 |
 | 74 | [It's A Boy \- Remixed Album Version](https://open.spotify.com/track/7vdWwT6E020E9AupxB30eP) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Andy Macpherson](https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5), [Jon Astley](https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I) | [Tommy](https://open.spotify.com/album/4lzu0HmhbocnBCQQDHiL40) | 0:38 |
 | 75 | [See Me, Feel Me \- Single Version](https://open.spotify.com/track/7HVLE4CWBQjQi3Vyiz0fbe) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Hits 50 \(Deluxe\)](https://open.spotify.com/album/0FVnJBGOQD3Kx2x87Er2Az) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 | 99 | [Everything's Gonna Be Alright](https://open.spotify.com/track/2xDBsjOW7TQCYVXz0jOGBS) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [Complete Albums 1965\-1980](https://open.spotify.com/album/74Q5wVKJAvWBv2wDOSoJPg) | 2:58 |
 | 100 | [Driftin' and Driftin'](https://open.spotify.com/track/690y2K7VeXxOpXOA14snTd) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Resurrection Of Pigboy Crabshaw](https://open.spotify.com/album/5nEOJtjR1clDZQZwAlA7Qs) | 9:09 |
 
-Snapshot ID: `MTU4Mzg0NzIxNywwMDAwMDAwNTAwMDAwMTZjOTYzMDhkNjMwMDAwMDE3MGM0YTY5YTll`
+Snapshot ID: `MTU2NTg4Nzg2MCwwMDAwMDAwMDY1OTFmMzk1ZTVlNDU1ODU2NGM1MjQ5ZjQwM2M2NDgz`

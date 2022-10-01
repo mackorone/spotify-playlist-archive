@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-02",
       "duration_ms": 200377,
       "name": "Anillo Grabado",
       "url": "https://open.spotify.com/track/6oVRIpg7ealUfGLx9lfhsO"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-10-01",
       "duration_ms": 222266,
       "name": "Espejo De Cantina",
       "url": "https://open.spotify.com/track/02ztB2ejMQ6MHoCorzd2A8"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-10-01",
       "duration_ms": 199226,
       "name": "La Baraja",
       "url": "https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 144226,
       "name": "La Pera Madura",
       "url": "https://open.spotify.com/track/6W6JxljtkC2FXMMPGAI6bd"
@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154106,
+      "name": "Me Olvidaste",
+      "url": "https://open.spotify.com/track/6FU10QrwEVnwYtMLjUMKmT"
+    },
+    {
+      "album": {
         "name": "Mesa para Dos",
         "url": "https://open.spotify.com/album/2jFXfGbVWyv9fcUdfjn48L"
       },
@@ -523,7 +541,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 231706,
       "name": "Mi Amante",
       "url": "https://open.spotify.com/track/38KL0tZ65yErYnqS1CoLGz"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-09-30",
       "duration_ms": 193186,
       "name": "Misa De Cuerpo Presente",
       "url": "https://open.spotify.com/track/39jp91yfW61L2bBjpucX1D"
@@ -617,6 +635,28 @@
       "duration_ms": 209613,
       "name": "Necesito Dec\u00edrtelo",
       "url": "https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN"
+    },
+    {
+      "album": {
+        "name": "10+10",
+        "url": "https://open.spotify.com/album/32PDVB8vzIpO0hqyas42fY"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 146586,
+      "name": "Ni Amores Ni Deudas (feat. Los Invasores de Nuevo Le\u00f3n)",
+      "url": "https://open.spotify.com/track/37XJBZYOnErRNl7vawIwf7"
     },
     {
       "album": {

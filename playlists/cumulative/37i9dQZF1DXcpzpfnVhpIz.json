@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Italian superstar producer & DJ <a href =\"spotify:artist:5ENS85nZShljwNgg4wFD7D\">Gabry Ponte</a> promises a good time with his mix featuring recent hits!",
+  "description": "Italian superstar producer & DJ <a href=\"spotify:artist:5ENS85nZShljwNgg4wFD7D\">Gabry Ponte</a> promises a good time with his mix featuring recent hits!",
   "name": "Gabry Ponte's DJ Mix",
   "published_playlist_ids": [
     "3NhyGSpBHs9LDf8bcwD3dt"
@@ -53,10 +53,32 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184000,
       "name": "Can't Get Over You (feat. Aloe Blacc) - Mixed",
       "url": "https://open.spotify.com/track/6FSo0jhWCG0XumADCttxmt"
+    },
+    {
+      "album": {
+        "name": "Can't Get Over You",
+        "url": "https://open.spotify.com/album/3dxWxqKrVJNdHOtqZRTblp"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Can't Get Over You - Mixed",
+      "url": "https://open.spotify.com/track/11Rg3yZw3moNt5syQVGEjc"
     },
     {
       "album": {
@@ -222,7 +244,7 @@
     },
     {
       "album": {
-        "name": "Love Is Gone (Ti\u00ebsto Remix) [Mixed]",
+        "name": "Love Is Gone - Ti\u00ebsto Remix (Mixed)",
         "url": "https://open.spotify.com/album/0VUNhVuBEVa5slfPUyrsAM"
       },
       "artists": [
@@ -231,19 +253,19 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Dylan Matthew",
-          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
-        },
-        {
           "name": "SLANDER",
           "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
         }
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178000,
-      "name": "Love Is Gone (Ti\u00ebsto Remix) - Mixed",
+      "name": "Love Is Gone - Ti\u00ebsto Remix - Mixed",
       "url": "https://open.spotify.com/track/6ILn3LTuMX5h0CB5LaiWEM"
     },
     {
@@ -406,6 +428,32 @@
     },
     {
       "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "album": {
         "name": "Thunder (Mixed)",
         "url": "https://open.spotify.com/album/1mUn86v8euqFTFiCxOEV8q"
       },
@@ -425,7 +473,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170000,
       "name": "Thunder - Mixed",
       "url": "https://open.spotify.com/track/6RxHwMLZmlXkfYY47K0UhI"

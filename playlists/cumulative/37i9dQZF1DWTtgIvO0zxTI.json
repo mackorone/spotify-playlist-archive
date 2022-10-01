@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: Danny Ocean",
+  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: Micro TDH, Mau y Ricky\n",
   "name": "Flow Venezuela",
   "published_playlist_ids": [
     "2efGXAVzCEGB6nG3nfhwEs"
@@ -45,6 +45,24 @@
       "duration_ms": 252146,
       "name": "360 Grados",
       "url": "https://open.spotify.com/track/2y3TPKvfzg3vBR9VGqtt8S"
+    },
+    {
+      "album": {
+        "name": "63",
+        "url": "https://open.spotify.com/album/0pTcBM1tSspEQmylKHNCeI"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "63",
+      "url": "https://open.spotify.com/track/4F8jNgbjriwcgeUOGorXWT"
     },
     {
       "album": {
@@ -702,6 +720,24 @@
     },
     {
       "album": {
+        "name": "Hay Vida en Venus",
+        "url": "https://open.spotify.com/album/0sWnir8GiTLpROsfBuMHRF"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 209230,
+      "name": "Hasta Que Salga el Sol",
+      "url": "https://open.spotify.com/track/1QqZIOb0TJN5e0xvU1GmMp"
+    },
+    {
+      "album": {
         "name": "Hasta Que Salga el Sol",
         "url": "https://open.spotify.com/album/1z3dJze0v30WJxORECHCE8"
       },
@@ -713,7 +749,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209230,
       "name": "Hasta Que Salga el Sol",
       "url": "https://open.spotify.com/track/2u02P0y6omgiLmEVCd7WdV"
@@ -761,6 +797,46 @@
       "duration_ms": 204511,
       "name": "Joseando",
       "url": "https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw"
+    },
+    {
+      "album": {
+        "name": "La Chama",
+        "url": "https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192286,
+      "name": "La Chama",
+      "url": "https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z"
+    },
+    {
+      "album": {
+        "name": "Laguna",
+        "url": "https://open.spotify.com/album/6HVsbMOf4kXG3KYBa1KOhD"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Laguna",
+      "url": "https://open.spotify.com/track/6QN9glefJXPoy8vPZLiFL0"
     },
     {
       "album": {
@@ -826,7 +902,7 @@
     },
     {
       "album": {
-        "name": "Mal Acostumbrao",
+        "name": "Mal Acostumbrao (con Maria Becerra)",
         "url": "https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q"
       },
       "artists": [
@@ -843,7 +919,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190405,
-      "name": "Mal Acostumbrao",
+      "name": "Mal Acostumbrao - con Maria Becerra",
       "url": "https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL"
     },
     {
@@ -1057,7 +1133,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 164576,
       "name": "No La Supero",
       "url": "https://open.spotify.com/track/0PPytieW95AdNjJjJRiGMI"
@@ -1215,7 +1291,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 174546,
       "name": "Perro Mujeriego",
       "url": "https://open.spotify.com/track/15OhHg83LlzFVzJjzKqI6y"
@@ -1377,7 +1453,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 164755,
       "name": "Salao",
       "url": "https://open.spotify.com/track/3JLbeyprwCHlUOKczf2kMH"
@@ -1635,6 +1711,40 @@
       "duration_ms": 237750,
       "name": "Xulitos",
       "url": "https://open.spotify.com/track/2oAcKRifuogjcy5MSZaeYK"
+    },
+    {
+      "album": {
+        "name": "\u00d3yeme (feat. Betomonte & Eric Chac\u00f3n)",
+        "url": "https://open.spotify.com/album/4QwHKoItqKwfCVw1OK1IgP"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Monno Briceno",
+          "url": "https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Betomonte",
+          "url": "https://open.spotify.com/artist/3aAVHDGT5oIwTbppEcR7sb"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "\u00d3yeme (feat. Betomonte & Eric Chac\u00f3n)",
+      "url": "https://open.spotify.com/track/6jIeBE2ZbTPful6Itow2m6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTtgIvO0zxTI"

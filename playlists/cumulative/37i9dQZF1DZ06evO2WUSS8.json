@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-22",
       "duration_ms": 244600,
       "name": "Ahan",
       "url": "https://open.spotify.com/track/2g1PzerypMGvjcR518ZGNv"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": "2022-09-19",
       "duration_ms": 305986,
       "name": "Alphaman Redemption (feat. Ang\u00e9lique Kidjo)",
       "url": "https://open.spotify.com/track/4jGl7gpSXzO1CkZVH0g8Wm"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": "2022-08-31",
       "duration_ms": 278040,
       "name": "Ami Oh! (feat. Ang\u00e9lique Kidjo & Papa Wemba)",
       "url": "https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 250666,
       "name": "Azan Nan Kpe",
       "url": "https://open.spotify.com/track/4ddVa6ZSL8uMuJfGAOdote"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-29",
       "duration_ms": 229626,
       "name": "Born Under Punches",
       "url": "https://open.spotify.com/track/2lhaHl8ZY8JcHdyKpgkF5x"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-09-04",
       "duration_ms": 251333,
       "name": "Djan Djan",
       "url": "https://open.spotify.com/track/06HPCGeoRwYJe2qzPMIYbE"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-30",
       "duration_ms": 242906,
       "name": "Do Yourself",
       "url": "https://open.spotify.com/track/2yNfqf0Sty6D2INZFohjHc"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238293,
       "name": "Eyin",
       "url": "https://open.spotify.com/track/6P0qBYmfNVbvydDYgdKS0j"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": "2022-07-24",
       "duration_ms": 248586,
       "name": "Gimme Shelter",
       "url": "https://open.spotify.com/track/3yFCAbInpUiqR1AqfUHizw"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-09-26",
       "duration_ms": 273066,
       "name": "Houses in Motion",
       "url": "https://open.spotify.com/track/0jvRTmaJPpR3DdrzhZgiML"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-09-26",
       "duration_ms": 348840,
       "name": "Idje Idje",
       "url": "https://open.spotify.com/track/0DghtnUvSyAB0oLPu2rcYt"
@@ -736,6 +736,28 @@
     },
     {
       "album": {
+        "name": "Keep Rising (The Woman King)",
+        "url": "https://open.spotify.com/album/1ekbLXEL0o8JQT9yX8piWJ"
+      },
+      "artists": [
+        {
+          "name": "Jessy Wilson",
+          "url": "https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194164,
+      "name": "Keep Rising - The Woman King",
+      "url": "https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I"
+    },
+    {
+      "album": {
         "name": "La Vida Es Un Carnaval (Bomba Estereo Remix)",
         "url": "https://open.spotify.com/album/49yvEMly7OnIUsE0L41qIf"
       },
@@ -802,6 +824,28 @@
     },
     {
       "album": {
+        "name": "As Above, So Below",
+        "url": "https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234480,
+      "name": "Let Me Be Great [Feat. Ang\u00e9lique Kidjo]",
+      "url": "https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J"
+    },
+    {
+      "album": {
         "name": "Remain in Light",
         "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
       },
@@ -853,7 +897,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": "2022-08-21",
       "duration_ms": 232200,
       "name": "Loloye",
       "url": "https://open.spotify.com/track/0S3dVeVZ9xYpZNRpp2NFvu"
@@ -1022,6 +1066,32 @@
     },
     {
       "album": {
+        "name": "Forever United",
+        "url": "https://open.spotify.com/album/0kdYKYkOPYCjEfaw9AdTZJ"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Youssou N'Dour",
+          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169578,
+      "name": "Mama Africa (feat. Ang\u00e9lique Kidjo et Youssou Ndour)",
+      "url": "https://open.spotify.com/track/27N8TFqYeZhdrgFITRJncP"
+    },
+    {
+      "album": {
         "name": "Milambi",
         "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
       },
@@ -1081,7 +1151,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 193013,
       "name": "Move On Up",
       "url": "https://open.spotify.com/track/58zamIGFUxfTBboAaSlnXt"
@@ -1215,7 +1285,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 199240,
       "name": "One Africa (Ind\u00e9pendance Cha-Cha)",
       "url": "https://open.spotify.com/track/5puDqgLkZPggQNQ5sti2RK"
@@ -1233,7 +1303,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 188320,
       "name": "Out Of Africa",
       "url": "https://open.spotify.com/track/2AsieG1DqPvaWrcDmVeNvz"
@@ -1269,7 +1339,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": "2022-08-20",
       "duration_ms": 172880,
       "name": "Pata Pata",
       "url": "https://open.spotify.com/track/55dFmFmGpUIAIM41VeGgAw"
@@ -1345,7 +1415,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-29",
       "duration_ms": 277093,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/2iqOFvioxmoazHhA86N7gS"
@@ -1367,7 +1437,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-30",
       "duration_ms": 204240,
       "name": "Salala",
       "url": "https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN"
@@ -1429,10 +1499,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-09-19",
       "duration_ms": 184146,
       "name": "Seen and Not Seen",
       "url": "https://open.spotify.com/track/0Em0MuPM6LdELHk9FXgg93"
+    },
+    {
+      "album": {
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 113400,
+      "name": "Senie",
+      "url": "https://open.spotify.com/track/4q8o0Ri8QDQ1dQ7QL7VYul"
     },
     {
       "album": {
@@ -1573,7 +1661,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 261000,
       "name": "Tatchedogbe",
       "url": "https://open.spotify.com/track/6nmkqN1prP1ExfKV1l2kzY"
@@ -1609,10 +1697,92 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": "2022-10-01",
       "duration_ms": 298840,
       "name": "The Sound Of The Drums",
       "url": "https://open.spotify.com/track/3fMxN0fDKOhSvZqU3f7BPb"
+    },
+    {
+      "album": {
+        "name": "Toast to Freedom",
+        "url": "https://open.spotify.com/album/3kvEJ7NfjBXi43bW7FF9PC"
+      },
+      "artists": [
+        {
+          "name": "Levon Helm",
+          "url": "https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Donald Fagen",
+          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+        },
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "Marianne Faithfull",
+          "url": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+        },
+        {
+          "name": "Eric Burdon",
+          "url": "https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id"
+        },
+        {
+          "name": "Ewan McGregor",
+          "url": "https://open.spotify.com/artist/105Paee9vmV5rfLSG652e1"
+        },
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        },
+        {
+          "name": "Shawn Mullins",
+          "url": "https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N"
+        },
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/73WQWI3988afuKynwOhyuE"
+        },
+        {
+          "name": "Larry Campbell",
+          "url": "https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR"
+        },
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        },
+        {
+          "name": "Florent",
+          "url": "https://open.spotify.com/artist/0xbL5HzY6pDKOHm7RYURNQ"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374508,
+      "name": "Toast to Freedom - Long Version",
+      "url": "https://open.spotify.com/track/0SQPaGnphdxWDKJxtQ7NY5"
     },
     {
       "album": {
@@ -1691,7 +1861,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 374508,
       "name": "Toast to Freedom - Long Version",
       "url": "https://open.spotify.com/track/6g3ksFVdyDkIeQReZ4gT1h"
@@ -1727,7 +1897,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-24",
       "duration_ms": 220493,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/3V0ILZiWW8TStF12xdllmR"
@@ -1807,7 +1977,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-09-04",
       "duration_ms": 205773,
       "name": "Wanyinyin",
       "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"
@@ -1919,7 +2089,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": "2022-08-01",
       "duration_ms": 97266,
       "name": "Yemaya",
       "url": "https://open.spotify.com/track/6MsCWGRgENTvcMN59G206p"

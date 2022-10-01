@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 181355,
       "name": "A-Ba-Ni-Bi - 1978, Israel",
       "url": "https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 184293,
       "name": "Amazing - Eurovision 2014 - Estonia",
       "url": "https://open.spotify.com/track/7nHZygGL08cyziMy3i6wqd"
@@ -142,6 +142,42 @@
     },
     {
       "album": {
+        "name": "The New Seekers",
+        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
+      },
+      "artists": [
+        {
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
+    },
+    {
+      "album": {
+        "name": "Cliche Love Song",
+        "url": "https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq"
+      },
+      "artists": [
+        {
+          "name": "Basim",
+          "url": "https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181674,
+      "name": "Cliche Love Song - Another Version",
+      "url": "https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B"
+    },
+    {
+      "album": {
         "name": "Eurovision Song Contest 2014 Copenhagen",
         "url": "https://open.spotify.com/album/2ChBXM2MXu0Kvmkq9gAbXm"
       },
@@ -153,7 +189,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-26",
       "duration_ms": 183826,
       "name": "Clich\u00e9 Love Song - Eurovision 2014 - Denmark",
       "url": "https://open.spotify.com/track/0h0hZdvLGdQwpR8FUQMVue"
@@ -171,7 +207,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 155146,
       "name": "Congratulations - 1998 Remaster",
       "url": "https://open.spotify.com/track/2qs5ZcLByNTctJKbhAZ9JE"
@@ -189,7 +225,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 182134,
       "name": "Dance You Off",
       "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
@@ -243,7 +279,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149573,
       "name": "Ding-A-Dong",
       "url": "https://open.spotify.com/track/1UrZB49sPYlTuNA7fdC0cb"
@@ -261,10 +297,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182600,
       "name": "Diva (Original English Version)",
       "url": "https://open.spotify.com/track/1PMX2SF2x2oyf1Bex4kPHZ"
+    },
+    {
+      "album": {
+        "name": "Diva (English Radio Version)",
+        "url": "https://open.spotify.com/album/7sCC935syHEuEcN6nputPm"
+      },
+      "artists": [
+        {
+          "name": "Dana International",
+          "url": "https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181520,
+      "name": "Diva - Radio Edit",
+      "url": "https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge"
     },
     {
       "album": {
@@ -283,6 +337,24 @@
       "duration_ms": 188853,
       "name": "Divine",
       "url": "https://open.spotify.com/track/4FubKUAGxcmIrMiO0s2tkH"
+    },
+    {
+      "album": {
+        "name": "Sexuality",
+        "url": "https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188853,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/6JYxLv2GGPaZDkyJaHSQJY"
     },
     {
       "album": {
@@ -315,10 +387,28 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181401,
       "name": "Dum Tek Tek",
       "url": "https://open.spotify.com/track/1l9jCFXKfkw33BwkGytqkO"
+    },
+    {
+      "album": {
+        "name": "Kahraman",
+        "url": "https://open.spotify.com/album/6jryLZzOSi2lCoInU6nIYp"
+      },
+      "artists": [
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183437,
+      "name": "D\u00fcm Tek Tek",
+      "url": "https://open.spotify.com/track/3SxMoYjub3X3q5hJm9ZPyM"
     },
     {
       "album": {
@@ -333,10 +423,28 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-26",
       "duration_ms": 183520,
       "name": "Echo (You and I)",
       "url": "https://open.spotify.com/track/1iqnkBWge47Yhboceuceas"
+    },
+    {
+      "album": {
+        "name": "El Diablo",
+        "url": "https://open.spotify.com/album/0hddqJaLbuagDCHHSgULIm"
+      },
+      "artists": [
+        {
+          "name": "Elena Tsagrinou",
+          "url": "https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181546,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/0DGduxy7YSuqXm272C2LM6"
     },
     {
       "album": {
@@ -351,7 +459,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181546,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/4TAttqXwjj56xZQVKvlX0K"
@@ -369,10 +477,28 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181786,
       "name": "Euphoria - Single Version",
       "url": "https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk"
     },
     {
       "album": {
@@ -387,7 +513,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168266,
       "name": "Every way that I can - English Radio Edit",
       "url": "https://open.spotify.com/track/2oWD0Kfu4JogKWouqax5GW"
@@ -412,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Fairytales",
+        "url": "https://open.spotify.com/album/7k1b8wzjRsSTmIBuRlBrxp"
+      },
+      "artists": [
+        {
+          "name": "Alexander Rybak",
+          "url": "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/6NgYIETQ8U72CVfkzYhK30"
+    },
+    {
+      "album": {
         "name": "Eurovision Song Contest Moscow 2009",
         "url": "https://open.spotify.com/album/30kwbl8uJa8YiY9WMLP4kS"
       },
@@ -423,10 +567,28 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183786,
       "name": "Fairytale",
       "url": "https://open.spotify.com/track/2htdOgnrPTVGlXJ2cqhiNx"
+    },
+    {
+      "album": {
+        "name": "Wings Of Love",
+        "url": "https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5"
+      },
+      "artists": [
+        {
+          "name": "Br\u00f8drene Olsen",
+          "url": "https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185066,
+      "name": "Fly on the Wings of Love",
+      "url": "https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT"
     },
     {
       "album": {
@@ -441,7 +603,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184266,
       "name": "Fly On The Wings Of Love",
       "url": "https://open.spotify.com/track/0fDTE06NqWwAXyBc77I3qi"
@@ -459,7 +621,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181706,
       "name": "Flying The Flag (For You)",
       "url": "https://open.spotify.com/track/5iNCoeggfeAWmug3jz5oh8"
@@ -477,7 +639,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 177893,
       "name": "Fr\u00e4mling",
       "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
@@ -521,6 +683,24 @@
     {
       "album": {
         "name": "Glorious",
+        "url": "https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207594,
+      "name": "Glorious - Video Edit",
+      "url": "https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr"
+    },
+    {
+      "album": {
+        "name": "Glorious",
         "url": "https://open.spotify.com/album/0hTOLRbEKwBkZiR4X2zS3l"
       },
       "artists": [
@@ -531,7 +711,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-28",
       "duration_ms": 207600,
       "name": "Glorious - Video Edit",
       "url": "https://open.spotify.com/track/7MLSUbB20MvCmqDgL2gCco"
@@ -549,10 +729,28 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 180585,
       "name": "Golden Boy",
       "url": "https://open.spotify.com/track/6YWFr8BHQrRL4b7RwuqS36"
+    },
+    {
+      "album": {
+        "name": "Nadav Guedj",
+        "url": "https://open.spotify.com/album/6LKtYHQmNgH8woDwwG1dVE"
+      },
+      "artists": [
+        {
+          "name": "Nadav Guedj",
+          "url": "https://open.spotify.com/artist/0QmOR0TqxMPtZxtaIJ5klY"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180608,
+      "name": "Golden Boy",
+      "url": "https://open.spotify.com/track/76SQ1MeAThYnjO9U9v6zZp"
     },
     {
       "album": {
@@ -567,7 +765,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179920,
       "name": "Hard Rock Hallelujah - Eurovicious Radio Edit",
       "url": "https://open.spotify.com/track/2ubeUWAS5FDPQkjlhyqE1x"
@@ -639,7 +837,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2022-07-29",
       "duration_ms": 193490,
       "name": "If I Had Your Love",
       "url": "https://open.spotify.com/track/46P3Hgp98JG5t3sszNDaGu"
@@ -675,7 +873,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180986,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/2eGkOAOi972MzM5optdlT7"
@@ -693,10 +891,28 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-26",
       "duration_ms": 234987,
       "name": "Is It Right",
       "url": "https://open.spotify.com/track/4BxMRmdcUYW1sBHc1Nv9jo"
+    },
+    {
+      "album": {
+        "name": "100 \u00edslensk \u00ed fer\u00f0alagi\u00f0",
+        "url": "https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hanna Gu\u00f0r\u00fan",
+          "url": "https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180558,
+      "name": "Is It True?",
+      "url": "https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH"
     },
     {
       "album": {
@@ -711,7 +927,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 180573,
       "name": "Is It True?",
       "url": "https://open.spotify.com/track/4uaMcAjtOhaYYpd36DmxbI"
@@ -747,7 +963,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-28",
       "duration_ms": 184157,
       "name": "J'aime la vie - Eurovision 1986",
       "url": "https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4"
@@ -787,10 +1003,28 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181973,
       "name": "Jan-Jan",
       "url": "https://open.spotify.com/track/0jVxMrJ48JrTcf4RdYy9h1"
+    },
+    {
+      "album": {
+        "name": "Menq Enq Mer Sarere",
+        "url": "https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8"
+      },
+      "artists": [
+        {
+          "name": "Inga & Anush",
+          "url": "https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181973,
+      "name": "Jan-Jan",
+      "url": "https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V"
     },
     {
       "album": {
@@ -805,7 +1039,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 180000,
       "name": "Je Ne Sais Quoi (Eurovision 2010) Orginal Version",
       "url": "https://open.spotify.com/track/48rIGviK0uiZKmXV6QifbE"
@@ -841,7 +1075,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 173960,
       "name": "La det swinge",
       "url": "https://open.spotify.com/track/0LmEzNrxk0lecRm8X58jiC"
@@ -859,7 +1093,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 176213,
       "name": "La det swinge",
       "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
@@ -895,10 +1129,32 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177013,
       "name": "La Voix",
       "url": "https://open.spotify.com/track/4eOtl9eGcrK5asFl2S1HPZ"
+    },
+    {
+      "album": {
+        "name": "La voix du nord",
+        "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
+      },
+      "artists": [
+        {
+          "name": "Malena Ernman",
+          "url": "https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo"
+        },
+        {
+          "name": "Fredrik Kempe",
+          "url": "https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "La Voix",
+      "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
     },
     {
       "album": {
@@ -913,10 +1169,28 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 170000,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/4Ot9gTaARnRqJT1TYwM4pQ"
+    },
+    {
+      "album": {
+        "name": "Lie to Me",
+        "url": "https://open.spotify.com/album/5EeLrqlSbR0pa6J7hglLG5"
+      },
+      "artists": [
+        {
+          "name": "Mikolas Josef",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/6zBdVVksaTQeAzwfszbovz"
     },
     {
       "album": {
@@ -931,7 +1205,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "Lipstick - Radio Edit",
       "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
@@ -956,6 +1230,24 @@
     },
     {
       "album": {
+        "name": "Love Shine a Light (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/29gNuIQQWjYgtsDOeoYkTk"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187947,
+      "name": "Love Shine a Light",
+      "url": "https://open.spotify.com/track/0WdBh2BQOq9U7PMk6sWzMz"
+    },
+    {
+      "album": {
         "name": "The Best Of Katrina and the Waves",
         "url": "https://open.spotify.com/album/7huOryOzpGogjTC2yr6wPu"
       },
@@ -967,7 +1259,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187947,
       "name": "Love Shine A Light",
       "url": "https://open.spotify.com/track/1IaqXTDMKFVydY9Hc1sZKw"
@@ -1021,7 +1313,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 189640,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/0lI9LRra3k2RAYrNO0Htcc"
@@ -1057,10 +1349,28 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-23",
       "duration_ms": 169181,
       "name": "Moustache",
       "url": "https://open.spotify.com/track/3XiEknHgHpwCuk3CuA2RIV"
+    },
+    {
+      "album": {
+        "name": "Vive la vie (Edition sp\u00e9ciale)",
+        "url": "https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf"
+      },
+      "artists": [
+        {
+          "name": "Twin Twin",
+          "url": "https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169181,
+      "name": "Moustache",
+      "url": "https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr"
     },
     {
       "album": {
@@ -1075,7 +1385,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 171226,
       "name": "Moustache - Eurovision 2014 - France",
       "url": "https://open.spotify.com/track/5XikhFoJEvwYWEcZbeYEeQ"
@@ -1093,7 +1403,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183280,
       "name": "My Heart Goes Boom",
       "url": "https://open.spotify.com/track/6GViWczPtH2ky3RBYycDhI"
@@ -1129,10 +1439,28 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185933,
       "name": "My Star",
       "url": "https://open.spotify.com/track/0RsXDTuwqJPeWOWDX0acHk"
+    },
+    {
+      "album": {
+        "name": "Among The Suns",
+        "url": "https://open.spotify.com/album/4mL2jwFMI82Uw5Vffdv35Q"
+      },
+      "artists": [
+        {
+          "name": "Brainstorm",
+          "url": "https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186017,
+      "name": "My Star",
+      "url": "https://open.spotify.com/track/4R2tCloerHegAfPWjR3o7d"
     },
     {
       "album": {
@@ -1155,6 +1483,24 @@
     {
       "album": {
         "name": "t.A.T.u. - The Best",
+        "url": "https://open.spotify.com/album/0tzIPJxQTy6j6nQ3rbWXXy"
+      },
+      "artists": [
+        {
+          "name": "t.A.T.u.",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182506,
+      "name": "Ne Ver, Ne Boisia - Eurovision 2003 Version",
+      "url": "https://open.spotify.com/track/4MuQWNaW51V9LRocFQUZRU"
+    },
+    {
+      "album": {
+        "name": "t.A.T.u. - The Best",
         "url": "https://open.spotify.com/album/6MWyJ2fcZPAXMk8JOfKPKF"
       },
       "artists": [
@@ -1165,7 +1511,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-26",
       "duration_ms": 182506,
       "name": "Ne Ver, Ne Boisia - Eurovision 2003 Version",
       "url": "https://open.spotify.com/track/4bLFbrYVDzDWPzxDZgtyM7"
@@ -1183,7 +1529,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 187533,
       "name": "No Goodbyes - Radio Edit",
       "url": "https://open.spotify.com/track/4OxAOffBcJqxGFn9R5KxYV"
@@ -1219,7 +1565,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 181173,
       "name": "Only Teardrops",
       "url": "https://open.spotify.com/track/269y1Vw3O0C9uI3drXpfo9"
@@ -1237,7 +1583,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183240,
       "name": "Only Teardrops",
       "url": "https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu"
@@ -1273,10 +1619,32 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 264013,
       "name": "Parlez-vous francais?",
       "url": "https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k"
+    },
+    {
+      "album": {
+        "name": "This Gig Almost Got Me Killed",
+        "url": "https://open.spotify.com/album/2iOWFL3Nvw6HEhXfSxFe2K"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/5bqiKYMVjdZjRxDojk5WXs"
+        },
+        {
+          "name": "Paula Seling",
+          "url": "https://open.spotify.com/artist/0GeZRE8dyvgduV3KTvLFC3"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182950,
+      "name": "Playing with Fire",
+      "url": "https://open.spotify.com/track/0m3mkj4WTHkfrmHB6toUIK"
     },
     {
       "album": {
@@ -1295,7 +1663,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182950,
       "name": "Playing With Fire",
       "url": "https://open.spotify.com/track/5iUaUKe1J37XKNwX4ZTLGE"
@@ -1331,10 +1699,28 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153346,
       "name": "Poupee De Cire Poupee De Son",
       "url": "https://open.spotify.com/track/6hHbNqaJeMLX3EbRErFtrA"
+    },
+    {
+      "album": {
+        "name": "Hits chanson fran\u00e7aise",
+        "url": "https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
     },
     {
       "album": {
@@ -1349,7 +1735,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 143000,
       "name": "Puppet On A String",
       "url": "https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu"
@@ -1443,10 +1829,32 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 184133,
       "name": "Rise Up - Eurovision 2014 - Greece",
       "url": "https://open.spotify.com/track/2oFmGjyOGefQ6Af2ysnDfQ"
+    },
+    {
+      "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/2oEUzpZoU88zdrioGuiAGR"
+      },
+      "artists": [
+        {
+          "name": "Freaky Fortune",
+          "url": "https://open.spotify.com/artist/5cRocmkAjNUol2bK9v2Ce0"
+        },
+        {
+          "name": "Riskykidd",
+          "url": "https://open.spotify.com/artist/3lDfsS6EuLofMXRdKpypb2"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 182133,
+      "name": "Rise Up - Eurovision Version",
+      "url": "https://open.spotify.com/track/0HmQrQ3whzQgMTshgDR2F5"
     },
     {
       "album": {
@@ -1461,7 +1869,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 192992,
       "name": "Rockefeller Street",
       "url": "https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K"
@@ -1504,6 +1912,24 @@
     },
     {
       "album": {
+        "name": "Presenting Brotherhood of Man",
+        "url": "https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7"
+      },
+      "artists": [
+        {
+          "name": "Brotherhood of Man",
+          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178568,
+      "name": "Save Your Kisses for Me - Alternate Take",
+      "url": "https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH"
+    },
+    {
+      "album": {
         "name": "Brit Pop of Ages",
         "url": "https://open.spotify.com/album/7drSeQu8jDJEnB39VRJqOl"
       },
@@ -1515,7 +1941,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183733,
       "name": "Save your Kisses for Me - Rerecorded",
       "url": "https://open.spotify.com/track/3N2bG5Xz9LL1kge8OJV7cA"
@@ -1551,10 +1977,28 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182586,
       "name": "Secret Combination",
       "url": "https://open.spotify.com/track/1E6EOpzAkHbKAMZscImC41"
+    },
+    {
+      "album": {
+        "name": "Secret Combination",
+        "url": "https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a"
+      },
+      "artists": [
+        {
+          "name": "Kalomira",
+          "url": "https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182586,
+      "name": "Secret Combination - Eurovision 2008 Mix",
+      "url": "https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG"
     },
     {
       "album": {
@@ -1605,10 +2049,28 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180816,
       "name": "She Got Me",
       "url": "https://open.spotify.com/track/6TNK1SFt77MvTFoiTloiFQ"
+    },
+    {
+      "album": {
+        "name": "110 Karat",
+        "url": "https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180816,
+      "name": "She Got Me - Bonus Track",
+      "url": "https://open.spotify.com/track/3icYE8PMsnBoEecm5Bbd4x"
     },
     {
       "album": {
@@ -1695,7 +2157,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183773,
       "name": "Take Me to Your Heaven",
       "url": "https://open.spotify.com/track/6Phb8GhIzQKi6O7VOGj0QU"
@@ -1767,7 +2229,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 177562,
       "name": "This Is Our Night",
       "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
@@ -1785,10 +2247,28 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 183040,
       "name": "Tick - Tock - Eurovision 2014 - Ukraine",
       "url": "https://open.spotify.com/track/0r9VSL7mGjmb4TwUglCLcr"
+    },
+    {
+      "album": {
+        "name": "Tick Tock",
+        "url": "https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU"
+      },
+      "artists": [
+        {
+          "name": "Mariya Yaremchuk",
+          "url": "https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56"
     },
     {
       "album": {
@@ -1865,7 +2345,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 185720,
       "name": "Walk On Water",
       "url": "https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h"
@@ -1883,7 +2363,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-19",
       "duration_ms": 183093,
       "name": "Waterline",
       "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
@@ -1919,10 +2399,28 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168960,
       "name": "Waterloo",
       "url": "https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9"
+    },
+    {
+      "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
       "album": {
@@ -1937,7 +2435,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 151533,
       "name": "We Are the Winners - Original Version",
       "url": "https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02"
@@ -1955,7 +2453,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 249893,
       "name": "What about my dreams? - Main",
       "url": "https://open.spotify.com/track/4coje85K8iSAup8z4G9y64"
@@ -1973,7 +2471,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-27",
       "duration_ms": 182813,
       "name": "When Spirits Are Calling My Name",
       "url": "https://open.spotify.com/track/27L4okgASeyUAzZ7etleyQ"
@@ -1991,7 +2489,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": "2022-07-26",
       "duration_ms": 194333,
       "name": "Where Are You",
       "url": "https://open.spotify.com/track/1GrTNrHkL2WlK1rNp7OBs8"
@@ -2034,6 +2532,24 @@
     },
     {
       "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/49mZVsGNM1z8GZ5qGOev0r"
+      },
+      "artists": [
+        {
+          "name": "Sergey Lazarev",
+          "url": "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "You are the only one",
+      "url": "https://open.spotify.com/track/6IMHlXaG4aCFWupl9NCZO2"
+    },
+    {
+      "album": {
         "name": "You are the only one",
         "url": "https://open.spotify.com/album/5QN3qCVLPiedrjb6EOO9LO"
       },
@@ -2045,7 +2561,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186891,
       "name": "You are the only one",
       "url": "https://open.spotify.com/track/7cVXtwDpck4Kne4Ce8Ge6q"

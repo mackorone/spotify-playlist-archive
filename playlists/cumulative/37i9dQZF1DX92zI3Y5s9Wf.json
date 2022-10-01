@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Haus",
+        "url": "https://open.spotify.com/album/5ghsDK0ezUVfYUT7HitMHb"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171473,
+      "name": "Haus",
+      "url": "https://open.spotify.com/track/5opiGzgYvQe30uxZa1CGS1"
+    },
+    {
+      "album": {
         "name": "Haus (Mixed)",
         "url": "https://open.spotify.com/album/3Aj2uL7YIuYe3lufNJLNf3"
       },
@@ -161,7 +179,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167000,
       "name": "Haus - Mixed",
       "url": "https://open.spotify.com/track/6Te0wpoDi7GoqhrxYV8N8x"

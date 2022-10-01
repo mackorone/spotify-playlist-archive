@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7jxyICEEsUhq8zyP6jPGzM">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43 likes - 31 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 31 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 10 | [Door Rood](https://open.spotify.com/track/7huB5Xl7PbYNbAm1wQL3mo) | [B\-Brave](https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV) | [LOS](https://open.spotify.com/album/5etXVNcFeL5oGCshH9ZWOx) | 2:31 |
 | 11 | [100 Vragen \(feat\. Philly Moré\)](https://open.spotify.com/track/0Px30JH5M6rcKaAemQEAmV) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Philly Moré](https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT) | [100 Vragen \(feat\. Philly Moré\)](https://open.spotify.com/album/2mOezDvjuKh4SZAoLJxrM9) | 2:58 |
 | 12 | [Waddup \(feat\. CHO\)](https://open.spotify.com/track/3uAXtgzerGxO86OVxKz0ct) | [B\-Brave](https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R) | [De Eerste Date](https://open.spotify.com/album/0M2THL33puKb2LJ4lvRrJj) | 3:44 |
-| 13 | [Sniper \(Remix\) \(feat\. BKO, Jairzinho & Sevn Alias\)](https://open.spotify.com/track/07AhIz1LUHR1U4aTbOYSJQ) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Sniper \(Remix\) \(feat\. BKO, Jairzinho & Sevn Alias\)](https://open.spotify.com/album/2aTzmifl59fUFqBW24bzDw) | 3:19 |
-| 14 | [Love](https://open.spotify.com/track/6BpRusupbO3jjx89yQkuer) | [B\-Brave](https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV) | [De Eerste Date](https://open.spotify.com/album/0M2THL33puKb2LJ4lvRrJj) | 3:37 |
+| 13 | [Love](https://open.spotify.com/track/6BpRusupbO3jjx89yQkuer) | [B\-Brave](https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV) | [De Eerste Date](https://open.spotify.com/album/0M2THL33puKb2LJ4lvRrJj) | 3:37 |
+| 14 | [Rückwärtsgang](https://open.spotify.com/track/0PeqjPMkg5az7s5PNiymXV) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [Rückwärtsgang](https://open.spotify.com/album/3FQ7WItUVApunygLj4btX7) | 2:27 |
 | 15 | [Addicted](https://open.spotify.com/track/3ngW4Y9sxBoK8abawMEZ9C) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Addicted](https://open.spotify.com/album/0nOUrDieoBSKrXdK43me9u) | 2:36 |
 | 16 | [Ongelofelijk](https://open.spotify.com/track/09xShRjUnJyJe1nFm0qS14) | [Aliyah](https://open.spotify.com/artist/7E7VmEW6CxpkGNipjVQywD) | [Ongelofelijk](https://open.spotify.com/album/1b34dfAabmWlwMT9U7mqH5) | 3:39 |
 | 17 | [Echte Meisjes Huilen Niet](https://open.spotify.com/track/2khV5bt8Hdz8l8u1dQ9Odl) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/5QjL1KT0rE9RIIJpGxJ2pm) | 2:17 |
-| 18 | [Rückwärtsgang](https://open.spotify.com/track/0PeqjPMkg5az7s5PNiymXV) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [Rückwärtsgang](https://open.spotify.com/album/3FQ7WItUVApunygLj4btX7) | 2:27 |
-| 19 | [Loco](https://open.spotify.com/track/6OG3E84PZPTWyI3unCiMV5) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Loco](https://open.spotify.com/album/2YzAm5UkVJSFANQNlSGFKj) | 3:08 |
-| 20 | [Hallo, Dit Is Je Ex](https://open.spotify.com/track/4clTQ6iKsqPrqgnUPsDZMt) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Hallo, Dit Is Je Ex](https://open.spotify.com/album/7IH3p6PifUKhzUcAzN5rCI) | 2:31 |
+| 18 | [IFHJ](https://open.spotify.com/track/4QdTBFM7VsIu84jfCxVMsv) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [IFHJ](https://open.spotify.com/album/2PBAoczL4wDcwup5IF0yeN) | 2:36 |
+| 19 | [Hallo, Dit Is Je Ex](https://open.spotify.com/track/4clTQ6iKsqPrqgnUPsDZMt) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Hallo, Dit Is Je Ex](https://open.spotify.com/album/7IH3p6PifUKhzUcAzN5rCI) | 2:31 |
+| 20 | [Loco](https://open.spotify.com/track/6OG3E84PZPTWyI3unCiMV5) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Loco](https://open.spotify.com/album/2YzAm5UkVJSFANQNlSGFKj) | 3:08 |
 | 21 | [Small Talk](https://open.spotify.com/track/0lvN2fIgifvC63C70WQZDz) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Small Talk](https://open.spotify.com/album/17EackTViAFr0fZWhMYbo4) | 2:35 |
 | 22 | [Till The End](https://open.spotify.com/track/66XQRZBjZh0rbsY9KJZ8DL) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49) | 2:25 |
 | 23 | [Bitter Candy](https://open.spotify.com/track/4R9axL2QnBhy2Lz2REGLTt) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 3:06 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 30 | [Blockparty](https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy) | 3:36 |
 | 31 | [Babyboy](https://open.spotify.com/track/7xnpYakvJ9lnaragKULefR) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [Kids Top 100 2015](https://open.spotify.com/album/1WcWgv7JX6LLYJEZVYVEmh) | 3:20 |
 
-Snapshot ID: `Mjc2MzY1NjEsMDAwMDAwMDA1MmFhY2VjZWM1NDk4M2ZlOTA1MDcyNGU0ZjY4YzdjYQ==`
+Snapshot ID: `Mjc3NDMxMTksMDAwMDAwMDAyMzgyNzQ3NGQ5ZjIyZTJhYTNlYTVkYTgyZGI3MmRiNA==`

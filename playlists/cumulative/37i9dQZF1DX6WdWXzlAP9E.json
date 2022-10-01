@@ -699,7 +699,7 @@
     {
       "album": {
         "name": "Goin' Home!",
-        "url": "https://open.spotify.com/album/2J1Z2Ty5Jz2OjvekrAwnVd"
+        "url": "https://open.spotify.com/album/22PaF4yYYiTjFpDgeN7zLX"
       },
       "artists": [
         {
@@ -710,6 +710,24 @@
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 571666,
+      "name": "I'm Going Home - Live at Woodstock",
+      "url": "https://open.spotify.com/track/3ZWnDoJGBgFErNgccN9gMj"
+    },
+    {
+      "album": {
+        "name": "Goin' Home!",
+        "url": "https://open.spotify.com/album/2J1Z2Ty5Jz2OjvekrAwnVd"
+      },
+      "artists": [
+        {
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 571666,
       "name": "I'm Going Home - Live at Woodstock",
       "url": "https://open.spotify.com/track/6gOm4w7mbeIsouBWpRc9Qj"
@@ -976,7 +994,7 @@
     },
     {
       "album": {
-        "name": "My Generation",
+        "name": "My Generation (Stereo Version)",
         "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
       },
       "artists": [
@@ -1085,6 +1103,24 @@
     {
       "album": {
         "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180943,
+      "name": "Pinball Wizard",
+      "url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4"
+    },
+    {
+      "album": {
+        "name": "Tommy",
         "url": "https://open.spotify.com/album/4lzu0HmhbocnBCQQDHiL40"
       },
       "artists": [
@@ -1103,7 +1139,7 @@
       ],
       "date_added": "2019-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181666,
       "name": "Pinball Wizard - Remixed Studio Version",
       "url": "https://open.spotify.com/track/1lZD4bW0ttt10jAtDmJ2E6"

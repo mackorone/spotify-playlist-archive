@@ -4,7 +4,7 @@
 
 > Ro, Ro, Ro, Rodrigo carajo!
 
-61 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/6dgtnvASuzqZatnc3do951)
+64 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/6dgtnvASuzqZatnc3do951)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [En Mi Cama una Cualquiera](https://open.spotify.com/track/1NY5y5yyjZGqvdhffOeA1R) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 3:43 | 2021-10-05 |  |
 | [Enganchados \(Si tu supieras \- Y volo volo\)](https://open.spotify.com/track/4eFK7sOIm13wzrXcgxlgfp) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- Su historia vol IV](https://open.spotify.com/album/6dbFqvk3t0b9DCV1zzXhdP) | 8:49 | 2021-10-05 |  |
 | [Enganchados Rodrigo](https://open.spotify.com/track/4ApvbJYFRbk1EGdpp1Yc24) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Enganchados Rodrigo](https://open.spotify.com/album/0SakckKt4de0kBJteljNg1) | 10:40 | 2021-10-05 |  |
-| [Figurate tu](https://open.spotify.com/track/73cJK9Bz1lVXxvM9ZzKPMn) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo y La Mona Jimenez \(2x1\)](https://open.spotify.com/album/4NSOqNe4WoFv9VBhLe3Men) | 4:05 | 2021-10-05 |  |
+| [Figurate Tu](https://open.spotify.com/track/0Lh3bz143h1LBtv8qcY75n) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Su Historia, Vol\. 5](https://open.spotify.com/album/5QJWtJcrYbb3UylDoA5Yrh) | 4:05 | 2022-03-17 |  |
+| [Figurate tu](https://open.spotify.com/track/73cJK9Bz1lVXxvM9ZzKPMn) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo y La Mona Jimenez \(2x1\)](https://open.spotify.com/album/4NSOqNe4WoFv9VBhLe3Men) | 4:05 | 2021-10-05 | 2022-07-29 |
 | [Fuego y Pasion](https://open.spotify.com/track/78AZaBSAHNTK2frhqwh2RX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Eterno](https://open.spotify.com/album/6KUYysMj9dPbQ9OFmyu46Y) | 4:10 | 2021-10-05 |  |
 | [Himno del Cucumelo](https://open.spotify.com/track/1dqOKfw1bVmVaEjMj0CB3L) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuartetero y Cordobés](https://open.spotify.com/album/3q6Wg7VBtWvIiggdi2lFn1) | 3:21 | 2021-10-05 |  |
 | [Informe Policial](https://open.spotify.com/track/7hN0r6myRrvoFrXK1C0ne9) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Eterno](https://open.spotify.com/album/6KUYysMj9dPbQ9OFmyu46Y) | 5:02 | 2021-10-05 |  |
@@ -51,7 +52,8 @@
 | [Me extrañaras](https://open.spotify.com/track/5zZ8Oy2kCaJcFkg8Vtb35B) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La leyenda continua](https://open.spotify.com/album/0wZB11wUoKMA0i9ZipWcVQ) | 4:17 | 2021-10-05 |  |
 | [Me Extrañarás](https://open.spotify.com/track/1e4PRJWfSorO7RLgqDRvYR) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Me Extrañarás](https://open.spotify.com/album/366XQK2TfrjoWv17w2B9eD) | 4:17 | 2021-10-05 |  |
 | [Ocho cuarenta](https://open.spotify.com/track/2wcIn5fYUBBdbuqRRJDWRD) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- El potro](https://open.spotify.com/album/790Iky5B8XDGflaJkhJvY8) | 5:56 | 2021-10-05 |  |
-| [Por Lo Que Yo Te Quiero](https://open.spotify.com/track/4CffX0HNwF5Mkioh6kAm0L) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico / A 2000](https://open.spotify.com/album/2qu5LbDlNhfopUXaLyVgT3) | 9:16 | 2021-10-05 |  |
+| [Por Lo Que Yo Te Quiero](https://open.spotify.com/track/4CffX0HNwF5Mkioh6kAm0L) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico / A 2000](https://open.spotify.com/album/2qu5LbDlNhfopUXaLyVgT3) | 9:16 | 2021-10-05 | 2022-07-29 |
+| [Por Lo Que Yo Te Quiero](https://open.spotify.com/track/5i9yLs9LPercK6BJgj87gj) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 9:16 | 2022-03-17 |  |
 | [Por Lo Que Yo Te Quiero \- En Vivo](https://open.spotify.com/track/0rSoiifF1XLYZE3S6ow10u) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Grandes Exitos \(En Vivo\)](https://open.spotify.com/album/6Ot1b64vePWyN76IFVXR5G) | 4:17 | 2021-10-05 |  |
 | [Por Vivir Jugando](https://open.spotify.com/track/5LGzYHKkM3IVTF7N6nLUMr) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 6:38 | 2021-10-05 |  |
 | [Que Ironia](https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:11 | 2021-10-05 |  |
@@ -63,7 +65,8 @@
 | [Soy Cordobés](https://open.spotify.com/track/1jJ6OaUu1suh9XLERl2cf6) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Soy Cordobés](https://open.spotify.com/album/2jLMR6wpMR1OX3GSgr0qOD) | 5:14 | 2021-10-05 | 2022-03-18 |
 | [Tema de "cabecita"](https://open.spotify.com/track/76DYAASchu5szMWFDuG1iP) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 5:30 | 2021-10-05 |  |
 | [Todo Me Lleva a Ti](https://open.spotify.com/track/6Lkh9lukUEPBTZ1gewNT0m) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Grandes Exitos](https://open.spotify.com/album/3LGZUJGeBB8KC0bVOtmulA) | 4:19 | 2021-10-05 |  |
-| [Un Largo Camino Al Cielo](https://open.spotify.com/track/0fmneMvBzm0QvGy3e8S7CR) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico / A 2000](https://open.spotify.com/album/2qu5LbDlNhfopUXaLyVgT3) | 6:45 | 2021-10-05 |  |
+| [Un Largo Camino Al Cielo](https://open.spotify.com/track/0fmneMvBzm0QvGy3e8S7CR) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico / A 2000](https://open.spotify.com/album/2qu5LbDlNhfopUXaLyVgT3) | 6:45 | 2021-10-05 | 2022-07-29 |
+| [Un Largo Camino al Cielo](https://open.spotify.com/track/2PlSYK2fahYQAfOQ5oZkDt) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 6:45 | 2022-03-17 |  |
 | [Un Muchacho de Barrio](https://open.spotify.com/track/2PeNMTegyNqOpmw6mW0ssi) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Su Historia, Vol\. 5](https://open.spotify.com/album/5QJWtJcrYbb3UylDoA5Yrh) | 2:40 | 2021-10-05 |  |
 | [Y si yo la celo](https://open.spotify.com/track/1A48vkETbsmnVHhggIYPbh) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- El potro](https://open.spotify.com/album/790Iky5B8XDGflaJkhJvY8) | 4:28 | 2021-10-05 |  |
 | [Y Volo Volo](https://open.spotify.com/track/018Wqw3VG4yzkwGWhD5Wo5) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Grandes Exitos](https://open.spotify.com/album/3LGZUJGeBB8KC0bVOtmulA) | 4:23 | 2021-10-05 |  |

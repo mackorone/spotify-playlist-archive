@@ -170,6 +170,42 @@
     },
     {
       "album": {
+        "name": "Btwhasheni",
+        "url": "https://open.spotify.com/album/3M315U7mkSSUoxoUXv6M27"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231197,
+      "name": "Btwhasheni",
+      "url": "https://open.spotify.com/track/1Cm3f5zjPhCrR0VqodoJhK"
+    },
+    {
+      "album": {
+        "name": "Bukra Ahla",
+        "url": "https://open.spotify.com/album/6g3GiO6nDZm1yQWPyuXUsB"
+      },
+      "artists": [
+        {
+          "name": "Nina Abdel Malak",
+          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160199,
+      "name": "Bukra Ahla",
+      "url": "https://open.spotify.com/track/1XY2yjkH0QlflcX3cp3j5f"
+    },
+    {
+      "album": {
         "name": "Bukra Ahla",
         "url": "https://open.spotify.com/album/7AtI3mqZDFTInh0Y6YbJA5"
       },
@@ -181,28 +217,10 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160199,
       "name": "Bukra Ahla",
       "url": "https://open.spotify.com/track/52XkiamJRqW7uFLoJkCMLk"
-    },
-    {
-      "album": {
-        "name": "Do3f Nazar",
-        "url": "https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP"
-      },
-      "artists": [
-        {
-          "name": "Melhem Zein",
-          "url": "https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0"
-        }
-      ],
-      "date_added": "2021-09-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168392,
-      "name": "Do3f Nazar",
-      "url": "https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku"
     },
     {
       "album": {
@@ -264,6 +282,24 @@
     },
     {
       "album": {
+        "name": "ELO",
+        "url": "https://open.spotify.com/album/5dngGgMTnQ1vbdW0yOX8iB"
+      },
+      "artists": [
+        {
+          "name": "Nina Abdel Malak",
+          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147263,
+      "name": "ELO",
+      "url": "https://open.spotify.com/track/3ZLzz3CIWOeghYwN9aWCBD"
+    },
+    {
+      "album": {
         "name": "Elo",
         "url": "https://open.spotify.com/album/7nbfI0lzQRq64nZqxrZ7kI"
       },
@@ -275,7 +311,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147304,
       "name": "Elo",
       "url": "https://open.spotify.com/track/6IJdUqvldDnOaRVqMCPY9D"
@@ -301,6 +337,24 @@
     {
       "album": {
         "name": "Habibet Albi",
+        "url": "https://open.spotify.com/album/3FerSTHyK1YTNSEf8TNNwt"
+      },
+      "artists": [
+        {
+          "name": "IYAN",
+          "url": "https://open.spotify.com/artist/2eEBSDWdRV9TZTRPqM8ZZI"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249105,
+      "name": "Habibet Albi",
+      "url": "https://open.spotify.com/track/0a5qJHl0SFkqrB7iNP6Wp2"
+    },
+    {
+      "album": {
+        "name": "Habibet Albi",
         "url": "https://open.spotify.com/album/6QY0uzm6bvtKrgTpKVF65U"
       },
       "artists": [
@@ -311,7 +365,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249105,
       "name": "Habibet Albi",
       "url": "https://open.spotify.com/track/32yswm6dPUpViF0m8rzdIL"
@@ -423,10 +477,46 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 138820,
       "name": "Ishtaktilak Wallah",
       "url": "https://open.spotify.com/track/1zPzRQQhhpZLSBQfss1kMZ"
+    },
+    {
+      "album": {
+        "name": "Ishtaktilak Wallah",
+        "url": "https://open.spotify.com/album/45ZM28kpEYZ7qBX0hN7MaS"
+      },
+      "artists": [
+        {
+          "name": "Rouba Khoury",
+          "url": "https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138893,
+      "name": "Ishtaktilak Wallah",
+      "url": "https://open.spotify.com/track/65l3L3vZD4hDyNAe55dNxq"
+    },
+    {
+      "album": {
+        "name": "Jayi Twadaani",
+        "url": "https://open.spotify.com/album/2qEnwq70xXdHj9dlWXUQ4Z"
+      },
+      "artists": [
+        {
+          "name": "Michel Azzi",
+          "url": "https://open.spotify.com/artist/0OGecBiSJW5Bqnx76w3uQC"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223040,
+      "name": "Jayi Twadaani",
+      "url": "https://open.spotify.com/track/0s9zNzQwbvVBKOz59waIn8"
     },
     {
       "album": {
@@ -441,7 +531,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223040,
       "name": "Jayi Twadaani",
       "url": "https://open.spotify.com/track/4nXaJZ44cYmrqw3wEcLO0P"
@@ -488,6 +578,24 @@
     },
     {
       "album": {
+        "name": "Kholis el Haki",
+        "url": "https://open.spotify.com/album/5qi7vhQulc5UlhcLQj3K7l"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Chalhoub",
+          "url": "https://open.spotify.com/artist/0rBsrmamReDOZGGUgCmpm9"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255729,
+      "name": "Kholis el Haki",
+      "url": "https://open.spotify.com/track/5gORNisMgTz7z2Sxqng6JJ"
+    },
+    {
+      "album": {
         "name": "Kholis El Haki",
         "url": "https://open.spotify.com/album/5H6pL8myl7hA3JmOF1exQv"
       },
@@ -499,10 +607,32 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255764,
       "name": "Kholis El Haki",
       "url": "https://open.spotify.com/track/3nCwArP9i2vxO0mjp72RDO"
+    },
+    {
+      "album": {
+        "name": "Khserna Baad",
+        "url": "https://open.spotify.com/album/5NMUAheYIMftIgJtAlPIcE"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        },
+        {
+          "name": "Ziad Bourji",
+          "url": "https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187561,
+      "name": "Khserna Baad",
+      "url": "https://open.spotify.com/track/2UOopL3Y405ruJyMzJcdWD"
     },
     {
       "album": {
@@ -521,7 +651,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187561,
       "name": "Khserna Baad",
       "url": "https://open.spotify.com/track/2yfVl1v7wf54k9bOAY9mjd"
@@ -539,10 +669,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222358,
       "name": "La Ouyounak El Helwin",
       "url": "https://open.spotify.com/track/38qtGskHRVnyGyqWzFMfnG"
+    },
+    {
+      "album": {
+        "name": "La Ouyounik El Helwin",
+        "url": "https://open.spotify.com/album/0HUfzmbrXGPAOOKxn2RbD2"
+      },
+      "artists": [
+        {
+          "name": "Ziad Bourji",
+          "url": "https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222358,
+      "name": "La Ouyounik El Helwin",
+      "url": "https://open.spotify.com/track/54PiwwEBUU3HANCnSFgDLM"
     },
     {
       "album": {
@@ -593,10 +741,46 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245374,
       "name": "Madi Ehtarak",
       "url": "https://open.spotify.com/track/0TwDh2KWfRCXioQRimWxZA"
+    },
+    {
+      "album": {
+        "name": "Madi Ehtarak",
+        "url": "https://open.spotify.com/album/3T3BxpIIxX1dzi0LVPcO5t"
+      },
+      "artists": [
+        {
+          "name": "Jad Khalife",
+          "url": "https://open.spotify.com/artist/7J5LIUcIfUaLrFHUgCl4tL"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245374,
+      "name": "Madi Ehtarak",
+      "url": "https://open.spotify.com/track/4e2PvL665KMLpoCVSTp3aW"
+    },
+    {
+      "album": {
+        "name": "Mawjit Ghadab",
+        "url": "https://open.spotify.com/album/36ZfmmCrEEvqSLSNGgykxS"
+      },
+      "artists": [
+        {
+          "name": "Naji Osta",
+          "url": "https://open.spotify.com/artist/4bgldXaGu7WvZpkW1NfyBp"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195334,
+      "name": "Mawjit Ghadab",
+      "url": "https://open.spotify.com/track/0RJBkmVsIn6keBzgjRLF99"
     },
     {
       "album": {
@@ -611,7 +795,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195334,
       "name": "Mawjit Ghadab",
       "url": "https://open.spotify.com/track/7MZNxCAhgV6d9qDv6lUG25"
@@ -647,10 +831,46 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174816,
       "name": "Mesh Taye'",
       "url": "https://open.spotify.com/track/57MzJQAKcizIPuwcUBgyQ2"
+    },
+    {
+      "album": {
+        "name": "Mesh Taye'",
+        "url": "https://open.spotify.com/album/0Wc8dCvKifmuFe1IWzxjI3"
+      },
+      "artists": [
+        {
+          "name": "Ziad Bourji",
+          "url": "https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174816,
+      "name": "Mesh Taye'",
+      "url": "https://open.spotify.com/track/7DpZ7SqHYZtJISK1hN91OM"
+    },
+    {
+      "album": {
+        "name": "Metlak Ma Fi",
+        "url": "https://open.spotify.com/album/1M4JshjAUpkHouLBGN7Xys"
+      },
+      "artists": [
+        {
+          "name": "George Nehme",
+          "url": "https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "Metlak Ma Fi",
+      "url": "https://open.spotify.com/track/4nSfTAygr8Vl0AtvS8AJ4a"
     },
     {
       "album": {
@@ -665,7 +885,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245760,
       "name": "Metlak Ma Fi",
       "url": "https://open.spotify.com/track/6tSmvuuBYkj4JSYoRU8y0x"
@@ -727,10 +947,32 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204533,
       "name": "Nater",
       "url": "https://open.spotify.com/track/6rIWg3D84HSj7aUaVDIfKC"
+    },
+    {
+      "album": {
+        "name": "Nater",
+        "url": "https://open.spotify.com/album/4zaWHh2zDRzOvC5ZhqOiDq"
+      },
+      "artists": [
+        {
+          "name": "Aziz",
+          "url": "https://open.spotify.com/artist/4juIELxFGt6YwXdpzGB69c"
+        },
+        {
+          "name": "Adonis",
+          "url": "https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204533,
+      "name": "Nater",
+      "url": "https://open.spotify.com/track/3xGfWGr12b6j86gUmhwesD"
     },
     {
       "album": {
@@ -799,10 +1041,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211046,
       "name": "Shou Helou",
       "url": "https://open.spotify.com/track/51hN3ScR3uO358mhvpYJ8F"
+    },
+    {
+      "album": {
+        "name": "Shou Helou",
+        "url": "https://open.spotify.com/album/2WKCgrvvYrEoxrmvdZPebP"
+      },
+      "artists": [
+        {
+          "name": "Ziad Bourji",
+          "url": "https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211046,
+      "name": "Shou Helou",
+      "url": "https://open.spotify.com/track/5tlP8y3s1iMDKOoDlN1xQT"
     },
     {
       "album": {
@@ -829,6 +1089,24 @@
     {
       "album": {
         "name": "12 Sa'a",
+        "url": "https://open.spotify.com/album/0XyZg6l3LAHV9XBoZ6rQ1O"
+      },
+      "artists": [
+        {
+          "name": "Adonis",
+          "url": "https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214176,
+      "name": "Shukran Al Azimi",
+      "url": "https://open.spotify.com/track/71zge5rSChnbvlrTDKxPGJ"
+    },
+    {
+      "album": {
+        "name": "12 Sa'a",
         "url": "https://open.spotify.com/album/7yWLsrNU17dhFesO9R7EZa"
       },
       "artists": [
@@ -839,7 +1117,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214218,
       "name": "Shukran Al Azimi",
       "url": "https://open.spotify.com/track/3nEjEnNRyXNcN6nWoalMvp"
@@ -940,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "\u0623\u0646\u0627 \u0648\u0628\u0633",
+        "url": "https://open.spotify.com/album/2IVwPX6szdHO0UCBsMYGDQ"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248405,
+      "name": "\u0623\u0646\u0627 \u0648\u0628\u0633",
+      "url": "https://open.spotify.com/track/1mkqWVlcMGpjUw2dEcbwdo"
+    },
+    {
+      "album": {
         "name": "\u0628\u062a\u0648\u062d\u0634\u064a\u0646\u064a",
         "url": "https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg"
       },
@@ -951,10 +1247,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233522,
       "name": "\u0628\u062a\u0648\u062d\u0634\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E"
+    },
+    {
+      "album": {
+        "name": "\u0636\u0639\u0641 \u0646\u0638\u0631",
+        "url": "https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP"
+      },
+      "artists": [
+        {
+          "name": "Melhem Zein",
+          "url": "https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168392,
+      "name": "\u0636\u0639\u0641 \u0646\u0638\u0631",
+      "url": "https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaywRlmHaP59"

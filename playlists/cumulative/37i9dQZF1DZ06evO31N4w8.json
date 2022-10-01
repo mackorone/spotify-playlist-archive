@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 181773,
       "name": "A Punto De Llorar",
       "url": "https://open.spotify.com/track/37L9WDAl7Y81QYhkgoxJBQ"
@@ -242,6 +242,42 @@
     },
     {
       "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 214400,
+      "name": "Cuando Triste",
+      "url": "https://open.spotify.com/track/3xahllYXsO2wSlDuDcfjo6"
+    },
+    {
+      "album": {
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/4z8sLfNnAf8Th8B8EwcTQ4"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166040,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/2zJ1zCoUtHb6dt7C5Q7LqT"
+    },
+    {
+      "album": {
         "name": "En Tus Manos",
         "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
       },
@@ -271,7 +307,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-30",
       "duration_ms": 219533,
       "name": "Desprecios Y Mentiras",
       "url": "https://open.spotify.com/track/2WXZzMxOFESxUETXSgPpoM"
@@ -293,6 +329,24 @@
       "duration_ms": 174333,
       "name": "Dime Qui\u00e9n Es",
       "url": "https://open.spotify.com/track/3Gx0D7Qs5oJO5jaA6Rs9lp"
+    },
+    {
+      "album": {
+        "name": "Prieta Orgullosa",
+        "url": "https://open.spotify.com/album/3ax1gPCh8V8EJcMnThK30F"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 173840,
+      "name": "Dos Seres Que Se Aman",
+      "url": "https://open.spotify.com/track/1l3ILbIylMR5NE1urmrtpd"
     },
     {
       "album": {
@@ -462,6 +516,42 @@
     },
     {
       "album": {
+        "name": "Hay Niveles",
+        "url": "https://open.spotify.com/album/12hvhaWD4ZIN2zskXJYQm4"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "Hay Niveles",
+      "url": "https://open.spotify.com/track/5gT1s5O16yAMsHOH7SZxQX"
+    },
+    {
+      "album": {
+        "name": "Ignacio Parra",
+        "url": "https://open.spotify.com/album/4EHo1LRCtNhfd64IqEYVKX"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258733,
+      "name": "Ignacio Parra",
+      "url": "https://open.spotify.com/track/7CHLz5o5iO1T8E0TvnBJwo"
+    },
+    {
+      "album": {
         "name": "La Golosa",
         "url": "https://open.spotify.com/album/3TjccwMpSvm064wsjxbTzT"
       },
@@ -491,7 +581,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 171106,
       "name": "La Ech\u00e9 En Un Carrito",
       "url": "https://open.spotify.com/track/0fJh2z8ZrYNYPtgErkqBZ5"
@@ -527,7 +617,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 218400,
       "name": "La Loba del Mal",
       "url": "https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV"
@@ -639,7 +729,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 156160,
       "name": "Ni Arrepentida",
       "url": "https://open.spotify.com/track/7qJ1VmcnkQI7etwyRBE5fT"
@@ -805,7 +895,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-12",
       "duration_ms": 250788,
       "name": "Sen\u0303orita Cantinera - Ft. Polo Urias",
       "url": "https://open.spotify.com/track/3D2v3EEjmEenJoAfJb9JOp"
@@ -859,7 +949,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 148800,
       "name": "Suerte Perra",
       "url": "https://open.spotify.com/track/0UsKh6z2cpwvaMG8c70cYd"

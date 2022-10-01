@@ -55,7 +55,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191320,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 325946,
       "name": "A Song for You",
       "url": "https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198920,
       "name": "Betcha By Golly, Wow",
       "url": "https://open.spotify.com/track/0g8A6lSYXCbVtEtGhvHEhb"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196640,
       "name": "Do Right Woman, Do Right Man",
       "url": "https://open.spotify.com/track/6cLEpgDcEldV1n9gusHQUX"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201866,
       "name": "Drown in My Own Tears",
       "url": "https://open.spotify.com/track/0oQtjAjUeksVd9gHE5fl02"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-06",
+      "date_removed": null,
       "duration_ms": 179426,
       "name": "Earth Angel (Will You Be Mine)",
       "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241586,
       "name": "I Believe In You And Me",
       "url": "https://open.spotify.com/track/1a6o3Lh2T6u1m3FRCf1hcB"
@@ -476,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156653,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+    },
+    {
+      "album": {
         "name": "Tell Mama The Complete Muscle Shoals Sessions",
         "url": "https://open.spotify.com/album/6EKXFcbBuv4U6ZZTGQhLyS"
       },
@@ -487,7 +505,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156666,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/7keRsHHqmuFRv8agWvaYxE"
@@ -552,6 +570,24 @@
     },
     {
       "album": {
+        "name": "It's A Man's Man's Man's World",
+        "url": "https://open.spotify.com/album/3WQOQKNq8COxy0Ozv6YBb1"
+      },
+      "artists": [
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167373,
+      "name": "It's A Man's, Man's, Man's World",
+      "url": "https://open.spotify.com/track/3SQ9Hb9rfpJ02AWfaOPhpy"
+    },
+    {
+      "album": {
         "name": "Hot On The Tracks",
         "url": "https://open.spotify.com/album/1WDTvBAEVrdz5oxfRahzEi"
       },
@@ -563,7 +599,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 381360,
       "name": "Just To Be Close To You",
       "url": "https://open.spotify.com/track/60ijzJRo70XLwAEaX6y0eZ"
@@ -581,7 +617,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 266733,
       "name": "Kiss and Say Goodbye",
       "url": "https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI"
@@ -599,7 +635,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 216600,
       "name": "Let Me Make Love To You",
       "url": "https://open.spotify.com/track/5XTdQEuQhO3sUCcm2K1YnR"
@@ -804,6 +840,24 @@
     },
     {
       "album": {
+        "name": "People Get Ready",
+        "url": "https://open.spotify.com/album/5SYsyDQdno437NLJPWzLgL"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163360,
+      "name": "People Get Ready",
+      "url": "https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf"
+    },
+    {
+      "album": {
         "name": "The Complete A & B Sides 1961 - 1968",
         "url": "https://open.spotify.com/album/3diIigsNRRY0MlVBcnFC9Y"
       },
@@ -815,7 +869,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159266,
       "name": "People Get Ready - Single Version",
       "url": "https://open.spotify.com/track/0izzSOqBR4gdzCCWRnrzPd"
@@ -855,7 +909,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-27",
       "duration_ms": 148886,
       "name": "Pledging My Love",
       "url": "https://open.spotify.com/track/1UA7hoj7yPwW8V9NxXG8yT"
@@ -873,7 +927,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 251520,
       "name": "Sideshow",
       "url": "https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2"
@@ -927,7 +981,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-28",
       "duration_ms": 373560,
       "name": "Stay In My Corner",
       "url": "https://open.spotify.com/track/6oavqtFYgu0Zdpgesza6f4"
@@ -949,6 +1003,24 @@
       "duration_ms": 164560,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
+    },
+    {
+      "album": {
+        "name": "You Got My Mind Messed Up",
+        "url": "https://open.spotify.com/album/1akOJm6k5Y4Kp0NdoBNa8j"
+      },
+      "artists": [
+        {
+          "name": "James Carr",
+          "url": "https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153986,
+      "name": "The Dark End of the Street",
+      "url": "https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0"
     },
     {
       "album": {
@@ -1197,7 +1269,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Woman To Woman",
       "url": "https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1"
@@ -1251,7 +1323,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 288440,
       "name": "You Make Me Feel Brand New",
       "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"

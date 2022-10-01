@@ -45,10 +45,50 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223506,
       "name": "All Falls Down",
       "url": "https://open.spotify.com/track/2cYZpcIV39X48RnOFM7w2V"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Syleena Johnson",
+          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "All Falls Down",
+      "url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
+    },
+    {
+      "album": {
+        "name": "ye",
+        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145506,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
     },
     {
       "album": {
@@ -63,7 +103,7 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145506,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/3qnoOm4fwZPBS116f5hpgF"
@@ -150,6 +190,28 @@
     },
     {
       "album": {
+        "name": "Based On A T.R.U. Story (Deluxe)",
+        "url": "https://open.spotify.com/album/1wBFRaacNYmqfkidUZ0NtM"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306600,
+      "name": "Birthday Song",
+      "url": "https://open.spotify.com/track/5qkWTBmDmZjogwIvbKtJQv"
+    },
+    {
+      "album": {
         "name": "Birthday Song (Explicit Version)",
         "url": "https://open.spotify.com/album/4v2P0eF8MW1pzUrFFHe7my"
       },
@@ -165,7 +227,7 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 309266,
       "name": "Birthday Song",
       "url": "https://open.spotify.com/track/01BIGFY9JzoFgEJcC6gfTj"
@@ -285,7 +347,7 @@
     {
       "album": {
         "name": "Circles",
-        "url": "https://open.spotify.com/album/3o8QdYv4321QfL8Ubp2gTx"
+        "url": "https://open.spotify.com/album/1jn7r3jVqImGZNX6cMb4Lv"
       },
       "artists": [
         {
@@ -306,7 +368,59 @@
       "date_removed": null,
       "duration_ms": 247226,
       "name": "Circles",
+      "url": "https://open.spotify.com/track/3ohFiHO9TkqjdsZrmxnLrM"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/3o8QdYv4321QfL8Ubp2gTx"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247226,
+      "name": "Circles",
       "url": "https://open.spotify.com/track/5Unpx9KoFyS7VHZEFdBoGr"
+    },
+    {
+      "album": {
+        "name": "Kanye West Presents Good Music Cruel Summer",
+        "url": "https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293613,
+      "name": "Clique",
+      "url": "https://open.spotify.com/track/65rRB2mspD309xE6YimZTl"
     },
     {
       "album": {
@@ -329,7 +443,7 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293613,
       "name": "Clique",
       "url": "https://open.spotify.com/track/7eW9cHOAHmYqphs5tWXETw"
@@ -395,10 +509,32 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 259462,
       "name": "Dat Side",
       "url": "https://open.spotify.com/track/1LgNXucKQHGybDwernsNo2"
+    },
+    {
+      "album": {
+        "name": "No Dope On Sundays",
+        "url": "https://open.spotify.com/album/79yQxmlPsMM41NH3AiVSNK"
+      },
+      "artists": [
+        {
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260453,
+      "name": "Dat Side (feat. Kanye West)",
+      "url": "https://open.spotify.com/track/6NvSxE4pfP7TcD1OhGgaZW"
     },
     {
       "album": {
@@ -491,10 +627,44 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283653,
       "name": "Don't Like.1",
       "url": "https://open.spotify.com/track/12D0n7hKpPcjuUpcbAKjjr"
+    },
+    {
+      "album": {
+        "name": "G.O.O.D.",
+        "url": "https://open.spotify.com/album/4YXvNse2P5iuKtCPh91o8q"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283653,
+      "name": "Don't Like.1",
+      "url": "https://open.spotify.com/track/3YqJ0iaDWM0aqEDQExd2j3"
     },
     {
       "album": {
@@ -565,7 +735,7 @@
     {
       "album": {
         "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/3ff2p3LnR6V7m6BinwhNaQ"
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
       "artists": [
         {
@@ -576,6 +746,24 @@
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 278893,
+      "name": "Family Business",
+      "url": "https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/3ff2p3LnR6V7m6BinwhNaQ"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 278893,
       "name": "Family Business",
       "url": "https://open.spotify.com/track/6wFxUq7Gr44N3uwLjVQRR0"
@@ -703,10 +891,32 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271386,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6Bg7MznA9X0dIhlAsLyBYj"
+    },
+    {
+      "album": {
+        "name": "ye",
+        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271386,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
     },
     {
       "album": {
@@ -761,10 +971,28 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243440,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/6bXOlIfGIWh7Tyn4oyvLQW"
+    },
+    {
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243440,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
     },
     {
       "album": {
@@ -787,7 +1015,7 @@
     {
       "album": {
         "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/3ff2p3LnR6V7m6BinwhNaQ"
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
       "artists": [
         {
@@ -798,6 +1026,24 @@
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193733,
+      "name": "Jesus Walks",
+      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/3ff2p3LnR6V7m6BinwhNaQ"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 193733,
       "name": "Jesus Walks",
       "url": "https://open.spotify.com/track/62r62ArmWq38cu6QCVgyTc"
@@ -815,10 +1061,28 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 760973,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/0yfeb8mdWhnvuXPjawDbdy"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 760973,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/7iOhWWYjhhQiXzF4o4HhXN"
     },
     {
       "album": {
@@ -919,10 +1183,40 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 326346,
       "name": "Mercy.1",
       "url": "https://open.spotify.com/track/3U8Ev1gISsx6O1uwpsttOD"
+    },
+    {
+      "album": {
+        "name": "Kanye West Presents Good Music Cruel Summer",
+        "url": "https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326346,
+      "name": "Mercy.1",
+      "url": "https://open.spotify.com/track/671XaUBmifTMXDbZK5CB1M"
     },
     {
       "album": {
@@ -1033,10 +1327,32 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258120,
       "name": "Movin' Around",
       "url": "https://open.spotify.com/track/6qxoXzFzKoM2eyiw9wXJQS"
+    },
+    {
+      "album": {
+        "name": "No Dope On Sundays",
+        "url": "https://open.spotify.com/album/41eY9OdEmEw07TArIGYG4O"
+      },
+      "artists": [
+        {
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258545,
+      "name": "Movin' Around (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/58CGJJUIKdbS1ptTaTaish"
     },
     {
       "album": {
@@ -1077,10 +1393,50 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219333,
       "name": "Ni**as In Paris",
       "url": "https://open.spotify.com/track/2Zb7wnGUnNPCas2E0wWSQ5"
+    },
+    {
+      "album": {
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219333,
+      "name": "Ni**as In Paris",
+      "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
+    },
+    {
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281466,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
     },
     {
       "album": {
@@ -1095,7 +1451,7 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281466,
       "name": "Ordinary People",
       "url": "https://open.spotify.com/track/58CrldAc1Z5WIBozT1NMJH"
@@ -1317,10 +1673,36 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 316053,
       "name": "Slow Jamz",
       "url": "https://open.spotify.com/track/32UioUCnMFsr2UN7SvDyXj"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316053,
+      "name": "Slow Jamz",
+      "url": "https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"
     },
     {
       "album": {
@@ -1403,7 +1785,7 @@
     {
       "album": {
         "name": "Graduation",
-        "url": "https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9"
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
       },
       "artists": [
         {
@@ -1414,6 +1796,24 @@
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 311866,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+    },
+    {
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 311866,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/6C7RJEIUDqKkJRZVWdkfkH"
@@ -1473,10 +1873,52 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275080,
       "name": "The Morning",
       "url": "https://open.spotify.com/track/51oVwsllGkGySCLW6inIXE"
+    },
+    {
+      "album": {
+        "name": "Kanye West Presents Good Music Cruel Summer",
+        "url": "https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn"
+      },
+      "artists": [
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275080,
+      "name": "The Morning",
+      "url": "https://open.spotify.com/track/6KdwBL0OFecxLc1cSV9WVp"
     },
     {
       "album": {
@@ -1527,10 +1969,28 @@
       ],
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181573,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1hwSyhPlmRgiOHg7MiFXbu"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
     },
     {
       "album": {
@@ -1601,7 +2061,7 @@
     {
       "album": {
         "name": "ye",
-        "url": "https://open.spotify.com/album/5EBGCvO6upi3GNknMVe9x9"
+        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
       },
       "artists": [
         {
@@ -1612,6 +2072,24 @@
       "date_added": "2018-06-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188773,
+      "name": "Yikes",
+      "url": "https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG"
+    },
+    {
+      "album": {
+        "name": "ye",
+        "url": "https://open.spotify.com/album/5EBGCvO6upi3GNknMVe9x9"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2018-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 188773,
       "name": "Yikes",
       "url": "https://open.spotify.com/track/2r4JRwcbIeuAzWjH4YXlLs"

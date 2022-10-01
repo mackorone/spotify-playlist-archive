@@ -27,6 +27,24 @@
     {
       "album": {
         "name": "Sthanda Ifamily",
+        "url": "https://open.spotify.com/album/5XtEpbp6vPy9a1RvpNTsb8"
+      },
+      "artists": [
+        {
+          "name": "Thokozani Langa",
+          "url": "https://open.spotify.com/artist/30nsu2oxgyCzzty1TIJW6S"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343386,
+      "name": "Angilazi Icala",
+      "url": "https://open.spotify.com/track/1SgLVnJlhycOrTQHWbeBKa"
+    },
+    {
+      "album": {
+        "name": "Sthanda Ifamily",
         "url": "https://open.spotify.com/album/5QRfA7vN6sgEwKqNMmdhmf"
       },
       "artists": [
@@ -37,7 +55,7 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 343386,
       "name": "Angilazi Icala",
       "url": "https://open.spotify.com/track/257aC7bUs7LZ4wd86fOX5L"
@@ -89,7 +107,7 @@
     {
       "album": {
         "name": "Maskandi Greats Vol.1",
-        "url": "https://open.spotify.com/album/0a5bBJWcVbTOpc2cA6NtAh"
+        "url": "https://open.spotify.com/album/3GzuoeKRn8eQF0KAR0N4o6"
       },
       "artists": [
         {
@@ -100,6 +118,24 @@
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 412773,
+      "name": "Diona x5",
+      "url": "https://open.spotify.com/track/2PQl2BRgemS4sFZTFS703p"
+    },
+    {
+      "album": {
+        "name": "Maskandi Greats Vol.1",
+        "url": "https://open.spotify.com/album/0a5bBJWcVbTOpc2cA6NtAh"
+      },
+      "artists": [
+        {
+          "name": "Mtshengiseni",
+          "url": "https://open.spotify.com/artist/0b7Ds3CZPJOmh8hqOq9md4"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 412773,
       "name": "Diona x5",
       "url": "https://open.spotify.com/track/6KNmb4IaJ7K6gCd6to0HCx"
@@ -117,10 +153,46 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 289991,
       "name": "Ekhenana",
       "url": "https://open.spotify.com/track/3OrxaSn9WnB2P8C0kkt6n2"
+    },
+    {
+      "album": {
+        "name": "Umaqondana",
+        "url": "https://open.spotify.com/album/5CSphfloiCWOA2s35VsNwp"
+      },
+      "artists": [
+        {
+          "name": "Shabalala Rhythm",
+          "url": "https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289991,
+      "name": "Ekhenana",
+      "url": "https://open.spotify.com/track/4VqeQHfo2ubS5tqq5wmaOE"
+    },
+    {
+      "album": {
+        "name": "Umaqondana",
+        "url": "https://open.spotify.com/album/0vUQN638CtvfoPIopVIY8o"
+      },
+      "artists": [
+        {
+          "name": "Shabalala Rhythm",
+          "url": "https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 289991,
+      "name": "Ekhenana",
+      "url": "https://open.spotify.com/track/6erj1DoMqR59vfuG06z1gF"
     },
     {
       "album": {
@@ -157,10 +229,46 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 265973,
       "name": "Endumisweni",
       "url": "https://open.spotify.com/track/0FVJjE94m2bq1IUIF5NdZ3"
+    },
+    {
+      "album": {
+        "name": "Gospel Hits",
+        "url": "https://open.spotify.com/album/2kT2AwbhhzjQ6AlvBXo936"
+      },
+      "artists": [
+        {
+          "name": "Bhekumuzi Luthuli",
+          "url": "https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265973,
+      "name": "Endumisweni",
+      "url": "https://open.spotify.com/track/1UGcDqgMa0H0p8vODceY86"
+    },
+    {
+      "album": {
+        "name": "Intencane",
+        "url": "https://open.spotify.com/album/7doGg6TOO86pTXiyploISV"
+      },
+      "artists": [
+        {
+          "name": "Menzi",
+          "url": "https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231911,
+      "name": "Eshu Wesokalami",
+      "url": "https://open.spotify.com/track/6UFkLF40TBGfVFry7LXSxJ"
     },
     {
       "album": {
@@ -205,7 +313,7 @@
     {
       "album": {
         "name": "Inunu Engafi",
-        "url": "https://open.spotify.com/album/0nc4IHahVp9BvuMNpPMrTE"
+        "url": "https://open.spotify.com/album/1eWFVrvhJw2B87pKyGdl4k"
       },
       "artists": [
         {
@@ -216,6 +324,24 @@
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 287906,
+      "name": "Ikhotha Eyikhothayo",
+      "url": "https://open.spotify.com/track/3NMCy2Oi6rNDeddoxCTqnM"
+    },
+    {
+      "album": {
+        "name": "Inunu Engafi",
+        "url": "https://open.spotify.com/album/0nc4IHahVp9BvuMNpPMrTE"
+      },
+      "artists": [
+        {
+          "name": "Abagqobhi",
+          "url": "https://open.spotify.com/artist/7eigkjZtpAoOSfWfif1qxK"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 287906,
       "name": "Ikhotha Eyikhothayo",
       "url": "https://open.spotify.com/track/5lQrJySa8SnAVFzrppqOyo"
@@ -241,6 +367,24 @@
     {
       "album": {
         "name": "Imbizo",
+        "url": "https://open.spotify.com/album/7GwtOivf91juFQ7MINxers"
+      },
+      "artists": [
+        {
+          "name": "Phuzekhemisi",
+          "url": "https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 238026,
+      "name": "Imbizo",
+      "url": "https://open.spotify.com/track/41NvPWbuUFdEeLV8rlYwIB"
+    },
+    {
+      "album": {
+        "name": "Imbizo",
         "url": "https://open.spotify.com/album/7oZQe5vQ6TLRZlkuJEYIw0"
       },
       "artists": [
@@ -251,10 +395,64 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238026,
       "name": "Imbizo",
       "url": "https://open.spotify.com/track/5sjYGxZrOVboftBZOn6AVu"
+    },
+    {
+      "album": {
+        "name": "Imbizo",
+        "url": "https://open.spotify.com/album/33HOA4xP6hyXlm1CcUy5Ce"
+      },
+      "artists": [
+        {
+          "name": "Phuzekhemisi No Khethani",
+          "url": "https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238026,
+      "name": "Imbizo",
+      "url": "https://open.spotify.com/track/5rd1OgQZU0TcRndLFOYECO"
+    },
+    {
+      "album": {
+        "name": "Imbizo",
+        "url": "https://open.spotify.com/album/75ZCcbvBeLAzlzM6aDmcml"
+      },
+      "artists": [
+        {
+          "name": "Phuzekhemisi No Khethani",
+          "url": "https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 239800,
+      "name": "Imbizo",
+      "url": "https://open.spotify.com/track/2Kg74EtKg8Lo18r1cUtZBV"
+    },
+    {
+      "album": {
+        "name": "Bayede Zulu",
+        "url": "https://open.spotify.com/album/0xW1FZv5b6GM6hixos2FDu"
+      },
+      "artists": [
+        {
+          "name": "Phuzekhemisi",
+          "url": "https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 251560,
+      "name": "Imikhuba",
+      "url": "https://open.spotify.com/track/26ShN8gJb3wLqgLAA9dUSD"
     },
     {
       "album": {
@@ -269,10 +467,28 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251560,
       "name": "Imikhuba",
       "url": "https://open.spotify.com/track/5DWe8RsOB3zQ8nGT870FwD"
+    },
+    {
+      "album": {
+        "name": "Bayede Zulu",
+        "url": "https://open.spotify.com/album/4uFTqak3z6hgboKo0aNwcr"
+      },
+      "artists": [
+        {
+          "name": "Phuzekhemisi",
+          "url": "https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251560,
+      "name": "Imikhuba",
+      "url": "https://open.spotify.com/track/5z4GRjPgqAm9ZtPjcaqZPi"
     },
     {
       "album": {
@@ -345,10 +561,28 @@
       ],
       "date_added": "2019-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 248266,
       "name": "Inhliziyo Yami",
       "url": "https://open.spotify.com/track/3AMnrGFsUlrcY8ig6ASidM"
+    },
+    {
+      "album": {
+        "name": "Ungubani Wena",
+        "url": "https://open.spotify.com/album/169DuGTXvmZm4D1Abiqvt1"
+      },
+      "artists": [
+        {
+          "name": "Abafana Baka Mahawukela",
+          "url": "https://open.spotify.com/artist/6WiOCqFw2OVO8d9SfMUeYp"
+        }
+      ],
+      "date_added": "2019-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248266,
+      "name": "Inhliziyo Yami",
+      "url": "https://open.spotify.com/track/4KvEHj46FVO6DFBjPoCULj"
     },
     {
       "album": {
@@ -370,6 +604,24 @@
     },
     {
       "album": {
+        "name": "Intencane",
+        "url": "https://open.spotify.com/album/7doGg6TOO86pTXiyploISV"
+      },
+      "artists": [
+        {
+          "name": "Menzi",
+          "url": "https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252263,
+      "name": "Intencane",
+      "url": "https://open.spotify.com/track/0BYurynEYtSmwyuAMX07KR"
+    },
+    {
+      "album": {
         "name": "The Best Of Traditional South African Music",
         "url": "https://open.spotify.com/album/5r48JyMk448sZ5OGopjfcx"
       },
@@ -388,6 +640,24 @@
     },
     {
       "album": {
+        "name": "Isidina Sikamahlalela",
+        "url": "https://open.spotify.com/album/7M3Zi8eUaeFxhC5JzGMfRX"
+      },
+      "artists": [
+        {
+          "name": "IZINGANE ZOMA",
+          "url": "https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205573,
+      "name": "Inzondo",
+      "url": "https://open.spotify.com/track/66grkST08OIuorHMGsGwR6"
+    },
+    {
+      "album": {
         "name": "Inhlinini Yoxolo",
         "url": "https://open.spotify.com/album/2gkiXVfyva2aEfJiiRbQry"
       },
@@ -403,6 +673,42 @@
       "duration_ms": 269160,
       "name": "Ishende",
       "url": "https://open.spotify.com/track/4gbkKnzwQdS7dEv5lWHVQO"
+    },
+    {
+      "album": {
+        "name": "Msholozi",
+        "url": "https://open.spotify.com/album/6QxMBGWtj8tXhWiNNFF2pA"
+      },
+      "artists": [
+        {
+          "name": "IZINGANE ZOMA",
+          "url": "https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260665,
+      "name": "Isifebe Sendoda",
+      "url": "https://open.spotify.com/track/1otdCFUdWjT0yLWOfFr6kc"
+    },
+    {
+      "album": {
+        "name": "Msholozi",
+        "url": "https://open.spotify.com/album/6E93uMai7s84xFzTux1dp9"
+      },
+      "artists": [
+        {
+          "name": "IZINGANE ZOMA",
+          "url": "https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 260666,
+      "name": "Isifebe Sendoda",
+      "url": "https://open.spotify.com/track/6KHZvYCSRscmHSixg8cs26"
     },
     {
       "album": {
@@ -461,7 +767,7 @@
     {
       "album": {
         "name": "Asekhon' Amalahle ?",
-        "url": "https://open.spotify.com/album/5YyLWDAd4MCgKmoBjBKOwc"
+        "url": "https://open.spotify.com/album/53EGXcdCuhcYhODGXq2h2a"
       },
       "artists": [
         {
@@ -474,7 +780,43 @@
       "date_removed": null,
       "duration_ms": 263066,
       "name": "Izulu",
+      "url": "https://open.spotify.com/track/6IYiXBVJ6JieWediZllERf"
+    },
+    {
+      "album": {
+        "name": "Asekhon' Amalahle ?",
+        "url": "https://open.spotify.com/album/5YyLWDAd4MCgKmoBjBKOwc"
+      },
+      "artists": [
+        {
+          "name": "Imithente",
+          "url": "https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263066,
+      "name": "Izulu",
       "url": "https://open.spotify.com/track/7ihRvjcQNXy3ikf1sKPw6L"
+    },
+    {
+      "album": {
+        "name": "Khula Tshitshi Lami",
+        "url": "https://open.spotify.com/album/24m3tRRNgElXYhvJLakyxu"
+      },
+      "artists": [
+        {
+          "name": "Mfaz' Omnyama",
+          "url": "https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261101,
+      "name": "Khula Tshitshi Lami",
+      "url": "https://open.spotify.com/track/5JIJunDi0sABz8zd44u4WE"
     },
     {
       "album": {
@@ -489,10 +831,46 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261101,
       "name": "Khula Tshitshi Lami",
       "url": "https://open.spotify.com/track/6cjPxUtWSBg3zVcexVitOl"
+    },
+    {
+      "album": {
+        "name": "Khula Tshitshi Lami",
+        "url": "https://open.spotify.com/album/4k5aaUkinE32mprMwvlcUA"
+      },
+      "artists": [
+        {
+          "name": "Mfaz' Omnyama",
+          "url": "https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 261101,
+      "name": "Khula Tshitshi Lami",
+      "url": "https://open.spotify.com/track/7agl8aVojrFx0QofzcLoka"
+    },
+    {
+      "album": {
+        "name": "Isihlahla Samavukani",
+        "url": "https://open.spotify.com/album/2pD1ARZOgmJ6FOzF71byXZ"
+      },
+      "artists": [
+        {
+          "name": "Khuzani",
+          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 257320,
+      "name": "Kungani",
+      "url": "https://open.spotify.com/track/2w9BuLVCyEYDKnrCCeYxMy"
     },
     {
       "album": {
@@ -507,10 +885,28 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257320,
       "name": "Kungani",
       "url": "https://open.spotify.com/track/3U8oBQbjUI8IWSp4HbtcMS"
+    },
+    {
+      "album": {
+        "name": "Isihlahla Samavukani",
+        "url": "https://open.spotify.com/album/0vbPOtCjPKQUPqHu6TIw60"
+      },
+      "artists": [
+        {
+          "name": "Khuzani",
+          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257320,
+      "name": "Kungani",
+      "url": "https://open.spotify.com/track/7gVgTzmxTcczfnCfvuOfkF"
     },
     {
       "album": {
@@ -525,10 +921,28 @@
       ],
       "date_added": "2018-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-26",
       "duration_ms": 288106,
       "name": "Msholozi",
       "url": "https://open.spotify.com/track/2IkkJ4hwWJ3mCMlsqIRX5W"
+    },
+    {
+      "album": {
+        "name": "Msholozi",
+        "url": "https://open.spotify.com/album/6QxMBGWtj8tXhWiNNFF2pA"
+      },
+      "artists": [
+        {
+          "name": "IZINGANE ZOMA",
+          "url": "https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61"
+        }
+      ],
+      "date_added": "2018-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288106,
+      "name": "Msholozi",
+      "url": "https://open.spotify.com/track/7i9OftJwfxt4R20jDRnLqi"
     },
     {
       "album": {
@@ -543,10 +957,46 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 360853,
       "name": "Ngafa",
       "url": "https://open.spotify.com/track/2lRGb3QNqaKX6I9OUI9zPi"
+    },
+    {
+      "album": {
+        "name": "Greatest Moments Of",
+        "url": "https://open.spotify.com/album/0nLOqOS3t7akMp44aTzqIj"
+      },
+      "artists": [
+        {
+          "name": "Shwi No Mtekhala",
+          "url": "https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360853,
+      "name": "Ngafa",
+      "url": "https://open.spotify.com/track/4OntDavbpxbLk80nXlw7WR"
+    },
+    {
+      "album": {
+        "name": "Ngiyashisa Bhe!!",
+        "url": "https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT"
+      },
+      "artists": [
+        {
+          "name": "Mfaz' Omnyama",
+          "url": "https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297520,
+      "name": "Ngiyashisa Bhe!",
+      "url": "https://open.spotify.com/track/2Xrnw2pMpLhBJtFzoJCqBM"
     },
     {
       "album": {
@@ -561,10 +1011,28 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 297520,
       "name": "Ngiyashisa Bhe!",
       "url": "https://open.spotify.com/track/5T2V2jA4cPulYnMT5SUETu"
+    },
+    {
+      "album": {
+        "name": "Ziyangiluma Izinja",
+        "url": "https://open.spotify.com/album/1NEqGFT5ZfRJc5TwGffesn"
+      },
+      "artists": [
+        {
+          "name": "Phuzekhemisi",
+          "url": "https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257754,
+      "name": "Njalo",
+      "url": "https://open.spotify.com/track/7HKU5vab9h0HpPtYbRUS4X"
     },
     {
       "album": {
@@ -590,6 +1058,24 @@
     },
     {
       "album": {
+        "name": "Ngiyashisa Bhe!!",
+        "url": "https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT"
+      },
+      "artists": [
+        {
+          "name": "Mfaz' Omnyama",
+          "url": "https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294426,
+      "name": "Onke Lamadoda",
+      "url": "https://open.spotify.com/track/49x1RPNz0y4dhKxRVwTlRT"
+    },
+    {
+      "album": {
         "name": "Greatest Moments Of",
         "url": "https://open.spotify.com/album/4ETXztVwqM3WYnGU8c2hds"
       },
@@ -601,7 +1087,7 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 294426,
       "name": "Onke Lamadoda",
       "url": "https://open.spotify.com/track/6nhKAdmOWTivF0gggsVHx2"
@@ -717,7 +1203,7 @@
       ],
       "date_added": "2020-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 257754,
       "name": "Sikhokha Njalo",
       "url": "https://open.spotify.com/track/4DtXsMWFsOxsWgldeXiavB"
@@ -735,10 +1221,46 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 290346,
       "name": "Sivimbe Ngezansi",
       "url": "https://open.spotify.com/track/0E9zAYeAuiwVIRmniGitu9"
+    },
+    {
+      "album": {
+        "name": "Obama",
+        "url": "https://open.spotify.com/album/7AMJ6O9ZYdfTO1dcHVuqit"
+      },
+      "artists": [
+        {
+          "name": "IZINGANE ZOMA",
+          "url": "https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 290346,
+      "name": "Sivimbe Ngezansi",
+      "url": "https://open.spotify.com/track/4bsPPar6qAk3a920nvHeT5"
+    },
+    {
+      "album": {
+        "name": "Obama",
+        "url": "https://open.spotify.com/album/6vQGG2hOdBoASn6JrWeWFQ"
+      },
+      "artists": [
+        {
+          "name": "IZINGANE ZOMA",
+          "url": "https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290346,
+      "name": "Sivimbe Ngezansi",
+      "url": "https://open.spotify.com/track/4dxLmBonYXWLoTHOResIM4"
     },
     {
       "album": {
@@ -760,8 +1282,8 @@
     },
     {
       "album": {
-        "name": "Angimazi ubaba",
-        "url": "https://open.spotify.com/album/3bnl8oEQHcYwzDR9kC6IBE"
+        "name": "Angimazi Ubaba",
+        "url": "https://open.spotify.com/album/497oVjt1dseOC4GOzEtHiK"
       },
       "artists": [
         {
@@ -773,8 +1295,48 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 250546,
+      "name": "Thuma Mina Baba",
+      "url": "https://open.spotify.com/track/1fbiyYNG1LfWyTksDcgEEH"
+    },
+    {
+      "album": {
+        "name": "Angimazi ubaba",
+        "url": "https://open.spotify.com/album/3bnl8oEQHcYwzDR9kC6IBE"
+      },
+      "artists": [
+        {
+          "name": "Shwi No Mtekhala",
+          "url": "https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250546,
       "name": "Thuma mina baba",
       "url": "https://open.spotify.com/track/6EWALyShL2Ho7YW1pKfhsv"
+    },
+    {
+      "album": {
+        "name": "Ispoki Esingafi",
+        "url": "https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu"
+      },
+      "artists": [
+        {
+          "name": "Khuzani",
+          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
+        },
+        {
+          "name": "Sphesihle Zulu",
+          "url": "https://open.spotify.com/artist/2Q87XMh9dkkI1FOG9uCeCG"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306247,
+      "name": "Ubhuti Wabantu",
+      "url": "https://open.spotify.com/track/30hNrNo7QjfXkwKT3AvNPU"
     },
     {
       "album": {
@@ -789,10 +1351,28 @@
       ],
       "date_added": "2018-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-25",
       "duration_ms": 294706,
       "name": "Ukuganwa",
       "url": "https://open.spotify.com/track/3KagxTKp5nodR1hUIHardA"
+    },
+    {
+      "album": {
+        "name": "Ngiyashisa Bhe!!",
+        "url": "https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT"
+      },
+      "artists": [
+        {
+          "name": "Mfaz' Omnyama",
+          "url": "https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X"
+        }
+      ],
+      "date_added": "2018-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294706,
+      "name": "Ukuganwa",
+      "url": "https://open.spotify.com/track/4xrwao2zgAaG45VdsfpGBW"
     },
     {
       "album": {
@@ -825,10 +1405,28 @@
       ],
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 318546,
       "name": "Usale Kanjani",
       "url": "https://open.spotify.com/track/09A0kWUU4t0LshuBfe9X02"
+    },
+    {
+      "album": {
+        "name": "Inganekwane",
+        "url": "https://open.spotify.com/album/4dgnNUTAl7mXAEDye2IooD"
+      },
+      "artists": [
+        {
+          "name": "Thokozani Langa",
+          "url": "https://open.spotify.com/artist/30nsu2oxgyCzzty1TIJW6S"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318546,
+      "name": "Usale Kanjani",
+      "url": "https://open.spotify.com/track/1Na1tKjOtgF6Wzu1JlFSgj"
     },
     {
       "album": {
@@ -873,7 +1471,7 @@
     {
       "album": {
         "name": "Greatest Moments Of",
-        "url": "https://open.spotify.com/album/7j6pm8LrgP1BUfkc1UEu6H"
+        "url": "https://open.spotify.com/album/0nLOqOS3t7akMp44aTzqIj"
       },
       "artists": [
         {
@@ -884,6 +1482,24 @@
       "date_added": "2018-09-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 338293,
+      "name": "Wangisiza Baba",
+      "url": "https://open.spotify.com/track/5NS3OiNTauGUA5S3jsJHwL"
+    },
+    {
+      "album": {
+        "name": "Greatest Moments Of",
+        "url": "https://open.spotify.com/album/7j6pm8LrgP1BUfkc1UEu6H"
+      },
+      "artists": [
+        {
+          "name": "Shwi No Mtekhala",
+          "url": "https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq"
+        }
+      ],
+      "date_added": "2018-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 338293,
       "name": "Wangisiza Baba",
       "url": "https://open.spotify.com/track/7JMQ6R7dqPH8CKivfUGLFj"

@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "A different shade of the blues. Cover: Black Joe Lewis",
+  "description": "A different shade of the blues. Cover: Ash Grunwald",
   "name": "Alt-Blue",
   "published_playlist_ids": [
     "3SMaUdCHYgOYKwuKa1OVGG"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj"
+      },
+      "artists": [
+        {
+          "name": "Nathan Cavaleri",
+          "url": "https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145513,
+      "name": "29 Gold Stars",
+      "url": "https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH"
+    },
     {
       "album": {
         "name": "29 Gold Stars",
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145513,
       "name": "29 Gold Stars",
       "url": "https://open.spotify.com/track/6YTnk0HV9upkntv86skGcR"
@@ -55,7 +73,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 243649,
       "name": "All of It, Again",
       "url": "https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i"
@@ -179,10 +197,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194093,
       "name": "Can't Nobody Stop Us",
       "url": "https://open.spotify.com/track/2rMBpAO4Nyb80MriqR0GuV"
+    },
+    {
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel"
+      },
+      "artists": [
+        {
+          "name": "Bhi Bhiman",
+          "url": "https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194093,
+      "name": "Can't Nobody Stop Us",
+      "url": "https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1"
     },
     {
       "album": {
@@ -223,10 +259,32 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 295839,
       "name": "Chocolate Samurai",
       "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
+    },
+    {
+      "album": {
+        "name": "Click Click Domino",
+        "url": "https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq"
+      },
+      "artists": [
+        {
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203099,
+      "name": "Click Click Domino (feat. Marcus King)",
+      "url": "https://open.spotify.com/track/4CYl5j3ugKHnfuzilmMxge"
     },
     {
       "album": {
@@ -263,7 +321,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 188160,
       "name": "Dandy Little Day",
       "url": "https://open.spotify.com/track/5HnCJp1xyqBUE69QG1JTd6"
@@ -307,7 +365,7 @@
     {
       "album": {
         "name": "Don't Say Goodbye",
-        "url": "https://open.spotify.com/album/2GlZhFnvW6mxuyIDrerEoK"
+        "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
       },
       "artists": [
         {
@@ -318,6 +376,24 @@
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 191688,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE"
+    },
+    {
+      "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/2GlZhFnvW6mxuyIDrerEoK"
+      },
+      "artists": [
+        {
+          "name": "Swamp",
+          "url": "https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 191688,
       "name": "Don't Say Goodbye",
       "url": "https://open.spotify.com/track/5myYo40RKSaKyuLRbAfqTV"
@@ -371,10 +447,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188000,
       "name": "Five Dollars",
       "url": "https://open.spotify.com/track/3pDYH1sM23pIPU9JIqiTjT"
+    },
+    {
+      "album": {
+        "name": "Five Dollars",
+        "url": "https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m"
+      },
+      "artists": [
+        {
+          "name": "Black Joe Lewis & The Honeybears",
+          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Five Dollars",
+      "url": "https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT"
     },
     {
       "album": {
@@ -389,7 +483,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 195693,
       "name": "Fix Your Face",
       "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
@@ -407,10 +501,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185597,
       "name": "Get Gone",
       "url": "https://open.spotify.com/track/0adTUwT73q2Y5yfzGN5Aln"
+    },
+    {
+      "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
+      },
+      "artists": [
+        {
+          "name": "Swamp",
+          "url": "https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185597,
+      "name": "Get Gone",
+      "url": "https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L"
     },
     {
       "album": {
@@ -454,6 +566,28 @@
     },
     {
       "album": {
+        "name": "Devils on the Loose",
+        "url": "https://open.spotify.com/album/72N8KaRTfNtc6SN2BvquE9"
+      },
+      "artists": [
+        {
+          "name": "Luke Wylde",
+          "url": "https://open.spotify.com/artist/2wXmXykQVcnn9hZiJK7r3y"
+        },
+        {
+          "name": "JDP",
+          "url": "https://open.spotify.com/artist/3PoT1SjOLHrvhQdT0scf96"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-01",
+      "duration_ms": 163636,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/0H8FIK4pIfx2y5Y9RhLJCa"
+    },
+    {
+      "album": {
         "name": "Devils On The Loose",
         "url": "https://open.spotify.com/album/4g7ft1eiLHGnarx1VgiSGi"
       },
@@ -473,7 +607,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163636,
       "name": "God Damn",
       "url": "https://open.spotify.com/track/4hJnBBNQ4uvVnmNDR6hcns"
@@ -491,10 +625,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 208866,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk"
+    },
+    {
+      "album": {
+        "name": "Eric Tessmer 2",
+        "url": "https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD"
+      },
+      "artists": [
+        {
+          "name": "Eric Tessmer",
+          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249826,
+      "name": "Good So Bad",
+      "url": "https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs"
     },
     {
       "album": {
@@ -509,7 +661,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 248708,
       "name": "Hard Feelings",
       "url": "https://open.spotify.com/track/5LkZJ4wPxLFRcqXHTlVtel"
@@ -545,7 +697,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 259160,
       "name": "Hole in the Sun",
       "url": "https://open.spotify.com/track/4ZdpoMAU9jEa204gtyQmgd"
@@ -581,10 +733,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194564,
       "name": "Homemade Disaster",
       "url": "https://open.spotify.com/track/1Vg6Y0vdiBFp1EgF4z397j"
+    },
+    {
+      "album": {
+        "name": "Homemade Disaster",
+        "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194564,
+      "name": "Homemade Disaster",
+      "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
     },
     {
       "album": {
@@ -625,7 +795,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 204820,
       "name": "I'm so Happy I Cry (feat. Tank)",
       "url": "https://open.spotify.com/track/2ZagwBX7kXRGC767ZVBt0H"
@@ -715,10 +885,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177002,
       "name": "Lo/Hi",
       "url": "https://open.spotify.com/track/6XRgC4KAp4upKu0v7H4tQo"
+    },
+    {
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
     },
     {
       "album": {
@@ -741,7 +929,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 282933,
       "name": "Love from Philly (feat. Schoolly D & Chuck Treece)",
       "url": "https://open.spotify.com/track/7EhHLLq7Q9djkr36bvRfBr"
@@ -759,7 +947,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 167680,
       "name": "Love Your Lies",
       "url": "https://open.spotify.com/track/28tee7ARpnxcoTuUQpriWl"
@@ -777,7 +965,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 66884,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/1LwyCWyGUsiZCBCaSNRfn1"
@@ -831,7 +1019,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 246053,
       "name": "One Thing (2020)",
       "url": "https://open.spotify.com/track/5AU6psoPKvjkfgISTSrbCS"
@@ -871,7 +1059,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 172720,
       "name": "Quarantine",
       "url": "https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE"
@@ -896,6 +1084,24 @@
     },
     {
       "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
+      },
+      "artists": [
+        {
+          "name": "Swamp",
+          "url": "https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-01",
+      "duration_ms": 175108,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/0otlz1uuhtwVnKSUX8XToc"
+    },
+    {
+      "album": {
         "name": "Riot",
         "url": "https://open.spotify.com/album/08N7vPLcQL375FyuCRH8fm"
       },
@@ -907,7 +1113,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175108,
       "name": "Riot",
       "url": "https://open.spotify.com/track/2YeFuzgYgqj9b7IiUUmSbw"
@@ -933,6 +1139,24 @@
     {
       "album": {
         "name": "Saw That Light",
+        "url": "https://open.spotify.com/album/5MJJAv0hwgTn2hEL9oaMkO"
+      },
+      "artists": [
+        {
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-01",
+      "duration_ms": 111893,
+      "name": "Saw That Light",
+      "url": "https://open.spotify.com/track/2XTzB7SPPl4GZv6bYVJfiv"
+    },
+    {
+      "album": {
+        "name": "Saw That Light",
         "url": "https://open.spotify.com/album/57MqRibzsB4mxoKkcnr8Ro"
       },
       "artists": [
@@ -943,7 +1167,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 111893,
       "name": "Saw That Light",
       "url": "https://open.spotify.com/track/50Cpsx8h556enxf91GSi2q"
@@ -983,7 +1207,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 193914,
       "name": "Shot Down",
       "url": "https://open.spotify.com/track/6fqeBYpDjHcCTtIfZ4L9i0"
@@ -1041,7 +1265,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 138545,
       "name": "Storm Came",
       "url": "https://open.spotify.com/track/4p1v9sQlYc8WXeYNAK33iW"
@@ -1077,7 +1301,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 340333,
       "name": "Sweetwater",
       "url": "https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1"
@@ -1117,6 +1341,42 @@
       "duration_ms": 192351,
       "name": "Tears Of Blue To Gold",
       "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
+    },
+    {
+      "album": {
+        "name": "Tell Your Mother",
+        "url": "https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu"
+      },
+      "artists": [
+        {
+          "name": "Dr JOE",
+          "url": "https://open.spotify.com/artist/2hQXLKSqrDLgj3r6LtUU0Y"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Tell Your Mother",
+      "url": "https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m"
+    },
+    {
+      "album": {
+        "name": "A Light That Never Dies",
+        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
+      },
+      "artists": [
+        {
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173366,
+      "name": "The Ballad of Johnny",
+      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
     },
     {
       "album": {
@@ -1178,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "Sand Castles",
+        "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
+      },
+      "artists": [
+        {
+          "name": "Rehab",
+          "url": "https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Them That Matter Don't Mind",
+      "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
+    },
+    {
+      "album": {
         "name": "Them That Matter Don't Mind",
         "url": "https://open.spotify.com/album/7M77ODabY87tVTnfnPLscn"
       },
@@ -1189,7 +1467,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169000,
       "name": "Them That Matter Don't Mind",
       "url": "https://open.spotify.com/track/4MkZfEypSZvaODh7OKhKLK"
@@ -1207,7 +1485,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 202908,
       "name": "Third World War",
       "url": "https://open.spotify.com/track/6bNhMOHw8kGRHw9lVbLRme"
@@ -1225,10 +1503,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 175830,
       "name": "This Is My Squad",
       "url": "https://open.spotify.com/track/16FhHjA9XNSQupLwrH6k8n"
+    },
+    {
+      "album": {
+        "name": "Desert Dreams",
+        "url": "https://open.spotify.com/album/71OHum7ucyhzFO7QnLiEhj"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Shack",
+          "url": "https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190626,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/0UxhRgcEhJdGkuLRKXbdHN"
     },
     {
       "album": {
@@ -1243,10 +1539,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190626,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/57pB9r5nTsngcIWivigDxQ"
+    },
+    {
+      "album": {
+        "name": "Color Where You Are",
+        "url": "https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM"
+      },
+      "artists": [
+        {
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227300,
+      "name": "Under the Big Top",
+      "url": "https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn"
     },
     {
       "album": {
@@ -1265,10 +1579,50 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162666,
       "name": "Watch Yo Mouf",
       "url": "https://open.spotify.com/track/6VM4509PIwTpt2sKR5XMlR"
+    },
+    {
+      "album": {
+        "name": "Wings and Blue Cheese",
+        "url": "https://open.spotify.com/album/5dKt7PvytEEmmXv7mqbuw2"
+      },
+      "artists": [
+        {
+          "name": "Davis Chris",
+          "url": "https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj"
+        },
+        {
+          "name": "Mr Foster",
+          "url": "https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-01",
+      "duration_ms": 162666,
+      "name": "Watch Yo Mouf",
+      "url": "https://open.spotify.com/track/6sJYiMRXLKF2JflTtzKs9U"
+    },
+    {
+      "album": {
+        "name": "Moonshine Blue",
+        "url": "https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw"
+      },
+      "artists": [
+        {
+          "name": "Jack Broadbent",
+          "url": "https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168752,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J"
     },
     {
       "album": {
@@ -1287,7 +1641,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-01",
       "duration_ms": 237433,
       "name": "You Can't Let Go (feat. Chrissie Hynde)",
       "url": "https://open.spotify.com/track/32GOXl3eR2Kp9lGi4u3UWx"

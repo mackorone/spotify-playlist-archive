@@ -266,7 +266,7 @@
       "artists": [
         {
           "name": "Daniel Lee",
-          "url": "https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj"
+          "url": "https://open.spotify.com/artist/4L28VKeDZWK3m5HlPRuj7f"
         }
       ],
       "date_added": "2022-04-08",
@@ -716,7 +716,7 @@
       "artists": [
         {
           "name": "Daniel Lee",
-          "url": "https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj"
+          "url": "https://open.spotify.com/artist/4L28VKeDZWK3m5HlPRuj7f"
         }
       ],
       "date_added": "2022-04-08",
@@ -845,10 +845,44 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 269678,
       "name": "With",
       "url": "https://open.spotify.com/track/0Rzx0irygv7gZd8YlvK5aO"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Kim Taeri",
+          "url": "https://open.spotify.com/artist/0bBDQ4QeizwResorw0iD7X"
+        },
+        {
+          "name": "Nam Joohyuk",
+          "url": "https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv"
+        },
+        {
+          "name": "Bona(WJSN)",
+          "url": "https://open.spotify.com/artist/5EHm62VI2botfXyNvboLlL"
+        },
+        {
+          "name": "Choi Hyunwook",
+          "url": "https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ"
+        },
+        {
+          "name": "Lee Joomyung",
+          "url": "https://open.spotify.com/artist/4dN1DsKUXV6xugiarFBAa6"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269678,
+      "name": "With",
+      "url": "https://open.spotify.com/track/73ZHqY7Ma03NpKiKs26yQU"
     },
     {
       "album": {

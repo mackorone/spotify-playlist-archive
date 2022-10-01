@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-05",
-  "description": "Stripped-down versions of all your favorite pop hits. Cover: Halsey",
+  "description": "Stripped-down versions of all your favorite pop hits. Cover: OneRepublic",
   "name": "Unplugged",
   "published_playlist_ids": [
     "6HVsDWyBbAUBPhu4S7Fnez"
@@ -189,10 +189,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210884,
       "name": "Better Days - Stripped",
       "url": "https://open.spotify.com/track/4eYAj2IhOBJwL9s6sFsCwi"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210884,
+      "name": "Better Days - Stripped",
+      "url": "https://open.spotify.com/track/5278MGuTLVxZ4NWrpMjajs"
     },
     {
       "album": {
@@ -250,6 +268,28 @@
     },
     {
       "album": {
+        "name": "Breaking Me (Remixes)",
+        "url": "https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167704,
+      "name": "Breaking Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm"
+    },
+    {
+      "album": {
         "name": "Breaking Me (Acoustic Version)",
         "url": "https://open.spotify.com/album/6XYyxgvciVfSwfy1Lr3aqW"
       },
@@ -265,7 +305,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167704,
       "name": "Breaking Me - Acoustic Version",
       "url": "https://open.spotify.com/track/5GoESTIjlsimLSqtLPBhDw"
@@ -457,10 +497,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274830,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/1YYFccBnGLTgNpzVjmAKQr"
+    },
+    {
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274830,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
     },
     {
       "album": {
@@ -537,6 +595,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204294,
+      "name": "Fool's Gold - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4g4c2rJ1Jwipxrvl568KtG"
       },
       "artists": [
@@ -547,7 +623,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204294,
       "name": "Fool's Gold - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/5PTYfTSOaDdpJWV5u8MBWT"
@@ -809,10 +885,72 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211067,
       "name": "Hypnotized - Acoustic",
       "url": "https://open.spotify.com/track/1o9c8bI4cIWj26DC14nMOF"
+    },
+    {
+      "album": {
+        "name": "Hypnotized (Acoustic)",
+        "url": "https://open.spotify.com/album/31sIFQ5fOYUQZ62LpNmQzY"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211068,
+      "name": "Hypnotized - Acoustic",
+      "url": "https://open.spotify.com/track/47iizIcROe1dhW3ii9cvTf"
+    },
+    {
+      "album": {
+        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149233,
+      "name": "I Ain\u2019t Worried - Acoustic",
+      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
+    },
+    {
+      "album": {
+        "name": "I Do (Acoustic)",
+        "url": "https://open.spotify.com/album/7rexurgfOLxvtVJD2mopnE"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156615,
+      "name": "I Do - Acoustic",
+      "url": "https://open.spotify.com/track/14emyPXkQHRalq1oAlewRz"
     },
     {
       "album": {
@@ -831,7 +969,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156615,
       "name": "I Do - Acoustic",
       "url": "https://open.spotify.com/track/65kVMNO2Q0RGw8zEnXA2E3"
@@ -853,10 +991,32 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186500,
       "name": "i don't wanna know - acoustic",
       "url": "https://open.spotify.com/track/25nRDHdWic4DCEJbaI6iDe"
+    },
+    {
+      "album": {
+        "name": "i don't wanna know",
+        "url": "https://open.spotify.com/album/0BYCTsWZVvFKhjtlzIYNxd"
+      },
+      "artists": [
+        {
+          "name": "GOLDHOUSE",
+          "url": "https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "i don't wanna know - acoustic",
+      "url": "https://open.spotify.com/track/4Z5LVvODOf8KDgxa0DCwG1"
     },
     {
       "album": {
@@ -878,6 +1038,28 @@
     },
     {
       "album": {
+        "name": "~how i'm feeling~ (the extras)",
+        "url": "https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187675,
+      "name": "i'm so tired... - Stripped - Live in LA",
+      "url": "https://open.spotify.com/track/4dgY5vCvBBSylaRvgEd6dj"
+    },
+    {
+      "album": {
         "name": "i'm so tired... (Stripped - Live in LA)",
         "url": "https://open.spotify.com/album/3bKSufZXpfGRvQ5qKBLJNh"
       },
@@ -893,7 +1075,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187675,
       "name": "i'm so tired... - Stripped - Live in LA",
       "url": "https://open.spotify.com/track/6bnT4Xhs1lkOHgFjHq6M3b"
@@ -1251,7 +1433,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 215040,
       "name": "Loverboy - Acoustic",
       "url": "https://open.spotify.com/track/6EdlzHYryob6RgNPuxVCeI"
@@ -1338,6 +1520,24 @@
     },
     {
       "album": {
+        "name": "My My My! (Remixes)",
+        "url": "https://open.spotify.com/album/08GvuwssKcSX2YrTqITDtN"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223106,
+      "name": "My My My! - Acoustic",
+      "url": "https://open.spotify.com/track/2o7aTRkVOAiQSv0CoFUKxk"
+    },
+    {
+      "album": {
         "name": "My My My! (Acoustic)",
         "url": "https://open.spotify.com/album/2lXAwRwgMTwcXS3NNekp6Q"
       },
@@ -1349,7 +1549,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223106,
       "name": "My My My! - Acoustic",
       "url": "https://open.spotify.com/track/4SQG8VU2qmbvgb53ptyjz9"
@@ -1411,10 +1611,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 300174,
       "name": "Never Seen The Rain - Alternate Version",
       "url": "https://open.spotify.com/track/0bd5hilfGwAKLPehO4SnYP"
+    },
+    {
+      "album": {
+        "name": "Never Seen The Rain (Alternate Version)",
+        "url": "https://open.spotify.com/album/7oVHtPdIA5kcxLLiCu2t7N"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300174,
+      "name": "Never Seen The Rain - Alternate Version",
+      "url": "https://open.spotify.com/track/6MYNfMiLwCmA3bRdfzvfcs"
     },
     {
       "album": {
@@ -1487,10 +1705,32 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185019,
       "name": "Paradise - Acoustic",
       "url": "https://open.spotify.com/track/2t2ZWNGHKBD0egqxtCLloy"
+    },
+    {
+      "album": {
+        "name": "Paradise (Guitar Acoustic)",
+        "url": "https://open.spotify.com/album/5VSseS7GXXtGFIhEun2z47"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185019,
+      "name": "Paradise - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/6ehKqIkVCkz9chGBwk3alc"
     },
     {
       "album": {
@@ -1661,6 +1901,24 @@
     {
       "album": {
         "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208066,
+      "name": "SNAP - Acoustic",
+      "url": "https://open.spotify.com/track/1Kg4T22aL4CyoJO1nbAEPe"
+    },
+    {
+      "album": {
+        "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/3CFTu4CTLeQOogO51E6ki3"
       },
       "artists": [
@@ -1671,7 +1929,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-21",
       "duration_ms": 208066,
       "name": "SNAP - Acoustic",
       "url": "https://open.spotify.com/track/4cJfy4NKPrgJuT95gruimF"
@@ -1725,10 +1983,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168758,
       "name": "Somebody - Acoustic",
       "url": "https://open.spotify.com/track/0nWFVoAELIeNcPikBntCJi"
+    },
+    {
+      "album": {
+        "name": "Somebody (Acoustic)",
+        "url": "https://open.spotify.com/album/5yj17bTyrxIP9zpBc12WTh"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168758,
+      "name": "Somebody - Acoustic",
+      "url": "https://open.spotify.com/track/4uY3I4GYC1NfonzhQZuMax"
     },
     {
       "album": {
@@ -1837,7 +2113,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 181609,
       "name": "Sweet Talker - Acoustic",
       "url": "https://open.spotify.com/track/16pWf68x1CzECOHELpeH0S"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5eRHTcvWyEU0MEzNOiR2j1.md) - [plain]
 
 > Putte i Parken arrangeras i år för femte året i rad\. Sommarens festival går av stapeln den 4 \- 7 juli i Karlstad\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 79 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 79 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

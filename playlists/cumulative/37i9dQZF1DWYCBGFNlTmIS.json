@@ -8,78 +8,6 @@
   "tracks": [
     {
       "album": {
-        "name": "48 Hours Remaining",
-        "url": "https://open.spotify.com/album/5c8mB5gW8mQvYQdmQFrnXJ"
-      },
-      "artists": [
-        {
-          "name": "C AllStar",
-          "url": "https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 247000,
-      "name": "48 Hours Remaining",
-      "url": "https://open.spotify.com/track/2zwtWWdKR4d2pw6upUlox0"
-    },
-    {
-      "album": {
-        "name": "LIFE / LINE",
-        "url": "https://open.spotify.com/album/5COhcdEYRQm7wFjsfB8NxA"
-      },
-      "artists": [
-        {
-          "name": "Jay Fung",
-          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 251354,
-      "name": "Bad Time, Good Timing",
-      "url": "https://open.spotify.com/track/5vpP6uz2lQsPpm3F3ySRJr"
-    },
-    {
-      "album": {
-        "name": "Beautiful Dusk",
-        "url": "https://open.spotify.com/album/0yBWVChnY7Yp8QSdasyyAh"
-      },
-      "artists": [
-        {
-          "name": "Endy Chow",
-          "url": "https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 284132,
-      "name": "Beautiful Dusk",
-      "url": "https://open.spotify.com/track/4cenGIbbIWlcryBPsgtQXy"
-    },
-    {
-      "album": {
-        "name": "Beyond the Stars",
-        "url": "https://open.spotify.com/album/6FnVN4GNjzQjssv4iEq7Zk"
-      },
-      "artists": [
-        {
-          "name": "Jay Fung",
-          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 247591,
-      "name": "Beyond the Stars",
-      "url": "https://open.spotify.com/track/6EMw8ztnvj3t8zzGXIZeJP"
-    },
-    {
-      "album": {
         "name": "Ciao",
         "url": "https://open.spotify.com/album/49E9WqCcwPoxlJ288eFG69"
       },
@@ -116,24 +44,6 @@
     },
     {
       "album": {
-        "name": "For those who stay, For those who had left",
-        "url": "https://open.spotify.com/album/65gZmrFaxPaiVEXI2jMuTP"
-      },
-      "artists": [
-        {
-          "name": "C AllStar",
-          "url": "https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244735,
-      "name": "For those who stay, For those who had left",
-      "url": "https://open.spotify.com/track/5Mg4jtsrw6DVRXApAhQm7j"
-    },
-    {
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/0YGoXtO72F2UwLw5oLQJGm"
       },
@@ -149,24 +59,6 @@
       "duration_ms": 286857,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0uH29nIii18yullPms1KE6"
-    },
-    {
-      "album": {
-        "name": "Grounded",
-        "url": "https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT"
-      },
-      "artists": [
-        {
-          "name": "Dear Jane",
-          "url": "https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237000,
-      "name": "Grounded",
-      "url": "https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23"
     },
     {
       "album": {
@@ -207,7 +99,7 @@
     {
       "album": {
         "name": "One Magic Day",
-        "url": "https://open.spotify.com/album/1s957vEtF3hDKLK8ODnM5w"
+        "url": "https://open.spotify.com/album/2jwMeBpR6B3UNwn6zfvrn9"
       },
       "artists": [
         {
@@ -218,6 +110,24 @@
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233213,
+      "name": "It's Hard to Say Goodbye",
+      "url": "https://open.spotify.com/track/1AIeRYe50U9acGcvxoGvat"
+    },
+    {
+      "album": {
+        "name": "One Magic Day",
+        "url": "https://open.spotify.com/album/1s957vEtF3hDKLK8ODnM5w"
+      },
+      "artists": [
+        {
+          "name": "Chet Lam",
+          "url": "https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 233213,
       "name": "It's Hard to Say Goodbye",
       "url": "https://open.spotify.com/track/3nGEdCiaIVCmhNKnLf8Iht"
@@ -260,133 +170,7 @@
     },
     {
       "album": {
-        "name": "My Doppelg\u00e4nger in Copenhagen",
-        "url": "https://open.spotify.com/album/3ObUQkjUZx5P1rz2mChrNq"
-      },
-      "artists": [
-        {
-          "name": "Fiona Sit",
-          "url": "https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220707,
-      "name": "My Doppelg\u00e4nger in Copenhagen",
-      "url": "https://open.spotify.com/track/51QyPUhUxWJ45JENrb2oDF"
-    },
-    {
-      "album": {
-        "name": "No Tomorrow",
-        "url": "https://open.spotify.com/album/1HxO1UY2Otzf4sLikQ3MMk"
-      },
-      "artists": [
-        {
-          "name": "C AllStar",
-          "url": "https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228431,
-      "name": "No Tomorrow",
-      "url": "https://open.spotify.com/track/7sQwncmcjPQTKqEPXSot1v"
-    },
-    {
-      "album": {
-        "name": "Breeze Out",
-        "url": "https://open.spotify.com/album/7peOA0R5Wr9QEMOonn768N"
-      },
-      "artists": [
-        {
-          "name": "Endy Chow",
-          "url": "https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 324079,
-      "name": "Only Lonely",
-      "url": "https://open.spotify.com/track/3hDyV9IdZ9FMkN5fGb21ex"
-    },
-    {
-      "album": {
-        "name": "Precipice",
-        "url": "https://open.spotify.com/album/0mwM80i97Ji3N3xyvPXUZz"
-      },
-      "artists": [
-        {
-          "name": "Jill Vidal",
-          "url": "https://open.spotify.com/artist/4RsRmCGtK9yJmtQulq4lBo"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224538,
-      "name": "Precipice",
-      "url": "https://open.spotify.com/track/2W3R6GPqaDeNGHCWHZa8PH"
-    },
-    {
-      "album": {
-        "name": "The Art Of Farewell",
-        "url": "https://open.spotify.com/album/3hgtFPiQF0qmWM4dLKl7yQ"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5065\u5b89",
-          "url": "https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 296255,
-      "name": "The Art Of Farewell",
-      "url": "https://open.spotify.com/track/4Klbd6usXpmlVoexs6jlI5"
-    },
-    {
-      "album": {
-        "name": "The Hardest Path",
-        "url": "https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cheng",
-          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 218917,
-      "name": "The Hardest Path",
-      "url": "https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n"
-    },
-    {
-      "album": {
-        "name": "Til We Meet Again",
-        "url": "https://open.spotify.com/album/0QV5JRafzBWJ7THqoi5Un5"
-      },
-      "artists": [
-        {
-          "name": "Eman Lam",
-          "url": "https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 256628,
-      "name": "Til We Meet Again",
-      "url": "https://open.spotify.com/track/4GA6tvAQtZb1ePDlQfKVOC"
-    },
-    {
-      "album": {
-        "name": "Kiss GiGi Leung New Songs+Best Hits",
+        "name": "Kiss \u6881\u8a60\u742a\u65b0\u66f2+\u7cbe\u9078",
         "url": "https://open.spotify.com/album/38au6vtwgpGNSEUiMHn34T"
       },
       "artists": [
@@ -401,24 +185,6 @@
       "duration_ms": 218666,
       "name": "Today",
       "url": "https://open.spotify.com/track/1fZKhRmU2mpxL4nX8xtCvq"
-    },
-    {
-      "album": {
-        "name": "We Grew This Way",
-        "url": "https://open.spotify.com/album/4VuD9G02XE4kqet67quDGY"
-      },
-      "artists": [
-        {
-          "name": "Sammi Cheng",
-          "url": "https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 283184,
-      "name": "We Grew This Way",
-      "url": "https://open.spotify.com/track/17rK9wMYbnbMfeeXKO5iZX"
     },
     {
       "album": {
@@ -512,6 +278,24 @@
     },
     {
       "album": {
+        "name": "\u4eba\u985e\u4e0d\u5b9c\u98db\u884c",
+        "url": "https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT"
+      },
+      "artists": [
+        {
+          "name": "Dear Jane",
+          "url": "https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "\u4eba\u985e\u4e0d\u5b9c\u98db\u884c",
+      "url": "https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23"
+    },
+    {
+      "album": {
         "name": "\u4eba\u985e\u7fa4\u661f\u9583\u8000\u6642",
         "url": "https://open.spotify.com/album/1hLx0tCFnduODpxvYYum9o"
       },
@@ -566,6 +350,46 @@
     },
     {
       "album": {
+        "name": "\u98a8\u8d77",
+        "url": "https://open.spotify.com/album/7peOA0R5Wr9QEMOonn768N"
+      },
+      "artists": [
+        {
+          "name": "Endy Chow",
+          "url": "https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324079,
+      "name": "\u4eca\u751f\u4e0d\u56de\u5bb6",
+      "url": "https://open.spotify.com/track/3hDyV9IdZ9FMkN5fGb21ex"
+    },
+    {
+      "album": {
+        "name": "\u4fc2\u5481\u5148\u5566",
+        "url": "https://open.spotify.com/album/0dIldrE3LEHIaSzPHUb1bm"
+      },
+      "artists": [
+        {
+          "name": "MC $oho & KidNey",
+          "url": "https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj"
+        },
+        {
+          "name": "kayan9896",
+          "url": "https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209251,
+      "name": "\u4fc2\u5481\u5148\u5566",
+      "url": "https://open.spotify.com/track/6BZaPX5NnjIIasH6EO0P63"
+    },
+    {
+      "album": {
         "name": "\u4fc2\u5481\u5148\u5566 (feat. Kayan9896)",
         "url": "https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of"
       },
@@ -577,7 +401,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209251,
       "name": "\u4fc2\u5481\u5148\u5566 (feat. Kayan9896)",
       "url": "https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR"
@@ -599,6 +423,24 @@
       "duration_ms": 259736,
       "name": "\u5169\u7a2e\u8a9e\u8a00",
       "url": "https://open.spotify.com/track/1VKVc6v65Bj1ypg360BLQ3"
+    },
+    {
+      "album": {
+        "name": "\u518d\u805a",
+        "url": "https://open.spotify.com/album/0QV5JRafzBWJ7THqoi5Un5"
+      },
+      "artists": [
+        {
+          "name": "Eman Lam",
+          "url": "https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256628,
+      "name": "\u518d\u805a",
+      "url": "https://open.spotify.com/track/4GA6tvAQtZb1ePDlQfKVOC"
     },
     {
       "album": {
@@ -696,6 +538,42 @@
     },
     {
       "album": {
+        "name": "\u544a\u5225\u7684\u85dd\u8853",
+        "url": "https://open.spotify.com/album/3hgtFPiQF0qmWM4dLKl7yQ"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5065\u5b89",
+          "url": "https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296255,
+      "name": "\u544a\u5225\u7684\u85dd\u8853",
+      "url": "https://open.spotify.com/track/4Klbd6usXpmlVoexs6jlI5"
+    },
+    {
+      "album": {
+        "name": "\u54e5\u672c\u54c8\u6839\u7684\u53e6\u4e00\u500b\u6211",
+        "url": "https://open.spotify.com/album/3ObUQkjUZx5P1rz2mChrNq"
+      },
+      "artists": [
+        {
+          "name": "Fiona Sit",
+          "url": "https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220707,
+      "name": "\u54e5\u672c\u54c8\u6839\u7684\u53e6\u4e00\u500b\u6211",
+      "url": "https://open.spotify.com/track/51QyPUhUxWJ45JENrb2oDF"
+    },
+    {
+      "album": {
         "name": "\u5718\u5713\u8aaa",
         "url": "https://open.spotify.com/album/1x04K2Hc3MLci681Q6XTws"
       },
@@ -711,6 +589,42 @@
       "duration_ms": 261122,
       "name": "\u5718\u5713\u8aaa",
       "url": "https://open.spotify.com/track/1hSO2gFy57hFzDzQzDDiei"
+    },
+    {
+      "album": {
+        "name": "\u5730\u7403\u4f86\u7684\u4eba",
+        "url": "https://open.spotify.com/album/6FnVN4GNjzQjssv4iEq7Zk"
+      },
+      "artists": [
+        {
+          "name": "Jay Fung",
+          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247591,
+      "name": "\u5730\u7403\u4f86\u7684\u4eba",
+      "url": "https://open.spotify.com/track/6EMw8ztnvj3t8zzGXIZeJP"
+    },
+    {
+      "album": {
+        "name": "\u5875\u4e16\u7f8e",
+        "url": "https://open.spotify.com/album/0yBWVChnY7Yp8QSdasyyAh"
+      },
+      "artists": [
+        {
+          "name": "Endy Chow",
+          "url": "https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284132,
+      "name": "\u5875\u4e16\u7f8e",
+      "url": "https://open.spotify.com/track/4cenGIbbIWlcryBPsgtQXy"
     },
     {
       "album": {
@@ -870,6 +784,24 @@
     },
     {
       "album": {
+        "name": "\u61f8\u5d16\u6709\u8def",
+        "url": "https://open.spotify.com/album/0mwM80i97Ji3N3xyvPXUZz"
+      },
+      "artists": [
+        {
+          "name": "Jill Vidal",
+          "url": "https://open.spotify.com/artist/4RsRmCGtK9yJmtQulq4lBo"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224538,
+      "name": "\u61f8\u5d16\u6709\u8def",
+      "url": "https://open.spotify.com/track/2W3R6GPqaDeNGHCWHZa8PH"
+    },
+    {
+      "album": {
         "name": "\u5bc2\u5bde\u7684\u661f\u671f\u4e94",
         "url": "https://open.spotify.com/album/49MdV5EejhiQ1B4jygA17g"
       },
@@ -885,6 +817,24 @@
       "duration_ms": 158263,
       "name": "\u6211\u5011\u4e00\u8d77\u96e2\u958b\u5427",
       "url": "https://open.spotify.com/track/5HtnfNpC6FoeKIswjbML92"
+    },
+    {
+      "album": {
+        "name": "\u6211\u5011\u90fd\u662f\u9019\u6a23\u9577\u5927\u7684",
+        "url": "https://open.spotify.com/album/4VuD9G02XE4kqet67quDGY"
+      },
+      "artists": [
+        {
+          "name": "Sammi Cheng",
+          "url": "https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283184,
+      "name": "\u6211\u5011\u90fd\u662f\u9019\u6a23\u9577\u5927\u7684",
+      "url": "https://open.spotify.com/track/17rK9wMYbnbMfeeXKO5iZX"
     },
     {
       "album": {
@@ -961,6 +911,24 @@
       "duration_ms": 253818,
       "name": "\u6642\u5149\u5012\u6d41\u4e00\u53e5\u8a71",
       "url": "https://open.spotify.com/track/63QmxPL3QlchvXcHLsI6UM"
+    },
+    {
+      "album": {
+        "name": "\u6700\u96e3\u884c\u7684\u8def",
+        "url": "https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cheng",
+          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218917,
+      "name": "\u6700\u96e3\u884c\u7684\u8def",
+      "url": "https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n"
     },
     {
       "album": {
@@ -1066,6 +1034,42 @@
     },
     {
       "album": {
+        "name": "\u85b0\u59ae\u7684\u597d\u6b4c\u96c6",
+        "url": "https://open.spotify.com/album/4VowPNLAL6DfctN8bQWRDB"
+      },
+      "artists": [
+        {
+          "name": "\u85b0\u59ae",
+          "url": "https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
+      "duration_ms": 177323,
+      "name": "\u6bcf\u7576\u8b8a\u5e7b\u6642",
+      "url": "https://open.spotify.com/track/2DL0htS3Ee4EJlVdaM3KwT"
+    },
+    {
+      "album": {
+        "name": "\u85b0\u59ae\u956d\u5c04\u5927\u789f",
+        "url": "https://open.spotify.com/album/2jd6r5f3gFI3EJV1tXeJ3W"
+      },
+      "artists": [
+        {
+          "name": "\u85b0\u59ae",
+          "url": "https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177323,
+      "name": "\u6bcf\u7576\u8b8a\u5e7b\u6642",
+      "url": "https://open.spotify.com/track/78C752I4sPRnHFtbjJtOAe"
+    },
+    {
+      "album": {
         "name": "\u85b0\u59ae\u91d1\u66f2\u7b2c\u4e00\u8f2f",
         "url": "https://open.spotify.com/album/38d8EcOEKEfggLTi28mQaX"
       },
@@ -1077,10 +1081,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181880,
       "name": "\u6bcf\u7576\u8b8a\u5e7b\u6642",
       "url": "https://open.spotify.com/track/2106dcOEIQ5OK25y2X3QyR"
+    },
+    {
+      "album": {
+        "name": "\u6c92\u660e\u65e5\u7684\u6050\u61fc",
+        "url": "https://open.spotify.com/album/1HxO1UY2Otzf4sLikQ3MMk"
+      },
+      "artists": [
+        {
+          "name": "C AllStar",
+          "url": "https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228431,
+      "name": "\u6c92\u660e\u65e5\u7684\u6050\u61fc",
+      "url": "https://open.spotify.com/track/7sQwncmcjPQTKqEPXSot1v"
     },
     {
       "album": {
@@ -1175,6 +1197,42 @@
       "duration_ms": 264956,
       "name": "\u751f",
       "url": "https://open.spotify.com/track/2jvSY489LEysR7h3vK3L4t"
+    },
+    {
+      "album": {
+        "name": "LIFE / LINE",
+        "url": "https://open.spotify.com/album/5COhcdEYRQm7wFjsfB8NxA"
+      },
+      "artists": [
+        {
+          "name": "Jay Fung",
+          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251354,
+      "name": "\u751f\u4e0d\u9022\u6642",
+      "url": "https://open.spotify.com/track/5vpP6uz2lQsPpm3F3ySRJr"
+    },
+    {
+      "album": {
+        "name": "\u7559\u4e0b\u4f86\u7684\u4eba",
+        "url": "https://open.spotify.com/album/65gZmrFaxPaiVEXI2jMuTP"
+      },
+      "artists": [
+        {
+          "name": "C AllStar",
+          "url": "https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244735,
+      "name": "\u7559\u4e0b\u4f86\u7684\u4eba",
+      "url": "https://open.spotify.com/track/5Mg4jtsrw6DVRXApAhQm7j"
     },
     {
       "album": {
@@ -1312,6 +1370,24 @@
     },
     {
       "album": {
+        "name": "\u9084\u670948\u5c0f\u6642",
+        "url": "https://open.spotify.com/album/5c8mB5gW8mQvYQdmQFrnXJ"
+      },
+      "artists": [
+        {
+          "name": "C AllStar",
+          "url": "https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "\u9084\u670948\u5c0f\u6642",
+      "url": "https://open.spotify.com/track/2zwtWWdKR4d2pw6upUlox0"
+    },
+    {
+      "album": {
         "name": "Swing \u5230\u76e1",
         "url": "https://open.spotify.com/album/1ynk9pR2lVVN0yOi8i8Rr6"
       },
@@ -1341,10 +1417,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182133,
       "name": "\u9435\u5854\u51cc\u96f2",
       "url": "https://open.spotify.com/track/6Gfx0HhDiSHf9yZjOyDGQD"
+    },
+    {
+      "album": {
+        "name": "\u771f\u7d93\u5178 - \u8a31\u51a0\u5091",
+        "url": "https://open.spotify.com/album/6Lzj5H2oIrmZgynj212qal"
+      },
+      "artists": [
+        {
+          "name": "Sam Hui",
+          "url": "https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "\u9435\u5854\u51cc\u96f2",
+      "url": "https://open.spotify.com/track/5ALKwvEgxQpqrtCAJCvQhA"
     },
     {
       "album": {
@@ -1366,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "\u904a\u6a02",
+        "url": "https://open.spotify.com/album/5Ydyl1o47u4z0efeDOR2cz"
+      },
+      "artists": [
+        {
+          "name": "Chet Lam",
+          "url": "https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "\u96e2\u958b, \u662f\u70ba\u4e86\u56de\u4f86",
+      "url": "https://open.spotify.com/track/7tjBSD63FgLBT3EtFvH3Lh"
+    },
+    {
+      "album": {
         "name": "\u904a\u6a02 (Travelogue One)",
         "url": "https://open.spotify.com/album/22ads6jK2PIjA6leBW8tlk"
       },
@@ -1377,7 +1489,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237333,
       "name": "\u96e2\u958b\u662f\u70ba\u4e86\u56de\u4f86 (Leaving Is for Coming Back)",
       "url": "https://open.spotify.com/track/472quLRMJ7dv03LSbV3WGC"

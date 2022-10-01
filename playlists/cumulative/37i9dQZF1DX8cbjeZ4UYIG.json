@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 328829,
       "name": "40 Miles",
       "url": "https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo"
@@ -37,10 +37,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213800,
       "name": "A Trip To Trumpton",
       "url": "https://open.spotify.com/track/3pxGMD0kIX25alO1EVFvdG"
+    },
+    {
+      "album": {
+        "name": "Conspiracy to Dance",
+        "url": "https://open.spotify.com/album/5ZZWCQDEpQP09K6GyDziTd"
+      },
+      "artists": [
+        {
+          "name": "Urban Hype",
+          "url": "https://open.spotify.com/artist/3bc9afAmYFjpZAlUCdivKO"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215266,
+      "name": "A Trip to Trumpton",
+      "url": "https://open.spotify.com/track/2XOZtfX5jRhHClanQCQKCB"
     },
     {
       "album": {
@@ -73,7 +91,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 334293,
       "name": "Activ-8 (Come with Me)",
       "url": "https://open.spotify.com/track/4ZeT5M0UGhXzJa2IJ41Rjb"
@@ -109,7 +127,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-08-19",
       "duration_ms": 273613,
       "name": "Anasthasia",
       "url": "https://open.spotify.com/track/5uEjOkEKaOs5BFkGGahSR7"
@@ -163,7 +181,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 397133,
       "name": "Beep Street",
       "url": "https://open.spotify.com/track/4ygcdmPyBFEaf25SEEsKrz"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-08-19",
       "duration_ms": 340986,
       "name": "Breaking Free",
       "url": "https://open.spotify.com/track/6IRt1vOT1AyMpmhfTZLDy8"
@@ -206,6 +224,24 @@
     },
     {
       "album": {
+        "name": "The Sound Of Belgium",
+        "url": "https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN"
+      },
+      "artists": [
+        {
+          "name": "CJ Bolland",
+          "url": "https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 384475,
+      "name": "Camargue",
+      "url": "https://open.spotify.com/track/3W6LDkmCTlAktnIt9yQrY3"
+    },
+    {
+      "album": {
         "name": "In Order to Dance",
         "url": "https://open.spotify.com/album/1z1mTAGY4CI7FbzM5llGlg"
       },
@@ -217,7 +253,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 385493,
       "name": "Carmargue",
       "url": "https://open.spotify.com/track/0QPIixOXVmZI1KeMhIzHxv"
@@ -260,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294533,
+      "name": "Clear",
+      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
+    },
+    {
+      "album": {
         "name": "Code Red",
         "url": "https://open.spotify.com/album/3J7BL97p8taetIOLtaXyI6"
       },
@@ -271,7 +325,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": "2022-07-21",
       "duration_ms": 271106,
       "name": "Code Red",
       "url": "https://open.spotify.com/track/4m3WUb2XPPaVgLBUc5SsNJ"
@@ -289,10 +343,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 245106,
       "name": "Cubes",
       "url": "https://open.spotify.com/track/6SWyIMaXdpLkhiItiS40yw"
+    },
+    {
+      "album": {
+        "name": "Utd. State 90",
+        "url": "https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221066,
+      "name": "C\u00fcbik",
+      "url": "https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa"
     },
     {
       "album": {
@@ -307,10 +379,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224506,
       "name": "C\u00fcbik (Original Mix)",
       "url": "https://open.spotify.com/track/4wOqlDz4gK8tmIBHkOery6"
+    },
+    {
+      "album": {
+        "name": "Digeridoo",
+        "url": "https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431466,
+      "name": "Digeridoo",
+      "url": "https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU"
     },
     {
       "album": {
@@ -325,10 +415,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 431466,
       "name": "Digeridoo",
       "url": "https://open.spotify.com/track/7bjcxlsSW1WzCnJyMgbq6V"
+    },
+    {
+      "album": {
+        "name": "DJs Take Control",
+        "url": "https://open.spotify.com/album/57CmPHHFqK8aa3Yknb3hQW"
+      },
+      "artists": [
+        {
+          "name": "SL2",
+          "url": "https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305613,
+      "name": "DJs Take Control",
+      "url": "https://open.spotify.com/track/4BBQFns2zAlQHdIvEpVG2p"
     },
     {
       "album": {
@@ -343,10 +451,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 311293,
       "name": "DJs Take Control",
       "url": "https://open.spotify.com/track/29Ek0vWQgsswdXfWrkt1Mz"
+    },
+    {
+      "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/70T1jyWOTEWxuvLIQjg1km"
+      },
+      "artists": [
+        {
+          "name": "Awesome 3",
+          "url": "https://open.spotify.com/artist/4qonlcYcLvt22gP54K6oeL"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311680,
+      "name": "Don't Go - Original Mix",
+      "url": "https://open.spotify.com/track/7DOgJIDxCOsPYHXQZIuseF"
     },
     {
       "album": {
@@ -361,7 +487,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 189773,
       "name": "Don't You Want Me - Edit",
       "url": "https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0"
@@ -379,7 +505,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 311680,
       "name": "Don\u2019t Go (Original Mix)",
       "url": "https://open.spotify.com/track/3vvPzmRKwWXDosbNCkJ44P"
@@ -397,7 +523,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 468613,
       "name": "Dub War - Chapter One",
       "url": "https://open.spotify.com/track/5sc9CDaEgyX1EDztFkS5p2"
@@ -415,7 +541,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 321226,
       "name": "E-Vapor-8",
       "url": "https://open.spotify.com/track/4iAKdClYxItZVrTrwzkIvA"
@@ -433,7 +559,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234786,
       "name": "Ebeneezer Goode - Beat Edit",
       "url": "https://open.spotify.com/track/3cJiAK4ogUaUrx2E0lDvUt"
@@ -451,10 +577,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 350096,
       "name": "Energy Flash",
       "url": "https://open.spotify.com/track/6QBL3OaSCbTbI1N8Oy5twv"
+    },
+    {
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/28lpBShPdRMmQxT2kEAKMq"
+      },
+      "artists": [
+        {
+          "name": "Joey Beltram",
+          "url": "https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350813,
+      "name": "Energy Flash",
+      "url": "https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK"
     },
     {
       "album": {
@@ -494,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Far Out/Higher",
+        "url": "https://open.spotify.com/album/3OGpPRrKarUlNG4bF4sn6M"
+      },
+      "artists": [
+        {
+          "name": "Sonz Of A Loop Da Loop Era",
+          "url": "https://open.spotify.com/artist/7BVU0VCeUMAa18zDX5mOyh"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295720,
+      "name": "Far out",
+      "url": "https://open.spotify.com/track/72qHsDcLYFyPTqKAmQcm4h"
+    },
+    {
+      "album": {
         "name": "Reinforced Presents Callin For Reinforcements",
         "url": "https://open.spotify.com/album/5w8cU8ixaBD5NjjNnFG7mA"
       },
@@ -505,7 +667,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 280853,
       "name": "Feel Real Good",
       "url": "https://open.spotify.com/track/0JaqIqqFzNkQFoCJTFrakV"
@@ -523,7 +685,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 305082,
       "name": "Future Sound",
       "url": "https://open.spotify.com/track/4XGtrrre6mcmeciRhH2ClM"
@@ -541,10 +703,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-07-29",
       "duration_ms": 431986,
       "name": "Guess",
       "url": "https://open.spotify.com/track/0NKri6cXGR5Kq8t5BXHVfa"
+    },
+    {
+      "album": {
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567106,
+      "name": "Halcyon and On and On",
+      "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
     },
     {
       "album": {
@@ -559,7 +739,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 567106,
       "name": "Halcyon and On and On",
       "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
@@ -577,7 +757,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 299693,
       "name": "High - Original Mix",
       "url": "https://open.spotify.com/track/7cczaN8rKLcNnE1pOz3COT"
@@ -653,7 +833,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 360012,
       "name": "It's a Jazz Thing - Utah Jazz Remix",
       "url": "https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH"
@@ -689,7 +869,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 391106,
       "name": "Keep The Fire Burning - Original 12-Inch Versions",
       "url": "https://open.spotify.com/track/0nOqKydHOJHPGm3zd2SAej"
@@ -743,10 +923,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 319266,
       "name": "LFO",
       "url": "https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5"
+    },
+    {
+      "album": {
+        "name": "Jungle Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z"
+      },
+      "artists": [
+        {
+          "name": "Tom & Jerry",
+          "url": "https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245173,
+      "name": "Maximum Style (Lover To Lover)",
+      "url": "https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b"
     },
     {
       "album": {
@@ -761,7 +959,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274893,
       "name": "Mentasm",
       "url": "https://open.spotify.com/track/4PkOr5eGNoTCDXxKHhNyMF"
@@ -786,6 +984,24 @@
     },
     {
       "album": {
+        "name": "Music for the Jilted Generation",
+        "url": "https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-27",
+      "duration_ms": 379906,
+      "name": "No Good (Start the Dance)",
+      "url": "https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0"
+    },
+    {
+      "album": {
         "name": "More Music for the Jilted Generation",
         "url": "https://open.spotify.com/album/6wZgpIgQWZzq8qKJrU7ELd"
       },
@@ -797,7 +1013,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 377826,
       "name": "No Good (Start the Dance) [Remastered]",
       "url": "https://open.spotify.com/track/1qHKYuAeVf0XISmgwaacHf"
@@ -822,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "On a Ragga Tip '97",
+        "url": "https://open.spotify.com/album/6HuS4ewokxN2PuHtyKsaPI"
+      },
+      "artists": [
+        {
+          "name": "SL2",
+          "url": "https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309426,
+      "name": "On a Ragga Tip '97 - Original Mix",
+      "url": "https://open.spotify.com/track/7gX6Y2jhsrVqu9qIrxpPof"
+    },
+    {
+      "album": {
         "name": "On A Ragga Tip \u201897",
         "url": "https://open.spotify.com/album/4gXHhO7gttlHkNKIaiRHyX"
       },
@@ -833,7 +1067,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 309426,
       "name": "On A Ragga Tip \u201897 (original Mix)",
       "url": "https://open.spotify.com/track/7LzePPG7eWPV5TBefnwwvP"
@@ -851,7 +1085,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 319666,
       "name": "Only You (Original Mix) [2011 Remastered Version]",
       "url": "https://open.spotify.com/track/2Sn0kVVniQtPXHy3yqRwNt"
@@ -880,6 +1114,24 @@
     },
     {
       "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302106,
+      "name": "Out of Space",
+      "url": "https://open.spotify.com/track/6cYJBIE9FC1QAoPw5EhdLA"
+    },
+    {
+      "album": {
         "name": "Experience: Expanded (Remastered)",
         "url": "https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy"
       },
@@ -891,7 +1143,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298533,
       "name": "Out Of Space (Remastered)",
       "url": "https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS"
@@ -909,10 +1161,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 350560,
       "name": "Pacific State",
       "url": "https://open.spotify.com/track/3t9dq1I2VKPmEcatwRkJ9P"
+    },
+    {
+      "album": {
+        "name": "ESP: The 808 State Effect",
+        "url": "https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351400,
+      "name": "Pacific State",
+      "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
     },
     {
       "album": {
@@ -927,7 +1197,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 308600,
       "name": "Panic",
       "url": "https://open.spotify.com/track/12IgeOceRuMzBymb9zTAWr"
@@ -963,7 +1233,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 286973,
       "name": "Phog (Original Mix)",
       "url": "https://open.spotify.com/track/6TW9QNuBnRiJjJnEqaAtZI"
@@ -999,7 +1269,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": "2022-07-25",
       "duration_ms": 368941,
       "name": "Pranksters",
       "url": "https://open.spotify.com/track/42O0m0UmFUtzaB4pnC5XkN"
@@ -1017,7 +1287,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": "2022-07-27",
       "duration_ms": 370973,
       "name": "Pulp Fiction",
       "url": "https://open.spotify.com/track/6rdX0la76j3RGwtZ3id80o"
@@ -1057,10 +1327,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-08",
       "duration_ms": 200126,
       "name": "Quadrophonia",
       "url": "https://open.spotify.com/track/3UWI95pROyfLZZz4YEwFP3"
+    },
+    {
+      "album": {
+        "name": "R.I.P / Ice Cream & Syrup",
+        "url": "https://open.spotify.com/album/5RX5DEe12BK2L8FCCPQv3W"
+      },
+      "artists": [
+        {
+          "name": "Remarc",
+          "url": "https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276263,
+      "name": "R.I.P.",
+      "url": "https://open.spotify.com/track/1SHNtEYq8rz1MnCpAQVHnP"
     },
     {
       "album": {
@@ -1075,7 +1363,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-08-16",
       "duration_ms": 262191,
       "name": "Raving I'm Raving - Remix.mp3",
       "url": "https://open.spotify.com/track/0xi6k3xSyrxWG0oeQMQJnk"
@@ -1093,7 +1381,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198733,
       "name": "Rhythm Is A Mystery - Radio Edit",
       "url": "https://open.spotify.com/track/366YPzDm8YVTAXgpe7EqJz"
@@ -1129,10 +1417,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 355880,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/1ufw4MHpNrimD5e6pna6JA"
+    },
+    {
+      "album": {
+        "name": "Utah Saints",
+        "url": "https://open.spotify.com/album/75Nl51OzRYnIsJEYcY10Bz"
+      },
+      "artists": [
+        {
+          "name": "Utah Saints",
+          "url": "https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355880,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/22AvpWbOtNTiem8jKDk8QO"
     },
     {
       "album": {
@@ -1147,7 +1453,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 239462,
       "name": "Sonic Empire - Short Mix",
       "url": "https://open.spotify.com/track/4qAu9FbxaULlca8tvHI8Tl"
@@ -1165,10 +1471,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": null,
       "duration_ms": 226293,
       "name": "Such A Good Feeling - Radio Edit",
       "url": "https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2"
+    },
+    {
+      "album": {
+        "name": "Sweet Harmony",
+        "url": "https://open.spotify.com/album/2SyBDNNhCrhgxQDBCvNcZ3"
+      },
+      "artists": [
+        {
+          "name": "Liquid",
+          "url": "https://open.spotify.com/artist/4wxJRtX2kEmKXtr0mMzHr9"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262026,
+      "name": "Sweet Harmony",
+      "url": "https://open.spotify.com/track/2P79o8njc5X9NbgiGbRwpx"
     },
     {
       "album": {
@@ -1183,10 +1507,32 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267306,
       "name": "Sweet Harmony (Original Mix)",
       "url": "https://open.spotify.com/track/2321L83MMqryXE2eHB6PQT"
+    },
+    {
+      "album": {
+        "name": "Jungle Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z"
+      },
+      "artists": [
+        {
+          "name": "M-Beat",
+          "url": "https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g"
+        },
+        {
+          "name": "Nazlin",
+          "url": "https://open.spotify.com/artist/7EHyk9B3KdWJFIbMpte5GL"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238760,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt"
     },
     {
       "album": {
@@ -1241,10 +1587,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-29",
       "duration_ms": 283891,
       "name": "Tell Me Why - M&M Full Vocal",
       "url": "https://open.spotify.com/track/68cpQ6mpnMiE96PbUwJs7q"
+    },
+    {
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG"
+      },
+      "artists": [
+        {
+          "name": "Rachel Wallace",
+          "url": "https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287276,
+      "name": "Tell Me Why - M&M Full Vocal",
+      "url": "https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y"
     },
     {
       "album": {
@@ -1259,7 +1623,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 364000,
       "name": "The Bouncer - Housequake Mix",
       "url": "https://open.spotify.com/track/6OlygUNPF9IhPo7Zhri6sU"
@@ -1277,7 +1641,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 292466,
       "name": "The Noise - The Remix",
       "url": "https://open.spotify.com/track/5MDMgJLTMZkjZsuJbdOYAw"
@@ -1295,7 +1659,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-07-29",
       "duration_ms": 370574,
       "name": "The Slammer",
       "url": "https://open.spotify.com/track/60dIWuXNawICpr6PnvXJXQ"
@@ -1313,7 +1677,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 277733,
       "name": "This is Acid",
       "url": "https://open.spotify.com/track/23HpSrqrULF8mF1WKdZRyl"
@@ -1331,7 +1695,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-24",
       "duration_ms": 374320,
       "name": "This Sound Is For The Underground",
       "url": "https://open.spotify.com/track/6BCsyVKwnygKH7qmX4MaK3"
@@ -1349,7 +1713,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 334129,
       "name": "This Style",
       "url": "https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2"
@@ -1385,7 +1749,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2022-07-27",
       "duration_ms": 396000,
       "name": "Trip To The Moon Pt.3",
       "url": "https://open.spotify.com/track/1PsIlH7004JzBcpxqY9ONx"
@@ -1403,10 +1767,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270733,
       "name": "Valley of the Shadows",
       "url": "https://open.spotify.com/track/0FOUhsELYGYIXBE10lblg9"
+    },
+    {
+      "album": {
+        "name": "Valley of the Shadows",
+        "url": "https://open.spotify.com/album/5fWVvxaSJgpESrUvNIk9PF"
+      },
+      "artists": [
+        {
+          "name": "Origin Unknown",
+          "url": "https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280973,
+      "name": "Valley of the Shadows",
+      "url": "https://open.spotify.com/track/6fzwardfFs6sVfNA5R1ypt"
     },
     {
       "album": {
@@ -1421,7 +1803,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-07-27",
       "duration_ms": 232173,
       "name": "Virtual Reality",
       "url": "https://open.spotify.com/track/0CL3dgB2zxfXp4bikncXmk"
@@ -1439,10 +1821,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 387066,
       "name": "Voodoo People",
       "url": "https://open.spotify.com/track/03QUcrQ2EyMJv6q7KY3kS5"
+    },
+    {
+      "album": {
+        "name": "Music for the Jilted Generation",
+        "url": "https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387066,
+      "name": "Voodoo People",
+      "url": "https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl"
     },
     {
       "album": {
@@ -1457,10 +1857,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298004,
       "name": "We Are I.E. - Original Extended Edit",
       "url": "https://open.spotify.com/track/5updfQssZ3S5hmPSyPhHdV"
+    },
+    {
+      "album": {
+        "name": "We Are I.E.",
+        "url": "https://open.spotify.com/album/0tZD3DurMqNzntpB60M5cH"
+      },
+      "artists": [
+        {
+          "name": "Lennie De Ice",
+          "url": "https://open.spotify.com/artist/5FlgrBF71OneBX2lLRe4Tj"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298004,
+      "name": "We Are I.E. - Original Extended Edit",
+      "url": "https://open.spotify.com/track/7Li4jlU5MVqS5f3J2ooviA"
     },
     {
       "album": {
@@ -1475,10 +1893,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 331266,
       "name": "Your Love (Remix)",
       "url": "https://open.spotify.com/track/4axNug8UrlC0ndpSNhe5iF"
+    },
+    {
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331266,
+      "name": "Your Love - Remix",
+      "url": "https://open.spotify.com/track/6vsy0Bg3BeAyq7INPGEA2o"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8cbjeZ4UYIG"

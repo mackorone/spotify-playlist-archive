@@ -66,6 +66,32 @@
     },
     {
       "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/11bGclhH9B9N6cMeien55M"
+      },
+      "artists": [
+        {
+          "name": "Raghav",
+          "url": "https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9"
+        },
+        {
+          "name": "Frankey Maxx",
+          "url": "https://open.spotify.com/artist/3SEDKbLCS18fjSBfWkIaHN"
+        },
+        {
+          "name": "Jucxi D.",
+          "url": "https://open.spotify.com/artist/2NEhzN2aVE5rZ0qYRoP8jO"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251160,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/7ocWe921mNYUbG7oq47VHa"
+    },
+    {
+      "album": {
         "name": "Storyteller",
         "url": "https://open.spotify.com/album/4qKUcQnmVYSmZtMI4Cw7jT"
       },
@@ -85,7 +111,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251186,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/5hdhCuaAl48gXMCpueXF6a"
@@ -421,10 +447,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 277386,
       "name": "Maine Payal Hai Chhankai",
       "url": "https://open.spotify.com/track/79mTw48OApemSCN9WNMApk"
+    },
+    {
+      "album": {
+        "name": "Maine Payal Hai Chhankai & Other Hits",
+        "url": "https://open.spotify.com/album/4qahs4ZSSw4yVX6HIghALw"
+      },
+      "artists": [
+        {
+          "name": "Falguni Pathak",
+          "url": "https://open.spotify.com/artist/6nAVJkZZ55jorZmO5bpezv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279026,
+      "name": "Maine Payal Hai Chhankai",
+      "url": "https://open.spotify.com/track/51EUKH2M1QGN50iGUlnxmU"
     },
     {
       "album": {
@@ -509,10 +553,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 361706,
       "name": "Paree",
       "url": "https://open.spotify.com/track/6tY5QQhqKXRd8qCDaTlAmg"
+    },
+    {
+      "album": {
+        "name": "Dhuan",
+        "url": "https://open.spotify.com/album/3aM2nInNBIUFZRbzevm0Jp"
+      },
+      "artists": [
+        {
+          "name": "Suneeta Rao",
+          "url": "https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361706,
+      "name": "Paree",
+      "url": "https://open.spotify.com/track/7xlZrgxFI83OCzNYFyO50x"
     },
     {
       "album": {
@@ -744,6 +806,24 @@
     },
     {
       "album": {
+        "name": "Dil 2 Dil",
+        "url": "https://open.spotify.com/album/50JH6OeMZo0F7XscrPFVJ4"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264760,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/0T24T41ZMfp5pMGU02mFu3"
+    },
+    {
+      "album": {
         "name": "Kismat",
         "url": "https://open.spotify.com/album/6NwJDSDCIDYN50RUQR6euY"
       },
@@ -755,7 +835,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266040,
       "name": "Tu",
       "url": "https://open.spotify.com/track/5LwIiYNIlFOt4lUiRitq3V"

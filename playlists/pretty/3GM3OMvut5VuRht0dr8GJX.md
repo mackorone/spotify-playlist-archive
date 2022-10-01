@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/3GM3OMvut5VuRht0dr8GJX.md) - [plain]
 | 47 | [Manic Monday](https://open.spotify.com/track/5KYoPa5akZxiCn38xelbqI) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light](https://open.spotify.com/album/3hT7UdiMQ2FtQp9BDXFqXl) | 3:04 |
 | 48 | [Walk of Life](https://open.spotify.com/track/5ij84aZDvRN4zSHSh2L6pl) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Sultans of Swing \- the Very Best of Dire Straits](https://open.spotify.com/album/3Rk48nd3gDgBIq0uYT98AS) | 4:12 |
 | 49 | [Amanda](https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Third Stage](https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv) | 4:16 |
-| 50 | [Two of Hearts](https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1) | [Stacey Q](https://open.spotify.com/artist/3q8tRS0hCMVCylgKAoA0ya) | [Better Than Heaven](https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa) | 3:57 |
+| 50 | [Two of Hearts](https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1) | [Stacey Q](https://open.spotify.com/artist/3q8tRS0hCMVCylgKAoA0ya) | [Better Than Heaven](https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa) | 3:59 |
 
 Snapshot ID: `Myw1ODgwODY3ZGJmZmY4YWZmMGNiMmYyNjdjMDYyYWQ1MjE2NTI2YWM4`

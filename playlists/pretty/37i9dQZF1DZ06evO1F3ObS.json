@@ -1,17 +1,33 @@
 {
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 14203,
+  "num_followers": 15035,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc2MzYwMjAsMDAwMDAwMDA2ODgyY2Y4MTA5YTNkMzI4MDE1YzAzZjMwMGJhZjZiMg==",
+  "snapshot_id": "Mjc3NDI0MDksMDAwMDAwMDBmMGIzNjczODBkMDQ5MTc3MDA3NjBiNDk3YjdjYWFhYQ==",
   "tracks": [
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "Forget-me-not",
+        "name": "unknown",
+        "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 269120,
+      "name": "ANIMA",
+      "url": "https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "forget-me-not",
         "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
       },
       "artists": [
@@ -20,12 +36,44 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 293746,
-      "name": "Niji No Kanatani",
-      "url": "https://open.spotify.com/track/73EQPKdoo72AxZXJ7Xhiq1"
+      "duration_ms": 266560,
+      "name": "forget-me-not",
+      "url": "https://open.spotify.com/track/6DCOPYnwHSpJ0GCKaXdjn5"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30bf\u3099\u30f3\u30b9?",
+        "url": "https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30bf\u3099\u30f3\u30b9?",
+      "url": "https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "\u751f\u547d\u7dda",
+        "url": "https://open.spotify.com/album/3SwHgKMcPcYO2KIFOSILxx"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 255520,
+      "name": "\u751f\u547d\u7dda",
+      "url": "https://open.spotify.com/track/0xWl3d2OOeKJvbebz5lUlm"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
       "album": {
         "name": "unknown",
         "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
@@ -41,10 +89,10 @@
       "url": "https://open.spotify.com/track/4iaSSJYuSYd9MSOQ2au3Pc"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "Seimeisen",
-        "url": "https://open.spotify.com/album/3SwHgKMcPcYO2KIFOSILxx"
+        "name": "forget-me-not",
+        "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
       },
       "artists": [
         {
@@ -52,14 +100,14 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 255520,
-      "name": "Seimeisen",
-      "url": "https://open.spotify.com/track/0xWl3d2OOeKJvbebz5lUlm"
+      "duration_ms": 293746,
+      "name": "\u8679\u306e\u5f7c\u65b9\u306b",
+      "url": "https://open.spotify.com/track/73EQPKdoo72AxZXJ7Xhiq1"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "Nainai",
+        "name": "\u306a\u3044\u306a\u3044",
         "url": "https://open.spotify.com/album/32zJ24dBNSbpAb5Ivc7Osp"
       },
       "artists": [
@@ -69,14 +117,14 @@
         }
       ],
       "duration_ms": 254093,
-      "name": "Nainai",
+      "name": "\u306a\u3044\u306a\u3044",
       "url": "https://open.spotify.com/track/1VVFJeC7AWaDcC6eCr3XqV"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "Shall we Dance",
-        "url": "https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ"
+        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
+        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
       },
       "artists": [
         {
@@ -84,12 +132,12 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 266906,
-      "name": "Shall we Dance",
-      "url": "https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF"
+      "duration_ms": 315897,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
         "name": "SWEET HURT",
         "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
@@ -101,11 +149,11 @@
         }
       ],
       "duration_ms": 287040,
-      "name": "Canaria",
+      "name": "\u30ab\u30ca\u30ea\u30a2",
       "url": "https://open.spotify.com/track/4vn0eCi3dRwGDHdyskh3Oy"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
@@ -121,9 +169,25 @@
       "url": "https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "Tsukihime -A piece of blue glass moon- THEME SONG E.P.",
+        "name": "\u30cd\u30ea\u30e4\u30ab\u30ca\u30e4 ~\u7f8e\u3089\u5944\u7f8e~",
+        "url": "https://open.spotify.com/album/0QV4t1Qt8T9hBo0UtenRvQ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "\u30cd\u30ea\u30e4\u30ab\u30ca\u30e4 ~\u7f8e\u3089\u5944\u7f8e~",
+      "url": "https://open.spotify.com/track/1X11FE8znvNDJ1TqUOshXi"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
         "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
       },
       "artists": [
@@ -133,14 +197,14 @@
         }
       ],
       "duration_ms": 263321,
-      "name": "Juvenile",
+      "name": "\u30b8\u30e5\u30d6\u30ca\u30a4\u30eb",
       "url": "https://open.spotify.com/track/0aNo5AAvXdaY2bFUQ0OedX"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/5Dfj0lFPagb6MG3cUV8lH3"
+        "name": "SWEET HURT",
+        "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
       },
       "artists": [
         {
@@ -148,12 +212,64 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 318013,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/6wI3Tt9Nwk3VPiL2FlqYxV"
+      "duration_ms": 277480,
+      "name": "SWEET HURT",
+      "url": "https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 266093,
+      "name": "\u30e9\u30a4\u30d5\u30fb\u30a4\u30ba\u30fb\u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30a9\u30fc",
+      "url": "https://open.spotify.com/track/16USvX84tvZa3ppnS06N1e"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "time",
+        "url": "https://open.spotify.com/album/18bxCRrBnYE2CKtnJWrgMj"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "time",
+      "url": "https://open.spotify.com/track/7grcN18xiQDGUVqWR7mUF0"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
+        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 259174,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0ii7ebPPvmqVl5oPlet3JL"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
       "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw"
@@ -169,14 +285,14 @@
         }
       ],
       "duration_ms": 301253,
-      "name": "Alone",
+      "name": "ALONE",
       "url": "https://open.spotify.com/track/08EaMQ9Ro0NavqaBpdfJDk"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "unknown",
-        "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/5Dfj0lFPagb6MG3cUV8lH3"
       },
       "artists": [
         {
@@ -184,28 +300,12 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 262666,
-      "name": "Kaibutsu No Uta",
-      "url": "https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3"
+      "duration_ms": 318013,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6wI3Tt9Nwk3VPiL2FlqYxV"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
-      "album": {
-        "name": "Tsukihime -A piece of blue glass moon- THEME SONG E.P.",
-        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 315897,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC"
-    },
-    {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
@@ -216,12 +316,28 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 283866,
-      "name": "Teddy -Instrumental-",
-      "url": "https://open.spotify.com/track/2ZkyYkOaYK68huD13crRu4"
+      "duration_ms": 319013,
+      "name": "Someday -Instrumental-",
+      "url": "https://open.spotify.com/track/5Q5ImMxs1liLdfsZ8tm4C8"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30bf\u3099\u30f3\u30b9?(Special Edition)",
+        "url": "https://open.spotify.com/album/3uZkJY4VIWYjPtE7FbWpH9"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 355040,
+      "name": "\u732b\u5931\u683c",
+      "url": "https://open.spotify.com/track/6BK3WZy3MR5GmH4zOk2O8F"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
       "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw"
@@ -241,9 +357,9 @@
       "url": "https://open.spotify.com/track/5Y7cubpgAgilw7QGkMi0DL"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "Nainai (Special Edition)",
+        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
         "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
       },
       "artists": [
@@ -253,14 +369,14 @@
         }
       ],
       "duration_ms": 252266,
-      "name": "Ashitaha Hallelujah",
+      "name": "\u3042\u3057\u305f\u306f\u30cf\u30ec\u30eb\u30e4",
       "url": "https://open.spotify.com/track/2CjgUjb98tknCsDWiMn7Oz"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "Tsukihime -A piece of blue glass moon- THEME SONG E.P.",
-        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
+        "name": "\u9ec4\u91d1\u306e\u8f1d\u304d",
+        "url": "https://open.spotify.com/album/0W8cGloQ7NeIybHialOSvh"
       },
       "artists": [
         {
@@ -268,15 +384,15 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 259174,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0ii7ebPPvmqVl5oPlet3JL"
+      "duration_ms": 299853,
+      "name": "\u9ec4\u91d1\u306e\u8f1d\u304d",
+      "url": "https://open.spotify.com/track/6zTUmYzeOn7wd6bfLLjfQV"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "Teddy",
-        "url": "https://open.spotify.com/album/4HXAOO5FXlE0T3Y2PvNJgv"
+        "name": "unknown",
+        "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
       },
       "artists": [
         {
@@ -284,80 +400,12 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 285306,
-      "name": "Teddy",
-      "url": "https://open.spotify.com/track/2OjJCrpKXpMH7UWYNAVsZX"
+      "duration_ms": 262666,
+      "name": "\u602a\u7269\u306e\u8a69",
+      "url": "https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
-      "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
-      },
-      "artists": [
-        {
-          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
-          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
-        },
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Sousouno Uta",
-      "url": "https://open.spotify.com/track/54Wn2RQDn1tKIcFhpwVMSZ"
-    },
-    {
-      "added_at": "2022-07-18 16:20:53",
-      "album": {
-        "name": "Nainai (Special Edition)",
-        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "Massara",
-      "url": "https://open.spotify.com/track/6gJ5wPcapcwS4nCN5aOBDW"
-    },
-    {
-      "added_at": "2022-07-18 16:20:53",
-      "album": {
-        "name": "Forget-me-not",
-        "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 314706,
-      "name": "Toushindai",
-      "url": "https://open.spotify.com/track/24X8oKzZfqG7eQ3XhN0kSf"
-    },
-    {
-      "added_at": "2022-07-18 16:20:53",
-      "album": {
-        "name": "ANIMA (Special Edition)",
-        "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Scar/let",
-      "url": "https://open.spotify.com/track/5IMh6f4sfKR5820IkKw74f"
-    },
-    {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
@@ -373,13 +421,13 @@
         }
       ],
       "duration_ms": 309600,
-      "name": "Rea(s)oN - Acoustic Live Version",
+      "name": "Rea(s)oN -Acoustic Live ver.-",
       "url": "https://open.spotify.com/track/5Fa7xFiV4wiqI6od5Tge6O"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "Nainai (Special Edition)",
+        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
         "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
       },
       "artists": [
@@ -389,14 +437,14 @@
         }
       ],
       "duration_ms": 341773,
-      "name": "Ikiterudakede Eraiyo",
+      "name": "\u751f\u304d\u3066\u308b\u3060\u3051\u3067\u3048\u3089\u3044\u3088",
       "url": "https://open.spotify.com/track/59DcEQnz5dfWEuB9iG8YGJ"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "Life is beautiful",
-        "url": "https://open.spotify.com/album/4kKFEYFPzJ4xPCNEsFn33d"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
       },
       "artists": [
         {
@@ -404,12 +452,76 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 266093,
-      "name": "Life is beautiful",
-      "url": "https://open.spotify.com/track/0f1tDeWjRuTAMqxNQu6ofn"
+      "duration_ms": 283866,
+      "name": "\u30c6\u30c7\u30a3 -Instrumental-",
+      "url": "https://open.spotify.com/track/2ZkyYkOaYK68huD13crRu4"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "ANIMA (Special Edition)",
+        "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Scar/let",
+      "url": "https://open.spotify.com/track/5IMh6f4sfKR5820IkKw74f"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "\u30c6\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/4HXAOO5FXlE0T3Y2PvNJgv"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 285306,
+      "name": "\u30c6\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/2OjJCrpKXpMH7UWYNAVsZX"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
+        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "\u307e\u3063\u3055\u3089",
+      "url": "https://open.spotify.com/track/6gJ5wPcapcwS4nCN5aOBDW"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "forget-me-not",
+        "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 314706,
+      "name": "\u30c8\u30a6\u30b7\u30f3\u30c0\u30a4",
+      "url": "https://open.spotify.com/track/24X8oKzZfqG7eQ3XhN0kSf"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
       "album": {
         "name": "ANIMA (Special Edition)",
         "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
@@ -421,11 +533,47 @@
         }
       ],
       "duration_ms": 269746,
-      "name": "Ame ni utaeba",
+      "name": "\u96e8\u306b\u5504\u3048\u3070",
       "url": "https://open.spotify.com/track/41IzyYGkQdmAlGhpww2zLB"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "\u846c\u9001\u306e\u5100",
+      "url": "https://open.spotify.com/track/54Wn2RQDn1tKIcFhpwVMSZ"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "SWEET HURT",
+        "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 226920,
+      "name": "\u304a\u3084\u3059\u307f\u306e\u8a69",
+      "url": "https://open.spotify.com/track/078Zvw4Fd1PBx8efZdyuuY"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
       "album": {
         "name": "Null",
         "url": "https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC"
@@ -436,15 +584,15 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 332160,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/6lrSpZi8Isa1oBwvkIzP7R"
+      "duration_ms": 311800,
+      "name": "\u6c7a\u610f\u306e\u671d\u306b",
+      "url": "https://open.spotify.com/track/7hCrZjwlauy8LMU9z1XcO7"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
+        "name": "\u6708\u59eb -A piece of blue glass moon- Original Soundtrack",
+        "url": "https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo"
       },
       "artists": [
         {
@@ -452,28 +600,12 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 319013,
-      "name": "Someday -Instrumental-",
-      "url": "https://open.spotify.com/track/5Q5ImMxs1liLdfsZ8tm4C8"
+      "duration_ms": 99449,
+      "name": "\u751f\u547d\u7dda -Game size-",
+      "url": "https://open.spotify.com/track/48HR0RKVyUbjctXPbI4y4r"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
-      "album": {
-        "name": "Ougon no Kagayaki",
-        "url": "https://open.spotify.com/album/0W8cGloQ7NeIybHialOSvh"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 299853,
-      "name": "Ougon no Kagayaki",
-      "url": "https://open.spotify.com/track/6zTUmYzeOn7wd6bfLLjfQV"
-    },
-    {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
@@ -489,11 +621,27 @@
         }
       ],
       "duration_ms": 367986,
-      "name": "Disorder - Acoustic Live Version",
+      "name": "Disorder -Acoustic Live ver.-",
       "url": "https://open.spotify.com/track/4TsuMLyaataCvRJPnr2Wzf"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30bf\u3099\u30f3\u30b9?(Special Edition)",
+        "url": "https://open.spotify.com/album/3uZkJY4VIWYjPtE7FbWpH9"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "JAMMER",
+      "url": "https://open.spotify.com/track/7ep6br0XudQ9RlNalp7vQn"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
       "album": {
         "name": "Null",
         "url": "https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC"
@@ -504,28 +652,12 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 311800,
-      "name": "Ketsui No Asani",
-      "url": "https://open.spotify.com/track/7hCrZjwlauy8LMU9z1XcO7"
+      "duration_ms": 332160,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/6lrSpZi8Isa1oBwvkIzP7R"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
-      "album": {
-        "name": "SWEET HURT",
-        "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 226920,
-      "name": "Oyasumi no Uta",
-      "url": "https://open.spotify.com/track/078Zvw4Fd1PBx8efZdyuuY"
-    },
-    {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
         "name": "ANIMA (Special Edition)",
         "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
@@ -537,13 +669,13 @@
         }
       ],
       "duration_ms": 353546,
-      "name": "Mimic",
+      "name": "\u30df\u30df\u30c3\u30af",
       "url": "https://open.spotify.com/track/6KvzNhC0ZEJrEQNMrC4u3t"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "TSUKIHIME -A piece of blue glass moon- Original Soundtrack",
+        "name": "\u6708\u59eb -A piece of blue glass moon- Original Soundtrack",
         "url": "https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo"
       },
       "artists": [
@@ -552,44 +684,12 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 99449,
-      "name": "Seimeisen -Game size-",
-      "url": "https://open.spotify.com/track/48HR0RKVyUbjctXPbI4y4r"
+      "duration_ms": 105233,
+      "name": "\u30b8\u30e5\u30d6\u30ca\u30a4\u30eb -Game size-",
+      "url": "https://open.spotify.com/track/17JdWVTBngJuovKv7jCR7G"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 267533,
-      "name": "Life is beautiful -Instrumental-",
-      "url": "https://open.spotify.com/track/4h2bkYwwW83WbPVFixtzE4"
-    },
-    {
-      "added_at": "2022-07-18 16:20:53",
-      "album": {
-        "name": "TSUKIHIME -A piece of blue glass moon- Original Soundtrack",
-        "url": "https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 241168,
-      "name": "Lost -Game size-",
-      "url": "https://open.spotify.com/track/7g42Ofn6XWXD61OM8Vqwk0"
-    },
-    {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
@@ -605,9 +705,9 @@
       "url": "https://open.spotify.com/track/1D7CDijkgMBPtWARJiOxNt"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "TSUKIHIME -A piece of blue glass moon- Original Soundtrack",
+        "name": "\u6708\u59eb -A piece of blue glass moon- Original Soundtrack",
         "url": "https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo"
       },
       "artists": [
@@ -621,9 +721,25 @@
       "url": "https://open.spotify.com/track/1VwtelvWY49iuXvg3Ltn8c"
     },
     {
-      "added_at": "2022-07-18 16:20:53",
+      "added_at": "2022-09-30 13:29:02",
       "album": {
-        "name": "TSUKIHIME -A piece of blue glass moon- Original Soundtrack",
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 267533,
+      "name": "\u30e9\u30a4\u30d5\u30fb\u30a4\u30ba\u30fb\u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30a9\u30fc -Instrumental-",
+      "url": "https://open.spotify.com/track/4h2bkYwwW83WbPVFixtzE4"
+    },
+    {
+      "added_at": "2022-09-30 13:29:02",
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- Original Soundtrack",
         "url": "https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo"
       },
       "artists": [
@@ -632,9 +748,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 105233,
-      "name": "Juvenile -Game size-",
-      "url": "https://open.spotify.com/track/17JdWVTBngJuovKv7jCR7G"
+      "duration_ms": 241168,
+      "name": "Lost -Game size-",
+      "url": "https://open.spotify.com/track/7g42Ofn6XWXD61OM8Vqwk0"
     }
   ],
   "unique_name": "This Is ReoNa",

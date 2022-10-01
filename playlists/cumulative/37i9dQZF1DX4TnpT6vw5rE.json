@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7F3mLX9dJzIrdVttVkI9WD"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7d4i1kAUl9IZR4i46klvNT"
@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "L'Eixample",
+        "url": "https://open.spotify.com/album/6lBcFKiDVRp6rMWC5Po809"
+      },
+      "artists": [
+        {
+          "name": "Near The Parenthesis",
+          "url": "https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424866,
+      "name": "A Brief Walk in the Sea",
+      "url": "https://open.spotify.com/track/1O3wMxzAagYQ336rdfH9bQ"
+    },
+    {
+      "album": {
         "name": "L'eixample",
         "url": "https://open.spotify.com/album/5DLrneBHg2tNEXr6sM6pzx"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 424866,
       "name": "A Brief Walk in the Sea",
       "url": "https://open.spotify.com/track/7AgcA4piGo8vbvXEt7ib1n"
@@ -307,10 +325,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261800,
       "name": "Another Day (revised)",
       "url": "https://open.spotify.com/track/114gL99tniO1ocR4gyukNX"
+    },
+    {
+      "album": {
+        "name": "In a Safe Place",
+        "url": "https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261800,
+      "name": "Another Day (revised)",
+      "url": "https://open.spotify.com/track/6Xr3Ii4HyMcatwsQgq1iOD"
     },
     {
       "album": {
@@ -386,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/1exDhAU4sMwTHjDbFFE9nA"
+      },
+      "artists": [
+        {
+          "name": "Huglei\u00f6sla",
+          "url": "https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258734,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7MQiicIO6sDUPX47tA7gUY"
+    },
+    {
+      "album": {
         "name": "Glacier",
         "url": "https://open.spotify.com/album/3dHqf7HmYlEfJQNp0RL7mg"
       },
@@ -433,10 +487,28 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 286960,
       "name": "Back to the Start",
       "url": "https://open.spotify.com/track/10yIs9zsN0BNnXJpejnZ2v"
+    },
+    {
+      "album": {
+        "name": "Between Waves (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3u63zDEJeJaxwSixfMCGRD"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287093,
+      "name": "Back to the Start",
+      "url": "https://open.spotify.com/track/4Pdnt4VOAv26b1ILvtAoRj"
     },
     {
       "album": {
@@ -487,10 +559,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268453,
       "name": "Blank Pages",
       "url": "https://open.spotify.com/track/47D774OTQbbGPU6fTMTgya"
+    },
+    {
+      "album": {
+        "name": "A Chorus of Storytellers",
+        "url": "https://open.spotify.com/album/6Za8Vrxs3hH4ZJyIRuRDmP"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268453,
+      "name": "Blank Pages",
+      "url": "https://open.spotify.com/track/5zLE545sY8nt7FCJ0LGyaB"
     },
     {
       "album": {
@@ -581,6 +671,24 @@
       "duration_ms": 190196,
       "name": "Brightest Star",
       "url": "https://open.spotify.com/track/6PRosknEATsCworPrmpYZa"
+    },
+    {
+      "album": {
+        "name": "A Refreshing Dimension",
+        "url": "https://open.spotify.com/album/3OtvM6ApQUDxd09LZMbUj5"
+      },
+      "artists": [
+        {
+          "name": "Seeking Balance",
+          "url": "https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Bring in the Sun",
+      "url": "https://open.spotify.com/track/1XuZoGfRIZyUvvHnzPG1Yg"
     },
     {
       "album": {
@@ -739,10 +847,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 362853,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/6UrBPZ1zQTheV7sn9PuZif"
+    },
+    {
+      "album": {
+        "name": "Soulful Filling",
+        "url": "https://open.spotify.com/album/4rrihMjg9wVglC8qzyz5Fs"
+      },
+      "artists": [
+        {
+          "name": "General Fuzz",
+          "url": "https://open.spotify.com/artist/6GmYm47Zgk3tvoCeJbsH5r"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362857,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/2f8jLjm7Jzmgiqu3Kgjuuz"
     },
     {
       "album": {
@@ -926,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "calm waters & distant star",
+        "url": "https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ"
+      },
+      "artists": [
+        {
+          "name": "nite sky",
+          "url": "https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "distant star",
+      "url": "https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt"
+    },
+    {
+      "album": {
         "name": "Dormio",
         "url": "https://open.spotify.com/album/3yYe7uQZsi7NsACNFzItNh"
       },
@@ -945,6 +1089,24 @@
     {
       "album": {
         "name": "Clear Language",
+        "url": "https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239013,
+      "name": "Dreamt",
+      "url": "https://open.spotify.com/track/5oseLW3JhRqLLyTmqmyghU"
+    },
+    {
+      "album": {
+        "name": "Clear Language",
         "url": "https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T"
       },
       "artists": [
@@ -955,7 +1117,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239013,
       "name": "Dreamt",
       "url": "https://open.spotify.com/track/7yzWKf2adZoNKsLu3UxXjv"
@@ -1052,6 +1214,24 @@
     },
     {
       "album": {
+        "name": "Daily Light",
+        "url": "https://open.spotify.com/album/2P4ERwxCZCBsRb5TgqigIe"
+      },
+      "artists": [
+        {
+          "name": "Pacificus Luminus",
+          "url": "https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162127,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/1bnxXs5RnZMstR6U1lsJtV"
+    },
+    {
+      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/0Q6OXWzRgM4pbUlxYMV2Pb"
       },
@@ -1139,6 +1319,24 @@
       "duration_ms": 154800,
       "name": "Futura Nova",
       "url": "https://open.spotify.com/track/0oEiyb6tSp2zXavLyUAAlF"
+    },
+    {
+      "album": {
+        "name": "Galactic Walz",
+        "url": "https://open.spotify.com/album/0DSNkmAdy7JO20OCOV7Afb"
+      },
+      "artists": [
+        {
+          "name": "Waveframe",
+          "url": "https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Galactic Walz",
+      "url": "https://open.spotify.com/track/2SHMIYyt2YYPkginGos4Bu"
     },
     {
       "album": {
@@ -1430,6 +1628,24 @@
     },
     {
       "album": {
+        "name": "Intervention",
+        "url": "https://open.spotify.com/album/4WOSUbDE6IvXOrzMryAY62"
+      },
+      "artists": [
+        {
+          "name": "Danoa",
+          "url": "https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175018,
+      "name": "Intervention",
+      "url": "https://open.spotify.com/track/5G0AX3BgFw0VuJLqREvDaj"
+    },
+    {
+      "album": {
         "name": "The Albatross EP",
         "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
       },
@@ -1495,10 +1711,28 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 112202,
       "name": "It's Called, 'Daisy'",
       "url": "https://open.spotify.com/track/0LXs0oOINrcboPzcn63zIB"
+    },
+    {
+      "album": {
+        "name": "Navigator (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3EBqUA7UyLahCbp7s5Wec1"
+      },
+      "artists": [
+        {
+          "name": "Her Name Is Calla",
+          "url": "https://open.spotify.com/artist/5T4PUHbhqRuBnNXE0GJeUy"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112202,
+      "name": "It's Called, 'Daisy'",
+      "url": "https://open.spotify.com/track/2qCtOCuNdXmTpi2o4XHK8N"
     },
     {
       "album": {
@@ -1520,6 +1754,24 @@
     },
     {
       "album": {
+        "name": "Tape Loops",
+        "url": "https://open.spotify.com/album/78oxfIEDfWlUw8vFSDvoSq"
+      },
+      "artists": [
+        {
+          "name": "Chris Walla",
+          "url": "https://open.spotify.com/artist/4UP7ibAacJ5joROTv4ShG5"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402893,
+      "name": "Kanta's Theme",
+      "url": "https://open.spotify.com/track/2im8y2Qrnj0xvt5c9BgNYF"
+    },
+    {
+      "album": {
         "name": "Kanta's Theme - Single",
         "url": "https://open.spotify.com/album/0c2jq5ML6NCy5HjTMnT46m"
       },
@@ -1531,7 +1783,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 402893,
       "name": "Kanta's Theme",
       "url": "https://open.spotify.com/track/4l2yPgS0exxRHRXOaiqksw"
@@ -1664,6 +1916,24 @@
     },
     {
       "album": {
+        "name": "Lotus Blume",
+        "url": "https://open.spotify.com/album/4ZTUFGj3sOMUG2Feb4MIcy"
+      },
+      "artists": [
+        {
+          "name": "Altered Source",
+          "url": "https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 192585,
+      "name": "Lotus Blume",
+      "url": "https://open.spotify.com/track/2XGO8m5DqJVMF80D4SxiXE"
+    },
+    {
+      "album": {
         "name": "Lumineux",
         "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
       },
@@ -1715,6 +1985,24 @@
       "duration_ms": 173944,
       "name": "Magnificent",
       "url": "https://open.spotify.com/track/1ALMjj7yJFnVgnUV5494JQ"
+    },
+    {
+      "album": {
+        "name": "Majakka",
+        "url": "https://open.spotify.com/album/0PAl9YN6LVhKEKlP0J56Sd"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Majakka",
+      "url": "https://open.spotify.com/track/4k1XG6vGrACVptWElSDPAu"
     },
     {
       "album": {
@@ -1881,6 +2169,24 @@
     {
       "album": {
         "name": "Ulysees",
+        "url": "https://open.spotify.com/album/0ChlHHVziwSh8UbBMEeiH5"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95005,
+      "name": "Nest",
+      "url": "https://open.spotify.com/track/5GaRRamkVUErMUVVnNoQRF"
+    },
+    {
+      "album": {
+        "name": "Ulysees",
         "url": "https://open.spotify.com/album/4K1bUcDd62JYkD2AJ7zQ2H"
       },
       "artists": [
@@ -1891,10 +2197,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 95146,
       "name": "Nest",
       "url": "https://open.spotify.com/track/2lrHZUfgnVMPmFLEwXR8CD"
+    },
+    {
+      "album": {
+        "name": "Cloud.Not Mountain",
+        "url": "https://open.spotify.com/album/6OFgF0S3CCyfTgZw4U0vrd"
+      },
+      "artists": [
+        {
+          "name": "Near The Parenthesis",
+          "url": "https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317093,
+      "name": "Neume",
+      "url": "https://open.spotify.com/track/2S0irMcT7nWLMn0DZpxcZX"
     },
     {
       "album": {
@@ -1909,7 +2233,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 317093,
       "name": "Neume",
       "url": "https://open.spotify.com/track/6fOfjh3At26n5ouoYP6z8X"
@@ -1935,6 +2259,24 @@
     {
       "album": {
         "name": "Low Tide",
+        "url": "https://open.spotify.com/album/5gowhGeWFaDsMxfWiT9O8e"
+      },
+      "artists": [
+        {
+          "name": "Lanterns on the Lake",
+          "url": "https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 253548,
+      "name": "Not Going Back to the Harbour (Dauwd Remix)",
+      "url": "https://open.spotify.com/track/5fd2HLarNa3tqHEZK4uyCB"
+    },
+    {
+      "album": {
+        "name": "Low Tide",
         "url": "https://open.spotify.com/album/5fgdzuVFij8Qw6xa7aeJSY"
       },
       "artists": [
@@ -1949,7 +2291,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253548,
       "name": "Not Going Back To The Harbour - Dauwd Remix",
       "url": "https://open.spotify.com/track/3KYH5A1SQg6poc9cTr5TjR"
@@ -1993,6 +2335,24 @@
     {
       "album": {
         "name": "Seven Seas",
+        "url": "https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276080,
+      "name": "Ocelot",
+      "url": "https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr"
+    },
+    {
+      "album": {
+        "name": "Seven Seas",
         "url": "https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh"
       },
       "artists": [
@@ -2003,7 +2363,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 276080,
       "name": "Ocelot",
       "url": "https://open.spotify.com/track/7EMDetZnX07SnEvcXR8yEQ"
@@ -2075,10 +2435,28 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 313440,
       "name": "Part 3",
       "url": "https://open.spotify.com/track/5EGW7u5Apfyu8CJZIkiops"
+    },
+    {
+      "album": {
+        "name": "Passing By",
+        "url": "https://open.spotify.com/album/1GL8XBwwxJzmytxkstvtTU"
+      },
+      "artists": [
+        {
+          "name": "Sulfur Springs",
+          "url": "https://open.spotify.com/artist/4W3lH1l0pEtX21XX6nOIRF"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219375,
+      "name": "Passing By",
+      "url": "https://open.spotify.com/track/2FlD1WyrE1iNdflUvXAQoj"
     },
     {
       "album": {
@@ -2720,6 +3098,24 @@
     },
     {
       "album": {
+        "name": "Standing in Silence",
+        "url": "https://open.spotify.com/album/0KLAXxu7GBA811RWmg7raB"
+      },
+      "artists": [
+        {
+          "name": "Rhian Sheehan",
+          "url": "https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 313440,
+      "name": "Standing in Silence, Pt. 3",
+      "url": "https://open.spotify.com/track/7peWz6xwuR5DWdjDMQuGZn"
+    },
+    {
+      "album": {
         "name": "Star Waves",
         "url": "https://open.spotify.com/album/50isrbNQMokQzbzTlBriSW"
       },
@@ -2857,10 +3253,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 336480,
       "name": "The First Surface",
       "url": "https://open.spotify.com/track/0GUxlhUfZhTKXtuYPSm7Ha"
+    },
+    {
+      "album": {
+        "name": "Japanese for Beginners",
+        "url": "https://open.spotify.com/album/4mZmSV8geRn4gpbdxrTfwV"
+      },
+      "artists": [
+        {
+          "name": "Near The Parenthesis",
+          "url": "https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336480,
+      "name": "The First Surface",
+      "url": "https://open.spotify.com/track/0ZvqgR8luDK3T5fZxkImGF"
     },
     {
       "album": {

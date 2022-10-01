@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03IosU2q8j1.md) - [plain]
 
 > Ro, Ro, Ro, Rodrigo carajo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,363 likes - 58 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,692 likes - 58 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 |
 | 2 | [La mano de Dios \(Homenaje a Diego Maradona\)](https://open.spotify.com/track/5s8onl5Lw5q1AijP5BUm7G) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 5:44 |
 | 3 | [Ocho cuarenta](https://open.spotify.com/track/2wcIn5fYUBBdbuqRRJDWRD) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- El potro](https://open.spotify.com/album/790Iky5B8XDGflaJkhJvY8) | 5:56 |
-| 4 | [Por Lo Que Yo Te Quiero](https://open.spotify.com/track/4CffX0HNwF5Mkioh6kAm0L) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico / A 2000](https://open.spotify.com/album/2qu5LbDlNhfopUXaLyVgT3) | 9:16 |
+| 4 | [Por Lo Que Yo Te Quiero](https://open.spotify.com/track/5i9yLs9LPercK6BJgj87gj) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 9:16 |
 | 5 | [Amor Clasificado](https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:44 |
 | 6 | [Lo Mejor del Amor](https://open.spotify.com/track/5jlTIwTNeIKx85eXDoMlz7) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Eterno](https://open.spotify.com/album/6KUYysMj9dPbQ9OFmyu46Y) | 3:50 |
 | 7 | [Que Ironia](https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:11 |
 | 8 | [Amor de Alquiler](https://open.spotify.com/track/1CUTRdjoxE6vUHCWc8rhKL) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Eterno](https://open.spotify.com/album/6KUYysMj9dPbQ9OFmyu46Y) | 4:23 |
-| 9 | [Figurate tu](https://open.spotify.com/track/73cJK9Bz1lVXxvM9ZzKPMn) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo y La Mona Jimenez \(2x1\)](https://open.spotify.com/album/4NSOqNe4WoFv9VBhLe3Men) | 4:05 |
+| 9 | [Figurate Tu](https://open.spotify.com/track/0Lh3bz143h1LBtv8qcY75n) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Su Historia, Vol\. 5](https://open.spotify.com/album/5QJWtJcrYbb3UylDoA5Yrh) | 4:05 |
 | 10 | [Me extrañaras](https://open.spotify.com/track/5zZ8Oy2kCaJcFkg8Vtb35B) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La leyenda continua](https://open.spotify.com/album/0wZB11wUoKMA0i9ZipWcVQ) | 4:17 |
 | 11 | [Y Volo Volo](https://open.spotify.com/track/018Wqw3VG4yzkwGWhD5Wo5) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Grandes Exitos](https://open.spotify.com/album/3LGZUJGeBB8KC0bVOtmulA) | 4:23 |
 | 12 | [Lo Mejor del Amor](https://open.spotify.com/track/7g8FwoWCD7MzMOVN5ZgNkz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuartetero y Cordobés](https://open.spotify.com/album/3q6Wg7VBtWvIiggdi2lFn1) | 4:41 |
 | 13 | [Aprendiz](https://open.spotify.com/track/0tsc18SNyvb1WmVUJ9sRrS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Eterno](https://open.spotify.com/album/6KUYysMj9dPbQ9OFmyu46Y) | 7:42 |
-| 14 | [Un Largo Camino Al Cielo](https://open.spotify.com/track/0fmneMvBzm0QvGy3e8S7CR) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico / A 2000](https://open.spotify.com/album/2qu5LbDlNhfopUXaLyVgT3) | 6:45 |
+| 14 | [Un Largo Camino al Cielo](https://open.spotify.com/track/2PlSYK2fahYQAfOQ5oZkDt) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 6:45 |
 | 15 | [Como Le Digo](https://open.spotify.com/track/4nH1lpWkgzQPpTYPPjWKaI) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:13 |
 | 16 | [Fuego y Pasion](https://open.spotify.com/track/78AZaBSAHNTK2frhqwh2RX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Eterno](https://open.spotify.com/album/6KUYysMj9dPbQ9OFmyu46Y) | 4:10 |
 | 17 | [Amor clasificado](https://open.spotify.com/track/2z24v4Oi4sB8v0GWO2AdHA) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo en el Luna Park](https://open.spotify.com/album/70N2PW8KRYfwkjb9acU1mH) | 5:44 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03IosU2q8j1.md) - [plain]
 | 57 | [Que mujer](https://open.spotify.com/track/1OKrJ96z73EF452XJqJ6re) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 4:44 |
 | 58 | [Quiero tu boca](https://open.spotify.com/track/3TKUDzwOmHUti9AHw3784q) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 5:00 |
 
-Snapshot ID: `MTY0NzUyMzc0NCwwMDAwMDAxNTAwMDAwMTdmOTgxMTRjYzkwMDAwMDE2ZDE1M2U1OWQ0`
+Snapshot ID: `MTY0NzUyMzc0NCwwMDAwMDAwMDE1ODRhZTk1NzQyNTc5NGVhNWZlYWZhODQ3ZDEzYWY2`

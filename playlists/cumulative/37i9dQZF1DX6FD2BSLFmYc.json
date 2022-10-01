@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-19",
   "description": "Encuentra la paz interior con esencias y vibraciones m\u00edsticas.",
   "name": "Serenidad",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5yaeeXnzC1N5mP1v5SvONv"
+  ],
   "tracks": [
     {
       "album": {
@@ -35,10 +37,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150365,
       "name": "A Map of Arctic Treasures",
       "url": "https://open.spotify.com/track/1d9NKMiAqDevp5SFQl5Krs"
+    },
+    {
+      "album": {
+        "name": "A Map of Arctic Treasures",
+        "url": "https://open.spotify.com/album/0sUmoHdutXf102FCxIxn0D"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150365,
+      "name": "A Map of Arctic Treasures",
+      "url": "https://open.spotify.com/track/4EHBYjvmt8605vrzPLtIPu"
     },
     {
       "album": {
@@ -79,7 +99,7 @@
     {
       "album": {
         "name": "A State of Serenity",
-        "url": "https://open.spotify.com/album/4cRhOKD4JYSYT3m6rCoadt"
+        "url": "https://open.spotify.com/album/57igbGHTL6IlAtYAbN15PV"
       },
       "artists": [
         {
@@ -90,6 +110,24 @@
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 138879,
+      "name": "A State of Serenity",
+      "url": "https://open.spotify.com/track/176IOSw9ni8nujE5dohokG"
+    },
+    {
+      "album": {
+        "name": "A State of Serenity",
+        "url": "https://open.spotify.com/album/4cRhOKD4JYSYT3m6rCoadt"
+      },
+      "artists": [
+        {
+          "name": "Magnetic Dreams",
+          "url": "https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 138879,
       "name": "A State of Serenity",
       "url": "https://open.spotify.com/track/2X5ft2Wr7rKNWOIq95r4jN"
@@ -292,6 +330,24 @@
     },
     {
       "album": {
+        "name": "Gotas y cuencos de cuarzo",
+        "url": "https://open.spotify.com/album/6JvcnqO2qRFsIl8g8JpvPz"
+      },
+      "artists": [
+        {
+          "name": "Oriqi Soundhealing",
+          "url": "https://open.spotify.com/artist/04CPMYxePrUcNhtu2kX91q"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Gotas y cuencos de cuarzo",
+      "url": "https://open.spotify.com/track/7vIOggIr837ocFBosnqJtY"
+    },
+    {
+      "album": {
         "name": "Healing Tibetan Singing Bowls",
         "url": "https://open.spotify.com/album/5NmADUzrobLLRJ271n2Q9W"
       },
@@ -328,6 +384,24 @@
     },
     {
       "album": {
+        "name": "Horizons of Hope (Spa)",
+        "url": "https://open.spotify.com/album/11IQWuHjIAKxaadtD2O9Ci"
+      },
+      "artists": [
+        {
+          "name": "FloatSpace",
+          "url": "https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187166,
+      "name": "Horizons of Hope - Spa",
+      "url": "https://open.spotify.com/track/2OyD93D35uinJSQDQDgR9q"
+    },
+    {
+      "album": {
         "name": "Asian Meditation and Relax (Oriental Soothing Music, Yoga, Massage & Zen Spa)",
         "url": "https://open.spotify.com/album/1j3G1QVFmF1twCSAA0zgL9"
       },
@@ -357,10 +431,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175609,
       "name": "In the Hidden Chambers of Caracol",
       "url": "https://open.spotify.com/track/285pocP6zBUSjzIkYDIi98"
+    },
+    {
+      "album": {
+        "name": "In the Hidden Chambers of Caracol",
+        "url": "https://open.spotify.com/album/0oA7WnF8V6pOfpwbLrdvVi"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "In the Hidden Chambers of Caracol",
+      "url": "https://open.spotify.com/track/3UhZCLlkRcJB1rl8UTQLYH"
     },
     {
       "album": {
@@ -512,6 +604,24 @@
     },
     {
       "album": {
+        "name": "Luminous Depths",
+        "url": "https://open.spotify.com/album/2xYVos6PVbNySOz7RkNk7s"
+      },
+      "artists": [
+        {
+          "name": "Evenfall",
+          "url": "https://open.spotify.com/artist/1ujz71O1avTM6auwv9aDdE"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306009,
+      "name": "Luminous Depths",
+      "url": "https://open.spotify.com/track/1iEM7p2gfVBNv7hLQTUl6t"
+    },
+    {
+      "album": {
         "name": "Masal",
         "url": "https://open.spotify.com/album/38ODX8TSmkn3iKYjCDxYlh"
       },
@@ -581,10 +691,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 130000,
       "name": "My Lotus",
       "url": "https://open.spotify.com/track/2OpLL9LQZtE1WHGiNVo1WC"
+    },
+    {
+      "album": {
+        "name": "My Lotus",
+        "url": "https://open.spotify.com/album/1ABuUFMKeLuuyi5twSGwcR"
+      },
+      "artists": [
+        {
+          "name": "Bhramari",
+          "url": "https://open.spotify.com/artist/7b2ZFUFfg5RnyozQzikhCg"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "My Lotus",
+      "url": "https://open.spotify.com/track/4k1YPLJ6s094uAR6CY2kgB"
     },
     {
       "album": {
@@ -621,6 +749,24 @@
       "duration_ms": 235124,
       "name": "M\u00fasica para la Meditaci\u00f3n",
       "url": "https://open.spotify.com/track/17brV8ioEjTOxTS7xOdQT2"
+    },
+    {
+      "album": {
+        "name": "Number 40",
+        "url": "https://open.spotify.com/album/06FdBec05oKft47K0wtFDJ"
+      },
+      "artists": [
+        {
+          "name": "Contemplations",
+          "url": "https://open.spotify.com/artist/1uuJsACT4k3FSETvbMEx6X"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264500,
+      "name": "Number 40",
+      "url": "https://open.spotify.com/track/1IKuAnqiUFBg4Y2JGLBHhK"
     },
     {
       "album": {
@@ -844,6 +990,24 @@
     },
     {
       "album": {
+        "name": "Surya Namaskar",
+        "url": "https://open.spotify.com/album/4MOwuSe2QmKxMREx4CrhkZ"
+      },
+      "artists": [
+        {
+          "name": "Lamat 8",
+          "url": "https://open.spotify.com/artist/6SCo5wTXf6Zab3LG4QZ1fW"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Surya Namaskar",
+      "url": "https://open.spotify.com/track/27I8JPPh4NWdBrg4BEDjhd"
+    },
+    {
+      "album": {
         "name": "Texture Bowl 2",
         "url": "https://open.spotify.com/album/18xPYoIjGjzQxmwGp0TzNt"
       },
@@ -873,10 +1037,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194805,
       "name": "The Enigma of Consciousness",
       "url": "https://open.spotify.com/track/3S7oZhdCE1Pyn9yMugRQIO"
+    },
+    {
+      "album": {
+        "name": "The Enigma of Consciousness",
+        "url": "https://open.spotify.com/album/4Qq3VuAueCvOPnopjVZ5dd"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194805,
+      "name": "The Enigma of Consciousness",
+      "url": "https://open.spotify.com/track/4VEbMcdsQV19SFVuwkz9vg"
     },
     {
       "album": {
@@ -927,10 +1109,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192793,
       "name": "Threads",
       "url": "https://open.spotify.com/track/30VnmNoXmeNMlDR6MxLP5U"
+    },
+    {
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/217hUO8Iila5lozKvwmElh"
+      },
+      "artists": [
+        {
+          "name": "Ebb & Flod",
+          "url": "https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192793,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/5ASmAe7WcZaLVx6KcCqhW0"
     },
     {
       "album": {
@@ -1035,10 +1235,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 376560,
       "name": "When It Hurts to Remember",
       "url": "https://open.spotify.com/track/53fEKSSV4v7a7mbC4R8DfC"
+    },
+    {
+      "album": {
+        "name": "Silencia",
+        "url": "https://open.spotify.com/album/5g9CwdPva16mAs8ZBOexI4"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376560,
+      "name": "When It Hurts to Remember",
+      "url": "https://open.spotify.com/track/6rvGLmXsFLDQ5q3zf6GS8Q"
     },
     {
       "album": {

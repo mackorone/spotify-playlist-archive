@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamcyl84FTpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,528 likes - 20 songs - 57 min 19 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,527 likes - 20 songs - 57 min 19 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamcyl84FTpQ.md) - [plain]
 | 19 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/6QzhX0wWcGcizWFIe1WV72) | [BFF Girls](https://open.spotify.com/artist/0cXR0xvHgytWQMyW5ozUAn) | [There's Nothing Holdin' Me Back](https://open.spotify.com/album/0ATS9dlG1ftF1S9825AovX) | 2:33 |
 | 20 | [BFF](https://open.spotify.com/track/0WGaD6rW5Vi0WsZ8jW1i5w) | [BFF Girls](https://open.spotify.com/artist/0cXR0xvHgytWQMyW5ozUAn) | [BFF](https://open.spotify.com/album/37nsLELJyFQIiuSsmWoWLU) | 3:00 |
 
-Snapshot ID: `MTYxNzk4OTIzNiwwMDAwMDAwNDAwMDAwMTc4YjdhYzc3NWMwMDAwMDE3MmM4MTBhMGRj`
+Snapshot ID: `MTYxNzk4OTIzNiwwMDAwMDAwMDAxNzkwN2ZhZmRjNjAzNDk0YWI3YzY4MDcyYzU5Y2Rl`

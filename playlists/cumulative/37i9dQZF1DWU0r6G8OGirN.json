@@ -117,7 +117,7 @@
     {
       "album": {
         "name": "Traditional Christmas: Jazz Versions",
-        "url": "https://open.spotify.com/album/5Ci9GLG88dVLPuQn1Qn6Hl"
+        "url": "https://open.spotify.com/album/5z45Sva7XDllFlf2CkSWUC"
       },
       "artists": [
         {
@@ -128,6 +128,24 @@
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174921,
+      "name": "Auld Lang Syne (Smooth Jazz Version)",
+      "url": "https://open.spotify.com/track/4G6jzemWcZcSNiuf9422b7"
+    },
+    {
+      "album": {
+        "name": "Traditional Christmas: Jazz Versions",
+        "url": "https://open.spotify.com/album/5Ci9GLG88dVLPuQn1Qn6Hl"
+      },
+      "artists": [
+        {
+          "name": "One Man Quartet",
+          "url": "https://open.spotify.com/artist/2GqlTLOYyA46OpPIhwJJF8"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 174921,
       "name": "Auld Lang Syne (Smooth Jazz Version)",
       "url": "https://open.spotify.com/track/6ds2UE6EaWhrimlqeacaVr"
@@ -153,7 +171,7 @@
     {
       "album": {
         "name": "A Dave Brubeck Christmas",
-        "url": "https://open.spotify.com/album/01wioMpjriFWJ0ohTuNTMy"
+        "url": "https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9"
       },
       "artists": [
         {
@@ -164,6 +182,24 @@
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 303400,
+      "name": "Away In A Manger",
+      "url": "https://open.spotify.com/track/1k0GSxGcSWSCAlofk7nnGp"
+    },
+    {
+      "album": {
+        "name": "A Dave Brubeck Christmas",
+        "url": "https://open.spotify.com/album/01wioMpjriFWJ0ohTuNTMy"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 303400,
       "name": "Away in a Manger",
       "url": "https://open.spotify.com/track/3qqXv1t6AiCQo8uspabP6g"
@@ -206,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Charlie Brown Holiday Hits",
+        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363226,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/7aEjsTKJKspp01vkeVgeRr"
+    },
+    {
+      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
       },
@@ -217,7 +271,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 366213,
       "name": "Christmas Time Is Here - Instrumental",
       "url": "https://open.spotify.com/track/4DphT1rljbJjbK9WdrR1zI"
@@ -621,10 +675,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196200,
       "name": "O Little Town of Bethlehem",
       "url": "https://open.spotify.com/track/0ymty2BkJI50ZYOQagxpzt"
+    },
+    {
+      "album": {
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/7mN5Va59eJwb5fRTuOmuUb"
     },
     {
       "album": {

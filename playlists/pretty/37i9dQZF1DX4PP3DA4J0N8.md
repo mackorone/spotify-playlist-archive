@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 
 > Sounds of birds, rain, and jungle ambience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,936 likes - 126 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,149 likes - 126 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 | 40 | [Empowering Rain](https://open.spotify.com/track/6bjRqHUfxEnGJg6luwnUJH) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Rain Mantra](https://open.spotify.com/album/73M4YzG8IXgcVqixgmsYU4) | 2:51 |
 | 41 | [Fluxo](https://open.spotify.com/track/05Fw6DL9Hj2qfua35fsZXF) | [Dimas Amaro](https://open.spotify.com/artist/2uv3nINkV08Pr9TxW10vfP) | [Altura Natural](https://open.spotify.com/album/5e6LVhYZspmMOQKX6ufXlX) | 1:58 |
 | 42 | [Sitting Under The Tree](https://open.spotify.com/track/5ySy6nj1AWOTDx3Tm6M6zb) | [Paul's Field Recordings](https://open.spotify.com/artist/5fxe8QDUhBHXPULOFmFxry) | [Mother Nature](https://open.spotify.com/album/77DLlFKvDKjCbexjhopdve) | 2:23 |
-| 43 | [Small Forest River](https://open.spotify.com/track/70lS8JZMk66GUaYn1UIL8b) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Small Forest River](https://open.spotify.com/album/3yAarsrdwNGlqFZlzCWWMy) | 3:32 |
+| 43 | [Small Forest River](https://open.spotify.com/track/4hpHmF6GbAT1fLQ1JKbNG5) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Small Forest River](https://open.spotify.com/album/0XkHNDr5SbuQA8GPyvr8ty) | 3:32 |
 | 44 | [Rainforest During The Night](https://open.spotify.com/track/166UFdIQFu7c7DKJy0bu6F) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Myanmar Rain](https://open.spotify.com/album/47NVh2pWSGVJLL860oCXxR) | 3:28 |
 | 45 | [Birds Chirping](https://open.spotify.com/track/6Il0dPau6OWgcUtFhXP0rD) | [Tura Cos](https://open.spotify.com/artist/1HH2hoJuJUgwfa5VTMVGsE) | [Birds Chirping](https://open.spotify.com/album/0pR4wlkLjIbvFvEgKRCjmS) | 1:52 |
 | 46 | [Rainy Seasons](https://open.spotify.com/track/009OkruFBaTawpfoGb80PO) | [Wild Weather](https://open.spotify.com/artist/087EnamAmLEqVEJBUkGcLm) | [Water Cycles](https://open.spotify.com/album/0dkuOG8BChWmFhv2DV8lYc) | 2:28 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 | 66 | [Rainbow Birds](https://open.spotify.com/track/23zePFyNcPwF4kJso7fvdL) | [Feathern](https://open.spotify.com/artist/4UMeJ5VDtxl2J8ENVSsn1T) | [Rainbow Birds](https://open.spotify.com/album/4Jmpz2unBIOR6WJf6jbfAr) | 3:11 |
 | 67 | [Light Forest Rain Long](https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 4:18 |
 | 68 | [Medium Rain on Bedroom Window](https://open.spotify.com/track/5aVBGmsRjiCR6BYUzfZ2ci) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Rainy Days](https://open.spotify.com/album/4jytIojtPIuP2goIz9oGwK) | 5:20 |
-| 69 | [Archipelago Waves](https://open.spotify.com/track/6pcIq19lQuURRdl1ZD3i46) | [Ice Wave Isac](https://open.spotify.com/artist/3ZgZHtsTSsa0k5vqEKtG2y) | [Discover The Waves](https://open.spotify.com/album/0kyGKFxKbKcTGv8OkiQEYf) | 1:12 |
+| 69 | [Archipelago Waves](https://open.spotify.com/track/3Na4wOerW2kOPEPBOZnYqR) | [Ice Wave Isac](https://open.spotify.com/artist/3ZgZHtsTSsa0k5vqEKtG2y) | [Discover The Waves](https://open.spotify.com/album/3bgKEP7dzNP3NJenUsQtC8) | 1:12 |
 | 70 | [Rain is Beautiful](https://open.spotify.com/track/5azKWb8ExTmXlH6rxbN8eF) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU) | [Rain is Beautiful](https://open.spotify.com/album/6gBcZzDGzP4trj9PNybbau) | 3:42 |
 | 71 | [Rain in The Forest](https://open.spotify.com/track/0wLnaxf8uumoySqw1dW9rR) | [TELEKROME](https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV) | [Rain Sounds 2](https://open.spotify.com/album/3rgvsuxRWRjTEyIdM9qPXT) | 2:21 |
 | 72 | [Thundershowers](https://open.spotify.com/track/3A0SqSPthn9oXan3S0mlHz) | [Zen Master](https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup) | [Heavenly Thunders](https://open.spotify.com/album/7olIjrUJ2u5QomIJUcFGr2) | 2:38 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 | 125 | [Standing In The Rain](https://open.spotify.com/track/2z1zCDlx7GjDGSnaeHFrJL) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:42 |
 | 126 | [Unaltered Rain](https://open.spotify.com/track/6lBKEeemzxQ4lWGFW9EfTi) | [Organic Nature](https://open.spotify.com/artist/51pWYHXlT0KXM8zYZ6IhRa) | [Organic Rain](https://open.spotify.com/album/683UAPLzNPkJg8K2tQQPdN) | 3:20 |
 
-Snapshot ID: `MTY1Njk0OTE3NywwMDAwMDA0YjAwMDAwMTgxYzlkZGZkNmIwMDAwMDE4MWM5OGZiYjZk`
+Snapshot ID: `MTY1Njk0OTE3NywwMDAwMDAwMDAwMTA4NmU3MmFiYmE1ZjMxY2U3NGMxNDRmZWRlNzI1`

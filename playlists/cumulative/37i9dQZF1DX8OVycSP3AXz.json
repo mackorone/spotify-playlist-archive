@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Hommages",
+        "url": "https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132826,
+      "name": "Belles belles belles",
+      "url": "https://open.spotify.com/track/1Q6j1dx7pXzuLZLAexFWuQ"
+    },
+    {
+      "album": {
         "name": "Master Serie Vol 1",
         "url": "https://open.spotify.com/album/1NxQK1XBP8kUoIv990pCEw"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134133,
       "name": "Belles belles belles",
       "url": "https://open.spotify.com/track/58A0ccFbVbjAoA07ENee7k"
@@ -103,6 +121,24 @@
     {
       "album": {
         "name": "Capri C'Est Fini",
+        "url": "https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7"
+      },
+      "artists": [
+        {
+          "name": "Herv\u00e9 Vilard",
+          "url": "https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Capri c'est fini",
+      "url": "https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H"
+    },
+    {
+      "album": {
+        "name": "Capri C'Est Fini",
         "url": "https://open.spotify.com/album/32sm9U3FJRLJnOygy0N809"
       },
       "artists": [
@@ -113,10 +149,28 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219226,
       "name": "Capri c'est fini",
       "url": "https://open.spotify.com/track/7dND31PE5a7FtLsW6H4Xgy"
+    },
+    {
+      "album": {
+        "name": "French Women Legends",
+        "url": "https://open.spotify.com/album/2YaoevzHAXk4ktz3Xz1FdM"
+      },
+      "artists": [
+        {
+          "name": "Eileen",
+          "url": "https://open.spotify.com/artist/2AocfyglsHV2wP3IobPCyH"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "Ces bottes sont faites pour marcher",
+      "url": "https://open.spotify.com/track/272AWiVCoatzqTsDRP1KVi"
     },
     {
       "album": {
@@ -131,7 +185,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153040,
       "name": "Ces bottes sont faites pour marcher",
       "url": "https://open.spotify.com/track/3YagVqK6nD7lz7T6knjKVy"
@@ -149,10 +203,46 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 129880,
       "name": "Comic Strip",
       "url": "https://open.spotify.com/track/5bfKQTXw30LJ7mR7onUQHb"
+    },
+    {
+      "album": {
+        "name": "Initials B.B.",
+        "url": "https://open.spotify.com/album/6kU0UT8xklbfy6Z5pXDtSU"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130080,
+      "name": "Comic Strip",
+      "url": "https://open.spotify.com/track/4xP5cjA72WSiXNXql3glWS"
+    },
+    {
+      "album": {
+        "name": "Comme un gar\u00e7on",
+        "url": "https://open.spotify.com/album/1fFyiprMSDBSNeExoiIuTH"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Vartan",
+          "url": "https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196573,
+      "name": "Comme un gar\u00e7on",
+      "url": "https://open.spotify.com/track/5ofzziyodcinKtsUghFLHK"
     },
     {
       "album": {
@@ -167,7 +257,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196573,
       "name": "Comme un gar\u00e7on",
       "url": "https://open.spotify.com/track/7lhFTUreHC51OsFHTGdy6c"
@@ -193,6 +283,24 @@
     {
       "album": {
         "name": "Santiano",
+        "url": "https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186800,
+      "name": "C\u00e9line",
+      "url": "https://open.spotify.com/track/6IgZ9zDxJ6H0IUQ6HKBa8A"
+    },
+    {
+      "album": {
+        "name": "Santiano",
         "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
       },
       "artists": [
@@ -203,10 +311,28 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188466,
       "name": "C\u00e9line",
       "url": "https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z"
+    },
+    {
+      "album": {
+        "name": "Twistin' The Rock Story / Vol 5",
+        "url": "https://open.spotify.com/album/2d5t4obzjRCFHHV5i2LJ1a"
+      },
+      "artists": [
+        {
+          "name": "Les Chaussettes Noires",
+          "url": "https://open.spotify.com/artist/6KXdUNa8QT8Sty4k5G2LqK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152733,
+      "name": "Daniela (de quoi te m\u00eales-tu Daniela)",
+      "url": "https://open.spotify.com/track/5BnU92BVLCUKNmcWvxoXwp"
     },
     {
       "album": {
@@ -221,7 +347,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155506,
       "name": "Daniela (de quoi te m\u00eales-tu Daniela)",
       "url": "https://open.spotify.com/track/3ViDEvv6PgjE0yiYDmJjrA"
@@ -239,10 +365,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144960,
       "name": "Dans mes bras oublie ta peine",
       "url": "https://open.spotify.com/track/0q4gNGS2rCxzbpiJvE7R2D"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/5uplCXh4kyfX3JnC8t76Cd"
+      },
+      "artists": [
+        {
+          "name": "Mich\u00e8le Torr",
+          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "Dans mes bras oublie ta peine",
+      "url": "https://open.spotify.com/track/38FNGeI74jlw6S9kXLtzsy"
     },
     {
       "album": {
@@ -347,10 +491,46 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 140173,
       "name": "Il fait trop beau pour travailler",
       "url": "https://open.spotify.com/track/4Xt6do7xmBqVEs1G6vkPlh"
+    },
+    {
+      "album": {
+        "name": "Cocorico",
+        "url": "https://open.spotify.com/album/5NZezzDJYpvvQHWWXCpB05"
+      },
+      "artists": [
+        {
+          "name": "Les Parisiennes",
+          "url": "https://open.spotify.com/artist/5pUSLCL3Tsju3SPCEYsr2H"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140173,
+      "name": "Il fait trop beau pour travailler",
+      "url": "https://open.spotify.com/track/5ATfGq3HBnsrzLDRj8mkYL"
+    },
+    {
+      "album": {
+        "name": "Les Annees Barclay",
+        "url": "https://open.spotify.com/album/3bbpQ0vU7DZUADemJgig1n"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136440,
+      "name": "Itsi bitsi petit bikini",
+      "url": "https://open.spotify.com/track/58d1Duljvjx8bwG4nlLgK6"
     },
     {
       "album": {
@@ -365,7 +545,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 137173,
       "name": "Itsi Bitsi Petit Bikini / Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",
       "url": "https://open.spotify.com/track/3AmaOYSLccL1G0dw9SC8eQ"
@@ -401,10 +581,28 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203640,
       "name": "J'entends siffler le train",
       "url": "https://open.spotify.com/track/0nxE1Ed9fbfLw6oVHR6N3N"
+    },
+    {
+      "album": {
+        "name": "les plus belles chansons",
+        "url": "https://open.spotify.com/album/0dvnB0KschqGz0ezdnWsmO"
+      },
+      "artists": [
+        {
+          "name": "Richard Anthony",
+          "url": "https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203640,
+      "name": "J'entends siffler le train",
+      "url": "https://open.spotify.com/track/487LFx8UVLxUsDAdetnCp2"
     },
     {
       "album": {
@@ -419,10 +617,28 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 148093,
       "name": "L'idole des jeunes",
       "url": "https://open.spotify.com/track/53ZKkbhsI7p27GN5TcVbdX"
+    },
+    {
+      "album": {
+        "name": "Anthologie Vol. 1",
+        "url": "https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148133,
+      "name": "L'idole des jeunes",
+      "url": "https://open.spotify.com/track/0S4HOFZx606Zv6bEutTEez"
     },
     {
       "album": {
@@ -445,6 +661,24 @@
     {
       "album": {
         "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149240,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
+    },
+    {
+      "album": {
+        "name": "N\u00b04",
         "url": "https://open.spotify.com/album/0ChLtqgbEO6vTIQVYQcxc3"
       },
       "artists": [
@@ -455,7 +689,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151094,
       "name": "La javanaise",
       "url": "https://open.spotify.com/track/6wV31VHHbmA5C7vl08HA7S"
@@ -480,6 +714,24 @@
     },
     {
       "album": {
+        "name": "A Nashville",
+        "url": "https://open.spotify.com/album/1MmmmrUViWnOkzlxLTYQzq"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Vartan",
+          "url": "https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149800,
+      "name": "La plus Belle pour Aller Danser",
+      "url": "https://open.spotify.com/track/1V8V3UYeX2Est81MMucvJC"
+    },
+    {
+      "album": {
         "name": "Sylvie Vartan",
         "url": "https://open.spotify.com/album/0ZXogrtxGD1Uz4CrlcoAmp"
       },
@@ -491,7 +743,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156734,
       "name": "La Plus Belle Pour Aller Danser",
       "url": "https://open.spotify.com/track/5iJRjhwDCnhLBoGLrXr0jj"
@@ -513,6 +765,24 @@
       "duration_ms": 127160,
       "name": "Laisse tomber les filles",
       "url": "https://open.spotify.com/track/6ZIkH0yQk0E5hfOVL7CyoQ"
+    },
+    {
+      "album": {
+        "name": "New Year's Eve 2021 with the Frenchies",
+        "url": "https://open.spotify.com/album/5pL4VA9ZMhKEstafBfBGYF"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 133520,
+      "name": "Laisse tomber les filles",
+      "url": "https://open.spotify.com/track/0mU8byD07n6FLEOqxRJcz1"
     },
     {
       "album": {
@@ -588,6 +858,24 @@
     },
     {
       "album": {
+        "name": "Tr\u00e9sors 60's",
+        "url": "https://open.spotify.com/album/406ITkSun3uzXzUwqLKneX"
+      },
+      "artists": [
+        {
+          "name": "Antoine",
+          "url": "https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206466,
+      "name": "Les elucubrations d'Antoine",
+      "url": "https://open.spotify.com/track/6898KjBwWLdsJUH1Tu9rI7"
+    },
+    {
+      "album": {
         "name": "MusicWorld France",
         "url": "https://open.spotify.com/album/0WKozvA71AJGWSNW6y9Aa0"
       },
@@ -599,7 +887,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207400,
       "name": "Les elucubrations d'Antoine",
       "url": "https://open.spotify.com/track/79JldwTZxGilhRuQlECrz2"
@@ -625,6 +913,24 @@
     {
       "album": {
         "name": "Les Annees Barclay",
+        "url": "https://open.spotify.com/album/574E4sQjG1V6mpuFrVWIpl"
+      },
+      "artists": [
+        {
+          "name": "Frank Alamo",
+          "url": "https://open.spotify.com/artist/3NrXcUsQ2zK1oze56zlKUM"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Ma biche",
+      "url": "https://open.spotify.com/track/2xwpd8oRBZiEmCdRvhnzTl"
+    },
+    {
+      "album": {
+        "name": "Les Annees Barclay",
         "url": "https://open.spotify.com/album/15Ul1kl0QUCxTLR1IgMMz6"
       },
       "artists": [
@@ -635,7 +941,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142173,
       "name": "Ma biche",
       "url": "https://open.spotify.com/track/4aQdYn8c5BrVpZ4GZpPHzr"
@@ -653,10 +959,46 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178266,
       "name": "Mes mains sur tes hanches",
       "url": "https://open.spotify.com/track/7pYErbyVO59xUZQC08FI2v"
+    },
+    {
+      "album": {
+        "name": "Singles + Faces B 1964-1966",
+        "url": "https://open.spotify.com/album/5hMPMHP3ks0km3jDp5xGnF"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Adamo",
+          "url": "https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "Mes mains sur tes hanches",
+      "url": "https://open.spotify.com/track/4chX3KwIY3BJBqsnXpgDSy"
+    },
+    {
+      "album": {
+        "name": "Nino Ferrer",
+        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144040,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/0cV7Y3WH3iwsZTjibVyck1"
     },
     {
       "album": {
@@ -671,7 +1013,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144040,
       "name": "Mirza",
       "url": "https://open.spotify.com/track/6ra8H4uQsTWKmSyovSRcK5"
@@ -707,10 +1049,28 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150506,
       "name": "Poup\u00e9e de cire, poup\u00e9e de son",
       "url": "https://open.spotify.com/track/7i4WaTC7Xp6SY49aCdcVia"
+    },
+    {
+      "album": {
+        "name": "Hits chanson fran\u00e7aise",
+        "url": "https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
     },
     {
       "album": {
@@ -862,6 +1222,24 @@
     },
     {
       "album": {
+        "name": "Anthologie Vol. 1",
+        "url": "https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124093,
+      "name": "Viens danser le twist",
+      "url": "https://open.spotify.com/track/5QLZEGOnjRYhqjAii9JAaP"
+    },
+    {
+      "album": {
         "name": "Viens danser le Twist (St\u00e9r\u00e9o)",
         "url": "https://open.spotify.com/album/6FFZtB7pXVbL13lxNH1VQA"
       },
@@ -873,7 +1251,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 126813,
       "name": "Viens danser le twist",
       "url": "https://open.spotify.com/track/0CibYO3SSIBM8skoXwHKpr"
@@ -909,10 +1287,28 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176466,
       "name": "Vous permettez Monsieur",
       "url": "https://open.spotify.com/track/7ooXNiHvxOaVJ8Bfb4hnic"
+    },
+    {
+      "album": {
+        "name": "Adamo - studio 1",
+        "url": "https://open.spotify.com/album/5UR5XXp6YVvI9kRRUgdNtl"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Adamo",
+          "url": "https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "Vous permettez, monsieur ?",
+      "url": "https://open.spotify.com/track/3xCE5pciNmiRNUk9J6pWeM"
     },
     {
       "album": {

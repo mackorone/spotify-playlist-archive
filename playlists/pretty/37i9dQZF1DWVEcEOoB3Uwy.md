@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcEOoB3Uwy.md) - [plain]
 
 > A chill, laidback playlist for background vibes when you're potting up or watering your plants.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,489 likes - 53 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,518 likes - 53 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 |
 | 2 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
 | 3 | [Summer Rain](https://open.spotify.com/track/0NBHHa8wwwmBnn3aAzX5wJ) | [Carl Thomas](https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U) | [Emotional](https://open.spotify.com/album/5fjNNSyiwXoOQMCW4dLjJ2) | 3:52 |
-| 4 | [Skinny Love](https://open.spotify.com/track/1XbAmmPvzJ5VoMxuEts4Jp) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Modern Art](https://open.spotify.com/album/0KhqT4M185ISugjCWaWFBh) | 3:44 |
+| 4 | [Skinny Love](https://open.spotify.com/track/3S196HxxjdC6eRSdRd33RV) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Modern Art](https://open.spotify.com/album/235nkIFwD3UldPBDCKhx3b) | 3:44 |
 | 5 | [Dimelo \(feat\. Wyclef Jean & Naughty Boy\) \- X Factor Recording](https://open.spotify.com/track/6pWzEnoUsuiTcp6odVDovx) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5) | [Dimelo \(feat\. Wyclef Jean & Naughty Boy\) \[X Factor Recording\]](https://open.spotify.com/album/2iB60Otsd7bWpKz1BnIiua) | 3:02 |
 | 6 | [Mariposa Traicionera](https://open.spotify.com/track/2USyvcBpPjhW0rgiD2R8Bp) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Six Pack: Maná \- EP](https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28) | 4:24 |
 | 7 | [Palmar](https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fruta \(Vol\. II\)](https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP) | 3:13 |
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcEOoB3Uwy.md) - [plain]
 | 16 | [Blackbird](https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Blackbird](https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4) | 3:03 |
 | 17 | [Fallingwater](https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 4:31 |
 | 18 | [Otto \(Steve Gibbs Remix\)](https://open.spotify.com/track/2i8qud9UYqlID0H5xVssSC) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG), [Steve Gibbs](https://open.spotify.com/artist/1jXRYAZjergBNpKDFecOip) | [Otto \(Steve Gibbs Remix\)](https://open.spotify.com/album/42xqDDwoyzYoAfmmW5itzB) | 4:39 |
-| 19 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 |
+| 19 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 |
 | 20 | [Fade into You](https://open.spotify.com/track/63F2nWghdifkNHVns5GT8W) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Fade into You](https://open.spotify.com/album/5YW0yUKUNHJo4VJ1LwF2Ap) | 4:51 |
 | 21 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
-| 22 | [Featherstone](https://open.spotify.com/track/45p0MAVey0dnjZXo8kMUzh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:49 |
+| 22 | [Featherstone](https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:49 |
 | 23 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 |
 | 24 | [Give A Little](https://open.spotify.com/track/3D4uUFRoYDFHbkQlTKL2Om) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:46 |
-| 25 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 3:10 |
-| 26 | [Woodland](https://open.spotify.com/track/431qZaQAJuIolwBrlDa6Yg) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:51 |
+| 25 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 |
+| 26 | [Woodland](https://open.spotify.com/track/2dm13KtTfScU9ObCzYzGyS) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:51 |
 | 27 | [Call It Dreaming](https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Beast Epic](https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw) | 3:51 |
 | 28 | [Lilac Wine](https://open.spotify.com/track/1StXVL5gClph4z4XzanYko) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 4:32 |
 | 29 | [Harvest Moon](https://open.spotify.com/track/2bgDCy4L7JNBGXRXAo9FSY) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Harvest Moon](https://open.spotify.com/album/1rHRBxvmXpErtokoeRvKzx) | 3:15 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcEOoB3Uwy.md) - [plain]
 | 40 | [Our House](https://open.spotify.com/track/761QedCA5199KP1aQjjqif) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Our House](https://open.spotify.com/album/6JNhnXGnzwDWEya582BQQv) | 2:45 |
 | 41 | [Little Love](https://open.spotify.com/track/34MI5WgHZyRNZXPUhf7Ggb) | [Gabriel Kahane](https://open.spotify.com/artist/1ph6inW1HWQbwPSzoD1y0e) | [Book of Travelers](https://open.spotify.com/album/3gBda6UQb9wuxBqp9MgJ3w) | 3:12 |
 | 42 | [Evening Peace](https://open.spotify.com/track/6u9XJyRcwLfYKuGzBCDBFe) | [Serein](https://open.spotify.com/artist/1RIMpTHLVFF4odkh7umv3L) | [Evening Peace](https://open.spotify.com/album/1J9Wm09krmmieCsWYQv2Gw) | 2:30 |
-| 43 | [Rain](https://open.spotify.com/track/6igQjfm2gbSv0MFKhESArY) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [The Journey Tapes](https://open.spotify.com/album/6cqAOIfSShjNfMAberJHrT) | 4:33 |
-| 44 | [Close](https://open.spotify.com/track/5ZeL4p6miWKlFmrQWpW9NA) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [The Journey Tapes](https://open.spotify.com/album/6cqAOIfSShjNfMAberJHrT) | 4:29 |
-| 45 | [Hundrede Træer](https://open.spotify.com/track/71r1tEYcvCQfXiS3foiU0A) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [The Journey Tapes](https://open.spotify.com/album/6cqAOIfSShjNfMAberJHrT) | 4:42 |
+| 43 | [Rain](https://open.spotify.com/track/1Lg5TvvQh73MU6jgkn42xj) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [The Journey Tapes](https://open.spotify.com/album/35siIaKfbD0efvUszaGCQO) | 4:33 |
+| 44 | [Close](https://open.spotify.com/track/6k1SU9I0tvaaJ1IQLG30ZN) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [The Journey Tapes](https://open.spotify.com/album/35siIaKfbD0efvUszaGCQO) | 4:29 |
+| 45 | [Hundrede Træer](https://open.spotify.com/track/0Muyu1v8caNO4wVMekGEfM) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [The Journey Tapes](https://open.spotify.com/album/35siIaKfbD0efvUszaGCQO) | 4:42 |
 | 46 | [Introvert](https://open.spotify.com/track/30QVXfXPLHHmTSITwHsZPQ) | [ONSOHO](https://open.spotify.com/artist/2Ws6IJWFjqTuWwFWkAmdvt) | [Introvert](https://open.spotify.com/album/1tmYWYjSUirzQ3WRpXdR7R) | 2:55 |
 | 47 | [Life is a Film](https://open.spotify.com/track/6jfmf23PTyuHvGYCPHTnyZ) | [ONSOHO](https://open.spotify.com/artist/2Ws6IJWFjqTuWwFWkAmdvt) | [Life is a Film](https://open.spotify.com/album/1NZrsJsINm1R0iADOVdum3) | 1:40 |
 | 48 | [Patterns](https://open.spotify.com/track/3o9dCfJxrjnMkefpJM5sgP) | [Steve Gibbs](https://open.spotify.com/artist/1jXRYAZjergBNpKDFecOip) | [Adrift](https://open.spotify.com/album/16PrlZx42FN6YRuO3p1Vve) | 4:49 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcEOoB3Uwy.md) - [plain]
 | 52 | [Mystical Illusions](https://open.spotify.com/track/3t1g2TXwPKH8EBUN9WXORk) | [Serein](https://open.spotify.com/artist/1RIMpTHLVFF4odkh7umv3L) | [Mystical Illusions](https://open.spotify.com/album/31bNRqJIf9jyjAK68R3uJL) | 4:11 |
 | 53 | [Garden](https://open.spotify.com/track/6RdtiLu3NzefAaXQHaQGYo) | [ONSOHO](https://open.spotify.com/artist/2Ws6IJWFjqTuWwFWkAmdvt) | [Garden](https://open.spotify.com/album/6et1KlY7ObwDSXb6epY26u) | 3:13 |
 
-Snapshot ID: `MTYyMTI5Mzg2NiwwMDAwMDAwMjAwMDAwMTc5N2NhNTFmNzkwMDAwMDE3OTdiMWY2ZWM2`
+Snapshot ID: `MTYyMTI5Mzg2NiwwMDAwMDAwMDFmMDcyOTU0MzQ3MmRkMDM1ZDg0YTg2MjgzY2E1NGZh`

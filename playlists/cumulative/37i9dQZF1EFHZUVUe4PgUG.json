@@ -52,7 +52,7 @@
     },
     {
       "album": {
-        "name": "3 de La Ma\u00f1ana",
+        "name": "3 de La Ma\u00f1ana (con Sebasti\u00e1n Yatra & Mora)",
         "url": "https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt"
       },
       "artists": [
@@ -73,7 +73,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220773,
-      "name": "3 de La Ma\u00f1ana",
+      "name": "3 de La Ma\u00f1ana - con Sebasti\u00e1n Yatra & Mora",
       "url": "https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk"
     },
     {
@@ -204,7 +204,7 @@
     },
     {
       "album": {
-        "name": "BOTA FUEGO",
+        "name": "Bota Fuego (con Nicky Jam)",
         "url": "https://open.spotify.com/album/3AVCyI9GWp86IqYi89wcx6"
       },
       "artists": [
@@ -221,7 +221,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223186,
-      "name": "BOTA FUEGO",
+      "name": "Bota Fuego - con Nicky Jam",
       "url": "https://open.spotify.com/track/6Y6YC93R1r0CISm5iC4j27"
     },
     {
@@ -263,6 +263,28 @@
       "duration_ms": 195986,
       "name": "Casi Casi",
       "url": "https://open.spotify.com/track/2twF3hXDFL25aZUDGajxff"
+    },
+    {
+      "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193112,
+      "name": "Casualidad",
+      "url": "https://open.spotify.com/track/2SZx8N3eiLGqXTWEeN6dZt"
     },
     {
       "album": {
@@ -740,6 +762,24 @@
     },
     {
       "album": {
+        "name": "ANASTASIA",
+        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174709,
+      "name": "LENTO",
+      "url": "https://open.spotify.com/track/4sTyc7dnCKBq7TaoNFlwzX"
+    },
+    {
+      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
       },
@@ -759,6 +799,28 @@
       "duration_ms": 216733,
       "name": "Lento",
       "url": "https://open.spotify.com/track/31dIPeytivJSNsEqeyVyfW"
+    },
+    {
+      "album": {
+        "name": "Llorar y Llorar (con Carin Leon)",
+        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169705,
+      "name": "Llorar y Llorar - con Carin Leon",
+      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
     },
     {
       "album": {
@@ -1120,6 +1182,28 @@
     },
     {
       "album": {
+        "name": "Marry Me (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230026,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/4AuVISGGuyTc1XstdrJ8Xu"
+    },
+    {
+      "album": {
         "name": "Pa Ti + Lonely",
         "url": "https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt"
       },
@@ -1135,10 +1219,32 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230026,
       "name": "Pa Ti",
       "url": "https://open.spotify.com/track/4agLM5EfiWR2AKMq7gFwcM"
+    },
+    {
+      "album": {
+        "name": "Marry Me (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nm6u7mp61RmClng9Okg1t"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-07",
+      "duration_ms": 230026,
+      "name": "Pa Ti (For You)",
+      "url": "https://open.spotify.com/track/5AL7osnKigcHhRpMlK20c8"
     },
     {
       "album": {
@@ -1507,7 +1613,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 183009,
       "name": "Ya Llegu\u00e9",
       "url": "https://open.spotify.com/track/5c0d9VQwHZXqUXRjW1Ma97"

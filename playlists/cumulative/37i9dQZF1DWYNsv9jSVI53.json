@@ -179,7 +179,7 @@
     {
       "album": {
         "name": "Nilsson Schmilsson",
-        "url": "https://open.spotify.com/album/4s2hhmQizU4FHtRU7dDzHP"
+        "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
       },
       "artists": [
         {
@@ -190,6 +190,24 @@
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 144893,
+      "name": "Gotta Get Up",
+      "url": "https://open.spotify.com/track/6fvIzrJ6boUDFF19fH4S2s"
+    },
+    {
+      "album": {
+        "name": "Nilsson Schmilsson",
+        "url": "https://open.spotify.com/album/4s2hhmQizU4FHtRU7dDzHP"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 143893,
       "name": "Gotta Get Up - Remastered",
       "url": "https://open.spotify.com/track/1W6Ey5cxf0eljSaZnNVO5c"
@@ -222,6 +240,28 @@
     },
     {
       "album": {
+        "name": "Liszt: Hungarian Rhapsodies",
+        "url": "https://open.spotify.com/album/22b9GAtLuUYiHaZf0y60Iq"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Roberto Szidon",
+          "url": "https://open.spotify.com/artist/2r7hc4YRv3IfDLWllWCCdB"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 618000,
+      "name": "Hungarian Rhapsody No. 5 in E Minor, S. 244 Hero\u00efde-El\u00e9giaque",
+      "url": "https://open.spotify.com/track/4tavlmxcVaiA60aH1WRsxg"
+    },
+    {
+      "album": {
         "name": "Classical for Work: Liszt",
         "url": "https://open.spotify.com/album/717aBZvT30BzLfrBD0BEBn"
       },
@@ -237,7 +277,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 618000,
       "name": "Hungarian Rhapsody No. 5 in E Minor, S. 244 Hero\u00efde-El\u00e9giaque",
       "url": "https://open.spotify.com/track/4zzXiqmLNrCxkzXYcFL4uA"

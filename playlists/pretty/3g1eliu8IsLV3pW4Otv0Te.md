@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 580 likes - 170 songs - 12 hr 14 min
+[codym2011](https://open.spotify.com/user/codym2011) - 578 likes - 171 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 8 | [No Way Out](https://open.spotify.com/track/3pe9GoJxujrV3Wpl2XvY2t) | [Gemini](https://open.spotify.com/artist/3QqJ1L8cWsPFZ1YDPpUmvG) | [Fire Inside EP](https://open.spotify.com/album/5INYTDy5JYDnLtdIQxQ0sL) | 3:22 |
 | 9 | [Timeless \(feat\. Veela\)](https://open.spotify.com/track/571MgoPW0hJtXG1C5SFh4H) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Timeless EP](https://open.spotify.com/album/1bQSMFIWID72F4LIluCnB9) | 4:23 |
 | 10 | [Spirit of Life](https://open.spotify.com/track/6eRPYyh1EPRqDhgb3Nardw) | [Blackmill](https://open.spotify.com/artist/4kjWnaLfIRcLJ1Dy4Wr6tY) | [Miracle](https://open.spotify.com/album/2ayhUoOppwZ5paYiXTRqqa) | 6:15 |
-| 11 | [Evil Beauty](https://open.spotify.com/track/4FXj4ZKMO2dSkqiAhV7L8t) | [Blackmill](https://open.spotify.com/artist/4kjWnaLfIRcLJ1Dy4Wr6tY) | [Reach For Glory](https://open.spotify.com/album/0XHpO9qTpqJJQwa2zFxAAE) | 3:48 |
+| 11 | [Evil Beauty](https://open.spotify.com/track/4FXj4ZKMO2dSkqiAhV7L8t) | [Blackmill](https://open.spotify.com/artist/4kjWnaLfIRcLJ1Dy4Wr6tY) | [Reach for Glory](https://open.spotify.com/album/0XHpO9qTpqJJQwa2zFxAAE) | 3:48 |
 | 12 | [High And Low \- Juuso Pikanen Remix](https://open.spotify.com/track/11n0QNWIoKRX8MXCP30IR3) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [High And Low](https://open.spotify.com/album/3qtVeUn9LjqCnHYzEef5xz) | 3:51 |
 | 13 | [Innocent Discretion \- Original Mix](https://open.spotify.com/track/0NYWgUofAkxld6mWyMc5EM) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Born](https://open.spotify.com/album/1SOzgV3thGeetKorY0IxvG) | 4:44 |
 | 14 | [Beautiful Lies](https://open.spotify.com/track/7jZyQWoAmpJI37saaOazd5) | [B\-complex](https://open.spotify.com/artist/46oL0QioEQMSSvkxxifCok) | [Hospital Mix 8](https://open.spotify.com/album/6S5cfzow4ZQkGSAzrwxC6q) | 6:45 |
@@ -178,5 +178,6 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 168 | [Pieces](https://open.spotify.com/track/6ADa6XPdu3ayQ0qbmdRLq7) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV) | 9:23 |
 | 169 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
 | 170 | [Strawberry Robots](https://open.spotify.com/track/6p6t7KpxaxceOf9MqqWYMK) | [stoop lee](https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX), [Datsunn](https://open.spotify.com/artist/4zosWP0ung7qeYevTLfuXV), [austenyo](https://open.spotify.com/artist/4NNslFqwFLMsVfeAWfGryM) | [Strawberry Robots Pack](https://open.spotify.com/album/2Cj8NszoHAguiOTBJJ4M2y) | 3:00 |
+| 171 | [El Mañana](https://open.spotify.com/track/0dcMqjeDpwqB2xhzMsld0p) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:55 |
 
-Snapshot ID: `MTg4LDRiMTQ0NGIyMDkxZmY5Y2QxYzQxMzQzYTJlYjM0YTlmODI1Yjk3NjU=`
+Snapshot ID: `MTg5LGQwMDIwYTRmZDg4Y2I1NzVjZGRjZTEwMzgzMWNiZjU1M2MyZDhmMTA=`

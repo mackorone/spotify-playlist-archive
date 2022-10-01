@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9MwLOqWTux.md) - [plain]
 
 ### [Idris Elba's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWU9MwLOqWTux)
 
-> <a href ="spotify:artist:0Dc2rdPzleezxhvQhQbXuS">Idris Elba</a>'s tantalizing mix demonstrates the renowned actor's talents on the decks.
+> <a href="spotify:artist:0Dc2rdPzleezxhvQhQbXuS">Idris Elba</a>'s tantalizing mix demonstrates the renowned actor's talents on the decks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,385 likes - 14 songs - 58 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 13,923 likes - 14 songs - 58 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9MwLOqWTux.md) - [plain]
 | 13 | [Circles \- Idris Elba Remix \- Mixed](https://open.spotify.com/track/5JNXw3R4c4aX1vJ3LLPyUl) | [Natalie Wood](https://open.spotify.com/artist/3JTGo8MMuHpzKcwRDuhWEG), [N:Fostell](https://open.spotify.com/artist/4ligbK5FWMxDPjFrC6x47g), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Circles \- Idris Elba Remix \(Mixed\)](https://open.spotify.com/album/6n6lmBpdWjnWbMYveEY7ao) | 4:06 |
 | 14 | [Rain \(Idris Elba Edit\) \- Mixed](https://open.spotify.com/track/6RdJtIJlhpcOkoSpZbTNR2) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Rain \(Idris Elba Edit\) \[Mixed\]](https://open.spotify.com/album/1dlNKzwWOMqysCWiPEoFn3) | 3:19 |
 
-Snapshot ID: `MTYzOTc1NDUxMCwwMDAwMDAwNTAwMDAwMTdkYzhmYzMwYzIwMDAwMDE3ZGJmMmMwNjc3`
+Snapshot ID: `MTY2MDY2MTMxMiwwMDAwMDAwMDM4NjdjMTk1ZWQ2NTdiZjQ0ZDFiOTNkYTQ1NmE1YTU5`

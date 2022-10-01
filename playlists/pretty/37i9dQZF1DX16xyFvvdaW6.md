@@ -1,0 +1,62 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain](/playlists/plain/37i9dQZF1DX16xyFvvdaW6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX16xyFvvdaW6)
+
+### [Rock Cristiano](https://open.spotify.com/playlist/37i9dQZF1DX16xyFvvdaW6)
+
+> Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
+
+[Spotify](https://open.spotify.com/user/spotify) - 131,198 likes - 50 songs - 3 hr 36 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Siguiéndote Los Pasos](https://open.spotify.com/track/7oKiPeuyHCuAeV8Idsep1T) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Apasionado Por Ti](https://open.spotify.com/album/17sFSyV70emgk2ES8zWdzd) | 3:00 |
+| 2 | [Tiene razón](https://open.spotify.com/track/0YVkK3eoqA9rmpqyMObT4h) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [Indudablemente](https://open.spotify.com/album/59P6zsVljf0Gs8h4F8iWw4) | 3:19 |
+| 3 | [Tu Fan Number One](https://open.spotify.com/track/5lAtZmes9ELeVyEn1X0oqA) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Tu Fan Number One](https://open.spotify.com/album/4O5VnMxSs4kY3uqzBZZykI) | 3:34 |
+| 4 | [Dias Mejores](https://open.spotify.com/track/6vtFTFXUa8dDV2DXnXAzhq) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Dias Mejores](https://open.spotify.com/album/1OkifSNfJnObBOcbJ2lpPW) | 4:27 |
+| 5 | [Harto](https://open.spotify.com/track/5U0V9jjQie6QhNU3khHBhi) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [¿Como Me Ves?](https://open.spotify.com/album/6P0VO2HC3OV54KfupPb2Vk) | 4:07 |
+| 6 | [A Mi Ángel](https://open.spotify.com/track/471CAxyTTVZDK8g4MUXfnq) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu) | [Voy A Entregar Mi Corazón](https://open.spotify.com/album/5WgMBg0KfWb1drMLy4uOw2) | 3:36 |
+| 7 | [Nunca para de Llover](https://open.spotify.com/track/2cI14t5e2KYKG4i39hdvXJ) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 2:58 |
+| 8 | [Mas Grande Es El](https://open.spotify.com/track/69OUxNWpLdN8fB7y7gfmGP) | [Alpha Union](https://open.spotify.com/artist/7r3OVrzP7rwFr0q1C4IQ5n) | [Conquistador](https://open.spotify.com/album/6ByW3JlKlwzAnHgMRWkYuz) | 2:55 |
+| 9 | [Yo También](https://open.spotify.com/track/1BiTNGWo3a37MSqMqBYMGK) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Yo También](https://open.spotify.com/album/3oQwqSwoyoIr4skxLacTIt) | 6:42 |
+| 10 | [Mas que ayer](https://open.spotify.com/track/3h2K5oUOeNYfSxd1Rpjcxe) | [Lemkin](https://open.spotify.com/artist/0ircK5GeJyk319kKagj0rN) | [Anagramas](https://open.spotify.com/album/6V78TAY4elDJP2sHFbem85) | 3:46 |
+| 11 | [Viajero Del Viento](https://open.spotify.com/track/7CkhEdcBHCDUCICCSbfTBZ) | [Kyosko](https://open.spotify.com/artist/3SJVLk4Qc9qJ5Mk5dCQrOB) | [Invisibles](https://open.spotify.com/album/2CY6A8UkkptIxckUyBll8j) | 3:02 |
+| 12 | [Cansado \- En Vivo](https://open.spotify.com/track/4PfdJ9cvHMUwGJnjiDyx30) | [Vox Dei](https://open.spotify.com/artist/3qJHHkBTYuEBHmLZ7cEei6) | [30 Años \(En Vivo\)](https://open.spotify.com/album/4ZTqyGp6fYYgrY61GKiWZD) | 5:08 |
+| 13 | [Mamá](https://open.spotify.com/track/0FmzOJb6VGMGkqfsvdeiGk) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu) | [Si Te Conocieran](https://open.spotify.com/album/0w4qd8rTAVlvYZlyKbWaF4) | 4:35 |
+| 14 | [Sobre las Aguas](https://open.spotify.com/track/0160nXrwsZGabn2MS3eZBt) | [Credo](https://open.spotify.com/artist/6RjjLhiDH0icVk8Et5Unsl) | [Sobre las Aguas](https://open.spotify.com/album/0NTxzUKkcuioP465pmYzUF) | 4:00 |
+| 15 | [Enamorado De Ti](https://open.spotify.com/track/6QQaNfFVNVBzCMCHfTcNln) | [Strike 3](https://open.spotify.com/artist/3hNpQuSjrFXElHOEzmwQ2l) | [Llevate El Tiempo](https://open.spotify.com/album/65tShWSVCNe5Fgj5ogLDBl) | 5:26 |
+| 16 | [Memoria \(Identidad\)](https://open.spotify.com/track/5GMBmIpJdpt3RqbuVxxePR) | [Mesver](https://open.spotify.com/artist/7dbLyuLmmTrijbn5TJSuMH) | [Despertares](https://open.spotify.com/album/2gomThBXGueNJ82vMAjBAt) | 3:16 |
+| 17 | [Rey De Majestad](https://open.spotify.com/track/1YBT09TyZHe9y2EmB3Q1Vg) | [Vertical](https://open.spotify.com/artist/7c0cfSQ3Oq5EEZXfdh8WLt) | [Imagínate](https://open.spotify.com/album/3EAMMcIMWeDZ7evJ4Tjvu9) | 4:28 |
+| 18 | [Éramos](https://open.spotify.com/track/6fVL8BrM91tDH7O2mdJfs0) | [Legados](https://open.spotify.com/artist/7wxcfZAF0aqflLMFbsPZp2) | [Mil Intentos](https://open.spotify.com/album/2os50fltRWshJNluelHYmD) | 3:53 |
+| 19 | [Nada Es Imposible](https://open.spotify.com/track/6OjwMUQIffS74Z2qIsWmVO) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Ilumina](https://open.spotify.com/album/2NPZuJOrcVRr1r91pmKciq) | 4:18 |
+| 20 | [Venga Tu Reino](https://open.spotify.com/track/7lVFBPhA4TBiAHmaKZjsyV) | [Alpha Union](https://open.spotify.com/artist/7r3OVrzP7rwFr0q1C4IQ5n) | [Conquistador](https://open.spotify.com/album/6ByW3JlKlwzAnHgMRWkYuz) | 3:05 |
+| 21 | [No Voy a Mirar Atrás](https://open.spotify.com/track/7xusN2djgdO5dNGqxvNCnR) | [Edgar Lira](https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq) | [Morir a mi](https://open.spotify.com/album/5IP6RhorlXpDoMEb813CFJ) | 4:00 |
+| 22 | [Mi Fortuna](https://open.spotify.com/track/39JsvoZcpWvQHYlh12rn6l) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Mi Fortuna](https://open.spotify.com/album/3SPxbOvXqjTI15sKBpvFAo) | 3:48 |
+| 23 | [Tomalo](https://open.spotify.com/track/7GP2GccgQxRrj8pVSrCZ4D) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [The Best Of Christian Music](https://open.spotify.com/album/5xeOaJzmbrsHhot4GJ85M9) | 3:11 |
+| 24 | [Libre para Adorar \(En Vivo\)](https://open.spotify.com/track/0pKfAdb93p1moBIeNpdT7C) | [Gerry Marquez](https://open.spotify.com/artist/5Duuy8GUonNkuVCTZnz5ds) | [Un Tiempo Nuevo](https://open.spotify.com/album/2r5OHljOkWZ6qGnJAE3qyr) | 4:13 |
+| 25 | [Libre Soy](https://open.spotify.com/track/4yblg7xlfOCz6OhHkx9P1L) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [Volver a Respirar](https://open.spotify.com/album/2F4N4AFpV85vooRD19ZInX) | 4:18 |
+| 26 | [Quisiera](https://open.spotify.com/track/4x6vIZfQBuYnVw8zjZEZ72) | [Metamorffosis](https://open.spotify.com/artist/7616QQ7F8yuDKMztFdAe35) | [Escrito En Las Estrellas](https://open.spotify.com/album/4VnK8zGduksGF2LDyDnYRT) | 5:13 |
+| 27 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |
+| 28 | [Mi Amado Dios](https://open.spotify.com/track/10W7Axif6t46vv0n6xaS17) | [Cristo Para Las Naciones](https://open.spotify.com/artist/1CWzeOhNAKqu5f4ZacmifA) | [Supergod](https://open.spotify.com/album/045iUbZvHZXX462mpo10H1) | 4:33 |
+| 29 | [Fe](https://open.spotify.com/track/2HlSpAMXFABYqYTOdT7C8m) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [Santo Remedio](https://open.spotify.com/album/1gtCpknow1BRL3VG4bVaIB) | 3:10 |
+| 30 | [Todo para Mi](https://open.spotify.com/track/3x3ajfjfMqRVcht85ZG89W) | [Blest](https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw) | [Lo Mejor de la Música Cristiana](https://open.spotify.com/album/739VThS5Uq7FlQTCe9IAhN) | 4:26 |
+| 31 | [Tu Historia](https://open.spotify.com/track/2Edzf0McD1MOWTwI5GbF1b) | [Renacer](https://open.spotify.com/artist/23Yee5PRZs6MB8tR3Jynxe) | [Consumenos](https://open.spotify.com/album/1bIA3sfkrfFkHAU0KJFj9x) | 4:27 |
+| 32 | [Tu Sangre Clama](https://open.spotify.com/track/3lUGO4PQnRj3KICj44DfZT) | [Nathan Ironside](https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8) | [Tu Sangre Clama](https://open.spotify.com/album/6z3NBhEg5SwukG5PUDkPPL) | 7:46 |
+| 33 | [El Héroe De La Humanidad](https://open.spotify.com/track/61ZdhQyMoPmftovugJ7uk2) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:03 |
+| 34 | [En mi palma te escribí](https://open.spotify.com/track/4kkLruWcwJ6B2qSGl58zkf) | [La voz del desierto](https://open.spotify.com/artist/3o3NVYDVBPfg4tWKe6hKuC) | [Él me vuelve a levantar](https://open.spotify.com/album/6mTchxlwaF1UCRmGlof1uB) | 3:55 |
+| 35 | [Revolución](https://open.spotify.com/track/3On8E0EIn0lFMc2Jbc9k0v) | [Padre Jony](https://open.spotify.com/artist/42HGVpAbSf1xevhPB2gero) | [Madrid 2011 \(Música para la JMJ / Music for WYD\)](https://open.spotify.com/album/3UbwDXMWN6ewsV7V9SfKQd) | 3:43 |
+| 36 | [La Bendición](https://open.spotify.com/track/3xATGvvRb6L3pN6VQJN3o9) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/1ftyzyvz2FGRLq6p4Lx8P0) | 3:49 |
+| 37 | [Vuelvo a Ver](https://open.spotify.com/track/3hJYBaL0k7Y7UHmzHrOeGh) | [Puerto Seguro](https://open.spotify.com/artist/0NYMMK9shZvGfTbaeE75xd) | [Vuelvo a Ver](https://open.spotify.com/album/0HyL4cWJurDVxObSN7kQhO) | 4:16 |
+| 38 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 |
+| 39 | [Somos Libres](https://open.spotify.com/track/2C5f7uN6SEhhZuEBiVednO) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Incontenible Es Tu Amor](https://open.spotify.com/album/3US7xplIUPp647q67nCMS0) | 3:55 |
+| 40 | [Almas Mecanicas](https://open.spotify.com/track/2JiYhjQK2wR4vOAdATsISG) | [Exegesis](https://open.spotify.com/artist/2cDnMEA4b2Q0ecuNHhagT6) | [Espiritu Artificial](https://open.spotify.com/album/2EXsfs6TC1Z2l2kw8CivdQ) | 5:52 |
+| 41 | [Sin Ti](https://open.spotify.com/track/24OFC5OpzofkePp1WjcczE) | [Micmas](https://open.spotify.com/artist/1NUs0BBtwTVx6Wbx1fsGr0) | [Pasado Participio](https://open.spotify.com/album/6OGhT2jnGfKf5ys6RmqA4Z) | 3:22 |
+| 42 | [O Sol da Meia Noite](https://open.spotify.com/track/0qwuTlkiuu4atMgW94h1BT) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Horizonte Distante](https://open.spotify.com/album/62Kg2FM5JXWBzLIqfilzjJ) | 5:04 |
+| 43 | [Alaba](https://open.spotify.com/track/3gtKnR2a9bQMIB4OnSZ1JX) | [Banda Generasion](https://open.spotify.com/artist/6W6JOZ91tOgrLB4bdcGs3r) | [Yo Soy Generasion](https://open.spotify.com/album/0Q9uXsdYktit3JOb3LRsaV) | 5:24 |
+| 44 | [Tu Amor \- En Vivo](https://open.spotify.com/track/5yOHIWG6xw63hObPaUsVd5) | [Diego Campos](https://open.spotify.com/artist/0cvBXvjdFZSN9RfAOk0wTC) | [Es Tiempo \(En Vivo\)](https://open.spotify.com/album/6q3LLDP1TZ8zXTPfZoAqNs) | 4:47 |
+| 45 | [Líbrame Señor](https://open.spotify.com/track/0MNRAcp3h2fkrQXLBE92uD) | [Eclipse](https://open.spotify.com/artist/3WNSA7ktGTCinFy1GAw1GW) | [El Último Pañal](https://open.spotify.com/album/2GkjZOMwwDqjghh1tf0Aap) | 3:55 |
+| 46 | [Luz](https://open.spotify.com/track/4xs3I7WgyCmOxohBVmurYX) | [D\-Mente](https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7) | [Valiente Eternidad](https://open.spotify.com/album/7f24LwX5bQTDVjBkOQh2oy) | 4:12 |
+| 47 | [Dios Incomparable \(Invitado: Marco Barrientos\)](https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610) | 10:45 |
+| 48 | [Si Tu no Estas](https://open.spotify.com/track/12FBWgG7WfZheAus3HohQL) | [Identidad](https://open.spotify.com/artist/7uqKGeApPXSpc4R4dAGh4C) | [Hasta el Final](https://open.spotify.com/album/2sKo6BPzhEsThNh37GcAEd) | 3:45 |
+| 49 | [Otra Oportunidad](https://open.spotify.com/track/0g1dQ5Wafzv5umVhjNcEle) | [Revoluzion Estereo](https://open.spotify.com/artist/07y7DBTR7GwPS7sapmxrtG) | [Revoluzion Estereo](https://open.spotify.com/album/6LpcHauCrtKT0UJuXG8YI8) | 4:15 |
+| 50 | [Porque Fingir](https://open.spotify.com/track/7v13JBeYnHzgB4enyvcOcP) | [180 Grados](https://open.spotify.com/artist/5EFB2QpDOSYieHayE27uZ8) | [Cambio](https://open.spotify.com/album/59V6jFpLnTeVajCNjVKlyM) | 4:04 |
+
+Snapshot ID: `MTY1ODUzMTI0OCwwMDAwMDAwMDgwYjZiOTAzZGY2N2RjNDNkN2I3ODRkYjAwMGQxZTBl`

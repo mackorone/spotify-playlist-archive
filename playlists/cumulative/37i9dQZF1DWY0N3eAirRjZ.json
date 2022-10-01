@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "From slack-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music. Cover: <a href=\"spotify:artist:69NjH5MsRLr0CX0zSlGmN3\">Jake Shimabukuro</a>",
+  "description": "From slack-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music. Cover: Keauhou",
   "name": "All the Aloha: Native Hawaii",
   "published_playlist_ids": [
     "1jo88XDGrRdHEAZh0fJEh3"
@@ -49,10 +49,58 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 259266,
       "name": "'\u00dclili E - vocal duet with David Kamakahi",
       "url": "https://open.spotify.com/track/3bk9omZQSOmqpEo19iz1Xp"
+    },
+    {
+      "album": {
+        "name": "'Ohana",
+        "url": "https://open.spotify.com/album/38FeFAx49WBtJtC9hVg776"
+      },
+      "artists": [
+        {
+          "name": "Dennis Kamakahi",
+          "url": "https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y"
+        },
+        {
+          "name": "David Kamakahi",
+          "url": "https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257800,
+      "name": "'\u016alili E",
+      "url": "https://open.spotify.com/track/3CyKFRT6jd0ADhxfDp7xif"
+    },
+    {
+      "album": {
+        "name": "Jake & Friends",
+        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Paula Fuga",
+          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256466,
+      "name": "A Place In The Sun",
+      "url": "https://open.spotify.com/track/3dXFwE9yIXuotnjN7wsP2N"
     },
     {
       "album": {
@@ -75,7 +123,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256466,
       "name": "A Place In The Sun (feat. Jack Johnson with Paula Fuga)",
       "url": "https://open.spotify.com/track/1g9zSBL1faQ12FBBuvVlZ5"
@@ -244,6 +292,24 @@
     },
     {
       "album": {
+        "name": "I Le\u02bba",
+        "url": "https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb"
+      },
+      "artists": [
+        {
+          "name": "Keauhou",
+          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156432,
+      "name": "Heha Waipi\u02bbo",
+      "url": "https://open.spotify.com/track/1bbdAdeUtBuQagkXg6VFXh"
+    },
+    {
+      "album": {
         "name": "Pure Gabby",
         "url": "https://open.spotify.com/album/2Ta9PRl0lN9Bz2SDttccd1"
       },
@@ -334,6 +400,24 @@
     },
     {
       "album": {
+        "name": "6 & 12 String Slack Key Guitar",
+        "url": "https://open.spotify.com/album/5zuoYfUizX3LXBgKPSyXEk"
+      },
+      "artists": [
+        {
+          "name": "Cyril Pahinui",
+          "url": "https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310973,
+      "name": "Ipo Lei Manu",
+      "url": "https://open.spotify.com/track/3jFOru56OBjrH30UUBkGpT"
+    },
+    {
+      "album": {
         "name": "6 & 12 String Slack Key",
         "url": "https://open.spotify.com/album/5v62N5kiseJw91NvmVt0S5"
       },
@@ -345,7 +429,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 313133,
       "name": "Ipo Lei Manu",
       "url": "https://open.spotify.com/track/5WyLpJPhodJDTTgtJEbq71"
@@ -541,10 +625,32 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 282706,
       "name": "Lei 'Awapuhi",
       "url": "https://open.spotify.com/track/1dVyAJFUCAD5TjbWTKzpk0"
+    },
+    {
+      "album": {
+        "name": "K\u012bk\u0101 Kila Meets K\u012b H\u014d'alu",
+        "url": "https://open.spotify.com/album/3lD6160vY7QdfYnjTh4tid"
+      },
+      "artists": [
+        {
+          "name": "Bob Brozman",
+          "url": "https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V"
+        },
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279640,
+      "name": "Lei 'Awapuhi - Yellow Ginger Lei",
+      "url": "https://open.spotify.com/track/7jVT5ATucVf0V2R5ztUnYJ"
     },
     {
       "album": {
@@ -728,6 +834,24 @@
     },
     {
       "album": {
+        "name": "Wa'ahila",
+        "url": "https://open.spotify.com/album/2EIWZ57Tbsd1RLdFVKRoSw"
+      },
+      "artists": [
+        {
+          "name": "Ray Kane",
+          "url": "https://open.spotify.com/artist/6d2Ey5tgCEGpFd8fzoKhIR"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162960,
+      "name": "Popoki Slack Key",
+      "url": "https://open.spotify.com/track/6oipvFEyEy8DQS9dGKQ5wS"
+    },
+    {
+      "album": {
         "name": "Wa`ahila",
         "url": "https://open.spotify.com/album/5Uw3em9fZbu9FYvGzIbbq3"
       },
@@ -739,7 +863,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162000,
       "name": "Popoki Slack Key - Instrumental",
       "url": "https://open.spotify.com/track/63Fq2OlIJKdNK1kSl54iv5"
@@ -859,10 +983,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224986,
       "name": "Simple Love Song",
       "url": "https://open.spotify.com/track/2bDmYeA5ovrMJQJ9AR1Mxj"
+    },
+    {
+      "album": {
+        "name": "For Love",
+        "url": "https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224986,
+      "name": "Simple Love Song",
+      "url": "https://open.spotify.com/track/6fyj8DYAUlrjDcJBOVnYEB"
     },
     {
       "album": {
@@ -924,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "Pua'ena \"Glow Brightly\"",
+        "url": "https://open.spotify.com/album/2RVLxKj9LQNp8PqCAXlSi6"
+      },
+      "artists": [
+        {
+          "name": "Dennis Kamakahi",
+          "url": "https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269613,
+      "name": "Wahine 'Ilikea",
+      "url": "https://open.spotify.com/track/5W8F4fS064ny8IxyXvgUtp"
+    },
+    {
+      "album": {
         "name": "Pua'ena",
         "url": "https://open.spotify.com/album/6l3VoFEh7GUOELXRtaHMHk"
       },
@@ -935,7 +1095,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269626,
       "name": "Wahine 'Ilikea",
       "url": "https://open.spotify.com/track/1MtfC9i9HHG6DCXClvbwxw"
@@ -984,6 +1144,24 @@
     },
     {
       "album": {
+        "name": "Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56"
+      },
+      "artists": [
+        {
+          "name": "Ledward Kaapana",
+          "url": "https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151920,
+      "name": "Whee Ha Swing",
+      "url": "https://open.spotify.com/track/6tZkisNMGuSuaH6WTylYPi"
+    },
+    {
+      "album": {
         "name": "Hawaiian Slack Key Guitar Masters, Vol. 1",
         "url": "https://open.spotify.com/album/53hJB0xPGms7KJxRZsWE0I"
       },
@@ -995,7 +1173,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157493,
       "name": "Whee Ha Swing",
       "url": "https://open.spotify.com/track/1ECsI8Z2IhCKpLZbsEe5iw"

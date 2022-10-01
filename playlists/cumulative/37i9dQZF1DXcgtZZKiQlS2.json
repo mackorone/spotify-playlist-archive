@@ -88,6 +88,42 @@
     },
     {
       "album": {
+        "name": "The Okeh Rhythm & Blues Story 1949-1957",
+        "url": "https://open.spotify.com/album/6U4RdMRAljDPCe7T6jMPuU"
+      },
+      "artists": [
+        {
+          "name": "Andre Williams",
+          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 182560,
+      "name": "Bacon Fat",
+      "url": "https://open.spotify.com/track/0WGgptxgDjLKWbOELHKtjx"
+    },
+    {
+      "album": {
+        "name": "Fortune of Hits (1955-1960)",
+        "url": "https://open.spotify.com/album/4450CcX2Nl7CIcvYJfaJdG"
+      },
+      "artists": [
+        {
+          "name": "Andre Williams",
+          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183133,
+      "name": "Bacon Fat",
+      "url": "https://open.spotify.com/track/1mjWWueEwPbTd0NOorW0Wf"
+    },
+    {
+      "album": {
         "name": "Fortune of Hits (1955-1960)",
         "url": "https://open.spotify.com/album/2CwjiY3ksRTlDh1PZ7KL2U"
       },
@@ -99,7 +135,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183133,
       "name": "Bacon Fat",
       "url": "https://open.spotify.com/track/4BsXBCfVNwNyIrDsOPqtFu"
@@ -117,10 +153,28 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189506,
       "name": "Boogie Chillen",
       "url": "https://open.spotify.com/track/5oyKFxTeInGiLn7MVTqmMR"
+    },
+    {
+      "album": {
+        "name": "King Of The Boogie",
+        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189640,
+      "name": "Boogie Chillen",
+      "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
     },
     {
       "album": {
@@ -161,7 +215,7 @@
     {
       "album": {
         "name": "Sunday Morning Music",
-        "url": "https://open.spotify.com/album/2nxaoRQVqunEfUyGzWCr4A"
+        "url": "https://open.spotify.com/album/1uQIaq2Tp7RjJIqVblW0W0"
       },
       "artists": [
         {
@@ -172,6 +226,24 @@
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 251600,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/4iG6VpSawq9Bi4oGtXL11x"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning Music",
+        "url": "https://open.spotify.com/album/2nxaoRQVqunEfUyGzWCr4A"
+      },
+      "artists": [
+        {
+          "name": "Thornetta Davis",
+          "url": "https://open.spotify.com/artist/02HWgoL7gYSPcVlNjrJWRb"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 251600,
       "name": "Cry",
       "url": "https://open.spotify.com/track/6tOEaXgbwg7twE9Y6BPvXH"
@@ -689,10 +761,46 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159218,
       "name": "Three Cent Stamp Blues",
       "url": "https://open.spotify.com/track/0mZyTXRqojZDNe0JCBrzhx"
+    },
+    {
+      "album": {
+        "name": "Blues Sensation: Detroit Down Home Recordings 1948-49",
+        "url": "https://open.spotify.com/album/5uClUPQy00WNgSzh2MZbDQ"
+      },
+      "artists": [
+        {
+          "name": "Sylvester Cotton",
+          "url": "https://open.spotify.com/artist/3SXLoYFqaRWdNnIPdY6g8v"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159218,
+      "name": "Three Cent Stamp Blues",
+      "url": "https://open.spotify.com/track/7BKS5HgeXhT4NvNJ4VTIU2"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning Music",
+        "url": "https://open.spotify.com/album/1uQIaq2Tp7RjJIqVblW0W0"
+      },
+      "artists": [
+        {
+          "name": "Thornetta Davis",
+          "url": "https://open.spotify.com/artist/02HWgoL7gYSPcVlNjrJWRb"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253626,
+      "name": "Try To Remember",
+      "url": "https://open.spotify.com/track/56FIznrP3ojGOviBQJhkU2"
     },
     {
       "album": {
@@ -707,7 +815,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253626,
       "name": "Try To Remember",
       "url": "https://open.spotify.com/track/7tX4XfUvUVB81rpavzD54s"
@@ -725,10 +833,28 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169347,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/4FtM0NdctmlsYNxyBFPgTF"
+    },
+    {
+      "album": {
+        "name": "Blues Sensation: Detroit Down Home Recordings 1948-49",
+        "url": "https://open.spotify.com/album/5uClUPQy00WNgSzh2MZbDQ"
+      },
+      "artists": [
+        {
+          "name": "Sylvester Cotton",
+          "url": "https://open.spotify.com/artist/3SXLoYFqaRWdNnIPdY6g8v"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169347,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/6UoUIQDcpuzxuXWERwksvF"
     },
     {
       "album": {

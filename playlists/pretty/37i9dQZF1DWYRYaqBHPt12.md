@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRYaqBHPt12.md) - [plain]
 
 > Check out the playlist celebrating the 5th anniversary of PUBG: BATTLEGROUNDS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,752 likes - 22 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,522 likes - 22 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRYaqBHPt12.md) - [plain]
 | 21 | [WINNER TAKE$ ALL \(PGI.S 2021\)](https://open.spotify.com/track/2xZw1zpkdA9VdIQJXRTalJ) | [PUBG: BATTLEGROUNDS](https://open.spotify.com/artist/58596lUL65umS7uDFWsTdB) | [Thank you, 5urvivors](https://open.spotify.com/album/3l5Gbu1lIgFAndzDpPGam8) | 4:08 |
 | 22 | [Extreme Sportsmanship \(PGC 2021\)](https://open.spotify.com/track/2Z0oNYuXq9mjqpAvwlbyp2) | [PUBG: BATTLEGROUNDS](https://open.spotify.com/artist/58596lUL65umS7uDFWsTdB) | [Thank you, 5urvivors](https://open.spotify.com/album/3l5Gbu1lIgFAndzDpPGam8) | 3:42 |
 
-Snapshot ID: `MTY0ODU0MDUzOSwwMDAwMDAwNzAwMDAwMTdmZDRhYzViZmUwMDAwMDE3ZjcyZDYzZjRm`
+Snapshot ID: `MTY0ODU0MDUzOSwwMDAwMDAwMDAxYjY1OTE1ZGFlMzgyMjFlMzFlYWRmZDQzYWE1YjQ0`

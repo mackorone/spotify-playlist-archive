@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Cory Gunz",
+          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248586,
+      "name": "6 Foot 7 Foot",
+      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
+    },
+    {
+      "album": {
         "name": "Tha Carter IV",
         "url": "https://open.spotify.com/album/1MGEMBqM3v8OUM2glv7MSx"
       },
@@ -23,7 +45,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 248586,
       "name": "6 Foot 7 Foot",
       "url": "https://open.spotify.com/track/6BCs8vxnGgKL9eMCOrG2wm"
@@ -52,7 +74,7 @@
     },
     {
       "album": {
-        "name": "All The Way Up (feat. French Montana & Infared) - Single",
+        "name": "All The Way Up (feat. Infared)",
         "url": "https://open.spotify.com/album/7vzvohRzBtrnr3miUJrpAk"
       },
       "artists": [
@@ -77,7 +99,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191942,
-      "name": "All The Way Up",
+      "name": "All The Way Up (feat. Infared)",
       "url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g"
     },
     {
@@ -383,7 +405,7 @@
       },
       "artists": [
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {

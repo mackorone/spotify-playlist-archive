@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/50l7KMPuO1jMnpofYHCwV1.md) - [plain]
 
 > The evening is here in Austin\. Time for some music to get it started all over again!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,283 likes - 41 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282 likes - 41 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

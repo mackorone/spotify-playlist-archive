@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CC59WvTBvm.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Demi Bagby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,710 likes - 37 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,794 likes - 37 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CC59WvTBvm.md) - [plain]
 | 9 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
 | 10 | [Let Me Love You \(feat\. Chris Crone\)](https://open.spotify.com/track/2jfCy43LsFbCQoB6HyetlY) | [SJUR](https://open.spotify.com/artist/1X6dfPmF8f5C5EW3WIGfvm), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [Let Me Love You \(feat\. Chris Crone\)](https://open.spotify.com/album/6Lmx4sQJ4lUrXxY64X4oeu) | 3:28 |
 | 11 | [Anywhere \(feat\. Will Heard\)](https://open.spotify.com/track/0fMMtO0pOYIGWfbJmrqfVJ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Anywhere \(feat\. Will Heard\)](https://open.spotify.com/album/3uRfl5ZsFJpuYj2z1YjXKC) | 2:57 |
-| 12 | [Feels Right](https://open.spotify.com/track/4XQNFi2i4myEzqKDnnUVrv) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Yung Fusion](https://open.spotify.com/artist/0daSHuKxoXYl50HIQ9aKzt) | [NCS: The Best of 2016](https://open.spotify.com/album/1r07Izb8tOjwqYP6iTICH7) | 3:19 |
+| 12 | [Feels Right](https://open.spotify.com/track/0ntQOeCxfO9wuGJXFv5D6d) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [Yung Fusion](https://open.spotify.com/artist/0daSHuKxoXYl50HIQ9aKzt) | [Feels Right \(Radio Edit\)](https://open.spotify.com/album/27Mt9d7Kd3EhQpK9MxO0qf) | 3:19 |
 | 13 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
 | 14 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 15 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CC59WvTBvm.md) - [plain]
 | 36 | [If I Can't Have You \(feat\. Harloe\) \(feat\. Harloe\)](https://open.spotify.com/track/4KgPCGE4qeanHcP3MRA7lW) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [If I Can't Have You \(feat\. Harloe\) \(feat\. Harloe\)](https://open.spotify.com/album/3ubFDN1Y4UQbx02d4W9owq) | 3:56 |
 | 37 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
 
-Snapshot ID: `MTY0MjAwMDc4MCwwMDAwMDAwMjAwMDAwMTdlNGVkZjhkYWUwMDAwMDE3ZTQ1YWE4NGI5`
+Snapshot ID: `MTY0MjAwMDc4MCwwMDAwMDAwMGM5MmFjMzY4NzEwYWZkYzY3ODVmY2VmY2IxMDFhZTMx`

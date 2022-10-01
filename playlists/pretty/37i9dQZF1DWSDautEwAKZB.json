@@ -1,13 +1,29 @@
 {
-  "description": "Latin superstars like you've never heard before.  Cover: Gabriel Garz\u00f3n-Montano, Mon Laferte & Tokischa",
-  "num_followers": 4774,
+  "description": "Latin superstars like you've never heard before.  Cover: Twin Shadow.",
+  "num_followers": 4795,
   "original_name": "Spotify Singles: Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkyMTA2MCwwMDAwMDAxMjAwMDAwMTgxOGM5NjJhNTAwMDAwMDE4MThjOTE1ZjBk",
+  "snapshot_id": "MTY2MjA2MjAyOSwwMDAwMDAwMDNjMjZkZDExOGExY2Q2MDFlM2YwZmZjN2U5NjRlMjE4",
   "tracks": [
+    {
+      "added_at": "2022-02-22 18:56:44",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
+      },
+      "artists": [
+        {
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Telepat\u00eda - Spotify Singles",
+      "url": "https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb"
+    },
     {
       "added_at": "2022-02-22 18:56:44",
       "album": {
@@ -299,22 +315,6 @@
     {
       "added_at": "2022-02-22 18:56:44",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
-      },
-      "artists": [
-        {
-          "name": "Twin Shadow",
-          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "Telepat\u00eda - Spotify Singles",
-      "url": "https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb"
-    },
-    {
-      "added_at": "2022-02-22 18:56:44",
-      "album": {
         "name": "Prende el Arbolito - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n"
       },
@@ -423,8 +423,8 @@
     {
       "added_at": "2022-02-22 18:56:44",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3DkpSX4WupAad9H3DgdVji"
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 307769,
-      "name": "Love And Happiness - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1OgjvzxeljGaL4LrZmV1Qj"
+      "duration_ms": 308756,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
     },
     {
       "added_at": "2022-02-22 18:56:44",
@@ -832,7 +832,7 @@
       "added_at": "2022-02-22 18:56:44",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3DkpSX4WupAad9H3DgdVji"
+        "url": "https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8"
       },
       "artists": [
         {
@@ -841,8 +841,8 @@
         }
       ],
       "duration_ms": 307856,
-      "name": "Hasta la Noche (Ilegal) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0BzncqR8TyG5Jzy7NNk9pm"
+      "name": "Hasta la Noche (Ilegal)",
+      "url": "https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X"
     },
     {
       "added_at": "2022-06-22 18:04:20",

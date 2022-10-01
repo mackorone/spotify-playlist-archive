@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 222120,
       "name": "Cadillac Ranch",
       "url": "https://open.spotify.com/track/5IhIK4GJFA7mNuT6aP6WNl"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-24",
       "duration_ms": 226013,
       "name": "Heavenly Fire",
       "url": "https://open.spotify.com/track/0y9TcqNyeAQQjo7fVAMEXl"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-02",
       "duration_ms": 169306,
       "name": "Listen to a Country Song",
       "url": "https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-30",
       "duration_ms": 235106,
       "name": "Make A Little Magic - 2001 Remaster",
       "url": "https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6"
@@ -499,7 +499,7 @@
     {
       "album": {
         "name": "Safe at Home",
-        "url": "https://open.spotify.com/album/1CBHkPPiPzCrF6EVd6bFiv"
+        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
       },
       "artists": [
         {
@@ -510,6 +510,24 @@
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 169133,
+      "name": "Miller's Cave",
+      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
+    },
+    {
+      "album": {
+        "name": "Safe at Home",
+        "url": "https://open.spotify.com/album/1CBHkPPiPzCrF6EVd6bFiv"
+      },
+      "artists": [
+        {
+          "name": "The International Submarine Band",
+          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
+        }
+      ],
+      "date_added": "2020-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 169133,
       "name": "Miller's Cave",
       "url": "https://open.spotify.com/track/7gsiUput4gYeAQZkOx7J8I"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 160466,
       "name": "One Hundred Years from Now",
       "url": "https://open.spotify.com/track/7FeLo6k5fhgXyGTPaK6VLi"
@@ -639,7 +657,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": "2022-07-27",
       "duration_ms": 291986,
       "name": "Prisoner in Disguise",
       "url": "https://open.spotify.com/track/5Ms8PC4YEHInOWrhj2QLw0"
@@ -682,6 +700,24 @@
     },
     {
       "album": {
+        "name": "Running on Empty / Nothing but Time (Digital 45)",
+        "url": "https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "date_added": "2020-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291893,
+      "name": "Running on Empty",
+      "url": "https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY"
+    },
+    {
+      "album": {
         "name": "Running on Empty",
         "url": "https://open.spotify.com/album/4VqLII6oqVpCj5HjwKKwX9"
       },
@@ -693,7 +729,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298093,
       "name": "Running on Empty",
       "url": "https://open.spotify.com/track/4MZEZz8MqVgvIMXU6AVP22"
@@ -729,7 +765,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": "2022-07-21",
       "duration_ms": 227200,
       "name": "She Carries A Child",
       "url": "https://open.spotify.com/track/6WVEmSHko503L1Kb0H5OrI"
@@ -783,7 +819,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-26",
       "duration_ms": 233066,
       "name": "Someone Who Cares",
       "url": "https://open.spotify.com/track/2eSySlmf3c5114MaxAVaAS"
@@ -823,6 +859,24 @@
       "duration_ms": 176640,
       "name": "Still Right Here In My Heart",
       "url": "https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr"
+    },
+    {
+      "album": {
+        "name": "No Other",
+        "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
+      },
+      "artists": [
+        {
+          "name": "Gene Clark",
+          "url": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+        }
+      ],
+      "date_added": "2020-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391773,
+      "name": "Strength of Strings",
+      "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
     },
     {
       "album": {
@@ -873,7 +927,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 391000,
       "name": "Sutter's Mill",
       "url": "https://open.spotify.com/track/3fRwEtPmL2hFClf6Ph6l4O"
@@ -927,7 +981,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144720,
       "name": "Ten More Miles to Louisiana",
       "url": "https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy"

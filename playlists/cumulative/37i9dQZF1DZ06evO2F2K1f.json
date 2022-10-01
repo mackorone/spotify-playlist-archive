@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Kpm 1000 Series: The Road Forward",
+        "url": "https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 261164,
+      "name": "A Man Alone",
+      "url": "https://open.spotify.com/track/4EZ5UGomeXRNKrceW5xUq8"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: The Big Beat",
         "url": "https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": "2022-09-10",
       "duration_ms": 127626,
       "name": "A Touch of Nonsense",
       "url": "https://open.spotify.com/track/1qwhMcP5dOIEBGo9VMC5Rs"
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 116573,
       "name": "Action Replay",
       "url": "https://open.spotify.com/track/5So0Gqy5hxb82PuNzFBn6o"
@@ -81,7 +99,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-23",
       "duration_ms": 117106,
       "name": "Beach Buggy (A)",
       "url": "https://open.spotify.com/track/1zLiRIhQoqLRpmRFC5t4kp"
@@ -121,10 +139,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 115426,
       "name": "Beat Boutique",
       "url": "https://open.spotify.com/track/0rjIUB7ZevwjJiybEIuQIo"
+    },
+    {
+      "album": {
+        "name": "Bootleg Beats",
+        "url": "https://open.spotify.com/album/5VeLluSageWRYdDLnWKY22"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Andrew Kingslow",
+          "url": "https://open.spotify.com/artist/5WOBCeIHKqEzE4Ec6Aq7Sc"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 216707,
+      "name": "Beat Match Until I'm Blue",
+      "url": "https://open.spotify.com/track/0N5pzZNpakMrcHJ2rkjkUI"
     },
     {
       "album": {
@@ -280,6 +320,28 @@
     },
     {
       "album": {
+        "name": "Kpm 1000 Series: Music for a Young Generation",
+        "url": "https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL"
+      },
+      "artists": [
+        {
+          "name": "Alan Parker",
+          "url": "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
+        },
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 207533,
+      "name": "Coast to Coast",
+      "url": "https://open.spotify.com/track/5N9rr1pdKu8Pgy87IiLVEj"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: Synthesis",
         "url": "https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB"
       },
@@ -295,7 +357,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 194120,
       "name": "Collision Course",
       "url": "https://open.spotify.com/track/32eDoXPsW7MWuDEJATrUTF"
@@ -317,7 +379,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 181977,
       "name": "Cool Cruiser",
       "url": "https://open.spotify.com/track/5STTE3rxT5B8GpqoxBhmTO"
@@ -379,7 +441,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-03",
       "duration_ms": 232209,
       "name": "Dave Is Not Here",
       "url": "https://open.spotify.com/track/18LmkmkifrB5KQ9Wot8unF"
@@ -401,7 +463,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-09-23",
       "duration_ms": 139653,
       "name": "Days of Orange Squash",
       "url": "https://open.spotify.com/track/2qoCKiFr4ndUP54Cx0Cyr5"
@@ -423,7 +485,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-20",
       "duration_ms": 247266,
       "name": "Deadline",
       "url": "https://open.spotify.com/track/4YVIDt9lhVeZJ9e4E45VCS"
@@ -439,9 +501,27 @@
           "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
         }
       ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-01",
+      "duration_ms": 86493,
+      "name": "Debsviile",
+      "url": "https://open.spotify.com/track/5eKZqskNVrntusJ6uR34lf"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: The Big Beat",
+        "url": "https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-06",
+      "date_removed": "2022-09-29",
       "duration_ms": 158400,
       "name": "Delivery Date",
       "url": "https://open.spotify.com/track/1EPiKxltYOTINNNqmvNOw0"
@@ -481,7 +561,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 175395,
       "name": "First Affair",
       "url": "https://open.spotify.com/track/3cASj8j2a8tZTmxapSk0Ab"
@@ -521,7 +601,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-10-01",
       "duration_ms": 122360,
       "name": "Friends and Neighbours",
       "url": "https://open.spotify.com/track/1I4L9RvTHWkoOOUeceXIfW"
@@ -579,7 +659,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-10-01",
       "duration_ms": 137374,
       "name": "Gingerbread",
       "url": "https://open.spotify.com/track/4lIVwUYL7ZmTjXs8hUWiab"
@@ -615,7 +695,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 83226,
       "name": "Grange Hill",
       "url": "https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC"
@@ -633,7 +713,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": "2022-09-11",
       "duration_ms": 132570,
       "name": "Hastle",
       "url": "https://open.spotify.com/track/5mEMZUryDazoP7uY6ZXgWC"
@@ -651,7 +731,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": "2022-09-22",
       "duration_ms": 222247,
       "name": "High Diver",
       "url": "https://open.spotify.com/track/5YHOWugv9OFLaog6Cst2CS"
@@ -721,7 +801,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-10-01",
       "duration_ms": 240741,
       "name": "Laura",
       "url": "https://open.spotify.com/track/1xm6n05NR02rGfhPXdbmS2"
@@ -747,6 +827,28 @@
       "duration_ms": 278440,
       "name": "Lazy Evening Blues",
       "url": "https://open.spotify.com/track/1TRD0G4Fbm9Q4PkRO2awXu"
+    },
+    {
+      "album": {
+        "name": "Bootleg Beats",
+        "url": "https://open.spotify.com/album/5VeLluSageWRYdDLnWKY22"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Adam Mills",
+          "url": "https://open.spotify.com/artist/3yvNDjWsj4naAfKrhWvH1m"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 117228,
+      "name": "Lounging at Dave's",
+      "url": "https://open.spotify.com/track/5byTzKp9kbMCG5miJ7NJZe"
     },
     {
       "album": {
@@ -819,7 +921,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 264352,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/5g8V7qpugfxt7rKyL7oEwB"
@@ -917,7 +1019,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 169215,
       "name": "Mystique Voyage",
       "url": "https://open.spotify.com/track/4sgv8AIbpS2ABbxVtiOCCc"
@@ -943,6 +1045,24 @@
       "duration_ms": 266531,
       "name": "Name of the Game",
       "url": "https://open.spotify.com/track/7jsactTYPuOWrVfLRL40lt"
+    },
+    {
+      "album": {
+        "name": "Live Action",
+        "url": "https://open.spotify.com/album/0aK3l7mzwVJOHvdQGqm9I2"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 226866,
+      "name": "Neck And Neck",
+      "url": "https://open.spotify.com/track/05146j3iazNxLQNF5b6lCH"
     },
     {
       "album": {
@@ -983,7 +1103,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": "2022-09-23",
       "duration_ms": 271913,
       "name": "On The Nile",
       "url": "https://open.spotify.com/track/0YLgGHYNK5B3diFWckaHUU"
@@ -1057,7 +1177,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-09-20",
       "duration_ms": 180384,
       "name": "Original Mania",
       "url": "https://open.spotify.com/track/6hfhkHbprP0sPgIRCsyfZh"
@@ -1097,7 +1217,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 91840,
       "name": "Powerboat",
       "url": "https://open.spotify.com/track/2T7So0EKMcfsIVlNsSV4TS"
@@ -1115,10 +1235,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 80600,
       "name": "Regent Street",
       "url": "https://open.spotify.com/track/6jONUb62DB6QS22Lk06FmB"
+    },
+    {
+      "album": {
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/6nVKvvfOnN3rB2lui1tMZr"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "Reminiscences",
+      "url": "https://open.spotify.com/track/6vAqNQAPjqzx5ztO88PQX9"
     },
     {
       "album": {
@@ -1133,7 +1271,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": "2022-09-09",
       "duration_ms": 135533,
       "name": "Rocky Mountain Runabout",
       "url": "https://open.spotify.com/track/0onhMFZBampcxMxkIDxmU0"
@@ -1151,7 +1289,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-09-09",
       "duration_ms": 100666,
       "name": "Roving Reporter",
       "url": "https://open.spotify.com/track/70ilfw7o4EekgZt3P8EgDz"
@@ -1263,10 +1401,32 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-09-29",
       "duration_ms": 177426,
       "name": "Soul Organ Impromptu",
       "url": "https://open.spotify.com/track/7wRok4fwH4ygKr1AtrVFTF"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Music for a Young Generation",
+        "url": "https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL"
+      },
+      "artists": [
+        {
+          "name": "Alan Parker",
+          "url": "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
+        },
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77533,
+      "name": "Speed Speed Speed",
+      "url": "https://open.spotify.com/track/0trsIvjLUT4WOq9phJxSz0"
     },
     {
       "album": {
@@ -1285,7 +1445,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2022-08-23",
       "duration_ms": 77733,
       "name": "Speed Speed Speed",
       "url": "https://open.spotify.com/track/6KequWeuLVnMMf1engpVTa"
@@ -1325,6 +1485,24 @@
       "duration_ms": 114440,
       "name": "Studio 69",
       "url": "https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Happy Rainbows",
+        "url": "https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145053,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/1h70v5iWJWPmLbmQjKoRvT"
     },
     {
       "album": {
@@ -1383,7 +1561,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 43333,
       "name": "The Action Scene",
       "url": "https://open.spotify.com/track/18o3KULy3bqbWd5YEZluEY"
@@ -1427,7 +1605,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 62880,
       "name": "The Feminine Scene",
       "url": "https://open.spotify.com/track/4T5WDDivphEVKFz2NmVmxn"
@@ -1453,7 +1631,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": "2022-08-10",
       "duration_ms": 181666,
       "name": "The Hawk Shuffle",
       "url": "https://open.spotify.com/track/67zZDu1rnFAQdp1zyryQWQ"
@@ -1496,6 +1674,28 @@
     },
     {
       "album": {
+        "name": "Kpm 1000 Series: Beat Incidental",
+        "url": "https://open.spotify.com/album/1wKRVl9kRVN879WQifzkYg"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Keith Mansfield",
+          "url": "https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-21",
+      "duration_ms": 62800,
+      "name": "The Tense Scene",
+      "url": "https://open.spotify.com/track/5E77JCBqo2tTFZecettFg7"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: Move with the Times",
         "url": "https://open.spotify.com/album/5sybNrceXTbwPviUEeXX2A"
       },
@@ -1507,7 +1707,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2022-09-30",
       "duration_ms": 153893,
       "name": "Undergroove",
       "url": "https://open.spotify.com/track/4xunh8bA57pylZRTBJMndo"
@@ -1529,7 +1729,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 146214,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/40JxNRnTUrSsWqs2mRM4TS"
@@ -1569,7 +1769,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 177333,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/0kf25bZM9C8ejuDlYpg3eT"

@@ -95,10 +95,32 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171500,
       "name": "A\u00f1o de Mierda",
       "url": "https://open.spotify.com/track/52Gh9CvRUV2BdFo7ywL8IC"
+    },
+    {
+      "album": {
+        "name": "Elesplit",
+        "url": "https://open.spotify.com/album/0VwxKnWVX5fKLp2CQN3Yyc"
+      },
+      "artists": [
+        {
+          "name": "Conf\u00edo en tus amigos",
+          "url": "https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4"
+        },
+        {
+          "name": "Artistas Fif\u00ed",
+          "url": "https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "A\u00f1o de Mierda",
+      "url": "https://open.spotify.com/track/7q1ugxgWb8J7kOeDIRbXdd"
     },
     {
       "album": {
@@ -899,13 +921,17 @@
         {
           "name": "El Shirota",
           "url": "https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk"
+        },
+        {
+          "name": "ALO",
+          "url": "https://open.spotify.com/artist/7Mcl8NDOEXuaP9QJ3ATnR9"
         }
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 384401,
-      "name": "Tibio (feat. Alo)",
+      "name": "Tibio",
       "url": "https://open.spotify.com/track/1Hb4Zgo4nV73Eh0oA19BuJ"
     },
     {
@@ -1001,7 +1027,7 @@
     {
       "album": {
         "name": "videoclub",
-        "url": "https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz"
+        "url": "https://open.spotify.com/album/6F8kAxB0RbrQud6iceMMl2"
       },
       "artists": [
         {
@@ -1012,6 +1038,24 @@
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194750,
+      "name": "videoclub",
+      "url": "https://open.spotify.com/track/3zjxH68heuJi9YGAlHuOG4"
+    },
+    {
+      "album": {
+        "name": "videoclub",
+        "url": "https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz"
+      },
+      "artists": [
+        {
+          "name": "mitimitis",
+          "url": "https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 194750,
       "name": "videoclub",
       "url": "https://open.spotify.com/track/462xoGsHcgDbnVZVHqMSUJ"

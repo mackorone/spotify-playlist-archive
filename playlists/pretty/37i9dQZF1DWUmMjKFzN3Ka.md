@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmMjKFzN3Ka.md) - [plain]
 
 ### [VOLAC's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWUmMjKFzN3Ka)
 
-> Electronic duo <a href ="spotify:artist:4Nl6PVYLwbCFfr3UqQlFtE">VOLAC</a> delivers a fun, high\-energy tech house mix!
+> Electronic duo <a href="spotify:artist:4Nl6PVYLwbCFfr3UqQlFtE">VOLAC</a> delivers a fun, high\-energy tech house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 431 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 965 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmMjKFzN3Ka.md) - [plain]
 | 18 | [Tokyo Tech \- Mixed](https://open.spotify.com/track/65JLgr02umcx5YL5qKfStW) | [Cele](https://open.spotify.com/artist/2bpkThEPVrkcoAJpTFAVLR) | [Tokyo Tech \(Mixed\)](https://open.spotify.com/album/7ES2sVVc6EL2YDLUxC0PaD) | 3:37 |
 | 19 | [Distance \- Volac Remix \- Mixed](https://open.spotify.com/track/691nodCdyLsvWLa918AIzb) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Distance \- Volac Remix \(Mixed\)](https://open.spotify.com/album/7Mb6GSWSeNQq5JfMMcrYX6) | 3:34 |
 
-Snapshot ID: `MTY1MTY0NDU0NSwwMDAwMDAwNTAwMDAwMTgwOGRhZmI3ZmEwMDAwMDE4MDhjNjU1YTIz`
+Snapshot ID: `MTY2MDY2MTI4NiwwMDAwMDAwMGU0MTkxNGNkY2VkOWM1YWJjMjQ4ZDE1M2JmOTA1NDY2`

@@ -1,47 +1,263 @@
 {
   "description": "Move it and groove it to these great tunes!",
-  "num_followers": 49339,
+  "num_followers": 51970,
   "original_name": "Family Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE5NDA5NSwwMDAwMDAwMGRjNWMwMzE4NmM1MjE4NzczYjYwZjE3ZWJjNmViMWQz",
+  "snapshot_id": "MTY2MDc1MTAwMywwMDAwMDAwMGM3MWRkNmVhODMwM2MwNDVkM2MwYWFiZGM0YjhjYTBk",
   "tracks": [
     {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
       "album": {
-        "name": "The J Team (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/784cFhESN44WTceqtXcPLN"
+        "name": "Uptown Special",
+        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
       "artists": [
         {
-          "name": "JoJo Siwa",
-          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 155657,
-      "name": "Dance Through the Day",
-      "url": "https://open.spotify.com/track/4vMrdBYA0UxkXRii8Ayi6M"
+      "duration_ms": 269666,
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
     },
     {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
       "album": {
-        "name": "My Universe",
-        "url": "https://open.spotify.com/album/7uF0sUMcjfk0j8WmzwtcR2"
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
       },
       "artists": [
         {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
         }
       ],
-      "duration_ms": 197812,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/7fV5tA7WHXwZfmfO1tBzRo"
+      "duration_ms": 192789,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
     },
     {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 232720,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Better When I'm Dancin'",
+        "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 176266,
+      "name": "Better When I'm Dancin'",
+      "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Madagascar: Escape 2 Africa (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0a6NsOaOzlrubGl3htyVWG"
+      },
+      "artists": [
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "I Like To Move It",
+      "url": "https://open.spotify.com/track/4bAFo6r2ODMDoqM5YHV2gM"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Me 4 U",
+        "url": "https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY"
+      },
+      "artists": [
+        {
+          "name": "OMI",
+          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Cheerleader - Felix Jaehn Remix Radio Edit",
+      "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Who Let The Dogs Out",
+        "url": "https://open.spotify.com/album/44UH34qoCNNfEqo0VnOkGd"
+      },
+      "artists": [
+        {
+          "name": "Baha Men",
+          "url": "https://open.spotify.com/artist/67FFKYikvTlvsPNk4NPOYJ"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Who Let The Dogs Out",
+      "url": "https://open.spotify.com/track/1H5tvpoApNDxvxDexoaAUo"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
       "album": {
         "name": "Good Mood (Original Song From Paw Patrol: The Movie)",
         "url": "https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI"
@@ -57,239 +273,123 @@
       "url": "https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1"
     },
     {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
       "album": {
-        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
       },
       "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "D.A.N.C.E",
+      "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7Hc9zEVvu3wOJXI5YVhXe2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Dancing In The Dark - From The \"Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/3nlVjrlLMJHC7Flf9impf9"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "The Fox (What Does the Fox Say?)",
+        "url": "https://open.spotify.com/album/77QwsMRvonZJn7adV47V78"
+      },
+      "artists": [
+        {
+          "name": "Ylvis",
+          "url": "https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ"
+        }
+      ],
+      "duration_ms": 213708,
+      "name": "The Fox (What Does the Fox Say?)",
+      "url": "https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 286666,
+      "name": "Y.M.C.A.",
+      "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "The Other Side (from Trolls World Tour)",
+        "url": "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Kenan Thompson",
-          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
         }
       ],
-      "duration_ms": 221480,
-      "name": "Just Sing",
-      "url": "https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs"
+      "duration_ms": 188186,
+      "name": "The Other Side (from Trolls World Tour)",
+      "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"
     },
     {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
       "album": {
-        "name": "The Peanuts Movie - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/0V5n3Ch2vFwxT5pVztog3t"
+        "name": "The Way You Move / Hey Ya!",
+        "url": "https://open.spotify.com/album/7etFl9qeqjD0luC40JAg8l"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 176266,
-      "name": "Better When I'm Dancin'",
-      "url": "https://open.spotify.com/track/3Jui3TOVXgDCYeVa3sS28C"
+      "duration_ms": 239240,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy"
     },
     {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
       "album": {
-        "name": "Glowin' Up (from the Netflix film \"My Little Pony: A New Generation\")",
-        "url": "https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X"
+        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
       },
       "artists": [
         {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        },
-        {
-          "name": "My Little Pony",
-          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
         }
       ],
-      "duration_ms": 191094,
-      "name": "Glowin' Up - from the Netflix film My Little Pony: A New Generation",
-      "url": "https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS"
+      "duration_ms": 181906,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
     },
     {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Whoopty Whoop",
-        "url": "https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT"
-      },
-      "artists": [
-        {
-          "name": "Koo Koo Kanga Roo",
-          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
-        }
-      ],
-      "duration_ms": 117136,
-      "name": "Get Yo Body Movin'",
-      "url": "https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Friday",
-        "url": "https://open.spotify.com/album/6SOTh5a41LawGWWKLObiv0"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 168745,
-      "name": "Friday",
-      "url": "https://open.spotify.com/track/5s1Af1Md8QLtZ8qolQgnkF"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Get Up and Dance",
-        "url": "https://open.spotify.com/album/6nfatQiwBOwUH6jub9j9LD"
-      },
-      "artists": [
-        {
-          "name": "L.O.L. Surprise!",
-          "url": "https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7"
-        }
-      ],
-      "duration_ms": 137506,
-      "name": "Get Up and Dance",
-      "url": "https://open.spotify.com/track/0OSFuTBZjruzU0AYNqhwM3"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "It's Alright (From The Netflix Film My Little Pony: A New Generation)",
-        "url": "https://open.spotify.com/album/21gDAoF1n6uNZUIR6iDvC7"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 193669,
-      "name": "It\u2019s Alright - From The Netflix Film My Little Pony: A New Generation",
-      "url": "https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "The J Team (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/784cFhESN44WTceqtXcPLN"
-      },
-      "artists": [
-        {
-          "name": "JoJo Siwa",
-          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
-        }
-      ],
-      "duration_ms": 217553,
-      "name": "Nobody Can Change Me!",
-      "url": "https://open.spotify.com/track/1o7715nSyvmepjU6Q2LU1s"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Teddy Bear",
-        "url": "https://open.spotify.com/album/23poQuS4E699Zg2FitvU7w"
-      },
-      "artists": [
-        {
-          "name": "Jazzy Ash",
-          "url": "https://open.spotify.com/artist/5zToXUC9I6HoncynKnRMhJ"
-        }
-      ],
-      "duration_ms": 171749,
-      "name": "Teddy Bear",
-      "url": "https://open.spotify.com/track/2H8ohLFj7Q84FmeStZfQoZ"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Roller Disco",
-        "url": "https://open.spotify.com/album/3HiKeJxgpyKJBCk2Xg3jvm"
-      },
-      "artists": [
-        {
-          "name": "Peppa Pig",
-          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
-        }
-      ],
-      "duration_ms": 196754,
-      "name": "Roller Disco",
-      "url": "https://open.spotify.com/track/1oTvT8s4iPUJZOR9uUCu7t"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Pancake Manor",
-        "url": "https://open.spotify.com/album/6y0xVay2XCLcDK3HW6VdYs"
-      },
-      "artists": [
-        {
-          "name": "Pancake Manor",
-          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
-        }
-      ],
-      "duration_ms": 95253,
-      "name": "Shake Break",
-      "url": "https://open.spotify.com/track/50jELX08A9U7fUFgC7cAWJ"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Butter",
-        "url": "https://open.spotify.com/album/5pj3zCJ1R5HnOsEwePVqN1"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/3p1amIF17ryE70SnlK33eH"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "My Jam",
-        "url": "https://open.spotify.com/album/4RHlMYF4BAjd1zpVTmhaGj"
-      },
-      "artists": [
-        {
-          "name": "Koo Koo Kanga Roo",
-          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/0olyO3EpMpm4d5Sv64kYB3"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
       "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
@@ -333,55 +433,99 @@
       "url": "https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw"
     },
     {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
       "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/0JAF2ETpJXEhYhrqvFJQk5"
+        "name": "Fiesta Macarena",
+        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
       },
       "artists": [
         {
-          "name": "L.O.L. Surprise!",
-          "url": "https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7"
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
         }
       ],
-      "duration_ms": 135186,
-      "name": "Shades",
-      "url": "https://open.spotify.com/track/64PBBaVpWLDdK2x6aTWEu5"
+      "duration_ms": 249506,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK"
     },
     {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
       "album": {
-        "name": "Madagascar: Escape 2 Africa (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0a6NsOaOzlrubGl3htyVWG"
+        "name": "Take on Me (Kygo Remix)",
+        "url": "https://open.spotify.com/album/3R2Movau61LViutgG8JYtV"
       },
       "artists": [
         {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         }
       ],
-      "duration_ms": 221466,
-      "name": "I Like To Move It",
-      "url": "https://open.spotify.com/track/4bAFo6r2ODMDoqM5YHV2gM"
+      "duration_ms": 226666,
+      "name": "Take on Me - Kygo Remix",
+      "url": "https://open.spotify.com/track/5UHuuQGEgMbZrYnHjQG9ny"
     },
     {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
       "album": {
-        "name": "The LEGO\u00ae Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3is3Hewrn1qkXlgCSoPe3t"
+        "name": "The Lego Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX"
       },
       "artists": [
         {
           "name": "Tegan and Sara",
           "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        },
+        {
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
         }
       ],
-      "duration_ms": 163426,
-      "name": "Everything Is Awesome!!!",
-      "url": "https://open.spotify.com/track/65DU3ad0BY3N1TNn58ofmK"
+      "duration_ms": 163423,
+      "name": "Everything Is AWESOME!!! (feat. The Lonely Island)",
+      "url": "https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2"
     },
     {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Glowin' Up (from the Netflix film \"My Little Pony: A New Generation\")",
+        "url": "https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "duration_ms": 191094,
+      "name": "Glowin' Up - from the Netflix film My Little Pony: A New Generation",
+      "url": "https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Shinin' On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Z0J6OrdQQjFXtqBW0XXsA"
+      },
+      "artists": [
+        {
+          "name": "Grand Funk Railroad",
+          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "The Loco-Motion - Remastered 2002",
+      "url": "https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
       "album": {
         "name": "Rain On Me",
         "url": "https://open.spotify.com/album/3o7jSgGFBcmCDAB9Fh5UfV"
@@ -397,74 +541,26 @@
       "url": "https://open.spotify.com/track/2GcdfWGil49CTVzkOuvoNa"
     },
     {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
       "album": {
-        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
+        "name": "The J Team (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/784cFhESN44WTceqtXcPLN"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
         }
       ],
-      "duration_ms": 236001,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
+      "duration_ms": 155657,
+      "name": "Dance Through the Day",
+      "url": "https://open.spotify.com/track/4vMrdBYA0UxkXRii8Ayi6M"
     },
     {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
       "album": {
-        "name": "Jumping Jack",
-        "url": "https://open.spotify.com/album/4V6rcHJLaaSl6pVpo9cUyf"
-      },
-      "artists": [
-        {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
-        }
-      ],
-      "duration_ms": 143859,
-      "name": "Jumping Jack",
-      "url": "https://open.spotify.com/track/5Ua7nKxK8fbVl8qFmvbHPP"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "The Chicken Dance and Other Silly Songs",
-        "url": "https://open.spotify.com/album/6uDInUcLuJElPuuW5kAKtZ"
-      },
-      "artists": [
-        {
-          "name": "Sing n Play",
-          "url": "https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs"
-        }
-      ],
-      "duration_ms": 148866,
-      "name": "The Chicken Dance",
-      "url": "https://open.spotify.com/track/1c9dv4anUlofPLzIkQCxpA"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "Firework",
-      "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "My Jam",
-        "url": "https://open.spotify.com/album/2d3S8K0TuX800sJc4sBB80"
+        "name": "Whoopty Whoop",
+        "url": "https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT"
       },
       "artists": [
         {
@@ -472,161 +568,85 @@
           "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
         }
       ],
-      "duration_ms": 165320,
-      "name": "My Jam",
-      "url": "https://open.spotify.com/track/4r5ibfNn0SOvfF2Dh1znnH"
+      "duration_ms": 117136,
+      "name": "Get Yo Body Movin'",
+      "url": "https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC"
     },
     {
-      "added_at": "2022-07-15 00:00:00",
+      "added_at": "2022-08-17 15:43:23",
       "album": {
-        "name": "Uptown Special",
-        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
       },
       "artists": [
         {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "Uptown Funk (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "I Don't Wanna Dance (Just Like Everyone)",
-        "url": "https://open.spotify.com/album/2UQDlPctG0uQmVC928flEj"
-      },
-      "artists": [
-        {
-          "name": "Jumpin' jamie",
-          "url": "https://open.spotify.com/artist/2xrfLcoMMhihcXbCHl7Ytt"
-        }
-      ],
-      "duration_ms": 190221,
-      "name": "I Don't Wanna Dance (Just Like Everyone)",
-      "url": "https://open.spotify.com/track/56gGXJjgJPJVtp1B1vWcoU"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Togetherness",
-        "url": "https://open.spotify.com/album/0wxN6gRLSmWTnJovM1TsWY"
-      },
-      "artists": [
-        {
-          "name": "Care Bears",
-          "url": "https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW"
-        }
-      ],
-      "duration_ms": 153182,
-      "name": "Togetherness",
-      "url": "https://open.spotify.com/track/5zQKFfPXJQnHbtK29DwyFA"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Lishy Lou and Lucky Too!",
-        "url": "https://open.spotify.com/album/5eyeNOy5N5QvMa1ppNPdCY"
-      },
-      "artists": [
-        {
-          "name": "Lucky Diaz and the Family Jam Band",
-          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
-        }
-      ],
-      "duration_ms": 205426,
-      "name": "Thingamajig",
-      "url": "https://open.spotify.com/track/5sXoGN56c1q4P4fGpk5iY0"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/1G5XNPBHbI7gKmN9JzOLB7"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 159481,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/46jJ6aqpwugeYhg0rciBUx"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Levitating",
-        "url": "https://open.spotify.com/album/29ZhZIl8jm8uC2ngQ7ybZJ"
-      },
-      "artists": [
-        {
-          "name": "Mini Pop Kids",
-          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
-        }
-      ],
-      "duration_ms": 202942,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/2KA8r3yxck7wKKF9URwYAW"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Mr. C Presents The Cha-cha Slide Greatest Hits",
-        "url": "https://open.spotify.com/album/2NDVzq03rBkB6qAez0vMY8"
-      },
-      "artists": [
-        {
-          "name": "Mr. C",
-          "url": "https://open.spotify.com/artist/4KKEvADkhfVx3BpYJyezZr"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Cha Cha Slide",
-      "url": "https://open.spotify.com/track/5xM801uXVrqhUb0PzeSLvJ"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "A Mother Goose Club Dance Party Vol. 1",
-        "url": "https://open.spotify.com/album/4dNfAAOe6vfUKqyMwQphPu"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 187956,
-      "name": "Banana Boat Song (Dance Version)",
-      "url": "https://open.spotify.com/track/5hbTcYytDNA6qvrqwm2eOg"
-    },
-    {
-      "added_at": "2022-07-15 00:00:00",
-      "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         },
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Kenan Thompson",
+          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
         }
       ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
+      "duration_ms": 221480,
+      "name": "Just Sing",
+      "url": "https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
+        "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 162720,
+      "name": "Faith - From \"Sing\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1Ol9VB4eBkSuM9sghD4lgP"
+    },
+    {
+      "added_at": "2022-08-17 15:43:23",
+      "album": {
+        "name": "Cha Cha Slide",
+        "url": "https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL"
+      },
+      "artists": [
+        {
+          "name": "DJ Casper",
+          "url": "https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s"
+        },
+        {
+          "name": "Hardino",
+          "url": "https://open.spotify.com/artist/2W8WGXvVL7Du3TZLmToBR5"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "Cha Cha Slide - Hardino Mix",
+      "url": "https://open.spotify.com/track/3XTaaGGAL2gVVaAbu0yxQX"
     }
   ],
   "unique_name": "Family Dance Party",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xOUcH7zbML.md) - [plain]
 
 > L7 e o melhor do Hip Hop nacional em 2021.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,458 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,084 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xOUcH7zbML.md) - [plain]
 | 49 | [Se Tá Solteira](https://open.spotify.com/track/6a5JCYemYOR4lta1mzaetS) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [BAILE](https://open.spotify.com/album/0PsH3WANJaTcff9FpPDE6i) | 1:55 |
 | 50 | [Resenha dos Crias](https://open.spotify.com/track/4Gp8bDpB5tCJojW1YaQxHE) | [Start Rap](https://open.spotify.com/artist/0ID7bamr7fhqeETHBZoCFl), [Mc KF](https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Resenha dos Crias](https://open.spotify.com/album/2oJHuHGWOE0s15RLZEeJiz) | 2:51 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMjAwMDAwMTdkNzY0MDg3MDAwMDAwMDE3ZDcxOGVjNmVh`
+Snapshot ID: `MTY1ODUwMjkwMiwwMDAwMDAwMDUxMmNjMzAwYjk0Y2I1MTBhZmNjZTVkYTNmOTQ3N2Zm`

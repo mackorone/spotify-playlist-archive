@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFEIJKF33Nk.md) - [plain]
 
 > Some incredible music to celebrate our culture this month and every month!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,515 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,505 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFEIJKF33Nk.md) - [plain]
 | 32 | [Remember Me](https://open.spotify.com/track/630Ug0XtmhhFvAKo0PNuEI) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Remember Me](https://open.spotify.com/album/4iLi0ZWdcYtCZvsXZHTRLx) | 3:19 |
 | 33 | [Flower Through Concrete](https://open.spotify.com/track/5wHT1UYWQBHYAeIwRbBDJG) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 4:00 |
 | 34 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
-| 35 | [Your Best American Girl](https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB) | 3:32 |
+| 35 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
 | 36 | [Quiet](https://open.spotify.com/track/0lczHKLHGd8LuzgrzIJ0nO) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [This Is Not The End](https://open.spotify.com/album/14NXlqWlb4MGu4KswIm6xU) | 3:22 |
 | 37 | [Power](https://open.spotify.com/track/4P9d4HswrDnEtFegdqZJNs) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Power](https://open.spotify.com/album/6H8FlOA6AbsRK8x3S1gVNk) | 3:16 |
 | 38 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 |
 | 39 | [Mr\. Brightside](https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Superstition](https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo) | 4:32 |
 | 40 | [Tamie](https://open.spotify.com/track/4yjidF5LTpm8OY9dUZQRrU) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Flower](https://open.spotify.com/album/0Db8FrKhtOO0L5DxlYQbSI) | 3:18 |
 
-Snapshot ID: `MTY1MTQ2NDAwMCwwMDAwMDAwMjAwMDAwMTgwODJlY2QyYjUwMDAwMDE4MDcyMTc5ODdl`
+Snapshot ID: `MTY1MTQ2NDAwMCwwMDAwMDAwMDRiODJiODhmYTU0NjJlNmRkZDM0YjcxYTllMGE2MGFi`

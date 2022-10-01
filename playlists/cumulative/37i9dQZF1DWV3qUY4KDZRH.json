@@ -121,7 +121,7 @@
     {
       "album": {
         "name": "Punisher",
-        "url": "https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s"
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
       "artists": [
         {
@@ -134,7 +134,43 @@
       "date_removed": null,
       "duration_ms": 219681,
       "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
+    },
+    {
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219681,
+      "name": "Garden Song",
       "url": "https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV"
+    },
+    {
+      "album": {
+        "name": "Super Monster",
+        "url": "https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206881,
+      "name": "Guard Down",
+      "url": "https://open.spotify.com/track/3vR3cB13aUgTyZJ23zrnMA"
     },
     {
       "album": {
@@ -149,7 +185,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206881,
       "name": "Guard Down",
       "url": "https://open.spotify.com/track/6S8yc3BtzAFvFhjbnL8bTT"
@@ -189,10 +225,32 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240906,
       "name": "Hard To Believe",
       "url": "https://open.spotify.com/track/03IpoLo1t8mFvF3mn5XteA"
+    },
+    {
+      "album": {
+        "name": "Something Like A War",
+        "url": "https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz"
+      },
+      "artists": [
+        {
+          "name": "Kindness",
+          "url": "https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240906,
+      "name": "Hard to Believe",
+      "url": "https://open.spotify.com/track/5xDHkY0Om4eN1XMOJV0HLC"
     },
     {
       "album": {
@@ -305,7 +363,7 @@
     {
       "album": {
         "name": "Paper Television",
-        "url": "https://open.spotify.com/album/44TBeWVP4PNrz8ymxbPzoE"
+        "url": "https://open.spotify.com/album/5tiikAhu5xqduJj6axzZyf"
       },
       "artists": [
         {
@@ -316,6 +374,24 @@
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213906,
+      "name": "Parentheses",
+      "url": "https://open.spotify.com/track/6CH88BsXz1gLCqHW0j8VkG"
+    },
+    {
+      "album": {
+        "name": "Paper Television",
+        "url": "https://open.spotify.com/album/44TBeWVP4PNrz8ymxbPzoE"
+      },
+      "artists": [
+        {
+          "name": "The Blow",
+          "url": "https://open.spotify.com/artist/3VNDPLoRirZi28lxSEYkZQ"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 213906,
       "name": "Parentheses",
       "url": "https://open.spotify.com/track/70AwQ6AWOFS89biHvqNRMi"

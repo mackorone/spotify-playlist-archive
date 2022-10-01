@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV7xFZCVx23.md) - [plain]
 
 > Enjoy the JTBC drama 'Snowdrop,' OSTs in a different way with the lines in the drama\. You can watch this drama on Disney + as well\. \(JTBC 드라마 '설강화'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요\. 디즈니 플러스에서도 설강화를 감상하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,711 likes - 54 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,600 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV7xFZCVx23.md) - [plain]
 | 53 | [Hello from JISOO](https://open.spotify.com/track/0q4eizHq7nTR7LGCtEusLD) | [Snowdrop](https://open.spotify.com/artist/1uU3fjP18oTB2reXvj3ljY) | [Snowdrop \- Voice Liner](https://open.spotify.com/album/6x2GF6t6Q58ebXhaHNUXal) | 0:23 |
 | 54 | [Hello from Jung Hae In](https://open.spotify.com/track/0eVLuU6aEj9JIKnuU2CNZE) | [Snowdrop](https://open.spotify.com/artist/1uU3fjP18oTB2reXvj3ljY) | [Snowdrop \- Voice Liner](https://open.spotify.com/album/6x2GF6t6Q58ebXhaHNUXal) | 0:23 |
 
-Snapshot ID: `MTY0NDUxMzUwNiwwMDAwMDAwNjAwMDAwMTdlZTRhNGI2ODgwMDAwMDE3ZGQ2OGIyYjM1`
+Snapshot ID: `MTY0NDUxMzUwNiwwMDAwMDAwMDg1ZDkwYzM3MTUyMzVjYjJkYWQ0NWIyZDA5YzczZjkx`

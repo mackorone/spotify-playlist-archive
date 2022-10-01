@@ -329,6 +329,28 @@
     {
       "album": {
         "name": "Isaac Alb\u00e9niz: Spanish Music For Classical Guitar",
+        "url": "https://open.spotify.com/album/4QCQZHWcq0oD9sz6egf992"
+      },
+      "artists": [
+        {
+          "name": "Isaac Alb\u00e9niz",
+          "url": "https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp"
+        },
+        {
+          "name": "David Russell",
+          "url": "https://open.spotify.com/artist/1Ni1doOFD6ATODkZJSRT70"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302893,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/5S1Nh02afzIgjwYPZSbh6N"
+    },
+    {
+      "album": {
+        "name": "Isaac Alb\u00e9niz: Spanish Music For Classical Guitar",
         "url": "https://open.spotify.com/album/1PDm57C6SPXg9MNMnOPe5Z"
       },
       "artists": [
@@ -343,7 +365,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 302893,
       "name": "Granada",
       "url": "https://open.spotify.com/track/5uTkGuNtweBM8i2fIDEQ4Z"
@@ -809,10 +831,32 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 566293,
       "name": "Variations on a Theme by Handel, Op. 107",
       "url": "https://open.spotify.com/track/5AGKNyF81mGvIvzR66Rpko"
+    },
+    {
+      "album": {
+        "name": "Sor & Giuliani: Works for Guitar",
+        "url": "https://open.spotify.com/album/3SIyzWpwfd34roLBguutqB"
+      },
+      "artists": [
+        {
+          "name": "Mauro Giuliani",
+          "url": "https://open.spotify.com/artist/4qXtGiJP51BsAIi4bJNeir"
+        },
+        {
+          "name": "Roland Dyens",
+          "url": "https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566293,
+      "name": "Variazioni su un tema di Handel, Op. 107",
+      "url": "https://open.spotify.com/track/2U8txmAISucM2Q52xo8Ldq"
     },
     {
       "album": {
@@ -853,10 +897,32 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 297360,
       "name": "Wind color Vector, Op. 48: I. Leeward",
       "url": "https://open.spotify.com/track/2Umz720ywwrJCewAX9Rysd"
+    },
+    {
+      "album": {
+        "name": "Craig Ogden: Guitar Meditations",
+        "url": "https://open.spotify.com/album/6rMWH2ggzYHo9yvRVC62vj"
+      },
+      "artists": [
+        {
+          "name": "Takashi Yoshimatsu",
+          "url": "https://open.spotify.com/artist/1l5ZTaHQFvNzEiP5rZ4Zat"
+        },
+        {
+          "name": "Craig Ogden",
+          "url": "https://open.spotify.com/artist/07pZelCNTBK93CD474588Q"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "Wind Color Vector: I. Leeward",
+      "url": "https://open.spotify.com/track/69eTjfaXWJgapw4jMxCcTs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXBq4mDDFnfA"

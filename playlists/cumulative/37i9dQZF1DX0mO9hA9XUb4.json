@@ -433,7 +433,7 @@
     {
       "album": {
         "name": "Ladke",
-        "url": "https://open.spotify.com/album/5JoeYlEhBE7R1LOQUG1Uqr"
+        "url": "https://open.spotify.com/album/4Uh9XqmhAOByEFxoM5zJ4q"
       },
       "artists": [
         {
@@ -448,6 +448,28 @@
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 152327,
+      "name": "Ladke",
+      "url": "https://open.spotify.com/track/17hbpd8PHheADKIJF6U7YK"
+    },
+    {
+      "album": {
+        "name": "Ladke",
+        "url": "https://open.spotify.com/album/5JoeYlEhBE7R1LOQUG1Uqr"
+      },
+      "artists": [
+        {
+          "name": "Shreea Kaul",
+          "url": "https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE"
+        },
+        {
+          "name": "REHMA",
+          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 152327,
       "name": "Ladke",
       "url": "https://open.spotify.com/track/2eNTpPmJhxKbULrc0BtbRj"
@@ -509,7 +531,7 @@
     {
       "album": {
         "name": "No Fire",
-        "url": "https://open.spotify.com/album/3U2gwkS3N72ELWDqVky9pQ"
+        "url": "https://open.spotify.com/album/1RqgwCz5bFe7FAZSpeB1we"
       },
       "artists": [
         {
@@ -520,6 +542,24 @@
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193885,
+      "name": "No Fire",
+      "url": "https://open.spotify.com/track/1wv18B6Z3Sc82PTwsthRKq"
+    },
+    {
+      "album": {
+        "name": "No Fire",
+        "url": "https://open.spotify.com/album/3U2gwkS3N72ELWDqVky9pQ"
+      },
+      "artists": [
+        {
+          "name": "Sofya Wang",
+          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 193885,
       "name": "No Fire",
       "url": "https://open.spotify.com/track/7ng8M65zraeczfUW3r9DQM"
@@ -609,10 +649,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164768,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/3sVhlEsPFzrHD6b6kiOtDM"
+    },
+    {
+      "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/5Yl0liNZMlc6C1aAH6KXoh"
+      },
+      "artists": [
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164768,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/5XX6yZbIiKGhPmgDazBNhN"
     },
     {
       "album": {

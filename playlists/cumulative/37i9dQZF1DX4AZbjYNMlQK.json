@@ -363,7 +363,7 @@
     {
       "album": {
         "name": "El Burrito De Belen",
-        "url": "https://open.spotify.com/album/3KD3ORPP0rNiWB8H4Ezkjg"
+        "url": "https://open.spotify.com/album/2NLDIgiA60k5FukGh5vGHY"
       },
       "artists": [
         {
@@ -374,6 +374,24 @@
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 191640,
+      "name": "El Burrito De Bel\u00e9n",
+      "url": "https://open.spotify.com/track/1s8opuqalYMgW0fPM42kgE"
+    },
+    {
+      "album": {
+        "name": "El Burrito De Belen",
+        "url": "https://open.spotify.com/album/3KD3ORPP0rNiWB8H4Ezkjg"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 191640,
       "name": "El Burrito De Bel\u00e9n",
       "url": "https://open.spotify.com/track/7DxJqMhtaqJJNBROZxgj5u"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 264773,
       "name": "Mi Estrella",
       "url": "https://open.spotify.com/track/11U7dX4ginRlNIgrTrxEPR"
@@ -719,10 +737,32 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 265560,
       "name": "Mi Estrella",
       "url": "https://open.spotify.com/track/2OLLrr5uDVfWTOCM8t8IaA"
+    },
+    {
+      "album": {
+        "name": "Superestrellas En Navidad",
+        "url": "https://open.spotify.com/album/37KAP4I6Cmu0W2sMAV5YFH"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Gisela",
+          "url": "https://open.spotify.com/artist/6SxnKPhYvkTKp2FtBzh6CI"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268440,
+      "name": "Mi Estrella",
+      "url": "https://open.spotify.com/track/2LZkBWdmv9zYZdWXlesVlF"
     },
     {
       "album": {
@@ -1253,7 +1293,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 239800,
       "name": "Ven A Cantar",
       "url": "https://open.spotify.com/track/0vLLRQTHEvIidczOP4JROU"
@@ -1303,7 +1343,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 242853,
       "name": "Ven A Cantar",
       "url": "https://open.spotify.com/track/15BE30WngeQ3yOdqXbFVYc"

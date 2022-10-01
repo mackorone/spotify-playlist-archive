@@ -1,18 +1,22 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3JjRskvOCSF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3JjRskvOCSF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3JjRskvOCSF)
 
-### [Dimitri Vangelis & Wyman DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX3JjRskvOCSF)
+### [Dimitri Vangelis & Wyman's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX3JjRskvOCSF)
 
-> <a href =“spotify:artist:10hGPIDZi33LRaYRIq3Bh4”>Dimitri Vangelis & Wyman</a> are the perfect duo to get us into main stage vibes!
+> <a href=“spotify:artist:10hGPIDZi33LRaYRIq3Bh4”>Dimitri Vangelis & Wyman</a> are the perfect duo to get us into main stage vibes!
 
-19 songs - 1 hr 6 min - [published](https://open.spotify.com/playlist/4TV2VrgQkdbBN7K4MFzUsA)
+23 songs - 1 hr 20 min - [published](https://open.spotify.com/playlist/4TV2VrgQkdbBN7K4MFzUsA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Acid Drop](https://open.spotify.com/track/736WZdexDNUUhVg5bP3bP1) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7) | [Acid Drop](https://open.spotify.com/album/27f0q4EiHBT7a9Uv47APZD) | 2:58 | 2022-07-06 | 2022-08-06 |
 | [Acid Drop \- Mixed](https://open.spotify.com/track/4izdpdPq7HaBIbXj89qeej) | [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7), [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Acid Drop \(Mixed\)](https://open.spotify.com/album/7Ab4GS5WjQ7MqGMYvEa22l) | 3:00 | 2022-07-06 |  |
+| [Blizzard](https://open.spotify.com/track/5EKMssWOgGWu7IafhuqNcV) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Envyro](https://open.spotify.com/artist/5lxDBvdzaRQ5I3P2fKzxRy) | [Blizzard](https://open.spotify.com/album/4CgiNZuViHby7GJvaP32DD) | 2:52 | 2022-07-06 | 2022-08-06 |
 | [Blizzard \- Extended Mix \- Mixed](https://open.spotify.com/track/2BCPObvB1lM8QHiwP4eozy) | [Envyro](https://open.spotify.com/artist/5lxDBvdzaRQ5I3P2fKzxRy), [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Blizzard \- Extended Mix \(Mixed\)](https://open.spotify.com/album/1wYPonnud3Q4UJtNVTcyfd) | 3:00 | 2022-07-06 |  |
 | [Coming Home \- Extended Mix \- Mixed](https://open.spotify.com/track/4tHLBA2og5370qS6YbC84m) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Coming Home \- Extended Mix \(Mixed\)](https://open.spotify.com/album/1U1QEPUvMF7Ejf05Det8il) | 4:27 | 2022-07-06 |  |
 | [Confessions \- Extended Mix \- Mixed](https://open.spotify.com/track/477HxhF1F4ohQMveNqAUq3) | [Rudeboy Soundsystem](https://open.spotify.com/artist/3ixpec4BuAYZfKhj1VvRQP), [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Confessions \- Extended Mix \(Mixed\)](https://open.spotify.com/album/4Jp0xrFo87ah9bJxQ2Ddp4) | 3:53 | 2022-07-06 |  |
 | [Empire \- Mixed](https://open.spotify.com/track/094OiNYarfvrTscmSCR2Db) | [Tom Staar](https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u), [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Empire \(Mixed\)](https://open.spotify.com/album/7BhQ3D4P3XCJvEmmHtV3ks) | 4:15 | 2022-07-06 |  |
+| [Empire \- Radio Edit](https://open.spotify.com/track/1cP6uZspQSee2Fyll7PvEq) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Tom Staar](https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u) | [Empire](https://open.spotify.com/album/5JcihSt1ZtAgMKeEnaQWhQ) | 4:20 | 2022-07-06 | 2022-08-06 |
+| [Grizzly](https://open.spotify.com/track/404GAjZXjNEbHylHJUYzbR) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7) | [Grizzly](https://open.spotify.com/album/0LasSgCUNVCdpGK8MKxkn2) | 3:26 | 2022-07-06 | 2022-08-06 |
 | [Grizzly \- Extended Mix \- Mixed](https://open.spotify.com/track/6MatDeNhim32osX8mmgD0P) | [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7), [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Grizzly \- Extended Mix \(Mixed\)](https://open.spotify.com/album/2zsdKIj8LlzplqsgO0jED8) | 3:18 | 2022-07-06 |  |
 | [Horns \- Extended Mix \- Mixed](https://open.spotify.com/track/3WfAeL6cHXlvBBFsgV3r9i) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Horns \- Extended Mix \(Mixed\)](https://open.spotify.com/album/3pGbjtkox2a92mswao6EoG) | 2:49 | 2022-07-06 |  |
 | [ID2 \- Original Mix \- Mixed](https://open.spotify.com/track/5V28sda3kTK1c8byPsMW41) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [ID2 \- Original Mix \(Mixed\)](https://open.spotify.com/album/6ekyBRmJ478jEESNo2ZQdC) | 4:18 | 2022-07-06 |  |

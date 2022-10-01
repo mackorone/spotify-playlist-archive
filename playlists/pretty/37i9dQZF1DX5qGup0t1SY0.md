@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qGup0t1SY0.md) - [plain]
 
 > Los nominados para los Premios Tu Música Urbano 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,578 likes - 109 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,506 likes - 109 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qGup0t1SY0.md) - [plain]
 | 75 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 |
 | 76 | [Sicaria](https://open.spotify.com/track/54LJrBDBnR0ey6ggMFQycr) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Sicaria](https://open.spotify.com/album/4n0UgGMEt3tP7YsiQ9y6t4) | 4:19 |
 | 77 | [Gracias \- Remix](https://open.spotify.com/track/3EPkYtHqRXZAxE9K7xxC2W) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Gracias \(Remix\)](https://open.spotify.com/album/7DIEwl5kON89D6kXzPSZwB) | 4:13 |
-| 78 | [A Pesar de Mí feat\. Un Corazón, Abby Valdez, Indiomar](https://open.spotify.com/track/7a5QwCpZFgOQpE6JW4F6aP) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Abby Valdez](https://open.spotify.com/artist/5Ilm5zQlb5LKsFpcJwR9es), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [UNO](https://open.spotify.com/album/1T9FB5R3oGSTVY4tK610IE) | 5:19 |
+| 78 | [A Pesar de Mí \(feat\. Un Corazón, Abby Valdez, Indiomar\)](https://open.spotify.com/track/19NHUhKO0q6Z2wX6yyGpap) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Abby Valdez](https://open.spotify.com/artist/5Ilm5zQlb5LKsFpcJwR9es), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [UNO](https://open.spotify.com/album/3nwrvEMHouNpXPiuzNMSXa) | 5:19 |
 | 79 | [Dios Es Primero](https://open.spotify.com/track/0LD85eytjzSKPalc64Nmmf) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Genelipsis](https://open.spotify.com/album/2cyhThTMj81byVvOOPkA8z) | 3:18 |
 | 80 | [Incompleto](https://open.spotify.com/track/0fsVdWVrHYgGCqQUx17xhl) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Incompleto](https://open.spotify.com/album/0XmUtwla1GVIJCohvEC44p) | 4:27 |
 | 81 | [La Funka](https://open.spotify.com/track/0XpMTExp5q4nLZZZ3msDGn) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Funka](https://open.spotify.com/album/0EN9tz6tsXi8MOUjNLVf1G) | 3:18 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qGup0t1SY0.md) - [plain]
 | 108 | [Picachu](https://open.spotify.com/track/47okf9FXUNLHknAwoMI1L4) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Picachu](https://open.spotify.com/album/40xnE58mcngMBNfqCYM99U) | 2:47 |
 | 109 | [La Cartera](https://open.spotify.com/track/6WL41RNmjjByWV4rzDMb5J) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [La Cartera](https://open.spotify.com/album/6IGiMqaeCqFJCOavfjH4eV) | 3:07 |
 
-Snapshot ID: `MTY1MjM4MzQzNiwwMDAwMDA0MjAwMDAwMTgwYjliYTRmMTkwMDAwMDE4MGI0NGM5M2Jm`
+Snapshot ID: `MTY1MjM4MzQzNiwwMDAwMDAwMDEwMmQ5Y2IwOTgxNThhNjY1NGJiMDAwOWQ0NzMyMzYz`

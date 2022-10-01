@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92PapbtyAWm.md) - [plain]
 
 ### [MOTi's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX92PapbtyAWm)
 
-> <a href ="spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W">MOTi</a> shares his favourite bangers in his DJ mix.
+> <a href="spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W">MOTi</a> shares his favorite bangers in his DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,897 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,283 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In My Head \(On My Mind\) \- Mixed](https://open.spotify.com/track/6cCXDSnvBgc0Iqg2kfC7XM) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [In My Head \(On My Mind\)](https://open.spotify.com/album/2vgp0a4YuG9VqqoAdNzJca) | 2:26 |
+| 1 | [In My Head \(On My Mind\) \- Mixed](https://open.spotify.com/track/1EiDdfA6PZmaVAEN8RgeSa) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [In My Head \(On My Mind\)](https://open.spotify.com/album/6rqmkoGeFkxESqTSKtzfcu) | 2:26 |
 | 2 | [Sushi \- Mixed](https://open.spotify.com/track/6Tkdioh8ZLUQqiaLp7yE5K) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Sushi](https://open.spotify.com/album/3mT3Ol7wCBPbqOCbk8GcsF) | 2:30 |
 | 3 | [Body 2 Body \- Mixed](https://open.spotify.com/track/5YSbSXnBReu0QpwX2veURs) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN), [Gerson Rafael](https://open.spotify.com/artist/6WOgdEFOwikYmeC0xBz4Ai) | [Body 2 Body](https://open.spotify.com/album/1yIR2dtAfTbKankky2xn3t) | 2:53 |
 | 4 | [Wow \- Mixed](https://open.spotify.com/track/0U5STz59yJW3ByJnMBIe3J) | [Mafo](https://open.spotify.com/artist/320pR8mB5EktKcwRSAm3Ms) | [Wow](https://open.spotify.com/album/2sR02S3DFvaLLwFzncQB7x) | 2:32 |
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92PapbtyAWm.md) - [plain]
 | 18 | [Lose Control \- Mixed](https://open.spotify.com/track/1F21kPIHyZQidyxSSIKYc7) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Lose Control](https://open.spotify.com/album/5jY12xfbfQK2l9nDHwC91K) | 3:50 |
 | 19 | [Acrobatic \- Mixed](https://open.spotify.com/track/5qM9GwUf8lhkdKSQGbzakv) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Acrobatic](https://open.spotify.com/album/6ZcGnVBTKFwYReJ1Zm7tSX) | 3:36 |
 
-Snapshot ID: `MTY1MjQ1MzY1OCwwMDAwMDAwMzAwMDAwMTgwYmRlOWQwZTYwMDAwMDE3YzE3ZmYxOWE4`
+Snapshot ID: `MTY2MDU4MDIzMCwwMDAwMDAwMDg4ZGM2NDAyNTIzOWVlZDZhMWVmMzlkYTQzMTY0ODRm`

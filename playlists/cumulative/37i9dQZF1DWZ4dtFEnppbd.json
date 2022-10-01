@@ -45,7 +45,7 @@
     {
       "album": {
         "name": "Live in Concert",
-        "url": "https://open.spotify.com/album/5fEQIDDrcjsW2kbq5TfJFt"
+        "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
       },
       "artists": [
         {
@@ -56,6 +56,24 @@
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 573933,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
+    },
+    {
+      "album": {
+        "name": "Live in Concert",
+        "url": "https://open.spotify.com/album/5fEQIDDrcjsW2kbq5TfJFt"
+      },
+      "artists": [
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 573933,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/3ZsOrjblRWKQi3fiXLjZyF"
@@ -73,7 +91,7 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 317306,
       "name": "Center Of My Joy",
       "url": "https://open.spotify.com/track/5qLg9MrPWD0q9nSF8LmlBF"
@@ -91,10 +109,28 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 322933,
       "name": "Everything You Touch Is a Song",
       "url": "https://open.spotify.com/track/3ahBlS5O40OR0zqKVwvOcU"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/1OFvGlqOQ1gSJ6Jf6DFVRS"
+      },
+      "artists": [
+        {
+          "name": "The Winans",
+          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323026,
+      "name": "Everything You Touch Is A Song",
+      "url": "https://open.spotify.com/track/0nFEeSOwXfkYKSShg2RR1V"
     },
     {
       "album": {
@@ -145,10 +181,28 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310600,
       "name": "Goin' Up Yonder",
       "url": "https://open.spotify.com/track/1fJyQ4F6hTWfHrnvbygRWB"
+    },
+    {
+      "album": {
+        "name": "The Light Years",
+        "url": "https://open.spotify.com/album/4pYsME51r7rDRZcdEv9DGB"
+      },
+      "artists": [
+        {
+          "name": "Walter Hawkins",
+          "url": "https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310600,
+      "name": "Going Up Yonder",
+      "url": "https://open.spotify.com/track/477kgQbTTs9CSEJAZL9e9j"
     },
     {
       "album": {
@@ -417,7 +471,7 @@
     {
       "album": {
         "name": "More Of The Best",
-        "url": "https://open.spotify.com/album/1z5ZSwYTX0kjVcdf37qUZV"
+        "url": "https://open.spotify.com/album/3Jgzx5IVMczCsxa0LfEH6U"
       },
       "artists": [
         {
@@ -430,7 +484,43 @@
       "date_removed": null,
       "duration_ms": 285560,
       "name": "Soon and Very Soon",
+      "url": "https://open.spotify.com/track/1jgB4xgmPJhG6qTfAsZH6O"
+    },
+    {
+      "album": {
+        "name": "More Of The Best",
+        "url": "https://open.spotify.com/album/1z5ZSwYTX0kjVcdf37qUZV"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 285560,
+      "name": "Soon and Very Soon",
       "url": "https://open.spotify.com/track/6Ol5cYjqt8ps5amYtYhKIK"
+    },
+    {
+      "album": {
+        "name": "Textures",
+        "url": "https://open.spotify.com/album/11vPXkDqXaKM84D1ggfpHl"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317746,
+      "name": "The Center of My Joy",
+      "url": "https://open.spotify.com/track/01uA4LkBFfp2xEeIojihtC"
     },
     {
       "album": {

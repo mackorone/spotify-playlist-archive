@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 168293,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210814,
       "name": "Balafon - Instrumental",
       "url": "https://open.spotify.com/track/6KXdjv2j74QBKDFzO4DllX"
@@ -167,10 +167,28 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 277160,
       "name": "Change In Me (The Rebirth)",
       "url": "https://open.spotify.com/track/1Us67YDRXevQciNQybRvX1"
+    },
+    {
+      "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277160,
+      "name": "Change In Me (The Rebirth)",
+      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
     },
     {
       "album": {
@@ -221,7 +239,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 270370,
       "name": "Clawhammer",
       "url": "https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU"
@@ -250,6 +268,24 @@
     },
     {
       "album": {
+        "name": "Headway",
+        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178037,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
+    },
+    {
+      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/5J2jQEjfeXpcERhNnM61Cq"
       },
@@ -261,7 +297,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178333,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/7dGJME1DMcRLnx3mn0NIKU"
@@ -279,7 +315,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 339000,
       "name": "Corporation",
       "url": "https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z"
@@ -297,7 +333,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 235392,
       "name": "Cotton Candy",
       "url": "https://open.spotify.com/track/31sO0kxpsQiZpw1MWNLL0N"
@@ -387,7 +423,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261812,
       "name": "Don't Bring Me Down",
       "url": "https://open.spotify.com/track/4T50jDAzjMQ8KDrhjoPCmf"
@@ -459,10 +495,28 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 197237,
       "name": "Gettin Old",
       "url": "https://open.spotify.com/track/4co6ZEcJTAWRSbF6LFc28O"
+    },
+    {
+      "album": {
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV"
+      },
+      "artists": [
+        {
+          "name": "Michael Landau",
+          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197237,
+      "name": "Gettin Old",
+      "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
     },
     {
       "album": {
@@ -477,7 +531,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310907,
       "name": "Go",
       "url": "https://open.spotify.com/track/72weW6yNPOWjxcFhAjQmPW"
@@ -495,7 +549,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 157413,
       "name": "Got to Get Up",
       "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
@@ -593,7 +647,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174892,
       "name": "Keep Your Light on Mama",
       "url": "https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn"
@@ -647,7 +701,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 200973,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
@@ -683,7 +737,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 388893,
       "name": "Pusher",
       "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
@@ -853,7 +907,7 @@
     {
       "album": {
         "name": "The Bookends",
-        "url": "https://open.spotify.com/album/072RsvIeIJ20SQf5cTKTMA"
+        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
       "artists": [
         {
@@ -868,6 +922,28 @@
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 259906,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
+    },
+    {
+      "album": {
+        "name": "The Bookends",
+        "url": "https://open.spotify.com/album/072RsvIeIJ20SQf5cTKTMA"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "B. Slade",
+          "url": "https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 259906,
       "name": "Something's Gotta Give (feat. B. Slade)",
       "url": "https://open.spotify.com/track/5IZcMXhoMiUYJz48H3TkuK"
@@ -979,7 +1055,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 362240,
       "name": "Texas",
       "url": "https://open.spotify.com/track/4mpfJizAX6YGwRRU1hIr0q"
@@ -1022,6 +1098,24 @@
     },
     {
       "album": {
+        "name": "Threw Me to the Wolves (Revisited)",
+        "url": "https://open.spotify.com/album/3v4mvvhmpHsIHFARPcYHe6"
+      },
+      "artists": [
+        {
+          "name": "Jared James Nichols",
+          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232088,
+      "name": "Threw Me to the Wolves",
+      "url": "https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu"
+    },
+    {
+      "album": {
         "name": "Threw Me to the Wolves",
         "url": "https://open.spotify.com/album/5wwJpsU8T5zdRT2X8XnZ7s"
       },
@@ -1033,7 +1127,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232088,
       "name": "Threw Me To The Wolves",
       "url": "https://open.spotify.com/track/2pzX6WBgMtavA1hZ0pt91F"
@@ -1105,7 +1199,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": "2022-09-20",
       "duration_ms": 258426,
       "name": "What You\u2019re Made Of",
       "url": "https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn"
@@ -1159,10 +1253,28 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 353684,
       "name": "White Rock Beer...8 Cents",
       "url": "https://open.spotify.com/track/0qnwn0g8mOSlKXsgkzPaYe"
+    },
+    {
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353684,
+      "name": "White Rock Beer...8 cents",
+      "url": "https://open.spotify.com/track/1dA1yyrPmoqKfqXxMX2brl"
     },
     {
       "album": {
@@ -1177,7 +1289,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": "2022-07-26",
       "duration_ms": 237240,
       "name": "Word",
       "url": "https://open.spotify.com/track/627ZKn3BoKHQ7BleTgt3UY"
@@ -1195,10 +1307,28 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 365440,
       "name": "You're Everything",
       "url": "https://open.spotify.com/track/5gnJNseKb5HxcCGCJ8HGZh"
+    },
+    {
+      "album": {
+        "name": "In My Soul",
+        "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
+      },
+      "artists": [
+        {
+          "name": "The Robert Cray Band",
+          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365440,
+      "name": "You're Everything",
+      "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZBWeillXfzX"

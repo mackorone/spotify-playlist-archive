@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "<a href =\"spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W\">MOTi</a> shares his favourite bangers in his DJ mix.",
+  "description": "<a href=\"spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W\">MOTi</a> shares his favorite bangers in his DJ mix.",
   "name": "MOTi's DJ Mix",
   "published_playlist_ids": [
     "4Bn8UTRHEfiy2KpyqfKCBv"
@@ -169,7 +169,7 @@
     {
       "album": {
         "name": "In My Head (On My Mind)",
-        "url": "https://open.spotify.com/album/2vgp0a4YuG9VqqoAdNzJca"
+        "url": "https://open.spotify.com/album/6rqmkoGeFkxESqTSKtzfcu"
       },
       "artists": [
         {
@@ -180,6 +180,24 @@
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 146000,
+      "name": "In My Head (On My Mind) - Mixed",
+      "url": "https://open.spotify.com/track/1EiDdfA6PZmaVAEN8RgeSa"
+    },
+    {
+      "album": {
+        "name": "In My Head (On My Mind)",
+        "url": "https://open.spotify.com/album/2vgp0a4YuG9VqqoAdNzJca"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 146000,
       "name": "In My Head (On My Mind) - Mixed",
       "url": "https://open.spotify.com/track/6cCXDSnvBgc0Iqg2kfC7XM"

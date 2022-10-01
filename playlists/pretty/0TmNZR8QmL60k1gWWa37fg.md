@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0TmNZR8QmL60k1gWWa37fg.md) - [plain]
 
 > Catch up on all the performers at the 2013 Macy's Thanksgiving Day Parade.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375 likes - 28 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 374 likes - 28 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

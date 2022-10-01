@@ -4,7 +4,7 @@
 
 > Mental strength begins here—Dwayne Johnson’s Iron Paradise Tour.
 
-23 songs - 1 hr 33 min - [published](https://open.spotify.com/playlist/0J6jUshvZQCI2YC26M46Hj)
+24 songs - 1 hr 39 min - [published](https://open.spotify.com/playlist/0J6jUshvZQCI2YC26M46Hj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 | 2021-05-06 |  |
 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 | 2021-05-06 |  |
 | [Life by the Drop](https://open.spotify.com/track/4baw6m9OhZ1W8fPqWinZ3L) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 2:27 | 2021-05-06 |  |
-| [No More Pain](https://open.spotify.com/track/1hJtNms8jQNDm1Cx9k2UR4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/1Mdy7hhoQRYdVrHzYnlUee) | 6:14 | 2021-05-06 |  |
+| [No More Pain](https://open.spotify.com/track/1hJtNms8jQNDm1Cx9k2UR4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/1Mdy7hhoQRYdVrHzYnlUee) | 6:14 | 2021-05-06 | 2022-07-29 |
+| [No More Pain](https://open.spotify.com/track/7xeh81c3bxTgqUgy2WN56u) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 6:14 | 2021-05-06 |  |
 | [On The Run](https://open.spotify.com/track/4sLozZ8Weo81XhRrwqbqnJ) | [Naz Tokio](https://open.spotify.com/artist/2Ohz3BAbalahBYLuM836cd) | [On The Run](https://open.spotify.com/album/6wfUVm9aYFoYtLXCPugXrt) | 2:41 | 2022-01-03 |  |
 | [POP STAR \(feat\. Kevin Gates\)](https://open.spotify.com/track/2TsD9kSbgYx5fSNRsoNURE) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 3:03 | 2021-05-06 |  |
 | [Rake It Up \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4knL4iPxPOZjQzTUlELGSY) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [I Still Am](https://open.spotify.com/album/1tSsb3t0pqVVONvBJivoT9) | 4:36 | 2021-05-06 |  |

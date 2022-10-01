@@ -1251,7 +1251,7 @@
     {
       "album": {
         "name": "Ocean Walk",
-        "url": "https://open.spotify.com/album/6jKTQZxWAm7RuQdBbz4TaN"
+        "url": "https://open.spotify.com/album/0cxRpFqh1zwxqEIoLu0dYw"
       },
       "artists": [
         {
@@ -1262,6 +1262,24 @@
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228362,
+      "name": "Sitting By The Beach Then Jumping In",
+      "url": "https://open.spotify.com/track/0Cp445LHoSJYVa3XuNAzS3"
+    },
+    {
+      "album": {
+        "name": "Ocean Walk",
+        "url": "https://open.spotify.com/album/6jKTQZxWAm7RuQdBbz4TaN"
+      },
+      "artists": [
+        {
+          "name": "Organic Nature Sounds",
+          "url": "https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 228362,
       "name": "Sitting By The Beach Then Jumping In",
       "url": "https://open.spotify.com/track/4ZRes6AFBBAFzV7VHuFWPd"
@@ -1477,10 +1495,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204149,
       "name": "Waves Crashing On The Beach",
       "url": "https://open.spotify.com/track/40LXz8tBRZhOVV3WHPH3Nn"
+    },
+    {
+      "album": {
+        "name": "Ocean Walk",
+        "url": "https://open.spotify.com/album/0cxRpFqh1zwxqEIoLu0dYw"
+      },
+      "artists": [
+        {
+          "name": "Organic Nature Sounds",
+          "url": "https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204149,
+      "name": "Waves Crashing On The Beach",
+      "url": "https://open.spotify.com/track/7sfNMu2SJCHE7Tf1WHz9cg"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-04-15",
   "description": "Beautiful noise: when Shoegaze goes Ambient. Cocteau Twins on cover. ",
-  "name": "Ambient Shoegaze",
+  "name": "Ambient Dream Pop",
   "published_playlist_ids": [
     "0CAQvjSr54E3ebNuJC92r5"
   ],
@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Four-Calendar Cafe",
+        "url": "https://open.spotify.com/album/07poC3fOw5E0tAZ6Zc46AN"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/0ttj1wwcdP9qeQGWV7s1S9"
+    },
+    {
+      "album": {
         "name": "Four Calender Cafe",
         "url": "https://open.spotify.com/album/7y86FI2Dk9UjNjfIieWyvX"
       },
@@ -307,7 +325,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181053,
       "name": "Essence - Remastered 2006",
       "url": "https://open.spotify.com/track/11Lg1kcLZoolR3L28OIbZ7"
@@ -332,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Hidden Amongst the Trees and Foothills",
+        "url": "https://open.spotify.com/album/1gSIGOpl4AeKcSawhvCBMp"
+      },
+      "artists": [
+        {
+          "name": "Black Brunswicker",
+          "url": "https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224533,
+      "name": "Heron Song (He Waits in the Fog)",
+      "url": "https://open.spotify.com/track/3jhUe2XxMb7oiM1ukSDy3o"
+    },
+    {
+      "album": {
         "name": "The View from Halfway Down",
         "url": "https://open.spotify.com/album/2Xt22gwrtjMKQQAayKbw4R"
       },
@@ -351,6 +387,24 @@
     {
       "album": {
         "name": "Cranekiss",
+        "url": "https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa"
+      },
+      "artists": [
+        {
+          "name": "Tamaryn",
+          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197797,
+      "name": "I Won't Be Found",
+      "url": "https://open.spotify.com/track/0adzXeiqvJRFzxFsUKtmxH"
+    },
+    {
+      "album": {
+        "name": "Cranekiss",
         "url": "https://open.spotify.com/album/4CqCllNfTRGzCU40bx07Nt"
       },
       "artists": [
@@ -361,7 +415,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197797,
       "name": "I Won't Be Found",
       "url": "https://open.spotify.com/track/2auPtdvhEv2yjVmtF5qJQv"
@@ -405,6 +459,24 @@
     {
       "album": {
         "name": "Distance",
+        "url": "https://open.spotify.com/album/2kIaHAyTEVwPepZYRVwF4c"
+      },
+      "artists": [
+        {
+          "name": "Flying Saucer Attack",
+          "url": "https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399626,
+      "name": "Instrumental Wish",
+      "url": "https://open.spotify.com/track/4uswPqkg9JmnnErhrG7Eot"
+    },
+    {
+      "album": {
+        "name": "Distance",
         "url": "https://open.spotify.com/album/74ZkZnZe0M4M3xwkTgTf81"
       },
       "artists": [
@@ -415,10 +487,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 401640,
       "name": "Instrumental Wish",
       "url": "https://open.spotify.com/track/66Id4olJILNzphttpuqjHn"
+    },
+    {
+      "album": {
+        "name": "It All Falls Apart",
+        "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276621,
+      "name": "It All Falls Apart",
+      "url": "https://open.spotify.com/track/4sG0jUEsy1D927ULdltFhO"
     },
     {
       "album": {
@@ -473,6 +563,24 @@
       "duration_ms": 258763,
       "name": "Kites - Ambient World Version",
       "url": "https://open.spotify.com/track/1n6G7XsgJlem2gmHi7wz6t"
+    },
+    {
+      "album": {
+        "name": "chapter",
+        "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
+      },
+      "artists": [
+        {
+          "name": "Hirotaka Shirotsubaki",
+          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218932,
+      "name": "last goodbye",
+      "url": "https://open.spotify.com/track/30fLDBLU4lo1OtreS7LF1U"
     },
     {
       "album": {
@@ -624,6 +732,24 @@
     },
     {
       "album": {
+        "name": "Imperial",
+        "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342840,
+      "name": "Music For Labour",
+      "url": "https://open.spotify.com/track/3olM6CQoDvoFWwpbk9WBEm"
+    },
+    {
+      "album": {
         "name": "Under My Skin I Am Laughing",
         "url": "https://open.spotify.com/album/1nrrTtAGX9pNLfOrCLgrJH"
       },
@@ -653,10 +779,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 128695,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/0eekgHF7TWBufJLyNdiQSZ"
+    },
+    {
+      "album": {
+        "name": "Pasar de las Luces",
+        "url": "https://open.spotify.com/album/0YOlpbeUweZWajP4nUcFAm"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128695,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/26xYumQZgtU1njE6e5Rq2M"
     },
     {
       "album": {
@@ -697,6 +841,24 @@
     {
       "album": {
         "name": "Distance",
+        "url": "https://open.spotify.com/album/2kIaHAyTEVwPepZYRVwF4c"
+      },
+      "artists": [
+        {
+          "name": "Flying Saucer Attack",
+          "url": "https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298560,
+      "name": "November Mist",
+      "url": "https://open.spotify.com/track/06Ip2hj8Gy8I84hgO2vVsU"
+    },
+    {
+      "album": {
+        "name": "Distance",
         "url": "https://open.spotify.com/album/74ZkZnZe0M4M3xwkTgTf81"
       },
       "artists": [
@@ -707,10 +869,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 300573,
       "name": "November Mist",
       "url": "https://open.spotify.com/track/2Upi0w32GEn3fK8DvdAZvn"
+    },
+    {
+      "album": {
+        "name": "Let the Blind Lead Those Who Can See But Cannot Feel",
+        "url": "https://open.spotify.com/album/6Vm5aiFcLIOZVD20H6bloK"
+      },
+      "artists": [
+        {
+          "name": "Atlas Sound",
+          "url": "https://open.spotify.com/artist/3kGhAL9j1WyNjNkWTRQd8T"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "On Guard",
+      "url": "https://open.spotify.com/track/38rOkmrb3DOccT3vtDFvME"
     },
     {
       "album": {
@@ -725,7 +905,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220266,
       "name": "On Guard",
       "url": "https://open.spotify.com/track/6nsOyNw5N4IZ6K37QFKvqH"
@@ -751,6 +931,24 @@
     {
       "album": {
         "name": "Flying Saucer Attack",
+        "url": "https://open.spotify.com/album/19EG2Pg9TBTTmXsAYmrvsc"
+      },
+      "artists": [
+        {
+          "name": "Flying Saucer Attack",
+          "url": "https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300266,
+      "name": "Popol Vuh 2",
+      "url": "https://open.spotify.com/track/1eZtjzlJuq6CCM0zzOok68"
+    },
+    {
+      "album": {
+        "name": "Flying Saucer Attack",
         "url": "https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q"
       },
       "artists": [
@@ -761,7 +959,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 301093,
       "name": "Popol Vuh 2",
       "url": "https://open.spotify.com/track/7uIEEymPrIjXZykQQGyhXt"
@@ -1079,6 +1277,24 @@
     {
       "album": {
         "name": "Flying Saucer Attack",
+        "url": "https://open.spotify.com/album/19EG2Pg9TBTTmXsAYmrvsc"
+      },
+      "artists": [
+        {
+          "name": "Flying Saucer Attack",
+          "url": "https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258800,
+      "name": "The Season Is Ours",
+      "url": "https://open.spotify.com/track/1xo7NQ9JNTtG62L2jhRkfg"
+    },
+    {
+      "album": {
+        "name": "Flying Saucer Attack",
         "url": "https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q"
       },
       "artists": [
@@ -1089,7 +1305,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261106,
       "name": "The Season Is Ours",
       "url": "https://open.spotify.com/track/3hrQRMTzzA4HCeP9qseSY2"
@@ -1111,6 +1327,24 @@
       "duration_ms": 354786,
       "name": "The Tiger Hunts Alone",
       "url": "https://open.spotify.com/track/60o0CpsHh3zwudJA4teKln"
+    },
+    {
+      "album": {
+        "name": "The Best Driving Music in the World Ever",
+        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
+      },
+      "artists": [
+        {
+          "name": "Sean Curtis Patrick",
+          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239673,
+      "name": "Thea",
+      "url": "https://open.spotify.com/track/5Ml2tSSFP43WCDIsROf0HF"
     },
     {
       "album": {
@@ -1147,6 +1381,24 @@
       "duration_ms": 348466,
       "name": "Through You",
       "url": "https://open.spotify.com/track/1WyfKeDIt4sJt2MpE81fN8"
+    },
+    {
+      "album": {
+        "name": "Where the Sands Turn to Gold",
+        "url": "https://open.spotify.com/album/4v867iqLmmDXh3gvmhwmeA"
+      },
+      "artists": [
+        {
+          "name": "Azusa Plane",
+          "url": "https://open.spotify.com/artist/1exN8SH7Aw6NLkjgFGAncB"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260533,
+      "name": "Tokyo Guitar Flashback",
+      "url": "https://open.spotify.com/track/10O5CCu0wFdQorEDlHXtXE"
     },
     {
       "album": {
@@ -1258,6 +1510,24 @@
     },
     {
       "album": {
+        "name": "we are infinite",
+        "url": "https://open.spotify.com/album/48QAV9vK0nBqEPgVTvIcC1"
+      },
+      "artists": [
+        {
+          "name": "Paper Ocean",
+          "url": "https://open.spotify.com/artist/68XRCDJOwzgKgyX6AbPtlS"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "we are infinite",
+      "url": "https://open.spotify.com/track/4hdSVXAKI8LEM2fON1D1Mv"
+    },
+    {
+      "album": {
         "name": "Under My Skin I Am Laughing",
         "url": "https://open.spotify.com/album/1nrrTtAGX9pNLfOrCLgrJH"
       },
@@ -1273,6 +1543,28 @@
       "duration_ms": 310384,
       "name": "We Could Be Sisters",
       "url": "https://open.spotify.com/track/2Zk5qPjHCiKZzpNvGKEHN1"
+    },
+    {
+      "album": {
+        "name": "what's on the inside",
+        "url": "https://open.spotify.com/album/0tjgXt36gsBjCBnvHZ7C67"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        },
+        {
+          "name": "City of Dawn",
+          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250903,
+      "name": "what's on the inside",
+      "url": "https://open.spotify.com/track/0M3qSerO5fBuimM3wghYX5"
     },
     {
       "album": {

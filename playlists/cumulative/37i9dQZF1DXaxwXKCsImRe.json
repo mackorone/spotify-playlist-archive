@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: Tabitha",
+  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: MEAU",
   "name": "RADAR BNLX",
   "published_playlist_ids": [
     "5PI9N3InPPtYz6UBLMEA8w"
@@ -114,6 +114,24 @@
     },
     {
       "album": {
+        "name": "Bae Doven No. 3",
+        "url": "https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE"
+      },
+      "artists": [
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Am\u00e9lie",
+      "url": "https://open.spotify.com/track/5pzoOun3VFVoLalf1g3K51"
+    },
+    {
+      "album": {
         "name": "Another year like that and we'd all be dead (stripped)",
         "url": "https://open.spotify.com/album/1Ft7nREIGt0NIX7h7fW6Ef"
       },
@@ -143,7 +161,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 221538,
       "name": "Binibini",
       "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
@@ -165,6 +183,24 @@
       "duration_ms": 200523,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
+    },
+    {
+      "album": {
+        "name": "Blijven Rijden",
+        "url": "https://open.spotify.com/album/1y2ecqD1oA6JSDRfMHBNPV"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Blijven Rijden",
+      "url": "https://open.spotify.com/track/0mQJSaRQzKClGZXyORNy6U"
     },
     {
       "album": {
@@ -233,7 +269,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 165058,
       "name": "chameleons",
       "url": "https://open.spotify.com/track/344QBfyJrOAKfDgZ8JkRvs"
@@ -367,7 +403,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 214026,
       "name": "Divide (feat. Promis3)",
       "url": "https://open.spotify.com/track/6xAt3TGyEhAkWJsJggwA27"
@@ -385,7 +421,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 166767,
       "name": "Early Hours",
       "url": "https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB"
@@ -461,7 +497,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 206233,
       "name": "Guts",
       "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
@@ -501,10 +537,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 197197,
       "name": "Halfway",
       "url": "https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0"
+    },
+    {
+      "album": {
+        "name": "red",
+        "url": "https://open.spotify.com/album/2wlgFeYBZGJGsVkeFnpdHp"
+      },
+      "artists": [
+        {
+          "name": "De Staat",
+          "url": "https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146799,
+      "name": "Head On The Block",
+      "url": "https://open.spotify.com/track/0XCoLBUd9ogoPbEpRlcu2J"
     },
     {
       "album": {
@@ -519,10 +573,32 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146799,
       "name": "Head On The Block",
       "url": "https://open.spotify.com/track/2pvSoA1HrhMnzFAmUvVLNN"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2yvil8dH6U3hzXK96yUpni"
+      },
+      "artists": [
+        {
+          "name": "IBE",
+          "url": "https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT"
+        },
+        {
+          "name": "Emily Burns",
+          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223920,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5bCYPHUQ6kaAUN51DijF5I"
     },
     {
       "album": {
@@ -555,7 +631,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 181337,
       "name": "Iced Out",
       "url": "https://open.spotify.com/track/54Z4M6n677nH3rKWeV5IWJ"
@@ -595,7 +671,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 190933,
       "name": "In Control",
       "url": "https://open.spotify.com/track/5xgsrlbxfmAZR8t57ljK5t"
@@ -631,10 +707,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 115800,
       "name": "Just for me",
       "url": "https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA"
+    },
+    {
+      "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K"
+      },
+      "artists": [
+        {
+          "name": "IBE",
+          "url": "https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243440,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/5sHkRXZbyR6SLOlq3EpCpq"
     },
     {
       "album": {
@@ -812,6 +906,42 @@
     },
     {
       "album": {
+        "name": "Nothin\u2019 to worry",
+        "url": "https://open.spotify.com/album/1jnB1ZnjhNLSv6EZii6iRv"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162690,
+      "name": "Nothin\u2019 to worry",
+      "url": "https://open.spotify.com/track/2r9c6RIWi7elZWGDxQZC0n"
+    },
+    {
+      "album": {
+        "name": "Numbers Up",
+        "url": "https://open.spotify.com/album/3g6EiOXZ7PNeV3gpuuMjuh"
+      },
+      "artists": [
+        {
+          "name": "De Staat",
+          "url": "https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205792,
+      "name": "Numbers Up",
+      "url": "https://open.spotify.com/track/2rPcQeiLE5nYhuSFTUAdK0"
+    },
+    {
+      "album": {
         "name": "Numbers Up",
         "url": "https://open.spotify.com/album/5nV448yp33kVXzPAZ2BwwU"
       },
@@ -823,10 +953,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205792,
       "name": "Numbers Up",
       "url": "https://open.spotify.com/track/45vFhToZg8ABIXKAp3nggm"
+    },
+    {
+      "album": {
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147562,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/14dDvp4EA4E3QLruknbMin"
     },
     {
       "album": {
@@ -841,7 +989,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147562,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/5Hit62TgQpCUwIdsU3KV14"
@@ -871,7 +1019,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 192000,
       "name": "Ol\u00e9",
       "url": "https://open.spotify.com/track/6cTSInCxBcwkxzPkPWgeZa"
@@ -893,6 +1041,24 @@
       "duration_ms": 151428,
       "name": "Pari\u0301s",
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "album": {
+        "name": "perreo sad",
+        "url": "https://open.spotify.com/album/7EQXEMpQyRSMdWbLEOLC9j"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185136,
+      "name": "perreo sad",
+      "url": "https://open.spotify.com/track/1cze6kBI1UeQL8xvjyNOwm"
     },
     {
       "album": {
@@ -968,6 +1134,24 @@
     },
     {
       "album": {
+        "name": "Run Away to Mars",
+        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
+    },
+    {
+      "album": {
         "name": "Bae Doven No. 1",
         "url": "https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH"
       },
@@ -979,7 +1163,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 170945,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf"
@@ -1022,6 +1206,24 @@
     },
     {
       "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/0mdge9D2gBA10epxNEXjLS"
       },
@@ -1058,6 +1260,32 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/1SYD9U5ySpahn116MFUxby"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "Jhn McFly",
+          "url": "https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c"
+        },
+        {
+          "name": "Marissa",
+          "url": "https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/6HsP8AwuSVliAtYXr93br0"
+    },
+    {
+      "album": {
         "name": "Stuck in the Sky",
         "url": "https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega"
       },
@@ -1069,7 +1297,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 134557,
       "name": "Stuck in the Sky",
       "url": "https://open.spotify.com/track/0PZdvrkdzVpIyVCL7KLR2r"
@@ -1105,7 +1333,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 170862,
       "name": "Tegen De Klippen Op",
       "url": "https://open.spotify.com/track/4mfJi6sHY0LjLARpYSLel3"
@@ -1202,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "walk away",
+        "url": "https://open.spotify.com/album/2HxzENWnGfFlHRWjawrf6B"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175531,
+      "name": "walk away",
+      "url": "https://open.spotify.com/track/1efwGUw4z68vJLVEhR0WZi"
+    },
+    {
+      "album": {
         "name": "Wet Dream",
         "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
       },
@@ -1231,10 +1477,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274872,
       "name": "What Goes, Let Go",
       "url": "https://open.spotify.com/track/1T9PWBFDewu2lz6R2Obydp"
+    },
+    {
+      "album": {
+        "name": "What Goes, Let Go",
+        "url": "https://open.spotify.com/album/1YqDdcokv3cDe2819uRPrw"
+      },
+      "artists": [
+        {
+          "name": "De Staat",
+          "url": "https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274872,
+      "name": "What Goes, Let Go",
+      "url": "https://open.spotify.com/track/21jath1y9BcbV3tZKUXFw4"
     },
     {
       "album": {
@@ -1267,7 +1531,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 182876,
       "name": "Wilde Rozen",
       "url": "https://open.spotify.com/track/62B4ceP9bpaBYV7h443aMp"
@@ -1321,7 +1585,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 176943,
       "name": "Yuh (Symphony In D Minor)",
       "url": "https://open.spotify.com/track/3lUzn12RioxpKrRhsdUZwt"
@@ -1339,7 +1603,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 192878,
       "name": "Zo Zijn",
       "url": "https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI"
@@ -1361,7 +1625,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 164156,
       "name": "Zonder Gezicht",
       "url": "https://open.spotify.com/track/0KAqcZyd6eiKjyneZRmePT"

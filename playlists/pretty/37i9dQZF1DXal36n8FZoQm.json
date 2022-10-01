@@ -1,13 +1,257 @@
 {
   "description": "The official playlist for Cobra Kai. Watch on Netflix.",
-  "num_followers": 64296,
+  "num_followers": 68635,
   "original_name": "Cobra Kai Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIyMDY0MywwMDAwMDAwNzAwMDAwMTgxZGEwYzNiNWUwMDAwMDE3ZTJiNTRlNGU0",
+  "snapshot_id": "MTY2MzYxNDIxNiwwMDAwMDAwMGNiNzc5YmJhYjFlYTViNDZkMDk0MTBjZTViNzhjMzM3",
   "tracks": [
+    {
+      "added_at": "2022-08-30 17:00:45",
+      "album": {
+        "name": "Once Upon a Time in the Valley (From the Cobra Kai: Season 5 Soundtrack)",
+        "url": "https://open.spotify.com/album/6NNUyz4QLtYSJYToXpdgeV"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "duration_ms": 173524,
+      "name": "Once Upon a Time in the Valley (From the Cobra Kai: Season 5 Soundtrack)",
+      "url": "https://open.spotify.com/track/3OUmjWm8M9MO7qwWQ4sBK7"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "Moderatto Greatest Hits",
+        "url": "https://open.spotify.com/album/4NJ7JAQ407WlP1J5YFbblc"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        }
+      ],
+      "duration_ms": 83373,
+      "name": "Villa Coapa",
+      "url": "https://open.spotify.com/track/184cJnHXXcSeO7Dhw84Kth"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "Mexico and Mariachis",
+        "url": "https://open.spotify.com/album/4XPadpKr3aUdP3uFBZSsm9"
+      },
+      "artists": [
+        {
+          "name": "Antonio Banderas",
+          "url": "https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ"
+        },
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 127226,
+      "name": "Cancion del Mariachi",
+      "url": "https://open.spotify.com/track/2WAHi5ZJwDZqGjnhZgZYmU"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+        "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Playing with the Boys - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/5mQYBoGU3BOAqiFq54b51i"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "The Very Best Of Billy Idol: Idolize Yourself",
+        "url": "https://open.spotify.com/album/0dvStBuexp9Chq1hg3Yjes"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 300213,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/3GfGTJ2xzC0rqKgdjNJLOC"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+      },
+      "artists": [
+        {
+          "name": "Jon Bon Jovi",
+          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Blaze Of Glory",
+      "url": "https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
+      },
+      "artists": [
+        {
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+        }
+      ],
+      "duration_ms": 250792,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "Best of Volume 1",
+        "url": "https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 209840,
+      "name": "Unchained",
+      "url": "https://open.spotify.com/track/6riUkGZUqfuhGQNQ3jSBNx"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
+      },
+      "artists": [
+        {
+          "name": "C & C Music Factory",
+          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
+        }
+      ],
+      "duration_ms": 244093,
+      "name": "Gonna Make You Sweat (Everybody Dance Now)",
+      "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "Evolution: The Hits",
+        "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "You Spin Me Round (Like a Record)",
+      "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "Rocky IV",
+        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "Classic Hits",
+        "url": "https://open.spotify.com/album/2N8ccUOSYseAHTkBWTmq8e"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3ApYSLmZkBGMY7Ahs7PGWM"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "Boneshaker",
+        "url": "https://open.spotify.com/album/0qluDo8WVqgdZ4aSm1dm3T"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 210103,
+      "name": "Boneshaker",
+      "url": "https://open.spotify.com/track/1fvmljBBL2lsyewZBKYj93"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "Runnin' Wild (Special Edition)",
+        "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 222240,
+      "name": "Runnin' Wild",
+      "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
+    },
+    {
+      "added_at": "2022-09-09 12:58:25",
+      "album": {
+        "name": "No Wow",
+        "url": "https://open.spotify.com/album/1wPUWq21gP0rYhaSBqBaEp"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 228720,
+      "name": "Love Is A Deserter",
+      "url": "https://open.spotify.com/track/5tT1aeBgz7kbAugGXNQZ7n"
+    },
     {
       "added_at": "2022-01-25 22:40:24",
       "album": {
@@ -544,7 +788,7 @@
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "Girls, Girls, Girls",
-        "url": "https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z"
+        "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
       },
       "artists": [
         {
@@ -554,7 +798,7 @@
       ],
       "duration_ms": 270426,
       "name": "Girls, Girls, Girls",
-      "url": "https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn"
+      "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
     },
     {
       "added_at": "2022-01-06 15:34:12",
@@ -716,8 +960,8 @@
       },
       "artists": [
         {
-          "name": "Rhys Stephen Fletcher",
-          "url": "https://open.spotify.com/artist/4YZtSWJCRcXiJF2J7Yeurz"
+          "name": "Rhys Fletcher",
+          "url": "https://open.spotify.com/artist/2bp9TWW21l3VDbLprItUud"
         },
         {
           "name": "Georgina Daisy Birch",
@@ -736,7 +980,7 @@
       "added_at": "2022-01-06 15:34:12",
       "album": {
         "name": "Vibe City",
-        "url": "https://open.spotify.com/album/5qB9fJHiKOpeUxiOkepKBj"
+        "url": "https://open.spotify.com/album/6FtILJfVlycAU484t2GA1l"
       },
       "artists": [
         {
@@ -746,7 +990,7 @@
       ],
       "duration_ms": 244250,
       "name": "Hear My Heart",
-      "url": "https://open.spotify.com/track/1PDkqKq5PtfjwsoqnQctAz"
+      "url": "https://open.spotify.com/track/7yl21WlxXzzYblzkxDyqE5"
     },
     {
       "added_at": "2022-01-06 15:34:12",
@@ -899,7 +1143,7 @@
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "Invasion of Privacy",
+        "name": "Invasion of Your Privacy",
         "url": "https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI"
       },
       "artists": [
@@ -916,21 +1160,17 @@
       "added_at": "2022-01-07 19:11:07",
       "album": {
         "name": "Live It Up",
-        "url": "https://open.spotify.com/album/6EhpN4NRqVZZObgYWqjYpa"
+        "url": "https://open.spotify.com/album/0vDYOAFOWUrlADVcS7nnJ4"
       },
       "artists": [
         {
           "name": "Ali Pierre",
           "url": "https://open.spotify.com/artist/0HVFl59me8hw9a4mqQfks7"
-        },
-        {
-          "name": "Aaron Wayne",
-          "url": "https://open.spotify.com/artist/51GqPiiVqeQzsVntoKXixa"
         }
       ],
-      "duration_ms": 329669,
+      "duration_ms": 328615,
       "name": "Live It Up (Aaron Wayne Remix)",
-      "url": "https://open.spotify.com/track/0gSPaub8muOF2zFikracsk"
+      "url": "https://open.spotify.com/track/6QGdefzRvTLXxTFkUyKTHu"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -968,7 +1208,7 @@
       "added_at": "2022-01-07 19:11:07",
       "album": {
         "name": "Riding On A New Wave",
-        "url": "https://open.spotify.com/album/2oeJB9YDHfVD98mT6tVoEx"
+        "url": "https://open.spotify.com/album/4DkgOa4BTwtU5wCUqgdykW"
       },
       "artists": [
         {
@@ -978,13 +1218,13 @@
       ],
       "duration_ms": 223529,
       "name": "Say You Don't Want Me",
-      "url": "https://open.spotify.com/track/3ioH4Hroyj5mpYVskBZqhS"
+      "url": "https://open.spotify.com/track/6LnFf7WFMkX9IGtwt4vQq8"
     },
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
         "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/39Emg3duoZHR4LrE7gziK3"
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
       },
       "artists": [
         {
@@ -994,7 +1234,7 @@
       ],
       "duration_ms": 226909,
       "name": "Bring The Funk Back",
-      "url": "https://open.spotify.com/track/7lVRyNg6jKsvgrbGkyyBj3"
+      "url": "https://open.spotify.com/track/1N5Thcd7ECdY0z2gP7fNpi"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1144,7 +1384,7 @@
       "added_at": "2022-01-07 19:11:07",
       "album": {
         "name": "Black Dog Barking (Special Edition)",
-        "url": "https://open.spotify.com/album/4ulIP4JbW6KegM8KNC02k5"
+        "url": "https://open.spotify.com/album/2ByV33s2Y1uJRAooa8ivrn"
       },
       "artists": [
         {
@@ -1153,8 +1393,8 @@
         }
       ],
       "duration_ms": 205506,
-      "name": "Back In The Game",
-      "url": "https://open.spotify.com/track/5S5GRSDNdEPjNjj07gORMf"
+      "name": "Back In the Game",
+      "url": "https://open.spotify.com/track/2XjeZEdPK7Qo66Z7ONp854"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1176,7 +1416,7 @@
       "added_at": "2022-01-07 19:11:07",
       "album": {
         "name": "Playtime",
-        "url": "https://open.spotify.com/album/13zRIbjKcrLgHqvJLOzD85"
+        "url": "https://open.spotify.com/album/5XoVGXTgsT3wVjByeDSfoz"
       },
       "artists": [
         {
@@ -1186,7 +1426,7 @@
       ],
       "duration_ms": 240466,
       "name": "I'm Gonna Be The One",
-      "url": "https://open.spotify.com/track/50HFNjJcEp9bNMwVQZq9dO"
+      "url": "https://open.spotify.com/track/0RLZeSzRs9AuiUzcQ6PNVR"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1239,8 +1479,8 @@
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "Now and Forever",
-        "url": "https://open.spotify.com/album/3lOX8tvHmjj2EmnqBUyFy1"
+        "name": "Now And Forever",
+        "url": "https://open.spotify.com/album/1UDaAmmTpoWWpkFIti7LGM"
       },
       "artists": [
         {
@@ -1250,7 +1490,7 @@
       ],
       "duration_ms": 241080,
       "name": "Fight Song",
-      "url": "https://open.spotify.com/track/6SnokqeMmGKiOzMlhag3Mb"
+      "url": "https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1319,8 +1559,8 @@
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "Everybody Wang Chung Tonight... Wang Chung's Greatest Hits",
-        "url": "https://open.spotify.com/album/5p0y8lkXH7hUsmrjtwzfPf"
+        "name": "Points On The Curve",
+        "url": "https://open.spotify.com/album/5RMZLWa4VtvJXswpsk600P"
       },
       "artists": [
         {
@@ -1328,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
         }
       ],
-      "duration_ms": 239133,
+      "duration_ms": 240800,
       "name": "Dance Hall Days",
-      "url": "https://open.spotify.com/track/1Z6IVAyTC47I1wob7b3aOh"
+      "url": "https://open.spotify.com/track/2JvPJ8ydPuN2NhpH4oti6I"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1588,7 +1828,7 @@
       "added_at": "2022-01-07 19:11:07",
       "album": {
         "name": "Dr. Feelgood",
-        "url": "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
+        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
       },
       "artists": [
         {
@@ -1596,9 +1836,9 @@
           "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 282653,
+      "duration_ms": 284026,
       "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
+      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -1635,7 +1875,7 @@
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "Escape",
+        "name": "Escape (Bonus Track Version)",
         "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
       "artists": [
@@ -2047,8 +2287,8 @@
     {
       "added_at": "2022-01-07 19:11:07",
       "album": {
-        "name": "The MGM Singles",
-        "url": "https://open.spotify.com/album/5I2zgmTqg6qLVQ0j72BkZ3"
+        "name": "Wooly Bully",
+        "url": "https://open.spotify.com/album/43ohvLotIrT1cprKaXYMn8"
       },
       "artists": [
         {
@@ -2056,9 +2296,9 @@
           "url": "https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL"
         }
       ],
-      "duration_ms": 138866,
+      "duration_ms": 141613,
       "name": "Wooly Bully",
-      "url": "https://open.spotify.com/track/0SRkuudTEWe2HOloI1Nssq"
+      "url": "https://open.spotify.com/track/4GNmvOYZW11lGzcZm0FKGY"
     },
     {
       "added_at": "2022-01-07 19:11:07",
@@ -2091,6 +2331,86 @@
       "duration_ms": 289466,
       "name": "Rock 'N' Roll Over You",
       "url": "https://open.spotify.com/track/24ttxzDgbZoMHHSyhhSTOP"
+    },
+    {
+      "added_at": "2022-09-19 19:03:36",
+      "album": {
+        "name": "Cobra Kai: Season 5, Vol 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2dmsENyZefO9B1CRhRPci1"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "duration_ms": 148930,
+      "name": "The Tree Will Survive",
+      "url": "https://open.spotify.com/track/2iRwfxTNwwdaxct7ZiKyEq"
+    },
+    {
+      "added_at": "2022-09-19 19:03:36",
+      "album": {
+        "name": "Cobra Kai: Season 5, Vol 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2dmsENyZefO9B1CRhRPci1"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "duration_ms": 310445,
+      "name": "The Fifth Battle of Kawanakajima",
+      "url": "https://open.spotify.com/track/1r4j2giTbbVtvoNWwlf9U0"
+    },
+    {
+      "added_at": "2022-09-19 19:03:36",
+      "album": {
+        "name": "Cobra Kai: Season 5, Vol 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "duration_ms": 192912,
+      "name": "Sworn Enemies",
+      "url": "https://open.spotify.com/track/5wEchT3RGkxMMsgyfhWBjc"
+    },
+    {
+      "added_at": "2022-09-19 19:03:36",
+      "album": {
+        "name": "Cobra Kai: Season 5, Vol 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "duration_ms": 131684,
+      "name": "All of Us",
+      "url": "https://open.spotify.com/track/26RRShwHcBtzAmSWKhQfJO"
+    },
+    {
+      "added_at": "2022-09-19 19:03:36",
+      "album": {
+        "name": "Cobra Kai: Season 5, Vol 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1"
+      },
+      "artists": [
+        {
+          "name": "Leo Birenberg & Zach Robinson",
+          "url": "https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp"
+        }
+      ],
+      "duration_ms": 90271,
+      "name": "The Eagle and the Lion",
+      "url": "https://open.spotify.com/track/72FDfor2MIk4PfXCsupKp3"
     }
   ],
   "unique_name": "Cobra Kai Official Playlist",

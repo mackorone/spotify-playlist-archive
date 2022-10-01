@@ -4,7 +4,7 @@
 
 > A Mumzy Stranger takeover highlighting his favorite South Asian tracks.
 
-125 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
+126 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Shukher Jonno](https://open.spotify.com/track/0jVtOhr9vokPGWAYN6derl) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9) | [Shukher Jonno](https://open.spotify.com/album/5za1lb4aL7KDNII1Iy4rty) | 2:55 | 2022-07-18 |  |
 | [Somebody to Love](https://open.spotify.com/track/3pdHWxpeFJqai3skQcRr41) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Marbled](https://open.spotify.com/album/4UdZHRBCIoe7XCPr8KdVg7) | 4:10 | 2021-11-10 | 2022-06-21 |
 | [Something In Common](https://open.spotify.com/track/26OTg2xFP2X2Bllzb2AIZM) | [Anushqa](https://open.spotify.com/artist/0IcLVlZlFJH2ifZjasaCVm) | [Something In Common](https://open.spotify.com/album/6Iwlg5fffwQFgYTDBzq6Ab) | 3:02 | 2021-11-10 | 2022-06-21 |
-| [Str8 Outta Mumbai](https://open.spotify.com/track/3pROf3AwBDvr2LaGfpZFnT) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/6Wsai43KQmmKlN29AWlXFr) | 2:42 | 2021-11-10 |  |
+| [Str8 Outta Mumbai](https://open.spotify.com/track/0mRtv3pnmPiN2mDMzYzWt2) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 2:42 | 2022-07-18 |  |
+| [Str8 Outta Mumbai](https://open.spotify.com/track/3pROf3AwBDvr2LaGfpZFnT) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/6Wsai43KQmmKlN29AWlXFr) | 2:42 | 2021-11-10 | 2022-07-29 |
 | [Stranger](https://open.spotify.com/track/59pVdfcIvVmXKzt84JiA1u) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Stranger](https://open.spotify.com/album/2HHHj4R52EvoOK9UDYRbsv) | 3:45 | 2021-11-10 | 2022-06-21 |
 | [Summer Nights](https://open.spotify.com/track/2HzMwZguobsrcDu9YmFXHL) | [Raaginder](https://open.spotify.com/artist/0aS41TT32O5PsnAB7qZj7L), [Wisechild](https://open.spotify.com/artist/6cICKubdnKplDTlNfmxMZJ) | [Summer Nights](https://open.spotify.com/album/4cSOgTinaZDvRYVv2H6DV5) | 2:54 | 2021-11-10 | 2022-07-19 |
 | [Sun's Up](https://open.spotify.com/track/1ZSqUzSj2MrOad4CIwXKwS) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Sun's Up](https://open.spotify.com/album/5QjtwqRLJ069au7Ufp5j7a) | 3:19 | 2021-11-10 | 2022-05-27 |

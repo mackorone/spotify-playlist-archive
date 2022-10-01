@@ -55,10 +55,46 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201064,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2tpi3j9rsfTLPnDpjOKx6c"
+    },
+    {
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
+    },
+    {
+      "album": {
+        "name": "Escuela De Rancho",
+        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171560,
+      "name": "Bota La Bata",
+      "url": "https://open.spotify.com/track/3VveKJh9V3L8G77n1IMdSz"
     },
     {
       "album": {
@@ -73,7 +109,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173973,
       "name": "Bota La Bata",
       "url": "https://open.spotify.com/track/3csd5YNsgYPvVJSvTSnMK2"
@@ -343,10 +379,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210152,
       "name": "La Bola (Pelotero a la Bola)",
       "url": "https://open.spotify.com/track/6i6LOorHwaFqnM7cJNlqFH"
+    },
+    {
+      "album": {
+        "name": "Durmiendo en el Lugar Equivocado",
+        "url": "https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210280,
+      "name": "La Bola (Pelotero a la Bola)",
+      "url": "https://open.spotify.com/track/2pdaGbHeRy6i5DJuWbLg3t"
     },
     {
       "album": {
@@ -487,10 +541,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179000,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ"
+    },
+    {
+      "album": {
+        "name": "Ayer, Hoy Y Siempre Con... Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/0vkG9pqDfFB6ljZ9SFw9FM"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183240,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7IMQ45yz4zOg1A0cBsHvCx"
     },
     {
       "album": {
@@ -566,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Era Cab - El Viejo",
+        "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153093,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
+    },
+    {
+      "album": {
         "name": "Es Cab ... El Viejo",
         "url": "https://open.spotify.com/album/1xYpAyCv3StPKCHOsfWFxD"
       },
@@ -577,7 +667,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153106,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/5iJNb87XU4xodNITsyR2PR"
@@ -701,7 +791,7 @@
     {
       "album": {
         "name": "Ajeno",
-        "url": "https://open.spotify.com/album/7nJVbjmvbcsnJvqtT1eXvK"
+        "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
       },
       "artists": [
         {
@@ -712,6 +802,24 @@
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 180106,
+      "name": "Prov\u00f3came",
+      "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
+    },
+    {
+      "album": {
+        "name": "Ajeno",
+        "url": "https://open.spotify.com/album/7nJVbjmvbcsnJvqtT1eXvK"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/7EhjgNLMiTYCh6ClCy3RIT"
@@ -862,6 +970,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
+      },
+      "artists": [
+        {
+          "name": "Banda Cuisillos",
+          "url": "https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "Vanidosa",
+      "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
+    },
+    {
+      "album": {
         "name": "Las Inmortales De",
         "url": "https://open.spotify.com/album/29zuE2J0dSmQbE3mnvOC9J"
       },
@@ -873,7 +999,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199133,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/1ejwlo9By9BKYWUgK9efI5"

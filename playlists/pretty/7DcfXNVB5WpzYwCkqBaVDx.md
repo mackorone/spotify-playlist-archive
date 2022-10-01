@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DcfXNVB5WpzYwCkqBaVDx.md) - [plain]
 
 > Peace & Love 2012 arrangeras 26 \- 30 juni i Borlänge\. Temat för sommarens festival är "En ny värld"\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 158 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 74 likes - 158 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

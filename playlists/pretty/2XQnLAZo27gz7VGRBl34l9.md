@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2XQnLAZo27gz7VGRBl34l9.md) - [plain]
 
 > Storsjöyran är Sveriges äldsta stadsfestival, grundad 1963\. Sommarens festival arrangeras 27 \- 28 juli i Östersund\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24 likes - 61 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 61 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

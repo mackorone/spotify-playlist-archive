@@ -4,7 +4,7 @@
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-105 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/1jMZl3sblz7aThsvIcYET0)
+106 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/1jMZl3sblz7aThsvIcYET0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [ASMR Different Brushes](https://open.spotify.com/track/6JenanJmN5YhAxgOA5Awyv) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [Brain Tingle](https://open.spotify.com/album/54aIaPVY4UR4I3D3fWuvfa) | 6:24 | 2021-11-12 |  |
 | [ASMR In Ear Mics Head Massage, Sleep Now, Pt\. 2](https://open.spotify.com/track/6XTMIvgKsqSz50FPtpvP2I) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [ASMR In Ear Mics Head Massage, Neck Massage, Ear Brushing, Gentle Touching, Sleep Now](https://open.spotify.com/album/1bNNqgL2UWTsOQbkJzogBH) | 4:36 | 2021-11-12 |  |
 | [ASMR Neti Pots](https://open.spotify.com/track/0SkytMckuKIsj31AIjg1fR) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [Yogic Objects](https://open.spotify.com/album/6PwtrqJWmPEFfOGVxk0wsn) | 3:32 | 2021-11-12 |  |
-| [ASMR Series: Crinkling Newspaper](https://open.spotify.com/track/3EOwSI9uF1xvVtCCU19Nmd) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [ASMR Series: Crinkling Newspaper](https://open.spotify.com/album/6w8X2jlZbuIpAUCmccgIEG) | 3:14 | 2021-11-12 |  |
+| [ASMR Series: Crinkling Newspaper](https://open.spotify.com/track/3EOwSI9uF1xvVtCCU19Nmd) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [ASMR Series: Crinkling Newspaper](https://open.spotify.com/album/6w8X2jlZbuIpAUCmccgIEG) | 3:14 | 2021-11-12 | 2022-07-29 |
+| [ASMR Series: Crinkling Newspaper](https://open.spotify.com/track/3XojBsxcgPYvr1PpkMRrQm) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [ASMR Series: Crinkling Newspaper](https://open.spotify.com/album/3k71JYMic013ihhTkv6s3C) | 3:14 | 2022-07-21 |  |
 | [Asmr Sleep \- Ultimate Triggers Reloaded](https://open.spotify.com/track/2BUNeTjb2bHArH4Uu5AKtE) | [ASMR HANNA](https://open.spotify.com/artist/3BPhcGevr0eAahcb8qW9aa) | [Asmr Sleep \(Ultimate Triggers Reloaded\)](https://open.spotify.com/album/0RnZNaFbKsiKYlsUpVDpTp) | 1:44 | 2021-11-12 |  |
 | [ASMR Tapping Sounds](https://open.spotify.com/track/38bX0U9dS1l2FFAfkXeo5S) | [MaskedMan ASMR](https://open.spotify.com/artist/26a9typdHoYXNF8roFavFp) | [ASMR Tapping Sounds](https://open.spotify.com/album/6dU6yp88BwVm8f4b1uN587) | 20:01 | 2022-05-20 |  |
 | [ASMR Triggers \- Celebration the new Year](https://open.spotify.com/track/2ndcF8WS48YY6osMWu1MIA) | [ASMR HANNA](https://open.spotify.com/artist/3BPhcGevr0eAahcb8qW9aa) | [ASMR Triggers \(Celebration the new Year\)](https://open.spotify.com/album/0SEv0mbQpYDuxLYkkIqaAV) | 1:29 | 2021-11-12 |  |

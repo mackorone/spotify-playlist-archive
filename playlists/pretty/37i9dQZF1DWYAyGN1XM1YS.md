@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Back to the golden age of emo\. Cover: Thursday
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,998 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,050 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Standing on the Edge of Summer](https://open.spotify.com/track/5l2P0TBREso46wxFq4jQrI) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/1ZYIBPNPc55E7LWg1ZBXhM) | 3:42 |
+| 1 | [Standing On The Edge Of Summer](https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 3:42 |
 | 2 | [Jude Law And A Semester Abroad](https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Your Favorite Weapon](https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj) | 3:42 |
-| 3 | [In Circles \- Remastered](https://open.spotify.com/track/5k7RUvywwUAl7Dq6qEXR8c) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(2009 Edition\)](https://open.spotify.com/album/2BpIgyANTKnyMIIRvXOjm2) | 4:58 |
+| 3 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(2009 Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 |
 | 4 | [Chinatown](https://open.spotify.com/track/7iLR3XqK3d5WbHeurAB1d8) | [Jets To Brazil](https://open.spotify.com/artist/03xcT10aipgYbYqusG7GWY) | [Orange Rhyming Dictionary](https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD) | 5:35 |
 | 5 | [Accident Prone](https://open.spotify.com/track/2Dqgj2nE6RwZKocWsWqXcG) | [Jawbreaker](https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV) | [Dear You](https://open.spotify.com/album/7KyQp50wm9lprjaW6UMAkI) | 6:13 |
 | 6 | [Back And To The Left](https://open.spotify.com/track/7f3tPmsyBQc0sua0SAINlZ) | [Texas Is The Reason](https://open.spotify.com/artist/7rXo5QTwwFBYZ5Z3veUVg8) | [Do You Know Who You Are?: The Complete Collection](https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7) | 3:55 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 9 | [Hope For Us](https://open.spotify.com/track/2bhMvw4ZILdxeEVt9bXHAq) | [The Jealous Sound](https://open.spotify.com/artist/1ggwkSYO7sCaM9sBV4ldYf) | [Kill Them With Kindness \[Deluxe Reissue\]](https://open.spotify.com/album/2xsahntmompiEH4N7QQrWm) | 4:10 |
 | 10 | [Courage Was Confused](https://open.spotify.com/track/2kVc8s89MliCutzKkXXROb) | [Knapsack](https://open.spotify.com/artist/7kcgO0DTza7One0HqXRIH7) | [Day Three of My New Life](https://open.spotify.com/album/6xK0rYqqBtzcIiq0rY90Al) | 3:51 |
 | 11 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 |
-| 12 | [Parking Lot](https://open.spotify.com/track/73fIjW2iGt0eeWClhkZI6P) | [Mineral](https://open.spotify.com/artist/3N4eFtnZCCXfMs0hBQwujT) | [The Power of Failing](https://open.spotify.com/album/6FkVK6KcyzHviuaQhOME03) | 3:51 |
+| 12 | [Parking Lot](https://open.spotify.com/track/601akXTJgLQapZEBo23RQy) | [Mineral](https://open.spotify.com/artist/3N4eFtnZCCXfMs0hBQwujT) | [The Power of Failing](https://open.spotify.com/album/48MkEL1tt4TkZdpafXoj5R) | 3:51 |
 | 13 | [Action & Action](https://open.spotify.com/track/3rNRmQETcPHauTPFqS7z3T) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8) | 4:05 |
 | 14 | [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 |
 | 15 | [Mother Mary](https://open.spotify.com/track/37loR0ac9T655PNfPIpHmA) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [Soon](https://open.spotify.com/album/2ripjHj9gBOBakmPftt58S) | 2:16 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 32 | [Songbird](https://open.spotify.com/track/2gupkqB7ID1d4x1aXXSWIM) | [Engine Down](https://open.spotify.com/artist/3y2Ft6gr35tMVtH2SKYIac) | [Demure](https://open.spotify.com/album/0tQYFiRlfKm5Cav5tzzVqG) | 5:27 |
 | 33 | [Everyone Is My Friend](https://open.spotify.com/track/5BcarBozJi3Gv0ncP721y5) | [OWLS](https://open.spotify.com/artist/57sqenSxpn1IL2G0im58dj) | [Owls](https://open.spotify.com/album/2BcDHOiwrttJkcyzvuOnEr) | 3:26 |
 | 34 | [Oh Messy Life](https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE) | [Cap'n Jazz](https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4) | [Analphabetapolothology](https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D) | 2:02 |
-| 35 | [Woolworm](https://open.spotify.com/track/0dDXMlIEIV8FQ3pVn46H9K) | [Indian Summer](https://open.spotify.com/artist/1qRC7tQ3VepRoC8q0lB9Rf) | [Giving Birth to Thunder](https://open.spotify.com/album/2KTREthEKwlj4qSywE6AKS) | 7:25 |
-| 36 | [For Want of](https://open.spotify.com/track/7mZjpi86XWnEBiu8VMR3GI) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/2xtDqnjyKOuOd3Y9wl3Thx) | 3:10 |
+| 35 | [Woolworm](https://open.spotify.com/track/37QGYx2RmRM98Ag1bfDfXp) | [Indian Summer](https://open.spotify.com/artist/1qRC7tQ3VepRoC8q0lB9Rf) | [Giving Birth to Thunder](https://open.spotify.com/album/1G6sKqeNTEbiDRu3M1TzM7) | 7:25 |
+| 36 | [For Want Of](https://open.spotify.com/track/0Ca6zALpIkO7nwSHpT5hSg) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg) | 3:10 |
 | 37 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 |
 | 38 | [Factory](https://open.spotify.com/track/5hns2g1le2bQDkQaUJPRvB) | [Samiam](https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo) | [You're Freaking Me Out](https://open.spotify.com/album/06KigeTnRtnm7YS0hjIVl8) | 3:30 |
 | 39 | [The Great Depression](https://open.spotify.com/track/1xNDXKQPbd49Ik9MxlwJ94) | [Cross My Heart](https://open.spotify.com/artist/5Lp6cRiaJy2ryj66SfTKYQ) | [Temporary Contemporary](https://open.spotify.com/album/3YNTAfolDugX8teETYvrCx) | 4:01 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 43 | [M](https://open.spotify.com/track/53sk4XbQHveSGDXq0k8asW) | [Penfold](https://open.spotify.com/artist/6DNcBVkeL2ucCkkTDJGcYn) | [Amateurs & Professionals](https://open.spotify.com/album/34MllYh3dtTSVGnE3m7mbg) | 4:23 |
 | 44 | [Red & Blue Jeans](https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1) | [The Promise Ring](https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu) | [Nothing Feels Good](https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO) | 2:55 |
 | 45 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 |
-| 46 | [See You In Hell](https://open.spotify.com/track/0cKYw9UErFhmPkOVsCU9L0) | [Small Brown Bike](https://open.spotify.com/artist/1zXtQWuMTmOYQUiP5a1c0j) | [Dead Reckoning](https://open.spotify.com/album/7eFAYhlNsXMkSApFtGUcap) | 3:15 |
+| 46 | [See You In Hell](https://open.spotify.com/track/5OsAjzmcyT7lIdHQwicSSf) | [Small Brown Bike](https://open.spotify.com/artist/1zXtQWuMTmOYQUiP5a1c0j) | [Dead Reckoning](https://open.spotify.com/album/41cGtsemjXxvGiBenwg8p3) | 3:15 |
 | 47 | [A Lull In Traffic](https://open.spotify.com/track/2HmdQtNJDraTM9JNQCXC0K) | [The Gloria Record](https://open.spotify.com/artist/0gYSiuHXa3SjZA45d6AU0U) | [A Lull In Traffic](https://open.spotify.com/album/3WqgB3H5z4HaHWz9Fs3wo9) | 4:05 |
 | 48 | [Dreams](https://open.spotify.com/track/4EutGBgzvoJ1MXN1LNfMOD) | [Sense Field](https://open.spotify.com/artist/5LzLPIRLOQVl1Gs3b4CRBT) | [Sense Field](https://open.spotify.com/album/4tx4qeSe8wTjMwznIHnvUa) | 4:22 |
 | 49 | [This Afternoons Malady](https://open.spotify.com/track/0wHxHYnNvnhjX4f399sjMz) | [Jejune](https://open.spotify.com/artist/0dH7IS6J0rfzfMCyxG8b4V) | [Extreme Music Sampler](https://open.spotify.com/album/4m0GhiaLelgQ44HRnG14ow) | 4:21 |
 | 50 | [Earthquakes and Sharks](https://open.spotify.com/track/7jATtiR7Sjfke3qKdA5HEd) | [Brandtson](https://open.spotify.com/artist/4wlNIqMnqGY8g2lcFTkzsY) | [Hello, Control.](https://open.spotify.com/album/6vfntMjrhjePcDe48vXOwz) | 2:57 |
 
-Snapshot ID: `MTY1NDc4MjM2MSwwMDAwMDAwOTAwMDAwMTgxNDhiNzAxNWMwMDAwMDE4MDA0ZjgyNGNj`
+Snapshot ID: `MTY1NDc4MjM2MSwwMDAwMDAwMGQ5OWNiOTUyMmNhMTU2YTI0NjdjY2E3ZWU5NmE2OWJl`

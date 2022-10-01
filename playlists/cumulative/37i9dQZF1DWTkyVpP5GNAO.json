@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Que Suficiente",
+        "url": "https://open.spotify.com/album/10MAZP2R3fsjRzpdZ2Gatm"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474183,
+      "name": "A Casa",
+      "url": "https://open.spotify.com/track/4SlG9g63egygJwnKxBieLh"
+    },
+    {
+      "album": {
         "name": "A Casa",
         "url": "https://open.spotify.com/album/7GWTctss43bXTlcCRQVuPY"
       },
@@ -45,7 +63,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 474183,
       "name": "A Casa",
       "url": "https://open.spotify.com/track/6sQa7qnVaqw734q8xcGSVz"
@@ -186,6 +204,24 @@
     },
     {
       "album": {
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299600,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/5Q5ArHcJlRcWLZMRBRN4sX"
+    },
+    {
+      "album": {
         "name": "De Vuelta al Jardin",
         "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
       },
@@ -197,7 +233,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 299600,
       "name": "Como Dijiste",
       "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
@@ -233,10 +269,46 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 423173,
       "name": "Creo En Ti",
       "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
+    },
+    {
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q"
+    },
+    {
+      "album": {
+        "name": "Por Fin en Casa",
+        "url": "https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465335,
+      "name": "De Lo M\u00e1s Profundo",
+      "url": "https://open.spotify.com/track/1QNPc8xrzF78nlTFN3TM7T"
     },
     {
       "album": {
@@ -251,7 +323,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 465335,
       "name": "De Lo M\u00e1s Profundo",
       "url": "https://open.spotify.com/track/4ldw8AP89yMbSrbJviQxBb"
@@ -321,10 +393,36 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262053,
       "name": "Despierta Mi Alma",
       "url": "https://open.spotify.com/track/1otazeWaKgfTnlmBxOyte6"
+    },
+    {
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/25PGrgAo37O5dMSzgAj9BR"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262053,
+      "name": "Despierta Mi Alma",
+      "url": "https://open.spotify.com/track/44uiY9mN7UCReHQ79csPtd"
     },
     {
       "album": {
@@ -449,7 +547,7 @@
     {
       "album": {
         "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
-        "url": "https://open.spotify.com/album/5AnEXozHpJxLcMSQnla1qa"
+        "url": "https://open.spotify.com/album/3Yi2UipOGBlp03eUNT6tpj"
       },
       "artists": [
         {
@@ -460,6 +558,24 @@
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 245973,
+      "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
+      "url": "https://open.spotify.com/track/0zXTW0J4XLhqsNSrmwk9sp"
+    },
+    {
+      "album": {
+        "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
+        "url": "https://open.spotify.com/album/5AnEXozHpJxLcMSQnla1qa"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 245973,
       "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
       "url": "https://open.spotify.com/track/1fw5FweXpCvzNwCGPk953Q"
@@ -481,10 +597,50 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 534748,
       "name": "Donde T\u00fa Est\u00e1s (feat. Rebeca Zamorano)",
       "url": "https://open.spotify.com/track/0ghEDN5LzOFJW7xkCKVWoZ"
+    },
+    {
+      "album": {
+        "name": "Gloria sea a ti",
+        "url": "https://open.spotify.com/album/2Iyng7Y20EuZ1VSOafcnPg"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        },
+        {
+          "name": "Rebeca Zamorano",
+          "url": "https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534748,
+      "name": "Donde T\u00fa est\u00e1s feat. Rebeca Zamorano",
+      "url": "https://open.spotify.com/track/4hvmopV4wO0CTe9DgicOOF"
+    },
+    {
+      "album": {
+        "name": "Te Puedo Sentir",
+        "url": "https://open.spotify.com/album/7wzqas1U1NJ9uAKdkCBAi8"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371360,
+      "name": "El Sonido del Silencio",
+      "url": "https://open.spotify.com/track/1iOLORkS2seU9lRU0T9b1A"
     },
     {
       "album": {
@@ -499,7 +655,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 371360,
       "name": "El Sonido del Silencio",
       "url": "https://open.spotify.com/track/5WacHUW18HfvEAOIS7Omb7"
@@ -557,10 +713,50 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 349801,
       "name": "Eres Rey",
       "url": "https://open.spotify.com/track/0CkV4sA0c16gNXbp9VvhLk"
+    },
+    {
+      "album": {
+        "name": "Eres Rey",
+        "url": "https://open.spotify.com/album/5IElr9Pfprf2TElNtY5DNr"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349801,
+      "name": "Eres Rey",
+      "url": "https://open.spotify.com/track/5fEOyBNgi2VQvlISgerFEf"
+    },
+    {
+      "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202480,
+      "name": "Es Por Tu Gracia",
+      "url": "https://open.spotify.com/track/2eraB6aW3YLpAJO22mO4GW"
     },
     {
       "album": {
@@ -575,7 +771,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202480,
       "name": "Es Por Tu Gracia",
       "url": "https://open.spotify.com/track/2jSJ1TNnuaifMb1KM61lNn"
@@ -677,10 +873,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 309263,
       "name": "Hasta poder ver",
       "url": "https://open.spotify.com/track/1eydCGoeuu4KeEStDpCJWk"
+    },
+    {
+      "album": {
+        "name": "Hasta poder ver",
+        "url": "https://open.spotify.com/album/5g5Vcw8n4yjZHNhFIruR9J"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309263,
+      "name": "Hasta poder ver",
+      "url": "https://open.spotify.com/track/3MH2bwGyeqHBAefP8UDj6x"
     },
     {
       "album": {
@@ -695,10 +909,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 418704,
       "name": "Hay Un Hambre",
       "url": "https://open.spotify.com/track/2Wvb0A4SS6sEZWaJ7skU2Y"
+    },
+    {
+      "album": {
+        "name": "Hay Un Hambre",
+        "url": "https://open.spotify.com/album/46RNFMizJrAliyzoPRc1Zk"
+      },
+      "artists": [
+        {
+          "name": "Harold y Elena",
+          "url": "https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418704,
+      "name": "Hay Un Hambre",
+      "url": "https://open.spotify.com/track/3cB86YtrUCvAYHDPsr3YT0"
     },
     {
       "album": {
@@ -731,10 +963,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 336754,
       "name": "Inigualable",
       "url": "https://open.spotify.com/track/3VmmAlYsYkydaOAQpScbf8"
+    },
+    {
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/71HrMvqpUUVwsiHOQIhOt5"
+      },
+      "artists": [
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336754,
+      "name": "Inigualable",
+      "url": "https://open.spotify.com/track/4HH9pDGDPnVeuv4uC3nXOZ"
     },
     {
       "album": {
@@ -765,7 +1015,7 @@
     {
       "album": {
         "name": "Jes\u00fas (feat. Marcos Witt)",
-        "url": "https://open.spotify.com/album/1WfsoWeDqgkOS2KaIfSStH"
+        "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
       },
       "artists": [
         {
@@ -776,6 +1026,24 @@
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 305981,
+      "name": "Jes\u00fas (feat. Marcos Witt)",
+      "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
+    },
+    {
+      "album": {
+        "name": "Jes\u00fas (feat. Marcos Witt)",
+        "url": "https://open.spotify.com/album/1WfsoWeDqgkOS2KaIfSStH"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 305981,
       "name": "Jes\u00fas (feat. Marcos Witt)",
       "url": "https://open.spotify.com/track/4dS4gq496Yf7msTsgXEJSG"
@@ -837,10 +1105,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 346933,
       "name": "La Cruz",
       "url": "https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec"
+    },
+    {
+      "album": {
+        "name": "Amor Palabra Poder",
+        "url": "https://open.spotify.com/album/0QmZYNcLZ9Vh3QM4fZWLY6"
+      },
+      "artists": [
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346933,
+      "name": "La Cruz",
+      "url": "https://open.spotify.com/track/64YUdJTdhkXJgvbKZpQtJa"
     },
     {
       "album": {
@@ -899,7 +1185,7 @@
     {
       "album": {
         "name": "Loco Amor (Spanish Version)",
-        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
+        "url": "https://open.spotify.com/album/0fdRBSdw56pU3F5F3TJORK"
       },
       "artists": [
         {
@@ -910,6 +1196,24 @@
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 303400,
+      "name": "Loco Amor (Spanish Version)",
+      "url": "https://open.spotify.com/track/4ycyCxaQyVOA0hOELiU8wf"
+    },
+    {
+      "album": {
+        "name": "Loco Amor (Spanish Version)",
+        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 303373,
       "name": "Loco Amor - Spanish Version",
       "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
@@ -953,10 +1257,32 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 344549,
       "name": "Me Amaste a Mi\u0301",
       "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
+    },
+    {
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Lucia Parker",
+          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344549,
+      "name": "Me Amaste A M\u00ed (Feat. Lucia Parker)",
+      "url": "https://open.spotify.com/track/2VLuMpiWXCudSSuQUFUDWc"
     },
     {
       "album": {
@@ -1066,6 +1392,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Que Suficiente",
+        "url": "https://open.spotify.com/album/10MAZP2R3fsjRzpdZ2Gatm"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385976,
+      "name": "M\u00e1s De Lo Que So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/3n19qS6h09eTr8sMqSQuxH"
+    },
+    {
+      "album": {
         "name": "M\u00e1s De Lo Que So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/4x2ostQs6VWMwTCu2sGQjL"
       },
@@ -1085,7 +1429,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 385976,
       "name": "M\u00e1s De Lo Que So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/0PbpiYDObGKpjherCBFwFX"
@@ -1107,10 +1451,32 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295594,
       "name": "Nadie Igual (feat. Lead)",
       "url": "https://open.spotify.com/track/2BBYOQZy68MoTHPGEDobRa"
+    },
+    {
+      "album": {
+        "name": "Vida Encontr\u00e9",
+        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295594,
+      "name": "Nadie Igual (feat. Lead)",
+      "url": "https://open.spotify.com/track/3eyVjcyXh9HxLJQcWJ8lxQ"
     },
     {
       "album": {
@@ -1125,10 +1491,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274050,
       "name": "No Estoy Solo",
       "url": "https://open.spotify.com/track/0w0r0o3ehxTfDoUMPU34vY"
+    },
+    {
+      "album": {
+        "name": "Lo Que el Viento Me Ense\u00f1o",
+        "url": "https://open.spotify.com/album/4yu6vGUgF13tbPSO4Pysy5"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274050,
+      "name": "No Estoy Solo",
+      "url": "https://open.spotify.com/track/5a3l8FTXaRGFkUn9jdvqKa"
     },
     {
       "album": {
@@ -1143,10 +1527,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 391316,
       "name": "No Hay Otro Dios",
       "url": "https://open.spotify.com/track/2FFwnDvloSzeITr0nhYDaW"
+    },
+    {
+      "album": {
+        "name": "No Hay Otro Dios",
+        "url": "https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Horizonte",
+          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391316,
+      "name": "No Hay Otro Dios",
+      "url": "https://open.spotify.com/track/2kmRF1rM0ZQfZZ4RmkVIs4"
     },
     {
       "album": {
@@ -1187,10 +1589,32 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 568390,
       "name": "Nuestro Salvador (feat. Alex Campos)",
       "url": "https://open.spotify.com/track/58eeJvQQr3sJC58fT3qx8U"
+    },
+    {
+      "album": {
+        "name": "Gloria sea a ti",
+        "url": "https://open.spotify.com/album/2Iyng7Y20EuZ1VSOafcnPg"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568390,
+      "name": "Nuestro Salvador feat. Alex Campos",
+      "url": "https://open.spotify.com/track/5rrt0LCPZb8osacmQoTMp6"
     },
     {
       "album": {
@@ -1223,10 +1647,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 378643,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/5VvHuqHKd3cfABM2vtoIXl"
+    },
+    {
+      "album": {
+        "name": "Padre Nuestro",
+        "url": "https://open.spotify.com/album/5RgSuBF5XcrbVl2wSHw3sF"
+      },
+      "artists": [
+        {
+          "name": "Alfarero",
+          "url": "https://open.spotify.com/artist/5IONMXTbTpZKzkiepXoohq"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378643,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/6AuXMlUEUFOB1ntvnq4m1M"
     },
     {
       "album": {
@@ -1293,7 +1735,7 @@
     {
       "album": {
         "name": "Puedes Morar Aqu\u00ed",
-        "url": "https://open.spotify.com/album/08pTUkycPJwLFuDNtExfF2"
+        "url": "https://open.spotify.com/album/0Y5Sc8ylaXIds6WKskedqQ"
       },
       "artists": [
         {
@@ -1308,6 +1750,28 @@
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 550521,
+      "name": "Puedes Morar Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2ARtgeBMyfaIMYG7svfKQf"
+    },
+    {
+      "album": {
+        "name": "Puedes Morar Aqu\u00ed",
+        "url": "https://open.spotify.com/album/08pTUkycPJwLFuDNtExfF2"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
+        {
+          "name": "David Lugo",
+          "url": "https://open.spotify.com/artist/0OzUa2KiynKiryhf1cSgvS"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 550522,
       "name": "Puedes Morar Aqu\u00ed",
       "url": "https://open.spotify.com/track/4pHn1DukkLDOQfLbObAx4h"
@@ -1365,10 +1829,32 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 430160,
       "name": "Quiebro Mi Vaso",
       "url": "https://open.spotify.com/track/5avK5PzULHpdcxtkJje9JR"
+    },
+    {
+      "album": {
+        "name": "Quiebro Mi Vaso",
+        "url": "https://open.spotify.com/album/6lCByyE1C9W5jUzke8Nwte"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Aquino",
+          "url": "https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430160,
+      "name": "Quiebro Mi Vaso",
+      "url": "https://open.spotify.com/track/7iYb9oTMZ97gyY4gAYNpnC"
     },
     {
       "album": {
@@ -1391,10 +1877,54 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 366081,
       "name": "Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/1tDpk10hfq6cj6Qxixzni1"
+    },
+    {
+      "album": {
+        "name": "Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/3fRvGnuJ0QxJGYYmXgCn15"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        },
+        {
+          "name": "Any Puello",
+          "url": "https://open.spotify.com/artist/2U29Wo3uVE9gKvr8fg4gJU"
+        },
+        {
+          "name": "Camino a Casa",
+          "url": "https://open.spotify.com/artist/6Q5vcfrBhZ1PEdEvqykKEC"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366081,
+      "name": "Quiero m\u00e1s",
+      "url": "https://open.spotify.com/track/77v1o59NzTsfmRpnfAkuf6"
+    },
+    {
+      "album": {
+        "name": "La Mejor Parte",
+        "url": "https://open.spotify.com/album/6LWcpiZYaTMYuAThn8pHQe"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Recu\u00e9rdame",
+      "url": "https://open.spotify.com/track/0HLeUMjLyJBOjnx9KnNB3H"
     },
     {
       "album": {
@@ -1409,7 +1939,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210000,
       "name": "Recu\u00e9rdame",
       "url": "https://open.spotify.com/track/1EUGneZLImNRBHtTZyaLuK"
@@ -1533,10 +2063,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219733,
       "name": "Solo Tu",
       "url": "https://open.spotify.com/track/2FpjyN25ntw5wRI0HHPTHs"
+    },
+    {
+      "album": {
+        "name": "Solo Tu...Lo Unico Que Quiero",
+        "url": "https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/6yxDTsYge75Eka9yeXnHuN"
     },
     {
       "album": {
@@ -1679,10 +2227,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253120,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/27hItAnfm0HFRJ4kgO5Ylm"
+    },
+    {
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/0sTuOBxrOIr47vhu91xj3g"
+      },
+      "artists": [
+        {
+          "name": "Harold y Elena",
+          "url": "https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253120,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/6m2dA0ahaR33Pq2lcLrzzU"
     },
     {
       "album": {
@@ -1697,10 +2263,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273031,
       "name": "T\u00fa Dices",
       "url": "https://open.spotify.com/track/13G9SNrXgY1ulXbtfIc9YU"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Dices / Rescata",
+        "url": "https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273031,
+      "name": "T\u00fa Dices",
+      "url": "https://open.spotify.com/track/54QrUOoUEddh6h0ITdSqGu"
     },
     {
       "album": {
@@ -1773,6 +2357,10 @@
         {
           "name": "Hillsong UNITED",
           "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
       "date_added": "2021-07-23",
@@ -1781,6 +2369,24 @@
       "duration_ms": 415063,
       "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
       "url": "https://open.spotify.com/track/4I42yC85pQAyXWDbpo8d1N"
+    },
+    {
+      "album": {
+        "name": "No Puedo Callar",
+        "url": "https://open.spotify.com/album/2ebN5IUSFeey8NJ2MQACla"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271506,
+      "name": "\u00c9l Es Vida",
+      "url": "https://open.spotify.com/track/2VmzoU0QqN8jLRbdSkxvao"
     },
     {
       "album": {
@@ -1795,7 +2401,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271508,
       "name": "\u00c9l Es Vida",
       "url": "https://open.spotify.com/track/4gLSx7FkxOPvgk5iPs9L1f"

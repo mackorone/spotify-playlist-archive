@@ -818,6 +818,24 @@
     },
     {
       "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5ywCFs1YQJIlDkyYVY6Rsy"
+      },
+      "artists": [
+        {
+          "name": "Coby Sey",
+          "url": "https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360093,
+      "name": "Eve (Anwummer\u025b)",
+      "url": "https://open.spotify.com/track/6iKSnT1iFPYaTcTDZhAPqP"
+    },
+    {
+      "album": {
         "name": "Faded Afternoon Heat",
         "url": "https://open.spotify.com/album/485dcPfgaNP39dSSnD8BVx"
       },
@@ -883,7 +901,7 @@
       ],
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 391128,
       "name": "Farben Dub",
       "url": "https://open.spotify.com/track/6v1mluUChk5zyPudNNoexf"
@@ -999,6 +1017,24 @@
     {
       "album": {
         "name": "Lamentations",
+        "url": "https://open.spotify.com/album/58pds9mGrPGQo7jX55wGi8"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250426,
+      "name": "For Whom the Bell Tolls",
+      "url": "https://open.spotify.com/track/0BS2AWnSFs1K9UM4KAyYIZ"
+    },
+    {
+      "album": {
+        "name": "Lamentations",
         "url": "https://open.spotify.com/album/0xCNuCZnrVp7NnX6xku4mj"
       },
       "artists": [
@@ -1009,7 +1045,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250426,
       "name": "For Whom the Bell Tolls",
       "url": "https://open.spotify.com/track/6fO9mQPYKWZmhgvoMnZcLE"
@@ -1049,7 +1085,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 212680,
       "name": "Golden Cow",
       "url": "https://open.spotify.com/track/60gl0k7Ev2Squ7TXNAItGy"
@@ -1216,6 +1252,24 @@
     },
     {
       "album": {
+        "name": "Environ Me",
+        "url": "https://open.spotify.com/album/0FeuVnMBYXbo4728HHrQo3"
+      },
+      "artists": [
+        {
+          "name": "Manu Delago",
+          "url": "https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232063,
+      "name": "Interference",
+      "url": "https://open.spotify.com/track/3I40DGI9PpeG99ZDRkiN6K"
+    },
+    {
+      "album": {
         "name": "Interference",
         "url": "https://open.spotify.com/album/2zpv9JPZkZkbKJuOXA3jWE"
       },
@@ -1227,7 +1281,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232063,
       "name": "Interference",
       "url": "https://open.spotify.com/track/7dztFyCwg4GZOpHCgRrhhi"
@@ -1371,7 +1425,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 253951,
       "name": "Kunanyi",
       "url": "https://open.spotify.com/track/5WBXcxVorbFCirsQ3Xf9hd"
@@ -1508,6 +1562,28 @@
     },
     {
       "album": {
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171342,
+      "name": "Log In Your Fire",
+      "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
+    },
+    {
+      "album": {
         "name": "Log In Your Fire",
         "url": "https://open.spotify.com/album/5U5jYij147XIbaDyRMU0gq"
       },
@@ -1523,7 +1599,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/6yliSAfFs2LzlfHAMLX7ds"
@@ -1545,7 +1621,7 @@
       ],
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
@@ -1693,7 +1769,7 @@
       ],
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 320000,
       "name": "Melting",
       "url": "https://open.spotify.com/track/0EF3gHprK65KddPflKqHD4"
@@ -1758,6 +1834,28 @@
     },
     {
       "album": {
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Moon In Your Eye",
+      "url": "https://open.spotify.com/track/2H5hsIskRNVnO5IIbOfcko"
+    },
+    {
+      "album": {
         "name": "I Could Be Your Dog (Prequel)",
         "url": "https://open.spotify.com/album/010kVtJGaVvJPmMyAHscKD"
       },
@@ -1773,7 +1871,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134000,
       "name": "Moon In Your Eye",
       "url": "https://open.spotify.com/track/5Cr8cUS0BRKfATARapnDhW"
@@ -1853,10 +1951,36 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 530894,
       "name": "Movement 6",
       "url": "https://open.spotify.com/track/536sI5qdTlSeH75OdTlMmm"
+    },
+    {
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        },
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530894,
+      "name": "Movement 6",
+      "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
     },
     {
       "album": {
@@ -1925,7 +2049,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 244000,
       "name": "Needed Love",
       "url": "https://open.spotify.com/track/77ifjsYV4Y452xu6wSawLU"
@@ -2107,10 +2231,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 390080,
       "name": "OUR SIDE HAS TO WIN (for D.H.)",
       "url": "https://open.spotify.com/track/5RH06Chc3TES0rnnlSsecj"
+    },
+    {
+      "album": {
+        "name": "G_d's Pee AT STATE'S END!",
+        "url": "https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0"
+      },
+      "artists": [
+        {
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390080,
+      "name": "OUR SIDE HAS TO WIN (for D.H.)",
+      "url": "https://open.spotify.com/track/6AWgFM6ORRfr9bphIW25bB"
     },
     {
       "album": {
@@ -2125,7 +2267,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 242286,
       "name": "Outside the City of God (Augustine wept)",
       "url": "https://open.spotify.com/track/3V6whOlDWNecNbvxi31HaT"
@@ -2215,10 +2357,46 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246853,
       "name": "Pulses of Information",
       "url": "https://open.spotify.com/track/1c6usMjMA3cMG1tNM67g2C"
+    },
+    {
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/091dnUcBWWE8YXH340kf9Z"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246853,
+      "name": "Pulses of Information",
+      "url": "https://open.spotify.com/track/2hWJBOBNI9BJFvwT8Nb4x2"
+    },
+    {
+      "album": {
+        "name": "React",
+        "url": "https://open.spotify.com/album/3ODoCkbYLLUL5S3HLg1mWl"
+      },
+      "artists": [
+        {
+          "name": "Body Corp",
+          "url": "https://open.spotify.com/artist/47kJiM0ksgZti3nuMq1opC"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "React",
+      "url": "https://open.spotify.com/track/6IJgnVyUdwRlRg4PU4VGRa"
     },
     {
       "album": {
@@ -2514,6 +2692,32 @@
     },
     {
       "album": {
+        "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 (Flora Wong Remix)",
+        "url": "https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov"
+      },
+      "artists": [
+        {
+          "name": "Mindy Meng Wang \u738b\u840c",
+          "url": "https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0"
+        },
+        {
+          "name": "Tim Shiel",
+          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
+        },
+        {
+          "name": "Flora Wong",
+          "url": "https://open.spotify.com/artist/7pu8jBlo7t1C3wAa9XWEIu"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 - Flora Wong Remix",
+      "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
+    },
+    {
+      "album": {
         "name": "Slowdive",
         "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
       },
@@ -2763,7 +2967,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 363492,
       "name": "TDYRYF",
       "url": "https://open.spotify.com/track/5sS8rjvJrmTVgY9Gc8VS9u"
@@ -2789,7 +2993,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 193846,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/71yhzjRKhrAlsXz9xX4OlN"
@@ -2948,6 +3152,24 @@
     },
     {
       "album": {
+        "name": "Together in Static",
+        "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155375,
+      "name": "Together in Static",
+      "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
+    },
+    {
+      "album": {
         "name": "Together In Static",
         "url": "https://open.spotify.com/album/2UEzaEym36kNtiNDi7b1mR"
       },
@@ -2959,7 +3181,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155375,
       "name": "Together In Static",
       "url": "https://open.spotify.com/track/7xDIbH1rKZQKp0Wr6l4NVd"
@@ -2984,6 +3206,28 @@
     },
     {
       "album": {
+        "name": "Scissor Kick",
+        "url": "https://open.spotify.com/album/7likK32KV3yK8grCMicTWQ"
+      },
+      "artists": [
+        {
+          "name": "Third Space",
+          "url": "https://open.spotify.com/artist/4lrrni4g5Ll7Yltviu2JRH"
+        },
+        {
+          "name": "Abby Sundborn",
+          "url": "https://open.spotify.com/artist/0K3hHXZ9wOvNVJK1Cdr3K9"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380873,
+      "name": "Tunnelling",
+      "url": "https://open.spotify.com/track/5VdRIk3W48UZoSvKJuuHDF"
+    },
+    {
+      "album": {
         "name": "The Invention of the Human",
         "url": "https://open.spotify.com/album/3XFZEh0vqbAMncI4ewSzJU"
       },
@@ -2999,6 +3243,24 @@
       "duration_ms": 292526,
       "name": "Two Trains Came Through the Station at Once and It Felt Like a Hurricane",
       "url": "https://open.spotify.com/track/5rnuSdJ578IxfodIdYsvUB"
+    },
+    {
+      "album": {
+        "name": "Let's Turn It Into Sound",
+        "url": "https://open.spotify.com/album/6OejvHOkJc24k5Psvw2kS3"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325173,
+      "name": "Unbraid: The Merge",
+      "url": "https://open.spotify.com/track/0Gxs4JOsBbkTBtyYx89KpA"
     },
     {
       "album": {
@@ -3143,7 +3405,7 @@
       ],
       "date_added": "2021-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 252003,
       "name": "When I Look Into Your Eyes",
       "url": "https://open.spotify.com/track/0uWA1iX0tEOOSfkZs7XYP5"
@@ -3201,6 +3463,24 @@
       "duration_ms": 224145,
       "name": "Wintergreen",
       "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
+    },
+    {
+      "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 902442,
+      "name": "World of Squares",
+      "url": "https://open.spotify.com/track/0AvI47DC7HfX9JVWRTREuf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXe1cC3XInKct"

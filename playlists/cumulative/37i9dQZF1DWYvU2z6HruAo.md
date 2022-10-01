@@ -4,7 +4,7 @@
 
 > The Top Hot Country Tracks for 2020 in one playlist\. Cover: Luke Combs
 
-62 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/1jpYuIlNxhVpWG0hqCnDI3)
+64 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/1jpYuIlNxhVpWG0hqCnDI3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,10 +43,12 @@
 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 | 2020-12-02 |  |
 | [I Hope You're Happy Now](https://open.spotify.com/track/2HWfXtWFeZpejgYSB3WZnV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Hey World](https://open.spotify.com/album/7ef9XoJzqPcymXqYwi5WKw) | 3:19 | 2020-12-02 |  |
 | [I Love My Country](https://open.spotify.com/track/5blHL2xSCGv00fr1DGuvEf) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [6\-Pack](https://open.spotify.com/album/3C5JkDI9fDqS9BZd0lNsma) | 3:04 | 2020-12-02 |  |
-| [Just the Way](https://open.spotify.com/track/5PAvFGse5jjDH9ke8Mae7D) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Just the Way](https://open.spotify.com/album/3BwXeSOrCEZNWEPqxxh7yE) | 3:13 | 2020-12-02 |  |
+| [Just the Way](https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:13 | 2020-12-02 |  |
+| [Just the Way](https://open.spotify.com/track/5PAvFGse5jjDH9ke8Mae7D) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Just the Way](https://open.spotify.com/album/3BwXeSOrCEZNWEPqxxh7yE) | 3:13 | 2020-12-02 | 2022-07-29 |
 | [Kinfolks](https://open.spotify.com/track/53F1MVa1BWUkTBbVqgVAfN) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Kinfolks](https://open.spotify.com/album/625MA4PZ4GUROYHFK9kl31) | 3:01 | 2020-12-02 |  |
 | [Like I Knew You Would](https://open.spotify.com/track/0p16vTKfS8UpdZJqfaKMCB) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Payton Smith](https://open.spotify.com/album/2lYVYh6DuhtTikIZKM1zGs) | 3:02 | 2020-12-02 |  |
-| [Lonely If You Are](https://open.spotify.com/track/5TI10v8sy9VPp5YhVRVK1f) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [The Album, Pt\. I](https://open.spotify.com/album/4pQzhbwWk71i4OYLyqVSOo) | 2:56 | 2020-12-02 |  |
+| [Lonely If You Are](https://open.spotify.com/track/1iyE0UwRtLUBf9OqLfFGSp) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [The Album](https://open.spotify.com/album/49DERKtzOTKNT7T0O4l6m4) | 2:56 | 2020-12-02 |  |
+| [Lonely If You Are](https://open.spotify.com/track/5TI10v8sy9VPp5YhVRVK1f) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [The Album, Pt\. I](https://open.spotify.com/album/4pQzhbwWk71i4OYLyqVSOo) | 2:56 | 2020-12-02 | 2022-07-29 |
 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 | 2020-12-02 |  |
 | [Lovin' On You](https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:14 | 2020-12-02 |  |
 | [Momma’s House](https://open.spotify.com/track/51FVpJr3WL7vvdfCa7j2jr) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Tullahoma](https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5) | 3:40 | 2020-12-02 |  |

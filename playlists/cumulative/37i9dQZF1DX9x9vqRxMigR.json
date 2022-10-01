@@ -27,7 +27,7 @@
     {
       "album": {
         "name": "2020 Vision",
-        "url": "https://open.spotify.com/album/0Y3eVuwwMZVxU6LsZmm307"
+        "url": "https://open.spotify.com/album/219u46oAII4JcARqcsswFm"
       },
       "artists": [
         {
@@ -38,6 +38,24 @@
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 285276,
+      "name": "2020 Vision",
+      "url": "https://open.spotify.com/track/29Vi33QUaQ9yZu5HykilYk"
+    },
+    {
+      "album": {
+        "name": "2020 Vision",
+        "url": "https://open.spotify.com/album/0Y3eVuwwMZVxU6LsZmm307"
+      },
+      "artists": [
+        {
+          "name": "Danny Schmidt",
+          "url": "https://open.spotify.com/artist/5th2qoAWV7PiSo8r9zlIRD"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 285276,
       "name": "2020 Vision",
       "url": "https://open.spotify.com/track/6RLxchD1PMUeM4p8x9tgU7"
@@ -119,7 +137,7 @@
     {
       "album": {
         "name": "Here We Go 1, 2, 3",
-        "url": "https://open.spotify.com/album/2PsAZpzIuj8Q35cFWJ4XtW"
+        "url": "https://open.spotify.com/album/4Qi8NNjsdtDUIQYY2xzCKS"
       },
       "artists": [
         {
@@ -130,6 +148,24 @@
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 300426,
+      "name": "A Song for Rose (Will You Remember Me)",
+      "url": "https://open.spotify.com/track/0UdTAY5ogRVxuten1vcBBs"
+    },
+    {
+      "album": {
+        "name": "Here We Go 1, 2, 3",
+        "url": "https://open.spotify.com/album/2PsAZpzIuj8Q35cFWJ4XtW"
+      },
+      "artists": [
+        {
+          "name": "Heidi Talbot",
+          "url": "https://open.spotify.com/artist/3aQzmN6t6h7hpWAjN1L0pJ"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 301426,
       "name": "A Song for Rose (Will You Remember Me)",
       "url": "https://open.spotify.com/track/69RT8IHgS8LZoMjSp80s7w"
@@ -393,10 +429,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226890,
       "name": "As The River Flows",
       "url": "https://open.spotify.com/track/45EPYzt4RjUK1sCBytbKLd"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6PKfvEiC1FXhm0ylnBRsya"
+      },
+      "artists": [
+        {
+          "name": "Wallis Bird",
+          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226890,
+      "name": "As the River Flows",
+      "url": "https://open.spotify.com/track/5ulmigTF4psOkLhwToBkAK"
     },
     {
       "album": {
@@ -1437,10 +1491,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169936,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/1GFpX3PE5atI0ZWrS2GBPe"
+    },
+    {
+      "album": {
+        "name": "Thankfully Distracted",
+        "url": "https://open.spotify.com/album/4hnK0PL8CRX0aWpABDp5NG"
+      },
+      "artists": [
+        {
+          "name": "L\u00d3N",
+          "url": "https://open.spotify.com/artist/2vBlRBcTmCYA9wwF6maE3i"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169936,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/6k0GwkSMQfvjwOOpyD7joi"
     },
     {
       "album": {
@@ -1527,10 +1599,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 277633,
       "name": "Eurydice",
       "url": "https://open.spotify.com/track/2DlaXlHWzpleZVbjxHFriJ"
+    },
+    {
+      "album": {
+        "name": "The Eternal Rocks Beneath",
+        "url": "https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS"
+      },
+      "artists": [
+        {
+          "name": "Katherine Priddy",
+          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277633,
+      "name": "Eurydice",
+      "url": "https://open.spotify.com/track/7JiIfHsVGiC4nVyaOoVEoS"
     },
     {
       "album": {
@@ -2175,10 +2265,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 236579,
       "name": "Hey, Runner!",
       "url": "https://open.spotify.com/track/7kPZ7eBIrncOUBOqQaRudz"
+    },
+    {
+      "album": {
+        "name": "Finch In The Pantry",
+        "url": "https://open.spotify.com/album/5GXqDQAqbb4sJ63OGZAaSh"
+      },
+      "artists": [
+        {
+          "name": "The Arcadian Wild",
+          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238316,
+      "name": "Hey, Runner!",
+      "url": "https://open.spotify.com/track/3AWXNZZoSkvyJYAo2XxJxO"
     },
     {
       "album": {
@@ -4365,10 +4473,40 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204692,
       "name": "Samba do Boncy",
       "url": "https://open.spotify.com/track/7vr9QeelVrsCLk3XmnDUzU"
+    },
+    {
+      "album": {
+        "name": "Samba do Boncy",
+        "url": "https://open.spotify.com/album/2eAOTb6xgbkI5ENfuRiYKg"
+      },
+      "artists": [
+        {
+          "name": "Diogo Ramos",
+          "url": "https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        },
+        {
+          "name": "B\u00efa",
+          "url": "https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx"
+        },
+        {
+          "name": "Boog\u00e1t",
+          "url": "https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204692,
+      "name": "Samba do Boncy",
+      "url": "https://open.spotify.com/track/5kHlvrvbP8aiLvijTSYN0y"
     },
     {
       "album": {
@@ -4401,10 +4539,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224973,
       "name": "Sarah's Whistling Tune",
       "url": "https://open.spotify.com/track/0IKSkuZRBoCb50BcGpOl7d"
+    },
+    {
+      "album": {
+        "name": "Villages",
+        "url": "https://open.spotify.com/album/4AXOsIzxOYBwJAEreB1o2N"
+      },
+      "artists": [
+        {
+          "name": "Villages",
+          "url": "https://open.spotify.com/artist/5WzMeIF2uDfV0dVcSmIVYB"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224973,
+      "name": "Sarah's Whistling Tune",
+      "url": "https://open.spotify.com/track/1WT5MWOQ6Uu8eSFIETzecK"
     },
     {
       "album": {
@@ -4481,7 +4637,7 @@
     {
       "album": {
         "name": "Bywater Call",
-        "url": "https://open.spotify.com/album/4RshexUVMhQgKZFuLi9GMG"
+        "url": "https://open.spotify.com/album/0hEimpHPAWWfWs4v55F0Kz"
       },
       "artists": [
         {
@@ -4492,6 +4648,24 @@
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 296706,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/3y2ThkLdQlID0gFvopwnkm"
+    },
+    {
+      "album": {
+        "name": "Bywater Call",
+        "url": "https://open.spotify.com/album/4RshexUVMhQgKZFuLi9GMG"
+      },
+      "artists": [
+        {
+          "name": "Bywater Call",
+          "url": "https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 296706,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/6lI6ygpmnhxiVWc2pqsYUq"
@@ -4843,10 +5017,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274666,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1SshcXIch75TJA0nzkjih1"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/0xOrJZIcjEmuLFygeCY8Kv"
+      },
+      "artists": [
+        {
+          "name": "Tara MacLean",
+          "url": "https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274666,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/1o4OnhyEpocW1O69xDybmM"
     },
     {
       "album": {
@@ -5564,6 +5756,24 @@
     },
     {
       "album": {
+        "name": "Walk Me to the River",
+        "url": "https://open.spotify.com/album/1Iba00W7fjl158welETZNf"
+      },
+      "artists": [
+        {
+          "name": "Misty River",
+          "url": "https://open.spotify.com/artist/4lXGbu3TUiwos5jtggGtDw"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212778,
+      "name": "Walk Me to the River",
+      "url": "https://open.spotify.com/track/0b5qt9fdr0XsbfbPvgV1CL"
+    },
+    {
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/1dHBv9pVw0X2EkOJS7yCe1"
       },
@@ -5575,7 +5785,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-06",
       "duration_ms": 212778,
       "name": "Walk Me to the River",
       "url": "https://open.spotify.com/track/4IDBFTkZ15eK6LGMs7W1oj"

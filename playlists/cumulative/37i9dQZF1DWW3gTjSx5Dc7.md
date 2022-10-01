@@ -4,7 +4,7 @@
 
 > This is the essential Axwell Λ Ingrosso.
 
-28 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/1qlQS0dicA7ZrDFellq1LG)
+29 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/1qlQS0dicA7ZrDFellq1LG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Barricade \- Bonus Track](https://open.spotify.com/track/2bjweVDsMtSvyDFpQ6JnBa) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:54 | 2021-09-16 |  |
 | [Body Crash \- Radio Edit](https://open.spotify.com/track/1EZlbnF29d4kFAT0EC0bTj) | [Buy Now](https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ) | [Body Crash \-Taken from Superstar Recordings](https://open.spotify.com/album/04hnQqwqi6A3fXcJYsbqO7) | 3:46 | 2021-09-16 | 2022-07-13 |
 | [Can't Hold Us Down](https://open.spotify.com/track/4l6CWRDyGu7mw3UEXXUtls) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 6:18 | 2021-09-16 |  |
-| [Dancing Alone](https://open.spotify.com/track/2sWiygeCvOSSMjS0pwR80M) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [RØMANS](https://open.spotify.com/artist/4b8dLpJgJpNQYzu4AtXLt3) | [Dancing Alone](https://open.spotify.com/album/78cu7nvNAX0aM40ahlLUWr) | 4:13 | 2021-09-16 |  |
+| [Dancing Alone](https://open.spotify.com/track/2sWiygeCvOSSMjS0pwR80M) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [RØMANS](https://open.spotify.com/artist/4b8dLpJgJpNQYzu4AtXLt3) | [Dancing Alone](https://open.spotify.com/album/78cu7nvNAX0aM40ahlLUWr) | 4:13 | 2021-09-16 | 2022-07-29 |
+| [Dancing Alone](https://open.spotify.com/track/5xzzxWj8a1YBbNZhNLqWuQ) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [RØMANS](https://open.spotify.com/artist/4b8dLpJgJpNQYzu4AtXLt3) | [Dancing Alone](https://open.spotify.com/album/3Eji57H17vbXGlU0geDquA) | 4:13 | 2022-07-12 |  |
 | [Dark River \- Bonus Track](https://open.spotify.com/track/1EYFgYzq3fJGDdEtVMsATh) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:12 | 2021-09-16 |  |
 | [Dawn](https://open.spotify.com/track/3g66v3lFNy6cLk22PgJOUS) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 5:32 | 2021-09-16 |  |
 | [Dream Bigger](https://open.spotify.com/track/76BFt6hGCrZhGHrGh0N3uC) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:16 | 2021-09-16 |  |

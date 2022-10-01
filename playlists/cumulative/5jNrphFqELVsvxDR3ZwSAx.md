@@ -4,7 +4,7 @@
 
 > A rock playlist filled with the biggest classic rock anthems from The Beatles, Queen and more!
 
-88 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/2GIyLBqiwY9OvCNmdmNGIL)
+89 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/2GIyLBqiwY9OvCNmdmNGIL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Lithium \- Live In Melbourne, Australia For Triple J/1992](https://open.spotify.com/track/6g6QsvjCNdc9jCTKC9mlAr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Lithium / Breed \(Live\)](https://open.spotify.com/album/431UlB4LLO6ctKniV74i5g) | 4:47 | 2022-05-18 |  |
 | [Livin' On A Prayer](https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol) | 4:09 | 2022-05-18 |  |
 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 | 2022-05-18 |  |
+| [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-07-22 |  |
 | [Midnight Rider](https://open.spotify.com/track/6kNiAIx1tc28Zi16dNBJIL) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South \(Remastered\)](https://open.spotify.com/album/3AIFhrBogAMWI1tylthUFP) | 3:00 | 2022-05-18 |  |
 | [Mind Games \- Ultimate Mix](https://open.spotify.com/track/4LgPHW98WGoir4NVH4ewLF) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Mind Games \(Ultimate Mix\)](https://open.spotify.com/album/0Z9XDrFoDJqb2Mn8Ua3dFq) | 4:11 | 2022-05-18 |  |
 | [Moonlight Drive](https://open.spotify.com/track/06g3As8xI2VvPh9gbZBLFU) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Moonlight Drive](https://open.spotify.com/album/31adQAH0S6mZlItueX7x37) | 3:00 | 2022-06-10 |  |
@@ -65,7 +66,7 @@
 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Nothing But A Good Time](https://open.spotify.com/album/41zwJpZ2Xw6o5P0OHHGE5t) | 3:43 | 2022-05-18 |  |
 | [O\-O\-H Child](https://open.spotify.com/track/0ZwoZncprab0aClRNs0axg) | [Paul Stanley's Soul Station](https://open.spotify.com/artist/3SSu1tFfLuAZgAvEPOyay6) | [O\-O\-H Child](https://open.spotify.com/album/2wNtFGlGGFLou0pYMlSn5P) | 3:40 | 2022-05-18 |  |
 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 | 2022-05-18 |  |
-| [One Way Or Another \- Remastered](https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:35 | 2022-05-18 |  |
+| [One Way Or Another \- Remastered/2001](https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:35 | 2022-05-18 |  |
 | [Paradise City](https://open.spotify.com/track/7aksrY4ST4kt90L0ZxqZvB) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 6:45 | 2022-05-18 |  |
 | [Persecution Smith](https://open.spotify.com/track/3tBOjGCrDQDViR8vPbH4nF) | [Bob Seger & The Last Heard](https://open.spotify.com/artist/04P534zVbSArB5tYzLbqEk) | [Persecution Smith](https://open.spotify.com/album/1LawJ3DvqYgBkuWv9tDTHw) | 3:06 | 2022-05-18 |  |
 | [Pictures Of Lily \- Pete Townshend Demo / New 2018 Mix](https://open.spotify.com/track/15sA2sh9yeG8g0oQLxzRl0) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/4EK6diBF9WoC1N5cZpg3bw) | 3:28 | 2022-05-18 |  |

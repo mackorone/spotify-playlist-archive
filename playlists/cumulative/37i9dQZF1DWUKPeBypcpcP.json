@@ -512,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Natural Sound Makers",
+        "url": "https://open.spotify.com/album/6tZho0aym2p3qnh7JOYVih"
+      },
+      "artists": [
+        {
+          "name": "Natural Sound Makers",
+          "url": "https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150726,
+      "name": "Dark Forest",
+      "url": "https://open.spotify.com/track/1n1qvg30KAOuNxfgR8jhSZ"
+    },
+    {
+      "album": {
         "name": "Forest By Night",
         "url": "https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9"
       },
@@ -523,7 +541,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-31",
       "duration_ms": 150726,
       "name": "Dark Forest",
       "url": "https://open.spotify.com/track/2NMA93HoL1DkxNLbnyOOqA"

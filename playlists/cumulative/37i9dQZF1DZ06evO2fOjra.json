@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 241146,
       "name": "Black Is the Soul",
       "url": "https://open.spotify.com/track/1wYXIhJXqlIAGS6sbzpTL6"
@@ -528,6 +528,24 @@
     },
     {
       "album": {
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 278925,
+      "name": "Idiosyncrasy",
+      "url": "https://open.spotify.com/track/324feiafM58soZXlBMVT1u"
+    },
+    {
+      "album": {
         "name": "The Serenity of Suffering",
         "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
       },
@@ -629,7 +647,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-29",
       "duration_ms": 230013,
       "name": "Lost In The Grandeur",
       "url": "https://open.spotify.com/track/4frc8rYiPP7oHmxEMh3LHR"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-20",
       "duration_ms": 208053,
       "name": "Start The Healing",
       "url": "https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-15",
       "duration_ms": 220054,
       "name": "The Darkness is Revealing",
       "url": "https://open.spotify.com/track/3PpoBKcbnoGQudHGkwJA4C"
@@ -914,6 +932,28 @@
     },
     {
       "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Chino Moreno",
+          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240546,
+      "name": "Wicked (feat. Chino Moreno)",
+      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
+    },
+    {
+      "album": {
         "name": "Word Up! (The Remixes)",
         "url": "https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF"
       },
@@ -947,6 +987,24 @@
       "duration_ms": 244089,
       "name": "Worst Is On It's Way - Requiem Mass",
       "url": "https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 243560,
+      "name": "Worst Is On Its Way",
+      "url": "https://open.spotify.com/track/4mvAZT5CKaKZjvNGmjoHRA"
     },
     {
       "album": {

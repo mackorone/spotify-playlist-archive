@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Demi Bagby.
 
-37 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/1CfVo623JNzPTPDIRxZ1qv)
+38 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/1CfVo623JNzPTPDIRxZ1qv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 | 2022-01-12 |  |
 | [Electricity \(with Dua Lipa\)](https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Electricity \(with Dua Lipa\)](https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7) | 3:58 | 2022-01-12 |  |
 | [False Alarm](https://open.spotify.com/track/23xqdYb5ViDUx0BOL2mGq6) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [One in a Million](https://open.spotify.com/album/5FAgkqm09atYktUn6owa2q) | 3:44 | 2022-01-12 |  |
-| [Feels Right](https://open.spotify.com/track/4XQNFi2i4myEzqKDnnUVrv) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Yung Fusion](https://open.spotify.com/artist/0daSHuKxoXYl50HIQ9aKzt) | [NCS: The Best of 2016](https://open.spotify.com/album/1r07Izb8tOjwqYP6iTICH7) | 3:19 | 2022-01-12 |  |
+| [Feels Right](https://open.spotify.com/track/4XQNFi2i4myEzqKDnnUVrv) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Yung Fusion](https://open.spotify.com/artist/0daSHuKxoXYl50HIQ9aKzt) | [NCS: The Best of 2016](https://open.spotify.com/album/1r07Izb8tOjwqYP6iTICH7) | 3:19 | 2022-01-12 | 2022-07-29 |
+| [Feels Right](https://open.spotify.com/track/0ntQOeCxfO9wuGJXFv5D6d) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [Yung Fusion](https://open.spotify.com/artist/0daSHuKxoXYl50HIQ9aKzt) | [Feels Right \(Radio Edit\)](https://open.spotify.com/album/27Mt9d7Kd3EhQpK9MxO0qf) | 3:19 | 2022-01-12 |  |
 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 | 2022-01-12 |  |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-01-12 |  |
 | [Heading Home](https://open.spotify.com/track/4iZ3YEN89TU8Uwan4NwkB8) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [Heading Home](https://open.spotify.com/album/63bTrVZUP6nrisVDZbkzSc) | 4:31 | 2022-01-12 |  |

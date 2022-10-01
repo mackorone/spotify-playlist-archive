@@ -1,28 +1,496 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 4865,
+  "num_followers": 7206,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE5MzQzMiwwMDAwMDAwMGQ1ODdiOGU4ZjY3MmJiMDQ3ODdjNzRmOTljYTI3ZmYz",
+  "snapshot_id": "MTY2NDUwNjAyNSwwMDAwMDAwMDVjMDQ0MWZjN2FjZDljZjMwNGNiOTdjNDk0NjQzNWQx",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Duets | Golden Gate Bridge",
-        "url": "https://open.spotify.com/album/177n1B4zIvOyy0UUBSJajw"
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
       },
       "artists": [
         {
-          "name": "Nate Mercereau",
-          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 413500,
-      "name": "Duet 1",
-      "url": "https://open.spotify.com/track/4tJKvqxSriGHKPS8QpqBjs"
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "The Return of The Durutti Column",
+        "url": "https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW"
+      },
+      "artists": [
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Sketch for Summer",
+      "url": "https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Falaise",
+      "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 410986,
+      "name": "Melancholia II",
+      "url": "https://open.spotify.com/track/0ALo5LHdF3hJiD8WFN770B"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Tobiume",
+      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Substrata + Man with a Movie Camera",
+        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "Poa Alpina",
+      "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Music for Nine Post Cards",
+        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 354693,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 376956,
+      "name": "Starwood Choker",
+      "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Between No Things",
+        "url": "https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj"
+      },
+      "artists": [
+        {
+          "name": "Suso Saiz",
+          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+        },
+        {
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+        }
+      ],
+      "duration_ms": 235717,
+      "name": "On Plateau",
+      "url": "https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU"
+    },
+    {
+      "added_at": "2022-09-21 02:21:27",
+      "album": {
+        "name": "Waypoints",
+        "url": "https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR"
+      },
+      "artists": [
+        {
+          "name": "Hans Berg",
+          "url": "https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk"
+        }
+      ],
+      "duration_ms": 354645,
+      "name": "The Clearing Pt. 2",
+      "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Sea Island",
+        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 405573,
+      "name": "Angle of List",
+      "url": "https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Because of a Flower",
+        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 421463,
+      "name": "Suite Pour L'invisible",
+      "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Tower of Silence",
+        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
+      },
+      "artists": [
+        {
+          "name": "Roberto Musci",
+          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "Claudia, Wilhelm R And Me",
+      "url": "https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY"
+    },
+    {
+      "added_at": "2022-05-18 00:27:56",
+      "album": {
+        "name": "Machinarium Soundtrack",
+        "url": "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1\u0161 Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
+        }
+      ],
+      "duration_ms": 304186,
+      "name": "By the Wall",
+      "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
+    },
+    {
+      "added_at": "2022-09-15 13:03:39",
+      "album": {
+        "name": "Diaspora Urkontinent",
+        "url": "https://open.spotify.com/album/4u3piRvbk4dns3RbMla1a2"
+      },
+      "artists": [
+        {
+          "name": "Barry Walker Jr.",
+          "url": "https://open.spotify.com/artist/1dCLEg0dKASY0PSsOOrA3Z"
+        }
+      ],
+      "duration_ms": 148250,
+      "name": "Ediacaran Moonrise",
+      "url": "https://open.spotify.com/track/4zcSOD3J1JJjCW1HnGhGSf"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "The Disintegration Loops (Remastered)",
+        "url": "https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 3815786,
+      "name": "dlp 1.1",
+      "url": "https://open.spotify.com/track/10SeyQmuBIVJmbZYYJs07W"
+    },
+    {
+      "added_at": "2022-09-30 02:47:05",
+      "album": {
+        "name": "DLY",
+        "url": "https://open.spotify.com/album/5C1BwLLRKqfaqQEPcaaf5r"
+      },
+      "artists": [
+        {
+          "name": "Popp",
+          "url": "https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp"
+        }
+      ],
+      "duration_ms": 299861,
+      "name": "DLY",
+      "url": "https://open.spotify.com/track/2YWskv2ppcTSt1FZDKJW85"
+    },
+    {
+      "added_at": "2021-11-25 22:14:03",
+      "album": {
+        "name": "Haut",
+        "url": "https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm"
+      },
+      "artists": [
+        {
+          "name": "Ralph Heidel",
+          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Haut",
+      "url": "https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "The Expanding Universe",
+        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 390720,
+      "name": "The Unquestioned Answer",
+      "url": "https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Forest Trails",
+        "url": "https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 346364,
+      "name": "Forest Trails",
+      "url": "https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4"
+    },
+    {
+      "added_at": "2022-01-14 00:06:38",
+      "album": {
+        "name": "Cabara\u00fa",
+        "url": "https://open.spotify.com/album/4yxOkUTHo8ZBU5LI6Ltmt1"
+      },
+      "artists": [
+        {
+          "name": "Pandit Pam Pam",
+          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
+        }
+      ],
+      "duration_ms": 392107,
+      "name": "Cabara\u00fa",
+      "url": "https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Introspection (Edit)",
+        "url": "https://open.spotify.com/album/3KqeFM8PuKvoOHzVo1oxmZ"
+      },
+      "artists": [
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "duration_ms": 155411,
+      "name": "Introspection (Edit)",
+      "url": "https://open.spotify.com/track/5JVtVJFun3pgNdDlUQlkOm"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI"
+      },
+      "artists": [
+        {
+          "name": "Wilson Tanner",
+          "url": "https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i"
+        }
+      ],
+      "duration_ms": 130986,
+      "name": "My Gull",
+      "url": "https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Kakashi",
+        "url": "https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "duration_ms": 498800,
+      "name": "Umi No Ue Kara",
+      "url": "https://open.spotify.com/track/4Ee8z8ySuxdqTTPI868NtU"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Shortwave Ruins",
+        "url": "https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM"
+      },
+      "artists": [
+        {
+          "name": "Mount Shrine",
+          "url": "https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr"
+        }
+      ],
+      "duration_ms": 434716,
+      "name": "Subtotem",
+      "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Gave in Rest",
+        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 210716,
+      "name": "Gilded",
+      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Fen",
+        "url": "https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk"
+      },
+      "artists": [
+        {
+          "name": "Wac\u0142aw Zimpel",
+          "url": "https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz"
+        }
+      ],
+      "duration_ms": 295500,
+      "name": "Fen",
+      "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Water Memory",
+        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 448133,
+      "name": "Water Memory 1",
+      "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
+    },
+    {
+      "added_at": "2022-01-14 15:17:07",
+      "album": {
+        "name": "San",
+        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 414106,
+      "name": "Spirales",
+      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
+      },
+      "artists": [
+        {
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+        }
+      ],
+      "duration_ms": 230309,
+      "name": "Two Halves Touching",
+      "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
     },
     {
       "added_at": "2022-03-30 02:52:41",
@@ -47,102 +515,98 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+        "name": "Comme \u00e7a",
+        "url": "https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
         }
       ],
-      "duration_ms": 234320,
-      "name": "Falaise",
-      "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
-    },
-    {
-      "added_at": "2022-02-18 05:44:07",
-      "album": {
-        "name": "I Remember You Like the Best Song",
-        "url": "https://open.spotify.com/album/3eWjndQQuRh7iRJpPPqifL"
-      },
-      "artists": [
-        {
-          "name": "Anenon",
-          "url": "https://open.spotify.com/artist/1nDzzoDVAeT9c5PkreI1yI"
-        }
-      ],
-      "duration_ms": 1077812,
-      "name": "I Remember You Like the Best Song",
-      "url": "https://open.spotify.com/track/0NKexfIeqfKHetCuMyuwJ7"
-    },
-    {
-      "added_at": "2022-05-18 00:27:56",
-      "album": {
-        "name": "Machinarium Soundtrack",
-        "url": "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1"
-      },
-      "artists": [
-        {
-          "name": "Tom\u00e1\u0161 Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
-        }
-      ],
-      "duration_ms": 304186,
-      "name": "By the Wall",
-      "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
-    },
-    {
-      "added_at": "2022-04-07 05:02:08",
-      "album": {
-        "name": "Forest Dreams",
-        "url": "https://open.spotify.com/album/1FEt78mhUImIJ7UAVD2CsO"
-      },
-      "artists": [
-        {
-          "name": "Glacier Wave",
-          "url": "https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN"
-        }
-      ],
-      "duration_ms": 222511,
-      "name": "Forest Dreams",
-      "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
+      "duration_ms": 245418,
+      "name": "Le ch\u00e2teau de corail",
+      "url": "https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch"
     },
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+        "name": "Cobalt Blue",
+        "url": "https://open.spotify.com/album/5YjTUXG87pwWU4CtbdcA1i"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Michael Brook",
+          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
         }
       ],
-      "duration_ms": 464293,
-      "name": "#3",
-      "url": "https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L"
+      "duration_ms": 274466,
+      "name": "Ultramarine",
+      "url": "https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR"
     },
     {
-      "added_at": "2022-03-17 01:20:50",
+      "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Skyline - Instant Composition Vol. 2",
-        "url": "https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K"
+        "name": "Trans-Millenia Music",
+        "url": "https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw"
       },
       "artists": [
         {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Henrik Jespersen",
-          "url": "https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy"
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 257000,
-      "name": "Time Changes",
-      "url": "https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D"
+      "duration_ms": 278533,
+      "name": "Virgin Ice",
+      "url": "https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 229861,
+      "name": "Toucan Ocean",
+      "url": "https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 256401,
+      "name": "Sick Times",
+      "url": "https://open.spotify.com/track/3smDJCcylq9ghblaXmslo8"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Tumblers from the Vault",
+        "url": "https://open.spotify.com/album/0FLZUvSQsrqysS3QQIJ3Zb"
+      },
+      "artists": [
+        {
+          "name": "Syrinx",
+          "url": "https://open.spotify.com/artist/4NHEvHYVfLQjiwXVQnyhxW"
+        }
+      ],
+      "duration_ms": 313746,
+      "name": "Hollywood Dream Trip",
+      "url": "https://open.spotify.com/track/4Yz4rj3kcByr4j1f5e6SAt"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -159,22 +623,6 @@
       "duration_ms": 294000,
       "name": "I've Got What I Need",
       "url": "https://open.spotify.com/track/5X7DeZgp2mRSkwc5tHrCNY"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
-      },
-      "artists": [
-        {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
-        }
-      ],
-      "duration_ms": 316214,
-      "name": "Agua Azul",
-      "url": "https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i"
     },
     {
       "added_at": "2022-03-16 01:06:51",
@@ -195,98 +643,158 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Mouthfeel / Serene",
-        "url": "https://open.spotify.com/album/6FRipfCiwuxPvdaagJUg3P"
+        "name": "FRKWYS Vol. 15: serenitatem",
+        "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
       "artists": [
         {
-          "name": "Sam Gendel",
-          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
         },
         {
-          "name": "Josiah Steinbrick",
-          "url": "https://open.spotify.com/artist/2t1feKJJZgzieczJ0oDmiP"
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        },
+        {
+          "name": "Satsuki Shibano",
+          "url": "https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c"
         }
       ],
-      "duration_ms": 216899,
-      "name": "Mouthfeel 2",
-      "url": "https://open.spotify.com/track/42dJxpG0YNmPDs1G6TlNNh"
+      "duration_ms": 431502,
+      "name": "Stratum",
+      "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
     },
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Sea Island",
-        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
+        "name": "Tower of Silence",
+        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
       },
       "artists": [
         {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+          "name": "Roberto Musci",
+          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
         }
       ],
-      "duration_ms": 405573,
-      "name": "Angle of List",
-      "url": "https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf"
+      "duration_ms": 369765,
+      "name": "Nexus On The Beach",
+      "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
     },
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Futurangelics",
-        "url": "https://open.spotify.com/album/25wDjDE7GAMDwZ9PmWupfL"
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
       },
       "artists": [
         {
-          "name": "Brin",
-          "url": "https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp"
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         },
         {
-          "name": "Dntel",
-          "url": "https://open.spotify.com/artist/1jf3CssdtSksxNa3uIpPzS"
-        },
-        {
-          "name": "More Eaze",
-          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 372900,
-      "name": "night squirrel",
-      "url": "https://open.spotify.com/track/1NXRWPk0pD2vVZgQSnOgGw"
+      "duration_ms": 209040,
+      "name": "Delta Rain Dream",
+      "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
     },
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Fen",
-        "url": "https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk"
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
       },
       "artists": [
         {
-          "name": "Wac\u0142aw Zimpel",
-          "url": "https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 295500,
-      "name": "Fen",
-      "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
+      "duration_ms": 245927,
+      "name": "Palace Posy",
+      "url": "https://open.spotify.com/track/3OtXrdgyepq7uDp96ewVqF"
     },
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "RIPTIDE",
-        "url": "https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P"
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
       },
       "artists": [
         {
-          "name": "Jacob Haage",
-          "url": "https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p"
-        },
-        {
-          "name": "Sarah Assbring",
-          "url": "https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4"
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
         }
       ],
-      "duration_ms": 218409,
-      "name": "Dissolving",
-      "url": "https://open.spotify.com/track/5ZzfSvnrK7bWF1Sh08CC4I"
+      "duration_ms": 316214,
+      "name": "Agua Azul",
+      "url": "https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
+      },
+      "artists": [
+        {
+          "name": "Gaussian Curve",
+          "url": "https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G"
+        }
+      ],
+      "duration_ms": 324255,
+      "name": "Broken Clouds",
+      "url": "https://open.spotify.com/track/7q0OGG60Em2wwPNDpBFPGy"
+    },
+    {
+      "added_at": "2022-04-07 05:02:08",
+      "album": {
+        "name": "Forest Dreams",
+        "url": "https://open.spotify.com/album/1FEt78mhUImIJ7UAVD2CsO"
+      },
+      "artists": [
+        {
+          "name": "Glacier Wave",
+          "url": "https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN"
+        }
+      ],
+      "duration_ms": 222511,
+      "name": "Forest Dreams",
+      "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Aftertouches",
+        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Touch me & die",
+      "url": "https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Beautiful You",
+        "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
+      },
+      "artists": [
+        {
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+        }
+      ],
+      "duration_ms": 370476,
+      "name": "Water Soaked In Forever",
+      "url": "https://open.spotify.com/track/2Wu0k9sazKppf4ihMI1Vfh"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -307,286 +815,38 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Beyond Contact",
-        "url": "https://open.spotify.com/album/1pYLmFYO15uH1goGDy4xUn"
+        "name": "Reassemblage",
+        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
       "artists": [
         {
-          "name": "Vivian Koch",
-          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
-        }
-      ],
-      "duration_ms": 232867,
-      "name": "Closed - Yosemite Version",
-      "url": "https://open.spotify.com/track/0IL5bImk17ZoPquALK3yw1"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 421463,
-      "name": "Suite Pour L'invisible",
-      "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Between No Things",
-        "url": "https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj"
-      },
-      "artists": [
-        {
-          "name": "Suso Saiz",
-          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
         },
         {
-          "name": "Suzanne Kraft",
-          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+          "name": "Motion Graphics",
+          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
         }
       ],
-      "duration_ms": 235717,
-      "name": "On Plateau",
-      "url": "https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU"
+      "duration_ms": 220800,
+      "name": "Terrazzo",
+      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
     },
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "The Expanding Universe",
-        "url": "https://open.spotify.com/album/2rD0SKiBImTKNhRtRVLsdU"
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
       },
       "artists": [
         {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 390720,
-      "name": "The Unquestioned Answer",
-      "url": "https://open.spotify.com/track/5ftgOffbWhT3hYtQXNEPou"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "The Blue of Distance",
-        "url": "https://open.spotify.com/album/0l75LSipQXsxxlOAKvI3iW"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 425495,
-      "name": "The Blue of Distance",
-      "url": "https://open.spotify.com/track/25IdOChfpxF8r7KkNG3EdI"
-    },
-    {
-      "added_at": "2021-11-23 23:55:03",
-      "album": {
-        "name": "@0",
-        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
-      },
-      "artists": [
-        {
-          "name": "Double Cushion",
-          "url": "https://open.spotify.com/artist/1UXZTDNNqFzm6A05jjSsHH"
-        }
-      ],
-      "duration_ms": 375750,
-      "name": "For Ignatz Karmelito",
-      "url": "https://open.spotify.com/track/1g95vNwQ1Nt1sv4pHEKYJe"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Pink Noir",
-        "url": "https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB"
-      },
-      "artists": [
-        {
-          "name": "David Toop",
-          "url": "https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC"
-        },
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 563026,
-      "name": "Slow Loris Versus Poison Snail",
-      "url": "https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj"
-    },
-    {
-      "added_at": "2022-02-12 01:31:39",
-      "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
-      },
-      "artists": [
-        {
-          "name": "Idee Du Femelle",
-          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
-        }
-      ],
-      "duration_ms": 457487,
-      "name": "Come Back To Bali",
-      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
-    },
-    {
-      "added_at": "2022-04-12 02:04:06",
-      "album": {
-        "name": "Amarillo",
-        "url": "https://open.spotify.com/album/0lNzhsJ9MleTq1DNGhi8EL"
-      },
-      "artists": [
-        {
-          "name": "om",
-          "url": "https://open.spotify.com/artist/260eTaybpSict6ZEqv3lQO"
-        }
-      ],
-      "duration_ms": 529900,
-      "name": "Amarillo",
-      "url": "https://open.spotify.com/track/3fRN3EJ0nYu5DwzkNlmoTS"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/24gsYd7bA0V4fHCHpc3KlM"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 376956,
-      "name": "Starwood Choker",
-      "url": "https://open.spotify.com/track/2w5l9sDXytt4lu0ZYFSoIX"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Somni",
-        "url": "https://open.spotify.com/album/2LPIoyjK6VR7i3kSH7f1Ff"
-      },
-      "artists": [
-        {
-          "name": "Bhed",
-          "url": "https://open.spotify.com/artist/292vJ2PVmjnLGPKq7NsFLk"
-        }
-      ],
-      "duration_ms": 414160,
-      "name": "Somni",
-      "url": "https://open.spotify.com/track/2oqXgGtnE6ze9Hqib8sm2U"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Talk from Home",
-        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Kraft",
-          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
-        }
-      ],
-      "duration_ms": 249704,
-      "name": "Renee Sleeping",
-      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Rio Nilo 66",
-        "url": "https://open.spotify.com/album/4N8JdnLYaUCPR3C5bHfoCz"
-      },
-      "artists": [
-        {
-          "name": "Sam Gendel",
-          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
-        },
-        {
-          "name": "Ethan Braun",
-          "url": "https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi"
-        }
-      ],
-      "duration_ms": 491371,
-      "name": "1/2 SCULPTURE",
-      "url": "https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Shortwave Ruins",
-        "url": "https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM"
-      },
-      "artists": [
-        {
-          "name": "Mount Shrine",
-          "url": "https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr"
-        }
-      ],
-      "duration_ms": 434716,
-      "name": "Subtotem",
-      "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
-    },
-    {
-      "added_at": "2022-02-18 05:44:07",
-      "album": {
-        "name": "Orbit",
-        "url": "https://open.spotify.com/album/1tui8E9mYfofXZsMvbClWb"
-      },
-      "artists": [
-        {
-          "name": "Muffler",
-          "url": "https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA"
-        }
-      ],
-      "duration_ms": 247124,
-      "name": "Orbit",
-      "url": "https://open.spotify.com/track/0qrIo0wS3pCPeM4aEdyyA4"
-    },
-    {
-      "added_at": "2022-01-14 15:17:07",
-      "album": {
-        "name": "San",
-        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 414106,
-      "name": "Spirales",
-      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "The Goddess Is Dancing",
-        "url": "https://open.spotify.com/album/45Gxh7xqUU4ouDREPoSgKN"
-      },
-      "artists": [
-        {
-          "name": "D.K.",
-          "url": "https://open.spotify.com/artist/6JGGS3JOcMIxa0QF6pFnzN"
-        }
-      ],
-      "duration_ms": 720000,
-      "name": "Summoning The Spirits",
-      "url": "https://open.spotify.com/track/08j743XZnEB0w0cMj9ksas"
+      "duration_ms": 160000,
+      "name": "Omprovo",
+      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -615,6 +875,42 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Comme Un Seul Narcisse",
+        "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Jefre Cantu-Ledesma",
+          "url": "https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5"
+        }
+      ],
+      "duration_ms": 261565,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "The Blue of Distance",
+        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 425495,
+      "name": "The Blue of Distance",
+      "url": "https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Flying to America",
         "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
       },
@@ -631,54 +927,86 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Tower of Silence",
-        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
+        "name": "Children of the Sun",
+        "url": "https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV"
       },
       "artists": [
         {
-          "name": "Roberto Musci",
-          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
+          "name": "S A D",
+          "url": "https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU"
         }
       ],
-      "duration_ms": 369765,
-      "name": "Nexus On The Beach",
-      "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
+      "duration_ms": 285338,
+      "name": "Desert Wax",
+      "url": "https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil"
     },
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+        "name": "Pink Noir",
+        "url": "https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Habitat",
-        "url": "https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN"
-      },
-      "artists": [
-        {
-          "name": "J Foerster",
-          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
+          "name": "David Toop",
+          "url": "https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC"
         },
         {
-          "name": "N KRAMER",
-          "url": "https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t"
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 295544,
-      "name": "Air Flows",
-      "url": "https://open.spotify.com/track/0pYwlehWNQ50iyQdZJFbZu"
+      "duration_ms": 563026,
+      "name": "Slow Loris Versus Poison Snail",
+      "url": "https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Talk from Home",
+        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+        }
+      ],
+      "duration_ms": 249704,
+      "name": "Renee Sleeping",
+      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
+    },
+    {
+      "added_at": "2022-02-16 01:53:19",
+      "album": {
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "duration_ms": 416560,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD"
+    },
+    {
+      "added_at": "2022-02-12 01:31:39",
+      "album": {
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
+      },
+      "artists": [
+        {
+          "name": "Idee Du Femelle",
+          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
+        }
+      ],
+      "duration_ms": 457487,
+      "name": "Come Back To Bali",
+      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -699,54 +1027,66 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Under~Between",
-        "url": "https://open.spotify.com/album/6Rjl7SEzpe9z8OrOJQakEB"
+        "name": "The Crucible",
+        "url": "https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2"
       },
       "artists": [
         {
-          "name": "Dialect",
-          "url": "https://open.spotify.com/artist/22oD5ZYEJPZf9e68jQbQz5"
+          "name": "Kabuki",
+          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
         }
       ],
-      "duration_ms": 282575,
-      "name": "Flame Not Stone",
-      "url": "https://open.spotify.com/track/4mrNyTOcj51RAOapXHYJOL"
+      "duration_ms": 207407,
+      "name": "Green Phase, Part One",
+      "url": "https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI"
     },
     {
-      "added_at": "2022-03-30 04:58:54",
+      "added_at": "2022-09-14 12:31:52",
       "album": {
-        "name": "Antiphony of the Trees",
-        "url": "https://open.spotify.com/album/6iDjToo4wsYwronftMsCeD"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n"
       },
       "artists": [
         {
-          "name": "Laura Cannell",
-          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
         }
       ],
-      "duration_ms": 212640,
-      "name": "We Borrowed Feathers",
-      "url": "https://open.spotify.com/track/7ewoRGr2GvyibGbT2kd4UK"
+      "duration_ms": 341577,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/15pARbUntgEEw4b8m9d15U"
+    },
+    {
+      "added_at": "2021-11-12 02:58:17",
+      "album": {
+        "name": "Plant Music, Vol. 1",
+        "url": "https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c"
+      },
+      "artists": [
+        {
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+        }
+      ],
+      "duration_ms": 231760,
+      "name": "Fairy Creek Alder in the Evening (Raag Kafi)",
+      "url": "https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC"
     },
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Pavel Milyakov & Bendik Giske",
-        "url": "https://open.spotify.com/album/0OI9Apa6YXJZF2Yyg6l3zo"
+        "name": "Beyond Contact",
+        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
       },
       "artists": [
         {
-          "name": "Pavel Milyakov",
-          "url": "https://open.spotify.com/artist/5E8J16XR1FuqmFNkL65CKo"
-        },
-        {
-          "name": "Bendik Giske",
-          "url": "https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K"
+          "name": "Vivian Koch",
+          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
         }
       ],
-      "duration_ms": 273288,
-      "name": "Untitled 4",
-      "url": "https://open.spotify.com/track/5dErtrOhsrsopKccnh15MY"
+      "duration_ms": 232867,
+      "name": "Closed - Yosemite Version",
+      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
     },
     {
       "added_at": "2022-01-11 00:30:53",
@@ -767,326 +1107,54 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "FRKWYS Vol. 15: serenitatem",
-        "url": "https://open.spotify.com/album/5l69NsahjgyhPCZNzVVGls"
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
       },
       "artists": [
         {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
-        },
-        {
-          "name": "Yoshio Ojima",
-          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
-        },
-        {
-          "name": "Satsuki Shibano",
-          "url": "https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c"
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "duration_ms": 431502,
-      "name": "Stratum",
-      "url": "https://open.spotify.com/track/7oeoPQWwvxCSvJP3YFOhpz"
+      "duration_ms": 346586,
+      "name": "For Marmish",
+      "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
     },
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Tumblers from the Vault",
-        "url": "https://open.spotify.com/album/0Mo0r58rRamG68mSwoblMa"
+        "name": "Somni",
+        "url": "https://open.spotify.com/album/2LPIoyjK6VR7i3kSH7f1Ff"
       },
       "artists": [
         {
-          "name": "Syrinx",
-          "url": "https://open.spotify.com/artist/4NHEvHYVfLQjiwXVQnyhxW"
+          "name": "Bhed",
+          "url": "https://open.spotify.com/artist/292vJ2PVmjnLGPKq7NsFLk"
         }
       ],
-      "duration_ms": 313746,
-      "name": "Hollywood Dream Trip",
-      "url": "https://open.spotify.com/track/5bXS4dmrVpQ2NyJ7Beu82J"
+      "duration_ms": 414160,
+      "name": "Somni",
+      "url": "https://open.spotify.com/track/2oqXgGtnE6ze9Hqib8sm2U"
     },
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Omprovo",
-      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Logue",
-        "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
-      },
-      "artists": [
-        {
-          "name": "KMRU",
-          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
-        }
-      ],
-      "duration_ms": 256901,
-      "name": "11",
-      "url": "https://open.spotify.com/track/0oAzD4paJjiaqZM4s2fkJ6"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "The Return of The Durutti Column",
-        "url": "https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW"
-      },
-      "artists": [
-        {
-          "name": "The Durutti Column",
-          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Sketch for Summer",
-      "url": "https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
-      },
-      "artists": [
-        {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
-        }
-      ],
-      "duration_ms": 230309,
-      "name": "Two Halves Touching",
-      "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q"
-      },
-      "artists": [
-        {
-          "name": "Gaussian Curve",
-          "url": "https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G"
-        }
-      ],
-      "duration_ms": 324255,
-      "name": "Broken Clouds",
-      "url": "https://open.spotify.com/track/7q0OGG60Em2wwPNDpBFPGy"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "M\u00fasica Espor\u00e1dica",
-        "url": "https://open.spotify.com/album/7dnlyE1XLw84eNn4UJSU0j"
-      },
-      "artists": [
-        {
-          "name": "M\u00fasica Espor\u00e1dica",
-          "url": "https://open.spotify.com/artist/0h71X1g6FJuanP96HHvGmg"
-        },
-        {
-          "name": "Suso Saiz",
-          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
-        },
-        {
-          "name": "Orquesta de las Nubes",
-          "url": "https://open.spotify.com/artist/7CqUn7HsQQ3OrCyMvBnwRS"
-        }
-      ],
-      "duration_ms": 758801,
-      "name": "M\u00fasica Espor\u00e1dica",
-      "url": "https://open.spotify.com/track/6CCEAanczgKqsVi1pskvNs"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/2mDwgIyil7jUI192RqJ1Lm"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 410986,
-      "name": "Melancholia II",
-      "url": "https://open.spotify.com/track/2UZXQrEi0A8ySbDuyeuMt3"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI"
-      },
-      "artists": [
-        {
-          "name": "Wilson Tanner",
-          "url": "https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i"
-        }
-      ],
-      "duration_ms": 130986,
-      "name": "My Gull",
-      "url": "https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "The Goddess Is Dancing",
-        "url": "https://open.spotify.com/album/45Gxh7xqUU4ouDREPoSgKN"
-      },
-      "artists": [
-        {
-          "name": "D.K.",
-          "url": "https://open.spotify.com/artist/6JGGS3JOcMIxa0QF6pFnzN"
-        }
-      ],
-      "duration_ms": 371612,
-      "name": "The Three Realms",
-      "url": "https://open.spotify.com/track/4RktobAj8s4udPtUsEcWZY"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Vernal Equinox",
-        "url": "https://open.spotify.com/album/5aZQzSX2cCYC91CTNw0TdJ"
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
       },
       "artists": [
         {
           "name": "Jon Hassell",
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 428200,
-      "name": "Viva Shona",
-      "url": "https://open.spotify.com/track/3k1jWhpxnknh75DCXlKLMZ"
-    },
-    {
-      "added_at": "2022-03-11 05:56:40",
-      "album": {
-        "name": "Bl\u00e5ne II",
-        "url": "https://open.spotify.com/album/2uhS4oZEuvDqcb5lKBUVcx"
-      },
-      "artists": [
-        {
-          "name": "Inge Weatherhead Breistein",
-          "url": "https://open.spotify.com/artist/31R4oqL2Aeic9iwpOHsxqG"
         },
         {
-          "name": "Haav",
-          "url": "https://open.spotify.com/artist/1qLtmt4U8aOgERNMfqNlyy"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 271680,
-      "name": "Bl\u00e5ne II",
-      "url": "https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Recoloured - The Remix Album",
-        "url": "https://open.spotify.com/album/169WztoC1KJfXh9B2wEkWI"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 473946,
-      "name": "Dead Indeed - Tunnel Mix by Mind Over Midi",
-      "url": "https://open.spotify.com/track/7LRuezpAWx0uaIapbAB1Dc"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Water Memory",
-        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 448133,
-      "name": "Water Memory 1",
-      "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Forest Trails",
-        "url": "https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY"
-      },
-      "artists": [
-        {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
-        }
-      ],
-      "duration_ms": 346364,
-      "name": "Forest Trails",
-      "url": "https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Children of the Sun",
-        "url": "https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV"
-      },
-      "artists": [
-        {
-          "name": "S A D",
-          "url": "https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU"
-        }
-      ],
-      "duration_ms": 285338,
-      "name": "Desert Wax",
-      "url": "https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil"
-    },
-    {
-      "added_at": "2022-02-16 01:53:19",
-      "album": {
-        "name": "Plut\u00f3n",
-        "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        }
-      ],
-      "duration_ms": 416560,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Beautiful You",
-        "url": "https://open.spotify.com/album/2f3uhql1s62iUw61GMvpRM"
-      },
-      "artists": [
-        {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
-        }
-      ],
-      "duration_ms": 370476,
-      "name": "Water Soaked In Forever",
-      "url": "https://open.spotify.com/track/1xp0iKRQ29UWQaa2OfVd93"
+      "duration_ms": 377066,
+      "name": "Ba-benz\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1104,105 +1172,9 @@
           "url": "https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi"
         }
       ],
-      "duration_ms": 86797,
-      "name": "SUPERBASSTROPIXX",
-      "url": "https://open.spotify.com/track/3KObOlePRD86lyL0kTJa53"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Island of the Hungry Ghosts (OST)",
-        "url": "https://open.spotify.com/album/0o8P0i2Ljyt2KVV7LH6wAT"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cupples",
-          "url": "https://open.spotify.com/artist/3OGQFxVzdGQPrvPJXozi8h"
-        }
-      ],
-      "duration_ms": 254553,
-      "name": "The Protester",
-      "url": "https://open.spotify.com/track/6IgAKh5Oix3jLoCQyrfy9b"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Aka / Darbari / Java",
-        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 429133,
-      "name": "Empire III",
-      "url": "https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Kakashi",
-        "url": "https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb"
-      },
-      "artists": [
-        {
-          "name": "Yasuaki Shimizu",
-          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
-        }
-      ],
-      "duration_ms": 498800,
-      "name": "Umi No Ue Kara",
-      "url": "https://open.spotify.com/track/4Ee8z8ySuxdqTTPI868NtU"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "The Crucible (Green Phase)",
-        "url": "https://open.spotify.com/album/7pmG0FBAsV9T1SBQHkWZKS"
-      },
-      "artists": [
-        {
-          "name": "Kabuki",
-          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
-        }
-      ],
-      "duration_ms": 207407,
-      "name": "Green Phase, Part One",
-      "url": "https://open.spotify.com/track/1hQ6qPmHgJhjGkAhhvBQvg"
-    },
-    {
-      "added_at": "2022-01-14 00:06:38",
-      "album": {
-        "name": "Cabara\u00fa",
-        "url": "https://open.spotify.com/album/5ZhBJowx9ClZT35DONFnH0"
-      },
-      "artists": [
-        {
-          "name": "Pandit Pam Pam",
-          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
-        }
-      ],
-      "duration_ms": 392107,
-      "name": "Cabara\u00fa",
-      "url": "https://open.spotify.com/track/6wCIFkMgQitrrJyc2ruYj0"
-    },
-    {
-      "added_at": "2021-11-25 22:14:03",
-      "album": {
-        "name": "Haut",
-        "url": "https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm"
-      },
-      "artists": [
-        {
-          "name": "Ralph Heidel",
-          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Haut",
-      "url": "https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU"
+      "duration_ms": 491371,
+      "name": "1/2 SCULPTURE",
+      "url": "https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2"
     }
   ],
   "unique_name": "Planetary Soul",

@@ -1,28 +1,44 @@
 {
-  "description": "Soulful, bluesy ballads. Cover: Lizz Wright",
-  "num_followers": 72855,
+  "description": "Soulful, bluesy ballads. Cover: The War and Treaty",
+  "num_followers": 74524,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTI2MCwwMDAwMDAyYTAwMDAwMTgwZGZhMDM0ZjgwMDAwMDE4MDQ3M2NmZDNm",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGIzZjM3M2Y0ODQ5NmEwNTAyOWFmYWZlNTlhZmEzM2I0",
   "tracks": [
     {
-      "added_at": "2022-01-28 05:01:00",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+        "name": "That's How Love Is Made",
+        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
       },
       "artists": [
         {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 290973,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
+      "duration_ms": 226986,
+      "name": "That's How Love Is Made",
+      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
+    },
+    {
+      "added_at": "2021-10-29 04:01:00",
+      "album": {
+        "name": "Me to You",
+        "url": "https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 230386,
+      "name": "Me to You",
+      "url": "https://open.spotify.com/track/2XBzszqFztAByWUJ82MzKq"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -41,20 +57,124 @@
       "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
     },
     {
-      "added_at": "2021-10-29 04:01:00",
+      "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Me to You",
-        "url": "https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5"
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
       },
       "artists": [
         {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
         }
       ],
-      "duration_ms": 230386,
-      "name": "Me to You",
-      "url": "https://open.spotify.com/track/2XBzszqFztAByWUJ82MzKq"
+      "duration_ms": 218766,
+      "name": "Smile At The Mention",
+      "url": "https://open.spotify.com/track/660y7d6UfYBNdU9U2Tewn6"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "You Ruined That Song For Me",
+        "url": "https://open.spotify.com/album/3aRX20jl9YSVFMGUY5ZUoV"
+      },
+      "artists": [
+        {
+          "name": "Meghan Linsey",
+          "url": "https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn"
+        }
+      ],
+      "duration_ms": 199904,
+      "name": "You Ruined That Song For Me",
+      "url": "https://open.spotify.com/track/7e8LdgIws3VVqkON2puJwN"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Loving Arms - (Radio Edit), Masterlink Sessions",
+        "url": "https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB"
+      },
+      "artists": [
+        {
+          "name": "Jo Harman",
+          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
+        },
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        }
+      ],
+      "duration_ms": 326761,
+      "name": "Loving Arms - (radio edit), Masterlink Sessions",
+      "url": "https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "I Am The Moon: III. The Fall",
+        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Emmaline",
+      "url": "https://open.spotify.com/track/0scyMh87ralm4LxQqHRKvq"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Dear Diary",
+        "url": "https://open.spotify.com/album/1IqSN6kpB4yS7kn4eHobRi"
+      },
+      "artists": [
+        {
+          "name": "Emily West",
+          "url": "https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA"
+        },
+        {
+          "name": "Whiskey Wolves of the West",
+          "url": "https://open.spotify.com/artist/301ao5Vcw38iIFuWiMG1Rj"
+        }
+      ],
+      "duration_ms": 240583,
+      "name": "Out of Sight (Out of Mind)",
+      "url": "https://open.spotify.com/track/00XkBPsjAlNyw4VeQrQSJY"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Cryin In The Rain",
+        "url": "https://open.spotify.com/album/28ex3FmGr9cbxk4TvIA6Dv"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        }
+      ],
+      "duration_ms": 210882,
+      "name": "Cryin In The Rain",
+      "url": "https://open.spotify.com/track/7mLm2YnptlX4CSqpfp1P34"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -76,7 +196,7 @@
       "added_at": "2021-04-09 04:00:00",
       "album": {
         "name": "Never Tear Us Apart",
-        "url": "https://open.spotify.com/album/4doBTxqHZNmn9a06bP3A5s"
+        "url": "https://open.spotify.com/album/7hWLND0iED2GC0JEQZRJek"
       },
       "artists": [
         {
@@ -86,7 +206,7 @@
       ],
       "duration_ms": 204604,
       "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/3I7Fqr8wLi60aZ9P4wIFwq"
+      "url": "https://open.spotify.com/track/5LDbQdfOJEb0y2f3QwlzUw"
     },
     {
       "added_at": "2022-03-15 14:13:11",
@@ -175,8 +295,8 @@
     {
       "added_at": "2021-03-05 05:01:00",
       "album": {
-        "name": "Souled Out On You",
-        "url": "https://open.spotify.com/album/50BIR8Bg2W5OifAUjmRviK"
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
       "artists": [
         {
@@ -186,7 +306,7 @@
       ],
       "duration_ms": 213093,
       "name": "Souled Out On You",
-      "url": "https://open.spotify.com/track/4eTRBRseRwBDOlT5TeNyTH"
+      "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -256,7 +376,7 @@
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/3g7ope6PYF8lkWy0wspZUr"
+        "url": "https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN"
       },
       "artists": [
         {
@@ -266,7 +386,7 @@
       ],
       "duration_ms": 270103,
       "name": "Is It Over",
-      "url": "https://open.spotify.com/track/5bIkfIVCljHoobIzKLqOOO"
+      "url": "https://open.spotify.com/track/6CTNoKveaQYSOhvYWJUAHl"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -319,8 +439,8 @@
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
-        "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
-        "url": "https://open.spotify.com/album/026ZioCze6KbxDpunugdId"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
       "artists": [
         {
@@ -330,7 +450,7 @@
       ],
       "duration_ms": 283893,
       "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
-      "url": "https://open.spotify.com/track/7vCfPnxfZstgS5QUlWV7aY"
+      "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -352,7 +472,7 @@
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "No Beginning No End 2",
-        "url": "https://open.spotify.com/album/0KKurlvDI9YjNgwHm8fNP4"
+        "url": "https://open.spotify.com/album/1dwWH4m6TIepflnji3hVsG"
       },
       "artists": [
         {
@@ -364,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
         }
       ],
-      "duration_ms": 251026,
+      "duration_ms": 251024,
       "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/4PyYmYeTVUv2dEkaj1VxnG"
+      "url": "https://open.spotify.com/track/5Ilym2G41PI6qjYTshJD8f"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -436,7 +556,7 @@
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "Halfway Home By Morning",
-        "url": "https://open.spotify.com/album/6yxTsj35RwLCNGm60hlf7h"
+        "url": "https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e"
       },
       "artists": [
         {
@@ -446,13 +566,13 @@
       ],
       "duration_ms": 224866,
       "name": "Been My Last",
-      "url": "https://open.spotify.com/track/4r7ZdD5korTwjnbe1mezoK"
+      "url": "https://open.spotify.com/track/55LQy7ZJejUaTTiSN8TK9D"
     },
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "United State of Mind",
-        "url": "https://open.spotify.com/album/0M6vvqZo0MkpukkCikKpad"
+        "url": "https://open.spotify.com/album/2FPldCz6JwLElIjJZ9B9s9"
       },
       "artists": [
         {
@@ -470,7 +590,7 @@
       ],
       "duration_ms": 254145,
       "name": "Walking Wounded",
-      "url": "https://open.spotify.com/track/0oda94HwAfT8uLO7jC3ykV"
+      "url": "https://open.spotify.com/track/6HKUwJ4coXppVQ6SXjjmZi"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -523,8 +643,8 @@
     {
       "added_at": "2021-04-09 04:00:00",
       "album": {
-        "name": "How Many Tears",
-        "url": "https://open.spotify.com/album/3PP99enC9m8vnlM5FJST6X"
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/2b7MbvztGNG6i21VrDclME"
       },
       "artists": [
         {
@@ -534,13 +654,13 @@
       ],
       "duration_ms": 212009,
       "name": "How Many Tears",
-      "url": "https://open.spotify.com/track/3d8ZtqYPchg3dY05IpPNIM"
+      "url": "https://open.spotify.com/track/4hYjPSFmCPeYL8JGinnD4N"
     },
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "Heavy Hearts Hard Fists",
-        "url": "https://open.spotify.com/album/3MyVNL91Apamtu9fUEQ9nO"
+        "url": "https://open.spotify.com/album/2nZC1XpdGBiYkIG4R5ytml"
       },
       "artists": [
         {
@@ -550,7 +670,7 @@
       ],
       "duration_ms": 216546,
       "name": "Nothin' With You",
-      "url": "https://open.spotify.com/track/6xfYSSuvpEg36fjA7U3QYD"
+      "url": "https://open.spotify.com/track/3eeabq9wLCiV4JJ5p1yWk7"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -572,7 +692,7 @@
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "Black Cotton Limited",
-        "url": "https://open.spotify.com/album/4eV2e8k894bwbeX2lJMYgb"
+        "url": "https://open.spotify.com/album/4BzCphuz3P1FvWvOB5GtDp"
       },
       "artists": [
         {
@@ -582,13 +702,13 @@
       ],
       "duration_ms": 257453,
       "name": "Pictures on the Wall",
-      "url": "https://open.spotify.com/track/3L5gTxFwf6T2ZeXx9n0bik"
+      "url": "https://open.spotify.com/track/2KK8G1JqNkz7L6wfTbgp7H"
     },
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "The Beautiful Lowdown",
-        "url": "https://open.spotify.com/album/60crLBQx2RHQQfDoDXdnke"
+        "url": "https://open.spotify.com/album/5W7H2kAiUChuRI05H4VLzm"
       },
       "artists": [
         {
@@ -598,7 +718,7 @@
       ],
       "duration_ms": 269520,
       "name": "Is There Something I Should Know",
-      "url": "https://open.spotify.com/track/70vU4pqCiPVJVo6N04Kamz"
+      "url": "https://open.spotify.com/track/4igHNG3kw9KrG9myowBJvC"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -631,22 +751,6 @@
       "duration_ms": 250946,
       "name": "Better This Way",
       "url": "https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2"
-    },
-    {
-      "added_at": "2020-11-05 20:25:04",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/6feeQj5H1QIpt1y17F1jJG"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 159946,
-      "name": "I'm Gonna Find Another You",
-      "url": "https://open.spotify.com/track/2KbKSPA3oHnZGlreYLGA92"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -704,7 +808,7 @@
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "Love Wins Again",
-        "url": "https://open.spotify.com/album/3u5xHMTxsYnDpOGpckM8lv"
+        "url": "https://open.spotify.com/album/5koT5jFcF9Iy0iZjG09rBT"
       },
       "artists": [
         {
@@ -714,13 +818,13 @@
       ],
       "duration_ms": 278826,
       "name": "Who Will Come for Me",
-      "url": "https://open.spotify.com/track/3dItRGOkWJkuNEsyEl4DmZ"
+      "url": "https://open.spotify.com/track/7hEsiIvB2jg0BI3Xe8F4eg"
     },
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "Honest Man",
-        "url": "https://open.spotify.com/album/4syDqjDLtyOd7T70QkUQ60"
+        "url": "https://open.spotify.com/album/2ZR9S2HND7WD0zh630IyR1"
       },
       "artists": [
         {
@@ -730,13 +834,13 @@
       ],
       "duration_ms": 197748,
       "name": "Last Surrender",
-      "url": "https://open.spotify.com/track/1eOt3lInNLAvkf7xE7RFWi"
+      "url": "https://open.spotify.com/track/2qQC0jWfRaUUhGWkPdb7g2"
     },
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "Rooftops and Satellites",
-        "url": "https://open.spotify.com/album/6NqHuD7AFDh4p0pcPjTp84"
+        "url": "https://open.spotify.com/album/1LiAEvcdWVb9qNHFku5YzA"
       },
       "artists": [
         {
@@ -746,13 +850,13 @@
       ],
       "duration_ms": 228560,
       "name": "More Than You Needed",
-      "url": "https://open.spotify.com/track/65rDtap9t8DlT1Z8Pxr4QJ"
+      "url": "https://open.spotify.com/track/5q3Vbceg2WlCqgMfc9Kosq"
     },
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "Allow Me to Confess",
-        "url": "https://open.spotify.com/album/2c2cFKHtezKf5Fna1rZO4T"
+        "url": "https://open.spotify.com/album/4vcPUYfpoYWXqbucRoATgK"
       },
       "artists": [
         {
@@ -762,13 +866,13 @@
       ],
       "duration_ms": 194373,
       "name": "Try Me",
-      "url": "https://open.spotify.com/track/5vjbpawQ7l5Qdgwh1WafWe"
+      "url": "https://open.spotify.com/track/7fdF1y8Sm2dWryO5kRDlGL"
     },
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "Original",
-        "url": "https://open.spotify.com/album/205WlLTwMDXBqF6Uexj9b4"
+        "url": "https://open.spotify.com/album/5pg0LnXJII43RFJrsfsnfJ"
       },
       "artists": [
         {
@@ -778,7 +882,7 @@
       ],
       "duration_ms": 240613,
       "name": "Mountain",
-      "url": "https://open.spotify.com/track/5aXHTenMHl2XDsN9L4FW6F"
+      "url": "https://open.spotify.com/track/4rVyCobGlhYiLVIVgBaSn6"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -863,8 +967,8 @@
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
-        "name": "Sunset Avenue",
-        "url": "https://open.spotify.com/album/0DPnQNdHFY8kxsXwhCyaDk"
+        "name": "Tug of War",
+        "url": "https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY"
       },
       "artists": [
         {
@@ -874,7 +978,7 @@
       ],
       "duration_ms": 213888,
       "name": "They Never Pay Me",
-      "url": "https://open.spotify.com/track/6FblM1pI9C3mZng2qPzXBj"
+      "url": "https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -911,22 +1015,6 @@
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/0aCwNu0L6QMcSexzdUjcGD"
-      },
-      "artists": [
-        {
-          "name": "Rich Robinson",
-          "url": "https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69"
-        }
-      ],
-      "duration_ms": 298400,
-      "name": "Time To Leave",
-      "url": "https://open.spotify.com/track/5TUCm5o4qf5y47EnyHStZy"
-    },
-    {
-      "added_at": "2020-11-05 20:25:04",
-      "album": {
         "name": "Lovelight",
         "url": "https://open.spotify.com/album/2sldY4bgYk12oQO3PnAyrs"
       },
@@ -947,8 +1035,8 @@
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
-        "name": "Two's Company",
-        "url": "https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG"
+        "name": "Texas Hold 'Em",
+        "url": "https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui"
       },
       "artists": [
         {
@@ -956,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo"
         }
       ],
-      "duration_ms": 206826,
+      "duration_ms": 207640,
       "name": "Love's Truly Blind",
-      "url": "https://open.spotify.com/track/767uxXvBCPYP1rscn8odVe"
+      "url": "https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -1027,8 +1115,8 @@
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
-        "name": "Mischievous Moon",
-        "url": "https://open.spotify.com/album/3Rodq8gUXYYXtrfNdjWzmI"
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/1FlYFqevPq4JBfDJ2sA5nu"
       },
       "artists": [
         {
@@ -1036,9 +1124,9 @@
           "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
         }
       ],
-      "duration_ms": 162026,
+      "duration_ms": 161026,
       "name": "Old Flame",
-      "url": "https://open.spotify.com/track/5YB1o0wYhyKRb760RFmvXa"
+      "url": "https://open.spotify.com/track/4A3OM57jy51hcJfPv06za1"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -1127,8 +1215,8 @@
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
-        "name": "Call on God - Single",
-        "url": "https://open.spotify.com/album/4H7Zk2z3wYfj5UuwoPIoPl"
+        "name": "Soul of a Woman",
+        "url": "https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J"
       },
       "artists": [
         {
@@ -1137,14 +1225,14 @@
         }
       ],
       "duration_ms": 217920,
-      "name": "Call On God",
-      "url": "https://open.spotify.com/track/6S2WRQBK9uKW2J6RTJXY6N"
+      "name": "Call on God",
+      "url": "https://open.spotify.com/track/0MY6kBXw8kbDgJiAoO0RUk"
     },
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "Raw Sugar",
-        "url": "https://open.spotify.com/album/5yVHESZZNt3DcYtG1Obsfd"
+        "url": "https://open.spotify.com/album/28CI62akHTySi71hTfUTye"
       },
       "artists": [
         {
@@ -1154,7 +1242,7 @@
       ],
       "duration_ms": 268453,
       "name": "Only Fool Was Me",
-      "url": "https://open.spotify.com/track/2fUoJejy209Fw7CJXAkacA"
+      "url": "https://open.spotify.com/track/1NlbqPDrtGqtNeDymqVdME"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -1192,7 +1280,7 @@
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "The Crack",
-        "url": "https://open.spotify.com/album/6xS9bXbKRy7KprC7Gyo46T"
+        "url": "https://open.spotify.com/album/3VafpZNlfkUkYflCaCukUw"
       },
       "artists": [
         {
@@ -1202,13 +1290,13 @@
       ],
       "duration_ms": 257066,
       "name": "All Gone",
-      "url": "https://open.spotify.com/track/571w2h9G0RbD1k8P5JPtsc"
+      "url": "https://open.spotify.com/track/55NkVwvITV119DkY4zhKEx"
     },
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
-        "name": "Love Is an Army",
-        "url": "https://open.spotify.com/album/4uFhns7SLmcnhf6xHCUI18"
+        "name": "Love is an Army",
+        "url": "https://open.spotify.com/album/1Q807PRrnwhyztEp63LTsz"
       },
       "artists": [
         {
@@ -1222,13 +1310,13 @@
       ],
       "duration_ms": 247186,
       "name": "What I Could Do",
-      "url": "https://open.spotify.com/track/5srEzUANfAqAe9T9gSM3U7"
+      "url": "https://open.spotify.com/track/4kp6uyc8s2G0RVLrxmPZOz"
     },
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "Blue Again",
-        "url": "https://open.spotify.com/album/0pLAn8grfMFtJoKU310Etx"
+        "url": "https://open.spotify.com/album/5mIuCWBG1unPCj6YKTF16O"
       },
       "artists": [
         {
@@ -1238,23 +1326,31 @@
       ],
       "duration_ms": 338853,
       "name": "I Love You More Than You'll Ever Know",
-      "url": "https://open.spotify.com/track/7FUqdSCIFQCNdaX3bGXfw8"
+      "url": "https://open.spotify.com/track/4FcpPf53TWKOrsdfX9pA5O"
     },
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "Changes",
-        "url": "https://open.spotify.com/album/4TiJdmV0Oh7GauOdmfrXNe"
+        "url": "https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI"
       },
       "artists": [
         {
           "name": "Charles Bradley",
           "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        },
+        {
+          "name": "Saun & Starr",
+          "url": "https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck"
         }
       ],
       "duration_ms": 218309,
       "name": "Slow Love",
-      "url": "https://open.spotify.com/track/43yzHeaBaa6C96s2EDCWxU"
+      "url": "https://open.spotify.com/track/1DTjDi7vp3NnYfOtOnLf5R"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -1280,7 +1376,7 @@
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "The Last Days of Oakland",
-        "url": "https://open.spotify.com/album/0CNXnv7UOxzVEVvAmgwMGG"
+        "url": "https://open.spotify.com/album/5XgUtV3205kTcgoSLNf8ix"
       },
       "artists": [
         {
@@ -1290,7 +1386,7 @@
       ],
       "duration_ms": 255784,
       "name": "Nothing Without You",
-      "url": "https://open.spotify.com/track/74k004vkHYlQ8r3fqIZ73C"
+      "url": "https://open.spotify.com/track/6P9qzDTlTNgtbfMLBc1ZVi"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -1312,7 +1408,7 @@
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "Pressure Makes Diamonds",
-        "url": "https://open.spotify.com/album/5mSDSfm25FGQZVuxKi6Gvo"
+        "url": "https://open.spotify.com/album/0A9Ozy729zqiSdMVkBMizh"
       },
       "artists": [
         {
@@ -1322,23 +1418,7 @@
       ],
       "duration_ms": 209774,
       "name": "Pressure Makes Diamonds",
-      "url": "https://open.spotify.com/track/0aBjG35bcty7tOM917tVL6"
-    },
-    {
-      "added_at": "2020-11-05 20:25:04",
-      "album": {
-        "name": "Worst In Me",
-        "url": "https://open.spotify.com/album/20BncSSGfvm3kCZZ8C28MU"
-      },
-      "artists": [
-        {
-          "name": "Dana Williams",
-          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
-        }
-      ],
-      "duration_ms": 236186,
-      "name": "Worst In Me",
-      "url": "https://open.spotify.com/track/1zX45MGjbDDt2zceTraRvn"
+      "url": "https://open.spotify.com/track/2w8RAtIGT6Ba1TydglCWW9"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -1360,7 +1440,7 @@
       "added_at": "2020-11-05 20:25:04",
       "album": {
         "name": "Simple Case of the Blues",
-        "url": "https://open.spotify.com/album/0BhHUwgNZxOSNkS0d89Mu9"
+        "url": "https://open.spotify.com/album/13la0jdzx3vrRcbwf6PBXU"
       },
       "artists": [
         {
@@ -1370,13 +1450,13 @@
       ],
       "duration_ms": 265866,
       "name": "If There Was a Way",
-      "url": "https://open.spotify.com/track/51qxhpLKVMSslaDSbqGjgs"
+      "url": "https://open.spotify.com/track/7h4hCfrO02xSxQs6NgBXY4"
     },
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
-        "name": "You Were Mine",
-        "url": "https://open.spotify.com/album/0qZHzQ6plJgW7SqP1fDF1A"
+        "name": "CHICKABOOM!",
+        "url": "https://open.spotify.com/album/1Gke51utVy7IagtyciRGMA"
       },
       "artists": [
         {
@@ -1386,7 +1466,7 @@
       ],
       "duration_ms": 223577,
       "name": "You Were Mine",
-      "url": "https://open.spotify.com/track/6VFbrvnjVfrSRPIwEf7ept"
+      "url": "https://open.spotify.com/track/4njmTrh1kqxmPql07KKnlT"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -1407,24 +1487,8 @@
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 313240,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/2rPiEp1fCw6lTF9NWsO8XH"
-    },
-    {
-      "added_at": "2020-11-05 20:25:04",
-      "album": {
-        "name": "Something To Lose/Better Than You Want",
-        "url": "https://open.spotify.com/album/1palVaI8ZlhKqztsGqSEB7"
+        "name": "Halfway Home By Morning",
+        "url": "https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e"
       },
       "artists": [
         {
@@ -1438,23 +1502,7 @@
       ],
       "duration_ms": 288360,
       "name": "Something To Lose",
-      "url": "https://open.spotify.com/track/2m1CK247MhzvfuX3DiBo00"
-    },
-    {
-      "added_at": "2020-11-05 20:25:04",
-      "album": {
-        "name": "Loving Arms",
-        "url": "https://open.spotify.com/album/5BRE7T4u3bpH3WLqwm0xdK"
-      },
-      "artists": [
-        {
-          "name": "Jo Harman",
-          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
-        }
-      ],
-      "duration_ms": 381049,
-      "name": "Loving Arms",
-      "url": "https://open.spotify.com/track/785q4cJoLhijb9jAyFMcCS"
+      "url": "https://open.spotify.com/track/5f43xdMK3oxObiuFNZRkNq"
     }
   ],
   "unique_name": "Blue Ballads",

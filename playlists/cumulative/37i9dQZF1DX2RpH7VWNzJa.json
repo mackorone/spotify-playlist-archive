@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 185984,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/1hfA56vqCGk6SZzVSaOxSm"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 262285,
       "name": "El Club de los Ojos Tristes",
       "url": "https://open.spotify.com/track/7ly4gf2Mh2MnSD3IUXHH6R"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 159327,
       "name": "Estoy ida",
       "url": "https://open.spotify.com/track/2VqjJVJmmRIfSXaWCP1Myw"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-25",
       "duration_ms": 107200,
       "name": "Harmful",
       "url": "https://open.spotify.com/track/1DmyBKM2RhkCdfdr0wLPVd"
@@ -541,10 +541,32 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216160,
       "name": "Invincible (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH"
+    },
+    {
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Invincible (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ"
     },
     {
       "album": {
@@ -559,7 +581,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-07-27",
       "duration_ms": 181600,
       "name": "Llama",
       "url": "https://open.spotify.com/track/7m7EGngnVidYTBVUsvRWQ9"
@@ -589,6 +611,24 @@
     {
       "album": {
         "name": "Lo jodiste",
+        "url": "https://open.spotify.com/album/2A5vxG20vPoqRvvp2gLvrz"
+      },
+      "artists": [
+        {
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271306,
+      "name": "Lo jodiste",
+      "url": "https://open.spotify.com/track/1Sedbo7kqP6PXnN5iKg183"
+    },
+    {
+      "album": {
+        "name": "Lo jodiste",
         "url": "https://open.spotify.com/album/4ATsconQXbQmSNEksAoMUG"
       },
       "artists": [
@@ -603,7 +643,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271306,
       "name": "Lo jodiste",
       "url": "https://open.spotify.com/track/2OPdYnaZVHhb6Jn4LnHzZ2"
@@ -657,7 +697,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191178,
       "name": "Manos vac\u00edas",
       "url": "https://open.spotify.com/track/39u0EhY4dzaXRmXHeSg9SX"
@@ -675,7 +715,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-29",
       "duration_ms": 205714,
       "name": "ME ENCANTA EL EXCESO",
       "url": "https://open.spotify.com/track/5NQfXYpbujH50LeF65icHb"
@@ -719,7 +759,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-29",
       "duration_ms": 234336,
       "name": "Me sabe mal",
       "url": "https://open.spotify.com/track/3FnmU5kBbYvoW3AltpMtth"
@@ -737,7 +777,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200043,
       "name": "my future - spanish version",
       "url": "https://open.spotify.com/track/38m0prhs1ExF3q6dQHTMCm"
@@ -773,7 +813,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 259800,
       "name": "No Dices Mas",
       "url": "https://open.spotify.com/track/2udRqNX3z2OjdqR01ebDwU"
@@ -791,7 +831,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174452,
       "name": "No Estar\u00eda Tan Mal",
       "url": "https://open.spotify.com/track/4ttROL4K76305wGVsTczfU"
@@ -831,10 +871,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184421,
       "name": "No M3 Dejes 4SI",
       "url": "https://open.spotify.com/track/1CqlawHE9XjHjK7oQaDqop"
+    },
+    {
+      "album": {
+        "name": "No Me Dejes As\u00ed",
+        "url": "https://open.spotify.com/album/4n08POuFITwQukkmnc2fAO"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "No Me Dejes As\u00ed",
+      "url": "https://open.spotify.com/track/3uHofhho8p67xqPL8f2Pmt"
     },
     {
       "album": {
@@ -939,7 +997,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 180949,
       "name": "Perdida",
       "url": "https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW"
@@ -975,7 +1033,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": "2022-07-26",
       "duration_ms": 253714,
       "name": "Piedad",
       "url": "https://open.spotify.com/track/27jOQfdiGuKUw69HxKH9vV"
@@ -1105,7 +1163,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 204255,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/5n9f2joGDLVqVZ3xWYVWKt"
@@ -1123,7 +1181,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 198594,
       "name": "Sola",
       "url": "https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9"
@@ -1159,7 +1217,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 185681,
       "name": "un ni\u00f1o",
       "url": "https://open.spotify.com/track/1TXeqjCYIahhfooXkdb3aI"

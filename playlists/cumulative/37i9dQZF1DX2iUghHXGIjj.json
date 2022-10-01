@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Alabama Blues!",
+        "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194373,
+      "name": "Alabama Blues",
+      "url": "https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM"
+    },
+    {
+      "album": {
         "name": "Passionate Blues",
         "url": "https://open.spotify.com/album/7gmDAUOzdSNJf0x8HEhRFh"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194373,
       "name": "Alabama Blues",
       "url": "https://open.spotify.com/track/4ghvDvK0tWXLfvG4znwpAe"
@@ -167,10 +185,28 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237143,
       "name": "Bad Guy Necessity - Acoustic",
       "url": "https://open.spotify.com/track/08qYcblROPJzWHOhMFqSt2"
+    },
+    {
+      "album": {
+        "name": "Please Don't Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/76BB70ASc22gc7NcRTGSQl"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237143,
+      "name": "Bad Guy Necessity - Acoustic",
+      "url": "https://open.spotify.com/track/4VthU2Re0xqGF0qt6XHPMD"
     },
     {
       "album": {
@@ -189,6 +225,24 @@
       "duration_ms": 244904,
       "name": "Bad to the Bone",
       "url": "https://open.spotify.com/track/3yEPbndiOIRsH4FA2dBrTH"
+    },
+    {
+      "album": {
+        "name": "Banty Rooster Blues",
+        "url": "https://open.spotify.com/album/3XLhfpwOjTnPqRLg9AiNMA"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Peyton's Big Damn Band",
+          "url": "https://open.spotify.com/artist/6Ec85Uubz3lO7BIEvcBfZK"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246511,
+      "name": "Banty Rooster Blues",
+      "url": "https://open.spotify.com/track/4qTmr1QcPZNzj06rf0GA92"
     },
     {
       "album": {
@@ -273,7 +327,7 @@
     {
       "album": {
         "name": "Global Griot",
-        "url": "https://open.spotify.com/album/0b8jmTwNddvlh7RBTKTvPn"
+        "url": "https://open.spotify.com/album/2GraWMDrJYtWr4VbOGKwT3"
       },
       "artists": [
         {
@@ -286,7 +340,43 @@
       "date_removed": null,
       "duration_ms": 151403,
       "name": "Brazos River Blues",
+      "url": "https://open.spotify.com/track/0mhROANTkoXNVe3fF5DDPi"
+    },
+    {
+      "album": {
+        "name": "Global Griot",
+        "url": "https://open.spotify.com/album/0b8jmTwNddvlh7RBTKTvPn"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 151403,
+      "name": "Brazos River Blues",
       "url": "https://open.spotify.com/track/6lWbufKOd1mQYdhSYEL3vE"
+    },
+    {
+      "album": {
+        "name": "Head Bent",
+        "url": "https://open.spotify.com/album/4VXrAdqkFnz2qNJGO0wmKL"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Break My Fall",
+      "url": "https://open.spotify.com/track/6KbHosVLv94wZG6lhZdAp9"
     },
     {
       "album": {
@@ -301,7 +391,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 265360,
       "name": "Break My Fall",
       "url": "https://open.spotify.com/track/7FSeN06d370hAEdv7hCqcU"
@@ -337,10 +427,28 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220226,
       "name": "Bumble Bee (Live)",
       "url": "https://open.spotify.com/track/4eSv18SwAXoQJF6tPqFIyw"
+    },
+    {
+      "album": {
+        "name": "Live at Brighton Road",
+        "url": "https://open.spotify.com/album/35HfrF3OsVgByxsWYalUmC"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Bumble Bee (Live)",
+      "url": "https://open.spotify.com/track/4iS4vGzh365Wg0KutUiWoy"
     },
     {
       "album": {
@@ -409,7 +517,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-20",
       "duration_ms": 181040,
       "name": "Cross Creek Road",
       "url": "https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg"
@@ -507,7 +615,7 @@
     {
       "album": {
         "name": "Migration Blues",
-        "url": "https://open.spotify.com/album/3GUjuuxc6SUovceRCUngc2"
+        "url": "https://open.spotify.com/album/6zGiiAgHy41gVLOkhub2at"
       },
       "artists": [
         {
@@ -518,6 +626,24 @@
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 158066,
+      "name": "Delta Getaway",
+      "url": "https://open.spotify.com/track/5suBKFfUnbSDujh14lmxT0"
+    },
+    {
+      "album": {
+        "name": "Migration Blues",
+        "url": "https://open.spotify.com/album/3GUjuuxc6SUovceRCUngc2"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 158066,
       "name": "Delta Getaway",
       "url": "https://open.spotify.com/track/6puSbCX17EbrpJu0mIhUpw"
@@ -575,10 +701,28 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 448986,
       "name": "Don't Ask Me (Bonus Track)",
       "url": "https://open.spotify.com/track/5lvg4sQSRNgr3MND6SoEWR"
+    },
+    {
+      "album": {
+        "name": "Sonic Soul Surfer (Deluxe)",
+        "url": "https://open.spotify.com/album/45x5hEhdNvtx94NDAYrLEy"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448986,
+      "name": "Don't Ask Me (Bonus Track)",
+      "url": "https://open.spotify.com/track/6K90dTF2qbjHOMpPJ9dH3A"
     },
     {
       "album": {
@@ -688,8 +832,8 @@
     },
     {
       "album": {
-        "name": "Gimme a Pigfoot and a Bottle of Beer",
-        "url": "https://open.spotify.com/album/63cFrmjsqyaUh97l64IBAG"
+        "name": "A Woman's Soul: A Tribute to Bessie Smith",
+        "url": "https://open.spotify.com/album/5mWTJnKmVMCGEO6ZTu7VLz"
       },
       "artists": [
         {
@@ -702,7 +846,43 @@
       "date_removed": null,
       "duration_ms": 226733,
       "name": "Gimme a Pigfoot and a Bottle of Beer",
+      "url": "https://open.spotify.com/track/2Qdtq7tz7oNHHnvmQ1CSLa"
+    },
+    {
+      "album": {
+        "name": "Gimme a Pigfoot and a Bottle of Beer",
+        "url": "https://open.spotify.com/album/63cFrmjsqyaUh97l64IBAG"
+      },
+      "artists": [
+        {
+          "name": "Rory Block",
+          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226733,
+      "name": "Gimme a Pigfoot and a Bottle of Beer",
       "url": "https://open.spotify.com/track/6IXoRpgaFJEf8gSptfpFE6"
+    },
+    {
+      "album": {
+        "name": "Solo Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k"
+      },
+      "artists": [
+        {
+          "name": "Steve Hill",
+          "url": "https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297880,
+      "name": "Going Down the Road Feeling Bad",
+      "url": "https://open.spotify.com/track/0GKIy4nMb4mclMsgsSoAsw"
     },
     {
       "album": {
@@ -717,7 +897,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 297880,
       "name": "Going Down the Road Feeling Bad",
       "url": "https://open.spotify.com/track/70NvafQPgdytXWUe2Yvw1W"
@@ -761,7 +941,7 @@
     {
       "album": {
         "name": "Good Morning Little School Girl",
-        "url": "https://open.spotify.com/album/32oUg8gbTMLEZj4SoAFoXB"
+        "url": "https://open.spotify.com/album/3yYBnIVUvJrM6a0z8HNHOl"
       },
       "artists": [
         {
@@ -772,6 +952,24 @@
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Good Morning Little Schoolgirl",
+      "url": "https://open.spotify.com/track/2LtpyfWWnr5V96l3Js7LLX"
+    },
+    {
+      "album": {
+        "name": "Good Morning Little School Girl",
+        "url": "https://open.spotify.com/album/32oUg8gbTMLEZj4SoAFoXB"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Fred McDowell",
+          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 201600,
       "name": "Good Morning Little Schoolgirl",
       "url": "https://open.spotify.com/track/57WUir2snvdr1CakOsgtL7"
@@ -793,10 +991,32 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191666,
       "name": "Guitar & Harmonica Rag",
       "url": "https://open.spotify.com/track/093EX8opuhjCfFzrGOwXwj"
+    },
+    {
+      "album": {
+        "name": "Living Country Blues USA, Vol. 1",
+        "url": "https://open.spotify.com/album/7qQbThSdEViT0axddA7qEp"
+      },
+      "artists": [
+        {
+          "name": "Bowling Green John Cephas",
+          "url": "https://open.spotify.com/artist/1WLzLvyPtIKHVscQ8rbX1i"
+        },
+        {
+          "name": "Harmonica Phil Wiggins",
+          "url": "https://open.spotify.com/artist/6dyecnDdUXZovKXNnOv1wq"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Guitar & Harmonica Rag",
+      "url": "https://open.spotify.com/track/6DBVUOcItyqkuBkSwNelOX"
     },
     {
       "album": {
@@ -829,10 +1049,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 438840,
       "name": "Heavy Load",
       "url": "https://open.spotify.com/track/10zwPTX4CiU3axwgy4LcXW"
+    },
+    {
+      "album": {
+        "name": "Heavy Load Blues",
+        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438840,
+      "name": "Heavy Load",
+      "url": "https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2"
     },
     {
       "album": {
@@ -873,7 +1111,7 @@
     {
       "album": {
         "name": "Simple Truths",
-        "url": "https://open.spotify.com/album/0njoBaMuox6zxRG9Is8WRF"
+        "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
       },
       "artists": [
         {
@@ -886,7 +1124,43 @@
       "date_removed": null,
       "duration_ms": 280306,
       "name": "I'm So Lonely",
+      "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
+    },
+    {
+      "album": {
+        "name": "Simple Truths",
+        "url": "https://open.spotify.com/album/0njoBaMuox6zxRG9Is8WRF"
+      },
+      "artists": [
+        {
+          "name": "The Holmes Brothers",
+          "url": "https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280306,
+      "name": "I'm So Lonely",
       "url": "https://open.spotify.com/track/6BsaK0v4nm49vNd5ccHyRX"
+    },
+    {
+      "album": {
+        "name": "stripped back (deluxe) [Stripped Back]",
+        "url": "https://open.spotify.com/album/4HyyliTxijDyPMKcQt5AWS"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "in three years' time - Stripped Back",
+      "url": "https://open.spotify.com/track/3Vr5sIoub3YGiXWsZvnlmQ"
     },
     {
       "album": {
@@ -919,10 +1193,28 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269906,
       "name": "Johnny law",
       "url": "https://open.spotify.com/track/4z9Je08Qpyfn6q7bbiqmW5"
+    },
+    {
+      "album": {
+        "name": "Animals In The Dark",
+        "url": "https://open.spotify.com/album/5oD05jbDmF4rIENz7te94J"
+      },
+      "artists": [
+        {
+          "name": "William Elliott Whitmore",
+          "url": "https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269906,
+      "name": "Johnny law",
+      "url": "https://open.spotify.com/track/50NxwJPlcjsT7IqFshyuYP"
     },
     {
       "album": {
@@ -959,10 +1251,28 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174533,
       "name": "Keep Your Lamp Trimmed And Burning",
       "url": "https://open.spotify.com/track/1iilSLhyTDanY7cCPwZ3tl"
+    },
+    {
+      "album": {
+        "name": "Between Midnight And Day",
+        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Keep Your Lamp Trimmed And Burning",
+      "url": "https://open.spotify.com/track/5LTMzb6lrWkdgNl4CNwfwx"
     },
     {
       "album": {
@@ -1020,6 +1330,24 @@
     },
     {
       "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147506,
+      "name": "Life by the Drop",
+      "url": "https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn"
+    },
+    {
+      "album": {
         "name": "The Essential Stevie Ray Vaughan And Double Trouble 3.0",
         "url": "https://open.spotify.com/album/44gP7lSICNoSqTSCDyScnA"
       },
@@ -1035,7 +1363,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147200,
       "name": "Life By The Drop",
       "url": "https://open.spotify.com/track/4KENBGgFQIxliSjJGb8FYa"
@@ -1089,10 +1417,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222853,
       "name": "Lost & Lonesome",
       "url": "https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX"
+    },
+    {
+      "album": {
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222853,
+      "name": "Lost & Lonesome",
+      "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
     },
     {
       "album": {
@@ -1107,10 +1453,46 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 282428,
       "name": "Make Me A Pallet On Your Floor",
       "url": "https://open.spotify.com/track/3HdPVdqcuD2Qt2QgNogHw7"
+    },
+    {
+      "album": {
+        "name": "Avalon: A Tribute To Mississippi John Hurt",
+        "url": "https://open.spotify.com/album/3Uu8fwYnYrRgbFiWoRxIJB"
+      },
+      "artists": [
+        {
+          "name": "Rory Block",
+          "url": "https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 282428,
+      "name": "Make Me A Pallet On Your Floor",
+      "url": "https://open.spotify.com/track/4iZ0tK27xu65GMDW2mvOmg"
+    },
+    {
+      "album": {
+        "name": "Kokomo Kidd",
+        "url": "https://open.spotify.com/album/3jS9ngQkhrfertgQCIqaLH"
+      },
+      "artists": [
+        {
+          "name": "Guy Davis",
+          "url": "https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180506,
+      "name": "Maybe I'll Go",
+      "url": "https://open.spotify.com/track/0M3Ax4slidyDfv9Hq0rYQz"
     },
     {
       "album": {
@@ -1125,7 +1507,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180526,
       "name": "Maybe I'll Go",
       "url": "https://open.spotify.com/track/1cYa4SUJNBvpimXnJ5Usyk"
@@ -1187,10 +1569,36 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201746,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/2flh4b34mwwNSAK39s64Yl"
+    },
+    {
+      "album": {
+        "name": "Raw Sugar",
+        "url": "https://open.spotify.com/album/28CI62akHTySi71hTfUTye"
+      },
+      "artists": [
+        {
+          "name": "Jj Thames",
+          "url": "https://open.spotify.com/artist/3s40l5PuYSiN6ZxVatol8p"
+        },
+        {
+          "name": "Ben Hunter",
+          "url": "https://open.spotify.com/artist/58V5N7E20Bl4TOVAoJyi5g"
+        },
+        {
+          "name": "Joe Seamons",
+          "url": "https://open.spotify.com/artist/5Uzwtm5VofnD9EhZILeZ5a"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201746,
+      "name": "Oh Lord",
+      "url": "https://open.spotify.com/track/3K0nUaDXL7ghUjNYtGyjTE"
     },
     {
       "album": {
@@ -1277,10 +1685,46 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219000,
       "name": "Play With Your Poodle",
       "url": "https://open.spotify.com/track/2Q7j9wJk8DomZhKckPeHdy"
+    },
+    {
+      "album": {
+        "name": "Deep In The Blues",
+        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Play With Your Poodle",
+      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
+    },
+    {
+      "album": {
+        "name": "Blues for the Modern Daze",
+        "url": "https://open.spotify.com/album/7F73Pr637O5lVlXUsPgUFJ"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194013,
+      "name": "Pray For Rain",
+      "url": "https://open.spotify.com/track/1lE2aVjpBPUcDO1XlmD0yu"
     },
     {
       "album": {
@@ -1295,7 +1739,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194013,
       "name": "Pray For Rain",
       "url": "https://open.spotify.com/track/6TTV5D4GL999sZZgDSHLQU"
@@ -1353,10 +1797,46 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216453,
       "name": "Quarter On The Ground ( A Song For Uncle Joe)",
       "url": "https://open.spotify.com/track/6qDDv9vMjxxmhc4Jqh8nbL"
+    },
+    {
+      "album": {
+        "name": "Halfway Home By Morning",
+        "url": "https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216453,
+      "name": "Quarter on the Ground (A Song for Uncle Joe)",
+      "url": "https://open.spotify.com/track/3sqmtKa1JwnAxLJFkmOQIf"
+    },
+    {
+      "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "Rank Strangers",
+      "url": "https://open.spotify.com/track/75E8SwuE43G0bj3kHZlIts"
     },
     {
       "album": {
@@ -1371,10 +1851,32 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 99960,
       "name": "Ratchet Blues",
       "url": "https://open.spotify.com/track/53ctPcODtJvhxsdDQkumze"
+    },
+    {
+      "album": {
+        "name": "Sticks and Stones",
+        "url": "https://open.spotify.com/album/2dlPRyDPSkFzbEaHoGqkPt"
+      },
+      "artists": [
+        {
+          "name": "Eric Sardinas",
+          "url": "https://open.spotify.com/artist/6ioaRkg9SnP8mC2NP7Z2rB"
+        },
+        {
+          "name": "Big Motor",
+          "url": "https://open.spotify.com/artist/13xEB2Ahsm3Gl6rFLKFqbA"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99960,
+      "name": "Ratchet Blues",
+      "url": "https://open.spotify.com/track/0647hHN3O8D0OuOQFpfuuU"
     },
     {
       "album": {
@@ -1389,10 +1891,28 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186733,
       "name": "Refugee Moan",
       "url": "https://open.spotify.com/track/519peDYoPxR11QfcNJajXW"
+    },
+    {
+      "album": {
+        "name": "Migration Blues",
+        "url": "https://open.spotify.com/album/6zGiiAgHy41gVLOkhub2at"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "Refugee Moan",
+      "url": "https://open.spotify.com/track/6sN9oWUODtTqbOKSIZ7K7d"
     },
     {
       "album": {
@@ -1407,10 +1927,28 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177366,
       "name": "Riding In the Moonlight / Mr. Luck",
       "url": "https://open.spotify.com/track/1mkxMjrjzzXU9mg4S375Zo"
+    },
+    {
+      "album": {
+        "name": "Blue Highways",
+        "url": "https://open.spotify.com/album/6mzGzBApcOc4JDzzFZTljw"
+      },
+      "artists": [
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177366,
+      "name": "Riding In the Moonlight / Mr. Luck",
+      "url": "https://open.spotify.com/track/1rmpguQGqC1YWy9i99YIQC"
     },
     {
       "album": {
@@ -1458,6 +1996,24 @@
     },
     {
       "album": {
+        "name": "Harlem Street Singer",
+        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "Samson And Delilah",
+      "url": "https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV"
+    },
+    {
+      "album": {
         "name": "Harlem Street Singer (Remastered)",
         "url": "https://open.spotify.com/album/4IwcZDJileSoKXbfQjyRFB"
       },
@@ -1469,7 +2025,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243600,
       "name": "Samson And Delilah",
       "url": "https://open.spotify.com/track/3Z1uHWxTB4YF82VSaSyrDa"
@@ -1509,10 +2065,28 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183311,
       "name": "See That My Grave Is Kept Clean",
       "url": "https://open.spotify.com/track/3Cx3GZApS0HveX3oUqpXAl"
+    },
+    {
+      "album": {
+        "name": "Miles To Go",
+        "url": "https://open.spotify.com/album/2qYDJzQe2Y0EoV2y4TpVDW"
+      },
+      "artists": [
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183311,
+      "name": "See That My Grave Is Kept Clean",
+      "url": "https://open.spotify.com/track/7vdcotQVRcTBwNiI4ZFNfz"
     },
     {
       "album": {
@@ -1527,10 +2101,28 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215933,
       "name": "Seven Hours Of Light",
       "url": "https://open.spotify.com/track/1dsdV2Rjbc69aQKCWvUAjH"
+    },
+    {
+      "album": {
+        "name": "Respect the Dead",
+        "url": "https://open.spotify.com/album/6PiyC1fabaZwH9sdnB6nYs"
+      },
+      "artists": [
+        {
+          "name": "Otis Taylor",
+          "url": "https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 215933,
+      "name": "Seven Hours Of Light",
+      "url": "https://open.spotify.com/track/67aqYLBHQsN18Y6ifzbXqC"
     },
     {
       "album": {
@@ -1570,6 +2162,24 @@
     },
     {
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184360,
+      "name": "Should've Learnt My Lesson - Deuce Album Session / Alternative Acoustic Take / 1971",
+      "url": "https://open.spotify.com/track/3TLHIqYpEdtjivr3IN1dMB"
+    },
+    {
+      "album": {
         "name": "Should've Learnt My Lesson (Deuce Session / Alternative Acoustic Take / 1971)",
         "url": "https://open.spotify.com/album/75AvgyhRwWC33BhWwPKkNd"
       },
@@ -1581,7 +2191,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184360,
       "name": "Should've Learnt My Lesson - Deuce Session / Alternative Acoustic Take / 1971",
       "url": "https://open.spotify.com/track/3FXuf8Xy906gEYERZMHlsG"
@@ -1617,10 +2227,28 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206492,
       "name": "Slowly Slipping Away",
       "url": "https://open.spotify.com/track/1O3uMuRCBc6E4RmhJGW5Jn"
+    },
+    {
+      "album": {
+        "name": "Solo Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7s0ssvbmHNrMUA1z2TTp5k"
+      },
+      "artists": [
+        {
+          "name": "Steve Hill",
+          "url": "https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206492,
+      "name": "Slowly Slipping Away",
+      "url": "https://open.spotify.com/track/2esnC3sEMqLfQvF4qaCJfA"
     },
     {
       "album": {
@@ -1635,7 +2263,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 347533,
       "name": "So Grateful",
       "url": "https://open.spotify.com/track/1U236FYzQEdMWn1hMM0gQn"
@@ -1679,7 +2307,7 @@
     {
       "album": {
         "name": "Brother Sinner & The Whale",
-        "url": "https://open.spotify.com/album/49SYH9sbBqVVLhFP1XJW8O"
+        "url": "https://open.spotify.com/album/7BsEu3aR82GbSKxMhbGnUS"
       },
       "artists": [
         {
@@ -1692,7 +2320,61 @@
       "date_removed": null,
       "duration_ms": 276106,
       "name": "Talkin' To Jehova",
+      "url": "https://open.spotify.com/track/2htN0gyb1WiJliAq9LtDza"
+    },
+    {
+      "album": {
+        "name": "Brother Sinner & The Whale",
+        "url": "https://open.spotify.com/album/49SYH9sbBqVVLhFP1XJW8O"
+      },
+      "artists": [
+        {
+          "name": "Kelly Joe Phelps",
+          "url": "https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276106,
+      "name": "Talkin' To Jehova",
       "url": "https://open.spotify.com/track/69gubiWawGe46tKg6DpIyG"
+    },
+    {
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176001,
+      "name": "The Dolls Are Sleeping",
+      "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
+    },
+    {
+      "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206040,
+      "name": "The World Can Be So Cold",
+      "url": "https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd"
     },
     {
       "album": {
@@ -1707,7 +2389,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206040,
       "name": "The World Can Be So Cold",
       "url": "https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG"
@@ -1845,7 +2527,7 @@
     {
       "album": {
         "name": "Hundred Dollar Valentine",
-        "url": "https://open.spotify.com/album/15qeyD4UdDxtNCAQyWEb44"
+        "url": "https://open.spotify.com/album/1OsaTxNg63FgnAqMVvIcC7"
       },
       "artists": [
         {
@@ -1856,6 +2538,24 @@
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 166240,
+      "name": "What They Say",
+      "url": "https://open.spotify.com/track/24NvptbNKGs6sPy1Vh1O0v"
+    },
+    {
+      "album": {
+        "name": "Hundred Dollar Valentine",
+        "url": "https://open.spotify.com/album/15qeyD4UdDxtNCAQyWEb44"
+      },
+      "artists": [
+        {
+          "name": "Chris Smither",
+          "url": "https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 166240,
       "name": "What They Say",
       "url": "https://open.spotify.com/track/6KbsA9kAmOcECPJeCy58XO"
@@ -1920,6 +2620,24 @@
     },
     {
       "album": {
+        "name": "Booker's Guitar",
+        "url": "https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221120,
+      "name": "With My Maker I Am One",
+      "url": "https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP"
+    },
+    {
+      "album": {
         "name": "Booker\u2019s Guitar",
         "url": "https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr"
       },
@@ -1931,7 +2649,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221120,
       "name": "With My Maker I Am One",
       "url": "https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY"

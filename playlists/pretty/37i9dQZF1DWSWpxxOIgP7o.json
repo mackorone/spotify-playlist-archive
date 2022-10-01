@@ -1,0 +1,834 @@
+{
+  "description": "The official playlist for MO. Watch now on Netflix!",
+  "num_followers": 950,
+  "original_name": "MO Official Playlist",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY2MjcyODE5NiwwMDAwMDAwMDIwNGQyZTc5ZDViYjUxMTY5ZDJhZmUxMmU0ODdmODI4",
+  "tracks": [
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Southern Hip Hop",
+        "url": "https://open.spotify.com/album/3uaOPy2KG1oTOgGAsfPSed"
+      },
+      "artists": [
+        {
+          "name": "Oilver Grey",
+          "url": "https://open.spotify.com/artist/1cxN1fWNmQgVad8POsxOj2"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Riding Down South",
+      "url": "https://open.spotify.com/track/1dJzejhJpke1MFD5zpb1eN"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Ben Haana Wa Maana",
+        "url": "https://open.spotify.com/album/6Xjqp2NNwKN2gQM9PQBglt"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        }
+      ],
+      "duration_ms": 268986,
+      "name": "Emta Njawzak Yamma",
+      "url": "https://open.spotify.com/track/3tKP4uEWIbOhsFzPBkSumU"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "The People's Champ",
+        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Big Pokey",
+          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Sittin' Sidewayz (feat. Big Pokey)",
+      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "duration_ms": 61806,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/4q0dCs7oOlqiUPx8BoybhK"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "\u0644\u0648 \u0634\u0631\u0628\u0648\u0627 \u0627\u0644\u0628\u062d\u0631",
+        "url": "https://open.spotify.com/album/24PtKjUywK5sFRY0w6TEGC"
+      },
+      "artists": [
+        {
+          "name": "Walla'at",
+          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
+        }
+      ],
+      "duration_ms": 239253,
+      "name": "\u0644\u0648 \u0634\u0631\u0628\u0648\u0627 \u0627\u0644\u0628\u062d\u0631",
+      "url": "https://open.spotify.com/track/4XGofstKHT8H7tmt68DnKw"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Work All Day",
+        "url": "https://open.spotify.com/album/1VWeukpfBJ6LVJ68zXXhBP"
+      },
+      "artists": [
+        {
+          "name": "Matt Koziol",
+          "url": "https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "Work All Day",
+      "url": "https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "duration_ms": 45370,
+      "name": "Mo Escapes Gunfire",
+      "url": "https://open.spotify.com/track/6Kv9szNT7x8QbO9owwpJwO"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Pardon My French",
+        "url": "https://open.spotify.com/album/0Oei3ZeGpEyq73E5PnPmvZ"
+      },
+      "artists": [
+        {
+          "name": "Jahari Massamba Unit",
+          "url": "https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "duration_ms": 288340,
+      "name": "Hommage \u00c0 La Vielle Garde (Pour Lafarge Et Rinaldi)",
+      "url": "https://open.spotify.com/track/6V107UaAxQkw6JJb7qy8n8"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Return of the Trill",
+        "url": "https://open.spotify.com/album/2zJwPCX53y4xeWjvcKAO17"
+      },
+      "artists": [
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 244600,
+      "name": "Rudeboi (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/67s1bLy25GxjEgAuHRaQr4"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Hamdulillah (Music From The Netflix Series Mo)",
+        "url": "https://open.spotify.com/album/0YnkmJkudVhAnOvHEHcBC0"
+      },
+      "artists": [
+        {
+          "name": "Narcy",
+          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
+        },
+        {
+          "name": "Shadia Mansour",
+          "url": "https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93"
+        },
+        {
+          "name": "Sandhill",
+          "url": "https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2"
+        }
+      ],
+      "duration_ms": 235061,
+      "name": "Hamdulillah - Music From The Netflix Series Mo",
+      "url": "https://open.spotify.com/track/6X1aG6YCoSqsLPI7t56n4D"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "From Coast To Coast",
+        "url": "https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx"
+      },
+      "artists": [
+        {
+          "name": "Lil\u2019 Keke",
+          "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "name": "Fat Pat",
+          "url": "https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh"
+        },
+        {
+          "name": "DJ DMD",
+          "url": "https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL"
+        }
+      ],
+      "duration_ms": 287813,
+      "name": "25 Lighters",
+      "url": "https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "All The Way Up (feat. Infared)",
+        "url": "https://open.spotify.com/album/7vzvohRzBtrnr3miUJrpAk"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "InfaRed",
+          "url": "https://open.spotify.com/artist/4R529xQ7WQfRpSEXaHFbRg"
+        }
+      ],
+      "duration_ms": 191942,
+      "name": "All The Way Up (feat. Infared)",
+      "url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "duration_ms": 113420,
+      "name": "What It Do",
+      "url": "https://open.spotify.com/track/6OehApq6QDWGEiLJK3C2ji"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "La Tejanita",
+        "url": "https://open.spotify.com/album/0UWFEUBRSrPJSts2DCpoOC"
+      },
+      "artists": [
+        {
+          "name": "Ale Y Aleks",
+          "url": "https://open.spotify.com/artist/79C5zzXeoLeB0HjgemCmd1"
+        }
+      ],
+      "duration_ms": 182389,
+      "name": "La Tejanita",
+      "url": "https://open.spotify.com/track/3iMH2LtYYm5A04bXnf4JYs"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Deserted Tree",
+        "url": "https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "duration_ms": 165555,
+      "name": "Deserted Tree",
+      "url": "https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Chacal",
+        "url": "https://open.spotify.com/album/5IwIn3NUtgmCTGci0UDlXb"
+      },
+      "artists": [
+        {
+          "name": "Idrissi",
+          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Chacal",
+      "url": "https://open.spotify.com/track/3AS9WJtZGzR1rHdD1M8CFg"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/5hN3wqb9mYuWI31s0vggik"
+      },
+      "artists": [
+        {
+          "name": "Moody Jones",
+          "url": "https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/7sU86lbmcT6ks3tw2MMwoB"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "3 N The Mornin\u2019 Part Two",
+        "url": "https://open.spotify.com/album/2F7xZ22zn1KZRlM4v6M9de"
+      },
+      "artists": [
+        {
+          "name": "DJ Screw",
+          "url": "https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul"
+        },
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr"
+        }
+      ],
+      "duration_ms": 77653,
+      "name": "Sippin Codine",
+      "url": "https://open.spotify.com/track/5gC56RBCPbLFM8E21Qt1Xg"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Na'na' Ya Na'na'",
+        "url": "https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "Azzab Al Jammal",
+      "url": "https://open.spotify.com/track/1LpEvUyy6VtqrqVLYmDnzg"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "The HamilTones",
+          "url": "https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs"
+        }
+      ],
+      "duration_ms": 163763,
+      "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The Hamiltones)",
+      "url": "https://open.spotify.com/track/3573jCFXznoZWv3BjNUEOq"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Elyanna 2",
+        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 139288,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "How I Walk",
+        "url": "https://open.spotify.com/album/5eGhBfPFGMbXzHdqybDecn"
+      },
+      "artists": [
+        {
+          "name": "Donnie B Good",
+          "url": "https://open.spotify.com/artist/3uGHjDqBqHpIS2gsfqyFzd"
+        },
+        {
+          "name": "Big Jade",
+          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
+        }
+      ],
+      "duration_ms": 180048,
+      "name": "How I Walk",
+      "url": "https://open.spotify.com/track/0xdWSX61xPOemnWvlcjL7u"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Electric Circus",
+        "url": "https://open.spotify.com/album/4eD2SoySMPRl0SBv7rqk1X"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Vinia Mojica",
+          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
+        },
+        {
+          "name": "Marie Daulne",
+          "url": "https://open.spotify.com/artist/14t0loczakerhStTFLNsqF"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Ferris Wheel",
+      "url": "https://open.spotify.com/track/06Rp7s2FfiaX0bCzmgILPP"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Finish The Job",
+        "url": "https://open.spotify.com/album/1Z0MnLwjmyabTYIWnuIEPi"
+      },
+      "artists": [
+        {
+          "name": "Big Mike",
+          "url": "https://open.spotify.com/artist/2NeBwEmM7I71IsGl1y6FG0"
+        }
+      ],
+      "duration_ms": 236050,
+      "name": "Finish The Job",
+      "url": "https://open.spotify.com/track/3LD4c7NLfSXbEerCMGddPY"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "duration_ms": 122642,
+      "name": "Cash At The Border",
+      "url": "https://open.spotify.com/track/1pFca8MT2ZuCs1g6MbuaMW"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Slide (feat. P-Lo & Mozzy)",
+        "url": "https://open.spotify.com/album/4I8VqVmpnuyxTnkIblkj4B"
+      },
+      "artists": [
+        {
+          "name": "ReeceBeats",
+          "url": "https://open.spotify.com/artist/5L1QSgQEkpWF3KvUBZWuz7"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "duration_ms": 144117,
+      "name": "Slide (feat. P-Lo & Mozzy)",
+      "url": "https://open.spotify.com/track/3KQNqnurmpjv0rBnVPsy1M"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "My cousin Nicole",
+          "url": "https://open.spotify.com/artist/2uP6Mer05NJAZypWG5HSiK"
+        }
+      ],
+      "duration_ms": 337423,
+      "name": "How Great (feat. Jay Electronica & My cousin Nicole)",
+      "url": "https://open.spotify.com/track/0OT0cCKbSmSMRvyWeqEFBq"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "The Legend",
+        "url": "https://open.spotify.com/album/1Rj1Km93UOyuTPbQH1H1Lw"
+      },
+      "artists": [
+        {
+          "name": "DJ Screw",
+          "url": "https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul"
+        },
+        {
+          "name": "K-Rino",
+          "url": "https://open.spotify.com/artist/4PNCV9uLP7AX5G0tWjbn5f"
+        },
+        {
+          "name": "Z-Ro",
+          "url": "https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "The Game Goes On",
+      "url": "https://open.spotify.com/track/4oxuZmT8MZBDgmSKABVTfZ"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/6LCLAYG6WcClrd3t1f39gw"
+      },
+      "artists": [
+        {
+          "name": "Sammy Shiblaq",
+          "url": "https://open.spotify.com/artist/7edxEDtHLLCarGwzp5lpIG"
+        }
+      ],
+      "duration_ms": 147697,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/39pxdsIduDagORLDxf7sUI"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Moe Life",
+        "url": "https://open.spotify.com/album/0PnUbRaZoWYVy3FYF8kSwo"
+      },
+      "artists": [
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr"
+        }
+      ],
+      "duration_ms": 253546,
+      "name": "Just A Dog",
+      "url": "https://open.spotify.com/track/3hUXBzW8zP2koWrxG5fNeL"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Shamstep",
+        "url": "https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM"
+      },
+      "artists": [
+        {
+          "name": "47SOUL",
+          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
+        }
+      ],
+      "duration_ms": 334760,
+      "name": "Intro to Shamstep",
+      "url": "https://open.spotify.com/track/0DWUQlg6LVJiroEudYaORI"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "My Person",
+        "url": "https://open.spotify.com/album/0YgTXxeHnrkpszlSMEMnYJ"
+      },
+      "artists": [
+        {
+          "name": "Brandon Ray",
+          "url": "https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "My Person",
+      "url": "https://open.spotify.com/track/0e2xssjHY1uBbkDHDFxHZp"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Shirelles (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2Afzpg3NmxEWq1nNtoUWEG"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 196760,
+      "name": "Sunday Dreaming",
+      "url": "https://open.spotify.com/track/3TclLf5lQhBdvtZ0VMENRr"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "\u0632\u0641\u0629 \u0627\u0644\u0639\u0631\u0633\u0627\u0646",
+        "url": "https://open.spotify.com/album/6QPfNudiDwHu9Rz3wm73XQ"
+      },
+      "artists": [
+        {
+          "name": "Zuhair Francis",
+          "url": "https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp"
+        },
+        {
+          "name": "Wissam Habib",
+          "url": "https://open.spotify.com/artist/125cWTvLaDz90ZdWaPmJbb"
+        }
+      ],
+      "duration_ms": 176062,
+      "name": "\u0632\u0641\u0629 \u0627\u0644\u0639\u0631\u0633\u0627\u0646",
+      "url": "https://open.spotify.com/track/48VEHup4JLbx5BkuC0W9HD"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "All Screwed Up, Vol. II",
+        "url": "https://open.spotify.com/album/05qVKtCTd3o2NTcD34aZge"
+      },
+      "artists": [
+        {
+          "name": "DJ Screw",
+          "url": "https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul"
+        },
+        {
+          "name": "Point Blank",
+          "url": "https://open.spotify.com/artist/5Nz0G9zAjZVmIgqtGfHham"
+        }
+      ],
+      "duration_ms": 397466,
+      "name": "My Mind Went Blank",
+      "url": "https://open.spotify.com/track/7zfLS7MJmy8zmj1OL7s6bk"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Hassan Sabi",
+        "url": "https://open.spotify.com/album/0NtEHDs6K85QbceqGIqKaR"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Bitar",
+          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Bayara",
+      "url": "https://open.spotify.com/track/3I3n1uoTzDGw2qiTR3zBhs"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Maj\u00e2z",
+        "url": "https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA"
+      },
+      "artists": [
+        {
+          "name": "Le Trio Joubran",
+          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
+        }
+      ],
+      "duration_ms": 296853,
+      "name": "Mas\u00e2r",
+      "url": "https://open.spotify.com/track/5FU96SFEwMyiKnLsPhoNuh"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Fight On",
+        "url": "https://open.spotify.com/album/2NJS4GLXb6Dj4uD7sAN638"
+      },
+      "artists": [
+        {
+          "name": "Slick Naim",
+          "url": "https://open.spotify.com/artist/1aGn0mfsx7lmhS2HaI7VDJ"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Fight On",
+      "url": "https://open.spotify.com/track/0PDx7nmFGS1x7P3wjc0TTL"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Go Go",
+        "url": "https://open.spotify.com/album/4FzOimSLObpwiwJudOeqQx"
+      },
+      "artists": [
+        {
+          "name": "Leil",
+          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Go Go",
+      "url": "https://open.spotify.com/track/1WB6QiqUfkiuGdx823C5Lu"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "Overdose (From the Netflix Series \"Mo\")",
+        "url": "https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        },
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        }
+      ],
+      "duration_ms": 174673,
+      "name": "Overdose - From the Netflix Series \"Mo\"",
+      "url": "https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp"
+    },
+    {
+      "added_at": "2022-09-09 12:56:36",
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "duration_ms": 108186,
+      "name": "End Credits",
+      "url": "https://open.spotify.com/track/7hWSzHq7cfUMyeWhFow6sp"
+    }
+  ],
+  "unique_name": "MO Official Playlist",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSWpxxOIgP7o"
+}

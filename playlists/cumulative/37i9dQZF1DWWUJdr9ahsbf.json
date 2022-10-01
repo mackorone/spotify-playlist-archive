@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Carolyna (Edited Version)",
+        "url": "https://open.spotify.com/album/4cSsmBCDVoi8lVUsQYuVdE"
+      },
+      "artists": [
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "date_added": "2021-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243960,
+      "name": "First Day Of My Life",
+      "url": "https://open.spotify.com/track/5R2CW58tHNMbCRxxw5Czkw"
+    },
+    {
+      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/2rd04W6HYnxgkQcMyuVsCe"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243986,
       "name": "First Day Of My Life",
       "url": "https://open.spotify.com/track/3Uw1TQp2KyidoZUAMbFqRA"
@@ -188,6 +206,28 @@
     },
     {
       "album": {
+        "name": "Stages (Edited Version)",
+        "url": "https://open.spotify.com/album/2KLgp2zVeJxsLgtM3WSFaP"
+      },
+      "artists": [
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        },
+        {
+          "name": "Emma Bunton",
+          "url": "https://open.spotify.com/artist/2AEEnr6Le5zHzBwpnlZSmq"
+        }
+      ],
+      "date_added": "2021-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264266,
+      "name": "I Know Him So Well",
+      "url": "https://open.spotify.com/track/5wlQ23VlVfhHGcFMlxmHQP"
+    },
+    {
+      "album": {
         "name": "Stages",
         "url": "https://open.spotify.com/album/2BWyAjqffkx7lbn1lvPzfC"
       },
@@ -203,7 +243,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 264266,
       "name": "I Know Him So Well (feat. Emma Bunton)",
       "url": "https://open.spotify.com/track/48nODnC4U93lpNRx1LP2L7"

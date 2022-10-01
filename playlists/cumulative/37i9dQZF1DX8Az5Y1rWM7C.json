@@ -165,7 +165,7 @@
     {
       "album": {
         "name": "Ag\u00fcita",
-        "url": "https://open.spotify.com/album/0EYeCdEufuv5e94Vxd75rn"
+        "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
       },
       "artists": [
         {
@@ -176,6 +176,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193416,
+      "name": "Ag\u00fcita",
+      "url": "https://open.spotify.com/track/1meFyuPuPiX207yLeTcvYY"
+    },
+    {
+      "album": {
+        "name": "Ag\u00fcita",
+        "url": "https://open.spotify.com/album/0EYeCdEufuv5e94Vxd75rn"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 193416,
       "name": "Ag\u00fcita",
       "url": "https://open.spotify.com/track/6m6EZFUKT8308VXwBurewn"
@@ -307,7 +325,7 @@
     {
       "album": {
         "name": "Burbujas de Cristal",
-        "url": "https://open.spotify.com/album/63x472Q4wWqzhfjUURqAfU"
+        "url": "https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ"
       },
       "artists": [
         {
@@ -322,6 +340,28 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224624,
+      "name": "Burbujas de Cristal",
+      "url": "https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa"
+    },
+    {
+      "album": {
+        "name": "Burbujas de Cristal",
+        "url": "https://open.spotify.com/album/63x472Q4wWqzhfjUURqAfU"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 224624,
       "name": "Burbujas de Cristal",
       "url": "https://open.spotify.com/track/4X1fQMrCbBLSkZKPvhO1Kj"
@@ -428,6 +468,28 @@
     },
     {
       "album": {
+        "name": "ANHMATSV",
+        "url": "https://open.spotify.com/album/5cpUiATf6r2KWEBb9aGPqz"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187071,
+      "name": "Coron\u00e9",
+      "url": "https://open.spotify.com/track/0SepUdFlQjKMBB3LETGaeK"
+    },
+    {
+      "album": {
         "name": "Coron\u00e9",
         "url": "https://open.spotify.com/album/5IHsWTk87UdGdSb9TJca4v"
       },
@@ -443,7 +505,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187071,
       "name": "Coron\u00e9",
       "url": "https://open.spotify.com/track/6KHtkTlIFgN8ZISoX8X9sN"
@@ -752,6 +814,24 @@
     },
     {
       "album": {
+        "name": "Hay Vida en Venus",
+        "url": "https://open.spotify.com/album/0sWnir8GiTLpROsfBuMHRF"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209230,
+      "name": "Hasta Que Salga el Sol",
+      "url": "https://open.spotify.com/track/1QqZIOb0TJN5e0xvU1GmMp"
+    },
+    {
+      "album": {
         "name": "Hasta Que Salga el Sol",
         "url": "https://open.spotify.com/album/1z3dJze0v30WJxORECHCE8"
       },
@@ -763,7 +843,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209230,
       "name": "Hasta Que Salga el Sol",
       "url": "https://open.spotify.com/track/2u02P0y6omgiLmEVCd7WdV"
@@ -955,7 +1035,7 @@
     {
       "album": {
         "name": "Atrevido",
-        "url": "https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB"
+        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
       "artists": [
         {
@@ -982,6 +1062,40 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219201,
+      "name": "Mamichula - con Nicki Nicole",
+      "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
+    },
+    {
+      "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "TATOOL",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/4pXW6ZAHBz7ODXTRKklWrM"
@@ -1117,21 +1231,35 @@
     {
       "album": {
         "name": "N\u00e3o Me Sinto Mal Mais",
+        "url": "https://open.spotify.com/album/38xxqYIupf9TLEPjhAShBP"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265355,
+      "name": "N\u00e3o Me Sinto Mal Mais",
+      "url": "https://open.spotify.com/track/2YJtRdd9duQ0bEDMKZ79Hw"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Me Sinto Mal Mais",
         "url": "https://open.spotify.com/album/3GkFmC2guCvyAkcaS95nhc"
       },
       "artists": [
         {
           "name": "Sidoka",
           "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Intactoz Corp.",
-          "url": "https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw"
         }
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-27",
       "duration_ms": 265355,
       "name": "N\u00e3o Me Sinto Mal Mais",
       "url": "https://open.spotify.com/track/563yuGweEqRVQtjfsDVRyK"
@@ -1161,6 +1289,44 @@
       "duration_ms": 260787,
       "name": "Pininfarina - Remix",
       "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
+    },
+    {
+      "album": {
+        "name": "SIN PRONTUARIO",
+        "url": "https://open.spotify.com/album/0JhThijVyy7mFSewn2Bkgx"
+      },
+      "artists": [
+        {
+          "name": "Peke\u00f1o 77",
+          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318261,
+      "name": "Rangos II",
+      "url": "https://open.spotify.com/track/2TGZPm8tRKgepIZ6RuE1tt"
     },
     {
       "album": {
@@ -1199,7 +1365,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-26",
       "duration_ms": 318261,
       "name": "Rangos II",
       "url": "https://open.spotify.com/track/6UZqzprpRF4X7cG6S9FSTA"
@@ -1373,6 +1539,36 @@
     {
       "album": {
         "name": "Yakuza",
+        "url": "https://open.spotify.com/album/4njpct4ZRvdI4ZsdrkRyQo"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        },
+        {
+          "name": "El Futuro Fuera De Orbita",
+          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        },
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268330,
+      "name": "Yakuza",
+      "url": "https://open.spotify.com/track/0gPM83N4pcucaFMNbUX2eR"
+    },
+    {
+      "album": {
+        "name": "Yakuza",
         "url": "https://open.spotify.com/album/1s4ePDQFcWpMKB4pZg8vhZ"
       },
       "artists": [
@@ -1395,7 +1591,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268330,
       "name": "Yakuza",
       "url": "https://open.spotify.com/track/5TqygamzZB0stiKif5fFs6"

@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj"
+      },
+      "artists": [
+        {
+          "name": "Sanyo Green",
+          "url": "https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215235,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx"
+    },
+    {
+      "album": {
         "name": "Ascending",
         "url": "https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz"
       },
@@ -152,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Alunissage",
+        "url": "https://open.spotify.com/album/0JwgAGmFOckRMnqShQVbGG"
+      },
+      "artists": [
+        {
+          "name": "Clyde Boudreaux",
+          "url": "https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176317,
+      "name": "Alunissage",
+      "url": "https://open.spotify.com/track/3I9DGW4nS3BJJeyoPNuOHS"
+    },
+    {
+      "album": {
         "name": "Amedeo",
         "url": "https://open.spotify.com/album/1IOS446kWjWHlpc7JGJCch"
       },
@@ -188,6 +224,28 @@
     },
     {
       "album": {
+        "name": "Memoir Collections I \u2013 Beginnings",
+        "url": "https://open.spotify.com/album/72bKzpkvAToOhG3EuzUrTi"
+      },
+      "artists": [
+        {
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+        },
+        {
+          "name": "Philip G Anderson",
+          "url": "https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 147000,
+      "name": "As With The Night Sky",
+      "url": "https://open.spotify.com/track/5uS36I6YMNcYIELbLNcsnz"
+    },
+    {
+      "album": {
         "name": "Memoir Collections I - Beginnings",
         "url": "https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU"
       },
@@ -203,7 +261,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147000,
       "name": "As With The Night Sky",
       "url": "https://open.spotify.com/track/6nJUw7h8liQrCLhqlNTL59"
@@ -383,7 +441,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 186773,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2vx0jQ9EMGFcQNiY1wEThp"
@@ -509,7 +567,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 178301,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/2JKTufHV78tTDTPg4r8SWx"
@@ -642,6 +700,24 @@
     },
     {
       "album": {
+        "name": "Alternatives",
+        "url": "https://open.spotify.com/album/5VPVnonNWHMwTQCgQN0aAk"
+      },
+      "artists": [
+        {
+          "name": "Alva Adler",
+          "url": "https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166946,
+      "name": "Delicate Silence",
+      "url": "https://open.spotify.com/track/6qGtOGeYlQc52iHd2SkKwC"
+    },
+    {
+      "album": {
         "name": "Departing",
         "url": "https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB"
       },
@@ -689,7 +765,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 197038,
       "name": "Distant",
       "url": "https://open.spotify.com/track/7czmviSHPd55HKidnHmYYB"
@@ -725,7 +801,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 187200,
       "name": "Divine",
       "url": "https://open.spotify.com/track/5mdvqfYB4Efy14X88LtTB5"
@@ -873,6 +949,24 @@
       "duration_ms": 176371,
       "name": "Ein neuer Tag",
       "url": "https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR"
+    },
+    {
+      "album": {
+        "name": "Eleni",
+        "url": "https://open.spotify.com/album/52qI0dktuJ4W5s08Yilflu"
+      },
+      "artists": [
+        {
+          "name": "Carwyn",
+          "url": "https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141133,
+      "name": "Eleni",
+      "url": "https://open.spotify.com/track/62FsGEI77Ot7VXNcA2ReHz"
     },
     {
       "album": {
@@ -1053,7 +1147,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 208888,
       "name": "Finding Calmness",
       "url": "https://open.spotify.com/track/5ca7B7Qi2gpzPELK9lBab0"
@@ -1205,6 +1299,24 @@
     {
       "album": {
         "name": "Breath of Life",
+        "url": "https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178926,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/331iLszrgVOeYNl2KKn12j"
+    },
+    {
+      "album": {
+        "name": "Breath of Life",
         "url": "https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg"
       },
       "artists": [
@@ -1215,7 +1327,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178926,
       "name": "Gone",
       "url": "https://open.spotify.com/track/4p7LooYAQniOpcNLunFnF3"
@@ -1456,6 +1568,42 @@
     },
     {
       "album": {
+        "name": "Into the light",
+        "url": "https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id"
+      },
+      "artists": [
+        {
+          "name": "Haldur",
+          "url": "https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146364,
+      "name": "Into the light",
+      "url": "https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS"
+    },
+    {
+      "album": {
+        "name": "It Can Wait",
+        "url": "https://open.spotify.com/album/3tF55dCt7sfIDY7YefEwre"
+      },
+      "artists": [
+        {
+          "name": "Alma Meris",
+          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172358,
+      "name": "It Can Wait",
+      "url": "https://open.spotify.com/track/1dEGL08epUeUDXNr5qfSSX"
+    },
+    {
+      "album": {
         "name": "Jupiter",
         "url": "https://open.spotify.com/album/4MOIk31rXkeM3VYy6Dt72L"
       },
@@ -1467,7 +1615,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 122389,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/0X4MfCEzXp28yrhUKpOadD"
@@ -1629,7 +1777,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-13",
       "duration_ms": 165600,
       "name": "Lonely Hearts",
       "url": "https://open.spotify.com/track/2NHvznYFCm8Fx7UE7sTZGa"
@@ -1975,6 +2123,24 @@
       "duration_ms": 187250,
       "name": "No me despiertes",
       "url": "https://open.spotify.com/track/3CkHOquzU3g6ekoYiuo5Fo"
+    },
+    {
+      "album": {
+        "name": "Noche Brilliante",
+        "url": "https://open.spotify.com/album/2HGRxLG4zOXpVAYQcRbE6e"
+      },
+      "artists": [
+        {
+          "name": "Santiago Penitente",
+          "url": "https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141995,
+      "name": "Noche Brilliante",
+      "url": "https://open.spotify.com/track/2kVsD3DNreqNJ0CdM2ix2U"
     },
     {
       "album": {
@@ -3364,6 +3530,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3lestur",
+        "url": "https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN"
+      },
+      "artists": [
+        {
+          "name": "Elsa Gudmundsdottir",
+          "url": "https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129103,
+      "name": "S\u00f3lestur",
+      "url": "https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH"
+    },
+    {
+      "album": {
         "name": "Tales From The Loom",
         "url": "https://open.spotify.com/album/5aCsWcoseMFMCrOWB9qA15"
       },
@@ -3609,7 +3793,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 166666,
       "name": "Tiny Elephants",
       "url": "https://open.spotify.com/track/0bF7Po3DHoTqcigWwgd2Xi"
@@ -3815,6 +3999,24 @@
     {
       "album": {
         "name": "P.S. I'm Still Here",
+        "url": "https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1"
+      },
+      "artists": [
+        {
+          "name": "Vincent & A Secret",
+          "url": "https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105577,
+      "name": "While You Were Sleeping",
+      "url": "https://open.spotify.com/track/54wC2ics8RCpQGYoB516Qs"
+    },
+    {
+      "album": {
+        "name": "P.S. I'm Still Here",
         "url": "https://open.spotify.com/album/4XBlcBU2srxJEXFgToYOTi"
       },
       "artists": [
@@ -3825,7 +4027,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 105577,
       "name": "While You Were Sleeping",
       "url": "https://open.spotify.com/track/6qX3f7gWEPGK3TVSoCLT4j"

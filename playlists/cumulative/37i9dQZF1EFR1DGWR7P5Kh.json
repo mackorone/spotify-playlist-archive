@@ -320,7 +320,7 @@
     },
     {
       "album": {
-        "name": "Harenchi",
+        "name": "\u30cf\u30ec\u30f3\u30c1",
         "url": "https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh"
       },
       "artists": [
@@ -423,6 +423,24 @@
       "duration_ms": 262736,
       "name": "One Time",
       "url": "https://open.spotify.com/track/4izDzEzyImtM7pnatHpj03"
+    },
+    {
+      "album": {
+        "name": "Rent Free / By Any Means",
+        "url": "https://open.spotify.com/album/06nzu940k6jhkJ5TacM6y5"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202824,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/1NKilzEyipTC34AHEMnKAl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Enjoy the soundtracks of the Netflix original Korean drama Squid Game\. \(전세계를 강타한 넷플릭스 오리지널 한국 드라마 오징어게임의 사운드 트랙들을 즐겨보세요!\)
 
-24 songs - 1 hr 20 min - [published](https://open.spotify.com/playlist/2FG2Z77mzlSjeorsiIuPMm)
+25 songs - 1 hr 23 min - [published](https://open.spotify.com/playlist/2FG2Z77mzlSjeorsiIuPMm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Round I](https://open.spotify.com/track/7cfikLOoNWDkYwN4YVCuUB) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 1:19 | 2022-01-26 |  |
 | [Round VI](https://open.spotify.com/track/7gPtBSe6QKKZCPwiPQtWwM) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 5:54 | 2022-01-26 |  |
 | [Slaughterhouse III](https://open.spotify.com/track/1EycNtgvbQfgD9SKL0oQcd) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 8:16 | 2022-01-26 |  |
-| [Squid Game \(Let's Play\)](https://open.spotify.com/track/3kewDExeHWRPVAUzYd1lTG) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/44PmiYzFsLXaXSzMZaRZQc) | 2:32 | 2022-01-26 |  |
+| [Squid Game \(Let's Play\)](https://open.spotify.com/track/3kewDExeHWRPVAUzYd1lTG) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/44PmiYzFsLXaXSzMZaRZQc) | 2:32 | 2022-01-26 | 2022-07-29 |
+| [Squid Game \(Let's Play\)](https://open.spotify.com/track/75pquWTQ3292AqzMsaik85) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 2:32 | 2022-01-26 |  |
 | [Squid Game \- acapella](https://open.spotify.com/track/2m8bm1uurVnU0lJwsahu7j) | [MayTree](https://open.spotify.com/artist/2UYUqsriy4DXV3VhrrprSs) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 1:40 | 2022-01-26 |  |
 | [The Fat and the Rats](https://open.spotify.com/track/3e0nu523E37rHg73PU6meV) | [Park Min Joo](https://open.spotify.com/artist/1xdJgXDFdLZyWwV8qPD7lw) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 1:52 | 2022-01-26 |  |
 | [The Flower Blooms](https://open.spotify.com/track/4gh3sdFa9cJTDPmKDBLSgq) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 3:40 | 2022-01-26 |  |

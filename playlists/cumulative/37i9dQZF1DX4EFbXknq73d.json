@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Fire Up +",
+        "url": "https://open.spotify.com/album/2b85gbWiMbAg3cvSUTMIBp"
+      },
+      "artists": [
+        {
+          "name": "Merl Saunders & Friends",
+          "url": "https://open.spotify.com/artist/26POJcl5jnzRLyjqaHh4sX"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301400,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/0UULEN8LeXBFZ15CbtTHgR"
+    },
+    {
+      "album": {
         "name": "Fire Up+",
         "url": "https://open.spotify.com/album/3JB5LZ1GmhjNrAgsxyuyaj"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 301400,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/5UQgcdlrvmsqBBkCOBTneY"
@@ -145,10 +163,28 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 571894,
       "name": "Arcadia (7.27.19)",
       "url": "https://open.spotify.com/track/04URvEZO64eHmywq9nyqKd"
+    },
+    {
+      "album": {
+        "name": "Alive and Well",
+        "url": "https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571894,
+      "name": "Arcadia (7.27.19)",
+      "url": "https://open.spotify.com/track/2zQZfyiQxPxNa2qG9uN9BJ"
     },
     {
       "album": {
@@ -195,6 +231,10 @@
         {
           "name": "Vulfpeck",
           "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         },
         {
           "name": "Theo Katzman",
@@ -365,10 +405,28 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 594586,
       "name": "Bring On The Music (Live)",
       "url": "https://open.spotify.com/track/1ecdUgcdxR8cMGKfZj0FcJ"
+    },
+    {
+      "album": {
+        "name": "Bring On The Music: Live at The Capitol Theatre, Pt. 2",
+        "url": "https://open.spotify.com/album/6OgCMKwSLqy39MCP7juLhu"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 594586,
+      "name": "Bring On The Music - Live",
+      "url": "https://open.spotify.com/track/5IJbz6xC0KChGOjKyP1m33"
     },
     {
       "album": {
@@ -663,7 +721,7 @@
     {
       "album": {
         "name": "New You",
-        "url": "https://open.spotify.com/album/2JhFWOFzzvBYdNPNPhdjdr"
+        "url": "https://open.spotify.com/album/31T7zU4OV4l328BkAszjK6"
       },
       "artists": [
         {
@@ -678,6 +736,28 @@
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 336626,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/6MWz0DeLwdnAUiI85V41Uo"
+    },
+    {
+      "album": {
+        "name": "New You",
+        "url": "https://open.spotify.com/album/2JhFWOFzzvBYdNPNPhdjdr"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        },
+        {
+          "name": "Tiffany Austin",
+          "url": "https://open.spotify.com/artist/71D3O4Y0iCt9rFyw2g5lLS"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 335693,
       "name": "Don't Stop (feat. Tiffany Austin)",
       "url": "https://open.spotify.com/track/3nqP8YOhxJPdUzXJWbdKyT"
@@ -783,7 +863,7 @@
     {
       "album": {
         "name": "Brooklyn, NY :: 2018-03-10",
-        "url": "https://open.spotify.com/album/4sgAAdM0QnAbgtOR56Ec2J"
+        "url": "https://open.spotify.com/album/6DT9Pu9HAmRlsfyZEt0aYb"
       },
       "artists": [
         {
@@ -794,6 +874,24 @@
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163520,
+      "name": "Good Times Bad Times -> - Live 2018-03-10",
+      "url": "https://open.spotify.com/track/3uNtT12YNbX0HAlFJYSJNd"
+    },
+    {
+      "album": {
+        "name": "Brooklyn, NY :: 2018-03-10",
+        "url": "https://open.spotify.com/album/4sgAAdM0QnAbgtOR56Ec2J"
+      },
+      "artists": [
+        {
+          "name": "Joe Russo's Almost Dead",
+          "url": "https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 163520,
       "name": "Good Times Bad Times -> - Live 2018-03-10",
       "url": "https://open.spotify.com/track/4FVT9Auo3TI97S7vDvzSuj"
@@ -895,7 +993,7 @@
     {
       "album": {
         "name": "Alive and Well",
-        "url": "https://open.spotify.com/album/6TUsfjLX8cqnafBy3p33Iu"
+        "url": "https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O"
       },
       "artists": [
         {
@@ -906,6 +1004,24 @@
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 1019624,
+      "name": "Hot Tea (8.10.19)",
+      "url": "https://open.spotify.com/track/3vM6d0LGwzhjmpry8GlW6w"
+    },
+    {
+      "album": {
+        "name": "Alive and Well",
+        "url": "https://open.spotify.com/album/6TUsfjLX8cqnafBy3p33Iu"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 1019624,
       "name": "Hot Tea (8.10.19)",
       "url": "https://open.spotify.com/track/4lHsm2VyLBaw5RD8Hp6plw"
@@ -931,10 +1047,54 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 485226,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/18btnw40WRP5cRZBqJpa1o"
+    },
+    {
+      "album": {
+        "name": "The Pizza Tapes",
+        "url": "https://open.spotify.com/album/6ERBw6ocM6d89W2PGB00Ag"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485226,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/1oNRUmyrLZ6SPEv6IS0xVQ"
+    },
+    {
+      "album": {
+        "name": "Yell Fire! (Live)",
+        "url": "https://open.spotify.com/album/1N4kArKmxYgMvh46ls6EOe"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276426,
+      "name": "I Know I'm Not Alone - Live",
+      "url": "https://open.spotify.com/track/0QzRetkrMupTt9MxK6HmuR"
     },
     {
       "album": {
@@ -949,10 +1109,28 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 276426,
       "name": "I Know I'm Not Alone - Live",
       "url": "https://open.spotify.com/track/4nfc7vE8Sw753EWGpRz5B8"
+    },
+    {
+      "album": {
+        "name": "Morrison, CO :: 2017-08-31",
+        "url": "https://open.spotify.com/album/5MgmEiKssYNS919EXO4Pni"
+      },
+      "artists": [
+        {
+          "name": "Joe Russo's Almost Dead",
+          "url": "https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448440,
+      "name": "I Know You Rider - Live 2017-08-31",
+      "url": "https://open.spotify.com/track/1tEsWUJ3rS32mhG7xWq5p0"
     },
     {
       "album": {
@@ -967,7 +1145,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 448440,
       "name": "I Know You Rider - Live 2017-08-31",
       "url": "https://open.spotify.com/track/74NSqQEqCXV00vuI8WVnhm"
@@ -1095,7 +1273,7 @@
     {
       "album": {
         "name": "Keep Your Head Up",
-        "url": "https://open.spotify.com/album/4BSJR0EaIY1oxpZjpX0q2y"
+        "url": "https://open.spotify.com/album/3f3eLzXLCXlhd2G9DTLbvm"
       },
       "artists": [
         {
@@ -1110,6 +1288,28 @@
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185226,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/1tlPsmI230IoSanksbmm2i"
+    },
+    {
+      "album": {
+        "name": "Keep Your Head Up",
+        "url": "https://open.spotify.com/album/4BSJR0EaIY1oxpZjpX0q2y"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 185226,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/3uq2fANGj5awEgr1q8R8R3"
@@ -1149,10 +1349,28 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258044,
       "name": "Lady and Man",
       "url": "https://open.spotify.com/track/0tjTndnyFm1xQsaHGf2imW"
+    },
+    {
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258044,
+      "name": "Lady and Man",
+      "url": "https://open.spotify.com/track/6sjxTY1gPbZXoF2h6YLZ9N"
     },
     {
       "album": {
@@ -1283,7 +1501,7 @@
     {
       "album": {
         "name": "C\u2019est La Vie",
-        "url": "https://open.spotify.com/album/2Ex277htheVs9aDi6svcsv"
+        "url": "https://open.spotify.com/album/2oqDbd9Hmbp6RinQQmZNWd"
       },
       "artists": [
         {
@@ -1294,6 +1512,24 @@
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 299685,
+      "name": "New Birth in New England",
+      "url": "https://open.spotify.com/track/1SmzAbt4g7a1FfAIwovtwq"
+    },
+    {
+      "album": {
+        "name": "C\u2019est La Vie",
+        "url": "https://open.spotify.com/album/2Ex277htheVs9aDi6svcsv"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 299685,
       "name": "New Birth in New England",
       "url": "https://open.spotify.com/track/3YOv5LNRVbrmWnVVyk3Flj"
@@ -1365,10 +1601,46 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162946,
       "name": "Ocean Man - Live",
       "url": "https://open.spotify.com/track/6PO8Hl6hdRX5kXtUjZcq5C"
+    },
+    {
+      "album": {
+        "name": "Live at Stubb's, 7/2000",
+        "url": "https://open.spotify.com/album/7mEKgXSrpNrxRrvUu2DMYn"
+      },
+      "artists": [
+        {
+          "name": "Ween",
+          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162960,
+      "name": "Ocean Man - Live",
+      "url": "https://open.spotify.com/track/4Xsj6cc571ZLR95z4i7TXr"
+    },
+    {
+      "album": {
+        "name": "Woodstock Sessions Vol. 3",
+        "url": "https://open.spotify.com/album/4LaADbRAsiapukpluMNOgM"
+      },
+      "artists": [
+        {
+          "name": "Rich Robinson",
+          "url": "https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461666,
+      "name": "Oh! Sweet Nuthin' - Live Version",
+      "url": "https://open.spotify.com/track/3IwDvOqCQICtOU1Y4FowpF"
     },
     {
       "album": {
@@ -1383,7 +1655,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 462200,
       "name": "Oh! Sweet Nuthin\u2019 - Live",
       "url": "https://open.spotify.com/track/6FVfwvYmzYzVNBzKcDaIqQ"
@@ -1485,7 +1757,7 @@
     {
       "album": {
         "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
       "artists": [
         {
@@ -1496,6 +1768,24 @@
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 298920,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
+    },
+    {
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 298920,
       "name": "Red Eyes",
       "url": "https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S"
@@ -1777,10 +2067,32 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 396373,
       "name": "St. Stephen - Live",
       "url": "https://open.spotify.com/track/5whj8CMgPTiVrXA0bKvXpz"
+    },
+    {
+      "album": {
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        },
+        {
+          "name": "Bob Weir",
+          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399158,
+      "name": "St. Stephen - Live",
+      "url": "https://open.spotify.com/track/3BacMLwPwEXLsEo5MmebnC"
     },
     {
       "album": {
@@ -1813,10 +2125,28 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt"
+    },
+    {
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "album": {
@@ -2121,10 +2451,28 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1069773,
       "name": "Throwing Stones - Live 2016-12-30",
       "url": "https://open.spotify.com/track/2OUr2o632OzZBSYc5ovE67"
+    },
+    {
+      "album": {
+        "name": "Port Chester, NY :: 2016-12-30",
+        "url": "https://open.spotify.com/album/51hoGQVue2tbf1mZ0RfTWf"
+      },
+      "artists": [
+        {
+          "name": "Joe Russo's Almost Dead",
+          "url": "https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1069773,
+      "name": "Throwing Stones - Live 2016-12-30",
+      "url": "https://open.spotify.com/track/7xVUy4JFdnR3a27MzHwRxY"
     },
     {
       "album": {
@@ -2161,10 +2509,32 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240904,
       "name": "Tomorrow Might As Well Be Today - Live",
       "url": "https://open.spotify.com/track/55YKAYiqMJvgIG4dxBa5ax"
+    },
+    {
+      "album": {
+        "name": "Peoples Motel Band",
+        "url": "https://open.spotify.com/album/3nMKWIIpLZs2Hzkz9yhF3d"
+      },
+      "artists": [
+        {
+          "name": "Chris Forsyth",
+          "url": "https://open.spotify.com/artist/2WEGGlb0R1izEtTE5YTaTc"
+        },
+        {
+          "name": "Garcia Peoples",
+          "url": "https://open.spotify.com/artist/4UDV6e9Xh5m3yQeGsrnWLP"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240904,
+      "name": "Tomorrow Might As Well Be Today - Live",
+      "url": "https://open.spotify.com/track/6QL1b46J3pHl4MfUUjludg"
     },
     {
       "album": {
@@ -2269,10 +2639,28 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 507600,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/5EGQGLZ9llVEC0jyhbORmG"
+    },
+    {
+      "album": {
+        "name": "Night of Joy (Live)",
+        "url": "https://open.spotify.com/album/0ELM7DSpwnUADRl4g09sPF"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507600,
+      "name": "Use Me - Live",
+      "url": "https://open.spotify.com/track/1qf2nZSj8QJQRDQshWxA6P"
     },
     {
       "album": {
@@ -2287,10 +2675,28 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155280,
       "name": "V Neck Sweater",
       "url": "https://open.spotify.com/track/2QdcIeRxcBbTQk3B6fng25"
+    },
+    {
+      "album": {
+        "name": "What Happened to Television?",
+        "url": "https://open.spotify.com/album/2guvIXBJ1DeKg1c85D8j6C"
+      },
+      "artists": [
+        {
+          "name": "The Greyboy Allstars",
+          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
+        }
+      ],
+      "date_added": "2020-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155280,
+      "name": "V-Neck Sweater",
+      "url": "https://open.spotify.com/track/5K5NAQrHIX5OdHdGgAVfIx"
     },
     {
       "album": {

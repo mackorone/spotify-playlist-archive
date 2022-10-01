@@ -218,6 +218,24 @@
     },
     {
       "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K"
+      },
+      "artists": [
+        {
+          "name": "IBE",
+          "url": "https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198440,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/1GDcRmGNKfntcKeyM2ZY3p"
+    },
+    {
+      "album": {
         "name": "Dumb",
         "url": "https://open.spotify.com/album/2LwVV5oGRP5viAyph9T22b"
       },
@@ -229,7 +247,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-12",
       "duration_ms": 198440,
       "name": "Dumb",
       "url": "https://open.spotify.com/track/3XaRZNhz6eOU1Fjk2aYCsE"
@@ -251,7 +269,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 146880,
       "name": "Dutch (feat. Emy Perez)",
       "url": "https://open.spotify.com/track/5Z6JZqMoveVuOC9IPoROmo"
@@ -1007,6 +1025,32 @@
       "duration_ms": 150562,
       "name": "Smoke Up (feat. Emy Perez)",
       "url": "https://open.spotify.com/track/3HC344e1WcJIdIVKXsMsgV"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/45joQYljjWbtQHKYgoFoQz"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213070,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/7BnARJhzGKD89USQRKGtbU"
     },
     {
       "album": {

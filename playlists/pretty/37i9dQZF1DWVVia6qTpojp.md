@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,179 likes - 60 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,021 likes - 60 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [See Me Through](https://open.spotify.com/track/7eIGGb2xWI68Sy7FdL6I7S) | [Luke + Anna Hellebronth](https://open.spotify.com/artist/4WUF78qaUIBG0uH1JiDztL) | [See Me Through](https://open.spotify.com/album/01XGogRGWeoexvdA8VRp7T) | 3:31 |
-| 2 | [Counting Every Blessing](https://open.spotify.com/track/1qBc3napddNgGXTNJD4KzC) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News](https://open.spotify.com/album/6OHG76iMuqKrUQME0mp5sm) | 5:02 |
+| 2 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 |
 | 3 | [Alive \(Breathe On Me\) \- Live](https://open.spotify.com/track/73BDlgL6zIz7zUaMmSV4C7) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Only Jesus \(Live\)](https://open.spotify.com/album/2dUvm3MOU8vX1pg4Y7SotK) | 3:29 |
 | 4 | [Perfect Father](https://open.spotify.com/track/5nrxd3RYpoMfECStDyxk18) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Perfect Father](https://open.spotify.com/album/772m7JkdTvKHLEeGesX44U) | 5:24 |
-| 5 | [Spirit Fall \- Live](https://open.spotify.com/track/5PZkluOxlmQ742FwWGZ7Im) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV), [Susie Woodbridge](https://open.spotify.com/artist/7LWsLUT26iv49pBXRBnc4v) | [Everlasting Arms](https://open.spotify.com/album/5fiWNkaGTHGVQLTkhfSpqg) | 4:35 |
+| 5 | [Spirit Fall \- Live](https://open.spotify.com/track/0BrMRDuSxaxcXmnK6Bsb8E) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV), [Susie Woodbridge](https://open.spotify.com/artist/7LWsLUT26iv49pBXRBnc4v) | [Spirit Fall \(Live\)](https://open.spotify.com/album/61pd8daetmghBrcQQWt8EF) | 4:36 |
 | 6 | [Rock of Our Salvation](https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hello Maker](https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j) | 5:00 |
 | 7 | [Who You Say I Am \- Live](https://open.spotify.com/track/2dRF8tFKTM4aIr4wFJF3B0) | [Soul Survivor](https://open.spotify.com/artist/3jTzI8EpjES1TRYhWs34nm), [Beth Croft](https://open.spotify.com/artist/4jrrZymKmM0WolEJAqcMJP) | [Standing on the Edge \(Live\)](https://open.spotify.com/album/7CgRdhWMIwdE5fiqNmSdGl) | 4:49 |
 | 8 | [Great Is Your Faithfulness \- Live](https://open.spotify.com/track/2j0XyBffFLVdzjoCA14hrI) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Matt Hooper](https://open.spotify.com/artist/0SnNtSCuDx1RcvwMCau4vC), [Eby Corydon](https://open.spotify.com/artist/6EJe5fsw9zmyuJfYjCCezm) | [Great Is Your Faithfulness \(Live\)](https://open.spotify.com/album/0kZStc0KPbqHe12QmOtRY0) | 4:43 |
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 | 16 | [Greater Than It All](https://open.spotify.com/track/7nZS25UXE5us79bjRCMFBC) | [iEC Live](https://open.spotify.com/artist/72YK2OUA9cDkaQvxWKQzhY) | [Greater Than It All](https://open.spotify.com/album/5XKnAmqhlqRG2yU5d48KkL) | 5:19 |
 | 17 | [My Lighthouse](https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [The Art Of Celebration](https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b) | 3:44 |
 | 18 | [Shepherd of My Soul](https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [All Things New](https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a) | 5:46 |
-| 19 | [Treasure / My Time](https://open.spotify.com/track/23CBiF3LTNroFxIw9TBhck) | [Freddie Fardon](https://open.spotify.com/artist/47MKNB3zJLyXyFKsT5fSFm) | [Treasure / My Time](https://open.spotify.com/album/33HoxuQwwt4qbjay3smeDq) | 4:28 |
+| 19 | [Treasure / My Time](https://open.spotify.com/track/5wIiyKlqYBsQrjX0RqavRY) | [Freddie Fardon](https://open.spotify.com/artist/47MKNB3zJLyXyFKsT5fSFm) | [Treasure / My Time](https://open.spotify.com/album/7nlDINiq8DFG1wVG7h2XUE) | 4:28 |
 | 20 | [All About You](https://open.spotify.com/track/0qLqLMBQS5y3ZAbkc3MIGy) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Esther McLaren](https://open.spotify.com/artist/60J1UuxiGazhPIzIgwKULA) | [The Journey: A Collection](https://open.spotify.com/album/5E2ontsrR45lgUeC7cqen3) | 4:26 |
 | 21 | [Unending Grace](https://open.spotify.com/track/3Bi99eLHgL2tSZWLTsX2YA) | [Heart Youth](https://open.spotify.com/artist/6jbkO5Hjow7xAqHUkGDSRB) | [Unending Grace](https://open.spotify.com/album/05qJIMapoGbfR24QLJy7V5) | 4:31 |
-| 22 | [Ashes](https://open.spotify.com/track/53z7x50cMMv2ClqUSdH6TZ) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Son of My Father \- EP](https://open.spotify.com/album/05DNmljF4983MWyjlkcXzS) | 4:18 |
+| 22 | [Ashes](https://open.spotify.com/track/7g9BylLROwXbWmP0xdkp8O) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Son of My Father](https://open.spotify.com/album/4gCHt9tejb6XrEBgoEq3bE) | 4:18 |
 | 23 | [Alive with Worship](https://open.spotify.com/track/4AGEum8L2SEclpv676IU4C) | [Simon Brading](https://open.spotify.com/artist/5lXrZdj3SEDih1rxPeuSIZ) | [Alive with Worship](https://open.spotify.com/album/1juE8NS5CgqshKNeJ6Bac7) | 3:24 |
 | 24 | [Spirit and Truth](https://open.spotify.com/track/4wzlJOsP5hnCaAcVlEcMFo) | [Chris Sayburn](https://open.spotify.com/artist/3YCIiIHJppDleYo4vq4AN9) | [Saved By Grace](https://open.spotify.com/album/5Rzg6slcH2u7Ipl0VqYUY1) | 4:53 |
-| 25 | [Obey \- Acoustic](https://open.spotify.com/track/4MDDNK6233DjCGfrhwm8gw) | [Tom Smith](https://open.spotify.com/artist/4y7Cnogmk0fX6UXhGznDQk) | [Everyday](https://open.spotify.com/album/502kyX9p3BbEXrd9QlHqVq) | 4:18 |
-| 26 | [Dead Things to Life](https://open.spotify.com/track/4El97CCFAmScrdVIiouNES) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [Dead Things to Life](https://open.spotify.com/album/0r5Ss03zJNIcoT4ufTJ7pc) | 4:26 |
+| 25 | [Obey \- Acoustic](https://open.spotify.com/track/4K4bFzadyAYVm4UqSQR0dM) | [Tom Smith](https://open.spotify.com/artist/4y7Cnogmk0fX6UXhGznDQk) | [Everyday](https://open.spotify.com/album/4PRcGJ2cZjHTXjEpcraPu7) | 4:18 |
+| 26 | [Dead Things To Life](https://open.spotify.com/track/1N6iHugrcCD36X7Jn5dcCK) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [Lament](https://open.spotify.com/album/6V52ayLRHPyg54r8WTIrQl) | 4:26 |
 | 27 | [Through It All](https://open.spotify.com/track/5tAka5imviCbmtCbg5HPBV) | [King's Village](https://open.spotify.com/artist/5u6qWLDqTeq7QL44pRFIIW) | [Morning Has Broken](https://open.spotify.com/album/2GHtPvnGsgu2rov7zFcwUO) | 4:59 |
 | 28 | [Waterfall \(feat\. Lucy Grimble\)](https://open.spotify.com/track/6nnNPkofokKxTRDwL748CT) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Spring](https://open.spotify.com/album/0aT8MMYx6r4tN1W0ipTgOs) | 3:29 |
 | 29 | [Never Will Abandon Me \(feat\. Lisa Kernoghan\)](https://open.spotify.com/track/2BdsN7xLtpiLM13MriURD4) | [CFC Music](https://open.spotify.com/artist/1sxkQQqbSOT9mHGULSSaoy), [Lisa Kernoghan](https://open.spotify.com/artist/6fv7gDy1yleB1cF1IsBfcH) | [Faith to Favour](https://open.spotify.com/album/53HN9gpuVa7ZRQyr36QEzg) | 5:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 | 59 | [Fix MY Eyes On You](https://open.spotify.com/track/5Gvsgw6zvvcK73L8mrN9NY) | [InSalvation](https://open.spotify.com/artist/254N4bAbejA5vO4sJGAUdX) | [NEON](https://open.spotify.com/album/1OahG76uAlkwkaKR4OmxK4) | 5:57 |
 | 60 | [Simple Pursuit](https://open.spotify.com/track/7mrbfKEIvwf8rWXBxEtp89) | [Ben Cantelon](https://open.spotify.com/artist/0hG95VUGURuOHoxgts6Br3) | [The Ascent, Vol\. 1](https://open.spotify.com/album/2GvamlBYznzImkPF1ue7E2) | 5:18 |
 
-Snapshot ID: `MTU4Mzg0NzQ5OCwwMDAwMDAwZDAwMDAwMTY3NTVlYjVmZmMwMDAwMDE3MGM0YWFlM2Q2`
+Snapshot ID: `MTU0MzMzNDc0OCwwMDAwMDAwMDdjNWFmODE0NzA4ODNlODgyYzlhNTg1OGE0ZmNhOGJi`

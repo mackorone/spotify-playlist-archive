@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6OeIIMFsdtsL9VUyL6PDvX.md) - [plain]
 
 > All the hottest current Indie music you need....in one stop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

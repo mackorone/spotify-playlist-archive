@@ -306,6 +306,36 @@
     },
     {
       "album": {
+        "name": "Baby (Chris Jedi / Supa Dups Remix)",
+        "url": "https://open.spotify.com/album/6exYiNUpHdYJD59WTj4o3t"
+      },
+      "artists": [
+        {
+          "name": "JENCARLOS",
+          "url": "https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7"
+        },
+        {
+          "name": "Lennox",
+          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
+        },
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Supa Dups",
+          "url": "https://open.spotify.com/artist/62DQXKsIHSPmr3fZaeARfq"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "Baby - Chris Jedi / Supa Dups Remix",
+      "url": "https://open.spotify.com/track/14Nqot3iOUgUKEHj6WZOMv"
+    },
+    {
+      "album": {
         "name": "LAS QUE NO IBAN A SALIR",
         "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
       },
@@ -737,6 +767,42 @@
       "duration_ms": 187866,
       "name": "Deja Tus Besos - Remix",
       "url": "https://open.spotify.com/track/1XGpykJn12N7EQHtyerLKA"
+    },
+    {
+      "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156787,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
+    },
+    {
+      "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "album": {
@@ -1253,7 +1319,7 @@
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Tego Calderon",
+          "name": "Tego Calder\u00f3n",
           "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
@@ -1359,10 +1425,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-12",
       "duration_ms": 170823,
       "name": "La Llevo Al Cielo",
       "url": "https://open.spotify.com/track/0ldqpXUPtasGIhmd6p1R1J"
+    },
+    {
+      "album": {
+        "name": "La Llevo Al Cielo",
+        "url": "https://open.spotify.com/album/0M0ULIaP7cDdO9DpE06JwU"
+      },
+      "artists": [
+        {
+          "name": "Kallde \"El Rey Del Placer\"",
+          "url": "https://open.spotify.com/artist/2KQZ7yr0nr7NphqCy7QHRR"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224316,
+      "name": "La Llevo Al Cielo",
+      "url": "https://open.spotify.com/track/2tzrgCbD9yRrWlfWddf2ku"
     },
     {
       "album": {
@@ -2173,7 +2257,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 217493,
       "name": "Prende en Fuego",
       "url": "https://open.spotify.com/track/7jHjBBlh1bvBsiAPdCliaS"

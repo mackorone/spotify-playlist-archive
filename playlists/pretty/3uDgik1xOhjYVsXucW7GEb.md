@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3uDgik1xOhjYVsXucW7GEb.md) - [plain]
 
 > Grab your food, turn on the easy hip\-hop and enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 23 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 23 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

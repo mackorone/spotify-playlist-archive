@@ -8,24 +8,6 @@
   "tracks": [
     {
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "date_added": "2022-02-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220938,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO"
-    },
-    {
-      "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
@@ -44,6 +26,24 @@
     },
     {
       "album": {
+        "name": "DAWN",
+        "url": "https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272626,
+      "name": "AM04:00",
+      "url": "https://open.spotify.com/track/0JVYnGAj810LESnFmfaVhF"
+    },
+    {
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/02PbCYtNC7z16HVYLsWwQr"
       },
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 272626,
       "name": "AM04:00",
       "url": "https://open.spotify.com/track/1xCDRNaGpDDEyG7lmOBvhz"
@@ -116,24 +116,6 @@
     },
     {
       "album": {
-        "name": "Dried Flower",
-        "url": "https://open.spotify.com/album/69BzgmDXpLIPQI4tUGuLZM"
-      },
-      "artists": [
-        {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
-        }
-      ],
-      "date_added": "2022-02-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 285586,
-      "name": "Dried Flower",
-      "url": "https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J"
-    },
-    {
-      "album": {
         "name": "It\u2019s OK To Be Sad",
         "url": "https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9"
       },
@@ -152,60 +134,6 @@
     },
     {
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "date_added": "2022-02-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235160,
-      "name": "Koiwazurai",
-      "url": "https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix"
-    },
-    {
-      "album": {
-        "name": "Midnight Romance",
-        "url": "https://open.spotify.com/album/3DfW1z9k62nYQ4s4XJh7Gi"
-      },
-      "artists": [
-        {
-          "name": "Gigi Cheung",
-          "url": "https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t"
-        }
-      ],
-      "date_added": "2022-02-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196863,
-      "name": "Midnight Romance",
-      "url": "https://open.spotify.com/track/5V17L4QLIZpZ3sZtgHlmej"
-    },
-    {
-      "album": {
-        "name": "LIFE / LINE",
-        "url": "https://open.spotify.com/album/5COhcdEYRQm7wFjsfB8NxA"
-      },
-      "artists": [
-        {
-          "name": "Jay Fung",
-          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
-        }
-      ],
-      "date_added": "2022-02-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 240955,
-      "name": "Miss Somebody",
-      "url": "https://open.spotify.com/track/2ErvKBSqOFppMUdKusLnsW"
-    },
-    {
-      "album": {
         "name": "On my way",
         "url": "https://open.spotify.com/album/2LBrOLQkQo3sisQP3v11ZT"
       },
@@ -221,24 +149,6 @@
       "duration_ms": 315755,
       "name": "On my way",
       "url": "https://open.spotify.com/track/79letQC8rVM851Cz2ORR0z"
-    },
-    {
-      "album": {
-        "name": "Pillow Talk",
-        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "date_added": "2022-02-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 273390,
-      "name": "Pillow Talk",
-      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
     },
     {
       "album": {
@@ -261,7 +171,7 @@
     {
       "album": {
         "name": "ANTI ANTI GENERATION",
-        "url": "https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF"
+        "url": "https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv"
       },
       "artists": [
         {
@@ -272,6 +182,24 @@
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 392426,
+      "name": "Sokkenai",
+      "url": "https://open.spotify.com/track/1rYg6v89UhWyPMbr8uf4fl"
+    },
+    {
+      "album": {
+        "name": "ANTI ANTI GENERATION",
+        "url": "https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 389466,
       "name": "\u305d\u3063\u3051\u306a\u3044",
       "url": "https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem"
@@ -296,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235160,
+      "name": "\u30b3\u30a4\u30ef\u30ba\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix"
+    },
+    {
+      "album": {
         "name": "\u6b63\u3057\u3044\u507d\u308a\u304b\u3089\u306e\u8d77\u5e8a",
         "url": "https://open.spotify.com/album/61fHzNeb76p8ATYvlhO4rI"
       },
@@ -311,6 +257,24 @@
       "duration_ms": 250000,
       "name": "\u30b5\u30bf\u30fc\u30f3",
       "url": "https://open.spotify.com/track/3Vd6MNEn1aLRvddvuNWYw1"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
+        "url": "https://open.spotify.com/album/69BzgmDXpLIPQI4tUGuLZM"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285586,
+      "name": "\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
+      "url": "https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J"
     },
     {
       "album": {
@@ -347,6 +311,24 @@
       "duration_ms": 213240,
       "name": "\u512a\u3057\u3044\u5f57\u661f",
       "url": "https://open.spotify.com/track/5MUb136to9lnJLfIy5FZKI"
+    },
+    {
+      "album": {
+        "name": "LIFE / LINE",
+        "url": "https://open.spotify.com/album/5COhcdEYRQm7wFjsfB8NxA"
+      },
+      "artists": [
+        {
+          "name": "Jay Fung",
+          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240955,
+      "name": "\u601d\u5ff5\u5373\u5730\u7344",
+      "url": "https://open.spotify.com/track/2ErvKBSqOFppMUdKusLnsW"
     },
     {
       "album": {
@@ -391,6 +373,24 @@
     {
       "album": {
         "name": "\u660e\u660e\u55ae\u8eab\u6700\u958b\u5fc3",
+        "url": "https://open.spotify.com/album/6XTBlKsMZ63NzNDO6MhSN6"
+      },
+      "artists": [
+        {
+          "name": "\u9e97\u82f1",
+          "url": "https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233043,
+      "name": "\u660e\u660e\u55ae\u8eab\u6700\u958b\u5fc3",
+      "url": "https://open.spotify.com/track/4tEhLCTI4gaDA3uyuuA2sR"
+    },
+    {
+      "album": {
+        "name": "\u660e\u660e\u55ae\u8eab\u6700\u958b\u5fc3",
         "url": "https://open.spotify.com/album/1lMFKCkEHvt1WtvtwlPFEd"
       },
       "artists": [
@@ -401,10 +401,28 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233043,
       "name": "\u660e\u660e\u55ae\u8eab\u6700\u958b\u5fc3",
       "url": "https://open.spotify.com/track/4IsqMYxUuwFmVhNfJB7g1f"
+    },
+    {
+      "album": {
+        "name": "\u6642\u5019\u4e0d\u65e9",
+        "url": "https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220938,
+      "name": "\u6642\u5019\u4e0d\u65e9",
+      "url": "https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO"
     },
     {
       "album": {
@@ -441,6 +459,42 @@
       "duration_ms": 235797,
       "name": "\u6a39",
       "url": "https://open.spotify.com/track/2QYGFCVQTALeyYGNvKHn9T"
+    },
+    {
+      "album": {
+        "name": "\u6df1\u591c\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/3DfW1z9k62nYQ4s4XJh7Gi"
+      },
+      "artists": [
+        {
+          "name": "Gigi Cheung",
+          "url": "https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196863,
+      "name": "\u6df1\u591c\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/5V17L4QLIZpZ3sZtgHlmej"
+    },
+    {
+      "album": {
+        "name": "\u8a18\u61b6\u68c9",
+        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273390,
+      "name": "\u8a18\u61b6\u68c9",
+      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
     },
     {
       "album": {

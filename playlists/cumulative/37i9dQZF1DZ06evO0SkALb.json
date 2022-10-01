@@ -27,7 +27,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 225600,
       "name": "(They Call It) Stormy Monday",
       "url": "https://open.spotify.com/track/2crEiBgrvX5Etv2E8yCysO"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "(What Did I Do To Be So) Black And Blue - 2006 Remaster",
       "url": "https://open.spotify.com/track/72tlqAov3Octf3enkrYJkD"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-08-25",
       "duration_ms": 223493,
       "name": "Be Anything (But Be Mine)",
       "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-10-01",
       "duration_ms": 294720,
       "name": "From Now On",
       "url": "https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX"
@@ -359,10 +359,46 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2022-08-12",
       "duration_ms": 181826,
       "name": "I Can't Make It Alone",
       "url": "https://open.spotify.com/track/3wMEyUb0sc9CP9Hlw1dyP0"
+    },
+    {
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 207320,
+      "name": "I Wish It Were Yesterday",
+      "url": "https://open.spotify.com/track/54lpLkeJoX4Aai5JdgJnIB"
+    },
+    {
+      "album": {
+        "name": "Sweet Chariot",
+        "url": "https://open.spotify.com/album/2JQCXARcOl9fbUBZfT6Dal"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235706,
+      "name": "I'd Rather Drink Muddy Water",
+      "url": "https://open.spotify.com/track/4I677Lz5xosfi7M4k3nsF9"
     },
     {
       "album": {
@@ -377,7 +413,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2022-09-02",
       "duration_ms": 215240,
       "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
       "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
@@ -417,6 +453,24 @@
       "duration_ms": 183493,
       "name": "If I Were A Magician",
       "url": "https://open.spotify.com/track/67jdi6oftdZ6Fb6MzzkA5n"
+    },
+    {
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-08",
+      "duration_ms": 170466,
+      "name": "It Was A Very Good Year - Digitally Remastered 00",
+      "url": "https://open.spotify.com/track/0MuK8gUKHaj9PdlOxgvygy"
     },
     {
       "album": {
@@ -485,10 +539,28 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": "2022-09-15",
       "duration_ms": 240600,
       "name": "Let's Fall In Love All Over Again",
       "url": "https://open.spotify.com/track/7M9lUbA4ggamFsLG5DsiZ2"
+    },
+    {
+      "album": {
+        "name": "The Edge: David Axelrod At Capitol Records 1966-1970",
+        "url": "https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 111586,
+      "name": "Lifetime Monologue - Remastered",
+      "url": "https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP"
     },
     {
       "album": {
@@ -557,7 +629,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 277000,
       "name": "Need You Forever",
       "url": "https://open.spotify.com/track/1eKsrQNO0oFGXn7xQxQYmd"
@@ -611,7 +683,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-10",
       "duration_ms": 213973,
       "name": "Oh, What A Nite",
       "url": "https://open.spotify.com/track/1yUrw3yuITA18pUdmgLMfx"
@@ -701,7 +773,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-10-01",
       "duration_ms": 268586,
       "name": "See You When I Git There",
       "url": "https://open.spotify.com/track/3LJEsCWWR0eQ5zhwwzX5Kc"
@@ -755,7 +827,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 476266,
       "name": "Southside Blues/Tobacco Road - Live/Medley",
       "url": "https://open.spotify.com/track/7E7IVQTT08vYalrSXXQajt"
@@ -809,7 +881,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-28",
       "duration_ms": 182600,
       "name": "Stormy Weather (Keeps Rainin' All The Time) - 2006 Remaster",
       "url": "https://open.spotify.com/track/1fSPsAKuv7b9E9dTKPmW4N"
@@ -827,10 +899,46 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 214560,
       "name": "Summertime - 2006 Remaster",
       "url": "https://open.spotify.com/track/1c8bdqWBc4SohLTuPX4Hge"
+    },
+    {
+      "album": {
+        "name": "Sweet Chariot",
+        "url": "https://open.spotify.com/album/2JQCXARcOl9fbUBZfT6Dal"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191306,
+      "name": "Sweet Lover",
+      "url": "https://open.spotify.com/track/0uLV5fXFiGv9i9UEKDOCGc"
+    },
+    {
+      "album": {
+        "name": "Sweet Chariot",
+        "url": "https://open.spotify.com/album/2JQCXARcOl9fbUBZfT6Dal"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Tain't Nobody's Biz-Ness If I Do",
+      "url": "https://open.spotify.com/track/1c8DBv0jzvNO2RZaRrieSq"
     },
     {
       "album": {
@@ -939,7 +1047,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 305053,
       "name": "This Song Will Last Forever",
       "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
@@ -1011,10 +1119,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 203573,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/6DasyKHS773Ar1TBMEyKUn"
+    },
+    {
+      "album": {
+        "name": "Lou Rawls (Unplugged) Philadelphia - Chicago - Detroit [Live]",
+        "url": "https://open.spotify.com/album/6fe7BWXsHHmD0nX5YL5Zsi"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 120986,
+      "name": "Unforgettable - Live",
+      "url": "https://open.spotify.com/track/2PtvNwBX1Bbuh7iNxDZJy8"
     },
     {
       "album": {
@@ -1029,7 +1155,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-11",
       "duration_ms": 256160,
       "name": "We Understand Each Other",
       "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
@@ -1047,7 +1173,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-07-22",
       "duration_ms": 354906,
       "name": "What's the Matter with the World",
       "url": "https://open.spotify.com/track/6Vr7UhEQ5K4xJyLkoWEHlr"
@@ -1105,7 +1231,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": "2022-08-27",
       "duration_ms": 291173,
       "name": "You Are",
       "url": "https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw"
@@ -1123,7 +1249,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 333466,
       "name": "You Can't Go Home",
       "url": "https://open.spotify.com/track/4PtxNIk3QS8ACAO9m9sn4R"
@@ -1159,7 +1285,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 317506,
       "name": "You'll Never Find Another Love Like Mine / A Lovely Way to Spend an Evening - Live",
       "url": "https://open.spotify.com/track/6ANn9X1Fi3w1xcWdxBQMHZ"

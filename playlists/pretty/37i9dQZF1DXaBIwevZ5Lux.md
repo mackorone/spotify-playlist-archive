@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBIwevZ5Lux.md) - [plain]
 
 > Spend an afternoon jamming to this curated playlist of all Asian and Pacific Islander musicians across genres and geographies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,800 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,999 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBIwevZ5Lux.md) - [plain]
 | 8 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 |
 | 9 | [Ku'u Poli'ahu](https://open.spotify.com/track/2sfZQiHXz95HPaMX9hZ1bl) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:43 |
 | 10 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 |
-| 11 | [Once](https://open.spotify.com/track/75Exrl1RCc2FK509PXW4sP) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Blastoma](https://open.spotify.com/album/5V2DfUqYqHvK4W2CCmPgnf) | 5:11 |
+| 11 | [Once](https://open.spotify.com/track/5J3Cw72OU3NmFwUsuUyR4T) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Blastoma](https://open.spotify.com/album/6AQhXXnBFP6OoTkLa7Yv41) | 5:11 |
 | 12 | [How Would I Dream](https://open.spotify.com/track/63x0ur2M1u99BrMQGIP090) | [Lea Thomas](https://open.spotify.com/artist/3MSs3mmpFgUz3qXkjOAOtI) | [Mirrors to the Sun](https://open.spotify.com/album/3gaxiMrzBfbqwygpq8hRgG) | 2:26 |
 | 13 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
 | 14 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBIwevZ5Lux.md) - [plain]
 | 39 | [Afterglow](https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:18 |
 | 40 | [This Is A Life \- Extended](https://open.spotify.com/track/2YDj0uV5P7kKN4gGcUMEJT) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Everything Everywhere All at Once \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu) | 3:35 |
 
-Snapshot ID: `MTY1MTUwOTQ1NCwwMDAwMDAwMzAwMDAwMTgwODVhMjY1YmMwMDAwMDE4MDcyMjZhN2Fh`
+Snapshot ID: `MTY1MTUwOTQ1NCwwMDAwMDAwMDU0MzE4MTUzYWU2MmVhNTE0MGZkOTRjYjM4ZGIyMmYz`

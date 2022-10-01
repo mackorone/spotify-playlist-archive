@@ -1035,10 +1035,28 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/2KZ3sNqPogEyMUUH6A5HFy"
+    },
+    {
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200689,
+      "name": "LALISA",
+      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
     },
     {
       "album": {
@@ -1871,6 +1889,24 @@
     {
       "album": {
         "name": "Sticker - The 3rd Album",
+        "url": "https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227773,
+      "name": "Sticker",
+      "url": "https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7"
+    },
+    {
+      "album": {
+        "name": "Sticker - The 3rd Album",
         "url": "https://open.spotify.com/album/7sf7G0C6NuW8GjQbWwJlGk"
       },
       "artists": [
@@ -1881,7 +1917,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227773,
       "name": "Sticker",
       "url": "https://open.spotify.com/track/4bEa9VAnyVJWBxOUyVvzie"
@@ -1983,6 +2019,24 @@
     {
       "album": {
         "name": "NOEASY",
+        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183266,
+      "name": "Thunderous",
+      "url": "https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt"
+    },
+    {
+      "album": {
+        "name": "NOEASY",
         "url": "https://open.spotify.com/album/2CJBaCutKdBiFrWmdzioPS"
       },
       "artists": [
@@ -1993,7 +2047,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183266,
       "name": "Thunderous",
       "url": "https://open.spotify.com/track/3ihf9gTcRUz7EvkFnoh5TW"
@@ -2220,6 +2274,24 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/2aDdQBInFcVq7XHrPPkxfe"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272762,
+      "name": "\uc624\ub798\ub41c \ub178\ub798",
+      "url": "https://open.spotify.com/track/5gllIJSLyRouz1bGO5ues4"
+    },
+    {
+      "album": {
         "name": "\uc624\ub798\ub41c \ub178\ub798",
         "url": "https://open.spotify.com/album/0Qo4SwPnDQNL7AMiDSlisL"
       },
@@ -2231,7 +2303,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 272797,
       "name": "\uc624\ub798\ub41c \ub178\ub798",
       "url": "https://open.spotify.com/track/1YlTjvNlsRBvSOcCqv5xm4"

@@ -83,12 +83,12 @@
           "url": "https://open.spotify.com/artist/4ZkDVtrxzutTjT9anZMfgT"
         },
         {
-          "name": "San T",
-          "url": "https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb"
-        },
-        {
           "name": "Stowe Francis",
           "url": "https://open.spotify.com/artist/7FvjLuuGbaJPo0S6KJFmBQ"
+        },
+        {
+          "name": "San T",
+          "url": "https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb"
         }
       ],
       "date_added": "2021-12-01",
@@ -131,7 +131,7 @@
     {
       "album": {
         "name": "Dishonored",
-        "url": "https://open.spotify.com/album/0Uwo5TPUBf1URumhDYPPrE"
+        "url": "https://open.spotify.com/album/1BumdI0N9lvokuFe7bxXw5"
       },
       "artists": [
         {
@@ -150,6 +150,32 @@
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 203716,
+      "name": "Black Panther",
+      "url": "https://open.spotify.com/track/3QiZXSYjbkVE2xGfX7Kx4I"
+    },
+    {
+      "album": {
+        "name": "Dishonored",
+        "url": "https://open.spotify.com/album/0Uwo5TPUBf1URumhDYPPrE"
+      },
+      "artists": [
+        {
+          "name": "Nigavithran",
+          "url": "https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf"
+        },
+        {
+          "name": "PAX DHARMA",
+          "url": "https://open.spotify.com/artist/62QHD5zKMKEPataClvGpeJ"
+        },
+        {
+          "name": "Rodriguez Samson",
+          "url": "https://open.spotify.com/artist/4uuA2PHcA8ujF627JLdYHO"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 211245,
       "name": "Black Panther",
       "url": "https://open.spotify.com/track/2UY5fYuiUs8KzNxvVdW5Zq"
@@ -199,7 +225,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 318250,
       "name": "Blackjack",
       "url": "https://open.spotify.com/track/3oQSmblXOEuBdfEl7r2rR1"
@@ -247,6 +273,24 @@
       "duration_ms": 232250,
       "name": "Bounce (feat. Switch Lock Up)",
       "url": "https://open.spotify.com/track/4JUohPVVF8bNy9CIrRH7pi"
+    },
+    {
+      "album": {
+        "name": "Bujjima",
+        "url": "https://open.spotify.com/album/6068hMk92UhEsPyR9tAe78"
+      },
+      "artists": [
+        {
+          "name": "Brodha V",
+          "url": "https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211235,
+      "name": "Bujjima",
+      "url": "https://open.spotify.com/track/1QBZOG5lqTEJxBN6cs7nt2"
     },
     {
       "album": {
@@ -324,6 +368,28 @@
     },
     {
       "album": {
+        "name": "DIARY",
+        "url": "https://open.spotify.com/album/3fVUyTQ9S54dbGLT3kWNb5"
+      },
+      "artists": [
+        {
+          "name": "Vidushaan",
+          "url": "https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB"
+        },
+        {
+          "name": "MJ Melodies",
+          "url": "https://open.spotify.com/artist/3lKheshxHCfbOVM21KcnZI"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "DIARY",
+      "url": "https://open.spotify.com/track/2JxS54zjJrd7ljmhQnPR5X"
+    },
+    {
+      "album": {
         "name": "Don't Touch Me",
         "url": "https://open.spotify.com/album/5nYz61zMnv7ukmwHTYG0mn"
       },
@@ -365,10 +431,36 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218232,
       "name": "Double Game",
       "url": "https://open.spotify.com/track/4vH5zXAxyruqjKuEgjOdKp"
+    },
+    {
+      "album": {
+        "name": "Double Game",
+        "url": "https://open.spotify.com/album/3iJE35Ui1klXznqjHC0YHw"
+      },
+      "artists": [
+        {
+          "name": "Buggimaan",
+          "url": "https://open.spotify.com/artist/0r4YXuFgQ7PpwQpi9cVrSo"
+        },
+        {
+          "name": "Punitha Raja",
+          "url": "https://open.spotify.com/artist/3nlRk4xC0MZJbCa30mOwlk"
+        },
+        {
+          "name": "Psychomantra",
+          "url": "https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218232,
+      "name": "Double Game",
+      "url": "https://open.spotify.com/track/3KT5ahHesWCLbSS5HjrqF4"
     },
     {
       "album": {
@@ -492,6 +584,28 @@
     },
     {
       "album": {
+        "name": "Ethu Serilla (From \"Valigal\")",
+        "url": "https://open.spotify.com/album/0H8Fp5AoDeM3QGdKTQWVcK"
+      },
+      "artists": [
+        {
+          "name": "Arjun Heyjay",
+          "url": "https://open.spotify.com/artist/4SRG9FDiXqDMispFR31N2g"
+        },
+        {
+          "name": "Gunaji",
+          "url": "https://open.spotify.com/artist/1c8auuyeiow0zClBZgeJWo"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164589,
+      "name": "Ethu Serilla - From \"Valigal\"",
+      "url": "https://open.spotify.com/track/53nYwYfG3tc5pbpZPNAK65"
+    },
+    {
+      "album": {
         "name": "Ex Girlfriend",
         "url": "https://open.spotify.com/album/3vxXaoWfFzQBODGwfWXp9S"
       },
@@ -585,7 +699,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 198048,
       "name": "Girlfriend (feat. Black Kaalai)",
       "url": "https://open.spotify.com/track/18dzpdp7g87wNgOFoNl1dt"
@@ -790,6 +904,76 @@
     },
     {
       "album": {
+        "name": "SIRAI",
+        "url": "https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ"
+      },
+      "artists": [
+        {
+          "name": "MC Jango",
+          "url": "https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 174048,
+      "name": "Jai Bheem",
+      "url": "https://open.spotify.com/track/1WX37OlJfPfppUOSOOT4c0"
+    },
+    {
+      "album": {
+        "name": "SIRAI",
+        "url": "https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ"
+      },
+      "artists": [
+        {
+          "name": "MC Jango",
+          "url": "https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf"
+        },
+        {
+          "name": "Emcee D",
+          "url": "https://open.spotify.com/artist/3N64thkbF77oi0Dl3bGqN8"
+        },
+        {
+          "name": "Hamara cv",
+          "url": "https://open.spotify.com/artist/0QNXgocwKV47U9QUiOKhXV"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242568,
+      "name": "Jangrila Jeera",
+      "url": "https://open.spotify.com/track/5svRYPwYjBLYl87FKeUzMR"
+    },
+    {
+      "album": {
+        "name": "Jokers",
+        "url": "https://open.spotify.com/album/4VPJ7W8FJTOkPmF7Z3bYTY"
+      },
+      "artists": [
+        {
+          "name": "Akira Da Rapwolf",
+          "url": "https://open.spotify.com/artist/4xQxr2dCxTIZRWNTxF3Km4"
+        },
+        {
+          "name": "Nigavithran",
+          "url": "https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf"
+        },
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/7BUpwacmZORknFyanmyq7Y"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "Jokers",
+      "url": "https://open.spotify.com/track/6Kr5jY8gYGn2XpfvEjEPus"
+    },
+    {
+      "album": {
         "name": "Rebirth 2020",
         "url": "https://open.spotify.com/album/4xwnRTi0isDNpmy3VDpbuM"
       },
@@ -945,12 +1129,12 @@
           "url": "https://open.spotify.com/artist/7lZin56OSjFKERgNRdQetu"
         },
         {
-          "name": "Jack' Styles",
-          "url": "https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX"
-        },
-        {
           "name": "Stowe Francis",
           "url": "https://open.spotify.com/artist/7FvjLuuGbaJPo0S6KJFmBQ"
+        },
+        {
+          "name": "Jack' Styles",
+          "url": "https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX"
         },
         {
           "name": "San T",
@@ -1073,6 +1257,36 @@
     {
       "album": {
         "name": "Essential Love",
+        "url": "https://open.spotify.com/album/06tvk0di9NNoRfmXecMAgG"
+      },
+      "artists": [
+        {
+          "name": "Charles Bosco",
+          "url": "https://open.spotify.com/artist/2aZMJZvvSb072ZPDKRmep1"
+        },
+        {
+          "name": "SUVI",
+          "url": "https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Arjun, Jackson",
+          "url": "https://open.spotify.com/artist/5chVu0nSuyVYz3oM8zwnhe"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200283,
+      "name": "Kuruvi",
+      "url": "https://open.spotify.com/track/4MV68M6Z9wujpSmmGwlAzZ"
+    },
+    {
+      "album": {
+        "name": "Essential Love",
         "url": "https://open.spotify.com/album/1LJ1xlDERrFjO0P5qvP4Rs"
       },
       "artists": [
@@ -1095,7 +1309,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200283,
       "name": "Kuruvi - Dinesh K & Charles Bosco Collabo",
       "url": "https://open.spotify.com/track/6Ks9YSXoWHi2kB4rH3tS79"
@@ -1111,12 +1325,12 @@
           "url": "https://open.spotify.com/artist/4ZkDVtrxzutTjT9anZMfgT"
         },
         {
-          "name": "San T",
-          "url": "https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb"
-        },
-        {
           "name": "Stowe Francis",
           "url": "https://open.spotify.com/artist/7FvjLuuGbaJPo0S6KJFmBQ"
+        },
+        {
+          "name": "San T",
+          "url": "https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb"
         }
       ],
       "date_added": "2021-12-01",
@@ -1143,10 +1357,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207694,
       "name": "Lady Bird",
       "url": "https://open.spotify.com/track/2UoivSrrQtf60aomjQxy4q"
+    },
+    {
+      "album": {
+        "name": "Lady Bird",
+        "url": "https://open.spotify.com/album/2b7qf3j0wgO9wSHiEgo9Bb"
+      },
+      "artists": [
+        {
+          "name": "DK Dineshkumar",
+          "url": "https://open.spotify.com/artist/5JmvYaSYnC9N63aYd8GBOM"
+        },
+        {
+          "name": "Psychomantra",
+          "url": "https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207636,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/27uhM2BAIaSi5OvtBbPdRk"
     },
     {
       "album": {
@@ -1169,7 +1405,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 269333,
       "name": "Lyrical Crime",
       "url": "https://open.spotify.com/track/1WnY7mnjjImeSb4FylOoN8"
@@ -1187,10 +1423,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 240000,
       "name": "Ma Carrotz",
       "url": "https://open.spotify.com/track/2HdXZ7g9XuSYMX5C9dguE4"
+    },
+    {
+      "album": {
+        "name": "Maari Mazhaiyila Thavala",
+        "url": "https://open.spotify.com/album/754TTixoJkmxR8F8zt0XTa"
+      },
+      "artists": [
+        {
+          "name": "Ratty Adhiththan",
+          "url": "https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211846,
+      "name": "Maari Mazhaiyila Thavala",
+      "url": "https://open.spotify.com/track/20Laa9YU8RVHZ9iGKMeM7w"
     },
     {
       "album": {
@@ -1252,6 +1506,24 @@
     },
     {
       "album": {
+        "name": "SIRAI",
+        "url": "https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ"
+      },
+      "artists": [
+        {
+          "name": "MC Jango",
+          "url": "https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142464,
+      "name": "Naakula Mookula",
+      "url": "https://open.spotify.com/track/4OI0PCYI1lj9RiPWw6vIrY"
+    },
+    {
+      "album": {
         "name": "Naam Ninaithaal",
         "url": "https://open.spotify.com/album/6YpQ4Lt6mHFxGKQwWGHJkm"
       },
@@ -1289,10 +1561,98 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185500,
       "name": "Naan Yaar",
       "url": "https://open.spotify.com/track/2VHuE9Sz1tnqHcMyRxDB6R"
+    },
+    {
+      "album": {
+        "name": "Naan Yaar",
+        "url": "https://open.spotify.com/album/0Vvu96doHMiLDUAT4RUOhG"
+      },
+      "artists": [
+        {
+          "name": "Vijen",
+          "url": "https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "Naan Yaar",
+      "url": "https://open.spotify.com/track/5d9alcJcZ8PKIyDOsFHsk7"
+    },
+    {
+      "album": {
+        "name": "SIRAI",
+        "url": "https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ"
+      },
+      "artists": [
+        {
+          "name": "MC Jango",
+          "url": "https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185520,
+      "name": "Naanum Rowdy Dhan",
+      "url": "https://open.spotify.com/track/4mW6qUbgy5gZOOWgsOMrHf"
+    },
+    {
+      "album": {
+        "name": "Thula",
+        "url": "https://open.spotify.com/album/2V8Q4wFKo9zci8eYggtfHs"
+      },
+      "artists": [
+        {
+          "name": "Mc Sai",
+          "url": "https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9"
+        },
+        {
+          "name": "Tha Q",
+          "url": "https://open.spotify.com/artist/0geLs9KTpcRlOe31eTD9gY"
+        },
+        {
+          "name": "Ruff Jana",
+          "url": "https://open.spotify.com/artist/31bApG7752orvyE4YgQtqT"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 195624,
+      "name": "Nagaram (Bcb2 Remix)",
+      "url": "https://open.spotify.com/track/1qCqjch238s51lrkvJgxqc"
+    },
+    {
+      "album": {
+        "name": "Thula",
+        "url": "https://open.spotify.com/album/1ZiHy43t34l6WJ8oXpjZW4"
+      },
+      "artists": [
+        {
+          "name": "Mc Sai",
+          "url": "https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9"
+        },
+        {
+          "name": "Tha Q",
+          "url": "https://open.spotify.com/artist/0geLs9KTpcRlOe31eTD9gY"
+        },
+        {
+          "name": "Ruff Jana",
+          "url": "https://open.spotify.com/artist/31bApG7752orvyE4YgQtqT"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195624,
+      "name": "Nagaram (Bcb2 Remix)",
+      "url": "https://open.spotify.com/track/4BEo25pBzNWC06bzadSkAd"
     },
     {
       "album": {
@@ -1315,7 +1675,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195687,
       "name": "Nagaram Bcb2 (Remix) [feat. tha Q & Ruff Jana]",
       "url": "https://open.spotify.com/track/2eeQFhb7gRB0lSZJJ4ogWM"
@@ -1493,6 +1853,28 @@
     {
       "album": {
         "name": "No More Cry",
+        "url": "https://open.spotify.com/album/00N0sqJ3NeaVsh5WttIzrK"
+      },
+      "artists": [
+        {
+          "name": "Bala D Thala",
+          "url": "https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV"
+        },
+        {
+          "name": "Nigavithran",
+          "url": "https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278429,
+      "name": "No More Cry",
+      "url": "https://open.spotify.com/track/00p82zHEoSJefOTZn3xs80"
+    },
+    {
+      "album": {
+        "name": "No More Cry",
         "url": "https://open.spotify.com/album/77NuRMbU53XA2StYdGXyBW"
       },
       "artists": [
@@ -1511,7 +1893,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 278429,
       "name": "No More Cry",
       "url": "https://open.spotify.com/track/0nef6UGl4zBlGQnVWI1d2C"
@@ -1648,6 +2030,24 @@
     },
     {
       "album": {
+        "name": "SIRAI",
+        "url": "https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ"
+      },
+      "artists": [
+        {
+          "name": "MC Jango",
+          "url": "https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264048,
+      "name": "Pengal Enna Choppa Choppa",
+      "url": "https://open.spotify.com/track/5V6bMrPoYSfxQnItOFhTzZ"
+    },
+    {
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6578RqEe62hId26Nh0Zg7A"
       },
@@ -1755,7 +2155,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 273818,
       "name": "Rakkamaa Baby",
       "url": "https://open.spotify.com/track/464pAMlYYRoh8QBDovf3KE"
@@ -1785,7 +2185,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-24",
       "duration_ms": 152571,
       "name": "Rap Game (feat. Saf Weezy & MC Starboy)",
       "url": "https://open.spotify.com/track/3z55rSilY03JI2nMELCpex"
@@ -1815,7 +2215,25 @@
     {
       "album": {
         "name": "Thula",
-        "url": "https://open.spotify.com/album/0XCydXuBYxqLEbUcAV9Syj"
+        "url": "https://open.spotify.com/album/2V8Q4wFKo9zci8eYggtfHs"
+      },
+      "artists": [
+        {
+          "name": "Mc Sai",
+          "url": "https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 219500,
+      "name": "Rebelution",
+      "url": "https://open.spotify.com/track/4eZO9OZxqYtdA5wmvPPCzm"
+    },
+    {
+      "album": {
+        "name": "Thula",
+        "url": "https://open.spotify.com/album/1ZiHy43t34l6WJ8oXpjZW4"
       },
       "artists": [
         {
@@ -1826,6 +2244,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219500,
+      "name": "Rebelution",
+      "url": "https://open.spotify.com/track/5Og3Y9UvWmdmGq9OQAARA3"
+    },
+    {
+      "album": {
+        "name": "Thula",
+        "url": "https://open.spotify.com/album/0XCydXuBYxqLEbUcAV9Syj"
+      },
+      "artists": [
+        {
+          "name": "Mc Sai",
+          "url": "https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 224250,
       "name": "Rebelution",
       "url": "https://open.spotify.com/track/1LcFq1jFKAJ10SqeJsqM7m"
@@ -1883,10 +2319,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193190,
       "name": "Saaral Mazhaiyaa",
       "url": "https://open.spotify.com/track/0TCoYdIgo4UUUzUfTkCzfJ"
+    },
+    {
+      "album": {
+        "name": "Saaral Mazhaiyaa (Reprise)",
+        "url": "https://open.spotify.com/album/1OSjNyNqWa4IwdAUXnhYdz"
+      },
+      "artists": [
+        {
+          "name": "Stephen Zechariah",
+          "url": "https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193190,
+      "name": "Saaral Mazhaiyaa - Reprise",
+      "url": "https://open.spotify.com/track/1qqxNmJwUd668THVbrLk7o"
     },
     {
       "album": {
@@ -1913,6 +2367,28 @@
     {
       "album": {
         "name": "Samaneedhi",
+        "url": "https://open.spotify.com/album/5BnWmHcZysK2qw6fxtL5KF"
+      },
+      "artists": [
+        {
+          "name": "Imman Vijay",
+          "url": "https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3"
+        },
+        {
+          "name": "Mc Azy",
+          "url": "https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199283,
+      "name": "Samaneedhi",
+      "url": "https://open.spotify.com/track/6jpAkJT8wUd0GzDPznkegG"
+    },
+    {
+      "album": {
+        "name": "Samaneedhi",
         "url": "https://open.spotify.com/album/43pjDsRPz53Ue7f9CseErh"
       },
       "artists": [
@@ -1931,7 +2407,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199283,
       "name": "Samaneedhi",
       "url": "https://open.spotify.com/track/5xcyZcXh1uFZJtrlq1XMuA"
@@ -2001,6 +2477,28 @@
       "duration_ms": 220798,
       "name": "Self Nalam",
       "url": "https://open.spotify.com/track/7chs0PFyLWg9pCrNQqGPjr"
+    },
+    {
+      "album": {
+        "name": "Shroov",
+        "url": "https://open.spotify.com/album/10FXfRx4Urpd9EaVN38WJe"
+      },
+      "artists": [
+        {
+          "name": "NST",
+          "url": "https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135445,
+      "name": "Shroov",
+      "url": "https://open.spotify.com/track/3x8Qr9y97Vdo2lMa0TVkX5"
     },
     {
       "album": {
@@ -2100,6 +2598,24 @@
     },
     {
       "album": {
+        "name": "Stable In The Game",
+        "url": "https://open.spotify.com/album/5EVnoFdYVMuYdTWf3kzjCl"
+      },
+      "artists": [
+        {
+          "name": "NST",
+          "url": "https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203588,
+      "name": "Stable In The Game",
+      "url": "https://open.spotify.com/track/3f2ItBv79rxtFovyBeGn2c"
+    },
+    {
+      "album": {
         "name": "Start That Thiruvizha",
         "url": "https://open.spotify.com/album/4EHNwF0djcMdsfqBZ8nzsO"
       },
@@ -2136,6 +2652,32 @@
     },
     {
       "album": {
+        "name": "Vocagenie Hits",
+        "url": "https://open.spotify.com/album/3cMW72eTUhEbDJf3KqJRYu"
+      },
+      "artists": [
+        {
+          "name": "Buggimaan",
+          "url": "https://open.spotify.com/artist/0r4YXuFgQ7PpwQpi9cVrSo"
+        },
+        {
+          "name": "Psychomantra",
+          "url": "https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW"
+        },
+        {
+          "name": "Craankstar",
+          "url": "https://open.spotify.com/artist/2LCwaZuvqQ9ZuPXffrriQf"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262574,
+      "name": "Sughamaai Subbulakshmi",
+      "url": "https://open.spotify.com/track/1IB74mbEhfJP47gqSkiC1C"
+    },
+    {
+      "album": {
         "name": "Sughamaai Subbulakshmi",
         "url": "https://open.spotify.com/album/3BBkHJ0SExwQWXmGnk5BCc"
       },
@@ -2155,7 +2697,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262574,
       "name": "Sughamaai Subbulakshmi",
       "url": "https://open.spotify.com/track/4MZlRVYcMpOP5kaP5jUM4j"
@@ -2296,6 +2838,32 @@
     },
     {
       "album": {
+        "name": "Thalayaatti Bommai (From \"Think Originals\")",
+        "url": "https://open.spotify.com/album/15kqLTDPwuLphV2mpl4sYc"
+      },
+      "artists": [
+        {
+          "name": "Dev Major",
+          "url": "https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv"
+        },
+        {
+          "name": "Iykki Berry",
+          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
+        },
+        {
+          "name": "Chinna Ponnu",
+          "url": "https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207820,
+      "name": "Thalayaatti Bommai - From \"Think Originals\"",
+      "url": "https://open.spotify.com/track/6AXVNRqao5TcomgIPWiWnm"
+    },
+    {
+      "album": {
         "name": "Savadi(Individual Album Soundtrack)",
         "url": "https://open.spotify.com/album/5tWjOWqOl4Sojh6j7V2DJJ"
       },
@@ -2329,10 +2897,36 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 205340,
       "name": "Throgam",
       "url": "https://open.spotify.com/track/4x9WC6Lvq8f2kPaBmRNqXI"
+    },
+    {
+      "album": {
+        "name": "Thunnindhu Sel",
+        "url": "https://open.spotify.com/album/0lvptAqJBvMhYCtSqJMlXG"
+      },
+      "artists": [
+        {
+          "name": "Ragu Branavan",
+          "url": "https://open.spotify.com/artist/6m1vrQWvtpNlq3pJBvkAiF"
+        },
+        {
+          "name": "Veena AE",
+          "url": "https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK"
+        },
+        {
+          "name": "Vishagar Arunan",
+          "url": "https://open.spotify.com/artist/2YF2ZSkdHzaDVmA3rJRr5e"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 196467,
+      "name": "Thunnindhu Sel",
+      "url": "https://open.spotify.com/track/0x0Zys8tyGTaaAiDleN8WW"
     },
     {
       "album": {
@@ -2419,6 +3013,24 @@
       "duration_ms": 154223,
       "name": "Urvashi Urvashi - Remix",
       "url": "https://open.spotify.com/track/54ZFwfyOkQNCfeDjmoYhrf"
+    },
+    {
+      "album": {
+        "name": "SIRAI",
+        "url": "https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ"
+      },
+      "artists": [
+        {
+          "name": "MC Jango",
+          "url": "https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114720,
+      "name": "Usharana Pullingo",
+      "url": "https://open.spotify.com/track/3C3J9YUc4sVqfYm0UrO0GG"
     },
     {
       "album": {
@@ -2625,6 +3237,28 @@
     {
       "album": {
         "name": "Virus",
+        "url": "https://open.spotify.com/album/18hdsibfNSE3vbNJioniXl"
+      },
+      "artists": [
+        {
+          "name": "Imman Vijay",
+          "url": "https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3"
+        },
+        {
+          "name": "Mc Azy",
+          "url": "https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 212800,
+      "name": "Virus",
+      "url": "https://open.spotify.com/track/4d3tRG4qajyj7mdGBKLlsM"
+    },
+    {
+      "album": {
+        "name": "Virus",
         "url": "https://open.spotify.com/album/7xRhx66zTnXR3IKbMaUInu"
       },
       "artists": [
@@ -2643,7 +3277,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212800,
       "name": "Virus",
       "url": "https://open.spotify.com/track/1XITQUMLKoUTl39XrGGZ99"
@@ -2695,6 +3329,28 @@
       "duration_ms": 243604,
       "name": "What's Poppin ?",
       "url": "https://open.spotify.com/track/4EfMhC8JqOlWyG08BtW9rX"
+    },
+    {
+      "album": {
+        "name": "Where Is God",
+        "url": "https://open.spotify.com/album/1bToyETpCqnx7vx9mEKXgX"
+      },
+      "artists": [
+        {
+          "name": "Vijen",
+          "url": "https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR"
+        },
+        {
+          "name": "Fenix",
+          "url": "https://open.spotify.com/artist/1rEZSD3Gbt66yvei1eosRd"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 207684,
+      "name": "Where Is God",
+      "url": "https://open.spotify.com/track/0ls76xjyCL1Ybs6N8crsvr"
     },
     {
       "album": {

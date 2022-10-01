@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Blue Pearl",
+        "url": "https://open.spotify.com/album/4Zo1Q2PXOGtV2OirdktdYY"
+      },
+      "artists": [
+        {
+          "name": "obelebo",
+          "url": "https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169828,
+      "name": "Blue Pearl",
+      "url": "https://open.spotify.com/track/6khHWpOIcKjA71xz5BWi9h"
+    },
+    {
+      "album": {
         "name": "I Blomstertid",
         "url": "https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab"
       },
@@ -401,10 +419,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214237,
       "name": "Everything Must Go (Frank Collage)",
       "url": "https://open.spotify.com/track/2BY40RfMfBavzsjiTfbow3"
+    },
+    {
+      "album": {
+        "name": "Hearts Beat Loud (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16wCSAPcCvedM9X0sOksYO"
+      },
+      "artists": [
+        {
+          "name": "Keegan DeWitt",
+          "url": "https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214237,
+      "name": "Everything Must Go - Frank Collage",
+      "url": "https://open.spotify.com/track/3Zr9l3vUJtVp06y9Fnc0O5"
     },
     {
       "album": {
@@ -477,6 +513,24 @@
       "duration_ms": 178500,
       "name": "Forward Momentum",
       "url": "https://open.spotify.com/track/1CdiqrBad8rjxuriEcUGU7"
+    },
+    {
+      "album": {
+        "name": "Going In Circles",
+        "url": "https://open.spotify.com/album/6Brv2ew17Cu7gTBZho5P3Z"
+      },
+      "artists": [
+        {
+          "name": "Nebulae",
+          "url": "https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149914,
+      "name": "Going In Circles",
+      "url": "https://open.spotify.com/track/6Fkjd2eFXuHC8tGGn2eLBo"
     },
     {
       "album": {
@@ -831,6 +885,24 @@
     {
       "album": {
         "name": "Away",
+        "url": "https://open.spotify.com/album/4KGsOpuWVrfI5DinD34VOF"
+      },
+      "artists": [
+        {
+          "name": "Realizer",
+          "url": "https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206324,
+      "name": "More Reeds",
+      "url": "https://open.spotify.com/track/03aNql8dZHY63kfd7A7c1m"
+    },
+    {
+      "album": {
+        "name": "Away",
         "url": "https://open.spotify.com/album/4Zzjrtt6012pdMZkw1R7mA"
       },
       "artists": [
@@ -841,7 +913,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206324,
       "name": "More Reeds",
       "url": "https://open.spotify.com/track/5CXoWgCOmJN7czdwNowOYk"
@@ -863,6 +935,24 @@
       "duration_ms": 201163,
       "name": "New World",
       "url": "https://open.spotify.com/track/1C1XqIYvEoQWXzXQnxIYlP"
+    },
+    {
+      "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/3O8OlFYpzITLxAzi7hxtBV"
+      },
+      "artists": [
+        {
+          "name": "A Clear Path",
+          "url": "https://open.spotify.com/artist/1zZBuJ9UnhzJ6vhVWkq2vI"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136628,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/4o53OVOjtOEkmh0UPDyuke"
     },
     {
       "album": {
@@ -1075,10 +1165,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152306,
       "name": "Shiosai",
       "url": "https://open.spotify.com/track/16OeJvn6s38iUCNniIU4WQ"
+    },
+    {
+      "album": {
+        "name": "ARCHES",
+        "url": "https://open.spotify.com/album/3x5YLC33mC4XrCQD1yaDYc"
+      },
+      "artists": [
+        {
+          "name": "\u585a\u672c\u529f",
+          "url": "https://open.spotify.com/artist/0Nhw8VVtJBA1gXmgqyHdrd"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152306,
+      "name": "Shiosai",
+      "url": "https://open.spotify.com/track/5ctRFJdqVhr0wWSBeY2BqC"
     },
     {
       "album": {
@@ -1136,6 +1244,24 @@
     },
     {
       "album": {
+        "name": "Sonder Vol. 1",
+        "url": "https://open.spotify.com/album/2jWuhAdJY3sppLkYQ8vBbj"
+      },
+      "artists": [
+        {
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149577,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/3bhuWbEZnr9yX2QVYOWYzo"
+    },
+    {
+      "album": {
         "name": "Sonder, Vol. 1",
         "url": "https://open.spotify.com/album/4EMuzrkru4Lx2cD3yu663Q"
       },
@@ -1147,7 +1273,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152262,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/6jjmxiR8Yb8Nli4BQhk9e5"
@@ -1237,10 +1363,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 124786,
       "name": "Sun Rays Like Stilts",
       "url": "https://open.spotify.com/track/2Ik1Ak51UOyRr8uEBamnjI"
+    },
+    {
+      "album": {
+        "name": "Perpetual",
+        "url": "https://open.spotify.com/album/4P4KWs6xp9LBaKInkE8me3"
+      },
+      "artists": [
+        {
+          "name": "Tommy Guerrero",
+          "url": "https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127893,
+      "name": "Sun Rays Like Stilts",
+      "url": "https://open.spotify.com/track/4r1IFv0DCJ6CQsfOhQPTES"
     },
     {
       "album": {
@@ -1453,7 +1597,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-23",
       "duration_ms": 163483,
       "name": "Tremoland",
       "url": "https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe"
@@ -1511,6 +1655,24 @@
       "duration_ms": 294307,
       "name": "White Ferrari",
       "url": "https://open.spotify.com/track/3peYvBrl7CyE0zXUujPGnN"
+    },
+    {
+      "album": {
+        "name": "Wild Lake",
+        "url": "https://open.spotify.com/album/2T1PnhzqQwnHGPRQO7Hdff"
+      },
+      "artists": [
+        {
+          "name": "Lama House",
+          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187212,
+      "name": "Wild Lake",
+      "url": "https://open.spotify.com/track/5mxf8aV7VUU7C1nzVdu9D6"
     },
     {
       "album": {

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 259013,
       "name": "A Woman Needs A Good Man",
       "url": "https://open.spotify.com/track/6WOGuewVo54QJIGsXDxjo9"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 175680,
       "name": "Ebb Tide",
       "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 293906,
       "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
       "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-10-01",
       "duration_ms": 272065,
       "name": "Holding Back (Lounge Remix)",
       "url": "https://open.spotify.com/track/5eh1kdp9Go1FDHWxLGUGoU"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 237706,
       "name": "I Like Being A Woman",
       "url": "https://open.spotify.com/track/1J8gk2wlXNnsabMGUOutl3"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-10-01",
       "duration_ms": 429160,
       "name": "If And When",
       "url": "https://open.spotify.com/track/5OkcQcCdSqQMpU4WYdT2ir"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": "2022-08-27",
       "duration_ms": 404080,
       "name": "MacArthur Park",
       "url": "https://open.spotify.com/track/6SqeK2h7wWHs0BqtEJ5u9r"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 286480,
       "name": "Make It Easy On Yourself",
       "url": "https://open.spotify.com/track/1c011SkU9d45oKg0woHXr6"
@@ -683,6 +683,24 @@
       "duration_ms": 337946,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK"
+    },
+    {
+      "album": {
+        "name": "Doing Fine",
+        "url": "https://open.spotify.com/album/3TtzcnFBXLAbgqzQkU4u3Y"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 246480,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/6iIFbQlbPGfTIv70it0hLT"
     },
     {
       "album": {
@@ -776,6 +794,24 @@
     },
     {
       "album": {
+        "name": "Sunday Music",
+        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-08",
+      "duration_ms": 202026,
+      "name": "Sugar On Sunday",
+      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
+    },
+    {
+      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -852,6 +888,42 @@
     },
     {
       "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "The Magic Door",
+      "url": "https://open.spotify.com/track/5B94YFQfQ42lnEoOn3tA7M"
+    },
+    {
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 153040,
+      "name": "The Magic Door",
+      "url": "https://open.spotify.com/track/7pdps9Rup0JFhYwaoiXyO5"
+    },
+    {
+      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
       },
@@ -899,7 +971,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-29",
       "duration_ms": 221056,
       "name": "This Is the House",
       "url": "https://open.spotify.com/track/7EDI0Ak3KRTgcCZndJJYaG"
@@ -1019,7 +1091,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-30",
       "duration_ms": 481640,
       "name": "When Will I See You Again / Love Train - Live Medley",
       "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
@@ -1037,7 +1109,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 197040,
       "name": "Who Is She and What Is She to You",
       "url": "https://open.spotify.com/track/5pzpxn3XvxtVeCNSBm8zys"

@@ -1,13 +1,69 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 295194,
+  "num_followers": 307434,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE5NDAxMSwwMDAwMDAwMGUyMzI5MDA5NmY1MTVmNDg4ZTkxMWFhYjY4MDllZGNi",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDE4ODE5NmI0MTY5YWY3MWZjNDA5MWJiOTY2MTBhYWZi",
   "tracks": [
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Posture (Wolfgang Lohr Remix)",
+        "url": "https://open.spotify.com/album/33cm8hJKxHtcFELOZB2eJy"
+      },
+      "artists": [
+        {
+          "name": "Lamuzgueule",
+          "url": "https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Posture - Wolfgang Lohr Remix",
+      "url": "https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Dance, Dance, Dance (Extra Steps)",
+        "url": "https://open.spotify.com/album/1uXmunFGuc2alC1IIL2MoS"
+      },
+      "artists": [
+        {
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+        },
+        {
+          "name": "Extra Medium",
+          "url": "https://open.spotify.com/artist/4kCp7egBIcDpMGdlnsPv4I"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Sing Sing Sing - Extra Medium Remix",
+      "url": "https://open.spotify.com/track/0DFuVQeTeIPYWvs4EbRSGC"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Bei Mir Bistu Shein",
+        "url": "https://open.spotify.com/album/5olnobFFDdSBKTkTocF4bB"
+      },
+      "artists": [
+        {
+          "name": "Masha Ray",
+          "url": "https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Bei Mir Bistu Shein - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/6w21L3eVgP07fWiYew9Tsd"
+    },
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
@@ -23,6 +79,22 @@
       "duration_ms": 184737,
       "name": "Love!",
       "url": "https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Princess, Pt. Two",
+        "url": "https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 197506,
+      "name": "Booty Swing",
+      "url": "https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -45,6 +117,22 @@
       "url": "https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8"
     },
     {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Merry-Go-Round-And-Round",
+        "url": "https://open.spotify.com/album/3yXw16nAl3qa0f4egmHdXd"
+      },
+      "artists": [
+        {
+          "name": "The Fly Guy Five",
+          "url": "https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8"
+        }
+      ],
+      "duration_ms": 120761,
+      "name": "Extra Fries",
+      "url": "https://open.spotify.com/track/556y7EL1trkqGtevzn8684"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Take You Right Back",
@@ -65,6 +153,358 @@
       "url": "https://open.spotify.com/track/56O8jHWDc5Y2oBUKByKA1M"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "<|\u00ba_\u00ba|>",
+        "url": "https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 229804,
+      "name": "Lone Digger",
+      "url": "https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "POP SONG",
+        "url": "https://open.spotify.com/album/0pok5Oa8DgsXdZpsnpAbqX"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "POP SONG",
+      "url": "https://open.spotify.com/track/1rdr5D1dSqbEmLa97l36NZ"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Do You Want the Truth or Something Beautiful?",
+        "url": "https://open.spotify.com/album/7zzHLsTPVTgBLXHbZFve33"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/2pAkvdCFORWTiFJHVjojdC"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Curses from Past Times EP",
+        "url": "https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael"
+      },
+      "artists": [
+        {
+          "name": "Proleter",
+          "url": "https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8"
+        }
+      ],
+      "duration_ms": 275751,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/04KsMCb9PZE2S0AtUU8Jhb"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Keep It Unreal (10th Anniversary Analogue Remaster Edition)",
+        "url": "https://open.spotify.com/album/39lUJE0esEoBZpcYiEvede"
+      },
+      "artists": [
+        {
+          "name": "Mr. Scruff",
+          "url": "https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip"
+        },
+        {
+          "name": "Sneaky",
+          "url": "https://open.spotify.com/artist/7Diblz3UML0a0ArC3OgLxG"
+        }
+      ],
+      "duration_ms": 454600,
+      "name": "Get A Move On!",
+      "url": "https://open.spotify.com/track/3AgEOAo3dvkjtsBmeTGRjg"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "H\u00f4tel Costes 5",
+        "url": "https://open.spotify.com/album/4yuBlJyKxO1AcBFQ9umCIS"
+      },
+      "artists": [
+        {
+          "name": "Gabin",
+          "url": "https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ"
+        }
+      ],
+      "duration_ms": 215533,
+      "name": "Doo uap, doo uap, doo uap - Radio edit",
+      "url": "https://open.spotify.com/track/68j2rXimsXQYezvQn2Ot4c"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "It Flew By",
+        "url": "https://open.spotify.com/album/3PwKRBTI8qZfij6rcT7bP2"
+      },
+      "artists": [
+        {
+          "name": "The Electric Swing Circus",
+          "url": "https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY"
+        }
+      ],
+      "duration_ms": 190508,
+      "name": "Empires",
+      "url": "https://open.spotify.com/track/1WdbMVvjfOV8M0tkRVilKh"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/61jQJZcSYFp8Qm6zNJoy6m"
+      },
+      "artists": [
+        {
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
+        },
+        {
+          "name": "Octavia Rose",
+          "url": "https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Delight",
+      "url": "https://open.spotify.com/track/36kaImsnzRzsU6L4cvWP6s"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Gringos Revenge",
+        "url": "https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Gringos Revenge",
+      "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Little Man Who Wasn't There",
+        "url": "https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        }
+      ],
+      "duration_ms": 206541,
+      "name": "The Little Man Who Wasn't There",
+      "url": "https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Horny",
+        "url": "https://open.spotify.com/album/0LW05xK1vo6bD99JLZV52P"
+      },
+      "artists": [
+        {
+          "name": "Pisk",
+          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+        },
+        {
+          "name": "Nastazya",
+          "url": "https://open.spotify.com/artist/1Nzd9pxwORjLCFWOfYxBsy"
+        }
+      ],
+      "duration_ms": 210708,
+      "name": "Horny - Electro Swing Version",
+      "url": "https://open.spotify.com/track/5KdJVf0tqurkIDdBEbIJVG"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Black Betty - Single",
+        "url": "https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 189956,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Outsidein",
+        "url": "https://open.spotify.com/album/7pOxRMSTxF6xMJFoefUvRs"
+      },
+      "artists": [
+        {
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+        }
+      ],
+      "duration_ms": 246973,
+      "name": "No Strings Attached",
+      "url": "https://open.spotify.com/track/5Ps6yt0FmXilnOeq1Djg9O"
+    },
+    {
+      "added_at": "2021-03-19 05:01:00",
+      "album": {
+        "name": "Wellerman",
+        "url": "https://open.spotify.com/album/6lmiOdFu7s5uIjTLs2aPtp"
+      },
+      "artists": [
+        {
+          "name": "Betty Booom",
+          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
+        },
+        {
+          "name": "Ashley Slater",
+          "url": "https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62"
+        }
+      ],
+      "duration_ms": 138645,
+      "name": "Wellerman - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/5WMP7E3Z89tY3iIwsJA2BW"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Show Breaks",
+        "url": "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
+      },
+      "artists": [
+        {
+          "name": "AlgoRythmik",
+          "url": "https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe"
+        }
+      ],
+      "duration_ms": 218796,
+      "name": "Andrew's Break",
+      "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Light up the Night",
+        "url": "https://open.spotify.com/album/5GaoXt4qjX5tgjq8QbwbXf"
+      },
+      "artists": [
+        {
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
+        },
+        {
+          "name": "Robert Edwards",
+          "url": "https://open.spotify.com/artist/7zXWnYi4ciLWNWSxkuUb4d"
+        },
+        {
+          "name": "Andrew Griffiths",
+          "url": "https://open.spotify.com/artist/46lNBEk84eMi1hXP3lXPHZ"
+        },
+        {
+          "name": "Octavia Rose",
+          "url": "https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9"
+        }
+      ],
+      "duration_ms": 233879,
+      "name": "Light up the Night",
+      "url": "https://open.spotify.com/track/0XNJwK6IhwfqvsNEZ2Q6q8"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Why Don't You",
+        "url": "https://open.spotify.com/album/5zyTu6rWzl5sh8G5mD8A0P"
+      },
+      "artists": [
+        {
+          "name": "Gramophonedzie",
+          "url": "https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc"
+        }
+      ],
+      "duration_ms": 170273,
+      "name": "Why Don't You - Radio Edit",
+      "url": "https://open.spotify.com/track/24dr5sIVbMtzBhbXqBUH29"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Mambo Rap",
+        "url": "https://open.spotify.com/album/1WqRiGdw8QFI9yMVqDCEQF"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "Mambo Rap",
+      "url": "https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Bend the Rules",
+        "url": "https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "Swing It Like Roger",
+      "url": "https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Say What (2019)",
+        "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
+      },
+      "artists": [
+        {
+          "name": "Cut Capers",
+          "url": "https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb"
+        },
+        {
+          "name": "Pisk",
+          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+        }
+      ],
+      "duration_ms": 193809,
+      "name": "Say What - Pisk Electro Swing Remix",
+      "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
+    },
+    {
       "added_at": "2020-11-20 05:02:00",
       "album": {
         "name": "Demon Kitty Rag (Electro Swing Version)",
@@ -79,6 +519,118 @@
       "duration_ms": 215031,
       "name": "Demon Kitty Rag - Electro Swing Version",
       "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Still Dancing",
+        "url": "https://open.spotify.com/album/6eOQ7cXX85wKgIx5S69Ma3"
+      },
+      "artists": [
+        {
+          "name": "Or3o",
+          "url": "https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Still Dancing",
+      "url": "https://open.spotify.com/track/39R88egli2YgXq1omv1Io7"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Cat Came Back",
+        "url": "https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx"
+      },
+      "artists": [
+        {
+          "name": "Luca Lento",
+          "url": "https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh"
+        },
+        {
+          "name": "Bdd",
+          "url": "https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "The Cat Came Back - Bdd Remix Edit",
+      "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Big Bad Wolf",
+        "url": "https://open.spotify.com/album/3PBpDglxLEjb1D8YHoQe7h"
+      },
+      "artists": [
+        {
+          "name": "Johnny Wright",
+          "url": "https://open.spotify.com/artist/6x1vUZaYXXXm9O7BeyPA8c"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Big Bad Wolf",
+      "url": "https://open.spotify.com/track/7hX8gTlr7zENGb5imnIahE"
+    },
+    {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Parla pi\u00f9 piano / In cerca di te",
+        "url": "https://open.spotify.com/album/4xwyeSNYVMkK8o1V2JtBO3"
+      },
+      "artists": [
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        },
+        {
+          "name": "Free Shots",
+          "url": "https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Parla pi\u00f9 piano / In cerca di te - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Pressure (Klisch\u00e9e Remix)",
+        "url": "https://open.spotify.com/album/0l4U1q6dwgAYVSQq4YwwlK"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        },
+        {
+          "name": "Marina & The Kats",
+          "url": "https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Pressure - Klisch\u00e9e Remix",
+      "url": "https://open.spotify.com/track/20BuZ7Kyn5CIcQ4S6w3Oo2"
+    },
+    {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Candy Girl",
+        "url": "https://open.spotify.com/album/3uBxUOlXsW91M7dy5BnIw1"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        },
+        {
+          "name": "Vallemarie",
+          "url": "https://open.spotify.com/artist/7IEexZoQUGuysrjOv20v0g"
+        }
+      ],
+      "duration_ms": 162075,
+      "name": "Candy Girl",
+      "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -109,76 +661,96 @@
       "url": "https://open.spotify.com/track/6MZ4epg1RvpQCsMq0f5R1t"
     },
     {
-      "added_at": "2022-07-05 12:46:20",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Both Sides of the Moon",
-        "url": "https://open.spotify.com/album/3nE3aRcSztx4bLkk5DwtJK"
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/4HMagicni8MA9ifFgQH2Nj"
       },
       "artists": [
         {
-          "name": "Tape Five",
-          "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
+          "name": "Annella",
+          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
+        }
+      ],
+      "duration_ms": 192741,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/4lMME61VxiWD189Hs2oRTM"
+    },
+    {
+      "added_at": "2022-05-13 04:03:00",
+      "album": {
+        "name": "Boring 20s",
+        "url": "https://open.spotify.com/album/2AqxV8iRa5sCwT1DHNpcDg"
+      },
+      "artists": [
+        {
+          "name": "Tamela D'Amico",
+          "url": "https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
         },
         {
           "name": "Ashley Slater",
           "url": "https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62"
         }
       ],
-      "duration_ms": 165226,
-      "name": "You Rascal You",
-      "url": "https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO"
+      "duration_ms": 170619,
+      "name": "Boring 20s",
+      "url": "https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Big Bad Wolf",
-        "url": "https://open.spotify.com/album/3PBpDglxLEjb1D8YHoQe7h"
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw"
       },
       "artists": [
         {
-          "name": "Johnny Wright",
-          "url": "https://open.spotify.com/artist/6x1vUZaYXXXm9O7BeyPA8c"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Big Bad Wolf",
-      "url": "https://open.spotify.com/track/7hX8gTlr7zENGb5imnIahE"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Pressure (Klisch\u00e9e Remix)",
-        "url": "https://open.spotify.com/album/0l4U1q6dwgAYVSQq4YwwlK"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+          "name": "Swing Republic",
+          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
         },
         {
-          "name": "Marina & The Kats",
-          "url": "https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg"
+          "name": "Karina Kappel",
+          "url": "https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH"
         }
       ],
-      "duration_ms": 203933,
-      "name": "Pressure - Klisch\u00e9e Remix",
-      "url": "https://open.spotify.com/track/20BuZ7Kyn5CIcQ4S6w3Oo2"
+      "duration_ms": 198666,
+      "name": "Back in Time",
+      "url": "https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz"
     },
     {
-      "added_at": "2021-01-22 10:35:47",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl"
+        "name": "No Swinggity",
+        "url": "https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio"
       },
       "artists": [
         {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+          "name": "Minimatic",
+          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
         }
       ],
-      "duration_ms": 213120,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
+      "duration_ms": 211520,
+      "name": "No Swinggity",
+      "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Brass Devil",
+        "url": "https://open.spotify.com/album/4uV6i7Odkg83F6muILQnFO"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 232431,
+      "name": "Brass Devil",
+      "url": "https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51"
     },
     {
       "added_at": "2021-11-19 05:02:00",
@@ -201,100 +773,104 @@
       "url": "https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf"
     },
     {
-      "added_at": "2021-04-16 04:01:00",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Swing in Spring (Betty Booom Remix)",
-        "url": "https://open.spotify.com/album/2VSca5LgyZPnQXNBa9Gc5J"
+        "name": "Mais Non (1920 Version)",
+        "url": "https://open.spotify.com/album/1WnrAf1vekSKVzhUUiixzO"
       },
       "artists": [
         {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "Offbeat",
-          "url": "https://open.spotify.com/artist/12KL2KtHU30NBJFMJSZZvA"
-        },
-        {
-          "name": "Nina Zeitlin",
-          "url": "https://open.spotify.com/artist/4YRO8W8k2IdbUMNOgIfCSL"
-        },
-        {
-          "name": "Betty Booom",
-          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
         }
       ],
-      "duration_ms": 174702,
-      "name": "Swing in Spring - Betty Booom Remix",
-      "url": "https://open.spotify.com/track/6vO3EyfktDjOkCQPu9V4Ok"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Vintage Vibes",
-        "url": "https://open.spotify.com/album/6A8DKMCU2OoCTOMpqRnXPp"
-      },
-      "artists": [
-        {
-          "name": "Balduin",
-          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
-        },
-        {
-          "name": "Kate Thomas",
-          "url": "https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "Hep Cat Boogie",
-      "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
+      "duration_ms": 191801,
+      "name": "Mais Non - 1920 Version",
+      "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
     },
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Light up the Night",
-        "url": "https://open.spotify.com/album/3S2xhzwwRpvF75lYFwvSSK"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
       },
       "artists": [
         {
-          "name": "Jamie Berry",
-          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
-        },
-        {
-          "name": "Robert Edwards",
-          "url": "https://open.spotify.com/artist/7zXWnYi4ciLWNWSxkuUb4d"
-        },
-        {
-          "name": "Andrew Griffiths",
-          "url": "https://open.spotify.com/artist/46lNBEk84eMi1hXP3lXPHZ"
-        },
-        {
-          "name": "Octavia Rose",
-          "url": "https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9"
+          "name": "Annella",
+          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
         }
       ],
-      "duration_ms": 233879,
-      "name": "Light up the Night",
-      "url": "https://open.spotify.com/track/1fbZDbnXkNXN4wbzme7Kk0"
+      "duration_ms": 195463,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
     },
     {
-      "added_at": "2021-03-19 05:01:00",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Wellerman",
-        "url": "https://open.spotify.com/album/6lmiOdFu7s5uIjTLs2aPtp"
+        "name": "What Lana Says",
+        "url": "https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC"
       },
       "artists": [
         {
-          "name": "Betty Booom",
-          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
-        },
-        {
-          "name": "Ashley Slater",
-          "url": "https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62"
+          "name": "Proleter",
+          "url": "https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8"
         }
       ],
-      "duration_ms": 138645,
-      "name": "Wellerman - Electro Swing Mix",
-      "url": "https://open.spotify.com/track/5WMP7E3Z89tY3iIwsJA2BW"
+      "duration_ms": 279200,
+      "name": "What Lana Says",
+      "url": "https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Glam! - Single",
+        "url": "https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9"
+      },
+      "artists": [
+        {
+          "name": "Dimie Cat",
+          "url": "https://open.spotify.com/artist/0LUkZYSaO60vSGVxgZM5PI"
+        }
+      ],
+      "duration_ms": 187689,
+      "name": "Glam - Electro-swing Remix",
+      "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Lady Swing",
+        "url": "https://open.spotify.com/album/1EWFmpi36vurwa8xRzye8E"
+      },
+      "artists": [
+        {
+          "name": "Lyre Le Temps",
+          "url": "https://open.spotify.com/artist/6jX8VHUJomYSfi5Hobdmmn"
+        }
+      ],
+      "duration_ms": 260306,
+      "name": "Hold the Night",
+      "url": "https://open.spotify.com/track/55KhvVzqoaNEgaRTDmu6Zg"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Keep Cool and Carry On (Glenn Gatsby Remix)",
+        "url": "https://open.spotify.com/album/5hErFOZFuxAzVoS7dkUxVJ"
+      },
+      "artists": [
+        {
+          "name": "The Stargazers",
+          "url": "https://open.spotify.com/artist/0X8gimy9OVbGOQBZxazD4z"
+        },
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Keep Cool and Carry On - Glenn Gatsby Remix",
+      "url": "https://open.spotify.com/track/1rtZIsfbOp7nxrd2ifFYyO"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -313,186 +889,62 @@
       "url": "https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Big Blue Swing",
-        "url": "https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7"
+        "name": "Electro Carousel Club Night (Selected by Dr Cat)",
+        "url": "https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm"
       },
       "artists": [
         {
-          "name": "Tape Five",
-          "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
+          "name": "Carola Jasmins",
+          "url": "https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo"
         }
       ],
-      "duration_ms": 227127,
-      "name": "Big Blue Swing",
-      "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "AKH Odessa",
-        "url": "https://open.spotify.com/album/3z0i8xWAB2svFBmzGbI0F0"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        },
-        {
-          "name": "Russian Gentlemen Club",
-          "url": "https://open.spotify.com/artist/2n0QKE9OP6RYRkwbgI9nRG"
-        }
-      ],
-      "duration_ms": 240812,
-      "name": "AKH Odessa",
-      "url": "https://open.spotify.com/track/5Y6jWzTtil6LwMChWEE8Tu"
+      "duration_ms": 200559,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
     },
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "The Little Man Who Wasn't There",
-        "url": "https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX"
+        "name": "Ladies Night",
+        "url": "https://open.spotify.com/album/37TPTEBX1LA7SrITRlmKxI"
       },
       "artists": [
         {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+          "name": "11 Acorn Lane",
+          "url": "https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5"
         }
       ],
-      "duration_ms": 206541,
-      "name": "The Little Man Who Wasn't There",
-      "url": "https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6"
+      "duration_ms": 202497,
+      "name": "Perfect (Electro Swing Remix)",
+      "url": "https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq"
     },
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "It Flew By",
-        "url": "https://open.spotify.com/album/5XFucNk2gXgSbcQbuzgOW5"
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/7CksdcNEVK5dAl0hbVAhDQ"
       },
       "artists": [
         {
-          "name": "The Electric Swing Circus",
-          "url": "https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY"
-        }
-      ],
-      "duration_ms": 190508,
-      "name": "Empires",
-      "url": "https://open.spotify.com/track/7BilkHwC8zy0Mv67wsGiUM"
-    },
-    {
-      "added_at": "2021-10-29 04:02:00",
-      "album": {
-        "name": "New Ground",
-        "url": "https://open.spotify.com/album/3IgvrAHqlsyWFNJ2DPKpUE"
-      },
-      "artists": [
-        {
-          "name": "Balduin",
-          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+          "name": "Klaypex",
+          "url": "https://open.spotify.com/artist/4HBMToZ4yMR07eiK9IxtjK"
         },
         {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "J Fitz",
-          "url": "https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ"
+          "name": "Virian",
+          "url": "https://open.spotify.com/artist/5jYBAlIgga7KSy6mZLfHHR"
         }
       ],
-      "duration_ms": 187838,
-      "name": "New Ground",
-      "url": "https://open.spotify.com/track/6BsAJNoNjKEkFqfvHsztIc"
+      "duration_ms": 180200,
+      "name": "1941 (feat. Virian)",
+      "url": "https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U"
     },
     {
-      "added_at": "2021-04-02 04:01:00",
+      "added_at": "2021-01-22 10:35:47",
       "album": {
-        "name": "Get This (Bang Bang)",
-        "url": "https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        }
-      ],
-      "duration_ms": 225728,
-      "name": "Get This (Bang Bang)",
-      "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
-    },
-    {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Taking You with Me",
-        "url": "https://open.spotify.com/album/4AUmtmKPvKPUjTe93Gy0oj"
-      },
-      "artists": [
-        {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
-        }
-      ],
-      "duration_ms": 199963,
-      "name": "Taking You with Me",
-      "url": "https://open.spotify.com/track/7Hr6qjeI4F1f52j09STzyG"
-    },
-    {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Wake Up Romeo (Pisk Remix)",
-        "url": "https://open.spotify.com/album/0Pf35QQ35kGcAq6iMNHkhE"
-      },
-      "artists": [
-        {
-          "name": "Caro Emerald",
-          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
-        },
-        {
-          "name": "Pisk",
-          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "Wake Up Romeo - Pisk Remix",
-      "url": "https://open.spotify.com/track/0gzUec1Q4dB6HjDMeoP5X6"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Speed Dating An Arsonist",
-        "url": "https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9"
-      },
-      "artists": [
-        {
-          "name": "Diablo Swing Orchestra",
-          "url": "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
-        }
-      ],
-      "duration_ms": 330893,
-      "name": "Speed Dating An Arsonist",
-      "url": "https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Day & Night",
-      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Outsidein",
-        "url": "https://open.spotify.com/album/7pOxRMSTxF6xMJFoefUvRs"
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl"
       },
       "artists": [
         {
@@ -500,9 +952,9 @@
           "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
         }
       ],
-      "duration_ms": 246973,
-      "name": "No Strings Attached",
-      "url": "https://open.spotify.com/track/5Ps6yt0FmXilnOeq1Djg9O"
+      "duration_ms": 213120,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -527,6 +979,98 @@
       "duration_ms": 238080,
       "name": "One for the Road",
       "url": "https://open.spotify.com/track/5YotzD692xl8wcqMi9pj8X"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
+        "name": "Get This (Bang Bang)",
+        "url": "https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "duration_ms": 225728,
+      "name": "Get This (Bang Bang)",
+      "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
+    },
+    {
+      "added_at": "2022-07-05 12:46:20",
+      "album": {
+        "name": "Both Sides of the Moon",
+        "url": "https://open.spotify.com/album/3nE3aRcSztx4bLkk5DwtJK"
+      },
+      "artists": [
+        {
+          "name": "Tape Five",
+          "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
+        },
+        {
+          "name": "Ashley Slater",
+          "url": "https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "You Rascal You",
+      "url": "https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Different (Glenn Gatsby Remix)",
+        "url": "https://open.spotify.com/album/4RLUDNllrSV4ayYibJfJiw"
+      },
+      "artists": [
+        {
+          "name": "Marina & The Kats",
+          "url": "https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg"
+        },
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Different - Glenn Gatsby Remix",
+      "url": "https://open.spotify.com/track/3ALptdYunDogaaogaVx6Mp"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Wake Up Romeo",
+        "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
+      },
+      "artists": [
+        {
+          "name": "Caro Emerald",
+          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
+        }
+      ],
+      "duration_ms": 207793,
+      "name": "Wake Up Romeo",
+      "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Electric Swing Circus - Remixed Vol. 1",
+        "url": "https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0"
+      },
+      "artists": [
+        {
+          "name": "The Electric Swing Circus",
+          "url": "https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY"
+        },
+        {
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
+        }
+      ],
+      "duration_ms": 224588,
+      "name": "Mr Magpie - Jamie Berry Remix",
+      "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -557,132 +1101,64 @@
       "url": "https://open.spotify.com/track/4qitoWab2HSAZ9wFKkz1QZ"
     },
     {
-      "added_at": "2021-03-26 04:01:00",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Crazy Cat",
-        "url": "https://open.spotify.com/album/74GNHd060Ba5P13cwmFHHV"
+        "name": "Vintage Vibes",
+        "url": "https://open.spotify.com/album/6A8DKMCU2OoCTOMpqRnXPp"
       },
       "artists": [
         {
-          "name": "11 Acorn Lane",
-          "url": "https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5"
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "Kate Thomas",
+          "url": "https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz"
         }
       ],
-      "duration_ms": 157187,
-      "name": "Crazy Cat",
-      "url": "https://open.spotify.com/track/1WeIE004KxqkSqL9llndbV"
+      "duration_ms": 202946,
+      "name": "Hep Cat Boogie",
+      "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
     },
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Wochenend Und Sonnenschein (Electro Swing)",
-        "url": "https://open.spotify.com/album/7nkCekFLGh5JbCB3VWHXcU"
+        "name": "The Nu Swing Experience",
+        "url": "https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw"
       },
       "artists": [
         {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+          "name": "Dj Farrapo",
+          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
         },
         {
-          "name": "Hans Wachsmann",
-          "url": "https://open.spotify.com/artist/4FNI6ZBXPuSt2HghuTeZmT"
+          "name": "Cristina Renzetti",
+          "url": "https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6"
         }
       ],
-      "duration_ms": 182903,
-      "name": "Wochenend Und Sonnenschein (Electro Swing)",
-      "url": "https://open.spotify.com/track/6oFrnNtYCU1oswN3sz5cP4"
+      "duration_ms": 164582,
+      "name": "Marcianito - Cristina Renzetti Vocal Version",
+      "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
     },
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Mais Non (1920 Version)",
-        "url": "https://open.spotify.com/album/1WnrAf1vekSKVzhUUiixzO"
+        "name": "Slaughter In the Suburbs",
+        "url": "https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ"
       },
       "artists": [
         {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        }
-      ],
-      "duration_ms": 191801,
-      "name": "Mais Non - 1920 Version",
-      "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
-    },
-    {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
-      },
-      "artists": [
-        {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
-        }
-      ],
-      "duration_ms": 228993,
-      "name": "Code Red",
-      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Fallen World",
-        "url": "https://open.spotify.com/album/16zC5JX98ONcA99BQYDNgG"
-      },
-      "artists": [
-        {
-          "name": "Riff Kitten",
-          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
+          "name": "Kid Kasino",
+          "url": "https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD"
         },
         {
-          "name": "Kumiho",
-          "url": "https://open.spotify.com/artist/4t0HSuBBnJfGBkQe4cAaCm"
+          "name": "Shea",
+          "url": "https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0"
         }
       ],
-      "duration_ms": 228593,
-      "name": "Fallen World",
-      "url": "https://open.spotify.com/track/43JHup1dQxUg6csXXFXXqH"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Candy Girl",
-        "url": "https://open.spotify.com/album/3uBxUOlXsW91M7dy5BnIw1"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        },
-        {
-          "name": "Vallemarie",
-          "url": "https://open.spotify.com/artist/7IEexZoQUGuysrjOv20v0g"
-        }
-      ],
-      "duration_ms": 162075,
-      "name": "Candy Girl",
-      "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Horny",
-        "url": "https://open.spotify.com/album/0LW05xK1vo6bD99JLZV52P"
-      },
-      "artists": [
-        {
-          "name": "Pisk",
-          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
-        },
-        {
-          "name": "Nastazya",
-          "url": "https://open.spotify.com/artist/1Nzd9pxwORjLCFWOfYxBsy"
-        }
-      ],
-      "duration_ms": 210708,
-      "name": "Horny - Electro Swing Version",
-      "url": "https://open.spotify.com/track/5KdJVf0tqurkIDdBEbIJVG"
+      "duration_ms": 213015,
+      "name": "Headless Horseman",
+      "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -705,228 +1181,24 @@
       "url": "https://open.spotify.com/track/5tNZ1Wj6jXBuTKLeDX5w5S"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "The Electric Swing Circus - Remixed Vol. 1",
-        "url": "https://open.spotify.com/album/11baJFTYO58XviE7cQrvZO"
+        "name": "Trainwreck of Electro Swing (from \"A Hat In Time\")",
+        "url": "https://open.spotify.com/album/2DSGQ59YAs1Mm9EoIqNK2g"
       },
       "artists": [
         {
-          "name": "The Electric Swing Circus",
-          "url": "https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY"
+          "name": "Player2",
+          "url": "https://open.spotify.com/artist/7vho3tUevFOENFU0lL4Ufy"
         },
         {
-          "name": "Jamie Berry",
-          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
+          "name": "A_A_RonHD",
+          "url": "https://open.spotify.com/artist/6gwyyI517ABMaZm75bpsOS"
         }
       ],
-      "duration_ms": 224588,
-      "name": "Mr Magpie - Jamie Berry Remix",
-      "url": "https://open.spotify.com/track/1DxJG8xDWh8T83w6IR8YRx"
-    },
-    {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "Bongo Chic",
-        "url": "https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052"
-      },
-      "artists": [
-        {
-          "name": "Minimatic",
-          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "The Jungle Jive",
-      "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Bass Age Big Band",
-        "url": "https://open.spotify.com/album/5mjTjPdZzIuMDmJPQu3Ywq"
-      },
-      "artists": [
-        {
-          "name": "Atom Smith",
-          "url": "https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2"
-        },
-        {
-          "name": "Miss Emmma",
-          "url": "https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR"
-        },
-        {
-          "name": "Elliot Deutsch",
-          "url": "https://open.spotify.com/artist/22JILoTTk3Xfdc2wNwq6Xf"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "Comin' Up Swinging",
-      "url": "https://open.spotify.com/track/7KaR0WJwomHKGJWp29m89T"
-    },
-    {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Chicago",
-        "url": "https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jazzek",
-          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
-    },
-    {
-      "added_at": "2021-08-27 04:01:00",
-      "album": {
-        "name": "Cream Soda",
-        "url": "https://open.spotify.com/album/1UGvlg6mOmKlpTq3EruTSL"
-      },
-      "artists": [
-        {
-          "name": "Deladap",
-          "url": "https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "Melinda Stoika",
-          "url": "https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "Cream Soda",
-      "url": "https://open.spotify.com/track/1HVrQh0RCA0H2cFb82Kje9"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Bend the Rules",
-        "url": "https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "Swing It Like Roger",
-      "url": "https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Wabababa (Time to Remix)",
-        "url": "https://open.spotify.com/album/2tjihy0pEORdH4gMGHM4kz"
-      },
-      "artists": [
-        {
-          "name": "Balduin",
-          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
-        },
-        {
-          "name": "Masha Ray",
-          "url": "https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW"
-        }
-      ],
-      "duration_ms": 178272,
-      "name": "Wabababa - Balduin VIP Mix",
-      "url": "https://open.spotify.com/track/6kC9DD2WxqKw3z4DB3H67a"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Say What (2019)",
-        "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
-      },
-      "artists": [
-        {
-          "name": "Cut Capers",
-          "url": "https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb"
-        },
-        {
-          "name": "Pisk",
-          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
-        }
-      ],
-      "duration_ms": 193809,
-      "name": "Say What - Pisk Electro Swing Remix",
-      "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
-    },
-    {
-      "added_at": "2021-03-05 05:00:00",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/1QDrLXAZrhuye2dHxB2fzn"
-      },
-      "artists": [
-        {
-          "name": "Szigeti Juli",
-          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
-        }
-      ],
-      "duration_ms": 188750,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/6XMLzR52m0SAZfM8WxzQ0w"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Cookie Monster (Atom Smith Remix)",
-        "url": "https://open.spotify.com/album/2xhOnFUsQM8HDW8WMtXvQs"
-      },
-      "artists": [
-        {
-          "name": "Atom Smith",
-          "url": "https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2"
-        },
-        {
-          "name": "Lamuzgueule",
-          "url": "https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Cookie Monster - Atom Smith Remix Radio Edit",
-      "url": "https://open.spotify.com/track/1uE0kd0NxA9tnybOSI4rHJ"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Gringos Revenge",
-        "url": "https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Gringos Revenge",
-      "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
-    },
-    {
-      "added_at": "2021-07-23 04:01:00",
-      "album": {
-        "name": "Summer Swing",
-        "url": "https://open.spotify.com/album/5rzDrcy3EbPwDUV6IFUc0N"
-      },
-      "artists": [
-        {
-          "name": "Glenn Gatsby",
-          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Summer Swing",
-      "url": "https://open.spotify.com/track/2LpvMsXOLJpmiBWmrBpNYg"
+      "duration_ms": 233027,
+      "name": "Trainwreck of Electro Swing (from \"A Hat In Time\")",
+      "url": "https://open.spotify.com/track/6p8pkvMqOcS3UGVIPsSdhu"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -953,202 +1225,98 @@
       "url": "https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Pingu (Game Sessions)",
-        "url": "https://open.spotify.com/album/1FSdi1V08eZUBrt3EpRI6X"
+        "name": "Bass Age Big Band",
+        "url": "https://open.spotify.com/album/5mjTjPdZzIuMDmJPQu3Ywq"
       },
       "artists": [
         {
-          "name": "Balkan Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/5tWhPlOVHAdgPbtzTR95Hs"
+          "name": "Atom Smith",
+          "url": "https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2"
         },
         {
-          "name": "Arnau Altimir",
-          "url": "https://open.spotify.com/artist/147urXJ1DAPRW1TRtVGWar"
+          "name": "Miss Emmma",
+          "url": "https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR"
         },
         {
-          "name": "Magal\u00ed Sare",
-          "url": "https://open.spotify.com/artist/4yU06ZMQgomPONCGeO0HgE"
+          "name": "Elliot Deutsch",
+          "url": "https://open.spotify.com/artist/22JILoTTk3Xfdc2wNwq6Xf"
         }
       ],
-      "duration_ms": 225120,
-      "name": "Pingu (Game Sessions)",
-      "url": "https://open.spotify.com/track/0b0KLvIue75k7HzPb2n59G"
-    },
-    {
-      "added_at": "2021-05-14 05:00:00",
-      "album": {
-        "name": "Ballade No. 1",
-        "url": "https://open.spotify.com/album/6DNeBYb5bziXWzVBaMsnj1"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "DanyloM",
-          "url": "https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Ballade No. 1",
-      "url": "https://open.spotify.com/track/6sdTcq277BK1HlIn4ODjAl"
+      "duration_ms": 215625,
+      "name": "Comin' Up Swinging",
+      "url": "https://open.spotify.com/track/7KaR0WJwomHKGJWp29m89T"
     },
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw"
+        "name": "The Shocking Miss Emerald The Remixes",
+        "url": "https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx"
       },
       "artists": [
         {
-          "name": "Swing Republic",
-          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
+          "name": "Caro Emerald",
+          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
         },
-        {
-          "name": "Karina Kappel",
-          "url": "https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Back in Time",
-      "url": "https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "We Are What We Are (feat. Billy Bros Orchestra)",
-        "url": "https://open.spotify.com/album/1QRhDmgK95ihrDGL9N2GNw"
-      },
-      "artists": [
-        {
-          "name": "Bart & Baker",
-          "url": "https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN"
-        },
-        {
-          "name": "Billy Bros Orchestra",
-          "url": "https://open.spotify.com/artist/249vSnPVFVeecMiyViHaWd"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "We Are What We Are (feat. Billy Bros Orchestra) [Radio Edit]",
-      "url": "https://open.spotify.com/track/00cWy7HXgoJlXWR718s70W"
-    },
-    {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Ma Che Bella Compagnia",
-        "url": "https://open.spotify.com/album/6mMymPze76dt6udn3DvpID"
-      },
-      "artists": [
-        {
-          "name": "Melania",
-          "url": "https://open.spotify.com/artist/4BgqxhBc4xQYh4LtvsdY1j"
-        },
-        {
-          "name": "Christian Lisi",
-          "url": "https://open.spotify.com/artist/2Y5F7YnM8WtYuFgedTtrXW"
-        }
-      ],
-      "duration_ms": 181817,
-      "name": "Ma Che Bella Compagnia",
-      "url": "https://open.spotify.com/track/7MyWJygAJSDHHCuUYQjLij"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Remote",
-        "url": "https://open.spotify.com/album/12cCwjffS7Qxu6hfptUtut"
-      },
-      "artists": [
-        {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
-        }
-      ],
-      "duration_ms": 272143,
-      "name": "Stay Swing",
-      "url": "https://open.spotify.com/track/2bBRrsQMO0yVhVX0mWG7G9"
-    },
-    {
-      "added_at": "2022-05-13 04:03:00",
-      "album": {
-        "name": "Boring 20s",
-        "url": "https://open.spotify.com/album/2AqxV8iRa5sCwT1DHNpcDg"
-      },
-      "artists": [
-        {
-          "name": "Tamela D'Amico",
-          "url": "https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "Ashley Slater",
-          "url": "https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62"
-        }
-      ],
-      "duration_ms": 170619,
-      "name": "Boring 20s",
-      "url": "https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "<I\u00b0_\u00b0I>",
-        "url": "https://open.spotify.com/album/5DtzT44o6tGZbVA0xmsz4V"
-      },
-      "artists": [
         {
           "name": "Caravan Palace",
           "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
         }
       ],
-      "duration_ms": 229804,
-      "name": "Lone Digger",
-      "url": "https://open.spotify.com/track/1Oaq4rq7EBVUiXGh7yxuYL"
+      "duration_ms": 207531,
+      "name": "Pack Up The Louie - Caravan Palace Remix",
+      "url": "https://open.spotify.com/track/6D53OoZpbzuBwwgGrT8FOP"
     },
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Smoking Room",
-        "url": "https://open.spotify.com/album/3SxNifroyuI7xfbq8tdZIn"
+        "name": "Doorsteps",
+        "url": "https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w"
       },
       "artists": [
         {
-          "name": "DJ Mibor",
-          "url": "https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc"
+          "name": "Kormac",
+          "url": "https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn"
+        },
+        {
+          "name": "(feat. MC Little Tree)",
+          "url": "https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI"
         }
       ],
-      "duration_ms": 258500,
-      "name": "Smoking Room",
-      "url": "https://open.spotify.com/track/2AljeKmM4Moi21lYEzOHU8"
+      "duration_ms": 328441,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
     },
     {
-      "added_at": "2021-08-27 04:01:00",
+      "added_at": "2021-10-29 04:02:00",
       "album": {
-        "name": "Topsy at the Top",
-        "url": "https://open.spotify.com/album/1n9Z8PcktdiG2ccx7CRnCm"
+        "name": "New Ground",
+        "url": "https://open.spotify.com/album/3IgvrAHqlsyWFNJ2DPKpUE"
       },
       "artists": [
         {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "J Fitz",
+          "url": "https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ"
         }
       ],
-      "duration_ms": 260091,
-      "name": "Topsy at the Top",
-      "url": "https://open.spotify.com/track/4nJ2EMvjNqxBDrT0s6AK47"
+      "duration_ms": 187838,
+      "name": "New Ground",
+      "url": "https://open.spotify.com/track/6BsAJNoNjKEkFqfvHsztIc"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2021-09-03 04:01:00",
       "album": {
-        "name": "Silent Movie",
-        "url": "https://open.spotify.com/album/3ZDrWmzwxaEOTarv1X2Od9"
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
       },
       "artists": [
         {
@@ -1156,87 +1324,47 @@
           "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
         }
       ],
-      "duration_ms": 197964,
-      "name": "Silent Movie",
-      "url": "https://open.spotify.com/track/2mIU73YWa7iBLOgGjJ4b41"
+      "duration_ms": 228993,
+      "name": "Code Red",
+      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
     },
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Whoopsy Daisy",
-        "url": "https://open.spotify.com/album/3n0dklujjRxJFkfUNRSMBi"
+        "name": "1925",
+        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
       },
       "artists": [
         {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "Balduin",
-          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
-        },
-        {
-          "name": "Sebastian Daws",
-          "url": "https://open.spotify.com/artist/2o2Kdw5v8ULbhq4QGvN8mD"
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
         }
       ],
-      "duration_ms": 273987,
-      "name": "Whoopsy Daisy (Club Mix)",
-      "url": "https://open.spotify.com/track/6oomEes8hP95cWb8S898xF"
+      "duration_ms": 164842,
+      "name": "1925",
+      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2021-10-22 04:02:00",
       "album": {
-        "name": "The Cat Came Back",
-        "url": "https://open.spotify.com/album/3NMJ7yVpUcwwE5alueef9V"
+        "name": "Speed Dating An Arsonist",
+        "url": "https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9"
       },
       "artists": [
         {
-          "name": "Luca Lento",
-          "url": "https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh"
+          "name": "Diablo Swing Orchestra",
+          "url": "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
         }
       ],
-      "duration_ms": 173284,
-      "name": "The Cat Came Back - Bdd Remix Edit",
-      "url": "https://open.spotify.com/track/6ptpOr9mCnqingjjObKd12"
+      "duration_ms": 330893,
+      "name": "Speed Dating An Arsonist",
+      "url": "https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2022-02-11 05:01:00",
       "album": {
-        "name": "St Louis Blues",
-        "url": "https://open.spotify.com/album/0RakmcnG9fJgW3GlkfI9iT"
-      },
-      "artists": [
-        {
-          "name": "The Swing Bot",
-          "url": "https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b"
-        }
-      ],
-      "duration_ms": 207914,
-      "name": "St Louis Blues",
-      "url": "https://open.spotify.com/track/33VUftZBMcYOqQgKyd2N00"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Fin De Siecle",
-        "url": "https://open.spotify.com/album/03I3VyuR6iUv6slsu8USlF"
-      },
-      "artists": [
-        {
-          "name": "Minimatic",
-          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Joe's Break",
-      "url": "https://open.spotify.com/track/2peYxS4wKuwbOxcw8frdHb"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Dixie Biscuit \"The Shanghai Tapes\"",
-        "url": "https://open.spotify.com/album/1K8SDSlPA3NlSCI4dyuDny"
+        "name": "Big Blue Swing",
+        "url": "https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7"
       },
       "artists": [
         {
@@ -1244,201 +1372,25 @@
           "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
         }
       ],
-      "duration_ms": 199679,
-      "name": "Dixie Biscuit - Radio Edit",
-      "url": "https://open.spotify.com/track/34aycmeaxuuxipebrdkLUP"
+      "duration_ms": 227127,
+      "name": "Big Blue Swing",
+      "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2021-02-19 05:01:00",
       "album": {
-        "name": "Cinnamon Girl (Sun Dub Edit)",
-        "url": "https://open.spotify.com/album/2nvoVE0fEZC5bwJ81tbvTE"
+        "name": "Bongo Chic",
+        "url": "https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052"
       },
       "artists": [
         {
-          "name": "[dunkelbunt]",
-          "url": "https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3"
-        },
-        {
-          "name": "Boban i Marko Marcovic Orkestar",
-          "url": "https://open.spotify.com/artist/2rInuyXccSp12zFAmKZBH1"
+          "name": "Minimatic",
+          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
         }
       ],
-      "duration_ms": 336178,
-      "name": "Cinnamon Girl - Sun Dub Edit",
-      "url": "https://open.spotify.com/track/5nT35ED3QmCiSzzMl78BaT"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Black Betty - Single",
-        "url": "https://open.spotify.com/album/3byyWn1AUHzGOjPSxh8uBN"
-      },
-      "artists": [
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 189956,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/2erfXuZOAQ8T6FjJPDFpBC"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/5Fhrd3KcpWFwWxCWNY0v0K"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        }
-      ],
-      "duration_ms": 216352,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/0HKfe28JBiCJChmtcYrgmO"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Slaughter In the Suburbs",
-        "url": "https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ"
-      },
-      "artists": [
-        {
-          "name": "Kid Kasino",
-          "url": "https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD"
-        },
-        {
-          "name": "Shea",
-          "url": "https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0"
-        }
-      ],
-      "duration_ms": 213015,
-      "name": "Headless Horseman",
-      "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "My 20s Woman",
-        "url": "https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "Phos Toni",
-          "url": "https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "My 20s Woman",
-      "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
-    },
-    {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Allegro Molto Vivace (Piano Concerto in E Minor No. 1) [Electro Swing Mix]",
-        "url": "https://open.spotify.com/album/7n313qSyFyOyFMvWNhS0nV"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "DanyloM",
-          "url": "https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 146190,
-      "name": "Allegro Molto Vivace (Piano Concerto in E Minor No. 1) - Electro Swing Mix",
-      "url": "https://open.spotify.com/track/3Go7DAxPF8VVxofLHlCckK"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Electro Carousel Club Night (Selected by Dr Cat)",
-        "url": "https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm"
-      },
-      "artists": [
-        {
-          "name": "The Young Punx",
-          "url": "https://open.spotify.com/artist/3gkX03yW2WrvcDMp04TKjN"
-        },
-        {
-          "name": "Guthrie Govan",
-          "url": "https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT"
-        }
-      ],
-      "duration_ms": 265627,
-      "name": "Swag Bag",
-      "url": "https://open.spotify.com/track/0u7gdux7Ft6P69Uyj0pa4a"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Via con me",
-        "url": "https://open.spotify.com/album/0OMA9YHmqeYAkp7ezdJzqb"
-      },
-      "artists": [
-        {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        },
-        {
-          "name": "Iolanda Boban",
-          "url": "https://open.spotify.com/artist/6Cij3Lukc7JSSOoQWe6Da4"
-        }
-      ],
-      "duration_ms": 167961,
-      "name": "Via con me - Electro Swing Mix",
-      "url": "https://open.spotify.com/track/2vPrMJhuzvljgBbhTrIFSO"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Gogo",
-        "url": "https://open.spotify.com/album/2U0hO7jbGJe862q0hWGrTp"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jazzek",
-          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
-        }
-      ],
-      "duration_ms": 166171,
-      "name": "Gogo",
-      "url": "https://open.spotify.com/track/0ztNLT11ln4bOudVKfvcCh"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Cheek to Cheek (Swing Hop Mix)",
-        "url": "https://open.spotify.com/album/3psreUEAHDnhtvgJRVFtk1"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        },
-        {
-          "name": "Marty & his Rockin' Comets",
-          "url": "https://open.spotify.com/artist/3uYgC6oS9WEa6caMgGr5yN"
-        }
-      ],
-      "duration_ms": 180754,
-      "name": "Cheek to Cheek - Swing Hop Mix",
-      "url": "https://open.spotify.com/track/3IJRPnVHSO7G20e2BGZbCN"
+      "duration_ms": 231724,
+      "name": "The Jungle Jive",
+      "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
     }
   ],
   "unique_name": "Electro Swing",

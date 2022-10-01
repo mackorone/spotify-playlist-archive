@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
+        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2020-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147293,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
+    },
+    {
+      "album": {
         "name": "Dino: The Essential Dean Martin",
         "url": "https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144693,
       "name": "Ain't That A Kick In The Head - 1997 - Remastered",
       "url": "https://open.spotify.com/track/7coH7f2P7SiLxmo95b5QHX"
@@ -55,10 +73,94 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165372,
       "name": "Are You Havin' Any Fun -",
       "url": "https://open.spotify.com/track/5ylaXoN52Vj19JWE61imce"
+    },
+    {
+      "album": {
+        "name": "Strike Up The Band (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/0wGJ6I9XDE7CBe1HPNOuJY"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        {
+          "name": "Benny Powell",
+          "url": "https://open.spotify.com/artist/5x211AOy9KzhcmNMGWqc2T"
+        },
+        {
+          "name": "Ralph Sharon",
+          "url": "https://open.spotify.com/artist/0Vj1OA5xQpU3DHqPh6Rf0q"
+        },
+        {
+          "name": "Snookey Young",
+          "url": "https://open.spotify.com/artist/7E8PYxrykVXA0Fw3V9Qqkv"
+        },
+        {
+          "name": "Joe Newman",
+          "url": "https://open.spotify.com/artist/7n1cmsmMhu5aLm9beIJ6lB"
+        },
+        {
+          "name": "Sonny Payne",
+          "url": "https://open.spotify.com/artist/2diKWyLz1JFoi0WWDBCU4x"
+        },
+        {
+          "name": "Teddy Reig",
+          "url": "https://open.spotify.com/artist/7MTA40EZB2r6yvPFmlcODo"
+        },
+        {
+          "name": "Marshall Royal",
+          "url": "https://open.spotify.com/artist/77zFVepH3jsf7ApEG35apD"
+        },
+        {
+          "name": "Wendell Culley",
+          "url": "https://open.spotify.com/artist/1ely7MrOjXhN9akM3YYaOc"
+        },
+        {
+          "name": "Charlie Fowlkes",
+          "url": "https://open.spotify.com/artist/5cVKSMSiCpZKu9FqY4Zu71"
+        },
+        {
+          "name": "Thad Jones",
+          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
+        }
+      ],
+      "date_added": "2020-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 163746,
+      "name": "Are You Havin' Any Fun?",
+      "url": "https://open.spotify.com/track/7uv1H2DoWiGnxTWMV6B5qV"
+    },
+    {
+      "album": {
+        "name": "Tony Bennett With Count Baise",
+        "url": "https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2020-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163122,
+      "name": "Are You Having Any Fun",
+      "url": "https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP"
     },
     {
       "album": {
@@ -73,7 +175,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2022-07-29",
       "duration_ms": 194933,
       "name": "Begin The Beguine",
       "url": "https://open.spotify.com/track/1H13WKDhOgwVeWzveBPTh0"
@@ -91,10 +193,32 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 196160,
       "name": "Begin the Beguine",
       "url": "https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "DJ Jazzy Jeff",
+          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300845,
+      "name": "Brother J",
+      "url": "https://open.spotify.com/track/0VyvxWyE0bYQxLu98XXJFk"
     },
     {
       "album": {
@@ -149,7 +273,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-24",
       "duration_ms": 565293,
       "name": "Echelon",
       "url": "https://open.spotify.com/track/0GHiAT0RLCsrikRft0KWVC"
@@ -203,7 +327,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 461934,
       "name": "Greenhouse",
       "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
@@ -254,6 +378,36 @@
     },
     {
       "album": {
+        "name": "I Can't Turn You Loose",
+        "url": "https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z"
+      },
+      "artists": [
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+        },
+        {
+          "name": "Eddie G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
+        },
+        {
+          "name": "Ronnie Cuber",
+          "url": "https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314973,
+      "name": "I Can't Turn You Loose",
+      "url": "https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb"
+    },
+    {
+      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -287,7 +441,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-21",
       "duration_ms": 297373,
       "name": "I Didn\u00b4t Tell Them Why",
       "url": "https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq"
@@ -312,6 +466,24 @@
     },
     {
       "album": {
+        "name": "Sinatra 80th: All The Best",
+        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2020-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131426,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f"
+    },
+    {
+      "album": {
         "name": "I've Got The World On A String",
         "url": "https://open.spotify.com/album/6Rjz2NpZC4VA1uZ7mMTzC5"
       },
@@ -327,7 +499,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 129893,
       "name": "I've Got The World On A String",
       "url": "https://open.spotify.com/track/1XrqYPszJzH7nEk4I2D6da"
@@ -349,7 +521,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 411874,
       "name": "I've Got the World on a String",
       "url": "https://open.spotify.com/track/5BrQJbdMehCy2LgquMUORw"
@@ -385,7 +557,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 203466,
       "name": "Is You Is or Is You Ain't My Baby - 2002 Remaster",
       "url": "https://open.spotify.com/track/42gjKLOPmC7rjXZpDdTHcO"
@@ -443,10 +615,28 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 203773,
       "name": "It's Been a Long, Long Time",
       "url": "https://open.spotify.com/track/52XDumqYDUXX16R7FM5fpV"
+    },
+    {
+      "album": {
+        "name": "Jumpin' Jive (Remastered 1999)",
+        "url": "https://open.spotify.com/album/7spQJsP6dimhGMNgsBYaRO"
+      },
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+        }
+      ],
+      "date_added": "2020-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "Jack, You're Dead!",
+      "url": "https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11"
     },
     {
       "album": {
@@ -461,7 +651,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167666,
       "name": "Jack, You're Dead!",
       "url": "https://open.spotify.com/track/6II9eJG8h4SR6h5yray17w"
@@ -497,10 +687,46 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162080,
       "name": "Just One Of Those Things",
       "url": "https://open.spotify.com/track/6L1Y0Lt8pGmdZI0YiFEYMN"
+    },
+    {
+      "album": {
+        "name": "Inspiration (A Tribute To Nat King Cole)",
+        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "date_added": "2020-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162080,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
+    },
+    {
+      "album": {
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "date_added": "2020-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175733,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/2dFJA0ZQ2OjA8TWjEV6P5n"
     },
     {
       "album": {
@@ -515,7 +741,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175733,
       "name": "Let The Good Times Roll",
       "url": "https://open.spotify.com/track/5s9wI2Jijxp5sDyL9ltKmR"
@@ -533,10 +759,28 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 166960,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/0Z0qG3El21xEkL9RupyIin"
+    },
+    {
+      "album": {
+        "name": "To Ella With Love",
+        "url": "https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "date_added": "2020-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166960,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK"
     },
     {
       "album": {
@@ -703,7 +947,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 149986,
       "name": "Perhaps",
       "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
@@ -729,7 +973,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Pistol Packin' Mama - Single Version",
       "url": "https://open.spotify.com/track/2Pn1HP6ZTVpBaew1jHcs87"
@@ -848,6 +1092,28 @@
     },
     {
       "album": {
+        "name": "50th Anniversary Collection (Vol. 2)",
+        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
+      },
+      "artists": [
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        },
+        {
+          "name": "Vic Schoen & His Orchestra",
+          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
+        }
+      ],
+      "date_added": "2020-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Straighten Up And Fly Right - Single Version",
+      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
+    },
+    {
+      "album": {
         "name": "Boogie Woogie Bugle Boy",
         "url": "https://open.spotify.com/album/3zHxHJOzcFtDBXYdh83dMP"
       },
@@ -859,7 +1125,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147000,
       "name": "Straigthen Up And Fly Right",
       "url": "https://open.spotify.com/track/3dLMT7AgcH89jMvMGyB7uQ"
@@ -899,7 +1165,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236533,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/7HKuUa0uhJpJO466jtCnrg"
@@ -975,10 +1241,28 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 378446,
       "name": "Whisper Not",
       "url": "https://open.spotify.com/track/39ynmEVUN9mdJYSTNljE98"
+    },
+    {
+      "album": {
+        "name": "Blues On Parade",
+        "url": "https://open.spotify.com/album/28V0dxj4vb8blEfyvx5Bvp"
+      },
+      "artists": [
+        {
+          "name": "Woody Herman & His Orchestra",
+          "url": "https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn"
+        }
+      ],
+      "date_added": "2020-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Woodchopper's Ball",
+      "url": "https://open.spotify.com/track/4rHjZlNFyBhY6CgjlR5y5W"
     },
     {
       "album": {
@@ -1001,7 +1285,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194026,
       "name": "Woodchopper's Ball",
       "url": "https://open.spotify.com/track/0irr37TKHqpGSB0Ys8Q3rJ"
@@ -1041,7 +1325,7 @@
       ],
       "date_added": "2020-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 438186,
       "name": "You and the Night and the Music",
       "url": "https://open.spotify.com/track/70r5LykcO0PQq4Fcew9M3K"

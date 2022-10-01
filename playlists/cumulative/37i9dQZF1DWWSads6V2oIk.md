@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-69 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/5qGOCPTUCmrfcxabhbrBSK)
+70 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/5qGOCPTUCmrfcxabhbrBSK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 | 2021-12-22 |  |
 | [Birds in the Forest](https://open.spotify.com/track/6xYPYS7c6y8f6QszLSMtCB) | [Memorable](https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV) | [Therapy Birds](https://open.spotify.com/album/2sENQCcr3TVwPG5JFiU7Ai) | 3:42 | 2021-12-22 |  |
 | [Birds song forest rain](https://open.spotify.com/track/0NNomsoZvS34EyTZ8ph1xz) | [Sound Of The Woods](https://open.spotify.com/artist/3fRd8qPNSLClRFaxvFFLPL) | [Birds song forest rain](https://open.spotify.com/album/0rIdJAjdSjd8cePzPzrUOk) | 3:20 | 2021-12-22 |  |
-| [Borneo Jungle Oasis For Deep Sleep With Nature Sound](https://open.spotify.com/track/3BzfDBrjyvLLyDnhTynkOM) | [Relax Meditate Sleep](https://open.spotify.com/artist/2IPb9AuHE98BU4s8gbOk30) | [Relaxing Nature Sounds](https://open.spotify.com/album/7zVNlLfb6CSgCe5AMDhc74) | 6:00 | 2021-12-22 |  |
+| [Borneo Jungle Oasis For Deep Sleep With Nature Sound](https://open.spotify.com/track/3BzfDBrjyvLLyDnhTynkOM) | [Relax Meditate Sleep](https://open.spotify.com/artist/2IPb9AuHE98BU4s8gbOk30) | [Relaxing Nature Sounds](https://open.spotify.com/album/7zVNlLfb6CSgCe5AMDhc74) | 6:00 | 2021-12-22 | 2022-07-29 |
 | [Creek Rain With Brids And Thunder \- Seamless](https://open.spotify.com/track/5cbC6ObMsFLXW9co3vlUMk) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [When It Pours It Rains](https://open.spotify.com/album/20BqShqyjjbjVXMIRVGwyB) | 2:06 | 2022-05-24 |  |
 | [Daytime Jungle Ambience with Heavy Insects, Birds and Water Dropping on Vegetation](https://open.spotify.com/track/4JfIIJr0YVezLxTpHK5Nz3) | [Nature Soundscape](https://open.spotify.com/artist/0GbSsMHnNTZ28ALJmQecCW) | [Rain Forest](https://open.spotify.com/album/50UYLBtzy02dHkzssaFzNW) | 9:50 | 2021-12-22 | 2022-05-25 |
 | [Deep Forest Soft Rain Birds Chirp Away](https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH) | [Nature Noise](https://open.spotify.com/artist/6DRwKWnvWIApUcEUqbyM5Z) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 4:00 | 2021-12-22 |  |
@@ -31,6 +31,7 @@
 | [Forest Therapy](https://open.spotify.com/track/1o5wI9xAk3n5SVXBbdAEf3) | [INDAYA](https://open.spotify.com/artist/3UzYsKmyzyiSLGVC7RXlvw) | [Nature Heritage](https://open.spotify.com/album/3i29jHWl0L3sa276ySSsos) | 3:16 | 2021-12-22 |  |
 | [Gentle Waters \(Rain\)](https://open.spotify.com/track/5DKlfLW5p13tBiuetBLWNX) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Gentle Waters](https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD) | 2:16 | 2021-12-22 |  |
 | [Healing Rain](https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Healing Rain](https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8) | 3:28 | 2022-01-06 |  |
+| [Heavy Island of Borneo Ambience](https://open.spotify.com/track/42MugaGyjJt5jHcn6uXgQw) | [Nature Sound Collection](https://open.spotify.com/artist/0qhhlPFVV3YoxoB4jtqvkx) | [200 Nature Sounds](https://open.spotify.com/album/4GWSfEGWNCOGWvTkkiIgYn) | 6:00 | 2022-07-06 |  |
 | [Jungle & Rainforest Sounds](https://open.spotify.com/track/31FarzWQVD2ZAYTq9qhVlp) | [Rainforest Sounds](https://open.spotify.com/artist/4WQqqTMX3CdIZQgfzctQmy) | [Sounds of Rainforests](https://open.spotify.com/album/2eJJu5XufieNWuvONkP6rg) | 1:03 | 2021-12-22 |  |
 | [Jungle Rain](https://open.spotify.com/track/225puEONdqqHyOfVXyLQO9) | [Earth's Rain](https://open.spotify.com/artist/0ZLtBstrrgOcaDzUkGy9il) | [Jungle Rain](https://open.spotify.com/album/15Tks2gP5mcSbcSRcAb10x) | 2:24 | 2021-12-22 |  |
 | [Jungle Relaxation Sleep](https://open.spotify.com/track/0KvIXQVhzpRfVDT3xDSUrL) | [Ambient Nature White Noise](https://open.spotify.com/artist/2vgMXbvbpzLc0CuugRYpL3) | [Rain Forest Ambience Sleep Sounds \- Sounds From The Jungle For A Clearer Mind](https://open.spotify.com/album/7vJGaKJj8PvMqYTi58Jlun) | 2:00 | 2021-12-22 |  |

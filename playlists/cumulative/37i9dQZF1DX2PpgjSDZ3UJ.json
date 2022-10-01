@@ -164,6 +164,24 @@
     },
     {
       "album": {
+        "name": "Azulmagenta",
+        "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
+      },
+      "artists": [
+        {
+          "name": "Ev",
+          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218354,
+      "name": "Azulmagenta",
+      "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
+    },
+    {
+      "album": {
         "name": "Cosas Guardadas",
         "url": "https://open.spotify.com/album/09zS50egosQYajxRJ43JH8"
       },
@@ -175,7 +193,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218354,
       "name": "Azulmagenta",
       "url": "https://open.spotify.com/track/5wyEPNYNCX4oRcvH7GrCus"
@@ -247,10 +265,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218814,
       "name": "Centro",
       "url": "https://open.spotify.com/track/4AF01idljl2i6W24XRvgeF"
+    },
+    {
+      "album": {
+        "name": "\u018eD\u00c9N",
+        "url": "https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr"
+      },
+      "artists": [
+        {
+          "name": "MIEL",
+          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218814,
+      "name": "Centro",
+      "url": "https://open.spotify.com/track/5kABp0JZfAxisR5zzpAi7d"
     },
     {
       "album": {
@@ -341,10 +377,32 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197886,
       "name": "Conversaciones",
       "url": "https://open.spotify.com/track/2JoIsTLmlVGiY2y602IkZN"
+    },
+    {
+      "album": {
+        "name": "Conversations",
+        "url": "https://open.spotify.com/album/7l4P76P1NClX1r0pIM2xng"
+      },
+      "artists": [
+        {
+          "name": "Orions Belte",
+          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+        },
+        {
+          "name": "Pau Sotomayor",
+          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197886,
+      "name": "Conversaciones",
+      "url": "https://open.spotify.com/track/5tw1aZY3QC7cfQCmggqTjB"
     },
     {
       "album": {
@@ -377,10 +435,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225362,
       "name": "Cristales",
       "url": "https://open.spotify.com/track/3fb8tZCecI14tFilHnGtLb"
+    },
+    {
+      "album": {
+        "name": "Cristales",
+        "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
+      },
+      "artists": [
+        {
+          "name": "HOLOGRAMMA",
+          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225362,
+      "name": "Cristales",
+      "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
     },
     {
       "album": {
@@ -425,7 +501,7 @@
     {
       "album": {
         "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/1pidJbR9q6T5hKMWGVTDsc"
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
       },
       "artists": [
         {
@@ -436,6 +512,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/1pidJbR9q6T5hKMWGVTDsc"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 178146,
       "name": "Delicadeza",
       "url": "https://open.spotify.com/track/3Psfe6t2WfHkarRMN1Rnwp"
@@ -591,10 +685,32 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198826,
       "name": "Estar Aqu\u00ed",
       "url": "https://open.spotify.com/track/2AuIf4nQ2xYblAIdYI2fWz"
+    },
+    {
+      "album": {
+        "name": "Estar Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2HJsQtPou9yNsfZazDibbM"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00edculas Geniales",
+          "url": "https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f"
+        },
+        {
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198826,
+      "name": "Estar Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6vASeQmZYvA59q4ZfHhCOH"
     },
     {
       "album": {
@@ -635,7 +751,7 @@
     {
       "album": {
         "name": "The Prettiest Curse",
-        "url": "https://open.spotify.com/album/5EAxNmYYdSAswaDuqPTiYN"
+        "url": "https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx"
       },
       "artists": [
         {
@@ -646,6 +762,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Good Bad Times",
+      "url": "https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3"
+    },
+    {
+      "album": {
+        "name": "The Prettiest Curse",
+        "url": "https://open.spotify.com/album/5EAxNmYYdSAswaDuqPTiYN"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 198546,
       "name": "Good Bad Times",
       "url": "https://open.spotify.com/track/7hUUFvCY5PtYNu86961d0r"
@@ -703,10 +837,50 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225240,
       "name": "Honestidad",
       "url": "https://open.spotify.com/track/0Yk4uzzC0v0CeJSaMXcin2"
+    },
+    {
+      "album": {
+        "name": "ELET\u00c9",
+        "url": "https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        },
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225240,
+      "name": "Honestidad",
+      "url": "https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG"
+    },
+    {
+      "album": {
+        "name": "Indiferente",
+        "url": "https://open.spotify.com/album/71dVHf8lnNXDjywcC1NUlv"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176385,
+      "name": "Indiferente",
+      "url": "https://open.spotify.com/track/1Oi3KiJOzzQN4yn7qk8CDf"
     },
     {
       "album": {
@@ -721,7 +895,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176385,
       "name": "Indiferente",
       "url": "https://open.spotify.com/track/5zjFSJz3hvvlpFocM24fNT"
@@ -739,10 +913,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 272513,
       "name": "IR",
       "url": "https://open.spotify.com/track/0w00c75mDwOF4hG5xJL4cL"
+    },
+    {
+      "album": {
+        "name": "Mango Negro",
+        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272513,
+      "name": "IR",
+      "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
     },
     {
       "album": {
@@ -764,6 +956,24 @@
     },
     {
       "album": {
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284466,
+      "name": "Karmadame",
+      "url": "https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3"
+    },
+    {
+      "album": {
         "name": "Karmadame",
         "url": "https://open.spotify.com/album/0SeEDHrW5xLRLcokv1IiBx"
       },
@@ -775,7 +985,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 294373,
       "name": "Karmadame",
       "url": "https://open.spotify.com/track/3Byvorn06uV1EebqziU3oF"
@@ -1013,10 +1223,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194040,
       "name": "M\u00e1s Triste Que Shinji Ikari",
       "url": "https://open.spotify.com/track/0DmxtCx7MboAcDXfv5PPmV"
+    },
+    {
+      "album": {
+        "name": "Bellavista",
+        "url": "https://open.spotify.com/album/307m411JDgwF4UW2NuEJ3g"
+      },
+      "artists": [
+        {
+          "name": "Viva Belgrado",
+          "url": "https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194040,
+      "name": "M\u00e1s Triste Que Shinji Ikari",
+      "url": "https://open.spotify.com/track/5dUhsIOT08kRzJHgbD9Mxz"
     },
     {
       "album": {
@@ -1209,7 +1437,7 @@
     {
       "album": {
         "name": "PSILOCIBINA",
-        "url": "https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm"
+        "url": "https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99"
       },
       "artists": [
         {
@@ -1220,6 +1448,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 197493,
+      "name": "PSILOCIBINA",
+      "url": "https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL"
+    },
+    {
+      "album": {
+        "name": "PSILOCIBINA",
+        "url": "https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 197493,
       "name": "PSILOCIBINA",
       "url": "https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH"
@@ -1295,10 +1541,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195652,
       "name": "Rush",
       "url": "https://open.spotify.com/track/0XSKYcnq53sJMPBH3pp8wL"
+    },
+    {
+      "album": {
+        "name": "Petr\u00f3leo",
+        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
+      },
+      "artists": [
+        {
+          "name": "Fiebre",
+          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195652,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
     },
     {
       "album": {
@@ -1367,10 +1631,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208250,
       "name": "Serenidad",
       "url": "https://open.spotify.com/track/1ZVI0MOeSErPZcGmeTCA7C"
+    },
+    {
+      "album": {
+        "name": "Serenidad",
+        "url": "https://open.spotify.com/album/4iVFdQFYtLNTzmyxtqLVhs"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Serenidad",
+      "url": "https://open.spotify.com/track/1bZwFCKn9tpefTvl6mQ6Xb"
     },
     {
       "album": {
@@ -1393,7 +1675,7 @@
     {
       "album": {
         "name": "Too Bad",
-        "url": "https://open.spotify.com/album/6YkhabWk1GGN34UjCoADkd"
+        "url": "https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC"
       },
       "artists": [
         {
@@ -1404,6 +1686,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Stuck on You",
+      "url": "https://open.spotify.com/track/2p7g3PDq8PGgyD79Tzpvez"
+    },
+    {
+      "album": {
+        "name": "Too Bad",
+        "url": "https://open.spotify.com/album/6YkhabWk1GGN34UjCoADkd"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Silva",
+          "url": "https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 200250,
       "name": "Stuck on You",
       "url": "https://open.spotify.com/track/7wof5NeUDW2Hoyn1BMMxfE"
@@ -1421,10 +1721,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206437,
       "name": "Sweet Honey",
       "url": "https://open.spotify.com/track/07xve2j2nU5nwELEhx8fx0"
+    },
+    {
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/1p0B0yZhc04KInnikui2gQ"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206437,
+      "name": "Sweet Honey",
+      "url": "https://open.spotify.com/track/6o7rsXLvLgx2gmKLGDNe0g"
     },
     {
       "album": {
@@ -1577,10 +1895,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192000,
       "name": "Y Ahora",
       "url": "https://open.spotify.com/track/2pDmAICdx2JV6TEwZR2Ki9"
+    },
+    {
+      "album": {
+        "name": "Mundos",
+        "url": "https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Y Ahora",
+      "url": "https://open.spotify.com/track/5bfOcYeiVE8yy6EWpwYduo"
     },
     {
       "album": {
@@ -1613,10 +1949,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188372,
       "name": "Ya mi mama me dec\u00eda",
       "url": "https://open.spotify.com/track/2AviITab6bCBtts9zJIPYz"
+    },
+    {
+      "album": {
+        "name": "La Cantera",
+        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191846,
+      "name": "Ya mi mama me dec\u00eda",
+      "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
     },
     {
       "album": {

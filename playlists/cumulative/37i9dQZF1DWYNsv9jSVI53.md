@@ -4,7 +4,7 @@
 
 > The official playlist for Russian Doll on Netflix.
 
-26 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/35lOdbLMgRYYb2RBHdekcr)
+28 songs - 2 hr 12 min - [published](https://open.spotify.com/playlist/35lOdbLMgRYYb2RBHdekcr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,11 @@
 | [Dream Mother](https://open.spotify.com/track/5SLfUZcKNs3Ab2F1BOjQXr) | [Joe Wong](https://open.spotify.com/artist/62TZuRSv7K8KK5BmL90K32) | [Russian Doll: Seasons 1 & 2 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/0Dt08kWhZvV18tp4bALqWY) | 1:46 | 2022-04-28 |  |
 | [Front](https://open.spotify.com/track/6SCAXoQUdLB7oPCwSA6YAd) | [Vex Ruffin](https://open.spotify.com/artist/6lxA3O2PKkIPpAjPHtQ8Kv) | [Conveyor](https://open.spotify.com/album/3SyLU1W5jMUGb9gys46jih) | 2:53 | 2022-04-28 |  |
 | [Get It While You Can](https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:23 | 2022-04-28 |  |
-| [Gotta Get Up \- Remastered](https://open.spotify.com/track/1W6Ey5cxf0eljSaZnNVO5c) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/4s2hhmQizU4FHtRU7dDzHP) | 2:23 | 2022-04-28 |  |
+| [Gotta Get Up](https://open.spotify.com/track/6fvIzrJ6boUDFF19fH4S2s) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB) | 2:24 | 2022-04-28 |  |
+| [Gotta Get Up \- Remastered](https://open.spotify.com/track/1W6Ey5cxf0eljSaZnNVO5c) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/4s2hhmQizU4FHtRU7dDzHP) | 2:23 | 2022-04-28 | 2022-07-29 |
 | [Hungarian Rhapsody No\. 2 in D minor, S.359 No\. 2 \(Corresponds with piano versionNo\. 2 in C sharp minor\) \- Orch\. Doppler \- Excerpt](https://open.spotify.com/track/53hzDAws6V4cRsEU0OAEAX) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Gewandhausorchester](https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa), [Kurt Masur](https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn) | [50 Classical Music Favorites](https://open.spotify.com/album/3ahByf8mq73nZP5fINhDPc) | 4:54 | 2022-04-28 |  |
-| [Hungarian Rhapsody No\. 5 in E Minor, S\. 244 Heroïde\-Elégiaque](https://open.spotify.com/track/4zzXiqmLNrCxkzXYcFL4uA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Roberto Szidon](https://open.spotify.com/artist/2r7hc4YRv3IfDLWllWCCdB) | [Classical for Work: Liszt](https://open.spotify.com/album/717aBZvT30BzLfrBD0BEBn) | 10:18 | 2022-04-28 |  |
+| [Hungarian Rhapsody No\. 5 in E Minor, S\. 244 Heroïde\-Elégiaque](https://open.spotify.com/track/4tavlmxcVaiA60aH1WRsxg) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Roberto Szidon](https://open.spotify.com/artist/2r7hc4YRv3IfDLWllWCCdB) | [Liszt: Hungarian Rhapsodies](https://open.spotify.com/album/22b9GAtLuUYiHaZf0y60Iq) | 10:18 | 2022-04-28 |  |
+| [Hungarian Rhapsody No\. 5 in E Minor, S\. 244 Heroïde\-Elégiaque](https://open.spotify.com/track/4zzXiqmLNrCxkzXYcFL4uA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Roberto Szidon](https://open.spotify.com/artist/2r7hc4YRv3IfDLWllWCCdB) | [Classical for Work: Liszt](https://open.spotify.com/album/717aBZvT30BzLfrBD0BEBn) | 10:18 | 2022-04-28 | 2022-07-29 |
 | [I Found out Too Late](https://open.spotify.com/track/6r3CX3IURhy9i4ZxkOpzJB) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [I've Got Mine You Better Get Yours](https://open.spotify.com/album/3Y0cqHUAQskSOoRptoycHq) | 2:41 | 2022-04-28 |  |
 | [Love in Outer Space](https://open.spotify.com/track/6elz4mq14CoLctixaxEs9J) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Haverford College, Jan\. 25, 1980 \(Solo Rhodes Piano\)](https://open.spotify.com/album/3wjjKm4yTANJvJwSm8oDxe) | 4:13 | 2022-04-28 |  |
 | [MindKilla](https://open.spotify.com/track/6b1ja7rkQz9FUM7x79UH1i) | [Gang Gang Dance](https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb) | [Eye Contact](https://open.spotify.com/album/4bq7GESFNztOvUBKpWeh6N) | 5:16 | 2022-04-28 |  |

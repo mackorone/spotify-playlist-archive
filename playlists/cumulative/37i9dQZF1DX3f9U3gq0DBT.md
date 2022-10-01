@@ -4,7 +4,7 @@
 
 > Soothing water sounds from lakes and rivers
 
-93 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/6IxMgm3Cmj6134xqBls034)
+95 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/6IxMgm3Cmj6134xqBls034)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Seaside Waves](https://open.spotify.com/track/4jj9EEvizpNARAlvjPR96w) | [Epic Sleep](https://open.spotify.com/artist/38dOlLBxTQQFh4ElaWTpCt) | [Seaside Waves](https://open.spotify.com/album/5gDuTy9AEOA2JLw5FAk1RR) | 1:53 | 2022-04-22 |  |
 | [Shimmering Waves](https://open.spotify.com/track/29Uuss2iyeN1Mkn6nYAZU0) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Shimmering Waves](https://open.spotify.com/album/6Xxd3tZLTcPMNwuYRE6fUz) | 2:18 | 2022-04-22 |  |
 | [Shipwreck Point](https://open.spotify.com/track/1SN4KuesD23b4mfPrm53vV) | [Beauty of Nature](https://open.spotify.com/artist/60Z6UmKsZWqsQtg0XHL4Ct) | [Beach Waves](https://open.spotify.com/album/5tEQ9IoL6MCAHS43Iepe3b) | 2:28 | 2022-04-22 |  |
-| [Sitting By The Beach Then Jumping In](https://open.spotify.com/track/4ZRes6AFBBAFzV7VHuFWPd) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/6jKTQZxWAm7RuQdBbz4TaN) | 3:48 | 2022-04-22 |  |
+| [Sitting By The Beach Then Jumping In](https://open.spotify.com/track/0Cp445LHoSJYVa3XuNAzS3) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/0cxRpFqh1zwxqEIoLu0dYw) | 3:48 | 2022-04-22 |  |
+| [Sitting By The Beach Then Jumping In](https://open.spotify.com/track/4ZRes6AFBBAFzV7VHuFWPd) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/6jKTQZxWAm7RuQdBbz4TaN) | 3:48 | 2022-04-22 | 2022-07-29 |
 | [Sleep TIme Waves](https://open.spotify.com/track/7KOxxqwcxwMZIFoCFHP41F) | [The Mindful](https://open.spotify.com/artist/5emKKqhb4oYf9k3sWw0At9) | [Good Night Nap Waves](https://open.spotify.com/album/0p8n8vwpJNu4r0w5ww1Xzb) | 2:59 | 2022-04-22 |  |
 | [Sleeping at the Calm Coast](https://open.spotify.com/track/67RbgGgHDNYiJKBGjCBvO6) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Echo of Waves](https://open.spotify.com/album/2A1V2bnCjWGXYrKKTAE7HV) | 3:15 | 2022-04-22 |  |
 | [Soothing Waves](https://open.spotify.com/track/6xUeaS7PWP8CPU98JW0iSY) | [Rivulet](https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8) | [Gentle Waves](https://open.spotify.com/album/7tM4OvM5AlaiTpZCMmH7hy) | 3:16 | 2022-04-22 |  |
@@ -89,7 +90,8 @@
 | [Waves](https://open.spotify.com/track/7riFaBLvTQfPsSILEZV6Se) | [Sundays By The Ocean](https://open.spotify.com/artist/0zZl9VsforOKto9vF8ufLg) | [Volume One](https://open.spotify.com/album/1w2TodavMoCOgcJXqWOWRV) | 2:35 | 2022-04-22 |  |
 | [Waves And Volcanic Stones](https://open.spotify.com/track/1oqW7AQpasXfs0TxLDYLd4) | [Migration Waves](https://open.spotify.com/artist/63fCKwNhdVPMiIjiWRBeoC) | [Waves & Stones Vol\. 1](https://open.spotify.com/album/0UbNvoFuV3h5KEqluG46dx) | 2:59 | 2022-04-22 |  |
 | [Waves by the Harbor](https://open.spotify.com/track/1jUR99UKOAVPB9QsHfrvFw) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [California State Beach](https://open.spotify.com/album/4s0H6DDLfNwpuAS1wFO3CY) | 3:51 | 2022-04-22 |  |
-| [Waves Crashing On The Beach](https://open.spotify.com/track/40LXz8tBRZhOVV3WHPH3Nn) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/6jKTQZxWAm7RuQdBbz4TaN) | 3:24 | 2022-04-22 |  |
+| [Waves Crashing On The Beach](https://open.spotify.com/track/40LXz8tBRZhOVV3WHPH3Nn) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/6jKTQZxWAm7RuQdBbz4TaN) | 3:24 | 2022-04-22 | 2022-07-29 |
+| [Waves Crashing On The Beach](https://open.spotify.com/track/7sfNMu2SJCHE7Tf1WHz9cg) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/0cxRpFqh1zwxqEIoLu0dYw) | 3:24 | 2022-04-22 |  |
 | [Waves for Sleep](https://open.spotify.com/track/3M6SHvHXNg0lGi7QhF4EvK) | [Larnac HD](https://open.spotify.com/artist/1cRsTwM4gsatUmJwts7hYJ) | [Beach Beach Beach](https://open.spotify.com/album/154shcsaA1fTqtUY5sR7Gv) | 2:23 | 2022-04-22 |  |
 | [Waves In A Small Cove 1](https://open.spotify.com/track/4rmgqVTOTkcskqcNTekDdF) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Waves In A Small Cove](https://open.spotify.com/album/0awUNlc3YJ8KrTV9pbYmpx) | 2:26 | 2022-04-22 |  |
 | [Waves in Capbreton](https://open.spotify.com/track/30GcqYrwMhloErNPfWZKMR) | [Ocean in HD](https://open.spotify.com/artist/2SveYJjEGhckzCzGg3J9Xq) | [Ocean Waves](https://open.spotify.com/album/1g4CXHJpJywHXFeX9CVqLE) | 2:53 | 2022-04-22 |  |

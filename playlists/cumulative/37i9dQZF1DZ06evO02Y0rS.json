@@ -77,10 +77,28 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 212356,
       "name": "Antenna",
       "url": "https://open.spotify.com/track/5YhKjllHOmPJMcTdctlOGe"
+    },
+    {
+      "album": {
+        "name": "ATK",
+        "url": "https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245208,
+      "name": "ATK",
+      "url": "https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk"
     },
     {
       "album": {
@@ -251,7 +269,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 332733,
       "name": "Counterpart",
       "url": "https://open.spotify.com/track/3jVU4LpHVHClU0YDJ8VBqz"
@@ -389,7 +407,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 278293,
       "name": "First Fires",
       "url": "https://open.spotify.com/track/2Yz2Z1ENB85nYrK3Rg2qxO"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": "2022-08-03",
       "duration_ms": 245287,
       "name": "Know You",
       "url": "https://open.spotify.com/track/7rF2bHXc5wa3hM3114pppm"
@@ -933,7 +951,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-20",
       "duration_ms": 371520,
       "name": "Otomo",
       "url": "https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR"
@@ -951,7 +969,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2022-09-28",
       "duration_ms": 475480,
       "name": "Outlier",
       "url": "https://open.spotify.com/track/6BbFwwHnzY74a8GOsDg8Sn"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 341594,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/3OhwaetItNaTXxn0mr9SkN"
@@ -1175,6 +1193,24 @@
       "duration_ms": 223720,
       "name": "Second Sun",
       "url": "https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt"
+    },
+    {
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 248933,
+      "name": "Shadow Tricks",
+      "url": "https://open.spotify.com/track/47hnd0SnTMG9b0bcnECGKW"
     },
     {
       "album": {
@@ -1258,6 +1294,24 @@
     },
     {
       "album": {
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 71253,
+      "name": "Something for Windy",
+      "url": "https://open.spotify.com/track/48ppHBSOoD5Iz1gV3pjfOC"
+    },
+    {
+      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -1291,7 +1345,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": "2022-10-01",
       "duration_ms": 243780,
       "name": "Ten Tigers",
       "url": "https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H"
@@ -1331,7 +1385,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": "2022-09-22",
       "duration_ms": 288933,
       "name": "The Keeper",
       "url": "https://open.spotify.com/track/5hmf3hRQMaDIWuZT1zX3ue"
@@ -1356,6 +1410,28 @@
     },
     {
       "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn"
+    },
+    {
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -1371,7 +1447,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-10",
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"

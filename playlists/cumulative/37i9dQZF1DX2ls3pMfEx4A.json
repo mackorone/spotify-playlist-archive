@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "New Year's Eve 2021 with the Frenchies",
+        "url": "https://open.spotify.com/album/5pL4VA9ZMhKEstafBfBGYF"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117626,
+      "name": "B-I-N-G-O",
+      "url": "https://open.spotify.com/track/4xdQOzApn01AUGHYjOOKEn"
+    },
+    {
+      "album": {
         "name": "52 Sing-A-Long Silly Songs",
         "url": "https://open.spotify.com/album/5viWxItD1EIseQG6CYRKBX"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 117626,
       "name": "B-I-N-G-O",
       "url": "https://open.spotify.com/track/7e0f3POtMu3Msxj5nssikz"
@@ -139,7 +157,7 @@
     {
       "album": {
         "name": "Saturday Morning Acapella: Volume 4",
-        "url": "https://open.spotify.com/album/4Hx7U3oSNHVGKXpuRf4vRp"
+        "url": "https://open.spotify.com/album/2Oy8FsooeFsfqzPiDT4YY9"
       },
       "artists": [
         {
@@ -152,7 +170,43 @@
       "date_removed": null,
       "duration_ms": 31307,
       "name": "Bill Nye the Science Guy",
+      "url": "https://open.spotify.com/track/2sq0n4doIKKCPXm1is950U"
+    },
+    {
+      "album": {
+        "name": "Saturday Morning Acapella: Volume 4",
+        "url": "https://open.spotify.com/album/4Hx7U3oSNHVGKXpuRf4vRp"
+      },
+      "artists": [
+        {
+          "name": "Mr Dooves",
+          "url": "https://open.spotify.com/artist/1YP1NgBkOUyqsOiIUBqOrr"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 31307,
+      "name": "Bill Nye the Science Guy",
       "url": "https://open.spotify.com/track/6L33GgWMpd53M1vldLstrW"
+    },
+    {
+      "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190891,
+      "name": "Bing Bong Zoo",
+      "url": "https://open.spotify.com/track/2q4PnncxGIm1oVQzu6hS2d"
     },
     {
       "album": {
@@ -167,7 +221,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190891,
       "name": "Bing Bong Zoo",
       "url": "https://open.spotify.com/track/4P442Q5ggBqF0nSi68CDTE"
@@ -283,10 +337,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 97711,
       "name": "Farting Is A Part Of Life",
       "url": "https://open.spotify.com/track/0515aQJacIJ1DzopSYSvJL"
+    },
+    {
+      "album": {
+        "name": "The Really Really Really Really Boring Album",
+        "url": "https://open.spotify.com/album/2yr8p98bJvQlImtgFhJEH4"
+      },
+      "artists": [
+        {
+          "name": "Regurgitator's Pogogo Show",
+          "url": "https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97711,
+      "name": "Farting Is a Part of Life",
+      "url": "https://open.spotify.com/track/34mZzYo0duXZRlZqs7rHOV"
     },
     {
       "album": {
@@ -308,6 +380,24 @@
     },
     {
       "album": {
+        "name": "Yummy Yummy",
+        "url": "https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148040,
+      "name": "Fruit Salad",
+      "url": "https://open.spotify.com/track/05VFDrNnvtKHn9GwCQrsSZ"
+    },
+    {
+      "album": {
         "name": "Hit Songs & Rarities",
         "url": "https://open.spotify.com/album/6XFTvklE8rQN0eLEeZ23Bd"
       },
@@ -319,7 +409,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 148066,
       "name": "Fruit Salad",
       "url": "https://open.spotify.com/track/0jxWlzadnSzb9f49f9jxfz"
@@ -337,10 +427,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 105510,
       "name": "Games On My Computer",
       "url": "https://open.spotify.com/track/3RahKhz9mGQCJ252EbUifz"
+    },
+    {
+      "album": {
+        "name": "The Really Really Really Really Boring Album",
+        "url": "https://open.spotify.com/album/2yr8p98bJvQlImtgFhJEH4"
+      },
+      "artists": [
+        {
+          "name": "Regurgitator's Pogogo Show",
+          "url": "https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105510,
+      "name": "Games on My Computer",
+      "url": "https://open.spotify.com/track/50BOZZkh9X3CmbaWbHOAlO"
     },
     {
       "album": {
@@ -395,10 +503,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 79840,
       "name": "Hot Potato",
       "url": "https://open.spotify.com/track/3JIFjAYZjDqnl20jkhkC4a"
+    },
+    {
+      "album": {
+        "name": "Yummy Yummy",
+        "url": "https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81066,
+      "name": "Hot Potato",
+      "url": "https://open.spotify.com/track/0TQp3SpfrkWtGCyJJgMbHW"
     },
     {
       "album": {
@@ -457,7 +583,7 @@
     {
       "album": {
         "name": "The Really Really Really Really Boring Album",
-        "url": "https://open.spotify.com/album/1IJSsAAraXkzM5VF6aX4Lj"
+        "url": "https://open.spotify.com/album/2yr8p98bJvQlImtgFhJEH4"
       },
       "artists": [
         {
@@ -468,6 +594,24 @@
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 71975,
+      "name": "Mr Butt",
+      "url": "https://open.spotify.com/track/5LE6ragFpfU11QQymnZBGR"
+    },
+    {
+      "album": {
+        "name": "The Really Really Really Really Boring Album",
+        "url": "https://open.spotify.com/album/1IJSsAAraXkzM5VF6aX4Lj"
+      },
+      "artists": [
+        {
+          "name": "Regurgitator's Pogogo Show",
+          "url": "https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 71975,
       "name": "Mr Butt",
       "url": "https://open.spotify.com/track/6bM6ODk3nkv3ZD6vzP1spw"
@@ -521,10 +665,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 124852,
       "name": "PPAP (Pen Pineapple Apple Pen) - Long Version",
       "url": "https://open.spotify.com/track/4bw49rU057FSUTpGF4pnxq"
+    },
+    {
+      "album": {
+        "name": "I have a PPAP",
+        "url": "https://open.spotify.com/album/2c8W1S31BgpyrAm0txBFTc"
+      },
+      "artists": [
+        {
+          "name": "PIKOTARO",
+          "url": "https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122933,
+      "name": "PPAP(Pen-Pineapple-Apple-Pen) - Long ver.",
+      "url": "https://open.spotify.com/track/5qRj5I58zuHkVilcqVWN3P"
     },
     {
       "album": {
@@ -564,6 +726,24 @@
     },
     {
       "album": {
+        "name": "Los Fabulosos",
+        "url": "https://open.spotify.com/album/3gNNCz0Zlz4oWgb1w2SxVp"
+      },
+      "artists": [
+        {
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166578,
+      "name": "Ridiculous",
+      "url": "https://open.spotify.com/track/1YyFEBVK5vitR8gI4t8r0U"
+    },
+    {
+      "album": {
         "name": "Ridiculous",
         "url": "https://open.spotify.com/album/3JazKQ0JHgJTXZGxvsTPmQ"
       },
@@ -575,7 +755,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-01",
       "duration_ms": 166578,
       "name": "Ridiculous",
       "url": "https://open.spotify.com/track/48iEwZRRBJqkkEQjmmKx65"
@@ -651,10 +831,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154000,
       "name": "The Art of the Fart",
       "url": "https://open.spotify.com/track/07l6K0SMn009HJF0g7wqzx"
+    },
+    {
+      "album": {
+        "name": "Big Day Out",
+        "url": "https://open.spotify.com/album/6csPppIlLqQgY5H02XpPLE"
+      },
+      "artists": [
+        {
+          "name": "The Beanies",
+          "url": "https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "The Art of the Fart",
+      "url": "https://open.spotify.com/track/3yLgiW9dJAAxQcvgkcZhfK"
     },
     {
       "album": {
@@ -677,6 +875,24 @@
     {
       "album": {
         "name": "The Derp Song",
+        "url": "https://open.spotify.com/album/6PAiGJ6F3lB9ZAGK0BUF3P"
+      },
+      "artists": [
+        {
+          "name": "Derp Bros.",
+          "url": "https://open.spotify.com/artist/2FE1YmX6oLj15z9AeJ3pOp"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60836,
+      "name": "The Derp Song",
+      "url": "https://open.spotify.com/track/71fp15098CPhaPyQ8t7ldo"
+    },
+    {
+      "album": {
+        "name": "The Derp Song",
         "url": "https://open.spotify.com/album/7nvnrY9ZqdH7gW51260K0I"
       },
       "artists": [
@@ -687,7 +903,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 58893,
       "name": "The Derp Song",
       "url": "https://open.spotify.com/track/3tdXCwXPkCMsYpFQk3eeka"
@@ -792,6 +1008,24 @@
     },
     {
       "album": {
+        "name": "The Best of The Wiggles",
+        "url": "https://open.spotify.com/album/1uh7RZLKvq5muRFJ5U0Fzf"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144200,
+      "name": "Toot Toot, Chugga Chugga, Big Red Car",
+      "url": "https://open.spotify.com/track/2qlWTYxYdY8thpMvMm8C01"
+    },
+    {
+      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/2DS7jRFQ1aABYOrlY9vRhw"
       },
@@ -803,7 +1037,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144204,
       "name": "Toot Toot, Chugga Chugga, Big Red Car",
       "url": "https://open.spotify.com/track/6Vs0mW2cnly5i2R7AL8Jgp"
@@ -821,10 +1055,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 140000,
       "name": "Topsy Turvy Zoo",
       "url": "https://open.spotify.com/track/38ZPI2hWI0UWJjPHAEjj78"
+    },
+    {
+      "album": {
+        "name": "Noise Factory",
+        "url": "https://open.spotify.com/album/7JrqM06vRbzoibxelpYD0r"
+      },
+      "artists": [
+        {
+          "name": "The Beanies",
+          "url": "https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Topsy Turvy Zoo",
+      "url": "https://open.spotify.com/track/5EBbDp29yvVo6dF9OECQbM"
     },
     {
       "album": {
@@ -951,10 +1203,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175291,
       "name": "Y.M.C.A.",
       "url": "https://open.spotify.com/track/2Ls4QknWvBoGSeAlNKw0Xj"
+    },
+    {
+      "album": {
+        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175291,
+      "name": "Y.M.C.A.",
+      "url": "https://open.spotify.com/track/45WZ2N9hK3b7KhOECCUGkh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2ls3pMfEx4A"

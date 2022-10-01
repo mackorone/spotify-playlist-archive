@@ -27,7 +27,7 @@
     {
       "album": {
         "name": "Texas Guitar Slinger",
-        "url": "https://open.spotify.com/album/0PdYqT045K3ZsMQU3GUnTb"
+        "url": "https://open.spotify.com/album/5DalVOtB3z3HLahNqkbX0l"
       },
       "artists": [
         {
@@ -38,6 +38,24 @@
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 314493,
+      "name": "A Blue Song",
+      "url": "https://open.spotify.com/track/1YyHSGKbfEiI7xwwvSn5z5"
+    },
+    {
+      "album": {
+        "name": "Texas Guitar Slinger",
+        "url": "https://open.spotify.com/album/0PdYqT045K3ZsMQU3GUnTb"
+      },
+      "artists": [
+        {
+          "name": "Joe \"Guitar\" Hughes",
+          "url": "https://open.spotify.com/artist/5bRmUejPq8I7a7y0coLC8r"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 314493,
       "name": "A Blue Song",
       "url": "https://open.spotify.com/track/433G78x9000nRkf4flw6bs"
@@ -117,7 +135,7 @@
     {
       "album": {
         "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
@@ -128,6 +146,24 @@
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
+    },
+    {
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 319360,
       "name": "Cold, Cold Feeling",
       "url": "https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf"
@@ -153,7 +189,7 @@
     {
       "album": {
         "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/0l5L2aVeZ9IVE31mmERdvy"
+        "url": "https://open.spotify.com/album/5coZhDRNQ6Tntf3EVbmCDk"
       },
       "artists": [
         {
@@ -164,6 +200,24 @@
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 341933,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/4AYRVOyxKM3meGvpY8nQnA"
+    },
+    {
+      "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/0l5L2aVeZ9IVE31mmERdvy"
+      },
+      "artists": [
+        {
+          "name": "Long John Hunter",
+          "url": "https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 341933,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/5iJoZZBSFpVtRPUWdERzeb"
@@ -221,10 +275,32 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213586,
       "name": "Don't Lose My Number",
       "url": "https://open.spotify.com/track/4t7Nh53jliIn7NoFN36qJG"
+    },
+    {
+      "album": {
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/3TYX7tmA1rKq7I8qOVuvFs"
+      },
+      "artists": [
+        {
+          "name": "Smokin' Joe Kubek",
+          "url": "https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B"
+        },
+        {
+          "name": "Bnois King",
+          "url": "https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213586,
+      "name": "Don't Lose My Number",
+      "url": "https://open.spotify.com/track/7gcjudElezAMCD28CxD8cr"
     },
     {
       "album": {
@@ -315,10 +391,28 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247373,
       "name": "Have Blues, Will Travel",
       "url": "https://open.spotify.com/track/5uQmSlxgnr19AMo2D5rBqX"
+    },
+    {
+      "album": {
+        "name": "Have Blues, Will Travel",
+        "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
+      },
+      "artists": [
+        {
+          "name": "Smokin' Joe Kubek & Bnois King",
+          "url": "https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut"
+        }
+      ],
+      "date_added": "2016-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "Have Blues, Will Travel",
+      "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
     },
     {
       "album": {
@@ -345,7 +439,7 @@
     {
       "album": {
         "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
@@ -356,6 +450,24 @@
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
+    },
+    {
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "date_added": "2016-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 268466,
       "name": "Honey, Hush aka Talking Woman Blues",
       "url": "https://open.spotify.com/track/6Aqdo2NI0hsoom3UpEWuLT"
@@ -373,10 +485,46 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247506,
       "name": "I Ain't Drunk",
       "url": "https://open.spotify.com/track/6MsrmoeiVpoNUAc4FsNPPP"
+    },
+    {
+      "album": {
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247400,
+      "name": "I Ain't Drunk - Remastered",
+      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
+    },
+    {
+      "album": {
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286960,
+      "name": "I Got My Mojo Working",
+      "url": "https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM"
     },
     {
       "album": {
@@ -391,7 +539,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 286960,
       "name": "I Got My Mojo Working",
       "url": "https://open.spotify.com/track/6WDP4QrxAU1vRM9zITElCg"
@@ -479,7 +627,7 @@
     {
       "album": {
         "name": "Fitchburg Street",
-        "url": "https://open.spotify.com/album/4SB602UH3CT37jiy1mZzlu"
+        "url": "https://open.spotify.com/album/2HEXbzLaGWhZr5yjs1bLBv"
       },
       "artists": [
         {
@@ -490,6 +638,24 @@
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185693,
+      "name": "Life by the Drop",
+      "url": "https://open.spotify.com/track/0yqpt8kklxBeMD8dpvoD8l"
+    },
+    {
+      "album": {
+        "name": "Fitchburg Street",
+        "url": "https://open.spotify.com/album/4SB602UH3CT37jiy1mZzlu"
+      },
+      "artists": [
+        {
+          "name": "Doyle Bramhall",
+          "url": "https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 185693,
       "name": "Life by the Drop",
       "url": "https://open.spotify.com/track/5jrq9La3ynS3B9aizefueu"
@@ -543,10 +709,46 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293293,
       "name": "Mojo Boogie",
       "url": "https://open.spotify.com/track/0tsKu0o04uNgkXpP8mP6tQ"
+    },
+    {
+      "album": {
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293293,
+      "name": "Mojo Boogie - Remastered",
+      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
+    },
+    {
+      "album": {
+        "name": "Deep In The Heart",
+        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
+      },
+      "artists": [
+        {
+          "name": "W.C. Clark",
+          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
+        }
+      ],
+      "date_added": "2016-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293373,
+      "name": "My Texas Home",
+      "url": "https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n"
     },
     {
       "album": {
@@ -561,7 +763,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293373,
       "name": "My Texas Home",
       "url": "https://open.spotify.com/track/78smBCdkaExMyjg81o3qh5"
@@ -637,10 +839,28 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273426,
       "name": "Pay the Band",
       "url": "https://open.spotify.com/track/2PWSSJM09LYjt7o2sgyRsr"
+    },
+    {
+      "album": {
+        "name": "Buddy Whittington",
+        "url": "https://open.spotify.com/album/4gnhWohgp2PfU6h7dYkXSp"
+      },
+      "artists": [
+        {
+          "name": "Buddy Whittington",
+          "url": "https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273426,
+      "name": "Pay the Band",
+      "url": "https://open.spotify.com/track/7nVvyXdvMJ8Ocaravj5edN"
     },
     {
       "album": {
@@ -883,10 +1103,28 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260200,
       "name": "We The People",
       "url": "https://open.spotify.com/track/3v4UHYq9uKonBnNZai2N8j"
+    },
+    {
+      "album": {
+        "name": "We The People",
+        "url": "https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV"
+      },
+      "artists": [
+        {
+          "name": "Guitar Shorty",
+          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
+        }
+      ],
+      "date_added": "2016-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260200,
+      "name": "We The People",
+      "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
     },
     {
       "album": {
@@ -899,7 +1137,7 @@
           "url": "https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c"
         }
       ],
-      "date_added": "2018-02-27",
+      "date_added": "2016-03-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 273346,
@@ -919,7 +1157,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2022-07-28",
       "duration_ms": 273346,
       "name": "Whiskey Drinkin' Blues",
       "url": "https://open.spotify.com/track/6CsdPQAmXxGozOfUK4TJWp"

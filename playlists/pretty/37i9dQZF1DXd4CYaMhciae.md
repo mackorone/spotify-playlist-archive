@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4CYaMhciae.md) - [plain]
 
 > Light water and love \- the keys to happy plants.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,354 likes - 22 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,388 likes - 22 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4CYaMhciae.md) - [plain]
 | 21 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 22 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 |
 
-Snapshot ID: `MTYyMTI5NDA2OCwwMDAwMDAwMjAwMDAwMTc5N2NhODMxOWMwMDAwMDE3OTdiMzNjOGU3`
+Snapshot ID: `MTYyMTI5NDA2OCwwMDAwMDAwMDdiM2UxNmVkMzk3ODlhZjY0ZDg4NDQzM2M2ZmUxM2Y2`

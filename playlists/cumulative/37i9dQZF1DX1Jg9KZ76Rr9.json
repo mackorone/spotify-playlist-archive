@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261733,
+      "name": "American Soul",
+      "url": "https://open.spotify.com/track/6jfpkIQbqY5lraWp0Uo9aQ"
+    },
+    {
+      "album": {
         "name": "American Soul",
         "url": "https://open.spotify.com/album/3xTUOQo8xptmvIg7m0SU3A"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261733,
       "name": "American Soul",
       "url": "https://open.spotify.com/track/7F0wm6AJKih5JU0fjEbzkr"
@@ -117,7 +135,7 @@
     {
       "album": {
         "name": "Evolve",
-        "url": "https://open.spotify.com/album/51s30K7a36ORx6AAaPBRRY"
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
       "artists": [
         {
@@ -128,6 +146,24 @@
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204346,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
+    },
+    {
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/51s30K7a36ORx6AAaPBRRY"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 204346,
       "name": "Believer",
       "url": "https://open.spotify.com/track/1NtIMM4N0cFa1dNzN15chl"
@@ -192,6 +228,24 @@
     },
     {
       "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192533,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66"
+    },
+    {
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/3isVltr2QZQk23EQGWYfHz"
       },
@@ -203,7 +257,7 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192560,
       "name": "Champion",
       "url": "https://open.spotify.com/track/09oCOptpWAPyV0gqxBUCJr"
@@ -297,10 +351,28 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228140,
       "name": "Dig Down",
       "url": "https://open.spotify.com/track/7JhTr0G0gr3ESY3B9uqPi4"
+    },
+    {
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "Dig Down",
+      "url": "https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ"
     },
     {
       "album": {
@@ -351,10 +423,28 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194560,
       "name": "Dream",
       "url": "https://open.spotify.com/track/6O3YFkyKCpBDb9uCrFohPf"
+    },
+    {
+      "album": {
+        "name": "Church Of Scars",
+        "url": "https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30"
     },
     {
       "album": {
@@ -441,10 +531,28 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198080,
       "name": "Freeze Me",
       "url": "https://open.spotify.com/track/4bnnP9Z5d7MWCY930hRcGK"
+    },
+    {
+      "album": {
+        "name": "Outrage! Is Now",
+        "url": "https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198081,
+      "name": "Freeze Me",
+      "url": "https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC"
     },
     {
       "album": {
@@ -639,10 +747,28 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256071,
       "name": "hometown",
       "url": "https://open.spotify.com/track/2kFKIFc5RSTlhuGed6ZNZ7"
+    },
+    {
+      "album": {
+        "name": "hometown",
+        "url": "https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256071,
+      "name": "hometown",
+      "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
     },
     {
       "album": {
@@ -719,7 +845,7 @@
     {
       "album": {
         "name": "The Peace And The Panic",
-        "url": "https://open.spotify.com/album/6MiQ7JVsKlOBJFJzWQZ2Kz"
+        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
       },
       "artists": [
         {
@@ -730,6 +856,24 @@
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218054,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk"
+    },
+    {
+      "album": {
+        "name": "The Peace And The Panic",
+        "url": "https://open.spotify.com/album/6MiQ7JVsKlOBJFJzWQZ2Kz"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 218054,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/6WoyghnMAvDDRbZfFbpwEo"
@@ -755,7 +899,7 @@
     {
       "album": {
         "name": "Ti Amo",
-        "url": "https://open.spotify.com/album/08rZ2mw2qwx60vOJtozqbh"
+        "url": "https://open.spotify.com/album/4VlRZ0j4hEJquxPDIzFVuX"
       },
       "artists": [
         {
@@ -766,6 +910,24 @@
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 247373,
+      "name": "J-Boy",
+      "url": "https://open.spotify.com/track/7fu8iCAdNuV5HLkuZVHLZP"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/08rZ2mw2qwx60vOJtozqbh"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 248213,
       "name": "J-Boy",
       "url": "https://open.spotify.com/track/2eoZr92GWsqCaYkkCGWuxl"
@@ -790,6 +952,24 @@
     },
     {
       "album": {
+        "name": "Jungle (Radio Edit)",
+        "url": "https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236876,
+      "name": "Jungle (Radio Edit)",
+      "url": "https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/3H6WSHcSwJCvl0YSL7aoJb"
       },
@@ -801,7 +981,7 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236876,
       "name": "Jungle - Radio Edit",
       "url": "https://open.spotify.com/track/7Jg2M1wTxqyIZEfZgRpHz7"
@@ -855,10 +1035,28 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214853,
       "name": "Lay It on Me",
       "url": "https://open.spotify.com/track/7MUNNBJKYo3cdokp06wEOB"
+    },
+    {
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215493,
+      "name": "Lay It on Me",
+      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
     },
     {
       "album": {
@@ -1136,6 +1334,24 @@
     },
     {
       "album": {
+        "name": "The Canyon",
+        "url": "https://open.spotify.com/album/2hqtN1MEtZFZTQZ4XwjoMe"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314373,
+      "name": "Over and Over Again",
+      "url": "https://open.spotify.com/track/4tLJlbnRoUz8BOfy2Xcsgk"
+    },
+    {
+      "album": {
         "name": "Over and Over Again",
         "url": "https://open.spotify.com/album/3mDmNt8Tub5DwdyVQgUWHT"
       },
@@ -1147,7 +1363,7 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 314373,
       "name": "Over and Over Again",
       "url": "https://open.spotify.com/track/7oGWqVwmgwGBYXkW4cROlK"
@@ -1172,6 +1388,24 @@
     },
     {
       "album": {
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201833,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/4WyDmwmeBdrGgJEQquZfz3"
+    },
+    {
+      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/4UhqQqpPUdwrP2ymVmhybJ"
       },
@@ -1183,7 +1417,7 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204262,
       "name": "Passion",
       "url": "https://open.spotify.com/track/2E2r97GUoaRP3jCVX3nLa5"
@@ -1309,10 +1543,28 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224640,
       "name": "She Said",
       "url": "https://open.spotify.com/track/0Sgu2kKr8M0uuqKygi2wrH"
+    },
+    {
+      "album": {
+        "name": "Youth is Only Ever Fun in Retrospect",
+        "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225653,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
     },
     {
       "album": {
@@ -1407,10 +1659,32 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218763,
       "name": "Sober Up",
       "url": "https://open.spotify.com/track/2QCndYqRherBtKjBpyySC6"
+    },
+    {
+      "album": {
+        "name": "The Click",
+        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        },
+        {
+          "name": "Rivers Cuomo",
+          "url": "https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218763,
+      "name": "Sober Up (feat. Rivers Cuomo)",
+      "url": "https://open.spotify.com/track/5jiYx70OBzEI99jx1Gn3FN"
     },
     {
       "album": {
@@ -1551,10 +1825,46 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194625,
       "name": "Thank God I'm Not You",
       "url": "https://open.spotify.com/track/4YZVtRbdGOhHdGNi4JpCL5"
+    },
+    {
+      "album": {
+        "name": "Thank God I'm Not You",
+        "url": "https://open.spotify.com/album/0AnzrEVccYHdrlJd1G5Qpy"
+      },
+      "artists": [
+        {
+          "name": "Himalayas",
+          "url": "https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194625,
+      "name": "Thank God I'm Not You",
+      "url": "https://open.spotify.com/track/65cQN8pUC0dkKryUhEqJPh"
+    },
+    {
+      "album": {
+        "name": "Eat The Elephant",
+        "url": "https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281626,
+      "name": "The Doomed",
+      "url": "https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid"
     },
     {
       "album": {
@@ -1569,7 +1879,7 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281780,
       "name": "The Doomed",
       "url": "https://open.spotify.com/track/54RaEDwHbCJKMdDq68EyKE"
@@ -1648,8 +1958,8 @@
     },
     {
       "album": {
-        "name": "Destroyers Of The Soft Life",
-        "url": "https://open.spotify.com/album/3BfVRMIfODB0EHBaIPZrVO"
+        "name": "Destroyers of the Soft Life",
+        "url": "https://open.spotify.com/album/3ehg7zn0FUgm6tNRQrWBUh"
       },
       "artists": [
         {
@@ -1662,7 +1972,43 @@
       "date_removed": null,
       "duration_ms": 266066,
       "name": "The Wanting",
+      "url": "https://open.spotify.com/track/3hQxK5THW4Hb4YOVLQNYkG"
+    },
+    {
+      "album": {
+        "name": "Destroyers Of The Soft Life",
+        "url": "https://open.spotify.com/album/3BfVRMIfODB0EHBaIPZrVO"
+      },
+      "artists": [
+        {
+          "name": "J. Roddy Walston & The Business",
+          "url": "https://open.spotify.com/artist/1FlpoZvmdqEMfKIzgMmSJX"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 266066,
+      "name": "The Wanting",
       "url": "https://open.spotify.com/track/5Aj28zjIRQV20WHE6pFznI"
+    },
+    {
+      "album": {
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274281,
+      "name": "The Way You Used To Do",
+      "url": "https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1"
     },
     {
       "album": {
@@ -1677,7 +2023,7 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274281,
       "name": "The Way You Used To Do",
       "url": "https://open.spotify.com/track/7dBMQbBKG6n9HkVXkUKnhQ"
@@ -1720,6 +2066,24 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190447,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
+    },
+    {
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/4bODUI8yWQc2ZtBMr9tQHB"
       },
@@ -1731,7 +2095,7 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190447,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/6Z884oSfliz0mKqTJTXrwb"
@@ -1756,6 +2120,24 @@
     },
     {
       "album": {
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185466,
+      "name": "Walk On Water",
+      "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
+    },
+    {
+      "album": {
         "name": "Walk On Water",
         "url": "https://open.spotify.com/album/3PXrILqM1bJoj2EUhqs8X3"
       },
@@ -1767,10 +2149,28 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188227,
       "name": "Walk On Water",
       "url": "https://open.spotify.com/track/5UMD1Iz7yyVK8Q5FLsVt3q"
+    },
+    {
+      "album": {
+        "name": "Crooked Shadows",
+        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204613,
+      "name": "We Fight",
+      "url": "https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny"
     },
     {
       "album": {
@@ -1785,7 +2185,7 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204625,
       "name": "We Fight",
       "url": "https://open.spotify.com/track/4vSGt6RC1GcfA07OGE3rcs"

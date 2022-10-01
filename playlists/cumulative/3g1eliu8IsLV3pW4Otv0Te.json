@@ -660,6 +660,24 @@
     },
     {
       "album": {
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "El Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0dcMqjeDpwqB2xhzMsld0p"
+    },
+    {
+      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -814,7 +832,7 @@
     },
     {
       "album": {
-        "name": "Reach For Glory",
+        "name": "Reach for Glory",
         "url": "https://open.spotify.com/album/0XHpO9qTpqJJQwa2zFxAAE"
       },
       "artists": [

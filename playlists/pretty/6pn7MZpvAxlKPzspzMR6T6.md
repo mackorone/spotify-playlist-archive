@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6pn7MZpvAxlKPzspzMR6T6.md) - [plain]
 
 > Take in the view and get lost in total backroads bliss with this mellow indie folk...
 
-[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 28 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 28 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -71,7 +71,7 @@
     {
       "album": {
         "name": "UNO",
-        "url": "https://open.spotify.com/album/1T9FB5R3oGSTVY4tK610IE"
+        "url": "https://open.spotify.com/album/3nwrvEMHouNpXPiuzNMSXa"
       },
       "artists": [
         {
@@ -102,6 +102,44 @@
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 319923,
+      "name": "A Pesar de M\u00ed (feat. Un Coraz\u00f3n, Abby Valdez, Indiomar)",
+      "url": "https://open.spotify.com/track/19NHUhKO0q6Z2wX6yyGpap"
+    },
+    {
+      "album": {
+        "name": "UNO",
+        "url": "https://open.spotify.com/album/1T9FB5R3oGSTVY4tK610IE"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Abby Valdez",
+          "url": "https://open.spotify.com/artist/5Ilm5zQlb5LKsFpcJwR9es"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 319923,
       "name": "A Pesar de M\u00ed feat. Un Coraz\u00f3n, Abby Valdez, Indiomar",
       "url": "https://open.spotify.com/track/7a5QwCpZFgOQpE6JW4F6aP"

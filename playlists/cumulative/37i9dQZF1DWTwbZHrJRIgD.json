@@ -138,6 +138,28 @@
     },
     {
       "album": {
+        "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v"
+      },
+      "artists": [
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257440,
+      "name": "Chor Bazari",
+      "url": "https://open.spotify.com/track/0SxjmKamCaXEBwuQdiMxor"
+    },
+    {
+      "album": {
         "name": "Love Aaj Kal",
         "url": "https://open.spotify.com/album/4u7WFjehsC5sUibLEOaqLf"
       },
@@ -153,10 +175,40 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257440,
       "name": "Chor Bazari (From \"Love Aaj Kal \")",
       "url": "https://open.spotify.com/track/6XE0MxTJdLWEePTCqAw5xr"
+    },
+    {
+      "album": {
+        "name": "Deva Deva (From \"Brahmastra\")",
+        "url": "https://open.spotify.com/album/6zwucxlWusEUCZt6DeQJCu"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279107,
+      "name": "Deva Deva (From \"Brahmastra\")",
+      "url": "https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O"
     },
     {
       "album": {
@@ -396,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Ved",
+        "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184848,
+      "name": "Jeet",
+      "url": "https://open.spotify.com/track/2nEntnpNpsJNhw1wLY8O96"
+    },
+    {
+      "album": {
         "name": "Jeet",
         "url": "https://open.spotify.com/album/6OiuCvQifZVGD0DANTN2IL"
       },
@@ -407,7 +477,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184848,
       "name": "Jeet",
       "url": "https://open.spotify.com/track/4ye8U0982eHtlhlvePpxtP"
@@ -575,6 +645,24 @@
     {
       "album": {
         "name": "Liggi",
+        "url": "https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
+      "duration_ms": 181176,
+      "name": "Liggi",
+      "url": "https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv"
+    },
+    {
+      "album": {
+        "name": "Liggi",
         "url": "https://open.spotify.com/album/5r9bLIpSpE5ddweubUjw0t"
       },
       "artists": [
@@ -585,10 +673,28 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181176,
       "name": "Liggi",
       "url": "https://open.spotify.com/track/66Nmp3ztIMqX1j8yYtWl1X"
+    },
+    {
+      "album": {
+        "name": "Dev",
+        "url": "https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "Liggi",
+      "url": "https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el"
     },
     {
       "album": {
@@ -874,6 +980,24 @@
     },
     {
       "album": {
+        "name": "Ved",
+        "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230204,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy"
+    },
+    {
+      "album": {
         "name": "Sage",
         "url": "https://open.spotify.com/album/7sDecy4TUrJpkPnOmAiVKn"
       },
@@ -885,7 +1009,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230204,
       "name": "Sage",
       "url": "https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl"
@@ -999,10 +1123,28 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 203076,
       "name": "Thandi Hawa",
       "url": "https://open.spotify.com/track/47a8ZHfi1MYmiSVVdS7gId"
+    },
+    {
+      "album": {
+        "name": "Dev",
+        "url": "https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Thandi Hawa",
+      "url": "https://open.spotify.com/track/5tyReDTH3MpN7J5pk2LuGx"
     },
     {
       "album": {
@@ -1076,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Ved",
+        "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2022-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "Udd Gaye",
+      "url": "https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW"
+    },
+    {
+      "album": {
         "name": "Udd Gaye (Bacardi House Party Sessions)",
         "url": "https://open.spotify.com/album/3w4IGs3MgYRrHrVuC6QGAu"
       },
@@ -1087,7 +1247,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180413,
       "name": "Udd Gaye - Bacardi House Party Sessions",
       "url": "https://open.spotify.com/track/6wZJsut8fjiWiMPaccRAOX"

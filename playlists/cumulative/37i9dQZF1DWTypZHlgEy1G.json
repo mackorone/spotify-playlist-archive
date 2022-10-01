@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/0R5sCENJleZp9oxN9JcXgR"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/1N4ixxhbBH1ClnPdTTsRzz"
+    },
+    {
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170840,
       "name": "Aline",
       "url": "https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue"
@@ -62,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Jazz Et Java",
+        "url": "https://open.spotify.com/album/0Becl0XzJp8Z1zunK1vdrn"
+      },
+      "artists": [
+        {
+          "name": "Claude Nougaro",
+          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197573,
+      "name": "Armstrong",
+      "url": "https://open.spotify.com/track/1V021MMTOGURDZxkDBMaG9"
+    },
+    {
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5"
       },
@@ -73,10 +109,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199586,
       "name": "Armstrong",
       "url": "https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y"
+    },
+    {
+      "album": {
+        "name": "L\u00e9o Ferr\u00e9",
+        "url": "https://open.spotify.com/album/6mQiZriU3LU6CKuQAryJvp"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Ferr\u00e9",
+          "url": "https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264266,
+      "name": "Avec le temps",
+      "url": "https://open.spotify.com/track/4cncK4CmE3lW8DMCsj2494"
     },
     {
       "album": {
@@ -91,7 +145,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266906,
       "name": "Avec le temps",
       "url": "https://open.spotify.com/track/4zr0ivSuOhX7qwk0r3uk5E"
@@ -116,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Les Copains D'Abord",
+        "url": "https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Chanson pour l'auvergnat",
+      "url": "https://open.spotify.com/track/03i4HQaxKuef4sNUTB3txK"
+    },
+    {
+      "album": {
         "name": "Best Of 40 chansons",
         "url": "https://open.spotify.com/album/2PLglMBWIXjWckXd5ZgXXM"
       },
@@ -127,10 +199,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182360,
       "name": "Chanson pour l'Auvergnat",
       "url": "https://open.spotify.com/track/4KN47jMjOFK5QY5NHL8TGE"
+    },
+    {
+      "album": {
+        "name": "Chez Laurette",
+        "url": "https://open.spotify.com/album/0Jk7WSIVTnppDevKYjEpOv"
+      },
+      "artists": [
+        {
+          "name": "Michel Delpech",
+          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209640,
+      "name": "Chez Laurette",
+      "url": "https://open.spotify.com/track/5wFRjYT36LES0ks92OeXyD"
     },
     {
       "album": {
@@ -145,10 +235,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210226,
       "name": "Chez Laurette",
       "url": "https://open.spotify.com/track/4vLqJ8khGI4VpdINhXrxi9"
+    },
+    {
+      "album": {
+        "name": "Hommages",
+        "url": "https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "Comme d'habitude",
+      "url": "https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6"
     },
     {
       "album": {
@@ -163,7 +271,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253013,
       "name": "Comme d'habitude",
       "url": "https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT"
@@ -181,10 +289,46 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146333,
       "name": "Comment te dire adieu - It Hurts to Say Goodbye",
       "url": "https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp"
+    },
+    {
+      "album": {
+        "name": "Comment te dire adieu (Remasteris\u00e9 en 2016)",
+        "url": "https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148506,
+      "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
+      "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
+    },
+    {
+      "album": {
+        "name": "Santiano",
+        "url": "https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186800,
+      "name": "C\u00e9line",
+      "url": "https://open.spotify.com/track/6IgZ9zDxJ6H0IUQ6HKBa8A"
     },
     {
       "album": {
@@ -199,7 +343,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188466,
       "name": "C\u00e9line",
       "url": "https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z"
@@ -217,10 +361,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192160,
       "name": "Douce France",
       "url": "https://open.spotify.com/track/1YwQo6MrcSn0RQfnk0iG8D"
+    },
+    {
+      "album": {
+        "name": "Disque D'or",
+        "url": "https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L"
+      },
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192160,
+      "name": "Douce France",
+      "url": "https://open.spotify.com/track/6zlMAsPgiG81sZzsYVFwL3"
     },
     {
       "album": {
@@ -253,10 +415,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212200,
       "name": "Emmenez Moi",
       "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
+    },
+    {
+      "album": {
+        "name": "Entre deux r\u00eaves (Remastered 2014)",
+        "url": "https://open.spotify.com/album/40SP9TYF1IuC3JZ35glqwd"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212746,
+      "name": "Emmenez-moi",
+      "url": "https://open.spotify.com/track/61Yh6AEwsba6RYsrWiNmI0"
     },
     {
       "album": {
@@ -314,6 +494,24 @@
     },
     {
       "album": {
+        "name": "40 succ\u00e8s en or",
+        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "Il venait d'avoir 18 ans",
+      "url": "https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN"
+    },
+    {
+      "album": {
         "name": "Forever Dalida",
         "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
       },
@@ -325,7 +523,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175026,
       "name": "Il venait d'avoir 18 ans - French Version",
       "url": "https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd"
@@ -350,6 +548,24 @@
     },
     {
       "album": {
+        "name": "A La Vie, A L'Amour",
+        "url": "https://open.spotify.com/album/1ShHXfJDZw4qbbr0t69rvs"
+      },
+      "artists": [
+        {
+          "name": "Serge Lama",
+          "url": "https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "Je suis malade",
+      "url": "https://open.spotify.com/track/123u5rlIfXR8Eynx3aabMA"
+    },
+    {
+      "album": {
         "name": "Les 50 Plus Belles Chansons",
         "url": "https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu"
       },
@@ -361,7 +577,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249013,
       "name": "Je suis malade",
       "url": "https://open.spotify.com/track/4jmrFoFwAMeDqoDSWyI1C7"
@@ -379,10 +595,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199800,
       "name": "Je suis venu te dire que je m'en vais",
       "url": "https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb"
+    },
+    {
+      "album": {
+        "name": "Vu de l'ext\u00e9rieur",
+        "url": "https://open.spotify.com/album/0NACl36sqipY6OZXOqy1At"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "Je suis venu te dire que je m'en vais",
+      "url": "https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm"
     },
     {
       "album": {
@@ -397,10 +631,46 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158493,
       "name": "Jolie m\u00f4me",
       "url": "https://open.spotify.com/track/0nKRwRUAbGiqDj0jJMifzf"
+    },
+    {
+      "album": {
+        "name": "Leo Chante Ferre",
+        "url": "https://open.spotify.com/album/0staVF20KfnK1HCYJLNSsf"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Ferr\u00e9",
+          "url": "https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159106,
+      "name": "Jolie m\u00f4me",
+      "url": "https://open.spotify.com/track/0cJSWKB0XV6B4zSFzTtS6b"
+    },
+    {
+      "album": {
+        "name": "L'Aigle Noir",
+        "url": "https://open.spotify.com/album/15Su2kfGKwzGE00aPHcgMp"
+      },
+      "artists": [
+        {
+          "name": "Barbara",
+          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294426,
+      "name": "L'aigle noir",
+      "url": "https://open.spotify.com/track/2rvuhf0UzKgVuhDaLc6r7y"
     },
     {
       "album": {
@@ -415,7 +685,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 294666,
       "name": "L'aigle noir",
       "url": "https://open.spotify.com/track/3uiq4H5MdV2TWfU9KKXhxz"
@@ -433,10 +703,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178200,
       "name": "L'eau vive",
       "url": "https://open.spotify.com/track/5qGg8QnOSG1zik86m5Pi7S"
+    },
+    {
+      "album": {
+        "name": "Les g\u00e9nies de la chanson : Guy B\u00e9art",
+        "url": "https://open.spotify.com/album/3o0uMbXThu7jSYTo1lpZ52"
+      },
+      "artists": [
+        {
+          "name": "Guy B\u00e9art",
+          "url": "https://open.spotify.com/artist/4DfwtuOinoPWTCOLETBkq7"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "L'eau vive",
+      "url": "https://open.spotify.com/track/6OzAXj08hzooP4olZeZJ6E"
     },
     {
       "album": {
@@ -458,6 +746,24 @@
     },
     {
       "album": {
+        "name": "Les indispensables",
+        "url": "https://open.spotify.com/album/5kDBB1VYkmUQdxVlAAuIUB"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9rard Lenorman",
+          "url": "https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197773,
+      "name": "La ballade des gens heureux",
+      "url": "https://open.spotify.com/track/2I69iebe4CftqShXyRoIZh"
+    },
+    {
+      "album": {
         "name": "100 Tubes 70s",
         "url": "https://open.spotify.com/album/2zs6pEnk6jffcqakWih5lW"
       },
@@ -469,10 +775,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198240,
       "name": "La Ballade Des Gens Heureux",
       "url": "https://open.spotify.com/track/3f1kUjxpiIf6cqOn71acN9"
+    },
+    {
+      "album": {
+        "name": "La Boh\u00e8me (Remastered 2014)",
+        "url": "https://open.spotify.com/album/3e3Nfe6qFPnmfxUtkBfYrj"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245186,
+      "name": "La boh\u00e8me",
+      "url": "https://open.spotify.com/track/2o0hVSbnkdvDDKKVNaUxnB"
     },
     {
       "album": {
@@ -487,10 +811,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245533,
       "name": "La boh\u00e8me",
       "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
+    },
+    {
+      "album": {
+        "name": "Eternelle",
+        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177106,
+      "name": "La Foule",
+      "url": "https://open.spotify.com/track/6cvIJ1zOcshUv0yCtcphaG"
     },
     {
       "album": {
@@ -505,7 +847,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178840,
       "name": "La foule",
       "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
@@ -523,10 +865,46 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153133,
       "name": "La madrague",
       "url": "https://open.spotify.com/track/6S4VGbTsHYtqchpkCx0kxW"
+    },
+    {
+      "album": {
+        "name": "Brigitte Bardot",
+        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155800,
+      "name": "La madrague",
+      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
+    },
+    {
+      "album": {
+        "name": "La Maladie D'Amour",
+        "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210186,
+      "name": "La maladie d'amour",
+      "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
     },
     {
       "album": {
@@ -541,10 +919,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210186,
       "name": "La maladie d'amour",
       "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
+    },
+    {
+      "album": {
+        "name": "Les Copains D'Abord",
+        "url": "https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130960,
+      "name": "La mauvaise r\u00e9putation",
+      "url": "https://open.spotify.com/track/0EwayOD7FeIY07W30rncvf"
     },
     {
       "album": {
@@ -559,7 +955,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 132213,
       "name": "La mauvaise r\u00e9putation",
       "url": "https://open.spotify.com/track/1CXcTLzJ3b2KJylbsbF0cE"
@@ -577,10 +973,46 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184813,
       "name": "La montagne",
       "url": "https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG"
+    },
+    {
+      "album": {
+        "name": "La montagne 1964",
+        "url": "https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185093,
+      "name": "La montagne",
+      "url": "https://open.spotify.com/track/6ninjFrpTv2rmMfrNFTRq7"
+    },
+    {
+      "album": {
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193706,
+      "name": "La poup\u00e9e qui fait non",
+      "url": "https://open.spotify.com/track/245la2fLeLCOpBWDjgE8rj"
     },
     {
       "album": {
@@ -595,7 +1027,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193706,
       "name": "La poup\u00e9e qui fait non",
       "url": "https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD"
@@ -613,10 +1045,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186973,
       "name": "La vie en rose",
       "url": "https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw"
+    },
+    {
+      "album": {
+        "name": "Eternelle",
+        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187733,
+      "name": "La Vie en rose",
+      "url": "https://open.spotify.com/track/6RKuyWarJu8SMrflntmyXx"
     },
     {
       "album": {
@@ -631,10 +1081,46 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175280,
       "name": "Lady Lay",
       "url": "https://open.spotify.com/track/1qB3PKYW5muVtgi5OEA68t"
+    },
+    {
+      "album": {
+        "name": "Les Ann\u00e9es 70s",
+        "url": "https://open.spotify.com/album/2S8XE58z1NUwQY2WLnMzqh"
+      },
+      "artists": [
+        {
+          "name": "Pierre Groscolas",
+          "url": "https://open.spotify.com/artist/3RAqlLiVsYkndio9mey84r"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179453,
+      "name": "Lady Lay",
+      "url": "https://open.spotify.com/track/2jd6aKjjhH5hu2mZedooNo"
+    },
+    {
+      "album": {
+        "name": "In\u00e9dits 1968-1998",
+        "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224240,
+      "name": "Laissons entrer le soleil",
+      "url": "https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn"
     },
     {
       "album": {
@@ -649,7 +1135,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224240,
       "name": "Laissons entrer le soleil",
       "url": "https://open.spotify.com/track/2IvsJEIjx8fWfkTWDCuEYm"
@@ -667,10 +1153,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184800,
       "name": "Le chasseur",
       "url": "https://open.spotify.com/track/1cbEUq5Rwe9LLFQyPKxurl"
+    },
+    {
+      "album": {
+        "name": "CD Story",
+        "url": "https://open.spotify.com/album/3vlu5v98oGi4Qgj1XvwEgH"
+      },
+      "artists": [
+        {
+          "name": "Michel Delpech",
+          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184480,
+      "name": "Le chasseur (Les oies sauvages)",
+      "url": "https://open.spotify.com/track/69rHFP4fPoWr8lBSST9km0"
     },
     {
       "album": {
@@ -685,10 +1189,46 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243186,
       "name": "Le P\u00e9nitencier",
       "url": "https://open.spotify.com/track/06Q5ak3bZZYAf2ssn9FhiY"
+    },
+    {
+      "album": {
+        "name": "Le p\u00e9nitencier",
+        "url": "https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "Le p\u00e9nitencier",
+      "url": "https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9"
+    },
+    {
+      "album": {
+        "name": "Jules et Jim (Original Cinema Soundtrack)",
+        "url": "https://open.spotify.com/album/5MJerJF6GVBsL61mueN9cU"
+      },
+      "artists": [
+        {
+          "name": "Georges Delerue",
+          "url": "https://open.spotify.com/artist/5C2ILE4DWY1vzn1NPxJOag"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127706,
+      "name": "Le tourbillon",
+      "url": "https://open.spotify.com/track/2PIGvb6Qdl9PQXmnqhbCaQ"
     },
     {
       "album": {
@@ -703,7 +1243,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127333,
       "name": "Le tourbillon",
       "url": "https://open.spotify.com/track/0SfpHtKHFHryAbKwU6viHm"
@@ -761,10 +1301,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241626,
       "name": "Les copains d'abord",
       "url": "https://open.spotify.com/track/1RarFtujsd7NHoe0mFtVLx"
+    },
+    {
+      "album": {
+        "name": "Les Copains D'Abord",
+        "url": "https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "Les copains d'abord",
+      "url": "https://open.spotify.com/track/5MRyPM2k1lvwt3noWp0GXJ"
     },
     {
       "album": {
@@ -779,10 +1337,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250240,
       "name": "Les Mots Bleus",
       "url": "https://open.spotify.com/track/0iKhilpfx902LV9jUU5x30"
+    },
+    {
+      "album": {
+        "name": "Les mots bleus",
+        "url": "https://open.spotify.com/album/5lDOYOhBNt7NHvDMtjcIOf"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250613,
+      "name": "Les mots bleus",
+      "url": "https://open.spotify.com/track/2Desf0YgquK9YrSkRhkvDN"
     },
     {
       "album": {
@@ -815,10 +1391,46 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231200,
       "name": "Mamy Blue",
       "url": "https://open.spotify.com/track/0P63efIEcuG9zKYzBff6gQ"
+    },
+    {
+      "album": {
+        "name": "30 Ans De Passion",
+        "url": "https://open.spotify.com/album/089iJNvU6GBmyfSmwsReZy"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta",
+          "url": "https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231200,
+      "name": "Mamy Blue",
+      "url": "https://open.spotify.com/track/66GLDVt5iyBBGfoWQ2WmbC"
+    },
+    {
+      "album": {
+        "name": "CD Story",
+        "url": "https://open.spotify.com/album/46GKFEQCo19hb1wwEXuZXT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Guichard",
+          "url": "https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208733,
+      "name": "Mon vieux",
+      "url": "https://open.spotify.com/track/0BRnXs3uLJF2YVt3giM3S7"
     },
     {
       "album": {
@@ -833,7 +1445,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212466,
       "name": "Mon vieux",
       "url": "https://open.spotify.com/track/05GcBfZY8Zno2DkWToHyIw"
@@ -851,10 +1463,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251666,
       "name": "Ne Me Quitte Pas",
       "url": "https://open.spotify.com/track/0B2mpfbg0an33QEYfKGChy"
+    },
+    {
+      "album": {
+        "name": "15 Ans D'Amour",
+        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250933,
+      "name": "Ne me quitte pas - R\u00e9-enregistrement 1972",
+      "url": "https://open.spotify.com/track/45CkvJbPxUS5YLy8oOQTtG"
     },
     {
       "album": {
@@ -891,10 +1521,50 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243000,
       "name": "Paroles paroles",
       "url": "https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl"
+    },
+    {
+      "album": {
+        "name": "40 succ\u00e8s en or",
+        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        },
+        {
+          "name": "Alain Delon",
+          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "Paroles paroles",
+      "url": "https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD"
+    },
+    {
+      "album": {
+        "name": "Hits chanson fran\u00e7aise",
+        "url": "https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
     },
     {
       "album": {
@@ -909,7 +1579,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153480,
       "name": "Poup\u00e9e de cire, poup\u00e9e de son",
       "url": "https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN"
@@ -934,6 +1604,24 @@
     },
     {
       "album": {
+        "name": "Du Rire Aux Larmes",
+        "url": "https://open.spotify.com/album/1kuaDf4qlg3J0t2Zi061Lk"
+      },
+      "artists": [
+        {
+          "name": "Andre Bourvil",
+          "url": "https://open.spotify.com/artist/5ruLBvB3VLj0yLVxwitU0M"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195533,
+      "name": "Salade de fruits",
+      "url": "https://open.spotify.com/track/4yvuxFp9SAPviEb7J9dtAc"
+    },
+    {
+      "album": {
         "name": "Salade de fruits + 29 succ\u00e8s de Bourvil (Chanson fran\u00e7aise)",
         "url": "https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7"
       },
@@ -945,10 +1633,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195280,
       "name": "Salade de fruits",
       "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
+    },
+    {
+      "album": {
+        "name": "Santiano",
+        "url": "https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132533,
+      "name": "Santiano",
+      "url": "https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz"
     },
     {
       "album": {
@@ -963,7 +1669,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134973,
       "name": "Santiano",
       "url": "https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ"
@@ -1017,10 +1723,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193106,
       "name": "Tu verras",
       "url": "https://open.spotify.com/track/1YVd6hMLgMWk5wAfjFaH53"
+    },
+    {
+      "album": {
+        "name": "Jazz Et Java",
+        "url": "https://open.spotify.com/album/0Becl0XzJp8Z1zunK1vdrn"
+      },
+      "artists": [
+        {
+          "name": "Claude Nougaro",
+          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196106,
+      "name": "Tu verras",
+      "url": "https://open.spotify.com/track/5jsCb9iTwwY7VVD73PGezb"
     },
     {
       "album": {
@@ -1042,6 +1766,24 @@
     },
     {
       "album": {
+        "name": "J'Arrive (Vol.12)",
+        "url": "https://open.spotify.com/album/75JBZy6ctvayGftnldYMzZ"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186533,
+      "name": "Vesoul",
+      "url": "https://open.spotify.com/track/2F94KDtJjCdzZYCQWBliRC"
+    },
+    {
+      "album": {
         "name": "Infiniment",
         "url": "https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf"
       },
@@ -1053,7 +1795,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186533,
       "name": "Vesoul",
       "url": "https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC"
@@ -1071,10 +1813,46 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182200,
       "name": "Vous permettez, monsieur ?",
       "url": "https://open.spotify.com/track/0BZkhtJceF2dcvazRrfguv"
+    },
+    {
+      "album": {
+        "name": "Adamo - studio 1",
+        "url": "https://open.spotify.com/album/5UR5XXp6YVvI9kRRUgdNtl"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Adamo",
+          "url": "https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "Vous permettez, monsieur ?",
+      "url": "https://open.spotify.com/track/3xCE5pciNmiRNUk9J6pWeM"
+    },
+    {
+      "album": {
+        "name": "La Bicyclette",
+        "url": "https://open.spotify.com/album/2DS4hsoeFgvqhzsCJ0tmbj"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162800,
+      "name": "\u00c0 bicyclette",
+      "url": "https://open.spotify.com/track/5px3ShFMjwhidOFVVc0Z4R"
     },
     {
       "album": {
@@ -1089,7 +1867,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163040,
       "name": "\u00c0 bicyclette",
       "url": "https://open.spotify.com/track/18dwyNRkzzggWGBPWKH5Uh"
