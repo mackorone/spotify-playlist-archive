@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrlaUEYy4Vg.md) - [plain]
 
 > John Mayer's new album Sob Rock and his greatest songs all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,235 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,383 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

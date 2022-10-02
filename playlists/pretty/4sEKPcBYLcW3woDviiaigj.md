@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sEKPcBYLcW3woDviiaigj.md) - [plain]
 
 > Give in to the season, with the ultimate collection of classic snow songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 460 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The newest songs from LGBTQIA+ artists feat. cover girl Fletcher's fave picks at the top ",
-  "num_followers": 813515,
+  "num_followers": 813630,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDI1NjNiZmVmN2M0YzUxZDFkMmQwZGQyNTBkOTgyY2Fl",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDllNzUyNTA3OWQ3NWVjMDA2YzhiNTNjNzY2MzFjZTNl",
   "tracks": [
     {
       "added_at": "2022-09-09 19:33:47",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "If It's Not God",
-        "url": "https://open.spotify.com/album/2tNcKGJQLMwvpTppUyGPGH"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "If It's Not God",
-      "url": "https://open.spotify.com/track/37ZPKicPyGq9FzMdlBx5HV"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "Keeping The Light On",
         "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "If It's Not God",
+        "url": "https://open.spotify.com/album/2tNcKGJQLMwvpTppUyGPGH"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "If It's Not God",
+      "url": "https://open.spotify.com/track/37ZPKicPyGq9FzMdlBx5HV"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "kaleidoscope",
-        "url": "https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "kaleidoscope",
-      "url": "https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
         "name": "Hold On Baby",
         "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 233088,
       "name": "Let Us Die",
       "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
+        "name": "kaleidoscope",
+        "url": "https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "kaleidoscope",
+      "url": "https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
+        "name": "Je te vois enfin",
+        "url": "https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Je te vois enfin",
+      "url": "https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6"
+    },
+    {
+      "added_at": "2022-09-09 19:33:47",
+      "album": {
         "name": "just another song",
         "url": "https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2022-09-09 19:33:47",
       "album": {
-        "name": "Je te vois enfin",
-        "url": "https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR"
+        "name": "Tantrums",
+        "url": "https://open.spotify.com/album/3N2z6l5poKgtLXUwPFFyuc"
       },
       "artists": [
         {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+          "name": "Xana",
+          "url": "https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3"
         }
       ],
-      "duration_ms": 205626,
-      "name": "Je te vois enfin",
-      "url": "https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6"
+      "duration_ms": 211675,
+      "name": "Complex",
+      "url": "https://open.spotify.com/track/5R1a0XN84btO27Bn5uV5BK"
     },
     {
       "added_at": "2022-09-09 19:33:47",
@@ -1179,22 +1195,6 @@
       "duration_ms": 225033,
       "name": "Weirdo",
       "url": "https://open.spotify.com/track/0aIj36K0tuJIt6kpN4Jbtq"
-    },
-    {
-      "added_at": "2022-09-09 19:33:47",
-      "album": {
-        "name": "Tantrums",
-        "url": "https://open.spotify.com/album/3N2z6l5poKgtLXUwPFFyuc"
-      },
-      "artists": [
-        {
-          "name": "Xana",
-          "url": "https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3"
-        }
-      ],
-      "duration_ms": 211675,
-      "name": "Complex",
-      "url": "https://open.spotify.com/track/5R1a0XN84btO27Bn5uV5BK"
     },
     {
       "added_at": "2022-09-09 19:33:47",

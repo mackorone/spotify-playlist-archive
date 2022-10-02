@@ -1,12 +1,12 @@
 {
   "description": "Some of the most beautiful French love songs. ",
-  "num_followers": 53597,
+  "num_followers": 53622,
   "original_name": "Je t'aime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDJkYzk0NzhkMTVjNzdhZTU0MThhN2NlOTNmNTgyY2Q2",
+  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDZiNzVjODlmYmE1YjZmMTZkNTUwOTczMDAwODdlMmE5",
   "tracks": [
     {
       "added_at": "2022-01-18 23:00:02",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp"
     },
     {
+      "added_at": "2022-01-18 23:00:02",
+      "album": {
+        "name": "De L' Amour Le Mieux",
+        "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
+      },
+      "artists": [
+        {
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Tu trouveras",
+      "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
+    },
+    {
       "added_at": "2021-01-30 03:13:15",
       "album": {
         "name": "Where's My Love",
@@ -471,22 +487,6 @@
       "duration_ms": 247826,
       "name": "Where's My Love - French Version",
       "url": "https://open.spotify.com/track/11xs8VwgHHIQqz3dbyEcLS"
-    },
-    {
-      "added_at": "2022-01-18 23:00:02",
-      "album": {
-        "name": "De L' Amour Le Mieux",
-        "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
-      },
-      "artists": [
-        {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
-        }
-      ],
-      "duration_ms": 298960,
-      "name": "Tu trouveras",
-      "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -559,6 +559,22 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
+        "name": "Ilo Veyou",
+        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
+      },
+      "artists": [
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+        }
+      ],
+      "duration_ms": 223880,
+      "name": "Que je t'aime",
+      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
         "name": "Brigitte Bardot",
         "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 235226,
       "name": "Je vais t'aimer",
       "url": "https://open.spotify.com/track/5KwJJz1nqsu5Edy1f4HGWe"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
-        "name": "Ilo Veyou",
-        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
-      },
-      "artists": [
-        {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
-        }
-      ],
-      "duration_ms": 223880,
-      "name": "Que je t'aime",
-      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -1221,20 +1221,20 @@
       "url": "https://open.spotify.com/track/66TPZLJOEAhnIYGGEbpB8G"
     },
     {
-      "added_at": "2022-01-18 23:00:02",
+      "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "22h22",
-        "url": "https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8"
+        "name": "Grand Amour",
+        "url": "https://open.spotify.com/album/7EoqJ8qHetcN3wPzmG5k2I"
       },
       "artists": [
         {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+          "name": "Maissiat",
+          "url": "https://open.spotify.com/artist/2ZUpe06uC011TqhQjBhB0n"
         }
       ],
-      "duration_ms": 194360,
-      "name": "Debout",
-      "url": "https://open.spotify.com/track/4WPqwHscUKuB8x1NqK5tT2"
+      "duration_ms": 238293,
+      "name": "Grand Amour",
+      "url": "https://open.spotify.com/track/1d2it6glA0gGa9to0YpuZH"
     }
   ],
   "unique_name": "Je t'aime",

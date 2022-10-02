@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie Classics. Cover: Salt Cathedral, Ximena Sari\u00f1ana",
-  "num_followers": 128862,
+  "num_followers": 128924,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNTg5NiwwMDAwMDAwMDc5ZjA2N2E1OTNlN2ZmNzEyODY2NzgzMzhlMDgxNTYx",
+  "snapshot_id": "MTY1OTcxNTg5NiwwMDAwMDAwMDI0OThhNjkyOWM3NWRiMGY4NzlkYzQ1M2IwYWQ4Mzg0",
   "tracks": [
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Musica Para Despues De Almuerzo",
-        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
-      },
-      "artists": [
-        {
-          "name": "Bitman & Roban",
-          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Despues De Almuerzo Parte 3",
-      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 220613,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Musica Para Despues De Almuerzo",
+        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
+      },
+      "artists": [
+        {
+          "name": "Bitman & Roban",
+          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Despues De Almuerzo Parte 3",
+      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Lovers & Friends",
-        "url": "https://open.spotify.com/album/2FERiB4eV8nWSa8bwnDUh6"
-      },
-      "artists": [
-        {
-          "name": "Irene Diaz",
-          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
-        }
-      ],
-      "duration_ms": 206536,
-      "name": "Another Observer",
-      "url": "https://open.spotify.com/track/2ccWVWCXvjuOvtFNqzrEqs"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "And Ever.",
         "url": "https://open.spotify.com/album/2Pwz72uGx2J9YkTxf30ETk"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 175440,
       "name": "And Ever.",
       "url": "https://open.spotify.com/track/63dVzBKXxpC3BXU7gf6I37"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Lovers & Friends",
+        "url": "https://open.spotify.com/album/2FERiB4eV8nWSa8bwnDUh6"
+      },
+      "artists": [
+        {
+          "name": "Irene Diaz",
+          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
+        }
+      ],
+      "duration_ms": 206536,
+      "name": "Another Observer",
+      "url": "https://open.spotify.com/track/2ccWVWCXvjuOvtFNqzrEqs"
     },
     {
       "added_at": "2022-08-05 16:11:36",

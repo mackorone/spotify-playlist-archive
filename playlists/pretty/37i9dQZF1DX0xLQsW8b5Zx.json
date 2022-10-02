@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 506365,
+  "num_followers": 506484,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEwMzE5NSwwMDAwMDAwMDk3Y2I0YTFhZTM1OWJjZWIzMmRmZDI1M2NhMTc3MTY3",
+  "snapshot_id": "MTY2MjEwMzE5NSwwMDAwMDAwMDRkNjMzMWRjYmNkMGQ4NjUxNDdlNzlmMjdlYTA5ZmE2",
   "tracks": [
     {
       "added_at": "2022-09-02 07:19:55",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 127847,
-      "name": "Matchbox",
-      "url": "https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
         "name": "Strike!",
         "url": "https://open.spotify.com/album/6fCk4dWzSKBJeIC3RKSxF7"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 186906,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/6evNakVewSYjoUmEIEEHLi"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 127847,
+      "name": "Matchbox",
+      "url": "https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Nola",
-        "url": "https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC"
-      },
-      "artists": [
-        {
-          "name": "The Buckaroos",
-          "url": "https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr"
-        }
-      ],
-      "duration_ms": 139173,
-      "name": "Once More",
-      "url": "https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
         "name": "Rockin' the Night Away",
         "url": "https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 173866,
       "name": "Rockin' the Night Away",
       "url": "https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "Nola",
+        "url": "https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC"
+      },
+      "artists": [
+        {
+          "name": "The Buckaroos",
+          "url": "https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr"
+        }
+      ],
+      "duration_ms": 139173,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -635,22 +635,6 @@
       "duration_ms": 125093,
       "name": "Tiger Twist - 2007 Remaster",
       "url": "https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx"
-    },
-    {
-      "added_at": "2022-09-02 07:19:55",
-      "album": {
-        "name": "Windy City Bop - Chicago Rockabilly 1945-1958",
-        "url": "https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N"
-      },
-      "artists": [
-        {
-          "name": "Hank Mizell",
-          "url": "https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "Jungle Rock",
-      "url": "https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -903,18 +887,34 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Kim Lenz And Her Jaguars",
-        "url": "https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL"
+        "name": "Tennessee Stomp",
+        "url": "https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni"
       },
       "artists": [
         {
-          "name": "Kim Lenz & Her Jaguars",
-          "url": "https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB"
+          "name": "Hillbilly Casino",
+          "url": "https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO"
         }
       ],
-      "duration_ms": 157426,
-      "name": "Devil On My Shoulder",
-      "url": "https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu"
+      "duration_ms": 133693,
+      "name": "Debt With the Devil",
+      "url": "https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q"
+    },
+    {
+      "added_at": "2022-09-02 07:19:55",
+      "album": {
+        "name": "The Hard Stuff",
+        "url": "https://open.spotify.com/album/6dSDrbanjX8nG0aBI9BmWx"
+      },
+      "artists": [
+        {
+          "name": "George Thorogood & The Destroyers",
+          "url": "https://open.spotify.com/artist/1KorPfuIfBvNH3n6BrVx72"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/72HhIJoFObt1Py8MAm0d5J"
     },
     {
       "added_at": "2022-09-02 07:19:55",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-09-02 07:19:55",
       "album": {
-        "name": "Tennessee Stomp",
-        "url": "https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni"
+        "name": "Kim Lenz And Her Jaguars",
+        "url": "https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL"
       },
       "artists": [
         {
-          "name": "Hillbilly Casino",
-          "url": "https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO"
+          "name": "Kim Lenz & Her Jaguars",
+          "url": "https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB"
         }
       ],
-      "duration_ms": 133693,
-      "name": "Debt With the Devil",
-      "url": "https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q"
+      "duration_ms": 157426,
+      "name": "Devil On My Shoulder",
+      "url": "https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu"
     },
     {
       "added_at": "2022-09-02 07:19:55",

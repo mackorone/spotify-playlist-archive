@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TsZ1NGdk6T.md) - [plain]
 
 > Good people, message and great music from the U.K\. to the world! Cover: Jonathan Ogden of Rivers & Robots
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,439 likes - 40 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,448 likes - 40 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

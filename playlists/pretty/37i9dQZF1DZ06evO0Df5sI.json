@@ -1,15 +1,15 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 14585,
+  "num_followers": 14592,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NDI0MDksMDAwMDAwMDA2Mzg4MWQ1MTBkNzc4ZjFjNDdlOWNhOGUwM2RmNGIzNQ==",
+  "snapshot_id": "Mjc3NDM4MzMsMDAwMDAwMDA3NjU1ZTQyYzZlODExYzUxNzVmY2M2Yzg2YmQxMjRkNA==",
   "tracks": [
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2YrB3vM3H7TcXZ0rAq4X8Y"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Maybe I'll Catch Fire",
         "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3VVstQ0fpj4pdSPe2QZT5z"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "From Here to Infirmary",
         "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/504aMSptpjhMNdtYvbXzjv"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 148306,
-      "name": "Warbrain",
-      "url": "https://open.spotify.com/track/6M8UhCdVuWxKwVRhe3sWQa"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Agony & Irony",
         "url": "https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH"
@@ -89,10 +73,10 @@
       "url": "https://open.spotify.com/track/4uicyqoy9VwvWzxu5nbyDc"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
       },
       "artists": [
         {
@@ -100,28 +84,12 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 168773,
-      "name": "She Lied To The FBI",
-      "url": "https://open.spotify.com/track/3rQWKxOJtn2EXr6j3KfHdO"
+      "duration_ms": 148306,
+      "name": "Warbrain",
+      "url": "https://open.spotify.com/track/6M8UhCdVuWxKwVRhe3sWQa"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "From Here to Infirmary",
-        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Private Eye",
-      "url": "https://open.spotify.com/track/5W68YeADvFGOegS3TmP7w8"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Muppets: The Green Album",
         "url": "https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj"
@@ -137,7 +105,23 @@
       "url": "https://open.spotify.com/track/0avaVpOJTKyV87oMmjVMXw"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Private Eye",
+      "url": "https://open.spotify.com/track/5W68YeADvFGOegS3TmP7w8"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
@@ -153,7 +137,23 @@
       "url": "https://open.spotify.com/track/5I1ZxztCi4MdwQYFQgYJel"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "She Lied To The FBI",
+      "url": "https://open.spotify.com/track/3rQWKxOJtn2EXr6j3KfHdO"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/0imHRp0dntswjXWQxkWhZP"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "From Here to Infirmary",
         "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/5s4uRy5aXZnOBLeovT4jNt"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Remains",
         "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/6J7SJqAZa4eFvoFCsKhsvb"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "E.P.",
         "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/2oOrzZmHfAhYBPsAFg079R"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "This Addiction (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/2LI6D6z57Lq2QTQH6Tgsz0"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/5rDLisLOgjDqLqEQNMAqmT"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "I Found a Way",
         "url": "https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
@@ -297,39 +297,7 @@
       "url": "https://open.spotify.com/track/4NFV9MCy465LEe7vXMf6ZN"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "From Here to Infirmary",
-        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Mr. Chainsaw",
-      "url": "https://open.spotify.com/track/20t6jJkDNQed6QGYlC0eFa"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 182280,
-      "name": "Blue in the Face",
-      "url": "https://open.spotify.com/track/6eo0pGSL1WVhZQjUfqix5M"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Is This Thing Cursed?",
         "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
@@ -345,10 +313,10 @@
       "url": "https://open.spotify.com/track/0bNh4dFYghzvk3uCNKweap"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
       },
       "artists": [
         {
@@ -356,60 +324,12 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 174440,
-      "name": "Back to Hell",
-      "url": "https://open.spotify.com/track/6xUF7fIIBlMKTCGu1x5s8p"
+      "duration_ms": 182280,
+      "name": "Blue in the Face",
+      "url": "https://open.spotify.com/track/6eo0pGSL1WVhZQjUfqix5M"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Agony & Irony",
-        "url": "https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/1Fy9hQQLek2UpOYUEPjiYn"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 130720,
-      "name": "I, Pessimist",
-      "url": "https://open.spotify.com/track/219DU5WdarWWzSssghQqPH"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Is This Thing Cursed?",
-        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 241320,
-      "name": "I Can't Believe",
-      "url": "https://open.spotify.com/track/0YqdsM9x9NtKUfwqooo6iV"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Remains",
         "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
@@ -425,7 +345,71 @@
       "url": "https://open.spotify.com/track/7bOjSUJ9F6R8VMnmLjC0wd"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Mr. Chainsaw",
+      "url": "https://open.spotify.com/track/20t6jJkDNQed6QGYlC0eFa"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "Agony & Irony",
+        "url": "https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/1Fy9hQQLek2UpOYUEPjiYn"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 278786,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/5KwPQNnzA87NSBilvBBDr1"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 130720,
+      "name": "I, Pessimist",
+      "url": "https://open.spotify.com/track/219DU5WdarWWzSssghQqPH"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Maybe I'll Catch Fire",
         "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
@@ -441,7 +425,7 @@
       "url": "https://open.spotify.com/track/53S0JdlqoD0YJn1DVZGX4x"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
@@ -457,23 +441,7 @@
       "url": "https://open.spotify.com/track/0bvat3eFe9HfUd1opSVXl7"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Is This Thing Cursed?",
-        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Is This Thing Cursed?",
-      "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "From Here to Infirmary",
         "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
@@ -489,7 +457,23 @@
       "url": "https://open.spotify.com/track/12pC1Ij4F7Zeq60ptohMCi"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 174440,
+      "name": "Back to Hell",
+      "url": "https://open.spotify.com/track/6xUF7fIIBlMKTCGu1x5s8p"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "My Shame Is True (Deluxe Edition)",
         "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
@@ -505,7 +489,7 @@
       "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
@@ -521,135 +505,7 @@
       "url": "https://open.spotify.com/track/5ZQvdpuEbWiKQVWn8tsJ94"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Queen Of Pain",
-      "url": "https://open.spotify.com/track/0Vx2PPv6MPcbOLJsm3wnuy"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "From Here to Infirmary",
-        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Crawl",
-      "url": "https://open.spotify.com/track/3VsFBlBhHKN9TpsvRjH8c7"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Maybe I'll Catch Fire",
-        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 289706,
-      "name": "Fuck You Aurora",
-      "url": "https://open.spotify.com/track/5a9yyZE83UskiAlIsQR7Lz"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "Dethbed",
-      "url": "https://open.spotify.com/track/0rXAiZQWz7QPoXeWVgAMj1"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 154080,
-      "name": "My Standard Break from Life",
-      "url": "https://open.spotify.com/track/5o3o957pQk9riQYqg0iDoF"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "E.P.",
-        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 195208,
-      "name": "Minds Like Minefields",
-      "url": "https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Maybe I'll Catch Fire",
-        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "You've Got So Far To Go",
-      "url": "https://open.spotify.com/track/03EV0UHtbLLZxRMk2k638B"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Is This Thing Cursed?",
-        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "The Alkaline Trio",
         "url": "https://open.spotify.com/album/5waByzUzczyEbkV55jcIke"
@@ -665,10 +521,10 @@
       "url": "https://open.spotify.com/track/27jbQySldKEX1W17293Mto"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
       },
       "artists": [
         {
@@ -676,12 +532,44 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 201320,
-      "name": "Kiss You To Death",
-      "url": "https://open.spotify.com/track/74ocpSSePJzUbfstuWISWD"
+      "duration_ms": 138693,
+      "name": "I'm Dying Tomorrow",
+      "url": "https://open.spotify.com/track/3KPa8afyEGV9CsBGVRiZWF"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 241320,
+      "name": "I Can't Believe",
+      "url": "https://open.spotify.com/track/0YqdsM9x9NtKUfwqooo6iV"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "Queen Of Pain",
+      "url": "https://open.spotify.com/track/0Vx2PPv6MPcbOLJsm3wnuy"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Tony Hawk's American Wasteland Soundtrack",
         "url": "https://open.spotify.com/album/1ttszNk2tbxuzeln1Ib7e0"
@@ -697,55 +585,7 @@
       "url": "https://open.spotify.com/track/6SInb5FLqUK8NmlAtXUNaJ"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Is This Thing Cursed?",
-        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Demon and Division",
-      "url": "https://open.spotify.com/track/1z1KFCZnxDl5YsJPhJcqqB"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 207973,
-      "name": "Continental",
-      "url": "https://open.spotify.com/track/4VQaIjK8pTgdTKmZakfnQJ"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
-      "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Jaked on Green Beers",
-      "url": "https://open.spotify.com/track/0LWnqm6bl3aUqmlEeGuiry"
-    },
-    {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Goddamnit!",
         "url": "https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM"
@@ -761,7 +601,39 @@
       "url": "https://open.spotify.com/track/0rp47ZE0Ej8bc7KbgvoQRG"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "E.P.",
+        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 195208,
+      "name": "Minds Like Minefields",
+      "url": "https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 154080,
+      "name": "My Standard Break from Life",
+      "url": "https://open.spotify.com/track/5o3o957pQk9riQYqg0iDoF"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Is This Thing Cursed?",
         "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
@@ -772,12 +644,76 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 211773,
-      "name": "Goodbye Fire Island",
-      "url": "https://open.spotify.com/track/11b8iIU8p1DnkrMaVipeSp"
+      "duration_ms": 200240,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 201320,
+      "name": "Kiss You To Death",
+      "url": "https://open.spotify.com/track/74ocpSSePJzUbfstuWISWD"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Continental",
+      "url": "https://open.spotify.com/track/4VQaIjK8pTgdTKmZakfnQJ"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Jaked on Green Beers",
+      "url": "https://open.spotify.com/track/0LWnqm6bl3aUqmlEeGuiry"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Demon and Division",
+      "url": "https://open.spotify.com/track/1z1KFCZnxDl5YsJPhJcqqB"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "Agony & Irony",
         "url": "https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH"
@@ -793,7 +729,23 @@
       "url": "https://open.spotify.com/track/23r9kDmwhUQuBHl523d87n"
     },
     {
-      "added_at": "2022-09-30 13:29:18",
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "You've Got So Far To Go",
+      "url": "https://open.spotify.com/track/03EV0UHtbLLZxRMk2k638B"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
       "album": {
         "name": "E.P.",
         "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
@@ -807,6 +759,54 @@
       "duration_ms": 186500,
       "name": "Radio Violence",
       "url": "https://open.spotify.com/track/5N65GlSHozEZomgqNyOV6J"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Is This Thing Cursed?",
+      "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "The Alkaline Trio",
+        "url": "https://open.spotify.com/album/5waByzUzczyEbkV55jcIke"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "Goodbye Forever",
+      "url": "https://open.spotify.com/track/3SPNVZvfdJBzvAqzx6szsv"
+    },
+    {
+      "added_at": "2022-10-01 13:13:55",
+      "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 289706,
+      "name": "Fuck You Aurora",
+      "url": "https://open.spotify.com/track/5a9yyZE83UskiAlIsQR7Lz"
     }
   ],
   "unique_name": "This Is Alkaline Trio",

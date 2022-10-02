@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1ArdWOMZjR.md) - [plain]
 
 > Now That's What I Call Netflix, Curated by Rebel Wilson from Senior Year\. Listen to her favorites from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,072 likes - 27 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,086 likes - 27 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

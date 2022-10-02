@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dJwhR3LtVd.md) - [plain]
 
 > Enjoy the JTBC drama 'Forecasting Love and Weather' OSTs in a different way with the special contents\. You can watch this drama on Netflix as well\. \(JTBC 드라마 '기상청 사람들'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요\. 넷플릭스에서도 기상청 사람들을 감상하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,077 likes - 22 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,080 likes - 22 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

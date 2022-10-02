@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 110627,
+  "num_followers": 110712,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2NzIwMCwwMDAwMDAwMDBkNWRiOGExYTc5MGRhYmRkNzQ1YTQxNDk2NWQ2NTM5",
+  "snapshot_id": "MTY2NDQ2NzIwMCwwMDAwMDAwMDE1YTYwM2NjNDdkMTZlMjVmY2UxMjBiYmZjODE2ZGZl",
   "tracks": [
     {
       "added_at": "2022-09-29 16:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-09-29 16:00:00",
       "album": {
+        "name": "\u6211\u548c\u6211\u7684\u5e03\u62c9\u59c6\u65af",
+        "url": "https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI"
+      },
+      "artists": [
+        {
+          "name": "Evan Yo",
+          "url": "https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV"
+        }
+      ],
+      "duration_ms": 266286,
+      "name": "\u5047\u7537\u53cb",
+      "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
+    },
+    {
+      "added_at": "2022-09-29 16:00:00",
+      "album": {
         "name": "\u84cb\u4e16\u82f1\u96c4",
         "url": "https://open.spotify.com/album/22pEd6RNnbso5XFaZoT0YF"
       },
@@ -331,18 +347,18 @@
     {
       "added_at": "2022-09-29 16:00:00",
       "album": {
-        "name": "\u6211\u548c\u6211\u7684\u5e03\u62c9\u59c6\u65af",
-        "url": "https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI"
+        "name": "\u6211\u8981\u7ed9\u4e16\u754c\u6700\u60a0\u957f\u7684\u6e7f\u543b",
+        "url": "https://open.spotify.com/album/2Rc3tGGee3zgEh1VKhXNbL"
       },
       "artists": [
         {
-          "name": "Evan Yo",
-          "url": "https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV"
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
         }
       ],
-      "duration_ms": 266286,
-      "name": "\u5047\u7537\u53cb",
-      "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
+      "duration_ms": 255891,
+      "name": "\u9057\u4e66",
+      "url": "https://open.spotify.com/track/3OAus00QiDUhoya5chQ2As"
     },
     {
       "added_at": "2022-09-29 16:00:00",
@@ -363,22 +379,6 @@
       "duration_ms": 216450,
       "name": "\u592a\u967d\u96e8",
       "url": "https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G"
-    },
-    {
-      "added_at": "2022-09-29 16:00:00",
-      "album": {
-        "name": "\u6211\u8981\u7ed9\u4e16\u754c\u6700\u60a0\u957f\u7684\u6e7f\u543b",
-        "url": "https://open.spotify.com/album/2Rc3tGGee3zgEh1VKhXNbL"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 255891,
-      "name": "\u9057\u4e66",
-      "url": "https://open.spotify.com/track/3OAus00QiDUhoya5chQ2As"
     },
     {
       "added_at": "2022-09-29 16:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-09-29 16:00:00",
       "album": {
-        "name": "\u660e\u5929\u518d\u898b",
-        "url": "https://open.spotify.com/album/1qcnrw6fl5BkdSkd5MNfhx"
-      },
-      "artists": [
-        {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
-        }
-      ],
-      "duration_ms": 202671,
-      "name": "\u660e\u5929\u518d\u898b",
-      "url": "https://open.spotify.com/track/6B80NMNDIYyA1YbiefVsSE"
-    },
-    {
-      "added_at": "2022-09-29 16:00:00",
-      "album": {
         "name": "If Only...",
         "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
+    },
+    {
+      "added_at": "2022-09-29 16:00:00",
+      "album": {
+        "name": "\u660e\u5929\u518d\u898b",
+        "url": "https://open.spotify.com/album/1qcnrw6fl5BkdSkd5MNfhx"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "duration_ms": 202671,
+      "name": "\u660e\u5929\u518d\u898b",
+      "url": "https://open.spotify.com/track/6B80NMNDIYyA1YbiefVsSE"
     },
     {
       "added_at": "2022-09-29 16:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-09-29 16:00:00",
       "album": {
-        "name": "\u6177\u6168",
-        "url": "https://open.spotify.com/album/2FGVVZHWr2Fs3iaUz2wIYg"
-      },
-      "artists": [
-        {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
-        }
-      ],
-      "duration_ms": 274022,
-      "name": "\u6177\u6168",
-      "url": "https://open.spotify.com/track/5JowA7cy6M1j3Wv6hhmKsC"
-    },
-    {
-      "added_at": "2022-09-29 16:00:00",
-      "album": {
         "name": "\u88dd\u5e40",
         "url": "https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 245000,
       "name": "\u88dd\u5e40",
       "url": "https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa"
+    },
+    {
+      "added_at": "2022-09-29 16:00:00",
+      "album": {
+        "name": "\u6177\u6168",
+        "url": "https://open.spotify.com/album/2FGVVZHWr2Fs3iaUz2wIYg"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        }
+      ],
+      "duration_ms": 274022,
+      "name": "\u6177\u6168",
+      "url": "https://open.spotify.com/track/5JowA7cy6M1j3Wv6hhmKsC"
     },
     {
       "added_at": "2022-09-29 16:00:00",
@@ -571,6 +571,22 @@
       "duration_ms": 270600,
       "name": "\u7686\u53ef",
       "url": "https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR"
+    },
+    {
+      "added_at": "2022-09-29 16:00:00",
+      "album": {
+        "name": "\u597d\u597d\u5c0d\u5f85\u5979",
+        "url": "https://open.spotify.com/album/3qAC5nzZ2eeyS3VqOoQ3Sj"
+      },
+      "artists": [
+        {
+          "name": "Rachel Liang",
+          "url": "https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp"
+        }
+      ],
+      "duration_ms": 278030,
+      "name": "\u597d\u597d\u5c0d\u5f85\u5979",
+      "url": "https://open.spotify.com/track/0ZnmSyvulI0c8a3YLXrvdO"
     },
     {
       "added_at": "2022-09-29 16:00:00",
@@ -623,22 +639,6 @@
     {
       "added_at": "2022-09-29 16:00:00",
       "album": {
-        "name": "LINK",
-        "url": "https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 207904,
-      "name": "\u804a\u804a\u5929",
-      "url": "https://open.spotify.com/track/4RXjaI2PMgp7SQ8sV5wVug"
-    },
-    {
-      "added_at": "2022-09-29 16:00:00",
-      "album": {
         "name": "\u73fe\u5728\u662f\u4ec0\u9ebc\u6642\u8fb0\u4e86",
         "url": "https://open.spotify.com/album/087F57aCMcaiIh4HUX9GcE"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 239711,
       "name": "\u73fe\u5728\u662f\u4ec0\u9ebc\u6642\u8fb0\u4e86",
       "url": "https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx"
+    },
+    {
+      "added_at": "2022-09-29 16:00:00",
+      "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 207904,
+      "name": "\u804a\u804a\u5929",
+      "url": "https://open.spotify.com/track/4RXjaI2PMgp7SQ8sV5wVug"
     },
     {
       "added_at": "2022-09-29 16:00:00",
@@ -683,6 +699,22 @@
       "duration_ms": 310933,
       "name": "\u966a\u8457\u4f60",
       "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
+    },
+    {
+      "added_at": "2022-09-29 16:00:00",
+      "album": {
+        "name": "\u96d9\u68f2\u52d5\u7269",
+        "url": "https://open.spotify.com/album/6g9c1fHNzNIVHZPP9YpDaF"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "duration_ms": 293833,
+      "name": "\u96d9\u68f2\u52d5\u7269",
+      "url": "https://open.spotify.com/track/03PKZKaaflLteXAbL58s2d"
     },
     {
       "added_at": "2022-09-29 16:00:00",
@@ -735,38 +767,6 @@
       "duration_ms": 226702,
       "name": "\u70ba\u4ec0\u9ebc\u53ea\u7559\u4e0b\u6211\u4e00\u500b",
       "url": "https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR"
-    },
-    {
-      "added_at": "2022-09-29 16:00:00",
-      "album": {
-        "name": "\u96d9\u68f2\u52d5\u7269",
-        "url": "https://open.spotify.com/album/6g9c1fHNzNIVHZPP9YpDaF"
-      },
-      "artists": [
-        {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
-        }
-      ],
-      "duration_ms": 293833,
-      "name": "\u96d9\u68f2\u52d5\u7269",
-      "url": "https://open.spotify.com/track/03PKZKaaflLteXAbL58s2d"
-    },
-    {
-      "added_at": "2022-09-29 16:00:00",
-      "album": {
-        "name": "\u597d\u597d\u5c0d\u5f85\u5979",
-        "url": "https://open.spotify.com/album/3qAC5nzZ2eeyS3VqOoQ3Sj"
-      },
-      "artists": [
-        {
-          "name": "Rachel Liang",
-          "url": "https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp"
-        }
-      ],
-      "duration_ms": 278030,
-      "name": "\u597d\u597d\u5c0d\u5f85\u5979",
-      "url": "https://open.spotify.com/track/0ZnmSyvulI0c8a3YLXrvdO"
     },
     {
       "added_at": "2022-09-29 16:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Discover fresh new Pakistani indie tracks\. Cover \- SAZGIR
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551 likes - 35 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,552 likes - 35 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 5 | [Cold Hours](https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Cold Hours](https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck) | 3:26 |
 | 6 | [Moments](https://open.spotify.com/track/3FBZKkI6HlymeqslLr77y0) | [Montego Scott](https://open.spotify.com/artist/6gEIEXGVZWurndyX5KaRdf), [Hammad Nadeem](https://open.spotify.com/artist/5VqjHYEOJkjgHabo2v4d73), [ABOVPS](https://open.spotify.com/artist/4CwUnmPNfNpOj3VJU9NcGV) | [Moments](https://open.spotify.com/album/7EA2metUK2dwzZjpr6cNtR) | 3:02 |
 | 7 | [Runaway](https://open.spotify.com/track/341CawFXKs3xpuLCLQRHxQ) | [Shabi](https://open.spotify.com/artist/2qw1k9QmIsWQ46Fds3Hmuh) | [On My Way](https://open.spotify.com/album/4XHvxhNX4gvQ8jZIL6YBcF) | 2:44 |
-| 8 | [What Do I Do?](https://open.spotify.com/track/29SIwmaJouU7AulXeCj6Sv) | [INAU](https://open.spotify.com/artist/69tioqoopLjbHZvMq2HGd4), [Amir Gray](https://open.spotify.com/artist/5DFrzxDemACrlYYFtQjexz) | [What Do I Do?](https://open.spotify.com/album/5RiowfWkXQB3xIvwS0fwpb) | 2:58 |
+| 8 | [What Do I Do?](https://open.spotify.com/track/29SIwmaJouU7AulXeCj6Sv) | [INAU](https://open.spotify.com/artist/69tioqoopLjbHZvMq2HGd4) | [What Do I Do?](https://open.spotify.com/album/5RiowfWkXQB3xIvwS0fwpb) | 2:58 |
 | 9 | [Udaasi](https://open.spotify.com/track/4W7evLIEkihTV2QqIUcD1S) | [Abdullah Iqbal](https://open.spotify.com/artist/48ZKUt3kU6toVDf7hkBWTy) | [Udaasi](https://open.spotify.com/album/033dcq2t2iWi8by7TMNjba) | 3:08 |
 | 10 | [Memento Mori](https://open.spotify.com/track/37J6lK3jByIxOK0zL2pCr6) | [2 Ace](https://open.spotify.com/artist/1MAb1dGcLKiipWf9D2Zbo5) | [Memento Mori](https://open.spotify.com/album/2VB2wwJC1ZOCHb6lx78kXx) | 2:50 |
 | 11 | [Zindabad 2.0](https://open.spotify.com/track/28S2diQ9ft9WmAz6rsHVV1) | [MeemAlif](https://open.spotify.com/artist/4NVAnWbnUQf01pRsYSBJ7X) | [Zindabad 2.0](https://open.spotify.com/album/4Ew1GlGmRXFmglAEY6Sg4A) | 1:40 |

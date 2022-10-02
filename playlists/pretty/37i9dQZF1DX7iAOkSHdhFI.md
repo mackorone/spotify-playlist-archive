@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iAOkSHdhFI.md) - [plain]
 
 > The rise of the world's most influential punk band.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,992 likes - 24 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,990 likes - 24 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

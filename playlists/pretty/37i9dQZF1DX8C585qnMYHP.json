@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: \u00d8rdop Wolkenscheidt Artwork: Thami Nabil",
-  "num_followers": 92679,
+  "num_followers": 92749,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDMyMTY1NiwwMDAwMDAwMGI4ZThiNmM1YWU4MWMwMmMzNjM0MDJjNjJhNGZjYWMw",
+  "snapshot_id": "MTY2NDMyMTY1NiwwMDAwMDAwMGVmZGMzZjkyMTY4MGQzOTg2ZDQ3ODI1MzI3YTM5MjA2",
   "tracks": [
     {
       "added_at": "2022-09-07 04:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-08-24 01:37:13",
       "album": {
-        "name": "Theory",
-        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
-      },
-      "artists": [
-        {
-          "name": "TAKA",
-          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
-        }
-      ],
-      "duration_ms": 238846,
-      "name": "deaf",
-      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
-    },
-    {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
         "name": "Pause",
         "url": "https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 289371,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC"
+    },
+    {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "Theory",
+        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
+      },
+      "artists": [
+        {
+          "name": "TAKA",
+          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
+        }
+      ],
+      "duration_ms": 238846,
+      "name": "deaf",
+      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
     },
     {
       "added_at": "2022-09-27 23:34:16",
@@ -445,6 +445,22 @@
       "url": "https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j"
     },
     {
+      "added_at": "2022-09-21 02:54:10",
+      "album": {
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 135773,
+      "name": "Trececerotres",
+      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
+    },
+    {
       "added_at": "2022-08-24 01:37:13",
       "album": {
         "name": "The Distance Between Heart And Mouth",
@@ -479,22 +495,6 @@
       "duration_ms": 233514,
       "name": "Vizio",
       "url": "https://open.spotify.com/track/3obbCnT8ZoQBfJBMyrLoEW"
-    },
-    {
-      "added_at": "2022-09-21 02:54:10",
-      "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Trececerotres",
-      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
     },
     {
       "added_at": "2022-09-21 02:54:10",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-08-31 04:02:01",
       "album": {
-        "name": "Oneness",
-        "url": "https://open.spotify.com/album/7DGJmmGtu8zyHxfMto6G18"
-      },
-      "artists": [
-        {
-          "name": "Teielte",
-          "url": "https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU"
-        }
-      ],
-      "duration_ms": 181366,
-      "name": "Oneness",
-      "url": "https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE"
-    },
-    {
-      "added_at": "2022-08-31 04:02:01",
-      "album": {
         "name": "Fiber",
         "url": "https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2022-08-31 04:02:01",
       "album": {
+        "name": "Oneness",
+        "url": "https://open.spotify.com/album/7DGJmmGtu8zyHxfMto6G18"
+      },
+      "artists": [
+        {
+          "name": "Teielte",
+          "url": "https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU"
+        }
+      ],
+      "duration_ms": 181366,
+      "name": "Oneness",
+      "url": "https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE"
+    },
+    {
+      "added_at": "2022-08-31 04:02:01",
+      "album": {
         "name": "J\u00e4rnn\u00e4tter",
         "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
       },
@@ -611,6 +611,46 @@
       "duration_ms": 74304,
       "name": "B3",
       "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
+    },
+    {
+      "added_at": "2022-09-21 02:54:10",
+      "album": {
+        "name": "The Metallic Index / Pulsion (Nurse on Train)",
+        "url": "https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv"
+      },
+      "artists": [
+        {
+          "name": "Fenella",
+          "url": "https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R"
+        },
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 94632,
+      "name": "The Metallic Index",
+      "url": "https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO"
+    },
+    {
+      "added_at": "2022-09-21 02:54:10",
+      "album": {
+        "name": "Castlefields",
+        "url": "https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin",
+          "url": "https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6"
+        },
+        {
+          "name": "Sunny Joe Paradisos",
+          "url": "https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI"
+        }
+      ],
+      "duration_ms": 494686,
+      "name": "Castlefields",
+      "url": "https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -647,46 +687,6 @@
       "duration_ms": 104544,
       "name": "DOG",
       "url": "https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy"
-    },
-    {
-      "added_at": "2022-09-21 02:54:10",
-      "album": {
-        "name": "Castlefields",
-        "url": "https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin",
-          "url": "https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6"
-        },
-        {
-          "name": "Sunny Joe Paradisos",
-          "url": "https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI"
-        }
-      ],
-      "duration_ms": 494686,
-      "name": "Castlefields",
-      "url": "https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov"
-    },
-    {
-      "added_at": "2022-09-21 02:54:10",
-      "album": {
-        "name": "The Metallic Index / Pulsion (Nurse on Train)",
-        "url": "https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv"
-      },
-      "artists": [
-        {
-          "name": "Fenella",
-          "url": "https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R"
-        },
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 94632,
-      "name": "The Metallic Index",
-      "url": "https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO"
     },
     {
       "added_at": "2022-08-10 04:00:00",
@@ -769,54 +769,6 @@
       "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
     },
     {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "4 Ya Kiss / 4 Ya Bliss",
-        "url": "https://open.spotify.com/album/1m5Fdo7XNGZ8TunvSg948H"
-      },
-      "artists": [
-        {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
-        }
-      ],
-      "duration_ms": 247488,
-      "name": "4 Ya Kiss",
-      "url": "https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "Betsu No Jikan",
-        "url": "https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu"
-      },
-      "artists": [
-        {
-          "name": "Okada Takuro",
-          "url": "https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm"
-        }
-      ],
-      "duration_ms": 352593,
-      "name": "A Love Supreme",
-      "url": "https://open.spotify.com/track/6ZjiUUaTWTeKCkHZK3NBQs"
-    },
-    {
-      "added_at": "2022-09-14 04:00:00",
-      "album": {
-        "name": "Enduring Oceans",
-        "url": "https://open.spotify.com/album/2SqcnkYiYdPFVWov1hUUPA"
-      },
-      "artists": [
-        {
-          "name": "Jessica Moss",
-          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Enduring Oceans",
-      "url": "https://open.spotify.com/track/2vKQQtN9S1mqX3py7FvQ9Z"
-    },
-    {
       "added_at": "2022-09-21 02:54:10",
       "album": {
         "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 (Flora Wong Remix)",
@@ -839,6 +791,54 @@
       "duration_ms": 201600,
       "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 - Flora Wong Remix",
       "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
+        "name": "Betsu No Jikan",
+        "url": "https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu"
+      },
+      "artists": [
+        {
+          "name": "Okada Takuro",
+          "url": "https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm"
+        }
+      ],
+      "duration_ms": 352593,
+      "name": "A Love Supreme",
+      "url": "https://open.spotify.com/track/6ZjiUUaTWTeKCkHZK3NBQs"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
+        "name": "4 Ya Kiss / 4 Ya Bliss",
+        "url": "https://open.spotify.com/album/1m5Fdo7XNGZ8TunvSg948H"
+      },
+      "artists": [
+        {
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+        }
+      ],
+      "duration_ms": 247488,
+      "name": "4 Ya Kiss",
+      "url": "https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN"
+    },
+    {
+      "added_at": "2022-09-14 04:00:00",
+      "album": {
+        "name": "Enduring Oceans",
+        "url": "https://open.spotify.com/album/2SqcnkYiYdPFVWov1hUUPA"
+      },
+      "artists": [
+        {
+          "name": "Jessica Moss",
+          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Enduring Oceans",
+      "url": "https://open.spotify.com/track/2vKQQtN9S1mqX3py7FvQ9Z"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

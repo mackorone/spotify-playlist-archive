@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Hey! We're HEL from  <a href="https://twitter.com/g2esports?s=21&t=1P2wGvaSfky1fK0aJfM\_Gg">G2</a>  and this is what we listen to while collecting trophies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,141 likes - 69 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,180 likes - 69 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

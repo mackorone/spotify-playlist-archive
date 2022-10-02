@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes. Cover:  JAY-Z & Linkin Park",
-  "num_followers": 139471,
+  "num_followers": 139750,
   "original_name": "I Love Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE5MzQ4NiwwMDAwMDAwMDY3MDU1YjJjNTdhOWJhODk3YTM3ZTBlODJmYWYxODky",
+  "snapshot_id": "MTY2NDE5MzQ4NiwwMDAwMDAwMGQ5OTE1Nzc1MjcxZTI2NGNiZDk3MzZhOGEyNjVjNTYw",
   "tracks": [
     {
       "added_at": "2022-04-29 20:15:10",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Nobody's Listening",
-      "url": "https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
         "name": "Give The Drummer Some (Deluxe)",
         "url": "https://open.spotify.com/album/6t4AZ1h46ksEZiKLjh7oes"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "Nobody's Listening",
+      "url": "https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
         "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "In Search Of...",
-        "url": "https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI"
-      },
-      "artists": [
-        {
-          "name": "N.E.R.D",
-          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/2OQfyddAKv4FyelDJjGNHH"
-    },
-    {
-      "added_at": "2022-04-29 20:15:10",
-      "album": {
         "name": "Punk Goes 90's, Vol. 2",
         "url": "https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 234933,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/5zXln9RP9AYK3eva2Lkj8w"
+    },
+    {
+      "added_at": "2022-04-29 20:15:10",
+      "album": {
+        "name": "In Search Of...",
+        "url": "https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        }
+      ],
+      "duration_ms": 259493,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/2OQfyddAKv4FyelDJjGNHH"
     },
     {
       "added_at": "2022-04-29 20:15:10",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-04-29 20:15:10",
       "album": {
-        "name": "Crooked Teeth (Deluxe)",
-        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
         }
       ],
-      "duration_ms": 227749,
-      "name": "Sunrise Trailer Park (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/19glo6zeI6mUdELLmCIYq8"
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
     }
   ],
   "unique_name": "I Love Rap 'n' Roll",

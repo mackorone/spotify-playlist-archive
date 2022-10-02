@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 
 > Lo\-Fi, Beats, for Study and Focus\. Relax...
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,808 likes - 102 songs - 4 hr 8 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,807 likes - 102 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

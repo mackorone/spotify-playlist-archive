@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 1875,
+  "num_followers": 1877,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzcxOTkxMywwMDAwMDAwMDRhY2Q1NzlkM2Q5M2RiNzAzMTQzNjZhMjQzYjkxNzEx",
+  "snapshot_id": "MTY2MzcxOTkxMywwMDAwMDAwMDY5MWYzOWNjMjFmZGE1OWFkYTQxNzAxZThmNjYzOGRl",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Detective (II)",
-        "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 265200,
-      "name": "Exile on \u00c6r\u00f8",
-      "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "L'illustration Musicale",
         "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 370800,
       "name": "Delia Derbyshire",
       "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "The Detective (II)",
+        "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Exile on \u00c6r\u00f8",
+      "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Word as Power",
-        "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
-      },
-      "artists": [
-        {
-          "name": "Lustmord",
-          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
-        }
-      ],
-      "duration_ms": 601827,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 363843,
       "name": "A Curved Blade",
       "url": "https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "The Word as Power",
+        "url": "https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy"
+      },
+      "artists": [
+        {
+          "name": "Lustmord",
+          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
+        }
+      ],
+      "duration_ms": 601827,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -807,18 +807,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Lost Themes",
-        "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
+        "name": "Recordings from the \u00c5land Islands",
+        "url": "https://open.spotify.com/album/2vGukamccOX7WCqir66kWT"
       },
       "artists": [
         {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Marta Sofia Honer",
+          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
         }
       ],
-      "duration_ms": 284640,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi"
+      "duration_ms": 222400,
+      "name": "Under the Midnight Sun",
+      "url": "https://open.spotify.com/track/3OqqbGF64e51ooNpMAF9i5"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -839,22 +843,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Recordings from the \u00c5land Islands",
-        "url": "https://open.spotify.com/album/2vGukamccOX7WCqir66kWT"
+        "name": "Lost Themes",
+        "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
       },
       "artists": [
         {
-          "name": "Jeremiah Chiu",
-          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
-        },
-        {
-          "name": "Marta Sofia Honer",
-          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Under the Midnight Sun",
-      "url": "https://open.spotify.com/track/3OqqbGF64e51ooNpMAF9i5"
+      "duration_ms": 284640,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Translucent Communion",
-        "url": "https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl"
-      },
-      "artists": [
-        {
-          "name": "Vestigial",
-          "url": "https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV"
-        }
-      ],
-      "duration_ms": 316840,
-      "name": "Anthropic Uncreation",
-      "url": "https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Akrasia",
         "url": "https://open.spotify.com/album/2mpTyxf7rUWZh18pQw0rNo"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 431946,
       "name": "That Which Lies Beyond",
       "url": "https://open.spotify.com/track/25Dy49um1MbZVN96c1dS6m"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Translucent Communion",
+        "url": "https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl"
+      },
+      "artists": [
+        {
+          "name": "Vestigial",
+          "url": "https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV"
+        }
+      ],
+      "duration_ms": 316840,
+      "name": "Anthropic Uncreation",
+      "url": "https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP"
     },
     {
       "added_at": "2022-07-06 17:58:03",

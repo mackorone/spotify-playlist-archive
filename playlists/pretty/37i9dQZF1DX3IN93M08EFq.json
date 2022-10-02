@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 57164,
+  "num_followers": 57178,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDYwMmQyMmIwZGU3ODk0MDUzZTRjZWEzNTk1YTkzYzZl",
+  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDA3NmQ4ZTBjNzFiZmI2NDQ0ZDRlODRhYzIxOTM4ZTdh",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Shotter's Nation",
-        "url": "https://open.spotify.com/album/3riBfJ503oK9oDH4TRXWfF"
-      },
-      "artists": [
-        {
-          "name": "Babyshambles",
-          "url": "https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Delivery",
-      "url": "https://open.spotify.com/track/5T9ir6tlqhhbKVzIC0ssbs"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/566D06wiMbyLObuhYOPFM5"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 205087,
       "name": "Jonny Boy",
       "url": "https://open.spotify.com/track/1TWtyAi8boF1JbzWpFMChL"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Shotter's Nation",
+        "url": "https://open.spotify.com/album/3riBfJ503oK9oDH4TRXWfF"
+      },
+      "artists": [
+        {
+          "name": "Babyshambles",
+          "url": "https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Delivery",
+      "url": "https://open.spotify.com/track/5T9ir6tlqhhbKVzIC0ssbs"
     }
   ],
   "unique_name": "Spela Shoreline!",

@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002cover: \u6851\u539f\u3042\u3044",
-  "num_followers": 17460,
+  "num_followers": 17486,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI5MDgwMCwwMDAwMDAwMDFlZDVmYjg3MmZmNWQzZTlhMzkzMmZhOWZmNjRkNGJl",
+  "snapshot_id": "MTY2NDI5MDgwMCwwMDAwMDAwMGNmYzM0YzdhNDc0NmYyNDc4Zjg3YTNhNjQxNTNjMDk2",
   "tracks": [
     {
       "added_at": "2022-09-27 15:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "Orange Mug",
-        "url": "https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS"
-      },
-      "artists": [
-        {
-          "name": "WONK",
-          "url": "https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE"
-        }
-      ],
-      "duration_ms": 218906,
-      "name": "Orange Mug",
-      "url": "https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
         "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
         "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 256360,
       "name": "\u4e59\u5973\u306e\u7948\u308a",
       "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "Orange Mug",
+        "url": "https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS"
+      },
+      "artists": [
+        {
+          "name": "WONK",
+          "url": "https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE"
+        }
+      ],
+      "duration_ms": 218906,
+      "name": "Orange Mug",
+      "url": "https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
+        "name": "NEW",
+        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
+      },
+      "artists": [
+        {
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+        }
+      ],
+      "duration_ms": 293920,
+      "name": "MotherLake",
+      "url": "https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
         "name": "Confirmation",
         "url": "https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 295176,
       "name": "Confirmation",
       "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
-        "name": "NEW",
-        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
-      },
-      "artists": [
-        {
-          "name": "JABBERLOOP",
-          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
-        }
-      ],
-      "duration_ms": 293920,
-      "name": "MotherLake",
-      "url": "https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
+        "name": "NEW",
+        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
+      },
+      "artists": [
+        {
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Red Ocean",
+      "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
         "name": "UNITY",
         "url": "https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 253413,
       "name": "Japan Beauty",
       "url": "https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
-        "name": "Betsu No Jikan",
-        "url": "https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu"
-      },
-      "artists": [
-        {
-          "name": "Okada Takuro",
-          "url": "https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm"
-        }
-      ],
-      "duration_ms": 345135,
-      "name": "If Sea Could Sing",
-      "url": "https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT"
     }
   ],
   "unique_name": "Modern Jazz Japan",

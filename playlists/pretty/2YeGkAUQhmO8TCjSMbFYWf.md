@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YeGkAUQhmO8TCjSMbFYWf.md) - [plain]
 
 > Honor your body, fuel your mind\. Love Life\. Live Yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,476 likes - 22 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,475 likes - 22 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

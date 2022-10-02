@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > NATIVE mag and Ghana National football team's Kofi Kyereh bring us their favorite pregame tracks ahead of the Ghana Vs Nigeria World Cup qualifiers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,384 likes - 43 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385 likes - 43 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

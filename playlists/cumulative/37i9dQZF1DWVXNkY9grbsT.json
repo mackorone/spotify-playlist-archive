@@ -3382,6 +3382,24 @@
     },
     {
       "album": {
+        "name": "Remembranza",
+        "url": "https://open.spotify.com/album/7daEEsVemtGgl9NONjmBZk"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546986,
+      "name": "Reflejo",
+      "url": "https://open.spotify.com/track/6555TzyEWY0FMiR8QKKXIg"
+    },
+    {
+      "album": {
         "name": "Relacional",
         "url": "https://open.spotify.com/album/29Jd8KosRaZANCLxCg77dw"
       },
@@ -3535,7 +3553,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 170000,
       "name": "R\u00e9gime des Fleurs",
       "url": "https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp"

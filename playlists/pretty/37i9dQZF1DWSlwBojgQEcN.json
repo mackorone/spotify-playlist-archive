@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1723525,
+  "num_followers": 1723668,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg3NDk0MCwwMDAwMDAwMGE5MDA4YzAxNDUwOGIzMmRkMjY2MmM5MmIyNTA0Mjhm",
+  "snapshot_id": "MTY0NDg3NDk0MCwwMDAwMDAwMGQwYjRmMzQ4OTgyMjNlOTY5ZWIyMjg3OTBkYWY0MzI5",
   "tracks": [
     {
       "added_at": "2022-02-14 19:06:03",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
+        "name": "Be Slow",
+        "url": "https://open.spotify.com/album/4bONIjnWMhvhJlgGHqTgY7"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 216596,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/6gvcXUbaSTH7qqHxPBkvb2"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "Be Slow",
-        "url": "https://open.spotify.com/album/4bONIjnWMhvhJlgGHqTgY7"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
       },
       "artists": [
         {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
         }
       ],
-      "duration_ms": 216596,
+      "duration_ms": 211517,
       "name": "With You",
-      "url": "https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt"
+      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -695,22 +711,6 @@
       "duration_ms": 136542,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/1YnLthg0HOs8YTzgN5hVh2"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 211517,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "Beulah",
-        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
-      },
-      "artists": [
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        }
-      ],
-      "duration_ms": 243012,
-      "name": "Hate The Way You Love Me",
-      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 229960,
       "name": "No Right To Love You - Acoustic",
       "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
+        "name": "Beulah",
+        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
+      },
+      "artists": [
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "duration_ms": 243012,
+      "name": "Hate The Way You Love Me",
+      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "Rise & Fall (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4fOKz3KUUtSOSIJSWbS8MG"
-      },
-      "artists": [
-        {
-          "name": "The Sweeplings",
-          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
-        }
-      ],
-      "duration_ms": 244520,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/3XWy3NVtRtrL6BCQl8PRD5"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
         "name": "Theatrics",
         "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 218332,
       "name": "By Night",
       "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
+        "name": "Rise & Fall (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4fOKz3KUUtSOSIJSWbS8MG"
+      },
+      "artists": [
+        {
+          "name": "The Sweeplings",
+          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
+        }
+      ],
+      "duration_ms": 244520,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/3XWy3NVtRtrL6BCQl8PRD5"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "Reckless Lover (Acoustic)",
-        "url": "https://open.spotify.com/album/20cMOMSw2TBjDcY1QYJmqX"
-      },
-      "artists": [
-        {
-          "name": "Handsome Ghost",
-          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
-        }
-      ],
-      "duration_ms": 240579,
-      "name": "Reckless Lover - Acoustic",
-      "url": "https://open.spotify.com/track/3cmcy7BwekXhIzysIdhLng"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
         "name": "Not Even Happiness",
         "url": "https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 242387,
       "name": "Follow My Voice",
       "url": "https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
+        "name": "Reckless Lover (Acoustic)",
+        "url": "https://open.spotify.com/album/20cMOMSw2TBjDcY1QYJmqX"
+      },
+      "artists": [
+        {
+          "name": "Handsome Ghost",
+          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
+        }
+      ],
+      "duration_ms": 240579,
+      "name": "Reckless Lover - Acoustic",
+      "url": "https://open.spotify.com/track/3cmcy7BwekXhIzysIdhLng"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "The Colder Months",
-        "url": "https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1"
-      },
-      "artists": [
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "1,000 Years",
-      "url": "https://open.spotify.com/track/22uyZjmZR0DX8FyrIwQl35"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
         "name": "Eastmountainsouth",
         "url": "https://open.spotify.com/album/5koo8CoRJwXO8sfemLf5Gp"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 117760,
       "name": "So Are You To Me",
       "url": "https://open.spotify.com/track/5IGYPdHMSG4PLXDS9LDPJS"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
+        "name": "The Colder Months",
+        "url": "https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "1,000 Years",
+      "url": "https://open.spotify.com/track/22uyZjmZR0DX8FyrIwQl35"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
+        "name": "Jade Bird",
+        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 207936,
+      "name": "Does Anybody Know",
+      "url": "https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 281200,
       "name": "My Sweet Refuge",
       "url": "https://open.spotify.com/track/0PjNDvcERee30Gvr5OCCHz"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
-        "name": "Jade Bird",
-        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 207936,
-      "name": "Does Anybody Know",
-      "url": "https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "Shoreline",
-        "url": "https://open.spotify.com/album/1sGcdhKt79CBvPDcpD4phz"
-      },
-      "artists": [
-        {
-          "name": "Andrew James",
-          "url": "https://open.spotify.com/artist/6xX1Zl1ebx9oUiIr8iK5HU"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "I Can't Keep from Loving You",
-      "url": "https://open.spotify.com/track/3Ww0uch4dwJm70ltCT9pJ2"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
         "name": "The Tides",
         "url": "https://open.spotify.com/album/4L0K6IA83m6hrJNVgkmIKU"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 233845,
       "name": "Love You True",
       "url": "https://open.spotify.com/track/73EaA3mjNHgsIiFrm2hZzV"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
+        "name": "Shoreline",
+        "url": "https://open.spotify.com/album/1sGcdhKt79CBvPDcpD4phz"
+      },
+      "artists": [
+        {
+          "name": "Andrew James",
+          "url": "https://open.spotify.com/artist/6xX1Zl1ebx9oUiIr8iK5HU"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "I Can't Keep from Loving You",
+      "url": "https://open.spotify.com/track/3Ww0uch4dwJm70ltCT9pJ2"
     },
     {
       "added_at": "2022-02-14 19:06:03",

@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7293,
+  "num_followers": 7296,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDIyYzYxYTlkNzdmMjY4ZTgxYWE3M2Y0M2VjNmE5YmQ1",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGE0ZWJiNGFhZGM1YmU3YWRjNmQ0NDhmNmU2YTUzZmEz",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -431,22 +431,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "100% boeuf",
-        "url": "https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9p\u00e9 et sa guitare",
-          "url": "https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Poney",
-      "url": "https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Super-h\u00e9ros sous peu",
         "url": "https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 232280,
       "name": "Decoller - Remix",
       "url": "https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "100% boeuf",
+        "url": "https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9p\u00e9 et sa guitare",
+          "url": "https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Poney",
+      "url": "https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Rita-Rita",
-        "url": "https://open.spotify.com/album/5qSOmPrjjKPs5HGuPH6BHj"
-      },
-      "artists": [
-        {
-          "name": "Rita-Rita",
-          "url": "https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Je suis down",
-      "url": "https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Projet Orange",
         "url": "https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 236373,
       "name": "Myst\u00e8re a\u00e9rosol",
       "url": "https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Rita-Rita",
+        "url": "https://open.spotify.com/album/5qSOmPrjjKPs5HGuPH6BHj"
+      },
+      "artists": [
+        {
+          "name": "Rita-Rita",
+          "url": "https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Je suis down",
+      "url": "https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -607,22 +607,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "La Chango Family",
-        "url": "https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd"
-      },
-      "artists": [
-        {
-          "name": "La Chango Family",
-          "url": "https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Joyeus'ment d\u00e9sesp\u00e9r\u00e9",
-      "url": "https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Le Chihuahua",
         "url": "https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 279160,
       "name": "Le teint de Linda",
       "url": "https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "La Chango Family",
+        "url": "https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd"
+      },
+      "artists": [
+        {
+          "name": "La Chango Family",
+          "url": "https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Joyeus'ment d\u00e9sesp\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le Nombre",
-        "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
-      },
-      "artists": [
-        {
-          "name": "Le Nombre",
-          "url": "https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Laissez venir \u00e0 moi les grandes brunes",
-      "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Coma",
         "url": "https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 219800,
       "name": "Une araign\u00e9e au plafond",
       "url": "https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Le Nombre",
+        "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
+      },
+      "artists": [
+        {
+          "name": "Le Nombre",
+          "url": "https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Laissez venir \u00e0 moi les grandes brunes",
+      "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
     },
     {
       "added_at": "2020-06-23 14:47:30",

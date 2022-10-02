@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 177120,
       "name": "666",
       "url": "https://open.spotify.com/track/7aP68E6dMvQ54Mu41Omke4"
@@ -2132,6 +2132,24 @@
     },
     {
       "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -2601,6 +2619,28 @@
       "duration_ms": 176603,
       "name": "De Diepte",
       "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
+    },
+    {
+      "album": {
+        "name": "DEEP DOWN (feat. Costi)",
+        "url": "https://open.spotify.com/album/7DoCR048Uthto8y9NkYjOC"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185093,
+      "name": "DEEP DOWN (feat. Costi)",
+      "url": "https://open.spotify.com/track/2h9FYDFYIScQ4dHtsL70gn"
     },
     {
       "album": {
@@ -3717,7 +3757,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 265226,
       "name": "El\u00e4m\u00e4nlangat",
       "url": "https://open.spotify.com/track/5oeDBzoj2s7TH2kOsrc4q9"
@@ -6027,7 +6067,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 148227,
       "name": "Huulet",
       "url": "https://open.spotify.com/track/3ykcBY8IyEqv64shOyzWGW"
@@ -8220,6 +8260,28 @@
     },
     {
       "album": {
+        "name": "Kemiaa",
+        "url": "https://open.spotify.com/album/5nWTwnorJ27n1ntRJHxVyf"
+      },
+      "artists": [
+        {
+          "name": "Pyhimys",
+          "url": "https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm"
+        },
+        {
+          "name": "Figaro",
+          "url": "https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189245,
+      "name": "Kemiaa",
+      "url": "https://open.spotify.com/track/1hBl7KfkonH4LtACkJuhle"
+    },
+    {
+      "album": {
         "name": "Is\u00e4np\u00e4iv\u00e4",
         "url": "https://open.spotify.com/album/44wWP2jqL8yNuuqAm9TdJT"
       },
@@ -9277,7 +9339,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 129906,
       "name": "K\u00e4yt\u00f6stapoi (feat. william)",
       "url": "https://open.spotify.com/track/0JbfBxlJxSqjbI9vbzi4Vn"
@@ -9295,7 +9357,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 182090,
       "name": "K\u00e4\u00e4nt\u00f6puolii",
       "url": "https://open.spotify.com/track/5LIJUyoE2btHHMoBY43NbT"
@@ -10825,10 +10887,28 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 149142,
       "name": "Melankolia",
       "url": "https://open.spotify.com/track/0BffPiYcFL8DUgOfZSYEFh"
+    },
+    {
+      "album": {
+        "name": "Oi maamme Helsinki",
+        "url": "https://open.spotify.com/album/3oDSCPKRLQJoPY0Tf0ljlx"
+      },
+      "artists": [
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Melankolia",
+      "url": "https://open.spotify.com/track/3DBZ0kwm8q4OeMbEfb1n9r"
     },
     {
       "album": {
@@ -11704,6 +11784,24 @@
     },
     {
       "album": {
+        "name": "Rakkaus on kaikki, mit\u00e4 me tarvitaan",
+        "url": "https://open.spotify.com/album/3NAfC9rqwYJbraztycM2qh"
+      },
+      "artists": [
+        {
+          "name": "YOUNGHEARTED",
+          "url": "https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230034,
+      "name": "Mustangi",
+      "url": "https://open.spotify.com/track/3xomygtlWYp293pJ2CNgdp"
+    },
+    {
+      "album": {
         "name": "Elonmerkki",
         "url": "https://open.spotify.com/album/3VIBxVpl6k6Q0w9oIrPS0W"
       },
@@ -12043,7 +12141,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 209847,
       "name": "Nautin el\u00e4m\u00e4st\u00e4",
       "url": "https://open.spotify.com/track/7dbbNqmww8vd8cPSvBs52o"
@@ -12479,6 +12577,24 @@
       "duration_ms": 240635,
       "name": "Nuku hyvin, Angelique",
       "url": "https://open.spotify.com/track/60V7U4XEUM6irFQrBC0nu5"
+    },
+    {
+      "album": {
+        "name": "N\u00e4iden t\u00e4htien alla",
+        "url": "https://open.spotify.com/album/0eJFW5pm8DaRo6DuObgu4K"
+      },
+      "artists": [
+        {
+          "name": "WIL",
+          "url": "https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149673,
+      "name": "N\u00e4iden t\u00e4htien alla",
+      "url": "https://open.spotify.com/track/4RjP1NfFGbCF4rFY298jnA"
     },
     {
       "album": {
@@ -15450,6 +15566,32 @@
     },
     {
       "album": {
+        "name": "Oi maamme Helsinki",
+        "url": "https://open.spotify.com/album/3oDSCPKRLQJoPY0Tf0ljlx"
+      },
+      "artists": [
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        },
+        {
+          "name": "Victor Nordis",
+          "url": "https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190740,
+      "name": "Skene",
+      "url": "https://open.spotify.com/track/0IghJnHZCrilFytSASVTri"
+    },
+    {
+      "album": {
         "name": "Sleigh Ride",
         "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
       },
@@ -17254,6 +17396,28 @@
     },
     {
       "album": {
+        "name": "Tippa-T",
+        "url": "https://open.spotify.com/album/4DaSkc8aIg2Kqk7vqdwoDo"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Tippa-T",
+      "url": "https://open.spotify.com/track/6qverLcFcryBhJBgomIZjw"
+    },
+    {
+      "album": {
         "name": "Music Is The Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/5pmiFuzEtKlwWQhy5irJIJ"
       },
@@ -18335,7 +18499,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 158193,
       "name": "Vainois",
       "url": "https://open.spotify.com/track/33DB1mfU2H8dJe7ZhpkTBC"

@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: DJ Roger Vale, Brunno Ramos",
-  "num_followers": 87513,
+  "num_followers": 87551,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MzQxNywwMDAwMDAwMDgzMjg4YmQ4ZTc1ZDc5ZThiNjdmZTg2ZDQ2ZWIxNDE1",
+  "snapshot_id": "MTY2NDU0MzQxNywwMDAwMDAwMDgxOTFmZjQ0OWMzNDQ3NTZmMmRjNzFjNDQyZDk3NzA4",
   "tracks": [
     {
       "added_at": "2022-09-02 14:39:43",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-09-02 14:39:43",
       "album": {
+        "name": "Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 151330,
+      "name": "Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
+    },
+    {
+      "added_at": "2022-09-02 14:39:43",
+      "album": {
         "name": "Controle",
         "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 247862,
       "name": "Controle",
       "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
-    },
-    {
-      "added_at": "2022-09-02 14:39:43",
-      "album": {
-        "name": "Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 151330,
-      "name": "Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
     },
     {
-      "added_at": "2022-10-01 02:01:59",
+      "added_at": "2022-10-02 01:58:08",
       "album": {
         "name": "Madrugada",
         "url": "https://open.spotify.com/album/5DzTLUVAtN3sEvFsZFuv3Y"
@@ -1473,7 +1473,7 @@
       "url": "https://open.spotify.com/track/372pDKUw7zbXPxEyxmAJ8K"
     },
     {
-      "added_at": "2022-10-01 02:01:59",
+      "added_at": "2022-10-02 01:58:08",
       "album": {
         "name": "Balan\u00e7a: Remixes",
         "url": "https://open.spotify.com/album/487SwfT2EM1BQwVhzNZSBf"

@@ -1,12 +1,12 @@
 {
   "description": "Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.",
-  "num_followers": 1350088,
+  "num_followers": 1350207,
   "original_name": "The Sweet Suite",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NzI0MSwwMDAwMDAwMDcwZjNiM2MzZGYzNDEwNDBiM2E4ZDYxNDM1ZGRlYWYz",
+  "snapshot_id": "MTY2Mzk0NzI0MSwwMDAwMDAwMDFkZmUzMzVhZjJkZjliYTZiZjAyYTQyMWE1Mjk0MjVl",
   "tracks": [
     {
       "added_at": "2022-03-14 19:51:21",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-03-14 19:51:21",
       "album": {
-        "name": "Blind Man",
-        "url": "https://open.spotify.com/album/5CN0cIlAqXEKvG46FEHp0X"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 242195,
-      "name": "Blind Man",
-      "url": "https://open.spotify.com/track/0DQQRJ4sR3pxwom9L7D7QR"
-    },
-    {
-      "added_at": "2022-03-14 19:51:21",
-      "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 242386,
       "name": "Lady Love",
       "url": "https://open.spotify.com/track/2ydBZKZD2nr7XTd64E2AVg"
+    },
+    {
+      "added_at": "2022-03-14 19:51:21",
+      "album": {
+        "name": "Blind Man",
+        "url": "https://open.spotify.com/album/5CN0cIlAqXEKvG46FEHp0X"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 242195,
+      "name": "Blind Man",
+      "url": "https://open.spotify.com/track/0DQQRJ4sR3pxwom9L7D7QR"
     },
     {
       "added_at": "2022-03-14 19:51:21",

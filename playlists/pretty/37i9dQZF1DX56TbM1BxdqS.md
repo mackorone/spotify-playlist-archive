@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TbM1BxdqS.md) - [plain]
 
 > Remembering the showman Raj Kapoor with these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,634 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,643 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Marvvila e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,689 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,695 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 20 | [Jogo de Aposta](https://open.spotify.com/track/3dGZE3ALCdLynbwJQ05fKy) | [Jecy](https://open.spotify.com/artist/10RqlMm59EFKFeUc9LA1Uv) | [Jogo de Aposta](https://open.spotify.com/album/5ZPL8STC4NCBb7ms7vyJL0) | 2:46 |
 | 21 | [Tendência](https://open.spotify.com/track/4SaKd5ZIIF4X8yIbcacF5E) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Nasci Pra Sonhar](https://open.spotify.com/album/01zbo1QdyYqUFb9nB9841a) | 3:51 |
 | 22 | [Queda Livre](https://open.spotify.com/track/5wLOJe5YV4QSUHNVqzUXLe) | [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Queda Livre](https://open.spotify.com/album/7fRdi8fYU5RlYtpq2e7z5Z) | 3:25 |
-| 23 | [Samba Pras Moças / O Dono da Dor / Quando a Gira Girou / Minha Fé / Quem É Ela / Água da Minha Sede / Malandro Que Sou \- Ao Vivo](https://open.spotify.com/track/4gdVxwLqWBbVSVtr1GKyZa) | [Grupo Entre Elas](https://open.spotify.com/artist/1uf5VoVElqaxoJ4dZ7EC9X) | [Samba Pras Moças \(Ao Vivo\)](https://open.spotify.com/album/5kaxmvzfGTuyJVY384066S) | 17:38 |
-| 24 | [Por Educação](https://open.spotify.com/track/4qJ0eu8F8ejjUADFnSZP2p) | [Sara Lachine](https://open.spotify.com/artist/2nApUfqw3hOMna07BH4wLx) | [Por Educação](https://open.spotify.com/album/1mrtOQ3Ar4nu0Q9t7J0cIf) | 2:59 |
+| 23 | [Por Educação](https://open.spotify.com/track/4qJ0eu8F8ejjUADFnSZP2p) | [Sara Lachine](https://open.spotify.com/artist/2nApUfqw3hOMna07BH4wLx) | [Por Educação](https://open.spotify.com/album/1mrtOQ3Ar4nu0Q9t7J0cIf) | 2:59 |
+| 24 | [Samba Pras Moças / O Dono da Dor / Quando a Gira Girou / Minha Fé / Quem É Ela / Água da Minha Sede / Malandro Que Sou \- Ao Vivo](https://open.spotify.com/track/4gdVxwLqWBbVSVtr1GKyZa) | [Grupo Entre Elas](https://open.spotify.com/artist/1uf5VoVElqaxoJ4dZ7EC9X) | [Samba Pras Moças \(Ao Vivo\)](https://open.spotify.com/album/5kaxmvzfGTuyJVY384066S) | 17:38 |
 | 25 | [Feito Pra Durar / Aquela Foto / 40 Graus de Amor \- Ao Vivo](https://open.spotify.com/track/1uiznImEj3P3ETamw5XuQW) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Marvvila na Área \(Ao Vivo\)](https://open.spotify.com/album/2g4R36g4rMzR8ST2xLQu39) | 4:36 |
 | 26 | [Feirinha da Pavuna \(Confusão de Legumes\)](https://open.spotify.com/track/1WVwzE16WxGYVydJSUhWq6) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Raça Brasileira](https://open.spotify.com/album/5PlGggcEBWwnyYSmhIKHbc) | 3:16 |
 | 27 | [Bloqueio de Tela](https://open.spotify.com/track/3Beaf8iLraVecf8GVI5vOI) | [Jecy](https://open.spotify.com/artist/10RqlMm59EFKFeUc9LA1Uv) | [Jogo de Aposta](https://open.spotify.com/album/3MlzpBy2aEJuIb0YEbGfpJ) | 2:47 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 30 | [Manda Áudio / Presentinho / Recaída](https://open.spotify.com/track/2hGjMSHnzloQGpZWEsIEAM) | [Karinah](https://open.spotify.com/artist/2fmAUYDODPfZav0wlyGnNb), [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml), [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Por Elas](https://open.spotify.com/album/2eUtuvJIhYIYIRRGvDscfm) | 5:10 |
 | 31 | [12 Meses](https://open.spotify.com/track/1MmLpsjCjRzf3trKPs04Tz) | [Renata Santiago](https://open.spotify.com/artist/350CZjxmwYrv1sTR2sdsDW) | [12 Meses](https://open.spotify.com/album/6YjDqcu2zMtpi0SM12eWKJ) | 3:43 |
 | 32 | [Amor Proibido](https://open.spotify.com/track/01rGGw86EzpKjGAqc6HsQy) | [Juliana Diniz](https://open.spotify.com/artist/51ksBr5oEDy7fgPfFXfWGv) | [Juliana Diniz](https://open.spotify.com/album/28eLOTtpuAKGQ2bjV3gEQM) | 2:54 |
-| 33 | [Me Entreguei](https://open.spotify.com/track/2nHhoThdclYZkM19ClLB82) | [Grupo Entre Elas](https://open.spotify.com/artist/1uf5VoVElqaxoJ4dZ7EC9X), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Me Entreguei](https://open.spotify.com/album/33yVVBMxiKZqw5ngQLgDod) | 3:15 |
-| 34 | [Como, Bebo e Choro](https://open.spotify.com/track/5FKEGrjxYdvjOuuHuJeC2I) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Como, Bebo e Choro](https://open.spotify.com/album/5GXaiUNlMbN0SApW3ow4zm) | 2:39 |
+| 33 | [Como, Bebo e Choro](https://open.spotify.com/track/5FKEGrjxYdvjOuuHuJeC2I) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Como, Bebo e Choro](https://open.spotify.com/album/5GXaiUNlMbN0SApW3ow4zm) | 2:39 |
+| 34 | [Me Entreguei](https://open.spotify.com/track/2nHhoThdclYZkM19ClLB82) | [Grupo Entre Elas](https://open.spotify.com/artist/1uf5VoVElqaxoJ4dZ7EC9X), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Me Entreguei](https://open.spotify.com/album/33yVVBMxiKZqw5ngQLgDod) | 3:15 |
 | 35 | [Príncipe Encantado](https://open.spotify.com/track/6mgPf1zvEz6UcL9eo9PstI) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [O Sonho Aconteceu](https://open.spotify.com/album/4IN34wxrPexRDjcqZQRXO7) | 3:05 |
 | 36 | [Em Qualquer Bar](https://open.spotify.com/track/5yJZDFjQwQaMhu5gx3jM6U) | [Roberta Gomes](https://open.spotify.com/artist/5V9zPUr8RgHZ8mxPKdKLB8) | [No Caminho do Samba](https://open.spotify.com/album/4rutwqoQJ5eFvjrQjf89NZ) | 3:00 |
 | 37 | [Lendas da Mata](https://open.spotify.com/track/71KOuSHRC1SkJcyowkPpwL) | [Aline Calixto](https://open.spotify.com/artist/3CtqQGt0S8sDVhei9MutSq) | [Meu Ziriguidum](https://open.spotify.com/album/4HdK1Z4HoPq5P9X22KfZMC) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Me Dá Medo](https://open.spotify.com/track/5auanW6AqfUOcb0m3Jp3mQ) | [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD) | [Amanda Amado](https://open.spotify.com/album/6R9hyoV5cGMA17yxlHFVWD) | 3:36 |
 | 50 | [É por Isso Que Eu Canto](https://open.spotify.com/track/3Rg8RMrxV4af6FrEtrGTF3) | [Deborah Vasconcellos](https://open.spotify.com/artist/3BOl8wZTxAxIto7R58oGwe) | [É por Isso Que Eu Canto](https://open.spotify.com/album/1UisqGFhgIvZeKIy0dcRnC) | 3:28 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDM4MzVhODYyZDVhNzg4N2U1N2IwOWYzMWYxZDJkOWQx`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDRmYzU1OTZlZGEwNGJmZDI1YThjZTk2OTgxNWRmOGFk`

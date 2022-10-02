@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-486 songs - 1 day 11 hr 34 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
+487 songs - 1 day 11 hr 38 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Better Off Dead](https://open.spotify.com/track/1b0ZaClJiGhdTRVHrzilES) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 2:37 | 2022-09-08 |  |
 | [Between Seventeen And Twenty](https://open.spotify.com/track/33vpBgjk5jRZbUdvYRaOFL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:17 | 2022-09-08 |  |
 | [Big Dipper](https://open.spotify.com/track/6OVzjUYXPUzhC2CHEo1UAk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:04 | 2022-09-08 |  |
+| [Billy And The Kids](https://open.spotify.com/track/7vAldmzJrI1td0TCCXOjt0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:25 | 2022-10-01 |  |
 | [Billy Bones And The White Bird](https://open.spotify.com/track/6vhdFKCPjLBcMvfrBEGRu4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:25 | 2022-09-08 |  |
 | [Birds](https://open.spotify.com/track/6wUgJcub5RD3PXGsmR53Uv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 3:52 | 2022-09-08 |  |
 | [Bite Your Lip \(Get Up And Dance!\)](https://open.spotify.com/track/3ABQtGJcxZHdMyqPbHTD95) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 6:43 | 2022-09-08 |  |
@@ -185,7 +186,7 @@
 | [House](https://open.spotify.com/track/18TTjRnZaLPB7h5qzp8GKu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 4:27 | 2022-09-08 |  |
 | [House Of Cards](https://open.spotify.com/track/37WuoKbmmHW33QJSfcjIK1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy \(Deluxe Edition\)](https://open.spotify.com/album/01sJklSgqDgyR7nlhnRcFA) | 3:12 | 2022-09-08 |  |
 | [Hymn 2000](https://open.spotify.com/track/4sh4ALvv53VAiq2D1yszYq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:29 | 2022-09-08 |  |
-| [I Am Your Robot \- Remastered 2003](https://open.spotify.com/track/6xxA33oKDP3URcaeCzEawr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:44 | 2022-09-28 |  |
+| [I Am Your Robot \- Remastered 2003](https://open.spotify.com/track/6xxA33oKDP3URcaeCzEawr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:44 | 2022-09-28 | 2022-10-02 |
 | [I Can't Go On Living Without You \- Arranged Band Version](https://open.spotify.com/track/0ptYmaU474xyGZ5Fr8hCP6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:57 | 2022-09-08 |  |
 | [I Can't Keep This From You](https://open.spotify.com/track/440GIX1uR5Ve8nPvek7W23) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:34 | 2022-09-08 |  |
 | [I Can't Steer My Heart Clear Of You](https://open.spotify.com/track/6m82xAYcFLVjQ4kSpcZI2K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 4:07 | 2022-09-08 |  |

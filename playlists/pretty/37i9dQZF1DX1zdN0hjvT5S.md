@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zdN0hjvT5S.md) - [plain]
 
 > <a href="spotify:artist:4qUoZ6ErhTYFhAI0W1iI9q">Ezekiel</a>'s track IDs\. Updated regularly\. Curated by Ezekiel\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,862 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,916 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

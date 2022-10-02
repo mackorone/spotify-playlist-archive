@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Leidy Murilho",
-  "num_followers": 53202,
+  "num_followers": 53256,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjE3MCwwMDAwMDAwMDhjODZhOTNkMzQ2MTQxMjU2NTA1ODNmOWE5ZmEyZjhk",
+  "snapshot_id": "MTY1OTY3MjE3MCwwMDAwMDAwMDY3NmU5NGVlZGE5ODVhMzIxN2YzNGU1MzNjZjFjYjg2",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:50",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "SL.27.4",
-        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 237209,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
         "name": "Pequenas Coisas",
         "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 159119,
       "name": "Pequenas Coisas",
       "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "SL.27.4",
+        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 237209,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -543,38 +543,6 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Ao Teu Lado (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0u1E6iC4UA69cVBHFSBkjk"
-      },
-      "artists": [
-        {
-          "name": "Esther Marcos",
-          "url": "https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF"
-        }
-      ],
-      "duration_ms": 222811,
-      "name": "Ao Teu Lado - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1uP31TFAG8a4VGwpE7w3yT"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Voc\u00ea Acredita?",
-        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        }
-      ],
-      "duration_ms": 194623,
-      "name": "Voc\u00ea Acredita?",
-      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
         "name": "Apenas Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
       },
@@ -595,6 +563,38 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
+        "name": "Voc\u00ea Acredita?",
+        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        }
+      ],
+      "duration_ms": 194623,
+      "name": "Voc\u00ea Acredita?",
+      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "Ao Teu Lado (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0u1E6iC4UA69cVBHFSBkjk"
+      },
+      "artists": [
+        {
+          "name": "Esther Marcos",
+          "url": "https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF"
+        }
+      ],
+      "duration_ms": 222811,
+      "name": "Ao Teu Lado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1uP31TFAG8a4VGwpE7w3yT"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
         "name": "Pai Nosso",
         "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 261200,
       "name": "Pai Nosso - Our Father",
       "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -643,6 +627,22 @@
       "duration_ms": 288008,
       "name": "Simplicidade",
       "url": "https://open.spotify.com/track/0yf88EGCVK7LAgGDvUsibf"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
+        "name": "Acoustic Sessions, Vol. 6",
+        "url": "https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 165954,
+      "name": "Plano B",
+      "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
         "name": "Amor Leal",
         "url": "https://open.spotify.com/album/2XNWrlxoCDchGediXzLTRd"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 182080,
       "name": "Amor Leal",
       "url": "https://open.spotify.com/track/6rrbLn49jsw8sdcCqdFgbN"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Acoustic Sessions, Vol. 6",
-        "url": "https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 165954,
-      "name": "Plano B",
-      "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Saudade de Cristo",
-        "url": "https://open.spotify.com/album/1kv7ArlbdgZl1s0Q0jVOb5"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio F4ces",
-          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
-        }
-      ],
-      "duration_ms": 296506,
-      "name": "Saudade de Cristo",
-      "url": "https://open.spotify.com/track/3MOEKrdqzMFBkNo7z49xhX"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
         "name": "Mostra-Me Tua Gl\u00f3ria",
         "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 230208,
       "name": "Mostra-Me Tua Gl\u00f3ria",
       "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "Saudade de Cristo",
+        "url": "https://open.spotify.com/album/1kv7ArlbdgZl1s0Q0jVOb5"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio F4ces",
+          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
+        }
+      ],
+      "duration_ms": 296506,
+      "name": "Saudade de Cristo",
+      "url": "https://open.spotify.com/track/3MOEKrdqzMFBkNo7z49xhX"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
+        "name": "Sinal de Aviso",
+        "url": "https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 195422,
+      "name": "Sinal de Aviso",
+      "url": "https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
         "name": "Azul do C\u00e9u",
         "url": "https://open.spotify.com/album/68akHXeQKYnjTELPGdV2JI"
       },
@@ -1119,34 +1135,18 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Sinal de Aviso",
-        "url": "https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI"
+        "name": "Vem Com Teu Esp\u00edrito",
+        "url": "https://open.spotify.com/album/2Zci8Uw9pwTctGoaorDbVj"
       },
       "artists": [
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
         }
       ],
-      "duration_ms": 195422,
-      "name": "Sinal de Aviso",
-      "url": "https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Teus Rios",
-        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
-        }
-      ],
-      "duration_ms": 194034,
-      "name": "Teus Rios",
-      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
+      "duration_ms": 168990,
+      "name": "Vem Com Teu Esp\u00edrito",
+      "url": "https://open.spotify.com/track/5eLUik7N6bsWvQ2rKPA7xz"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Vem Com Teu Esp\u00edrito",
-        "url": "https://open.spotify.com/album/2Zci8Uw9pwTctGoaorDbVj"
+        "name": "Teus Rios",
+        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
       },
       "artists": [
         {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
         }
       ],
-      "duration_ms": 168990,
-      "name": "Vem Com Teu Esp\u00edrito",
-      "url": "https://open.spotify.com/track/5eLUik7N6bsWvQ2rKPA7xz"
+      "duration_ms": 194034,
+      "name": "Teus Rios",
+      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "Me Leva Al\u00e9m",
-        "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
-      },
-      "artists": [
-        {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
-        }
-      ],
-      "duration_ms": 215061,
-      "name": "Me Leva Al\u00e9m",
-      "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
         "name": "Teu Calor",
         "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
-        "name": "GPS",
-        "url": "https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b"
+        "name": "Me Leva Al\u00e9m",
+        "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
         }
       ],
-      "duration_ms": 215057,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9"
+      "duration_ms": 215061,
+      "name": "Me Leva Al\u00e9m",
+      "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
     },
     {
       "added_at": "2022-08-05 04:02:50",
@@ -1335,6 +1319,42 @@
     {
       "added_at": "2022-08-05 04:02:50",
       "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+        }
+      ],
+      "duration_ms": 215057,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
+        "name": "Teu Calor (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY"
+      },
+      "artists": [
+        {
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 224083,
+      "name": "Teu Calor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS"
+    },
+    {
+      "added_at": "2022-08-05 04:02:50",
+      "album": {
         "name": "Manuscrito",
         "url": "https://open.spotify.com/album/4sQnOzkB97HBeG2AmYMGLB"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 186947,
       "name": "Eu S\u00f3 Pe\u00e7o a Deus",
       "url": "https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios"
-    },
-    {
-      "added_at": "2022-08-05 04:02:50",
-      "album": {
-        "name": "Teu Calor (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY"
-      },
-      "artists": [
-        {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 224083,
-      "name": "Teu Calor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS"
     },
     {
       "added_at": "2022-08-05 04:02:50",

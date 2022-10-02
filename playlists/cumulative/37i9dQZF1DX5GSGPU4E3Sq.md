@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-258 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+259 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Spain](https://open.spotify.com/track/6A4RctQaBHHU9dmhecNgQy) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [S&S Presents: Dreams](https://open.spotify.com/album/6GSkekvuFxgPhTRNCYeADr) | 4:46 | 2022-06-29 | 2022-07-29 |
 | [Spain](https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [Spain](https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL) | 4:46 | 2022-07-19 |  |
 | [Sparrow Meadow](https://open.spotify.com/track/1pYCC6TVtgVxumhsLNplbu) | [Min Sosa](https://open.spotify.com/artist/4kWvX0IhUr9j3XAM8RITX0) | [Sparrow Meadow](https://open.spotify.com/album/2kJFfzwMj8jdiXJ4OjBZc2) | 3:02 | 2022-06-29 | 2022-07-29 |
+| [Spectral Morning](https://open.spotify.com/track/2FA54LO1o2JPZSElOdru9V) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/2gCK8eweTlSCMeZ3vyeSDN) | 4:00 | 2022-09-13 |  |
 | [Spectral Morning](https://open.spotify.com/track/58BwA9Le9wc2DuQtvmd4lf) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/0ZXFCRHBPXXdD9QScxkL1z) | 4:00 | 2022-06-29 | 2022-07-29 |
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-06-29 |  |
 | [String of Raindrops](https://open.spotify.com/track/5vosryofCmhWtisU0mLzy2) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [Catalogue of Emotions](https://open.spotify.com/album/6tzjxQtM9gj0aZy6WsYu4i) | 3:10 | 2022-06-29 |  |
@@ -252,7 +253,7 @@
 | [Tranquillity](https://open.spotify.com/track/4SicYFBGOGcfRHUG7YvJdg) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Tranquillity](https://open.spotify.com/album/1EvF3Q8ZtqnOTKmjsbwvi0) | 3:21 | 2022-06-29 | 2022-07-29 |
 | [Transcendental Heart](https://open.spotify.com/track/0jNgAQRBtZ3YxG4DdlXolj) | [The Silent Minds](https://open.spotify.com/artist/5ioN868FnXtLM7eIwNqZtq) | [Transcendental Heart](https://open.spotify.com/album/6h3JRnJcVZsSZdaz8H3SXP) | 2:21 | 2022-06-29 | 2022-07-29 |
 | [Transcendental Heart](https://open.spotify.com/track/7dTF8LqhdDLJDwCCxnWoaJ) | [The Silent Minds](https://open.spotify.com/artist/5ioN868FnXtLM7eIwNqZtq) | [Transcendental Heart](https://open.spotify.com/album/3BNv5BWQRR5J5qfsZPtJfq) | 2:21 | 2022-07-19 |  |
-| [Tronco](https://open.spotify.com/track/225LjAnyqyDn1SnbrbqOMs) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [La Tarde](https://open.spotify.com/album/2ZI6Oa6Fl58NFrmfaXWGGZ) | 1:07 | 2022-09-13 |  |
+| [Tronco](https://open.spotify.com/track/225LjAnyqyDn1SnbrbqOMs) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [La Tarde](https://open.spotify.com/album/2ZI6Oa6Fl58NFrmfaXWGGZ) | 1:07 | 2022-09-13 | 2022-10-02 |
 | [Tronco](https://open.spotify.com/track/36LHOPIIkvB3Erf9mofRHr) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [La Tarde](https://open.spotify.com/album/0h3wrye3q4pHAkQXkPW1rJ) | 1:07 | 2022-06-29 | 2022-07-28 |
 | [Vendrán Lluvias Suaves](https://open.spotify.com/track/6hRgWpBVwzIxLNWkwgxu7B) | [Orquesta de las Nubes](https://open.spotify.com/artist/7CqUn7HsQQ3OrCyMvBnwRS) | [The Order Of Change](https://open.spotify.com/album/2qFs3tQfbY067d1hDw3oVZ) | 4:04 | 2022-06-29 |  |
 | [Warm Summer Rain](https://open.spotify.com/track/7J3bfg7BXmToxDWWKglGD5) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Warm Summer Rain](https://open.spotify.com/album/6fwaLrlXlJT8coA3ysImIH) | 3:31 | 2022-06-29 |  |

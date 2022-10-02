@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1s2jwVSrmxKxxvvDoMWl32.md) - [plain]
 
 > A collection of classic Sub Pop tracks from the 80s and 90s, all that is grunge adjacent!
 
-[Sub Pop](https://open.spotify.com/user/subpoprecords) - 5,308 likes - 40 songs - 2 hr 10 min
+[Sub Pop](https://open.spotify.com/user/subpoprecords) - 5,309 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

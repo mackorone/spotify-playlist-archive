@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,230 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,240 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 | 28 | [Tamo Lindo](https://open.spotify.com/track/4gplPs2PkpRb00Yj46q20l) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Tamo Lindo](https://open.spotify.com/album/5AhpFYS3k7veyUsI0VTOxA) | 2:45 |
 | 29 | [Lil Baby](https://open.spotify.com/track/49rpYHsEJU2HK826B3rxPq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Lil Baby](https://open.spotify.com/album/6s9ATpyVUh4xieEuoFoXmq) | 1:45 |
 | 30 | [Vivimo' Así](https://open.spotify.com/track/5rZ9x55jPqUcXGLxBd2Fnt) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Vivimo' Así](https://open.spotify.com/album/69d66xYUwQVvs8i3oag2c3) | 3:10 |
-| 31 | [Mula](https://open.spotify.com/track/1lbDAsBsUQFvQcBoXTelqM) | [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk) | [Mula](https://open.spotify.com/album/7i0cQWbO5ub6IG1sQoz4Ar) | 2:33 |
+| 31 | [Mula](https://open.spotify.com/track/2yKhhMAFFXFrGxXi9KkICR) | [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk) | [Mula](https://open.spotify.com/album/1gioYZU1SjcBIgLMoKBt07) | 2:33 |
 | 32 | [Valentino](https://open.spotify.com/track/7xA1kJmYtW1SY3uWarCf2T) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [WE$T DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [SIN PRONTUARIO](https://open.spotify.com/album/0JhThijVyy7mFSewn2Bkgx) | 3:16 |
 | 33 | [Yakuza](https://open.spotify.com/track/0gPM83N4pcucaFMNbUX2eR) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [Yakuza](https://open.spotify.com/album/4njpct4ZRvdI4ZsdrkRyQo) | 4:28 |
 | 34 | [Orangutan](https://open.spotify.com/track/1Ytlu66YWuZDcgwjwOeix8) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Orangutan](https://open.spotify.com/album/5470pf2kOxCht3U7laZO3K) | 3:00 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 | 43 | [Domador](https://open.spotify.com/track/34DUbd3nYikXkPmdrLH6vw) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Domador](https://open.spotify.com/album/4EQqaciQsB6WSPEIlW0cnH) | 2:43 |
 | 44 | [CARAS VEMOS \- Remix](https://open.spotify.com/track/45bDKqcXUgd7IVAvFYsTTe) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [CARAS VEMOS \(Remix\)](https://open.spotify.com/album/6YDlWZ01O0RboiJIOs00Tz) | 6:50 |
 | 45 | [Dinero](https://open.spotify.com/track/6LR3JSxtiYV6bP8sAAbpu1) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Dinero](https://open.spotify.com/album/5YIAtJSbvBhSDfiniUotRG) | 2:56 |
-| 46 | [Pikachu](https://open.spotify.com/track/48sJEKZoD3pnpCcjekNf5K) | [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk) | [Pikachu](https://open.spotify.com/album/709DWlSbhFvv8lUdpSzEnZ) | 2:34 |
+| 46 | [Pikachu](https://open.spotify.com/track/2nFjLOG4IzRSMJVKFmLhYd) | [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk) | [Pikachu](https://open.spotify.com/album/2ttrs7u5sWk7uEwZiddQGr) | 2:34 |
 | 47 | [Diesel](https://open.spotify.com/track/6R4Wd9RoM1EgVw0BGXvk7E) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Diesel](https://open.spotify.com/album/07cdRKFYt5bF64tmsxf5Gi) | 3:03 |
 | 48 | [Mala](https://open.spotify.com/track/4EwdS4w1dmiCPOGxM1jgXK) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Mala](https://open.spotify.com/album/6LlsoZwRSKHZxoei4mi3LJ) | 2:19 |
 | 49 | [B\. O\. B](https://open.spotify.com/track/4cXjkpjYYu0V4UC4FOgwko) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk), [Rxdri](https://open.spotify.com/artist/2Ih4Ih8PVFoAZmXFChOwAR), [Tokio Kid](https://open.spotify.com/artist/7LbAa0SzZBV93ZBEAfbybU), [Fiaka](https://open.spotify.com/artist/4WnQ5jwWJqzFPWIY4ehuGk) | [B\. O\. B](https://open.spotify.com/album/1VbDvnmTijKQOgu9diqVHd) | 3:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 | 69 | [Tu Mirada](https://open.spotify.com/track/3Bl6VMvrPDyVCQFYTGlygq) | [Alain Verdier](https://open.spotify.com/artist/0GbTibx6jki0CWRaf9JLSa) | [Tu Mirada](https://open.spotify.com/album/3L0HpohjbclTsSvGxH7X2t) | 2:13 |
 | 70 | [Ahora No Puedo Dormir](https://open.spotify.com/track/3iQDeOqPl30DkC7KUECpGs) | [Alain Verdier](https://open.spotify.com/artist/0GbTibx6jki0CWRaf9JLSa), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Ahora No Puedo Dormir](https://open.spotify.com/album/6k7BF11jOV9gSZjuLkw4i3) | 2:36 |
 
-Snapshot ID: `MTY0Mzk0MzYwMCwwMDAwMDAwMDU0MDFlNmIyMDJmNGM5OTJlZjEwYThkYWQxMjRjNmMz`
+Snapshot ID: `MTY0Mzk0MzYwMCwwMDAwMDAwMDljODhhODJmMDEyZWQ1NmVmZGUzYzIzZTdhNTc1MmM1`

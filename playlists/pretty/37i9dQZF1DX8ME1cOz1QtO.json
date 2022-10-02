@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 43058,
+  "num_followers": 43154,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY5NjUzMCwwMDAwMDAwMGYyYmNhNjk5NDQxZDgxYTAyOTJhNzc3YjFiNzkxOGRm",
+  "snapshot_id": "MTY1NjY5NjUzMCwwMDAwMDAwMDQwYjUwMDUxMjkxNzg0Y2QwOTU1NDA0MmY1MWExZTk1",
   "tracks": [
     {
       "added_at": "2022-07-01 17:28:50",
@@ -79,6 +79,22 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 460640,
+      "name": "Oxygene, Pt. 1",
+      "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
         "name": "Down to the Moon",
         "url": "https://open.spotify.com/album/2DM9WPZiokvkAm4Y7xqXjF"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 147240,
       "name": "Down to the Moon",
       "url": "https://open.spotify.com/track/6dsBkD1XP9EswRcUN0pOqN"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
-        "name": "Oxyg\u00e8ne",
-        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 460640,
-      "name": "Oxygene, Pt. 1",
-      "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Equinoxe",
-        "url": "https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 425133,
-      "name": "Equinoxe, Pt. 4",
-      "url": "https://open.spotify.com/track/362MZclYQ5wRw468UxT5Uf"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
         "name": "Cusco 2",
         "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 228240,
       "name": "Lake of the Ozarks",
       "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
+        "name": "Equinoxe",
+        "url": "https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 425133,
+      "name": "Equinoxe, Pt. 4",
+      "url": "https://open.spotify.com/track/362MZclYQ5wRw468UxT5Uf"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Oxyg\u00e8ne",
-        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Oxygene, Pt. 3",
-      "url": "https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
         "name": "In A Wild Sanctuary/Gardharva",
         "url": "https://open.spotify.com/album/1B7FI5QL7KDDSR4mxIXdvJ"
       },
@@ -383,6 +367,26 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
+        "name": "Ambient 3: Day Of Radiance",
+        "url": "https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw"
+      },
+      "artists": [
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 1127173,
+      "name": "Meditation No. 1",
+      "url": "https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
         "name": "Antarctica (Remastered)",
         "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
       },
@@ -395,6 +399,22 @@
       "duration_ms": 445613,
       "name": "Theme From Antarctica - Remastered",
       "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Oxygene, Pt. 3",
+      "url": "https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -419,26 +439,6 @@
       "duration_ms": 217933,
       "name": "Flight Feet and Root Hands",
       "url": "https://open.spotify.com/track/64iGkQy5fe5gKVTpIvPtOX"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
-        "name": "Ambient 3: Day Of Radiance",
-        "url": "https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw"
-      },
-      "artists": [
-        {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 1127173,
-      "name": "Meditation No. 1",
-      "url": "https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -667,18 +667,22 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Music For Zen Meditation And Other Joys",
-        "url": "https://open.spotify.com/album/2TU5pJrurQif5n0ADKdOyp"
+        "name": "Island",
+        "url": "https://open.spotify.com/album/7FKNk8OPsuVSlAx9sBXtZr"
       },
       "artists": [
         {
-          "name": "Tony Scott",
-          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        },
+        {
+          "name": "Andrew White",
+          "url": "https://open.spotify.com/artist/6SkbDEpXcIA4hXjre6qFLT"
         }
       ],
-      "duration_ms": 96760,
-      "name": "To Drift Like Clouds",
-      "url": "https://open.spotify.com/track/5aImv5cJGMH7FfKzVBwlHm"
+      "duration_ms": 288333,
+      "name": "Carnation Lily Lily Rose",
+      "url": "https://open.spotify.com/track/41SpUaJByH1FIxiYeZUmSi"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -715,22 +719,18 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Island",
-        "url": "https://open.spotify.com/album/7FKNk8OPsuVSlAx9sBXtZr"
+        "name": "Music For Zen Meditation And Other Joys",
+        "url": "https://open.spotify.com/album/2TU5pJrurQif5n0ADKdOyp"
       },
       "artists": [
         {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
-        },
-        {
-          "name": "Andrew White",
-          "url": "https://open.spotify.com/artist/6SkbDEpXcIA4hXjre6qFLT"
+          "name": "Tony Scott",
+          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
         }
       ],
-      "duration_ms": 288333,
-      "name": "Carnation Lily Lily Rose",
-      "url": "https://open.spotify.com/track/41SpUaJByH1FIxiYeZUmSi"
+      "duration_ms": 96760,
+      "name": "To Drift Like Clouds",
+      "url": "https://open.spotify.com/track/5aImv5cJGMH7FfKzVBwlHm"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Mooncircles",
-        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 90253,
-      "name": "Inner Mood I",
-      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
         "name": "Heaven on Earth",
         "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
       },
@@ -1195,22 +1179,6 @@
       "duration_ms": 332786,
       "name": "Living Your Ending",
       "url": "https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
-        "name": "Fresh Aire I",
-        "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
-      },
-      "artists": [
-        {
-          "name": "Mannheim Steamroller",
-          "url": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
-        }
-      ],
-      "duration_ms": 153706,
-      "name": "Interlude II",
-      "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1231,6 +1199,38 @@
       "duration_ms": 720426,
       "name": "Silmarillion",
       "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
+        "name": "Fresh Aire I",
+        "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
+      },
+      "artists": [
+        {
+          "name": "Mannheim Steamroller",
+          "url": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
+        }
+      ],
+      "duration_ms": 153706,
+      "name": "Interlude II",
+      "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
+        "name": "Mooncircles",
+        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 90253,
+      "name": "Inner Mood I",
+      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Sands of Time: Selected Studio & Concert Recordings 1974-1990",
-        "url": "https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 455333,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/6rOvoAtGJrlHavLh73Vgsu"
-    },
-    {
-      "added_at": "2022-07-01 17:28:50",
-      "album": {
         "name": "Open Like a Flute",
         "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 348880,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
+    },
+    {
+      "added_at": "2022-07-01 17:28:50",
+      "album": {
+        "name": "Sands of Time: Selected Studio & Concert Recordings 1974-1990",
+        "url": "https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 455333,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/6rOvoAtGJrlHavLh73Vgsu"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Rainbow Dome Musick",
-        "url": "https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz"
+        "name": "Inter-Dimensional Music",
+        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
       "artists": [
         {
-          "name": "Steve Hillage",
-          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
         }
       ],
-      "duration_ms": 1394160,
-      "name": "Garden Of Paradise - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
+      "duration_ms": 200080,
+      "name": "Crystal Petals",
+      "url": "https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Inter-Dimensional Music",
-        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
+        "name": "Rainbow Dome Musick",
+        "url": "https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz"
       },
       "artists": [
         {
-          "name": "Iasos",
-          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+          "name": "Steve Hillage",
+          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
         }
       ],
-      "duration_ms": 200080,
-      "name": "Crystal Petals",
-      "url": "https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP"
+      "duration_ms": 1394160,
+      "name": "Garden Of Paradise - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1675,18 +1675,22 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Transcendental Music for Meditation",
-        "url": "https://open.spotify.com/album/7MBKtyZEbWaoHfKbXbD8bB"
+        "name": "Aum",
+        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
       },
       "artists": [
         {
-          "name": "Master Wilburn Burchette",
-          "url": "https://open.spotify.com/artist/2EefjxRUX7kaLEifrs6jG1"
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Chaitanya Hari Deuter",
+          "url": "https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR"
         }
       ],
-      "duration_ms": 910386,
-      "name": "Part One",
-      "url": "https://open.spotify.com/track/7CQFDhAbz7zLvtNcsl3qAB"
+      "duration_ms": 116440,
+      "name": "Abraxas",
+      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
     },
     {
       "added_at": "2022-07-01 17:28:50",
@@ -1707,22 +1711,18 @@
     {
       "added_at": "2022-07-01 17:28:50",
       "album": {
-        "name": "Aum",
-        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
+        "name": "Transcendental Music for Meditation",
+        "url": "https://open.spotify.com/album/7MBKtyZEbWaoHfKbXbD8bB"
       },
       "artists": [
         {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        },
-        {
-          "name": "Chaitanya Hari Deuter",
-          "url": "https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR"
+          "name": "Master Wilburn Burchette",
+          "url": "https://open.spotify.com/artist/2EefjxRUX7kaLEifrs6jG1"
         }
       ],
-      "duration_ms": 116440,
-      "name": "Abraxas",
-      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
+      "duration_ms": 910386,
+      "name": "Part One",
+      "url": "https://open.spotify.com/track/7CQFDhAbz7zLvtNcsl3qAB"
     },
     {
       "added_at": "2022-07-01 17:28:50",

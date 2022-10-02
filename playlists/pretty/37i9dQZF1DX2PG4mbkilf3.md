@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: Chxrry22
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,087 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,116 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 26 | [Therapeudick](https://open.spotify.com/track/4Z2ZV7xJlWXiep1zH6jD30) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB) | [Therapeudick](https://open.spotify.com/album/69E778IiHF9vIavIJPNLbx) | 2:54 |
 | 27 | [In My Bed](https://open.spotify.com/track/3AXPn6A34rJcdwl59Xor4g) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [In My Bed](https://open.spotify.com/album/7Dw7n5YeIAb1IQ5klyRIae) | 3:45 |
 | 28 | [Pressure](https://open.spotify.com/track/5DMFR9JU4l86FD063mmb7z) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Pressure](https://open.spotify.com/album/5ggd0JyaC9xDcbbIQigiiX) | 2:27 |
-| 29 | [SMALL WINS](https://open.spotify.com/track/6B6Sqo3ipPs4bpvCb9ZsJc) | [SASHA CHAA](https://open.spotify.com/artist/5Uhc9u418MjnapB9RqTZir) | [SMALL WINS](https://open.spotify.com/album/2fCDdDPpepMIAtMPw1926c) | 4:11 |
+| 29 | [SMALL WINS](https://open.spotify.com/track/6B6Sqo3ipPs4bpvCb9ZsJc) | [SASHA CHAA](https://open.spotify.com/artist/5Uhc9u418MjnapB9RqTZir) | [SMALL WINS](https://open.spotify.com/album/2fCDdDPpepMIAtMPw1926c) | 4:14 |
 | 30 | [Hold Me](https://open.spotify.com/track/0wE8oQpiV1M0Gy9mKPgoSx) | [Davy Sage](https://open.spotify.com/artist/1mycGPyDvE3QnAqh6NXyxI), [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa) | [Hold Me](https://open.spotify.com/album/2p7lKy9jZWmAuO0CTMk5Mi) | 2:42 |
 | 31 | [Open \(feat\. Majid Jordan\)](https://open.spotify.com/track/1VcORtwbt560HNpnDMyCCu) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 3:47 |
 | 32 | [FTU](https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [FTU](https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu) | 2:24 |

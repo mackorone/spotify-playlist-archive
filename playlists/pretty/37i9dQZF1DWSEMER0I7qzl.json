@@ -1,12 +1,12 @@
 {
   "description": "These songs will make you feel better. Or maybe worse.",
-  "num_followers": 317,
+  "num_followers": 322,
   "original_name": "The PMS Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkxMzQ2NywwMDAwMDAwMGY1YmRjYjQyMTNiNDA1MmJiZjIyZGMzNDVjNDYyMTFl",
+  "snapshot_id": "MTY2MDkxMzQ2NywwMDAwMDAwMDVlZjRkNTk2ZmNmYmQ0ZGYzZmI1MTlmMjQ1YzNlNGQz",
   "tracks": [
     {
       "added_at": "2019-10-04 13:59:10",
@@ -251,22 +251,6 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Nervous System",
-        "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Issues",
-      "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
         "name": "Bitch Better Have My Money",
         "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 219305,
       "name": "Bitch Better Have My Money",
       "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Nervous System",
+        "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Issues",
+      "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
     },
     {
       "added_at": "2019-10-04 13:59:10",

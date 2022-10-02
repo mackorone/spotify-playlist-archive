@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fBYada3bEd.md) - [plain]
 
 > Sing along to these tunes about everything you can find on the farm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,086 likes - 59 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,096 likes - 59 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

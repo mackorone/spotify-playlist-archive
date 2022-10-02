@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WPkweAgNHO.md) - [plain]
 
 > Cierra los ojos, y deja que la música haga el resto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,242 likes - 16 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,254 likes - 16 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

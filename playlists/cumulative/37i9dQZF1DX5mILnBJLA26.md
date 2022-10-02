@@ -4,7 +4,7 @@
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=4uFZWx8kRsKUgoGaPtB92Q">Pabi Cooper</a>
 
-627 songs - 2 day 16 hr 23 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
+628 songs - 2 day 16 hr 30 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 | 2022-01-11 | 2022-01-21 |
 | [Ghost](https://open.spotify.com/track/1HNDRSH8IPUc58fXrKHpP6) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV) | [Ghost](https://open.spotify.com/album/1cuzlgF3KQzQOMiuWfNYox) | 6:17 | 2022-06-02 | 2022-09-23 |
 | [Ghost](https://open.spotify.com/track/4GzMXV8MGwKmuUTET3WJAv) | [Perspectiv Soul](https://open.spotify.com/artist/3CbfBzWvdWCzJ2mw5iELEJ), [Shredder SA](https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h) | [GHOST](https://open.spotify.com/album/12J7KsudhiqZP87H8F6JUy) | 6:38 | 2022-06-16 | 2022-06-24 |
-| [Ghost Wayy](https://open.spotify.com/track/4AIFyryxDO1iJRl1e4WZSc) | [Creative Dj](https://open.spotify.com/artist/6CYYpz00wGh0qNM62Ha8NG), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Ghost Wayy](https://open.spotify.com/album/2pe5SHZao1cfJIjzzUvnKN) | 6:25 | 2022-09-22 |  |
+| [Ghost Wayy](https://open.spotify.com/track/4AIFyryxDO1iJRl1e4WZSc) | [Creative Dj](https://open.spotify.com/artist/6CYYpz00wGh0qNM62Ha8NG), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Ghost Wayy](https://open.spotify.com/album/2pe5SHZao1cfJIjzzUvnKN) | 6:25 | 2022-09-22 | 2022-10-02 |
+| [Ghost Wayy](https://open.spotify.com/track/77wdCDQtN4VHmimAMIVMuT) | [Creative Dj](https://open.spotify.com/artist/6CYYpz00wGh0qNM62Ha8NG), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Ghost Wayy](https://open.spotify.com/album/0KF57Es4doZB6hatt1Y1os) | 6:25 | 2022-09-22 |  |
 | [Gibela \(feat\. Blaqnick & MasterBlaq\)](https://open.spotify.com/track/6Uibkmo1vKWQS7IxrrWhCu) | [LulownoRif](https://open.spotify.com/artist/27dYMm0C0n3zHP5riVsskB), [Tranquillo\_](https://open.spotify.com/artist/32TvTT0hZmelw2ZmrJpM31), [Blaqnick & MasterBlaq](https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF) | [iNumba Numba](https://open.spotify.com/album/1spwM71EbFxAmrqiI8mEFx) | 5:44 | 2022-07-21 | 2022-07-29 |
 | [Gijima](https://open.spotify.com/track/4XNO7bG8cMM21nfxcK3AIi) | [uLazi](https://open.spotify.com/artist/4XfSBTIyfJdQLhxDrUDU7l), [Thabza Tee](https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn) | [MGUZUGUZU](https://open.spotify.com/album/00dyrFrMiMjk16sYwMvSRl) | 5:45 | 2022-07-11 | 2022-09-02 |
 | [Gijima \- Vocal Mix](https://open.spotify.com/track/52Qjse94L2AneQBo8mve3L) | [DJ Black Low](https://open.spotify.com/artist/3R6duxKXTU6YDfm4VT6FAk), [Statah](https://open.spotify.com/artist/7pmspKmtw6zl13bKtT69jr), [Daff Gee](https://open.spotify.com/artist/2xvJCY1g6swtTmvHTL6MpH) | [Gijima \(Vocal Mix\)](https://open.spotify.com/album/0D0oCwi309YKqWtZ5K9mQS) | 4:05 | 2022-06-02 | 2022-06-17 |

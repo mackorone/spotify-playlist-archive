@@ -4,7 +4,7 @@
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
-100 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/50Jdwr74HQGEkk8eIxYJWl)
+102 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/50Jdwr74HQGEkk8eIxYJWl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Muevelo](https://open.spotify.com/track/1cI1HuFMVMfdpGLf7jX5XO) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Muevelo](https://open.spotify.com/album/6FbODeWvXSFj6FYXpMptGk) | 2:54 | 2021-09-10 | 2022-09-10 |
 | [Muevelo](https://open.spotify.com/track/28heACAY3yarHfx2WrYP23) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Muevelo](https://open.spotify.com/album/2GBfi6oxh7wm0PvToG5YrA) | 2:54 | 2022-02-04 |  |
 | [Mula](https://open.spotify.com/track/0CmFQpw063ops72u6jyWPX) | [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk) | [Mula](https://open.spotify.com/album/26yUbFImZCaLbJEV1Mm7bG) | 2:33 | 2021-09-10 | 2022-07-29 |
-| [Mula](https://open.spotify.com/track/1lbDAsBsUQFvQcBoXTelqM) | [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk) | [Mula](https://open.spotify.com/album/7i0cQWbO5ub6IG1sQoz4Ar) | 2:33 | 2022-02-04 |  |
+| [Mula](https://open.spotify.com/track/1lbDAsBsUQFvQcBoXTelqM) | [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk) | [Mula](https://open.spotify.com/album/7i0cQWbO5ub6IG1sQoz4Ar) | 2:33 | 2022-02-04 | 2022-10-02 |
+| [Mula](https://open.spotify.com/track/2yKhhMAFFXFrGxXi9KkICR) | [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk) | [Mula](https://open.spotify.com/album/1gioYZU1SjcBIgLMoKBt07) | 2:33 | 2022-02-04 |  |
 | [Nadir](https://open.spotify.com/track/7hE9Q5k72F6b5qu2jrinpl) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Por Si Mañana](https://open.spotify.com/album/0YPuDIug1i3522246t1BVO) | 4:17 | 2021-09-10 |  |
 | [Name a Better Trio](https://open.spotify.com/track/7q0kM0V1CQbcMN0vd4EEYV) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Mili Milanss](https://open.spotify.com/artist/5US33tP9Eoj53sO9yF4STs), [El Pretty](https://open.spotify.com/artist/2m7LESODINoGXl2K0mpbC5) | [Name a Better Trio](https://open.spotify.com/album/4QTp48x8WU58Vefbir959S) | 3:14 | 2021-09-10 |  |
 | [Nat Geo \(Remix\)](https://open.spotify.com/track/4ftg5EDTuJw7gIlTi9LC7d) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Nat Geo \(Remix\)](https://open.spotify.com/album/4mQCYm9dzempb87XCrQCCC) | 4:04 | 2021-09-10 |  |
@@ -82,7 +83,8 @@
 | [Pekeño 77: Bzrp Music Sessions, Vol\. 5](https://open.spotify.com/track/06lC5NkXlLK9Ag99zuMnvw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Pekeño 77: Bzrp Music Sessions, Vol\. 5](https://open.spotify.com/album/0s8c9YWh0NWlhxaxhzHfWD) | 2:58 | 2021-09-10 |  |
 | [Perdido Y Loco](https://open.spotify.com/track/152G4mNuk9f5bdsBXNJw5k) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Perdido Y Loco](https://open.spotify.com/album/0nJDjNwAfW1LyGaLay9hwV) | 2:48 | 2022-02-04 |  |
 | [Perdido y Loco](https://open.spotify.com/track/3lRIbuhF67NU6K72TiHvvM) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Perdido y Loco](https://open.spotify.com/album/1mXsjR3bWQzDeGjubeJFNo) | 2:48 | 2021-09-10 | 2022-09-10 |
-| [Pikachu](https://open.spotify.com/track/48sJEKZoD3pnpCcjekNf5K) | [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk) | [Pikachu](https://open.spotify.com/album/709DWlSbhFvv8lUdpSzEnZ) | 2:34 | 2021-09-10 |  |
+| [Pikachu](https://open.spotify.com/track/48sJEKZoD3pnpCcjekNf5K) | [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk) | [Pikachu](https://open.spotify.com/album/709DWlSbhFvv8lUdpSzEnZ) | 2:34 | 2021-09-10 | 2022-10-02 |
+| [Pikachu](https://open.spotify.com/track/2nFjLOG4IzRSMJVKFmLhYd) | [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk) | [Pikachu](https://open.spotify.com/album/2ttrs7u5sWk7uEwZiddQGr) | 2:34 | 2022-02-04 |  |
 | [Polaris](https://open.spotify.com/track/2zCsasxMJ1KpTl8uWJSG2s) | [Lemur Kush](https://open.spotify.com/artist/3dZRodtVGMHccB1qQAcJAq), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Maxnprod](https://open.spotify.com/artist/46bWo9I0KV3GEaUth5sB3T) | [Dskts II](https://open.spotify.com/album/1619KiZpoSUpEmVBiKl8jj) | 3:01 | 2021-09-10 |  |
 | [Prada 99](https://open.spotify.com/track/6XBQV8AJqJYdW6SSmChJlT) | [Yovngsta](https://open.spotify.com/artist/6Sf5W6A6Q1m9suLf47h4tT), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [Prada 99](https://open.spotify.com/album/2w0Mb7M5AprdbyiisbBxCp) | 1:29 | 2021-09-10 |  |
 | [Rangos](https://open.spotify.com/track/0ZeQFWUwICisBLXNFtlsAY) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/1cLqKrL2fed5ARiR8qJF3x) | 2:08 | 2022-02-04 |  |

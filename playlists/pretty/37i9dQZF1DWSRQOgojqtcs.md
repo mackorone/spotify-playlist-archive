@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,546 likes - 125 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,212 likes - 125 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 111 | [Trainspotting](https://open.spotify.com/track/3yqDyz2uZ6ZATKIaxpGXe2) | [Full Flower Moon Band](https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4) | [Diesel Forever](https://open.spotify.com/album/5iocmJMQ1nEpGEGnfw6Q9g) | 2:18 |
 | 112 | [Dancer Girl](https://open.spotify.com/track/4ttUlvDSjTiX4yyoA0NwXJ) | [Zoë Fox and the Rocket Clocks](https://open.spotify.com/artist/2A9Ed9zQfvv9Ns78PDEagE) | [Dancer Girl](https://open.spotify.com/album/5bpixdGyoPyogbCKfIr4Vb) | 2:55 |
 | 113 | [Firefly](https://open.spotify.com/track/5xySUQUYwB4uGxJpLaxjLh) | [Jonny Kosmo](https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx) | [Pastry](https://open.spotify.com/album/1pL2NNdOk64nvn6KgIPIPe) | 3:01 |
-| 114 | [Bussit](https://open.spotify.com/track/2rniJeDskk1s6xOcfio3RV) | [VV Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Bussit](https://open.spotify.com/album/0z5TThA7B6lgdk0z4uX4qB) | 2:50 |
+| 114 | [Bussit](https://open.spotify.com/track/2rniJeDskk1s6xOcfio3RV) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Bussit](https://open.spotify.com/album/0z5TThA7B6lgdk0z4uX4qB) | 2:50 |
 | 115 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
 | 116 | [FOREVER](https://open.spotify.com/track/6JJ1URTERzj7LcqKpRsvMT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:48 |
 | 117 | [Sweet Sweet, So Sweet](https://open.spotify.com/track/0AjPf0VlaUXQMDIxguOEnI) | [Al Hazan](https://open.spotify.com/artist/7qwaiCaE4p70SnI5XB9E8j) | [Sweet Sweet, So Sweet](https://open.spotify.com/album/5QZVAFAqkhs26qV1OoOJ5m) | 2:05 |

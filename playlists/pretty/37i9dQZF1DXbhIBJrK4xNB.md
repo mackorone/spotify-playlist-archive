@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhIBJrK4xNB.md) - [plain]
 
 > A collection of Motown classics for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,504 likes - 59 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,562 likes - 59 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

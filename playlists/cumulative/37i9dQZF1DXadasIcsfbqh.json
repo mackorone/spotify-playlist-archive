@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Pop country hits of today and tomorrow. Cover: BRELAND",
+  "description": "Pop country hits of today and tomorrow. Cover: Spencer Crandall",
   "name": "PopCo",
   "published_playlist_ids": [
     "1eoy2aa7pjLg69wzMB5JYu"
@@ -733,6 +733,24 @@
       "duration_ms": 165520,
       "name": "Dates In Pickup Trucks",
       "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
+    },
+    {
+      "album": {
+        "name": "Didn't Do",
+        "url": "https://open.spotify.com/album/5g6k9GEe9QmF9iLUso5rNO"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197051,
+      "name": "Didn't Do",
+      "url": "https://open.spotify.com/track/13sdGIsfF7PdO1TZ89pfHw"
     },
     {
       "album": {
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 161659,
       "name": "Natural",
       "url": "https://open.spotify.com/track/0jeh5vhX3VZBiQ4VJq8lLz"

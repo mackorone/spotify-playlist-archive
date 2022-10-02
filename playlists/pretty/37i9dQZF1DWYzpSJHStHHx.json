@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 470373,
+  "num_followers": 470463,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMDFhMTFhNDgxNDkwNDk2Yzk5YTQ0YzJmZjVhMDQzYmFk",
+  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMGZjOGRiMDY4MWZmMzI4YTAyNTE0OTdjYTJmZDVmNjZi",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Rocky",
-        "url": "https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Rocky",
-      "url": "https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Mercy Mountain",
         "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 228015,
       "name": "Shalala",
       "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Rocky",
+        "url": "https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Rocky",
+      "url": "https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa"
     },
     {
       "added_at": "2022-09-22 19:11:53",

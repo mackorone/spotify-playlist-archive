@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8X0x7JMkJi.md) - [plain]
 
 > Podcasts que ajudam a tirar um tempinho você.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,416 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 54,427 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -5080,6 +5080,24 @@
     },
     {
       "album": {
+        "name": "Ela",
+        "url": "https://open.spotify.com/album/1xyE4skUerB28nPaohhMix"
+      },
+      "artists": [
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Ela",
+      "url": "https://open.spotify.com/track/2tq1vcOwuhgSuq1QEdLKjz"
+    },
+    {
+      "album": {
         "name": "STATUS",
         "url": "https://open.spotify.com/album/3o4jrfejp2xzBi41YSwMrP"
       },
@@ -6243,7 +6261,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"

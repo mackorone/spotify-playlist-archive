@@ -1,12 +1,12 @@
 {
   "description": "Recordando el legado campirano y rancher\u00f3n con las cl\u00e1sicas del sierre\u00f1o. Ariel Camacho en portada.",
-  "num_followers": 29560,
+  "num_followers": 29660,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NTUyMywwMDAwMDAwMGMxZjdhMjg4MzI5Mjk1MzI3NTJlYWE4ZjYzZjY3ZWI1",
+  "snapshot_id": "MTY0MzM0NTUyMywwMDAwMDAwMGUyNDIwNTQ1ZTQzMDQ2MzljZDQ2OGNkZGNhYTUxMDk4",
   "tracks": [
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "De Huarache Y Sombrero",
-        "url": "https://open.spotify.com/album/31MF32JeJx4ZCBVrDt92KA"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ortiz",
-          "url": "https://open.spotify.com/artist/4uFtoGq7ttbGYMLsBZzGM8"
-        }
-      ],
-      "duration_ms": 147880,
-      "name": "El Ranchero Afamado",
-      "url": "https://open.spotify.com/track/3rwY8ugSp7G5nRAIXiTlJZ"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 198946,
       "name": "Llorando Por Ti",
       "url": "https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "De Huarache Y Sombrero",
+        "url": "https://open.spotify.com/album/31MF32JeJx4ZCBVrDt92KA"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ortiz",
+          "url": "https://open.spotify.com/artist/4uFtoGq7ttbGYMLsBZzGM8"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "El Ranchero Afamado",
+      "url": "https://open.spotify.com/track/3rwY8ugSp7G5nRAIXiTlJZ"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Besos y Caricias",
-        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
+        "name": "La Vida Sigue Igual, el Dueto Consentido de Mexico",
+        "url": "https://open.spotify.com/album/3aE6CEBBJ3B1AhUElNAlHo"
       },
       "artists": [
         {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
         }
       ],
-      "duration_ms": 130039,
-      "name": "Ya No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7GOi2uDFPSc1pnq33KvgqW"
+      "duration_ms": 172973,
+      "name": "A Cada Rato",
+      "url": "https://open.spotify.com/track/1sEm6lzFAAsvykwX5y6Nlr"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1427,34 +1427,18 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "La Vida Sigue Igual, el Dueto Consentido de Mexico",
-        "url": "https://open.spotify.com/album/3aE6CEBBJ3B1AhUElNAlHo"
+        "name": "Besos y Caricias",
+        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
       },
       "artists": [
         {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
         }
       ],
-      "duration_ms": 172973,
-      "name": "A Cada Rato",
-      "url": "https://open.spotify.com/track/1sEm6lzFAAsvykwX5y6Nlr"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
-      },
-      "artists": [
-        {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
-        }
-      ],
-      "duration_ms": 185756,
-      "name": "Cielo Azul, Cielo Nublado",
-      "url": "https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ"
+      "duration_ms": 130039,
+      "name": "Ya No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7GOi2uDFPSc1pnq33KvgqW"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1471,6 +1455,22 @@
       "duration_ms": 148573,
       "name": "El Amor No Se Vende",
       "url": "https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        }
+      ],
+      "duration_ms": 178128,
+      "name": "El Primer Tonto",
+      "url": "https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1539,8 +1539,8 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
-        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
+        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 2",
+        "url": "https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt"
       },
       "artists": [
         {
@@ -1548,9 +1548,25 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 150146,
-      "name": "Siempre Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/2dgAOE1CW61s4pPfrQtgqT"
+      "duration_ms": 144946,
+      "name": "Mi Virgencita",
+      "url": "https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        }
+      ],
+      "duration_ms": 185756,
+      "name": "Cielo Azul, Cielo Nublado",
+      "url": "https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1583,22 +1599,6 @@
       "duration_ms": 151960,
       "name": "Vete ya",
       "url": "https://open.spotify.com/track/7nyrLXE5oinHY87LpZL1e3"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
-      },
-      "artists": [
-        {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
-        }
-      ],
-      "duration_ms": 178128,
-      "name": "El Primer Tonto",
-      "url": "https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb"
     },
     {
       "added_at": "2022-01-25 18:06:26",

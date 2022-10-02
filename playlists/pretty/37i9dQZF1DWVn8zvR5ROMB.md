@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Russell Dickerson, Ashley McBryde, Zac Brown Band and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,870 likes - 76 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,098 likes - 76 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 25 | [Willy The Wandering Gypsy And Me](https://open.spotify.com/track/4lJJrRisImnmJSEiL2C4z0) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Willy The Wandering Gypsy And Me](https://open.spotify.com/album/2tvuMHKGqdenkE2IhOZjYg) | 3:52 |
 | 26 | [Don't Call Me Baby](https://open.spotify.com/track/3g6QcJezEi4FTmMXbW5DA5) | [Julie Roberts](https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba) | [Don't Call Me Baby](https://open.spotify.com/album/7gI0SK9gHciA4CCw5Lt3Z6) | 4:38 |
 | 27 | [Tripping Over My Boots](https://open.spotify.com/track/3ZEf0uTcNtU35mdNatKYY9) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [Tripping Over My Boots](https://open.spotify.com/album/4POfMMVpwVdT7teEtbZ7vj) | 2:50 |
-| 28 | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/04UK6oVCYUNtp1p11KKVKt) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/album/2hFL3oVudahoDiyLC7qju0) | 2:41 |
+| 28 | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/04UK6oVCYUNtp1p11KKVKt) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/album/2hFL3oVudahoDiyLC7qju0) | 2:40 |
 | 29 | [The Lost Years](https://open.spotify.com/track/6toobTgUpnIqiY6HbFLWtM) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [The Lost Years](https://open.spotify.com/album/21teEebBdNLbFdS4vlwmC9) | 4:22 |
 | 30 | [Round Here No More](https://open.spotify.com/track/0WXFicFJtKlGWgCGoZgQYZ) | [The Tuten Brothers](https://open.spotify.com/artist/1SKdnfGF5KypZsRJCb7M7h) | [Round Here No More](https://open.spotify.com/album/14yj5RVPueaa6Y8qPynqha) | 3:26 |
 | 31 | [Something Beautiful](https://open.spotify.com/track/0KkMTW1h89HvgBAH8uPA7e) | [Matt Cooper](https://open.spotify.com/artist/3p6my89rn8STAqtZohziRM) | [Something Beautiful](https://open.spotify.com/album/2uhRs2YpUau1DJloTfu5Ad) | 4:17 |

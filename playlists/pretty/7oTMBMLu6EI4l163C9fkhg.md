@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7oTMBMLu6EI4l163C9fkhg.md) - [plain]
 
 > Remember the glory days when boy bands and girl groups ruled the radio? Listen to this playlist and bring the Spice Girls, Hanson, and Destiny's Child back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,947 likes - 41 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,946 likes - 41 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

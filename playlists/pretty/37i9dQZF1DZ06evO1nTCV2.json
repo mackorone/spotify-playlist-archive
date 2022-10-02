@@ -1,15 +1,15 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 39047,
+  "num_followers": 39053,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NDI0MDksMDAwMDAwMDAyODY0MDljZGYwM2JkM2ZmMGMxMGFlZDc3NDVmZTNmMg==",
+  "snapshot_id": "Mjc3NDM4MzMsMDAwMDAwMDA3MzliMmNjOGM5Nzg4N2QzMTRjNWVmMGQxN2MzNDMwYQ==",
   "tracks": [
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
@@ -41,71 +41,7 @@
       "url": "https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 318102,
-      "name": "Come Pick Me Up",
-      "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 132680,
-      "name": "Dear Chicago",
-      "url": "https://open.spotify.com/track/2J8P81JjKemQZczm1mfp3s"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "To Be Without You",
-      "url": "https://open.spotify.com/track/3GfZdJBB1cAbjSEIj3kraY"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 301013,
-      "name": "La Cienega Just Smiled",
-      "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
@@ -121,7 +57,71 @@
       "url": "https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 132680,
+      "name": "Dear Chicago",
+      "url": "https://open.spotify.com/track/2J8P81JjKemQZczm1mfp3s"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "To Be Without You",
+      "url": "https://open.spotify.com/track/3GfZdJBB1cAbjSEIj3kraY"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 301013,
+      "name": "La Cienega Just Smiled",
+      "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 318102,
+      "name": "Come Pick Me Up",
+      "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Ashes & Fire",
         "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/6TbOgR6jpuqkjAmgs4hdFL"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
@@ -185,23 +185,7 @@
       "url": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 235120,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
@@ -217,7 +201,23 @@
       "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 235120,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
@@ -233,55 +233,7 @@
       "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 226036,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/2mLIJwfgNPGjpuKaN7njPm"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 145133,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/0pl0QFnT982MoMkNOG7Jhu"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
@@ -297,10 +249,10 @@
       "url": "https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
-        "name": "FM",
-        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/2mLIJwfgNPGjpuKaN7njPm"
       },
       "artists": [
         {
@@ -308,79 +260,15 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 189880,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/5cDkShsp5scmWw4gc2z3lX"
+      "duration_ms": 145133,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/0pl0QFnT982MoMkNOG7Jhu"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 192732,
-      "name": "My Winding Wheel",
-      "url": "https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Big Colors",
-        "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Big Colors",
-      "url": "https://open.spotify.com/track/64QHj3KzbmnvZBGEuFV9IS"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "FM",
-        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "Hall of Shame",
-      "url": "https://open.spotify.com/track/1BdDHMSD1LtJ9fGCMee0D8"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "1989",
-        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
       "artists": [
         {
@@ -388,124 +276,12 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 367386,
-      "name": "Out Of The Woods",
-      "url": "https://open.spotify.com/track/4kl5l7LzhTLOO3RoUJ59ei"
+      "duration_ms": 201693,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Romeo & Juliet",
-        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 174120,
-      "name": "Doylestown Girl",
-      "url": "https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "FM",
-        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "When She Smiles",
-      "url": "https://open.spotify.com/track/5W7x9V7Jh2Wd4rXZfqvltN"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "I Wish You Would",
-      "url": "https://open.spotify.com/track/0Nb6EyYhGhH96rqSe4wmdy"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 162306,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 220680,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/2cSReP67LziR3PeYQ8Ehm2"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "FM",
-        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 278666,
-      "name": "Fairweather",
-      "url": "https://open.spotify.com/track/6CiJ9RWyu7YlRioyrGLDZZ"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
@@ -521,39 +297,7 @@
       "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 178706,
-      "name": "Chin Up, Cheer Up",
-      "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "FM",
         "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
@@ -564,44 +308,12 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 175466,
-      "name": "Wild and Hopeless",
-      "url": "https://open.spotify.com/track/6xlSShT4sz2vBzrYQ1lZR0"
+      "duration_ms": 189880,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/5cDkShsp5scmWw4gc2z3lX"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "The Shadowlands",
-      "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Chris",
-        "url": "https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Lookout",
-      "url": "https://open.spotify.com/track/0USkDJMpEkFZLyPoYFP5XT"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
@@ -612,15 +324,15 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 261065,
-      "name": "Outbound Train",
-      "url": "https://open.spotify.com/track/6eGBTRiVkcrSHDr5S4Xf4T"
+      "duration_ms": 191546,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
-        "name": "FM",
-        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
       },
       "artists": [
         {
@@ -628,12 +340,12 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 220576,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/2jBRUI4yW7UEw46etz02id"
+      "duration_ms": 226036,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
@@ -649,10 +361,10 @@
       "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+        "name": "FM",
+        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
       },
       "artists": [
         {
@@ -660,12 +372,108 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 218400,
-      "name": "The Rescue Blues",
-      "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
+      "duration_ms": 161200,
+      "name": "When She Smiles",
+      "url": "https://open.spotify.com/track/5W7x9V7Jh2Wd4rXZfqvltN"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Big Colors",
+        "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Big Colors",
+      "url": "https://open.spotify.com/track/64QHj3KzbmnvZBGEuFV9IS"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 367386,
+      "name": "Out Of The Woods",
+      "url": "https://open.spotify.com/track/4kl5l7LzhTLOO3RoUJ59ei"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 192732,
+      "name": "My Winding Wheel",
+      "url": "https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "FM",
+        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "Hall of Shame",
+      "url": "https://open.spotify.com/track/1BdDHMSD1LtJ9fGCMee0D8"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 220680,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2cSReP67LziR3PeYQ8Ehm2"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 162306,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
@@ -681,10 +489,10 @@
       "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
-        "name": "Big Colors",
-        "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
+        "name": "FM",
+        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
       },
       "artists": [
         {
@@ -692,28 +500,12 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 213946,
-      "name": "Fuck The Rain",
-      "url": "https://open.spotify.com/track/6QZteBMevNynnZFzCxoG0I"
+      "duration_ms": 278666,
+      "name": "Fairweather",
+      "url": "https://open.spotify.com/track/6CiJ9RWyu7YlRioyrGLDZZ"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 128248,
-      "name": "Damn Sam (I Love a Woman That Rains)",
-      "url": "https://open.spotify.com/track/07A4I35sBKxJ43iPZmWMqZ"
-    },
-    {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
@@ -724,15 +516,15 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 191226,
-      "name": "I Can't Remember",
-      "url": "https://open.spotify.com/track/23gqNeMwhNIDeO7ZJhe7ab"
+      "duration_ms": 174120,
+      "name": "Doylestown Girl",
+      "url": "https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
       "artists": [
         {
@@ -740,12 +532,124 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 171666,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
+      "duration_ms": 181840,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "FM",
+        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Wild and Hopeless",
+      "url": "https://open.spotify.com/track/6xlSShT4sz2vBzrYQ1lZR0"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 318586,
+      "name": "The Shadowlands",
+      "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 178706,
+      "name": "Chin Up, Cheer Up",
+      "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "All You Had To Do Was Stay",
+      "url": "https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "FM",
+        "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 220576,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/2jBRUI4yW7UEw46etz02id"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 261065,
+      "name": "Outbound Train",
+      "url": "https://open.spotify.com/track/6eGBTRiVkcrSHDr5S4Xf4T"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
@@ -761,10 +665,10 @@
       "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
-        "name": "Wednesdays",
-        "url": "https://open.spotify.com/album/5iCnW230jyzcbTLdJalSA6"
+        "name": "Chris",
+        "url": "https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X"
       },
       "artists": [
         {
@@ -772,12 +676,60 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 214586,
-      "name": "I'm Sorry and I Love You",
-      "url": "https://open.spotify.com/track/2fwAHp0tMsBedFwvR6h8RX"
+      "duration_ms": 172706,
+      "name": "Lookout",
+      "url": "https://open.spotify.com/track/0USkDJMpEkFZLyPoYFP5XT"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "The Rescue Blues",
+      "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Big Colors",
+        "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 213946,
+      "name": "Fuck The Rain",
+      "url": "https://open.spotify.com/track/6QZteBMevNynnZFzCxoG0I"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 128248,
+      "name": "Damn Sam (I Love a Woman That Rains)",
+      "url": "https://open.spotify.com/track/07A4I35sBKxJ43iPZmWMqZ"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
       "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
@@ -793,10 +745,10 @@
       "url": "https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19"
     },
     {
-      "added_at": "2022-09-30 13:29:15",
+      "added_at": "2022-10-01 13:13:49",
       "album": {
-        "name": "Big Colors",
-        "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
       "artists": [
         {
@@ -804,9 +756,57 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 172253,
-      "name": "Manchester",
-      "url": "https://open.spotify.com/track/6aUOcMHx41SxhcC9pXGlNN"
+      "duration_ms": 171666,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Wednesdays",
+        "url": "https://open.spotify.com/album/5iCnW230jyzcbTLdJalSA6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "I'm Sorry and I Love You",
+      "url": "https://open.spotify.com/track/2fwAHp0tMsBedFwvR6h8RX"
+    },
+    {
+      "added_at": "2022-10-01 13:13:49",
+      "album": {
+        "name": "Romeo & Juliet",
+        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 137133,
+      "name": "Somethings Missing",
+      "url": "https://open.spotify.com/track/0VbtIu7vYixBGAfh8GxzRv"
     }
   ],
   "unique_name": "This Is Ryan Adams",

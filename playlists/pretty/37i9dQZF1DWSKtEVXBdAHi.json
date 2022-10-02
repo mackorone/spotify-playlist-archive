@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27064,
+  "num_followers": 27066,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDJhNGJkMDljODJmNWRmNzUyYWNlNTIyNGFhNWEwZDky",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGY5MWFhMDVmMjYzMDM5NDFiMDNhYjdmNTUxNWZjNzAw",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -787,6 +787,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Lost In Japan (Remix)",
+        "url": "https://open.spotify.com/album/3ynoYncFXzo2OfPT8j93Pw"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Lost In Japan - Remix",
+      "url": "https://open.spotify.com/track/575NJxNUVDqwJGdzBrlLbv"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Lost In Japan (Remix)",
-        "url": "https://open.spotify.com/album/3ynoYncFXzo2OfPT8j93Pw"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Lost In Japan - Remix",
-      "url": "https://open.spotify.com/track/575NJxNUVDqwJGdzBrlLbv"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "All I Wanna Do",
+        "url": "https://open.spotify.com/album/49pOtXDkhfPJBwtlf5vrLm"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Living (feat. Alex Clare)",
         "url": "https://open.spotify.com/album/0dHBCgs7zfH2mQXHTghume"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 197733,
       "name": "Living (feat. Alex Clare)",
       "url": "https://open.spotify.com/track/63Qco1ncI5U4qEUnxL1DsH"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "All I Wanna Do",
-        "url": "https://open.spotify.com/album/49pOtXDkhfPJBwtlf5vrLm"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Pixie's Parasol",
+        "url": "https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Hotel Walls",
+      "url": "https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 130899,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Hotel Walls",
-      "url": "https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu"
     },
     {
       "added_at": "2020-02-18 13:31:30",

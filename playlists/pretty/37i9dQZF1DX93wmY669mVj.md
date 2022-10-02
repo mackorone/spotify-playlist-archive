@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 
 > Explore the music of Franz Liszt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,446 likes - 62 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,533 likes - 62 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,6 +69,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 | 59 | [A Faust Symphony, S.108: 1\. Faust](https://open.spotify.com/track/6E8bE0cepuzZsLQO4fOkAs) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Chicago Symphony Orchestra](https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E), [Sir Georg Solti](https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH) | [Liszt: Faust Symphony; Dante Symphony; Les Prélludes; Prometheus](https://open.spotify.com/album/1s1zj0erJyhfE6LhhTD0Nw) | 28:13 |
 | 60 | [Liszt: A Faust Symphony, S\. 108: II\. Gretchen](https://open.spotify.com/track/3uOQBWIqDmIvpwiGWwBGl4) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Riccardo Muti](https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Liszt: A Faust Symphony](https://open.spotify.com/album/4HheLMTl5KF3Lme3tL5JIb) | 22:10 |
 | 61 | [Ce qu'on entend sur la montagne \(What is Heard on the Mountain\), S95/R412](https://open.spotify.com/track/4J04Ip9H3WGrUTVAzIukC9) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM), [Michael Halasz](https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6) | [Liszt: Symphonic Poems, Vol\. 3](https://open.spotify.com/album/3k2gPAEbhpD9AvNmBh9YKW) | 29:11 |
-| 62 | [Unstern! \-Sinistre , S208](https://open.spotify.com/track/16a5AZugitkbqukRT6wXAQ) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [The Liszt Project \- Bartók; Berg; Messiaen; Ravel; Scriabin; Stroppa; Wagner](https://open.spotify.com/album/2wPExAXASG4ICQGfzxowCi) | 6:03 |
+| 62 | [Unstern! \-Sinistre , S208](https://open.spotify.com/track/5jQGr0npaGbloMggiJLIEY) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [A Classical Dawn: Liszt](https://open.spotify.com/album/7f0P02alyNnUbY2uIKQQLb) | 6:03 |
 
-Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMDVhOGQ4Y2EwOTIzZDEwMzlkMmVhZjc5MTE2YmJkZDZj`
+Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMGNjYWNkODg4ZjBjZWQ0NDVjZjc5Y2NjZTdiMmVmOTAw`

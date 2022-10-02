@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 113586,
+  "num_followers": 113613,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMDlmNTA2MGNhZjI2ZDg1YjNiYWEyNzFkZDI1MWY2NTdl",
+  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMDAxNTEwYTc4MGJlN2U0NGM3YmI4OGMxMzg3ZTFlNTUy",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "Halfbreed",
-        "url": "https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi"
-      },
-      "artists": [
-        {
-          "name": "Keef Hartley Band",
-          "url": "https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2"
-        }
-      ],
-      "duration_ms": 356360,
-      "name": "Leavin' Trunk",
-      "url": "https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H"
-    },
-    {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
         "name": "Distortions",
         "url": "https://open.spotify.com/album/0L7ktraAFQOxPHgK2zLbyf"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 272493,
       "name": "Codine",
       "url": "https://open.spotify.com/track/1D5PLr1KOnXSo5sJyPUmXP"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
+        "name": "Halfbreed",
+        "url": "https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi"
+      },
+      "artists": [
+        {
+          "name": "Keef Hartley Band",
+          "url": "https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2"
+        }
+      ],
+      "duration_ms": 356360,
+      "name": "Leavin' Trunk",
+      "url": "https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -691,6 +691,22 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "The Crazy World of Arthur Brown",
+        "url": "https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr"
+      },
+      "artists": [
+        {
+          "name": "The Crazy World Of Arthur Brown",
+          "url": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/4mLPC3KlU71mb4eDMddLmT"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "The Seeds",
         "url": "https://open.spotify.com/album/6VSc96KWdejRIgMrmo4v8N"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 238320,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/6FNHbGuJ8GkB0bty9Jm3c6"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "The Crazy World of Arthur Brown",
-        "url": "https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr"
-      },
-      "artists": [
-        {
-          "name": "The Crazy World Of Arthur Brown",
-          "url": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "I Put a Spell on You",
-      "url": "https://open.spotify.com/track/4mLPC3KlU71mb4eDMddLmT"
     },
     {
       "added_at": "2018-02-28 19:55:41",

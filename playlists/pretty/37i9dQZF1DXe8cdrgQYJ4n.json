@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 7354,
+  "num_followers": 7375,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjc3NSwwMDAwMDAwMDljZmJlMDFmYzk1OGI5MTk5MmQzMjYxYmY0ZjAwZWE4",
+  "snapshot_id": "MTY2MDgzMjc3NSwwMDAwMDAwMDY0Y2U1NGM3ZjZmMTBmNWUyYzAyMGZmMTU0NTEyYjUy",
   "tracks": [
     {
       "added_at": "2022-08-18 14:26:15",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
-        "name": "LEGO(Let's Go)",
-        "url": "https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8"
-      },
-      "artists": [
-        {
-          "name": "curv moon",
-          "url": "https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4"
-        }
-      ],
-      "duration_ms": 113346,
-      "name": "LEGO(Let's Go)",
-      "url": "https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
         "name": "TURNED",
         "url": "https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 199093,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
+        "name": "LEGO(Let's Go)",
+        "url": "https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8"
+      },
+      "artists": [
+        {
+          "name": "curv moon",
+          "url": "https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4"
+        }
+      ],
+      "duration_ms": 113346,
+      "name": "LEGO(Let's Go)",
+      "url": "https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM"
     },
     {
       "added_at": "2022-08-18 14:26:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
-        "name": "My Move",
-        "url": "https://open.spotify.com/album/7fcDWzalNj9GIV3D17DJIH"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "My Move",
-      "url": "https://open.spotify.com/track/5PyfW50o3iKQ1rfvBNIYPC"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
         "name": "MONOCHROME",
         "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 235624,
       "name": "Miss Korea",
       "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
+        "name": "My Move",
+        "url": "https://open.spotify.com/album/7fcDWzalNj9GIV3D17DJIH"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "My Move",
+      "url": "https://open.spotify.com/track/5PyfW50o3iKQ1rfvBNIYPC"
     },
     {
       "added_at": "2022-08-18 14:26:15",

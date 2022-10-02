@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,685 likes - 102 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,695 likes - 102 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 92 | [ハッピー♡スイート♡バースデー!](https://open.spotify.com/track/0NvXl9PnL6WgJsuVlrUoFR) | [Sasaki Ayaka](https://open.spotify.com/artist/5QiJIyp7IJV0Uaq9gqs7Ch) | [A\-rin Assort](https://open.spotify.com/album/01Geon4MjjGkScqLBJiTlE) | 3:58 |
 | 93 | [Perfect\-area complete!](https://open.spotify.com/track/0mbUCoZHwCFPAyUsEEWXK7) | [麻生夏子](https://open.spotify.com/artist/1DDZtVeKCSNTVs2EupUsQ1) | [Movement of magic](https://open.spotify.com/album/0V6EFjSPBXudBEZ13Bt7iZ) | 4:01 |
 | 94 | [Changes](https://open.spotify.com/track/02Ik0DMcCN2TMDGKY9JnUL) | [石田裕子](https://open.spotify.com/artist/1SNm8XI0sfrS0q0l4IuXOH) | [Changes](https://open.spotify.com/album/4K33360b8TthyAVug4xtKd) | 3:36 |
-| 95 | [ぐるぐるDJ TURN!! \- Anime OP Ver.](https://open.spotify.com/track/6RVYVlMke3AZFoe1gWSL09) | [Happy Around!](https://open.spotify.com/artist/3UnGSUFAzeXjRQgMNWOtcg) | [ぐるぐるDJ TURN!! \(Anime OP Ver.\)](https://open.spotify.com/album/7DXdue0r5TqwfGJJP1GUkK) | 3:44 |
+| 95 | [ぐるぐるDJ TURN!! \- Anime OP Ver.](https://open.spotify.com/track/5DQIzTSYnjCOLG1U3mRnY8) | [Happy Around!](https://open.spotify.com/artist/3UnGSUFAzeXjRQgMNWOtcg) | [ぐるぐるDJ TURN!! \(Anime OP Ver.\)](https://open.spotify.com/album/3pwJHHZnvsGKLdiHZNn4Vz) | 3:44 |
 | 96 | [飲めや 歌えや 踊れや 騒げ](https://open.spotify.com/track/53auYigwBSruRRFjPe4hf6) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [飲めや 歌えや 踊れや 騒げ](https://open.spotify.com/album/1T6CM2RkCtYRGg3aS779TF) | 3:48 |
 | 97 | [GETUP! GETLIVE!](https://open.spotify.com/track/6SOz8fATPD8ln6UzbyVGVU) | [上原淳也 \(CV.花江夏樹\)](https://open.spotify.com/artist/332AD9pDagCIxk2VsjXbyG), [東沢 楓 \(CV.西山宏太朗\)](https://open.spotify.com/artist/6bdMLRTtvz06sXJ4Lahkv6), [町田瀬那 \(CV.豊永利行\)](https://open.spotify.com/artist/0Hl9gqptIt5WKbRPxHZwqI), [大野虎之助 \(CV.石川界人\)](https://open.spotify.com/artist/0Tgy1QbgwzpkCuvCz4ZIlr), [喜多見 蓮 \(CV.阿座上洋平\)](https://open.spotify.com/artist/2PxFmTVd5ZtVFlw8l56Qhr), [狛江一馬 \(CV.熊谷健太郎\)](https://open.spotify.com/artist/7uBma6fLieKj42Vh2GIqn3) | [GETUP! GETLIVE! Steam Rising](https://open.spotify.com/album/5WFXpEgfLFMzD4ac3UWQOI) | 4:01 |
 | 98 | [OKITATTAー](https://open.spotify.com/track/3PLUM7RPDgEZ0E8e8M4XQN) | [おきたらんどキッズ](https://open.spotify.com/artist/2Xt5lDM9fryAwMlI2ps1QO), [畑中香音ちゃん](https://open.spotify.com/artist/1kskfEZRyBTOXxptAu9EYw), [中田麻菜ちゃん](https://open.spotify.com/artist/4IQPj8sjJMndVdNKlNd7hm), [高木京之介くん](https://open.spotify.com/artist/128Hd6hjRTirJHRzw4DU9m) | [ABCTV OHAYOUASAHIDESU OKITARAND OKITATTA](https://open.spotify.com/album/2M5uSQandeQMIhCgpkjkHN) | 1:48 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 101 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 102 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMDJjOGNjMGUxMWE4OWJkZDNlYjVhZjY0NDhkOTg5MGM5`
+Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMDgzMzg0MjQ0ZDlkMTY2ODI2MDEzODBmM2FiMTQ1YmFm`

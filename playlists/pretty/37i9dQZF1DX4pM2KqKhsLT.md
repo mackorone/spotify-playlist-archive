@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pM2KqKhsLT.md) - [plain]
 
 > Exciting podcasters on the RADAR: The Linya\-Linya Show, The Week Sauce, and Wisdom Bars with Real Talk Darbs! \#PinoyPride
 
-[Spotify](https://open.spotify.com/user/spotify) - 509 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 512 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

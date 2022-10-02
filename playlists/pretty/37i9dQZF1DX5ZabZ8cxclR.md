@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZabZ8cxclR.md) - [plain]
 
 > Enjoy the soundtrack of Broker! \(영화 브로커의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 636 likes - 25 songs - 43 min 14 sec
+[Spotify](https://open.spotify.com/user/spotify) - 640 likes - 25 songs - 43 min 14 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

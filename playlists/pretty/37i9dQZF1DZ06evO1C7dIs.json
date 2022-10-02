@@ -1,15 +1,15 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 200640,
+  "num_followers": 200718,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NDI0MDksMDAwMDAwMDA4ZTQ4MGIxYzUzZmIxYWUwMjRlNWNiZGIyYjZkODRjNA==",
+  "snapshot_id": "Mjc3NDM4MzMsMDAwMDAwMDA0ZTA3Nzk5MjY4MjhiNGQwYTdkZjJhODQwYjY4Zjg1ZQ==",
   "tracks": [
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Imaginaerum",
         "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5IhtaTempjlVlPmSgI0FQS"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Century Child",
         "url": "https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2WmbbiWfFEKsSZe6E5GeVe"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Highest Hopes-The Best Of Nightwish",
         "url": "https://open.spotify.com/album/2VjhAwhEZfKc0qMzgrc0Oj"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2VvmryAbIRod1FwZHtwqC5"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Endless Forms Most Beautiful (Deluxe Version)",
         "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/5oAvb7LpUBwQfBtQ6hmS4Q"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
@@ -89,39 +89,7 @@
       "url": "https://open.spotify.com/track/0RZVAhyB8vhxQz6ITjiuyA"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Century Child",
-        "url": "https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 233800,
-      "name": "End Of All Hope",
-      "url": "https://open.spotify.com/track/3RqTWAc3noEuDS5B0BimD7"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Highest Hopes-The Best Of Nightwish",
-        "url": "https://open.spotify.com/album/2VjhAwhEZfKc0qMzgrc0Oj"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/6PkOmPMlH5nPFeoCPU0lo2"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
@@ -137,7 +105,39 @@
       "url": "https://open.spotify.com/track/0RsOUnm1wNpbXxZ8a4abOP"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Highest Hopes-The Best Of Nightwish",
+        "url": "https://open.spotify.com/album/2VjhAwhEZfKc0qMzgrc0Oj"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/6PkOmPMlH5nPFeoCPU0lo2"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Century Child",
+        "url": "https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "End Of All Hope",
+      "url": "https://open.spotify.com/track/3RqTWAc3noEuDS5B0BimD7"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Over The Hills And Far Away",
         "url": "https://open.spotify.com/album/4sPRDVFW50ZnrKDlg9SwIG"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/4004xnMLj5QGxWvu6JPcJ7"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "The Sound of Nightwish Reborn",
         "url": "https://open.spotify.com/album/4A8TYBcOB8B2lIOlpU4k30"
@@ -169,23 +169,7 @@
       "url": "https://open.spotify.com/track/3r3KRYYOFjNGD4OJB5ddam"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Century Child",
-        "url": "https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 282933,
-      "name": "Ever Dream",
-      "url": "https://open.spotify.com/track/5SNDGulFALe3DpSbuYarl7"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
@@ -201,7 +185,23 @@
       "url": "https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Century Child",
+        "url": "https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 282933,
+      "name": "Ever Dream",
+      "url": "https://open.spotify.com/track/5SNDGulFALe3DpSbuYarl7"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Imaginaerum",
         "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Wishmaster",
         "url": "https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V"
@@ -233,119 +233,7 @@
       "url": "https://open.spotify.com/track/5soihaBWFEQqCYu0HOUVzK"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Oceanborn",
-        "url": "https://open.spotify.com/album/0hsS3rW3uPBer1pejhgAEv"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Sleeping Sun",
-      "url": "https://open.spotify.com/track/2VPK0BMgwyRtx9QlyBpdb0"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Endless Forms Most Beautiful (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 289009,
-      "name": "Alpenglow",
-      "url": "https://open.spotify.com/track/5UlVP9eewIYpqewZv6kToz"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Century Child",
-        "url": "https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Dead To The World",
-      "url": "https://open.spotify.com/track/53f1Zi9zTs0nw5DwzR0mQx"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 268720,
-      "name": "Dark Chest of Wonders",
-      "url": "https://open.spotify.com/track/4QCGfqoCLZ3x9iMgtzUMD9"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "HUMAN. :II: NATURE.",
-        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 319025,
-      "name": "Shoemaker",
-      "url": "https://open.spotify.com/track/5xITcnqoMdILDBNCwHGr5v"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Endless Forms Most Beautiful (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 389013,
-      "name": "Shudder Before the Beautiful",
-      "url": "https://open.spotify.com/track/50CJMURkzURQwlp4Ht5tp6"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Wishmaster",
-        "url": "https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 286226,
-      "name": "She Is My Sin",
-      "url": "https://open.spotify.com/track/7FMS5A5YzxUOMIzTCT6KkW"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
@@ -361,7 +249,119 @@
       "url": "https://open.spotify.com/track/5dyQ8spGuggi5RBqhkUToy"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Oceanborn",
+        "url": "https://open.spotify.com/album/0hsS3rW3uPBer1pejhgAEv"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Sleeping Sun",
+      "url": "https://open.spotify.com/track/2VPK0BMgwyRtx9QlyBpdb0"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 289009,
+      "name": "Alpenglow",
+      "url": "https://open.spotify.com/track/5UlVP9eewIYpqewZv6kToz"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Century Child",
+        "url": "https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Dead To The World",
+      "url": "https://open.spotify.com/track/53f1Zi9zTs0nw5DwzR0mQx"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 268720,
+      "name": "Dark Chest of Wonders",
+      "url": "https://open.spotify.com/track/4QCGfqoCLZ3x9iMgtzUMD9"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "HUMAN. :II: NATURE.",
+        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 319025,
+      "name": "Shoemaker",
+      "url": "https://open.spotify.com/track/5xITcnqoMdILDBNCwHGr5v"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 389013,
+      "name": "Shudder Before the Beautiful",
+      "url": "https://open.spotify.com/track/50CJMURkzURQwlp4Ht5tp6"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 286226,
+      "name": "She Is My Sin",
+      "url": "https://open.spotify.com/track/7FMS5A5YzxUOMIzTCT6KkW"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/6uwjUM0Y0NfPmLBKVAbUXW"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Imaginaerum",
         "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
@@ -393,71 +393,7 @@
       "url": "https://open.spotify.com/track/3HCzXf0lNpekSqsGBcGrCd"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "HUMAN. :II: NATURE.",
-        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 443120,
-      "name": "Music",
-      "url": "https://open.spotify.com/track/49LQq6RoFTWFk5d6hBGEKt"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Century Child",
-        "url": "https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Forever Yours",
-      "url": "https://open.spotify.com/track/16pngF7qRDnAkXt2FMuUdl"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "From Wishes To Eternity (Live)",
-        "url": "https://open.spotify.com/album/550DhzHfiSoLYGZJapGLNL"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Instrumental (Crimson Tide / Deep Blue Sea) - Live",
-      "url": "https://open.spotify.com/track/5EKThE1jwnncFiGoEtNVBG"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 278760,
-      "name": "Planet Hell",
-      "url": "https://open.spotify.com/track/4aOUcByFqMhdnMWZqUkogv"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
@@ -473,7 +409,55 @@
       "url": "https://open.spotify.com/track/06h4HxzQkqx45lCRxDe4lA"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Century Child",
+        "url": "https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Forever Yours",
+      "url": "https://open.spotify.com/track/16pngF7qRDnAkXt2FMuUdl"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "From Wishes To Eternity (Live)",
+        "url": "https://open.spotify.com/album/550DhzHfiSoLYGZJapGLNL"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Instrumental (Crimson Tide / Deep Blue Sea) - Live",
+      "url": "https://open.spotify.com/track/5EKThE1jwnncFiGoEtNVBG"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 278760,
+      "name": "Planet Hell",
+      "url": "https://open.spotify.com/track/4aOUcByFqMhdnMWZqUkogv"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "The Crow, the Owl and the Dove",
         "url": "https://open.spotify.com/album/7lY1FLP3cGbOurnNtF0jfJ"
@@ -489,7 +473,7 @@
       "url": "https://open.spotify.com/track/4rsqx0pmutBNt3TQQtLyKL"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
@@ -505,7 +489,7 @@
       "url": "https://open.spotify.com/track/7Ce61NyQM0XfGbVHSUBBOG"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Showtime, Storytime (Live, at Wacken, 2013)",
         "url": "https://open.spotify.com/album/2EIvvMqgrCHORCpQBmJDjm"
@@ -521,23 +505,7 @@
       "url": "https://open.spotify.com/track/3veJ8Oy7Z5iNaxZRgZRFOr"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Endless Forms Most Beautiful (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 398984,
-      "name": "Our Decades in the Sun",
-      "url": "https://open.spotify.com/track/4ACKwaUN9klaKLnay8eZjf"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
@@ -548,92 +516,12 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 318305,
-      "name": "Pan",
-      "url": "https://open.spotify.com/track/1XcTT3XqNalzJMamAiIqOW"
+      "duration_ms": 443120,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/49LQq6RoFTWFk5d6hBGEKt"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Over The Hills And Far Away",
-        "url": "https://open.spotify.com/album/4sPRDVFW50ZnrKDlg9SwIG"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "10th Man Down",
-      "url": "https://open.spotify.com/track/5YEl0SaWsp0QhrFqZyV0XA"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Showtime, Storytime (Live, at Wacken, 2013)",
-        "url": "https://open.spotify.com/album/2EIvvMqgrCHORCpQBmJDjm"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 339680,
-      "name": "Romanticide - Live, at Wacken, 2013",
-      "url": "https://open.spotify.com/track/7gKZSUpLRgX9wP4IhEVJhA"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Endless Forms Most Beautiful (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 1441002,
-      "name": "The Greatest Show on Earth",
-      "url": "https://open.spotify.com/track/2TMBnZlhLEzMIpFBLlDdTh"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Century Child",
-        "url": "https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 372560,
-      "name": "Bless The Child",
-      "url": "https://open.spotify.com/track/5EGh7JiX79SeHn9J1yn2UX"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Imaginaerum",
-        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 350466,
-      "name": "Slow, Love, Slow",
-      "url": "https://open.spotify.com/track/5CkTPzrJLbvuCRo8owNSx5"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "End of an Era",
         "url": "https://open.spotify.com/album/0vAgv1fFn8zW2hbpWJfgPX"
@@ -649,7 +537,7 @@
       "url": "https://open.spotify.com/track/7LUYlbzPVix2varjKXAk6z"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Endless Forms Most Beautiful (Deluxe Version)",
         "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
@@ -660,15 +548,15 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 364009,
-      "name": "The Eyes of Sharbat Gula",
-      "url": "https://open.spotify.com/track/7qapfDbyifDAqSUvG477Za"
+      "duration_ms": 398984,
+      "name": "Our Decades in the Sun",
+      "url": "https://open.spotify.com/track/4ACKwaUN9klaKLnay8eZjf"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
-        "name": "Wish I Had an Angel",
-        "url": "https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7"
+        "name": "Showtime, Storytime (Live, at Wacken, 2013)",
+        "url": "https://open.spotify.com/album/2EIvvMqgrCHORCpQBmJDjm"
       },
       "artists": [
         {
@@ -676,15 +564,15 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 232813,
-      "name": "Where Were You Last Night",
-      "url": "https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk"
+      "duration_ms": 339680,
+      "name": "Romanticide - Live, at Wacken, 2013",
+      "url": "https://open.spotify.com/track/7gKZSUpLRgX9wP4IhEVJhA"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
-        "name": "Oceanborn",
-        "url": "https://open.spotify.com/album/37LveKPgKGwpuI0cEVbPj4"
+        "name": "HUMAN. :II: NATURE.",
+        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
       "artists": [
         {
@@ -692,12 +580,60 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 284533,
-      "name": "Swanheart",
-      "url": "https://open.spotify.com/track/5NULYChw0sL9RUVAxKkTQP"
+      "duration_ms": 318305,
+      "name": "Pan",
+      "url": "https://open.spotify.com/track/1XcTT3XqNalzJMamAiIqOW"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Over The Hills And Far Away",
+        "url": "https://open.spotify.com/album/4sPRDVFW50ZnrKDlg9SwIG"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "10th Man Down",
+      "url": "https://open.spotify.com/track/5YEl0SaWsp0QhrFqZyV0XA"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 1441002,
+      "name": "The Greatest Show on Earth",
+      "url": "https://open.spotify.com/track/2TMBnZlhLEzMIpFBLlDdTh"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Century Child",
+        "url": "https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 372560,
+      "name": "Bless The Child",
+      "url": "https://open.spotify.com/track/5EGh7JiX79SeHn9J1yn2UX"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Imaginaerum",
         "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
@@ -708,44 +644,12 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 259120,
-      "name": "Turn Loose the Mermaids",
-      "url": "https://open.spotify.com/track/7D7jA8A8gFHK7SdmO3oOrM"
+      "duration_ms": 350466,
+      "name": "Slow, Love, Slow",
+      "url": "https://open.spotify.com/track/5CkTPzrJLbvuCRo8owNSx5"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Vehicle of Spirit: Wembley Arena (Live)",
-        "url": "https://open.spotify.com/album/1y6lNpSBJck5Fi0iRwHot1"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 431730,
-      "name": "7 Days to the Wolves - Live, at Wembley, 2015",
-      "url": "https://open.spotify.com/track/1SQlzlYlaMXvBphd1Z1nmD"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
-      "album": {
-        "name": "Dark Passion Play",
-        "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 265769,
-      "name": "Eva",
-      "url": "https://open.spotify.com/track/2HvpDl7hp6JLH4UtKp3fTp"
-    },
-    {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Oceanborn",
         "url": "https://open.spotify.com/album/37LveKPgKGwpuI0cEVbPj4"
@@ -761,10 +665,10 @@
       "url": "https://open.spotify.com/track/3rf2cBQqaPG87cbp18Z0g7"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
-        "name": "Once (Remastered)",
-        "url": "https://open.spotify.com/album/6qqKoGukMfzw9aYa2qaJOb"
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
       },
       "artists": [
         {
@@ -772,12 +676,60 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 268109,
-      "name": "Dead Gardens - Remastered",
-      "url": "https://open.spotify.com/track/6BjgGSC0hfQAHUztG6N23M"
+      "duration_ms": 364009,
+      "name": "The Eyes of Sharbat Gula",
+      "url": "https://open.spotify.com/track/7qapfDbyifDAqSUvG477Za"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Wish I Had an Angel",
+        "url": "https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Where Were You Last Night",
+      "url": "https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Vehicle of Spirit: Wembley Arena (Live)",
+        "url": "https://open.spotify.com/album/1y6lNpSBJck5Fi0iRwHot1"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 431730,
+      "name": "7 Days to the Wolves - Live, at Wembley, 2015",
+      "url": "https://open.spotify.com/track/1SQlzlYlaMXvBphd1Z1nmD"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 265769,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/2HvpDl7hp6JLH4UtKp3fTp"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Wishmaster",
         "url": "https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V"
@@ -793,7 +745,39 @@
       "url": "https://open.spotify.com/track/5ZL7XCYicDTmqXjS7MNEep"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Once (Remastered)",
+        "url": "https://open.spotify.com/album/6qqKoGukMfzw9aYa2qaJOb"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 268109,
+      "name": "Dead Gardens - Remastered",
+      "url": "https://open.spotify.com/track/6BjgGSC0hfQAHUztG6N23M"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Imaginaerum",
+        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Turn Loose the Mermaids",
+      "url": "https://open.spotify.com/track/7D7jA8A8gFHK7SdmO3oOrM"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
       "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
@@ -809,10 +793,10 @@
       "url": "https://open.spotify.com/track/5sDDSdsBa15i2IDhJ7HsYV"
     },
     {
-      "added_at": "2022-09-30 13:29:05",
+      "added_at": "2022-10-01 13:13:41",
       "album": {
-        "name": "Oceanborn",
-        "url": "https://open.spotify.com/album/37LveKPgKGwpuI0cEVbPj4"
+        "name": "Angels Fall First",
+        "url": "https://open.spotify.com/album/5ijhla4go9hgv4TAz4lt5j"
       },
       "artists": [
         {
@@ -820,9 +804,25 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 268226,
-      "name": "Stargazers",
-      "url": "https://open.spotify.com/track/2G3trbcEHjjrLVP5lzqdPy"
+      "duration_ms": 277866,
+      "name": "Elvenpath - Remastered",
+      "url": "https://open.spotify.com/track/1mRilVsFhkqCgUK44g9bB2"
+    },
+    {
+      "added_at": "2022-10-01 13:13:41",
+      "album": {
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 238973,
+      "name": "The Kinslayer",
+      "url": "https://open.spotify.com/track/0ePxSaJJbDpH7Bavz3gucs"
     }
   ],
   "unique_name": "This Is Nightwish",

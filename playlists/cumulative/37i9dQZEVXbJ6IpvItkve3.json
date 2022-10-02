@@ -6089,7 +6089,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 313253,
       "name": "\u05d1\u05e1\u05d9\u05d1\u05d5\u05d1",
       "url": "https://open.spotify.com/track/5RnhWaP5VD3eJN3J0chPmh"
@@ -7099,7 +7099,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 139516,
       "name": "\u05d9\u05d5\u05ea\u05e8 \u05d7\u05d6\u05e7 \u05de\u05d4?",
       "url": "https://open.spotify.com/track/4C7X3ja0DeTxMaTQJXtQ8W"
@@ -7398,6 +7398,28 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d1\u05d7\u05d5\u05e8 \u05e0\u05db\u05d5\u05df & \u05e4\u05d5\u05dc\u05d9\u05d8\u05d9\u05e7\u05d4 \u05d5\u05e1\u05e7\u05e1",
+        "url": "https://open.spotify.com/album/3vZff9NFFWmvMO7jqVUg6h"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
+        {
+          "name": "Amir Dadon",
+          "url": "https://open.spotify.com/artist/398u4UqbG8yzv4H08Mc1Eq"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344154,
+      "name": "\u05dc\u05d1\u05d7\u05d5\u05e8 \u05e0\u05db\u05d5\u05df & \u05e4\u05d5\u05dc\u05d9\u05d8\u05d9\u05e7\u05d4 \u05d5\u05e1\u05e7\u05e1",
+      "url": "https://open.spotify.com/track/2EpdcPssADDCCMeOQ9GVtv"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05e9\u05dc\u05da",
         "url": "https://open.spotify.com/album/7seV7Ag0PPEeNfLiMVa9hJ"
       },
@@ -7413,7 +7435,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 198750,
       "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05e9\u05dc\u05da",
       "url": "https://open.spotify.com/track/4BBEoERaClW0ROQY9evmE9"
@@ -9031,7 +9053,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 180984,
       "name": "\u05e4\u05e2\u05de\u05d5\u05df",
       "url": "https://open.spotify.com/track/4DgyTAwiSJsT5u5EljsImB"
@@ -9707,7 +9729,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 238089,
       "name": "\u05e9\u05de\u05e9",
       "url": "https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS"

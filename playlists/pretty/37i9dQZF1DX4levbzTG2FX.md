@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4levbzTG2FX.md) - [plain]
 
 > In partnership with CCLI, here are the top songs in church in the USA\. Updated monthly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,213 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,215 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

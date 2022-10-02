@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Iuzrmmm3ml.md) - [plain]
 
 > Music from "Resident Evil: Infinite Darkness"! /音楽で辿る「BIOHAZARD：Infinite Darkness」の世界。©CAPCOM CO.,LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 733 likes - 29 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 734 likes - 29 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

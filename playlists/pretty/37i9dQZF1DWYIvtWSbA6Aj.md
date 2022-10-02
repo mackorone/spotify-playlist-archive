@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIvtWSbA6Aj.md) - [plain]
 
 > Superstar DJ and producer, <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">Martin Garrix</a> readies us for the summer time with a mix featuring bangers from his new album, Sentio!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,375 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,628 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

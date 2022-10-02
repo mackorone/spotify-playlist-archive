@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > All of the nominees in one playlist! More info on this year's event can be found at <a href="http://www.stellarawards.com">stellarawards.com</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,177 likes - 67 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,185 likes - 67 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

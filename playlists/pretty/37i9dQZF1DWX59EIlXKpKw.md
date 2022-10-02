@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX59EIlXKpKw.md) - [plain]
 
 > Listen to all the music from the hit series, and your favorite science songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 717 likes - 20 songs - 40 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 721 likes - 20 songs - 40 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

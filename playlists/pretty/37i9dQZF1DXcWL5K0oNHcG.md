@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Josh Kelly / JK Group Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,578 likes - 66 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,638 likes - 66 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

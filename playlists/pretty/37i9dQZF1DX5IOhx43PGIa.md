@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Rina Sawayama takes overr Jasmine to celebrate ESEA \(East and South East Asians\) Month in the UK!
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,247 likes - 30 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,248 likes - 30 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

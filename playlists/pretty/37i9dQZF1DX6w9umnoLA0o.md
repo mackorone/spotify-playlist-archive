@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6w9umnoLA0o.md) - [plain]
 
 > Enjoy TV theme songs of “SHOWA KAMEN RIDER series”! /<br/>「昭和仮面ライダーシリーズ」のテレビ主題歌をプレイリストで！ ©I・T
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,158 likes - 26 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162 likes - 26 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

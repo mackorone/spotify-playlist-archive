@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,591 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,618 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 33 | [Dance with You](https://open.spotify.com/track/04zipeUI1GQjypWxPfFL8t) | [Caitlin Kinnunen](https://open.spotify.com/artist/33RWcf3xOXdbUHIajavxaE), [Isabelle McCalla](https://open.spotify.com/artist/4SNWtSWaGOFjjBhCUx7f4L) | [The Prom: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2EeSecVK1JVbirWHqgWoq6) | 3:07 |
 | 34 | [I'll Cover You](https://open.spotify.com/track/5fsqHu4hpOiFMVy1rqKpzm) | [Wilson Jermaine Heredia](https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV), [Jesse L\. Martin](https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I) | [The Best Of Rent](https://open.spotify.com/album/1HsvK3RNYq8I61Orf6OQ8D) | 2:28 |
 | 35 | [You're the Top](https://open.spotify.com/track/5poMgcmtczmFfC38ayOdlw) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Colin Donnell](https://open.spotify.com/artist/2j8GWQrHlJn97fuS5IPBtb) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 5:01 |
-| 36 | [The Next Ten Minutes](https://open.spotify.com/track/6TP9uOq1QhcphZHSPfrwzS) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [The Last Five Years \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6VZ5lJSFcHOKkpVZrxu8ie) | 7:37 |
-| 37 | [As Long As He Needs Me](https://open.spotify.com/track/5U08WCE89uN4otg1RJvfep) | [Sally Dexter](https://open.spotify.com/artist/6EYopXpSuAk852aUix9YvR) | [Oliver! \(1994 London Palladium Cast Recording\)](https://open.spotify.com/album/6zAJfB7geKqidKaRiu574H) | 3:16 |
+| 36 | [As Long As He Needs Me](https://open.spotify.com/track/5U08WCE89uN4otg1RJvfep) | [Sally Dexter](https://open.spotify.com/artist/6EYopXpSuAk852aUix9YvR) | [Oliver! \(1994 London Palladium Cast Recording\)](https://open.spotify.com/album/6zAJfB7geKqidKaRiu574H) | 3:16 |
+| 37 | [The Next Ten Minutes](https://open.spotify.com/track/6TP9uOq1QhcphZHSPfrwzS) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [The Last Five Years \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6VZ5lJSFcHOKkpVZrxu8ie) | 7:37 |
 | 38 | [Something Good](https://open.spotify.com/track/2unr8CLDdBMKRtff7lhcEr) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Bill Lee](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) | [The Sound Of Music \(50th Anniversary Edition\)](https://open.spotify.com/album/6p9jUvfQvXHAzStDArgYj5) | 3:33 |
 | 39 | [Maria](https://open.spotify.com/track/6ZzVcf5w9RMS4iqIhVQeHe) | [Matt Cavenaugh](https://open.spotify.com/artist/6WiZX2e7EGamztEoz3w8nX) | [West Side Story \(New Broadway Cast Recording \(2009\)\)](https://open.spotify.com/album/2tMSkFy27VIZjBum94KbpD) | 3:02 |
 | 40 | [Goodnight My Someone](https://open.spotify.com/track/09kRTnc2HceP9PssB7uAEQ) | [Barbara Cook](https://open.spotify.com/artist/6SY4hPB2QITF4kQUui96EP) | [The Music Man \(Original Broadway Cast\)](https://open.spotify.com/album/4O0zo2ULebkZ7PKZpFdPLJ) | 2:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 69 | [Unusual Way](https://open.spotify.com/track/2Hl4nwPX321cC3zkpq2RgF) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Nine: The Musical \(New Broadway Cast Recording\)](https://open.spotify.com/album/6Qmou5RmL4htJOTZCKoyFe) | 5:00 |
 | 70 | [I'll Be Here](https://open.spotify.com/track/6BmTGKJDphlIUEwGTUVBIG) | [Taye Diggs](https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT) | [The Wild Party \(Original Off\-Broadway Cast Recording\)](https://open.spotify.com/album/4XKzW9Ykl81o6LnAR12xkc) | 2:33 |
 
-Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMGQyMzk2NThkM2UxYjc1OWYzZGFmNmVhOTA4ZWM5YTdi`
+Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMDQyYzM1Mjc0YmY5MjVkYzBhOWNlNTgwYTc0N2E1ZDVl`

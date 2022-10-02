@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Breathe (alt version)",
+        "url": "https://open.spotify.com/album/3SLx9AyAbtj8gFPlzLSlBI"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192332,
+      "name": "Breathe - alt version",
+      "url": "https://open.spotify.com/track/3b0edfzz29UqcQb9S5FhP9"
+    },
+    {
+      "album": {
         "name": "Promise Everything (Deluxe)",
         "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 149720,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1bZaSiZCoEnCq3Kv80qwBL"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 178973,
       "name": "Hanging Around",
       "url": "https://open.spotify.com/track/5TguI7v9jn9sMCVM8GzfzF"

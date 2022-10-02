@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend\. Cover: Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,644 likes - 118 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,671 likes - 118 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > just a throwback of our favorite CEO Selena Gomez, cos why not
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,688,732 likes - 106 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,689,407 likes - 106 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

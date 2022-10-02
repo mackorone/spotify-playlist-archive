@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UQo7foKwUUMjb9KnaBE3S.md) - [plain]
 
 > Forget the morning rush and kick off your day the right way \- music on, volume up, happy days!
 
-[Spotify Australia & New Zealand](https://open.spotify.com/user/spotifyaustralia) - 2,073 likes - 42 songs - 2 hr 33 min
+[Spotify Australia & New Zealand](https://open.spotify.com/user/spotifyaustralia) - 2,072 likes - 42 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

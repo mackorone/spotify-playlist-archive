@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NDI0MDksMDAwMDAwMDA5YmRiZTgzYzU1MmI4NGRmN2I3NmFmZjg5NWIxNjcwOA==",
+  "snapshot_id": "Mjc3NDM4MzMsMDAwMDAwMDBlZDRlYWNmM2QxNGM2ZDBjZTNjNjAzMjUyZDkxZGNkOA==",
   "tracks": [
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "Fiesta Mexicana Con La Banda",
         "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
@@ -25,39 +25,7 @@
       "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "El Pasito Perron",
-        "url": "https://open.spotify.com/album/6CiXXNc8Mg5rFwbUwcZ68k"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "El Pasito Perron",
-      "url": "https://open.spotify.com/track/70cAHG35vnpbGnoykbIFcn"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Grandes Bandas",
-        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/3h2HTBcEqFAlHsY8gJJrGn"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "Mi Regreso Es Por Ti",
         "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
@@ -73,7 +41,7 @@
       "url": "https://open.spotify.com/track/26a5Wt3kbRA7bt64czqupC"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "El Gran Bandazo",
         "url": "https://open.spotify.com/album/373UN3fC5prh4UxKqnPW2z"
@@ -89,10 +57,10 @@
       "url": "https://open.spotify.com/track/3kvlQo1tm0W5nNqmTW2xSq"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
-        "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
-        "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
+        "name": "El Pasito Perron",
+        "url": "https://open.spotify.com/album/6CiXXNc8Mg5rFwbUwcZ68k"
       },
       "artists": [
         {
@@ -100,15 +68,15 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 156125,
-      "name": "Chicas Modernas",
-      "url": "https://open.spotify.com/track/1MLOHCuJBuHhd3In778RMP"
+      "duration_ms": 171968,
+      "name": "El Pasito Perron",
+      "url": "https://open.spotify.com/track/70cAHG35vnpbGnoykbIFcn"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
-        "name": "La Chispa",
-        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
+        "name": "Grandes Bandas",
+        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
       },
       "artists": [
         {
@@ -116,12 +84,12 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 191226,
-      "name": "La buenotota",
-      "url": "https://open.spotify.com/track/6u93FoQMwa24Y0at0W72GX"
+      "duration_ms": 257000,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/3h2HTBcEqFAlHsY8gJJrGn"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "Mi Regreso Es Por Ti",
         "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
@@ -137,23 +105,7 @@
       "url": "https://open.spotify.com/track/0bXznJ4BNcGaOxNig3LNV5"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Vamos a Bailar",
-        "url": "https://open.spotify.com/album/71Q38XqKyNEA0IAGpEPS9Z"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 165098,
-      "name": "Vamos a Bailar",
-      "url": "https://open.spotify.com/track/2cCmVHY634pSwyfBt4EdM8"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
         "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
@@ -169,7 +121,39 @@
       "url": "https://open.spotify.com/track/7eAKAigxGewKqhxaJIxGqC"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "La buenotota",
+      "url": "https://open.spotify.com/track/6u93FoQMwa24Y0at0W72GX"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Vamos a Bailar",
+        "url": "https://open.spotify.com/album/71Q38XqKyNEA0IAGpEPS9Z"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 165098,
+      "name": "Vamos a Bailar",
+      "url": "https://open.spotify.com/track/2cCmVHY634pSwyfBt4EdM8"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "Balada del Parque Frio",
         "url": "https://open.spotify.com/album/5pIDCQUgI7NOfCl3HCPSZY"
@@ -185,167 +169,7 @@
       "url": "https://open.spotify.com/track/56dBjIziLEPZmsJAZjznBM"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Mi Regreso Es Por Ti",
-        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Derecho De Amarla",
-      "url": "https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "A Pesar de Todo",
-        "url": "https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Bandrobic",
-      "url": "https://open.spotify.com/track/3Y8loiuepocdaDVRthERRL"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
-        "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Presumidas SA",
-      "url": "https://open.spotify.com/track/7ETxgMiAGeHw4lMC0F45HR"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "La Chispa",
-        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 138480,
-      "name": "La chispa",
-      "url": "https://open.spotify.com/track/5frBieEOpYDKSmYByQeQ4n"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Mi Regreso Es Por Ti",
-        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Acariciame",
-      "url": "https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 182973,
-      "name": "Pinto Raya",
-      "url": "https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
-        "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 161335,
-      "name": "Toca Tres Veces",
-      "url": "https://open.spotify.com/track/6PKcq7TLJnXY7PrWiQJmt0"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "La Chispa",
-        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Manos chicas",
-      "url": "https://open.spotify.com/track/7AIxN1s3O2ZVlHX2PqwyDI"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Mi Regreso Es Por Ti",
-        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "El Fon",
-      "url": "https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Borracho Y Loco",
-        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 220437,
-      "name": "Checa Mi Ritmo",
-      "url": "https://open.spotify.com/track/6aOAVN7Uu4Jdmj7BgJ9HWy"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
         "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
@@ -361,71 +185,7 @@
       "url": "https://open.spotify.com/track/0aru7xAJZfzn13o6wQPAko"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Reventon Unisex",
-        "url": "https://open.spotify.com/album/1f4i5bez3wwuDT3SxlKMC3"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 245005,
-      "name": "Reeventon Unisex",
-      "url": "https://open.spotify.com/track/59tw8kwcnl7McG6Pgt38EG"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Mi Regreso Es Por Ti",
-        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Mujer Al Volante",
-      "url": "https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 166320,
-      "name": "En Que Fall\u00e9",
-      "url": "https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
-        "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 203125,
-      "name": "Sin Tu Amor",
-      "url": "https://open.spotify.com/track/6zDbT0ltQqymfFwQekJHSU"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "A Pesar de Todo",
         "url": "https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N"
@@ -436,12 +196,76 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 142693,
-      "name": "Voy a Decirle",
-      "url": "https://open.spotify.com/track/5kG9Ng8DM15wTB1H1TGh8k"
+      "duration_ms": 220360,
+      "name": "Bandrobic",
+      "url": "https://open.spotify.com/track/3Y8loiuepocdaDVRthERRL"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 138480,
+      "name": "La chispa",
+      "url": "https://open.spotify.com/track/5frBieEOpYDKSmYByQeQ4n"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Mi Regreso Es Por Ti",
+        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "Derecho De Amarla",
+      "url": "https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
+        "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 156125,
+      "name": "Chicas Modernas",
+      "url": "https://open.spotify.com/track/1MLOHCuJBuHhd3In778RMP"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Borracho Y Loco",
+        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 220437,
+      "name": "Checa Mi Ritmo",
+      "url": "https://open.spotify.com/track/6aOAVN7Uu4Jdmj7BgJ9HWy"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
@@ -457,10 +281,10 @@
       "url": "https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+        "name": "Mi Regreso Es Por Ti",
+        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
       },
       "artists": [
         {
@@ -468,15 +292,15 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 211466,
-      "name": "El Zorro y el Sabueso",
-      "url": "https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy"
+      "duration_ms": 194546,
+      "name": "El Fon",
+      "url": "https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
-        "name": "Borracho Y Loco",
-        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
+        "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
+        "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
       },
       "artists": [
         {
@@ -484,15 +308,15 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 241215,
-      "name": "Borracho y Loco",
-      "url": "https://open.spotify.com/track/2EpO1NIjQl9ICdA27YMKRH"
+      "duration_ms": 180750,
+      "name": "Presumidas SA",
+      "url": "https://open.spotify.com/track/7ETxgMiAGeHw4lMC0F45HR"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
-        "name": "A Pesar de Todo",
-        "url": "https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N"
+        "name": "Reventon Unisex",
+        "url": "https://open.spotify.com/album/1f4i5bez3wwuDT3SxlKMC3"
       },
       "artists": [
         {
@@ -500,12 +324,12 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 185280,
-      "name": "A Pesar de Todo",
-      "url": "https://open.spotify.com/track/3WZZXkzNG9tXfVx0t6Pxbz"
+      "duration_ms": 245005,
+      "name": "Reeventon Unisex",
+      "url": "https://open.spotify.com/track/59tw8kwcnl7McG6Pgt38EG"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
@@ -521,10 +345,10 @@
       "url": "https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
-        "name": "Cumbia Explosi\u00f3n",
-        "url": "https://open.spotify.com/album/5t5TDzXe1xvnMXQNoxjgoa"
+        "name": "Mi Regreso Es Por Ti",
+        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
       },
       "artists": [
         {
@@ -532,12 +356,28 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 38666,
-      "name": "Ya parar\u00e1",
-      "url": "https://open.spotify.com/track/76H4nNPPwhFu9l4IqR0Vgc"
+      "duration_ms": 190840,
+      "name": "Mujer Al Volante",
+      "url": "https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
+        "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 161335,
+      "name": "Toca Tres Veces",
+      "url": "https://open.spotify.com/track/6PKcq7TLJnXY7PrWiQJmt0"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "Como un Tatuaje",
         "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
@@ -553,10 +393,10 @@
       "url": "https://open.spotify.com/track/0yaXCQ3HblOcM1swa7mN3s"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
-        "name": "Borracho Y Loco",
-        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
       "artists": [
         {
@@ -564,12 +404,60 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 175210,
-      "name": "Cadereando",
-      "url": "https://open.spotify.com/track/6yFZbA1FkoK4nT4t9ni9Gi"
+      "duration_ms": 215933,
+      "name": "Manos chicas",
+      "url": "https://open.spotify.com/track/7AIxN1s3O2ZVlHX2PqwyDI"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Mi Regreso Es Por Ti",
+        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Acariciame",
+      "url": "https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
+        "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 203125,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/6zDbT0ltQqymfFwQekJHSU"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "Pinto Raya",
+      "url": "https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
@@ -585,103 +473,7 @@
       "url": "https://open.spotify.com/track/3PwEtxAKmWQHexgtwtVI4o"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Es Viernes y El Cuerpo Lo Sabe",
-        "url": "https://open.spotify.com/album/6azV2ELkuN4DafSlRJkTMN"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 168620,
-      "name": "Es Viernes y El Cuerpo Lo Sabe",
-      "url": "https://open.spotify.com/track/5v3SzNOKysnldqfaKFWkni"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Revoluci\u00f3n Tecno 2021",
-        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 201214,
-      "name": "Revoluci\u00f3n Tecno",
-      "url": "https://open.spotify.com/track/6m2eB6K0F2M3IejPnGYJuR"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Borracho Y Loco",
-        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 197738,
-      "name": "Hasta El Fondo Del Abismo",
-      "url": "https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Festival Grupero Vol. I",
-        "url": "https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 145853,
-      "name": "El esdr\u00fajulo",
-      "url": "https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Grandes Bandas",
-        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 171720,
-      "name": "Zapatos viejos",
-      "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
-      "album": {
-        "name": "Revoluci\u00f3n Tecno 2021",
-        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 173318,
-      "name": "El Sabio Conocedor",
-      "url": "https://open.spotify.com/track/2hv5M006zsIx1ntGUVDYui"
-    },
-    {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "Borracho Y Loco",
         "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
@@ -697,7 +489,39 @@
       "url": "https://open.spotify.com/track/5s5i3LqYQ7F6fPdw2reBo2"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "A Pesar de Todo",
+        "url": "https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 142693,
+      "name": "Voy a Decirle",
+      "url": "https://open.spotify.com/track/5kG9Ng8DM15wTB1H1TGh8k"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Festival Grupero Vol. I",
+        "url": "https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 145853,
+      "name": "El esdr\u00fajulo",
+      "url": "https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "Como un Tatuaje",
         "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
@@ -708,15 +532,15 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 182320,
-      "name": "Como un Tatuaje",
-      "url": "https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk"
+      "duration_ms": 166320,
+      "name": "En Que Fall\u00e9",
+      "url": "https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
-        "name": "Hoy es Viernes y el Cuerpo lo Sabe",
-        "url": "https://open.spotify.com/album/3V2sbS5J5XYiH1tZoBFlMX"
+        "name": "Borracho Y Loco",
+        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
       },
       "artists": [
         {
@@ -724,12 +548,44 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 168124,
-      "name": "Hoy es Viernes y el Cuerpo lo Sabe",
-      "url": "https://open.spotify.com/track/2PEj6MY7FQQn3zrEcF1KsJ"
+      "duration_ms": 241215,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/2EpO1NIjQl9ICdA27YMKRH"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "A Pesar de Todo",
+        "url": "https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "A Pesar de Todo",
+      "url": "https://open.spotify.com/track/3WZZXkzNG9tXfVx0t6Pxbz"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Grandes Bandas",
+        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 171720,
+      "name": "Zapatos viejos",
+      "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "Revoluci\u00f3n Tecno 2021",
         "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
@@ -740,12 +596,12 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 165214,
-      "name": "El Taladro",
-      "url": "https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL"
+      "duration_ms": 201214,
+      "name": "Revoluci\u00f3n Tecno",
+      "url": "https://open.spotify.com/track/6m2eB6K0F2M3IejPnGYJuR"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "Borracho Y Loco",
         "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
@@ -761,7 +617,71 @@
       "url": "https://open.spotify.com/track/3lETJ4GYKeoYOrQK0VaqPy"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Es Viernes y El Cuerpo Lo Sabe",
+        "url": "https://open.spotify.com/album/6azV2ELkuN4DafSlRJkTMN"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 168620,
+      "name": "Es Viernes y El Cuerpo Lo Sabe",
+      "url": "https://open.spotify.com/track/5v3SzNOKysnldqfaKFWkni"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Cumbia Explosi\u00f3n",
+        "url": "https://open.spotify.com/album/5t5TDzXe1xvnMXQNoxjgoa"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 38666,
+      "name": "Ya parar\u00e1",
+      "url": "https://open.spotify.com/track/76H4nNPPwhFu9l4IqR0Vgc"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Revoluci\u00f3n Tecno 2021",
+        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 173318,
+      "name": "El Sabio Conocedor",
+      "url": "https://open.spotify.com/track/2hv5M006zsIx1ntGUVDYui"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Borracho Y Loco",
+        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 197738,
+      "name": "Hasta El Fondo Del Abismo",
+      "url": "https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "Como un Tatuaje",
         "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
@@ -772,12 +692,12 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 174013,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie"
+      "duration_ms": 211466,
+      "name": "El Zorro y el Sabueso",
+      "url": "https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
         "name": "Jacarandosa",
         "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
@@ -793,10 +713,10 @@
       "url": "https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF"
     },
     {
-      "added_at": "2022-09-30 13:29:23",
+      "added_at": "2022-10-01 13:13:57",
       "album": {
-        "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
-        "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
+        "name": "Hoy es Viernes y el Cuerpo lo Sabe",
+        "url": "https://open.spotify.com/album/3V2sbS5J5XYiH1tZoBFlMX"
       },
       "artists": [
         {
@@ -804,9 +724,73 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 168746,
-      "name": "El se\u00f1or de las canas",
-      "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
+      "duration_ms": 168124,
+      "name": "Hoy es Viernes y el Cuerpo lo Sabe",
+      "url": "https://open.spotify.com/track/2PEj6MY7FQQn3zrEcF1KsJ"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Borracho Y Loco",
+        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 175210,
+      "name": "Cadereando",
+      "url": "https://open.spotify.com/track/6yFZbA1FkoK4nT4t9ni9Gi"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "Como un Tatuaje",
+      "url": "https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Revoluci\u00f3n Tecno 2021",
+        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "El Taladro",
+      "url": "https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL"
+    },
+    {
+      "added_at": "2022-10-01 13:13:57",
+      "album": {
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie"
     }
   ],
   "unique_name": "This Is Banda Zeta",

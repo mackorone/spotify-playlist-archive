@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03IosU2q8j1.md) - [plain]
 
 > Ro, Ro, Ro, Rodrigo carajo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,692 likes - 58 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,771 likes - 58 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Love Tunes.<br/>Cover : Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,374 likes - 67 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,476 likes - 67 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

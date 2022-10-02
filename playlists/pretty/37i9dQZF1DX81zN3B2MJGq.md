@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX81zN3B2MJGq.md) - [plain]
 
 > Come on a wild ride through <a href="spotify:artist:4Ws2otunReOa6BbwxxpCt6">Benny Benassi</a>'s hits and selections!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,027 likes - 15 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,092 likes - 15 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

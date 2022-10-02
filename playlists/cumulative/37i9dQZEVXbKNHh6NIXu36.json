@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 140013,
       "name": "21",
       "url": "https://open.spotify.com/track/43SgbfsWPm8aqBAQngA1vv"
@@ -1963,10 +1963,36 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 203255,
       "name": "Bamba (feat. Aitch & BIA)",
       "url": "https://open.spotify.com/track/7nFJSfGvvV0WjatTZN6QYi"
+    },
+    {
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203560,
+      "name": "Bamba (feat. Aitch & BIA)",
+      "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
     },
     {
       "album": {
@@ -2058,6 +2084,24 @@
     },
     {
       "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "Beautiful Girl",
+      "url": "https://open.spotify.com/track/5xX2LYdXyx0Boa61rZOjq5"
+    },
+    {
+      "album": {
         "name": "Beautiful Girl",
         "url": "https://open.spotify.com/album/2dG0GF5ikINJmc7nTRKSBk"
       },
@@ -2069,7 +2113,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 179186,
       "name": "Beautiful Girl",
       "url": "https://open.spotify.com/track/2XRn6Qu0Wd1KvOND8JbaTx"
@@ -2780,6 +2824,28 @@
     },
     {
       "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130199,
+      "name": "Blue Cheese (feat. KALIM)",
+      "url": "https://open.spotify.com/track/7BaLRoaLSmnOgmMnQzonGq"
+    },
+    {
+      "album": {
         "name": "BLUEPRINT",
         "url": "https://open.spotify.com/album/13DVLKwcom75AYvP98WvXs"
       },
@@ -2809,7 +2875,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 121133,
       "name": "BMW",
       "url": "https://open.spotify.com/track/56MDdzieU2dTT3YLpCdpcA"
@@ -3424,6 +3490,24 @@
     },
     {
       "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -3599,6 +3683,32 @@
       "duration_ms": 123002,
       "name": "Chromosom",
       "url": "https://open.spotify.com/track/6Yu4uRiiDx2YN0eEeTdUIf"
+    },
+    {
+      "album": {
+        "name": "Cider",
+        "url": "https://open.spotify.com/album/0NOmnhMUuHzHKbto1lL4if"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175798,
+      "name": "Cider",
+      "url": "https://open.spotify.com/track/49y9ulK2kgYvVw3yBSdDao"
     },
     {
       "album": {
@@ -4875,7 +4985,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 196363,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/4UyVCLbNG8yhrqbzeSmdho"
@@ -5137,6 +5247,24 @@
       "duration_ms": 161001,
       "name": "Drei Uhr Nachts",
       "url": "https://open.spotify.com/track/58GxgFEG5uHc9oMhofuuIP"
+    },
+    {
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175880,
+      "name": "Drill LUV",
+      "url": "https://open.spotify.com/track/2XXpLFPZGxgtohTd79DjZO"
     },
     {
       "album": {
@@ -5886,6 +6014,28 @@
     },
     {
       "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Sophie Hunger",
+          "url": "https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129493,
+      "name": "Everywhere (feat. Sophie Hunger)",
+      "url": "https://open.spotify.com/track/3tclrcMq55RBexbs0hg77O"
+    },
+    {
+      "album": {
         "name": "Teilzeitromantik",
         "url": "https://open.spotify.com/album/3giZLG5MtJogNCQEd1uXi3"
       },
@@ -6195,7 +6345,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 97813,
       "name": "Ferragamo",
       "url": "https://open.spotify.com/track/01pemiis9ttYA9ZxMaZVg7"
@@ -6813,6 +6963,24 @@
       "duration_ms": 140624,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/7kbx13BGzXx2sfA31lmuGt"
+    },
+    {
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208173,
+      "name": "Frozen Tears",
+      "url": "https://open.spotify.com/track/7hFw40Ta4n5wwD1Xzdscb5"
     },
     {
       "album": {
@@ -7752,6 +7920,24 @@
     },
     {
       "album": {
+        "name": "G\u00f6nn Dir",
+        "url": "https://open.spotify.com/album/7IKQk0vp8q7MCI8EVCF55N"
+      },
+      "artists": [
+        {
+          "name": "twenty4tim",
+          "url": "https://open.spotify.com/artist/0BJ10PxQXDtW07wTHuXuLu"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "G\u00f6nn Dir",
+      "url": "https://open.spotify.com/track/0ywXueKGCisfLkyOphGwaZ"
+    },
+    {
+      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/05PVq1QoHWw83WCANc0psq"
       },
@@ -8569,7 +8755,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
@@ -8703,7 +8889,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 147007,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV"
@@ -9947,7 +10133,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 131067,
       "name": "Keine Tr\u00e4nen",
       "url": "https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q"
@@ -10071,6 +10257,28 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "album": {
+        "name": "KISSENSCHLACHT",
+        "url": "https://open.spotify.com/album/2GZ8s5Dy2AZ02Ga5mngS23"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        },
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171069,
+      "name": "KISSENSCHLACHT",
+      "url": "https://open.spotify.com/track/70Xfh3baxA4xusCiV5B5jg"
     },
     {
       "album": {
@@ -10890,6 +11098,28 @@
     },
     {
       "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153573,
+      "name": "Life Lessons (feat. Headie One)",
+      "url": "https://open.spotify.com/track/75cxFn3oHrwMRDUXsLTvUl"
+    },
+    {
+      "album": {
         "name": "Light Switch",
         "url": "https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ"
       },
@@ -11057,6 +11287,28 @@
       "duration_ms": 176933,
       "name": "Lola rennt",
       "url": "https://open.spotify.com/track/4rNlJBQ0elqgGU1XD3RQ01"
+    },
+    {
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Yung Hurn",
+          "url": "https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167306,
+      "name": "London (feat. Yung Hurn)",
+      "url": "https://open.spotify.com/track/6nghFixNnWi6Rp3Rm6AfP7"
     },
     {
       "album": {
@@ -11713,7 +11965,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 155560,
       "name": "Marseille",
       "url": "https://open.spotify.com/track/1IwYW1AOGriTuAS52gUm2i"
@@ -11749,7 +12001,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
@@ -16981,7 +17233,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
@@ -17261,7 +17513,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 107053,
       "name": "sme (sei ma ehrlich)",
       "url": "https://open.spotify.com/track/2iQMBtjizpJ6d5bSXb9USL"
@@ -18045,7 +18297,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
@@ -18142,6 +18394,24 @@
     },
     {
       "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162173,
+      "name": "SUVs",
+      "url": "https://open.spotify.com/track/5E2JcyolDstvqZ0PNpT3pS"
+    },
+    {
+      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
@@ -18153,7 +18423,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -18317,6 +18587,28 @@
       "duration_ms": 125270,
       "name": "Tattoos",
       "url": "https://open.spotify.com/track/6oGnFxltTet4MD3yuT5WvX"
+    },
+    {
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139733,
+      "name": "Tattoos (feat. RAF Camora)",
+      "url": "https://open.spotify.com/track/23EzkJ0gwrAW3mAH1H0vuv"
     },
     {
       "album": {
@@ -18931,7 +19223,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 134093,
       "name": "Tourlife.mp3",
       "url": "https://open.spotify.com/track/7vkq044gRCCrEhThIHvbI7"
@@ -19255,6 +19547,24 @@
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/4gYT5Y4iyaXo0p3WCa6V0e"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/5IOF2LmEZaGDPOepCRFXTC"
     },
     {
       "album": {
@@ -19631,7 +19941,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 183193,
       "name": "Versager",
       "url": "https://open.spotify.com/track/3iZuI8q4aTMACYxEoq0TaV"
@@ -19807,6 +20117,28 @@
       "duration_ms": 152546,
       "name": "Vorbei",
       "url": "https://open.spotify.com/track/7gIOmimvjeQqookDmLKOrK"
+    },
+    {
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73706,
+      "name": "Voyage Skit (feat. Gzuz)",
+      "url": "https://open.spotify.com/track/7nhRvNTtuNPWvJuEnmNJYb"
     },
     {
       "album": {
@@ -20449,6 +20781,28 @@
       "duration_ms": 188466,
       "name": "Wer hat Angst",
       "url": "https://open.spotify.com/track/6clk3RFNYNhqhGdYV3Qon1"
+    },
+    {
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212114,
+      "name": "West Connect (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/1Fb8gCHRkmNAaN8vytd5vg"
     },
     {
       "album": {

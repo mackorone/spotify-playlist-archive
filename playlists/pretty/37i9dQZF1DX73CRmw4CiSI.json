@@ -1,12 +1,12 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 55070,
+  "num_followers": 55112,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1MDgyMiwwMDAwMDAwMGU2YzA5ODJiY2Y1NTYzYThkOWQ3MjBiZDBmZWIxMjM0",
+  "snapshot_id": "MTY0MzE1MDgyMiwwMDAwMDAwMGZlZDZkNWNhNTE2NWM0MWQwOTJhYjViOWVhZDliYzc1",
   "tracks": [
     {
       "added_at": "2022-01-25 22:47:02",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "La Extraordinaria Paradoja Del Sonido Quijano",
-        "url": "https://open.spotify.com/album/6UEfKdBxC0Zf9EIbGvK5QY"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "La Lola",
-      "url": "https://open.spotify.com/track/0VnAETWOc4BCr4YbzfI7zH"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 194870,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "La Extraordinaria Paradoja Del Sonido Quijano",
+        "url": "https://open.spotify.com/album/6UEfKdBxC0Zf9EIbGvK5QY"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "La Lola",
+      "url": "https://open.spotify.com/track/0VnAETWOc4BCr4YbzfI7zH"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Un metro cuadrado",
-        "url": "https://open.spotify.com/album/6lMkdFlIH1dGxDVvUjNPqK"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 253319,
-      "name": "Romeo y Julieta",
-      "url": "https://open.spotify.com/track/7BQo49Dyko57AIFaHMcAi2"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Mundo Amador",
         "url": "https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 211173,
       "name": "Ay Que Gustito Pa' Mis Orejas",
       "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Un metro cuadrado",
+        "url": "https://open.spotify.com/album/6lMkdFlIH1dGxDVvUjNPqK"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 253319,
+      "name": "Romeo y Julieta",
+      "url": "https://open.spotify.com/track/7BQo49Dyko57AIFaHMcAi2"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Adelantando",
-        "url": "https://open.spotify.com/album/28LFs98k7cTrXm2S2Xc65I"
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
       },
       "artists": [
         {
           "name": "Jarabe De Palo",
           "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        },
-        {
-          "name": "Tarque",
-          "url": "https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p"
         }
       ],
-      "duration_ms": 193800,
-      "name": "Avisa a tu madre (feat. Tarque)",
-      "url": "https://open.spotify.com/track/2aj7C3LL3ZrJX2dHiskmaP"
+      "duration_ms": 212226,
+      "name": "Grita",
+      "url": "https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1423,18 +1419,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
+        "name": "Adelantando",
+        "url": "https://open.spotify.com/album/28LFs98k7cTrXm2S2Xc65I"
       },
       "artists": [
         {
           "name": "Jarabe De Palo",
           "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        },
+        {
+          "name": "Tarque",
+          "url": "https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Grita",
-      "url": "https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU"
+      "duration_ms": 193800,
+      "name": "Avisa a tu madre (feat. Tarque)",
+      "url": "https://open.spotify.com/track/2aj7C3LL3ZrJX2dHiskmaP"
     },
     {
       "added_at": "2022-01-25 22:47:02",

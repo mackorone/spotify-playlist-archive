@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluHnSzEAUI.md) - [plain]
 
 > Enjoy the soundtracks of K\-POP idols' comeback war 'Queendom'\. \(K\-POP 아이돌들의 컴백전쟁 '퀸덤'의 사운드 트랙들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,331 likes - 30 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,326 likes - 30 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

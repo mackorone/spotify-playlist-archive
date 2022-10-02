@@ -3075,6 +3075,24 @@
     {
       "album": {
         "name": "Cold Hours",
+        "url": "https://open.spotify.com/album/2Ul6Xcx8ghlQE20DVs3B0d"
+      },
+      "artists": [
+        {
+          "name": "Aleemrk",
+          "url": "https://open.spotify.com/artist/13Dqz5dO1qYKzssnnbOwxR"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206286,
+      "name": "Cold Hours",
+      "url": "https://open.spotify.com/track/2la7g9bMqsgsWPC9WcQg56"
+    },
+    {
+      "album": {
+        "name": "Cold Hours",
         "url": "https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck"
       },
       "artists": [
@@ -3089,7 +3107,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 206117,
       "name": "Cold Hours",
       "url": "https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1"
@@ -7287,7 +7305,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 158093,
       "name": "JGL",
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
@@ -9757,7 +9775,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 206384,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"

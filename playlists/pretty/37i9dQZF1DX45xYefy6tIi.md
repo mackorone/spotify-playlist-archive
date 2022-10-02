@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > The journey to Los Angeles to crown "the emperor" of college football starts now\. Check out some amazing anthems and inspiring tracks to underscore the 2022 College football season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,652 likes - 46 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,628 likes - 46 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 120809,
+  "num_followers": 120873,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDA4N2NkYzY2ZDdiN2Q3YzYwNzFjNDMxOTE1NDhjNzcx",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDFkYjJhMjRkZjhjNTBhYjAyNzQ3NDE5YjFkOWVmODQ1",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "& I'm Fine Today",
-        "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 218964,
-      "name": "Far out Feeling",
-      "url": "https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Strange to Explain",
         "url": "https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 351725,
       "name": "Where Do You Go When You Dream",
       "url": "https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "& I'm Fine Today",
+        "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 218964,
+      "name": "Far out Feeling",
+      "url": "https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/4MKMt6xC0PXKlFHnQqZurJ"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 234346,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/4e6RmWaibb8xQgda9JcWRf"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Habbie Doobie",
         "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 376618,
       "name": "Habbie Doobie",
       "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/4MKMt6xC0PXKlFHnQqZurJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/4e6RmWaibb8xQgda9JcWRf"
     },
     {
       "added_at": "2022-07-22 04:00:00",

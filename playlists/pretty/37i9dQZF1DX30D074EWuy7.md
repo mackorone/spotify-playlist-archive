@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Il meglio del Jazz Italiano, in una selezione speciale a cura di <a href="spotify:artist:4kVBW3oggjJ8epz4NWIGfk">Chiara Civello</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,573 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,595 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

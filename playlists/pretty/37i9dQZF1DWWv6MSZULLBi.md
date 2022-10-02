@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: First Aid Kit
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,839 likes - 98 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,868 likes - 98 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 9 | [Everyday Sunflower](https://open.spotify.com/track/2wdIXkZ4nFlaYbzvifuAp1) | [Jason Collett](https://open.spotify.com/artist/4uuXjSga3HgpAETXd0UpxW) | [Everyday Sunflower](https://open.spotify.com/album/6xlZH4sV5XGl17TMKezsrp) | 2:50 |
 | 10 | [Gone \(Away\)](https://open.spotify.com/track/6UCdCOFnahKI4yjILCPn3H) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Gone \(Away\)](https://open.spotify.com/album/4vnVye9NBADjq2dYAinjMR) | 2:46 |
 | 11 | [Lesser of the Worst](https://open.spotify.com/track/1IPgsip8f4yUVdN4sgeeSw) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Lesser of the Worst](https://open.spotify.com/album/1jXQIRWe4Hsrm2RgHA4BXe) | 2:26 |
-| 12 | [Maybe \- Acoustic](https://open.spotify.com/track/3dHgx0EUuqsctUJOuPnaa8) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Maybe \(Live Acoustic\)](https://open.spotify.com/album/3Xj9GyEPyLKCL2jRSFfE0s) | 3:35 |
+| 12 | [Maybe \- Live Acoustic](https://open.spotify.com/track/3dHgx0EUuqsctUJOuPnaa8) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Maybe \(Live Acoustic\)](https://open.spotify.com/album/3Xj9GyEPyLKCL2jRSFfE0s) | 3:35 |
 | 13 | [Northern Attitude](https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4) | 4:27 |
 | 14 | [Desert Road](https://open.spotify.com/track/0KlEiSPThHV6VBbMVXaUQ4) | [Julianna Laine](https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU), [Boom Forest](https://open.spotify.com/artist/2Ij7GjubJdLi813xVxqt9u) | [Desert Road](https://open.spotify.com/album/35Lq9xznhp3oxM3ZxJNwx8) | 2:58 |
 | 15 | [Turpentine](https://open.spotify.com/track/2vrWABqmYi9PMqusDwRhPc) | [Kaeley Jade](https://open.spotify.com/artist/0uHvg2Vc2T0NrCvSkbSb2t) | [Turpentine](https://open.spotify.com/album/16uVEqnUKB1BJNHvmWYaF0) | 3:13 |

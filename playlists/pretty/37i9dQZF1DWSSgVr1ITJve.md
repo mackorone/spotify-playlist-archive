@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 
 > Afro culture mixed with Arab vibes\. Cover: Ali Loka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,771 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,847 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 19 | [Machkil](https://open.spotify.com/track/6goZXeNAQ5iz93sBryfnM5) | [AZIZ](https://open.spotify.com/artist/5H9SD8G9bzq2ki0zZIKD2b) | [Machkil](https://open.spotify.com/album/0zTEsPSiHwxXkI9AhPrGQF) | 3:04 |
 | 20 | [OU TT](https://open.spotify.com/track/7JotlZMd14McnZK1WcIdYX) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [OU TT](https://open.spotify.com/album/5UPztfSCllKM7sHwKcHL45) | 4:04 |
 | 21 | [Cava](https://open.spotify.com/track/0b5kfpiTDnHLu4vjh240gW) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Cava](https://open.spotify.com/album/0jg01ov7uPakGjnNftHvvT) | 2:55 |
-| 22 | [Echemaa](https://open.spotify.com/track/2266ieCC5PgwRahqshFzz5) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Echemaa](https://open.spotify.com/album/1yC4Mvqmh8WqnYoe8aelUN) | 2:24 |
+| 22 | [Echemaa](https://open.spotify.com/track/779HmAwLrCbbPGQXaVXUsZ) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Echemaa](https://open.spotify.com/album/1M3mHlbXyEAwS3ygFxRDhS) | 2:24 |
 | 23 | [Africa](https://open.spotify.com/track/2VQoGtt4uLmv5qTpei7BgB) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Africa](https://open.spotify.com/album/1fAwh435ehVSq2uEuNJsZb) | 3:43 |
 | 24 | [KaifwKaif](https://open.spotify.com/track/0Yshg5nqSx37wUIcnJZspZ) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [KaifwKaif](https://open.spotify.com/album/5BChrGS1AszY05fG7v4uSm) | 3:52 |
 | 25 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 50 | [Wouli Liya](https://open.spotify.com/track/1p3pNSpRB88Dn6w0DQGQXr) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 4:01 |
 | 51 | [Daba Dor Lyam](https://open.spotify.com/track/6buWpyhPbG548hIFSLWl6f) | [Imin](https://open.spotify.com/artist/0z8woBkNEdy6w2mCIJBgrM) | [Daba Dor Lyam](https://open.spotify.com/album/4aAxNTyg1941owSY3NCwXk) | 3:42 |
 
-Snapshot ID: `MTY1OTEwODYzMiwwMDAwMDAwMGRlMWJmZWU5ZDhiNzAxOTViYzVjNjE1MjU2YjZkYjZi`
+Snapshot ID: `MTY1OTEwODYzMiwwMDAwMDAwMDk0Y2MwYWQ2ZDhmNTJjZDdkOTQ5NzE3NTZjMjU3M2Qy`

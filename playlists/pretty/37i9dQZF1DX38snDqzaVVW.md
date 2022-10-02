@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Shafqat Amanat Ali with his favourite tracks this Ramadan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,325 likes - 29 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,327 likes - 29 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

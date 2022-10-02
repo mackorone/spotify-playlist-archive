@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Hillsong Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,622 likes - 124 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,746 likes - 124 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

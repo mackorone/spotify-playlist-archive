@@ -298,6 +298,28 @@
     },
     {
       "album": {
+        "name": "Ainak",
+        "url": "https://open.spotify.com/album/1aFwpOLBomC4uEHVU36map"
+      },
+      "artists": [
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        },
+        {
+          "name": "Sukh Lotey",
+          "url": "https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Ainak",
+      "url": "https://open.spotify.com/track/7JVpb6CY3I1JwQCIEgw9XT"
+    },
+    {
+      "album": {
         "name": "Om Shanti Om",
         "url": "https://open.spotify.com/album/2cUzlmLfL5LUTSEk7qG09k"
       },
@@ -2067,6 +2089,24 @@
     {
       "album": {
         "name": "Cold Hours",
+        "url": "https://open.spotify.com/album/2Ul6Xcx8ghlQE20DVs3B0d"
+      },
+      "artists": [
+        {
+          "name": "Aleemrk",
+          "url": "https://open.spotify.com/artist/13Dqz5dO1qYKzssnnbOwxR"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206286,
+      "name": "Cold Hours",
+      "url": "https://open.spotify.com/track/2la7g9bMqsgsWPC9WcQg56"
+    },
+    {
+      "album": {
+        "name": "Cold Hours",
         "url": "https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck"
       },
       "artists": [
@@ -2081,7 +2121,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 206117,
       "name": "Cold Hours",
       "url": "https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1"
@@ -5571,7 +5611,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 228705,
       "name": "Levels",
       "url": "https://open.spotify.com/track/60YICjIPdL7LDBcCMK0tAk"
@@ -6397,7 +6437,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 142258,
       "name": "Mayakkama Kalakkama (From \"Thiruchitrambalam\")",
       "url": "https://open.spotify.com/track/2kOH2QZB7F7I1iVXqwKuBF"
@@ -10489,7 +10529,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 217746,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa"

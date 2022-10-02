@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 13884,
+  "num_followers": 13900,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMGM4MDQ2MTM4Mjg1M2E0ZDRlNjIzNGEyMWZhNWFkNzI4",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDAxMzk2ZjFjNjhkMTkwMWYxZmZlMDYwMGM1YjgzOWY2",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 325638,
-      "name": "Love Ain't My Favorite Word",
-      "url": "https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "This Land",
         "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 157413,
       "name": "Got to Get Up",
       "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 325638,
+      "name": "Love Ain't My Favorite Word",
+      "url": "https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 207306,
-      "name": "Dirty",
-      "url": "https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79"
+      "duration_ms": 300226,
+      "name": "Watch It Die",
+      "url": "https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 300226,
-      "name": "Watch It Die",
-      "url": "https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq"
+      "duration_ms": 207306,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 221430,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
+    },
+    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Surfing",
@@ -659,22 +675,6 @@
       "duration_ms": 165687,
       "name": "Surfing",
       "url": "https://open.spotify.com/track/4tyx5KvHtEyADgxo5N9o5h"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 221430,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -821,52 +821,20 @@
       "url": "https://open.spotify.com/track/1dA1yyrPmoqKfqXxMX2brl"
     },
     {
-      "added_at": "2021-06-04 04:01:00",
+      "added_at": "2021-09-03 04:01:00",
       "album": {
-        "name": "Shufflin' West Coast",
-        "url": "https://open.spotify.com/album/0xU6562s9LeTyv9dvqFUw0"
+        "name": "Clawhammer",
+        "url": "https://open.spotify.com/album/1ZzwjyLk0uWUYsdMDxXkIS"
       },
       "artists": [
         {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Albert Lee",
-          "url": "https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m"
-        },
-        {
-          "name": "Tim Pierce",
-          "url": "https://open.spotify.com/artist/5ViJHAJBhLL7J9WNR1uPDN"
-        },
-        {
-          "name": "James Harrah",
-          "url": "https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4"
-        },
-        {
-          "name": "Johnny Lee Schell",
-          "url": "https://open.spotify.com/artist/5LAFSMKY4RMw192jHeaBRi"
-        },
-        {
-          "name": "Toshi Yanagi",
-          "url": "https://open.spotify.com/artist/0H2cYrALxabRKcAJdF6EKj"
-        },
-        {
-          "name": "Michael Thompson",
-          "url": "https://open.spotify.com/artist/3s4aVgqEf5mdv6ubR7nwfE"
-        },
-        {
-          "name": "Brent Mason",
-          "url": "https://open.spotify.com/artist/1oO9xG0YRXpZdXseGgNlFk"
-        },
-        {
-          "name": "Paul Franklin",
-          "url": "https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA"
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
         }
       ],
-      "duration_ms": 262536,
-      "name": "Shufflin' West Coast",
-      "url": "https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG"
+      "duration_ms": 270370,
+      "name": "Clawhammer",
+      "url": "https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU"
     }
   ],
   "unique_name": "Modern Blues Guitar",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY24WaVcCqqH.md) - [plain]
 
 > All the sweetest melodies, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,640 likes - 65 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,728 likes - 65 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

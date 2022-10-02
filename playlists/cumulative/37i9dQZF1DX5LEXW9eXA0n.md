@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Kang Min Kyung & Choi Jung Hoon\(강민경 & 최정훈\)\) \(당신의 감성에 발라드, 려요\)
 
-544 songs - 1 day 11 hr 19 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+546 songs - 1 day 11 hr 28 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Luminous](https://open.spotify.com/track/3fQTr5geEQ2q8kgdqx44gl) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Poong, the Joseon Psychiatrist OST Part.4](https://open.spotify.com/album/0K7sbRFoVG6tH1f52CfqMl) | 3:19 | 2022-08-25 |  |
 | [Maybe I am](https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:48 | 2021-12-23 | 2022-07-01 |
 | [Maybe love](https://open.spotify.com/track/0pHoqvvME1oHFSErpiLXmp) | [Bubble Sisters](https://open.spotify.com/artist/1jZ9R8RNpwVBJTf8Qg96a7) | [Maybe love](https://open.spotify.com/album/3gxYwjjvdkOWVwKCblRuSg) | 3:39 | 2022-09-05 |  |
-| [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2021-12-20 | 2022-07-08 |
+| [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2021-12-20 |  |
 | [Meet him among them](https://open.spotify.com/track/6H8LsxDktkwTuUVGXf3anP) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Meet him among them](https://open.spotify.com/album/3AB3AhRKi0xR5vAj0iuRaP) | 4:18 | 2022-06-18 | 2022-08-02 |
 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 | 2022-07-07 | 2022-08-02 |
 | [Memories](https://open.spotify.com/track/4brbKf89m6T7sul0VIV5cY) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2), [Lee Eun Sang](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ) | [Memories](https://open.spotify.com/album/6cicBDN7VCijeMLd0qqyKD) | 2:51 | 2022-01-27 | 2022-02-04 |
@@ -320,6 +320,7 @@
 | [Mirror](https://open.spotify.com/track/4yYr4DzjAD7JZIrSd1CoZT) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Crazy in Love](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 4:18 | 2022-01-14 | 2022-01-17 |
 | [Miss You](https://open.spotify.com/track/0NDS6ljDOf9wNaT1hnvUQ6) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [THE M Pt\. 3](https://open.spotify.com/album/5ueOIlQ88WvT9tL6SKvU7D) | 4:07 | 2022-02-25 | 2022-04-17 |
 | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX) | 4:02 | 2022-07-07 | 2022-09-06 |
+| [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 | 2022-10-01 |  |
 | [Missing You](https://open.spotify.com/track/3b4QaFrYPu9M151olXh3rD) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Bloody Heart, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2mImoUb3owQR8y2Y0A3fKk) | 3:40 | 2022-07-07 | 2022-08-12 |
 | [Mom](https://open.spotify.com/track/7bGQ0dO8Phe5kcx6HkwwuT) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Mom](https://open.spotify.com/album/4TNELYnbl0wPEg81pTQimm) | 5:40 | 2022-07-26 |  |
 | [Moody Night](https://open.spotify.com/track/0rq0zk8B67NMUH1tT8Amu2) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [When the Weather is fine OST Part.6](https://open.spotify.com/album/0phMCLWBwOcYaDprxukeaf) | 3:47 | 2022-03-31 | 2022-04-16 |
@@ -536,6 +537,7 @@
 | [You’re the best of me](https://open.spotify.com/track/7uhDJuHhtfKwSM7TWNnZ8E) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [You’re the best of me](https://open.spotify.com/album/4F43zvJZ28xKAfvow1Hxlp) | 4:07 | 2022-03-24 | 2022-04-19 |
 | [zero gravity](https://open.spotify.com/track/4tKkpWGoNZJXN7tAXV9aI6) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [zero gravity](https://open.spotify.com/album/5tXoOQpaHKgNRYobPq6w71) | 4:25 | 2022-08-18 |  |
 | [가끔 니가 생각나](https://open.spotify.com/track/1bhk9mVrtzfb8oWpHWTs7t) | [황가람](https://open.spotify.com/artist/54STFHbpjhjhD6XvQjiZXS) | [가끔 니가 생각나](https://open.spotify.com/album/3EzagRzdV6LmjE6excYLV6) | 3:44 | 2022-03-31 | 2022-04-20 |
+| [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2022-10-01 |  |
 | [광화문에서 \(At Gwanghwamun\)](https://open.spotify.com/track/3fLufMRaQboaen5AGMdCLT) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The 1st Mini Album '광화문에서 At Gwanghwamun'](https://open.spotify.com/album/1GtAHSUYEs5Jlx3ftm9Y5v) | 4:42 | 2021-12-23 | 2022-06-01 |
 | [그럴만 했잖아](https://open.spotify.com/track/3Ev5REvSxM6w5wKVCHLXZv) | [mim](https://open.spotify.com/artist/3TESIy6ohhkYeoyT6od4us) | [그럴만 했잖아](https://open.spotify.com/album/4Ivd0UBBn3DhUUxUGNTg3P) | 3:12 | 2022-07-07 | 2022-09-06 |
 | [내일](https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj) | [태영](https://open.spotify.com/artist/0vR4R0hsXLRQ2q52ajAxfv) | [내일 \(KSTAGE X 태영 Of 블랙레벨\)](https://open.spotify.com/album/3zQL3yGOVumV2HIe7p1LcY) | 4:00 | 2022-07-04 | 2022-09-30 |

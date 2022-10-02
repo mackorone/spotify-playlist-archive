@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 18143,
+  "num_followers": 18160,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA0MzA3NywwMDAwMDAwMGFjNjRjZjQ2YjU5OTU2ZDZlNjBkYzIyZTczMTVjZTY0",
+  "snapshot_id": "MTY2MjA0MzA3NywwMDAwMDAwMDU0YWI5OTA1MGM0MDhkNzc3NmU3M2JiZGU5YWQ5ZWQy",
   "tracks": [
     {
       "added_at": "2022-09-01 14:37:57",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-01 14:37:57",
       "album": {
-        "name": "Nasi",
-        "url": "https://open.spotify.com/album/5LC6AvKrSmynyr7o50k5OM"
-      },
-      "artists": [
-        {
-          "name": "Hana Malhas",
-          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Nasi",
-      "url": "https://open.spotify.com/track/2c2by2xH5vEW142S9zZD7G"
-    },
-    {
-      "added_at": "2022-09-01 14:37:57",
-      "album": {
         "name": "Tmaneet Ashofak",
         "url": "https://open.spotify.com/album/0FIEcX7gSEX1h8PqsQbWhu"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 298823,
       "name": "Tmaneet Ashofak",
       "url": "https://open.spotify.com/track/5dueytCp1DWHJizVwQ34va"
+    },
+    {
+      "added_at": "2022-09-01 14:37:57",
+      "album": {
+        "name": "Nasi",
+        "url": "https://open.spotify.com/album/5LC6AvKrSmynyr7o50k5OM"
+      },
+      "artists": [
+        {
+          "name": "Hana Malhas",
+          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Nasi",
+      "url": "https://open.spotify.com/track/2c2by2xH5vEW142S9zZD7G"
     },
     {
       "added_at": "2022-09-01 14:37:57",

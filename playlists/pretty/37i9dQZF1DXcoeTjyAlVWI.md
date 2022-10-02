@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoeTjyAlVWI.md) - [plain]
 
 > <a href="spotify:artist:4YWj8sohRDjL9deiuRvEEY">Noisia</a> takes us on a retrospective journey through their mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,574 likes - 35 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,588 likes - 35 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

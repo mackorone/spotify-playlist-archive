@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CC59WvTBvm.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Demi Bagby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,794 likes - 37 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,796 likes - 37 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

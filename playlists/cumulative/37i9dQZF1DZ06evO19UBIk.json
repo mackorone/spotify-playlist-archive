@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 212426,
       "name": "Back Door Man",
       "url": "https://open.spotify.com/track/03By6gD02qhtvIQiK8KidK"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 67880,
       "name": "Black Polished Chrome",
       "url": "https://open.spotify.com/track/2txVWU6tG6NdEyTnm1P1WQ"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 95226,
       "name": "Horse Latitudes",
       "url": "https://open.spotify.com/track/6vcqR6rCL2k4EDhqH8gzeO"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 203293,
       "name": "I Can't See Your Face in My Mind",
       "url": "https://open.spotify.com/track/6wov6IWJkisFG6rUZIESsB"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 429760,
       "name": "Light My Fire",
       "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 234440,
       "name": "Not to Touch the Earth",
       "url": "https://open.spotify.com/track/4CyqGx74ElL4WC5TaEbx0x"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 130173,
       "name": "People Are Strange",
       "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 199426,
       "name": "Summer's Almost Gone",
       "url": "https://open.spotify.com/track/657O4nJxZktsNDvBimhZ0i"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 200266,
       "name": "Tell All the People",
       "url": "https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG"
@@ -994,6 +994,24 @@
     },
     {
       "album": {
+        "name": "Absolutely Live",
+        "url": "https://open.spotify.com/album/0BgWlAKJAn8VQKRKIdx9ul"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294866,
+      "name": "Universal Mind - Live",
+      "url": "https://open.spotify.com/track/26ZF6lHwjmb9Peq8jdbKUi"
+    },
+    {
+      "album": {
         "name": "Spirits (Live 1972)",
         "url": "https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw"
       },
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 180573,
       "name": "You're Lost Little Girl",
       "url": "https://open.spotify.com/track/5onlaW8X1ps8VS4DhxpFom"

@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 245773,
       "name": "12 Gedichte aus Liebesfruhling, Op. 37: No. 9: Rose, Meer und Sonne",
       "url": "https://open.spotify.com/track/4DWEaoESLobp6WSUx4ouh6"
@@ -835,10 +835,36 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 115333,
       "name": "Dichterliebe, Op. 48: X. H\u00f6r' ich das Liedchen klingen",
       "url": "https://open.spotify.com/track/0Xy1rQBbVieYCGcVYrpBJ9"
+    },
+    {
+      "album": {
+        "name": "A Classical Dawn: Schumann",
+        "url": "https://open.spotify.com/album/0WFLWADi7bnK82n1fezXzo"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Fritz Wunderlich",
+          "url": "https://open.spotify.com/artist/3jp4zawfeVYVpSzO2Yujbv"
+        },
+        {
+          "name": "Hubert Giesen",
+          "url": "https://open.spotify.com/artist/4JiFvHUZrCO4IyeEs19fjn"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115333,
+      "name": "Dichterliebe, Op. 48: X. H\u00f6r' ich das Liedchen klingen",
+      "url": "https://open.spotify.com/track/3dWeNEgVFhyx5GKSnGAtgZ"
     },
     {
       "album": {
@@ -1353,7 +1379,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 86266,
       "name": "Liederkreis, Op. 39: Schone Fremde",
       "url": "https://open.spotify.com/track/5ESTHb0vaM0B57HIYWCoP3"

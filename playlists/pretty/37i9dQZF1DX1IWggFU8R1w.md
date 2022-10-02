@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWggFU8R1w.md) - [plain]
 
 > Check out the official playlist from The Witcher\. Watch Season 2 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 982 likes - 117 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 995 likes - 117 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

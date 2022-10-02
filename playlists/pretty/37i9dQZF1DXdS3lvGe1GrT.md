@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Ally Evenson \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,024 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,074 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 31 | [I'm On Your Team](https://open.spotify.com/track/69jT12rES32If7pt7tC6SK) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [I'm On Your Team](https://open.spotify.com/album/4vreIPwo6krkOo8bwRXjJl) | 4:18 |
 | 32 | [The Ghost of Me](https://open.spotify.com/track/5ZfIKnOgvBmHNj8s3g5nKd) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [The Ghost of Me](https://open.spotify.com/album/0SbXNQyZQgx5uyWSL7OVCo) | 3:13 |
 | 33 | [Next Day](https://open.spotify.com/track/03Vty31Dwz76xodLHmRnMj) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Next Day](https://open.spotify.com/album/405aqDgQO7urBQXgW89zRU) | 4:02 |
-| 34 | [The Rain](https://open.spotify.com/track/3KVxxn1MoYkjAzDeRHYZo4) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [The Rain](https://open.spotify.com/album/60sdH7DgcslnoQSPLkf7BP) | 3:35 |
+| 34 | [The Rain](https://open.spotify.com/track/0JLRbovJSwvjqh7wUyzPtc) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Call to Unknowns](https://open.spotify.com/album/2FZihRaczkHjLkc4ZT9gq4) | 3:35 |
 | 35 | [Where The River Goes](https://open.spotify.com/track/34ZuYTjotU24xALX5Hi23C) | [House Phone](https://open.spotify.com/artist/4BHMLvxLKkWPL7iuTnUdZC) | [Sunrise / Where The River Goes](https://open.spotify.com/album/2iF7lvvF2n8rX17ItmBeXZ) | 5:31 |
 | 36 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
 | 37 | [Heavy Handed](https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Heavy Handed](https://open.spotify.com/album/4QZPwH9ALMRJp4G3llnDqK) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Dog Days in LA](https://open.spotify.com/track/0MxqSOINLqZOwAFsGAMMux) | [Alicia Blue](https://open.spotify.com/artist/4suxU7SfC7vp6wMComAlQG) | [Dog Days in LA](https://open.spotify.com/album/5ouXoBtz7T2j6yiOQmct1t) | 3:36 |
 | 100 | [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 |
 
-Snapshot ID: `MTY2NDM4MDgwMCwwMDAwMDAwMGM3MDEzMTczOWUwOWU3YjI5MmI0ZjA2ZTgwMTNkZmU0`
+Snapshot ID: `MTY2NDM4MDgwMCwwMDAwMDAwMGU4ZmFmZTVmYzVhMjJhZjdlNzUwYWVlNGRjMzU0MDZm`

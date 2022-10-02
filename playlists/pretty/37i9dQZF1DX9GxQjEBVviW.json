@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 194491,
+  "num_followers": 194550,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzEyNDQwNywwMDAwMDAwMGZjOGVhNTY5NDE2OTc4ZjE1NjBmNTgzOGEyMGNlNzc1",
+  "snapshot_id": "MTYxMzEyNDQwNywwMDAwMDAwMDIxYjQ1ODg0MDUzZTM0ZWQ1ZmM2ODM5MjQ5Y2JhNmI4",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -471,22 +471,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Best Of Dion & The Belmonts",
-        "url": "https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu"
-      },
-      "artists": [
-        {
-          "name": "Dion & The Belmonts",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
-        }
-      ],
-      "duration_ms": 138960,
-      "name": "I Wonder Why - Remastered",
-      "url": "https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "The Magic Touch: An Anthology",
         "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 157760,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Best Of Dion & The Belmonts",
+        "url": "https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu"
+      },
+      "artists": [
+        {
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+        }
+      ],
+      "duration_ms": 138960,
+      "name": "I Wonder Why - Remastered",
+      "url": "https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH"
     },
     {
       "added_at": "2021-02-12 10:06:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cBprxbt1Fn.md) - [plain]
 
 > Gentle, relaxing <a href="spotify:genre:classical">classical</a> music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,456 likes - 67 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,497 likes - 67 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

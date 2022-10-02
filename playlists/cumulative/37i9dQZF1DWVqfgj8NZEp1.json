@@ -3841,10 +3841,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 389789,
       "name": "Soultrane",
       "url": "https://open.spotify.com/track/4KT3oO3PL2VOBwW6aqLq4F"
+    },
+    {
+      "album": {
+        "name": "Konarski & Standards",
+        "url": "https://open.spotify.com/album/2dj69o8yltikLhY0a0afam"
+      },
+      "artists": [
+        {
+          "name": "Marek Konarski",
+          "url": "https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389789,
+      "name": "Soultrane",
+      "url": "https://open.spotify.com/track/6Flb140dcVJ0VyZeCAmakB"
     },
     {
       "album": {

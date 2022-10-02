@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLLXSxmZy0O.md) - [plain]
 
 > 디즈니+의 인기곡들을 감상해보세요\. 디즈니, 픽사, 마블, 스타워즈, 네셔널 지오그래픽 등의 사운드 트랙이 포함되어 있습니다.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,266 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,367 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover:XIUMIN\(시우민\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,751 likes - 260 songs - 14 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,826 likes - 260 songs - 14 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [As It Was \- Spotify Singles](https://open.spotify.com/track/1lUNlmwyhsJy6kXmmrO11t) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [As It Was \- Spotify Singles](https://open.spotify.com/album/53TYhJdqLF6eU5GbYZezTB) | 2:39 |
 | 2 | [Moon&Back](https://open.spotify.com/track/5EFPZrR8SC2izgbBFDcNr4) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [Moon&Back](https://open.spotify.com/album/4U9vidHdzVMySNompXFcug) | 3:42 |
-| 3 | [Complex \(Feat\. ZICO\)](https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [FIVE SENSES](https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP) | 3:15 |
+| 3 | [Complex \(Feat\. ZICO\)](https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0) | [BE’O](https://open.spotify.com/artist/7ayixfXdkIuM2IOcG9m3eN), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [FIVE SENSES](https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP) | 3:15 |
 | 4 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 |
 | 5 | [POPPIA \- SAUDI ARABIA Version](https://open.spotify.com/track/3oqazbiAnQrZwakIpHeP08) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [KCON 2022 SAUDI ARABIA SIGNATURE SONG](https://open.spotify.com/album/2Xq9aHIoTdPa0v3T8PKAUR) | 3:17 |
 | 6 | [Answer](https://open.spotify.com/track/6HlYlMsI2KmSpTzSkiAy8g) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/7uCiRIGxjJtJdFB4afa443) | 3:55 |

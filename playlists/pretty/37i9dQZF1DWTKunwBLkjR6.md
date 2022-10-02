@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKunwBLkjR6.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Joie Chavis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,849 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,852 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

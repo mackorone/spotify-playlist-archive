@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnZT5DhATDx.md) - [plain]
 
 > What is dead may never die\. Listen to the most memorable and pinnacle tracks from all eight seasons of Game of Thrones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,987 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,995 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

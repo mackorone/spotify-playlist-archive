@@ -5317,7 +5317,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Selekta",
       "url": "https://open.spotify.com/track/6RtL2HnugxsDR4MfUmMyHL"
@@ -6247,7 +6247,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 315443,
       "name": "System Skank",
       "url": "https://open.spotify.com/track/2xHLsrKZvzr9kAiZwha3pP"
@@ -6353,6 +6353,28 @@
       "duration_ms": 246853,
       "name": "Tech Foul - Peekaboo Remix",
       "url": "https://open.spotify.com/track/01tb1I347g12xuR8FbJtOd"
+    },
+    {
+      "album": {
+        "name": "TEK",
+        "url": "https://open.spotify.com/album/7C2LDXd3UolHDXVnJE31NI"
+      },
+      "artists": [
+        {
+          "name": "Monty",
+          "url": "https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ"
+        },
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252351,
+      "name": "TEK",
+      "url": "https://open.spotify.com/track/3tezEIT5xK3CW8fjlSy4ak"
     },
     {
       "album": {
@@ -6743,7 +6765,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 240000,
       "name": "Too Close To The Sun",
       "url": "https://open.spotify.com/track/0btAv4p1G5nPbKBuKfkAky"

@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! Photo: Alexandra Streliski",
-  "num_followers": 43260,
+  "num_followers": 43263,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMGE5YjgyNmI5MWZiYTQ0MTMwMmRjNmRhN2ZlZDRjMjBl",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDgzMTdlMTAyNmM3ZmYxN2Q2NGJhODIwODFiMmJmMDJl",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Title (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "I'll Be Home",
-      "url": "https://open.spotify.com/track/0lTurWECr2XL607eJAj1A3"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "When Christmas Comes Around...",
         "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 242644,
       "name": "Santa, Can\u2019t You Hear Me",
       "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Title (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "I'll Be Home",
+      "url": "https://open.spotify.com/track/0lTurWECr2XL607eJAj1A3"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT"
-      },
-      "artists": [
-        {
-          "name": "La Zarra",
-          "url": "https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS"
-        }
-      ],
-      "duration_ms": 208806,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Le bal masqu\u00e9",
         "url": "https://open.spotify.com/album/2Uy1V5kBLMGuSKHchgsS5w"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 192933,
       "name": "Bons baisers de Fort-De-France",
       "url": "https://open.spotify.com/track/1sCsEjP36ukcVtdoK8LHZv"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT"
+      },
+      "artists": [
+        {
+          "name": "La Zarra",
+          "url": "https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS"
+        }
+      ],
+      "duration_ms": 208806,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0qc2lqhJAhnoCFoLJ70YaK"
+      },
+      "artists": [
+        {
+          "name": "Adrien de la Salle",
+          "url": "https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN"
+        }
+      ],
+      "duration_ms": 151397,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4K9fBu5r5xPHc90WXbRiyW"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "My Kind Of Christmas",
         "url": "https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "604 Records: The Second Noel",
-        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 251800,
-      "name": "Mittens",
-      "url": "https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "These are Special Times",
         "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 199760,
       "name": "I Met an Angel (on Christmas Day)",
       "url": "https://open.spotify.com/track/6PiOlFSX06npr0YXexWkrg"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "604 Records: The Second Noel",
+        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 251800,
+      "name": "Mittens",
+      "url": "https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/0qc2lqhJAhnoCFoLJ70YaK"
-      },
-      "artists": [
-        {
-          "name": "Adrien de la Salle",
-          "url": "https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN"
-        }
-      ],
-      "duration_ms": 151397,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4K9fBu5r5xPHc90WXbRiyW"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "No\u00ebl, C'est L'amour",
         "url": "https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 176106,
       "name": "Le P\u00e8re No\u00ebl C't'un Qu\u00e9b\u00e9cois",
       "url": "https://open.spotify.com/track/7adJp4379R1irkezIA3zjd"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "No\u00ebl en famille avec Fernand Gignac",
+        "url": "https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ"
+      },
+      "artists": [
+        {
+          "name": "Fernand Gignac",
+          "url": "https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2"
+        }
+      ],
+      "duration_ms": 140466,
+      "name": "C'est No\u00ebl",
+      "url": "https://open.spotify.com/track/4US3M3oVGLNUNvIRAPfQcE"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "No\u00ebl en famille avec Fernand Gignac",
-        "url": "https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ"
+        "name": "Joyeux No\u00ebl",
+        "url": "https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio"
       },
       "artists": [
         {
-          "name": "Fernand Gignac",
-          "url": "https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2"
+          "name": "B\u00fcndock",
+          "url": "https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD"
         }
       ],
-      "duration_ms": 140466,
-      "name": "C'est No\u00ebl",
-      "url": "https://open.spotify.com/track/4US3M3oVGLNUNvIRAPfQcE"
+      "duration_ms": 136533,
+      "name": "Fa La La",
+      "url": "https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Joyeux No\u00ebl",
-        "url": "https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio"
+        "name": "No\u00ebl chez moi",
+        "url": "https://open.spotify.com/album/2Clfi6J5G7Aa1kxKv09ahV"
       },
       "artists": [
         {
-          "name": "B\u00fcndock",
-          "url": "https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD"
+          "name": "Annie Villeneuve",
+          "url": "https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa"
         }
       ],
-      "duration_ms": 136533,
-      "name": "Fa La La",
-      "url": "https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f"
+      "duration_ms": 162160,
+      "name": "Le sentier de neige",
+      "url": "https://open.spotify.com/track/2CJJUz69TEqLrAyK2h02wp"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1675,22 +1691,6 @@
       "duration_ms": 233066,
       "name": "No\u00ebl \u00e0 J\u00e9rusalem",
       "url": "https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "No\u00ebl chez moi",
-        "url": "https://open.spotify.com/album/2Clfi6J5G7Aa1kxKv09ahV"
-      },
-      "artists": [
-        {
-          "name": "Annie Villeneuve",
-          "url": "https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Le sentier de neige",
-      "url": "https://open.spotify.com/track/2CJJUz69TEqLrAyK2h02wp"
     }
   ],
   "unique_name": "No\u00ebl, No\u00ebl, No\u00ebl",

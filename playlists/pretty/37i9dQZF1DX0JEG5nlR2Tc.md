@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JEG5nlR2Tc.md) - [plain]
 
 > Pack your backpack and get ready for school!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,505 likes - 39 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504 likes - 39 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

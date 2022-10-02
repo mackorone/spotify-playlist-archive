@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Les podcasts que vous devriez avoir sur votre RADAR : Central Podcast, Inspiration Créative et  et Mamie dans les orties.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,839 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,835 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

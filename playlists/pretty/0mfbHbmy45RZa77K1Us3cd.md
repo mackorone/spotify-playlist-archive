@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0mfbHbmy45RZa77K1Us3cd.md) - [plain]
 
 > Hit songs from the top 21 most streamed artists on the UnitedMasters platform in 2021.
 
-[unitedmasters](https://open.spotify.com/user/unitedmasters) - 8,098 likes - 21 songs - 58 min 19 sec
+[unitedmasters](https://open.spotify.com/user/unitedmasters) - 8,096 likes - 21 songs - 58 min 19 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain]
 
 > 情人節有麗英@小薯茄為你揀選情歌單《擁抱單身的你》，單拖過節有我哋陪你呀！
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,874 likes - 25 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,873 likes - 25 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

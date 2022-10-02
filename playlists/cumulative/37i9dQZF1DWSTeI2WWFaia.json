@@ -3784,6 +3784,28 @@
     },
     {
       "album": {
+        "name": "$oul $old $eparately",
+        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184526,
+      "name": "Lobster Omelette (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/47lSZVLBTQz5rilIsZR7M2"
+    },
+    {
+      "album": {
         "name": "Look Over Your Shoulder (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/2HXNzxTADIP8471UeJXDWw"
       },
@@ -6765,7 +6787,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 201128,
       "name": "Times Is Rough",
       "url": "https://open.spotify.com/track/1EzmTNUSKb0J5eXGgrP6wy"

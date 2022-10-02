@@ -1,15 +1,15 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 77691,
+  "num_followers": 77736,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NDI0MDksMDAwMDAwMDAwZTNkZTQ2OGFjMDIwY2MyZmMxMWVjYzkxMWMwNjRkNQ==",
+  "snapshot_id": "Mjc3NDM4MzQsMDAwMDAwMDBiOWE1MzU2MzZlZjA3YjUyM2QyMDAwMWMxYThhZDQxMw==",
   "tracks": [
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
@@ -25,71 +25,7 @@
       "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 410773,
-      "name": "Darker Still",
-      "url": "https://open.spotify.com/track/37O5phPvMfJZBIscgXlw4a"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Horizons (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 187960,
-      "name": "Carrion",
-      "url": "https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 258586,
-      "name": "Wild Eyes",
-      "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 233079,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Darker Still",
         "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
@@ -105,7 +41,71 @@
       "url": "https://open.spotify.com/track/04xV6DzDzE7TgWQKBGaC5E"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Horizons (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 187960,
+      "name": "Carrion",
+      "url": "https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 258586,
+      "name": "Wild Eyes",
+      "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 233079,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 410773,
+      "name": "Darker Still",
+      "url": "https://open.spotify.com/track/37O5phPvMfJZBIscgXlw4a"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Glitch",
         "url": "https://open.spotify.com/album/6nUaOQGLU8xIAI5MQqHvup"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/35i03ZqMFb5Q3O9TAQ7XLB"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Ire",
         "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Horizons (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Darker Still",
         "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Ire",
         "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
@@ -201,135 +201,7 @@
       "url": "https://open.spotify.com/track/6jQu1YuisnFu36Sof5wjym"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 303808,
-      "name": "Wishing Wells",
-      "url": "https://open.spotify.com/track/6Fqdip4cWZEFwtmdhX9iNq"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 211996,
-      "name": "Soul Bleach",
-      "url": "https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 253839,
-      "name": "Deliver Me",
-      "url": "https://open.spotify.com/track/1OuOKS43b3pRYb9d49WrBp"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 276222,
-      "name": "Crushed",
-      "url": "https://open.spotify.com/track/2BzEsfwqucjlBSFu8s74sz"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 230063,
-      "name": "Shadow Boxing",
-      "url": "https://open.spotify.com/track/0IjgnngXXRb1adm4kYVeB2"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 328743,
-      "name": "The Greatest Fear",
-      "url": "https://open.spotify.com/track/2ijbU93XOTRIqoOzPGPNiK"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/5fwwWmgreaDgfmLxqOdF8f"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 317907,
-      "name": "Romance Is Dead",
-      "url": "https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
@@ -345,7 +217,7 @@
       "url": "https://open.spotify.com/track/18Hju2cdvKh07eBmE4Sug5"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Darker Still",
         "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
@@ -356,12 +228,44 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 299832,
-      "name": "Land of the Lost",
-      "url": "https://open.spotify.com/track/5pmEe2QhCUzmRUu0BteOKg"
+      "duration_ms": 211996,
+      "name": "Soul Bleach",
+      "url": "https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 253839,
+      "name": "Deliver Me",
+      "url": "https://open.spotify.com/track/1OuOKS43b3pRYb9d49WrBp"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 276222,
+      "name": "Crushed",
+      "url": "https://open.spotify.com/track/2BzEsfwqucjlBSFu8s74sz"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
@@ -372,12 +276,92 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 222975,
-      "name": "Absolute Power",
-      "url": "https://open.spotify.com/track/3PBO2IOcxzIdDbpDwygejB"
+      "duration_ms": 230063,
+      "name": "Shadow Boxing",
+      "url": "https://open.spotify.com/track/0IjgnngXXRb1adm4kYVeB2"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 328743,
+      "name": "The Greatest Fear",
+      "url": "https://open.spotify.com/track/2ijbU93XOTRIqoOzPGPNiK"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5fwwWmgreaDgfmLxqOdF8f"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 317907,
+      "name": "Romance Is Dead",
+      "url": "https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 303808,
+      "name": "Wishing Wells",
+      "url": "https://open.spotify.com/track/6Fqdip4cWZEFwtmdhX9iNq"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 160516,
+      "name": "If a God Can Bleed",
+      "url": "https://open.spotify.com/track/2b7yigvDL1fkswGnQv4hqc"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Ire",
         "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
@@ -393,7 +377,7 @@
       "url": "https://open.spotify.com/track/467sEVDgETBscsn9OKJ87Q"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Killing With A Smile",
         "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
@@ -409,7 +393,23 @@
       "url": "https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 222975,
+      "name": "Absolute Power",
+      "url": "https://open.spotify.com/track/3PBO2IOcxzIdDbpDwygejB"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Horizons (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
@@ -425,23 +425,7 @@
       "url": "https://open.spotify.com/track/6EhCOo20iD7JSvMP7fty7n"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 380410,
-      "name": "Chronos",
-      "url": "https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
@@ -457,71 +441,7 @@
       "url": "https://open.spotify.com/track/7EuOA3u04bWOvNw6RZQZy7"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 256829,
-      "name": "It's So Hard To Speak Without A Tongue",
-      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Horizons (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Dead Man's Chest",
-      "url": "https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 229520,
-      "name": "Leviathan I",
-      "url": "https://open.spotify.com/track/6FEkMS1Wiz5b1QLWLrbrne"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 248506,
-      "name": "Dream Run",
-      "url": "https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Killing With A Smile",
         "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
@@ -537,7 +457,23 @@
       "url": "https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 380410,
+      "name": "Chronos",
+      "url": "https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Horizons (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
@@ -548,12 +484,44 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 218120,
-      "name": "Breaking Point",
-      "url": "https://open.spotify.com/track/7nhVZs10XVluL6RKtv86q9"
+      "duration_ms": 201653,
+      "name": "Dead Man's Chest",
+      "url": "https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 201034,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/0gMREA9nAh1RD7TZ6WmQA5"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "Dream Run",
+      "url": "https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Viva The Underdogs",
         "url": "https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb"
@@ -573,39 +541,7 @@
       "url": "https://open.spotify.com/track/0fP3R18uL3KgJabqm5Crja"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 201034,
-      "name": "Wreckage",
-      "url": "https://open.spotify.com/track/0gMREA9nAh1RD7TZ6WmQA5"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Sleight of Hand",
-      "url": "https://open.spotify.com/track/4629CEGA4gQ065aiuoR32n"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Horizons (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
@@ -616,12 +552,44 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 339000,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/2i5lnmaZ9tB8pom8Br4KS5"
+      "duration_ms": 218120,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/7nhVZs10XVluL6RKtv86q9"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 229520,
+      "name": "Leviathan I",
+      "url": "https://open.spotify.com/track/6FEkMS1Wiz5b1QLWLrbrne"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 256829,
+      "name": "It's So Hard To Speak Without A Tongue",
+      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Don't Close Your Eyes",
         "url": "https://open.spotify.com/album/3eocTQ5CZzOg3TSWDdjdJn"
@@ -637,7 +605,23 @@
       "url": "https://open.spotify.com/track/0cu6AGJwPrVuwFn4Kub30A"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Horizons (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/2i5lnmaZ9tB8pom8Br4KS5"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
@@ -653,7 +637,7 @@
       "url": "https://open.spotify.com/track/2mvi7qtDNLuh25oOcHVEOk"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Killing With A Smile",
         "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
@@ -669,7 +653,23 @@
       "url": "https://open.spotify.com/track/0JhU5780ClX6njQAN21bP9"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Sleight of Hand",
+      "url": "https://open.spotify.com/track/4629CEGA4gQ065aiuoR32n"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Ire",
         "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
@@ -685,23 +685,7 @@
       "url": "https://open.spotify.com/track/19STBV8KgQ5TqoYbio5Ewm"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "Old Ghost / New Regrets",
-      "url": "https://open.spotify.com/track/0sSweTCEPskCfVx1hmiGiw"
-    },
-    {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Ire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
@@ -721,7 +705,7 @@
       "url": "https://open.spotify.com/track/6V68CLsCg05KRTX1MgTC2V"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Killing With A Smile",
         "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
@@ -737,7 +721,23 @@
       "url": "https://open.spotify.com/track/6aiL3ftGl86lXUWkYuN05E"
     },
     {
-      "added_at": "2022-09-30 13:29:27",
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 169960,
+      "name": "Old Ghost / New Regrets",
+      "url": "https://open.spotify.com/track/0sSweTCEPskCfVx1hmiGiw"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
       "album": {
         "name": "Ire",
         "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
@@ -751,6 +751,22 @@
       "duration_ms": 263962,
       "name": "Writings on the Wall",
       "url": "https://open.spotify.com/track/4gkl7JKIBa2aM18Vm6tfAp"
+    },
+    {
+      "added_at": "2022-10-01 13:14:06",
+      "album": {
+        "name": "Ire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 206374,
+      "name": "Devil's Calling",
+      "url": "https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8"
     }
   ],
   "unique_name": "This Is Parkway Drive",

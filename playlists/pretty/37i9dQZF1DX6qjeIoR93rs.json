@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 38146,
+  "num_followers": 38179,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMDYyMmQ3MThmODVlYWM1YzZjZDhiOWIxZTc2ZjNiYTA4",
+  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMGI0NmRjNDZmNjg2OGE3NzlmZmI2MTNmNzYxOTQxOTk3",
   "tracks": [
     {
       "added_at": "2022-09-09 12:20:11",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Ishraq Reminiscence",
-        "url": "https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs"
-      },
-      "artists": [
-        {
-          "name": "Sanaa Moussa",
-          "url": "https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "Nijmet El-Subeh",
-      "url": "https://open.spotify.com/track/5ngzNl6skIrN3XZHrF5TXr"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "The Long March",
         "url": "https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 376586,
       "name": "Carry the Earth",
       "url": "https://open.spotify.com/track/73XTg0Yt03seww60tQcBSL"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Ishraq Reminiscence",
+        "url": "https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs"
+      },
+      "artists": [
+        {
+          "name": "Sanaa Moussa",
+          "url": "https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Nijmet El-Subeh",
+      "url": "https://open.spotify.com/track/5ngzNl6skIrN3XZHrF5TXr"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -631,38 +631,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Maskhara",
-        "url": "https://open.spotify.com/album/15catjUJC7E0A14BOGmDcd"
-      },
-      "artists": [
-        {
-          "name": "Bashar Murad",
-          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
-        }
-      ],
-      "duration_ms": 186411,
-      "name": "Maskhara",
-      "url": "https://open.spotify.com/track/1WvkTvepY16tngFkyf2HNB"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
-        "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
-        "url": "https://open.spotify.com/album/6tQvEO9Vn7YVqrL4F8IS8b"
-      },
-      "artists": [
-        {
-          "name": "\u0641\u0631\u0642\u0629 \u0632\u0645\u0646",
-          "url": "https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn"
-        }
-      ],
-      "duration_ms": 228813,
-      "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0644\u0633\u0637\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/0Xbrn4PNQUaCLwUmshygdt"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Soundtrack to the Struggle 2",
         "url": "https://open.spotify.com/album/5gIwjf2qT4BdIt6REFXFcu"
       },
@@ -699,6 +667,38 @@
       "duration_ms": 317241,
       "name": "Long Live Palestine 3",
       "url": "https://open.spotify.com/track/3qWEyRdZJFmPepCXSTSq0r"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Maskhara",
+        "url": "https://open.spotify.com/album/15catjUJC7E0A14BOGmDcd"
+      },
+      "artists": [
+        {
+          "name": "Bashar Murad",
+          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+        }
+      ],
+      "duration_ms": 186411,
+      "name": "Maskhara",
+      "url": "https://open.spotify.com/track/1WvkTvepY16tngFkyf2HNB"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
+        "url": "https://open.spotify.com/album/6tQvEO9Vn7YVqrL4F8IS8b"
+      },
+      "artists": [
+        {
+          "name": "\u0641\u0631\u0642\u0629 \u0632\u0645\u0646",
+          "url": "https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn"
+        }
+      ],
+      "duration_ms": 228813,
+      "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0644\u0633\u0637\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/0Xbrn4PNQUaCLwUmshygdt"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Badi Ellak",
-        "url": "https://open.spotify.com/album/1T5lNQGgRYOlAgLj5ZihCf"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Badi Ellak",
-      "url": "https://open.spotify.com/track/7q4nRHpLoEUgSpRDxWo1x6"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Today Is the day",
         "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 151058,
       "name": "Today is the day",
       "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Badi Ellak",
+        "url": "https://open.spotify.com/album/1T5lNQGgRYOlAgLj5ZihCf"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Badi Ellak",
+      "url": "https://open.spotify.com/track/7q4nRHpLoEUgSpRDxWo1x6"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Laween",
-        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 208237,
-      "name": "Laween",
-      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Mo Light",
         "url": "https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 285773,
       "name": "Mo Light",
       "url": "https://open.spotify.com/track/4ELE971aOY79OV4263w8h3"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Laween",
+        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 208237,
+      "name": "Laween",
+      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
     },
     {
       "added_at": "2022-09-09 12:20:11",

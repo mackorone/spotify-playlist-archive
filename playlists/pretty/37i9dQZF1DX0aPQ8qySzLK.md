@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,748 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,747 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 4 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 |
 | 5 | [Now & Then](https://open.spotify.com/track/3f5qREySyxn04acVAQadPg) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Now & Then](https://open.spotify.com/album/4KPde9UNrNKwWQBsIvQD2c) | 3:17 |
 | 6 | [To the Mountains](https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:13 |
-| 7 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
+| 7 | [Grow Into Love](https://open.spotify.com/track/2NPfTvXSDHjt0e33ulBk5M) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/6qSUzYOIB8TQglbqn3efU6) | 2:42 |
 | 8 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
 | 9 | [All the Time](https://open.spotify.com/track/7IkvPENG8NFXxptGXv4koL) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [In Natural Light](https://open.spotify.com/album/2rXqhLEZgf7uESXnpAhlMY) | 3:33 |
 | 10 | [A Troubled Mind](https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:01 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 66 | [Ready for It All](https://open.spotify.com/track/4WgImOn4TaZJyD9Mbes0oM) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [Ready for It All](https://open.spotify.com/album/61n6040QOrnXfpH8WLsbUL) | 2:51 |
 | 67 | [Special Place In Hell](https://open.spotify.com/track/3iCF7e9cDzX4IkrrRPZtoZ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Summer B Sides](https://open.spotify.com/album/7eKRJ0btdxbAPXUe4qPxKt) | 2:19 |
 | 68 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
-| 69 | [Run](https://open.spotify.com/track/7cp7nfPcnL9fGwGddnt7bi) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Run](https://open.spotify.com/album/3X55MRUS1FuW7V10X9hDms) | 3:22 |
+| 69 | [Run](https://open.spotify.com/track/3OFq1T4QtYf17KkKo7fKiJ) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Run](https://open.spotify.com/album/7moNk5ww6G7x8YZC4hGPvc) | 3:22 |
 | 70 | [Long Way Down](https://open.spotify.com/track/014p05lZqNN7te7TO2xepE) | [Steve Marriner](https://open.spotify.com/artist/3gGtZLqY9EV0wTN8TjygoT) | [Hope Dies Last](https://open.spotify.com/album/7nwgP9aEYcAKWz3NqDz9DH) | 6:26 |
 | 71 | [Say You Will](https://open.spotify.com/track/01vJRC33O3RZS1dU5dUUJ6) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Say You Will](https://open.spotify.com/album/0QTvXpfQhqsCOTnC80oWgk) | 4:51 |
 | 72 | [On the Floor](https://open.spotify.com/track/0ulXGwFxSuoCvddSoQllWW) | [Kate Gillespie](https://open.spotify.com/artist/6ci7cpgQnyd6mWMAXWQI0T) | [On the Floor](https://open.spotify.com/album/4AORDk5HMoctBbfueKVzsK) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 99 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 |
 | 100 | [Full Size Render](https://open.spotify.com/track/0eNHKjlypkRo1v9HZ8UOdM) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/0n7Wt3JEnLARfOgdCFnxIC) | 2:58 |
 
-Snapshot ID: `MTYzODM2NjMwMCwwMDAwMDAwMDZiYzAyNWFiMzYxYzRlYmFmODIyYTBmOGMyZmUyY2Zi`
+Snapshot ID: `MTYzODM2NjMwMCwwMDAwMDAwMDg5MDkwYjRiZDJiMDZkZDg4MmJmMzMwZWI0NWViZjk1`

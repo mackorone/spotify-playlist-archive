@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: WOS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,182 likes - 101 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,274 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PUAJ \(sesión\)](https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PUAJ \(sesión\)](https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww) | 2:36 |
 | 2 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 |
-| 3 | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/track/6TNuRFdNazLbbVQTRE8pZg) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/album/6tKzkBXT4H4991ZHErDdbB) | 2:53 |
+| 3 | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/track/4ggrH4V2eKpf2xDfHMuRrq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/album/44MB3M5UPDawANWNBaauw0) | 2:53 |
 | 4 | [\#Ysya2020 Vol\. 6 \- Un Flow de Infarto](https://open.spotify.com/track/2byu6eeLWaBq88ZtusqU4V) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [\#Ysya2020 Vol\. 6 \- Un Flow de Infarto](https://open.spotify.com/album/7LGfXrv3UV7GAMuUOQZ37L) | 2:22 |
 | 5 | [BIEN O MAL](https://open.spotify.com/track/4n0MBJuHpZ9dnD1BtsOIxB) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:56 |
 | 6 | [MELÓN VINO](https://open.spotify.com/track/7xQgtdHA1NHFTmomE2XHhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MELÓN VINO](https://open.spotify.com/album/642DHM5L0ZjQZYGPKELOqN) | 2:56 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 37 | [Doble Ipa](https://open.spotify.com/track/79R83OrWPJhzOhyjcfQAwN) | [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R) | [Leal](https://open.spotify.com/album/78mCf8tXP7zoxxUmiTDF1P) | 3:45 |
 | 38 | [No Tiene Nombre](https://open.spotify.com/track/3QtY890q1pVlPqMnXETBok) | [Linyeras cru](https://open.spotify.com/artist/38PVRkX8RixC7XuDRltJpN) | [Con La Bolsa Al Hombro](https://open.spotify.com/album/1sUtG5iAA7L65zvM41bjGi) | 3:55 |
 | 39 | [Fuck Competi](https://open.spotify.com/track/10j7AJYks6t19IxS00jqr5) | [Marcianos Crew](https://open.spotify.com/artist/0Hkx0YcHHxDRRbH9WsSW0I), [Barderos](https://open.spotify.com/artist/3H57AwuKV3100IAiRjtD5c) | [Fuck Competi](https://open.spotify.com/album/0TnHmR2j2TnAQCRtiGxt8s) | 3:11 |
-| 40 | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/track/3VCo2tJEa1a8GDCvSIqwP0) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/album/6m6qmfyl9LCn1801SzmpGO) | 3:01 |
+| 40 | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/track/4HFzNSCfkNssUid9hoy2Ls) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/album/2hKEYwv7oSNI0xc4nsIFcs) | 3:01 |
 | 41 | [Sucio](https://open.spotify.com/track/1aNJgaL6fmvMLWzOMld92r) | [Socio](https://open.spotify.com/artist/3UppqcmU2AFZ0YtWTYfxeD), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Para la Envidia](https://open.spotify.com/album/60NVjjROURwC1Vbe5r9FBM) | 4:35 |
 | 42 | [Disciplina](https://open.spotify.com/track/7kL7d77orEOY6oZZMSjk0J) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Ambición y Disciplina](https://open.spotify.com/album/6byABFFo15jmymFmdBR8zb) | 3:32 |
 | 43 | [HOOP HOOP](https://open.spotify.com/track/3dD1H5ick5Txfngx7hje7X) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Pedro Peligro](https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:37 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 100 | [Lo Importante](https://open.spotify.com/track/4GRrsacA6p5AqwZMYwmjQS) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [No Name](https://open.spotify.com/artist/4D58BLqL09mSKPaQy2xAno), [Sonhorus](https://open.spotify.com/artist/5dDZwuxurOnCyKgxJmFGKB) | [Lo Importante](https://open.spotify.com/album/5iVQhgHm6DKSf9BTJnQIRg) | 3:05 |
 | 101 | [2 Gramos](https://open.spotify.com/track/4b3bC2qVLpBmsQXoOPCB1R) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Always](https://open.spotify.com/album/5A6Dg5sCDSjW26RNkRYMmV) | 2:50 |
 
-Snapshot ID: `MTY2MzgwNDgwMCwwMDAwMDAwMDdhOGNiNjZjZmUwZDhjNDg3NzljMjkyNmJjYmJmYTU3`
+Snapshot ID: `MTY2MzgwNDgwMCwwMDAwMDAwMDE5N2I4YjNjYmRiOWJhMjAxOTEyZDFmZGVlY2IyMzc4`

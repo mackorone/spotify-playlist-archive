@@ -2008,6 +2008,24 @@
     },
     {
       "album": {
+        "name": "\u571f\u66dc\u65e5\u306e\u308f\u305f\u3057\u305f\u3061\u306f",
+        "url": "https://open.spotify.com/album/1N97AkG9X4DExcr5PNTxXs"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248240,
+      "name": "\u571f\u66dc\u65e5\u306e\u308f\u305f\u3057\u305f\u3061\u306f",
+      "url": "https://open.spotify.com/track/3oNJin9upticyZf6OuoGwh"
+    },
+    {
+      "album": {
         "name": "\u5f80\u3051",
         "url": "https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx"
       },

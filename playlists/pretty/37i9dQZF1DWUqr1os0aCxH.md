@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqr1os0aCxH.md) - [plain]
 
 > POV: sipping tea in the parlour with your BFF.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,927 likes - 30 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,977 likes - 30 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

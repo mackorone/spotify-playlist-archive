@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 32032,
+  "num_followers": 32090,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk3NTMyNSwwMDAwMDAwMDI5MmI3MmQ3ZWNlNzYwYmI0MDQ3ZGUwZGMzOWMwMzY3",
+  "snapshot_id": "MTY2Mzk3NTMyNSwwMDAwMDAwMDg0NDI2OTcxNzAyMTY0YTMxZmQ3ZmNmNjMwNmU3NDQ3",
   "tracks": [
     {
       "added_at": "2022-09-23 23:22:05",
@@ -275,18 +275,22 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
+        "name": "Flecha",
+        "url": "https://open.spotify.com/album/6ppWzVBtrtH6Pfzkz1gx9V"
       },
       "artists": [
         {
-          "name": "valeria d\u00e1vila",
-          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 214865,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
+      "duration_ms": 233826,
+      "name": "Flecha",
+      "url": "https://open.spotify.com/track/6XtOM0xVBmhjX8mRkrWo9z"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -307,22 +311,18 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Flecha",
-        "url": "https://open.spotify.com/album/6ppWzVBtrtH6Pfzkz1gx9V"
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
       },
       "artists": [
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "valeria d\u00e1vila",
+          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
         }
       ],
-      "duration_ms": 233826,
-      "name": "Flecha",
-      "url": "https://open.spotify.com/track/6XtOM0xVBmhjX8mRkrWo9z"
+      "duration_ms": 214865,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
+      },
+      "artists": [
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 183829,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
-      },
-      "artists": [
-        {
-          "name": "Felipe Botello y El Sonoro Rugir",
-          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Eres T\u00fa (Cap. 6: Miedo a la Soledad)",
-        "url": "https://open.spotify.com/album/41a1fgIzvZXpIas6XdsxsZ"
+        "name": "\u00c1tame",
+        "url": "https://open.spotify.com/album/0dDvgoijFTIRu3gPR4XTpn"
       },
       "artists": [
         {
-          "name": "Kari",
-          "url": "https://open.spotify.com/artist/4g995OkDaX98GUjFyZyuRu"
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
         }
       ],
-      "duration_ms": 182542,
-      "name": "Eres T\u00fa (Cap. 6: Miedo a la Soledad)",
-      "url": "https://open.spotify.com/track/0D259G1Rm5x1r0YWept67t"
+      "duration_ms": 190915,
+      "name": "\u00c1tame",
+      "url": "https://open.spotify.com/track/0oLIHr9UiL68al3E8MeT2u"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "\u00c1tame",
-        "url": "https://open.spotify.com/album/0dDvgoijFTIRu3gPR4XTpn"
+        "name": "Eres T\u00fa (Cap. 6: Miedo a la Soledad)",
+        "url": "https://open.spotify.com/album/41a1fgIzvZXpIas6XdsxsZ"
       },
       "artists": [
         {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+          "name": "Kari",
+          "url": "https://open.spotify.com/artist/4g995OkDaX98GUjFyZyuRu"
         }
       ],
-      "duration_ms": 190915,
-      "name": "\u00c1tame",
-      "url": "https://open.spotify.com/track/0oLIHr9UiL68al3E8MeT2u"
+      "duration_ms": 182542,
+      "name": "Eres T\u00fa (Cap. 6: Miedo a la Soledad)",
+      "url": "https://open.spotify.com/track/0D259G1Rm5x1r0YWept67t"
     },
     {
       "added_at": "2022-09-23 23:22:05",

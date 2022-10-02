@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJXfCVYbEo4.md) - [plain]
 
 > Las canciones que consagraron a Soda Stereo en Latinoamérica y más allá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,918 likes - 25 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,959 likes - 25 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

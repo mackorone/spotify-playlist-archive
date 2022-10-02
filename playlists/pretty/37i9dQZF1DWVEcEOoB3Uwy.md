@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcEOoB3Uwy.md) - [plain]
 
 > A chill, laidback playlist for background vibes when you're potting up or watering your plants.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,518 likes - 53 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,517 likes - 53 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 153589,
       "name": "Commit",
       "url": "https://open.spotify.com/track/1CLnmxh6Inys4vSibwM4ud"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 165466,
       "name": "Eyes Shut",
       "url": "https://open.spotify.com/track/6JzgPzivpGAf1Nu5nKHahR"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 222109,
       "name": "Heaven Apart",
       "url": "https://open.spotify.com/track/0OGuJTsdY9B0C2fwPHvxbE"
@@ -768,6 +768,24 @@
     },
     {
       "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Same Stone",
+      "url": "https://open.spotify.com/track/5jOOZRXH9CBuaHsYekcTRh"
+    },
+    {
+      "album": {
         "name": "Charmer",
         "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
       },
@@ -977,7 +995,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 244986,
       "name": "Window",
       "url": "https://open.spotify.com/track/7eVnrWEXTTedaLxDTOYzuV"

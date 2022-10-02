@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06shnsLNU84.md) - [plain]
 
 > Enjoy the JTBC drama 'Thirty\-Nine' OSTs in a different way with the special contents\. You can watch this drama on Netflix as well\. \(JTBC 드라마 '서른, 아홉'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요\. 넷플릭스에서도 서른, 아홉을 감상하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,228 likes - 37 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,225 likes - 37 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

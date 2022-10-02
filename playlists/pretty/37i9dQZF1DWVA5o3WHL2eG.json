@@ -1,12 +1,12 @@
 {
   "description": "\"Women at full volume\" - H\u00f6re hier K\u00fcnstlerinnen aus Deutschland, \u00d6sterreich und der Schweiz. Cover: LEEPA",
-  "num_followers": 18164,
+  "num_followers": 18160,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUwMTYwMCwwMDAwMDAwMGI0ZmRhNmEzY2FhNGQ1MTRmYjhhYTBjM2U1Y2MyMDQx",
+  "snapshot_id": "MTY2MjUwMTYwMCwwMDAwMDAwMDgwMjc3YjhlMDA0NTgzYjFiZDlhNzlkMmY5ODAxODk1",
   "tracks": [
     {
       "added_at": "2022-09-06 22:00:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-09-06 22:00:00",
       "album": {
+        "name": "Herz mit dem Pfeil",
+        "url": "https://open.spotify.com/album/6rwcJyPe7PhG7Ae5NzLH1j"
+      },
+      "artists": [
+        {
+          "name": "SOPHIA",
+          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
+        }
+      ],
+      "duration_ms": 159266,
+      "name": "Herz mit dem Pfeil",
+      "url": "https://open.spotify.com/track/7A1NCaZXXYjfNrmGPyiOFd"
+    },
+    {
+      "added_at": "2022-09-06 22:00:00",
+      "album": {
         "name": "photosynthese",
         "url": "https://open.spotify.com/album/2cfcwuPvW5CKlQSMbPTO8k"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 200000,
       "name": "photosynthese",
       "url": "https://open.spotify.com/track/7aaeOKbjLe1zah55isgqdC"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "Herz mit dem Pfeil",
-        "url": "https://open.spotify.com/album/6rwcJyPe7PhG7Ae5NzLH1j"
-      },
-      "artists": [
-        {
-          "name": "SOPHIA",
-          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
-        }
-      ],
-      "duration_ms": 159266,
-      "name": "Herz mit dem Pfeil",
-      "url": "https://open.spotify.com/track/7A1NCaZXXYjfNrmGPyiOFd"
     },
     {
       "added_at": "2022-09-06 22:00:00",

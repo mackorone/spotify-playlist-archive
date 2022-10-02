@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cldCKQHv0t.md) - [plain]
 
 > The stellar duo <a href="spotify:artist:586uxXMyD5ObPuzjtrzO1Q">Sofi Tukker</a> brings us an exciting DJ Mix loaded with summer hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,444 likes - 14 songs - 54 min 18 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,478 likes - 14 songs - 54 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

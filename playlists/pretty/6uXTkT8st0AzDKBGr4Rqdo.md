@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6uXTkT8st0AzDKBGr4Rqdo.md) - [plain]
 
 > Love can be kind, chaotic, peaceful, passionate, and more\. Here are songs for whatever version of love you're feeling!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 10,435 likes - 87 songs - 5 hr 14 min
+[Digster](https://open.spotify.com/user/digster.fm) - 10,436 likes - 87 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

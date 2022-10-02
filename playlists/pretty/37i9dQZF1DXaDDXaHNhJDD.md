@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > An exclusive collection of Malayalam super hit songs.<br/>Cover: Kaduva
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,618 likes - 72 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,853 likes - 72 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

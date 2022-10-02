@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 61788,
+  "num_followers": 61812,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDI0ODBjMWQyYzk2M2Q0OWQ3NDgzMjJmY2U5MTc3ZDQw",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDc2YTQyMTUyMTdiYTQ0Nzc4Mjc4MWFkN2ZkMGRkNjdk",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Muchachita",
-        "url": "https://open.spotify.com/album/1h7jNF4sKtT7NQtJn7v0j3"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Muchachita",
-      "url": "https://open.spotify.com/track/1L9O9z8CIG22aKrpPeHVeV"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Mi Herencia, Mi Sangre",
         "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 185680,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Muchachita",
+        "url": "https://open.spotify.com/album/1h7jNF4sKtT7NQtJn7v0j3"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Muchachita",
+      "url": "https://open.spotify.com/track/1L9O9z8CIG22aKrpPeHVeV"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Quiero Confesarte",
-        "url": "https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe"
-      },
-      "artists": [
-        {
-          "name": "Wil Caro",
-          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
-        }
-      ],
-      "duration_ms": 155365,
-      "name": "Quiero Confesarte",
-      "url": "https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Qu\u00e9 Ganas",
         "url": "https://open.spotify.com/album/0eKAvkHF0t0nCuOrIuTlyv"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 188637,
       "name": "Qu\u00e9 Ganas",
       "url": "https://open.spotify.com/track/1ssx2hBmMP49NiNE6QxhQV"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Quiero Confesarte",
+        "url": "https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe"
+      },
+      "artists": [
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+        }
+      ],
+      "duration_ms": 155365,
+      "name": "Quiero Confesarte",
+      "url": "https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU"
     },
     {
       "added_at": "2022-07-29 04:00:00",

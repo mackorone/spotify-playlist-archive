@@ -1,12 +1,12 @@
 {
   "description": "Rock for the road. Cover: The Strokes",
-  "num_followers": 17668,
+  "num_followers": 17707,
   "original_name": "Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYxNTMzNiwwMDAwMDAwMDhjNDQ2YjM0Y2Q1ZTYyZDc2ZGMwZDJjOWFmMmY2YWMz",
+  "snapshot_id": "MTY1NjYxNTMzNiwwMDAwMDAwMGIzMjJlZDI5M2I3ZmE1Mjk5YTRkY2EyN2MyMDJiY2Mw",
   "tracks": [
     {
       "added_at": "2021-07-01 23:15:26",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
     },
     {
-      "added_at": "2022-06-30 18:55:35",
-      "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 212888,
-      "name": "The Hardest Button to Button",
-      "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
-    },
-    {
       "added_at": "2021-07-01 23:15:26",
       "album": {
         "name": "Highly Evolved",
@@ -727,6 +711,22 @@
       "duration_ms": 126573,
       "name": "Get Free",
       "url": "https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx"
+    },
+    {
+      "added_at": "2022-06-30 18:55:35",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 212888,
+      "name": "The Hardest Button to Button",
+      "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
     },
     {
       "added_at": "2022-06-30 18:55:35",

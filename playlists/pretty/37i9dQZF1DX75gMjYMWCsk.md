@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75gMjYMWCsk.md) - [plain]
 
 > Explore the unforgettable melodies of the greatest LGBTQ+ composers\. Cover: <a href="spotify:artist:2vObsQCPsbVfkqHlQOu2zc">Nico Muhly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,357 likes - 49 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,383 likes - 49 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

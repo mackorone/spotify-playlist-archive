@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Los sonidos de Belén.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,432 likes - 95 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,437 likes - 95 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

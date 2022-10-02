@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gO3SN574Ui.md) - [plain]
 
 > <a href="spotify:artist:0P2bZXPyjHYRW4guHVAFl1">ARMNHMR</a> Duo brings us a mix full of energy and heart\-pounding drops that will get you moving!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,825 likes - 30 songs - 59 min 6 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,838 likes - 30 songs - 59 min 6 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

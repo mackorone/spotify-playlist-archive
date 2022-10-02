@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover Chin Bees
 
-50 songs - 2 hr 54 min - not published yet
+51 songs - 2 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Baki Na Mimi](https://open.spotify.com/track/1J4InSOUeqLLNQPim0KaPH) | [Mr Blue](https://open.spotify.com/artist/5oNEJIZyXIfzVhOV8TC9Ok), [Dunga](https://open.spotify.com/artist/2Ii0LWGvVKuV8nB9eZMAcF) | [Baki Na Mimi](https://open.spotify.com/album/32vTe9cPeWU7HUpgwcFDA5) | 4:08 | 2022-03-28 |  |
 | [Ball](https://open.spotify.com/track/2LowbYxM2uUKTkIplQdHaS) | [Chin Bees](https://open.spotify.com/artist/4gIhwhkt6pLAUC8OQRoI6q) | [Ball](https://open.spotify.com/album/5vpj7obLVDfrGZb5xPYFfy) | 3:08 | 2022-08-26 |  |
 | [Birthday \- Radio Edit](https://open.spotify.com/track/0xBZyqY4wBWEXyj9iC5lXI) | [Conboi Cannabino](https://open.spotify.com/artist/10D7HPh6me5e5O1JmwHRsh), [Ibrah Nation](https://open.spotify.com/artist/6Y3OSLT5LyIKJM5cGsV0Gq) | [True Story](https://open.spotify.com/album/1wWKlSTmgntpXq6NCRvxs5) | 3:14 | 2022-03-28 |  |
-| [Dear Gambe](https://open.spotify.com/track/5rEFPXvrI6lrVtKLreYZex) | [Msodoki Young Killer](https://open.spotify.com/artist/0EfQfdKNPm4U50wNWTMqtU), [Belle9](https://open.spotify.com/artist/0aiGVd3m2MJUz2x3XHjQuP) | [Dear Gambe](https://open.spotify.com/album/5nBrr7soIGIZhVI6G1AWCO) | 4:00 | 2022-03-28 |  |
+| [Dear Gambe](https://open.spotify.com/track/5rEFPXvrI6lrVtKLreYZex) | [Msodoki Young Killer](https://open.spotify.com/artist/0EfQfdKNPm4U50wNWTMqtU), [Belle9](https://open.spotify.com/artist/0aiGVd3m2MJUz2x3XHjQuP) | [Dear Gambe](https://open.spotify.com/album/5nBrr7soIGIZhVI6G1AWCO) | 4:00 | 2022-03-28 | 2022-10-02 |
+| [Dear Gambe](https://open.spotify.com/track/2IUvtf5mREXmyLm2R4Ewkh) | [Young Killer](https://open.spotify.com/artist/33087Y6d4XZj4ZKaXlB6TW) | [Mrs\. Superstar](https://open.spotify.com/album/1XPoBa0RUHPdFNRovQZ9P6) | 4:00 | 2022-03-28 |  |
 | [Drunk](https://open.spotify.com/track/4ce0jtsd45FzC16C6T1aBu) | [Base Ace](https://open.spotify.com/artist/6q8o2vR7Hi0ibQFpGRidsP), [Harley](https://open.spotify.com/artist/6NWw0BtjA7DhzIEJyY0dNm) | [Drunk](https://open.spotify.com/album/2y25NkbnqoJXRyGX60GxKd) | 3:02 | 2022-04-28 |  |
 | [Future Wife](https://open.spotify.com/track/1Yq6tM4AzDJKcUC1ziv9O8) | [Stamina Shorwebwenzi](https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV), [Mkwawa](https://open.spotify.com/artist/4RIy8pk0S2X84NZGn3Kgcc) | [Love Bite](https://open.spotify.com/album/2LFuHTgXhM3IQrX7BbN9uj) | 3:47 | 2022-07-08 |  |
 | [G E N E R A T I O N A L C U R S E S](https://open.spotify.com/track/023cszAO7MmPwBU5u3uNfJ) | [Leone](https://open.spotify.com/artist/4Y2tMbo5x9mEaRYSHyiuwP) | [G E N E R A T I O N A L C U R S E S](https://open.spotify.com/album/3dILSTrmz8JZDMXltQGYqS) | 4:14 | 2022-05-27 |  |

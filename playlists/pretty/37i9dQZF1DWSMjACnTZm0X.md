@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp?si=OaM6yA75T9W9SHwjPmxQSg">Major Lazer</a> and <a href="https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb?si=rPh8vRjjRX\-Zp4dp7Ol8vQ">Major League Djz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,049 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,058 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

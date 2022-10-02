@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de esta cumbia! Cover: Los \u00c1ngeles Azules, Carlos Vives.",
-  "num_followers": 227996,
+  "num_followers": 228093,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGRmMDhkZTBlZjI2NDI4ZDMwOTdiNjY2Mzk1NzQ0Y2Rl",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDljNGZjZTc4YTMzMjVkMzY4ZTM5MmY1MzEwZmZkNTA0",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "C\u00f3mo Te Voy A Olvidar \u00a1Edici\u00f3n De S\u00faper Lujo!",
-        "url": "https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Mis Sentimientos",
-      "url": "https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Sue\u00f1o Contigo",
         "url": "https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 198213,
       "name": "Fuiste Mala",
       "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "C\u00f3mo Te Voy A Olvidar \u00a1Edici\u00f3n De S\u00faper Lujo!",
+        "url": "https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Mis Sentimientos",
+      "url": "https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "El Baile De La Ranita",
-        "url": "https://open.spotify.com/album/68dhZH51l5WR7jKpiwTO5q"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/72d4IAYNxN0PEAr8StLgBL"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Todos Sus \u00c9xitos",
         "url": "https://open.spotify.com/album/6I7UoYzV2l0cQPPMi1fHGK"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 200040,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/4rKfmTqHICMuF6BgnkuPUc"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "El Baile De La Ranita",
+        "url": "https://open.spotify.com/album/68dhZH51l5WR7jKpiwTO5q"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 159706,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/72d4IAYNxN0PEAr8StLgBL"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "El Fantasma del Amor",
+        "url": "https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ternura Dinastia Toxqui",
+          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "El Fantasma del Amor",
+      "url": "https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Homenaje a la M\u00fasica Tropical (En Vivo)",
         "url": "https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 222336,
       "name": "Bonita y Mentirosa (with Yahir) - En Vivo",
       "url": "https://open.spotify.com/track/7z4wQKhuzm8bfRD1sGiVKN"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "El Fantasma del Amor",
-        "url": "https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ternura Dinastia Toxqui",
-          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "El Fantasma del Amor",
-      "url": "https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "No te pertenece (Radio Edit)",
-        "url": "https://open.spotify.com/album/4OHH9wtBsz0yqCEpIzQHUo"
-      },
-      "artists": [
-        {
-          "name": "Klazykeroz",
-          "url": "https://open.spotify.com/artist/1scdd3RHOCWx72TOGGEBHs"
-        }
-      ],
-      "duration_ms": 241319,
-      "name": "No te pertenece - Radio Edit",
-      "url": "https://open.spotify.com/track/61d67uSTg6cBHopUve5hsS"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 322986,
       "name": "Lucerito",
       "url": "https://open.spotify.com/track/3xJaqmggvkerhccRZC4Yyg"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "No te pertenece (Radio Edit)",
+        "url": "https://open.spotify.com/album/4OHH9wtBsz0yqCEpIzQHUo"
+      },
+      "artists": [
+        {
+          "name": "Klazykeroz",
+          "url": "https://open.spotify.com/artist/1scdd3RHOCWx72TOGGEBHs"
+        }
+      ],
+      "duration_ms": 241319,
+      "name": "No te pertenece - Radio Edit",
+      "url": "https://open.spotify.com/track/61d67uSTg6cBHopUve5hsS"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/7kSRAeZiTW6RcdHerCxpjq"
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
       },
       "artists": [
         {
-          "name": "Grupo Los Kiero de Edgar Zacary",
-          "url": "https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF"
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
         }
       ],
-      "duration_ms": 306133,
-      "name": "He Sentido Amor - Corazo\u0301n Tun Tun",
-      "url": "https://open.spotify.com/track/0WcFkMy9QR5mNBlJSuCT1j"
+      "duration_ms": 236360,
+      "name": "Mi Corazon Es un Vagabundo",
+      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1611,6 +1611,22 @@
       "duration_ms": 205093,
       "name": "Na Na Na (Dulce Ni\u00f1a)",
       "url": "https://open.spotify.com/track/6M870HixVgIS4VTudBHcz8"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/7kSRAeZiTW6RcdHerCxpjq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los Kiero de Edgar Zacary",
+          "url": "https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF"
+        }
+      ],
+      "duration_ms": 306133,
+      "name": "He Sentido Amor - Corazo\u0301n Tun Tun",
+      "url": "https://open.spotify.com/track/0WcFkMy9QR5mNBlJSuCT1j"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1671,38 +1687,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Mi Corazon Es un Vagabundo",
-      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/6Kg07PFyPcAMUu0Tey9Qk1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los Kiero de Edgar Zacary",
-          "url": "https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Paloma Ajena",
-      "url": "https://open.spotify.com/track/65uUNFe02bXVS4KydSSYOE"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "El Poder de la Cumbia",
         "url": "https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 226680,
       "name": "Gritaria",
       "url": "https://open.spotify.com/track/4QpOfEgos0X555uBOvTcGT"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/1vJZfykeuEwQKqEiZlaXGe"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 225170,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/1aZsbm8cm5qHHDQTLwHHYk"
     }
   ],
   "unique_name": "Super Cumbias",

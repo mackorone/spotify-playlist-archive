@@ -639,6 +639,24 @@
     {
       "album": {
         "name": "Kulture",
+        "url": "https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT"
+      },
+      "artists": [
+        {
+          "name": "Satsang",
+          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242789,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/0p4Zer7G4eU6vN87qPqq6M"
+    },
+    {
+      "album": {
+        "name": "Kulture",
         "url": "https://open.spotify.com/album/5lDuCcqKu2xWsNFaW10Ez4"
       },
       "artists": [
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 240440,
       "name": "One People",
       "url": "https://open.spotify.com/track/35zXxNUgVHw5qy4N9YdVxv"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 233978,
       "name": "Warm Under the Light",
       "url": "https://open.spotify.com/track/5p4ydBPTPRhhQ6mWTWswXJ"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 234000,
       "name": "Warm Under the Light",
       "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"

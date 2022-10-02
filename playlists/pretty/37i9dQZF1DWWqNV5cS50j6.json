@@ -1,12 +1,12 @@
 {
   "description": "d4vd make anti pop.",
-  "num_followers": 667304,
+  "num_followers": 667386,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1MjExNiwwMDAwMDAwMGExYWI5ZmFlZDY2NTQzZWI0Nzg5YjljNDFlYzcxMTEx",
+  "snapshot_id": "MTY2NDU1MjExNiwwMDAwMDAwMDYzZjliYjVkNzk0Yjg4NmM5NzczZmYyZDAyYjMyMDFm",
   "tracks": [
     {
       "added_at": "2022-09-23 04:03:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-08-08 17:11:17",
       "album": {
-        "name": "Maybe Not",
-        "url": "https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 170060,
-      "name": "Maybe Not",
-      "url": "https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD"
-    },
-    {
-      "added_at": "2022-08-08 17:11:17",
-      "album": {
         "name": "AFTER DINNER WE TALK DREAMS",
         "url": "https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx"
+    },
+    {
+      "added_at": "2022-08-08 17:11:17",
+      "album": {
+        "name": "Maybe Not",
+        "url": "https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 170060,
+      "name": "Maybe Not",
+      "url": "https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD"
     }
   ],
   "unique_name": "anti pop",

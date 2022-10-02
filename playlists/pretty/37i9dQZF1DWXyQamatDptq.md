@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyQamatDptq.md) - [plain]
 
 > The master in blending R&B, Soul, and Dance Music <a href=“spotify:artist:43UmVQp9qZILibJ5vHq21k”>Austin Millz</a>, brings a colorful DJ mix to bright up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,548 likes - 24 songs - 59 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 15,640 likes - 24 songs - 59 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

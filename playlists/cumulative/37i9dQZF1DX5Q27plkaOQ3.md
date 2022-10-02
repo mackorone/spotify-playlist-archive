@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Zeds Dead
 
-240 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+241 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [From My Grave](https://open.spotify.com/track/22Vf2iU0d474KlNp8KXmAF) | [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [From My Grave](https://open.spotify.com/album/4IzNLgceJVDeP1Um0wvaAQ) | 2:52 | 2022-03-11 | 2022-09-24 |
 | [FUNKONAUT](https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [FUNKONAUT](https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ) | 3:30 | 2022-08-26 |  |
 | [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-08 |  |
-| [Fusion](https://open.spotify.com/track/2pwpYFxW0Hya0aIYFTXRIN) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Fusion](https://open.spotify.com/album/7pqIOkxBEl1aXWw3TqZkVw) | 2:04 | 2021-12-17 |  |
+| [Fusion](https://open.spotify.com/track/2pwpYFxW0Hya0aIYFTXRIN) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Fusion](https://open.spotify.com/album/7pqIOkxBEl1aXWw3TqZkVw) | 2:04 | 2021-12-17 | 2022-10-02 |
 | [Gawdam](https://open.spotify.com/track/35LfVddGN6zR5gE78o0EdU) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8) | [Gawdam](https://open.spotify.com/album/0qSMwW0ZBiZJUuFsxmr3Oj) | 2:36 | 2021-12-17 | 2022-03-12 |
 | [GAWT DAT](https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [BERNZIKIAL](https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS) | [GAWT DAT](https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T) | 2:09 | 2022-02-04 | 2022-09-10 |
 | [Get Up](https://open.spotify.com/track/5bW5xB2hInPhcLHhwJXbYR) | [SoDown](https://open.spotify.com/artist/61u2rGJj9r6d7utXK0J0oS), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Get Up](https://open.spotify.com/album/1VxLRJpczwSafsznDhCUtU) | 3:04 | 2022-04-01 |  |
@@ -203,6 +203,7 @@
 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 | 2022-06-10 |  |
 | [Sleep \(with Calcium\)](https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Sleep \(with Calcium\)](https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6) | 3:34 | 2022-06-17 |  |
 | [Solastalgia](https://open.spotify.com/track/3MpqvGAioZvFXQBkXuyjp6) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Solastalgia](https://open.spotify.com/album/0s1DT18ce8ZvQZMoUAUi93) | 3:36 | 2021-12-17 | 2022-09-05 |
+| [Someone Else](https://open.spotify.com/track/5bYBWSSkQF9QO0vSAbK3Cm) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Someone Else](https://open.spotify.com/album/66SfUtpfmIJQ5ntfPUlqKE) | 3:28 | 2022-09-30 |  |
 | [Something Real](https://open.spotify.com/track/4Ui3ACpjMOzfMfMK0OnEZX) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1) | [Prismata \(Dark\)](https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht) | 3:05 | 2022-06-24 | 2022-09-05 |
 | [Space](https://open.spotify.com/track/105lPQTSIrlhH5h6ftGpJ5) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Space EP](https://open.spotify.com/album/3h55iRZXKe5yumnY9gohj3) | 3:50 | 2021-12-17 | 2022-07-28 |
 | [Special Guest](https://open.spotify.com/track/1xJkYmde9IQYvLfq0lVsSe) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Special Guest EP](https://open.spotify.com/album/6RkoUsaXtqM7bKZdeguBYm) | 3:31 | 2022-07-22 | 2022-09-21 |

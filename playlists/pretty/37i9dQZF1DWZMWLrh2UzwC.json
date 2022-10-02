@@ -1,6 +1,6 @@
 {
   "description": "The best newly released songs of the week. Cover: Ed Sheeran",
-  "num_followers": 59416,
+  "num_followers": 59426,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
@@ -220,8 +220,8 @@
       },
       "artists": [
         {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+          "name": "BE\u2019O",
+          "url": "https://open.spotify.com/artist/7ayixfXdkIuM2IOcG9m3eN"
         },
         {
           "name": "ZICO",
@@ -629,7 +629,7 @@
       "artists": [
         {
           "name": "Rune",
-          "url": "https://open.spotify.com/artist/7BZnc5vzBjIKquiD8PBKWS"
+          "url": "https://open.spotify.com/artist/7sBUuHZBkf95jRKH9Unq75"
         }
       ],
       "duration_ms": 246400,
@@ -649,7 +649,7 @@
         }
       ],
       "duration_ms": 174391,
-      "name": "Interstate",
+      "name": "INTERSTATE",
       "url": "https://open.spotify.com/track/52pH6VC11tStoCJwIIDHtW"
     },
     {
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Stuck In The Future",
+        "url": "https://open.spotify.com/album/0nOIOwu3b8v81pGucva9gi"
+      },
+      "artists": [
+        {
+          "name": "Mardiana",
+          "url": "https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH"
+        }
+      ],
+      "duration_ms": 210782,
+      "name": "Stuck In The Future",
+      "url": "https://open.spotify.com/track/4CNruJyAtMSyxwcOshsnkv"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Angels & Queens - Part I",
         "url": "https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx"
       },
@@ -739,7 +755,7 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Amour, Haine et Danger",
+        "name": "Amour, Haine & Danger",
         "url": "https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3"
       },
       "artists": [
@@ -749,7 +765,7 @@
         }
       ],
       "duration_ms": 198986,
-      "name": "Amour, Haine et Danger",
+      "name": "Amour, Haine & Danger",
       "url": "https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX"
     },
     {

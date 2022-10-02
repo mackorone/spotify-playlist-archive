@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYI8UeiFx9v.md) - [plain]
 
 > Orchestral, instrumental and piano tracks for running.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,832 likes - 45 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,917 likes - 45 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

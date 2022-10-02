@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=w3tdAOO\-QRS4uwjGscrqbQ">Msaki</a> and <a href="https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=FdzYOMtfSmm7UCrE7tUOVA">Sun\-El Musician</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,463 likes - 55 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,574 likes - 55 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

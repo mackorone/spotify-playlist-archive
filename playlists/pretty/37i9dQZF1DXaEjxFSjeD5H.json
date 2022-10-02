@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 8482,
+  "num_followers": 8503,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMGMxNmZhZmE4NDM5YTFiNmY3OTM2NmIyYTg1YWZiZDBm",
+  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMGFmODZkMjQ5YzhmMTNiY2I4N2Y3OTAxOTg1YTQ0ZTY4",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1100,26 +1100,6 @@
           "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 242200,
-      "name": "Humo en los Ojos",
-      "url": "https://open.spotify.com/track/5ONyXiCDuwd1KVDUYUffuN"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "El Embrujo del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
-      },
-      "artists": [
-        {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        },
-        {
-          "name": "Vicente Labastida Velasco",
-          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
-        }
-      ],
       "duration_ms": 229040,
       "name": "Sal\u00f3n Casa Blanca",
       "url": "https://open.spotify.com/track/5YIo2jiYLvwttvGr63ZH3A"
@@ -1140,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 239120,
-      "name": "Espa\u00f1a",
-      "url": "https://open.spotify.com/track/79jXyUuH85dVv1J2y6O7kc"
+      "duration_ms": 242200,
+      "name": "Humo en los Ojos",
+      "url": "https://open.spotify.com/track/5ONyXiCDuwd1KVDUYUffuN"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1176,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 256173,
-      "name": "Josefina",
-      "url": "https://open.spotify.com/track/19eylWjaNeiQThuH2dKKIc"
+      "duration_ms": 239120,
+      "name": "Espa\u00f1a",
+      "url": "https://open.spotify.com/track/79jXyUuH85dVv1J2y6O7kc"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1195,6 +1175,26 @@
       "duration_ms": 302106,
       "name": "El Coquero",
       "url": "https://open.spotify.com/track/5HvxasN4SgIqYSIp37YYOl"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "El Embrujo del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
+      },
+      "artists": [
+        {
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        },
+        {
+          "name": "Vicente Labastida Velasco",
+          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "Josefina",
+      "url": "https://open.spotify.com/track/19eylWjaNeiQThuH2dKKIc"
     },
     {
       "added_at": "2022-08-02 23:28:22",

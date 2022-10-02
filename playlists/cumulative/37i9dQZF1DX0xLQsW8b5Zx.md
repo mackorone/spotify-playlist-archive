@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-165 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
+166 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,13 +82,14 @@
 | [Honky Tonk Train](https://open.spotify.com/track/0SPKGaIJFH7ReMd0fcRoJg) | [Hellbilly Boys](https://open.spotify.com/artist/5bCy5EywKFmYnkKrYnOnL5) | [Hellbilly Boys](https://open.spotify.com/album/6Q3q5EJ7u0WBBNzcJMAtHI) | 3:03 | 2022-05-06 | 2022-07-28 |
 | [How You Want It Done](https://open.spotify.com/track/3y2I4D8IrJNuZoUFC7cKNF) | [Runnin' Wild](https://open.spotify.com/artist/4Qvv0xApnubSNhWSIJKPYt) | [Killer Taco Stomp](https://open.spotify.com/album/3QYbB8adrSwTCVbsy5qUYc) | 3:10 | 2022-05-06 | 2022-06-12 |
 | [I Got My Eyes On You](https://open.spotify.com/track/059NFe0ekQGQTL3i8TYttr) | [George Thorogood](https://open.spotify.com/artist/1avbhJvMxjF2VhG7BXXn60) | [The Hard Stuff](https://open.spotify.com/album/5acuHP4mLNKCYTxib9XHea) | 3:34 | 2022-05-06 | 2022-07-29 |
+| [I Got My Eyes On You](https://open.spotify.com/track/72HhIJoFObt1Py8MAm0d5J) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/1KorPfuIfBvNH3n6BrVx72) | [The Hard Stuff](https://open.spotify.com/album/6dSDrbanjX8nG0aBI9BmWx) | 3:30 | 2022-09-02 |  |
 | [I Had A Real Good Time](https://open.spotify.com/track/0i5krOajl7V5Str18ABwZU) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [I Had A Real Good Time](https://open.spotify.com/album/2pmqyNm4HeFx0C1zpR3mgx) | 2:53 | 2022-05-06 | 2022-07-25 |
 | [I'm Coming Home](https://open.spotify.com/track/1m1p15XpCQLXkq04yym3xu) | [Cousin Harley](https://open.spotify.com/artist/52rPzG4VyrRd4PDud6oiyV) | [The Dutch Sessions](https://open.spotify.com/album/39RqDonsjtdAUgUMsqSqV6) | 2:01 | 2022-05-06 | 2022-07-20 |
 | [I'm Gonna Get You](https://open.spotify.com/track/1GgwGCiITPzjzziSVLQK0H) | [The Hub Caps](https://open.spotify.com/artist/1qJbnjluS2HYc3ZRoUdCmL) | [Five By Five](https://open.spotify.com/album/4gn1nN6tEk4Yz6OPa7wSyo) | 1:58 | 2022-05-06 | 2022-07-28 |
 | [I'm on Fire](https://open.spotify.com/track/2frzTmZ8Yy0DkTszstwGw6) | [Wild Wax Combo](https://open.spotify.com/artist/4q2TGE7vO4v3sOcJB8mJYb) | [Model A](https://open.spotify.com/album/2SYzIRQthdG0BLTzNV3TKQ) | 2:16 | 2022-05-06 | 2022-05-27 |
 | [Johnny Got A Boom Boom](https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H) | 2:59 | 2022-05-06 | 2022-07-27 |
 | [Jumping From 6 To 6](https://open.spotify.com/track/3KMMwtpJkieSi8tpIQJLJX) | [Big Sandy & His Fly\-Rite Boys](https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv) | [Jumping From 6 to 6](https://open.spotify.com/album/5a1qIpQWSgNLNEryLXpw4y) | 3:10 | 2022-05-06 | 2022-06-21 |
-| [Jungle Rock](https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Windy City Bop \- Chicago Rockabilly 1945\-1958](https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N) | 2:46 | 2022-05-06 |  |
+| [Jungle Rock](https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Windy City Bop \- Chicago Rockabilly 1945\-1958](https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N) | 2:46 | 2022-05-06 | 2022-10-02 |
 | [King Of Love](https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [The Best Of The EMI Years](https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90) | 3:09 | 2022-05-06 | 2022-07-29 |
 | [Leave a Happy Fool Alone](https://open.spotify.com/track/1Icn8VCDRRGZfTUOp0s3xS) | [Cherry Tess & Her Rhythm Sparks](https://open.spotify.com/artist/70B6oN2soVeM03ahxSnfFF) | [Should I Ever Love Again / Leave A Happy Fool Alone](https://open.spotify.com/album/2dvbfQHw1nUg1mXjHWrQBk) | 2:29 | 2022-05-06 | 2022-07-25 |
 | [Let's Have A Party](https://open.spotify.com/track/4BdwYhbBITL4fytlFSwv9o) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [The Ultimate Collection](https://open.spotify.com/album/3v3FXV9RhFK08541hD2DJI) | 2:07 | 2022-05-06 |  |

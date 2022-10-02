@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 135640,
+  "num_followers": 135947,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDU4NmMwNTIxMjUxNjU5NDE4NmEwMTRjNTBkMDE2YTBk",
+  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMGNmYTJkMWJjMTc2ZTUzOGUwMGM1YWQxNzg0MWEwYWI3",
   "tracks": [
     {
       "added_at": "2022-09-23 03:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA"
-      },
-      "artists": [
-        {
-          "name": "Mario Pereyra y Su Banda",
-          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
-        }
-      ],
-      "duration_ms": 186435,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Solo (Amistad... o Nada!!!)",
         "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 205740,
       "name": "C\u00f3mo Pude Amarla",
       "url": "https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA"
+      },
+      "artists": [
+        {
+          "name": "Mario Pereyra y Su Banda",
+          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
+        }
+      ],
+      "duration_ms": 186435,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
-      },
-      "artists": [
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "Ritmo, Pasi\u00f3n y Sentimiento",
         "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 237949,
       "name": "Ella Dijo",
       "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
+      },
+      "artists": [
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "duration_ms": 215186,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -855,22 +855,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Yo Soy As\u00ed",
-        "url": "https://open.spotify.com/album/5DThfdfljh5JWA5E3vhosG"
+        "name": "Placer y Olvido",
+        "url": "https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm"
       },
       "artists": [
         {
-          "name": "Los Lirios De Santa Fe",
-          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
-        },
-        {
-          "name": "Gast\u00f3n Angrisani",
-          "url": "https://open.spotify.com/artist/1i1bAIlCjhm1btkHurl3rK"
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 154142,
-      "name": "Yo Soy As\u00ed",
-      "url": "https://open.spotify.com/track/0Y1OBvIElKgwmb5QD5PXkm"
+      "duration_ms": 233429,
+      "name": "Placer y Olvido",
+      "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -907,18 +903,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Placer y Olvido",
-        "url": "https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm"
+        "name": "No Voy a Cambiar",
+        "url": "https://open.spotify.com/album/5FW6eQ0rOSFJm822GLtYOv"
       },
       "artists": [
         {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 233429,
-      "name": "Placer y Olvido",
-      "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
+      "duration_ms": 202213,
+      "name": "No la Beses",
+      "url": "https://open.spotify.com/track/0i8Ri3yOkErzAX8eOGfRH1"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -939,18 +935,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "No Voy a Cambiar",
-        "url": "https://open.spotify.com/album/5FW6eQ0rOSFJm822GLtYOv"
+        "name": "Yo Soy As\u00ed",
+        "url": "https://open.spotify.com/album/5DThfdfljh5JWA5E3vhosG"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        },
+        {
+          "name": "Gast\u00f3n Angrisani",
+          "url": "https://open.spotify.com/artist/1i1bAIlCjhm1btkHurl3rK"
         }
       ],
-      "duration_ms": 202213,
-      "name": "No la Beses",
-      "url": "https://open.spotify.com/track/0i8Ri3yOkErzAX8eOGfRH1"
+      "duration_ms": 154142,
+      "name": "Yo Soy As\u00ed",
+      "url": "https://open.spotify.com/track/0Y1OBvIElKgwmb5QD5PXkm"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Juntando Las Almas",
-        "url": "https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli y Trinidad",
-          "url": "https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
-      "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "La Segunda del Hombre del Acorde\u00f3n",
         "url": "https://open.spotify.com/album/5Gxv471mSx2PNVklNpicaU"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Juntando Las Almas",
+        "url": "https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli y Trinidad",
+          "url": "https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
+      "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Simplemente Nag\u00fcel",
         "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 181680,
       "name": "Te So\u00f1\u00e9 una Vez",
       "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Respetando un Estilo",
-        "url": "https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC"
-      },
-      "artists": [
-        {
-          "name": "La San Francisco",
-          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
-        }
-      ],
-      "duration_ms": 241705,
-      "name": "Esta Noche Quiero Brandy",
-      "url": "https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
+        "name": "Respetando un Estilo",
+        "url": "https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC"
+      },
+      "artists": [
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "duration_ms": 241705,
+      "name": "Esta Noche Quiero Brandy",
+      "url": "https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
         "name": "Rico y Suave",
         "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 218830,
       "name": "Entre el Odio y el Amor",
       "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
+    },
+    {
+      "added_at": "2022-09-23 03:00:00",
+      "album": {
+        "name": "Alta Revoluci\u00f3n, Pt. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1g2pbUcnkHCem0Lu6Qb3RJ"
+      },
+      "artists": [
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Duele (En Vivo)",
+      "url": "https://open.spotify.com/track/14JHCa6cBpKibif7SeWzcW"
     },
     {
       "added_at": "2022-09-23 03:00:00",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Le\u00f1a Seca",
-        "url": "https://open.spotify.com/album/1hpJcctopOylCRIPabekj3"
-      },
-      "artists": [
-        {
-          "name": "Los Del Palmar",
-          "url": "https://open.spotify.com/artist/19M8Gfe7Ydw6b8293gtlt7"
-        }
-      ],
-      "duration_ms": 215174,
-      "name": "Hasta el Sol de Hoy",
-      "url": "https://open.spotify.com/track/1lT6GEEYN0loScdr9sES0C"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
         "name": "A Matar o Morir",
         "url": "https://open.spotify.com/album/2gHlHLY067nIqOR0lU0fCL"
       },
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-09-23 03:00:00",
       "album": {
-        "name": "Alta Revoluci\u00f3n, Pt. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1g2pbUcnkHCem0Lu6Qb3RJ"
+        "name": "Le\u00f1a Seca",
+        "url": "https://open.spotify.com/album/1hpJcctopOylCRIPabekj3"
       },
       "artists": [
         {
-          "name": "Los Lirios De Santa Fe",
-          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+          "name": "Los Del Palmar",
+          "url": "https://open.spotify.com/artist/19M8Gfe7Ydw6b8293gtlt7"
         }
       ],
-      "duration_ms": 235226,
-      "name": "Duele (En Vivo)",
-      "url": "https://open.spotify.com/track/14JHCa6cBpKibif7SeWzcW"
+      "duration_ms": 215174,
+      "name": "Hasta el Sol de Hoy",
+      "url": "https://open.spotify.com/track/1lT6GEEYN0loScdr9sES0C"
     },
     {
       "added_at": "2022-09-23 03:00:00",

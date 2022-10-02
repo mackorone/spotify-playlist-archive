@@ -304,6 +304,24 @@
     },
     {
       "album": {
+        "name": "Day Dream",
+        "url": "https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu"
+      },
+      "artists": [
+        {
+          "name": "Fatso 98",
+          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373592,
+      "name": "HER",
+      "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
@@ -436,6 +454,24 @@
     },
     {
       "album": {
+        "name": "Dusty Streets",
+        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
+      },
+      "artists": [
+        {
+          "name": "Eddvin",
+          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444444,
+      "name": "M.A.U.R",
+      "url": "https://open.spotify.com/track/6FN2OCdwgB83jSf5DS3hIn"
+    },
+    {
+      "album": {
         "name": "Another Mile EP",
         "url": "https://open.spotify.com/album/0nRYOHYnD7wzC8Ppp9ERJh"
       },
@@ -535,7 +571,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 431693,
       "name": "Myself & The Dark",
       "url": "https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol"
@@ -671,7 +707,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 387370,
       "name": "Pray Without Ceasing",
       "url": "https://open.spotify.com/track/2cOw3sROcgo2HOX4wxeSsx"
@@ -922,6 +958,28 @@
     },
     {
       "album": {
+        "name": "This Must Be Deep",
+        "url": "https://open.spotify.com/album/21VsxLl65DU4n6GfbVL3xE"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        },
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393647,
+      "name": "This Must Be Deep - Original Mix",
+      "url": "https://open.spotify.com/track/3olGCkuKopIHUxulYAVPJN"
+    },
+    {
+      "album": {
         "name": "To The World",
         "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
       },
@@ -1003,7 +1061,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 416000,
       "name": "With Time",
       "url": "https://open.spotify.com/track/49Hy25TIq1DPhTuo9yAeIM"

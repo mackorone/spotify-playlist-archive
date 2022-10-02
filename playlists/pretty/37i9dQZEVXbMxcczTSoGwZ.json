@@ -1,15 +1,35 @@
 {
   "description": "Your daily update of the most played tracks right now - Finland.",
-  "num_followers": 130277,
+  "num_followers": 130317,
   "original_name": "Top 50 - Finland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE3ODQ4MTA0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE3OTM5NTY1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Tippa-T",
+        "url": "https://open.spotify.com/album/4DaSkc8aIg2Kqk7vqdwoDo"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Tippa-T",
+      "url": "https://open.spotify.com/track/6qverLcFcryBhJBgomIZjw"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "Makso Mit\u00e4 Makso",
         "url": "https://open.spotify.com/album/0S8l92CyIZbgGzvQL5QpbK"
@@ -49,7 +69,27 @@
       "url": "https://open.spotify.com/track/2G1gCuldjtW9xcN1n1yenB"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "DEEP DOWN (feat. Costi)",
+        "url": "https://open.spotify.com/album/7DoCR048Uthto8y9NkYjOC"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "DEEP DOWN (feat. Costi)",
+      "url": "https://open.spotify.com/track/2h9FYDFYIScQ4dHtsL70gn"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -69,7 +109,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "Shamppanjadieetill\u00e4",
         "url": "https://open.spotify.com/album/4LmcLNXzZ3atEgqWm2qg3l"
@@ -89,27 +129,7 @@
       "url": "https://open.spotify.com/track/22KSKT3mCbSiG4RT20ogxB"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Laulu ilman sanoja (feat. ABREU)",
-        "url": "https://open.spotify.com/album/4q7oJzTJfvHHZfpflbtqiM"
-      },
-      "artists": [
-        {
-          "name": "Gasellit",
-          "url": "https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF"
-        },
-        {
-          "name": "ABREU",
-          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
-        }
-      ],
-      "duration_ms": 225463,
-      "name": "Laulu ilman sanoja (feat. ABREU)",
-      "url": "https://open.spotify.com/track/5U6DBJXCpgbwDirAYukeHo"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "Rakastunu Gangstaa (Lotto Remix)",
         "url": "https://open.spotify.com/album/2xMp1Kc38teRkDFYBEAblP"
@@ -129,7 +149,31 @@
       "url": "https://open.spotify.com/track/2N780yabixU5WBrkTtfwLs"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Oi maamme Helsinki",
+        "url": "https://open.spotify.com/album/3oDSCPKRLQJoPY0Tf0ljlx"
+      },
+      "artists": [
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        },
+        {
+          "name": "Victor Nordis",
+          "url": "https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp"
+        }
+      ],
+      "duration_ms": 190740,
+      "name": "Skene",
+      "url": "https://open.spotify.com/track/0IghJnHZCrilFytSASVTri"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "Ongelmalapsi",
         "url": "https://open.spotify.com/album/5yWO8CAusbgc9rJf9mb1oT"
@@ -149,23 +193,47 @@
       "url": "https://open.spotify.com/track/76WsnMaiOG5ky6ENnJjI0r"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
-        "name": "Kangastus",
-        "url": "https://open.spotify.com/album/5WoeDkYtOJyfQXSh4WsKje"
+        "name": "Kemiaa",
+        "url": "https://open.spotify.com/album/5nWTwnorJ27n1ntRJHxVyf"
       },
       "artists": [
         {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+          "name": "Pyhimys",
+          "url": "https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm"
+        },
+        {
+          "name": "Figaro",
+          "url": "https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn"
         }
       ],
-      "duration_ms": 176428,
-      "name": "Kangastus",
-      "url": "https://open.spotify.com/track/5zHwltOissBAu6ZedTFFLW"
+      "duration_ms": 189245,
+      "name": "Kemiaa",
+      "url": "https://open.spotify.com/track/1hBl7KfkonH4LtACkJuhle"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Laulu ilman sanoja (feat. ABREU)",
+        "url": "https://open.spotify.com/album/4q7oJzTJfvHHZfpflbtqiM"
+      },
+      "artists": [
+        {
+          "name": "Gasellit",
+          "url": "https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF"
+        },
+        {
+          "name": "ABREU",
+          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
+        }
+      ],
+      "duration_ms": 225463,
+      "name": "Laulu ilman sanoja (feat. ABREU)",
+      "url": "https://open.spotify.com/track/5U6DBJXCpgbwDirAYukeHo"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
         "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
@@ -181,10 +249,26 @@
       "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
-        "name": "Melankolia",
-        "url": "https://open.spotify.com/album/7kcb9GmwLdRzmTbzDWQFPC"
+        "name": "Tanssi tytt\u00f6 tanssi",
+        "url": "https://open.spotify.com/album/3jM55qyqvGinFgzJFoLc1G"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        }
+      ],
+      "duration_ms": 166149,
+      "name": "Tanssi tytt\u00f6 tanssi",
+      "url": "https://open.spotify.com/track/7wAh8Hbsv4QX6AavYDcrhM"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Oi maamme Helsinki",
+        "url": "https://open.spotify.com/album/3oDSCPKRLQJoPY0Tf0ljlx"
       },
       "artists": [
         {
@@ -194,10 +278,10 @@
       ],
       "duration_ms": 149142,
       "name": "Melankolia",
-      "url": "https://open.spotify.com/track/0BffPiYcFL8DUgOfZSYEFh"
+      "url": "https://open.spotify.com/track/3DBZ0kwm8q4OeMbEfb1n9r"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "Amatimies / Viikonloppu",
         "url": "https://open.spotify.com/album/55Em8NcAe3RwRTVHMX0vxS"
@@ -213,7 +297,107 @@
       "url": "https://open.spotify.com/track/3UTyIQpogsEpo9IIY5wLS5"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Kangastus",
+        "url": "https://open.spotify.com/album/5WoeDkYtOJyfQXSh4WsKje"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "duration_ms": 176428,
+      "name": "Kangastus",
+      "url": "https://open.spotify.com/track/5zHwltOissBAu6ZedTFFLW"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Chillaa veli",
+        "url": "https://open.spotify.com/album/7lHrsy9SvjKWr2Ca13Qv8d"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Chillaa veli",
+      "url": "https://open.spotify.com/track/1agD3NMqnpaejVler2S9xJ"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Tulipalo",
+        "url": "https://open.spotify.com/album/0xWe0flvzmTrZOZ7FztHCa"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "duration_ms": 183806,
+      "name": "Tulipalo",
+      "url": "https://open.spotify.com/track/0lPrY8sXUen0bqga0BIeWa"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Tequilakahvi",
+        "url": "https://open.spotify.com/album/6YoUvxtiVJRE18WLu3rG9z"
+      },
+      "artists": [
+        {
+          "name": "Bee",
+          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
+        }
+      ],
+      "duration_ms": 209640,
+      "name": "Tequilakahvi",
+      "url": "https://open.spotify.com/track/45AnFdNtMvqc6slOLCDMTy"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Villiel\u00e4in",
+        "url": "https://open.spotify.com/album/2rZeRZDAChITruWkjr1ihC"
+      },
+      "artists": [
+        {
+          "name": "Ramses II",
+          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Villiel\u00e4in",
+      "url": "https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Draama (Remix)",
+        "url": "https://open.spotify.com/album/0mnDBfdnfUdNmzlRWMfG6d"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        },
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "duration_ms": 168675,
+      "name": "Draama - Remix",
+      "url": "https://open.spotify.com/track/2oo4aF7LnxR3ZFkcRcctAe"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "Autiomaa",
         "url": "https://open.spotify.com/album/1X6GmmGfe8DRDjaFhF8ndP"
@@ -237,139 +421,7 @@
       "url": "https://open.spotify.com/track/1jRjMpN31x4yCkQqKSRErC"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Tulipalo",
-        "url": "https://open.spotify.com/album/0xWe0flvzmTrZOZ7FztHCa"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        }
-      ],
-      "duration_ms": 183806,
-      "name": "Tulipalo",
-      "url": "https://open.spotify.com/track/0lPrY8sXUen0bqga0BIeWa"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Chillaa veli",
-        "url": "https://open.spotify.com/album/7lHrsy9SvjKWr2Ca13Qv8d"
-      },
-      "artists": [
-        {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Chillaa veli",
-      "url": "https://open.spotify.com/track/1agD3NMqnpaejVler2S9xJ"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Tequilakahvi",
-        "url": "https://open.spotify.com/album/6YoUvxtiVJRE18WLu3rG9z"
-      },
-      "artists": [
-        {
-          "name": "Bee",
-          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
-        }
-      ],
-      "duration_ms": 209640,
-      "name": "Tequilakahvi",
-      "url": "https://open.spotify.com/track/45AnFdNtMvqc6slOLCDMTy"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Draama (Remix)",
-        "url": "https://open.spotify.com/album/0mnDBfdnfUdNmzlRWMfG6d"
-      },
-      "artists": [
-        {
-          "name": "Bizi",
-          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
-        },
-        {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
-        }
-      ],
-      "duration_ms": 168675,
-      "name": "Draama - Remix",
-      "url": "https://open.spotify.com/track/2oo4aF7LnxR3ZFkcRcctAe"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "[MESSAGE FROM THE CLERGY]",
-        "url": "https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Tanssi tytt\u00f6 tanssi",
-        "url": "https://open.spotify.com/album/3jM55qyqvGinFgzJFoLc1G"
-      },
-      "artists": [
-        {
-          "name": "Dilemma",
-          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
-        }
-      ],
-      "duration_ms": 166149,
-      "name": "Tanssi tytt\u00f6 tanssi",
-      "url": "https://open.spotify.com/track/7wAh8Hbsv4QX6AavYDcrhM"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "ikuinen virta",
-        "url": "https://open.spotify.com/album/6sYDiYfme9RnOAIzQ5r6bA"
-      },
-      "artists": [
-        {
-          "name": "pehmoaino",
-          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
-        }
-      ],
-      "duration_ms": 214460,
-      "name": "ikuinen virta",
-      "url": "https://open.spotify.com/track/2f3M4kFTnPCncJSjN515fO"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "T\u00c4YTYY YMM\u00c4RT\u00c4\u00c4",
         "url": "https://open.spotify.com/album/0z7fO2qk3chpSwcktMZ1Ba"
@@ -389,39 +441,55 @@
       "url": "https://open.spotify.com/track/3GTCMFwGsJfvhd9To8TSS3"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
-        "name": "Villiel\u00e4in",
-        "url": "https://open.spotify.com/album/2rZeRZDAChITruWkjr1ihC"
+        "name": "[MESSAGE FROM THE CLERGY]",
+        "url": "https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom"
       },
       "artists": [
         {
-          "name": "Ramses II",
-          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Villiel\u00e4in",
-      "url": "https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF"
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
-        "name": "Kaikki vampyyrit ei juo verta",
-        "url": "https://open.spotify.com/album/0P8ZR80Dflk9Y3GjNxz2nM"
+        "name": "ikuinen virta",
+        "url": "https://open.spotify.com/album/6sYDiYfme9RnOAIzQ5r6bA"
       },
       "artists": [
         {
-          "name": "costee",
-          "url": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
         }
       ],
-      "duration_ms": 203349,
-      "name": "Olen muistanut",
-      "url": "https://open.spotify.com/track/1i5YqH8ZaHEjqv1wktdVHw"
+      "duration_ms": 214460,
+      "name": "ikuinen virta",
+      "url": "https://open.spotify.com/track/2f3M4kFTnPCncJSjN515fO"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "T\u00c4YTYY YMM\u00c4RT\u00c4\u00c4",
         "url": "https://open.spotify.com/album/0z7fO2qk3chpSwcktMZ1Ba"
@@ -437,7 +505,23 @@
       "url": "https://open.spotify.com/track/27KdLYj7Alpe6y3UxC87ga"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "Blondi",
         "url": "https://open.spotify.com/album/0nRlvRR8PiArrQzoTA4mkH"
@@ -453,51 +537,23 @@
       "url": "https://open.spotify.com/track/1bDGyHQ0GC8zg8nIpEIhG0"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
-        "name": "20min",
-        "url": "https://open.spotify.com/album/0M2eY9R5eYfhyaYhrAfzh3"
+        "name": "N\u00e4iden t\u00e4htien alla",
+        "url": "https://open.spotify.com/album/0eJFW5pm8DaRo6DuObgu4K"
       },
       "artists": [
         {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        },
-        {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
-        },
-        {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+          "name": "WIL",
+          "url": "https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT"
         }
       ],
-      "duration_ms": 204067,
-      "name": "20min",
-      "url": "https://open.spotify.com/track/2u4aD9hjuT1UHDsmHVEOjr"
+      "duration_ms": 149673,
+      "name": "N\u00e4iden t\u00e4htien alla",
+      "url": "https://open.spotify.com/track/4RjP1NfFGbCF4rFY298jnA"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Gangsta's Paradise",
-        "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
-      },
-      "artists": [
-        {
-          "name": "Coolio",
-          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
-        },
-        {
-          "name": "L.V.",
-          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "Gangsta's Paradise",
-      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "Nonstop (feat. Sexmane & B.Baby)",
         "url": "https://open.spotify.com/album/1whyLxdmgza9nO22aEsW93"
@@ -521,23 +577,51 @@
       "url": "https://open.spotify.com/track/0nRssz1xxPRC6B22k5lG06"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+        "name": "20min",
+        "url": "https://open.spotify.com/album/0M2eY9R5eYfhyaYhrAfzh3"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
         }
       ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+      "duration_ms": 204067,
+      "name": "20min",
+      "url": "https://open.spotify.com/track/2u4aD9hjuT1UHDsmHVEOjr"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "meik\u00e4 matadori / relevantti",
+        "url": "https://open.spotify.com/album/7t89lzNCLOSgKOSpBYMhCD"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "duration_ms": 185655,
+      "name": "meik\u00e4 matadori",
+      "url": "https://open.spotify.com/track/2QNcMX51ubQSyLcNPly7Xa"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "Verkkareis / Mun tapa pelata",
         "url": "https://open.spotify.com/album/1xWBx1wufaMdwbJCjPecSF"
@@ -561,91 +645,75 @@
       "url": "https://open.spotify.com/track/0Nx44mzVtTyNnUypzRlu53"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
-        "name": "meik\u00e4 matadori / relevantti",
-        "url": "https://open.spotify.com/album/7t89lzNCLOSgKOSpBYMhCD"
+        "name": "Rakkaus on kaikki, mit\u00e4 me tarvitaan",
+        "url": "https://open.spotify.com/album/3NAfC9rqwYJbraztycM2qh"
       },
       "artists": [
         {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+          "name": "YOUNGHEARTED",
+          "url": "https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX"
+        }
+      ],
+      "duration_ms": 230034,
+      "name": "Mustangi",
+      "url": "https://open.spotify.com/track/3xomygtlWYp293pJ2CNgdp"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Kaikki vampyyrit ei juo verta",
+        "url": "https://open.spotify.com/album/0P8ZR80Dflk9Y3GjNxz2nM"
+      },
+      "artists": [
+        {
+          "name": "costee",
+          "url": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Olen muistanut",
+      "url": "https://open.spotify.com/track/1i5YqH8ZaHEjqv1wktdVHw"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Gangsta's Paradise",
+        "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
         },
         {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+          "name": "L.V.",
+          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
         }
       ],
-      "duration_ms": 185655,
-      "name": "meik\u00e4 matadori",
-      "url": "https://open.spotify.com/track/2QNcMX51ubQSyLcNPly7Xa"
+      "duration_ms": 240693,
+      "name": "Gangsta's Paradise",
+      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "40K",
         "url": "https://open.spotify.com/album/23snaZbhW9jzET6wWtiEPk"
@@ -661,23 +729,39 @@
       "url": "https://open.spotify.com/track/48GrbwydcMUFPfKrSeq6K0"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
-        "name": "Vainois",
-        "url": "https://open.spotify.com/album/7HYwh2KXmOL0v1nAj0X6Nr"
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
       },
       "artists": [
         {
-          "name": "Mikael Gabriel",
-          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 158193,
-      "name": "Vainois",
-      "url": "https://open.spotify.com/track/33DB1mfU2H8dJe7ZhpkTBC"
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Ram pam pam",
+        "url": "https://open.spotify.com/album/6wKDISYcXTFk9y54P06rGz"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "duration_ms": 179878,
+      "name": "Ram pam pam",
+      "url": "https://open.spotify.com/track/55qPuI6NekVyNPM6kh5DN4"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "T\u00c4YTYY YMM\u00c4RT\u00c4\u00c4",
         "url": "https://open.spotify.com/album/0z7fO2qk3chpSwcktMZ1Ba"
@@ -697,71 +781,23 @@
       "url": "https://open.spotify.com/track/4lqwfA11KZ0wYfbCddjHj8"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
-        "name": "K\u00e4\u00e4nt\u00f6puolii",
-        "url": "https://open.spotify.com/album/1QW7sJqmVZdyyflE7dG4Qm"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Reino Nordin",
-          "url": "https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 182090,
-      "name": "K\u00e4\u00e4nt\u00f6puolii",
-      "url": "https://open.spotify.com/track/5LIJUyoE2btHHMoBY43NbT"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Kaikella on tarkoitus",
-        "url": "https://open.spotify.com/album/5c7vEnMo7HyLqefWPturgj"
-      },
-      "artists": [
-        {
-          "name": "Lauri T\u00e4hk\u00e4",
-          "url": "https://open.spotify.com/artist/2ZyR5hOnG5pyMrbqJTXgtN"
-        }
-      ],
-      "duration_ms": 265226,
-      "name": "El\u00e4m\u00e4nlangat",
-      "url": "https://open.spotify.com/track/5oeDBzoj2s7TH2kOsrc4q9"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Ram pam pam",
-        "url": "https://open.spotify.com/album/6wKDISYcXTFk9y54P06rGz"
-      },
-      "artists": [
-        {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
-        }
-      ],
-      "duration_ms": 179878,
-      "name": "Ram pam pam",
-      "url": "https://open.spotify.com/track/55qPuI6NekVyNPM6kh5DN4"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Queen Radio: Volume 1",
-        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "Erilainen",
         "url": "https://open.spotify.com/album/1RIcEkwfnfX86PFfxMEeuZ"
@@ -777,27 +813,7 @@
       "url": "https://open.spotify.com/track/5e7XVJJcGbecTB9N4asFsu"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Huulet",
-        "url": "https://open.spotify.com/album/4OGOEk4iVMlfGqOX9zs7xf"
-      },
-      "artists": [
-        {
-          "name": "Markus Antonio",
-          "url": "https://open.spotify.com/artist/0ut2dsqvKZz6Kl0FDuT1Qv"
-        },
-        {
-          "name": "LAVAREDO",
-          "url": "https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD"
-        }
-      ],
-      "duration_ms": 148227,
-      "name": "Huulet",
-      "url": "https://open.spotify.com/track/3ykcBY8IyEqv64shOyzWGW"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "Mon Ami",
         "url": "https://open.spotify.com/album/2iKWgs575U79EpqqbSs54N"
@@ -813,27 +829,71 @@
       "url": "https://open.spotify.com/track/1SllLQv2tfIlgtYXO5edRM"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
       "album": {
-        "name": "K\u00e4yt\u00f6stapoi (feat. william)",
-        "url": "https://open.spotify.com/album/0bAWqhFMTLiZAsqQoZGE90"
+        "name": "Queen Radio: Volume 1",
+        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
       },
       "artists": [
         {
-          "name": "Joe L",
-          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
-        },
-        {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 129906,
-      "name": "K\u00e4yt\u00f6stapoi (feat. william)",
-      "url": "https://open.spotify.com/track/0JbfBxlJxSqjbI9vbzi4Vn"
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
     },
     {
-      "added_at": "2022-09-30 10:15:04",
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
+      "album": {
+        "name": "El\u00e4m\u00e4n ABC",
+        "url": "https://open.spotify.com/album/7ruMtcNvujCUoOmEPfZIkZ"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        }
+      ],
+      "duration_ms": 222578,
+      "name": "El\u00e4m\u00e4n ABC",
+      "url": "https://open.spotify.com/track/7ffZ0iPT1UQvgm4e1KsaDC"
+    },
+    {
+      "added_at": "2022-10-01 11:39:25",
       "album": {
         "name": "T\u00c4YTYY YMM\u00c4RT\u00c4\u00c4",
         "url": "https://open.spotify.com/album/0z7fO2qk3chpSwcktMZ1Ba"
@@ -851,58 +911,6 @@
       "duration_ms": 153231,
       "name": "KuKa (BoNuS)",
       "url": "https://open.spotify.com/track/0AvNgJo4Bwk7OJ7Ip2Iwva"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/6ADjhQABlpEiPGf4QFbazp"
-      },
-      "artists": [
-        {
-          "name": "Kiki",
-          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "666",
-      "url": "https://open.spotify.com/track/7aP68E6dMvQ54Mu41Omke4"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "El\u00e4m\u00e4n ABC",
-        "url": "https://open.spotify.com/album/7ruMtcNvujCUoOmEPfZIkZ"
-      },
-      "artists": [
-        {
-          "name": "Portion Boys",
-          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
-        }
-      ],
-      "duration_ms": 222578,
-      "name": "El\u00e4m\u00e4n ABC",
-      "url": "https://open.spotify.com/track/7ffZ0iPT1UQvgm4e1KsaDC"
-    },
-    {
-      "added_at": "2022-09-30 10:15:04",
-      "album": {
-        "name": "Nautin el\u00e4m\u00e4st\u00e4",
-        "url": "https://open.spotify.com/album/4jJKWaX4BFRRqT1AMftFVw"
-      },
-      "artists": [
-        {
-          "name": "Portion Boys",
-          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
-        },
-        {
-          "name": "Teflon Brothers",
-          "url": "https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M"
-        }
-      ],
-      "duration_ms": 209847,
-      "name": "Nautin el\u00e4m\u00e4st\u00e4",
-      "url": "https://open.spotify.com/track/7dbbNqmww8vd8cPSvBs52o"
     }
   ],
   "unique_name": "Top 50 - Finland",

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 115118,
+  "num_followers": 115164,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDJlOGJjNGRjZGVkOTE2MGQ2YzViOGRiNzMwNjBkNjgx",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDFkODU3MDExOTlmMWQ1MDIxNGU2NjkxZjgxOWRkNDli",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Living Chicago Blues, Vol. 1",
-        "url": "https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu"
-      },
-      "artists": [
-        {
-          "name": "Eddie Shaw",
-          "url": "https://open.spotify.com/artist/62Cl3kOtJGWR09eIHhkUgO"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Sittin' On Top Of The World",
-      "url": "https://open.spotify.com/track/1RhjxMin24HN2YfzJJAu1k"
-    },
-    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "Whose Muddy Shoes",
@@ -311,6 +295,22 @@
       "duration_ms": 142813,
       "name": "Madison Blues",
       "url": "https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 1",
+        "url": "https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu"
+      },
+      "artists": [
+        {
+          "name": "Eddie Shaw",
+          "url": "https://open.spotify.com/artist/62Cl3kOtJGWR09eIHhkUgO"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Sittin' On Top Of The World",
+      "url": "https://open.spotify.com/track/1RhjxMin24HN2YfzJJAu1k"
     },
     {
       "added_at": "2016-03-21 20:31:35",

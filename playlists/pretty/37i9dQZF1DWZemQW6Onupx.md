@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZemQW6Onupx.md) - [plain]
 
 > Enjoy music from "Panty & Stocking with Garterbelt"! 「パンティ＆ストッキングwithガーターベルト」公式プレイリスト！\(C\)2010 GAINAX/GEEKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,321 likes - 43 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,405 likes - 43 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

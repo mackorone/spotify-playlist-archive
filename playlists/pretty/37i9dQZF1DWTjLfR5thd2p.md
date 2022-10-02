@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 
 > When the sun has set and you need to relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,619 likes - 367 songs - 16 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,637 likes - 367 songs - 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

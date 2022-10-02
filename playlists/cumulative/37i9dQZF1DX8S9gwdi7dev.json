@@ -1850,6 +1850,24 @@
     },
     {
       "album": {
+        "name": "Allstars",
+        "url": "https://open.spotify.com/album/3IGERs4lOHbAfQpuWVDYhA"
+      },
+      "artists": [
+        {
+          "name": "allSTARS",
+          "url": "https://open.spotify.com/artist/0g6J6ltIhfXssIMbSVVxuU"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "Things That Go Bump In The Night",
+      "url": "https://open.spotify.com/track/4dyoQtmjsgoTuF4VIReyE1"
+    },
+    {
+      "album": {
         "name": "Hold The Girl",
         "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
       },

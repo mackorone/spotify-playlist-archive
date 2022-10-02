@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez, Jessie Uribe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,788 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,812 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 52 | [Tu Amante](https://open.spotify.com/track/0ygm6N6bwRowtuBuuBSbpH) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Tu Amante](https://open.spotify.com/album/1IF3OmJA6rQKVEof7C85us) | 3:24 |
 | 53 | [Regresé Porque Me Faltas](https://open.spotify.com/track/4mbfdXD5X6tfgQrxMOLE5r) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Regresé Porque Me Faltas](https://open.spotify.com/album/1J149gTH0PD2XvqJHqTQiO) | 3:23 |
 | 54 | [Desde Que Llegaste](https://open.spotify.com/track/2Eg0Cg1vWx6URPbEAuUJIh) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Desde Que Llegaste](https://open.spotify.com/album/2pj6a8DjAlEYpndmS85YVa) | 3:21 |
-| 55 | [Muchachita](https://open.spotify.com/track/1L9O9z8CIG22aKrpPeHVeV) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Muchachita](https://open.spotify.com/album/1h7jNF4sKtT7NQtJn7v0j3) | 3:05 |
-| 56 | [Qué Bonito](https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:05 |
+| 55 | [Qué Bonito](https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:05 |
+| 56 | [Muchachita](https://open.spotify.com/track/1L9O9z8CIG22aKrpPeHVeV) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Muchachita](https://open.spotify.com/album/1h7jNF4sKtT7NQtJn7v0j3) | 3:05 |
 | 57 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
 | 58 | [Amor y Veneno](https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Amor y Veneno](https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn) | 3:29 |
 | 59 | [Por Esa Calle Vive](https://open.spotify.com/track/0vXXjS5lBwyQIjJBryh0ft) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:03 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 108 | [Algo Que Contar](https://open.spotify.com/track/4aQ2F1tvhcKYoefTiQAha0) | [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [Algo Que Contar](https://open.spotify.com/album/5Pv9gYFl5grUjFv53YppDH) | 2:34 |
 | 109 | [No Me Conoces Aún](https://open.spotify.com/track/3nRdKe1fgXmlTah80ealRW) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [No Me Conoces Aún](https://open.spotify.com/album/0KlhHk0rSaA0ncTJA1DqwO) | 3:14 |
 | 110 | [La Bikina](https://open.spotify.com/track/6QA7A2ZNzjInAn3wniLEeQ) | [Nuria Fergó](https://open.spotify.com/artist/0eU0mDoeIkicltGVoLtGy3) | [Con Permiso](https://open.spotify.com/album/4F1faolK6mjkIExXIH8maZ) | 2:59 |
-| 111 | [Quiero Confesarte](https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Quiero Confesarte](https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe) | 2:35 |
-| 112 | [Qué Ganas](https://open.spotify.com/track/1ssx2hBmMP49NiNE6QxhQV) | [ADA OLEA](https://open.spotify.com/artist/5kLS1HpKVb6HbflVCgu6bz) | [Qué Ganas](https://open.spotify.com/album/0eKAvkHF0t0nCuOrIuTlyv) | 3:08 |
+| 111 | [Qué Ganas](https://open.spotify.com/track/1ssx2hBmMP49NiNE6QxhQV) | [ADA OLEA](https://open.spotify.com/artist/5kLS1HpKVb6HbflVCgu6bz) | [Qué Ganas](https://open.spotify.com/album/0eKAvkHF0t0nCuOrIuTlyv) | 3:08 |
+| 112 | [Quiero Confesarte](https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Quiero Confesarte](https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe) | 2:35 |
 | 113 | [Tú Solo Tú](https://open.spotify.com/track/2ZwbOtOwLTNggNYeEkOpcZ) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Tú Solo Tú](https://open.spotify.com/album/5cWsl9DuZTi8l6RvI7RSzy) | 3:36 |
 | 114 | [La Cama De Piedra \- En Vivo](https://open.spotify.com/track/7mE8wNvsolFyp1pCNVunvQ) | [El Mono De Sinaloa](https://open.spotify.com/artist/1Bl1Br55F7SyrrFLWA4vSq), [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Cama De Piedra \- En Vivo](https://open.spotify.com/album/1ZbZ0QuREWjRNACbmpaDOs) | 3:05 |
 | 115 | [Qué Tanto Es Tantito?](https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Qué Tanto Es Tantito?](https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F) | 3:41 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 126 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/7CnmrsgrDklemSrdq8tuzL) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 3:05 |
 | 127 | [Probablemente](https://open.spotify.com/track/3WVloZ8Z5h6vgKQ7wFhi2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Festivo](https://open.spotify.com/album/5dpj0D8wTg7QFG5VMashbU) | 3:53 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDI0ODBjMWQyYzk2M2Q0OWQ3NDgzMjJmY2U5MTc3ZDQw`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDc2YTQyMTUyMTdiYTQ0Nzc4Mjc4MWFkN2ZkMGRkNjdk`

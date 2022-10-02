@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZreqadA03A8.md) - [plain]
 
 > Imaginative\. Inventive\. Ingenius\. Influential\. Here are the Beatles at their most experimental; changing and shaping the face of music forever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,872 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,917 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

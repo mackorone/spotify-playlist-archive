@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe30kLtifvte.md) - [plain]
 
 > <a href="spotify:artist:1z1V8o4cq5VNtAU05T2q4W">AmyElle</a> celebrates her new studio with her House\-infused DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,591 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,610 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

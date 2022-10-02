@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ji0aOP06u.md) - [plain]
 
 > Nordic underground pioneer <a href="spotify:artist:5vdjF79d5d2m12FOkJhxHB">Jeremy Olander</a> steps up to the decks to take you on a journey through melody!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,056 likes - 11 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,067 likes - 11 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

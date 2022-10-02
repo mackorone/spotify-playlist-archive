@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,091 likes - 72 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,401 likes - 72 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 29 | [Stayin' Alive](https://open.spotify.com/track/5bgVt8KSOMsB3f0SUUd92n) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Stayin' Alive](https://open.spotify.com/album/5GmwBcAg9KA6ChJkBb9Geq) | 1:35 |
 | 30 | [Riptide](https://open.spotify.com/track/0V9DUIw34dXOZBJ6NdJs5R) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Lofi Fruits Music 2021](https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG) | 1:40 |
 | 31 | [Californication](https://open.spotify.com/track/2qPuqNzXKGJxUGix3Ot6ff) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Covers Collection \(Vol\. 3\)](https://open.spotify.com/album/6xV0OXNjDLNExHKq0NO6Tc) | 4:23 |
-| 32 | [Chasing Cars](https://open.spotify.com/track/1VOGwVCwqfCN57a1g1ZMSg) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Chasing Cars](https://open.spotify.com/album/070uuSMrffZLnxkqseJehl) | 2:31 |
+| 32 | [Chasing Cars](https://open.spotify.com/track/2kGy10LaMDzVoSjB3t4xAq) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Chasing Cars](https://open.spotify.com/album/0MvaTmVF5rnkSZlLLNfLzo) | 2:31 |
 | 33 | [Still D.R.E.](https://open.spotify.com/track/7sQwpVMPCZsqKGXxbfzSaQ) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Old School Songs But It's Lofi Fruits Remix](https://open.spotify.com/album/07nDgaXP2iBDew71yLsLKZ) | 1:46 |
 | 34 | [Viva La Vida](https://open.spotify.com/track/0rZ4Yyt5Su46Uo6mqci1iW) | [Phatazza Cat](https://open.spotify.com/artist/3dV8aCIrUUtXrOnU6qo3rN) | [Viva La Vida](https://open.spotify.com/album/25q2SkwrmZmcnhGAAeUGci) | 2:57 |
 | 35 | [Faded \- Lofi Version](https://open.spotify.com/track/5n2C9SFg9ouvxKmiU8AgjU) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lofi Evergreens, Vol\. 2](https://open.spotify.com/album/7qUhVbWLgD1l1oOAYAPFs3) | 2:05 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 71 | [I Took a Pill in Ibiza](https://open.spotify.com/track/2UE2Kys4CeDLYmKe44GgXm) | [I Am Lofi](https://open.spotify.com/artist/330gdzZYIWN7O1gWheychm) | [I Took a Pill in Ibiza](https://open.spotify.com/album/6zjzyzBuav0MnSELLr4K0U) | 2:59 |
 | 72 | [Another Love \- Lofi](https://open.spotify.com/track/28DdaEL9ZlLIa72Q7F65dQ) | [Sunday Without You](https://open.spotify.com/artist/2kfCeQSDYdHyURFQtS9I53) | [Another Love \(Lofi\)](https://open.spotify.com/album/7iLXkQQgmd2DEOHxkQqmhO) | 1:50 |
 
-Snapshot ID: `MTY2NDQ5OTYwMCwwMDAwMDAwMGNiZGYyZDI1OWUwNjFhYWMxOWFlZGY1MDc5ZTdmZGY1`
+Snapshot ID: `MTY2NDQ5OTYwMCwwMDAwMDAwMDlmOGQyZTBlYTMzYmY1ZDdmMzhlMzIzNGFkNjAyZGE3`

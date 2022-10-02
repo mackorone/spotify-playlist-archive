@@ -7363,7 +7363,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 332686,
       "name": "Untangle",
       "url": "https://open.spotify.com/track/5KRX86qetsjapmhlYOaeeF"
@@ -7587,6 +7587,28 @@
       "duration_ms": 420000,
       "name": "Viral",
       "url": "https://open.spotify.com/track/5yVJghDg4UB789vqjWzqp5"
+    },
+    {
+      "album": {
+        "name": "Split Series #2",
+        "url": "https://open.spotify.com/album/6wkonozXeJjU2vFAI3GAxC"
+      },
+      "artists": [
+        {
+          "name": "Ad Vanz",
+          "url": "https://open.spotify.com/artist/7Js3i7yNTyUx1E7pdQY7Tb"
+        },
+        {
+          "name": "Gescom",
+          "url": "https://open.spotify.com/artist/15gVTrdUtcXOz3utK1GPp2"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420000,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/6wnDHdEecId9KIDdcXr2W1"
     },
     {
       "album": {

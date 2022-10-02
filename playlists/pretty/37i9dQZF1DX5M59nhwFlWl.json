@@ -1,12 +1,12 @@
 {
   "description": "That unbridled, unholy, loud and dirty 90s rock goodness you know you love",
-  "num_followers": 106003,
+  "num_followers": 106090,
   "original_name": "Cranked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyNzY4MCwwMDAwMDAwMDczZmQ0NjdlMjZkZTc1YjU4NWNmYjBmZmI1MmY3MWRj",
+  "snapshot_id": "MTY1NjUyNzY4MCwwMDAwMDAwMDczOTAyZWEwYmFlODk2MzZiZjIxNmI0MjQ0NjI2NzYy",
   "tracks": [
     {
       "added_at": "2022-06-29 18:33:46",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "American Standard",
-        "url": "https://open.spotify.com/album/4IWy4QGftrQZLLvN6Dq4Lm"
-      },
-      "artists": [
-        {
-          "name": "Seven Mary Three",
-          "url": "https://open.spotify.com/artist/2zsLaQhHFdQPdFXqG1nRmM"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "Water's Edge",
-      "url": "https://open.spotify.com/track/0pvmUroOxa5sBu9wINCbI9"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "Clumsy",
         "url": "https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 255400,
       "name": "Superman's Dead",
       "url": "https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "American Standard",
+        "url": "https://open.spotify.com/album/4IWy4QGftrQZLLvN6Dq4Lm"
+      },
+      "artists": [
+        {
+          "name": "Seven Mary Three",
+          "url": "https://open.spotify.com/artist/2zsLaQhHFdQPdFXqG1nRmM"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "Water's Edge",
+      "url": "https://open.spotify.com/track/0pvmUroOxa5sBu9wINCbI9"
     },
     {
       "added_at": "2022-06-29 18:33:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0mY9BQvlpraYLzg9BfKuVa.md) - [plain]
 
 > Stuck in stop and go? This should help.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,379 likes - 72 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,378 likes - 72 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

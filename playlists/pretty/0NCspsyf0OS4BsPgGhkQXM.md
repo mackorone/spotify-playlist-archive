@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,029,374 likes - 123 songs - 6 hr 40 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,029,281 likes - 123 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 21 | [Fragile Self](https://open.spotify.com/track/4Kb8imzv3qKW11smbXrXkt) | [Animadrop](https://open.spotify.com/artist/1AUZ4SxTPTZL7wDE80tPcR), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 6:16 |
 | 22 | [Shady Intentions](https://open.spotify.com/track/27HkM93H2GcOyYUV50W2tu) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [DRMVRSE](https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE) | 3:05 |
 | 23 | [Raiders](https://open.spotify.com/track/28AyupyPncbjVaeROXQHfJ) | [Kujah](https://open.spotify.com/artist/2rsFdirOhNFCvR7XQKMIBp), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint](https://open.spotify.com/album/11vbM8Rflk8ZqMRJDrr8VZ) | 2:21 |
-| 24 | [Where Are You Now](https://open.spotify.com/track/5hv2wCXlAWX4IospgC1xJI) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [DiFi](https://open.spotify.com/artist/5xAqa5xaSxHC1L3EP8g9KL), [CASSIE](https://open.spotify.com/artist/3iRL8j8jcCL3vGQ0U3Q1Zo) | [Where Are You Now](https://open.spotify.com/album/4uQ0CbHLd5PbJA3cmqiDnH) | 2:22 |
+| 24 | [Where Are You Now](https://open.spotify.com/track/5hv2wCXlAWX4IospgC1xJI) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [DiFi](https://open.spotify.com/artist/5xAqa5xaSxHC1L3EP8g9KL), [CASSIE](https://open.spotify.com/artist/1vOxtZLlDyrdReqWrm9oMr) | [Where Are You Now](https://open.spotify.com/album/4uQ0CbHLd5PbJA3cmqiDnH) | 2:22 |
 | 25 | [Golden Ticket](https://open.spotify.com/track/66Uf5wWeuWHCodwoFy1uXX) | [Matstubs](https://open.spotify.com/artist/0chxndMxE0AhAeYED1Ay9d), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:04 |
 | 26 | [It's Not Too Late](https://open.spotify.com/track/6LRPntS8i0E5zV3h9p7KpR) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 4:34 |
 | 27 | [Trials \(feat\. IDK\)](https://open.spotify.com/track/2rathjWuM0Hr7TAn57jCnt) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Trials \(feat\. IDK\)](https://open.spotify.com/album/3aKN8T2FwLCnJa3eau7QDg) | 2:13 |

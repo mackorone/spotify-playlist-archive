@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: Into The Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,455 likes - 90 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,656 likes - 90 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

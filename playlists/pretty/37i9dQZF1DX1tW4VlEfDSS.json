@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 331625,
+  "num_followers": 331663,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDE4OGRmMjUzNzJmN2ExMmVlZjlhYjc0MmQ1YjkyY2Yy",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMGMwNmFlNzUwM2MxMWUwYmU0NmRjZDkyYmVlYzhhNzZi",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "It Is What It Is (feat. Elise LeGrow)",
         "url": "https://open.spotify.com/album/1d08A5A1LezktJMhoWCqDq"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 164516,
       "name": "It Is What It Is (feat. Elise LeGrow)",
       "url": "https://open.spotify.com/track/37V78aaqEliOSPJxVgxNfm"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -771,6 +771,26 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "Disco Hearts",
+        "url": "https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg"
+      },
+      "artists": [
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        },
+        {
+          "name": "Laura Davie",
+          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Disco Hearts",
+      "url": "https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "Love the Way (Happiness)",
         "url": "https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 215243,
       "name": "Love the Way (Happiness)",
       "url": "https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "Disco Hearts",
-        "url": "https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg"
-      },
-      "artists": [
-        {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        },
-        {
-          "name": "Laura Davie",
-          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Disco Hearts",
-      "url": "https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4M1Ge6mFbDrV1LdQFiVtRE"
+      },
+      "artists": [
+        {
+          "name": "Aevion",
+          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
+        }
+      ],
+      "duration_ms": 250862,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/0ln5gUk6tfxo2Ie8vQOCM1"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 354365,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5zFSTUf1xX6auJSx31m5kq"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4M1Ge6mFbDrV1LdQFiVtRE"
-      },
-      "artists": [
-        {
-          "name": "Aevion",
-          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
-        }
-      ],
-      "duration_ms": 250862,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6"
-      },
-      "artists": [
-        {
-          "name": "Sandy's Groove",
-          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "On My Mind - Radio Mix",
-      "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/3Gwd3lkWQToLPDwYEWxGaZ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 267187,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6"
+      },
+      "artists": [
+        {
+          "name": "Sandy's Groove",
+          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "On My Mind - Radio Mix",
+      "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
     },
     {
       "added_at": "2022-03-11 16:22:05",

@@ -1,12 +1,12 @@
 {
   "description": "The perfect Latin tunes to get in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 187257,
+  "num_followers": 187248,
   "original_name": "Latin Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDU3MzAwNywwMDAwMDAwMGMwOWE4ZjlkY2M1NzhkYWQ3YzAyZDY0M2IwZGQ2YjI2",
+  "snapshot_id": "MTY2MDU3MzAwNywwMDAwMDAwMDM5YmEyYzVhNjhmNDgxNTUwYmZiMzI2ZmZiOGQ1MTkx",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Eterna Navidad",
+        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
+      },
+      "artists": [
+        {
+          "name": "Arianna",
+          "url": "https://open.spotify.com/artist/6k8y1np6q05Us6dNn3vmF8"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "El Ni\u00f1o Del Tambor",
+      "url": "https://open.spotify.com/track/4RlchUXQbskbu8WXGYcCw1"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Prende el Arbolito - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 170163,
       "name": "Prende el Arbolito - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Eterna Navidad",
-        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
-      },
-      "artists": [
-        {
-          "name": "Arianna",
-          "url": "https://open.spotify.com/artist/6k8y1np6q05Us6dNn3vmF8"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "El Ni\u00f1o Del Tambor",
-      "url": "https://open.spotify.com/track/4RlchUXQbskbu8WXGYcCw1"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -631,8 +631,8 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Abriendo Puertas",
-        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
+        "name": "Christmas Through Your Eyes",
+        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
         }
       ],
-      "duration_ms": 322066,
-      "name": "M\u00e1s All\u00e1 - Beyond",
-      "url": "https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q"
+      "duration_ms": 300733,
+      "name": "Christmas Through Your Eyes",
+      "url": "https://open.spotify.com/track/6YH4GanBHEi4oRsqvKFMwv"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -663,38 +663,6 @@
       "duration_ms": 187026,
       "name": "Mi Mejor Regalo Eres Tu (feat. Maldita Nerea) - Christmas Bonus Track",
       "url": "https://open.spotify.com/track/2Olrd2M87tQSbsOTCIqSNT"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Amor Real (Holiday Song)",
-        "url": "https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Amor Real - Holiday Song",
-      "url": "https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Caliente Navidad",
-        "url": "https://open.spotify.com/album/1PC2nH9wPwsmr7UYz4kfrf"
-      },
-      "artists": [
-        {
-          "name": "Isabela Merced",
-          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
-        }
-      ],
-      "duration_ms": 188223,
-      "name": "Caliente Navidad",
-      "url": "https://open.spotify.com/track/60PHBxCLNJJ1cefofRKQNN"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -751,6 +719,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Amor Real (Holiday Song)",
+        "url": "https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Amor Real - Holiday Song",
+      "url": "https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Noche de Paz - Recorded at Electric Lady Studios NYC - Spotify Studios NYC",
         "url": "https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 124989,
       "name": "Noche de Paz - Recorded at Electric Lady Studios NYC - Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Caliente Navidad",
+        "url": "https://open.spotify.com/album/1PC2nH9wPwsmr7UYz4kfrf"
+      },
+      "artists": [
+        {
+          "name": "Isabela Merced",
+          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+        }
+      ],
+      "duration_ms": 188223,
+      "name": "Caliente Navidad",
+      "url": "https://open.spotify.com/track/60PHBxCLNJJ1cefofRKQNN"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -783,8 +783,8 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Christmas Through Your Eyes",
-        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
+        "name": "Abriendo Puertas",
+        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
         }
       ],
-      "duration_ms": 300733,
-      "name": "Christmas Through Your Eyes",
-      "url": "https://open.spotify.com/track/6YH4GanBHEi4oRsqvKFMwv"
+      "duration_ms": 322066,
+      "name": "M\u00e1s All\u00e1 - Beyond",
+      "url": "https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Eterna Navidad",
-        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Adeste Fideles",
-      "url": "https://open.spotify.com/track/1f6GRRkKsl3jZBIEw4LfBM"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Santa, Te Espero A Las 10",
         "url": "https://open.spotify.com/album/4zPbYPL2cP6MD8cDyXQ6fi"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 153440,
       "name": "Santa, Te Espero A Las 10",
       "url": "https://open.spotify.com/track/1rrgtua4d11ALBCNQHlvI4"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Eterna Navidad",
+        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Adeste Fideles",
+      "url": "https://open.spotify.com/track/1f6GRRkKsl3jZBIEw4LfBM"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -947,22 +947,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Baby, It's Cold Outside (Latin Version)",
-        "url": "https://open.spotify.com/album/3DpzzZYeSbKSKx1qoOttVm"
+        "name": "Mi Navidad (Remastered)",
+        "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
         }
       ],
-      "duration_ms": 173615,
-      "name": "Baby, It's Cold Outside - Latin Version",
-      "url": "https://open.spotify.com/track/3W8VMifot8x8b5VUpqOMb7"
+      "duration_ms": 257343,
+      "name": "El Abeto",
+      "url": "https://open.spotify.com/track/4XVomOIxlU6YKcGEaUXul2"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1003,34 +999,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Mi Navidad (Remastered)",
-        "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
+        "name": "Baby, It's Cold Outside (Latin Version)",
+        "url": "https://open.spotify.com/album/3DpzzZYeSbKSKx1qoOttVm"
       },
       "artists": [
         {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        }
-      ],
-      "duration_ms": 257343,
-      "name": "El Abeto",
-      "url": "https://open.spotify.com/track/4XVomOIxlU6YKcGEaUXul2"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Binomio Perfecto",
-        "url": "https://open.spotify.com/album/2J3JGOZQCsPt8toxVcwzVU"
-      },
-      "artists": [
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
         {
-          "name": "Adexe & Nau",
-          "url": "https://open.spotify.com/artist/0ndVqPlOidgsJ4yB3Fc5ec"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 191400,
-      "name": "Ya Estamos en Navidad",
-      "url": "https://open.spotify.com/track/52Eoonf409zAkI2dxfYV2K"
+      "duration_ms": 173615,
+      "name": "Baby, It's Cold Outside - Latin Version",
+      "url": "https://open.spotify.com/track/3W8VMifot8x8b5VUpqOMb7"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1047,6 +1031,22 @@
       "duration_ms": 209640,
       "name": "Santa Claus Is Comin\u2019 To Town",
       "url": "https://open.spotify.com/track/2m8DBsZnH9whNkbSjnbRGJ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Binomio Perfecto",
+        "url": "https://open.spotify.com/album/2J3JGOZQCsPt8toxVcwzVU"
+      },
+      "artists": [
+        {
+          "name": "Adexe & Nau",
+          "url": "https://open.spotify.com/artist/0ndVqPlOidgsJ4yB3Fc5ec"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "Ya Estamos en Navidad",
+      "url": "https://open.spotify.com/track/52Eoonf409zAkI2dxfYV2K"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 145898,
-      "name": "D\u00f3nde Est\u00e1 La Nieve En Navidad",
-      "url": "https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "un deseo m\u00e1s",
         "url": "https://open.spotify.com/album/2jvjSpRhbTEyJv1kwyyIG4"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 145714,
       "name": "un deseo m\u00e1s",
       "url": "https://open.spotify.com/track/6itDHP5ANCPNQQgXHbQ36R"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 145898,
+      "name": "D\u00f3nde Est\u00e1 La Nieve En Navidad",
+      "url": "https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1131,22 +1131,6 @@
       "duration_ms": 300720,
       "name": "El Cuerpo Me Pide",
       "url": "https://open.spotify.com/track/0UhSnbHhpp1BuqxXoFpWH9"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Navidad Latina 2021 (Streaming)",
-        "url": "https://open.spotify.com/album/0szE9YO0h3e4C99oVAx6H1"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 254293,
-      "name": "Macarena Christmas - Joy Mix",
-      "url": "https://open.spotify.com/track/0tfORpCYcR3aX6K8URKzRI"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Navidad con Pandora",
-        "url": "https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV"
+        "name": "Navidad Latina 2021 (Streaming)",
+        "url": "https://open.spotify.com/album/0szE9YO0h3e4C99oVAx6H1"
       },
       "artists": [
         {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Campana Sobre Campana",
-      "url": "https://open.spotify.com/track/6dt6s7OPMXcdcPUqRJJg9c"
+      "duration_ms": 254293,
+      "name": "Macarena Christmas - Joy Mix",
+      "url": "https://open.spotify.com/track/0tfORpCYcR3aX6K8URKzRI"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1211,6 +1195,22 @@
       "duration_ms": 189593,
       "name": "Mi Navidad No Se Apaga",
       "url": "https://open.spotify.com/track/5EOjxQsuszwFphhkCOqT6j"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Navidad con Pandora",
+        "url": "https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Campana Sobre Campana",
+      "url": "https://open.spotify.com/track/6dt6s7OPMXcdcPUqRJJg9c"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1315,30 +1315,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Arre Borriquito",
-        "url": "https://open.spotify.com/album/2QdgwjVEg1UVHBLatGgoM1"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        },
-        {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 190546,
-      "name": "Arre Borriquito",
-      "url": "https://open.spotify.com/track/7Adw0mNfmb0knPSYPwky39"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Duende",
         "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
       },
@@ -1375,18 +1351,26 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Christmas From The Heart",
-        "url": "https://open.spotify.com/album/1n7udHnNnkdV1vBoBuM5cU"
+        "name": "Arre Borriquito",
+        "url": "https://open.spotify.com/album/2QdgwjVEg1UVHBLatGgoM1"
       },
       "artists": [
         {
-          "name": "David Archuleta",
-          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        },
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 342133,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/69lRinMppHC0aN5O6Tizwa"
+      "duration_ms": 190546,
+      "name": "Arre Borriquito",
+      "url": "https://open.spotify.com/track/7Adw0mNfmb0knPSYPwky39"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Christmas From The Heart",
+        "url": "https://open.spotify.com/album/1n7udHnNnkdV1vBoBuM5cU"
+      },
+      "artists": [
+        {
+          "name": "David Archuleta",
+          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
+        }
+      ],
+      "duration_ms": 342133,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/69lRinMppHC0aN5O6Tizwa"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Feliz Christmas (Vol.1)",
         "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 236440,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/4C2WMkrsgCgLHG9wH41rZN"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Rockin' Around The Christmas Tree",
-        "url": "https://open.spotify.com/album/4qyD4rgdJ7aLqk6CW5igSH"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 134678,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/1tRVAYeI6YE3cV9PrJVCqZ"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1455,6 +1439,22 @@
       "duration_ms": 238480,
       "name": "I'll Be Home For Christmas/Estar\u00e9 En Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/1ZJxkMIYK2a681oSqG1QNi"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Rockin' Around The Christmas Tree",
+        "url": "https://open.spotify.com/album/4qyD4rgdJ7aLqk6CW5igSH"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 134678,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/1tRVAYeI6YE3cV9PrJVCqZ"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Lleg\u00f3 Navidad",
-        "url": "https://open.spotify.com/album/1U9KMlWgZVAghi8rk64qMd"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 240078,
-      "name": "Lleg\u00f3 Navidad",
-      "url": "https://open.spotify.com/track/2jLTyiQc2feKpFu3Ts325e"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Feliz Christmas (Vol.1)",
         "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 218640,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/6zHDSfn8RvgFY4fXuDGQTY"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Lleg\u00f3 Navidad",
+        "url": "https://open.spotify.com/album/1U9KMlWgZVAghi8rk64qMd"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 240078,
+      "name": "Lleg\u00f3 Navidad",
+      "url": "https://open.spotify.com/track/2jLTyiQc2feKpFu3Ts325e"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/4omIIwntSC0rw0MNEUwkw8"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Lleg\u00f3 la Navidad",
         "url": "https://open.spotify.com/album/7Hzii1J4Rqkleye5rg57KJ"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Este Diciembre",
-        "url": "https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w"
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
       "artists": [
         {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Este Diciembre",
-      "url": "https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT"
+      "duration_ms": 239200,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/4omIIwntSC0rw0MNEUwkw8"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1663,6 +1647,22 @@
       "duration_ms": 304706,
       "name": "Cantares de Navidad",
       "url": "https://open.spotify.com/track/3CBwkURhT0xqoDCJQAoSZe"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Este Diciembre",
+        "url": "https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Este Diciembre",
+      "url": "https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "MI REGALO",
         "url": "https://open.spotify.com/album/1bvC8ES0BRTxc00gxwfOZO"
       },
@@ -1739,18 +1719,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Ya Es Navidad",
-        "url": "https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf"
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
       "artists": [
         {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 212893,
-      "name": "Ya es Navidad",
-      "url": "https://open.spotify.com/track/2CZb2AfUdM9hhDyioxymTL"
+      "duration_ms": 175500,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1767,6 +1751,22 @@
       "duration_ms": 176786,
       "name": "El Mejor Regalo",
       "url": "https://open.spotify.com/track/1HlS59V3jDAQx9VWfj1Ztm"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Ya Es Navidad",
+        "url": "https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Ya es Navidad",
+      "url": "https://open.spotify.com/track/2CZb2AfUdM9hhDyioxymTL"
     },
     {
       "added_at": "2021-12-17 05:01:00",

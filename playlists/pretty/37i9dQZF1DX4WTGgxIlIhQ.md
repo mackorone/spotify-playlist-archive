@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WTGgxIlIhQ.md) - [plain]
 
 > Sing along to these Vacation Bible School favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

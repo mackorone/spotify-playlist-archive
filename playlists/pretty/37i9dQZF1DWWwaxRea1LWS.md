@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > If the love doesn't feel like 90s R&B, \#SpotifyTBT don't want it\. Cover: Usher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,108,937 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,109,007 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

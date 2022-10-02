@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2eGcUpDGev2.md) - [plain]
 
 > Drift off to sleep with instrumental lullaby versions of your favorite Christian music tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,677 likes - 71 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,691 likes - 71 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

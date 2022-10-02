@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oi05c4FbIo.md) - [plain]
 
 > Our picks of the top Christian Hip\-Hop songs of the week!  Cover: 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,641 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,644 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

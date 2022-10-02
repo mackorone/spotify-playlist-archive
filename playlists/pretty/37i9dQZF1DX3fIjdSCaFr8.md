@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fIjdSCaFr8.md) - [plain]
 
 > Enjoy the drama 'YUMI's Cells,' OSTs in a different way with the lines in the drama\. You can watch this drama on TVING as well\. \(드라마 '유미의 세포들'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요\. TVING에서도 유미의 세포들을 감상하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,254 likes - 64 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,289 likes - 64 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

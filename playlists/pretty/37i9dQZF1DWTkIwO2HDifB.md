@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Casei com a Putaria e os funks mais 🔑 do Brasil\. Foto: Mc Paiva, MC Ryan SP, Kotim
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,917,140 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,920,093 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

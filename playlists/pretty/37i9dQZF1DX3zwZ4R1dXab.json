@@ -1,12 +1,12 @@
 {
   "description": "Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.",
-  "num_followers": 670,
+  "num_followers": 697,
   "original_name": "PAUSE: Anxiety",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE3Mjg1NywwMDAwMDAwMDRlMjZhODM2MGFhZDg4ZjVhZTU0Nzg5NzIxZmU3ODRi",
+  "snapshot_id": "MTY2NDE3Mjg1NywwMDAwMDAwMGNlMTBiOWM0NWQ3ZGYxN2M4MWZlNmIwOWY5ODE1YjUw",
   "tracks": [
     {
       "added_at": "2022-09-15 11:18:16",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Space And Time",
-        "url": "https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN"
-      },
-      "artists": [
-        {
-          "name": "Lake Geneva",
-          "url": "https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9"
-        }
-      ],
-      "duration_ms": 145898,
-      "name": "Space And Time",
-      "url": "https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Story Time",
         "url": "https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 129095,
       "name": "Story Time",
       "url": "https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Space And Time",
+        "url": "https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN"
+      },
+      "artists": [
+        {
+          "name": "Lake Geneva",
+          "url": "https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9"
+        }
+      ],
+      "duration_ms": 145898,
+      "name": "Space And Time",
+      "url": "https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/1IHOhvP4jBMk7dgRw8k2JI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Joel",
-          "url": "https://open.spotify.com/artist/3YojgmGKYcr1V6480v3qwy"
-        }
-      ],
-      "duration_ms": 154421,
-      "name": "Sweet Gesture",
-      "url": "https://open.spotify.com/track/72qpJcGJO8yGMDoJpKsMBQ"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "m4a",
         "url": "https://open.spotify.com/album/0Y7ZoYmiH4VBpBBuxTwpCg"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 142030,
       "name": "m4a",
       "url": "https://open.spotify.com/track/0p1dvFjInHmk6nUparv5dk"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/1IHOhvP4jBMk7dgRw8k2JI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Joel",
+          "url": "https://open.spotify.com/artist/3YojgmGKYcr1V6480v3qwy"
+        }
+      ],
+      "duration_ms": 154421,
+      "name": "Sweet Gesture",
+      "url": "https://open.spotify.com/track/72qpJcGJO8yGMDoJpKsMBQ"
     },
     {
       "added_at": "2022-09-15 11:18:16",

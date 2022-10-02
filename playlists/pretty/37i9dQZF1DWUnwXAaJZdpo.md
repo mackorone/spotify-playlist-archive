@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnwXAaJZdpo.md) - [plain]
 
 > ¡Yo digo R, tú dices BD! ¡RBD!
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,835 likes - 48 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,881 likes - 48 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

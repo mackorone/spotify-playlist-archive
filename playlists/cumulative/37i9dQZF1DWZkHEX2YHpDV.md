@@ -4,7 +4,7 @@
 
 > Pop\-punk, emo, post\-hardcore, alternative \- it's whatever you want it to be\. Cover: nothing, nowhere
 
-819 songs - 1 day 19 hr 48 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+820 songs - 1 day 19 hr 52 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,7 +544,7 @@
 | [Pens and Needles](https://open.spotify.com/track/0iwoyFmN34X77swMt3OehL) | [Summer Heights](https://open.spotify.com/artist/2LAH4zTDmnodSIEEl6T1Ku) | [Hold Me Close EP](https://open.spotify.com/album/1BXH2YPLevzADzHj5fFTq2) | 2:46 | 2022-03-25 | 2022-06-19 |
 | [Perception](https://open.spotify.com/track/6HvvrqiyzJIjyapQZlimYM) | [Glacier Veins](https://open.spotify.com/artist/1ABJDb5VkWotQpFDOZeene) | [The World You Want to See](https://open.spotify.com/album/1gBLyhSgwqv9ZgE6pKOMLW) | 3:47 | 2021-12-10 | 2022-05-04 |
 | [perfect](https://open.spotify.com/track/6Gn3rGrd15zSZ8t9GxWVnF) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [perfect](https://open.spotify.com/album/6ZZ67CdjZLRXAw7AZg5Kae) | 2:36 | 2022-06-24 | 2022-08-03 |
-| [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-17 |  |
+| [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-17 | 2022-10-02 |
 | [Perfume \(feat\. Awsten Knight\)](https://open.spotify.com/track/2cWMwxmJ2TPuPLcNQdEaq5) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Awsten Knight](https://open.spotify.com/artist/6ORwdLfpd4q9V1BlktwYfZ) | [Perfume \(feat\. Awsten Knight\)](https://open.spotify.com/album/1qqoHvXacvsatI0g8bO2L7) | 2:50 | 2021-12-10 | 2022-06-18 |
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-08-26 |  |
 | [phuck u](https://open.spotify.com/track/0kJv6Szx4qBhr7byrlgzgH) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [phuck u](https://open.spotify.com/album/7Ft8Bqn9YSbK1GS4iT2M0k) | 2:41 | 2021-12-10 | 2022-07-29 |
@@ -811,6 +811,7 @@
 | [Write It Off](https://open.spotify.com/track/2NEZizbxzdZyHWtnuhXKym) | [Ryan Librada](https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7) | [Write It Off](https://open.spotify.com/album/3YSrIBQSbV88daqik3z6g9) | 2:29 | 2022-05-20 | 2022-05-21 |
 | [Wrong One](https://open.spotify.com/track/6zQqkXYG54BDVEYfFP33wX) | [A Better Hand](https://open.spotify.com/artist/47xNUgLIu6skUOgb8PEuEI) | [Wrong One](https://open.spotify.com/album/08TunwZX7r700eeKguWyF8) | 2:54 | 2021-12-10 | 2022-07-20 |
 | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/track/2igMBTs1a8cwHkwIXOmtBq) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/album/7oQO6rAWUCj7lQ5W7p96wz) | 3:45 | 2022-06-24 | 2022-08-03 |
+| [Wyatt’s Song \(Your Name\)](https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [The Hum Goes on Forever](https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv) | 3:45 | 2022-09-30 |  |
 | [You](https://open.spotify.com/track/0cB71XryMznWQ6klBUovgm) | [Storyteller](https://open.spotify.com/artist/2bhEQqmUj9qtDOcqj8AZzB) | [You](https://open.spotify.com/album/4SXc5fzefGaZE4WRdyf3hB) | 3:31 | 2022-03-25 | 2022-04-18 |
 | [You and Me \(Forever\)](https://open.spotify.com/track/4UoCW9HNxMWqHDDMQsXKL4) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [You and Me \(Forever\)](https://open.spotify.com/album/3xgU7O3LWEPPGFWXfmVq8k) | 2:29 | 2021-12-10 | 2022-06-19 |
 | [you broke me first](https://open.spotify.com/track/7gAfY8Y5aBrsAfNaejxXMY) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [you broke me first](https://open.spotify.com/album/2uMR5jsZgtfsIvAAyG8bDf) | 2:48 | 2021-12-10 |  |

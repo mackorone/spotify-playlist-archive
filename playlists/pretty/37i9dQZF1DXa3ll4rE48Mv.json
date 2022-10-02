@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Big Joanie",
-  "num_followers": 121343,
+  "num_followers": 121396,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMDI2OTM2NWI4YmY1ZjViNTQ4ZjQ5ZWNlMTVjYzVmN2Mx",
+  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMDhiZmMyYzQ1ODVhNjI3MmViYWVkM2E2Y2Y5MzU5MTBi",
   "tracks": [
     {
       "added_at": "2022-05-31 23:01:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Pity Boy",
-        "url": "https://open.spotify.com/album/2RCB0j6tDvutjHGcSBeRK2"
-      },
-      "artists": [
-        {
-          "name": "Mal Blum",
-          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
-        }
-      ],
-      "duration_ms": 151473,
-      "name": "Things Still Left to Say",
-      "url": "https://open.spotify.com/track/4Rd5yPcGwS8ewCJYwxyfqP"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "The Rent",
         "url": "https://open.spotify.com/album/7ctFtUf0RzsBUNzOIkl1kL"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 173800,
       "name": "The Rent",
       "url": "https://open.spotify.com/track/61aNP3upsNJMLRdWf8Mj5v"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Pity Boy",
+        "url": "https://open.spotify.com/album/2RCB0j6tDvutjHGcSBeRK2"
+      },
+      "artists": [
+        {
+          "name": "Mal Blum",
+          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
+        }
+      ],
+      "duration_ms": 151473,
+      "name": "Things Still Left to Say",
+      "url": "https://open.spotify.com/track/4Rd5yPcGwS8ewCJYwxyfqP"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Intractable",
-        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
-      },
-      "artists": [
-        {
-          "name": "Gina Young",
-          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
-        }
-      ],
-      "duration_ms": 124653,
-      "name": "So-Called Str8 Grrrl",
-      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 116906,
       "name": "Pigs Is Pigs",
       "url": "https://open.spotify.com/track/6wOfwjT2TowI9OJEnd07Yw"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Intractable",
+        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
+      },
+      "artists": [
+        {
+          "name": "Gina Young",
+          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
+        }
+      ],
+      "duration_ms": 124653,
+      "name": "So-Called Str8 Grrrl",
+      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "In Birth",
-        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 176794,
-      "name": "In Birth",
-      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Too Young To Be In Love",
         "url": "https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 215133,
       "name": "Lovers Lane",
       "url": "https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "In Birth",
+        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 176794,
+      "name": "In Birth",
+      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Personal Best",
-        "url": "https://open.spotify.com/album/2CcIyIyNax2Zim1Ii5pHRK"
-      },
-      "artists": [
-        {
-          "name": "Team Dresch",
-          "url": "https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "Fagetarian and Dyke",
-      "url": "https://open.spotify.com/track/2942YKHIqF1XHp7fvp1iEN"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Free Bleedin'",
         "url": "https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 197052,
       "name": "Tinder Girl",
       "url": "https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Personal Best",
+        "url": "https://open.spotify.com/album/2CcIyIyNax2Zim1Ii5pHRK"
+      },
+      "artists": [
+        {
+          "name": "Team Dresch",
+          "url": "https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "Fagetarian and Dyke",
+      "url": "https://open.spotify.com/track/2942YKHIqF1XHp7fvp1iEN"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "What You Do for Love",
-        "url": "https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr"
-      },
-      "artists": [
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
-        }
-      ],
-      "duration_ms": 200934,
-      "name": "What You Do for Love",
-      "url": "https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Model Citizen",
         "url": "https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 183610,
       "name": "Brighter Days (Are Before Us)",
       "url": "https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "What You Do for Love",
+        "url": "https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "duration_ms": 200934,
+      "name": "What You Do for Love",
+      "url": "https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Friends. Lovers. Favorites",
-        "url": "https://open.spotify.com/album/3nffqxNgYlaorWIVUm56R8"
-      },
-      "artists": [
-        {
-          "name": "The Hirs Collective",
-          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
-        }
-      ],
-      "duration_ms": 63466,
-      "name": "It's Ok to Be Sick",
-      "url": "https://open.spotify.com/track/02Xk3OGe1Q4mtOcrokOOAY"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Baby, I Had an Abortion",
         "url": "https://open.spotify.com/album/0MmQCI3aQdUXVAfN2q67V7"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Girls With Glasses",
-        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
+        "name": "Friends. Lovers. Favorites",
+        "url": "https://open.spotify.com/album/3nffqxNgYlaorWIVUm56R8"
       },
       "artists": [
         {
-          "name": "Partyline",
-          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+          "name": "The Hirs Collective",
+          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
         }
       ],
-      "duration_ms": 129706,
-      "name": "Girls With Glasses",
-      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
+      "duration_ms": 63466,
+      "name": "It's Ok to Be Sick",
+      "url": "https://open.spotify.com/track/02Xk3OGe1Q4mtOcrokOOAY"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -951,6 +935,22 @@
       "duration_ms": 167276,
       "name": "Good Time Charlie",
       "url": "https://open.spotify.com/track/3m8UItuMK5t0VXmTOztjDQ"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Girls With Glasses",
+        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
+      },
+      "artists": [
+        {
+          "name": "Partyline",
+          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+        }
+      ],
+      "duration_ms": 129706,
+      "name": "Girls With Glasses",
+      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Mackerel's Funky Mission",
-        "url": "https://open.spotify.com/album/1PZHj7UZQmyzbtIjGFeNxV"
+        "name": "Tender Resignation",
+        "url": "https://open.spotify.com/album/7zqUAHgtvrGDgrQMe3MVha"
       },
       "artists": [
         {
-          "name": "\u0120ENN",
-          "url": "https://open.spotify.com/artist/5mZ836Fy59tOJEcqWfN771"
+          "name": "Dyke Drama",
+          "url": "https://open.spotify.com/artist/2mEd7XiiEr2Ym4JMeWE7t1"
         }
       ],
-      "duration_ms": 224440,
-      "name": "Mackerel's Funky Mission",
-      "url": "https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb"
+      "duration_ms": 130598,
+      "name": "The Thing I Do Best",
+      "url": "https://open.spotify.com/track/5Ae7KzPFdnb8PgrMBjI1oo"
     }
   ],
   "unique_name": "Queercore",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUxl2WH8cGS.md) - [plain]
 
 > Dance to the tunes from your favorite Netflix family\-friendly series and movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,725 likes - 38 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,750 likes - 38 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

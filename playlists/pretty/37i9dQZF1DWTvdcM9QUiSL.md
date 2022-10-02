@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvdcM9QUiSL.md) - [plain]
 
 > Feel the vibe\. Feel the pressure\. And dance to a mix curated by <a href="spotify:artist:7DhdJhd6DrxeJlUajwttd1">Martin Ikin</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,961 likes - 13 songs - 59 min 57 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,974 likes - 13 songs - 59 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

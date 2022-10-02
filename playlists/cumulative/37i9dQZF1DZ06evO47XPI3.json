@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/5L4SfaSintj8j4h2R4lFhy"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 184506,
       "name": "Break Your Promise - Remastered",
       "url": "https://open.spotify.com/track/6k2cegIpd6Nc2WpO6xaSIc"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Didn't I Blow Your Mind This Time - Re-Recorded In Stereo",
       "url": "https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 227946,
       "name": "Don't Throw It All Away - 7\" Version",
       "url": "https://open.spotify.com/track/5ke5fPNXizlAX11dGVNv4W"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 176306,
       "name": "Face It Girl, It's Over - Remastered",
       "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 300710,
       "name": "For the Love I Gave to You",
       "url": "https://open.spotify.com/track/5jCZ4OQB2RtFeMnJIfRuSM"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 125333,
       "name": "Going Out of My Head - Remastered",
       "url": "https://open.spotify.com/track/3rnqNaoFbupOaGq8Y1Sk6E"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 124733,
       "name": "Hurt so Bad",
       "url": "https://open.spotify.com/track/5FGSizyi9HyfIVzNivq2IY"
@@ -458,6 +458,24 @@
     },
     {
       "album": {
+        "name": "Philly Groove Records Presents: The Way Things Were",
+        "url": "https://open.spotify.com/album/0v9VmBNpHA23zKo3lbTEIJ"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192760,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/522AmhNOcqjU59NsW0eYT9"
+    },
+    {
+      "album": {
         "name": "La-La Means I Love You",
         "url": "https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5"
       },
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 190800,
       "name": "I Told You So - Digitally Remastered 1997",
       "url": "https://open.spotify.com/track/56lTbw4gJtOaLaWYkgBwx1"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 186466,
       "name": "I'm a Man",
       "url": "https://open.spotify.com/track/1Z2Grc4FUpayjdq0hgJVvs"
@@ -523,7 +541,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 285266,
       "name": "I've Got Everything",
       "url": "https://open.spotify.com/track/1Xe3QCAuTkwQLBbxfQamz3"
@@ -747,7 +765,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 168106,
       "name": "My New Love",
       "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 341093,
       "name": "Oh My Love",
       "url": "https://open.spotify.com/track/6o2OoZbn5shmkO7AVKbRe1"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 191733,
       "name": "Round & Round",
       "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 198573,
       "name": "Somebody Loves You - Remastered",
       "url": "https://open.spotify.com/track/7LQlozny7nxRh3ZbtyCKlU"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 298906,
       "name": "Somewhere In My Life",
       "url": "https://open.spotify.com/track/3d1uzoWQBbUqQbP3ZqpUcb"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 213413,
       "name": "Tell Me This Is a Dream",
       "url": "https://open.spotify.com/track/5iJ3TFsnziFusTvu8hM9pL"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 190146,
       "name": "The Phoney",
       "url": "https://open.spotify.com/track/2SQMUwmA8zQ1YPTwwJKr3v"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 204560,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/76g73QHtKlGFAW2FUSCV0e"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 281025,
       "name": "Totally in Love With You (Modal Voice Mix) [feat. William Hart]",
       "url": "https://open.spotify.com/track/4wqLjjkwhj5rMuLEV1XLjg"
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 132466,
       "name": "With These Hands - Remastered",
       "url": "https://open.spotify.com/track/5Pm15LzKOs6Z0IzprI1DHV"

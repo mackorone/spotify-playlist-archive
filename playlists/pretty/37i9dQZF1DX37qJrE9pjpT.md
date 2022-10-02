@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover Chin Bees
 
-[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 384 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 44 | [Mkombozi](https://open.spotify.com/track/63fzbBiU1WOH2eo08NuE4v) | [Roma Mkatoliki](https://open.spotify.com/artist/5vt0v1SOjFGt55GNikLTGf), [One Six](https://open.spotify.com/artist/5oK19m1uaieCFzIc08pvE2) | [Mkombozi](https://open.spotify.com/album/1mR4CK7GYeg5ge0KjJkdXT) | 4:13 |
 | 45 | [Kick\-Off](https://open.spotify.com/track/4TEIGXuCB5mCJgVUxgcDXe) | [Nacha](https://open.spotify.com/artist/6y4QyXMrMWdhgSFY2JMbXt) | [TOP SCORER OF ALL TIME EP](https://open.spotify.com/album/1Dh42XiejQ9Vvo6YdedWfA) | 3:20 |
 | 46 | [Baki Na Mimi](https://open.spotify.com/track/1J4InSOUeqLLNQPim0KaPH) | [Mr Blue](https://open.spotify.com/artist/5oNEJIZyXIfzVhOV8TC9Ok), [Dunga](https://open.spotify.com/artist/2Ii0LWGvVKuV8nB9eZMAcF) | [Baki Na Mimi](https://open.spotify.com/album/32vTe9cPeWU7HUpgwcFDA5) | 4:08 |
-| 47 | [Dear Gambe](https://open.spotify.com/track/5rEFPXvrI6lrVtKLreYZex) | [Msodoki Young Killer](https://open.spotify.com/artist/0EfQfdKNPm4U50wNWTMqtU), [Belle9](https://open.spotify.com/artist/0aiGVd3m2MJUz2x3XHjQuP) | [Dear Gambe](https://open.spotify.com/album/5nBrr7soIGIZhVI6G1AWCO) | 4:00 |
+| 47 | [Dear Gambe](https://open.spotify.com/track/2IUvtf5mREXmyLm2R4Ewkh) | [Young Killer](https://open.spotify.com/artist/33087Y6d4XZj4ZKaXlB6TW) | [Mrs\. Superstar](https://open.spotify.com/album/1XPoBa0RUHPdFNRovQZ9P6) | 4:00 |
 | 48 | [A Confession of a Mad Man](https://open.spotify.com/track/1cy3VQvg6LQ7P1rKXQuaR6) | [Dizasta Vina](https://open.spotify.com/artist/1IC2bcgWHOl0i4YUndZLfI) | [The Verteller](https://open.spotify.com/album/75eaZIbxDZ70OaBjwEbihm) | 4:02 |
 | 49 | [Serikali Kuu](https://open.spotify.com/track/7sakgzpSETSQI0FynH3b4I) | [Paul Maker](https://open.spotify.com/artist/0SkZgDAEhp7QLDYDyR2f0e), [Big Sheshe](https://open.spotify.com/artist/3N3V60OP5MyjKOh1N6of4t), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Moni Centrozone](https://open.spotify.com/artist/4GLSJqWjO11YaQXWJmWisl), [Zimaolaitan](https://open.spotify.com/artist/0Oi1WSmViy5jsGmLbMV8nY), [Salmin Swaggz](https://open.spotify.com/artist/6KXqYHiQYuIAK1mWr7eDXk), [Country Boy](https://open.spotify.com/artist/2B8lcnDq5CtcmbyJuDdFGo), [Lil Dwin](https://open.spotify.com/artist/1auB0AVcRXfmsUuFhOVt2R), [Deddy](https://open.spotify.com/artist/1lTzX8vs4WnImr494EP8Pm) | [Serikali Kuu](https://open.spotify.com/album/39pnzI3XYlgLoga3cpwpvm) | 6:24 |
 | 50 | [Rudia](https://open.spotify.com/track/3xRnvCriJUGNYWTqhtUZwl) | [Young Killer Msodoki](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn) | [Rudia](https://open.spotify.com/album/3jN4tfxVFkS8BEGouqmDu1) | 3:38 |
 
-Snapshot ID: `MTY2MjY3MDc0MCwwMDAwMDAwMDA1M2Y5OTY3ZGVkM2U4OGU2ZDAwYzI4YzE1NDMzMThk`
+Snapshot ID: `MTY2MjY3MDc0MCwwMDAwMDAwMGJkZGZiNzdhYzJkNDJjNDljMzgyOTRlMDE2NTNjYjk3`

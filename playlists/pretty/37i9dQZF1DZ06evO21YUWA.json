@@ -1,15 +1,15 @@
 {
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 3699,
+  "num_followers": 3703,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NDI0MDksMDAwMDAwMDA1ZGIxM2UyNjBmM2U1N2NiZDIwZGE5MDZkMTk5NmYzNQ==",
+  "snapshot_id": "Mjc3NDM4MzMsMDAwMDAwMDA4YmZjZjkzZDVhNjA0NWEyZmI3ZDBhZmQ3YzFiYzU4Nw==",
   "tracks": [
     {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "The Moon and the Melodies",
         "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "Translucence + Drift Music",
         "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4Piypso6HAayTb3FwJIIaW"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
@@ -89,7 +89,23 @@
       "url": "https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "In The Mist",
+        "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "The Whispers",
+      "url": "https://open.spotify.com/track/4VH3rKj1tmhUZtX3U43jBq"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "Lovely Thunder",
         "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
@@ -105,27 +121,7 @@
       "url": "https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "The Moon and the Melodies",
-        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 455800,
-      "name": "The Ghost Has No Home",
-      "url": "https://open.spotify.com/track/0rtfF7pfVYD5nvBQ1mPRsD"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
@@ -145,7 +141,7 @@
       "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
@@ -165,10 +161,10 @@
       "url": "https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
-        "name": "In The Mist",
-        "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
+        "name": "The Pavilion Of Dreams",
+        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
       },
       "artists": [
         {
@@ -176,92 +172,12 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 163000,
-      "name": "The Whispers",
-      "url": "https://open.spotify.com/track/4VH3rKj1tmhUZtX3U43jBq"
+      "duration_ms": 859600,
+      "name": "Rosetti Noise/Chrystal Garden And A Coda",
+      "url": "https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "The Moon and the Melodies",
-        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 257866,
-      "name": "She Will Destroy You",
-      "url": "https://open.spotify.com/track/2cWc4NJ2WYAZllS4VWFcHs"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "The Plateaux Of Mirror - Remastered 2004",
-      "url": "https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "The Pearl",
-        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "A Stream With Bright Fish - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/4IN34Iq5T9x1vN6MASxvS9"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 293480,
-      "name": "Radiant City",
-      "url": "https://open.spotify.com/track/0Z5oEza6OKWhXJBVnlCWzl"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "The Moon and the Melodies",
         "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
@@ -276,12 +192,12 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 291600,
-      "name": "Why Do You Love Me?",
-      "url": "https://open.spotify.com/track/6mnDez8mWJqlTyp6GjCKKR"
+      "duration_ms": 455800,
+      "name": "The Ghost Has No Home",
+      "url": "https://open.spotify.com/track/0rtfF7pfVYD5nvBQ1mPRsD"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
@@ -305,7 +221,87 @@
       "url": "https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Still Return - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/28KcS7Otucbm1uRQs8k21t"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 293480,
+      "name": "Radiant City",
+      "url": "https://open.spotify.com/track/0Z5oEza6OKWhXJBVnlCWzl"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 257866,
+      "name": "She Will Destroy You",
+      "url": "https://open.spotify.com/track/2cWc4NJ2WYAZllS4VWFcHs"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "The Plateaux Of Mirror - Remastered 2004",
+      "url": "https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
@@ -325,7 +321,7 @@
       "url": "https://open.spotify.com/track/2FA6ZLzJ2f5ZhX1qzoGfWA"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "The Pavilion Of Dreams",
         "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
@@ -336,12 +332,340 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 859600,
-      "name": "Rosetti Noise/Chrystal Garden And A Coda",
-      "url": "https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF"
+      "duration_ms": 1107266,
+      "name": "Bismillahi 'Rrahmani 'Rrahim",
+      "url": "https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 291600,
+      "name": "Why Do You Love Me?",
+      "url": "https://open.spotify.com/track/6mnDez8mWJqlTyp6GjCKKR"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Not Yet Remembered - Remastered 2004",
+      "url": "https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "Lost In The Humming Air - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Jane 1-11",
+        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "Jane 8",
+      "url": "https://open.spotify.com/track/5T7jNsX9SBTugNhbj4euh7"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "The Serpent (In Quicksilver)",
+        "url": "https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Afar",
+      "url": "https://open.spotify.com/track/2xYXPFalEjva3zI8ZYe2yQ"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Failing Light - Remastered 2004",
+      "url": "https://open.spotify.com/track/6AlMwXm6QSGErCZU2rhtoi"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "The Pearl - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Avalon Sutra",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 458400,
+      "name": "Little Heart",
+      "url": "https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 447533,
+      "name": "Memory Gongs",
+      "url": "https://open.spotify.com/track/1AIAZEGLCQ4Y6oSnsjqOYD"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "The Pavilion Of Dreams",
+        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 382866,
+      "name": "Let Us Go Into The House Of The Lord/Butterfly Sunday",
+      "url": "https://open.spotify.com/track/4z5mBEeCOoWqqbK8rOwDN1"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 434733,
+      "name": "A Delicate Romance",
+      "url": "https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "The White Arcades",
+        "url": "https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "The White Arcades",
+      "url": "https://open.spotify.com/track/1RHWCbssogWYynyA7l0XsZ"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Eyes Are Mosaics",
+      "url": "https://open.spotify.com/track/0nh702r8bba4yTwk2U3yhj"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Luxa",
+        "url": "https://open.spotify.com/album/6U54zyIjIX05p3e7xXNURs"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 360333,
+      "name": "Nove Alberi",
+      "url": "https://open.spotify.com/track/0qR4944z41aPHStt3EtJuk"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Avalon Sutra",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 62946,
+      "name": "It's Steeper Near the Roses (For David Sylvian)",
+      "url": "https://open.spotify.com/track/3bHt0oTVrWjy9Rss6Akhhy"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Adult",
+      "url": "https://open.spotify.com/track/28yHFFhnxKIxiHuIo9IV7y"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "How Distant Your Heart",
+      "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "The White Arcades",
+        "url": "https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/18oa7BOnHF8Y3YItQ8rV3e"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "Winter Garden",
         "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
@@ -365,379 +689,7 @@
       "url": "https://open.spotify.com/track/6RtdBwIiYavQENjkE6JCba"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Not Yet Remembered - Remastered 2004",
-      "url": "https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "The Pearl",
-        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Still Return - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/28KcS7Otucbm1uRQs8k21t"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "The Pavilion Of Dreams",
-        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 1107266,
-      "name": "Bismillahi 'Rrahmani 'Rrahim",
-      "url": "https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Luxa",
-        "url": "https://open.spotify.com/album/6U54zyIjIX05p3e7xXNURs"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 360333,
-      "name": "Nove Alberi",
-      "url": "https://open.spotify.com/track/0qR4944z41aPHStt3EtJuk"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Among Fields Of Crystal - Remastered 2004",
-      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "The Pearl",
-        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "The Pearl - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "The Moon and the Melodies",
-        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 447533,
-      "name": "Memory Gongs",
-      "url": "https://open.spotify.com/track/1AIAZEGLCQ4Y6oSnsjqOYD"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Jane 1-11",
-        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "Jane 8",
-      "url": "https://open.spotify.com/track/5T7jNsX9SBTugNhbj4euh7"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "The Serpent (In Quicksilver)",
-        "url": "https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Afar",
-      "url": "https://open.spotify.com/track/2xYXPFalEjva3zI8ZYe2yQ"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "The White Arcades",
-        "url": "https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "The Kiss",
-      "url": "https://open.spotify.com/track/18oa7BOnHF8Y3YItQ8rV3e"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "The Moon and the Melodies",
-        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "Ooze Out And Away, Onehow",
-      "url": "https://open.spotify.com/track/157RVHlboS0mum8aCu0WBp"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Jane 1-11",
-        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Jane 2",
-      "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Avalon Sutra",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 458400,
-      "name": "Little Heart",
-      "url": "https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
-      },
-      "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 434733,
-      "name": "A Delicate Romance",
-      "url": "https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "The Pavilion Of Dreams",
-        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 382866,
-      "name": "Let Us Go Into The House Of The Lord/Butterfly Sunday",
-      "url": "https://open.spotify.com/track/4z5mBEeCOoWqqbK8rOwDN1"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Jane 12-21",
-        "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 204960,
-      "name": "Jane 16 (For Pale Saints)",
-      "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Avalon Sutra",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 62946,
-      "name": "It's Steeper Near the Roses (For David Sylvian)",
-      "url": "https://open.spotify.com/track/3bHt0oTVrWjy9Rss6Akhhy"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
-      },
-      "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 183880,
-      "name": "Adult",
-      "url": "https://open.spotify.com/track/28yHFFhnxKIxiHuIo9IV7y"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "The Pavilion Of Dreams",
-        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 500026,
-      "name": "Juno",
-      "url": "https://open.spotify.com/track/2H96z4OFcMTTopEgIX49ci"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "After The Night Falls",
-        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "How Distant Your Heart",
-      "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Avalon Sutra",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 159920,
-      "name": "Arabesque 3",
-      "url": "https://open.spotify.com/track/7AsLKcHPrUZe60x8o47YeQ"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "Translucence + Drift Music",
         "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
@@ -757,99 +709,7 @@
       "url": "https://open.spotify.com/track/6AXnyOkaq6bn67VYrIfec6"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "The White Arcades",
-        "url": "https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "The White Arcades",
-      "url": "https://open.spotify.com/track/1RHWCbssogWYynyA7l0XsZ"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Lovely Thunder",
-        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Ice Floes In Eden",
-      "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Deva C",
-      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
-      },
-      "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 380453,
-      "name": "Spoken Roses",
-      "url": "https://open.spotify.com/track/10IzKDk1QN1GU8SA0zDhVu"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Before the Day Breaks",
-        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 263493,
-      "name": "A Formless Path",
-      "url": "https://open.spotify.com/track/2WdSMNXQIX2X9CJ8GZcTyW"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "Avalon Sutra",
         "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
@@ -860,15 +720,15 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 133386,
-      "name": "L'enfant Perdu",
-      "url": "https://open.spotify.com/track/28D8V8CbAC4hXYRTU2ljeW"
+      "duration_ms": 77613,
+      "name": "Faraon",
+      "url": "https://open.spotify.com/track/5MGYcaAg4dci4djv6VfPL1"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
-        "name": "The Serpent (In Quicksilver)",
-        "url": "https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl"
+        "name": "Jane 1-11",
+        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
       },
       "artists": [
         {
@@ -876,32 +736,12 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 255973,
-      "name": "Wanderer",
-      "url": "https://open.spotify.com/track/34wVtw1bMgjicq9o9uK4nr"
+      "duration_ms": 296800,
+      "name": "Jane 2",
+      "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
-      "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
-      },
-      "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 100106,
-      "name": "Momentary Architecture",
-      "url": "https://open.spotify.com/track/24MQNO07DSZeDjfBmkb1rT"
-    },
-    {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "Before the Day Breaks",
         "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
@@ -921,7 +761,115 @@
       "url": "https://open.spotify.com/track/77GNj1dewpFsGfzkhujB0u"
     },
     {
-      "added_at": "2022-09-30 13:29:04",
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 380453,
+      "name": "Spoken Roses",
+      "url": "https://open.spotify.com/track/10IzKDk1QN1GU8SA0zDhVu"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Lovely Thunder",
+        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Ice Floes In Eden",
+      "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Jane 12-21",
+        "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "Jane 16 (For Pale Saints)",
+      "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "The Pavilion Of Dreams",
+        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 500026,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/2H96z4OFcMTTopEgIX49ci"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Before the Day Breaks",
+        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 456546,
+      "name": "How Close Your Soul",
+      "url": "https://open.spotify.com/track/4BbKj6LPue8dBbqO9fcZXb"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 100106,
+      "name": "Momentary Architecture",
+      "url": "https://open.spotify.com/track/24MQNO07DSZeDjfBmkb1rT"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
       "album": {
         "name": "Avalon Sutra",
         "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
@@ -932,9 +880,73 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 77613,
-      "name": "Faraon",
-      "url": "https://open.spotify.com/track/5MGYcaAg4dci4djv6VfPL1"
+      "duration_ms": 4168000,
+      "name": "As Long as I Can Hold My Breath - By Night",
+      "url": "https://open.spotify.com/track/6ScM7dC3yQRmcoxhI7MPyq"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Winter Garden",
+        "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
+      },
+      "artists": [
+        {
+          "name": "Eraldo Bernocchi",
+          "url": "https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Entangled",
+      "url": "https://open.spotify.com/track/6EkJISjVAGdFcA4e6eTsDJ"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "Before the Day Breaks",
+        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 263493,
+      "name": "A Formless Path",
+      "url": "https://open.spotify.com/track/2WdSMNXQIX2X9CJ8GZcTyW"
+    },
+    {
+      "added_at": "2022-10-01 13:13:39",
+      "album": {
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "And Then I Turned Away",
+      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
     }
   ],
   "unique_name": "This Is Harold Budd",

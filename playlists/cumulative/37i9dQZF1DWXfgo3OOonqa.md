@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-595 songs - 1 day 2 hr 37 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+596 songs - 1 day 2 hr 39 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [ABTI](https://open.spotify.com/track/7K5thlHoo7jAHoXj8cutYO) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [ABTI](https://open.spotify.com/album/2eJfXQe2OSLmOtmEhRI4EF) | 2:46 | 2022-01-06 | 2022-02-04 |
 | [ADHD](https://open.spotify.com/track/4pE0Z4WnclhR1yvBQ6pIqy) | [Florendt](https://open.spotify.com/artist/0wjTxkMlB15RDYeo1wk1cY) | [ADHD](https://open.spotify.com/album/5DV9KpIiQqwcbbKf7bg2uC) | 2:54 | 2022-03-17 | 2022-04-22 |
 | [Afro Thing](https://open.spotify.com/track/5WfmnI3OrgHi3eBByXGFYg) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afro Thing](https://open.spotify.com/album/2s4GxNlwJWjljUf6q6dqhg) | 2:28 | 2022-07-29 | 2022-09-09 |
-| [Aktiverad](https://open.spotify.com/track/1fFPsFvak7nFZa354u7H1r) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad](https://open.spotify.com/album/62hMMhEg7v6zLLyaYzU9Ng) | 2:34 | 2022-09-10 |  |
+| [Aktiverad](https://open.spotify.com/track/1fFPsFvak7nFZa354u7H1r) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad](https://open.spotify.com/album/62hMMhEg7v6zLLyaYzU9Ng) | 2:34 | 2022-09-10 | 2022-10-02 |
+| [Aktiverad](https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad](https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4) | 2:34 | 2022-09-29 |  |
 | [Aldrig](https://open.spotify.com/track/4GUQY8BlVIGI21WzXi1Lr3) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Aldrig](https://open.spotify.com/album/3wDHnAfMuwuz5ovE8xzlcu) | 2:32 | 2022-05-12 | 2022-07-08 |
 | [Alicia](https://open.spotify.com/track/4TSwV2BWPyX2mZf9V6imtU) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Alicia](https://open.spotify.com/album/432DNp3pn1tToQICuJOWRS) | 2:31 | 2022-02-17 | 2022-05-06 |
 | [ALKEMISTEN II](https://open.spotify.com/track/1MpRQf9FWrhSxr2ncSb6uY) | [ALAWIE](https://open.spotify.com/artist/6onlMsHiL5KuuYtnwsu8xN), [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd), [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [ALKEMISTEN II](https://open.spotify.com/album/7MBHfiIxN6vxcfXQrQe2sY) | 3:09 | 2022-07-14 | 2022-08-12 |

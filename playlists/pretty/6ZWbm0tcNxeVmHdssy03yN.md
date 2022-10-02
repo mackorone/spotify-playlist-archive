@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,174 likes - 102 songs - 5 hr 25 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,177 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 17 | [BAD GUY GOOD GIRL](https://open.spotify.com/track/3uZu8bMGD7lThN6FpB6fH2) | [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [Lil Nafy](https://open.spotify.com/artist/1dwSEaXiwO5ggqNXQuReTS) | [BAD GUY GOOD GIRL](https://open.spotify.com/album/4hov1aXBqImv8EavfjQ4ys) | 2:30 |
 | 18 | [PINK SKIES](https://open.spotify.com/track/0SLDRQCWloo7cjJjTUFcT0) | [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8) | [PINK SKIES](https://open.spotify.com/album/5FzhY0cZYN1GGfOndrMI9H) | 4:22 |
 | 19 | [Modales](https://open.spotify.com/track/1BR0JwdpK5GVYAXc3yaaPR) | [Jader Mantilla](https://open.spotify.com/artist/3ok6Is9hlTaZszhCaPEQv6) | [Modales](https://open.spotify.com/album/4OEsPh7dDpOujK5X7CQatn) | 2:49 |
-| 20 | [Alta Magia \- Reversión "10 años"](https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Alta Magia](https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl) | 5:57 |
+| 20 | [Alta Magia \- Reversión "10 años"](https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Alta Magia \(Reversión "10 años"\)](https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl) | 5:57 |
 | 21 | [They Don't Know](https://open.spotify.com/track/2mYZX1Bk71J6hfypIESeew) | [HitMan](https://open.spotify.com/artist/5VHXV84wckS4wkzzPvSfqa), [DA](https://open.spotify.com/artist/2hPnjZntqhWewbJQeyikz2) | [They Don't Know](https://open.spotify.com/album/6j8NT9gdO9NXfdM0WQnoHq) | 2:58 |
 | 22 | [Karma](https://open.spotify.com/track/5UAXNSCljrUKMnDpVM1kHb) | [Souland](https://open.spotify.com/artist/5jCnNbkuvwf3Loq7qOttcj), [Kaze401](https://open.spotify.com/artist/0QQwVEv75qB0BhMNY9Uqag) | [Karma](https://open.spotify.com/album/6MF4NRQ46kSsFK4psErpF2) | 2:41 |
 | 23 | [Perdamos los Modales](https://open.spotify.com/track/63mXiGbCIRotf92TQdP5FM) | [Yina Rose](https://open.spotify.com/artist/26rJDvsSFAwubgxSpsz5Ba), [Pipe Calderón](https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w) | [Perdamos los Modales](https://open.spotify.com/album/4F1iudB3SkM2OCM6j7pbne) | 2:41 |

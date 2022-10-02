@@ -1,12 +1,12 @@
 {
   "description": "Chill indie soul that's highkey fire ",
-  "num_followers": 798470,
+  "num_followers": 798758,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4MjI4MCwwMDAwMDAwMGUxZTUwM2Y4NTNiYmFhMTE2NzhhNzE5YmRjMTNkZmRj",
+  "snapshot_id": "MTY2NDQ4MjI4MCwwMDAwMDAwMDllYTk4MjkzMTYxYzE1MjIyYzg1YWM2MGM0MjZhN2I4",
   "tracks": [
     {
       "added_at": "2022-09-29 20:11:20",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-09-29 20:11:20",
       "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 260732,
+      "name": "Connaissais de Face",
+      "url": "https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW"
+    },
+    {
+      "added_at": "2022-09-29 20:11:20",
+      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2022-09-29 20:11:20",
-      "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 260732,
-      "name": "Connaissais de Face",
-      "url": "https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW"
     },
     {
       "added_at": "2022-09-29 20:11:20",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-09-29 20:11:20",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 344680,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
-    },
-    {
-      "added_at": "2022-09-29 20:11:20",
-      "album": {
         "name": "Flight 99",
         "url": "https://open.spotify.com/album/45IpQ6F0GYcas0yFGMzvac"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 167142,
       "name": "Flight 99",
       "url": "https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D"
+    },
+    {
+      "added_at": "2022-09-29 20:11:20",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 344680,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
     },
     {
       "added_at": "2022-09-29 20:11:20",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-09-29 20:11:20",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Two Worlds Apart",
-      "url": "https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO"
-    },
-    {
-      "added_at": "2022-09-29 20:11:20",
-      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 203716,
       "name": "Khala My Friend",
       "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
+    },
+    {
+      "added_at": "2022-09-29 20:11:20",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Two Worlds Apart",
+      "url": "https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO"
     },
     {
       "added_at": "2022-09-29 20:11:20",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-09-29 20:11:20",
       "album": {
-        "name": "Negro Swan",
-        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Orlando",
-      "url": "https://open.spotify.com/track/1H8BKN1WYV6AW1kghI3ldP"
-    },
-    {
-      "added_at": "2022-09-29 20:11:20",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 237049,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi"
+    },
+    {
+      "added_at": "2022-09-29 20:11:20",
+      "album": {
+        "name": "Negro Swan",
+        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Orlando",
+      "url": "https://open.spotify.com/track/1H8BKN1WYV6AW1kghI3ldP"
     },
     {
       "added_at": "2022-09-29 20:11:20",
@@ -1063,6 +1063,34 @@
     {
       "added_at": "2022-09-29 20:11:20",
       "album": {
+        "name": "telefone",
+        "url": "https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "Shadow Man",
+      "url": "https://open.spotify.com/track/5RZ9Tlmiy9NioldpMCZvaN"
+    },
+    {
+      "added_at": "2022-09-29 20:11:20",
+      "album": {
         "name": "Travel Light",
         "url": "https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y"
       },
@@ -1111,34 +1139,6 @@
     {
       "added_at": "2022-09-29 20:11:20",
       "album": {
-        "name": "telefone",
-        "url": "https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Phoelix",
-          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Shadow Man",
-      "url": "https://open.spotify.com/track/5RZ9Tlmiy9NioldpMCZvaN"
-    },
-    {
-      "added_at": "2022-09-29 20:11:20",
-      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 225541,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/02adJbZO7bHXJjboTwph45"
-    },
-    {
-      "added_at": "2022-09-29 20:11:20",
-      "album": {
-        "name": "You're Too Precious",
-        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 223900,
-      "name": "You're Too Precious",
-      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
     },
     {
       "added_at": "2022-09-29 20:11:20",
@@ -1187,6 +1171,22 @@
       "duration_ms": 137647,
       "name": "Golden pt. 2 (feat. Mereba)",
       "url": "https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz"
+    },
+    {
+      "added_at": "2022-09-29 20:11:20",
+      "album": {
+        "name": "You're Too Precious",
+        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 223900,
+      "name": "You're Too Precious",
+      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
     },
     {
       "added_at": "2022-09-29 20:11:20",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-09-29 20:11:20",
       "album": {
-        "name": "Demos",
-        "url": "https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 237405,
-      "name": "Drifty",
-      "url": "https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d"
-    },
-    {
-      "added_at": "2022-09-29 20:11:20",
-      "album": {
         "name": "No Romance",
         "url": "https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 237235,
       "name": "No Romance",
       "url": "https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC"
+    },
+    {
+      "added_at": "2022-09-29 20:11:20",
+      "album": {
+        "name": "Demos",
+        "url": "https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 237405,
+      "name": "Drifty",
+      "url": "https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d"
     },
     {
       "added_at": "2022-09-29 20:11:20",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-09-29 20:11:20",
       "album": {
-        "name": "I Miss My Dawgs",
-        "url": "https://open.spotify.com/album/0sUDfuTYoVshMqFstFSrNz"
-      },
-      "artists": [
-        {
-          "name": "Simpson",
-          "url": "https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow"
-        }
-      ],
-      "duration_ms": 142471,
-      "name": "I Miss My Dawgs",
-      "url": "https://open.spotify.com/track/1nkWeF77qk4RkLpn4omPWL"
-    },
-    {
-      "added_at": "2022-09-29 20:11:20",
-      "album": {
         "name": "Table for Two",
         "url": "https://open.spotify.com/album/2n5GM1tmlT3LwTicApBbUG"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 207250,
       "name": "Table for Two",
       "url": "https://open.spotify.com/track/4QcoLNjHgwDIoMvKeIm6aK"
+    },
+    {
+      "added_at": "2022-09-29 20:11:20",
+      "album": {
+        "name": "I Miss My Dawgs",
+        "url": "https://open.spotify.com/album/0sUDfuTYoVshMqFstFSrNz"
+      },
+      "artists": [
+        {
+          "name": "Simpson",
+          "url": "https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow"
+        }
+      ],
+      "duration_ms": 142471,
+      "name": "I Miss My Dawgs",
+      "url": "https://open.spotify.com/track/1nkWeF77qk4RkLpn4omPWL"
     },
     {
       "added_at": "2022-09-29 20:11:20",

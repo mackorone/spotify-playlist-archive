@@ -4,7 +4,7 @@
 
 > Afro culture mixed with Arab vibes\. Cover: Ali Loka.
 
-63 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
+64 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Choukran](https://open.spotify.com/track/1enHUv9ixGD38Tw2lmPxZU) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Choukran](https://open.spotify.com/album/5AjLG2qjqLjgv7UsLqRRXc) | 2:31 | 2022-06-29 |  |
 | [Daba Dor Lyam](https://open.spotify.com/track/6buWpyhPbG548hIFSLWl6f) | [Imin](https://open.spotify.com/artist/0z8woBkNEdy6w2mCIJBgrM) | [Daba Dor Lyam](https://open.spotify.com/album/4aAxNTyg1941owSY3NCwXk) | 3:42 | 2022-06-29 |  |
 | [Echemaa](https://open.spotify.com/track/075F2mbaWG6dXTHnGrOmJN) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Echemaa](https://open.spotify.com/album/3iEzpL3Lai1W721FnAS3Ej) | 2:24 | 2022-06-29 | 2022-07-29 |
-| [Echemaa](https://open.spotify.com/track/2266ieCC5PgwRahqshFzz5) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Echemaa](https://open.spotify.com/album/1yC4Mvqmh8WqnYoe8aelUN) | 2:24 | 2022-06-29 |  |
+| [Echemaa](https://open.spotify.com/track/2266ieCC5PgwRahqshFzz5) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Echemaa](https://open.spotify.com/album/1yC4Mvqmh8WqnYoe8aelUN) | 2:24 | 2022-06-29 | 2022-10-02 |
+| [Echemaa](https://open.spotify.com/track/779HmAwLrCbbPGQXaVXUsZ) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Echemaa](https://open.spotify.com/album/1M3mHlbXyEAwS3ygFxRDhS) | 2:24 | 2022-07-29 |  |
 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 | 2022-06-29 |  |
 | [El Madi](https://open.spotify.com/track/2nqE5xiKvAJgfKzDlA7Fk5) | [Yazan Elsaeed](https://open.spotify.com/artist/7a6aLOJH8iBCd0JSH78F4k), [Mr Choco](https://open.spotify.com/artist/6Gm8ZCNMGwbLcM5snYUr5v) | [El Madi](https://open.spotify.com/album/1vBQ92dp5JxEDDlckKfvRk) | 3:33 | 2022-06-29 |  |
 | [Filamén](https://open.spotify.com/track/2jz4XbBHonx48cyTgvcBt5) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Filamén](https://open.spotify.com/album/7sWnujOhwvK7E3o4Xgay9l) | 4:41 | 2022-06-29 |  |

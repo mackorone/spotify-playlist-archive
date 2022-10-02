@@ -1891,7 +1891,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 124800,
       "name": "Fusion",
       "url": "https://open.spotify.com/track/2pwpYFxW0Hya0aIYFTXRIN"
@@ -4135,6 +4135,28 @@
       "duration_ms": 216000,
       "name": "Solastalgia",
       "url": "https://open.spotify.com/track/3MpqvGAioZvFXQBkXuyjp6"
+    },
+    {
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/66SfUtpfmIJQ5ntfPUlqKE"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208551,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/5bYBWSSkQF9QO0vSAbK3Cm"
     },
     {
       "album": {

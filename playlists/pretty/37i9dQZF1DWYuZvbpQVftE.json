@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 11219,
+  "num_followers": 11242,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMxNTg2NCwwMDAwMDAwMDBmNjE1ODlmNmRhNTY4Y2E5NTllZDBmOTk5OGM3ODM5",
+  "snapshot_id": "MTY2MzMxNTg2NCwwMDAwMDAwMDNkZTM1OGNjODNmZTAyYTczN2MzZTRkZTFlZmUwYmVj",
   "tracks": [
     {
       "added_at": "2022-09-16 08:11:04",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-09-16 08:11:04",
       "album": {
+        "name": "Harold In The Land Of Jazz",
+        "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
+      },
+      "artists": [
+        {
+          "name": "Harold Land",
+          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
+        }
+      ],
+      "duration_ms": 426533,
+      "name": "Grooveyard",
+      "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
+    },
+    {
+      "added_at": "2022-09-16 08:11:04",
+      "album": {
         "name": "The Ivory Hunters",
         "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
       },
@@ -183,26 +199,6 @@
       "duration_ms": 446066,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
-    },
-    {
-      "added_at": "2022-09-16 08:11:04",
-      "album": {
-        "name": "Stan Getz And J.J. Johnson At The Opera House (Live / 1957)",
-        "url": "https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "J.J. Johnson",
-          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
-        }
-      ],
-      "duration_ms": 508093,
-      "name": "My Funny Valentine - Live At The Shrine Auditorium, Los Angeles / 1957",
-      "url": "https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa"
     },
     {
       "added_at": "2022-09-16 08:11:04",
@@ -243,18 +239,22 @@
     {
       "added_at": "2022-09-16 08:11:04",
       "album": {
-        "name": "Harold In The Land Of Jazz",
-        "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
+        "name": "Stan Getz And J.J. Johnson At The Opera House (Live / 1957)",
+        "url": "https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm"
       },
       "artists": [
         {
-          "name": "Harold Land",
-          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "J.J. Johnson",
+          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
         }
       ],
-      "duration_ms": 426533,
-      "name": "Grooveyard",
-      "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
+      "duration_ms": 508093,
+      "name": "My Funny Valentine - Live At The Shrine Auditorium, Los Angeles / 1957",
+      "url": "https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa"
     },
     {
       "added_at": "2022-09-16 08:11:04",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-09-16 08:11:04",
       "album": {
-        "name": "Jimmy Raney Featuring Bob Brookmeyer",
-        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Raney",
-          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
-        },
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "Isn't It Romantic",
-      "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
-    },
-    {
-      "added_at": "2022-09-16 08:11:04",
-      "album": {
         "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
         "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 225906,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
+    },
+    {
+      "added_at": "2022-09-16 08:11:04",
+      "album": {
+        "name": "Jimmy Raney Featuring Bob Brookmeyer",
+        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Raney",
+          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Isn't It Romantic",
+      "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
     },
     {
       "added_at": "2022-09-16 08:11:04",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-09-16 08:11:04",
       "album": {
+        "name": "Chico Hamilton Quintet In Hi-Fi",
+        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
+      },
+      "artists": [
+        {
+          "name": "Chico Hamilton Quintet",
+          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "The Wind",
+      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
+    },
+    {
+      "added_at": "2022-09-16 08:11:04",
+      "album": {
         "name": "Westward Bound! (Live)",
         "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 518000,
       "name": "Happily Dancing / Deep Harmonies Falling - Live",
       "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
-    },
-    {
-      "added_at": "2022-09-16 08:11:04",
-      "album": {
-        "name": "Chico Hamilton Quintet In Hi-Fi",
-        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton Quintet",
-          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "The Wind",
-      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
     },
     {
       "added_at": "2022-09-16 08:11:04",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-09-16 08:11:04",
       "album": {
-        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
-        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
-      },
-      "artists": [
-        {
-          "name": "Jay Johnson's Boppers",
-          "url": "https://open.spotify.com/artist/3cUTizP3cVCrJ0AxUX0B60"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Elora - Take 1",
-      "url": "https://open.spotify.com/track/2zt99thBhPU53vIw6bwkI6"
-    },
-    {
-      "added_at": "2022-09-16 08:11:04",
-      "album": {
         "name": "Jazz Loves Paris",
         "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 146306,
       "name": "Pigalle",
       "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
+    },
+    {
+      "added_at": "2022-09-16 08:11:04",
+      "album": {
+        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
+        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
+      },
+      "artists": [
+        {
+          "name": "Jay Johnson's Boppers",
+          "url": "https://open.spotify.com/artist/3cUTizP3cVCrJ0AxUX0B60"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Elora - Take 1",
+      "url": "https://open.spotify.com/track/2zt99thBhPU53vIw6bwkI6"
     },
     {
       "added_at": "2022-09-16 08:11:04",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-09-16 08:11:04",
       "album": {
+        "name": "Playboys",
+        "url": "https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker and Art Pepper",
+          "url": "https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU"
+        }
+      ],
+      "duration_ms": 344239,
+      "name": "Resonant Emotions",
+      "url": "https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA"
+    },
+    {
+      "added_at": "2022-09-16 08:11:04",
+      "album": {
         "name": "The Quartet and the Quintet",
         "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 410800,
       "name": "Brandenburg Gate",
       "url": "https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X"
-    },
-    {
-      "added_at": "2022-09-16 08:11:04",
-      "album": {
-        "name": "Playboys",
-        "url": "https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker and Art Pepper",
-          "url": "https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU"
-        }
-      ],
-      "duration_ms": 344239,
-      "name": "Resonant Emotions",
-      "url": "https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA"
     },
     {
       "added_at": "2022-09-16 08:11:04",

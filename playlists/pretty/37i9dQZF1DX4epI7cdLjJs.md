@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4epI7cdLjJs.md) - [plain]
 
 > Enjoy the soundtrack of Business Proposal! \(드라마 사내 맞선의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,736 likes - 35 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,854 likes - 35 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

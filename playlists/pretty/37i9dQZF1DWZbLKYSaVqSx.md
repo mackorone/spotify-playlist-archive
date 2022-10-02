@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbLKYSaVqSx.md) - [plain]
 
 > The twins <a href=“spotify:artist:0Adbm5kzcPUxFybf9fhjgG”>Coco & Breezy</a> showcase a high\-energy House Music set that will for sure get you dancing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272 likes - 25 songs - 57 min 49 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,289 likes - 25 songs - 57 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

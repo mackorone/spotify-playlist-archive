@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > Make your wedding ceremony the most memorable one\. Perfect for vows, bride entrance, reception dinner, the first dance and the wedding party\. Get inspired with <a href="https://www.weddingchicks.com/.">WEDDING CHICKS.</a>
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 84,130 likes - 100 songs - 6 hr 3 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 84,227 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

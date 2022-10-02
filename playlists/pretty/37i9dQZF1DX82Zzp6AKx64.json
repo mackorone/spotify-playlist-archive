@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Meat Loaf\n",
-  "num_followers": 1063909,
+  "num_followers": 1064123,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxMDE4MywwMDAwMDAwMDcyNjlhYTkzZjQxZTk2OTMyY2IzZjllZjVkYWIyM2Yy",
+  "snapshot_id": "MTY2MzAxMDE4MywwMDAwMDAwMDlkNTk4MDAxYjc3YmYzNTZjOTZmNjZmY2UwY2ZiMmQ0",
   "tracks": [
     {
       "added_at": "2022-09-12 19:16:23",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Agent Provocateur",
-        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 304786,
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Crazy World",
         "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 312360,
       "name": "Wind Of Change",
       "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Agent Provocateur",
+        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 304786,
+      "name": "I Want to Know What Love Is - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 292066,
+      "name": "Waiting for a Girl like You",
+      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
         "name": "Bat Out Of Hell",
         "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 272133,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 292066,
-      "name": "Waiting for a Girl like You",
-      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -379,7 +379,7 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Theatre of Pain",
+        "name": "Theatre of Pain (2021 - Remaster)",
         "url": "https://open.spotify.com/album/4ns4vxdkk4PdkneLNfJL52"
       },
       "artists": [
@@ -1039,23 +1039,7 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Harem Scarem",
-        "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
-      },
-      "artists": [
-        {
-          "name": "Harem Scarem",
-          "url": "https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Dr. Feelgood",
+        "name": "Dr. Feelgood (2021 - Remaster)",
         "url": "https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2"
       },
       "artists": [
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Vital Signs",
-        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
+        "name": "Harem Scarem",
+        "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
       },
       "artists": [
         {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+          "name": "Harem Scarem",
+          "url": "https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va"
         }
       ],
-      "duration_ms": 252613,
-      "name": "The Search Is Over",
-      "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
+      "duration_ms": 242293,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "The Search Is Over",
+      "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
         "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 214373,
       "name": "I Won't Forget You - Remastered",
       "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Mass Slaughter",
-        "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
-      },
-      "artists": [
-        {
-          "name": "Slaughter",
-          "url": "https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Fly To The Angels",
-      "url": "https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
+        "name": "Mass Slaughter",
+        "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
+      },
+      "artists": [
+        {
+          "name": "Slaughter",
+          "url": "https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Fly To The Angels",
+      "url": "https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Dr. Feelgood",
-        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 344613,
       "name": "House of Pain",
       "url": "https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Vital Signs",
-        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "I Can't Hold Back",
-      "url": "https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "The Lizard",
         "url": "https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 264173,
       "name": "Love Is on the Way",
       "url": "https://open.spotify.com/track/3F3n2V9XBrtb1omqLfcNPe"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "I Can't Hold Back",
+      "url": "https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Good Acoustics",
-        "url": "https://open.spotify.com/album/6Ee7BhLDpdOuMuPaJzTJVf"
-      },
-      "artists": [
-        {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "I Live My Life for You",
-      "url": "https://open.spotify.com/track/4vHp893kV7HksfB5FN1Nk5"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Steelheart",
         "url": "https://open.spotify.com/album/3jUqHgt6rAFx1D7Ck6Q5hw"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 306560,
       "name": "I'll Never Let You Go",
       "url": "https://open.spotify.com/track/2GeCfHlX5hfFKcy1aICNwR"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Good Acoustics",
+        "url": "https://open.spotify.com/album/6Ee7BhLDpdOuMuPaJzTJVf"
+      },
+      "artists": [
+        {
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "I Live My Life for You",
+      "url": "https://open.spotify.com/track/4vHp893kV7HksfB5FN1Nk5"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Big Ones",
-        "url": "https://open.spotify.com/album/5IYNDR7BraRrltWJLefkuV"
-      },
-      "artists": [
-        {
-          "name": "Loverboy",
-          "url": "https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Heaven in Your Eyes",
-      "url": "https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Straight Between The Eyes",
         "url": "https://open.spotify.com/album/2TjkjpMXM0fsgmmVjmxNmI"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 317306,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/7HXYoe65kmrPrJR1r0DGtW"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/5IYNDR7BraRrltWJLefkuV"
+      },
+      "artists": [
+        {
+          "name": "Loverboy",
+          "url": "https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Heaven in Your Eyes",
+      "url": "https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe"
     },
     {
       "added_at": "2022-09-12 19:16:23",

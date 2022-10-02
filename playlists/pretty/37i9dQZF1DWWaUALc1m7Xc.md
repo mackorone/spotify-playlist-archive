@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWaUALc1m7Xc.md) - [plain]
 
 > Enjoy the OSTs of Disney+'s original drama "Kiss Sixth Sense" along with Spotify\-exclusive audio content\. \(디즈니+의 오리지널 드라마 "키스 식스 센스"의 OST들을 스포티파이 독점 오디오 컨텐츠와 함께 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,322 likes - 52 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330 likes - 52 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

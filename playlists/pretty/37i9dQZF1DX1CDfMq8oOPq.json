@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Mc Luanna",
-  "num_followers": 21761,
+  "num_followers": 21785,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjg2MCwwMDAwMDAwMGNhOWFmYTc2Yzk3NjYzZTI3YjA2NGMzYTBmOTIxMzRk",
+  "snapshot_id": "MTY2NDUwNjg2MCwwMDAwMDAwMDk4YjI2ZjcyZGI1NGNmYjFjOTFmMDBiZWU0YmQzOTYw",
   "tracks": [
     {
       "added_at": "2022-09-30 03:01:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-09-30 03:01:00",
       "album": {
+        "name": "Ashley Banks",
+        "url": "https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        }
+      ],
+      "duration_ms": 208264,
+      "name": "Ashley Banks",
+      "url": "https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x"
+    },
+    {
+      "added_at": "2022-09-30 03:01:00",
+      "album": {
         "name": "Euro",
         "url": "https://open.spotify.com/album/6hrAJ2kTg8D9HlxyLAf29O"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 217114,
       "name": "Euro",
       "url": "https://open.spotify.com/track/2wWxjsBUYA4DjzWEPNyiCG"
-    },
-    {
-      "added_at": "2022-09-30 03:01:00",
-      "album": {
-        "name": "Ashley Banks",
-        "url": "https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY"
-      },
-      "artists": [
-        {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        }
-      ],
-      "duration_ms": 208264,
-      "name": "Ashley Banks",
-      "url": "https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x"
     },
     {
       "added_at": "2022-09-30 03:01:00",

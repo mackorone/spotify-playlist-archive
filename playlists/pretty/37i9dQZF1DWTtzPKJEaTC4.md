@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:5LkbTSqXfMBjFSGi9LOGjq">Samara Joy</a> shares her jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,509 likes - 33 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,582 likes - 33 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

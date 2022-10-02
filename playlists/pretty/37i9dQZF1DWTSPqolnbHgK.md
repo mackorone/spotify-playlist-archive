@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSPqolnbHgK.md) - [plain]
 
 > With autumn comes darker days and colder weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,046 likes - 134 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,056 likes - 134 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

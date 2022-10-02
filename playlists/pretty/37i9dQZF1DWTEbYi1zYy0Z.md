@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Kim Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,541 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,596 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 38 | [Stride](https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg) | [Eric Essix](https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp) | [Stride](https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF) | 4:14 |
 | 39 | [Relentless](https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [Red Tiger](https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV) | 4:09 |
 | 40 | [Feet First](https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Feet First](https://open.spotify.com/album/7wPrYwfDcF2vPw429fnuC0) | 4:00 |
-| 41 | [Radio Vibe \- radio single](https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9), [Jeanette Harris](https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn) | [Radio Vibe](https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq) | 4:09 |
-| 42 | [SHINE!](https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [SHINE!](https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt) | 4:21 |
-| 43 | [Way Maker](https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol) | [Uriel Vega](https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg) | [Simply Worship](https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9) | 4:09 |
-| 44 | [Driving All Night](https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz) | [Igor Gerzina](https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW) | [Driving All Night](https://open.spotify.com/album/19kgqKAGo9ELEpX9hw3hBz) | 3:30 |
-| 45 | [Dig It](https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Blue](https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk) | 3:36 |
+| 41 | [One More Night \- Single Edit](https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [One More Night](https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve) | 3:47 |
+| 42 | [Radio Vibe \- radio single](https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9), [Jeanette Harris](https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn) | [Radio Vibe](https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq) | 4:09 |
+| 43 | [SHINE!](https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [SHINE!](https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt) | 4:21 |
+| 44 | [Way Maker](https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol) | [Uriel Vega](https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg) | [Simply Worship](https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9) | 4:09 |
+| 45 | [Driving All Night](https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz) | [Igor Gerzina](https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW) | [Driving All Night](https://open.spotify.com/album/19kgqKAGo9ELEpX9hw3hBz) | 3:30 |
 | 46 | [Pioneer Town](https://open.spotify.com/track/53djpTONT01aF8xYjuLosr) | [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) | [A Midnight Rendezvous](https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x) | 3:57 |
-| 47 | [Fika Talk](https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U) | [WaKaNa](https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6), [Jonathan Fritzén](https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM) | [A Sunny Day](https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA) | 4:15 |
+| 47 | [Dig It](https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Blue](https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk) | 3:36 |
 | 48 | [Busta Move](https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [SOLO](https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA) | 4:34 |
-| 49 | [Ticket to Pittsburgh](https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh](https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7) | 5:23 |
-| 50 | [Soul to Soul \- 2022 Version](https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7) | [Christophe Goze](https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H) | [Soul to Soul](https://open.spotify.com/album/2FSxMIU0mbvZKmTBAZ99WJ) | 3:48 |
+| 49 | [Soul to Soul \- 2022 Version](https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7) | [Christophe Goze](https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H) | [Soul to Soul](https://open.spotify.com/album/2FSxMIU0mbvZKmTBAZ99WJ) | 3:48 |
+| 50 | [Fika Talk](https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U) | [WaKaNa](https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6), [Jonathan Fritzén](https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM) | [A Sunny Day](https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA) | 4:15 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGMzYWNhMjYzNmE4NjVkZmVhNDRhYTNlNTFhOTg3Zjc4`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGU1NDJjYmVkODY5OWM2OGYyZTg5Njk1YjM1ZGEyNjFj`

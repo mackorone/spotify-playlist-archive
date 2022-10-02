@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 
 > Remembering the voices that have always spoken truth to power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,082 likes - 41 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,080 likes - 41 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

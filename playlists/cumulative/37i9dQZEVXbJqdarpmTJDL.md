@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-881 songs - 1 day 23 hr 45 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+882 songs - 1 day 23 hr 47 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [El Diablo](https://open.spotify.com/track/5qqQgao22OUr6rx3y0TPIe) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/4qtyEsRH9iNX3eDcYpeQzB) | 3:01 | 2021-05-15 | 2021-05-30 |
 | [El Telephone](https://open.spotify.com/track/1zB8iM97STLlKaweWhtasO) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Bobito](https://open.spotify.com/artist/7Ktyjh9YMAD3YZYF7pyHdm), [Ayman](https://open.spotify.com/artist/6ONMIIeGOgkflffHvKLe0M) | [Poli\_Ploki](https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8) | 2:50 | 2022-06-04 |  |
 | [Ela](https://open.spotify.com/track/4kvL0qtl0uMwiHHgSGAgJl) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Ela](https://open.spotify.com/album/6yLTAu9P2FW7uwTzchu1Xx) | 3:02 | 2022-05-14 | 2022-05-26 |
+| [Ela](https://open.spotify.com/track/2tq1vcOwuhgSuq1QEdLKjz) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Ela](https://open.spotify.com/album/1xyE4skUerB28nPaohhMix) | 2:48 | 2022-10-01 |  |
 | [Ela Edw](https://open.spotify.com/track/0BBeMXI4OZurorIXqIxdD6) | [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Nina](https://open.spotify.com/artist/5FZQ1UyAFUGEPIvd00VUvr) | [STATUS](https://open.spotify.com/album/3o4jrfejp2xzBi41YSwMrP) | 3:07 | 2022-06-25 | 2022-06-27 |
 | [ELA PARTO](https://open.spotify.com/track/1VYv1xH7yUl0b43UVR6yA9) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Dj The Boy](https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj) | [Tsigara Sta Valkania](https://open.spotify.com/album/7kdCFhlocESWDQFecZ9wny) | 3:29 | 2021-03-27\* | 2021-05-18 |
 | [Eleftheroi Skopeftes](https://open.spotify.com/track/4kgjEZRIph5UwXf5aLQwmj) | [Buzz](https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5), [Zoro&Buzz](https://open.spotify.com/artist/1lqh5puCZTMsGJalV8Rjbe) | [Leoforos Kavalas](https://open.spotify.com/album/2CCVbJTChTnS4B1oJpQ75X) | 5:05 | 2021-04-04 | 2021-04-05 |
@@ -296,7 +297,7 @@
 | [Funky](https://open.spotify.com/track/45tKbJjhOIrURcjLNfjLye) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Funky](https://open.spotify.com/album/469ap8yEmPY7sRdzZjSuJ8) | 4:15 | 2021-07-11 | 2022-01-23 |
 | [Gagarin](https://open.spotify.com/track/5gz9B1DrDGgwrU8PKn4NoX) | [Ypo](https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV) | [To Paidi Tou Dromou 2](https://open.spotify.com/album/1OyYx0iiu2erp8ptykpPDl) | 3:03 | 2022-01-18 | 2022-01-20 |
 | [Gangsta Party](https://open.spotify.com/track/4QFwY4j7vMLMH9K2igX7Km) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 5:04 | 2022-02-26 | 2022-05-31 |
-| [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 |  |
+| [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-02 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-14 |
 | [Geia Sou](https://open.spotify.com/track/6dpGIUTsj7yZGhrnhccX27) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Geia Sou](https://open.spotify.com/album/54GfyTFSUeGztQc7EoWEsm) | 2:28 | 2022-05-11 | 2022-05-13 |
 | [Genius \(feat\. Lil Tjay & Swae Lee\)](https://open.spotify.com/track/0kNYrbMehFxp1eleTwUjkP) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:28 | 2021-07-18 | 2021-07-19 |

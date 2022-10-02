@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 6497,
+  "num_followers": 6508,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUyMDU3MywwMDAwMDAwMDY3MDkwMWYwNWQxMjRhMjNiYjg5ODIyOGNjMDZlNDdk",
+  "snapshot_id": "MTY2NDUyMDU3MywwMDAwMDAwMGMyYjIwNTIzYWE0ZGRkOTU5YjQ2YTZmODU1MjFlN2E3",
   "tracks": [
     {
       "added_at": "2022-08-26 13:01:27",
@@ -341,58 +341,6 @@
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
-      "added_at": "2022-05-12 23:00:00",
-      "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "Usenemali",
-        "url": "https://open.spotify.com/album/00YNcknmNuCikd80YChjlV"
-      },
-      "artists": [
-        {
-          "name": "031CHOPPA",
-          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
-        },
-        {
-          "name": "Madumane",
-          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Xduppy",
-          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
-        },
-        {
-          "name": "Kingtone",
-          "url": "https://open.spotify.com/artist/7fFTOKl46UbEvewIR3e6Dx"
-        }
-      ],
-      "duration_ms": 347312,
-      "name": "Usenemali",
-      "url": "https://open.spotify.com/track/3KnHZwV1StOTvtHwpK2gK1"
-    },
-    {
       "added_at": "2022-06-23 23:00:00",
       "album": {
         "name": "Big Flexa",
@@ -427,6 +375,58 @@
       "duration_ms": 327079,
       "name": "Big Flexa",
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Usenemali",
+        "url": "https://open.spotify.com/album/00YNcknmNuCikd80YChjlV"
+      },
+      "artists": [
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Kingtone",
+          "url": "https://open.spotify.com/artist/7fFTOKl46UbEvewIR3e6Dx"
+        }
+      ],
+      "duration_ms": 347312,
+      "name": "Usenemali",
+      "url": "https://open.spotify.com/track/3KnHZwV1StOTvtHwpK2gK1"
+    },
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
     },
     {
-      "added_at": "2022-08-12 05:43:18",
-      "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb"
-    },
-    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "Mufasa",
@@ -779,6 +763,22 @@
       "duration_ms": 171724,
       "name": "Mufasa",
       "url": "https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "Polongo",
+        "url": "https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa"
+      },
+      "artists": [
+        {
+          "name": "Olakira",
+          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Polongo",
+      "url": "https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4"
     },
     {
       "added_at": "2022-02-17 23:00:00",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
+      "added_at": "2022-08-12 05:43:18",
       "album": {
-        "name": "Polongo",
-        "url": "https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa"
+        "name": "Para",
+        "url": "https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE"
       },
       "artists": [
         {
-          "name": "Olakira",
-          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 173076,
-      "name": "Polongo",
-      "url": "https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4"
+      "duration_ms": 180062,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb"
     },
     {
       "added_at": "2021-02-22 19:09:57",
@@ -965,6 +965,46 @@
       "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
     },
     {
+      "added_at": "2022-08-08 04:43:58",
+      "album": {
+        "name": "Machala",
+        "url": "https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr"
+      },
+      "artists": [
+        {
+          "name": "Carterefe",
+          "url": "https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n"
+        },
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "duration_ms": 154565,
+      "name": "Machala",
+      "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
+    },
+    {
+      "added_at": "2022-04-07 23:00:00",
+      "album": {
+        "name": "My Man",
+        "url": "https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "My Man",
+      "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
+    },
+    {
       "added_at": "2022-03-24 23:00:00",
       "album": {
         "name": "Banyana Ke Bafana",
@@ -997,24 +1037,20 @@
       "url": "https://open.spotify.com/track/40KwdYRfKnTWTsXyxmR5bp"
     },
     {
-      "added_at": "2022-04-07 23:00:00",
+      "added_at": "2022-08-12 05:43:18",
       "album": {
-        "name": "My Man",
-        "url": "https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA"
+        "name": "Hypertension / Things I Need",
+        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
       },
       "artists": [
         {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        },
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
         }
       ],
-      "duration_ms": 218181,
-      "name": "My Man",
-      "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
+      "duration_ms": 197894,
+      "name": "Hypertension",
+      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
     },
     {
       "added_at": "2022-06-23 23:00:00",
@@ -1031,42 +1067,6 @@
       "duration_ms": 151926,
       "name": "Little (Love I Love)",
       "url": "https://open.spotify.com/track/6GUMUz1H9nIxo1UiEXYQS0"
-    },
-    {
-      "added_at": "2022-08-08 04:43:58",
-      "album": {
-        "name": "Machala",
-        "url": "https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr"
-      },
-      "artists": [
-        {
-          "name": "Carterefe",
-          "url": "https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n"
-        },
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        }
-      ],
-      "duration_ms": 154565,
-      "name": "Machala",
-      "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
-    },
-    {
-      "added_at": "2022-08-12 05:43:18",
-      "album": {
-        "name": "Hypertension / Things I Need",
-        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "Hypertension",
-      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
     },
     {
       "added_at": "2021-06-07 12:50:41",

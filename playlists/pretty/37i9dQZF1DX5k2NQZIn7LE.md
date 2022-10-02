@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Hadiqa Kiani
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,664 likes - 65 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,713 likes - 65 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

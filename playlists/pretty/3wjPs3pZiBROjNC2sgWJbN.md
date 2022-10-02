@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wjPs3pZiBROjNC2sgWJbN.md) - [plain]
 
 > A collection of R&amp;B jams and viral trends featuring Summer Walker, Muni Long &amp; FLO Updated weekly! Cover: Ari Lennox
 
-[Digster](https://open.spotify.com/user/digster.fm) - 8,058 likes - 50 songs - 2 hr 55 min
+[Digster](https://open.spotify.com/user/digster.fm) - 8,059 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 440053,
       "name": "Bueno y Fiel",
       "url": "https://open.spotify.com/track/0Ef4eWQf7AvVrf3idbCPsx"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 274161,
       "name": "Canto Danzo Salto",
       "url": "https://open.spotify.com/track/5FXALCzOPuLhX07GRnrooO"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 145760,
       "name": "Cuando Pienso (En Vivo)",
       "url": "https://open.spotify.com/track/0FMCuTrcs0ZmPjez4cIc34"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 145560,
       "name": "El Poderoso de Israel (En Vivo)",
       "url": "https://open.spotify.com/track/1I2KbwfhA7HoevQOVhh91O"
@@ -550,6 +550,28 @@
     },
     {
       "album": {
+        "name": "X SIEMPRE",
+        "url": "https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350421,
+      "name": "Jesucristo Basta",
+      "url": "https://open.spotify.com/track/3RzpMRn4SAcVkOPgFIr7ai"
+    },
+    {
+      "album": {
         "name": "J\u00fabilo",
         "url": "https://open.spotify.com/album/3NXtSFvCB1tv6cEBt4O9xo"
       },
@@ -623,7 +645,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 251826,
       "name": "Lev\u00e1ntate Guate",
       "url": "https://open.spotify.com/track/44jaI2hbNmBHAQXpreResb"
@@ -707,7 +729,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 357000,
       "name": "Me Basta Tu Palabra",
       "url": "https://open.spotify.com/track/057pumBKYToozI7AF5bNwP"
@@ -777,7 +799,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 591586,
       "name": "Mi Refugio",
       "url": "https://open.spotify.com/track/7aAWdWYyvNqhKH5cMS8IOh"
@@ -855,7 +877,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 613666,
       "name": "Mover Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1npfE6XYVD9lQKHobWkLrR"
@@ -1067,7 +1089,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 352941,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4b8RrQABoHbJWHCddCeAGp"
@@ -1085,7 +1107,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 278853,
       "name": "Tu Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/0HwxrfM2sNTlJREqqif50Y"
@@ -1271,7 +1293,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 468578,
       "name": "Yo Vencer\u00e9",
       "url": "https://open.spotify.com/track/6q8gNL44VMVDo4rx6wF8nC"

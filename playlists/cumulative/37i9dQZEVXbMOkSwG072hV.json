@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 251259,
       "name": "Baile de Favela - Remix",
       "url": "https://open.spotify.com/track/70v2lrNsFa38VeEEWKCjLP"
@@ -2815,7 +2815,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 172889,
       "name": "Com a Perereca na Minha Cara",
       "url": "https://open.spotify.com/track/6mhoi3W3FwBgvMb2fIfIsC"
@@ -5055,7 +5055,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/0e5UZadoZ5me957hKsxRYh"
@@ -6559,6 +6559,24 @@
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe"
+    },
+    {
+      "album": {
+        "name": "Lula L\u00e1 2022",
+        "url": "https://open.spotify.com/album/6UzlPDtPjiPU2ukr9pCf6M"
+      },
+      "artists": [
+        {
+          "name": "Esquerda Festiva",
+          "url": "https://open.spotify.com/artist/19kP8LcEBcxfaxKOW0URAK"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110137,
+      "name": "Lula L\u00e1 2022",
+      "url": "https://open.spotify.com/track/7b1P6Ut5ehjeXhJ6SiPTrf"
     },
     {
       "album": {

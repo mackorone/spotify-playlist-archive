@@ -786,6 +786,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265306,
+      "name": "Billy And The Kids",
+      "url": "https://open.spotify.com/track/7vAldmzJrI1td0TCCXOjt0"
+    },
+    {
+      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
@@ -3313,7 +3331,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 284920,
       "name": "I Am Your Robot - Remastered 2003",
       "url": "https://open.spotify.com/track/6xxA33oKDP3URcaeCzEawr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Aruma Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,070 likes - 59 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,076 likes - 59 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

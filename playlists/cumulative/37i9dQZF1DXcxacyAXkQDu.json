@@ -2021,6 +2021,24 @@
     {
       "album": {
         "name": "Come on Love",
+        "url": "https://open.spotify.com/album/0bKj9xIVBgyql7UW9qZZnL"
+      },
+      "artists": [
+        {
+          "name": "Elsmore Carey",
+          "url": "https://open.spotify.com/artist/5Q2wZO9HtA0UQPMCxQcHiu"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272174,
+      "name": "Come on Love",
+      "url": "https://open.spotify.com/track/35pLMarTq9RgZXcrw1z5xa"
+    },
+    {
+      "album": {
+        "name": "Come on Love",
         "url": "https://open.spotify.com/album/01Jbgb0oxCcRExGzB0H3B1"
       },
       "artists": [
@@ -4295,7 +4313,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 135443,
       "name": "Give It To You (from Songland)",
       "url": "https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov"

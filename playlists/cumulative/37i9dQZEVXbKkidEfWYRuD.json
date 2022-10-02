@@ -5495,7 +5495,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
@@ -9744,6 +9744,28 @@
     },
     {
       "album": {
+        "name": "\u0413\u043e\u043b\u043e\u0432\u0430",
+        "url": "https://open.spotify.com/album/2FcgyYSO2VjPhwMkWdTXBs"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0430\u043d\u0433\u0438",
+          "url": "https://open.spotify.com/artist/0R4IeWuUpTkmca5hnS0j6b"
+        },
+        {
+          "name": "Galust",
+          "url": "https://open.spotify.com/artist/5Vs6KuANIDHjEZbjlGOGZy"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "\u0413\u043e\u043b\u043e\u0432\u0430",
+      "url": "https://open.spotify.com/track/6NFRX7D4Dnh1dRUPstj3ij"
+    },
+    {
+      "album": {
         "name": "TXC",
         "url": "https://open.spotify.com/album/0bFcVSqwnBv4wIKPg74TjT"
       },
@@ -11439,7 +11461,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 120189,
       "name": "\u041a\u043e\u0445\u0430\u0439\u0442\u0435\u0441\u044f \u0427\u043e\u0440\u043d\u043e\u0431\u0440\u0438\u0432\u0456",
       "url": "https://open.spotify.com/track/5BvKkMNYoZYYeTGVFhjlRv"
@@ -12931,7 +12953,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 143493,
       "name": "\u041e\u0439 \u043d\u0430 \u043e\u0439",
       "url": "https://open.spotify.com/track/73HVRUpTeY48oFcc1RMfVs"
@@ -12949,7 +12971,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 142588,
       "name": "\u041e\u0419\u0414\u0410",
       "url": "https://open.spotify.com/track/0vLdm3rMRElZDkxtzDHepr"
@@ -14461,7 +14483,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 83076,
       "name": "\u0421\u043e\u0446\u0438\u0443\u043c",
       "url": "https://open.spotify.com/track/6KQz9Xgc82clHGWzGUA5xw"
@@ -15860,6 +15882,24 @@
     },
     {
       "album": {
+        "name": "\u041d\u0430\u0432\u043a\u043e\u043b\u043e",
+        "url": "https://open.spotify.com/album/6f7xYzkeCz8SB2xT7HTMvN"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158170,
+      "name": "\u0427\u0438 \u0440\u0430\u0437\u043e\u043c",
+      "url": "https://open.spotify.com/track/4LVrOvwpUuJFP2JsIGTptg"
+    },
+    {
+      "album": {
         "name": "\u0427\u0438 \u0440\u0430\u0437\u043e\u043c?",
         "url": "https://open.spotify.com/album/2Sz6c15TjlldLotq4jv3rd"
       },
@@ -15871,7 +15911,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 158170,
       "name": "\u0427\u0438 \u0440\u0430\u0437\u043e\u043c?",
       "url": "https://open.spotify.com/track/7IRfUFRIarTp8a8Yxa83Nl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,677 likes - 102 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,722 likes - 102 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 95 | [Life Is Good \(Feat\. Crush, DJ Friz\)](https://open.spotify.com/track/5Ajbredt2EjaNBJ3uqls6A) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [dj friz](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) | [LUCKYNUMBERS](https://open.spotify.com/album/4I0RE0MF6b3Hw4Z0iWosxF) | 4:54 |
 | 96 | [Clock Out \(Feat\. Jay Park, Crush\)](https://open.spotify.com/track/3rpVUtSmM78lWeJSMQLCSw) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Clock Out](https://open.spotify.com/album/6EGUu4CDVbPr0YAggnmVSG) | 3:49 |
 | 97 | [JAJAJA \(Feat\. Dynamic Duo, Crush\)](https://open.spotify.com/track/73ykl9w6imcwZzHerpr3UZ) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [YDG Series VOL.1 JAJAJA](https://open.spotify.com/album/48MgR9JfXENJEeAlErD0xG) | 3:42 |
-| 98 | [The Key](https://open.spotify.com/track/3WwccpehsAfh3FL85CFCpb) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [4 the Youth](https://open.spotify.com/album/4S4oCOWlvUSiYWwKBk7bbE) | 3:06 |
+| 98 | [The Key \(feat\. Crush\)](https://open.spotify.com/track/3WwccpehsAfh3FL85CFCpb) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [4 the Youth](https://open.spotify.com/album/4S4oCOWlvUSiYWwKBk7bbE) | 3:06 |
 | 99 | [Domino \(feat\. Crush\) \(Prod\. Crush, Gxxd\)](https://open.spotify.com/track/5IMS0D9wJu1U91O73sFqT1) | [1THE9](https://open.spotify.com/artist/6ZZafCTzyk1yjqEES63cMm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [XIX](https://open.spotify.com/album/1u6A9D6lnJ3RT1wRjVRueH) | 3:29 |
 | 100 | [highfiVe](https://open.spotify.com/track/406Ot9eId70MKTtSOjxepe) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Primary](https://open.spotify.com/artist/2nv1iHUnYCudHQxDUlglpx), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [highfiVe](https://open.spotify.com/album/1Sgh4Ol7jqp3s3E8KmGYRY) | 4:01 |
 | 101 | [Peace \(Prod\. By Cosmic Boy\) \(Feat\. Crush, Choi LB\)](https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [hightechnology](https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER) | 3:57 |

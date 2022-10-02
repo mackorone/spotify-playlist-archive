@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xjcl7upl9u.md) - [plain]
 
 > The Swedish duo <a href=“spotify:artist:00sAT5YX8W3xNd1EuqyHw9”>Dada Life</a> drop a hot mix just in time for festival season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,772 likes - 22 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,789 likes - 22 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

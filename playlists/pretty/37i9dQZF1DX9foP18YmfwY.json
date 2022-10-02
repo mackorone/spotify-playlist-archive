@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Thiago Brado",
-  "num_followers": 277023,
+  "num_followers": 277087,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMGIxODU1N2E5YjBlMDU2YmQwM2YxN2Y4ODNlMjkyNGFk",
+  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMGFiMDAyMTQ4ZjlmNDdmMTdlYzczZGY1ZTNkY2Q2NDMx",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Quando o Sono Bater",
-        "url": "https://open.spotify.com/album/6LSFQr05NkEfjb2Wn8QkDF"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        },
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 267058,
-      "name": "Quando o Sono Bater",
-      "url": "https://open.spotify.com/track/0CRdkmYRg8YAQS8W9b0tPA"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Grande Rei",
         "url": "https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 240188,
       "name": "Grande Rei",
       "url": "https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Quando o Sono Bater",
+        "url": "https://open.spotify.com/album/6LSFQr05NkEfjb2Wn8QkDF"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        },
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 267058,
+      "name": "Quando o Sono Bater",
+      "url": "https://open.spotify.com/track/0CRdkmYRg8YAQS8W9b0tPA"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Tua Morada",
-        "url": "https://open.spotify.com/album/18QQd3UccdpsamGwCm7AEt"
-      },
-      "artists": [
-        {
-          "name": "Talita Garcia",
-          "url": "https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt"
-        },
-        {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Tua Morada",
-      "url": "https://open.spotify.com/track/0Snz10C8ss9c1BnGpiqo2w"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Lugar da Promessa",
         "url": "https://open.spotify.com/album/0az8jmNkDgSooCY5M5SLIJ"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 300000,
       "name": "Em Tua Presen\u00e7a",
       "url": "https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Tua Morada",
+        "url": "https://open.spotify.com/album/18QQd3UccdpsamGwCm7AEt"
+      },
+      "artists": [
+        {
+          "name": "Talita Garcia",
+          "url": "https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt"
+        },
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Tua Morada",
+      "url": "https://open.spotify.com/track/0Snz10C8ss9c1BnGpiqo2w"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Top 10 Celina Borges",
+        "url": "https://open.spotify.com/album/0OmOX6xwf1ZJiZ1JRDeopp"
+      },
+      "artists": [
+        {
+          "name": "Celina Borges",
+          "url": "https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n"
+        }
+      ],
+      "duration_ms": 253323,
+      "name": "Melhor e Mais Feliz (Kolkata)",
+      "url": "https://open.spotify.com/track/17mbb4CG9cxAqexzRwQyzr"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "D\u00e1-Me de Beber",
         "url": "https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 256000,
       "name": "D\u00e1-Me de Beber",
       "url": "https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Top 10 Celina Borges",
-        "url": "https://open.spotify.com/album/0OmOX6xwf1ZJiZ1JRDeopp"
-      },
-      "artists": [
-        {
-          "name": "Celina Borges",
-          "url": "https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n"
-        }
-      ],
-      "duration_ms": 253323,
-      "name": "Melhor e Mais Feliz (Kolkata)",
-      "url": "https://open.spotify.com/track/17mbb4CG9cxAqexzRwQyzr"
     },
     {
       "added_at": "2022-09-02 03:00:00",

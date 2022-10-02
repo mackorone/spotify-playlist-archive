@@ -1,12 +1,12 @@
 {
   "description": "The music that created modern indie as we know it. Cover: Florence + The Machine",
-  "num_followers": 318641,
+  "num_followers": 319059,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NDkyNSwwMDAwMDAwMGM4ZmZmZTU2YjBmZGMxODg0Y2E3OGIzZTg2N2M5OWQ3",
+  "snapshot_id": "MTY1OTA0NDkyNSwwMDAwMDAwMDZmNTQyOGU4MTE2MjJkMjBiYmZmNTc2ZWY5MTRlNWU5",
   "tracks": [
     {
       "added_at": "2022-07-28 21:48:45",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-07-28 21:48:45",
       "album": {
-        "name": "Manners",
-        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
-    },
-    {
-      "added_at": "2022-07-28 21:48:45",
-      "album": {
         "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 147026,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
+    },
+    {
+      "added_at": "2022-07-28 21:48:45",
+      "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
     },
     {
       "added_at": "2022-07-28 21:48:45",

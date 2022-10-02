@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdbjTtdRf2g.md) - [plain]
 
 > Listen to the official playlist for the hit series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 871 likes - 41 songs - 46 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 878 likes - 41 songs - 46 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

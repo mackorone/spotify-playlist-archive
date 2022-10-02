@@ -2736,6 +2736,24 @@
     },
     {
       "album": {
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174588,
+      "name": "Not My Job",
+      "url": "https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc"
+    },
+    {
+      "album": {
         "name": "Suburb Superhero: The Villain Within",
         "url": "https://open.spotify.com/album/4rRbuLIqkwT2gAMfhKuXNq"
       },
@@ -3375,6 +3393,28 @@
       "duration_ms": 239000,
       "name": "Rush",
       "url": "https://open.spotify.com/track/0ujXF7s3C0XliL3ygwvVfE"
+    },
+    {
+      "album": {
+        "name": "Sad Girl Music (feat. BANKS)",
+        "url": "https://open.spotify.com/album/0WkKqicUopy6vqSqm4LJLj"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203788,
+      "name": "Sad Girl Music (feat. BANKS)",
+      "url": "https://open.spotify.com/track/6Zx9jLPOmRwZSxf7zdwoth"
     },
     {
       "album": {

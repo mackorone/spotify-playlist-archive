@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-114 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
+115 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Absolution of a French Fry](https://open.spotify.com/track/5N8jkWa1Lmnsw1YJB58oAJ) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Absolution Of A French Fry](https://open.spotify.com/album/1hzmwwYPpyNSXJ87K9PrQX) | 5:31 | 2022-09-08 | 2022-09-25 |
 | [Adagio \(For Bob Collymore\)](https://open.spotify.com/track/7kAnqpE4QtAWWhrDRQKN1w) | [Jef Neve](https://open.spotify.com/artist/5drkbPiwHU6Kzh1wzYwMAl) | [Mysterium](https://open.spotify.com/album/31ADJ69Qa2K7qOIRkB9tLp) | 4:31 | 2022-09-08 |  |
 | [Alles hier hetzelfde](https://open.spotify.com/track/4s3tKQwPJhy5oJHvXnAQQN) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [Alles hier hetzelfde](https://open.spotify.com/album/7yOMFXSwvmEtauLoflkiN2) | 6:11 | 2022-09-08 |  |
-| [An Arp in Tunisia](https://open.spotify.com/track/69QKB3yNoLeh0QS7cNXzMK) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 4:34 | 2022-09-08 |  |
+| [An Arp in Tunisia](https://open.spotify.com/track/13GMwEv7D26ltljKaWoHoV) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 4:34 | 2022-09-29 |  |
+| [An Arp in Tunisia](https://open.spotify.com/track/69QKB3yNoLeh0QS7cNXzMK) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 4:34 | 2022-09-08 | 2022-10-02 |
 | [Andrew](https://open.spotify.com/track/6bcW2UIWP67jOoXPD9zPHQ) | [Lara Rosseel](https://open.spotify.com/artist/42u3vSYiwwVQVuGf5dwZ8G) | [Andrew](https://open.spotify.com/album/71FGBP3IfFNdmoWJpELJYw) | 4:25 | 2022-09-08 |  |
 | [Animalcules](https://open.spotify.com/track/08iC6paJaIkY2EJTAl5jlX) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Less Is Endless](https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH) | 6:10 | 2022-09-15 |  |
 | [Animalcules](https://open.spotify.com/track/1Dp9cU6Cf2Ccu0o9LyFOA9) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Animalcules](https://open.spotify.com/album/1i4ife8Bxw31nzxYV30IBh) | 6:10 | 2022-09-08 | 2022-09-26 |

@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Pol Granch",
-  "num_followers": 260949,
+  "num_followers": 261014,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1ODkxNywwMDAwMDAwMGMxOThkM2ViNzRiZTJiOTY1OGFhNDc4MDIyODQxMGZj",
+  "snapshot_id": "MTY2Mzk1ODkxNywwMDAwMDAwMDFjNDM3M2ViYzYxNWYwYjcxYWY3MDBkZWQwYzExMzk2",
   "tracks": [
     {
       "added_at": "2022-09-23 15:14:49",
@@ -363,26 +363,6 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
-        "name": "M\u00e1s Muerto Que Vivo",
-        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 213221,
-      "name": "M\u00e1s Muerto Que Vivo",
-      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
-    },
-    {
-      "added_at": "2022-09-23 15:14:49",
-      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "added_at": "2022-09-23 15:14:49",
+      "album": {
+        "name": "M\u00e1s Muerto Que Vivo",
+        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 213221,
+      "name": "M\u00e1s Muerto Que Vivo",
+      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda"
+    },
+    {
+      "added_at": "2022-09-23 15:14:49",
+      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 226626,
       "name": "YA NO",
       "url": "https://open.spotify.com/track/2ubOm8LStEhv4CEiIOk01F"
-    },
-    {
-      "added_at": "2022-09-23 15:14:49",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
+        "name": "estereotipo",
+        "url": "https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "duration_ms": 174825,
+      "name": "estereotipo",
+      "url": "https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u"
+    },
+    {
+      "added_at": "2022-09-23 15:14:49",
+      "album": {
         "name": "Dol\u00eda (feat. Las Villa)",
         "url": "https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 167994,
       "name": "Dol\u00eda (feat. Las Villa)",
       "url": "https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8"
-    },
-    {
-      "added_at": "2022-09-23 15:14:49",
-      "album": {
-        "name": "estereotipo",
-        "url": "https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n"
-      },
-      "artists": [
-        {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
-        }
-      ],
-      "duration_ms": 174825,
-      "name": "estereotipo",
-      "url": "https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
-        "name": "NO VUELVAS",
-        "url": "https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg"
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2Una6joFhZ97eo86LGN8k4"
       },
       "artists": [
         {
-          "name": "KRISTAL",
-          "url": "https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e"
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        },
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
         }
       ],
-      "duration_ms": 178178,
-      "name": "NO VUELVAS",
-      "url": "https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2"
+      "duration_ms": 215400,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/3cjX2kNtmCn9uP4vvxvNdK"
     },
     {
       "added_at": "2022-09-23 15:14:49",
@@ -1143,22 +1147,18 @@
     {
       "added_at": "2022-09-23 15:14:49",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2Una6joFhZ97eo86LGN8k4"
+        "name": "NO VUELVAS",
+        "url": "https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg"
       },
       "artists": [
         {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
-        },
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+          "name": "KRISTAL",
+          "url": "https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Colores",
-      "url": "https://open.spotify.com/track/3cjX2kNtmCn9uP4vvxvNdK"
+      "duration_ms": 178178,
+      "name": "NO VUELVAS",
+      "url": "https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2"
     },
     {
       "added_at": "2022-09-23 15:14:49",

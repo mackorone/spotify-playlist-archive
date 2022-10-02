@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Selene",
-  "num_followers": 502487,
+  "num_followers": 502517,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4NDI4NSwwMDAwMDAwMGJmZDUxYTA1MGQ0MTdkMDcyN2ExOTlkYjRhMmM3NGI1",
+  "snapshot_id": "MTY2MjQ4NDI4NSwwMDAwMDAwMDUwY2Q5OTE5OGQxNDUxMmRjZDllMmNjYzg0YzdkMzhl",
   "tracks": [
     {
       "added_at": "2022-09-06 17:11:25",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
-        "name": "BIRDSONGS, Vol. 2",
-        "url": "https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq"
-      },
-      "artists": [
-        {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Lo Que Tuvimos",
-      "url": "https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
         "name": "Se Acaba Todo",
         "url": "https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 196133,
       "name": "Se Acaba Todo",
       "url": "https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
+        "name": "BIRDSONGS, Vol. 2",
+        "url": "https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Lo Que Tuvimos",
+      "url": "https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -971,22 +971,6 @@
       "duration_ms": 190800,
       "name": "Lo Que Digan",
       "url": "https://open.spotify.com/track/1NNckOABiIsVrd0dJwRmLp"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
-        "name": "Puente",
-        "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -1059,6 +1043,22 @@
       "duration_ms": 239719,
       "name": "Aeroplanos",
       "url": "https://open.spotify.com/track/2uTOK71u7nWtvDQky4wyEx"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
+        "name": "Puente",
+        "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
-        "name": "LUV",
-        "url": "https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0"
-      },
-      "artists": [
-        {
-          "name": "Victor Internet",
-          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
-        }
-      ],
-      "duration_ms": 143893,
-      "name": "LUV",
-      "url": "https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
         "name": "me perdono",
         "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 212685,
       "name": "me perdono",
       "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
+        "name": "LUV",
+        "url": "https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0"
+      },
+      "artists": [
+        {
+          "name": "Victor Internet",
+          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+        }
+      ],
+      "duration_ms": 143893,
+      "name": "LUV",
+      "url": "https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz"
     },
     {
       "added_at": "2022-09-06 17:11:25",

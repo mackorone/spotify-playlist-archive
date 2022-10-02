@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3sJ6SlgRo56Oa7YhHcLK5l.md) - [plain]
 
 > What artists have been your favorite new finds this year? Check out a sampling of our favorites here, and don’t forget to check back for updates! For your own list, head over to <a href="http://spoti.fi/1JQhkfk">http://spoti.fi/1JQhkfk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,029 likes - 20 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,028 likes - 20 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

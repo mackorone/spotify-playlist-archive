@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXhGIsh9lqr.md) - [plain]
 
 > Brazilian DJ and Producer <a href="spotify:artist:3wkaDi2HJV3eCaBJ4iH6om">ANNA</a> delivers a high\-energy Techno mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,711 likes - 14 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,763 likes - 14 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

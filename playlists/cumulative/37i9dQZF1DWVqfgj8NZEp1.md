@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-238 songs - 22 hr 40 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+239 songs - 22 hr 47 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Song For Fraser](https://open.spotify.com/track/6WzTc2F3x6kJ4jJC2Fasqt) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Becoming \(Music from the Netflix Original Documentary\)](https://open.spotify.com/album/2ndDhPpR5sSsbtlJtsXCqi) | 2:20 | 2022-06-30 |  |
 | [Soul Eyes](https://open.spotify.com/track/5fhLDCuNimt2zvkiFxOAbU) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Daniel Franck](https://open.spotify.com/artist/3xN9MVxmlCH7RwHKViDgPb), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [European Quartet](https://open.spotify.com/album/1aeuJphtfTGTAjnW5oX5Fu) | 8:18 | 2020-10-09 | 2022-02-18 |
 | [Soul in Twilight](https://open.spotify.com/track/3ONcanYtZHMVcgqPDAsVHd) | [John Moulder](https://open.spotify.com/artist/0RAj4cXWietdNzd94osANm) | [Earthborn Tales of Soul and Spirit](https://open.spotify.com/album/5lRB2C08DEFUAU9zOS9Hnp) | 6:04 | 2020-10-09 | 2022-08-10 |
-| [Soultrane](https://open.spotify.com/track/4KT3oO3PL2VOBwW6aqLq4F) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Soultrane](https://open.spotify.com/album/4ztkQcKSXZpWy0w7Dffq14) | 6:29 | 2022-08-11 |  |
+| [Soultrane](https://open.spotify.com/track/4KT3oO3PL2VOBwW6aqLq4F) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Soultrane](https://open.spotify.com/album/4ztkQcKSXZpWy0w7Dffq14) | 6:29 | 2022-08-11 | 2022-10-02 |
+| [Soultrane](https://open.spotify.com/track/6Flb140dcVJ0VyZeCAmakB) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Konarski & Standards](https://open.spotify.com/album/2dj69o8yltikLhY0a0afam) | 6:29 | 2022-09-29 |  |
 | [Soultrane](https://open.spotify.com/track/43tLjduNA04oMB8ljgMI6P) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Soultrane](https://open.spotify.com/album/5bC4P7ZwXeFoMp8SoBrS1k) | 5:23 | 2020-10-09 | 2022-02-18 |
 | [Sous Le Ciel De Paris](https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh) | 4:04 | 2020-10-09 | 2022-07-29 |
 | [Sous Le Ciel De Paris](https://open.spotify.com/track/45co7gWEhnZevNaWbPlW3W) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/5z1LcLw1QCXDjtMy9WYT1p) | 4:05 | 2022-06-30 |  |

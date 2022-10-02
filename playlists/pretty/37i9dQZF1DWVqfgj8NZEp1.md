@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,400,076 likes - 142 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,400,380 likes - 142 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 23 | [Nancy \(With the Laughing Face\)](https://open.spotify.com/track/2l9lJ9HxxXyGilNIjTdO3j) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB) | [Lovers Moment \(Håkan Broström Meets Carl Winther Trio\)](https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig) | 4:50 |
 | 24 | [A Child Not Yet Born](https://open.spotify.com/track/1oK3iRgQrsfVjPPCRf9KoG) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Boris Kozlov](https://open.spotify.com/artist/3oPzcffnTlaWQILnSzNNh5), [Joe Strasser](https://open.spotify.com/artist/2pAeDu7ejJdbpsxwJm1nhE), [Brandon Wright](https://open.spotify.com/artist/5mqnoc3ceU0OebStAoldPL) | [Feel the Love](https://open.spotify.com/album/5B12r1hEUg8WiJN3GYdFTS) | 5:13 |
 | 25 | [And So it Goes](https://open.spotify.com/track/7AP03AuSv0uWp0i3ef9HaH) | [Joshua Espinoza](https://open.spotify.com/artist/6sQipnSTh0MtEdmUM8w49E), [Kris Monson](https://open.spotify.com/artist/2kUPNaq8pnJ4Q7TYoFme5t), [Jaron Lamar Davis](https://open.spotify.com/artist/2XeV55IyaL6jSh1yOlVOHG) | [And So it Goes](https://open.spotify.com/album/0tfPd7QamoduQalv7A376o) | 4:44 |
-| 26 | [Soultrane](https://open.spotify.com/track/4KT3oO3PL2VOBwW6aqLq4F) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Soultrane](https://open.spotify.com/album/4ztkQcKSXZpWy0w7Dffq14) | 6:29 |
+| 26 | [Soultrane](https://open.spotify.com/track/6Flb140dcVJ0VyZeCAmakB) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Konarski & Standards](https://open.spotify.com/album/2dj69o8yltikLhY0a0afam) | 6:29 |
 | 27 | [Pure Imagination](https://open.spotify.com/track/6sKHSin9KPb5mSJS0gysiv) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Pure Imagination](https://open.spotify.com/album/26Jbksmm8Im4l9kiXQC0cq) | 4:48 |
 | 28 | [OD](https://open.spotify.com/track/41cORdbmswG9htvuswqSJP) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Believe](https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif) | 6:58 |
 | 29 | [Tutto](https://open.spotify.com/track/62kqshOHXpzRjnjU32j3tk) | [Lorenzo Tucci](https://open.spotify.com/artist/3hTTFA9ODrbXSu1BJ82hsq) | [Happy end](https://open.spotify.com/album/6rMNuXq1cfyp747FxxOEDv) | 5:18 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 141 | [Mommy's Shawl](https://open.spotify.com/track/7u38kj1yGDoExUnP6gxxor) | [Yelena Eckemoff](https://open.spotify.com/artist/7vRtxQT9nKIPHA36iDrCul), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Panu Savolainen](https://open.spotify.com/artist/5og1sabV0PYzVdMIqoRYof), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Blooming Tall Phlox](https://open.spotify.com/album/6flIHnOYOMbCz53SOdGle3) | 5:05 |
 | 142 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 |
 
-Snapshot ID: `MTY2NDQ4ODgwMCwwMDAwMDAwMGVmYjRhNDBiNzk5NmNkOGUzMzA4NWMwMjAzNWVhZWRm`
+Snapshot ID: `MTY2NDQ4ODgwMCwwMDAwMDAwMDFmZjI1MWQ4ZTFiMWUzNmIwZTVjOTU3ZDRhNTA2MmYy`

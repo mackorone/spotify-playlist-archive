@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
-  "num_followers": 321157,
+  "num_followers": 321233,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg3Mzg2NCwwMDAwMDAwMDEzZjZkZTA2MDU0Mjc5NmIzYjc4OGJlOTVlZmQ3Y2Y3",
+  "snapshot_id": "MTY1NDg3Mzg2NCwwMDAwMDAwMDNjYTIwZmI4OTg0OTVhMThhMjkzYWFmNTgzMTFhOTM4",
   "tracks": [
     {
       "added_at": "2022-04-14 09:43:03",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Rock The Casbah (Ranking Roger)",
-        "url": "https://open.spotify.com/album/0oLCJ91O7NIiWQmfPZhFbK"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 260711,
-      "name": "Rock the Casbah (Ranking Roger)",
-      "url": "https://open.spotify.com/track/3BlBgTuUlGKFO9EhhnJZhA"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "A Passage In Time (Explicit Version)",
         "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 388466,
       "name": "One More Minute",
       "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Rock The Casbah (Ranking Roger)",
+        "url": "https://open.spotify.com/album/0oLCJ91O7NIiWQmfPZhFbK"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 260711,
+      "name": "Rock the Casbah (Ranking Roger)",
+      "url": "https://open.spotify.com/track/3BlBgTuUlGKFO9EhhnJZhA"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -895,6 +895,38 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
+      },
+      "artists": [
+        {
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
+        }
+      ],
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Keasbey Nights",
+        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
+      },
+      "artists": [
+        {
+          "name": "Catch 22",
+          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "On & On & On",
+      "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
         "name": "Sound the Alarm",
         "url": "https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61"
       },
@@ -927,38 +959,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Keasbey Nights",
-        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
-      },
-      "artists": [
-        {
-          "name": "Catch 22",
-          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "On & On & On",
-      "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
-        "name": "Another Change of Plan",
-        "url": "https://open.spotify.com/album/0QDAsdoBkF16UzcXWS11Bg"
-      },
-      "artists": [
-        {
-          "name": "Random Hand",
-          "url": "https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "Play Some Ska",
-      "url": "https://open.spotify.com/track/61uH7qBeQqVGfnCK26OQ8L"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Gemini, Her Majesty",
         "url": "https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF"
       },
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
+        "name": "Another Change of Plan",
+        "url": "https://open.spotify.com/album/0QDAsdoBkF16UzcXWS11Bg"
       },
       "artists": [
         {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
+          "name": "Random Hand",
+          "url": "https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb"
         }
       ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+      "duration_ms": 196333,
+      "name": "Play Some Ska",
+      "url": "https://open.spotify.com/track/61uH7qBeQqVGfnCK26OQ8L"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "To the Moon",
-        "url": "https://open.spotify.com/album/26hyjp4UUl9tsWW802rFEt"
-      },
-      "artists": [
-        {
-          "name": "Popes Of Chillitown",
-          "url": "https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Wisdom Teeth",
-      "url": "https://open.spotify.com/track/147mMd7jI2ty1fR5AVJhS7"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Heads Are Gonna Roll",
         "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 144426,
       "name": "Lost It",
       "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "To the Moon",
+        "url": "https://open.spotify.com/album/26hyjp4UUl9tsWW802rFEt"
+      },
+      "artists": [
+        {
+          "name": "Popes Of Chillitown",
+          "url": "https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Wisdom Teeth",
+      "url": "https://open.spotify.com/track/147mMd7jI2ty1fR5AVJhS7"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Grazie Governo",
-        "url": "https://open.spotify.com/album/1MxhSb18IacC40HRB86dTr"
-      },
-      "artists": [
-        {
-          "name": "The Bar Stool Preachers",
-          "url": "https://open.spotify.com/artist/3KcidWlhRLEyML9jFE6fKg"
-        }
-      ],
-      "duration_ms": 182560,
-      "name": "Choose My Friends",
-      "url": "https://open.spotify.com/track/5xhB62X5svVDYitg5fDe3v"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Brain Invaders (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Strange Creatures - EP",
-        "url": "https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm"
+        "name": "Grazie Governo",
+        "url": "https://open.spotify.com/album/1MxhSb18IacC40HRB86dTr"
       },
       "artists": [
         {
-          "name": "Stacked Like Pancakes",
-          "url": "https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp"
+          "name": "The Bar Stool Preachers",
+          "url": "https://open.spotify.com/artist/3KcidWlhRLEyML9jFE6fKg"
         }
       ],
-      "duration_ms": 254720,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK"
+      "duration_ms": 182560,
+      "name": "Choose My Friends",
+      "url": "https://open.spotify.com/track/5xhB62X5svVDYitg5fDe3v"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1323,6 +1307,22 @@
       "duration_ms": 194640,
       "name": "Sound of a Revolution",
       "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Strange Creatures - EP",
+        "url": "https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm"
+      },
+      "artists": [
+        {
+          "name": "Stacked Like Pancakes",
+          "url": "https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Room For Abuse '06",
-        "url": "https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf"
-      },
-      "artists": [
-        {
-          "name": "[spunge]",
-          "url": "https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT"
-        }
-      ],
-      "duration_ms": 186804,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Detonate",
         "url": "https://open.spotify.com/album/749SC742jI27G78tbtxKNT"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 202000,
       "name": "I Don't Wanna Go",
       "url": "https://open.spotify.com/track/2QMorHwzcNe3lvoBaN41CE"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Room For Abuse '06",
+        "url": "https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf"
+      },
+      "artists": [
+        {
+          "name": "[spunge]",
+          "url": "https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT"
+        }
+      ],
+      "duration_ms": 186804,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
     },
     {
       "added_at": "2022-04-14 09:43:03",

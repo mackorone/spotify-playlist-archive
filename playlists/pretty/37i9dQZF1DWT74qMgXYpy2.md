@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT74qMgXYpy2.md) - [plain]
 
 > Flute and fiddle, drums and drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,862 likes - 63 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,863 likes - 63 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

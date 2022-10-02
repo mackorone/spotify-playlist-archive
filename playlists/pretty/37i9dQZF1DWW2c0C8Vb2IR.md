@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: Kiefer
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,938 likes - 47 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,016 likes - 47 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 26 | [A Minor Detour](https://open.spotify.com/track/0ccTDhY2qQb2c6mb4juTf6) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Billy Novick](https://open.spotify.com/artist/4DVzFiAulZCeCNJoOUTa0T) | [Light and Intimate](https://open.spotify.com/album/4WFlbphuMAkXplfTbxtTYP) | 1:55 |
 | 27 | [The Rainbow Waters](https://open.spotify.com/track/3bAFD6WVejCONjcJcPsfXA) | [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [The Rainbow Waters](https://open.spotify.com/album/3XGw1v1CgikUf27d5zntFb) | 4:44 |
 | 28 | [Wind Loop Case](https://open.spotify.com/track/6OYXXJAqJhTlFwr7rrJIdV) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [杉浦睦](https://open.spotify.com/artist/7AUgYo9pZu8ijMfRbnlo5G) | [Wind Loop Case](https://open.spotify.com/album/5V0lIK6rdfCCJl8ZxPRml0) | 3:41 |
-| 29 | [Fly Away](https://open.spotify.com/track/7gyYpVgem82oNq8oiC8wQV) | [Arturo O'Farrill](https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV), [Conga Patria Collective](https://open.spotify.com/artist/3h438FGsKauyflE2f5VXUw), [Rahim AlHaj](https://open.spotify.com/artist/6G0kPwGN96TTnSjeiqM3Ys), [Sahba Motallebi](https://open.spotify.com/artist/3BRU9zF2cA1fb9b7MLlZTf) | [Fandango at the Wall in New York](https://open.spotify.com/album/3WQCNb5Bh6B4zu4fuBjn8L) | 6:38 |
+| 29 | [Fly Away](https://open.spotify.com/track/7gyYpVgem82oNq8oiC8wQV) | [Arturo O'Farrill](https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV), [Rahim AlHaj](https://open.spotify.com/artist/6G0kPwGN96TTnSjeiqM3Ys), [Sahba Motallebi](https://open.spotify.com/artist/3BRU9zF2cA1fb9b7MLlZTf), [Conga Patria Son Jarocho Collective](https://open.spotify.com/artist/4smU7K7oRhlk3ySCr8j9f7) | [Fandango at the Wall in New York](https://open.spotify.com/album/3WQCNb5Bh6B4zu4fuBjn8L) | 6:38 |
 | 30 | [Mille Lire Al Mese](https://open.spotify.com/track/7AKBP83nWfNGGLrAuSybw1) | [Enzo Orefice Trio](https://open.spotify.com/artist/10fF7C0hOnj8V3lDxH6PQH) | [Mille Lire Al Mese](https://open.spotify.com/album/4HDuVBtn4nouhIbrIwJDP3) | 3:27 |
 | 31 | [Messes or Misses](https://open.spotify.com/track/6WkNtfni8i1LamT3i5v0Sb) | [Giovanni Mirabassi](https://open.spotify.com/artist/2mK36NvkRcFIKPyC9uL6C3), [Clément Daldosso](https://open.spotify.com/artist/7ChdS9uiipYzHA8c36AWS8), [Lukmil Perez](https://open.spotify.com/artist/26RqVxoGgBKJ4BWMc8WNCv), [Guillaume Perret](https://open.spotify.com/artist/7dUD0CbwQ1JQb1H0ovHjUZ), [Alexandra Comnos](https://open.spotify.com/artist/75Fo6UF2vAoE02OIrHbYfq) | [Messes or Misses](https://open.spotify.com/album/3fNJwuMNfqTYkEV5E6NzfK) | 6:21 |
 | 32 | [The Creators](https://open.spotify.com/track/31qdrKl0bvjVXL8TbIJSPO) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Blue Note Re:imagined II](https://open.spotify.com/album/4o54aWSH3QaWkRjS5Pl2I6) | 4:04 |

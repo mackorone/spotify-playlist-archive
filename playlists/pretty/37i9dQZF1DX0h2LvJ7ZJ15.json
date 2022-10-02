@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 512604,
+  "num_followers": 514020,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIwMjcxMCwwMDAwMDAwMDIwNGJmZGQ1NjA2NDZjOGU3MmMxYWRhYmJmNmE5Mjll",
+  "snapshot_id": "MTY2NDIwMjcxMCwwMDAwMDAwMDkzNmRhYWQ0YjkwZmNhYjQyMTBhZGUxODQ3OWI5ZGY5",
   "tracks": [
     {
       "added_at": "2022-08-26 06:26:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
-        "name": "Go (Remixes)",
-        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "go - Lower & Slower",
-      "url": "https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi"
-    },
-    {
-      "added_at": "2022-08-26 06:26:00",
-      "album": {
         "name": "Righteous (SLOW & REVERB)",
         "url": "https://open.spotify.com/album/4YI4JmnkU1ggD6wWdCrBfC"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 180403,
       "name": "Righteous (SLOW & REVERB)",
       "url": "https://open.spotify.com/track/4ItmLaoV2YCCx0MKKQOTNT"
+    },
+    {
+      "added_at": "2022-08-26 06:26:00",
+      "album": {
+        "name": "Go (Remixes)",
+        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "go - Lower & Slower",
+      "url": "https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi"
     },
     {
       "added_at": "2022-08-26 06:26:00",
@@ -769,6 +769,26 @@
       "url": "https://open.spotify.com/track/74PdooqFwI8VhklmayQ7dz"
     },
     {
+      "added_at": "2022-09-26 14:31:50",
+      "album": {
+        "name": "Banakula @ Meh (Original)",
+        "url": "https://open.spotify.com/album/6ZnmsjIq9ZSe9MXwaZ6QQs"
+      },
+      "artists": [
+        {
+          "name": "LLusion",
+          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
+        },
+        {
+          "name": "Hal Walker",
+          "url": "https://open.spotify.com/artist/6GD3EDNcRB99xxR6g7Fnrw"
+        }
+      ],
+      "duration_ms": 106867,
+      "name": "Meh (Banakula) - Slowed",
+      "url": "https://open.spotify.com/track/0aswWa6WvtPPCNSDTneSay"
+    },
+    {
       "added_at": "2022-08-26 06:26:00",
       "album": {
         "name": "WHEN EARTH FALLS",
@@ -791,26 +811,6 @@
       "duration_ms": 196568,
       "name": "NOT FAIR (slowed)",
       "url": "https://open.spotify.com/track/3X9DJqqtiG2Uh48TDhtMgn"
-    },
-    {
-      "added_at": "2022-09-26 14:31:50",
-      "album": {
-        "name": "Banakula @ Meh (Original)",
-        "url": "https://open.spotify.com/album/6ZnmsjIq9ZSe9MXwaZ6QQs"
-      },
-      "artists": [
-        {
-          "name": "LLusion",
-          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
-        },
-        {
-          "name": "Hal Walker",
-          "url": "https://open.spotify.com/artist/6GD3EDNcRB99xxR6g7Fnrw"
-        }
-      ],
-      "duration_ms": 106867,
-      "name": "Meh (Banakula) - Slowed",
-      "url": "https://open.spotify.com/track/0aswWa6WvtPPCNSDTneSay"
     },
     {
       "added_at": "2022-08-26 06:26:00",

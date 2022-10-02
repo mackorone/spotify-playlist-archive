@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaiDZ16BA15.md) - [plain]
 
 > Italian duo <a href="spotify:artist:6mM9a86Nrw0y7f9MaJGbpU">Giolì & Assia</a> deliver a mix featuring tracks from their most recent album and deep, melodic selections.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,046 likes - 18 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,096 likes - 18 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

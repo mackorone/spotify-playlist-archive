@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Piano music for late night work; reading, writing and studying in the quiet hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,040 likes - 355 songs - 15 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,102 likes - 355 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

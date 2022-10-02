@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 187675,
+  "num_followers": 187879,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxODgwMCwwMDAwMDAwMDAwNjdlZDkxNDVjYzAwZTI1MjM1YzA2NDBmNzBlNzdj",
+  "snapshot_id": "MTY2MTUxODgwMCwwMDAwMDAwMGViMDhhYTZlMzg0Mzc3MDg1NjVjYjQyNzM0YTZiMDVm",
   "tracks": [
     {
       "added_at": "2022-06-13 06:46:14",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Drowning in the Sound",
-        "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
+        "name": "Meanwhile in Burbank...",
+        "url": "https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Drowning in the Sound",
-      "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
+      "duration_ms": 395683,
+      "name": "Creeping Death",
+      "url": "https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Meanwhile in Burbank...",
-        "url": "https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X"
+        "name": "Drowning in the Sound",
+        "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
       },
       "artists": [
         {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 395683,
-      "name": "Creeping Death",
-      "url": "https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp"
+      "duration_ms": 223200,
+      "name": "Drowning in the Sound",
+      "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Riddles, Ruins & Revelations",
-        "url": "https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm"
+        "name": "Graveyard Classics",
+        "url": "https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV"
       },
       "artists": [
         {
-          "name": "Sirenia",
-          "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+          "name": "Six Feet Under",
+          "url": "https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI"
         }
       ],
-      "duration_ms": 258564,
-      "name": "Voyage Voyage",
-      "url": "https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3"
+      "duration_ms": 208533,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Graveyard Classics",
-        "url": "https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV"
+        "name": "Riddles, Ruins & Revelations",
+        "url": "https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm"
       },
       "artists": [
         {
-          "name": "Six Feet Under",
-          "url": "https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI"
+          "name": "Sirenia",
+          "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
         }
       ],
-      "duration_ms": 208533,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP"
+      "duration_ms": 258564,
+      "name": "Voyage Voyage",
+      "url": "https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Roundabout",
-        "url": "https://open.spotify.com/album/7LNKPAcxvswG7jpbH4gkf6"
-      },
-      "artists": [
-        {
-          "name": "Allegaeon",
-          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
-        }
-      ],
-      "duration_ms": 500804,
-      "name": "Roundabout",
-      "url": "https://open.spotify.com/track/2dDlRT8gT5jCBm5m5qkneI"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "CMFB \u2026Sides",
         "url": "https://open.spotify.com/album/1pVmpuWEzjlWne9vxtbtTw"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 250600,
       "name": "Holier Than Thou",
       "url": "https://open.spotify.com/track/62GHoCtJWhiGxawLgqzgpQ"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Roundabout",
+        "url": "https://open.spotify.com/album/7LNKPAcxvswG7jpbH4gkf6"
+      },
+      "artists": [
+        {
+          "name": "Allegaeon",
+          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
+        }
+      ],
+      "duration_ms": 500804,
+      "name": "Roundabout",
+      "url": "https://open.spotify.com/track/2dDlRT8gT5jCBm5m5qkneI"
     },
     {
       "added_at": "2022-06-13 06:46:14",

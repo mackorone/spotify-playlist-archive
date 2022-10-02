@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain]
 
 > Celebrate some of the biggest names in country music with the soundtrack from the ACM Honors! Cover: Kelsea Ballerini
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,586 likes - 16 songs - 54 min 8 sec
+[Spotify](https://open.spotify.com/user/spotify) - 139,618 likes - 16 songs - 54 min 8 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

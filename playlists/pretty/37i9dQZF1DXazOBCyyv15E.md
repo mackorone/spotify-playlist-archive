@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Man\-Made Sunshine
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,499 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,518 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 68 | [Bump](https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bump](https://open.spotify.com/album/0BbQhd9LzpcdZJ5fn7WhaV) | 3:22 |
 | 69 | [GHOST](https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [GHOST](https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ) | 2:43 |
 | 70 | [Wasteman](https://open.spotify.com/track/6ZsWzKhxbkqwTqt72z1Lfi) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Wasteman](https://open.spotify.com/album/3HqUZzoYFbodugmeZhZuGt) | 3:28 |
-| 71 | [ELON](https://open.spotify.com/track/3hxjq9GcQn1jPVySDlWsdz) | [LOWLIFE](https://open.spotify.com/artist/6IiMJsGUgeJYoRSVaW0CPW), [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC), [MILA](https://open.spotify.com/artist/6SB7H3mGVDv9R8HGwVHKjb) | [ELON](https://open.spotify.com/album/7ekL7oi5wA6CrrkZX0uvZ0) | 3:04 |
+| 71 | [ELON](https://open.spotify.com/track/3hxjq9GcQn1jPVySDlWsdz) | [LOWLIFE](https://open.spotify.com/artist/6IiMJsGUgeJYoRSVaW0CPW) | [ELON](https://open.spotify.com/album/7ekL7oi5wA6CrrkZX0uvZ0) | 3:04 |
 | 72 | [Round The Bend](https://open.spotify.com/track/0opsz8A3M6dHfNdJ29IJiL) | [Malady](https://open.spotify.com/artist/6RIJbEJAkZ21AAbqrdztvh) | [Round The Bend](https://open.spotify.com/album/5K0skWIslhdCMK2tCofAIE) | 2:19 |
 | 73 | [Centre of Nowhere](https://open.spotify.com/track/3h3YKESEZ49rxHzzFqJ07B) | [Fizzy Blood](https://open.spotify.com/artist/1b4CSS8iXMbRk0fQ5HxcKJ) | [Centre of Nowhere](https://open.spotify.com/album/4LvhtjdxnJeUK1fCsi3whS) | 4:00 |
 | 74 | [Reaching 2](https://open.spotify.com/track/4kTcd0tvXw3Kb71R9mlOMO) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [ICYMI](https://open.spotify.com/album/6sS4RRzhd4oeWwirHJYQWQ) | 2:58 |

@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 2776,
+  "num_followers": 2790,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMGM1NThhMzgzMTYxMTFhNDVmN2Y3MTlmYjdkNTNmZTMy",
+  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDI3ZTg3MDE5ZTZkYzg0MmYwZjUxOTRmMTcxMmJjYmMz",
   "tracks": [
     {
       "added_at": "2022-08-18 14:25:32",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Chocolate, Pt. 8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5NkL3gOmdX8HxFUrDNFJFE"
-      },
-      "artists": [
-        {
-          "name": "Hui",
-          "url": "https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0EBbXbktxouXdMH2JY4U4T"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 325150,
       "name": "Even though I hate you, I love you (Special Track)",
       "url": "https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Chocolate, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5NkL3gOmdX8HxFUrDNFJFE"
+      },
+      "artists": [
+        {
+          "name": "Hui",
+          "url": "https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0EBbXbktxouXdMH2JY4U4T"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Fit Me",
-        "url": "https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB"
-      },
-      "artists": [
-        {
-          "name": "Vanilla Acoustic",
-          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
-        }
-      ],
-      "duration_ms": 250495,
-      "name": "I Ain't Over",
-      "url": "https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "Unrequited",
         "url": "https://open.spotify.com/album/1fARMCu9O702sbE7KFMqPq"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 225000,
       "name": "Unrequited",
       "url": "https://open.spotify.com/track/57EwG684FFleTMHfxl0f2B"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Fit Me",
+        "url": "https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Acoustic",
+          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
+        }
+      ],
+      "duration_ms": 250495,
+      "name": "I Ain't Over",
+      "url": "https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb"
     }
   ],
   "unique_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",

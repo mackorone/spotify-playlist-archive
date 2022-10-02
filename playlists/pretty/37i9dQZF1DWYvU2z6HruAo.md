@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvU2z6HruAo.md) - [plain]
 
 > The Top Hot Country Tracks for 2020 in one playlist\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,738 likes - 62 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,740 likes - 62 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

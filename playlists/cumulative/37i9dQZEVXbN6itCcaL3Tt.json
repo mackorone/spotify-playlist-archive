@@ -2485,7 +2485,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -5361,7 +5361,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
@@ -9299,7 +9299,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 166166,
       "name": "mia\u0142em koleg\u0119 bartka",
       "url": "https://open.spotify.com/track/5b7HNNKvhJmZMifol1lAdI"
@@ -9386,6 +9386,28 @@
     },
     {
       "album": {
+        "name": "MISS ME",
+        "url": "https://open.spotify.com/album/3S2VQfTjtLzWEujhcyK0rD"
+      },
+      "artists": [
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "MISS ME",
+      "url": "https://open.spotify.com/track/3S1JqfJjwtZGwVg4f4Khtb"
+    },
+    {
+      "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
@@ -9445,6 +9467,36 @@
       "duration_ms": 214411,
       "name": "mi\u0142o mi ci\u0119 pozna\u0107",
       "url": "https://open.spotify.com/track/26PjFHj9h7kO54Nx4D4Ky3"
+    },
+    {
+      "album": {
+        "name": "Muzyka Komercyjna",
+        "url": "https://open.spotify.com/album/2me7ojcHK84TT4z5HlXsCM"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Auer",
+          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
+        },
+        {
+          "name": "Piotrek Lewandowski",
+          "url": "https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Mi\u0142o\u015b\u0107 na sprzeda\u017c",
+      "url": "https://open.spotify.com/track/7oeG4bdfaKomPKfva5AgXc"
     },
     {
       "album": {
@@ -15259,6 +15311,32 @@
       "duration_ms": 87887,
       "name": "Tarcho Terror",
       "url": "https://open.spotify.com/track/0mB9PnGUE1xf69smTxVgS4"
+    },
+    {
+      "album": {
+        "name": "Muzyka Komercyjna",
+        "url": "https://open.spotify.com/album/2me7ojcHK84TT4z5HlXsCM"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Bedoes",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "Tatua\u017ce i Motocykle",
+      "url": "https://open.spotify.com/track/4F3N8BizzYmHbUee1ASmhc"
     },
     {
       "album": {

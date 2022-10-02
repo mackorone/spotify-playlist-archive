@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 
 > Looking for pop music that's safe to play at work \(or in front of the kids when you're working from home\)? This playlist is for you!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 87,852 likes - 31 songs - 1 hr 41 min
+[Digster](https://open.spotify.com/user/digster.fm) - 87,850 likes - 31 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

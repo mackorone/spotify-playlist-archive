@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-119 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/4uy9VQ5xFYSsl9GqZlixae)
+120 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/4uy9VQ5xFYSsl9GqZlixae)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [お願いジュリー☆ \-ヒャダインのリリリリ☆リミックス\-](https://open.spotify.com/track/1bp06ctRxysQGxVueExwLy) | [Ken Hirai](https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc) | [Kokuhaku](https://open.spotify.com/album/5bC8dYlt4NxuU2P8spg3gB) | 4:00 | 2022-07-12 |  |
 | [お願いジュリー☆ \-ヒャダインのリリリリ☆リミックス\-](https://open.spotify.com/track/3RI72GGL6WgrAKyjn8eAil) | [Ken Hirai](https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc) | [告白](https://open.spotify.com/album/4Z9Ovv9lPXqBWqY8MPkLQQ) | 4:06 | 2022-03-08 | 2022-07-29 |
 | [ぐるぐるDJ TURN!!](https://open.spotify.com/track/2ck71lfWwUpZBum0NugoQw) | [Happy Around!](https://open.spotify.com/artist/3UnGSUFAzeXjRQgMNWOtcg) | [ぐるぐるDJ TURN!!](https://open.spotify.com/album/2vUheUSBe2J8R6ekI7oYDI) | 3:43 | 2022-03-08 | 2022-07-29 |
-| [ぐるぐるDJ TURN!! \- Anime OP Ver.](https://open.spotify.com/track/6RVYVlMke3AZFoe1gWSL09) | [Happy Around!](https://open.spotify.com/artist/3UnGSUFAzeXjRQgMNWOtcg) | [ぐるぐるDJ TURN!! \(Anime OP Ver.\)](https://open.spotify.com/album/7DXdue0r5TqwfGJJP1GUkK) | 3:44 | 2022-07-12 |  |
+| [ぐるぐるDJ TURN!! \- Anime OP Ver.](https://open.spotify.com/track/5DQIzTSYnjCOLG1U3mRnY8) | [Happy Around!](https://open.spotify.com/artist/3UnGSUFAzeXjRQgMNWOtcg) | [ぐるぐるDJ TURN!! \(Anime OP Ver.\)](https://open.spotify.com/album/3pwJHHZnvsGKLdiHZNn4Vz) | 3:44 | 2022-08-04 |  |
+| [ぐるぐるDJ TURN!! \- Anime OP Ver.](https://open.spotify.com/track/6RVYVlMke3AZFoe1gWSL09) | [Happy Around!](https://open.spotify.com/artist/3UnGSUFAzeXjRQgMNWOtcg) | [ぐるぐるDJ TURN!! \(Anime OP Ver.\)](https://open.spotify.com/album/7DXdue0r5TqwfGJJP1GUkK) | 3:44 | 2022-07-12 | 2022-10-02 |
 | [ちゅるりちゅるりら](https://open.spotify.com/track/6n3UqTXdkBhCmCV1jBIz0B) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [WWDD](https://open.spotify.com/album/3U3sONvBOvYKKMj0C5JzrT) | 3:35 | 2022-03-08 |  |
 | [てんけてんけてん](https://open.spotify.com/track/39ZW7L4VT4axbDVREO4CcF) | [DJ Ichiro Yatsui](https://open.spotify.com/artist/1HbQFEIRSmSyGpt30bmX74) | [YATSUI MATOME \~SELECTION\~](https://open.spotify.com/album/5iQP3f2uDFFPGcSsq1GRte) | 5:13 | 2022-07-12 |  |
 | [てんけてんけてん](https://open.spotify.com/track/4KBtZxEMmb5VIdhrY2xY99) | [DJ Ichiro Yatsui](https://open.spotify.com/artist/1HbQFEIRSmSyGpt30bmX74) | [てんけてんけてん](https://open.spotify.com/album/5RzOUNQfkxR5JUhrkkQZQO) | 5:13 | 2022-03-08 | 2022-07-29 |

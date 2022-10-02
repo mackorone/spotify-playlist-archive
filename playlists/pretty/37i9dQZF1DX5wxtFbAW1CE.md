@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 
 > Soothing songs for family yoga time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,584 likes - 202 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,586 likes - 202 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

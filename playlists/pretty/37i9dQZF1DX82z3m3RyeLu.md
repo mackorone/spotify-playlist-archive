@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82z3m3RyeLu.md) - [plain]
 
 > Listen BAEKHYUN's all solo tracks here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,751 likes - 38 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,786 likes - 38 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 6639,
+  "num_followers": 6656,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDhjODczNTgxZTY1ZGE3OTY4YjAxYTI2M2FhN2Q0NTg1",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDQ5NjY0OTAzZGYxNTBkYjVmMTAyNzgwZGZhM2EwYmM3",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Make It Move",
+      "url": "https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Times Have Changed",
         "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 239386,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/4hNETR2geBfWVzGDe6Qmvn"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Make It Move",
-      "url": "https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3"
     },
     {
       "added_at": "2020-12-01 05:01:00",

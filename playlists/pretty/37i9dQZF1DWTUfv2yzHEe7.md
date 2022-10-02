@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 
 > Bollywood beats to keep you dancing all night\. Cover: Liger
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,253 likes - 63 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,338 likes - 63 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

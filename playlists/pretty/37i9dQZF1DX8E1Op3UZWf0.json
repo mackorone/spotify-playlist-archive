@@ -1,12 +1,12 @@
 {
   "description": "Start the day with a morning run together with these easy and joyful tracks.",
-  "num_followers": 216174,
+  "num_followers": 216238,
   "original_name": "Morning Run ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0OTE4NCwwMDAwMDAwMDRmM2NlNDM2MmI2YzVmZjgyOGM4ZTIxZTgwNjA0ZDlj",
+  "snapshot_id": "MTY2NDU0OTE4NCwwMDAwMDAwMGRiMmYzOThmY2IwMzE1YmM0ZjIyNjkxNWM3NWJmMjE0",
   "tracks": [
     {
       "added_at": "2022-08-26 04:39:00",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
-      "added_at": "2022-10-01 01:57:13",
+      "added_at": "2022-10-02 01:53:49",
       "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
     },
     {
-      "added_at": "2022-10-01 01:57:13",
+      "added_at": "2022-10-02 01:53:49",
       "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza"
     },
     {
-      "added_at": "2022-10-01 01:57:13",
+      "added_at": "2022-10-02 01:53:49",
       "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-08-26 04:39:00",
       "album": {
-        "name": "Overexposed (Deluxe)",
-        "url": "https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo"
-    },
-    {
-      "added_at": "2022-08-26 04:39:00",
-      "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 198160,
       "name": "breathin",
       "url": "https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J"
+    },
+    {
+      "added_at": "2022-08-26 04:39:00",
+      "album": {
+        "name": "Overexposed (Deluxe)",
+        "url": "https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo"
     },
     {
       "added_at": "2022-08-26 04:39:00",

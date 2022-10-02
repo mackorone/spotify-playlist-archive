@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 120178,
+  "num_followers": 120351,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1OTc3NywwMDAwMDAwMGQyNDRkMmU0N2Y2NzQyYWY3NGQ0ODJkMjMyNTU1ZDZl",
+  "snapshot_id": "MTY2NDU1OTc3NywwMDAwMDAwMGU1NTUyMDYwMGE1NjU3ZjQzYjRlMjc3OTYxZGZlODgw",
   "tracks": [
     {
       "added_at": "2022-09-30 17:42:57",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-09-30 17:42:57",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Papa Ain't Salty",
-      "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
-    },
-    {
-      "added_at": "2022-09-30 17:42:57",
-      "album": {
         "name": "Colin James And The Little Big Band",
         "url": "https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 368466,
       "name": "Three Hours Past Midnight",
       "url": "https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC"
+    },
+    {
+      "added_at": "2022-09-30 17:42:57",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Papa Ain't Salty",
+      "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
     },
     {
       "added_at": "2022-09-30 17:42:57",
@@ -819,18 +819,22 @@
     {
       "added_at": "2022-09-30 17:42:57",
       "album": {
-        "name": "Mean Blues",
-        "url": "https://open.spotify.com/album/3rmhmQt2WqS7rhwalTlGBS"
+        "name": "Willie's Blues",
+        "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
       },
       "artists": [
         {
-          "name": "Floyd Lee Band",
-          "url": "https://open.spotify.com/artist/4jSXw5yTDrfBBjnlwBMVud"
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        },
+        {
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia"
         }
       ],
-      "duration_ms": 297973,
-      "name": "Mean Blues",
-      "url": "https://open.spotify.com/track/1Q57HueU3dO9hZB5ALMlPh"
+      "duration_ms": 354573,
+      "name": "Go Easy",
+      "url": "https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK"
     },
     {
       "added_at": "2022-09-30 17:42:57",

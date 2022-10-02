@@ -3943,6 +3943,24 @@
     {
       "album": {
         "name": "Spectral Morning",
+        "url": "https://open.spotify.com/album/2gCK8eweTlSCMeZ3vyeSDN"
+      },
+      "artists": [
+        {
+          "name": "Ivory Past",
+          "url": "https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Spectral Morning",
+      "url": "https://open.spotify.com/track/2FA54LO1o2JPZSElOdru9V"
+    },
+    {
+      "album": {
+        "name": "Spectral Morning",
         "url": "https://open.spotify.com/album/0ZXFCRHBPXXdD9QScxkL1z"
       },
       "artists": [
@@ -4443,7 +4461,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 67500,
       "name": "Tronco",
       "url": "https://open.spotify.com/track/225LjAnyqyDn1SnbrbqOMs"

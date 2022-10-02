@@ -1,18 +1,18 @@
 {
   "description": "Your daily update of the most played tracks right now - Germany.",
-  "num_followers": 2124743,
+  "num_followers": 2125018,
   "original_name": "Top 50 - Germany",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE3ODQ4MDk4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE3OTM5NTcwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
-        "name": "Bamba (feat. Aitch & BIA)",
-        "url": "https://open.spotify.com/album/3cOBmVLauHdg4S3F7sJHyF"
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
       "artists": [
         {
@@ -28,12 +28,52 @@
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 203255,
+      "duration_ms": 203560,
       "name": "Bamba (feat. Aitch & BIA)",
-      "url": "https://open.spotify.com/track/7nFJSfGvvV0WjatTZN6QYi"
+      "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 212114,
+      "name": "West Connect (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/1Fb8gCHRkmNAaN8vytd5vg"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "KISSENSCHLACHT",
+        "url": "https://open.spotify.com/album/2GZ8s5Dy2AZ02Ga5mngS23"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        },
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        }
+      ],
+      "duration_ms": 171069,
+      "name": "KISSENSCHLACHT",
+      "url": "https://open.spotify.com/track/70Xfh3baxA4xusCiV5B5jg"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -53,7 +93,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "Wildberry Lillet",
         "url": "https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme"
@@ -69,7 +109,7 @@
       "url": "https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -89,7 +129,55 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Himmel \u00fcber Berlin",
+        "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 103866,
+      "name": "2019 (justbars rmx)",
+      "url": "https://open.spotify.com/track/1IhwTymQA1QFgQJu4ZjYtW"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Himmel \u00fcber Berlin",
+        "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 123146,
+      "name": "Doppel G",
+      "url": "https://open.spotify.com/track/6Pk9SrYcNROzVANFESonWh"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "Beautiful Girl",
+      "url": "https://open.spotify.com/track/5xX2LYdXyx0Boa61rZOjq5"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "Nachts wach",
         "url": "https://open.spotify.com/album/2Ei8muZiExgEPlRfLskcaE"
@@ -109,39 +197,95 @@
       "url": "https://open.spotify.com/track/0g2leZuI3jD5pRsrRIDvYe"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
-        "name": "Himmel \u00fcber Berlin",
-        "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/4gYT5Y4iyaXo0p3WCa6V0e"
       },
       "artists": [
         {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
         }
       ],
-      "duration_ms": 103866,
-      "name": "2019 (justbars rmx)",
-      "url": "https://open.spotify.com/track/1IhwTymQA1QFgQJu4ZjYtW"
+      "duration_ms": 176133,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/5IOF2LmEZaGDPOepCRFXTC"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
-        "name": "Himmel \u00fcber Berlin",
-        "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
+        "name": "G\u00f6nn Dir",
+        "url": "https://open.spotify.com/album/7IKQk0vp8q7MCI8EVCF55N"
       },
       "artists": [
         {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+          "name": "twenty4tim",
+          "url": "https://open.spotify.com/artist/0BJ10PxQXDtW07wTHuXuLu"
         }
       ],
-      "duration_ms": 123146,
-      "name": "Doppel G",
-      "url": "https://open.spotify.com/track/6Pk9SrYcNROzVANFESonWh"
+      "duration_ms": 128000,
+      "name": "G\u00f6nn Dir",
+      "url": "https://open.spotify.com/track/0ywXueKGCisfLkyOphGwaZ"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206384,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Cider",
+        "url": "https://open.spotify.com/album/0NOmnhMUuHzHKbto1lL4if"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        }
+      ],
+      "duration_ms": 175798,
+      "name": "Cider",
+      "url": "https://open.spotify.com/track/49y9ulK2kgYvVw3yBSdDao"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/3Sz7mR0kbSHklOv6Nk5duJ"
+      },
+      "artists": [
+        {
+          "name": "OsTEKKe",
+          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
+        }
+      ],
+      "duration_ms": 150595,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/0SHHJc5BFL4pVmxm32Bb8Q"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "Keine Tr\u00e4nen",
         "url": "https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR"
@@ -157,7 +301,7 @@
       "url": "https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "ALLEINE (SW43 L33 D1DO REMIX)",
         "url": "https://open.spotify.com/album/0ozheCbpwPZOCFFzkz1msF"
@@ -177,55 +321,7 @@
       "url": "https://open.spotify.com/track/7dq9QIXx5eIz6w2MNzTan4"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206384,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Another Love",
-        "url": "https://open.spotify.com/album/3Sz7mR0kbSHklOv6Nk5duJ"
-      },
-      "artists": [
-        {
-          "name": "OsTEKKe",
-          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
-        }
-      ],
-      "duration_ms": 150595,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/0SHHJc5BFL4pVmxm32Bb8Q"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "MIXED FEELINGS",
         "url": "https://open.spotify.com/album/1ldWJtQGYdE34MP627RCBc"
@@ -241,7 +337,7 @@
       "url": "https://open.spotify.com/track/2q7jpVfCtcuRwcur9nQeuC"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "Nachts wach (Remix EP)",
         "url": "https://open.spotify.com/album/3iHDtutprAk1q5Fe55till"
@@ -261,87 +357,63 @@
       "url": "https://open.spotify.com/track/6ZjuBJah2xFEl4z3X20di3"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
-        "name": "Himmel \u00fcber Berlin",
-        "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
+        "name": "Layla (Dutch Version)",
+        "url": "https://open.spotify.com/album/0FzJ3c7iD03TfPeRnsrgwu"
       },
       "artists": [
         {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
         }
       ],
-      "duration_ms": 101480,
-      "name": "Milano",
-      "url": "https://open.spotify.com/track/4wXJldkJcvxENCYs5ghbNj"
+      "duration_ms": 185706,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
-        "name": "Beautiful Girl",
-        "url": "https://open.spotify.com/album/2dG0GF5ikINJmc7nTRKSBk"
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
       "artists": [
         {
           "name": "Luciano",
           "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 179186,
-      "name": "Beautiful Girl",
-      "url": "https://open.spotify.com/track/2XRn6Qu0Wd1KvOND8JbaTx"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Himmel \u00fcber Berlin",
-        "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
-      },
-      "artists": [
+        },
         {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
         }
       ],
-      "duration_ms": 107053,
-      "name": "sme (sei ma ehrlich)",
-      "url": "https://open.spotify.com/track/2iQMBtjizpJ6d5bSXb9USL"
+      "duration_ms": 130199,
+      "name": "Blue Cheese (feat. KALIM)",
+      "url": "https://open.spotify.com/track/7BaLRoaLSmnOgmMnQzonGq"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Himmel \u00fcber Berlin",
-        "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 134093,
-      "name": "Tourlife.mp3",
-      "url": "https://open.spotify.com/track/7vkq044gRCCrEhThIHvbI7"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
@@ -361,7 +433,123 @@
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Sternzeichen Arrogant",
+        "url": "https://open.spotify.com/album/2n1HenX1wsWkwcMIvsIN5e"
+      },
+      "artists": [
+        {
+          "name": "Rosc",
+          "url": "https://open.spotify.com/artist/4vEIMa1vuh2eKBryiepN8c"
+        }
+      ],
+      "duration_ms": 137482,
+      "name": "Sternzeichen Arrogant",
+      "url": "https://open.spotify.com/track/038awuS65sn5GQxlpJGkqj"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 175880,
+      "name": "Drill LUV",
+      "url": "https://open.spotify.com/track/2XXpLFPZGxgtohTd79DjZO"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Himmel \u00fcber Berlin",
+        "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 134093,
+      "name": "Tourlife.mp3",
+      "url": "https://open.spotify.com/track/7vkq044gRCCrEhThIHvbI7"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Tokyo Drift",
+        "url": "https://open.spotify.com/album/7lfqfDVYreFUdrBJ4hwsih"
+      },
+      "artists": [
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        },
+        {
+          "name": "The Cratez",
+          "url": "https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb"
+        },
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "Kkuba102",
+          "url": "https://open.spotify.com/artist/4fc3ii0Q4S0O9C7O9XRTxz"
+        },
+        {
+          "name": "Stacks102",
+          "url": "https://open.spotify.com/artist/32AAxPlW6sOK0nopTJM7sv"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "Tokyo Drift",
+      "url": "https://open.spotify.com/track/41KH81gnVWhIESbCRYluOQ"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
@@ -381,7 +569,7 @@
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "Himmel \u00fcber Berlin",
         "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
@@ -397,23 +585,7 @@
       "url": "https://open.spotify.com/track/56MDdzieU2dTT3YLpCdpcA"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Himmel \u00fcber Berlin",
-        "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "Marseille",
-      "url": "https://open.spotify.com/track/1IwYW1AOGriTuAS52gUm2i"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "Palmen aus Plastik 3",
         "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
@@ -437,63 +609,7 @@
       "url": "https://open.spotify.com/track/2EriVX6pX9RcmMsgU8Hsir"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Layla (Dutch Version)",
-        "url": "https://open.spotify.com/album/0FzJ3c7iD03TfPeRnsrgwu"
-      },
-      "artists": [
-        {
-          "name": "DJ Robin",
-          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
-        },
-        {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
-        }
-      ],
-      "duration_ms": 185706,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "Himmel \u00fcber Berlin",
         "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
@@ -504,12 +620,64 @@
           "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
         }
       ],
-      "duration_ms": 97813,
-      "name": "Ferragamo",
-      "url": "https://open.spotify.com/track/01pemiis9ttYA9ZxMaZVg7"
+      "duration_ms": 101480,
+      "name": "Milano",
+      "url": "https://open.spotify.com/track/4wXJldkJcvxENCYs5ghbNj"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "Frozen Tears",
+      "url": "https://open.spotify.com/track/7hFw40Ta4n5wwD1Xzdscb5"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/4xTyBut8EFwy8FGzKD9NY6"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/1W1N3usYjgI3XGQA0iX9Vq"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "Sternenstaub",
         "url": "https://open.spotify.com/album/1gU9sENbkoBnWpWlizlAjj"
@@ -533,55 +701,7 @@
       "url": "https://open.spotify.com/track/0j1whACQqbHlGzSZaUh6uR"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Versager",
-        "url": "https://open.spotify.com/album/7hWoeUu8CUj2Ec1AZ5Xe4d"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 183193,
-      "name": "Versager",
-      "url": "https://open.spotify.com/track/3iZuI8q4aTMACYxEoq0TaV"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Himmel \u00fcber Berlin",
-        "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 140013,
-      "name": "21",
-      "url": "https://open.spotify.com/track/43SgbfsWPm8aqBAQngA1vv"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -597,67 +717,91 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
       "artists": [
         {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
         }
       ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
+      "duration_ms": 162173,
+      "name": "SUVs",
+      "url": "https://open.spotify.com/track/5E2JcyolDstvqZ0PNpT3pS"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
-        "name": "F\u00fcr den Himmel durch die H\u00f6lle",
-        "url": "https://open.spotify.com/album/5925gOqT0wsG2ZQmdOJXZW"
+        "name": "Himmel \u00fcber Berlin",
+        "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
       },
       "artists": [
         {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        },
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
         }
       ],
-      "duration_ms": 145013,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/1DTVCRW8QPPteXXhBlohM2"
+      "duration_ms": 107053,
+      "name": "sme (sei ma ehrlich)",
+      "url": "https://open.spotify.com/track/2iQMBtjizpJ6d5bSXb9USL"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/4xTyBut8EFwy8FGzKD9NY6"
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
       "artists": [
         {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
         },
         {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
         }
       ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/1W1N3usYjgI3XGQA0iX9Vq"
+      "duration_ms": 139733,
+      "name": "Tattoos (feat. RAF Camora)",
+      "url": "https://open.spotify.com/track/23EzkJ0gwrAW3mAH1H0vuv"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Himmel \u00fcber Berlin",
+        "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "Marseille",
+      "url": "https://open.spotify.com/track/1IwYW1AOGriTuAS52gUm2i"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "In Liebe, Ion",
         "url": "https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE"
@@ -681,7 +825,47 @@
       "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "Himmel \u00fcber Berlin",
+        "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 97813,
+      "name": "Ferragamo",
+      "url": "https://open.spotify.com/track/01pemiis9ttYA9ZxMaZVg7"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
+      "album": {
+        "name": "F\u00fcr den Himmel durch die H\u00f6lle",
+        "url": "https://open.spotify.com/album/5925gOqT0wsG2ZQmdOJXZW"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 145013,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/1DTVCRW8QPPteXXhBlohM2"
+    },
+    {
+      "added_at": "2022-10-01 11:39:30",
       "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
@@ -697,220 +881,60 @@
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
-        "name": "Palmen aus Plastik 3",
-        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
       },
       "artists": [
         {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 150296,
-      "name": "Eine Idee",
-      "url": "https://open.spotify.com/track/21MlfDYRjL0DuBbiCS9wlB"
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
-        "name": "KARGO",
-        "url": "https://open.spotify.com/album/1NkctVTc6vjJ6j0U606B7g"
-      },
-      "artists": [
-        {
-          "name": "Kraftklub",
-          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
-        }
-      ],
-      "duration_ms": 179456,
-      "name": "Blaues Licht",
-      "url": "https://open.spotify.com/track/1LYb6PIZO8jcGztOWI6ymM"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Queen Radio: Volume 1",
-        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Wildberry Lillet (Remix feat. Juju)",
-        "url": "https://open.spotify.com/album/68YT84vuoXApmgcibxxM9v"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        },
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "Wildberry Lillet (Remix feat. Juju)",
-      "url": "https://open.spotify.com/track/1ywM9BP8vzh0Pu1zbnGAfY"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "B.O.T.A. (Baddest Of Them All)",
-        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "F\u00fcr den Himmel durch die H\u00f6lle",
-        "url": "https://open.spotify.com/album/5925gOqT0wsG2ZQmdOJXZW"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Nur f\u00fcr Dich",
-      "url": "https://open.spotify.com/track/7y2CanQNBGTd7EVJy80hLC"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Kernkraft 400 (A Better Day)",
-        "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Kernkraft 400 (A Better Day)",
-      "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Frozen Tears",
-        "url": "https://open.spotify.com/album/5pJiXMEhtyXo3v9wfJcDAA"
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
       "artists": [
         {
           "name": "Luciano",
           "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
         }
       ],
-      "duration_ms": 208282,
-      "name": "Frozen Tears",
-      "url": "https://open.spotify.com/track/4yNNFapUZM7aTElXE2JveQ"
+      "duration_ms": 153573,
+      "name": "Life Lessons (feat. Headie One)",
+      "url": "https://open.spotify.com/track/75cxFn3oHrwMRDUXsLTvUl"
     },
     {
-      "added_at": "2022-09-30 10:14:58",
+      "added_at": "2022-10-01 11:39:30",
       "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
       "artists": [
         {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
         },
         {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+          "name": "Sophie Hunger",
+          "url": "https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax"
         }
       ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
-    },
-    {
-      "added_at": "2022-09-30 10:14:58",
-      "album": {
-        "name": "Palmen aus Plastik 3",
-        "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        }
-      ],
-      "duration_ms": 193749,
-      "name": "Sommer",
-      "url": "https://open.spotify.com/track/41ZYUGtRGAi3SEx23AZXfB"
+      "duration_ms": 129493,
+      "name": "Everywhere (feat. Sophie Hunger)",
+      "url": "https://open.spotify.com/track/3tclrcMq55RBexbs0hg77O"
     }
   ],
   "unique_name": "Top 50 - Germany",

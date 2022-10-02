@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-420 songs - 1 day 0 hr 33 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
+421 songs - 1 day 0 hr 37 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [アディショナルメモリー](https://open.spotify.com/track/1OioUJP7AHeHKONLJ8fDu2) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [メカクシティリロード](https://open.spotify.com/album/78fKdFzPzErb404MCxx21i) | 4:00 | 2022-06-14 | 2022-07-09 |
 | [アナフィラキシー](https://open.spotify.com/track/7yMLVDXbl1vyjrwtL8oQkG) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P) | [Anaphylaxie Bee](https://open.spotify.com/album/5udBqTGXlGI3bMZ2ju3m0J) | 3:46 | 2022-06-23 | 2022-07-04 |
 | [アニマル](https://open.spotify.com/track/1b0zIQJV4TMwPXudWcHjQv) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アニマル](https://open.spotify.com/album/2dPOTYm0jQ6elPeoCKJFE9) | 2:32 | 2022-06-09 | 2022-07-25 |
+| [アブノーマリティ・ダンシンガール](https://open.spotify.com/track/3sWcYSiFPCL5CNzU0H5Wau) | [ぐちり](https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww) | [憂象夢象](https://open.spotify.com/album/5HdP7JlJXuOhqnraTBVeUP) | 3:28 | 2022-09-22 |  |
 | [アユミ☆マジカルショータイム](https://open.spotify.com/track/2zuxjeU8HhNjhwAImmdLWn) | [kinoshita](https://open.spotify.com/artist/5PBCVNjKu2JDCxHI0WNYa5) | [アユミ☆マジカルショータイム](https://open.spotify.com/album/3DjcAS0tISWGmfmDsgohHS) | 3:53 | 2022-06-09 | 2022-07-25 |
 | [アルティメットセンパイ](https://open.spotify.com/track/5Lsdr0kU6beWlXns5yRzfT) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [アルティメットセンパイ](https://open.spotify.com/album/7jhZ6DlDkoave3d9EluECt) | 3:38 | 2022-06-09 | 2022-07-03 |
 | [アングレイデイズ](https://open.spotify.com/track/0D6nkihMwftoet1pTtxfV4) | [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [SAKKAC CRAFT](https://open.spotify.com/album/55Rv0QRBYFu3X1rlrxwExc) | 3:00 | 2022-06-14 | 2022-07-23 |
@@ -389,7 +390,7 @@
 | [深海シティアンダーグラウンド](https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS) | [tanaka B](https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO) | [深海シティアンダーグラウンド](https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc) | 4:37 | 2022-06-14 | 2022-07-04 |
 | [深海少女 \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/5FtPiazzV8mUmndWIzIdpz) | [Yuuyu](https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:58 | 2022-06-14 | 2022-06-28 |
 | [満月蝋梅 / 初音ミク](https://open.spotify.com/track/35Sl6rppHY0RBdahBPh1r2) | [犬P](https://open.spotify.com/artist/4oX5Yy1CCPaTvbkqzOSyFU) | [満月蝋梅 / 初音ミク](https://open.spotify.com/album/3vXpYvbOFm6MAyf5LJU7uZ) | 2:13 | 2022-06-09 | 2022-07-27 |
-| [炉心融解](https://open.spotify.com/track/705CVl7WvtnJgVpGIgZ6dQ) | [iroha\(sasaki\)](https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc) | [炉心融解](https://open.spotify.com/album/57aSkuZLXXOAyUbhclh3p3) | 5:29 | 2022-06-30 |  |
+| [炉心融解](https://open.spotify.com/track/705CVl7WvtnJgVpGIgZ6dQ) | [iroha\(sasaki\)](https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc) | [炉心融解](https://open.spotify.com/album/57aSkuZLXXOAyUbhclh3p3) | 5:29 | 2022-06-30 | 2022-10-02 |
 | [猛独が襲う](https://open.spotify.com/track/1GscTZDRIVR7st9ntNH668) | [一二三](https://open.spotify.com/artist/5vItHKjQjXHkIpgt4MEchO) | [猛独が襲う](https://open.spotify.com/album/6CFOcvUYRnXqjogbRX9A1a) | 4:12 | 2022-06-28 | 2022-07-29 |
 | [猫猫的宇宙論](https://open.spotify.com/track/2hsATi9mUl4j6G5iVVAdrN) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [猫猫的宇宙論](https://open.spotify.com/album/1uufPNiunn3LXxeLigViIP) | 3:36 | 2022-06-09 | 2022-06-11 |
 | [珈琲メモリア](https://open.spotify.com/track/42HHocSogPnphZvWptRKRz) | [大江カルシー](https://open.spotify.com/artist/658uG2eg1MYI6RCG7UsGKo) | [珈琲メモリア](https://open.spotify.com/album/0LlIkhL2JWxakcF1ctmuGo) | 2:52 | 2022-06-14 | 2022-06-19 |

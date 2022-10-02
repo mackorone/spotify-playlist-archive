@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: DWY, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,733 likes - 61 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,742 likes - 61 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 15 | [Steezy](https://open.spotify.com/track/1DfWcuNN98dFB5m2oLdv0T) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Steezy](https://open.spotify.com/album/0yoIYo1go5qW9BJqQXDxZN) | 2:59 |
 | 16 | [Cowboy Gangster Politician](https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt) | 3:52 |
 | 17 | [Just for the Day](https://open.spotify.com/track/0QmULc4I1zVKUU9BoI2dqd) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Just for the Day](https://open.spotify.com/album/3DTiE4gQOSaKuMTVvc5amh) | 3:37 |
-| 18 | [Is She](https://open.spotify.com/track/6WNPUcjJTBF43YjS6A0EYg) | [Rama](https://open.spotify.com/artist/0XeGXAgiqL0aHhPW97fykg) | [A 249 Experience Vol.2](https://open.spotify.com/album/5VCBKCYOGdb6DeghFDwehF) | 2:10 |
+| 18 | [Is She](https://open.spotify.com/track/6WNPUcjJTBF43YjS6A0EYg) | [Rama](https://open.spotify.com/artist/3Hsg7WOEMVJPOXLXWbG2iy) | [A 249 Experience Vol.2](https://open.spotify.com/album/5VCBKCYOGdb6DeghFDwehF) | 2:10 |
 | 19 | [Moonlight Memories](https://open.spotify.com/track/1WVkVorrWdLwZi2bS4H3mK) | [Willie Shaw](https://open.spotify.com/artist/1WtJGNrnGxmw7osdorX4iM) | [Moonlight Memories](https://open.spotify.com/album/6PexGWILR5eo0mat4cr0wF) | 3:15 |
 | 20 | [Wear Me Down](https://open.spotify.com/track/2pvdeK0PX52lz11PKetKGL) | [Jordan Fuller](https://open.spotify.com/artist/6ek2AyxsyDe2KtbWkaICdK) | [Wear Me Down](https://open.spotify.com/album/3MIs4aujNJgDbFavDgD9xN) | 2:25 |
 | 21 | [Gone Away](https://open.spotify.com/track/20TQFjdslMaSvYRJkBYxNA) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Gone Away](https://open.spotify.com/album/7EMYsTL9x51BD6szWpUmP6) | 4:50 |

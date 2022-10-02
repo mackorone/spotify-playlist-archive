@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Dena Euprasert\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,224 likes - 55 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,245 likes - 55 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [โรงอาหาร \(Canteen\)](https://open.spotify.com/track/4vAN681BRgElt1Vwr76awL) | [Kamin Kingsak](https://open.spotify.com/artist/2flyd7ey35JuludWaAMELO) | [โรงอาหาร \(Canteen\)](https://open.spotify.com/album/11OzcdWBZwSDDT4QnyU2A9) | 3:57 |
-| 2 | [พิเศษรึเปล่านะ \(Breadcrumbing ?\)](https://open.spotify.com/track/2QtmRzM5dEk8saLilY4ixX) | [Dena Euprasert](https://open.spotify.com/artist/49nTWFKWbXq3Rew7lyZiGK) | [พิเศษรึเปล่านะ \(Breadcrumbing ?\)](https://open.spotify.com/album/17MWlyVeTaKpdjmhMJEo3L) | 3:22 |
+| 2 | [พิเศษรึเปล่านะ \(Breadcrumbing ?\)](https://open.spotify.com/track/2QtmRzM5dEk8saLilY4ixX) | [Dena Euprasert](https://open.spotify.com/artist/5mLzhpjIOXrJBCjmfv0rUb) | [พิเศษรึเปล่านะ \(Breadcrumbing ?\)](https://open.spotify.com/album/17MWlyVeTaKpdjmhMJEo3L) | 3:22 |
 | 3 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
 | 4 | [ศูนย์คูณอะไรก็ได้ศูนย์](https://open.spotify.com/track/4DE4fRvrmz9OirN65YLT1R) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ศูนย์คูณอะไรก็ได้ศูนย์](https://open.spotify.com/album/1RfjCeIZn3C66mR8Lanxzb) | 3:10 |
 | 5 | [โฮกปี๊บ](https://open.spotify.com/track/11XGRK0hUhOSgp1A5rrPuk) | [LOST CHIPS](https://open.spotify.com/artist/3OtnIU9UGggkQMmbvnZoo9) | [โฮกปี๊บ](https://open.spotify.com/album/7pwOg2SRX9ZwVbfdZcBYOc) | 4:27 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 17 | [ไอ้เจ้าใจร้าย \(Cruel\)](https://open.spotify.com/track/0WT5GzUeUI1XVH2YU7wg53) | [Pure Pure Napolpong](https://open.spotify.com/artist/2l40N9NoOnjvaU4HTRQcRg) | [ไอ้เจ้าใจร้าย \(Cruel\)](https://open.spotify.com/album/4u9z5JUZYNlSL2iP9MF0lg) | 3:38 |
 | 18 | [เรื่องธรรมดา \(1517\) \[feat\. MANGKORN\]](https://open.spotify.com/track/38LqNoIo76nP28GGevEeE2) | [DVSH](https://open.spotify.com/artist/2Te1zJ4GHWtiKqWMTHg48Z), [MANGKORN](https://open.spotify.com/artist/2vRBQnwBMKxz1Hs5RFKTcr) | [เรื่องธรรมดา \(1517\) \[feat\. MANGKORN\]](https://open.spotify.com/album/6z7fiueLiYb8ASKiyfaKOR) | 4:07 |
 | 19 | [รับรักที \(Say Yes\)](https://open.spotify.com/track/53yviWwlIJIEPUdArJnk5G) | [BOWPRAT](https://open.spotify.com/artist/40Yyk6kXQ8WtJ3RFp7qDaB) | [รับรักที \(Say Yes\)](https://open.spotify.com/album/4Axr0kZYMIdXwMqkoLFQw6) | 3:55 |
-| 20 | [ฝากยัวร์เลิฟ \(Find Your Love\)](https://open.spotify.com/track/6ZfGZgRclrAA5phSGWNKeN) | [TANQUE’AMA](https://open.spotify.com/artist/03eRS1yPi8etoi8rf17X55) | [ฝากยัวร์เลิฟ \(Find Your Love\)](https://open.spotify.com/album/6oHSWlgZ5aG6wPZU5v5tFk) | 4:49 |
+| 20 | [ฝากยัวร์เลิฟ \(Find Your Love\)](https://open.spotify.com/track/6ZfGZgRclrAA5phSGWNKeN) | [ตังเกอาม่า](https://open.spotify.com/artist/3N96BE6i0aYpnJp3WIqUuy) | [ฝากยัวร์เลิฟ \(Find Your Love\)](https://open.spotify.com/album/6oHSWlgZ5aG6wPZU5v5tFk) | 4:49 |
 | 21 | [มั่นไหม \(Are You?\)](https://open.spotify.com/track/1nStTuO7S75gAIywcWRGyr) | [LingRom](https://open.spotify.com/artist/0c7t2Do6vXQAK1BT3FUYoq) | [มั่นไหม \(Are You?\)](https://open.spotify.com/album/0axdQpYeTvUjHMBOOoi0Vn) | 3:33 |
 | 22 | [ละอองความคิดถึง](https://open.spotify.com/track/4CGZakufR6aCMBrfREzVAx) | [HALLOANDFRIENDSSS](https://open.spotify.com/artist/0NFtuDhUoQwarZCivxJfUa) | [ละอองความคิดถึง](https://open.spotify.com/album/3HkMrHluj1WJGJAcB5Bke3) | 4:42 |
 | 23 | [ใจป๋ม \- You cut my heart cuz you don't care my hair](https://open.spotify.com/track/0SwPGg24r6JbBIMJuJI66s) | [KiRANA](https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC) | [ใจป๋ม \(You cut my heart cuz you don't care my hair\)](https://open.spotify.com/album/3JouJ5dqQEbzJH7pQ4Iffj) | 3:38 |

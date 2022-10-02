@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 
 > 11月11日\(金\)に公開される映画<a href="https://suzume\-tojimari\-movie.jp/">『すずめの戸締まり』</a>を記念して、新海誠監督作品を彩ってきた数多くの名曲をひとつのプレイリストにしました。 <a href="spotify:show:5nlDsmpul9enHhSHgkfPD5">音声版『聴く小説・すずめの戸締まり』</a>は平日毎日更新。 © 2022「すずめの戸締まり」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,701 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,324 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

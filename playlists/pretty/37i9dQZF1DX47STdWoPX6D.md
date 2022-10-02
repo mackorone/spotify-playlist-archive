@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > In honor of our beloved friend and Kuya Dj Efechto\. This a collection of songs he loved, that influenced him, and tracks he produced or scratched on\. Turn your system to the Red for Efechto\.  Guest curated by Propaganda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,754 likes - 23 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,755 likes - 23 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

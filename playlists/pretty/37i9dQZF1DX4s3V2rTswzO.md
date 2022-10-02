@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 
 > Spend some quality time with these romantic classical masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,572 likes - 44 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,703 likes - 44 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

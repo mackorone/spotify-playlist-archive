@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 161160,
       "name": "Abantwana Basethempeleni",
       "url": "https://open.spotify.com/track/2NoN5zs2gYhYKNwzUWuZKP"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 308666,
       "name": "Biko (feat. Alex Brown, Peter Gabriel, Ladysmith Black Mambazo & Geoffrey Oryema)",
       "url": "https://open.spotify.com/track/5PlwfYLmedp2BPxf0oGy8x"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 372009,
       "name": "Everything's So Stupid! (Abadala)",
       "url": "https://open.spotify.com/track/5W5J4ma1uwWWa0pqElLcpv"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 288466,
       "name": "Inkanyezi Nezazi (The Star And The Wiseman)",
       "url": "https://open.spotify.com/track/1EYDFzpXnupeapHRA6vX3c"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 481853,
       "name": "Isimanga Salomhlaba (Soul Drummer Mix)",
       "url": "https://open.spotify.com/track/15Z4ir2D3mCxVVcdmp8JGa"
@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181099,
+      "name": "Mbube (Wimoweh)",
+      "url": "https://open.spotify.com/track/42puzIUfTXWBx5CBGIY07j"
+    },
+    {
+      "album": {
         "name": "World Music",
         "url": "https://open.spotify.com/album/1RZzCdUCiKDMwJFTl3WmSH"
       },
@@ -855,7 +873,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 183360,
       "name": "Music Knows No Boundaries",
       "url": "https://open.spotify.com/track/2Qls7UNIdeX6Q8NsVjdRkW"
@@ -1396,6 +1414,24 @@
     },
     {
       "album": {
+        "name": "Ikhaya Nothando",
+        "url": "https://open.spotify.com/album/2FROh0s0wCaWvJ4yM2Ym3V"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226426,
+      "name": "Uthando",
+      "url": "https://open.spotify.com/track/2be3NsmKfEWSbXYZ2S6A98"
+    },
+    {
+      "album": {
         "name": "The Lion King 2: Simba's Pride",
         "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
       },
@@ -1437,7 +1473,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 247253,
       "name": "We Will Sing @30",
       "url": "https://open.spotify.com/track/4FpZMe9Hoath6c9K5kggu1"
@@ -1525,7 +1561,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 181099,
       "name": "Wimoweh Mbube",
       "url": "https://open.spotify.com/track/4XsfDYpZamAzxUkYVynCav"

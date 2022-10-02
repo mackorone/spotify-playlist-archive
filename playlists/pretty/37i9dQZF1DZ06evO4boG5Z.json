@@ -1,15 +1,15 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 23256,
+  "num_followers": 23264,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc3NDI0MDksMDAwMDAwMDA5NmU1OGY2MTdhZDkyOTMwM2Y5MjI1ZThhYzU1ZTVkNQ==",
+  "snapshot_id": "Mjc3NDM4MzQsMDAwMDAwMDBjMGI4ZjZkNzRjMjMxMTQ4ODJjMWY5YWVkOTJiYTg4Nw==",
   "tracks": [
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Pennybridge Pioneers",
         "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Life On A Plate",
         "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3gooDJFGBLgQO9OOmYeB7s"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Home From Home",
         "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6hhXVmXQBECK7Z0DXrFb2U"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "For Monkeys",
         "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7Kd6VbwhKBfEMV3aLbxLkC"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Pennybridge Pioneers",
         "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
@@ -89,39 +89,7 @@
       "url": "https://open.spotify.com/track/3jRsoe4Vkxa4BMYqGHX8L0"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/2WbxknLnzzrg2C1l3tivqc"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "Man Or Mouse",
-      "url": "https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Same Old Tunes",
         "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
@@ -137,7 +105,39 @@
       "url": "https://open.spotify.com/track/0lFRuSSXio2yWeSBbw2Gis"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Man Or Mouse",
+      "url": "https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/2WbxknLnzzrg2C1l3tivqc"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Pennybridge Pioneers",
         "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/21eOk9YSfReHLXFvxPURtk"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "True Brew",
         "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
@@ -169,71 +169,7 @@
       "url": "https://open.spotify.com/track/3LZEfNShP0RjbHyd9vXQ2m"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Black Eye",
-      "url": "https://open.spotify.com/track/4pzwZoV0TGAByCLxlt2QCe"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 121373,
-      "name": "Dance Craze",
-      "url": "https://open.spotify.com/track/2lgg5VzE1GUtmgxLz8r6u2"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Pennybridge Pioneers",
-        "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Material Boy",
-      "url": "https://open.spotify.com/track/4IRDVWypOZIcxUOeVhLVCC"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "True Brew",
-      "url": "https://open.spotify.com/track/2Yj1mVu6ONbiz4zaxDq4PH"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Home From Home",
         "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
@@ -249,7 +185,7 @@
       "url": "https://open.spotify.com/track/5sSOSrmrxyiucqvoStb5oq"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Life On A Plate",
         "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
@@ -265,7 +201,7 @@
       "url": "https://open.spotify.com/track/4RyifJbF8JhMtFdR2Bzslt"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Pennybridge Pioneers",
         "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
@@ -281,10 +217,10 @@
       "url": "https://open.spotify.com/track/5OnxMW0KmSqiZjwnpTzqE8"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
       "artists": [
         {
@@ -292,12 +228,12 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 160173,
-      "name": "Random I Am",
-      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
+      "duration_ms": 202213,
+      "name": "True Brew",
+      "url": "https://open.spotify.com/track/2Yj1mVu6ONbiz4zaxDq4PH"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Home From Home",
         "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
@@ -313,135 +249,7 @@
       "url": "https://open.spotify.com/track/1Dsb0L3HuBIn11cO5MauJE"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Life On A Plate",
-        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "Olympic",
-      "url": "https://open.spotify.com/track/6xbmKbE9Z2Xot1oTyTxaYm"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Pennybridge Pioneers",
-        "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 290266,
-      "name": "The Ballad",
-      "url": "https://open.spotify.com/track/4MW9YLsGZ0FoxrxmfAsrYc"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 141706,
-      "name": "Leona",
-      "url": "https://open.spotify.com/track/1meXK8bC29YKP011kHQml1"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Life On A Plate",
-        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 151506,
-      "name": "Friends 'Til the End",
-      "url": "https://open.spotify.com/track/00cjb9ge4OJllcoUN8l1jm"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 119946,
-      "name": "Autopilot Mode",
-      "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 171920,
-      "name": "Farewell My Hell",
-      "url": "https://open.spotify.com/track/1W18sciWbMzbsaK3OzcQoh"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 199589,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Life On A Plate",
         "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
@@ -457,10 +265,10 @@
       "url": "https://open.spotify.com/track/1Vt1I7Y29T6ObxjE55VDf4"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
-        "name": "The Melancholy Connection",
-        "url": "https://open.spotify.com/album/77AjEPs6vSjhcmIeRQ7xC7"
+        "name": "Pennybridge Pioneers",
+        "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
       },
       "artists": [
         {
@@ -468,15 +276,15 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 204760,
-      "name": "E20 Norr",
-      "url": "https://open.spotify.com/track/1k9GmgwJI3nuAuhjnbWjrC"
+      "duration_ms": 143400,
+      "name": "Material Boy",
+      "url": "https://open.spotify.com/track/4IRDVWypOZIcxUOeVhLVCC"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
       "artists": [
         {
@@ -484,15 +292,15 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 219504,
-      "name": "Shut You Out",
-      "url": "https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ"
+      "duration_ms": 121373,
+      "name": "Dance Craze",
+      "url": "https://open.spotify.com/track/2lgg5VzE1GUtmgxLz8r6u2"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
       "artists": [
         {
@@ -500,28 +308,12 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 154293,
-      "name": "Egocentric Man",
-      "url": "https://open.spotify.com/track/6gcTVs1P3Rkl4XYF2MF74j"
+      "duration_ms": 170480,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Life On A Plate",
-        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 126573,
-      "name": "Move Your Car",
-      "url": "https://open.spotify.com/track/3LDqGUQfSMrJs4gQQID2ZZ"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "For Monkeys",
         "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
@@ -532,15 +324,15 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 127000,
-      "name": "Boring Planet",
-      "url": "https://open.spotify.com/track/3OQfwNOhDOodlqBYixpc3A"
+      "duration_ms": 160173,
+      "name": "Random I Am",
+      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+        "name": "Pennybridge Pioneers",
+        "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
       },
       "artists": [
         {
@@ -548,12 +340,12 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 132333,
-      "name": "Mooseman's Jukebox",
-      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
+      "duration_ms": 290266,
+      "name": "The Ballad",
+      "url": "https://open.spotify.com/track/4MW9YLsGZ0FoxrxmfAsrYc"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "True Brew",
         "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
@@ -569,7 +361,215 @@
       "url": "https://open.spotify.com/track/0UaOzDAzZPiPfXP2AbIrpf"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Black Eye",
+      "url": "https://open.spotify.com/track/4pzwZoV0TGAByCLxlt2QCe"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 199589,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "Olympic",
+      "url": "https://open.spotify.com/track/6xbmKbE9Z2Xot1oTyTxaYm"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 119946,
+      "name": "Autopilot Mode",
+      "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 175640,
+      "name": "Twenty Two",
+      "url": "https://open.spotify.com/track/2xvDTagYO7g68Ap5dD77E1"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "The Melancholy Connection",
+        "url": "https://open.spotify.com/album/77AjEPs6vSjhcmIeRQ7xC7"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "E20 Norr",
+      "url": "https://open.spotify.com/track/1k9GmgwJI3nuAuhjnbWjrC"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 151506,
+      "name": "Friends 'Til the End",
+      "url": "https://open.spotify.com/track/00cjb9ge4OJllcoUN8l1jm"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Egocentric Man",
+      "url": "https://open.spotify.com/track/6gcTVs1P3Rkl4XYF2MF74j"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 171920,
+      "name": "Farewell My Hell",
+      "url": "https://open.spotify.com/track/1W18sciWbMzbsaK3OzcQoh"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 141706,
+      "name": "Leona",
+      "url": "https://open.spotify.com/track/1meXK8bC29YKP011kHQml1"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 126573,
+      "name": "Move Your Car",
+      "url": "https://open.spotify.com/track/3LDqGUQfSMrJs4gQQID2ZZ"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Boring Planet",
+      "url": "https://open.spotify.com/track/3OQfwNOhDOodlqBYixpc3A"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 132333,
+      "name": "Mooseman's Jukebox",
+      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "The Melancholy Collection",
         "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
@@ -585,71 +585,7 @@
       "url": "https://open.spotify.com/track/5EBKNotjiE8N7pkOCvPjrk"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 163826,
-      "name": "Take It or Leave It",
-      "url": "https://open.spotify.com/track/3rakx65uBKaOsspCn71bYF"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 138002,
-      "name": "Biftek Supernova",
-      "url": "https://open.spotify.com/track/5Le0pa8qEQSFFQn1H3sLLK"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 170986,
-      "name": "Something I Would Die For",
-      "url": "https://open.spotify.com/track/1DQ7ahNI475OGg2aNib4V2"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 158280,
-      "name": "Puzzle",
-      "url": "https://open.spotify.com/track/7t6NcTfT2dWcI86fdvRwUl"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
@@ -665,7 +601,23 @@
       "url": "https://open.spotify.com/track/7fQGfzF4ZEtyczeU7zXb1d"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 170986,
+      "name": "Something I Would Die For",
+      "url": "https://open.spotify.com/track/1DQ7ahNI475OGg2aNib4V2"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Kingwood",
         "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
@@ -676,92 +628,12 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 198200,
-      "name": "Stalemate",
-      "url": "https://open.spotify.com/track/3vBpFa87OtswBtpVKvke4I"
+      "duration_ms": 219504,
+      "name": "Shut You Out",
+      "url": "https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "The Melancholy Collection",
-        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 134653,
-      "name": "Shake Me",
-      "url": "https://open.spotify.com/track/3aLD2mEsJpKgB1Ipq0dfSC"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 146426,
-      "name": "Monkey Boogie",
-      "url": "https://open.spotify.com/track/0LzAsmWBfDkmL3ujeG7Y0x"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Da Strike",
-      "url": "https://open.spotify.com/track/1zpz6NAlgOE2bLvfidhQhN"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 166093,
-      "name": "For Yesterday",
-      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
-      "album": {
-        "name": "The Melancholy Collection",
-        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "In a Room",
-      "url": "https://open.spotify.com/track/3msKuwHFNaHteIb7E66Iou"
-    },
-    {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "For Monkeys",
         "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
@@ -777,7 +649,23 @@
       "url": "https://open.spotify.com/track/6kwi6M2MlASB67LlmIcPrP"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "The Melancholy Collection",
+        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 134653,
+      "name": "Shake Me",
+      "url": "https://open.spotify.com/track/3aLD2mEsJpKgB1Ipq0dfSC"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Same Old Tunes",
         "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
@@ -788,12 +676,92 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 220973,
-      "name": "Diznee Time",
-      "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
+      "duration_ms": 163826,
+      "name": "Take It or Leave It",
+      "url": "https://open.spotify.com/track/3rakx65uBKaOsspCn71bYF"
     },
     {
-      "added_at": "2022-09-30 13:29:30",
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 138002,
+      "name": "Biftek Supernova",
+      "url": "https://open.spotify.com/track/5Le0pa8qEQSFFQn1H3sLLK"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 146426,
+      "name": "Monkey Boogie",
+      "url": "https://open.spotify.com/track/0LzAsmWBfDkmL3ujeG7Y0x"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "The Melancholy Collection",
+        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "In a Room",
+      "url": "https://open.spotify.com/track/3msKuwHFNaHteIb7E66Iou"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Da Strike",
+      "url": "https://open.spotify.com/track/1zpz6NAlgOE2bLvfidhQhN"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Stalemate",
+      "url": "https://open.spotify.com/track/3vBpFa87OtswBtpVKvke4I"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
       "album": {
         "name": "Machine 15",
         "url": "https://open.spotify.com/album/37R1jMircABSFxsoWulxTa"
@@ -807,6 +775,38 @@
       "duration_ms": 217306,
       "name": "Detox",
       "url": "https://open.spotify.com/track/61lH2PBKTjJ3M8CUe5YsND"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 166093,
+      "name": "For Yesterday",
+      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
+    },
+    {
+      "added_at": "2022-10-01 13:14:09",
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 220973,
+      "name": "Diznee Time",
+      "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
     }
   ],
   "unique_name": "This Is Millencolin",

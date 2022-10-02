@@ -973,12 +973,12 @@
       },
       "artists": [
         {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        },
-        {
           "name": "Thom Merlin",
           "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
         }
       ],
       "date_added": "2022-09-29",
@@ -1293,6 +1293,24 @@
       "duration_ms": 193548,
       "name": "Motorcycle",
       "url": "https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR"
+    },
+    {
+      "album": {
+        "name": "Mound\u00e9",
+        "url": "https://open.spotify.com/album/00NBfbmr2f5PWiFRrqxn1q"
+      },
+      "artists": [
+        {
+          "name": "RudeLies",
+          "url": "https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Mound\u00e9",
+      "url": "https://open.spotify.com/track/25GzYCnSJBbrSckIlBzIZD"
     },
     {
       "album": {
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 197073,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/15DlPYUnP84cvA4zC2zMDa"

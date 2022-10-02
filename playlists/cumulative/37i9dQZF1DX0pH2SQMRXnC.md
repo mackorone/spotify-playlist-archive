@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-458 songs - 1 day 2 hr 50 min - [published](https://open.spotify.com/playlist/40ibOn4vxhSEyiHRK9rUTk)
+459 songs - 1 day 2 hr 53 min - [published](https://open.spotify.com/playlist/40ibOn4vxhSEyiHRK9rUTk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Keep It Up](https://open.spotify.com/track/2qD7jGzVXhPKr5zAv8CysM) | [The Pitcher](https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X) | [Keep It Up](https://open.spotify.com/album/0brzA3lWqdb7UuTY7YxNYx) | 2:55 | 2021-12-16 |  |
 | [Keep on Moving](https://open.spotify.com/track/570np7INhblFuffFDsgPzi) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Keep on Moving](https://open.spotify.com/album/2ibu5krUd9w1z4ln2eUof7) | 3:00 | 2022-09-15 |  |
 | [Keep On Rockin'](https://open.spotify.com/track/03Gu5zrOY4mCq0RSQNELM7) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Crystal Lake](https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l) | [Keep On Rockin'](https://open.spotify.com/album/0514EsydSxK9My6vSD5QWI) | 2:59 | 2021-12-16 | 2022-04-21 |
+| [Killer](https://open.spotify.com/track/6jOnJuuHrAo8TER3UhfVsN) | [D\-Attack](https://open.spotify.com/artist/79QnAdpXGrzcsIOFtW3gR4), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Killer](https://open.spotify.com/album/1hM1dZvmgVxLpO9Ddw518d) | 3:49 | 2022-09-30 |  |
 | [Kingdom Comes](https://open.spotify.com/track/3pr7N1tEtoQbJUlediJWJ3) | [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Kingdom Comes](https://open.spotify.com/album/4d6cq051HQEbbU1hvepc7I) | 3:38 | 2021-12-16 |  |
 | [Kunai](https://open.spotify.com/track/6YNkhnU2trzwKIL7Dgcdlj) | [GMAXX](https://open.spotify.com/artist/08emtxxFRRK0vu6XE8nA74), [Detunne](https://open.spotify.com/artist/0Q0o71MBUk0QI4kJ4Xq6YG), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Kunai](https://open.spotify.com/album/6wZME1GkTiKvShtLnUHN8F) | 2:24 | 2021-12-16 | 2022-07-08 |
 | [kunterbunt](https://open.spotify.com/track/0qDSunXZZ2c5HUD0AMeWzd) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [kunterbunt](https://open.spotify.com/album/76JWwHeDCQYMUdj9dl1lBO) | 3:48 | 2021-12-16 | 2022-05-30 |
@@ -458,7 +459,7 @@
 | [Whiskey](https://open.spotify.com/track/31mjoUHs9Zdt2Eks0MJNqI) | [Dark Rehab](https://open.spotify.com/artist/24jS2MsXlq7YvtdPeOt3xn) | [Whiskey](https://open.spotify.com/album/1yHjM9qOSBKTIF9e9lBnAJ) | 3:40 | 2021-12-16 | 2022-07-28 |
 | [White Lines](https://open.spotify.com/track/1PVnSZcmBg0ObTk3x0Z8Me) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [White Lines](https://open.spotify.com/album/6BzLLaLhpl7eSSDrZAyM4E) | 3:10 | 2022-05-23 | 2022-05-30 |
 | [Why Always Me](https://open.spotify.com/track/1PjUjputBegeHFHfIAtKRg) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Why Always Me](https://open.spotify.com/album/6MFKHYW5RHQ5ZjoCRXmv7j) | 3:00 | 2022-06-12 | 2022-06-27 |
-| [With Great Speakers \(Comes Great Bass\)](https://open.spotify.com/track/5lRf1d0SEG9rmYoVgfcqsq) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [With Great Speakers \(Comes Great Bass\)](https://open.spotify.com/album/3o3XvgeVEJlSeYlrJCZ40f) | 2:03 | 2021-12-16 |  |
+| [With Great Speakers \(Comes Great Bass\)](https://open.spotify.com/track/5lRf1d0SEG9rmYoVgfcqsq) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [With Great Speakers \(Comes Great Bass\)](https://open.spotify.com/album/3o3XvgeVEJlSeYlrJCZ40f) | 2:03 | 2021-12-16 | 2022-10-02 |
 | [WKND!](https://open.spotify.com/track/76e9eoJxKRoQhutO5CvDqX) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV) | [WKND!](https://open.spotify.com/album/60ghuelB3S5nXjgOXn8Gh0) | 3:55 | 2022-08-18 |  |
 | [Wolves](https://open.spotify.com/track/0dbttB5xr4M0Q1lQQXfAwI) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Wolves](https://open.spotify.com/album/7rOhx7pN6AsM9cBhCuUgPn) | 4:30 | 2021-12-16 |  |
 | [World Renowned](https://open.spotify.com/track/6LNfKW19l2ETXWiOlguLf7) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [World Renowned](https://open.spotify.com/album/2uinWwpikeoeBKG0dsOeZs) | 3:15 | 2021-12-16 | 2022-07-17 |

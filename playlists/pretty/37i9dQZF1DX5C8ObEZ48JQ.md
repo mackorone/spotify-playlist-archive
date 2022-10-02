@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa ](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> Music by independent artists and labels from Africa, co\-curated with the legendary <a href="https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr?si=ajoHAk7OSfyvbLJVg7GtcA"> Olamide</a>\. Artwork: Isu Kim.
+> Music by independent artists and labels from Africa, curated by the legendary <a href="https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr?si=ajoHAk7OSfyvbLJVg7GtcA"> Olamide</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,509 likes - 23 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,32 +31,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 21 | [Vaccine \(Second Dose\)](https://open.spotify.com/track/0b8b6BaClh8MFC6VdBfjAV) | [Molazzi](https://open.spotify.com/artist/4bzbJTrjsMHZX2ScfRMtfB), [Smeezbeat](https://open.spotify.com/artist/5BZA1Md7HZnTq60rH5pwix), [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ) | [Vaccine \(Second Dose\)](https://open.spotify.com/album/3PZjhJmjwLcw3DGaAv41Zz) | 5:30 |
 | 22 | [Story](https://open.spotify.com/track/1mEWlhbBMmWRpSLd1tIWpy) | [Network](https://open.spotify.com/artist/6ne1yu1GhSotnJdnKLaNGL) | [Story](https://open.spotify.com/album/1WmACwN6aaeKajORrFKKYC) | 3:43 |
 | 23 | [Whine](https://open.spotify.com/track/2VCaSOpzvcb96eauefqhei) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD) | [Whine](https://open.spotify.com/album/0cAB1eOdAKTkxaIeF8Z7WI) | 2:35 |
-| 24 | [Coming Home](https://open.spotify.com/track/34qs8nKZqP6Mk6GCTTgZx2) | [The Kazez](https://open.spotify.com/artist/64LWPt0A50JOTxHxurU5tN) | [Pair](https://open.spotify.com/album/6M5LBR9GDMFIF3a7ptUJP5) | 2:42 |
-| 25 | [Kodoo](https://open.spotify.com/track/0YUec6C9c7wgGZMMyRu5GZ) | [Molze](https://open.spotify.com/artist/4QBZfmI686SsrZnLLNQkSK) | [Doing The Most](https://open.spotify.com/album/1QbK0bisBb1VNbxYymrfip) | 2:08 |
-| 26 | [Colours](https://open.spotify.com/track/5HEEUg2iTaHbHApME7VGJh) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Colours](https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd) | 3:44 |
-| 27 | [Combo](https://open.spotify.com/track/4ZxIvn68usPSQi8qGUmiey) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws), [Jer](https://open.spotify.com/artist/0xMMzZfYoteEUM0vnJLjgt) | [This Is Lovn](https://open.spotify.com/album/3rBhsljGGbsFt2Z5W7x6Yj) | 2:16 |
-| 28 | [Omdat Ek Wil](https://open.spotify.com/track/2TWndTxyjLy5pvbMTJdIcE) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Omdat Ek Wil](https://open.spotify.com/album/4Wp8xJhzrziBGnWukuiqbt) | 3:08 |
-| 29 | [isokayy](https://open.spotify.com/track/4KllMRS8PusIOli57We3Ro) | [Nayytan](https://open.spotify.com/artist/47490MMNgWEGtEQWlgEp32) | [isokayy](https://open.spotify.com/album/5hqQNQaXt1bGp9UTbBkabi) | 2:33 |
-| 30 | [Love Me](https://open.spotify.com/track/5OG3fwH8vjE3pU6FwFVI5x) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Love Me](https://open.spotify.com/album/4NSFkhmvAQIaXL9f1Qw57e) | 3:18 |
-| 31 | [ON MY PRIDE](https://open.spotify.com/track/29D3rPke50JCboWchtHODn) | [Farky Farkunle](https://open.spotify.com/artist/75cgADDzuvcv2TBGqs9j2L), [EHVI OG](https://open.spotify.com/artist/5q14ReLCCZHU02MzV1wfg8), [Shayo Davids](https://open.spotify.com/artist/5iq9xZgHRSltyOnP0ag1X9) | [ON MY PRIDE](https://open.spotify.com/album/0sHkKFORlciPVmKFRfBCrQ) | 2:52 |
-| 32 | [Test Me](https://open.spotify.com/track/2pmTALnJfdnbmycrISPU9X) | [J Clu](https://open.spotify.com/artist/4chXn8lojY5U525zyqdx9z), [SoulKit](https://open.spotify.com/artist/30FeLzJPttLVuGY9DDjsPh) | [Growing Pains](https://open.spotify.com/album/3SiU4bbSW6NBN1j8Fno6JI) | 2:05 |
-| 33 | [Maybe](https://open.spotify.com/track/5ScaS6Mo99bBAwmdiwXuXf) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/6ysPJXcTmoFKU3SUmbghZE) | 3:28 |
-| 34 | [Fayvuh](https://open.spotify.com/track/1ru09kaqYqc6E6R60vzbpL) | [Victor Collins](https://open.spotify.com/artist/2cx2q93TdyDvgatIURJOAH), [Zyrx Sounds](https://open.spotify.com/artist/3uCdVvSdtUXzppPVXDQYSw) | [Fayvuh](https://open.spotify.com/album/4ArZsOCUcZYOXD49dIUdQO) | 3:00 |
-| 35 | [Ise](https://open.spotify.com/track/1MFLBtcO300hlclC9nkSBz) | [B\-RED](https://open.spotify.com/artist/6gGH04KywUUbUWc6tmXTpM) | [Good Music for Bad Days](https://open.spotify.com/album/2wFChgx9vhLGG90JRX9kXm) | 3:51 |
-| 36 | [Enough](https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Enough](https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc) | 3:37 |
-| 37 | [TopTier](https://open.spotify.com/track/5QSjjQFGNrIZWy8fe0P498) | [Earl $vpreme](https://open.spotify.com/artist/2SeNHprNTXlEmP8sUuqzyx), [God's Gift](https://open.spotify.com/artist/7lkc2xAZEU1jw7v8vv3fBs), [$till Finesse](https://open.spotify.com/artist/6FeLkA08OwkGuBvEdeWqIA) | [TopTier](https://open.spotify.com/album/2a3aELls3SgvQSHaCJO5Me) | 2:18 |
-| 38 | [Plenty Talk](https://open.spotify.com/track/5Gejf8nwh5kBpAtWBZo809) | [Luddy Dave](https://open.spotify.com/artist/6cu9c86Oj2HaHYvkcjFwrL), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Plenty Talk](https://open.spotify.com/album/3GDu6DIhcHhO53U5QBXhJn) | 2:17 |
-| 39 | [So in Love](https://open.spotify.com/track/3ys7eqPCS7eo3x53o7RKRc) | [Mandisa Mamba](https://open.spotify.com/artist/60WJJpwxbL7mkSEjLNdB8p) | [Pain Love Money](https://open.spotify.com/album/2sp50rczCPNgQ3ch5GOEVx) | 3:30 |
-| 40 | [Jara Joro](https://open.spotify.com/track/1HZd6S5XRpOqUTqQI4yH0Y) | [Mo'Believe](https://open.spotify.com/artist/2JZT6fRSlCQFOnSvkwJ8PW) | [Odù](https://open.spotify.com/album/6qzkMjuDOVxqdYv9bYqPIS) | 2:50 |
-| 41 | [In The Clouds](https://open.spotify.com/track/4CIOeAaG7HTGFL2OZjbB9k) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [In The Clouds](https://open.spotify.com/album/79eYcHk7WngNWEIAP68pmn) | 3:23 |
-| 42 | [Sometimes](https://open.spotify.com/track/0q4CRMVCf5o6V1d6c6pVK3) | [Mist'riii](https://open.spotify.com/artist/2ET4fikSmaataNBz8cJM4e) | [Sometimes](https://open.spotify.com/album/4K8SHozX9PLHi2Dst9kCpx) | 3:43 |
-| 43 | [Aipheli](https://open.spotify.com/track/2fJhe1SlxsyupwRJcKGyJg) | [Harmony Skade](https://open.spotify.com/artist/0FEPDaDH5TguJX61bQ4aU5) | [Aipheli](https://open.spotify.com/album/5LyK1UAL3E0BqXnTPjmegN) | 3:05 |
-| 44 | [BopScrew](https://open.spotify.com/track/2QdJw8EBTCJuAJXF2QtjOU) | [DazzyLeNigga](https://open.spotify.com/artist/7dGH3AujymaCEYN0sgKO5s), [Tongue\-Fu Senseii](https://open.spotify.com/artist/0wwLeCrkyBWdgQ34XZqEnC) | [BopScrew](https://open.spotify.com/album/7dfnhnnnO5i8u1C4aWLuAY) | 2:27 |
-| 45 | [Gangverment](https://open.spotify.com/track/2sEswtS0JbRU8WnjciNz8I) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Gangverment](https://open.spotify.com/album/2izp2Z7ZsXy5Ks3A6ApDUg) | 2:06 |
-| 46 | [Ugly Betty](https://open.spotify.com/track/7vW68KNyrZ5tuVSuga7Ri1) | [YGFXB](https://open.spotify.com/artist/4JCRKPO4JbNGfLXm7R7Fqx) | [Ugly Betty](https://open.spotify.com/album/0HXRrTNRamnF2YTNP5XeMR) | 2:51 |
-| 47 | [Broken](https://open.spotify.com/track/4l4K1xbcA3sSF4jDDZnDWg) | [Benev](https://open.spotify.com/artist/0PDqRrs5DTuSFinAp6O7CP) | [Broken](https://open.spotify.com/album/0ZFMDAAlCNOmALY22sfgBd) | 2:52 |
-| 48 | [Rebel](https://open.spotify.com/track/0A2eLMuwWiVQ8ZUBgMjEoh) | [Tabbie](https://open.spotify.com/artist/7j1ghgRs74P3Apm9pi1yWy) | [Rebel](https://open.spotify.com/album/4FWnpSJcczQgLTvJEdEC4J) | 3:02 |
-| 49 | [Fears](https://open.spotify.com/track/3XCIEKQ3tbyInsMSOQ4jlP) | [Necta](https://open.spotify.com/artist/4Bo3ajDWVahXScC5N04S8u) | [Fears](https://open.spotify.com/album/1tjMiV9tVUXedyMawaZ4u4) | 1:27 |
-| 50 | [Whine Up On Me](https://open.spotify.com/track/0lcDawdLB5YOpHj6gdEerM) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [WHINE UP ON ME](https://open.spotify.com/album/5BKVsKRXhNALgj8rtimVFv) | 3:05 |
 
-Snapshot ID: `MTY2NDUzODY1MCwwMDAwMDAwMGQxYTUxMmZhYWYwYTEwMGNhYTBiY2RlMDk2YWNkNWE2`
+Snapshot ID: `MTY2NDYyNjc0OCwwMDAwMDAwMDQyYjUwMmU4NGRlYWZhYWVlZDkxZTViNTI4NmY2YzUw`

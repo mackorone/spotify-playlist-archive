@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSz9jLisK0Gm.md) - [plain]
 
 > Yksi kaikkien aikojen suurimmista on poissa\. Kiitos kaikesta, Vesa\-Matti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,206 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

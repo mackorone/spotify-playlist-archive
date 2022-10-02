@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz
 
-64 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/3Byz18nq85Iwxm1gDdCput)
+65 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/3Byz18nq85Iwxm1gDdCput)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [No Other](https://open.spotify.com/track/1QWpcivzYF7HeK9DzOxxiy) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Amanda Kono](https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7) | [No Other](https://open.spotify.com/album/08VFAkkeRqSiinFdQ83M7a) | 2:57 | 2022-07-30 | 2022-09-09 |
 | [No Other](https://open.spotify.com/track/78kOBQyMmJstTJDj0PS0l7) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Amanda Kono](https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7) | [No Other](https://open.spotify.com/album/76oS8RSrWRRUtwYfqx5bTC) | 2:57 | 2022-08-16 |  |
 | [No Play](https://open.spotify.com/track/3LP9gtouosFKgwQw3KkrWb) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [No Play](https://open.spotify.com/album/3Op5W7Mf4IAD8jLEBynDeh) | 2:30 | 2022-07-30 | 2022-09-12 |
+| [No Stress](https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z) | [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn), [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl) | [No Stress](https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL) | 3:20 | 2022-10-01 |  |
 | [Nobody](https://open.spotify.com/track/13oiGSbxvEZD9MvRcPnrHy) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Nobody](https://open.spotify.com/album/3HYtZsdcAKrUQlc4FWM3jC) | 2:36 | 2022-09-11 |  |
 | [Nobody Like You \- Radio Edit](https://open.spotify.com/track/7pbKyiwB7gL0VRzLPWqXmA) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You EP](https://open.spotify.com/album/2PFlmqHVo3ywJl9GqxOxaL) | 3:05 | 2022-07-30 |  |
 | [Oh the day](https://open.spotify.com/track/44cJObwiWzhXwuEU31Mlrc) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Oh the day](https://open.spotify.com/album/0Ibo0WqVCdxd7L3HUfLBuc) | 2:37 | 2022-09-11 |  |
@@ -65,7 +66,7 @@
 | [THANK GOD](https://open.spotify.com/track/1zMORse6eODeibmofSgrxS) | [Waconzy](https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm) | [THANK GOD](https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg) | 2:10 | 2022-07-30 |  |
 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 | 2022-07-30 |  |
 | [The One](https://open.spotify.com/track/6C9qgqcGTqTnzExLnuPuNA) | [Iryne Rock](https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe) | [The One](https://open.spotify.com/album/3WZgCYXQjjKQSJcZ76UqhO) | 3:07 | 2022-07-30 |  |
-| [To Jireh](https://open.spotify.com/track/525D9ITdqJ3ygzrrxQTvtX) | [Da'ville](https://open.spotify.com/artist/4kV9mrNI60H24Jj55wjKfw) | [To Jireh](https://open.spotify.com/album/4lfXUvcF2cToRLidbJ8g7Y) | 3:25 | 2022-09-18 |  |
+| [To Jireh](https://open.spotify.com/track/525D9ITdqJ3ygzrrxQTvtX) | [Da'ville](https://open.spotify.com/artist/4kV9mrNI60H24Jj55wjKfw) | [To Jireh](https://open.spotify.com/album/4lfXUvcF2cToRLidbJ8g7Y) | 3:25 | 2022-09-18 | 2022-10-02 |
 | [True Love](https://open.spotify.com/track/4bJfDj5FDY5cP1cndlE9Vj) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Break The Eyes](https://open.spotify.com/artist/0ySk960unJNGQV1FrSen3p) | [True Love](https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4) | 2:56 | 2022-07-30 |  |
 | [Unguilty Pleasure](https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Unguilty Pleasure](https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0) | 3:13 | 2022-07-30 |  |
 | [Valentine](https://open.spotify.com/track/3H4fCGhKPlPz7okIvwz1kg) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Valentine](https://open.spotify.com/album/4HUTFKjRVJGPSIbMFDI1fo) | 3:15 | 2022-07-30 |  |

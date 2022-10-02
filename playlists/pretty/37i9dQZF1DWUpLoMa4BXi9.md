@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUpLoMa4BXi9.md) - [plain]
 
 > Listen to narrated stories from your family's favorite Disney movies like The Lion King, Toy Story, and The Little Mermaid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,529 likes - 30 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,567 likes - 30 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

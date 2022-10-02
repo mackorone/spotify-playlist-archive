@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTA9xrja5XU1.md) - [plain]
 
 > <a href="spotify:artist:41rVuRHYAiH7ltBTHVR9We">Slushii</a> drops a colorful mix full of rumbling bass and head banging tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,660 likes - 22 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,679 likes - 22 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

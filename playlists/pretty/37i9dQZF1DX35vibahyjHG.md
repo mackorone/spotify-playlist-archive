@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk?si=52FXCMpkQm2fLnYpijStIw"> Sampa the Great </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,235 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,248 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

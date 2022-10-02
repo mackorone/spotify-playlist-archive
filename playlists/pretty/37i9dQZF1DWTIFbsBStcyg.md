@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIFbsBStcyg.md) - [plain]
 
 > Music From "BEASTARS"! 主題歌、挿入歌、サントラで辿る「BEASTARS」の世界! \(C\) 板垣巴留（秋田書店）／BEASTARS製作委員
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,220 likes - 85 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,233 likes - 85 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

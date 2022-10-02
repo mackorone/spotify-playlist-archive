@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 4013,
+  "num_followers": 4023,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzMwMiwwMDAwMDAwMDZiZTQxNDdlMjE5YjkxN2RmNmRkNjYzNmEwOGI4ZTQ1",
+  "snapshot_id": "MTY2MjM5MzMwMiwwMDAwMDAwMDZlYzQwZTcxMmQ4MzM0ZWMzNWJhMmZmNDM3ZjVhNmUy",
   "tracks": [
     {
       "added_at": "2022-09-05 15:55:02",
@@ -99,22 +99,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
-      },
-      "artists": [
-        {
-          "name": "COOING",
-          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "Sun Dance",
-      "url": "https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 139800,
       "name": "Empty Cup",
       "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
+      },
+      "artists": [
+        {
+          "name": "COOING",
+          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "Sun Dance",
+      "url": "https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Vancouver",
-      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 236703,
       "name": "Tictoc Tictoc Tictoc (with Beenzino)",
       "url": "https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "monochrome",
-        "url": "https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx"
-      },
-      "artists": [
-        {
-          "name": "Kisnue",
-          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
-        }
-      ],
-      "duration_ms": 261941,
-      "name": "monochrome",
-      "url": "https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 191793,
       "name": "Then",
       "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "monochrome",
+        "url": "https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx"
+      },
+      "artists": [
+        {
+          "name": "Kisnue",
+          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
+        }
+      ],
+      "duration_ms": 261941,
+      "name": "monochrome",
+      "url": "https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Hate this love",
-        "url": "https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD"
-      },
-      "artists": [
-        {
-          "name": "JERO",
-          "url": "https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9"
-        }
-      ],
-      "duration_ms": 183896,
-      "name": "Hate this love",
-      "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "Song of the rain",
         "url": "https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn"
       },
@@ -871,18 +855,34 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Our night",
-        "url": "https://open.spotify.com/album/0z3Jp8z16NZl9orTtnWji6"
+        "name": "Hate this love",
+        "url": "https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD"
       },
       "artists": [
         {
-          "name": "Boo So Jeong",
-          "url": "https://open.spotify.com/artist/6lAj9E5GPyEYZbQrR1np1v"
+          "name": "JERO",
+          "url": "https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9"
         }
       ],
-      "duration_ms": 179492,
-      "name": "Our night",
-      "url": "https://open.spotify.com/track/1A3mkITcyT4W9QauemtOwl"
+      "duration_ms": 183896,
+      "name": "Hate this love",
+      "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "I thought it was love.",
+        "url": "https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW"
+      },
+      "artists": [
+        {
+          "name": "Sagong",
+          "url": "https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "I thought it was love.",
+      "url": "https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

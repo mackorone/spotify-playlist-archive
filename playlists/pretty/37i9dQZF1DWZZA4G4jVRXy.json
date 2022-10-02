@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 110438,
+  "num_followers": 110472,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMDZmNGJmYjkwMTczNTM1MWQ5ZTA2ZTZkNGI1NzRlNmM1",
+  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMGM5OGUyNTMxODBhZjA4ZGI2YTk1NDcyNWM5NGVjOTE5",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "When It's Time to Go",
-        "url": "https://open.spotify.com/album/0pEYDo499hzgCpBLzcpVpl"
-      },
-      "artists": [
-        {
-          "name": "Buddy Fo & His Group",
-          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "When It's Time to Go",
-      "url": "https://open.spotify.com/track/06bgtOwOTqbDLf1n1eqjji"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Enchanted Sea",
         "url": "https://open.spotify.com/album/5GkmwrmDAeNW83ZCmcLKom"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 121106,
       "name": "The Enchanted Sea",
       "url": "https://open.spotify.com/track/5EJ9MfO86fEG7ICjhciyd1"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "When It's Time to Go",
+        "url": "https://open.spotify.com/album/0pEYDo499hzgCpBLzcpVpl"
+      },
+      "artists": [
+        {
+          "name": "Buddy Fo & His Group",
+          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "When It's Time to Go",
+      "url": "https://open.spotify.com/track/06bgtOwOTqbDLf1n1eqjji"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/3YEMdmxkrM7XQKxexD9oK9"
     },
     {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "MGANGA!",
+        "url": "https://open.spotify.com/album/15jEM8o3CyVez6n1I0dERU"
+      },
+      "artists": [
+        {
+          "name": "Tak Shindo",
+          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Mombasa Love Song",
+      "url": "https://open.spotify.com/track/5PggdfNnUPNg7nwGZSBNiw"
+    },
+    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Hawaiian Sunset",
@@ -135,6 +151,38 @@
       "duration_ms": 71266,
       "name": "Hii Lawe",
       "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Lolita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Lolita Ya Ya",
+      "url": "https://open.spotify.com/track/2cVr3kgag9vfl6aXnYfmav"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Best Of Martin Denny's Exotica",
+        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "Misirlou - 1995 Digital Remaster",
+      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -159,54 +207,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Lolita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Lolita Ya Ya",
-      "url": "https://open.spotify.com/track/2cVr3kgag9vfl6aXnYfmav"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "MGANGA!",
-        "url": "https://open.spotify.com/album/15jEM8o3CyVez6n1I0dERU"
-      },
-      "artists": [
-        {
-          "name": "Tak Shindo",
-          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Mombasa Love Song",
-      "url": "https://open.spotify.com/track/5PggdfNnUPNg7nwGZSBNiw"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Best Of Martin Denny's Exotica",
-        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "Misirlou - 1995 Digital Remaster",
-      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge: Organs In Orbit",
         "url": "https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 152706,
       "name": "A Man And A Woman - Remastered",
       "url": "https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Very Best of Arthur Lyman (The Sensual Sounds of Exotica)",
-        "url": "https://open.spotify.com/album/67llfJEfIaI1LHh8thoTdo"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/7uJQUtgOzvSlVM3oyY012O"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -271,22 +255,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Sacred Idol",
-        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Fruit Of Dreams",
-      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Hawaiian Blossom",
         "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
       },
@@ -303,6 +271,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "The Very Best of Arthur Lyman (The Sensual Sounds of Exotica)",
+        "url": "https://open.spotify.com/album/67llfJEfIaI1LHh8thoTdo"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/7uJQUtgOzvSlVM3oyY012O"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "The Golden Voice of Hawai'i, Vol. 1",
         "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 215680,
       "name": "I Kona",
       "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Sacred Idol",
+        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Fruit Of Dreams",
+      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -449,20 +449,20 @@
       "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "The Soul Of The Drums",
-        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
+        "name": "Swingin' sounds for the Jungle Jetset !",
+        "url": "https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc"
       },
       "artists": [
         {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+          "name": "The Tikiyaki Orchestra",
+          "url": "https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx"
         }
       ],
-      "duration_ms": 135946,
-      "name": "Coffee Bean / Calabash Annie",
-      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
+      "duration_ms": 220733,
+      "name": "Sunset on the Kona Kai",
+      "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -481,20 +481,20 @@
       "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
+      "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Swingin' sounds for the Jungle Jetset !",
-        "url": "https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc"
+        "name": "The Soul Of The Drums",
+        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
       },
       "artists": [
         {
-          "name": "The Tikiyaki Orchestra",
-          "url": "https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx"
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
         }
       ],
-      "duration_ms": 220733,
-      "name": "Sunset on the Kona Kai",
-      "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
+      "duration_ms": 135946,
+      "name": "Coffee Bean / Calabash Annie",
+      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Call of the Islands",
-        "url": "https://open.spotify.com/album/1FMZlPkv7DhPclQJAAbcbS"
-      },
-      "artists": [
-        {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
-        }
-      ],
-      "duration_ms": 184718,
-      "name": "Colors of Hawaiki",
-      "url": "https://open.spotify.com/track/0pOjjYfTME3pdOrFtV74wx"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Maunalua",
@@ -591,6 +575,22 @@
       "duration_ms": 324920,
       "name": "Uilani / Baby Kalae",
       "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Call of the Islands",
+        "url": "https://open.spotify.com/album/1FMZlPkv7DhPclQJAAbcbS"
+      },
+      "artists": [
+        {
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+        }
+      ],
+      "duration_ms": 184718,
+      "name": "Colors of Hawaiki",
+      "url": "https://open.spotify.com/track/0pOjjYfTME3pdOrFtV74wx"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Makani Olu'olu",
-        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
-      },
-      "artists": [
-        {
-          "name": "Na Palapalai",
-          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "Lepe Ula'ula",
-      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Kiss Me Love",
         "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 138666,
       "name": "Blue Hawaii",
       "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Makani Olu'olu",
+        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
+      },
+      "artists": [
+        {
+          "name": "Na Palapalai",
+          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "Lepe Ula'ula",
+      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Chill Out Hawaiian Music",
-        "url": "https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ"
-      },
-      "artists": [
-        {
-          "name": "The Surfmen",
-          "url": "https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV"
-        }
-      ],
-      "duration_ms": 103903,
-      "name": "Hawaiian Wedding Song",
-      "url": "https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Kiss Me Love",
         "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 229200,
       "name": "Mi Nei",
       "url": "https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Chill Out Hawaiian Music",
+        "url": "https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ"
+      },
+      "artists": [
+        {
+          "name": "The Surfmen",
+          "url": "https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV"
+        }
+      ],
+      "duration_ms": 103903,
+      "name": "Hawaiian Wedding Song",
+      "url": "https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w"
     },
     {
       "added_at": "2022-01-11 02:53:42",

@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 56789,
+  "num_followers": 56830,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY5NTk3OCwwMDAwMDAwMDEyODhiZWU1ZTViYTZkMzBlODJkN2I3Njc4ZWRkZDAw",
+  "snapshot_id": "MTY2MzY5NTk3OCwwMDAwMDAwMDJkZjkyNzFmZTgxMTI1MmE5YjI3MmFjNTlkZDI2ZmNm",
   "tracks": [
     {
       "added_at": "2022-09-20 17:46:18",
@@ -819,6 +819,38 @@
     {
       "added_at": "2022-09-20 17:46:18",
       "album": {
+        "name": "\u5343\u5e74\u5148\u3082\u305a\u3063\u3068...",
+        "url": "https://open.spotify.com/album/7qaq2mi6O8fycroKkea5P1"
+      },
+      "artists": [
+        {
+          "name": "\u5343 (CV.\u7acb\u82b1\u614e\u4e4b\u4ecb)",
+          "url": "https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh"
+        }
+      ],
+      "duration_ms": 321440,
+      "name": "\u5343\u5e74\u5148\u3082\u305a\u3063\u3068...",
+      "url": "https://open.spotify.com/track/2lwmzAiCtQdHthgZeNUtFD"
+    },
+    {
+      "added_at": "2022-09-20 17:46:18",
+      "album": {
+        "name": "Dear Butterfly",
+        "url": "https://open.spotify.com/album/6wO2L0VdYke2m2AxjPbx5D"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "duration_ms": 305013,
+      "name": "Dear Butterfly",
+      "url": "https://open.spotify.com/track/3c6fOvtJ2Yg0qZVDQyGBXC"
+    },
+    {
+      "added_at": "2022-09-20 17:46:18",
+      "album": {
         "name": "My Friend",
         "url": "https://open.spotify.com/album/0SsBA1WDO7VQ2C2DgzBgGB"
       },
@@ -843,38 +875,6 @@
     {
       "added_at": "2022-09-20 17:46:18",
       "album": {
-        "name": "Dear Butterfly",
-        "url": "https://open.spotify.com/album/6wO2L0VdYke2m2AxjPbx5D"
-      },
-      "artists": [
-        {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
-        }
-      ],
-      "duration_ms": 305013,
-      "name": "Dear Butterfly",
-      "url": "https://open.spotify.com/track/3c6fOvtJ2Yg0qZVDQyGBXC"
-    },
-    {
-      "added_at": "2022-09-20 17:46:18",
-      "album": {
-        "name": "\u5343\u5e74\u5148\u3082\u305a\u3063\u3068...",
-        "url": "https://open.spotify.com/album/7qaq2mi6O8fycroKkea5P1"
-      },
-      "artists": [
-        {
-          "name": "\u5343 (CV.\u7acb\u82b1\u614e\u4e4b\u4ecb)",
-          "url": "https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh"
-        }
-      ],
-      "duration_ms": 321440,
-      "name": "\u5343\u5e74\u5148\u3082\u305a\u3063\u3068...",
-      "url": "https://open.spotify.com/track/2lwmzAiCtQdHthgZeNUtFD"
-    },
-    {
-      "added_at": "2022-09-20 17:46:18",
-      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/5MxwtisrEABkLAd8bYSzdk"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-09-20 17:46:18",
       "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5"
-      },
-      "artists": [
-        {
-          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
-          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
-        }
-      ],
-      "duration_ms": 235013,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB"
-    },
-    {
-      "added_at": "2022-09-20 17:46:18",
-      "album": {
         "name": "\u4e09\u65e5\u6708\u306e\u30f4\u30a7\u30fc\u30eb",
         "url": "https://open.spotify.com/album/6oZyRXkgaSStGoeuiC1ezc"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 320506,
       "name": "\u4e09\u65e5\u6708\u306e\u30f4\u30a7\u30fc\u30eb",
       "url": "https://open.spotify.com/track/3XxSDMRiO7kbduxl4viXZs"
+    },
+    {
+      "added_at": "2022-09-20 17:46:18",
+      "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5"
+      },
+      "artists": [
+        {
+          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
+        }
+      ],
+      "duration_ms": 235013,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB"
     },
     {
       "added_at": "2022-09-20 17:46:18",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-09-20 17:46:18",
       "album": {
-        "name": "Mr.AFFECTiON",
-        "url": "https://open.spotify.com/album/7JrXymArQDokcZIEuGP0rm"
-      },
-      "artists": [
-        {
-          "name": "IDOLiSH7",
-          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
-        }
-      ],
-      "duration_ms": 282640,
-      "name": "Mr.AFFECTiON",
-      "url": "https://open.spotify.com/track/2vGVhtVqqhldFTbBGFtzZL"
-    },
-    {
-      "added_at": "2022-09-20 17:46:18",
-      "album": {
         "name": "DiSCOVER THE FUTURE",
         "url": "https://open.spotify.com/album/3T3IUShTLoWT6DCxs9U0dF"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 221506,
       "name": "DiSCOVER THE FUTURE",
       "url": "https://open.spotify.com/track/1996GO8XdzaIzstVxlQ6VT"
+    },
+    {
+      "added_at": "2022-09-20 17:46:18",
+      "album": {
+        "name": "Mr.AFFECTiON",
+        "url": "https://open.spotify.com/album/7JrXymArQDokcZIEuGP0rm"
+      },
+      "artists": [
+        {
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
+        }
+      ],
+      "duration_ms": 282640,
+      "name": "Mr.AFFECTiON",
+      "url": "https://open.spotify.com/track/2vGVhtVqqhldFTbBGFtzZL"
     },
     {
       "added_at": "2022-09-20 17:46:18",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-20 17:46:18",
       "album": {
-        "name": "Sakura Message",
-        "url": "https://open.spotify.com/album/12Evu6rQOsj7Au5qNRXafw"
-      },
-      "artists": [
-        {
-          "name": "IDOLiSH7",
-          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Sakura Message",
-      "url": "https://open.spotify.com/track/3f10Sd0IpJbO2kxhbXH5yV"
-    },
-    {
-      "added_at": "2022-09-20 17:46:18",
-      "album": {
         "name": "Re-raise",
         "url": "https://open.spotify.com/album/1ahdCCGrE726AaQLrl5bu2"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 253986,
       "name": "Re-raise",
       "url": "https://open.spotify.com/track/4RqIz3fZW3K00ZG4rSqwLn"
+    },
+    {
+      "added_at": "2022-09-20 17:46:18",
+      "album": {
+        "name": "Sakura Message",
+        "url": "https://open.spotify.com/album/12Evu6rQOsj7Au5qNRXafw"
+      },
+      "artists": [
+        {
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Sakura Message",
+      "url": "https://open.spotify.com/track/3f10Sd0IpJbO2kxhbXH5yV"
     },
     {
       "added_at": "2022-09-20 17:46:18",

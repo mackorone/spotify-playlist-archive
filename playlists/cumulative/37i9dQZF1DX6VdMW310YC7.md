@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,337 songs - 3 day 20 hr 48 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,338 songs - 3 day 20 hr 53 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,7 +705,7 @@
 | [Love Affair](https://open.spotify.com/track/078RYWTtCzEcNCjvdP4yHL) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq) | [001 EP](https://open.spotify.com/album/3uYSVjEDYM4sgw6G9txJkL) | 3:48 | 2021-10-22 | 2022-07-28 |
 | [Love Gone Cold](https://open.spotify.com/track/4NNnEa1hDQuuZgW7gtlbuc) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Love Gone Cold](https://open.spotify.com/album/1Hs9xXoei21Nhi157X06ld) | 2:53 | 2021-10-28 | 2021-11-13 |
 | [Love Is Alive](https://open.spotify.com/track/1uf5f99kLdlmUBEvVqrFyy) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Love Is Alive](https://open.spotify.com/album/0i7gI9SlKIZxdz2Jl2dyfp) | 2:50 | 2020-05-18 | 2020-07-03 |
-| [Love Is Awake](https://open.spotify.com/track/6cwiXbTqbuGjwPnG56LFG2) | [Madnap](https://open.spotify.com/artist/6iMPqGUG6S7G5vFISJoHg4), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Love Is Awake](https://open.spotify.com/album/0KmRXcuUhaW2TpcyP2TqKu) | 3:20 | 2020-07-18 |  |
+| [Love Is Awake](https://open.spotify.com/track/6cwiXbTqbuGjwPnG56LFG2) | [Madnap](https://open.spotify.com/artist/6iMPqGUG6S7G5vFISJoHg4), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Love Is Awake](https://open.spotify.com/album/0KmRXcuUhaW2TpcyP2TqKu) | 3:20 | 2020-07-18 | 2022-10-02 |
 | [Love Me \- Felix Cartal's Chill Mix](https://open.spotify.com/track/7yaMJeDKiDCGC35LrP6EYU) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Love Me \(Remixes\)](https://open.spotify.com/album/3D4DNUNdCascgr0VRYUib9) | 3:41 | 2020-03-17 | 2021-03-06 |
 | [Love Syndrome](https://open.spotify.com/track/167J53zotbS1GdqHofZqc5) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/10qeJXOm1yf9uZ4cxL5dPl) | 4:44 | 2022-07-01 | 2022-08-27 |
 | [Love Syndrome](https://open.spotify.com/track/7jja8oqBSBmUKQlqOWRY36) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/2wdg1O8GblskgwH2K5ZGiu) | 4:44 | 2020-03-17 | 2022-04-21 |
@@ -1200,6 +1200,7 @@
 | [Time](https://open.spotify.com/track/1Zv8woSN47nSkwMjUWX0aS) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt), [Monomotion](https://open.spotify.com/artist/514CDwBzI2wOfEGuVqHOur) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:01 | 2020-03-21 | 2021-03-06 |
 | [Time Capsule](https://open.spotify.com/track/02ht7aTttJ0zbbHQh6jKlL) | [Nick Beman](https://open.spotify.com/artist/7ow15x0a0qAhy4ZK6xJKGx) | [Time Capsule](https://open.spotify.com/album/1uGLfESQqsa5TwO5YQSCRI) | 3:10 | 2020-03-20 | 2022-04-21 |
 | [Tiny Molecules of Water](https://open.spotify.com/track/5snKLxGnhMAWMTJroPXlRD) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Imperfections](https://open.spotify.com/album/7qbo7wJh12LH1Qi0zvMU2F) | 3:52 | 2022-05-27 | 2022-07-25 |
+| [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 | 2022-09-30 |  |
 | [To Feel Alive](https://open.spotify.com/track/52Ef7FHOaP7KRzlhTrw8LC) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [To Feel Alive](https://open.spotify.com/album/65SOeSp0BUDNXNAiUJORH8) | 3:29 | 2021-11-26 |  |
 | [To The Ground](https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [To The Ground](https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL) | 3:53 | 2020-02-29\* | 2020-03-16 |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2021-03-27 |  |

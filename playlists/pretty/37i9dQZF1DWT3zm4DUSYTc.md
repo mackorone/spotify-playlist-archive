@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3zm4DUSYTc.md) - [plain]
 
 > Peaceful tracks for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 195 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 511 likes - 195 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

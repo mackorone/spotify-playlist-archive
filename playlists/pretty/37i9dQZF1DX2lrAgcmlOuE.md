@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lrAgcmlOuE.md) - [plain]
 
 > The superstar DJ & Producer <a href="spotify:artist:6BrvowZBreEkXzJQMpL174">Hardwell</a> delivers a headlining mix to get us pumping through summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,536 likes - 14 songs - 59 min 52 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,620 likes - 14 songs - 59 min 52 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

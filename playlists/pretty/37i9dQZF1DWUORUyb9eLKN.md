@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUORUyb9eLKN.md) - [plain]
 
 > Emerging DJ & producer <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a> demonstrates her talent with an emotive and mellifluous mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007 likes - 15 songs - 59 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,013 likes - 15 songs - 59 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jas
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,062 likes - 117 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,129 likes - 117 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nawa Nawa Pyaar](https://open.spotify.com/track/50DyjmQxDUAygFT31rD1kT) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Tanu Grewal](https://open.spotify.com/artist/1eineiKpO6pp1nt22iwu47) | [Nawa Nawa Pyaar \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/2UbFUgSQy4u09v1jzah7qy) | 2:19 |
 | 2 | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/track/6UCOYYKgwCJpENkEFHjw50) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/album/0NpT6q3W06PVHcCnE5Ifyl) | 3:55 |
-| 3 | [Attitude](https://open.spotify.com/track/1c69J5zh7bFdzuCskQ1nDM) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Attitude \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/album/3pcfgQjmTD9v9z2uq4Zoj4) | 2:49 |
+| 3 | [Attitude \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/track/5pcPJPmlRG4L1yqPJd2g3o) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG) | [Attitude \(From "Babe Bhangra Paunde Ne"\) \- Single](https://open.spotify.com/album/72JdGkMg4jhAaooXKIYmah) | 2:49 |
 | 4 | [Addiction](https://open.spotify.com/track/0DnFtj3aBIRyDix0Y3lg9v) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Love Thunder](https://open.spotify.com/album/2hQRREeWIvPqNtJCOuFCy1) | 2:55 |
 | 5 | [Salooq \(From "MOH"\)](https://open.spotify.com/track/6fgIBVQ0GJ1kijpGL9N5Vs) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Salooq \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6eUXw6BZjKb61a27JPzklk) | 5:06 |
 | 6 | [Yaad](https://open.spotify.com/track/0CTLV9Fr5CEkvhqmBjvEIU) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Yaad](https://open.spotify.com/album/6KqNthM4VNfQnbHLtHtTNl) | 2:22 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 116 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
 | 117 | [Aj Kal Ve](https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 3:23 |
 
-Snapshot ID: `MTY2NDUyNzM3MSwwMDAwMDAwMDY1OTNiMWIyOTJlZjkyY2RjMTBmMjU5ZDU1YWRmYjFm`
+Snapshot ID: `MTY2NDUyNzM3MSwwMDAwMDAwMGJkOGU5YTkzNDQxZjM5Zjc2ZDg1YTMwMTc2YTY2Njhk`

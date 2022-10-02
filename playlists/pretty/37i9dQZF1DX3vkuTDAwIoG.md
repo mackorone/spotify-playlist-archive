@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vkuTDAwIoG.md) - [plain]
 
 > South African electronic music duo <a href="spotify:artist:0YbodxZ8dsnWW002EWS51w">Lemon & Herb</a> are at the cutting edge of South African dance and electronic culture\. Listen to their mix of the best South African and global dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,128 likes - 12 songs - 59 min 58 sec
+[Spotify](https://open.spotify.com/user/spotify) - 7,146 likes - 12 songs - 59 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

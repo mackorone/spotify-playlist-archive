@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 2702,
+  "num_followers": 2716,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGE1NzAyOTc5YzAzMmFmZWVhNTk0NWJkZGY5Mjk3OWUz",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGUzNjcyODMzYzhlYTA1MmE2YWY3ZDI3ZTQ4MzRjNGIy",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "New Sound",
+        "url": "https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf"
+      },
+      "artists": [
+        {
+          "name": "Copper Pointe Worship",
+          "url": "https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Lift You Higher",
+      "url": "https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "A Week Away (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 228063,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/5Ah9mt916VYxP1DCpdUT4y"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "New Sound",
-        "url": "https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf"
-      },
-      "artists": [
-        {
-          "name": "Copper Pointe Worship",
-          "url": "https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Lift You Higher",
-      "url": "https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714"
     },
     {
       "added_at": "2021-06-29 13:36:02",

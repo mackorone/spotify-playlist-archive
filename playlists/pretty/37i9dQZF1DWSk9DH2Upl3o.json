@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 7292,
+  "num_followers": 7351,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDc5NGU1N2Y1ZTA4MjIxNjA1NmNlNTBmYzJjM2MyNTZj",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGNjNzkyODU0ZTBmMzk3MjBjMWRmNDYzY2QxODVlMDE1",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Spafford",
+        "url": "https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05"
+      },
+      "artists": [
+        {
+          "name": "Spafford",
+          "url": "https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV"
+        }
+      ],
+      "duration_ms": 263198,
+      "name": "Electric Taco Stand",
+      "url": "https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Blood from a Stone",
         "url": "https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 299479,
       "name": "Curse Lifter (feat. Derek Trucks)",
       "url": "https://open.spotify.com/track/3qhvHN2UFlOouwkEEBWn37"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Spafford",
-        "url": "https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05"
-      },
-      "artists": [
-        {
-          "name": "Spafford",
-          "url": "https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV"
-        }
-      ],
-      "duration_ms": 263198,
-      "name": "Electric Taco Stand",
-      "url": "https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -653,20 +653,20 @@
       "url": "https://open.spotify.com/track/4k3QVmtqLh2fu7sE5zfJeU"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
+      "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Native Sons",
-        "url": "https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM"
+        "name": "Extraction",
+        "url": "https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA"
       },
       "artists": [
         {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+          "name": "Cytrus",
+          "url": "https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q"
         }
       ],
-      "duration_ms": 513070,
-      "name": "The World Is A Ghetto",
-      "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
+      "duration_ms": 247206,
+      "name": "When Ya Hustle",
+      "url": "https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Native Sons",
+        "url": "https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 513070,
+      "name": "The World Is A Ghetto",
+      "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Element",
         "url": "https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 215653,
       "name": "Revival",
       "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Extraction",
-        "url": "https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA"
-      },
-      "artists": [
-        {
-          "name": "Cytrus",
-          "url": "https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q"
-        }
-      ],
-      "duration_ms": 247206,
-      "name": "When Ya Hustle",
-      "url": "https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq"
     },
     {
       "added_at": "2022-06-23 13:45:43",

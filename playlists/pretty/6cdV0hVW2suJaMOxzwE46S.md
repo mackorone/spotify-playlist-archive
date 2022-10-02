@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6cdV0hVW2suJaMOxzwE46S.md) - [plain]
 
 > We've all been there\. This playlist can help\. Just don't let your boss catch you listening....
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,652 likes - 38 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,651 likes - 38 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

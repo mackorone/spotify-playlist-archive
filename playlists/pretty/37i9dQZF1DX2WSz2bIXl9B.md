@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 
 > Pódcasts que necesitas mantener en tu RADAR: Maldito Bollodrama, Terrores Nocturnos y Nadie hablará de nosotras\. <br/>Foto: Terrores Nocturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,255 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,253 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

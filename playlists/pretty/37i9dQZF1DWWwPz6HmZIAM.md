@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwPz6HmZIAM.md) - [plain]
 
 > スリーピースバンドの枠から自らを意識的に解き放ち、激しくも繊細な音世界を表現し続けるTK from 凛として時雨の軌跡がここに。Immerse yourself in the kaleidoscope world of TK from Ling tosite sigure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,988 likes - 52 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,999 likes - 52 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

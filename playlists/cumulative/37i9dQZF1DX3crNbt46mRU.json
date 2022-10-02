@@ -3418,7 +3418,7 @@
     },
     {
       "album": {
-        "name": "Amour, Haine et Danger",
+        "name": "Amour, Haine & Danger",
         "url": "https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3"
       },
       "artists": [
@@ -3431,7 +3431,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198986,
-      "name": "Amour, Haine et Danger",
+      "name": "Amour, Haine & Danger",
       "url": "https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX"
     },
     {
@@ -4583,12 +4583,12 @@
           "url": "https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3"
         },
         {
-          "name": "Dexter",
-          "url": "https://open.spotify.com/artist/4dfYua3wPCN3mq8EStDZkZ"
-        },
-        {
           "name": "Panta Rhei",
           "url": "https://open.spotify.com/artist/48id9frErp8fSAaDLWc8I6"
+        },
+        {
+          "name": "Dexter",
+          "url": "https://open.spotify.com/artist/4dfYua3wPCN3mq8EStDZkZ"
         }
       ],
       "date_added": "2022-09-29",
@@ -12106,7 +12106,7 @@
         },
         {
           "name": "Paul",
-          "url": "https://open.spotify.com/artist/00Gniq2NykoE4WpNDi00YA"
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
         },
         {
           "name": "$OHO BANI",
@@ -19231,24 +19231,6 @@
       "duration_ms": 171709,
       "name": "EXODUS",
       "url": "https://open.spotify.com/track/725lM355LS3y4etyS8gPrL"
-    },
-    {
-      "album": {
-        "name": "Expen$ive $adne$$",
-        "url": "https://open.spotify.com/album/3lAwNPB3c0cE5UoDZYrWfY"
-      },
-      "artists": [
-        {
-          "name": "Pool",
-          "url": "https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX"
-        }
-      ],
-      "date_added": "2022-09-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189763,
-      "name": "Expen$ive $adne$$",
-      "url": "https://open.spotify.com/track/0rCLb9qYhMIxqUS1GlyFQD"
     },
     {
       "album": {
@@ -52098,7 +52080,7 @@
         },
         {
           "name": "Fabian R\u00f6mer",
-          "url": "https://open.spotify.com/artist/11eFSFzYJeEpXxEAPWU7oM"
+          "url": "https://open.spotify.com/artist/1AzY6fJYpYIOxfckbx2iRn"
         },
         {
           "name": "GRETA",
@@ -64186,7 +64168,7 @@
     },
     {
       "album": {
-        "name": "Waiting for Love",
+        "name": "Waiting For Love",
         "url": "https://open.spotify.com/album/77P9wXuR8Ju9urUZbjlbnU"
       },
       "artists": [
@@ -64199,7 +64181,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194626,
-      "name": "Waiting for Love",
+      "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/3VO7y40frV8gnkRaWidSqT"
     },
     {
@@ -69109,6 +69091,24 @@
       "duration_ms": 157500,
       "name": "\u00dcberall nur Du",
       "url": "https://open.spotify.com/track/5HY0uRxjOp0LPlEfLwr4XV"
+    },
+    {
+      "album": {
+        "name": "\u20acXP\u20acN$!V\u20ac $ADN\u20ac$$",
+        "url": "https://open.spotify.com/album/3lAwNPB3c0cE5UoDZYrWfY"
+      },
+      "artists": [
+        {
+          "name": "Pool",
+          "url": "https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189763,
+      "name": "\u20acXP\u20acN$!V\u20ac $ADN\u20ac$$",
+      "url": "https://open.spotify.com/track/0rCLb9qYhMIxqUS1GlyFQD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3crNbt46mRU"

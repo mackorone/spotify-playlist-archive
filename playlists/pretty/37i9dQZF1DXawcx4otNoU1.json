@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 437257,
+  "num_followers": 437498,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0Nzk0MywwMDAwMDAwMDc2MTFkYmJiM2E0Y2Q0NGYzZjYwMjgwOTMxZGY0MDFk",
+  "snapshot_id": "MTY2NDU0Nzk0MywwMDAwMDAwMDZhMTRiMWFkZDVlZTE1NGFjNmExOGVkZmM4MDQ1ZmYx",
   "tracks": [
     {
       "added_at": "2022-09-30 14:22:50",
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
     },
     {
-      "added_at": "2022-10-01 02:01:19",
+      "added_at": "2022-10-02 01:58:12",
       "album": {
         "name": "Journals",
         "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
@@ -961,7 +961,7 @@
       "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
     },
     {
-      "added_at": "2022-10-01 02:01:19",
+      "added_at": "2022-10-02 01:58:12",
       "album": {
         "name": "The Bedroom Tour Playlist",
         "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
-        "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211715,
-      "name": "Hold My Girl (Acoustic Version)",
-      "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "Echos",
         "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 257972,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
+        "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 211715,
+      "name": "Hold My Girl (Acoustic Version)",
+      "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 141757,
-      "name": "Honey (with Muni Long)",
-      "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "Place We Were Made",
         "url": "https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 141757,
+      "name": "Honey (with Muni Long)",
+      "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "duration_ms": 235936,
+      "name": "Great American Novel",
+      "url": "https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
         "name": "Know-It-All (Deluxe)",
         "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 228000,
       "name": "Stone",
       "url": "https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
-        "name": "Max Jury",
-        "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
-      },
-      "artists": [
-        {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
-        }
-      ],
-      "duration_ms": 235936,
-      "name": "Great American Novel",
-      "url": "https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "NIGHT FLIGHT",
-        "url": "https://open.spotify.com/album/2CfUVZdfwVHZNzf5WF3BID"
-      },
-      "artists": [
-        {
-          "name": "NIGHT FLIGHT",
-          "url": "https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "Parade",
-      "url": "https://open.spotify.com/track/1PAH34xJkjVKe51fS0Rv53"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
         "name": "May I Have This Dance",
         "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 211316,
       "name": "May I Have This Dance",
       "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
+        "name": "NIGHT FLIGHT",
+        "url": "https://open.spotify.com/album/2CfUVZdfwVHZNzf5WF3BID"
+      },
+      "artists": [
+        {
+          "name": "NIGHT FLIGHT",
+          "url": "https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/1PAH34xJkjVKe51fS0Rv53"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -2327,22 +2327,18 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "No Ill",
-        "url": "https://open.spotify.com/album/0t2ZDNsrg9DbGT0TfhtPEK"
+        "name": "Sex + Hennessy",
+        "url": "https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK"
       },
       "artists": [
         {
-          "name": "deadmen",
-          "url": "https://open.spotify.com/artist/1kH6sqipWrJUF1AAeSskjl"
-        },
-        {
-          "name": "Frida Touray",
-          "url": "https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm"
+          "name": "Eimizah",
+          "url": "https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM"
         }
       ],
-      "duration_ms": 179014,
-      "name": "no ill",
-      "url": "https://open.spotify.com/track/76wOHtbMpZpSmfsSyAHzlZ"
+      "duration_ms": 155744,
+      "name": "Sex + Hennessy",
+      "url": "https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -2363,18 +2359,22 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
-        "name": "Sex + Hennessy",
-        "url": "https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK"
+        "name": "No Ill",
+        "url": "https://open.spotify.com/album/0t2ZDNsrg9DbGT0TfhtPEK"
       },
       "artists": [
         {
-          "name": "Eimizah",
-          "url": "https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM"
+          "name": "deadmen",
+          "url": "https://open.spotify.com/artist/1kH6sqipWrJUF1AAeSskjl"
+        },
+        {
+          "name": "Frida Touray",
+          "url": "https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm"
         }
       ],
-      "duration_ms": 155744,
-      "name": "Sex + Hennessy",
-      "url": "https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor"
+      "duration_ms": 179014,
+      "name": "no ill",
+      "url": "https://open.spotify.com/track/76wOHtbMpZpSmfsSyAHzlZ"
     },
     {
       "added_at": "2022-09-30 14:22:50",
@@ -2427,6 +2427,22 @@
     {
       "added_at": "2022-09-30 14:22:50",
       "album": {
+        "name": "Send Nudes",
+        "url": "https://open.spotify.com/album/2m2vD5swUKoiHQvNVNcjoV"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        }
+      ],
+      "duration_ms": 204374,
+      "name": "Send Nudes",
+      "url": "https://open.spotify.com/track/4U5Hgk4yDeLklzJb8Ypy8Y"
+    },
+    {
+      "added_at": "2022-09-30 14:22:50",
+      "album": {
         "name": "Darlin'",
         "url": "https://open.spotify.com/album/3zEx0nbpsh47AsKDlw8ofp"
       },
@@ -2443,22 +2459,6 @@
       "duration_ms": 187337,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/2gy3giTHyomIx4jps8VHjl"
-    },
-    {
-      "added_at": "2022-09-30 14:22:50",
-      "album": {
-        "name": "Send Nudes",
-        "url": "https://open.spotify.com/album/2m2vD5swUKoiHQvNVNcjoV"
-      },
-      "artists": [
-        {
-          "name": "Romeyo Wilson",
-          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
-        }
-      ],
-      "duration_ms": 204374,
-      "name": "Send Nudes",
-      "url": "https://open.spotify.com/track/4U5Hgk4yDeLklzJb8Ypy8Y"
     },
     {
       "added_at": "2022-09-30 14:22:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVfK4bF9g9z.md) - [plain]
 
 > Legendary Italian DJ <a href="spotify:artist:6PozOimyS8a9OxMddMSBCf">Molella</a> delivers a mix for the ages, featuring a blend of classics and new tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400 likes - 21 songs - 58 min 17 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,428 likes - 21 songs - 58 min 17 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

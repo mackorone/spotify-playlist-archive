@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NpTNK48oe2.md) - [plain]
 
 > Hasta allá donde tú te encuentres te ha de llegar mi olvido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,728 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,754 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

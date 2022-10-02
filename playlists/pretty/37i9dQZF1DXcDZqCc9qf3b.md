@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites, such as Ivy + Bean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,357 likes - 72 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,373 likes - 72 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

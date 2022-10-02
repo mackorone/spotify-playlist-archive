@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJSgpZmw7H2.md) - [plain]
 
 > Learn French with a collection of audio courses that will take you from beginner lessons to advanced conversations and even French literature appreciation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,710 likes - 472 songs - 1 day 21 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,707 likes - 472 songs - 1 day 21 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

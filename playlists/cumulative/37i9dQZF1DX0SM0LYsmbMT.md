@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,047 songs - 4 day 22 hr 0 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,048 songs - 4 day 22 hr 2 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2273,6 +2273,7 @@
 | [Second Chance](https://open.spotify.com/track/6bEeSQJImuxelI4h8FfVht) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Second Chance](https://open.spotify.com/album/79XKipLUqpUDLTIPmoRcr5) | 2:13 | 2022-05-12 | 2022-05-26 |
 | [Second Chance](https://open.spotify.com/track/1zRxxLqv8ZsI7RwaGdI9uV) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Ozelot](https://open.spotify.com/artist/0EGqP4H6r2Fc7VquwjgMtY) | [Second Chance](https://open.spotify.com/album/1WFiHD95Da0xEk1XlDHypa) | 2:31 | 2021-05-29 | 2021-12-17 |
 | [Second Wind](https://open.spotify.com/track/6TnU0Gqn0EcfE9AUYzJVMB) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Second Wind](https://open.spotify.com/album/4Rm9vAv7GJbRBoBw4b7jYc) | 3:00 | 2019-05-26\* | 2019-12-13 |
+| [Secret Hideout](https://open.spotify.com/track/3pLzDaKb0lzJCVRNp37oFy) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Secret Hideout](https://open.spotify.com/album/549scr9WeKjMsp9Ofn2Wvr) | 2:11 | 2022-09-22 |  |
 | [Secret Jazz](https://open.spotify.com/track/1YEbTTsbfn0vsM52dBZ9HZ) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Secret Jazz](https://open.spotify.com/album/5Cu0ofs2gJfh6KXQEy0TaX) | 2:49 | 2020-05-12 | 2020-07-18 |
 | [Sedimento](https://open.spotify.com/track/6nLPxfHFZKA71Fmyqkd9Qa) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Sedimento](https://open.spotify.com/album/3IejJwFYCdzRPGS2rd6GAG) | 1:39 | 2022-02-17 | 2022-03-31 |
 | [See Jay](https://open.spotify.com/track/5UOEqPy7F43vKGjUgjKdwI) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [See Jay](https://open.spotify.com/album/1IvHZ7fFvEhAbMfkbRZC9K) | 2:12 | 2022-05-12 | 2022-06-17 |
@@ -2518,7 +2519,7 @@
 | [summer bump](https://open.spotify.com/track/40nm9EIJxkoEUoNeF9TZZy) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34), [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb) | [summer bump](https://open.spotify.com/album/5tkA5jhRolTw0Cgymq5zLm) | 2:18 | 2021-08-20 | 2021-12-11 |
 | [Summer Chills](https://open.spotify.com/track/2Cozs6cm13F9pFm1pqevfw) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Summer Chills & Good Morning](https://open.spotify.com/album/4KOlcx6sg7GO96aXXWYFIY) | 2:35 | 2021-08-20 | 2021-11-19 |
 | [Summer Delight](https://open.spotify.com/track/3GsbB0FmjnziE9nvR538Kf) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [Summer Delight](https://open.spotify.com/album/55f3o4gryhDESUWdK1q2E8) | 2:23 | 2019-07-26 | 2020-01-22 |
-| [Summer Glow](https://open.spotify.com/track/6PG9dv3fGoMNmtaw9YEeiL) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Summer Glow](https://open.spotify.com/album/4h5y3kuwhkmsOpdYiuFHb5) | 2:51 | 2022-02-11 |  |
+| [Summer Glow](https://open.spotify.com/track/6PG9dv3fGoMNmtaw9YEeiL) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Summer Glow](https://open.spotify.com/album/4h5y3kuwhkmsOpdYiuFHb5) | 2:51 | 2022-02-11 | 2022-10-02 |
 | [summer in NY](https://open.spotify.com/track/221uK0na0fN1ktXzIgFdVg) | [stream\_error](https://open.spotify.com/artist/3AHKvfq0OPpGwaZTh8ouuH), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [summer in NY](https://open.spotify.com/album/19yW9Ibrh4NpT5Q1y0idUi) | 1:48 | 2019-08-09 | 2020-02-22 |
 | [Summer is here](https://open.spotify.com/track/0H6U4KccRnCxH5ckF7I25X) | [Ymori](https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Summer is here](https://open.spotify.com/album/6GdmQiRzeAOtqmyhmnYYoV) | 1:15 | 2019-05-28 | 2019-06-12 |
 | [Summer Love](https://open.spotify.com/track/5KN52B6YpKpUjEVNbizfLN) | [reysi](https://open.spotify.com/artist/2ma4p5K4XNOuJAZLlIHouS), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Summer Love](https://open.spotify.com/album/3Wevu2I0GrZFzkFtEWzZot) | 2:46 | 2022-06-09 | 2022-06-15 |

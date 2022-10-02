@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmMjKFzN3Ka.md) - [plain]
 
 > Electronic duo <a href="spotify:artist:4Nl6PVYLwbCFfr3UqQlFtE">VOLAC</a> delivers a fun, high\-energy tech house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 965 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 976 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

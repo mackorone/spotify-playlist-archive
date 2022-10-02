@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o0sjdAbiLJ.md) - [plain]
 
 > Immerse yourself in the world of NIOH, an intense action RPG experience in Sengoku Era in Japan\. <br/>ダーク戦国アクションRPG, 「仁王」の世界へ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,769 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,777 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

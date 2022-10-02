@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfaWXjwoSGX.md) - [plain]
 
 > Emerging Chicago\-based producer & DJ <a href="spotify:artist:184mGxeseZkY2w05Nr4Tui">kryptogram</a> shares his impressive cratedigging skills in his mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210 likes - 18 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232 likes - 18 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

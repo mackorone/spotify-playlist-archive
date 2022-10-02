@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2w6jCwU2AgM.md) - [plain]
 
 > Dejate llevar por estas suaves melodías acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,579 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,578 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

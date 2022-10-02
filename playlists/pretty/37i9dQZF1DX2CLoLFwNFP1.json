@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 5358,
+  "num_followers": 5430,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMGY2M2ViZjZiZmYxZTFiYTgzMzY4YjMxOGEwOWM0ZGYz",
+  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMDljYzA3OWU0ZmFmMzZkNzMyM2VlYjE0MGVlZmQwMDFi",
   "tracks": [
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1695,18 +1695,26 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/4Pe85vc4NSIC9Y9adjmNA5"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         }
       ],
-      "duration_ms": 163531,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
+      "duration_ms": 225026,
+      "name": "ALL IN (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1735,26 +1743,18 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "ALL IN",
-        "url": "https://open.spotify.com/album/4Pe85vc4NSIC9Y9adjmNA5"
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         }
       ],
-      "duration_ms": 225026,
-      "name": "ALL IN (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p"
+      "duration_ms": 163531,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1903,30 +1903,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "GASHI",
-          "url": "https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 231360,
-      "name": "FSU (feat. GASHI & Rich The Kid)",
-      "url": "https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -1947,6 +1923,30 @@
       "duration_ms": 362314,
       "name": "WORLDWIDE",
       "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "GASHI",
+          "url": "https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 231360,
+      "name": "FSU (feat. GASHI & Rich The Kid)",
+      "url": "https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM"
     },
     {
       "added_at": "2022-08-18 14:34:32",

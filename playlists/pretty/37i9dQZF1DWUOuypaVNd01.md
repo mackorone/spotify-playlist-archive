@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Scooby
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,731 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,784 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 31 | [Bandidas Amam Mc Marcelly](https://open.spotify.com/track/2QO4r7oo203Wb0Y4Y6RprZ) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Bandidas Amam Mc Marcelly](https://open.spotify.com/album/06i2iP2VgBM9S0CsWYOzpN) | 3:05 |
 | 32 | [Sobe O Morro](https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Sobe O Morro](https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl) | 2:42 |
 | 33 | [Kenner](https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Korsain](https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL) | [40˚.40 Deluxe](https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM) | 3:17 |
-| 34 | [Noturno](https://open.spotify.com/track/1BPNkG24sSYmzLkaUAukUW) | [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Noturno](https://open.spotify.com/album/5zdsH90IfXwMJaPwxR1haz) | 2:49 |
+| 34 | [Propósitos](https://open.spotify.com/track/2LACCpFwBMjEHa3BqcYLVk) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim) | [Propósitos](https://open.spotify.com/album/6JHOgi8SNSKbdDo2VFmd4l) | 3:36 |
 | 35 | [CHELSEA](https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [BRIME!](https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979) | 2:30 |
 | 36 | [Desfile Bélico](https://open.spotify.com/track/2HKkqPRwK207KezeMbiTTA) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b) | [Esculpido a Machado](https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh) | 2:43 |
-| 37 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
+| 37 | [Noturno](https://open.spotify.com/track/1BPNkG24sSYmzLkaUAukUW) | [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Noturno](https://open.spotify.com/album/5zdsH90IfXwMJaPwxR1haz) | 2:49 |
 | 38 | [Rumo ao Estrelato](https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [Rumo ao Estrelato](https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9) | 2:49 |
-| 39 | [Propósitos](https://open.spotify.com/track/2LACCpFwBMjEHa3BqcYLVk) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim) | [Propósitos](https://open.spotify.com/album/6JHOgi8SNSKbdDo2VFmd4l) | 3:36 |
+| 39 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
 | 40 | [Serenata](https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [O Peso das Barra](https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL) | 2:38 |
 | 41 | [Eu Ainda](https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Eu Ainda](https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd) | 3:08 |
 | 42 | [Larga minha camisa](https://open.spotify.com/track/0B5XskCYCbBCNutIpl20rG) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [BR 140](https://open.spotify.com/album/103Rss3Qt0JvwKj8MFMPcC) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
 | 50 | [Dez e Faixa](https://open.spotify.com/track/6IL4ZRTz8QlJ6VuSg3F3Rv) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [TONCALi](https://open.spotify.com/artist/3enZVLaByIf1A6appp41gc) | [Dez e Faixa](https://open.spotify.com/album/0soK3TwSlDh53P3q48WPdK) | 2:37 |
 
-Snapshot ID: `MTY2NDUwNjg2MCwwMDAwMDAwMDg0ZWRhYzNmNzIzNTc2YmE5MjQ4NmQzZjUwYmViNzlj`
+Snapshot ID: `MTY2NDUwNjg2MCwwMDAwMDAwMGUxZmVlNzRhYjM0NTYzMGJiOTliMGM1NDIyMGU3MWUw`

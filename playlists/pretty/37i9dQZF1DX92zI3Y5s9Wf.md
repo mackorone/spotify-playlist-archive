@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92zI3Y5s9Wf.md) - [plain]
 
 > Up & coming Indonesian producer <a href="spotify:artist:7kA4sEagpoNK91I7wr9tYr">Bleu Clair</a> brings his high\-powered energy to his mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,752 likes - 17 songs - 59 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,761 likes - 17 songs - 59 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

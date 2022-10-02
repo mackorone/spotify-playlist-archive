@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVoboXxeXW4.md) - [plain]
 
 > Enjoy the official release of 'Drop the Beat', a competition between rappers to win 'Bitcoin'\. \(우승상금 '비트코인'을 쟁취하기 위한 래퍼들의 경쟁 '드랍 더 비트'의 공식 발매곡을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,437 likes - 18 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,443 likes - 18 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

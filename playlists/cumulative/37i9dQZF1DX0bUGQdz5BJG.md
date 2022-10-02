@@ -2,7 +2,7 @@
 
 ### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
-> Music City must\-hears\. Cover: Conner Smith
+> Music City must\-hears\. Cover: Avery Anna
 
 876 songs - 1 day 22 hr 50 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
@@ -371,7 +371,7 @@
 | [I Think About You](https://open.spotify.com/track/3YCXRpU918lO8lKZMOtR0Z) | [Harper Grae](https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr) | [I Think About You](https://open.spotify.com/album/2uF5SkbBCH2GFnBLUGNYMr) | 3:31 | 2021-12-31 | 2022-02-26 |
 | [I Want It All](https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [I Want It All](https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X) | 3:21 | 2022-02-25 | 2022-05-07 |
 | [I'll Keep the Country](https://open.spotify.com/track/2dxC3ICX1Gy4IqSwutBK91) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [I'll Keep the Country](https://open.spotify.com/album/1d7vUkuKj5iWcJJkZeeRR9) | 3:31 | 2022-01-28 | 2022-02-26 |
-| [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/04UK6oVCYUNtp1p11KKVKt) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/album/2hFL3oVudahoDiyLC7qju0) | 2:41 | 2022-09-30 |  |
+| [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/04UK6oVCYUNtp1p11KKVKt) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/album/2hFL3oVudahoDiyLC7qju0) | 2:40 | 2022-09-30 |  |
 | [I'm Gonna Let Her](https://open.spotify.com/track/0ypM45MRlc73Uttz1ddn9o) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [I'm Gonna Let Her](https://open.spotify.com/album/2Ief9TGkBjEaOD1soie5NC) | 2:56 | 2022-02-04 | 2022-03-05 |
 | [I'm the Fire](https://open.spotify.com/track/2FlSyqbLN6IfRlLuNHfI9y) | [Whitney Duncan](https://open.spotify.com/artist/7D3IiPrIsSWfMFHEqEOCUB) | [I'm the Fire](https://open.spotify.com/album/7trFzdowQiCT86Y5l4tbQo) | 3:26 | 2022-05-06 | 2022-07-30 |
 | [Iconic](https://open.spotify.com/track/6CzOrYgnxOp5cfw96OFV0q) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Iconic](https://open.spotify.com/album/0iUz1IPeRegvbYqHrx6etn) | 3:11 | 2022-05-06 | 2022-05-28 |

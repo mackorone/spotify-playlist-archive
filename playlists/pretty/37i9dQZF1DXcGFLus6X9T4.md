@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcGFLus6X9T4.md) - [plain]
 
 > The official playlist for The Adam Project\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,718 likes - 34 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,724 likes - 34 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

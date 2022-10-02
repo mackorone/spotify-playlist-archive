@@ -346,6 +346,36 @@
     },
     {
       "album": {
+        "name": "An Evening of Classical: Vivaldi",
+        "url": "https://open.spotify.com/album/6u7NMaaZNDgFMKXVjrYrVY"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Tom Finucane",
+          "url": "https://open.spotify.com/artist/6HgoMAFsW8DLgv7RUaqzDy"
+        },
+        {
+          "name": "New London Consort",
+          "url": "https://open.spotify.com/artist/1aqZE6rtaBWlipoD3Cj8HB"
+        },
+        {
+          "name": "Philip Pickett",
+          "url": "https://open.spotify.com/artist/28exjH55NHlMdsQFf64Zrt"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152733,
+      "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 3. Allegro",
+      "url": "https://open.spotify.com/track/1k3wTfLRwUpnrILdUKZIrn"
+    },
+    {
+      "album": {
         "name": "Discover Vivaldi",
         "url": "https://open.spotify.com/album/3QesxsJgkB160MYmEuRvMk"
       },
@@ -369,7 +399,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 152733,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 3. Allegro",
       "url": "https://open.spotify.com/track/7H2DUUv8jWob66vA9yXMeh"

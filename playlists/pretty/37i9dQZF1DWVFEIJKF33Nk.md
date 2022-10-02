@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFEIJKF33Nk.md) - [plain]
 
 > Some incredible music to celebrate our culture this month and every month!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,505 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,539 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

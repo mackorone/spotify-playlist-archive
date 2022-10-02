@@ -2,7 +2,7 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Ben Burgess
+> Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Ashley Gorley
 
 211 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 

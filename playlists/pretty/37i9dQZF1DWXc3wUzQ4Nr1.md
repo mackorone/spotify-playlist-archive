@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXc3wUzQ4Nr1.md) - [plain]
 
 > Global superstar DJ <a href="spotify:artist:5ChF3i92IPZHduM7jN3dpg">Nicky Romero</a> takes us to the main stage with his uplifting mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,983 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,015 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

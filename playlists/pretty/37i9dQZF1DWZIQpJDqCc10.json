@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest alternative love songs of all time.",
-  "num_followers": 442942,
+  "num_followers": 443223,
   "original_name": "Alternative Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDUzNzIyOCwwMDAwMDAwMDQzZTIwN2UxMDAxZmFjYzBhNjE5YzU5N2QzNWI0OWI2",
+  "snapshot_id": "MTY0NDUzNzIyOCwwMDAwMDAwMDZlNjhjZGZmZmQyODk2NTFlMzQ0OTNhZGVlYTBhMjBh",
   "tracks": [
     {
       "added_at": "2022-02-10 23:53:48",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-02-10 23:53:48",
       "album": {
-        "name": "Dreamin' Wild",
-        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
-      },
-      "artists": [
-        {
-          "name": "Donnie & Joe Emerson",
-          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
-    },
-    {
-      "added_at": "2022-02-10 23:53:48",
-      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 192000,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/2N7TN76tLuTcdn9UlS8ADT"
+    },
+    {
+      "added_at": "2022-02-10 23:53:48",
+      "album": {
+        "name": "Dreamin' Wild",
+        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
+      },
+      "artists": [
+        {
+          "name": "Donnie & Joe Emerson",
+          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
     },
     {
       "added_at": "2022-02-10 23:53:48",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-02-10 23:53:48",
       "album": {
-        "name": "Lady's Bridge",
-        "url": "https://open.spotify.com/album/5hlcLAkhlCrV6j8NxEptXl"
-      },
-      "artists": [
-        {
-          "name": "Richard Hawley",
-          "url": "https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Tonight the Streets Are Ours",
-      "url": "https://open.spotify.com/track/68UGKNGREtwsO7fDRwftZ2"
-    },
-    {
-      "added_at": "2022-02-10 23:53:48",
-      "album": {
         "name": "All Mod Cons",
         "url": "https://open.spotify.com/album/1zB3OwsKut94AnGBazJUlZ"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 169333,
       "name": "English Rose",
       "url": "https://open.spotify.com/track/2R5zO3Zi0Of0v1DyxusWbk"
+    },
+    {
+      "added_at": "2022-02-10 23:53:48",
+      "album": {
+        "name": "Lady's Bridge",
+        "url": "https://open.spotify.com/album/5hlcLAkhlCrV6j8NxEptXl"
+      },
+      "artists": [
+        {
+          "name": "Richard Hawley",
+          "url": "https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Tonight the Streets Are Ours",
+      "url": "https://open.spotify.com/track/68UGKNGREtwsO7fDRwftZ2"
     },
     {
       "added_at": "2022-02-10 23:53:48",

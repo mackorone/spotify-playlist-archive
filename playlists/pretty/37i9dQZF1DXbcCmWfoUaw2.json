@@ -1,12 +1,12 @@
 {
   "description": "Energetic tracks from the 2000s to boost your running session.",
-  "num_followers": 902464,
+  "num_followers": 902862,
   "original_name": "00s Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI5NTgzNiwwMDAwMDAwMDQ4Yjk3ODU2NTZjZjcwZjQyM2NjNTFiZWJlZTc4MzY5",
+  "snapshot_id": "MTY2MDI5NTgzNiwwMDAwMDAwMGIyMjNkN2E1ODAxNDJmM2E0MzEyOWM3NDRhMjRjNTFh",
   "tracks": [
     {
       "added_at": "2022-08-12 09:17:16",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-08-12 09:17:16",
       "album": {
-        "name": "Year Of The Gentleman (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2XbfY2O2v3xwedUJ0J2kkr"
-    },
-    {
-      "added_at": "2022-08-12 09:17:16",
-      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 329933,
       "name": "All For You",
       "url": "https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH"
+    },
+    {
+      "added_at": "2022-08-12 09:17:16",
+      "album": {
+        "name": "Year Of The Gentleman (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2XbfY2O2v3xwedUJ0J2kkr"
     },
     {
       "added_at": "2022-08-12 09:17:16",

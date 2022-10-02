@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 78813,
+  "num_followers": 78958,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ3OTc1MywwMDAwMDAwMDllZWIxODRmNjc1NThjOGRmMjExNjJjNWZhNDU2OGM4",
+  "snapshot_id": "MTY2MTQ3OTc1MywwMDAwMDAwMDMzMzY2YzZkNWM4NmJlY2VkMjc3ZGNiYmQyNWFmYjRl",
   "tracks": [
     {
       "added_at": "2022-08-26 02:09:12",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
-        "name": "Moodring",
-        "url": "https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H"
-      },
-      "artists": [
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
         "name": "Bravebird",
         "url": "https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 226333,
       "name": "For Real",
       "url": "https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
+        "name": "Moodring",
+        "url": "https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H"
+      },
+      "artists": [
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
-        "name": "Love in Full Bloom",
-        "url": "https://open.spotify.com/album/4cEfTkaA9FcgZOuyjVkiZG"
-      },
-      "artists": [
-        {
-          "name": "Karla Felecia Scaife",
-          "url": "https://open.spotify.com/artist/10cEgWO5EK436JaZkGQUKj"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Love In Full Bloom",
-      "url": "https://open.spotify.com/track/4LCxUSGC5gg291GXE0CUwL"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
         "name": "sounds of so(u)litude",
         "url": "https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 270000,
       "name": "GIFTED",
       "url": "https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
+        "name": "Love in Full Bloom",
+        "url": "https://open.spotify.com/album/4cEfTkaA9FcgZOuyjVkiZG"
+      },
+      "artists": [
+        {
+          "name": "Karla Felecia Scaife",
+          "url": "https://open.spotify.com/artist/10cEgWO5EK436JaZkGQUKj"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Love In Full Bloom",
+      "url": "https://open.spotify.com/track/4LCxUSGC5gg291GXE0CUwL"
     },
     {
       "added_at": "2022-08-26 02:09:12",

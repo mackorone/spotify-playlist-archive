@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 114226,
       "name": "Alcohol",
       "url": "https://open.spotify.com/track/2jj45amiDA6KzRrs830H3h"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 107706,
       "name": "Blood and Whiskey",
       "url": "https://open.spotify.com/track/686FZUtOvjfdhSsyjbGfXb"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 166973,
       "name": "Famous for Nothing",
       "url": "https://open.spotify.com/track/7752ly2fp6Pfktq8I7zsxR"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 248586,
       "name": "Going Out In Style",
       "url": "https://open.spotify.com/track/0I90T32j5YVYMdD4zi2Naf"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 200773,
       "name": "Good As Gold",
       "url": "https://open.spotify.com/track/29w2i0wJXNtrHoY3uLpXlB"
@@ -487,10 +487,32 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 155642,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/4GPs3FuG2SMYa245EHzbKe"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205937,
+      "name": "Never Git Drunk No More",
+      "url": "https://open.spotify.com/track/0JuhSdmFY00TcRQZeslOep"
     },
     {
       "album": {
@@ -505,7 +527,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 234133,
       "name": "Paying My Way",
       "url": "https://open.spotify.com/track/4pMCoGppWrT0gL8oHvBfrV"
@@ -602,6 +624,24 @@
     },
     {
       "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193349,
+      "name": "Talking Jukebox",
+      "url": "https://open.spotify.com/track/56cKEoN9Rdmv2QAGOHrqCr"
+    },
+    {
+      "album": {
         "name": "Ten Times More",
         "url": "https://open.spotify.com/album/1bhVg5b0MVqF120jXHGz7U"
       },
@@ -667,7 +707,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 217866,
       "name": "The Dirty Glass",
       "url": "https://open.spotify.com/track/2jggiA0przPmYj0Z96W7Q0"
@@ -743,6 +783,28 @@
       "duration_ms": 219249,
       "name": "The Irish Rover",
       "url": "https://open.spotify.com/track/4ezf7rIpqEU6GwwxBj7Y0R"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Evan Felker of Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/6SIBJsF8Y9JtmYwePXmF0z"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213356,
+      "name": "The Last One",
+      "url": "https://open.spotify.com/track/4bHFIWlluSvc9MP8NQmqF1"
     },
     {
       "album": {
@@ -923,6 +985,24 @@
       "duration_ms": 171026,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182913,
+      "name": "Waters Are A'risin",
+      "url": "https://open.spotify.com/track/5Vj1Tsd7aTFt1AVPVQySqL"
     },
     {
       "album": {

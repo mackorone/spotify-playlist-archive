@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 62580,
+  "num_followers": 62601,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE3NTQ5NCwwMDAwMDAwMDE2NzNmOTBhMmMyYmIyNGEzMTBiYzM0ZDgwMjFlYmRi",
+  "snapshot_id": "MTY2NDE3NTQ5NCwwMDAwMDAwMGQ5ZGRmNTllYThiMDUwYzJlYzFlZDMzYmE5ZDZiNTJi",
   "tracks": [
     {
       "added_at": "2022-09-26 06:58:14",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
-        "name": "Six Feet Apart",
-        "url": "https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "Six Feet Apart",
-      "url": "https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm"
-    },
-    {
-      "added_at": "2022-09-26 06:58:14",
-      "album": {
         "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
         "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 198777,
       "name": "Candle In The Wind - 2018 Version",
       "url": "https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L"
+    },
+    {
+      "added_at": "2022-09-26 06:58:14",
+      "album": {
+        "name": "Six Feet Apart",
+        "url": "https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "Six Feet Apart",
+      "url": "https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm"
     },
     {
       "added_at": "2022-09-26 06:58:14",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
-        "name": "\u00c4lskar",
-        "url": "https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "I Should Be a Bird",
-      "url": "https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz"
-    },
-    {
-      "added_at": "2022-09-26 06:58:14",
-      "album": {
         "name": "Secret (Acoustic)",
         "url": "https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
-        "name": "You and Me On The Rock (In The Canyon Haze)",
-        "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
+        "name": "\u00c4lskar",
+        "url": "https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
         }
       ],
-      "duration_ms": 257853,
-      "name": "You and Me On The Rock (In The Canyon Haze)",
-      "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
+      "duration_ms": 239706,
+      "name": "I Should Be a Bird",
+      "url": "https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz"
     },
     {
       "added_at": "2022-09-26 06:58:14",
@@ -951,6 +935,22 @@
       "duration_ms": 196067,
       "name": "Easy Tiger",
       "url": "https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y"
+    },
+    {
+      "added_at": "2022-09-26 06:58:14",
+      "album": {
+        "name": "You and Me On The Rock (In The Canyon Haze)",
+        "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "You and Me On The Rock (In The Canyon Haze)",
+      "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
     },
     {
       "added_at": "2022-09-26 06:58:14",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
-        "name": "How Long Will I Love You",
-        "url": "https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 144830,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3"
-    },
-    {
-      "added_at": "2022-09-26 06:58:14",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/267C1h0KBd2QGM368Ef9ue"
+        "name": "How Long Will I Love You",
+        "url": "https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
         }
       ],
-      "duration_ms": 201440,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2wfuK8f77bybu2MWiQ5Evn"
+      "duration_ms": 144830,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3"
     },
     {
       "added_at": "2022-09-26 06:58:14",
@@ -1111,6 +1095,22 @@
       "duration_ms": 240426,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro"
+    },
+    {
+      "added_at": "2022-09-26 06:58:14",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/267C1h0KBd2QGM368Ef9ue"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2wfuK8f77bybu2MWiQ5Evn"
     },
     {
       "added_at": "2022-09-26 06:58:14",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-09-26 06:58:14",
       "album": {
+        "name": "Fingertips",
+        "url": "https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 218230,
+      "name": "Settle",
+      "url": "https://open.spotify.com/track/1G576qOKq0CdSGvSmHD4pz"
+    },
+    {
+      "added_at": "2022-09-26 06:58:14",
+      "album": {
         "name": "Tell Her You Love Her (feat. Mat Kearney)",
         "url": "https://open.spotify.com/album/3qGdUcPXD86hAZOcztcIS8"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 199144,
       "name": "You Belong To Somebody Else",
       "url": "https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf"
-    },
-    {
-      "added_at": "2022-09-26 06:58:14",
-      "album": {
-        "name": "Fingertips",
-        "url": "https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO"
-      },
-      "artists": [
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 218230,
-      "name": "Settle",
-      "url": "https://open.spotify.com/track/1G576qOKq0CdSGvSmHD4pz"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

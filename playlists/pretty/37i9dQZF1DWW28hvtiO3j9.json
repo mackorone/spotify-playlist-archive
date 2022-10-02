@@ -1,12 +1,12 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 79792,
+  "num_followers": 79900,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI5MDgwMCwwMDAwMDAwMGE5MmM3M2FhMTRiMGVlZWMwNDU2NjUwZDRmZGUyZGJm",
+  "snapshot_id": "MTY2NDI5MDgwMCwwMDAwMDAwMDQzNWMzZWU0MDhkYjBmODcyMDk4ZGQ2NjYyZTFhMWEw",
   "tracks": [
     {
       "added_at": "2022-09-27 15:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
-        "name": "Navigator",
-        "url": "https://open.spotify.com/album/4dDdb8mXZgAcw6QAO6oKc9"
-      },
-      "artists": [
-        {
-          "name": "1986 Omega Tribe",
-          "url": "https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ"
-        }
-      ],
-      "duration_ms": 255960,
-      "name": "Older Girl",
-      "url": "https://open.spotify.com/track/6oGLKGeI4tM4jaVWe9sBoF"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
         "name": "Who Are You?",
         "url": "https://open.spotify.com/album/64RtMrgkknSMaWhA8J2mDD"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 231760,
       "name": "Jazzy Night",
       "url": "https://open.spotify.com/track/2CzYHourfYD0fQBaBHgCNS"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "Navigator",
+        "url": "https://open.spotify.com/album/4dDdb8mXZgAcw6QAO6oKc9"
+      },
+      "artists": [
+        {
+          "name": "1986 Omega Tribe",
+          "url": "https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ"
+        }
+      ],
+      "duration_ms": 255960,
+      "name": "Older Girl",
+      "url": "https://open.spotify.com/track/6oGLKGeI4tM4jaVWe9sBoF"
     },
     {
       "added_at": "2022-09-27 15:00:00",
@@ -567,6 +567,38 @@
     {
       "added_at": "2022-09-27 15:00:00",
       "album": {
+        "name": "Miki Matsubara Best Collection",
+        "url": "https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "It's so Creamy",
+      "url": "https://open.spotify.com/track/5wxTRe4L7bdHyrF3Nm11lO"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
+        "name": "FIRST LIGHT (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT"
+      },
+      "artists": [
+        {
+          "name": "Makoto Matsushita",
+          "url": "https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG"
+        }
+      ],
+      "duration_ms": 273220,
+      "name": "First Light - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz"
+    },
+    {
+      "added_at": "2022-09-27 15:00:00",
+      "album": {
         "name": "NIAGARA TRIANGLE vol.2 40th Anniversary Edition",
         "url": "https://open.spotify.com/album/1eXJvf74OeQnFlx6G7qbCJ"
       },
@@ -591,38 +623,6 @@
       "duration_ms": 191800,
       "name": "A\u9762\u3067\u604b\u3092\u3057\u3066",
       "url": "https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
-        "name": "FIRST LIGHT (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT"
-      },
-      "artists": [
-        {
-          "name": "Makoto Matsushita",
-          "url": "https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG"
-        }
-      ],
-      "duration_ms": 273220,
-      "name": "First Light - 2018 Remaster",
-      "url": "https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz"
-    },
-    {
-      "added_at": "2022-09-27 15:00:00",
-      "album": {
-        "name": "Miki Matsubara Best Collection",
-        "url": "https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5"
-      },
-      "artists": [
-        {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "It's so Creamy",
-      "url": "https://open.spotify.com/track/5wxTRe4L7bdHyrF3Nm11lO"
     },
     {
       "added_at": "2022-09-27 15:00:00",

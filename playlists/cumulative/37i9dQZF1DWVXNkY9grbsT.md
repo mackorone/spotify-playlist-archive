@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-247 songs - 21 hr 10 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
+248 songs - 21 hr 19 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Purple](https://open.spotify.com/track/68XYj0LKFtVKzqsQy8CdVP) | [Sundayman](https://open.spotify.com/artist/4QBplENqCYmyjKCsVKOWRy) | [Outerland II](https://open.spotify.com/album/2iMNkkCosQP2B1caimXt9I) | 4:20 | 2022-03-25 | 2022-07-25 |
 | [Razor \- Foam and Sand Remix](https://open.spotify.com/track/5ZyaMRIDY85TeCIwn8kete) | [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Razor \(Foam and Sand Remix\)](https://open.spotify.com/album/7avH6B4ow8bIPK0aAOYUky) | 4:02 | 2021-12-26 |  |
 | [Reciprocal capture \(ft\. Speaker Music\)](https://open.spotify.com/track/736tmPjGGT8MG6DcD15UoB) | [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4), [Speaker Music](https://open.spotify.com/artist/1H0aWZUg7aOHQmo5h09xso) | [Reciprocal capture \(ft\. Speaker Music\)](https://open.spotify.com/album/7eiwWV48yCvvrUqSCQ9uXw) | 5:40 | 2021-12-26 | 2022-07-29 |
+| [Reflejo](https://open.spotify.com/track/6555TzyEWY0FMiR8QKKXIg) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/7daEEsVemtGgl9NONjmBZk) | 9:06 | 2022-09-20 |  |
 | [Relacional](https://open.spotify.com/track/0LXnwxKWZ21A2bmKe7Qm0m) | [Mucho Sueño](https://open.spotify.com/artist/0ohtInQhL4yYgwv7PdBCMM) | [Relacional](https://open.spotify.com/album/29Jd8KosRaZANCLxCg77dw) | 3:22 | 2021-12-26 | 2022-07-28 |
 | [Resonate](https://open.spotify.com/track/3vLRWk9nnsJ89ShbHm9LTI) | [Daniel\[i\]](https://open.spotify.com/artist/58LrfqsxqAGuNcS1DQuGmy), [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [WHS 03](https://open.spotify.com/album/4BFWLUtEhCs9BjbjfLtRQ9) | 7:13 | 2021-12-26 | 2022-07-26 |
 | [Retour](https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl), [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Retour](https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8) | 7:05 | 2021-12-26 |  |
@@ -186,7 +187,7 @@
 | [Riptide](https://open.spotify.com/track/3AljM5qQOlyk5NApH8pWJn) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [Riptide](https://open.spotify.com/album/669AB2aEnksA5gFdVYfvv6) | 3:17 | 2022-07-15 |  |
 | [Riptide](https://open.spotify.com/track/56v1HWZ35g6jKpbJzYff6k) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [RIPTIDE](https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P) | 3:17 | 2021-12-26 | 2022-07-29 |
 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 | 2021-12-26 |  |
-| [Régime des Fleurs](https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Régime des Fleurs](https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju) | 2:50 | 2021-12-26 |  |
+| [Régime des Fleurs](https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Régime des Fleurs](https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju) | 2:50 | 2021-12-26 | 2022-10-02 |
 | [Saphire Waves](https://open.spotify.com/track/54NsU7IFD70hfysgZbfxl5) | [Infinity Fields](https://open.spotify.com/artist/60LC4c4Uv0UToHCkxsAUdN), [v e n n](https://open.spotify.com/artist/7K80bdPzdWRFqAHBfk1cPi) | [Saphire Waves](https://open.spotify.com/album/3uPCKUouh51cia7egBNbV5) | 2:15 | 2021-12-26 | 2022-07-26 |
 | [Seekers \- 2022 Remaster](https://open.spotify.com/track/6CXAqQPTDgwH03w1Ll5gBb) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a), [Jeffrey Fayman](https://open.spotify.com/artist/7MbgIuNbvtFLdLZ1tTpcwt) | [Trance Spirits \(2022 Remaster\)](https://open.spotify.com/album/4GLYU9Ajjtqe9QwU8wOviJ) | 7:22 | 2022-05-06 |  |
 | [Semiasian](https://open.spotify.com/track/3a7C503asAanhiSJqwdtKh) | [Andreas Tilliander](https://open.spotify.com/artist/53pOTwEk2tDTWd5tlaxZzO) | [Elit](https://open.spotify.com/album/4jNY6CU9vIaveYEVHtWPSi) | 5:29 | 2022-07-15 | 2022-07-23 |

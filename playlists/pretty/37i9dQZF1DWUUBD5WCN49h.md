@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od?si=u\-jJ8QFIR8KCr2\-tje4T1g"> Ria Sean</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,222 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,237 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 42 | [In The Clouds](https://open.spotify.com/track/4CIOeAaG7HTGFL2OZjbB9k) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [In The Clouds](https://open.spotify.com/album/79eYcHk7WngNWEIAP68pmn) | 3:23 |
 | 43 | [Soft Life](https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Soft Life](https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG) | 2:34 |
 | 44 | [Dondi](https://open.spotify.com/track/06g9YpLkAyq0ttNa7hgJLl) | [Romi](https://open.spotify.com/artist/5kZWwJkGR6YrQt0xh3W3Vo) | [Romi](https://open.spotify.com/album/7jGfsjRjvCylFn25edyCRK) | 2:30 |
-| 45 | [SMALL WINS](https://open.spotify.com/track/6B6Sqo3ipPs4bpvCb9ZsJc) | [SASHA CHAA](https://open.spotify.com/artist/5Uhc9u418MjnapB9RqTZir) | [SMALL WINS](https://open.spotify.com/album/2fCDdDPpepMIAtMPw1926c) | 4:11 |
+| 45 | [SMALL WINS](https://open.spotify.com/track/6B6Sqo3ipPs4bpvCb9ZsJc) | [SASHA CHAA](https://open.spotify.com/artist/5Uhc9u418MjnapB9RqTZir) | [SMALL WINS](https://open.spotify.com/album/2fCDdDPpepMIAtMPw1926c) | 4:14 |
 | 46 | [Hold Me](https://open.spotify.com/track/1MLhmKjFXimItwYu16PUeE) | [Mikeprince](https://open.spotify.com/artist/1Th4VZ8M5qpSQUoy8Hnus1), [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Hold Me](https://open.spotify.com/album/0BYsVu2QhlXFGq99xlviVt) | 3:23 |
 | 47 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 |
 | 48 | [My Killa](https://open.spotify.com/track/1jVC75rTnFC0yhLMIAw16B) | [bigBen](https://open.spotify.com/artist/2x57mfICKFd8AN4TlqatMb), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [My Killa](https://open.spotify.com/album/3rVixIqBYu1raZ9dobQvm7) | 3:38 |

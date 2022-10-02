@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Bollywood hits repackaged just for you\. Cover\- Ayushmann Khurrana, Vani kapoor, & Guru Randhawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,740 likes - 71 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,840 likes - 71 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

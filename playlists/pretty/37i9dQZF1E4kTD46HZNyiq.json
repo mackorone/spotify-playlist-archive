@@ -1,12 +1,12 @@
 {
   "description": "With Max Reichert, brodyn, Wesley Collins and more",
-  "num_followers": 1261,
+  "num_followers": 1263,
   "original_name": "NIGHT TRAVELER Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU5MDE0MywwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj",
+  "snapshot_id": "MTY2NDY3NjM2NywwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Stay by the Sea",
+        "url": "https://open.spotify.com/album/5X5eUmIPAuLOzyvej11FlN"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 227010,
+      "name": "Driving Hours",
+      "url": "https://open.spotify.com/track/6ajKu17bSP0Kp0ZncNdUja"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue Eyes",
         "url": "https://open.spotify.com/album/2kKU6f7kd8Pmt0554rz1iN"
       },
@@ -307,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Valentino Red",
+        "url": "https://open.spotify.com/album/76dFqhO7Os2Dgj4i2F79bh"
+      },
+      "artists": [
+        {
+          "name": "NEWCOAST",
+          "url": "https://open.spotify.com/artist/1EuCCNdLHenJnX4UUTMcWL"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Tear Us Apart",
+      "url": "https://open.spotify.com/track/2PI4viXKYk9GFN66U9Bael"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "falling up (mixtape)",
         "url": "https://open.spotify.com/album/77ucQ2VdLEPwBgC7e71NSr"
       },
@@ -319,6 +351,58 @@
       "duration_ms": 212500,
       "name": "lost",
       "url": "https://open.spotify.com/track/4nmMZB8s9x3qQ7WSBneOFj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camera Roll",
+        "url": "https://open.spotify.com/album/3JGTpgZJ8KKQHM2DJOb09P"
+      },
+      "artists": [
+        {
+          "name": "tacotimelover",
+          "url": "https://open.spotify.com/artist/70Z9F5ZrEt6eeiitoJBqgh"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "Camera Roll",
+      "url": "https://open.spotify.com/track/3e4sB2uOwLGuQtlfTmmqc1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sad People Dancing",
+        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
+      },
+      "artists": [
+        {
+          "name": "La Bouquet",
+          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
+        },
+        {
+          "name": "Olivver the Kid",
+          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
+        }
+      ],
+      "duration_ms": 265080,
+      "name": "Sad People Dancing",
+      "url": "https://open.spotify.com/track/3tTjbUTjqHYBhrsGtF6YFA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Night Traveler, Vol. 1",
+        "url": "https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/1ldzBCZ5Wjg2wdhJDIcSXy"
     },
     {
       "added_at": null,
@@ -355,58 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad People Dancing",
-        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
-      },
-      "artists": [
-        {
-          "name": "La Bouquet",
-          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
-        },
-        {
-          "name": "Olivver the Kid",
-          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
-        }
-      ],
-      "duration_ms": 265080,
-      "name": "Sad People Dancing",
-      "url": "https://open.spotify.com/track/3tTjbUTjqHYBhrsGtF6YFA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Camera Roll",
-        "url": "https://open.spotify.com/album/3JGTpgZJ8KKQHM2DJOb09P"
-      },
-      "artists": [
-        {
-          "name": "tacotimelover",
-          "url": "https://open.spotify.com/artist/70Z9F5ZrEt6eeiitoJBqgh"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "Camera Roll",
-      "url": "https://open.spotify.com/track/3e4sB2uOwLGuQtlfTmmqc1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Traveler, Vol. 1",
-        "url": "https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6"
-      },
-      "artists": [
-        {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/1ldzBCZ5Wjg2wdhJDIcSXy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Future Thieves",
         "url": "https://open.spotify.com/album/5CaFVNcmwlghcQXdypeMU0"
       },
@@ -419,38 +451,6 @@
       "duration_ms": 212204,
       "name": "Dark Spin",
       "url": "https://open.spotify.com/track/2P5ieSkaE83wJ9KOyT3SL0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Now We Know",
-        "url": "https://open.spotify.com/album/5XSPUq2RryFGwWAsedzkR1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Kern",
-          "url": "https://open.spotify.com/artist/4SuBL2GsDPfdX1oeOUDvA0"
-        }
-      ],
-      "duration_ms": 198890,
-      "name": "Now We Know",
-      "url": "https://open.spotify.com/track/3Rd5n7jgmCKKtjZ7dYquP0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thumbs",
-        "url": "https://open.spotify.com/album/4vlNZYQOuPR57SatL0VD54"
-      },
-      "artists": [
-        {
-          "name": "Zander Hawley",
-          "url": "https://open.spotify.com/artist/0lfHZCO5590Y3vuuNEXcwZ"
-        }
-      ],
-      "duration_ms": 273573,
-      "name": "Thumbs",
-      "url": "https://open.spotify.com/track/0mRcrW5I1FIf7Ryv3KBcCr"
     },
     {
       "added_at": null,
@@ -503,6 +503,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Now We Know",
+        "url": "https://open.spotify.com/album/5XSPUq2RryFGwWAsedzkR1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Kern",
+          "url": "https://open.spotify.com/artist/4SuBL2GsDPfdX1oeOUDvA0"
+        }
+      ],
+      "duration_ms": 198890,
+      "name": "Now We Know",
+      "url": "https://open.spotify.com/track/3Rd5n7jgmCKKtjZ7dYquP0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thumbs",
+        "url": "https://open.spotify.com/album/4vlNZYQOuPR57SatL0VD54"
+      },
+      "artists": [
+        {
+          "name": "Zander Hawley",
+          "url": "https://open.spotify.com/artist/0lfHZCO5590Y3vuuNEXcwZ"
+        }
+      ],
+      "duration_ms": 273573,
+      "name": "Thumbs",
+      "url": "https://open.spotify.com/track/0mRcrW5I1FIf7Ryv3KBcCr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything Ends Up Ending",
         "url": "https://open.spotify.com/album/5NZ0kjAcKNZQc9RYmOuzCa"
       },
@@ -515,38 +547,6 @@
       "duration_ms": 208960,
       "name": "I'm In Love With Everybody",
       "url": "https://open.spotify.com/track/0WJ19bFgOB0DKOKaU6E2Mj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give & Take",
-        "url": "https://open.spotify.com/album/6oOT4HpukGQzarJF2EddOv"
-      },
-      "artists": [
-        {
-          "name": "John Marc",
-          "url": "https://open.spotify.com/artist/5yQzAW33GfPLJ77Jf4vWmj"
-        }
-      ],
-      "duration_ms": 271690,
-      "name": "Give & Take",
-      "url": "https://open.spotify.com/track/67UrTD8Uh1U3KcrXMiQ1jf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i love you, i'm sorry",
-        "url": "https://open.spotify.com/album/6IwXX5MC6LQq7k78Slv7gZ"
-      },
-      "artists": [
-        {
-          "name": "Pacific",
-          "url": "https://open.spotify.com/artist/7DZSmYxbcqGOz4QxhxNAJw"
-        }
-      ],
-      "duration_ms": 244476,
-      "name": "never in love",
-      "url": "https://open.spotify.com/track/4s4sY3HHDIL8AHrvk2pWKn"
     },
     {
       "added_at": null,
@@ -599,6 +599,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give & Take",
+        "url": "https://open.spotify.com/album/6oOT4HpukGQzarJF2EddOv"
+      },
+      "artists": [
+        {
+          "name": "John Marc",
+          "url": "https://open.spotify.com/artist/5yQzAW33GfPLJ77Jf4vWmj"
+        }
+      ],
+      "duration_ms": 271690,
+      "name": "Give & Take",
+      "url": "https://open.spotify.com/track/67UrTD8Uh1U3KcrXMiQ1jf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i love you, i'm sorry",
+        "url": "https://open.spotify.com/album/6IwXX5MC6LQq7k78Slv7gZ"
+      },
+      "artists": [
+        {
+          "name": "Pacific",
+          "url": "https://open.spotify.com/artist/7DZSmYxbcqGOz4QxhxNAJw"
+        }
+      ],
+      "duration_ms": 244476,
+      "name": "never in love",
+      "url": "https://open.spotify.com/track/4s4sY3HHDIL8AHrvk2pWKn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feel the Same",
         "url": "https://open.spotify.com/album/0mYhdrJAZNFYaHqCoh6jHw"
       },
@@ -611,38 +643,6 @@
       "duration_ms": 251000,
       "name": "Feel the Same",
       "url": "https://open.spotify.com/track/3FmowjgP140Te2KFmPsc2s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/5hm2glRWeW8XaA8ArnoYrh"
-      },
-      "artists": [
-        {
-          "name": "Ben Rowley",
-          "url": "https://open.spotify.com/artist/1riBwYg0dvgsUQguwoq4pd"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3vd1kGy66qEnvWJHGLeiRe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "yours",
-        "url": "https://open.spotify.com/album/22i5x6mVx5gxXsxoNOiSG6"
-      },
-      "artists": [
-        {
-          "name": "Pacific",
-          "url": "https://open.spotify.com/artist/7DZSmYxbcqGOz4QxhxNAJw"
-        }
-      ],
-      "duration_ms": 297051,
-      "name": "yours",
-      "url": "https://open.spotify.com/track/7sQB2E6Q2rxe4hdaSGfq9J"
     },
     {
       "added_at": null,
@@ -695,6 +695,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5hm2glRWeW8XaA8ArnoYrh"
+      },
+      "artists": [
+        {
+          "name": "Ben Rowley",
+          "url": "https://open.spotify.com/artist/1riBwYg0dvgsUQguwoq4pd"
+        }
+      ],
+      "duration_ms": 289500,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3vd1kGy66qEnvWJHGLeiRe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "yours",
+        "url": "https://open.spotify.com/album/22i5x6mVx5gxXsxoNOiSG6"
+      },
+      "artists": [
+        {
+          "name": "Pacific",
+          "url": "https://open.spotify.com/artist/7DZSmYxbcqGOz4QxhxNAJw"
+        }
+      ],
+      "duration_ms": 297051,
+      "name": "yours",
+      "url": "https://open.spotify.com/track/7sQB2E6Q2rxe4hdaSGfq9J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Late Nights",
         "url": "https://open.spotify.com/album/03Es8ZVvkcDpRONjTz43Zc"
       },
@@ -707,38 +739,6 @@
       "duration_ms": 226470,
       "name": "Late Nights",
       "url": "https://open.spotify.com/track/0glvPG96bg3z2VdTGwsSqT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NEED YOU STILL",
-        "url": "https://open.spotify.com/album/0udETORJ0tU6bLEISNP8QU"
-      },
-      "artists": [
-        {
-          "name": "RVRB",
-          "url": "https://open.spotify.com/artist/1ohA2HPunXXX2rmFB5YqfQ"
-        }
-      ],
-      "duration_ms": 257988,
-      "name": "NEED YOU STILL",
-      "url": "https://open.spotify.com/track/6I2x7zkXNw3BXyhsynu42V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Look Down",
-        "url": "https://open.spotify.com/album/7uuC9YpaC6W9Gd7TSXTb5N"
-      },
-      "artists": [
-        {
-          "name": "Superheart",
-          "url": "https://open.spotify.com/artist/5ydFZ5oZLBnFy6WLQ4QKA6"
-        }
-      ],
-      "duration_ms": 255625,
-      "name": "Don't Look Down",
-      "url": "https://open.spotify.com/track/2y70XOn781AurC2LOr6SJM"
     },
     {
       "added_at": null,
@@ -763,18 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/1IiRVQ1SKjOT5gqfCrc0Yn"
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/1xxbUuZJN4BGfZDWiRcStm"
       },
       "artists": [
         {
-          "name": "TREY",
-          "url": "https://open.spotify.com/artist/0DB5jfleXJBNqU852M98BV"
+          "name": "The Light the Heat",
+          "url": "https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR"
         }
       ],
-      "duration_ms": 236386,
-      "name": "Fangs",
-      "url": "https://open.spotify.com/track/2jC9q3btiHKtTOHIRQvhMk"
+      "duration_ms": 236012,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/00hp7YyZAyA31q0S9rddVP"
     },
     {
       "added_at": null,
@@ -795,18 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Night Radio",
-        "url": "https://open.spotify.com/album/4wLIwIQqZEJMdgpFbFUxSX"
+        "name": "NEED YOU STILL",
+        "url": "https://open.spotify.com/album/0udETORJ0tU6bLEISNP8QU"
       },
       "artists": [
         {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+          "name": "RVRB",
+          "url": "https://open.spotify.com/artist/1ohA2HPunXXX2rmFB5YqfQ"
         }
       ],
-      "duration_ms": 253800,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/250hBwTcYlpjiTy56Yy23K"
+      "duration_ms": 257988,
+      "name": "NEED YOU STILL",
+      "url": "https://open.spotify.com/track/6I2x7zkXNw3BXyhsynu42V"
     },
     {
       "added_at": null,

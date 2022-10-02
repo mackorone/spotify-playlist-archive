@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UC9XmF9YyX.md) - [plain]
 
 > Experience both volumes and exclusive content, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,534 likes - 24 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,544 likes - 24 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

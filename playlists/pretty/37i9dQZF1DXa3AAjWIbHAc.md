@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3AAjWIbHAc.md) - [plain]
 
 > Get your kid's day started with these high\-energy songs in English and Spanish!
 
-[Spotify](https://open.spotify.com/user/spotify) - 581 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 582 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

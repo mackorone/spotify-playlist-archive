@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 
 > All E.L.F's go to playlist! A brand new album is here! Listen to The Renaissance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,931 likes - 133 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,983 likes - 133 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

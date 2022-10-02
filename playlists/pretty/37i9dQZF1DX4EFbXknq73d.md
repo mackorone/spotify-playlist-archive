@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked kind, tasty jams! / Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,476 likes - 129 songs - 14 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,484 likes - 129 songs - 14 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

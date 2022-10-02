@@ -1,34 +1,18 @@
 {
-  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Koe Wetzel",
-  "num_followers": 386062,
+  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Corey Kent",
+  "num_followers": 386167,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0NDI1MiwwMDAwMDAwMDUzYmNhNmVlOTk0MjI2ZjQwM2M2MmZkNzI1MTg1OWIx",
+  "snapshot_id": "MTY2NDU5Mjk5NCwwMDAwMDAwMDExNDVjNGQyYThhZGYzMTIwZjU2ZTAwMDhlZTc2OWJj",
   "tracks": [
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Wild as Her",
-        "url": "https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg"
+        "name": "Hood of That Car",
+        "url": "https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ"
       },
       "artists": [
         {
@@ -36,44 +20,12 @@
           "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
         }
       ],
-      "duration_ms": 199733,
-      "name": "Wild as Her",
-      "url": "https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L"
+      "duration_ms": 198933,
+      "name": "Hood of That Car",
+      "url": "https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Don't Do It In Texas",
-        "url": "https://open.spotify.com/album/2jPUGtTyhOEhG9V6sy5SeP"
-      },
-      "artists": [
-        {
-          "name": "Catie Offerman",
-          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
-        }
-      ],
-      "duration_ms": 265500,
-      "name": "Don't Do It In Texas",
-      "url": "https://open.spotify.com/track/0fCzJ0moRAJyt03FFbdZT3"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "The Old Man Said (Radio Edit)",
-        "url": "https://open.spotify.com/album/65ZBxEfMl4eG1DxhshPzVb"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 194499,
-      "name": "The Old Man Said - Radio Edit",
-      "url": "https://open.spotify.com/track/0dSDsfaUbBAqoDw4zBkhYv"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
@@ -89,7 +41,39 @@
       "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Don't Do It In Texas",
+        "url": "https://open.spotify.com/album/2jPUGtTyhOEhG9V6sy5SeP"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "duration_ms": 265500,
+      "name": "Don't Do It In Texas",
+      "url": "https://open.spotify.com/track/0fCzJ0moRAJyt03FFbdZT3"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "The Old Man Said (Radio Edit)",
+        "url": "https://open.spotify.com/album/65ZBxEfMl4eG1DxhshPzVb"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 194499,
+      "name": "The Old Man Said - Radio Edit",
+      "url": "https://open.spotify.com/track/0dSDsfaUbBAqoDw4zBkhYv"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Human The Double Album",
         "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
@@ -105,7 +89,7 @@
       "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Handle On You",
         "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
@@ -121,55 +105,7 @@
       "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "What Else Can She Do",
-        "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "jackson",
-      "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Texas & You",
-        "url": "https://open.spotify.com/album/4DxxgoQzzyA7tAPzAXemCQ"
-      },
-      "artists": [
-        {
-          "name": "Grace Tyler",
-          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Texas & You",
-      "url": "https://open.spotify.com/track/1rXVMnFigwPfk8tNnLLj3z"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Somewhere Between the Secret and the Truth",
-        "url": "https://open.spotify.com/album/542S5ZarJgZcBbyLXYSpzj"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 228813,
-      "name": "Honky Tonk Roll",
-      "url": "https://open.spotify.com/track/4nTBZTi0GQqzX5zbCgCxV8"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Ride the Lightning (717 Tapes)",
         "url": "https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi"
@@ -185,7 +121,71 @@
       "url": "https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "What Else Can She Do",
+        "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "jackson",
+      "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Texas & You",
+        "url": "https://open.spotify.com/album/4DxxgoQzzyA7tAPzAXemCQ"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Texas & You",
+      "url": "https://open.spotify.com/track/1rXVMnFigwPfk8tNnLLj3z"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Somewhere Between the Secret and the Truth",
+        "url": "https://open.spotify.com/album/542S5ZarJgZcBbyLXYSpzj"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 228813,
+      "name": "Honky Tonk Roll",
+      "url": "https://open.spotify.com/track/4nTBZTi0GQqzX5zbCgCxV8"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Wild as Her",
+        "url": "https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Wild as Her",
+      "url": "https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Long Live Cowgirls (with Cody Johnson)",
         "url": "https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN"
@@ -205,7 +205,23 @@
       "url": "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "From Austin",
         "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
@@ -221,23 +237,7 @@
       "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Hood of That Car",
-        "url": "https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Hood of That Car",
-      "url": "https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Mind On You",
         "url": "https://open.spotify.com/album/0FVH9WJPHicjhOLfsPpnxL"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Get A Dog",
         "url": "https://open.spotify.com/album/27GYFiztdGdz4Mh1zNiVgD"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/4ojft2o33N13eHRlci1G4Z"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Highway Boys",
         "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Happier Alone (feat. Koe Wetzel)",
         "url": "https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Know That by Now",
         "url": "https://open.spotify.com/album/6tZ6olAlfKCuB3ZWr741LC"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/1yL8k3wylADawLh7T5BzbO"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Trenches",
         "url": "https://open.spotify.com/album/71uqGOKL1QEbwqtqTyFDTb"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/2HegYbfmMFwIIAjvMIc7e8"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Die Runnin'",
         "url": "https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/7oWzVNBs8OUqXzfp8Psbxg"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Tears the Size of Texas",
         "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Welcome To Countryland",
         "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
@@ -385,23 +385,7 @@
       "url": "https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "April Showers",
-        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "717 Tapes, Vol. 2",
         "url": "https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6"
@@ -417,7 +401,23 @@
       "url": "https://open.spotify.com/track/5NqaRQWSVg9mnnmdCZJ17s"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Geronimo",
         "url": "https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Wild Palomino",
         "url": "https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Love Talking",
         "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Different Now",
         "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Bad Days Better",
         "url": "https://open.spotify.com/album/0cI9YhCkHa1JcxbhyY8mBX"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/6BzCBm0qXbMsDQYDUAYQNO"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
         "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Josh Abbott Band and Friends, Vol. 1",
         "url": "https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "People Who Care",
         "url": "https://open.spotify.com/album/2hP994b52nHVX3RCHYiuAV"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/1SMZouFRcuhqr9ugQXBn6W"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "You In A Honky Tonk",
         "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Heaven Down Here",
         "url": "https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/0xMz97Xa2QhmY6mAZqGTf5"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "'21",
         "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Where Cotton Is King",
         "url": "https://open.spotify.com/album/5rkQu4FxupIR0c3py7AHz7"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/54nEY2U21ezqHezg1XNeqr"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Breaking News",
         "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "The Highway Kind",
         "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Warning Label",
         "url": "https://open.spotify.com/album/4VUenncoqrnFbiO6R8lRxA"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/2MQZttVGYDyTEcCXVTdWa7"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Love Talking",
         "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Everything Has Your Memory",
         "url": "https://open.spotify.com/album/26z3oFclQMKjKXn686cATB"
@@ -769,55 +769,7 @@
       "url": "https://open.spotify.com/track/0KYC7enraB6AVZ5k7cdfKk"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "The Last Resort: Greetings From",
-        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "Sunrise Tells The Story",
-      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Buckle of the Bible Belt",
-        "url": "https://open.spotify.com/album/1dkJmdPnl2W9WoQgrkXFlD"
-      },
-      "artists": [
-        {
-          "name": "Grace Tyler",
-          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "Buckle of the Bible Belt",
-      "url": "https://open.spotify.com/track/03zP9TiVkMyNul9NArPx6R"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "The Highway Kind",
         "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
@@ -833,7 +785,55 @@
       "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Buckle of the Bible Belt",
+        "url": "https://open.spotify.com/album/1dkJmdPnl2W9WoQgrkXFlD"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "Buckle of the Bible Belt",
+      "url": "https://open.spotify.com/track/03zP9TiVkMyNul9NArPx6R"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "The Last Resort: Greetings From",
+        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Sunrise Tells The Story",
+      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Girls Like Me",
         "url": "https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "But Me",
         "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Drowning in Dreams, Pt. 2",
         "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Your Bar Now",
         "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Anderson County",
         "url": "https://open.spotify.com/album/7qT9Yz0XXRIQBvSHAYz8FI"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/75VAQ0SRTBKzqzAZuIepN8"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "She Goes Home (Dirty Breakup Song)",
         "url": "https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6"
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Fooled Around",
         "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
@@ -981,7 +981,7 @@
       "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "it won't always be this way",
         "url": "https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc"
@@ -997,7 +997,7 @@
       "url": "https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T"
     },
     {
-      "added_at": "2022-10-01 01:48:23",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Cheating On A Memory, Chapter 3",
         "url": "https://open.spotify.com/album/36DYqh63Xt8VWishLELknB"
@@ -1013,27 +1013,7 @@
       "url": "https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Wannabe",
-        "url": "https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4"
-      },
-      "artists": [
-        {
-          "name": "Dalton Domino",
-          "url": "https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT"
-        },
-        {
-          "name": "Stephanie Lambring",
-          "url": "https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD"
-        }
-      ],
-      "duration_ms": 293862,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "That Drink (feat. Neal McCoy)",
         "url": "https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F"
@@ -1053,7 +1033,27 @@
       "url": "https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4"
+      },
+      "artists": [
+        {
+          "name": "Dalton Domino",
+          "url": "https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT"
+        },
+        {
+          "name": "Stephanie Lambring",
+          "url": "https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD"
+        }
+      ],
+      "duration_ms": 293862,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "All It Cost Me Was Everything",
         "url": "https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC"
@@ -1069,7 +1069,7 @@
       "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Boy From Anderson County",
         "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
@@ -1085,7 +1085,7 @@
       "url": "https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw"
     },
     {
-      "added_at": "2022-10-01 01:48:23",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Shot from the Heart",
         "url": "https://open.spotify.com/album/5EUxYBJyHStLsVJMRipLX8"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/3uvw2lZIL6tuaCQWUP2Syp"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Varsity Type",
         "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
@@ -1117,7 +1117,7 @@
       "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
@@ -1133,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "I Just Want You",
         "url": "https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6"
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/2RAuxKLHNvjn9fBRJVTGqi"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Stay Tuned",
         "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "The Last Resort: Greetings From",
         "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
@@ -1181,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Married Alone (feat. Vince Gill)",
         "url": "https://open.spotify.com/album/1wOHneMzn80srFomjCpTR9"
@@ -1201,7 +1201,7 @@
       "url": "https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Once in a Blue Moon",
         "url": "https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk"
@@ -1221,7 +1221,7 @@
       "url": "https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Happy Hour",
         "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
@@ -1237,7 +1237,7 @@
       "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Baby Do",
         "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
@@ -1253,7 +1253,7 @@
       "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
@@ -1269,7 +1269,7 @@
       "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Chisholm Trail",
         "url": "https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B"
@@ -1285,7 +1285,7 @@
       "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw"
@@ -1301,23 +1301,7 @@
       "url": "https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Laci Kaye Booth",
-        "url": "https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79"
-      },
-      "artists": [
-        {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "Shuffle",
-      "url": "https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Wherever I Am",
         "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
@@ -1333,23 +1317,7 @@
       "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Cowboys Don't Change",
-        "url": "https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K"
-      },
-      "artists": [
-        {
-          "name": "Rachel LaRen",
-          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
-        }
-      ],
-      "duration_ms": 212670,
-      "name": "Darlin'",
-      "url": "https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Times Are Changing",
         "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
@@ -1365,7 +1333,39 @@
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Cowboys Don't Change",
+        "url": "https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K"
+      },
+      "artists": [
+        {
+          "name": "Rachel LaRen",
+          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
+        }
+      ],
+      "duration_ms": 212670,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Laci Kaye Booth",
+        "url": "https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "Shuffle",
+      "url": "https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Whiskey Miss Me",
         "url": "https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6"
@@ -1381,23 +1381,7 @@
       "url": "https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Heart for Just One Team",
-        "url": "https://open.spotify.com/album/0BV4ruQifg3emKKeJ8rR7I"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 217839,
-      "name": "Heart for Just One Team",
-      "url": "https://open.spotify.com/track/4yVht4ghXbMAPcj3NZJRGR"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Who Am I to Judge",
         "url": "https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD"
@@ -1417,7 +1401,23 @@
       "url": "https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Heart for Just One Team",
+        "url": "https://open.spotify.com/album/0BV4ruQifg3emKKeJ8rR7I"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 217839,
+      "name": "Heart for Just One Team",
+      "url": "https://open.spotify.com/track/4yVht4ghXbMAPcj3NZJRGR"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "South of Forever",
         "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
@@ -1433,7 +1433,7 @@
       "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Cowboys Don't Cry",
         "url": "https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE"
@@ -1449,7 +1449,7 @@
       "url": "https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Breaking Every Heart In Texas",
         "url": "https://open.spotify.com/album/4HvGqNLGMecrxpdKoAznvz"
@@ -1465,7 +1465,7 @@
       "url": "https://open.spotify.com/track/4hJYNs2uklbeUle7SWit80"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Pleasure in the Pain (Acoustic)",
         "url": "https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99"
@@ -1481,7 +1481,7 @@
       "url": "https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "John Wayne",
         "url": "https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M"
@@ -1497,7 +1497,7 @@
       "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "It Wasn\u2019t Love",
         "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
@@ -1513,23 +1513,7 @@
       "url": "https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Nothing But Love Songs",
-        "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 225180,
-      "name": "Nothing But Love Songs",
-      "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Western Tears",
         "url": "https://open.spotify.com/album/1hzYDPwjgMn6hVrCiUNGiK"
@@ -1545,23 +1529,7 @@
       "url": "https://open.spotify.com/track/5in7jYPcrDH7vXB0C9vffq"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Miles and Miles of You",
-        "url": "https://open.spotify.com/album/07OEAlxXv9Sp0vdWYanpau"
-      },
-      "artists": [
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "I'm Going Home",
-      "url": "https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "What's Your Drinkin' Song",
         "url": "https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q"
@@ -1577,7 +1545,39 @@
       "url": "https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Nothing But Love Songs",
+        "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 225180,
+      "name": "Nothing But Love Songs",
+      "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Miles and Miles of You",
+        "url": "https://open.spotify.com/album/07OEAlxXv9Sp0vdWYanpau"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "I'm Going Home",
+      "url": "https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Honky Tonk in Heaven",
         "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
@@ -1593,7 +1593,7 @@
       "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Baker Hotel",
         "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
@@ -1609,7 +1609,7 @@
       "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Parker Ryan",
         "url": "https://open.spotify.com/album/4iCyyEW61JDJimz3pvU03j"
@@ -1625,23 +1625,7 @@
       "url": "https://open.spotify.com/track/024K3TtiidXB4YBqiVEfD2"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Wishin' on an Airplane",
-        "url": "https://open.spotify.com/album/0pAckWyY7LqtlCg61kylwf"
-      },
-      "artists": [
-        {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
-        }
-      ],
-      "duration_ms": 210241,
-      "name": "Wishin' on an Airplane",
-      "url": "https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx"
@@ -1657,7 +1641,23 @@
       "url": "https://open.spotify.com/track/09314p0WJhfG0mXqlg6hTC"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-01 02:56:34",
+      "album": {
+        "name": "Wishin' on an Airplane",
+        "url": "https://open.spotify.com/album/0pAckWyY7LqtlCg61kylwf"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "duration_ms": 210241,
+      "name": "Wishin' on an Airplane",
+      "url": "https://open.spotify.com/track/1PPFRpaI3WhDnRi3BSLsEy"
+    },
+    {
+      "added_at": "2022-10-01 02:56:34",
       "album": {
         "name": "Dancin' With The Devil",
         "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"

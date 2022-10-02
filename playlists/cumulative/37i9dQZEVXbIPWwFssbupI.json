@@ -458,6 +458,42 @@
     },
     {
       "album": {
+        "name": "Toujours +",
+        "url": "https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167866,
+      "name": "A la mode",
+      "url": "https://open.spotify.com/track/5FZYRhf3SNsQuHmP83DldK"
+    },
+    {
+      "album": {
+        "name": "Toujours +",
+        "url": "https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175754,
+      "name": "A tout \u00e0 l'heure",
+      "url": "https://open.spotify.com/track/14nd5q1v6c7HsRVwWTAxyN"
+    },
+    {
+      "album": {
         "name": "A Un Paso De La Luna (Remix)",
         "url": "https://open.spotify.com/album/7uqAed3H0PhUrLDoyVATh8"
       },
@@ -793,7 +829,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 166746,
       "name": "Allez dehors",
       "url": "https://open.spotify.com/track/2YGtFjsTpSrsGb2rQy4ARj"
@@ -1651,7 +1687,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 160421,
       "name": "Baila Pa Mi",
       "url": "https://open.spotify.com/track/2GS9AEoOjgbztBfIbCJ2mr"
@@ -1771,7 +1807,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
@@ -1839,7 +1875,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 182238,
       "name": "Ba\u00efla",
       "url": "https://open.spotify.com/track/5lXYy0wrrcWrQh1DHa8Uin"
@@ -4334,6 +4370,24 @@
     },
     {
       "album": {
+        "name": "Toujours +",
+        "url": "https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "Dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/7kkqPU6MK4JcPebaDEg9QV"
+    },
+    {
+      "album": {
         "name": "Mi Vida",
         "url": "https://open.spotify.com/album/1zGkO8BpgdwNMnKyOMO6J8"
       },
@@ -4353,6 +4407,28 @@
       "duration_ms": 196480,
       "name": "Dans mes bras",
       "url": "https://open.spotify.com/track/3ZOkB07TeBFB6vPSUjChPY"
+    },
+    {
+      "album": {
+        "name": "Toujours +",
+        "url": "https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156912,
+      "name": "Dans nos blocks",
+      "url": "https://open.spotify.com/track/1nVM3VSyr53sTjrWnwSXWE"
     },
     {
       "album": {
@@ -5592,6 +5668,24 @@
     },
     {
       "album": {
+        "name": "Toujours +",
+        "url": "https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Encore une fois (Maman)",
+      "url": "https://open.spotify.com/track/3fWhjGSW3jCVL6uLfl6Qlm"
+    },
+    {
+      "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
       },
@@ -5757,7 +5851,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 262613,
       "name": "Etna",
       "url": "https://open.spotify.com/track/775qtHu1rNoq1N2aKFa4nD"
@@ -9030,6 +9124,24 @@
     },
     {
       "album": {
+        "name": "Toujours +",
+        "url": "https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138030,
+      "name": "La beuh",
+      "url": "https://open.spotify.com/track/5vv0ZW6DSpbVmoXP4VfdL9"
+    },
+    {
+      "album": {
         "name": "Spleen",
         "url": "https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD"
       },
@@ -9447,7 +9559,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -9541,7 +9653,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
@@ -10005,6 +10117,28 @@
       "duration_ms": 211066,
       "name": "Les derniers marioles (feat. SCH)",
       "url": "https://open.spotify.com/track/3nfSwkMLwFT49PIRDBG6CZ"
+    },
+    {
+      "album": {
+        "name": "Toujours +",
+        "url": "https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        },
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203067,
+      "name": "Les fr\u00e8res",
+      "url": "https://open.spotify.com/track/5hgcfNLhMD81mx1DTJVeXp"
     },
     {
       "album": {
@@ -13952,6 +14086,28 @@
     },
     {
       "album": {
+        "name": "Trop t\u00f4t pour mourir",
+        "url": "https://open.spotify.com/album/6TxcHpL4qkxcSO2FIVgcgl"
+      },
+      "artists": [
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "Plus belle la vie, plus belle la mort",
+      "url": "https://open.spotify.com/track/79MRbiyZFHSPDQkezu3DeM"
+    },
+    {
+      "album": {
         "name": "Nonante-Cinq",
         "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
       },
@@ -14345,6 +14501,28 @@
       "duration_ms": 187493,
       "name": "Puta Madre (feat. Jul)",
       "url": "https://open.spotify.com/track/76YbjMIB74nqaSSlmx5zLx"
+    },
+    {
+      "album": {
+        "name": "Toujours +",
+        "url": "https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Quand j'y repense",
+      "url": "https://open.spotify.com/track/3BsYL1gVsiFpo0bM8oTbi0"
     },
     {
       "album": {
@@ -14873,7 +15051,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 198396,
       "name": "RENCONTRE",
       "url": "https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh"
@@ -15737,7 +15915,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 156862,
       "name": "Selfie",
       "url": "https://open.spotify.com/track/7pZayfJlwlHulmzt0xUN9m"
@@ -16331,7 +16509,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
@@ -16459,7 +16637,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 159360,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV"
@@ -17240,6 +17418,24 @@
     },
     {
       "album": {
+        "name": "Toujours +",
+        "url": "https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141204,
+      "name": "Toujours +",
+      "url": "https://open.spotify.com/track/5jceHfkyTOUMFmcZaxfV8t"
+    },
+    {
+      "album": {
         "name": "M.I.L.S 3 (R\u00e9\u00e9dition)",
         "url": "https://open.spotify.com/album/2NU2ajd63dfXOzKrvoMS3G"
       },
@@ -17339,6 +17535,24 @@
       "duration_ms": 210680,
       "name": "Toxxxic",
       "url": "https://open.spotify.com/track/4Jkfx9bJaSsBhivS7f9lfi"
+    },
+    {
+      "album": {
+        "name": "Toujours +",
+        "url": "https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96297,
+      "name": "Trafic",
+      "url": "https://open.spotify.com/track/0ztoHvOaAfkIUQyDvKpRff"
     },
     {
       "album": {
@@ -17993,7 +18207,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 241160,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/5QowMIujytktMDC8pktNXH"
@@ -18191,7 +18405,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 187027,
       "name": "VVS",
       "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"

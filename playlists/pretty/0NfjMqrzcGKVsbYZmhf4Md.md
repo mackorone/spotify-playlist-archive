@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain]
 
 > All songs about drinking, cheating, heartaches and everything else going on in a classic honky tonk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,732 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,733 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

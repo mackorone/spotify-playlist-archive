@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 166407,
+  "num_followers": 166480,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDI3ZDg0ZWE0MjRjNjc2YTYxM2QxNTM5ZjBlNDlhY2Ux",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDcxNmU2OThjZTA1ZDhiNWUwYzdjZDY4Y2E3OTdlNGYy",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Cognicide",
-        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
-      },
-      "artists": [
-        {
-          "name": "Western Addiction",
-          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
-        }
-      ],
-      "duration_ms": 97266,
-      "name": "Mailer, Meet Jim",
-      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Punk Rock Jukebox",
         "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 124360,
       "name": "Somebody's Gonna Get Their Head Kicked In",
       "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Cognicide",
+        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
+      },
+      "artists": [
+        {
+          "name": "Western Addiction",
+          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
+        }
+      ],
+      "duration_ms": 97266,
+      "name": "Mailer, Meet Jim",
+      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -443,22 +443,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Vision of Disorder",
-        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
-      },
-      "artists": [
-        {
-          "name": "Vision Of Disorder",
-          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "For Those Who Were Crucified",
         "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 116173,
       "name": "Burning Season",
       "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Vision of Disorder",
+        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
+      },
+      "artists": [
+        {
+          "name": "Vision Of Disorder",
+          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Give Blood",
-        "url": "https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9"
-      },
-      "artists": [
-        {
-          "name": "Bane",
-          "url": "https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi"
-        }
-      ],
-      "duration_ms": 157213,
-      "name": "Some Came Running",
-      "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Merciless",
         "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 220453,
       "name": "Shark Ethic",
       "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Give Blood",
+        "url": "https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9"
+      },
+      "artists": [
+        {
+          "name": "Bane",
+          "url": "https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi"
+        }
+      ],
+      "duration_ms": 157213,
+      "name": "Some Came Running",
+      "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
     },
     {
       "added_at": "2020-12-08 15:12:11",

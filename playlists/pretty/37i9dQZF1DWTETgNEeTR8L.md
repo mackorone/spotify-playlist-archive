@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTETgNEeTR8L.md) - [plain]
 
 > Techno legend <a href="spotify:artist:1btv9qmIpbp7q1ixCYNdHu">Adam Beyer</a> delivers a stunning masterpiece.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,373 likes - 15 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,400 likes - 15 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

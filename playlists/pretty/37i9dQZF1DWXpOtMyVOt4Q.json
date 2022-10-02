@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 214444,
+  "num_followers": 214530,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4NDQ1MywwMDAwMDAwMGE3ZTIyY2RhN2Y0YzJlZmY5OTAwNzQwYzk5ZjRhMmQ3",
+  "snapshot_id": "MTY2NDQ4NDQ1MywwMDAwMDAwMDVlYjkwNDVmOGRjOWY3MDZmOGFlMzJlM2MwMGZjNjQy",
   "tracks": [
     {
       "added_at": "2022-09-21 18:26:15",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-09-21 18:26:15",
       "album": {
+        "name": "Preferences",
+        "url": "https://open.spotify.com/album/7xEMGFzID9mX1TsyG4FOJA"
+      },
+      "artists": [
+        {
+          "name": "Blue Noodles",
+          "url": "https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq"
+        }
+      ],
+      "duration_ms": 139767,
+      "name": "Preferences",
+      "url": "https://open.spotify.com/track/4RKdZ7eLRpbDaz1A3TUcWE"
+    },
+    {
+      "added_at": "2022-09-21 18:26:15",
+      "album": {
         "name": "Montauk Paddling",
         "url": "https://open.spotify.com/album/4dyIqQlSISpBqT2SDD2eKI"
       },
@@ -543,18 +559,18 @@
     {
       "added_at": "2022-09-21 18:26:15",
       "album": {
-        "name": "Preferences",
-        "url": "https://open.spotify.com/album/7xEMGFzID9mX1TsyG4FOJA"
+        "name": "The Sound of Lights When Dim",
+        "url": "https://open.spotify.com/album/3WaoN1PHxKk87nuBv8WtwP"
       },
       "artists": [
         {
-          "name": "Blue Noodles",
-          "url": "https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq"
+          "name": "Slow Dancing Society",
+          "url": "https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc"
         }
       ],
-      "duration_ms": 139767,
-      "name": "Preferences",
-      "url": "https://open.spotify.com/track/4RKdZ7eLRpbDaz1A3TUcWE"
+      "duration_ms": 374465,
+      "name": "A Song That Will Help You Remember to Forget",
+      "url": "https://open.spotify.com/track/0itMKInovica9ugQZRTx5p"
     },
     {
       "added_at": "2022-09-21 18:26:15",
@@ -575,22 +591,6 @@
       "duration_ms": 127507,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/2yra4e1hv7mRcjPY4GRS9h"
-    },
-    {
-      "added_at": "2022-09-21 18:26:15",
-      "album": {
-        "name": "The Sound of Lights When Dim",
-        "url": "https://open.spotify.com/album/3WaoN1PHxKk87nuBv8WtwP"
-      },
-      "artists": [
-        {
-          "name": "Slow Dancing Society",
-          "url": "https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc"
-        }
-      ],
-      "duration_ms": 374465,
-      "name": "A Song That Will Help You Remember to Forget",
-      "url": "https://open.spotify.com/track/0itMKInovica9ugQZRTx5p"
     },
     {
       "added_at": "2022-09-21 18:26:15",
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/2IjmKaX5mt8SxgEH2QYlqA"
     },
     {
-      "added_at": "2022-10-01 01:38:42",
+      "added_at": "2022-10-02 01:34:46",
       "album": {
         "name": "My Own World",
         "url": "https://open.spotify.com/album/5r8j34q0RT3nYnZzd01Iz3"

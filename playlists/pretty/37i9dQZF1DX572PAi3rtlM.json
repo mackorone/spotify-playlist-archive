@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 23720,
+  "num_followers": 23735,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDliZTE0MzVmZDNiOTU3M2MyZTVlNjgxMmM5YjFlOTYz",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMGU2MjIwNWM1NDcyMGYyY2Q2YjczMWQ1NmVkNTY4YzMx",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -183,22 +183,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Sa\u00fade",
-        "url": "https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        }
-      ],
-      "duration_ms": 301693,
-      "name": "Sa\u00fade",
-      "url": "https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "ENERGY (Special Edition)",
         "url": "https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz"
       },
@@ -223,18 +207,18 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+        "name": "Sa\u00fade",
+        "url": "https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
         }
       ],
-      "duration_ms": 288280,
-      "name": "Je Vulesse",
-      "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
+      "duration_ms": 301693,
+      "name": "Sa\u00fade",
+      "url": "https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -255,6 +239,22 @@
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 288280,
+      "name": "Je Vulesse",
+      "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -547,22 +547,18 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Raiding the Vaults",
-        "url": "https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6"
+        "name": "Sting Like A Bee",
+        "url": "https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI"
       },
       "artists": [
         {
-          "name": "Rae & Christian",
-          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
-        },
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+          "name": "Bumblebee Unlimited",
+          "url": "https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58"
         }
       ],
-      "duration_ms": 237979,
-      "name": "Get a Life (feat. Bobby Womack) - Regrind 09",
-      "url": "https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c"
+      "duration_ms": 589706,
+      "name": "Lady Bug - Disco Mix",
+      "url": "https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -583,18 +579,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Sting Like A Bee",
-        "url": "https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI"
+        "name": "Raiding the Vaults",
+        "url": "https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6"
       },
       "artists": [
         {
-          "name": "Bumblebee Unlimited",
-          "url": "https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58"
+          "name": "Rae & Christian",
+          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
+        },
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
         }
       ],
-      "duration_ms": 589706,
-      "name": "Lady Bug - Disco Mix",
-      "url": "https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB"
+      "duration_ms": 237979,
+      "name": "Get a Life (feat. Bobby Womack) - Regrind 09",
+      "url": "https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Prix Choc",
-        "url": "https://open.spotify.com/album/5QnMddkPs8ThZLpnTDoV9O"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne de Cr\u00e9cy",
-          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Prix Choc - Radio Edit - High Mix",
-      "url": "https://open.spotify.com/track/6GjZSAoI4Kmwv1UgbTrcSr"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Mandar All Day 001",
         "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "RE//CHOIRED",
-        "url": "https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka"
+        "name": "Prix Choc",
+        "url": "https://open.spotify.com/album/5QnMddkPs8ThZLpnTDoV9O"
       },
       "artists": [
         {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+          "name": "\u00c9tienne de Cr\u00e9cy",
+          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
         }
       ],
-      "duration_ms": 234758,
-      "name": "Most Precious Love",
-      "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
+      "duration_ms": 235906,
+      "name": "Prix Choc - Radio Edit - High Mix",
+      "url": "https://open.spotify.com/track/6GjZSAoI4Kmwv1UgbTrcSr"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -719,6 +703,22 @@
       "duration_ms": 212682,
       "name": "Figure of Jazz",
       "url": "https://open.spotify.com/track/1B89dglefjYMvJkLOEwfD1"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "RE//CHOIRED",
+        "url": "https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka"
+      },
+      "artists": [
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        }
+      ],
+      "duration_ms": 234758,
+      "name": "Most Precious Love",
+      "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Zagora",
-        "url": "https://open.spotify.com/album/2ev6ZbefgaoveKnaVGJ6oD"
-      },
-      "artists": [
-        {
-          "name": "Loose Ends",
-          "url": "https://open.spotify.com/artist/4q3lWHEW55hoLJNzZskFVo"
-        }
-      ],
-      "duration_ms": 270333,
-      "name": "Gonna Make You Mine",
-      "url": "https://open.spotify.com/track/3x59bNHg2OwyaeHChaixaP"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "For the Beasts",
         "url": "https://open.spotify.com/album/7thl8MxQ3IyU91WpifnEZH"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 153231,
       "name": "Lurk",
       "url": "https://open.spotify.com/track/18uMuvNai5GtXxw4q8qjKR"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Zagora",
+        "url": "https://open.spotify.com/album/2ev6ZbefgaoveKnaVGJ6oD"
+      },
+      "artists": [
+        {
+          "name": "Loose Ends",
+          "url": "https://open.spotify.com/artist/4q3lWHEW55hoLJNzZskFVo"
+        }
+      ],
+      "duration_ms": 270333,
+      "name": "Gonna Make You Mine",
+      "url": "https://open.spotify.com/track/3x59bNHg2OwyaeHChaixaP"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -845,20 +845,24 @@
       "url": "https://open.spotify.com/track/3g5oI7fJYh9NaQMQ5x4ItH"
     },
     {
-      "added_at": "2022-01-14 05:00:00",
+      "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/4AotBgSoOhRJuJkMLwgyHZ"
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/0ln5gUk6tfxo2Ie8vQOCM1"
       },
       "artists": [
         {
           "name": "DJ Island",
           "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        },
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
         }
       ],
-      "duration_ms": 352758,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/1HxZr4GP3BtpsLeEuZu7hD"
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5zFSTUf1xX6auJSx31m5kq"
     },
     {
       "added_at": "2021-09-01 00:59:23",

@@ -4,7 +4,7 @@
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-49 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/27QhNl1YK5nbZQm0osNBIH)
+50 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/27QhNl1YK5nbZQm0osNBIH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [わが臈たし悪の華](https://open.spotify.com/track/3MJqgOdP2nNb8QzfIaV0io) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [桂冠詩人 SINGLE COLLECTION PLUS](https://open.spotify.com/album/004c28tUoHBiyAxdzO0z8e) | 4:30 | 2022-08-04 |  |
 | [アルコ](https://open.spotify.com/track/4kYA4Y4D89TnnsCf0xYBRy) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:40 | 2022-08-04 |  |
 | [シアワセネイロ](https://open.spotify.com/track/1rEFlimO0JqcvsAtPUT0ho) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [PANIC FANCY](https://open.spotify.com/album/0bcznv62ho46F3dl6paFG7) | 4:17 | 2022-08-04 |  |
+| [デイドリーム ビリーヴァー](https://open.spotify.com/track/1IUpg0s2PNb5IQCjC8f3hj) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [デイドリーム ビリーヴァー](https://open.spotify.com/album/4pHB7QiyMIyOrzaToBoS3d) | 3:37 | 2022-10-01 |  |
 | [モアザンワーズ](https://open.spotify.com/track/58uHwdDL4KmEjHuuTKqMyS) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 5:04 | 2022-08-04 |  |
 | [モザイクカケラ](https://open.spotify.com/track/4IoTVvCLzgLXLsqIFMDPQU) | [SunSet Swish](https://open.spotify.com/artist/6BP2pX1i8U6yZHXRvStQ74) | [PASSION](https://open.spotify.com/album/5F9k7boN03RGQSvDePJ2ri) | 4:31 | 2022-08-04 |  |
 | [リバイブ](https://open.spotify.com/track/2iAuRpS8lYGbvUd4btwQbH) | [UNIONE](https://open.spotify.com/artist/6UNEONDXoi7dQe8ulQFvXP) | [to you](https://open.spotify.com/album/2b30EqsUhNCzQTiJWp7iwL) | 4:40 | 2022-08-04 |  |

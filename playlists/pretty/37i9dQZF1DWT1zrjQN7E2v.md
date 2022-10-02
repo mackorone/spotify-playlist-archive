@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1zrjQN7E2v.md) - [plain]
 
 > Top of the top K\-Pop artists this year! Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,629 likes - 49 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,627 likes - 49 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

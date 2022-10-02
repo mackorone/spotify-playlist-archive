@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-138 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
+139 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 | 2021-09-17 |  |
 | [Winner](https://open.spotify.com/track/759sfP7h2s5b3DSixkSAeD) | [Olabayo](https://open.spotify.com/artist/5fwsRZi2lECkP2rqK74aaC) | [What Matters](https://open.spotify.com/album/5YseCNQS2NjJ60eIfn1dKv) | 2:06 | 2022-09-09 | 2022-09-24 |
 | [Yawa No Dey End](https://open.spotify.com/track/4TzkFUNRNSE99Glbq1hBoe) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Yawa No Dey End](https://open.spotify.com/album/5cmg0vIsj5P4DiWOB76hBA) | 2:26 | 2022-04-28 |  |
-| [Àjàlá Travel \(Remix\)](https://open.spotify.com/track/7vECPXXTtBOScFvOyOE8jn) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Àjàlá Travel \(Remix\)](https://open.spotify.com/album/3C8imbIaltvztxhHnVOuOu) | 3:19 | 2022-05-05 |  |
+| [Àjàlá Travel \(Remix\)](https://open.spotify.com/track/5SBpWlMbFWtW8XKh6mOWFp) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Àjàlá Travel \(Remix\)](https://open.spotify.com/album/2DsBLOT4nk3UjFq80hw3Pz) | 3:19 | 2022-05-05 |  |
+| [Àjàlá Travel \(Remix\)](https://open.spotify.com/track/7vECPXXTtBOScFvOyOE8jn) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Àjàlá Travel \(Remix\)](https://open.spotify.com/album/3C8imbIaltvztxhHnVOuOu) | 3:19 | 2022-05-05 | 2022-10-02 |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

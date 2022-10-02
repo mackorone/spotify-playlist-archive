@@ -792,7 +792,7 @@
       "artists": [
         {
           "name": "Rune",
-          "url": "https://open.spotify.com/artist/7BZnc5vzBjIKquiD8PBKWS"
+          "url": "https://open.spotify.com/artist/7sBUuHZBkf95jRKH9Unq75"
         }
       ],
       "date_added": "2022-09-29",
@@ -2850,7 +2850,7 @@
     },
     {
       "album": {
-        "name": "Amour, Haine et Danger",
+        "name": "Amour, Haine & Danger",
         "url": "https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3"
       },
       "artists": [
@@ -2863,7 +2863,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198986,
-      "name": "Amour, Haine et Danger",
+      "name": "Amour, Haine & Danger",
       "url": "https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX"
     },
     {
@@ -11081,8 +11081,8 @@
       },
       "artists": [
         {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+          "name": "BE\u2019O",
+          "url": "https://open.spotify.com/artist/7ayixfXdkIuM2IOcG9m3eN"
         },
         {
           "name": "ZICO",
@@ -27717,7 +27717,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174391,
-      "name": "Interstate",
+      "name": "INTERSTATE",
       "url": "https://open.spotify.com/track/52pH6VC11tStoCJwIIDHtW"
     },
     {
@@ -50545,6 +50545,24 @@
       "duration_ms": 209892,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/4O3dMK3YCTcrISBHSghhPH"
+    },
+    {
+      "album": {
+        "name": "Stuck In The Future",
+        "url": "https://open.spotify.com/album/0nOIOwu3b8v81pGucva9gi"
+      },
+      "artists": [
+        {
+          "name": "Mardiana",
+          "url": "https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210782,
+      "name": "Stuck In The Future",
+      "url": "https://open.spotify.com/track/4CNruJyAtMSyxwcOshsnkv"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto: Lily Goodman, Alex Campos, y Jes\u00fas Adri\u00e1n Romero",
-  "num_followers": 107636,
+  "num_followers": 107775,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUyNTQ0NSwwMDAwMDAwMDNkMGMwNDFjZDBhNTdiNmU3MTdjZDkwMmZmMDAwZmFl",
+  "snapshot_id": "MTY2NDUyNTQ0NSwwMDAwMDAwMDQxNDUzYjcxOGIzMTJkNDg4OTQ0YmRhNzgwMzM4OGYx",
   "tracks": [
     {
       "added_at": "2022-09-30 08:10:45",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
+        "name": "Asombro",
+        "url": "https://open.spotify.com/album/2mOcfvzGSO4jelDXFhL35I"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica M\u00e1s Vida",
+          "url": "https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c"
+        }
+      ],
+      "duration_ms": 281023,
+      "name": "Asombro",
+      "url": "https://open.spotify.com/track/57x9Y425t8s3l6mIx2yGMl"
+    },
+    {
+      "added_at": "2022-09-30 08:10:45",
+      "album": {
         "name": "Lev\u00e1ntate Guate",
         "url": "https://open.spotify.com/album/2H05XbhqPl4AKrOz8RoUYS"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 191186,
       "name": "158",
       "url": "https://open.spotify.com/track/2r6TFHq0fbHY0WExjjAkAN"
-    },
-    {
-      "added_at": "2022-09-30 08:10:45",
-      "album": {
-        "name": "Asombro",
-        "url": "https://open.spotify.com/album/2mOcfvzGSO4jelDXFhL35I"
-      },
-      "artists": [
-        {
-          "name": "M\u00fasica M\u00e1s Vida",
-          "url": "https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c"
-        }
-      ],
-      "duration_ms": 281023,
-      "name": "Asombro",
-      "url": "https://open.spotify.com/track/57x9Y425t8s3l6mIx2yGMl"
     },
     {
       "added_at": "2022-09-30 08:10:45",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
+        "name": "Lo Que Has Comenzado",
+        "url": "https://open.spotify.com/album/2brSHsXD0E1UIBeqDuhZIs"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 305902,
+      "name": "Lo Que Has Comenzado",
+      "url": "https://open.spotify.com/track/1QnPkSwaky40rZuT23NEBK"
+    },
+    {
+      "added_at": "2022-09-30 08:10:45",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/6STEoF1u2LVQkUlIZQCiko"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
-        "name": "Lo Que Has Comenzado",
-        "url": "https://open.spotify.com/album/2brSHsXD0E1UIBeqDuhZIs"
+        "name": "Yoyo",
+        "url": "https://open.spotify.com/album/632UEcqogvS2b9jHt5uMT7"
       },
       "artists": [
         {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
         }
       ],
-      "duration_ms": 305902,
-      "name": "Lo Que Has Comenzado",
-      "url": "https://open.spotify.com/track/1QnPkSwaky40rZuT23NEBK"
+      "duration_ms": 189213,
+      "name": "Yoyo",
+      "url": "https://open.spotify.com/track/0zYuk0Yu7i182Ze1OieTiV"
     },
     {
       "added_at": "2022-09-30 08:10:45",
@@ -1111,22 +1127,6 @@
       "duration_ms": 212125,
       "name": "Con Qu\u00e9 Pagar\u00e9?",
       "url": "https://open.spotify.com/track/2LKYoKY35J9bd69QLbGOoG"
-    },
-    {
-      "added_at": "2022-09-30 08:10:45",
-      "album": {
-        "name": "Yoyo",
-        "url": "https://open.spotify.com/album/632UEcqogvS2b9jHt5uMT7"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 189213,
-      "name": "Yoyo",
-      "url": "https://open.spotify.com/track/0zYuk0Yu7i182Ze1OieTiV"
     },
     {
       "added_at": "2022-09-30 08:10:45",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
+        "name": "La Bondad De Dios",
+        "url": "https://open.spotify.com/album/2VaiSe5CsjPOuIqpqdqATX"
+      },
+      "artists": [
+        {
+          "name": "Kyrios",
+          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+        }
+      ],
+      "duration_ms": 139603,
+      "name": "La Bondad De Dios",
+      "url": "https://open.spotify.com/track/3MB14Lq2XnFPw3eCqdml37"
+    },
+    {
+      "added_at": "2022-09-30 08:10:45",
+      "album": {
         "name": "Centro (Reimagined)",
         "url": "https://open.spotify.com/album/1N30JDsfLqiFCrckRRjUwe"
       },
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
-        "name": "La Bondad De Dios",
-        "url": "https://open.spotify.com/album/2VaiSe5CsjPOuIqpqdqATX"
-      },
-      "artists": [
-        {
-          "name": "Kyrios",
-          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
-        }
-      ],
-      "duration_ms": 139603,
-      "name": "La Bondad De Dios",
-      "url": "https://open.spotify.com/track/3MB14Lq2XnFPw3eCqdml37"
-    },
-    {
-      "added_at": "2022-09-30 08:10:45",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/6Jj0OuZ77nFEgmf6KOul6s"
       },
@@ -1203,6 +1203,26 @@
       "duration_ms": 243140,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/069aPAD9JsAHChvbSac4Eu"
+    },
+    {
+      "added_at": "2022-09-30 08:10:45",
+      "album": {
+        "name": "Nunca Me Dejas",
+        "url": "https://open.spotify.com/album/2qSeri8SLFoMaGDYdMCFmC"
+      },
+      "artists": [
+        {
+          "name": "Joivan Jimenez",
+          "url": "https://open.spotify.com/artist/6Z6iqWKEiZ3n2zOkSVqnUu"
+        },
+        {
+          "name": "Reach City Worship",
+          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
+        }
+      ],
+      "duration_ms": 236905,
+      "name": "Nunca Me Dejas",
+      "url": "https://open.spotify.com/track/17JM9K2flrvggQ1eMoZH2v"
     },
     {
       "added_at": "2022-09-30 08:10:45",
@@ -1239,22 +1259,18 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
-        "name": "Nunca Me Dejas",
-        "url": "https://open.spotify.com/album/2qSeri8SLFoMaGDYdMCFmC"
+        "name": "Indescriptible",
+        "url": "https://open.spotify.com/album/4e04GeGqfgyzoLBckBnIp6"
       },
       "artists": [
         {
-          "name": "Joivan Jimenez",
-          "url": "https://open.spotify.com/artist/6Z6iqWKEiZ3n2zOkSVqnUu"
-        },
-        {
-          "name": "Reach City Worship",
-          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
+          "name": "Pas Music",
+          "url": "https://open.spotify.com/artist/3YBDkiTcXAo1f0qSms2q2h"
         }
       ],
-      "duration_ms": 236905,
-      "name": "Nunca Me Dejas",
-      "url": "https://open.spotify.com/track/17JM9K2flrvggQ1eMoZH2v"
+      "duration_ms": 293773,
+      "name": "Indescriptible",
+      "url": "https://open.spotify.com/track/5XOKZCaeaJyhVWathlw2Zk"
     },
     {
       "added_at": "2022-09-30 08:10:45",
@@ -1291,22 +1307,6 @@
       "duration_ms": 217600,
       "name": "Bandera Blanca",
       "url": "https://open.spotify.com/track/1jfaSCIrj7sZ9RlmeCdOLT"
-    },
-    {
-      "added_at": "2022-09-30 08:10:45",
-      "album": {
-        "name": "Indescriptible",
-        "url": "https://open.spotify.com/album/4e04GeGqfgyzoLBckBnIp6"
-      },
-      "artists": [
-        {
-          "name": "Pas Music",
-          "url": "https://open.spotify.com/artist/3YBDkiTcXAo1f0qSms2q2h"
-        }
-      ],
-      "duration_ms": 293773,
-      "name": "Indescriptible",
-      "url": "https://open.spotify.com/track/5XOKZCaeaJyhVWathlw2Zk"
     },
     {
       "added_at": "2022-09-30 08:10:45",
@@ -1363,6 +1363,46 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
+        "name": "Dios Te Est\u00e1 Llamando",
+        "url": "https://open.spotify.com/album/00Qs1q6t8v6dQ7kSLwmzej"
+      },
+      "artists": [
+        {
+          "name": "Jesus Worship Center",
+          "url": "https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI"
+        },
+        {
+          "name": "Natalie Billini",
+          "url": "https://open.spotify.com/artist/7advW1s4oSriwcplx7BV3B"
+        },
+        {
+          "name": "Camila Morales",
+          "url": "https://open.spotify.com/artist/4NOvuzWgLZOTbpt1VEJYuj"
+        }
+      ],
+      "duration_ms": 418260,
+      "name": "Dios Te Est\u00e1 Llamando",
+      "url": "https://open.spotify.com/track/4i5Qw0HPLEU272PUgCv3NS"
+    },
+    {
+      "added_at": "2022-09-30 08:10:45",
+      "album": {
+        "name": "\u00c9l Siempre Reina",
+        "url": "https://open.spotify.com/album/768fsrWlXimHnZiDXclf4m"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 326542,
+      "name": "\u00c9l Siempre Reina",
+      "url": "https://open.spotify.com/track/1GPqvCeWRioFhA2tin1BBS"
+    },
+    {
+      "added_at": "2022-09-30 08:10:45",
+      "album": {
         "name": "Que Rico Es",
         "url": "https://open.spotify.com/album/0bMclpOkgIHCBcEGVLBiyq"
       },
@@ -1403,50 +1443,6 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
-        "name": "Tu Voz",
-        "url": "https://open.spotify.com/album/3PoPsbPvT2MESf8vfQCG2T"
-      },
-      "artists": [
-        {
-          "name": "M\u00f3nica Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/1faUEl7u4gmxUVIh3esaf4"
-        },
-        {
-          "name": "Travy Joe",
-          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
-        }
-      ],
-      "duration_ms": 189247,
-      "name": "Tu Voz",
-      "url": "https://open.spotify.com/track/34vEGP6CmamLqT9uTQVivQ"
-    },
-    {
-      "added_at": "2022-09-30 08:10:45",
-      "album": {
-        "name": "Dios Te Est\u00e1 Llamando",
-        "url": "https://open.spotify.com/album/00Qs1q6t8v6dQ7kSLwmzej"
-      },
-      "artists": [
-        {
-          "name": "Jesus Worship Center",
-          "url": "https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI"
-        },
-        {
-          "name": "Natalie Billini",
-          "url": "https://open.spotify.com/artist/7advW1s4oSriwcplx7BV3B"
-        },
-        {
-          "name": "Camila Morales",
-          "url": "https://open.spotify.com/artist/4NOvuzWgLZOTbpt1VEJYuj"
-        }
-      ],
-      "duration_ms": 418260,
-      "name": "Dios Te Est\u00e1 Llamando",
-      "url": "https://open.spotify.com/track/4i5Qw0HPLEU272PUgCv3NS"
-    },
-    {
-      "added_at": "2022-09-30 08:10:45",
-      "album": {
         "name": "Quien Dir\u00eda (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1ybLkJTkMCMfXtsJwzZMDn"
       },
@@ -1467,18 +1463,22 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
-        "name": "Completo En Ti",
-        "url": "https://open.spotify.com/album/7t79C2DHk2xFLn9xONchRT"
+        "name": "Tu Voz",
+        "url": "https://open.spotify.com/album/3PoPsbPvT2MESf8vfQCG2T"
       },
       "artists": [
         {
-          "name": "Doulos",
-          "url": "https://open.spotify.com/artist/6QOoxSo6XilQR5Lsyze0Ez"
+          "name": "M\u00f3nica Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/1faUEl7u4gmxUVIh3esaf4"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
         }
       ],
-      "duration_ms": 214749,
-      "name": "Completo En Ti",
-      "url": "https://open.spotify.com/track/7pji0IMqwXtaE7jDKiCD0S"
+      "duration_ms": 189247,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/34vEGP6CmamLqT9uTQVivQ"
     },
     {
       "added_at": "2022-09-30 08:10:45",
@@ -1503,34 +1503,18 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
-        "name": "Viaje de Regreso",
-        "url": "https://open.spotify.com/album/6nKol6K0KxJKyZufebEtFl"
+        "name": "Completo En Ti",
+        "url": "https://open.spotify.com/album/7t79C2DHk2xFLn9xONchRT"
       },
       "artists": [
         {
-          "name": "Daniela Galeano",
-          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+          "name": "Doulos",
+          "url": "https://open.spotify.com/artist/6QOoxSo6XilQR5Lsyze0Ez"
         }
       ],
-      "duration_ms": 175500,
-      "name": "Viaje de Regreso",
-      "url": "https://open.spotify.com/track/5NWLc476FhpzhRrbtSoclF"
-    },
-    {
-      "added_at": "2022-09-30 08:10:45",
-      "album": {
-        "name": "\u00c9l Siempre Reina",
-        "url": "https://open.spotify.com/album/768fsrWlXimHnZiDXclf4m"
-      },
-      "artists": [
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 326542,
-      "name": "\u00c9l Siempre Reina",
-      "url": "https://open.spotify.com/track/1GPqvCeWRioFhA2tin1BBS"
+      "duration_ms": 214749,
+      "name": "Completo En Ti",
+      "url": "https://open.spotify.com/track/7pji0IMqwXtaE7jDKiCD0S"
     },
     {
       "added_at": "2022-09-30 08:10:45",
@@ -1555,6 +1539,22 @@
       "duration_ms": 190274,
       "name": "Zaqueo",
       "url": "https://open.spotify.com/track/1nr0wKgBQ9Pmcu3NR01wY2"
+    },
+    {
+      "added_at": "2022-09-30 08:10:45",
+      "album": {
+        "name": "Viaje de Regreso",
+        "url": "https://open.spotify.com/album/6nKol6K0KxJKyZufebEtFl"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Viaje de Regreso",
+      "url": "https://open.spotify.com/track/5NWLc476FhpzhRrbtSoclF"
     },
     {
       "added_at": "2022-09-30 08:10:45",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
-        "name": "LONELY / TODO VA A ESTAR BIEN",
-        "url": "https://open.spotify.com/album/077jVLL1if640bZBILlRpC"
-      },
-      "artists": [
-        {
-          "name": "Edson Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
-        }
-      ],
-      "duration_ms": 197820,
-      "name": "LONELY / TODO VA A ESTAR BIEN",
-      "url": "https://open.spotify.com/track/0XRyf4oID1DVbLCheNnki4"
-    },
-    {
-      "added_at": "2022-09-30 08:10:45",
-      "album": {
         "name": "YKELOKE",
         "url": "https://open.spotify.com/album/7lhAVLc5P2ulnA9J1GaWIY"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 229333,
       "name": "Y KELOKE",
       "url": "https://open.spotify.com/track/5h9vNzsCSTPQ3TwPBF7K1v"
+    },
+    {
+      "added_at": "2022-09-30 08:10:45",
+      "album": {
+        "name": "LONELY / TODO VA A ESTAR BIEN",
+        "url": "https://open.spotify.com/album/077jVLL1if640bZBILlRpC"
+      },
+      "artists": [
+        {
+          "name": "Edson Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
+        }
+      ],
+      "duration_ms": 197820,
+      "name": "LONELY / TODO VA A ESTAR BIEN",
+      "url": "https://open.spotify.com/track/0XRyf4oID1DVbLCheNnki4"
     },
     {
       "added_at": "2022-09-30 08:10:45",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
+        "name": "Somos Libres",
+        "url": "https://open.spotify.com/album/491d5bIUUd4bwEbEILt3sy"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Somos Libres",
+      "url": "https://open.spotify.com/track/3mTmc6r4qI2mFQOxVAWwsW"
+    },
+    {
+      "added_at": "2022-09-30 08:10:45",
+      "album": {
         "name": "Elemental Vol. 1",
         "url": "https://open.spotify.com/album/59SWBGPZdNHupMtTxJ3HHR"
       },
@@ -1691,6 +1707,22 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
+        "name": "Yo Declaro Jes\u00fas",
+        "url": "https://open.spotify.com/album/4EPWkHLkU0Tx31jQTe2khE"
+      },
+      "artists": [
+        {
+          "name": "Sheila Romero",
+          "url": "https://open.spotify.com/artist/3eykMYQG8vkgO4nJB9MqM6"
+        }
+      ],
+      "duration_ms": 451452,
+      "name": "Yo Declaro Jes\u00fas",
+      "url": "https://open.spotify.com/track/5YxYWGbiHWBaPkXjdTtBwB"
+    },
+    {
+      "added_at": "2022-09-30 08:10:45",
+      "album": {
         "name": "Vamos Pa' Arriba (Live From los Angeles)",
         "url": "https://open.spotify.com/album/1Vu0bcRG097gdWFMjsfJ35"
       },
@@ -1707,18 +1739,18 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
-        "name": "Yo Declaro Jes\u00fas",
-        "url": "https://open.spotify.com/album/4EPWkHLkU0Tx31jQTe2khE"
+        "name": "Cuando All\u00e1 Se Pase Lista",
+        "url": "https://open.spotify.com/album/1a9p1rkVHMBeKPARiHl69S"
       },
       "artists": [
         {
-          "name": "Sheila Romero",
-          "url": "https://open.spotify.com/artist/3eykMYQG8vkgO4nJB9MqM6"
+          "name": "Edson Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
         }
       ],
-      "duration_ms": 451452,
-      "name": "Yo Declaro Jes\u00fas",
-      "url": "https://open.spotify.com/track/5YxYWGbiHWBaPkXjdTtBwB"
+      "duration_ms": 209917,
+      "name": "Cuando All\u00e1 Se Pase Lista",
+      "url": "https://open.spotify.com/track/2xFSXqrXZJgSdYLJisSNuT"
     },
     {
       "added_at": "2022-09-30 08:10:45",
@@ -1743,22 +1775,6 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
-        "name": "Somos Libres",
-        "url": "https://open.spotify.com/album/491d5bIUUd4bwEbEILt3sy"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Somos Libres",
-      "url": "https://open.spotify.com/track/3mTmc6r4qI2mFQOxVAWwsW"
-    },
-    {
-      "added_at": "2022-09-30 08:10:45",
-      "album": {
         "name": "Yo Te Creo",
         "url": "https://open.spotify.com/album/2bgEZbK4J7CwbJx0odt0dW"
       },
@@ -1775,22 +1791,6 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
-        "name": "Cuando All\u00e1 Se Pase Lista",
-        "url": "https://open.spotify.com/album/1a9p1rkVHMBeKPARiHl69S"
-      },
-      "artists": [
-        {
-          "name": "Edson Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
-        }
-      ],
-      "duration_ms": 209917,
-      "name": "Cuando All\u00e1 Se Pase Lista",
-      "url": "https://open.spotify.com/track/2xFSXqrXZJgSdYLJisSNuT"
-    },
-    {
-      "added_at": "2022-09-30 08:10:45",
-      "album": {
         "name": "Agradecido",
         "url": "https://open.spotify.com/album/0PYYtz2EVulnRpGwRgY1uw"
       },
@@ -1803,26 +1803,6 @@
       "duration_ms": 151094,
       "name": "Agradecido",
       "url": "https://open.spotify.com/track/7oXKYJXag5vjyZRuBXidpB"
-    },
-    {
-      "added_at": "2022-09-30 08:10:45",
-      "album": {
-        "name": "Seguimos Aqu\u00ed",
-        "url": "https://open.spotify.com/album/6m3wAfZqObAzw9ZyLGKODL"
-      },
-      "artists": [
-        {
-          "name": "DUViMEL",
-          "url": "https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF"
-        },
-        {
-          "name": "MR. Yeison",
-          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
-        }
-      ],
-      "duration_ms": 160491,
-      "name": "Seguimos Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4EPjX1dQiFUNVyaQYikp83"
     },
     {
       "added_at": "2022-09-30 08:10:45",
@@ -1847,22 +1827,38 @@
     {
       "added_at": "2022-09-30 08:10:45",
       "album": {
-        "name": "Con Amigos I",
-        "url": "https://open.spotify.com/album/37heT14OSQCyFiF1NkjRNz"
+        "name": "Seguimos Aqu\u00ed",
+        "url": "https://open.spotify.com/album/6m3wAfZqObAzw9ZyLGKODL"
       },
       "artists": [
         {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+          "name": "DUViMEL",
+          "url": "https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF"
         },
         {
-          "name": "Tito-S7",
-          "url": "https://open.spotify.com/artist/3ih1E30XDXDPEXXvDyG1W5"
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
         }
       ],
-      "duration_ms": 212114,
-      "name": "Alentador",
-      "url": "https://open.spotify.com/track/79conTU66MZOzGtVoYVV6Z"
+      "duration_ms": 160491,
+      "name": "Seguimos Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4EPjX1dQiFUNVyaQYikp83"
+    },
+    {
+      "added_at": "2022-09-30 08:10:45",
+      "album": {
+        "name": "Renu\u00e9vame",
+        "url": "https://open.spotify.com/album/4KtAsRdkCsUEV0SqAzm62I"
+      },
+      "artists": [
+        {
+          "name": "Edson Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
+        }
+      ],
+      "duration_ms": 221309,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/4yVfMXqZ6XngfHxc1oQzcX"
     },
     {
       "added_at": "2022-09-30 08:10:45",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: GLAY",
-  "num_followers": 236507,
+  "num_followers": 236552,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2MzYwMCwwMDAwMDAwMDhjN2VmMTU3YjE2OWQxY2NhZTU0YzM1ZmE4YmZiMjJm",
+  "snapshot_id": "MTY2NDQ2MzYwMCwwMDAwMDAwMGY2ZDMyODAzOGE0YzRhNzJhNjUzMmIyOTg4ZmE3MGRk",
   "tracks": [
     {
       "added_at": "2022-09-29 15:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 278840,
-      "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/0rpOxMN9wo0iYdlT6q5yik"
-    },
-    {
-      "added_at": "2022-09-29 15:00:00",
-      "album": {
         "name": "kaleido proud fiesta",
         "url": "https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 222666,
       "name": "kaleido proud fiesta",
       "url": "https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3"
+    },
+    {
+      "added_at": "2022-09-29 15:00:00",
+      "album": {
+        "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 278840,
+      "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/0rpOxMN9wo0iYdlT6q5yik"
     },
     {
       "added_at": "2022-09-29 15:00:00",
@@ -783,22 +783,18 @@
     {
       "added_at": "2022-09-29 15:00:00",
       "album": {
-        "name": "ODORO!(feat.MIHO FUKUHARA)",
-        "url": "https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc"
+        "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
+        "url": "https://open.spotify.com/album/2VpUOSFam8GvgQHnSpn2kH"
       },
       "artists": [
         {
-          "name": "Pyramid",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
-        },
-        {
-          "name": "Miho Fukuhara",
-          "url": "https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe"
+          "name": "Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
         }
       ],
-      "duration_ms": 243506,
-      "name": "ODORO!(feat.MIHO FUKUHARA)",
-      "url": "https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J"
+      "duration_ms": 224399,
+      "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
+      "url": "https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH"
     },
     {
       "added_at": "2022-09-29 15:00:00",

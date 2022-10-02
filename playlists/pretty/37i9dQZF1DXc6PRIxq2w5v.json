@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Samuel Shikoba, SAMU\u00c9U",
-  "num_followers": 93376,
+  "num_followers": 93422,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0MTUzNSwwMDAwMDAwMGRjYzhjYjBiMmRlZTQyZDZkMzdiOGVkMzU0MzAyMWNi",
+  "snapshot_id": "MTY2NDU0MTUzNSwwMDAwMDAwMDUzM2VhZmNmM2QyNTIwYWUxOTgxM2Q1NzE3MTI1OWE1",
   "tracks": [
     {
       "added_at": "2022-09-30 12:38:55",
@@ -319,26 +319,18 @@
     {
       "added_at": "2022-09-30 12:38:55",
       "album": {
-        "name": "Vai Ficar Tudo Bem",
-        "url": "https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS"
+        "name": "Voc\u00ea Acredita?",
+        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
       },
       "artists": [
         {
-          "name": "Ca\u00edque Ribeiro",
-          "url": "https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7"
-        },
-        {
-          "name": "Asaph",
-          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
         }
       ],
-      "duration_ms": 220279,
-      "name": "Vai Ficar Tudo Bem",
-      "url": "https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH"
+      "duration_ms": 194623,
+      "name": "Voc\u00ea Acredita?",
+      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
     },
     {
       "added_at": "2022-09-30 12:38:55",
@@ -359,18 +351,26 @@
     {
       "added_at": "2022-09-30 12:38:55",
       "album": {
-        "name": "Voc\u00ea Acredita?",
-        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
+        "name": "Vai Ficar Tudo Bem",
+        "url": "https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS"
       },
       "artists": [
         {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+          "name": "Ca\u00edque Ribeiro",
+          "url": "https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7"
+        },
+        {
+          "name": "Asaph",
+          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         }
       ],
-      "duration_ms": 194623,
-      "name": "Voc\u00ea Acredita?",
-      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
+      "duration_ms": 220279,
+      "name": "Vai Ficar Tudo Bem",
+      "url": "https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH"
     },
     {
       "added_at": "2022-09-30 12:38:55",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-09-30 12:38:55",
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5R1ZegDpgnJerbLgDjXUUi"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        }
-      ],
-      "duration_ms": 120245,
-      "name": "C\u00e9u",
-      "url": "https://open.spotify.com/track/2gWJECcGcgrnlRdtdoTrvI"
-    },
-    {
-      "added_at": "2022-09-30 12:38:55",
-      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 294703,
       "name": "Ele \u00c9 Deus Em Mim",
       "url": "https://open.spotify.com/track/2VOh7QzZkz6PwPBPcK1Hr3"
+    },
+    {
+      "added_at": "2022-09-30 12:38:55",
+      "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5R1ZegDpgnJerbLgDjXUUi"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 120245,
+      "name": "C\u00e9u",
+      "url": "https://open.spotify.com/track/2gWJECcGcgrnlRdtdoTrvI"
     },
     {
       "added_at": "2022-09-30 12:38:55",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-09-30 12:38:55",
       "album": {
-        "name": "Imersum",
-        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Imersum",
-      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
-    },
-    {
-      "added_at": "2022-09-30 12:38:55",
-      "album": {
         "name": "Voc\u00ea Sabe",
         "url": "https://open.spotify.com/album/1dh9NENSgqanbE9PUe1WtH"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 184658,
       "name": "Voc\u00ea Sabe",
       "url": "https://open.spotify.com/track/27jTj00B4DJ0bNfiJPq4dL"
+    },
+    {
+      "added_at": "2022-09-30 12:38:55",
+      "album": {
+        "name": "Imersum",
+        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Imersum",
+      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
     },
     {
       "added_at": "2022-09-30 12:38:55",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-09-30 12:38:55",
       "album": {
+        "name": "Ef\u00eamero Atemporal",
+        "url": "https://open.spotify.com/album/6DGbktchq40Qaa6vkGc4SV"
+      },
+      "artists": [
+        {
+          "name": "Pregador Luo",
+          "url": "https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r"
+        }
+      ],
+      "duration_ms": 213922,
+      "name": "Ef\u00eamero Atemporal",
+      "url": "https://open.spotify.com/track/49e4mRatiyMDsf50fGLlVA"
+    },
+    {
+      "added_at": "2022-09-30 12:38:55",
+      "album": {
         "name": "Poder",
         "url": "https://open.spotify.com/album/7HzShhhdEOtWNmXc7g6KrK"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2022-09-30 12:38:55",
       "album": {
-        "name": "Ef\u00eamero Atemporal",
-        "url": "https://open.spotify.com/album/6DGbktchq40Qaa6vkGc4SV"
-      },
-      "artists": [
-        {
-          "name": "Pregador Luo",
-          "url": "https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r"
-        }
-      ],
-      "duration_ms": 213922,
-      "name": "Ef\u00eamero Atemporal",
-      "url": "https://open.spotify.com/track/49e4mRatiyMDsf50fGLlVA"
-    },
-    {
-      "added_at": "2022-09-30 12:38:55",
-      "album": {
         "name": "Falando a Verdade",
         "url": "https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 163794,
       "name": "Se P\u00e1",
       "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
-    },
-    {
-      "added_at": "2022-09-30 12:38:55",
-      "album": {
-        "name": "As Cores do C\u00e9u",
-        "url": "https://open.spotify.com/album/2vGUC0A1pI88ujvNqdjfCF"
-      },
-      "artists": [
-        {
-          "name": "Emithir",
-          "url": "https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb"
-        },
-        {
-          "name": "Juninho Lima",
-          "url": "https://open.spotify.com/artist/6FReHEnPFd1oKskqqUya6B"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "As Cores do C\u00e9u",
-      "url": "https://open.spotify.com/track/0uWfAsbsoWxGLTyGsy4zMr"
     },
     {
       "added_at": "2022-09-30 12:38:55",
@@ -979,6 +959,26 @@
     {
       "added_at": "2022-09-30 12:38:55",
       "album": {
+        "name": "As Cores do C\u00e9u",
+        "url": "https://open.spotify.com/album/2vGUC0A1pI88ujvNqdjfCF"
+      },
+      "artists": [
+        {
+          "name": "Emithir",
+          "url": "https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb"
+        },
+        {
+          "name": "Juninho Lima",
+          "url": "https://open.spotify.com/artist/6FReHEnPFd1oKskqqUya6B"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "As Cores do C\u00e9u",
+      "url": "https://open.spotify.com/track/0uWfAsbsoWxGLTyGsy4zMr"
+    },
+    {
+      "added_at": "2022-09-30 12:38:55",
+      "album": {
         "name": "BABY",
         "url": "https://open.spotify.com/album/4dzKbTq1stnawn67OPO024"
       },
@@ -1023,6 +1023,22 @@
       "duration_ms": 179016,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
+    },
+    {
+      "added_at": "2022-09-30 12:38:55",
+      "album": {
+        "name": "CQC",
+        "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "CQC",
+      "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
     },
     {
       "added_at": "2022-09-30 12:38:55",
@@ -1131,22 +1147,6 @@
       "duration_ms": 88333,
       "name": "CULTURA (feat. Heddy Beats)",
       "url": "https://open.spotify.com/track/6P0NHhm01puldJ1V2qTkZO"
-    },
-    {
-      "added_at": "2022-09-30 12:38:55",
-      "album": {
-        "name": "CQC",
-        "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "CQC",
-      "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
     },
     {
       "added_at": "2022-09-30 12:38:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=4uFZWx8kRsKUgoGaPtB92Q">Pabi Cooper</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,240 likes - 84 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,850 likes - 84 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 30 | [Ingozi](https://open.spotify.com/track/2MTOufzcqmZ0fd6Fu0jUbt) | [Kammu Dee](https://open.spotify.com/artist/4RZQX1vkRjewMYodn5wZ9F), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Tycoon](https://open.spotify.com/artist/1yGfiRkJTmv4aSabKIUf5j) | [Vitamin Dee](https://open.spotify.com/album/7k22IsrJhV4JQE4B5GBf0P) | 5:51 |
 | 31 | [Mali Yami](https://open.spotify.com/track/3t5xwZFiFKGJ5G7npngjlc) | [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Marcus MC](https://open.spotify.com/artist/5LeS8sVgl3TCntQM7TVAHf), [Tycoon](https://open.spotify.com/artist/1yGfiRkJTmv4aSabKIUf5j) | [Mali Yami](https://open.spotify.com/album/286KiP7aKRD81bKiPXaNq1) | 6:25 |
 | 32 | [Ningalali Emakhaya \(feat\. Zan'Ten & Ta Skippa\)](https://open.spotify.com/track/5dcRkfX5Uzo9CNTafinRzD) | [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E), [Zan'Ten](https://open.spotify.com/artist/5F9w142UJBH5ZkFXWUJVsL), [Ta Skippa](https://open.spotify.com/artist/6vqkRArxIwPLBH9Rm4K77O) | [ALL YOU NEED IS PIANO](https://open.spotify.com/album/4FxJb1vaaJzZVTi0LI5xs5) | 8:07 |
-| 33 | [Ghost Wayy](https://open.spotify.com/track/4AIFyryxDO1iJRl1e4WZSc) | [Creative Dj](https://open.spotify.com/artist/6CYYpz00wGh0qNM62Ha8NG), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Ghost Wayy](https://open.spotify.com/album/2pe5SHZao1cfJIjzzUvnKN) | 6:25 |
+| 33 | [Ghost Wayy](https://open.spotify.com/track/77wdCDQtN4VHmimAMIVMuT) | [Creative Dj](https://open.spotify.com/artist/6CYYpz00wGh0qNM62Ha8NG), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Ghost Wayy](https://open.spotify.com/album/0KF57Es4doZB6hatt1Y1os) | 6:25 |
 | 34 | [Delicious](https://open.spotify.com/track/284DVJP6vGSsDbXOJ3HQ1l) | [Majorsteez](https://open.spotify.com/artist/2QNYVS9uCpV8VeJ3HL7v87), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Mustbedubz](https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF) | [Delicious](https://open.spotify.com/album/0y6tyBoKhOhSqKWrzQRXiP) | 4:58 |
 | 35 | [Tsoko Tsoko](https://open.spotify.com/track/3QeJWe5eXndTvwlopskZhf) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr), [Airburn Sounds](https://open.spotify.com/artist/2LkaC9qdFjuAWym0SCTHZ4) | [Tsoko Tsoko](https://open.spotify.com/album/6QWn8GtRDwQTY8PVCDsty2) | 4:06 |
 | 36 | [Late](https://open.spotify.com/track/1R6FO98Fx29jSZDQj4fMlx) | [Slade](https://open.spotify.com/artist/3rz6XDJwU2d1gBY5bbcdtT), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Tycoon](https://open.spotify.com/artist/1yGfiRkJTmv4aSabKIUf5j), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Late](https://open.spotify.com/album/3cQIJ5wrlHmHsNex8vUvx3) | 5:48 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 83 | [Revisit](https://open.spotify.com/track/0IbxplIFZ0FOP8QjTEojCo) | [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH), [JosiahDeDisciple](https://open.spotify.com/artist/4jp24GUbjmtKFlUIaLak0q) | [Revisit](https://open.spotify.com/album/46eoMDB99MfBy1l3jm5lvS) | 4:48 |
 | 84 | [Angisoze](https://open.spotify.com/track/6y4sdinegBi04Kp1k2suT4) | [Hassan Mangete](https://open.spotify.com/artist/49MtwqGzcDiLnZ5JnsczYH), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL) | [Angisoze](https://open.spotify.com/album/0HJxsbV323n1sCaNNoqLqg) | 5:38 |
 
-Snapshot ID: `MTY2NDU0OTYyMSwwMDAwMDAwMGVlOGQ2NTk3YjhiMmY0NzQzYWRkZmJjYjNjMWU2OTNm`
+Snapshot ID: `MTY2NDU0OTYyMSwwMDAwMDAwMDE1MmFkMjUxOTBiM2E2MjdjMDg5OWQ4ODY4YTMxMzBm`

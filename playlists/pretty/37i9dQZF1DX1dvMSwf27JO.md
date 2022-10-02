@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > Start your day right by getting a fit off with <a href="https://open.spotify.com/show/5clie0STNxfQBfonEd8Ubt?si=7bdd2e714e4c4d13">Throwing Fits'</a> favorite songs to get dressed to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,827 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,789 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

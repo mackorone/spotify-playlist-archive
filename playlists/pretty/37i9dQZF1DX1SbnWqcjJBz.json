@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 25459,
+  "num_followers": 25504,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA3NTA1OCwwMDAwMDAwMGQ0N2JmODZhZTQ3ZGNhMzFhN2ZiN2I5MjI3Zjg5NTY1",
+  "snapshot_id": "MTY1MDA3NTA1OCwwMDAwMDAwMDk3YTFmMWU0NTgxMjMxZGQ2MDJjNDUwOGFhODQ1YTQw",
   "tracks": [
     {
       "added_at": "2022-04-16 02:10:58",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/3IGM1sXYke2UGII2DORrof"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/1cdzfFjEbUbgTm5nv3FgXR"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Dance Love Pop (The Love Love Love Edition)",
         "url": "https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 256213,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/3IGM1sXYke2UGII2DORrof"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/1cdzfFjEbUbgTm5nv3FgXR"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 191808,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "One Heart",
         "url": "https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 240600,
       "name": "I Drove All Night",
       "url": "https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 191808,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
+        "name": "Rebel Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227480,
+      "name": "Bitch I'm Madonna",
+      "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
         "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
         "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
-        "name": "Rebel Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227480,
-      "name": "Bitch I'm Madonna",
-      "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
+        "name": "We Don\u2019t Stop",
+        "url": "https://open.spotify.com/album/49COhQ043jM1vTH7VSFUlq"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "Joan of Arc on the Dance Floor",
+      "url": "https://open.spotify.com/track/7cYLxxt7szZ5tkOPVWZyfO"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "We Don\u2019t Stop",
-        "url": "https://open.spotify.com/album/49COhQ043jM1vTH7VSFUlq"
+        "name": "Battlefield",
+        "url": "https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt"
       },
       "artists": [
         {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
         }
       ],
-      "duration_ms": 206866,
-      "name": "Joan of Arc on the Dance Floor",
-      "url": "https://open.spotify.com/track/7cYLxxt7szZ5tkOPVWZyfO"
+      "duration_ms": 241920,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1451,22 +1467,6 @@
       "duration_ms": 177946,
       "name": "Love You Like That",
       "url": "https://open.spotify.com/track/2IClzYyvgwrsmVVipYsx5T"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
-        "name": "Battlefield",
-        "url": "https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt"
-      },
-      "artists": [
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Battlefield",
-      "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Love Angel Music Baby (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/469RmLzEsicj8VSn9aIuKV"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Daddy AF",
         "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 151866,
       "name": "Daddy AF",
       "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Love Angel Music Baby (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/469RmLzEsicj8VSn9aIuKV"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Buzz",
-        "url": "https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na"
-      },
-      "artists": [
-        {
-          "name": "Steps",
-          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "It's the Way You Make Me Feel",
-      "url": "https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 255866,
       "name": "Holler",
       "url": "https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na"
+      },
+      "artists": [
+        {
+          "name": "Steps",
+          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "It's the Way You Make Me Feel",
+      "url": "https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 227346,
-      "name": "Call Your Girlfriend",
-      "url": "https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Dedicated",
         "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 166293,
       "name": "Want You In My Room",
       "url": "https://open.spotify.com/track/6cDPJqKw8PUBw5SigKszrL"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "Call Your Girlfriend",
+      "url": "https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2079,18 +2079,18 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/15qHh5U7v1DrA3Bk9M1jAu"
       },
       "artists": [
         {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+          "name": "Fefe Dobson",
+          "url": "https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ"
         }
       ],
-      "duration_ms": 194586,
-      "name": "Lost In My Bedroom",
-      "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
+      "duration_ms": 189680,
+      "name": "Stuttering",
+      "url": "https://open.spotify.com/track/7iMI1Z3h8H5UdKeA3rBqlP"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "Lost In My Bedroom",
+      "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
         "name": "Dedicated",
         "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 197093,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/7kG3DPhoPsltuT0vxENI6E"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/15qHh5U7v1DrA3Bk9M1jAu"
-      },
-      "artists": [
-        {
-          "name": "Fefe Dobson",
-          "url": "https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Stuttering",
-      "url": "https://open.spotify.com/track/7iMI1Z3h8H5UdKeA3rBqlP"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Rebel Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Ghosttown",
-      "url": "https://open.spotify.com/track/4yDLW1kpgN7RGa6wCtxlL8"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "What Are You Waiting For?",
         "url": "https://open.spotify.com/album/3MS1gNAz5pde4zfLKlALc3"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 461737,
       "name": "Greatest Hits Megamix",
       "url": "https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Rebel Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Ghosttown",
+      "url": "https://open.spotify.com/track/4yDLW1kpgN7RGa6wCtxlL8"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Move To This (Polydor Expanded Edition)",
-        "url": "https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c"
-      },
-      "artists": [
-        {
-          "name": "Cathy Dennis",
-          "url": "https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Touch Me (All Night Long) - 7\" Mix",
-      "url": "https://open.spotify.com/track/1XF7umKqStpKnL2d2YZ53V"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "American Girl",
         "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 224106,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Move To This (Polydor Expanded Edition)",
+        "url": "https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c"
+      },
+      "artists": [
+        {
+          "name": "Cathy Dennis",
+          "url": "https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Touch Me (All Night Long) - 7\" Mix",
+      "url": "https://open.spotify.com/track/1XF7umKqStpKnL2d2YZ53V"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2543,18 +2543,22 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Britney (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
+        "name": "OMG (with Carly Rae Jepsen)",
+        "url": "https://open.spotify.com/album/4JkXuSuTgVNPh7hBOhPXjz"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 196106,
-      "name": "Anticipating",
-      "url": "https://open.spotify.com/track/6dKYAtGciLRm8uOD1LiSVf"
+      "duration_ms": 215737,
+      "name": "OMG (with Carly Rae Jepsen)",
+      "url": "https://open.spotify.com/track/2j9YmQRxtjuVwb4XN95oT8"
     }
   ],
   "unique_name": "Deserved",

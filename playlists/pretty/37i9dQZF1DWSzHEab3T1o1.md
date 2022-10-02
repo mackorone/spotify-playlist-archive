@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzHEab3T1o1.md) - [plain]
 
 > El junte entre las estrellas del dance global y del urbano latino\. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,293 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,294 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

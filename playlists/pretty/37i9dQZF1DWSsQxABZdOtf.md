@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,480 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,502 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 37 | [Dololo](https://open.spotify.com/track/0P97eLqIGiLhWlW8qWLjn5) | [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu) | [Breaka 005](https://open.spotify.com/album/2SMmejG3bED5wPTzPMRUMX) | 4:56 |
 | 38 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 39 | [EZY](https://open.spotify.com/track/7E7WObW7491aQdu2sxq7jE) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ) | [EZY or Never](https://open.spotify.com/album/7B6jqGSeVRFEgwrTHZBQct) | 3:21 |
-| 40 | [Bussit](https://open.spotify.com/track/2rniJeDskk1s6xOcfio3RV) | [VV Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Bussit](https://open.spotify.com/album/0z5TThA7B6lgdk0z4uX4qB) | 2:50 |
+| 40 | [Bussit](https://open.spotify.com/track/2rniJeDskk1s6xOcfio3RV) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Bussit](https://open.spotify.com/album/0z5TThA7B6lgdk0z4uX4qB) | 2:50 |
 | 41 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 |
 | 42 | [No Time \(feat\. Nia Archives, Beenie Man, Cristale & ShaSimone\)](https://open.spotify.com/track/1ONDma4NENd2D7ig3HvJ1Z) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27), [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [No Time \(feat\. Nia Archives, Beenie Man, Cristale & ShaSimone\)](https://open.spotify.com/album/6RWLMGjUpEKOndzpfWVbVL) | 2:48 |
 | 43 | [VINEGAR HILL](https://open.spotify.com/track/0QqIz4Ut84n1hEqcqn7HSN) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [BADBOI](https://open.spotify.com/album/3ucILeyhjCVjm9Uy6g9tNu) | 3:03 |

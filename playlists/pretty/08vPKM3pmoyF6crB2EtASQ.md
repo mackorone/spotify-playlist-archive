@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/08vPKM3pmoyF6crB2EtASQ.md) - [plain]
 
 > Sometimes only music can describe that feeling...
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,093 likes - 33 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,096 likes - 33 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -197493,8 +197493,8 @@
           "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
         },
         {
-          "name": "Mario Charo",
-          "url": "https://open.spotify.com/artist/3dY8OCegSsYeG2ho3CmcTP"
+          "name": "Mario Reyes",
+          "url": "https://open.spotify.com/artist/0MNovidyopz59Kcu16ot3v"
         }
       ],
       "date_added": "2022-09-30",
@@ -250648,6 +250648,28 @@
     },
     {
       "album": {
+        "name": "Don Malaa",
+        "url": "https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "The Game is Dead (with Tony Romera)",
+      "url": "https://open.spotify.com/track/4G9GQHAowiz2KNaJIHJpvd"
+    },
+    {
+      "album": {
         "name": "The Ghost",
         "url": "https://open.spotify.com/album/5xFwES8JLnwveYYFlQ3ENP"
       },
@@ -278869,7 +278891,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 278709,
       "name": "Wertzeung - Radio Edit",
       "url": "https://open.spotify.com/track/25muAqGzh4IDJEXuvJ7sun"

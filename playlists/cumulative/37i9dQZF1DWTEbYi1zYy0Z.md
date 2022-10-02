@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Kim Scott
 
-274 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
+275 songs - 19 hr 28 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Off The Top \- radio single](https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Off The Top](https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a) | 4:19 | 2022-09-23 |  |
 | [On the Money](https://open.spotify.com/track/2afEubhliVkGKvfwFcXDsA) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Smoke and Mirrors](https://open.spotify.com/album/5lSBlPnPALAylceUuFyI4z) | 3:51 | 2021-06-18 | 2022-07-28 |
 | [On The Move](https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [On The Move](https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS) | 4:10 | 2021-08-13 | 2022-09-17 |
+| [One More Night \- Single Edit](https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [One More Night](https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve) | 3:47 | 2022-09-23 |  |
 | [Open Portals](https://open.spotify.com/track/5DR5fiDRQmHIGJfzTnqaLM) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Open Portals](https://open.spotify.com/album/5tnH3LQps0UMpgKmETCZ1I) | 4:23 | 2021-07-12 | 2022-09-17 |
 | [Open Portals](https://open.spotify.com/track/6eqt7TkFU0a3gShpGFXyFn) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Open Portals](https://open.spotify.com/album/3XTAVcAJaGSN47yrAWK5N9) | 4:23 | 2021-07-12 | 2022-07-29 |
 | [Ordinary Days](https://open.spotify.com/track/5c7YEUJ3RB5yzD7WLZK7H0) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Ordinary Days](https://open.spotify.com/album/2iVU9lIpXfu1LCZUnvLs93) | 3:40 | 2021-04-02 | 2022-03-18 |
@@ -259,7 +260,7 @@
 | [The Winds of Change](https://open.spotify.com/track/4BwFSH3jSwvqx5SOP9Fxhr) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Fahir Atakoglu](https://open.spotify.com/artist/4zbXSXn32mW4u8p3sDFYc4) | [The Winds of Change](https://open.spotify.com/album/4PTqWXV53JV7KXwrqdIrzf) | 3:35 | 2021-05-21 | 2022-03-07 |
 | [There's Always Tomorrow](https://open.spotify.com/track/3NsKujm7IIHMpcjJ2Qtmo1) | [Darryl Williams](https://open.spotify.com/artist/0xt6LQSgPMxR8sdIUUtnQM) | [There's Always Tomorrow](https://open.spotify.com/album/0QmjDjJ3diT2GD3dBth8uK) | 4:09 | 2020-10-30 | 2022-03-15 |
 | [Think Critically](https://open.spotify.com/track/7td9QhTIGCmNMP1UCNIWdp) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Jonathan Wesley](https://open.spotify.com/artist/4PzdAdVyRd6Un66vHOD6st) | [Think Critically](https://open.spotify.com/album/3yqlMgLOD7vcIr709YGGt5) | 4:11 | 2022-02-18 | 2022-10-01 |
-| [Ticket to Pittsburgh](https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh](https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7) | 5:23 | 2022-04-29 |  |
+| [Ticket to Pittsburgh](https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh](https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7) | 5:23 | 2022-04-29 | 2022-10-02 |
 | [Tonic](https://open.spotify.com/track/6cgKf3UVdiMaFqDSaNDwnA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 4:17 | 2020-10-30 | 2022-03-18 |
 | [Tribute](https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Tribute](https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl) | 4:05 | 2022-08-26 |  |
 | [Tried and True](https://open.spotify.com/track/5nBPBnrLdedTDobt38Ysmn) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Faraway Place](https://open.spotify.com/album/1HrezZYFI96JpaFUMZwMb1) | 4:08 | 2021-07-30 | 2022-09-17 |

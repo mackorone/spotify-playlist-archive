@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 
 > Hillbilly and Rock music fusing together called Rockabilly!  Thankyouverymuch...
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,763 likes - 204 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,822 likes - 204 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

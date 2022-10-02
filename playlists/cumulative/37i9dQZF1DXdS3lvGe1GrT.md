@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Ally Evenson \| Visual Artist: Bailey Elder
 
-210 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
+211 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [The Movie of Us](https://open.spotify.com/track/7F1D9wnYqR3y6Gd5UkiTOj) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [The Movie of Us](https://open.spotify.com/album/1W6ErGuu81Pwr5Lh7h0nOG) | 3:24 | 2022-06-15 | 2022-09-15 |
 | [The Nether \(Face to Face\)](https://open.spotify.com/track/1ZyiraF9iIBB2t8bqNTCur) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Act 1 \(The Pilgrim\)](https://open.spotify.com/album/1SnEs7AsmFpDMReQxBq0EG) | 3:56 | 2022-09-21 |  |
 | [The Other Side \(As the Sun Comes Up\)](https://open.spotify.com/track/2Oni7JsrxjPxl7qDJwD8Kh) | [Lydia Kaseta](https://open.spotify.com/artist/0raB78RFxZwDhT8LQFtahl) | [The Other Side \(As the Sun Comes Up\)](https://open.spotify.com/album/2lIxAt8sf6wrmxoVeXbemm) | 4:01 | 2022-05-25 | 2022-07-21 |
-| [The Rain](https://open.spotify.com/track/3KVxxn1MoYkjAzDeRHYZo4) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [The Rain](https://open.spotify.com/album/60sdH7DgcslnoQSPLkf7BP) | 3:35 | 2022-09-07 |  |
+| [The Rain](https://open.spotify.com/track/0JLRbovJSwvjqh7wUyzPtc) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Call to Unknowns](https://open.spotify.com/album/2FZihRaczkHjLkc4ZT9gq4) | 3:35 | 2022-09-28 |  |
+| [The Rain](https://open.spotify.com/track/3KVxxn1MoYkjAzDeRHYZo4) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [The Rain](https://open.spotify.com/album/60sdH7DgcslnoQSPLkf7BP) | 3:35 | 2022-09-07 | 2022-10-02 |
 | [The Rain](https://open.spotify.com/track/4ZjmO3VLkevYjo4N5aqwDs) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [The Rain](https://open.spotify.com/album/683LKwHOBcDXIb3Mm7t0k6) | 3:35 | 2022-05-25 | 2022-09-15 |
 | [The Trout Drive](https://open.spotify.com/track/53NqCFOhe8bmrgT1Bpfn29) | [Brittle Brian](https://open.spotify.com/artist/4CfYfkJD8Q8ct0nAi0S83z) | [Biodiesel](https://open.spotify.com/album/2pcbZi4lBGfNGhkCbiqnY3) | 2:41 | 2022-09-21 |  |
 | [This One](https://open.spotify.com/track/4fSiniHj00kpr1ZCFsUUYe) | [M Ross Perkins](https://open.spotify.com/artist/4zo4TmNq5dxoBOCJLzkjtF) | [E Pluribus M Ross](https://open.spotify.com/album/2moDxyCYDwhyhmbiYepitc) | 4:15 | 2022-05-25 | 2022-08-04 |

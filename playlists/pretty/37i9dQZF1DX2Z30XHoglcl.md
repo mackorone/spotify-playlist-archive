@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z30XHoglcl.md) - [plain]
 
 > EDM's ever stable <a href="spotify:artist:0CbeG1224FS58EUx4tPevZ">Timmy Trumpet</a>  spins his favorite summer anthems in his most recent mix for Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,466 likes - 31 songs - 59 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,612 likes - 31 songs - 59 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

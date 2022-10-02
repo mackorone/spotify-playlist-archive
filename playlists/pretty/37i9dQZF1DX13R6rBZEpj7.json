@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 176402,
+  "num_followers": 176472,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMDYxMjQ3YWE1MTNmMmEyMmY4OTNjN2JlYjk5YjMzYWQ1",
+  "snapshot_id": "MTY2Mzk0NTM4MywwMDAwMDAwMDU0NThkZTRkZjAyN2ZmMDE0YzYxMzk2NWEyNjBiYTY3",
   "tracks": [
     {
       "added_at": "2022-09-23 15:03:03",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ"
+      },
+      "artists": [
+        {
+          "name": "KDYN",
+          "url": "https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
         "name": "Skanker",
         "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 227189,
       "name": "Skanker",
       "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ"
-      },
-      "artists": [
-        {
-          "name": "KDYN",
-          "url": "https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Solid Ground",
-      "url": "https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
+        "name": "U Get Me",
+        "url": "https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko"
+      },
+      "artists": [
+        {
+          "name": "Livsey",
+          "url": "https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL"
+        }
+      ],
+      "duration_ms": 322206,
+      "name": "U Get Me",
+      "url": "https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 169385,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
-        "name": "U Get Me",
-        "url": "https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko"
-      },
-      "artists": [
-        {
-          "name": "Livsey",
-          "url": "https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL"
-        }
-      ],
-      "duration_ms": 322206,
-      "name": "U Get Me",
-      "url": "https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Don't You Know",
-        "url": "https://open.spotify.com/album/5jbbD9G6JTkkRrRhgZ7fJt"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 215282,
-      "name": "Don't You Know",
-      "url": "https://open.spotify.com/track/3gArWjWhVzXjHDTDhArTVE"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Hard Hitters",
         "url": "https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 232602,
       "name": "Hard Hitters",
       "url": "https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
+        "name": "Don't You Know",
+        "url": "https://open.spotify.com/album/5jbbD9G6JTkkRrRhgZ7fJt"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "duration_ms": 215282,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/3gArWjWhVzXjHDTDhArTVE"
     },
     {
       "added_at": "2022-09-23 15:03:03",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Live It Up",
-        "url": "https://open.spotify.com/album/23JOrfgEKJvYNrFCdSoTDw"
-      },
-      "artists": [
-        {
-          "name": "A.2.Z",
-          "url": "https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ"
-        }
-      ],
-      "duration_ms": 240004,
-      "name": "Live It Up",
-      "url": "https://open.spotify.com/track/5ghFZ07jKDue7T8oPbh9nt"
-    },
-    {
-      "added_at": "2022-09-23 15:03:03",
-      "album": {
         "name": "Amazon Prime",
         "url": "https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9"
       },
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/23JOrfgEKJvYNrFCdSoTDw"
+      },
+      "artists": [
+        {
+          "name": "A.2.Z",
+          "url": "https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ"
+        }
+      ],
+      "duration_ms": 240004,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/5ghFZ07jKDue7T8oPbh9nt"
+    },
+    {
+      "added_at": "2022-09-23 15:03:03",
+      "album": {
         "name": "Donny Don",
         "url": "https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr"
       },
@@ -1323,22 +1323,22 @@
     {
       "added_at": "2022-09-23 15:03:03",
       "album": {
-        "name": "Kombat / 144",
-        "url": "https://open.spotify.com/album/0PgR6HhGpJ3jQvkWNNm50n"
+        "name": "Perfect Crime",
+        "url": "https://open.spotify.com/album/6SKhGRv1ihw34UnldrZIbV"
       },
       "artists": [
         {
-          "name": "Albzzy",
-          "url": "https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ"
+          "name": "Spence",
+          "url": "https://open.spotify.com/artist/12QXpIHNMNQzZaCfBTVx0L"
         },
         {
-          "name": "Griz-O",
-          "url": "https://open.spotify.com/artist/11FUGhExWgQVPjgTvblbHQ"
+          "name": "S-70",
+          "url": "https://open.spotify.com/artist/2ADNw1kE3nu2uXTtEodACQ"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Kombat",
-      "url": "https://open.spotify.com/track/7ug5Dlrb7MwL8QuddTglKB"
+      "duration_ms": 210001,
+      "name": "Perfect Crime",
+      "url": "https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J"
     }
   ],
   "unique_name": "Bassline Bangers",

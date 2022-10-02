@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 125807,
+  "num_followers": 126019,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMDQzYzI5MTI2ZTdhYWM2ZTQyNDQ4NjI4ZmUwYjZjYmI0",
+  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMGM3ZGQ0NmY0Nzc2MmJhM2E0OTEwNDRmZGNjNzU1MmU4",
   "tracks": [
     {
       "added_at": "2022-07-29 13:33:43",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Beethoven: The Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 602746,
-      "name": "Piano Sonata No. 21 in C Major, Op. 53, \"Waldstein\": I. Allegro con brio",
-      "url": "https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Field: Complete Nocturnes",
         "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
       },
@@ -863,6 +843,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Beethoven: The Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 602746,
+      "name": "Piano Sonata No. 21 in C Major, Op. 53, \"Waldstein\": I. Allegro con brio",
+      "url": "https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
         "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
       },
@@ -879,6 +879,26 @@
       "duration_ms": 194000,
       "name": "Lieder ohne Worte, Op. 19, No. 1",
       "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Liszt Complete Piano Music, Vol. 6: Complete Song Transcriptions of Chopin, Mendelssohn and Robert & Clara Schumann",
+        "url": "https://open.spotify.com/album/4ajLFz7v94SsoNAPY5zCMF"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Joseph Banowetz",
+          "url": "https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo"
+        }
+      ],
+      "duration_ms": 199066,
+      "name": "Mendelssohns Lieder, S. 547: Auf Flugeln des Gesanges (from Op. 34, No. 2)",
+      "url": "https://open.spotify.com/track/3Mb9IoWbfxU27yEdxAUEDp"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -927,26 +947,6 @@
       "duration_ms": 98320,
       "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
       "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Liszt Complete Piano Music, Vol. 6: Complete Song Transcriptions of Chopin, Mendelssohn and Robert & Clara Schumann",
-        "url": "https://open.spotify.com/album/4ajLFz7v94SsoNAPY5zCMF"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Joseph Banowetz",
-          "url": "https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo"
-        }
-      ],
-      "duration_ms": 199066,
-      "name": "Mendelssohns Lieder, S. 547: Auf Flugeln des Gesanges (from Op. 34, No. 2)",
-      "url": "https://open.spotify.com/track/3Mb9IoWbfxU27yEdxAUEDp"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1111,6 +1111,30 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Borodin: Prince Igor (Highlights) / In the Steppes of Central Asia",
+        "url": "https://open.spotify.com/album/7EvHAkgN8py1HEVvUtszxy"
+      },
+      "artists": [
+        {
+          "name": "Alexander Borodin",
+          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
+        },
+        {
+          "name": "Ukraine National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5pqxSFve9m0SJub8CczKg9"
+        },
+        {
+          "name": "Theodore Kuchar",
+          "url": "https://open.spotify.com/artist/7oFubvRIriTCF1yfzJm5RC"
+        }
+      ],
+      "duration_ms": 448560,
+      "name": "In the Steppes of Central Asia",
+      "url": "https://open.spotify.com/track/4KqnNrqtlD8x4jHbYFsewL"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Bruch, Brahms & Schubert: Chamber Works",
         "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
@@ -1199,26 +1223,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Borodin: Prince Igor (Highlights) / In the Steppes of Central Asia",
-        "url": "https://open.spotify.com/album/7EvHAkgN8py1HEVvUtszxy"
+        "name": "The Scottish Baroque Ensemble in Concert",
+        "url": "https://open.spotify.com/album/4Q7sZi75sNNcRyU1d3TqaE"
       },
       "artists": [
         {
-          "name": "Alexander Borodin",
-          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
-          "name": "Ukraine National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5pqxSFve9m0SJub8CczKg9"
+          "name": "The Scottish Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/3SoX23B99MUwEpfYNdLlav"
         },
         {
-          "name": "Theodore Kuchar",
-          "url": "https://open.spotify.com/artist/7oFubvRIriTCF1yfzJm5RC"
+          "name": "Leonard Friedman",
+          "url": "https://open.spotify.com/artist/5Ev9SoBzNe0BV3R9qgaeoH"
         }
       ],
-      "duration_ms": 448560,
-      "name": "In the Steppes of Central Asia",
-      "url": "https://open.spotify.com/track/4KqnNrqtlD8x4jHbYFsewL"
+      "duration_ms": 89400,
+      "name": "Haydn: Twelve Little Divertimenti: Menuet: Un poco allegretto",
+      "url": "https://open.spotify.com/track/2K01jEOja47eLwJsh1j3ZK"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1251,26 +1275,22 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "The Scottish Baroque Ensemble in Concert",
-        "url": "https://open.spotify.com/album/4Q7sZi75sNNcRyU1d3TqaE"
+        "name": "Bach, C.P.E.: Sonatas & Rondos",
+        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
       },
       "artists": [
         {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
         },
         {
-          "name": "The Scottish Baroque Ensemble",
-          "url": "https://open.spotify.com/artist/3SoX23B99MUwEpfYNdLlav"
-        },
-        {
-          "name": "Leonard Friedman",
-          "url": "https://open.spotify.com/artist/5Ev9SoBzNe0BV3R9qgaeoH"
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
         }
       ],
-      "duration_ms": 89400,
-      "name": "Haydn: Twelve Little Divertimenti: Menuet: Un poco allegretto",
-      "url": "https://open.spotify.com/track/2K01jEOja47eLwJsh1j3ZK"
+      "duration_ms": 187000,
+      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
+      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1299,26 +1319,6 @@
       "duration_ms": 221000,
       "name": "3 Gymnopedies (orch. Debussy): Gymnopedie No. 2",
       "url": "https://open.spotify.com/track/2euauaTvztPp2Ae6rCeTri"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Bach, C.P.E.: Sonatas & Rondos",
-        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
-      },
-      "artists": [
-        {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
-      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
     },
     {
       "added_at": "2022-07-29 13:33:43",

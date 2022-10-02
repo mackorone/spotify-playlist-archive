@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,872 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,902 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 60 | [Esperaré por Ti](https://open.spotify.com/track/36Rix2ddUNOg7eMJOEGxNk) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Esperaré por Ti](https://open.spotify.com/album/4OptL4DWShK5i4P1XP6V2Y) | 3:50 |
 | 61 | [Murderah](https://open.spotify.com/track/70IHmmLDvJD2wzdqkbIjLi) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Murderah](https://open.spotify.com/album/5fGkMu6qo9R5kzH5Nsss7T) | 4:57 |
 | 62 | [Renace](https://open.spotify.com/track/02nx5tMIZ9upPdoyt6zhWD) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Renace](https://open.spotify.com/album/6Jps3FkjuosN5ARZuQ56MQ) | 2:31 |
-| 63 | [Otra Pa' Mi Cuenta](https://open.spotify.com/track/7kCRdqtRVssyEZEfUSECWZ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Otra Pa' Mi Cuenta \- Single](https://open.spotify.com/album/0UGuJH97dHiHsQTUpy6puf) | 2:50 |
+| 63 | [Otra Pa' Mi Cuenta](https://open.spotify.com/track/7kCRdqtRVssyEZEfUSECWZ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Andrade A.K.A Doble A](https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU) | [Otra Pa' Mi Cuenta](https://open.spotify.com/album/0UGuJH97dHiHsQTUpy6puf) | 2:50 |
 | 64 | [De la Cuna al Ataud](https://open.spotify.com/track/6IvOJYhT1frsjHtYQYHKhl) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Full Nelson](https://open.spotify.com/artist/4R98y7MxLluiK7NVDB3Ur9) | [Real](https://open.spotify.com/album/5if6wXKwPFKHXfjA1TlkD5) | 4:10 |
 | 65 | [Noicanicula](https://open.spotify.com/track/3IalZWzPrxDvh3n2hNBSKI) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H) | [El Ataque del Metano](https://open.spotify.com/album/6hKScNAjmff6t6l2qLCHhL) | 4:10 |
 | 66 | [Coctel Espacial](https://open.spotify.com/track/1JySgFKxTEWqfzoxWZd33U) | [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4) | [Coctel Espacial](https://open.spotify.com/album/4wnzzKCaQ0yYYDVHNV0tBk) | 3:46 |

@@ -5116,6 +5116,28 @@
     },
     {
       "album": {
+        "name": "Liquid Sunshine EP (Deluxe)",
+        "url": "https://open.spotify.com/album/0pRt5aWOm5gBpoEbIIgzt5"
+      },
+      "artists": [
+        {
+          "name": "Devan",
+          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
+        },
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187155,
+      "name": "nascar",
+      "url": "https://open.spotify.com/track/0vdt3nHBSYvrfb0hWtBOcp"
+    },
+    {
+      "album": {
         "name": "nascar",
         "url": "https://open.spotify.com/album/0wYN2O7hrc3FqrbOfNh6xk"
       },
@@ -5131,7 +5153,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 187155,
       "name": "nascar",
       "url": "https://open.spotify.com/track/42r7K7a8732waijtnMC5m2"

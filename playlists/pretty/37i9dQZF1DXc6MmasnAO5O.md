@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6MmasnAO5O.md) - [plain]
 
 > <a href="spotify:artist:7zm3aSdmGiOkTt0aZFSO8R">Wax Motif</a> transports us to a house\-filled rave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,641 likes - 24 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,651 likes - 24 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

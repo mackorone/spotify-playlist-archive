@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbumjq5gXqxO.md) - [plain]
 
 > Check out the Official Hustle Playlist\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482 likes - 23 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,491 likes - 23 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALixlKf7N8.md) - [plain]
 
 > A collection of fairy tales and kids' stories perfect for bedtime and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,922 likes - 47 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,919 likes - 47 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

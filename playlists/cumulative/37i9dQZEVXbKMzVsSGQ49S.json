@@ -2707,7 +2707,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -4377,7 +4377,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 252387,
       "name": "Esjan",
       "url": "https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV"
@@ -4431,7 +4431,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
@@ -9388,6 +9388,24 @@
     },
     {
       "album": {
+        "name": "St\u00f3r agnar\u00f6gn",
+        "url": "https://open.spotify.com/album/3kD0eb4wgmccYXYOhFZoL1"
+      },
+      "artists": [
+        {
+          "name": "Prins P\u00f3l\u00f3",
+          "url": "https://open.spotify.com/artist/3SCvYjD7RLGzPh0ZtUqw66"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242626,
+      "name": "Leyndarm\u00e1l",
+      "url": "https://open.spotify.com/track/3xZqkHSaEnnSaauDoLPGdN"
+    },
+    {
+      "album": {
         "name": "Le\u00f0urblaka",
         "url": "https://open.spotify.com/album/7IfByQgrVsFjB9mvhEeskr"
       },
@@ -11375,6 +11393,24 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "album": {
+        "name": "Jukk",
+        "url": "https://open.spotify.com/album/3dWjxQ8lVPTHNTNUG6asCg"
+      },
+      "artists": [
+        {
+          "name": "Prins P\u00f3l\u00f3",
+          "url": "https://open.spotify.com/artist/3SCvYjD7RLGzPh0ZtUqw66"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183480,
+      "name": "Ni\u00f0r\u00e1 Str\u00f6nd",
+      "url": "https://open.spotify.com/track/7Edh8xsa1KsjzYpDwyfUHK"
     },
     {
       "album": {
@@ -13441,7 +13477,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 176618,
       "name": "R\u00f3sin",
       "url": "https://open.spotify.com/track/6pl6s8A3YRX3CKSEFGbKbM"
@@ -16110,6 +16146,24 @@
     },
     {
       "album": {
+        "name": "Sorr\u00ed",
+        "url": "https://open.spotify.com/album/4IfdSHUr2jtFSPjXSurD84"
+      },
+      "artists": [
+        {
+          "name": "Prins P\u00f3l\u00f3",
+          "url": "https://open.spotify.com/artist/3SCvYjD7RLGzPh0ZtUqw66"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187228,
+      "name": "Tipp Topp",
+      "url": "https://open.spotify.com/track/2GdRbQ0zqZgbuyIYEThkeu"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -16799,7 +16853,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 196709,
       "name": "Vikivaki",
       "url": "https://open.spotify.com/track/1PpVP5oRzfz0qFWlRnEU3b"
@@ -18338,6 +18392,24 @@
     },
     {
       "album": {
+        "name": "\u00c9g var ekki \u00fear",
+        "url": "https://open.spotify.com/album/6sZXTEQOi3OE42pz9kDgKq"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3n J\u00f3nsson",
+          "url": "https://open.spotify.com/artist/2mgonCuv2QEZZbPOatCbyu"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229839,
+      "name": "\u00c9g var ekki \u00fear",
+      "url": "https://open.spotify.com/track/42JvUP9kdBuBnJQxT3uOXv"
+    },
+    {
+      "album": {
         "name": "T\u00edu \u00edslensk s\u00f6ngl\u00f6g",
         "url": "https://open.spotify.com/album/6HTSPl3aLjmfBZPhcpIMKb"
       },
@@ -18809,7 +18881,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-02",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

@@ -1,6 +1,6 @@
 {
   "description": "A heart-pumping, bass-filled DJ mix from <a href=\"spotify:artist:3UCbp6D1lvILlxRJT9LnFa\">Koven</a>.",
-  "num_followers": 6088,
+  "num_followers": 6104,
   "original_name": "Koven's DJ Mix",
   "owner": {
     "name": "Spotify",
@@ -80,12 +80,12 @@
       },
       "artists": [
         {
-          "name": "Holy Goof",
-          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
-        },
-        {
           "name": "Takura",
           "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+        },
+        {
+          "name": "Holy Goof",
+          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
         }
       ],
       "duration_ms": 90000,

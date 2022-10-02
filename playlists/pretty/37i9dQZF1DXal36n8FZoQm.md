@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,635 likes - 143 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,725 likes - 143 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 43 | [Dinner For Two](https://open.spotify.com/track/2KkuQEFHO2f3C3Z9fsgUKj) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb) | [Cocktail Hour](https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4) | 4:32 |
 | 44 | [A Storm of Senseis](https://open.spotify.com/track/1z42EWv0uIgy4P132bkGMV) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0g3Il2Pkxk4M941pOoGTQn) | 2:24 |
 | 45 | [We’re Not Harming Anyone](https://open.spotify.com/track/1YyfiBy4RDLC9FPGHHFt28) | [Teddy Mac](https://open.spotify.com/artist/3Xn49Qihn5s2xmV3F8pO6N), [Midnight Swami](https://open.spotify.com/artist/1jQtOWiZrQWEei6yyCx53B), [Blake Blumenthal](https://open.spotify.com/artist/5vYRJLaZhqOVpaHL8Ow85Z) | [Noise Rock 2](https://open.spotify.com/album/4UdP6rUiljyhEuR9EJooRs) | 3:10 |
-| 46 | [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 |
+| 46 | [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 |
 | 47 | [Yeah We Do It Like](https://open.spotify.com/track/3xkI9xyUrkl5UnQR8UpIus) | [Lee Richardson](https://open.spotify.com/artist/16BxOX67lWcQpiglrMa2HY), [Jonathan Murrill](https://open.spotify.com/artist/1koTy008UTQlXfupIGp0q5), [Tom Ford](https://open.spotify.com/artist/16Hec1v49TSJCAwuXYcPn1), [James Cocozza](https://open.spotify.com/artist/2MqahmsaUt6ZQhBDC4moBR) | [Perc Pop 2](https://open.spotify.com/album/3FIG7MhtpdvkjRlFX8TOU4) | 2:23 |
 | 48 | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 3:51 |
 | 49 | [Divide and Conquer](https://open.spotify.com/track/04ogUiDHLHbxNYQemPB8ju) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0g3Il2Pkxk4M941pOoGTQn) | 0:59 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 105 | [Hallway Hellscape](https://open.spotify.com/track/6pzEnYa4JMd0b8pemXQY0S) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 2 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V) | 3:36 |
 | 106 | [Miyagi Metal](https://open.spotify.com/track/35gOPH2fuxgGdrDvnmZBK4) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC) | 2:15 |
 | 107 | [Highway Down](https://open.spotify.com/track/4QifC5kFkaDACx0vbfDwQo) | [I See Hawks In L.A.](https://open.spotify.com/artist/1b5IKVz30ek0dp7zFOUdcQ) | [Hallowed Ground](https://open.spotify.com/album/7wbNlBcZ0b04oW8TwBfxLX) | 5:14 |
-| 108 | [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 |
+| 108 | [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 |
 | 109 | [The Cobra Effect](https://open.spotify.com/track/5rIPiNfzGNsycXlt5r5P26) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC) | 2:33 |
 | 110 | [Christmas Wrapping](https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl) | [The Waitresses](https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8) | [The Best Of The Waitresses](https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU) | 5:20 |
 | 111 | [Open Arms](https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 3:22 |

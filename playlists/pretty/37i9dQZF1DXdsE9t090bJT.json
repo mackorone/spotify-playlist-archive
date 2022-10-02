@@ -1,12 +1,12 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 15780,
+  "num_followers": 15827,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMGMwODRkZWQ2YWEzNzA1Y2NkMWE4NDJhMzgwODU4MTcx",
+  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMGZjNGVmMzM0OTFjOGI2OTNkNmE1YTU3ZDZlMzY2ZDJl",
   "tracks": [
     {
       "added_at": "2022-02-11 20:24:54",
@@ -65,7 +65,7 @@
       "artists": [
         {
           "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/5U8FVQFiugMolJ7DEEDOdf"
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
       "duration_ms": 208160,
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 287277,
-      "name": "Te Quiero para Mi\u0301",
-      "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 205386,
       "name": "Qu\u00e9 Bueno Es Tenerte",
       "url": "https://open.spotify.com/track/5tHTGILurH1rAclKt78TQC"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 287277,
+      "name": "Te Quiero para Mi\u0301",
+      "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "M\u00e1gicos Besitos",
-        "url": "https://open.spotify.com/album/6AxursUWda3oqOG2s2slfi"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "M\u00e1gicos Besitos",
-      "url": "https://open.spotify.com/track/6GrslZ2M4rznB4dnQbVuNq"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Dejame Decir",
         "url": "https://open.spotify.com/album/5xO35NsDA3TfOdAZQjfyUJ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 217703,
       "name": "Dejame Decir",
       "url": "https://open.spotify.com/track/7r4TISG81dgI6DEuwGVNoK"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "M\u00e1gicos Besitos",
+        "url": "https://open.spotify.com/album/6AxursUWda3oqOG2s2slfi"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "M\u00e1gicos Besitos",
+      "url": "https://open.spotify.com/track/6GrslZ2M4rznB4dnQbVuNq"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "En Vivo Desde El Rancho San Vicente",
-        "url": "https://open.spotify.com/album/3QETPQ631SSr84mDHE44WA"
-      },
-      "artists": [
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Me Gustas - Live",
-      "url": "https://open.spotify.com/track/00LcgzrjBcR2VcvBC7B7jB"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "El 7 De La Suerte",
         "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 196048,
       "name": "No Te Voy a Enga\u00f1ar",
       "url": "https://open.spotify.com/track/5MqeIXeVi4oMnyrtLFVUVh"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "En Vivo Desde El Rancho San Vicente",
+        "url": "https://open.spotify.com/album/3QETPQ631SSr84mDHE44WA"
+      },
+      "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Me Gustas - Live",
+      "url": "https://open.spotify.com/track/00LcgzrjBcR2VcvBC7B7jB"
     },
     {
       "added_at": "2022-02-11 20:24:54",

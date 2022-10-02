@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6nc9KYeHHP.md) - [plain]
 
 > The rising star <a href="spotify:artist:3oKnyRhYWzNsTiss5n4Z1J">LP Giobbi</a> brings us a shining DJ mix full of piano melodies, a signature of this talented producer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192 likes - 16 songs - 58 min 19 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,205 likes - 16 songs - 58 min 19 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

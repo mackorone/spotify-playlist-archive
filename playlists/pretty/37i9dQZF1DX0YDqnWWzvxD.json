@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 45267,
+  "num_followers": 45337,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU5NTgwNywwMDAwMDAwMGQ3Mzc1OTljYzFlNGZiYzNjMDhkZGFjMWY5NjQyZmE5",
+  "snapshot_id": "MTY1OTU5NTgwNywwMDAwMDAwMDdiMWY0NDkwN2Y1MWU0ZTg3NTBmNGU0NjQ1ZTA1M2Vl",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Leviathan",
-        "url": "https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz"
-      },
-      "artists": [
-        {
-          "name": "Dean Delaux",
-          "url": "https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0"
-        }
-      ],
-      "duration_ms": 144845,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Benny Bernstein",
         "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 154246,
       "name": "Conscious Jorney",
       "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Leviathan",
+        "url": "https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz"
+      },
+      "artists": [
+        {
+          "name": "Dean Delaux",
+          "url": "https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0"
+        }
+      ],
+      "duration_ms": 144845,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO"
-      },
-      "artists": [
-        {
-          "name": "Benny Bernstein",
-          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
-        }
-      ],
-      "duration_ms": 165920,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
       },
@@ -287,22 +271,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Flying",
-        "url": "https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P"
-      },
-      "artists": [
-        {
-          "name": "Garth Stevenson",
-          "url": "https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka"
-        }
-      ],
-      "duration_ms": 239367,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/4TUXZLGOSPiDibFtUsdXXB"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Live In Love, Vol. 2",
         "url": "https://open.spotify.com/album/4jBwmGefP4zLBpJ3UN1gC2"
       },
@@ -315,6 +283,38 @@
       "duration_ms": 360480,
       "name": "Closing Meditation",
       "url": "https://open.spotify.com/track/1d25xxmGKe134EkAn9s6AG"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO"
+      },
+      "artists": [
+        {
+          "name": "Benny Bernstein",
+          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
+        }
+      ],
+      "duration_ms": 165920,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Flying",
+        "url": "https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P"
+      },
+      "artists": [
+        {
+          "name": "Garth Stevenson",
+          "url": "https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka"
+        }
+      ],
+      "duration_ms": 239367,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/4TUXZLGOSPiDibFtUsdXXB"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Ragas Relax",
-        "url": "https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj"
-      },
-      "artists": [
-        {
-          "name": "Chinmaya Dunster",
-          "url": "https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY"
-        }
-      ],
-      "duration_ms": 399666,
-      "name": "Goddess Evocation",
-      "url": "https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Pamanyungan",
         "url": "https://open.spotify.com/album/1OlZjnAiLGv7MqlHG12hVH"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 512413,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/2A78rXxV5JqAdHGVGG4QHC"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Ragas Relax",
+        "url": "https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj"
+      },
+      "artists": [
+        {
+          "name": "Chinmaya Dunster",
+          "url": "https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY"
+        }
+      ],
+      "duration_ms": 399666,
+      "name": "Goddess Evocation",
+      "url": "https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Re-Creating",
-        "url": "https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky"
-      },
-      "artists": [
-        {
-          "name": "Michel LeBond",
-          "url": "https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA"
-        }
-      ],
-      "duration_ms": 257648,
-      "name": "Spiritual Touch",
-      "url": "https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Spirit of Yoga",
         "url": "https://open.spotify.com/album/5t2MF4cYCAbNhcf3nfAD9N"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 913626,
       "name": "The Hierophant",
       "url": "https://open.spotify.com/track/5qgQww0z5pK4H07fhXaDzT"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Re-Creating",
+        "url": "https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky"
+      },
+      "artists": [
+        {
+          "name": "Michel LeBond",
+          "url": "https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA"
+        }
+      ],
+      "duration_ms": 257648,
+      "name": "Spiritual Touch",
+      "url": "https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Tokyo Drifting",
-        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
-      },
-      "artists": [
-        {
-          "name": "M. David",
-          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Tokyo Drifting",
-      "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Chill Me Out",
         "url": "https://open.spotify.com/album/3BliSukodJ2stxupt8uwNe"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 331632,
       "name": "Oxygen Bar",
       "url": "https://open.spotify.com/track/69pZpLNdwCZ6Ns1J0o2lRY"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Tokyo Drifting",
+        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
+      },
+      "artists": [
+        {
+          "name": "M. David",
+          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Tokyo Drifting",
+      "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Hyper Focus",
+        "url": "https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am"
+      },
+      "artists": [
+        {
+          "name": "Binary One",
+          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
+        }
+      ],
+      "duration_ms": 203555,
+      "name": "Attention Caller",
+      "url": "https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Zen Music for Relaxation Vol. 1 & 2",
         "url": "https://open.spotify.com/album/1BfQqPK7yJwwTsyfCyXrts"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Hyper Focus",
-        "url": "https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am"
-      },
-      "artists": [
-        {
-          "name": "Binary One",
-          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
-        }
-      ],
-      "duration_ms": 203555,
-      "name": "Attention Caller",
-      "url": "https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Relaxation and Meditation in Bollywood",
         "url": "https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "The Wait",
-        "url": "https://open.spotify.com/album/0XEsAcQHS96pDLpjoWmmJU"
-      },
-      "artists": [
-        {
-          "name": "Tao Lounge",
-          "url": "https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD"
-        }
-      ],
-      "duration_ms": 313574,
-      "name": "Holistic Water",
-      "url": "https://open.spotify.com/track/406MXMgqW4aHQ4G1rhCcF6"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "The Healing Touch - Music for Reiki and Meditation, Vol. 2",
         "url": "https://open.spotify.com/album/69jtcMWOhK48aAPC52ZRwp"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 903986,
       "name": "Spheres Of The Angels",
       "url": "https://open.spotify.com/track/6ioQi5nd8gxD2RE3iZqik1"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "The Wait",
+        "url": "https://open.spotify.com/album/0XEsAcQHS96pDLpjoWmmJU"
+      },
+      "artists": [
+        {
+          "name": "Tao Lounge",
+          "url": "https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD"
+        }
+      ],
+      "duration_ms": 313574,
+      "name": "Holistic Water",
+      "url": "https://open.spotify.com/track/406MXMgqW4aHQ4G1rhCcF6"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Zen Music for Massage: Tranquility & Total Relax, Ambient Nature Sounds, Gentle Touch, Relaxing Music",
+        "url": "https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA"
+      },
+      "artists": [
+        {
+          "name": "Memory Helper",
+          "url": "https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h"
+        }
+      ],
+      "duration_ms": 413999,
+      "name": "Calm Meditation",
+      "url": "https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Endless Meditation",
         "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
       },
@@ -1343,8 +1359,8 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Wellness Meditation Relaxation: Musical Images, Vol. 100",
-        "url": "https://open.spotify.com/album/7B1hCc6C6Eyx9mEmBbpeEc"
+        "name": "Reiki Mountains",
+        "url": "https://open.spotify.com/album/4XIQVj9V9Q2lHW5Vos4r2Z"
       },
       "artists": [
         {
@@ -1352,25 +1368,9 @@
           "url": "https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP"
         }
       ],
-      "duration_ms": 215472,
-      "name": "Hands of Love",
-      "url": "https://open.spotify.com/track/55451t84KLf0gqH8rXYyy6"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Zen Music for Massage: Tranquility & Total Relax, Ambient Nature Sounds, Gentle Touch, Relaxing Music",
-        "url": "https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA"
-      },
-      "artists": [
-        {
-          "name": "Memory Helper",
-          "url": "https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h"
-        }
-      ],
-      "duration_ms": 413999,
-      "name": "Calm Meditation",
-      "url": "https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I"
+      "duration_ms": 315493,
+      "name": "Approaching the North",
+      "url": "https://open.spotify.com/track/0YrE5p5ObxDRUhBJR3jyN2"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Jardin Zen - Musique Asiatique avec des Sons de la Nature",
-        "url": "https://open.spotify.com/album/0BDyiYJ5bgQZgyhyGYfGGM"
-      },
-      "artists": [
-        {
-          "name": "Qi Gong Academy",
-          "url": "https://open.spotify.com/artist/1rLdpcWvRjd4ug9jcPU0vN"
-        }
-      ],
-      "duration_ms": 322478,
-      "name": "Relaxation Music",
-      "url": "https://open.spotify.com/track/5idm6KAMf3ikeOaGSqMklt"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "#Sereneyogaselection",
         "url": "https://open.spotify.com/album/4eeFNXX0zjGWU5c5edlzPw"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 418011,
       "name": "Singing Wire",
       "url": "https://open.spotify.com/track/5iyaBre6AhiW8lia2oOols"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Jardin Zen - Musique Asiatique avec des Sons de la Nature",
+        "url": "https://open.spotify.com/album/0BDyiYJ5bgQZgyhyGYfGGM"
+      },
+      "artists": [
+        {
+          "name": "Qi Gong Academy",
+          "url": "https://open.spotify.com/artist/1rLdpcWvRjd4ug9jcPU0vN"
+        }
+      ],
+      "duration_ms": 322478,
+      "name": "Relaxation Music",
+      "url": "https://open.spotify.com/track/5idm6KAMf3ikeOaGSqMklt"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1503,8 +1503,8 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Reiki Mountains",
-        "url": "https://open.spotify.com/album/4XIQVj9V9Q2lHW5Vos4r2Z"
+        "name": "Wellness Meditation Relaxation: Musical Images, Vol. 100",
+        "url": "https://open.spotify.com/album/7B1hCc6C6Eyx9mEmBbpeEc"
       },
       "artists": [
         {
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP"
         }
       ],
-      "duration_ms": 315493,
-      "name": "Approaching the North",
-      "url": "https://open.spotify.com/track/0YrE5p5ObxDRUhBJR3jyN2"
+      "duration_ms": 215472,
+      "name": "Hands of Love",
+      "url": "https://open.spotify.com/track/55451t84KLf0gqH8rXYyy6"
     },
     {
       "added_at": "2021-06-15 08:38:14",
